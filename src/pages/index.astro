@@ -8,6 +8,7 @@ import { pricingPlans, usdPrice } from "@data/pricing/plans";
 import { Image } from "astro:assets";
 import heroImage from "../assets/images/heromain.png";
 import cricketTakenImg from "../assets/images/crickettaken.png";
+import baithakImg from "../assets/images/baithak-webinar.png";
 import cities from "@data/cities/cities.json";
 import type { CityListing } from "@data/cities/types";
 
@@ -224,7 +225,7 @@ const marquee = [
 
 const stats = [
   { value: 3, suffix: "", label: "Engineers you work with directly" },
-  { value: 5, suffix: "", label: "Months maintenance included free" },
+  { value: 2, suffix: "", label: "Months maintenance included free" },
   { value: 1000, suffix: "+", label: "Indian cities covered" },
   { value: 100, suffix: "%", label: "Code and content ownership" },
 ];
@@ -504,9 +505,9 @@ const professionalServiceSchema = {
     <div class="section-wrap">
       <div class="section-head">
         <p class="eyebrow">Our works / Proof of work</p>
-        <h2 id="works-heading">Featured live project: CricketTaken</h2>
+        <h2 id="works-heading">Featured live projects: CricketTaken and Baithak</h2>
         <p class="section-note">
-          A high-performance cricket records, dynamic scorecards & tournament analytics platform engineered for speed, deep data archiving, and organic sports search capture.
+          A high-performance cricket records, dynamic scorecards & tournament analytics platform engineered for speed, deep data archiving, and organic sports search capture, and a recent client build: a bilingual webinar registration page that sells seats and confirms them on WhatsApp.
         </p>
       </div>
 
@@ -643,6 +644,141 @@ const professionalServiceSchema = {
             <div class="metric-item">
               <span class="metric-val">&lt;400ms</span>
               <span class="metric-lbl">Page Speed</span>
+            </div>
+            <div class="metric-item">
+              <span class="metric-val">100%</span>
+              <span class="metric-lbl">Responsive</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Recent client project: Baithak webinar registration page -->
+      <div class="work-showcase">
+        <div class="work-details">
+          <div class="work-status-row">
+            <span class="live-pulse-badge">
+              <span class="pulse-dot"></span>
+              Recent client project
+            </span>
+            <span class="work-category">Landing Page &middot; Webinar Registration</span>
+          </div>
+
+          <h3 class="work-title">Baithak &mdash; Live Webinar Registration Page</h3>
+          <p class="work-desc">
+            Built for a course creator's live webinar: a Hindi and English registration page that sells seats, counts down to the session and hands every buyer over to WhatsApp for confirmation and reminders.
+          </p>
+
+          <div class="work-tabs" role="tablist" aria-label="Baithak project details">
+            <button class="work-tab active" data-work-tab="overview" role="tab" aria-selected="true" type="button">
+              Overview
+            </button>
+            <button class="work-tab" data-work-tab="features" role="tab" aria-selected="false" type="button">
+              Key Features
+            </button>
+            <button class="work-tab" data-work-tab="stack" role="tab" aria-selected="false" type="button">
+              Technical Stack
+            </button>
+          </div>
+
+          <div class="work-panels">
+            <div class="work-panel active" data-work-panel="overview" role="tabpanel">
+              <ul class="work-checklist">
+                <li>
+                  <strong>Conversion-first single page:</strong> Live countdown to the session, a seats-left banner, a register button that stays in reach and two ticket tiers.
+                </li>
+                <li>
+                  <strong>Bilingual copy:</strong> Hindi and English headlines, schedule and FAQs written for teachers, coaches and small creators.
+                </li>
+                <li>
+                  <strong>Everything a buyer checks:</strong> What you will learn, how it works, the session schedule, the host, reviews and answers to common doubts.
+                </li>
+              </ul>
+            </div>
+
+            <div class="work-panel" data-work-panel="features" role="tabpanel">
+              <ul class="work-checklist">
+                <li>
+                  <strong>UPI and card checkout:</strong> Seat and seat-plus-kit tiers paid by UPI, cards or net banking.
+                </li>
+                <li>
+                  <strong>WhatsApp confirmations:</strong> Payment and seat confirmation on WhatsApp, with the join link sent before the session starts.
+                </li>
+                <li>
+                  <strong>Pricing comparison:</strong> Side-by-side tiers so buyers see what the upgrade adds before they pay.
+                </li>
+              </ul>
+            </div>
+
+            <div class="work-panel" data-work-panel="stack" role="tabpanel">
+              <ul class="work-checklist">
+                <li>
+                  <strong>Next.js &amp; React:</strong> Component-built landing page with a live countdown and interactive sections.
+                </li>
+                <li>
+                  <strong>Mobile-first layout:</strong> Designed for buyers who arrive from WhatsApp links on their phones.
+                </li>
+                <li>
+                  <strong>Vercel hosting:</strong> Deployed on Vercel's global edge network for fast loads across India.
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="work-actions">
+            <a class="btn-primary" href="https://webinar-henna-pi.vercel.app/" target="_blank" rel="noopener noreferrer">
+              <span>View the live page</span>
+              <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+            </a>
+            <a class="btn-ghost" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+              <span>Discuss a similar project</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="work-mockup-wrapper">
+          <div class="browser-frame">
+            <div class="browser-bar">
+              <div class="browser-dots" aria-hidden="true">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+              <div class="browser-url">
+                <span class="lock-icon material-symbols-outlined" aria-hidden="true">lock</span>
+                https://webinar-henna-pi.vercel.app
+              </div>
+              <a class="browser-external-link" href="https://webinar-henna-pi.vercel.app/" target="_blank" rel="noopener noreferrer" title="Open the Baithak webinar page in new tab">
+                <span class="material-symbols-outlined" aria-hidden="true">open_in_new</span>
+              </a>
+            </div>
+
+            <a class="browser-viewport" href="https://webinar-henna-pi.vercel.app/" target="_blank" rel="noopener noreferrer">
+              <Image
+                src={baithakImg}
+                alt="Baithak — live webinar registration page with countdown, seat booking and WhatsApp confirmation"
+                loading="lazy"
+                class="work-cover-img"
+                widths={[640, 960, 1280]}
+                sizes="(max-width: 768px) 100vw, 50vw"
+              />
+              <div class="browser-overlay">
+                <span class="overlay-cta">
+                  <span>Open Live Project</span>
+                  <span class="btn-arrow">&rarr;</span>
+                </span>
+              </div>
+            </a>
+          </div>
+
+          <div class="work-metrics">
+            <div class="metric-item">
+              <span class="metric-val">2</span>
+              <span class="metric-lbl">Ticket Tiers</span>
+            </div>
+            <div class="metric-item">
+              <span class="metric-val">Hi + En</span>
+              <span class="metric-lbl">Bilingual Copy</span>
             </div>
             <div class="metric-item">
               <span class="metric-val">100%</span>
@@ -839,21 +975,24 @@ const professionalServiceSchema = {
 
 <script>
   // Interactive Tab Switcher for Proof of Work Section
+  // Scoped per showcase so each project's tabs only switch its own panels.
   const initWorkTabs = () => {
-    const tabs = document.querySelectorAll<HTMLButtonElement>('[data-work-tab]');
-    const panels = document.querySelectorAll<HTMLElement>('[data-work-panel]');
+    document.querySelectorAll<HTMLElement>('.work-showcase').forEach((showcase) => {
+      const tabs = showcase.querySelectorAll<HTMLButtonElement>('[data-work-tab]');
+      const panels = showcase.querySelectorAll<HTMLElement>('[data-work-panel]');
 
-    tabs.forEach((tab) => {
-      tab.addEventListener('click', () => {
-        const target = tab.getAttribute('data-work-tab');
-        tabs.forEach((t) => {
-          const isActive = t === tab;
-          t.classList.toggle('active', isActive);
-          t.setAttribute('aria-selected', isActive ? 'true' : 'false');
-        });
-        panels.forEach((panel) => {
-          const isMatch = panel.getAttribute('data-work-panel') === target;
-          panel.classList.toggle('active', isMatch);
+      tabs.forEach((tab) => {
+        tab.addEventListener('click', () => {
+          const target = tab.getAttribute('data-work-tab');
+          tabs.forEach((t) => {
+            const isActive = t === tab;
+            t.classList.toggle('active', isActive);
+            t.setAttribute('aria-selected', isActive ? 'true' : 'false');
+          });
+          panels.forEach((panel) => {
+            const isMatch = panel.getAttribute('data-work-panel') === target;
+            panel.classList.toggle('active', isMatch);
+          });
         });
       });
     });
@@ -1324,6 +1463,12 @@ const professionalServiceSchema = {
     grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr);
     gap: clamp(2.5rem, 5vw, 4.5rem);
     align-items: center;
+  }
+
+  .work-showcase + .work-showcase {
+    margin-top: clamp(3.5rem, 7vw, 5.5rem);
+    padding-top: clamp(3.5rem, 7vw, 5.5rem);
+    border-top: 1px solid var(--hairline);
   }
 
   .work-details {
