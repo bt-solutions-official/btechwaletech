@@ -1,0 +1,27 @@
+---
+import FreelancePage from "@components/freelance/FreelancePage.astro";
+import { gujarat } from "@data/places";
+import plan from "@data/gujarat/pages.json";
+import hub, { groups } from "@data/gujarat/hub";
+import type { FreelanceContent } from "@data/freelance/types";
+
+// Hub for the /gujarat/{service}/ pages: hand-written copy from hub.ts plus one table per service group,
+// built from the pages that exist, so every new Gujarat page is linked from here automatically.
+const built = new Map(
+  Object.values(import.meta.glob<{ default: FreelanceContent }>("../../data/gujarat/content/*.ts", { eager: true }))
+    .map(({ default: c }) => [c.path, c]),
+);
+const tables = groups
+  .map(({ key, ...g }) => ({
+    ...g,
+    columns: ["Page", "What it covers"],
+    rows: plan
+      .filter((p) => p.group === key)
+      .map((p) => built.get(`${gujarat.path}${p.slug}/`))
+      .filter((c): c is FreelanceContent => Boolean(c))
+      .map((c) => [`<a href='${c.path}'>${c.crumb}</a>`, c.meta.description]),
+  }))
+  .filter((t) => t.rows.length);
+---
+
+<FreelancePage content={{ ...hub, tables: [...hub.tables, ...tables] }} place={gujarat} />
