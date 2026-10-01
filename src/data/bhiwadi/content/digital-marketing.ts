@@ -13,10 +13,10 @@ const content: FreelanceContent = {
   crumb: "Digital marketing",
   updated: "2026-09-27",
   meta: {
-    title: "Digital Marketing Company in Bhiwadi: Meet One to One",
-    description: `Digital marketing company in Bhiwadi? Organic-led SEO, Google Business Profile, WhatsApp and tracking from ${P.seo} a month. We meet you one to one in Bhiwadi.`,
+    title: "Digital Marketing services in Bhiwadi: Meet One to One",
+    description: `Digital marketing services in Bhiwadi? Organic-led SEO, Google Business Profile, WhatsApp and tracking from ${P.seo} a month. We meet you one to one in Bhiwadi.`,
     keywords: [
-      "digital marketing company in Bhiwadi", "digital marketing Bhiwadi", "digital marketing near me", "digital marketing in Bhiwadi Rajasthan",
+      "digital marketing services in Bhiwadi", "digital marketing Bhiwadi", "digital marketing near me", "digital marketing in Bhiwadi Rajasthan",
       "digital marketing agency Bhiwadi", "digital marketing services Bhiwadi", "online marketing Bhiwadi", "digital marketing Bhiwadi Alwar",
       "digital marketing for factories Bhiwadi", "digital marketing Chopanki", "digital marketing Khushkhera", "digital marketing Tapukara",
       "digital marketing Neemrana", "digital marketing cost Bhiwadi", "digital marketing charges per month", "SEO and Google Business Profile Bhiwadi",
@@ -26,8 +26,8 @@ const content: FreelanceContent = {
   },
   hero: {
     eyebrow: "Digital marketing · Bhiwadi, Rajasthan",
-    h1: "Digital marketing company in Bhiwadi? An organic-first plan built around search, Google Maps and WhatsApp",
-    lede: `Looking for a digital marketing company in Bhiwadi usually means you want more calls, more WhatsApp enquiries and more walk-ins, not more likes. BtechWaleTech is three freelance developers who build that pipeline from the ground up: SEO, your Google Business Profile, a site that converts, WhatsApp follow-ups and tracking that shows which rupee brought which lead. We start by meeting you face to face in Bhiwadi, at your shop, unit or clinic. Monthly work starts at ${P.seo}; the <a href='/bhiwadi-rajasthan/'>Bhiwadi services hub</a> lists everything else.`,
+    h1: "Digital marketing services in Bhiwadi? An organic-first plan built around search, Google Maps and WhatsApp",
+    lede: `Looking for a freelance digital marketing team in Bhiwadi usually means you want more calls, more WhatsApp enquiries and more walk-ins, not more likes. BtechWaleTech is three freelance developers who build that pipeline from the ground up: SEO, your Google Business Profile, a site that converts, WhatsApp follow-ups and tracking that shows which rupee brought which lead. We start by meeting you face to face in Bhiwadi, at your shop, unit or clinic. Monthly work starts at ${P.seo}; the <a href='/bhiwadi-rajasthan/'>Bhiwadi services hub</a> lists everything else.`,
     pills: ["SEO first", "Google Business Profile", "WhatsApp follow-ups", "Content that answers buyers", "GA4 and conversion tracking", "Ads groundwork", "Meetings in person in Bhiwadi"],
     origin: "Three freelance developers · we sit down with you one to one in Bhiwadi · on WhatsApp every day",
   },
@@ -46,8 +46,8 @@ const content: FreelanceContent = {
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
-    heading: "What should a digital marketing company in Bhiwadi do for your business?",
-    text: `A good digital marketing company in Bhiwadi should make your business easy to find when people search, then turn that attention into enquiries you can count. For most local businesses and units that means SEO, a well-kept Google Business Profile, a fast website, WhatsApp follow-ups and tracking. With BtechWaleTech, monthly work starts at ${P.seo}, and every plan begins with a one-to-one meeting in Bhiwadi.`,
+    heading: "What should a freelance digital marketing team in Bhiwadi do for your business?",
+    text: `A good digital marketing partner in Bhiwadi should make your business easy to find when people search, then turn that attention into enquiries you can count. For most local businesses and units that means SEO, a well-kept Google Business Profile, a fast website, WhatsApp follow-ups and tracking. With BtechWaleTech, monthly work starts at ${P.seo}, and every plan begins with a one-to-one meeting in Bhiwadi.`,
     more: `If search is the main gap, go straight to <a href='/bhiwadi-rajasthan/seo-services/'>SEO services in Bhiwadi</a>; if map results matter most, read about <a href='/bhiwadi-rajasthan/local-seo/'>local SEO in Bhiwadi</a>.`,
   },
   snapshot: {
@@ -102,9 +102,9 @@ const content: FreelanceContent = {
   guide: [
     {
       id: "what-it-is",
-      heading: "What does a digital marketing company in Bhiwadi actually do?",
+      heading: "What does a freelance digital marketing team in Bhiwadi actually do?",
       paragraphs: [
-        `Digital marketing is every way a business gets found and chosen online: search results, Google Maps, its website, WhatsApp, email, social media and paid ads. A digital marketing company in Bhiwadi, or a freelance team like ours, should decide which of those channels your buyers really use, set them up properly, and show you each month how many enquiries each one produced.`,
+        `Digital marketing is every way a business gets found and chosen online: search results, Google Maps, its website, WhatsApp, email, social media and paid ads. Any digital marketing provider in Bhiwadi, whether an agency or a freelance team like ours, should decide which of those channels your buyers really use, set them up properly, and show you each month how many enquiries each one produced.`,
         `The word “company” in the search does not matter much; what matters is the approach. Some providers lead with ads because spend is easy to show. Others lead with social posts because they are visible. We lead with the channels that keep working when you stop paying: search, maps, a website that converts and a follow-up system on WhatsApp. Ads and social come later, when they have somewhere useful to send people.`,
       ],
       list: [
@@ -173,7 +173,7 @@ const content: FreelanceContent = {
       id: "whatsapp",
       heading: "How does WhatsApp fit into digital marketing in Bhiwadi?",
       paragraphs: [
-        `A digital marketing company in Bhiwadi that ignores WhatsApp misses the place where most local enquiries end up, whichever channel started them. So it belongs inside the marketing plan, not beside it. The basics are simple: a click-to-chat button on every page, a business profile with hours and catalogue, and quick replies for common questions.`,
+        `A freelance digital marketing team in Bhiwadi that ignores WhatsApp misses the place where most local enquiries end up, whichever channel started them. So it belongs inside the marketing plan, not beside it. The basics are simple: a click-to-chat button on every page, a business profile with hours and catalogue, and quick replies for common questions.`,
         `For businesses with more volume, the official WhatsApp Business API adds shared inboxes for several staff, automatic acknowledgements, template messages for reminders and updates, and chatbots that collect details before a person takes over. Meta’s <a href='https://whatsappbusiness.com/policy/' rel='noopener'>WhatsApp Business Messaging Policy</a> applies: people must opt in before receiving promotional messages, and templates need approval. We set it up within those rules, in your own Meta Business account. The <a href='/bhiwadi-rajasthan/whatsapp-business-api/'>WhatsApp Business API page for Bhiwadi</a> covers setup and costs; automation work starts at ${P.ai}.`,
         `What we avoid: bulk messages to purchased number lists. They get numbers blocked and damage trust with the local customers you most need.`,
       ],
@@ -191,7 +191,7 @@ const content: FreelanceContent = {
       id: "measurement",
       heading: "How do you measure digital marketing results?",
       paragraphs: [
-        `Any digital marketing company in Bhiwadi worth hiring should measure by enquiries and sales, traced back to their source. Followers, impressions and “reach” are easy to report and hard to bank. We set up measurement so that every call button, form, WhatsApp click and store order is recorded as a conversion, and each can be traced to search, maps, ads or a referral.`,
+        `Any digital marketing provider in Bhiwadi worth hiring should measure by enquiries and sales, traced back to their source. Followers, impressions and “reach” are easy to report and hard to bank. We set up measurement so that every call button, form, WhatsApp click and store order is recorded as a conversion, and each can be traced to search, maps, ads or a referral.`,
       ],
       list: [
         "Google Analytics 4 with conversion events for calls, forms and WhatsApp clicks",
@@ -208,7 +208,7 @@ const content: FreelanceContent = {
       id: "scope",
       heading: "What we do not do: an honest scope",
       paragraphs: [
-        `Plenty of businesses searching for a digital marketing company in Bhiwadi want everything under one roof. We are clear about where our work stops, so you can plan the rest.`,
+        `Plenty of businesses searching for a freelance digital marketing team in Bhiwadi want everything under one roof. We are clear about where our work stops, so you can plan the rest.`,
       ],
       list: [
         "Daily social media posting, reels and video shoots: not our focus; we can track and link what a creator produces",
@@ -223,27 +223,27 @@ const content: FreelanceContent = {
     },
     {
       id: "cost",
-      heading: "How much does a digital marketing company in Bhiwadi charge?",
+      heading: "How much does a freelance digital marketing team in Bhiwadi charge?",
       paragraphs: [
         `Charges vary widely between providers, depending on channels, content volume and whether ad management is included. With BtechWaleTech, monthly organic-led digital marketing starts at ${P.seo}. That covers SEO, your Google Business Profile and monthly reporting for a typical local business or small unit.`,
         `What adds to the monthly figure: more services or product lines to cover, more content written each month, Hindi and English versions, and several locations. One-off builds are quoted separately: a static website from ${P.site}, an SEO website of 299+ pages from ${P.seoSite}, an online store from ${P.shop}, WhatsApp or AI automation from ${P.ai}. Anything we build includes two months of free maintenance, then maintenance from ${P.care} if you want it.`,
-        `Ad spend is separate and always paid by you directly to the platform. When comparing quotes from any digital marketing company in Bhiwadi, ask for each line priced separately and check whether “management fees” are a percentage of ad spend. See our <a href='/pricing/'>starting prices</a> for every service.`,
+        `Ad spend is separate and always paid by you directly to the platform. When comparing quotes from any digital marketing provider in Bhiwadi, ask for each line priced separately and check whether “management fees” are a percentage of ad spend. See our <a href='/pricing/'>starting prices</a> for every service.`,
       ],
     },
     {
       id: "timeline",
       heading: "How long does digital marketing take to show results?",
       paragraphs: [
-        `Whether you hire a digital marketing company in Bhiwadi or a freelance team, some changes pay off within weeks: a corrected Google profile, a working WhatsApp button, faster replies to enquiries. SEO takes longer; steady growth in search enquiries typically shows over several months, depending on competition and how much content the site needs.`,
+        `Whether you hire an agency in Bhiwadi or a freelance team, some changes pay off within weeks: a corrected Google profile, a working WhatsApp button, faster replies to enquiries. SEO takes longer; steady growth in search enquiries typically shows over several months, depending on competition and how much content the site needs.`,
         `A typical first quarter runs like this. In the first two weeks, the meeting in Bhiwadi, account access, tracking setup and quick fixes to the profile and contact paths. In weeks three to six, core service or product pages rewritten or added, and the profile filled out with photos and posts. In the second and third months, new content from real buyer questions, review requests to happy customers, and the first proper report comparing enquiries by source.`,
         `After ninety days, you should be able to see which channels produced enquiries and decide where to put more effort. If a channel shows nothing after a fair trial, we say so and stop spending your money on it. When the site itself seems to be the problem, a one-off <a href='/bhiwadi-rajasthan/seo-audit/'>SEO audit</a> is a sensible first step before any monthly plan.`,
       ],
     },
     {
       id: "choose",
-      heading: "How to choose a digital marketing company in Bhiwadi: questions and red flags",
+      heading: "How to choose a freelance digital marketing team in Bhiwadi: questions and red flags",
       paragraphs: [
-        `Ask any digital marketing company in Bhiwadi, freelancer or agency, the same questions and compare the answers:`,
+        `Ask any digital marketing provider in Bhiwadi, freelancer or agency, the same questions and compare the answers:`,
       ],
       list: [
         "Which two or three channels would you start with for my business, and why?",
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
   },
   faqHeading: "Digital marketing in Bhiwadi: questions business owners ask",
   faqs: [
-    { question: "What does a digital marketing company in Bhiwadi do?", answer: "It helps customers find and choose your business online, through search results, Google Maps, your website, WhatsApp, social media, email and ads, and measures which channels produce enquiries. A good provider picks the channels your buyers use rather than selling every service. BtechWaleTech focuses on organic channels: SEO, Google Business Profile, website, WhatsApp follow-ups and tracking." },
+    { question: "What does a freelance digital marketing team in Bhiwadi do?", answer: "It helps customers find and choose your business online, through search results, Google Maps, your website, WhatsApp, social media, email and ads, and measures which channels produce enquiries. A good provider picks the channels your buyers use rather than selling every service. BtechWaleTech focuses on organic channels: SEO, Google Business Profile, website, WhatsApp follow-ups and tracking." },
     { question: "How much does digital marketing cost in Bhiwadi?", answer: `With BtechWaleTech, monthly organic-led digital marketing starts at ${P.seo}, covering SEO, Google Business Profile and reporting for a typical local business. One-off builds are separate: websites from ${P.site}, WhatsApp or AI automation from ${P.ai}. Ad budgets are paid by you directly to Google or Meta. You get an itemised quote in about two working days after the first meeting.` },
     { question: "Do you meet clients in Bhiwadi?", answer: "Yes. Every plan starts with a face-to-face meeting in Bhiwadi, at your shop, factory office, clinic, school or any place you prefer. We look at how enquiries reach you and who handles them. Send a message on WhatsApp or call with a suitable date and place, and we agree a time that works for both sides." },
     { question: "Can you visit our factory in Chopanki or Tapukara to discuss marketing?", answer: "Yes. Meeting at the factory is useful because we can see your products, talk to the sales head and understand which buyers matter most. Units in Chopanki, Tapukara, Khushkhera, Kaharani and the RIICO phases are all fine. Suggest a date on WhatsApp and we will confirm a time. Photos of the shop floor also help later for your Google profile." },

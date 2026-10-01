@@ -17,7 +17,7 @@ const content: FreelanceContent = {
     description: `Restaurant website design in Bhiwadi from ${P.site}: phone-friendly menus, your own ordering, Google Maps and factory lunch orders. We meet you one to one.`,
     keywords: [
       "restaurant website design in Bhiwadi", "restaurant website design Bhiwadi", "restaurant website designer near me", "restaurant website design in Bhiwadi Rajasthan",
-      "restaurant website Bhiwadi Alwar", "restaurant website developer Bhiwadi", "restaurant website design company Bhiwadi", "restaurant website services Bhiwadi",
+      "restaurant website Bhiwadi Alwar", "restaurant website developer Bhiwadi", "restaurant website design designer Bhiwadi", "restaurant website services Bhiwadi",
       "restaurant website cost Bhiwadi", "restaurant website price Bhiwadi", "cafe website design Bhiwadi", "cloud kitchen website Bhiwadi",
       "online food ordering website Bhiwadi", "restaurant ordering website without commission", "restaurant menu website Bhiwadi", "restaurant website Tapukara",
       "restaurant website Khushkhera", "restaurant website Chopanki", "restaurant website Neemrana", "restaurant ki website banwani hai Bhiwadi",

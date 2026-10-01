@@ -17,7 +17,7 @@ const content: FreelanceContent = {
     description: `Hotel website design in Bhiwadi from ${P.site}: direct booking, corporate rates for plant visitors and banquet enquiries. We meet you in person at the hotel.`,
     keywords: [
       "hotel website design in Bhiwadi", "hotel website design Bhiwadi", "hotel website designer near me", "hotel website design in Bhiwadi Rajasthan",
-      "hotel website Bhiwadi Alwar", "hotel website developer Bhiwadi", "hotel website design company Bhiwadi", "hotel website services Bhiwadi",
+      "hotel website Bhiwadi Alwar", "hotel website developer Bhiwadi", "hotel website design designer Bhiwadi", "hotel website services Bhiwadi",
       "hotel website design cost Bhiwadi", "hotel website price Bhiwadi", "hotel booking website Bhiwadi", "direct booking website for hotel",
       "banquet hall website Bhiwadi", "business hotel website Neemrana", "hotel website Tapukara", "hotel website Khushkhera",
       "hotel website Chopanki", "hotel website Dharuhera", "resort website design Neemrana", "hotel ki website banwani hai Bhiwadi",

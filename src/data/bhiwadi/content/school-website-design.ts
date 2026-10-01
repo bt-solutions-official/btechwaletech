@@ -17,7 +17,7 @@ const content: FreelanceContent = {
     description: `School website design in Bhiwadi from ${P.site}: admissions pages, notices, fee details and CBSE disclosures. We meet your principal one to one at the school.`,
     keywords: [
       "school website design in Bhiwadi", "school website design Bhiwadi", "school website designer near me", "school website design in Bhiwadi Rajasthan",
-      "school website Bhiwadi Alwar", "school website developer Bhiwadi", "school website design company Bhiwadi", "school website services Bhiwadi",
+      "school website Bhiwadi Alwar", "school website developer Bhiwadi", "school website design designer Bhiwadi", "school website services Bhiwadi",
       "school website design cost Bhiwadi", "school website price in Bhiwadi", "CBSE school website design Bhiwadi", "mandatory public disclosure website Bhiwadi",
       "school admission website Bhiwadi", "play school website Bhiwadi", "school website Tapukara", "school website Chopanki",
       "school website Khushkhera", "school website Neemrana", "school ki website banwani hai Bhiwadi", "Bhiwadi me school website kaise banaye",

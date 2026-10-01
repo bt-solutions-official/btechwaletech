@@ -17,7 +17,7 @@ const content: FreelanceContent = {
     description: `Ecommerce website development in Bhiwadi from ${P.shop}: UPI and card checkout, shipping set-up and a one-to-one meeting in Bhiwadi to plan your store.`,
     keywords: [
       "ecommerce website development in Bhiwadi", "ecommerce website development Bhiwadi", "ecommerce website developer near me",
-      "ecommerce website development in Bhiwadi Rajasthan", "online store developer Bhiwadi Alwar", "ecommerce website company in Bhiwadi",
+      "ecommerce website development in Bhiwadi Rajasthan", "online store developer Bhiwadi Alwar", "ecommerce website developer in Bhiwadi",
       "ecommerce website cost in Bhiwadi", "online shopping website price Bhiwadi", "ecommerce website developer Chopanki",
       "online store for manufacturers Khushkhera", "D2C website Tapukara", "ecommerce website Neemrana", "Shopify developer Bhiwadi",
       "WooCommerce developer Bhiwadi", "UPI payment website Bhiwadi", "online dukan website Bhiwadi", "ecommerce website kaise banaye Bhiwadi",

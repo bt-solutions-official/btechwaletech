@@ -17,9 +17,8 @@ const content: FreelanceContent = {
     description: `Web application development in Bhiwadi: portals, internal tools and dashboards with proper roles, hosting and security, from ${P.software}. Planned with you one to one.`,
     keywords: [
       "web application development in Bhiwadi", "web application development Bhiwadi", "web app development Bhiwadi", "web app developer near me",
-      "web application development in Bhiwadi Rajasthan", "web app developer Bhiwadi Alwar", "web portal development Bhiwadi",
-      "custom web application Bhiwadi", "web application developer Bhiwadi", "web application development company Bhiwadi",
-      "web application development services Bhiwadi", "web app development cost Bhiwadi", "web application price Rajasthan",
+      "web application development in Bhiwadi Rajasthan", "web app developer Bhiwadi Alwar", "web portal development Bhiwadi", "custom web application Bhiwadi",
+      "web application developer Bhiwadi", "web application development services Bhiwadi", "web app development cost Bhiwadi", "web application price Rajasthan",
       "supplier portal development Bhiwadi", "dealer portal Bhiwadi", "internal tool development Bhiwadi", "web app for factory",
       "web application Chopanki", "web app developer Khushkhera", "web application Tapukara", "web app development Neemrana",
       "web app banwana hai", "business software online Bhiwadi", "React Node.js developer Bhiwadi", "cloud web app Khairthal-Tijara",
@@ -28,7 +27,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Web apps and portals · Bhiwadi, Rajasthan",
     h1: "Web application development in Bhiwadi: portals, internal tools and dashboards built on clear roles, sound hosting and tight security",
-    lede: `Web application development in Bhiwadi usually starts with a process that has outgrown email and Excel: supplier schedules, dealer orders, approvals, service tickets or a report the owner wants every morning. BtechWaleTech is three freelance developers who design, build and host web apps from ${P.software}, owned fully by you. We meet you one to one at your unit or office in Bhiwadi, sit with a real user from each role, and map screens and permissions before writing any code. For a wider view, see our <a href='/bhiwadi-rajasthan/software-development-company/'>software development in Bhiwadi</a> page.`,
+    lede: `Web application development in Bhiwadi usually starts with a process that has outgrown email and Excel: supplier schedules, dealer orders, approvals, service tickets or a report the owner wants every morning. BtechWaleTech is three freelance developers who design, build and host web apps from ${P.software}, owned fully by you. We meet you one to one at your unit or office in Bhiwadi, sit with a real user from each role, and map screens and permissions before writing any code. For a wider view, see our <a href='/bhiwadi-rajasthan/software-development-services/'>software development in Bhiwadi</a> page.`,
     pills: ["Supplier and dealer portals", "Internal approval tools", "Dashboards and reports", "Role-based access", "Cloud hosting in your account", "Hindi and English screens", "Code handed over to you"],
     origin: "Three freelance developers · face-to-face planning at your unit in Bhiwadi · WhatsApp replies seven days a week",
   },
@@ -416,7 +415,7 @@ const content: FreelanceContent = {
     links: [
       { name: "Software and websites in Bhiwadi", href: "/bhiwadi-rajasthan/" },
       { name: "Custom software development in Bhiwadi", href: "/bhiwadi-rajasthan/custom-software-development/" },
-      { name: "Software development in Bhiwadi", href: "/bhiwadi-rajasthan/software-development-company/" },
+      { name: "Software development in Bhiwadi", href: "/bhiwadi-rajasthan/software-development-services/" },
       { name: "SaaS product development in Bhiwadi", href: "/bhiwadi-rajasthan/saas-product-development/" },
       { name: "Vendor portal development in Bhiwadi", href: "/bhiwadi-rajasthan/vendor-portal-development/" },
       { name: "Full stack developer in Bhiwadi", href: "/bhiwadi-rajasthan/full-stack-developer/" },

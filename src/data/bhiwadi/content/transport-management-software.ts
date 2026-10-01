@@ -22,7 +22,7 @@ const content: FreelanceContent = {
       "driver advance and settlement software", "POD upload app for drivers", "freight bill software GST",
       "transport software Tapukara", "transporter software Chopanki", "logistics software Khushkhera",
       "fleet software Neemrana", "transport management software cost", "transport management software price India",
-      "transport management software company Bhiwadi", "transport software developer", "custom transport management services",
+      "transport management software developer Bhiwadi", "transport software developer", "custom transport management services",
       "transport ka software", "truck ka hisaab software Hindi mein", "transport management software Dharuhera Rewari",
     ],
   },

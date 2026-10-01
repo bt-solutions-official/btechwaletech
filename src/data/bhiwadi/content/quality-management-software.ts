@@ -20,7 +20,7 @@ const content: FreelanceContent = {
       "quality management software in Bhiwadi Rajasthan", "QMS software Bhiwadi Alwar", "NCR and CAPA software Bhiwadi",
       "PPAP document software", "inspection report software for factory", "quality software Chopanki", "quality management software Khushkhera",
       "QMS software Tapukara", "quality management software Neemrana", "quality management software cost", "QMS software price India",
-      "custom QMS software developer", "quality management software company Bhiwadi", "quality management software services",
+      "custom QMS software developer", "quality management software developer Bhiwadi", "quality management software services",
       "8D report software", "incoming inspection app", "calibration register software", "customer complaint tracking software",
       "quality software for auto component suppliers", "gunvatta prabandhan software", "QMS software Hindi me", "quality records app for factory",
     ],
@@ -230,7 +230,7 @@ const content: FreelanceContent = {
         "Do you claim the software makes us compliant or certified? (The right answer is no.)",
       ],
       after: [
-        `If you are still deciding between a packaged product and a custom build, the <a href='/off-the-shelf-vs-custom-software/'>off-the-shelf versus custom software comparison</a> is a good starting point, and our <a href='/bhiwadi-rajasthan/software-development-company/'>software development page for Bhiwadi</a> describes how we scope factory systems.`,
+        `If you are still deciding between a packaged product and a custom build, the <a href='/off-the-shelf-vs-custom-software/'>off-the-shelf versus custom software comparison</a> is a good starting point, and our <a href='/bhiwadi-rajasthan/software-development-services/'>software development page for Bhiwadi</a> describes how we scope factory systems.`,
       ],
     },
     {

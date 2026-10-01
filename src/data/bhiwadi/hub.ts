@@ -28,13 +28,13 @@ const content: FreelanceContent = {
     title: "IT Services in Bhiwadi: Websites, Apps & Software",
     description: `IT services in Bhiwadi, Rajasthan: websites from ${P.site}, apps, ERP, SEO and AI automation. We meet you one to one in Bhiwadi, at your office or factory.`,
     keywords: [
-      "IT services in Bhiwadi", "IT company in Bhiwadi", "software company in Bhiwadi", "website developer in Bhiwadi",
-      "website development company in Bhiwadi", "app developer in Bhiwadi", "Android developer Bhiwadi", "SEO services Bhiwadi",
+      "IT services in Bhiwadi", "IT solutions in Bhiwadi", "software developer in Bhiwadi", "website developer in Bhiwadi",
+      "website development services in Bhiwadi", "app developer in Bhiwadi", "Android developer Bhiwadi", "SEO services Bhiwadi",
       "ERP software Bhiwadi", "digital marketing Bhiwadi", "web designer Bhiwadi Rajasthan", "IT services Bhiwadi Alwar",
-      "software developer Bhiwadi", "website design Bhiwadi", "IT company near me Bhiwadi", "Bhiwadi IT services for factories",
-      "website developer Chopanki", "software company Khushkhera", "IT services Tapukara", "IT services Neemrana",
+      "software developer Bhiwadi", "website design Bhiwadi", "freelance developers near me Bhiwadi", "Bhiwadi IT services for factories",
+      "website developer Chopanki", "software developer Khushkhera", "IT services Tapukara", "IT services Neemrana",
       "Bhiwadi me website banane wala", "Bhiwadi software developer", "AI automation Bhiwadi", "WhatsApp chatbot Bhiwadi",
-      "IT consultant Bhiwadi", "Bhiwadi Rajasthan website company",
+      "IT consultant Bhiwadi", "Bhiwadi Rajasthan website developers",
     ],
   },
   hero: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "Who provides IT services in Bhiwadi and meets clients in person?",
     text: `BtechWaleTech, a team of three freelance developers, builds websites, apps, ERP, factory software, SEO and AI automation for Bhiwadi businesses and meets clients one to one in Bhiwadi, at their office, shop or plant. Websites start from ${P.site}, apps from ${P.app} and custom software from ${P.software}, with two months of free maintenance after launch.`,
-    more: `Pick your service from the tables below, or read the <a href='/bhiwadi-rajasthan/it-company/'>guide to choosing an IT company in Bhiwadi</a> first. Prices are explained on the <a href='/pricing/'>pricing page</a>.`,
+    more: `Pick your service from the tables below, or read the <a href='/bhiwadi-rajasthan/it-solutions/'>guide to IT solutions in Bhiwadi</a> first. Prices are explained on the <a href='/pricing/'>pricing page</a>.`,
   },
   snapshot: {
     caption: "Bhiwadi at a glance",
@@ -182,7 +182,7 @@ const content: FreelanceContent = {
     },
     {
       id: "choose",
-      heading: "How to choose an IT company in Bhiwadi",
+      heading: "How to choose an IT partner in Bhiwadi",
       paragraphs: [
         "Ask every vendor the same questions: Will you come to our unit before quoting? Who exactly will build it? In whose name are the domain, hosting and code? What happens after launch, and what does it cost? Can we see the staging version before paying the balance? Clear, written answers to these matter more than a long list of past logos.",
         `Also be clear about what you need. A walk-in shop is right for printers and CCTV; a software team is right for websites, apps and systems. Our <a href='/bhiwadi-rajasthan/it-consultant/'>IT consultant page</a> explains how to write a simple requirement note before you talk to anyone.`,
@@ -247,9 +247,9 @@ const content: FreelanceContent = {
   related: {
     heading: "More pages for Bhiwadi and nearby",
     links: [
-      { name: "IT company in Bhiwadi", href: "/bhiwadi-rajasthan/it-company/" },
+      { name: "IT solutions in Bhiwadi", href: "/bhiwadi-rajasthan/it-solutions/" },
       { name: "Web developer near me in Bhiwadi", href: "/bhiwadi-rajasthan/web-developer-near-me/" },
-      { name: "Software company in Bhiwadi", href: "/bhiwadi-rajasthan/software-development-company/" },
+      { name: "Software development services in Bhiwadi", href: "/bhiwadi-rajasthan/software-development-services/" },
       { name: "SEO services in Bhiwadi", href: "/bhiwadi-rajasthan/seo-services/" },
       { name: "Bhiwadi me website kaise banaye", href: "/bhiwadi-rajasthan/website-kaise-banaye/" },
       { name: "Rajasthan", href: "/india/rajasthan/" },

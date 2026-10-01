@@ -22,7 +22,7 @@ const content: FreelanceContent = {
       "product catalogue website Chopanki", "catalogue website Khushkhera", "industrial catalogue Tapukara", "product catalogue website Neemrana",
       "industrial product catalogue website cost", "catalogue website price Bhiwadi", "digital product catalogue for factory",
       "spare parts catalogue website", "fasteners catalogue website", "valves and fittings catalogue website", "catalogue website developer Bhiwadi",
-      "product catalogue website company Bhiwadi", "catalogue website services Bhiwadi", "online catalogue banwana hai",
+      "product catalogue website developer Bhiwadi", "catalogue website services Bhiwadi", "online catalogue banwana hai",
       "product catalogue ki website kaise banaye", "PDF catalogue to website",
     ],
   },

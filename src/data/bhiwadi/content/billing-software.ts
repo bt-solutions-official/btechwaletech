@@ -20,9 +20,9 @@ const content: FreelanceContent = {
       "billing software in Bhiwadi Rajasthan", "invoice software Bhiwadi Alwar", "e-invoice software Bhiwadi", "e-way bill software Bhiwadi",
       "billing software Chopanki", "billing software Khushkhera", "GST invoice software Tapukara", "billing software Neemrana",
       "custom billing software vs Tally", "billing software for manufacturers", "billing software for shop Bhiwadi", "GST billing software cost",
-      "billing software price in Bhiwadi", "billing software developer Bhiwadi", "billing software company Bhiwadi", "invoice software services Bhiwadi",
-      "GST bill banane ka software", "dukan ke liye billing software", "Tally ke saath billing software", "billing software with UPI QR",
-      "GST billing software Dharuhera", "IRN e-invoice API integration",
+      "billing software price in Bhiwadi", "billing software developer Bhiwadi", "invoice software services Bhiwadi", "GST bill banane ka software",
+      "dukan ke liye billing software", "Tally ke saath billing software", "billing software with UPI QR", "GST billing software Dharuhera",
+      "IRN e-invoice API integration",
     ],
   },
   hero: {
@@ -139,7 +139,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Custom GST billing software from our team starts at ${P.software}, around ${P.softwareUsd}. At that starting scope you get one GSTIN and one billing location with customer and item masters, tax invoices, credit and debit notes, invoice numbering by series and financial year, a tax summary report and a basic push of vouchers to Tally.`,
         `The price grows with specific needs. E-invoice and e-way bill automation through API access adds integration and testing. Dispatch-linked billing needs packing lists and challans modelled first. Rate contracts with validity dates and revision approvals add logic. Several GSTINs or branches add series, permissions and consolidated reports. A retail counter with barcode scanning and a thermal printer adds its own screen. Most GST billing software in Bhiwadi that we would scope uses two or three of these, not all of them.`,
-        `Running costs are yours to control: hosting, any API access charges from your chosen GST Suvidha Provider, and WhatsApp message charges. We charge nothing per invoice or per user. If what you really need is a small Tally extension, we will say so; our <a href='/bhiwadi-rajasthan/software-development-company/'>Bhiwadi software development page</a> explains how we size projects honestly.`,
+        `Running costs are yours to control: hosting, any API access charges from your chosen GST Suvidha Provider, and WhatsApp message charges. We charge nothing per invoice or per user. If what you really need is a small Tally extension, we will say so; our <a href='/bhiwadi-rajasthan/software-development-services/'>Bhiwadi software development page</a> explains how we size projects honestly.`,
       ],
     },
     {

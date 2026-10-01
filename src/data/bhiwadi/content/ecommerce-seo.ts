@@ -17,12 +17,12 @@ const content: FreelanceContent = {
     description: `Ecommerce SEO in Bhiwadi: category pages, product schema and filter duplicates fixed. Monthly from ${P.seo}, with a one-to-one meeting in Bhiwadi.`,
     keywords: [
       "ecommerce SEO in Bhiwadi", "ecommerce SEO Bhiwadi", "ecommerce SEO near me", "ecommerce SEO in Bhiwadi Rajasthan",
-      "ecommerce SEO services Bhiwadi", "ecommerce SEO company Bhiwadi", "online store SEO Bhiwadi", "Shopify SEO Bhiwadi",
-      "WooCommerce SEO Bhiwadi", "product page SEO Bhiwadi", "category page SEO", "product schema markup",
-      "ecommerce SEO Bhiwadi Alwar", "ecommerce SEO Khairthal-Tijara", "ecommerce SEO Chopanki", "ecommerce SEO Khushkhera",
-      "ecommerce SEO Tapukara", "ecommerce SEO Neemrana", "ecommerce SEO cost Bhiwadi", "ecommerce SEO price per month",
-      "online dukan ka SEO", "ecommerce website ko Google par rank kaise kare", "D2C brand SEO Bhiwadi", "ecommerce SEO expert Bhiwadi",
-      "duplicate content ecommerce filters", "Google Merchant Center free listings setup",
+      "ecommerce SEO services Bhiwadi", "online store SEO Bhiwadi", "Shopify SEO Bhiwadi", "WooCommerce SEO Bhiwadi",
+      "product page SEO Bhiwadi", "category page SEO", "product schema markup", "ecommerce SEO Bhiwadi Alwar",
+      "ecommerce SEO Khairthal-Tijara", "ecommerce SEO Chopanki", "ecommerce SEO Khushkhera", "ecommerce SEO Tapukara",
+      "ecommerce SEO Neemrana", "ecommerce SEO cost Bhiwadi", "ecommerce SEO price per month", "online dukan ka SEO",
+      "ecommerce website ko Google par rank kaise kare", "D2C brand SEO Bhiwadi", "ecommerce SEO expert Bhiwadi", "duplicate content ecommerce filters",
+      "Google Merchant Center free listings setup",
     ],
   },
   hero: {

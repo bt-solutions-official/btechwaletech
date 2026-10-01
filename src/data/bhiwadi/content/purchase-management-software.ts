@@ -21,7 +21,7 @@ const content: FreelanceContent = {
       "indent management software", "purchase indent software for factory", "quotation comparison software",
       "purchase order approval software", "purchase order software Chopanki", "procurement software Khushkhera units",
       "purchase management system Tapukara", "purchase software for Neemrana plants", "purchase management software cost",
-      "purchase management software price India", "purchase software with Tally integration", "purchase management software company Bhiwadi",
+      "purchase management software price India", "purchase software with Tally integration", "purchase management software developer Bhiwadi",
       "procurement software developer", "custom purchase management services", "purchase approval on WhatsApp",
       "purchase ka software factory ke liye", "indent aur PO software Hindi", "purchase management system Dharuhera",
     ],

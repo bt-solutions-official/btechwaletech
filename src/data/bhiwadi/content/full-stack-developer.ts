@@ -116,7 +116,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Most Bhiwadi businesses do not employ a technical manager who can coordinate separate designers, coders and hosting providers. A single team that owns the full stack is simply easier to manage for a plant head or an owner already stretched by production.`,
         `The local context adds reasons. BIDA, the development authority for the Bhiwadi Integrated Township, says the area holds about 5,000 industrial units in around 14 clusters, and industry directories show a mix of auto components, engineering, metals, electronics, chemicals, plastics, FMCG, packaging and logistics. Each of these sectors needs software that crosses layers: a quality inspection form on the floor, rules on the server, history in the database, and a report emailed to a buyer.`,
-        `Bhiwadi also sits in the National Capital Region, now within Khairthal-Tijara district, which was separated from Alwar in 2023. Many plants report to head offices in Gurugram or Delhi, so the same application must serve a Hindi-speaking supervisor on a basic phone and an English-reading director on a laptop far away. Designing both ends together is a full stack problem by nature. The <a href='/bhiwadi-rajasthan/software-development-company/'>software development overview for Bhiwadi</a> shows the kinds of systems this leads to.`,
+        `Bhiwadi also sits in the National Capital Region, now within Khairthal-Tijara district, which was separated from Alwar in 2023. Many plants report to head offices in Gurugram or Delhi, so the same application must serve a Hindi-speaking supervisor on a basic phone and an English-reading director on a laptop far away. Designing both ends together is a full stack problem by nature. The <a href='/bhiwadi-rajasthan/software-development-services/'>software development overview for Bhiwadi</a> shows the kinds of systems this leads to.`,
       ],
     },
     {
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
       { name: "SaaS product development", href: "/bhiwadi-rajasthan/saas-product-development/" },
       { name: "Freelance developer in Bhiwadi", href: "/bhiwadi-rajasthan/freelance-developer/" },
       { name: "Cloud hosting setup", href: "/bhiwadi-rajasthan/cloud-hosting-setup/" },
-      { name: "IT company in Bhiwadi", href: "/bhiwadi-rajasthan/it-company/" },
+      { name: "IT solutions in Bhiwadi", href: "/bhiwadi-rajasthan/it-solutions/" },
       { name: "Hire a full stack developer", href: "/hire-full-stack-developer/" },
       { name: "Freelance MERN stack developer", href: "/freelance-mern-stack-developer/" },
     ],

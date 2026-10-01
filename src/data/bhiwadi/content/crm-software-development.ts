@@ -16,7 +16,7 @@ const content: FreelanceContent = {
     title: `CRM Software Development in Bhiwadi from ${P.software}`,
     description: `CRM software development in Bhiwadi from ${P.software}: pipelines, WhatsApp follow-ups and dealer tracking, planned face to face with your sales desk in Bhiwadi.`,
     keywords: [
-      "CRM software development in Bhiwadi", "CRM developer near me", "custom CRM Bhiwadi Rajasthan", "CRM software company Bhiwadi Alwar",
+      "CRM software development in Bhiwadi", "CRM developer near me", "custom CRM Bhiwadi Rajasthan", "CRM software developer Bhiwadi Alwar",
       "CRM for manufacturers Bhiwadi", "B2B enquiry management software Bhiwadi", "dealer management CRM Bhiwadi", "real estate CRM Alwar Bypass Road",
       "WhatsApp CRM Bhiwadi", "lead management software Bhiwadi", "sales follow-up software Bhiwadi", "CRM Chopanki", "CRM Tapukara",
       "CRM Khushkhera", "CRM Neemrana", "CRM software development cost Bhiwadi", "custom CRM price India", "CRM with IndiaMART leads Bhiwadi",
@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `CRM software development means building a customer relationship management system around your own sales process: where enquiries come from, who handles them, which steps they pass through and what reminds people to act. A CRM is the memory of your sales team, kept in a database instead of in notebooks, phone contacts and WhatsApp chats.`,
         `A Bhiwadi business needs one when a few symptoms appear together. Enquiries arrive on four channels and nobody can list them all. A buyer asks about a quote sent last month and nobody finds it. A salesman leaves and takes his contacts with him. The owner learns about a lost order only when the buyer mentions a competitor. None of these is a people problem; they are memory problems, and software is good at memory. That, in one line, is the case for CRM software development in Bhiwadi.`,
-        `It is worth being clear about scope. A CRM tracks leads, conversations, quotes and follow-ups. It is not your accounting system or your ERP, although it can read outstanding balances from Tally or order status from an ERP so salespeople see the full picture. If you are unsure whether you need a CRM or a broader system, the <a href='/bhiwadi-rajasthan/software-development-company/'>software development guide for Bhiwadi</a> helps sort it out.`,
+        `It is worth being clear about scope. A CRM tracks leads, conversations, quotes and follow-ups. It is not your accounting system or your ERP, although it can read outstanding balances from Tally or order status from an ERP so salespeople see the full picture. If you are unsure whether you need a CRM or a broader system, the <a href='/bhiwadi-rajasthan/software-development-services/'>software development guide for Bhiwadi</a> helps sort it out.`,
       ],
     },
     {
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
       { name: "WhatsApp Business API", href: "/bhiwadi-rajasthan/whatsapp-business-api/" },
       { name: "WhatsApp chatbot", href: "/bhiwadi-rajasthan/whatsapp-chatbot/" },
       { name: "Custom software development", href: "/bhiwadi-rajasthan/custom-software-development/" },
-      { name: "Software development company in Bhiwadi", href: "/bhiwadi-rajasthan/software-development-company/" },
+      { name: "Software development services in Bhiwadi", href: "/bhiwadi-rajasthan/software-development-services/" },
       { name: "MIS dashboard development", href: "/bhiwadi-rajasthan/mis-dashboard-development/" },
       { name: "Tally integration developer", href: "/bhiwadi-rajasthan/tally-integration/" },
       { name: "CRM software development cost", href: "/crm-software-development-cost/" },

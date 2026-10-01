@@ -22,7 +22,7 @@ const content: FreelanceContent = {
       "RFID canteen software integration", "contractor canteen billing software", "canteen headcount forecast software",
       "canteen management system Chopanki", "canteen software Khushkhera", "canteen system for Tapukara plants",
       "canteen management Neemrana factories", "canteen management system cost", "canteen management system price in India",
-      "canteen management software company Bhiwadi", "canteen software developer", "canteen management services for factories",
+      "canteen management software developer Bhiwadi", "canteen software developer", "canteen management services for factories",
       "canteen coupon ka software", "canteen system Hindi mein", "canteen management system Dharuhera Manesar",
     ],
   },
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
         "This scenario is hypothetical and is included only to show how scope is decided. It is not a client and quotes no results.",
         `Say a 350-worker auto-parts plant in the RIICO phases of Bhiwadi runs three shifts, uses an outside caterer and hires about half its workforce through three labour contractors. Meals are on printed coupons sold monthly. HR suspects coupons are copied, the caterer's bill has not matched HR's count for months, and nobody recovers contract workers' meals consistently.`,
         `At the meeting we would watch the lunch rush, read three caterer bills and compare the contractor lists with the coupon register. A sensible first version: QR codes printed on existing ID cards, two tablets with inexpensive scanners that the plant buys, photo display, one meal per slot, caterer rates by meal type, contractor-wise statements and a month-end bill comparison. Forecasting and payroll export would follow in phase two. That scope would likely sit at the lower end of custom builds starting at ${P.software}, around 8 weeks, with the quote confirming the figure.`,
-        `We would advise against new card readers at the start; QR on existing IDs tests the process at the lowest cost. What we do and do not cover as a software team is set out on our <a href='/bhiwadi-rajasthan/it-company/'>IT services page for Bhiwadi</a>.`,
+        `We would advise against new card readers at the start; QR on existing IDs tests the process at the lowest cost. What we do and do not cover as a software team is set out on our <a href='/bhiwadi-rajasthan/it-solutions/'>IT services page for Bhiwadi</a>.`,
       ],
     },
     {

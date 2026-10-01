@@ -19,7 +19,7 @@ const content: FreelanceContent = {
       "Bhiwadi me website kaise banaye", "Bhiwadi me website kaise banwaye", "website kaise banaye", "website banwane wala near me",
       "Bhiwadi me website banane wala", "website kaise banaye business ke liye", "Bhiwadi Alwar website banwana hai",
       "website in Bhiwadi Rajasthan", "website banane ka kharcha Bhiwadi", "website banwane me kitna kharcha", "website banane me kitna time lagta hai",
-      "Bhiwadi website developer", "website design company Bhiwadi", "website services Bhiwadi", "factory ki website kaise banaye",
+      "Bhiwadi website developer", "website design designer Bhiwadi", "website services Bhiwadi", "factory ki website kaise banaye",
       "dukan ki website kaise banaye", "Chopanki factory website", "Khushkhera company website", "Tapukara website developer",
       "Neemrana website banwana", "domain kaise kharide", "Google par website kaise laye", "website kaise banaye mobile se",
       "apni company ki website kaise banaye", "sasti website kaise banwaye Bhiwadi",
@@ -68,7 +68,7 @@ const content: FreelanceContent = {
     heading: "Bhiwadi me website kaise banaye: pehle sahi type chuniye",
     note: "Har business ko ek jaisi website nahi chahiye. Pehle type chuniye, phir kharcha aur time apne aap saaf ho jaata hai.",
     cards: [
-      { name: "Business website", note: `Company profile, services, photos, contact form aur WhatsApp button; ${P.site} se, 1–2 hafte me.`, href: "/bhiwadi-rajasthan/website-development/", size: "lg" },
+      { name: "Business website", note: `Aapka business profile, services, photos, contact form aur WhatsApp button; ${P.site} se, 1–2 hafte me.`, href: "/bhiwadi-rajasthan/website-development/", size: "lg" },
       { name: "Factory or manufacturer site", note: "Machines, capabilities, products aur RFQ form, taaki buyers aur procurement teams bharosa karein.", href: "/bhiwadi-rajasthan/manufacturing-company-website/", size: "lg" },
       { name: "Online store", note: `Products, cart, UPI aur card checkout, delivery charges; ${P.shop} se.`, href: "/bhiwadi-rajasthan/ecommerce-website-development/", size: "md" },
       { name: "SEO website, 299+ pages", note: `Har product ya service ke liye alag page, Google traffic ke liye; ${P.seoSite} se.`, href: "/bhiwadi-rajasthan/programmatic-seo/", size: "md" },

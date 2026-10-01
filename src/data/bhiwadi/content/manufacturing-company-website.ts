@@ -24,7 +24,7 @@ const content: FreelanceContent = {
       "B2B manufacturer website with RFQ form", "manufacturing website designer Bhiwadi", "manufacturing web design services Bhiwadi",
       "factory ki website kaise banaye", "manufacturing company ki website banwani hai", "website for factory in Bhiwadi",
       "capability page for manufacturer", "plant website for procurement teams", "manufacturing company website developer near me",
-      "website design company for manufacturers Bhiwadi",
+      "website design designer for manufacturers Bhiwadi",
     ],
   },
   hero: {

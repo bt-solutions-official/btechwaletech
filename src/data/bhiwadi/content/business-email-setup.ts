@@ -242,7 +242,7 @@ const content: FreelanceContent = {
         "Mailboxes resold at a markup through the vendor’s own account",
         "A second SPF record added instead of merging into the first",
       ],
-      after: [`If you recognise some of these in your current setup, a review at your office in Bhiwadi is the quickest way to untangle it. Our broader <a href='/bhiwadi-rajasthan/it-company/'>IT services page for Bhiwadi</a> explains what we do and do not cover beyond email.`],
+      after: [`If you recognise some of these in your current setup, a review at your office in Bhiwadi is the quickest way to untangle it. Our broader <a href='/bhiwadi-rajasthan/it-solutions/'>IT services page for Bhiwadi</a> explains what we do and do not cover beyond email.`],
     },
     {
       id: "ownership-email",
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
       { name: "All services in Bhiwadi", href: "/bhiwadi-rajasthan/" },
       { name: "Website development in Bhiwadi", href: "/bhiwadi-rajasthan/website-development/" },
       { name: "Cloud hosting setup in Bhiwadi", href: "/bhiwadi-rajasthan/cloud-hosting-setup/" },
-      { name: "IT company in Bhiwadi", href: "/bhiwadi-rajasthan/it-company/" },
+      { name: "IT solutions in Bhiwadi", href: "/bhiwadi-rajasthan/it-solutions/" },
       { name: "Website maintenance in Bhiwadi", href: "/bhiwadi-rajasthan/website-maintenance/" },
       { name: "Google Business Profile setup in Bhiwadi", href: "/bhiwadi-rajasthan/google-business-profile/" },
       { name: "MSME digitalisation in Bhiwadi", href: "/bhiwadi-rajasthan/msme-digitalisation/" },

@@ -139,7 +139,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A custom system starts at ${P.software} (roughly ${P.softwareUsd}). For that you can expect a first release covering one plant: contractor master with document alerts, worker onboarding with QR ID cards, a phone-based gate check and contractor-wise attendance. Each further module is priced as its own line, so contract labour management software in Bhiwadi can start small and grow with your contractor count.`,
         `Four things push the figure up. More gates and plants mean more users, locations and reports. More document types per worker, such as medical fitness, police verification or skill certificates, add fields and alerts. Linking to turnstiles or biometric devices you already own adds integration work that depends on what those devices expose. And detailed bill checking, where every man-day on a contractor's bill is matched to a gate record, adds logic and testing.`,
-        `Hosting, SMS or WhatsApp charges and any printing of ID cards are paid by you directly to those providers. There is no per-worker fee from us. Our <a href='/bhiwadi-rajasthan/software-development-company/'>Bhiwadi software development page</a> explains how larger builds are phased so you pay for what you use first.`,
+        `Hosting, SMS or WhatsApp charges and any printing of ID cards are paid by you directly to those providers. There is no per-worker fee from us. Our <a href='/bhiwadi-rajasthan/software-development-services/'>Bhiwadi software development page</a> explains how larger builds are phased so you pay for what you use first.`,
       ],
     },
     {

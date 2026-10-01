@@ -19,7 +19,7 @@ const content: FreelanceContent = {
       "coaching institute website in Bhiwadi", "coaching institute website Bhiwadi", "coaching centre website near me",
       "coaching institute website in Bhiwadi Rajasthan", "coaching website Bhiwadi Alwar", "tuition centre website Bhiwadi",
       "coaching institute website cost Bhiwadi", "coaching website price in Bhiwadi", "coaching institute website developer Bhiwadi",
-      "coaching website design company Bhiwadi", "JEE NEET coaching website design", "coaching institute website with online fee payment",
+      "coaching website design designer Bhiwadi", "JEE NEET coaching website design", "coaching institute website with online fee payment",
       "coaching website with batch timings", "coaching website Tapukara", "coaching website Chopanki", "coaching website Khushkhera",
       "coaching institute website Neemrana", "coaching ki website kaise banaye Bhiwadi", "coaching institute ki website banwani hai",
       "tuition classes website design services", "coaching institute website Hindi English", "coaching centre SEO Bhiwadi",

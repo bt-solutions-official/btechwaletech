@@ -20,7 +20,7 @@ const content: FreelanceContent = {
       "warehouse management software in Bhiwadi Rajasthan", "WMS Bhiwadi Alwar", "warehouse software Kaharani", "warehouse management software Chopanki",
       "WMS software Tapukara", "warehouse management software Neemrana", "warehouse software Dharuhera", "barcode warehouse software",
       "bin location software", "picking and dispatch software", "3PL warehouse software", "warehouse management software cost",
-      "WMS price in India", "custom WMS developer", "warehouse management software company Bhiwadi", "warehouse management software services",
+      "WMS price in India", "custom WMS developer", "warehouse management software developer Bhiwadi", "warehouse management software services",
       "godown management software", "godown software Hindi", "warehouse app for pickers", "stock location tracking software",
       "e-way bill data from warehouse software", "godown ka software kaise banwaye",
     ],

@@ -21,7 +21,7 @@ const content: FreelanceContent = {
       "auto component website Tapukara", "auto parts website Khushkhera", "automotive component website Neemrana", "auto ancillary website Chopanki",
       "auto component manufacturer website cost", "auto parts website price Bhiwadi", "automotive supplier website Bhiwadi Alwar",
       "website for auto ancillary unit", "IATF supplier website design", "auto component RFQ form website", "precision machining auto parts website",
-      "auto parts manufacturer website developer", "auto component website design company Bhiwadi", "auto parts website services Bhiwadi",
+      "auto parts manufacturer website developer", "auto component website design designer Bhiwadi", "auto parts website services Bhiwadi",
       "auto parts company ki website", "auto component unit ke liye website", "two wheeler parts supplier website", "OEM supplier website design India",
     ],
   },

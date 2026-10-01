@@ -16,13 +16,12 @@ const content: FreelanceContent = {
     title: `SEO Services in Bhiwadi: Monthly SEO from ${P.seo}`,
     description: `SEO services in Bhiwadi from ${P.seo}: technical fixes, content, Google profile work and clear monthly reports, planned one to one at your unit in Bhiwadi.`,
     keywords: [
-      "SEO services in Bhiwadi", "SEO services near me Bhiwadi", "SEO services in Bhiwadi Rajasthan", "SEO company Bhiwadi Alwar",
+      "SEO services in Bhiwadi", "SEO services near me Bhiwadi", "SEO services in Bhiwadi Rajasthan", "SEO services Bhiwadi Alwar",
       "SEO services Chopanki", "SEO services Khushkhera", "SEO services Tapukara", "SEO services Neemrana",
       "monthly SEO cost Bhiwadi", "SEO price in Bhiwadi", "SEO package Bhiwadi", "Bhiwadi me SEO kaise karwaye",
-      "SEO karwane ka kharcha Bhiwadi", "SEO company in Bhiwadi", "SEO consultant Bhiwadi", "SEO agency Bhiwadi",
-      "local SEO services Bhiwadi", "Google ranking services Bhiwadi", "website SEO Bhiwadi", "search engine optimisation Bhiwadi",
-      "SEO for factories in Bhiwadi", "SEO services Khairthal-Tijara", "SEO developer Bhiwadi", "SEO reporting Bhiwadi",
-      "best SEO services Bhiwadi",
+      "SEO karwane ka kharcha Bhiwadi", "SEO consultant Bhiwadi", "SEO agency Bhiwadi", "local SEO services Bhiwadi",
+      "Google ranking services Bhiwadi", "website SEO Bhiwadi", "search engine optimisation Bhiwadi", "SEO for factories in Bhiwadi",
+      "SEO services Khairthal-Tijara", "SEO developer Bhiwadi", "SEO reporting Bhiwadi", "best SEO services Bhiwadi",
     ],
   },
   hero: {
@@ -237,7 +236,7 @@ const content: FreelanceContent = {
     },
     {
       id: "seo-checklist",
-      heading: "Checklist: twelve things good SEO services in Bhiwadi should cover",
+      heading: "Checklist: twelve things good SEO work in Bhiwadi should cover",
       paragraphs: [
         "Use this list to compare any proposal, ours included. A sound plan covers most of it within the first quarter.",
       ],

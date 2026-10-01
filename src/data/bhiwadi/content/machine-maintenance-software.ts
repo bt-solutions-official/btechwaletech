@@ -21,7 +21,7 @@ const content: FreelanceContent = {
       "maintenance management software Bhiwadi", "breakdown maintenance software for factory", "PM schedule software Chopanki",
       "machine maintenance software Khushkhera", "maintenance app for plants in Tapukara", "CMMS for Neemrana factories",
       "preventive maintenance software cost", "preventive maintenance software price in India", "QR code machine maintenance system",
-      "spare parts tracking for maintenance", "maintenance software company in Bhiwadi", "CMMS developer Bhiwadi",
+      "spare parts tracking for maintenance", "maintenance software developer in Bhiwadi", "CMMS developer Bhiwadi",
       "custom CMMS development services", "machine history card software", "MTTR MTBF report software",
       "maintenance checklist app in Hindi", "factory maintenance ka software", "machine maintenance software Hindi mein",
       "maintenance software Dharuhera Rewari",
@@ -70,7 +70,7 @@ const content: FreelanceContent = {
     heading: "Modules of a maintenance system for a Bhiwadi plant",
     note: "Most units start with three or four of these and add the rest once technicians are logging jobs every shift without being chased.",
     cards: [
-      { name: "Machine register and history card", note: "Every press, CNC, moulding machine, compressor and DG set with make, model, location, criticality, manuals and a full job history one tap away.", href: "/bhiwadi-rajasthan/software-development-company/", size: "lg" },
+      { name: "Machine register and history card", note: "Every press, CNC, moulding machine, compressor and DG set with make, model, location, criticality, manuals and a full job history one tap away.", href: "/bhiwadi-rajasthan/software-development-services/", size: "lg" },
       { name: "Preventive maintenance scheduler", note: "Checklists triggered by calendar, running hours, stroke counts or shots, with overdue escalation to the in-charge and shutdown-day grouping.", href: "/bhiwadi-rajasthan/custom-software-development/", size: "lg" },
       { name: "Breakdown and downtime log", note: "Operators raise a stoppage from the machine with a photo and reason code; start, repair and restart times give real MTTR figures.", href: "/bhiwadi-rajasthan/production-planning-software/", size: "md" },
       { name: "Spares and consumables", note: "Job cards draw bearings, seals, belts and oils from the maintenance store, so you see which machine consumes what and when to reorder.", href: "/bhiwadi-rajasthan/inventory-management-software/", size: "md" },

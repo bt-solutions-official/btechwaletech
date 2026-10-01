@@ -20,7 +20,7 @@ const content: FreelanceContent = {
       "builder website design Bhiwadi", "property dealer website Bhiwadi", "real estate website Alwar Bypass Road", "real estate website Bhiwadi Alwar",
       "project website with RERA number", "real estate lead capture website", "real estate website cost in Bhiwadi", "property website price",
       "broker listing website Bhiwadi", "real estate website Neemrana", "real estate website Tapukara", "industrial shed leasing website Chopanki",
-      "plotted development website Khushkhera", "real estate website developer Bhiwadi", "real estate web design company Bhiwadi",
+      "plotted development website Khushkhera", "real estate website developer Bhiwadi", "real estate web design designer Bhiwadi",
       "real estate website services Bhiwadi", "property ki website kaise banaye", "builder ke liye website", "flat project landing page Bhiwadi",
       "real estate website design near me Bhiwadi", "RERA Rajasthan website display",
     ],

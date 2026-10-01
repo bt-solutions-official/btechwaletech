@@ -20,8 +20,8 @@ const content: FreelanceContent = {
       "generative engine optimisation Bhiwadi", "GEO services Bhiwadi", "answer engine optimisation Bhiwadi", "AI Overviews optimisation Bhiwadi",
       "rank in ChatGPT Bhiwadi", "get cited in ChatGPT search", "Google AI Mode visibility", "AI search optimisation Bhiwadi Alwar",
       "AI search optimisation Chopanki", "AI search optimisation Khushkhera", "AI search optimisation Tapukara", "AI search optimisation Neemrana",
-      "AI search optimisation cost", "AI SEO services Bhiwadi", "AI SEO company Bhiwadi", "ChatGPT me business kaise dikhaye",
-      "AI search me website kaise laye", "entity SEO for manufacturers", "schema markup for AI Overviews", "AI search optimisation expert Bhiwadi",
+      "AI search optimisation cost", "AI SEO services Bhiwadi", "ChatGPT me business kaise dikhaye", "AI search me website kaise laye",
+      "entity SEO for manufacturers", "schema markup for AI Overviews", "AI search optimisation expert Bhiwadi",
     ],
   },
   hero: {

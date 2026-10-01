@@ -20,9 +20,9 @@ const content: FreelanceContent = {
       "convert Excel to web application near me", "Excel to software in Bhiwadi Rajasthan", "spreadsheet to software Bhiwadi Alwar", "replace Excel with software",
       "Excel to software Chopanki", "Excel to app Khushkhera", "Excel to software Tapukara", "Excel to software Neemrana",
       "Excel sheet to online software", "multi-user Excel replacement", "Excel macro to web app", "convert Excel to software cost",
-      "Excel to software price in Bhiwadi", "Excel to software developer Bhiwadi", "Excel to software company Bhiwadi", "Excel automation services Bhiwadi",
-      "Excel ko software me badlo", "Excel sheet ka software banwana", "Excel se app kaise banaye", "Google Sheets to software Bhiwadi",
-      "Excel to software Dharuhera", "custom software instead of Excel",
+      "Excel to software price in Bhiwadi", "Excel to software developer Bhiwadi", "Excel automation services Bhiwadi", "Excel ko software me badlo",
+      "Excel sheet ka software banwana", "Excel se app kaise banaye", "Google Sheets to software Bhiwadi", "Excel to software Dharuhera",
+      "custom software instead of Excel",
     ],
   },
   hero: {
@@ -139,7 +139,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A custom web app replacing your spreadsheets starts at ${P.software}, about ${P.softwareUsd}. At that level you can expect one workbook with clear columns converted into forms, lists, a few roles, the reports your team uses, an Excel export and a migration of existing rows.`,
         `Cost rises with complexity, not with the number of rows. A workbook with 40 tabs, cross-sheet lookups, VBA macros and colour codes that mean something takes longer to understand than to rebuild. More user roles and multi-step approvals add logic. Linking the new app to Tally, an attendance device or a customer portal adds integration work. Cleaning years of inconsistent history adds effort that is easy to underestimate.`,
-        `You can keep the bill down by converting in phases: the sheet that causes the most pain first, the rest later. Running costs are hosting in your name and any messaging charges; we add no per-user fee. See our <a href='/bhiwadi-rajasthan/software-development-company/'>Bhiwadi software development page</a> for how phased projects are quoted, and the India guide to <a href='/custom-software-development-cost-in-india/'>custom software development cost</a> for the wider picture.`,
+        `You can keep the bill down by converting in phases: the sheet that causes the most pain first, the rest later. Running costs are hosting in your name and any messaging charges; we add no per-user fee. See our <a href='/bhiwadi-rajasthan/software-development-services/'>Bhiwadi software development page</a> for how phased projects are quoted, and the India guide to <a href='/custom-software-development-cost-in-india/'>custom software development cost</a> for the wider picture.`,
       ],
     },
     {

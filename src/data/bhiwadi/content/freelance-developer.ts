@@ -123,7 +123,7 @@ const content: FreelanceContent = {
         { heading: "Choose an in-house hire when", text: "Software changes every week for years, the developer must understand your processes deeply and sit with your staff daily, and you have someone senior enough to review their work." },
       ],
       after: [
-        `Many Bhiwadi units end up with a mix: a freelance team builds the system and keeps it running, while a junior staff member handles day-to-day data entry and first-line questions. That split keeps salary costs low without leaving the system orphaned. The <a href='/bhiwadi-rajasthan/it-company/'>IT company page for Bhiwadi</a> explains how hardware support fits alongside.`,
+        `Many Bhiwadi units end up with a mix: a freelance team builds the system and keeps it running, while a junior staff member handles day-to-day data entry and first-line questions. That split keeps salary costs low without leaving the system orphaned. The <a href='/bhiwadi-rajasthan/it-solutions/'>IT solutions page for Bhiwadi</a> explains how hardware support fits alongside.`,
       ],
     },
     {
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     heading: "Related pages for Bhiwadi businesses",
     links: [
       { name: "Bhiwadi services hub", href: "/bhiwadi-rajasthan/" },
-      { name: "IT company in Bhiwadi", href: "/bhiwadi-rajasthan/it-company/" },
+      { name: "IT solutions in Bhiwadi", href: "/bhiwadi-rajasthan/it-solutions/" },
       { name: "IT consultant", href: "/bhiwadi-rajasthan/it-consultant/" },
       { name: "Full stack developer", href: "/bhiwadi-rajasthan/full-stack-developer/" },
       { name: "React and Next.js developer", href: "/bhiwadi-rajasthan/react-developer/" },

@@ -21,7 +21,7 @@ const content: FreelanceContent = {
       "SEO for auto parts manufacturer Tapukara", "SEO for manufacturers Khushkhera", "SEO for manufacturers Neemrana",
       "industrial SEO services Bhiwadi", "manufacturing SEO cost Bhiwadi", "B2B SEO price Bhiwadi", "RFQ lead generation SEO Bhiwadi",
       "product page SEO for manufacturers", "factory website SEO Bhiwadi", "manufacturer ke liye SEO", "factory ki website Google par kaise laye",
-      "SEO company for manufacturers Bhiwadi", "SEO developer for industrial website Bhiwadi", "export SEO for manufacturers Bhiwadi",
+      "SEO services for manufacturers Bhiwadi", "SEO developer for industrial website Bhiwadi", "export SEO for manufacturers Bhiwadi",
       "SEO for OEM suppliers Bhiwadi", "industrial product SEO Pathredi", "B2B SEO services Khairthal-Tijara",
     ],
   },

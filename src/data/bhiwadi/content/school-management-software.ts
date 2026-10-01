@@ -20,7 +20,7 @@ const content: FreelanceContent = {
       "school management software in Bhiwadi Rajasthan", "school software Bhiwadi Alwar", "school ERP software Khairthal-Tijara",
       "school management system Bhiwadi", "school fee management software Bhiwadi", "school attendance software Bhiwadi",
       "school management software price Bhiwadi", "school ERP cost in Bhiwadi", "school software developer Bhiwadi",
-      "school management software company Bhiwadi", "school app for parents Bhiwadi", "report card software Bhiwadi",
+      "school management software developer Bhiwadi", "school app for parents Bhiwadi", "report card software Bhiwadi",
       "school management software Tapukara", "school ERP Neemrana", "school software Tijara", "school management software Dharuhera",
       "school software banwana hai Bhiwadi", "school ki fees software", "school management software services Rajasthan",
       "custom school ERP Bhiwadi", "CBSE school software Bhiwadi", "RBSE school management software",

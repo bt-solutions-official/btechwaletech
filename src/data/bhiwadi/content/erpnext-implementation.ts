@@ -219,7 +219,7 @@ const content: FreelanceContent = {
         "Red flag: training limited to a single video call for the whole company",
       ],
       after: [
-        `On compliance: ERPNext can produce GST-ready documents and reports, but your CA remains responsible for returns, and auditors for audits. We configure the records; they sign. If you are weighing ERPNext against a packaged product or a bespoke build, the <a href='/bhiwadi-rajasthan/software-development-company/'>software development guide for Bhiwadi</a> sets out the broader choice.`,
+        `On compliance: ERPNext can produce GST-ready documents and reports, but your CA remains responsible for returns, and auditors for audits. We configure the records; they sign. If you are weighing ERPNext against a packaged product or a bespoke build, the <a href='/bhiwadi-rajasthan/software-development-services/'>software development guide for Bhiwadi</a> sets out the broader choice.`,
       ],
     },
     {

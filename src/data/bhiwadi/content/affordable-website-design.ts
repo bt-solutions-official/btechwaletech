@@ -409,7 +409,7 @@ const content: FreelanceContent = {
     links: [
       { name: "All services in Bhiwadi", href: "/bhiwadi-rajasthan/" },
       { name: "Website development cost in Bhiwadi", href: "/bhiwadi-rajasthan/website-development-cost/" },
-      { name: "Website development company in Bhiwadi", href: "/bhiwadi-rajasthan/website-development/" },
+      { name: "Website development services in Bhiwadi", href: "/bhiwadi-rajasthan/website-development/" },
       { name: "Website designer in Bhiwadi", href: "/bhiwadi-rajasthan/website-designer/" },
       { name: "Shop website", href: "/bhiwadi-rajasthan/retail-shop-website/" },
       { name: "Doctor and clinic website", href: "/bhiwadi-rajasthan/doctor-clinic-website/" },

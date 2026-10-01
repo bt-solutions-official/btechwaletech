@@ -18,7 +18,7 @@ const content: FreelanceContent = {
     keywords: [
       "delivery app development in Bhiwadi", "delivery app development near me", "delivery app development in Bhiwadi Rajasthan",
       "delivery app developer Bhiwadi Alwar", "grocery delivery app Bhiwadi", "water can delivery app Bhiwadi", "milk delivery app Bhiwadi",
-      "gas cylinder delivery app Bhiwadi", "food delivery app for restaurant Bhiwadi", "delivery app development company in Bhiwadi",
+      "gas cylinder delivery app Bhiwadi", "food delivery app for restaurant Bhiwadi", "delivery app development services in Bhiwadi",
       "delivery app development services Bhiwadi", "delivery app cost in Bhiwadi", "rider app development Bhiwadi",
       "local delivery app with cash on delivery", "delivery app with live tracking India", "hyperlocal delivery app Bhiwadi",
       "delivery app Tapukara", "delivery app Khushkhera", "delivery app Chopanki", "delivery app Neemrana", "delivery app Dharuhera",

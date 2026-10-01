@@ -18,7 +18,7 @@ const content: FreelanceContent = {
     keywords: [
       "dealer ordering app in Bhiwadi", "dealer ordering app near me", "dealer ordering app in Bhiwadi Rajasthan",
       "dealer app for manufacturer Bhiwadi Alwar", "distributor ordering app Bhiwadi", "B2B ordering app for dealers",
-      "dealer management app Bhiwadi", "dealer app development company in Bhiwadi", "dealer app developer Bhiwadi",
+      "dealer management app Bhiwadi", "dealer app development services in Bhiwadi", "dealer app developer Bhiwadi",
       "dealer ordering app cost", "dealer app price Bhiwadi", "dealer app with scheme and price list", "dealer ledger app Tally",
       "distributor app with credit limit", "dealer portal development Bhiwadi", "dealer ordering app Chopanki",
       "dealer ordering app Khushkhera", "dealer app Tapukara", "dealer app Neemrana", "B2B order app for electrical manufacturer",
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
       { name: "Inventory software for Bhiwadi units", href: "/bhiwadi-rajasthan/inventory-management-software/" },
       { name: "Manufacturing ERP in Bhiwadi", href: "/bhiwadi-rajasthan/erp-software-for-manufacturing/" },
       { name: "WhatsApp Business API for manufacturers", href: "/bhiwadi-rajasthan/whatsapp-business-api/" },
-      { name: "Mobile app company in Bhiwadi", href: "/bhiwadi-rajasthan/mobile-app-development/" },
+      { name: "Mobile app developer in Bhiwadi", href: "/bhiwadi-rajasthan/mobile-app-development/" },
       { name: "B2B ordering app guide", href: "/b2b-ordering-app/" },
       { name: "Distributor management system", href: "/distributor-management-system/" },
       { name: "Dealer loyalty programme app", href: "/dealer-loyalty-program-app/" },

@@ -161,7 +161,7 @@ const content: FreelanceContent = {
         { heading: "Integrations", text: "Tally, WhatsApp, SMS, GST portal data and payment links each need API work and careful error handling." },
         { heading: "Old data", text: "Cleaning and importing years of Excel sheets or an old MySQL database is the item people underestimate most often." },
       ],
-      after: [`Other developers’ quotes for the same brief vary widely, usually because of these same drivers rather than skill alone. Our <a href='/bhiwadi-rajasthan/software-development-company/'>software development page for Bhiwadi</a> shows how a full itemised quote is laid out, line by line.`],
+      after: [`Other developers’ quotes for the same brief vary widely, usually because of these same drivers rather than skill alone. Our <a href='/bhiwadi-rajasthan/software-development-services/'>software development page for Bhiwadi</a> shows how a full itemised quote is laid out, line by line.`],
     },
     {
       id: "process",

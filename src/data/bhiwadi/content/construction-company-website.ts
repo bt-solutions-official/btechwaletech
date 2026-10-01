@@ -424,7 +424,7 @@ const content: FreelanceContent = {
       { name: "Landing page design", href: "/bhiwadi-rajasthan/landing-page-design/" },
       { name: "Local SEO in Bhiwadi", href: "/bhiwadi-rajasthan/local-seo/" },
       { name: "Google Business Profile setup", href: "/bhiwadi-rajasthan/google-business-profile/" },
-      { name: "Website development company", href: "/bhiwadi-rajasthan/website-development/" },
+      { name: "Website development services", href: "/bhiwadi-rajasthan/website-development/" },
       { name: "Mobile app development", href: "/bhiwadi-rajasthan/mobile-app-development/" },
       { name: "Manufacturing company website", href: "/bhiwadi-rajasthan/manufacturing-company-website/" },
       { name: "Construction company website design (India)", href: "/construction-company-website-design/" },

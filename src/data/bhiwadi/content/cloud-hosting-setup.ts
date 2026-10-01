@@ -251,7 +251,7 @@ const content: FreelanceContent = {
       ],
       after: [
         `Where the app holds personal data, such as employee phone numbers or visitor records, we keep it in an Indian region, collect only what is needed and restrict who can export it. India’s Digital Personal Data Protection Act, 2023 applies to such data; we build the technical controls, and your own adviser confirms what the business must do.`,
-        `For wider IT questions beyond hosting, such as which laptop, router or antivirus to buy, the <a href='/bhiwadi-rajasthan/it-company/'>IT services in Bhiwadi</a> page sets out what a small software team covers and what belongs with a hardware vendor.`,
+        `For wider IT questions beyond hosting, such as which laptop, router or antivirus to buy, the <a href='/bhiwadi-rajasthan/it-solutions/'>IT services in Bhiwadi</a> page sets out what a small software team covers and what belongs with a hardware vendor.`,
       ],
     },
     {
@@ -438,8 +438,8 @@ const content: FreelanceContent = {
       { name: "Tally integration developer", href: "/bhiwadi-rajasthan/tally-integration/" },
       { name: "SaaS product development", href: "/bhiwadi-rajasthan/saas-product-development/" },
       { name: "MVP development for startups", href: "/bhiwadi-rajasthan/startup-mvp-development/" },
-      { name: "IT services in Bhiwadi", href: "/bhiwadi-rajasthan/it-company/" },
-      { name: "Software development in Bhiwadi", href: "/bhiwadi-rajasthan/software-development-company/" },
+      { name: "IT services in Bhiwadi", href: "/bhiwadi-rajasthan/it-solutions/" },
+      { name: "Software development in Bhiwadi", href: "/bhiwadi-rajasthan/software-development-services/" },
       { name: "Full stack developer in Bhiwadi", href: "/bhiwadi-rajasthan/full-stack-developer/" },
       { name: "Website development in Bhiwadi", href: "/bhiwadi-rajasthan/website-development/" },
       { name: "Cloud hosting setup freelancer (India)", href: "/cloud-hosting-setup-freelancer/" },

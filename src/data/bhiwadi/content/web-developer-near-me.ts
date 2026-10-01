@@ -404,7 +404,7 @@ const content: FreelanceContent = {
     heading: "More from our Bhiwadi pages",
     links: [
       { name: "Bhiwadi services hub", href: "/bhiwadi-rajasthan/" },
-      { name: "Website development company in Bhiwadi", href: "/bhiwadi-rajasthan/website-development/" },
+      { name: "Website development services in Bhiwadi", href: "/bhiwadi-rajasthan/website-development/" },
       { name: "Freelance developer in Bhiwadi", href: "/bhiwadi-rajasthan/freelance-developer/" },
       { name: "Website designer in Bhiwadi", href: "/bhiwadi-rajasthan/website-designer/" },
       { name: "Full stack developer", href: "/bhiwadi-rajasthan/full-stack-developer/" },

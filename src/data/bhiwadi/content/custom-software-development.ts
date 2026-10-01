@@ -17,7 +17,7 @@ const content: FreelanceContent = {
     description: `Custom software development in Bhiwadi from ${P.software}: discovery at your unit, one to one, a written spec, and source code that stays yours.`,
     keywords: [
       "custom software development in Bhiwadi", "custom software development near me", "custom software developer Bhiwadi Rajasthan",
-      "bespoke software Bhiwadi", "custom software company Bhiwadi Alwar", "custom software development services Bhiwadi",
+      "bespoke software Bhiwadi", "custom software developer Bhiwadi Alwar", "custom software development services Bhiwadi",
       "tailor made software Bhiwadi", "custom software for factory Bhiwadi", "custom software Chopanki", "custom software Khushkhera",
       "custom software Tapukara", "custom software Neemrana", "custom software development cost Bhiwadi", "custom software price Rajasthan",
       "software requirement specification Bhiwadi", "who owns source code custom software", "custom software developer who visits factory",
@@ -29,7 +29,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Bespoke software · Bhiwadi",
     h1: "Custom software development in Bhiwadi for workflows no ready-made product fits",
-    lede: `Custom software development in Bhiwadi makes sense when your process is too unusual for any packaged product: a job-work loop across subcontractors, one buyer's odd labelling rule, an approval chain that lives in a single manager's head. We are three freelance developers who begin with discovery face to face at your premises in Bhiwadi, turn what we see into a written specification you sign, and build from ${P.software}. The <a href='/bhiwadi-rajasthan/software-development-company/'>broader software guide for Bhiwadi</a> covers packaged options too.`,
+    lede: `Custom software development in Bhiwadi makes sense when your process is too unusual for any packaged product: a job-work loop across subcontractors, one buyer's odd labelling rule, an approval chain that lives in a single manager's head. We are three freelance developers who begin with discovery face to face at your premises in Bhiwadi, turn what we see into a written specification you sign, and build from ${P.software}. The <a href='/bhiwadi-rajasthan/software-development-services/'>broader software guide for Bhiwadi</a> covers packaged options too.`,
     pills: ["Discovery at your premises", "Written specification", "Source code in your name", "Web app plus Android", "Tally and WhatsApp links", "Hindi-first screens", "Face-to-face reviews in Bhiwadi"],
     origin: "A freelance team of three · discovery meetings one to one in Bhiwadi · WhatsApp every day of the week",
   },
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
     heading: "Related software pages for Bhiwadi",
     links: [
       { name: "Bhiwadi services hub", href: "/bhiwadi-rajasthan/" },
-      { name: "Software development company in Bhiwadi", href: "/bhiwadi-rajasthan/software-development-company/" },
+      { name: "Software development services in Bhiwadi", href: "/bhiwadi-rajasthan/software-development-services/" },
       { name: "Convert Excel to software", href: "/bhiwadi-rajasthan/excel-to-software/" },
       { name: "Web application development", href: "/bhiwadi-rajasthan/web-app-development/" },
       { name: "ERP software for manufacturing", href: "/bhiwadi-rajasthan/erp-software-for-manufacturing/" },

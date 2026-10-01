@@ -18,7 +18,7 @@ const content: FreelanceContent = {
     keywords: [
       "local SEO in Bhiwadi", "local SEO near me Bhiwadi", "local SEO in Bhiwadi Rajasthan", "local SEO Bhiwadi Alwar",
       "Google Maps ranking Bhiwadi", "map pack SEO Bhiwadi", "Google Maps listing Bhiwadi", "local SEO services Bhiwadi",
-      "local SEO company in Bhiwadi", "local SEO expert Bhiwadi", "local SEO cost Bhiwadi", "local SEO price Bhiwadi",
+      "local SEO services in Bhiwadi", "local SEO expert Bhiwadi", "local SEO cost Bhiwadi", "local SEO price Bhiwadi",
       "local SEO Tapukara", "local SEO Chopanki", "local SEO Khushkhera", "local SEO Neemrana",
       "Google Maps par business kaise laye Bhiwadi", "Bhiwadi me Google Maps par dukan", "NAP citation cleanup Bhiwadi",
       "Google reviews badhane ka tarika", "local SEO for clinics Bhiwadi", "local SEO for shops Bhiwadi",

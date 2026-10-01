@@ -23,7 +23,7 @@ const content: FreelanceContent = {
       "clinic website Tapukara", "clinic website Chopanki", "doctor website Khushkhera", "clinic website Neemrana",
       "doctor ki website kaise banaye", "clinic ki website banwani hai Bhiwadi", "doctor website Hindi English",
       "Google reviews for doctors Bhiwadi", "medical advertising rules doctor website India", "local SEO for doctors Bhiwadi",
-      "best website for doctors in Bhiwadi", "doctor website company near me",
+      "best website for doctors in Bhiwadi", "doctor website developer near me",
     ],
   },
   hero: {

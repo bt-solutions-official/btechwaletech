@@ -17,7 +17,7 @@ const content: FreelanceContent = {
     description: `Hospital website design in Bhiwadi from ${P.site}: department pages, doctor profiles, OPD timings and appointment requests. We meet your team in person.`,
     keywords: [
       "hospital website design in Bhiwadi", "hospital website design Bhiwadi", "hospital website designer near me", "hospital website design in Bhiwadi Rajasthan",
-      "hospital website Bhiwadi Alwar", "hospital website developer Bhiwadi", "hospital website design company Bhiwadi", "hospital website services Bhiwadi",
+      "hospital website Bhiwadi Alwar", "hospital website developer Bhiwadi", "hospital website design designer Bhiwadi", "hospital website services Bhiwadi",
       "hospital website design cost Bhiwadi", "hospital website price Bhiwadi", "multispeciality hospital website Bhiwadi", "nursing home website Bhiwadi",
       "hospital appointment booking website Bhiwadi", "doctor profile page hospital website", "OPD timing page hospital website", "hospital website Tapukara",
       "hospital website Khushkhera", "hospital website Neemrana", "hospital website Chopanki", "hospital ki website banwani hai Bhiwadi",

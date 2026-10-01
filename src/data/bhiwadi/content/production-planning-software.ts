@@ -21,7 +21,7 @@ const content: FreelanceContent = {
       "machine loading software", "shop floor planning software Chopanki", "production planning software Khushkhera", "PPC software Tapukara",
       "production planning software Neemrana", "OEE report software for small factory", "work order software for manufacturing",
       "production planning software cost", "production planning software price in India", "custom PPC software developer",
-      "production planning software company Bhiwadi", "production planning software services", "shift production report app",
+      "production planning software developer Bhiwadi", "production planning software services", "shift production report app",
       "production planning software for auto components", "utpadan yojana software", "production planning software Hindi",
       "factory production software kaise banwaye", "Excel to production planning software", "job card software for factory",
     ],
@@ -313,7 +313,7 @@ const content: FreelanceContent = {
       id: "approach-fit",
       eyebrow: "Decision",
       heading: "Which planning approach fits your plant?",
-      note: `A rough guide. The meeting at your unit settles it; <a href='/bhiwadi-rajasthan/software-development-company/'>software development in Bhiwadi</a> explains how we compare options.`,
+      note: `A rough guide. The meeting at your unit settles it; <a href='/bhiwadi-rajasthan/software-development-services/'>software development in Bhiwadi</a> explains how we compare options.`,
       columns: ["Your situation", "Stay on Excel", "Packaged module", "Custom planning app"],
       rows: [
         ["Under 12 machines, one planner, one shift", "Usually enough", "Overkill", "Only if growth is near"],

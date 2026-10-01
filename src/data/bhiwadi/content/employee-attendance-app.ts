@@ -19,7 +19,7 @@ const content: FreelanceContent = {
       "employee attendance app in Bhiwadi", "employee attendance app near me", "employee attendance app in Bhiwadi Rajasthan",
       "attendance app for factory Bhiwadi Alwar", "geofence attendance app Bhiwadi", "selfie attendance app for workers",
       "GPS attendance app for site staff", "shift attendance app for factory", "attendance app with payroll export",
-      "employee attendance app development company Bhiwadi", "attendance app developer Bhiwadi", "employee attendance app cost Bhiwadi",
+      "employee attendance app development services Bhiwadi", "attendance app developer Bhiwadi", "employee attendance app cost Bhiwadi",
       "attendance software price Bhiwadi", "attendance app Chopanki", "attendance app Khushkhera", "attendance app Tapukara",
       "attendance app Neemrana", "contract worker attendance app Bhiwadi", "overtime calculation app India",
       "attendance app banwana hai Bhiwadi", "hajri app for factory", "biometric attendance integration Bhiwadi",

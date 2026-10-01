@@ -11,19 +11,19 @@ import { pricingPlans, pricingNote, usdPrice } from "@data/pricing/plans";
 import { countryOgImage, priceRows, regions, usd } from "@data/countries/international";
 import type { FreelanceContent } from "@data/freelance/types";
 import type { Market } from "@data/keywords/markets";
-import type { Place } from "@data/bhiwadi/place";
+import type { Place } from "@data/places";
 
 interface Props {
   content: FreelanceContent;
   /** Set on /{country}/{service}/ pages: the one country the page is written for (USD prices, its locale and areaServed). */
   market?: Market;
-  /** Set on /bhiwadi-rajasthan/ pages: INR prices, City areaServed and a button to book an in-person meeting there. */
+  /** Set on place pages (/bhiwadi-rajasthan/, /gujarat/): INR prices, the place's breadcrumbs and areaServed, and a meeting button where we meet in person. */
   place?: Place;
 }
 
 const { content: c, market, place } = Astro.props;
 const url = canonicalUrl(c.path);
-const meetHref = place && `${siteContact.whatsappHref.split("?")[0]}?text=${encodeURIComponent(`Hello BtechWaleTech, I want to meet one to one in ${place.name} about: ${c.crumb}`)}`;
+const meetHref = place?.meetIn && `${siteContact.whatsappHref.split("?")[0]}?text=${encodeURIComponent(`Hello BtechWaleTech, I want to meet one to one in ${place.meetIn} about: ${c.crumb}`)}`;
 
 const page = createPageSeo({
   title: c.meta.title,
@@ -34,12 +34,7 @@ const page = createPageSeo({
   breadcrumbs: createBreadcrumbs(market
     ? [{ label: "Countries", href: "/countries/" }, { label: market.name, href: `/${market.slug}/` }, { label: c.crumb, href: c.path }]
     : place
-      ? [
-          { label: "India", href: "/india/" },
-          { label: place.state, href: place.stateHref },
-          { label: place.name, href: place.path },
-          ...(c.path === place.path ? [] : [{ label: c.crumb, href: c.path }]),
-        ]
+      ? [...place.crumbs, ...(c.path === place.path ? [] : [{ label: c.crumb, href: c.path }])]
       : [{ label: c.crumb, href: c.path }]),
   locale: market?.locale,
   ogImage: countryOgImage(`${siteBrand.name}: IT freelancers in India building websites, apps, SEO and AI automation for clients worldwide`),
@@ -74,10 +69,7 @@ const serviceSchema = {
   address: { "@type": "PostalAddress", addressCountry: "IN" },
   knowsLanguage: ["en", "hi"],
   employee: team,
-  areaServed: market ? [{ "@type": "Country", name: market.name }] : place ? [
-    { "@type": "City", name: place.name, containedInPlace: { "@type": "State", name: place.state } },
-    { "@type": "GeoCircle", geoMidpoint: { "@type": "GeoCoordinates", latitude: place.lat, longitude: place.lng }, geoRadius: 30000 },
-  ] : [
+  areaServed: market ? [{ "@type": "Country", name: market.name }] : place ? place.areaServed : [
     { "@type": "Country", name: "India" },
     ...["United States", "United Kingdom", "Canada", "Australia", "New Zealand", "United Arab Emirates", "Saudi Arabia", "Singapore", "Japan", "Germany", "Netherlands"]
       .map((name) => ({ "@type": "Country", name })),
@@ -137,7 +129,7 @@ const webPageSchema = {
             <span class="btn-arrow" aria-hidden="true">&rarr;</span>
           </a>
           <a class="btn-ghost" href={siteContact.phoneHref}>Call {siteContact.phone}</a>
-          {place && <a class="btn-ghost" href={meetHref} target="_blank" rel="noopener noreferrer">Book a one-to-one meeting in {place.name}</a>}
+          {meetHref && <a class="btn-ghost" href={meetHref} target="_blank" rel="noopener noreferrer">Book a one-to-one meeting in {place?.meetIn}</a>}
         </div>
         <ul class="hero-pills" aria-label="What we do">
           {c.hero.pills.map((p) => <li>{p}</li>)}
@@ -155,7 +147,7 @@ const webPageSchema = {
             <li><span>{plan.name}</span><strong><small>from </small>{market ? usdPrice(plan.price) : <>{plan.price} <small>/ {usdPrice(plan.price)}</small></>}</strong></li>
           ))}
         </ul>
-        <p class="quote-foot">{market ? "Quoted in US dollars." : place ? `Quoted in INR. We meet you face to face in ${place.name}.` : "INR for India, USD for international clients."} 2 months maintenance free after launch. Itemised quote in 2 working days.</p>
+        <p class="quote-foot">{market ? "Quoted in US dollars." : place?.meetIn ? `Quoted in INR. We meet you face to face in ${place.meetIn}.` : place ? "Quoted in INR." : "INR for India, USD for international clients."} 2 months maintenance free after launch. Itemised quote in 2 working days.</p>
         <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
           <span>Get my quote on WhatsApp</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
         </a>

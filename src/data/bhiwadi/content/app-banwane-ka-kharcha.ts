@@ -20,7 +20,7 @@ const content: FreelanceContent = {
       "Bhiwadi me app kaise banwaye", "app development cost in Bhiwadi Rajasthan", "app banwana hai Bhiwadi", "Bhiwadi Alwar app developer",
       "mobile app price Bhiwadi", "Android app banwane ka kharcha", "iPhone app banwane ka kharcha", "app banne me kitna time lagta hai",
       "factory ke liye app kaise banwaye", "attendance app kharcha", "dealer app banwane ka kharcha", "delivery app kitne me banta hai",
-      "Chopanki app developer", "Khushkhera factory app", "Tapukara app development", "Neemrana app development company",
+      "Chopanki app developer", "Khushkhera factory app", "Tapukara app development", "Neemrana app development services",
       "app development services Bhiwadi", "Play Store par app kaise daale", "kam paise me app kaise banwaye", "app maintenance kharcha",
       "Flutter app cost Bhiwadi",
     ],

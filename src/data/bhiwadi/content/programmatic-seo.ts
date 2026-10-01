@@ -20,8 +20,8 @@ const content: FreelanceContent = {
       "SEO website 299 pages", "product city pages SEO", "service area pages website", "location pages for manufacturers",
       "programmatic SEO Bhiwadi Alwar", "programmatic SEO Chopanki", "programmatic SEO Khushkhera", "programmatic SEO Tapukara",
       "programmatic SEO Neemrana", "programmatic SEO website cost", "SEO website price Bhiwadi", "programmatic SEO developer Bhiwadi",
-      "programmatic SEO services Bhiwadi", "programmatic SEO company Bhiwadi", "har sheher ke liye alag page", "zyada pages wali SEO website",
-      "city landing pages without duplicate content", "scaled content Google policy", "pages at scale for B2B", "multi location SEO website Bhiwadi",
+      "programmatic SEO services Bhiwadi", "har sheher ke liye alag page", "zyada pages wali SEO website", "city landing pages without duplicate content",
+      "scaled content Google policy", "pages at scale for B2B", "multi location SEO website Bhiwadi",
     ],
   },
   hero: {

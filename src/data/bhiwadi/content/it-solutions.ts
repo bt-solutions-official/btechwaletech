@@ -9,26 +9,26 @@ const P = {
 };
 
 const content: FreelanceContent = {
-  path: "/bhiwadi-rajasthan/it-company/",
-  crumb: "IT company",
+  path: "/bhiwadi-rajasthan/it-solutions/",
+  crumb: "IT solutions",
   updated: "2026-09-27",
   meta: {
-    title: "IT Company in Bhiwadi: Software & Apps, Meet in Person",
-    description: `IT company in Bhiwadi for websites, apps and custom software from ${P.site}. Three freelance developers meet you one to one at your unit. No hardware sales.`,
+    title: "IT Solutions in Bhiwadi, Meet Us in Person",
+    description: `IT solutions in Bhiwadi for websites, apps and custom software from ${P.site}. Three freelance developers meet you one to one at your unit. No hardware sales.`,
     keywords: [
-      "IT company in Bhiwadi", "IT company near me Bhiwadi", "IT company in Bhiwadi Rajasthan", "IT company Bhiwadi Alwar",
-      "IT services in Bhiwadi", "IT solutions Bhiwadi", "software company in Bhiwadi", "IT company in Chopanki",
-      "IT services Khushkhera", "IT company Tapukara", "IT company Neemrana", "IT services cost in Bhiwadi",
-      "IT company charges in Bhiwadi", "Bhiwadi me IT company", "IT company Bhiwadi industrial area", "IT support for factories in Bhiwadi",
-      "website and software company Bhiwadi", "IT services provider Bhiwadi", "best IT company in Bhiwadi", "IT company for MSME Bhiwadi",
-      "IT company for small business Bhiwadi", "IT developers in Bhiwadi", "IT services Khairthal-Tijara", "IT company Dharuhera Bhiwadi",
+      "IT solutions in Bhiwadi", "IT solutions near me Bhiwadi", "IT solutions in Bhiwadi Rajasthan", "IT solutions Bhiwadi Alwar",
+      "IT services in Bhiwadi", "IT solutions Bhiwadi", "software developer in Bhiwadi", "IT solutions in Chopanki",
+      "IT services Khushkhera", "IT solutions Tapukara", "IT solutions Neemrana", "IT services cost in Bhiwadi",
+      "IT solutions charges in Bhiwadi", "Bhiwadi me IT solutions", "IT solutions Bhiwadi industrial area", "IT support for factories in Bhiwadi",
+      "website and software developer Bhiwadi", "IT services provider Bhiwadi", "best IT solutions in Bhiwadi", "IT solutions for MSME Bhiwadi",
+      "IT solutions for small business Bhiwadi", "IT developers in Bhiwadi", "IT services Khairthal-Tijara", "IT solutions Dharuhera Bhiwadi",
       "app and website developers Bhiwadi",
     ],
   },
   hero: {
     eyebrow: "IT services · Bhiwadi, Rajasthan",
-    h1: "IT company in Bhiwadi: what a three-developer team builds for you, and what it leaves to other trades",
-    lede: `Searching for an IT company in Bhiwadi usually means you want one dependable party for your website, software, apps and automation. BtechWaleTech is three freelance developers who build exactly that layer, from a business website at ${P.site} to custom software from ${P.software}, and we meet you one to one at your unit in Bhiwadi before anything is quoted. We do not sell cameras, cabling or computers; this page shows where our work ends, and the <a href='/bhiwadi-rajasthan/'>Bhiwadi services overview</a> lists everything we do build.`,
+    h1: "IT solutions in Bhiwadi: what a three-developer team builds for you, and what it leaves to other trades",
+    lede: `Searching for a freelance IT team in Bhiwadi usually means you want one dependable party for your website, software, apps and automation. BtechWaleTech is three freelance developers who build exactly that layer, from a business website at ${P.site} to custom software from ${P.software}, and we meet you one to one at your unit in Bhiwadi before anything is quoted. We do not sell cameras, cabling or computers; this page shows where our work ends, and the <a href='/bhiwadi-rajasthan/'>Bhiwadi services overview</a> lists everything we do build.`,
     pills: ["Websites", "Custom software", "Android & iOS apps", "AI & WhatsApp automation", "SEO & Google profile", "Cloud hosting", "No hardware sales"],
     origin: "Three freelance developers · one-to-one meetings at your unit in Bhiwadi · WhatsApp replies 7 days a week",
   },
@@ -47,8 +47,8 @@ const content: FreelanceContent = {
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
-    heading: "What does an IT company in Bhiwadi do, and which part do you need?",
-    text: `An IT company in Bhiwadi usually covers two separate trades: software (websites, apps, billing or ERP tools, automation) and hardware (PCs, networks, CCTV, biometric devices). BtechWaleTech handles only software: websites from ${P.site}, apps from ${P.app} and custom software from ${P.software}. We meet you one to one in Bhiwadi, map what you need and tell you which hardware jobs belong to an installer.`,
+    heading: "What does a freelance IT team in Bhiwadi do, and which part do you need?",
+    text: `A freelance IT team in Bhiwadi usually covers two separate trades: software (websites, apps, billing or ERP tools, automation) and hardware (PCs, networks, CCTV, biometric devices). BtechWaleTech handles only software: websites from ${P.site}, apps from ${P.app} and custom software from ${P.software}. We meet you one to one in Bhiwadi, map what you need and tell you which hardware jobs belong to an installer.`,
     more: `If you are still deciding what to buy, a <a href='/bhiwadi-rajasthan/it-consultant/'>one-to-one IT consultation in Bhiwadi</a> comes first; if you already know you need a tool built, start with <a href='/bhiwadi-rajasthan/custom-software-development/'>custom software for Bhiwadi units</a>.`,
   },
   snapshot: {
@@ -69,7 +69,7 @@ const content: FreelanceContent = {
     note: "Each card is a separate piece of work with its own starting price. Most units begin with one and add the next when the first is paying for itself.",
     cards: [
       { name: "Business websites", note: `Capability, product and contact pages that load fast on mobile data, with an RFQ form and WhatsApp button, from ${P.site}.`, href: "/bhiwadi-rajasthan/website-development/", size: "lg" },
-      { name: "Custom business software", note: `Gate pass, stores, dispatch, attendance or dealer tools shaped around how your plant already works, from ${P.software}.`, href: "/bhiwadi-rajasthan/software-development-company/", size: "lg" },
+      { name: "Custom business software", note: `Gate pass, stores, dispatch, attendance or dealer tools shaped around how your plant already works, from ${P.software}.`, href: "/bhiwadi-rajasthan/software-development-services/", size: "lg" },
       { name: "Android & iOS apps", note: `Apps for supervisors, salesmen or customers, built once in Flutter or React Native and published on both stores, from ${P.app}.`, href: "/bhiwadi-rajasthan/mobile-app-development/", size: "md" },
       { name: "AI and WhatsApp automation", note: `Daily reports, enquiry replies and invoice reading wired into the tools you already use, from ${P.ai}.`, href: "/bhiwadi-rajasthan/ai-automation/", size: "md" },
       { name: "SEO and Google profile", note: `Search Console, Google Business Profile and content that buyers find, from ${P.seo}. Nobody can promise rankings.`, href: "/bhiwadi-rajasthan/seo-services/", size: "md" },
@@ -96,18 +96,18 @@ const content: FreelanceContent = {
     fine: "If you need a technician on site every week for PCs and networks, a local hardware provider will serve you better than any software team, including ours.",
   },
   pricing: {
-    heading: "IT company pricing in Bhiwadi: starting points for each kind of work",
+    heading: "IT solutions pricing in Bhiwadi: starting points for each kind of work",
     note: "The table lists where each type of software project starts. A quote for a Bhiwadi unit moves up from these floors when more user roles are involved, when reports must match formats your buyers or auditors already use, when data has to be pulled from Tally or a device, and when years of spreadsheets need cleaning before import. It does not move because of the town you are in. Hardware never appears in our quotes, so you can compare our line items directly with other software offers, and every figure is agreed in writing before any work begins.",
   },
-  guideLabel: "IT company in Bhiwadi: the complete guide",
+  guideLabel: "IT solutions in Bhiwadi: the complete guide",
   guide: [
     {
       id: "what-it-covers",
-      heading: "What does an IT company in Bhiwadi actually do?",
+      heading: "What does a freelance IT team in Bhiwadi actually do?",
       paragraphs: [
-        `It builds and runs the digital tools a business depends on, and in Bhiwadi the label stretches across a surprisingly wide spread of work. Ask ten owners in the RIICO industrial area what they expect from an IT company and the answers range from “fix the printer” to “build us a dispatch app”.`,
+        `It builds and runs the digital tools a business depends on, and in Bhiwadi the label stretches across a surprisingly wide spread of work. Ask ten owners in the RIICO industrial area what they expect from a freelance IT team and the answers range from “fix the printer” to “build us a dispatch app”.`,
         `It helps to split that spread into two trades. The first is software: websites (see <a href='/bhiwadi-rajasthan/website-development/'>website development in Bhiwadi</a>), online stores, Android and iOS apps, custom web applications, dashboards, WhatsApp automation and the hosting behind all of them. The second is physical IT: desktops and laptops, LAN cabling, Wi-Fi, rack servers, CCTV cameras, biometric attendance machines and printers. Very few small providers do both well, because the skills barely overlap.`,
-        `BtechWaleTech sits entirely in the first trade. We are three freelance developers who write code, set up cloud accounts and look after what we build. When a plant manager needs new cameras at the gate, the right call is a security systems installer; when the same plant wants each gate entry recorded, searchable and reported, that is our job. The <a href='/bhiwadi-rajasthan/software-development-company/'>software development guide for Bhiwadi</a> goes deeper into the custom side.`,
+        `BtechWaleTech sits entirely in the first trade. We are three freelance developers who write code, set up cloud accounts and look after what we build. When a plant manager needs new cameras at the gate, the right call is a security systems installer; when the same plant wants each gate entry recorded, searchable and reported, that is our job. The <a href='/bhiwadi-rajasthan/software-development-services/'>software development guide for Bhiwadi</a> goes deeper into the custom side.`,
       ],
     },
     {
@@ -134,7 +134,7 @@ const content: FreelanceContent = {
     },
     {
       id: "meeting",
-      heading: "Can an IT company in Bhiwadi meet us in person at our factory?",
+      heading: "Can a freelance IT team in Bhiwadi meet us in person at our factory?",
       paragraphs: [
         `Yes. We meet you face to face in Bhiwadi, at your office, on the factory floor, at your shop or at a place you prefer, and that first sit-down is where most of the scoping happens. Book it on WhatsApp or by phone: tell us a date and place and we fix a time that suits both sides.`,
         `For an IT brief the meeting works like an inventory walk. We look at which computers run Tally and who uses them, where the Excel files that really run the plant are saved, what the security guard writes in the gate register, which phones the supervisors carry, and whether the old website has a login anyone still remembers. An hour of seeing this tells us more than a week of emails.`,
@@ -144,7 +144,7 @@ const content: FreelanceContent = {
     },
     {
       id: "cost",
-      heading: "How much does an IT company in Bhiwadi charge for software and websites?",
+      heading: "How much does a freelance IT team in Bhiwadi charge for software and websites?",
       paragraphs: [
         `Our starting prices are public. A static business website of up to 100 pages starts at ${P.site} (${P.siteUsd}); an SEO website of 299+ pages at ${P.seoSite}; an online store at ${P.shop}; Android and iOS apps at ${P.app}; custom software at ${P.software}; and AI automation at ${P.ai}. Monthly SEO begins at ${P.seo}, and maintenance starts at ${P.care} once the two free months after launch are over.`,
         `Each figure is a floor, not a package. What lifts a quote for a Bhiwadi unit is usually one of four things: how many user roles the system has (owner, accountant, supervisor, contractor, dealer), how many printed or exported reports you need, integrations with Tally, a device or a buyer's supplier portal, and how much old data must be cleaned before import.`,
@@ -153,7 +153,7 @@ const content: FreelanceContent = {
     },
     {
       id: "choose",
-      heading: "How do you choose an IT company in Bhiwadi you can trust?",
+      heading: "How do you choose a freelance IT team in Bhiwadi you can trust?",
       paragraphs: [
         `Judge any provider on work you can open yourself, a scope you can read line by line and terms you can keep. Logos on a slide prove very little.`,
       ],
@@ -215,7 +215,7 @@ const content: FreelanceContent = {
     },
     {
       id: "ownership",
-      heading: "Who owns the software an IT company builds for you?",
+      heading: "Who owns the software a freelance IT team builds for you?",
       paragraphs: [
         `You should, completely. Before work begins, the domain, hosting account, code repository, database and any Google Play or App Store developer accounts are opened in your business name, with us added as users.`,
         `This matters in Bhiwadi because many units change vendors every few years. If your website sits in a provider's personal hosting account, moving it can mean weeks of back-and-forth. If the source code of your billing tool was never handed over, the next developer starts from nothing.`,
@@ -263,9 +263,9 @@ const content: FreelanceContent = {
     },
     {
       id: "example",
-      heading: "Worked example: how an IT company in Bhiwadi might scope a Khushkhera unit",
+      heading: "Worked example: how a freelance IT team in Bhiwadi might scope a Khushkhera unit",
       paragraphs: [
-        `Say a 45-worker plastic moulding unit in Khushkhera, purely hypothetical, runs on Tally, one WhatsApp group and three spreadsheets. Its website was built years ago and nobody has the login. The owner searches for an IT company in Bhiwadi to sort it all out.`,
+        `Say a 45-worker plastic moulding unit in Khushkhera, purely hypothetical, runs on Tally, one WhatsApp group and three spreadsheets. Its website was built years ago and nobody has the login. The owner searches for a freelance IT team in Bhiwadi to sort it all out.`,
         `At the first face-to-face meeting we would sit with the accountant to see the Tally data, open the stores spreadsheet on the storekeeper's PC and ask the shift supervisor how output is reported today. The written note that follows might propose three phases.`,
       ],
       list: [
@@ -370,15 +370,15 @@ const content: FreelanceContent = {
       ["Launch and aftercare", "Accounts, code and logins are handed over in your name. Two months of maintenance are free, then from the plan price if you want us to continue."],
     ],
   },
-  faqHeading: "IT company in Bhiwadi: frequently asked questions",
+  faqHeading: "IT solutions in Bhiwadi: frequently asked questions",
   faqs: [
     { question: "Who is behind BtechWaleTech's IT services in Bhiwadi?", answer: "The BtechWaleTech team: three freelance developers. Within the team, one developer leads full-stack builds, another handles AI, cloud, data and technical SEO, and the third runs planning, automation and training. Together they build websites, apps, custom software and automation for Bhiwadi businesses, and meet clients one to one in Bhiwadi at their unit or a place they choose. They do not sell or install any hardware." },
-    { question: "How much does an IT company in Bhiwadi charge for a website?", answer: `With us, a static business website of up to 100 pages starts at ${P.site} and an SEO website of 299+ pages starts at ${P.seoSite}. The final figure depends on page count, custom features, who writes the content and any integrations. You get an itemised quote about two working days after the meeting, and nothing is charged before you approve it in writing.` },
+    { question: "How much does a freelance IT team in Bhiwadi charge for a website?", answer: `With us, a static business website of up to 100 pages starts at ${P.site} and an SEO website of 299+ pages starts at ${P.seoSite}. The final figure depends on page count, custom features, who writes the content and any integrations. You get an itemised quote about two working days after the meeting, and nothing is charged before you approve it in writing.` },
     { question: "Can you come to our factory in Bhiwadi for a meeting?", answer: "Yes. We meet face to face in Bhiwadi at your factory, office, shop or another place you choose. Message us on WhatsApp or call with a preferred date and place and we fix a time that suits both sides. Seeing your registers, PCs and the phones your staff use helps us scope the work properly before quoting." },
     { question: "Do you install CCTV, networking or computers?", answer: "No. We build software only: websites, apps, custom business tools, automation, SEO and cloud hosting. CCTV, LAN cabling, Wi-Fi, routers, PCs, printers and servers belong to hardware installers and computer shops. At the meeting we can help you separate those jobs from the software work so each vendor quotes only what they actually do." },
     { question: "Can your software connect to our biometric attendance machine?", answer: "Often, yes, but it depends on the device. We integrate with machines you already own where the device exposes its data through an export file or an API, and we work with devices you choose for new setups. We do not sell or install the machines. Share the make and model at the meeting and we check feasibility before quoting." },
     { question: "How long does a typical IT project take?", answer: "A static website takes one to two weeks, an SEO website three to five, an online store four to eight, an Android and iOS app six to ten, and custom software six to twelve. The biggest delays usually come from waiting for content, data or decisions, so naming one decision-maker on your side keeps the schedule moving." },
-    { question: "Is a small freelance team as good as a large IT company in Bhiwadi?", answer: "For websites, apps and custom tools with a clear scope, yes: you talk directly to the people writing the code and pay no layers of overhead. For projects needing twenty developers at once, or technicians on site every week for hardware, a larger provider fits better. We tell you honestly at the first meeting if your project is outside what three developers should take on." },
+    { question: "Is a small freelance team as good as a large IT agency in Bhiwadi?", answer: "For websites, apps and custom tools with a clear scope, yes: you talk directly to the people writing the code and pay no layers of overhead. For projects needing twenty developers at once, or technicians on site every week for hardware, a larger provider fits better. We tell you honestly at the first meeting if your project is outside what three developers should take on." },
     { question: "Who owns the code, domain and data you build for us?", answer: "You do. The domain, hosting account, code repository, database and any app store accounts are created in your business name from the start, with us added as users. At handover you receive the code, a list of all logins, an admin guide and technical notes, so any future developer can take over without starting again." },
     { question: "What maintenance do you provide after launch?", answer: `Every project includes two months of free maintenance after launch, covering bug fixes, updates, backups checks and small changes within the agreed scope. After that, maintenance starts at ${P.care} if you want us to continue. New features beyond the original scope are quoted separately so you always know the cost before any work begins.` },
     { question: "How do we pay for IT work in Bhiwadi?", answer: "Payments in India are made in INR by UPI or bank transfer. Projects are billed in stages tied to things you can see, such as an approved design or a working staging link, and the stages are written into your quote. Nothing is billed before you approve that quote in writing. For terms, see the terms and refund policy pages." },
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     heading: "Related IT services in Bhiwadi",
     links: [
       { name: "All services in Bhiwadi", href: "/bhiwadi-rajasthan/" },
-      { name: "Software development company", href: "/bhiwadi-rajasthan/software-development-company/" },
+      { name: "Software development services", href: "/bhiwadi-rajasthan/software-development-services/" },
       { name: "IT consultant", href: "/bhiwadi-rajasthan/it-consultant/" },
       { name: "Freelance developer in Bhiwadi", href: "/bhiwadi-rajasthan/freelance-developer/" },
       { name: "Full stack developer", href: "/bhiwadi-rajasthan/full-stack-developer/" },

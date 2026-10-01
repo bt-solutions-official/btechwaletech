@@ -17,7 +17,7 @@ const content: FreelanceContent = {
     description: `ERP software for manufacturing in Bhiwadi: BOM, MRP, stores, production and GST data from ${P.software}, scoped one to one on your shop floor in Bhiwadi.`,
     keywords: [
       "ERP software for manufacturing in Bhiwadi", "manufacturing ERP near me", "ERP software Bhiwadi Rajasthan", "ERP for factory Bhiwadi Alwar",
-      "manufacturing ERP developer Bhiwadi", "ERP software company Bhiwadi", "ERP for auto component manufacturers Bhiwadi", "ERP software Chopanki",
+      "manufacturing ERP developer Bhiwadi", "ERP software developer Bhiwadi", "ERP for auto component manufacturers Bhiwadi", "ERP software Chopanki",
       "ERP software Tapukara", "ERP for Khushkhera factories", "ERP software Neemrana", "production ERP RIICO Bhiwadi", "BOM and MRP software Bhiwadi",
       "ERP software price for small manufacturer", "manufacturing ERP cost Bhiwadi", "custom ERP vs packaged ERP", "ERP with GST e-invoice Bhiwadi",
       "job work ERP software Rajasthan", "factory ERP in Hindi", "factory ke liye ERP software", "ERP software banwana Bhiwadi",
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
       { name: "Quality management software", href: "/bhiwadi-rajasthan/quality-management-software/" },
       { name: "GST billing software", href: "/bhiwadi-rajasthan/billing-software/" },
       { name: "Custom software development", href: "/bhiwadi-rajasthan/custom-software-development/" },
-      { name: "Software development company in Bhiwadi", href: "/bhiwadi-rajasthan/software-development-company/" },
+      { name: "Software development services in Bhiwadi", href: "/bhiwadi-rajasthan/software-development-services/" },
       { name: "Tally integration developer", href: "/bhiwadi-rajasthan/tally-integration/" },
       { name: "ERP development cost in India", href: "/erp-software-development-cost-in-india/" },
       { name: "Odoo vs ERPNext", href: "/odoo-vs-erpnext/" },

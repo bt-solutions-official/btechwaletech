@@ -221,7 +221,7 @@ const content: FreelanceContent = {
         "Is the data in our cloud account, and can we export it?",
       ],
       after: [
-        `Weigh ready-made against custom honestly. A subscription product can be running in days if your process matches it; a custom system follows your forms and approvals exactly but needs a few weeks. Our <a href='/off-the-shelf-vs-custom-software/'>off-the-shelf versus custom software guide</a> sets out the choice, and <a href='/bhiwadi-rajasthan/software-development-company/'>software development in Bhiwadi</a> describes how we work with plants.`,
+        `Weigh ready-made against custom honestly. A subscription product can be running in days if your process matches it; a custom system follows your forms and approvals exactly but needs a few weeks. Our <a href='/off-the-shelf-vs-custom-software/'>off-the-shelf versus custom software guide</a> sets out the choice, and <a href='/bhiwadi-rajasthan/software-development-services/'>software development in Bhiwadi</a> describes how we work with plants.`,
       ],
     },
     {
