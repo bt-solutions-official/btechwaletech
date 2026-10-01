@@ -9,6 +9,8 @@ import { Image } from "astro:assets";
 import heroImage from "../assets/images/heromain.png";
 import cricketTakenImg from "../assets/images/crickettaken.png";
 import baithakImg from "../assets/images/baithak-webinar.png";
+import intimeImg from "../assets/images/intime-attendance.png";
+import anupToursImg from "../assets/images/anup-tours-travels.png";
 import cities from "@data/cities/cities.json";
 import type { CityListing } from "@data/cities/types";
 
@@ -505,9 +507,9 @@ const professionalServiceSchema = {
     <div class="section-wrap">
       <div class="section-head">
         <p class="eyebrow">Our works / Proof of work</p>
-        <h2 id="works-heading">Featured live projects: CricketTaken and Baithak</h2>
+        <h2 id="works-heading">Featured projects: live and in progress</h2>
         <p class="section-note">
-          A high-performance cricket records, dynamic scorecards & tournament analytics platform engineered for speed, deep data archiving, and organic sports search capture, and a recent client build: a bilingual webinar registration page that sells seats and confirms them on WhatsApp.
+          A high-performance cricket records, dynamic scorecards & tournament analytics platform engineered for speed, deep data archiving, and organic sports search capture; a recent client build: a bilingual webinar registration page that sells seats and confirms them on WhatsApp; and two ongoing builds: a face and location attendance app and a tours and travels website for Uttar Pradesh.
         </p>
       </div>
 
@@ -779,6 +781,276 @@ const professionalServiceSchema = {
             <div class="metric-item">
               <span class="metric-val">Hi + En</span>
               <span class="metric-lbl">Bilingual Copy</span>
+            </div>
+            <div class="metric-item">
+              <span class="metric-val">100%</span>
+              <span class="metric-lbl">Responsive</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ongoing project: InTime attendance app -->
+      <div class="work-showcase">
+        <div class="work-details">
+          <div class="work-status-row">
+            <span class="live-pulse-badge">
+              <span class="pulse-dot"></span>
+              Ongoing project
+            </span>
+            <span class="work-category">Mobile &amp; Web App &middot; Attendance</span>
+          </div>
+
+          <h3 class="work-title">InTime &mdash; Face and Location Attendance App</h3>
+          <p class="work-desc">
+            An attendance app in progress for teams on site and in the field: employees punch in with their face, each punch is verified by where they are standing, and admins manage the team's attendance from their own view.
+          </p>
+
+          <div class="work-tabs" role="tablist" aria-label="InTime project details">
+            <button class="work-tab active" data-work-tab="overview" role="tab" aria-selected="true" type="button">
+              Overview
+            </button>
+            <button class="work-tab" data-work-tab="features" role="tab" aria-selected="false" type="button">
+              Key Features
+            </button>
+            <button class="work-tab" data-work-tab="stack" role="tab" aria-selected="false" type="button">
+              Technical Stack
+            </button>
+          </div>
+
+          <div class="work-panels">
+            <div class="work-panel active" data-work-panel="overview" role="tabpanel">
+              <ul class="work-checklist">
+                <li>
+                  <strong>Face punch-in:</strong> Employees mark attendance with their face instead of a paper register or a shared card.
+                </li>
+                <li>
+                  <strong>Location-verified:</strong> Every punch is checked against where the employee is standing, which makes proxy attendance harder.
+                </li>
+                <li>
+                  <strong>Built for phones:</strong> A clean, single-column interface with a live clock, designed for quick punches at the start of a shift.
+                </li>
+              </ul>
+            </div>
+
+            <div class="work-panel" data-work-panel="features" role="tabpanel">
+              <ul class="work-checklist">
+                <li>
+                  <strong>Employee and admin roles:</strong> Separate sign-in for staff and for the admins who manage attendance.
+                </li>
+                <li>
+                  <strong>Punch in and out:</strong> Start and end of shift recorded with the time, the face check and the location.
+                </li>
+                <li>
+                  <strong>Team overview:</strong> Admins see who has punched in, from where and when.
+                </li>
+              </ul>
+            </div>
+
+            <div class="work-panel" data-work-panel="stack" role="tabpanel">
+              <ul class="work-checklist">
+                <li>
+                  <strong>Expo &amp; React Native:</strong> One codebase for Android, iOS and the web.
+                </li>
+                <li>
+                  <strong>Camera and location APIs:</strong> Device camera for the face check and GPS for location verification.
+                </li>
+                <li>
+                  <strong>Vercel web build:</strong> A live web preview the client can review on any device while the mobile apps are built.
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="work-actions">
+            <a class="btn-primary" href="https://attendence-app-pied.vercel.app/" target="_blank" rel="noopener noreferrer">
+              <span>View the demo</span>
+              <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+            </a>
+            <a class="btn-ghost" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+              <span>Discuss a similar project</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="work-mockup-wrapper">
+          <div class="browser-frame">
+            <div class="browser-bar">
+              <div class="browser-dots" aria-hidden="true">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+              <div class="browser-url">
+                <span class="lock-icon material-symbols-outlined" aria-hidden="true">lock</span>
+                https://attendence-app-pied.vercel.app
+              </div>
+              <a class="browser-external-link" href="https://attendence-app-pied.vercel.app/" target="_blank" rel="noopener noreferrer" title="Open the InTime demo in new tab">
+                <span class="material-symbols-outlined" aria-hidden="true">open_in_new</span>
+              </a>
+            </div>
+
+            <a class="browser-viewport" href="https://attendence-app-pied.vercel.app/" target="_blank" rel="noopener noreferrer">
+              <Image
+                src={intimeImg}
+                alt="InTime attendance app sign-in screen with live clock and face punch-in"
+                loading="lazy"
+                class="work-cover-img"
+                widths={[640, 960, 1280]}
+                sizes="(max-width: 768px) 100vw, 50vw"
+              />
+              <div class="browser-overlay">
+                <span class="overlay-cta">
+                  <span>Open Demo</span>
+                  <span class="btn-arrow">&rarr;</span>
+                </span>
+              </div>
+            </a>
+          </div>
+
+          <div class="work-metrics">
+            <div class="metric-item">
+              <span class="metric-val">Face + GPS</span>
+              <span class="metric-lbl">Punch Verification</span>
+            </div>
+            <div class="metric-item">
+              <span class="metric-val">2</span>
+              <span class="metric-lbl">User Roles</span>
+            </div>
+            <div class="metric-item">
+              <span class="metric-val">1</span>
+              <span class="metric-lbl">Codebase, 3 Platforms</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ongoing project: Anup Tours & Travels website -->
+      <div class="work-showcase">
+        <div class="work-details">
+          <div class="work-status-row">
+            <span class="live-pulse-badge">
+              <span class="pulse-dot"></span>
+              Ongoing project
+            </span>
+            <span class="work-category">Travel Website &middot; Uttar Pradesh</span>
+          </div>
+
+          <h3 class="work-title">Anup Tours &amp; Travels &mdash; Tour Packages and Cabs Across Uttar Pradesh</h3>
+          <p class="work-desc">
+            A travel website in progress for a Varanasi tour operator: tour packages, temple darshan trips and outstation cabs across all 75 districts of Uttar Pradesh, with every enquiry going straight to a call or WhatsApp.
+          </p>
+
+          <div class="work-tabs" role="tablist" aria-label="Anup Tours and Travels project details">
+            <button class="work-tab active" data-work-tab="overview" role="tab" aria-selected="true" type="button">
+              Overview
+            </button>
+            <button class="work-tab" data-work-tab="features" role="tab" aria-selected="false" type="button">
+              Key Features
+            </button>
+            <button class="work-tab" data-work-tab="stack" role="tab" aria-selected="false" type="button">
+              Technical Stack
+            </button>
+          </div>
+
+          <div class="work-panels">
+            <div class="work-panel active" data-work-panel="overview" role="tabpanel">
+              <ul class="work-checklist">
+                <li>
+                  <strong>Package-led homepage:</strong> Featured trips such as Kashi Darshan, with duration, starting price and a clear "Plan my trip" action.
+                </li>
+                <li>
+                  <strong>All of Uttar Pradesh:</strong> Destinations, tour packages and cab routes organised for every district, starting from Varanasi.
+                </li>
+                <li>
+                  <strong>Hindi and English:</strong> Devanagari headings alongside English copy for pilgrims and families.
+                </li>
+              </ul>
+            </div>
+
+            <div class="work-panel" data-work-panel="features" role="tabpanel">
+              <ul class="work-checklist">
+                <li>
+                  <strong>Trip planning enquiries:</strong> Visitors share their dates and group, and the operator replies with a plan and a quote.
+                </li>
+                <li>
+                  <strong>Outstation cabs:</strong> A dedicated section for cab bookings across the state.
+                </li>
+                <li>
+                  <strong>Call and WhatsApp everywhere:</strong> Contact buttons in the header and on every package.
+                </li>
+              </ul>
+            </div>
+
+            <div class="work-panel" data-work-panel="stack" role="tabpanel">
+              <ul class="work-checklist">
+                <li>
+                  <strong>Next.js &amp; React:</strong> Fast, search-friendly pages for destinations and packages.
+                </li>
+                <li>
+                  <strong>Image-led design:</strong> Full-width photography of the ghats with optimised loading on mobile data.
+                </li>
+                <li>
+                  <strong>Vercel hosting:</strong> A live preview the client reviews at each stage before launch.
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="work-actions">
+            <a class="btn-primary" href="https://tours-and-travels-blush-phi.vercel.app/" target="_blank" rel="noopener noreferrer">
+              <span>View the preview</span>
+              <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+            </a>
+            <a class="btn-ghost" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+              <span>Discuss a similar project</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="work-mockup-wrapper">
+          <div class="browser-frame">
+            <div class="browser-bar">
+              <div class="browser-dots" aria-hidden="true">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+              <div class="browser-url">
+                <span class="lock-icon material-symbols-outlined" aria-hidden="true">lock</span>
+                https://tours-and-travels-blush-phi.vercel.app
+              </div>
+              <a class="browser-external-link" href="https://tours-and-travels-blush-phi.vercel.app/" target="_blank" rel="noopener noreferrer" title="Open the Anup Tours and Travels preview in new tab">
+                <span class="material-symbols-outlined" aria-hidden="true">open_in_new</span>
+              </a>
+            </div>
+
+            <a class="browser-viewport" href="https://tours-and-travels-blush-phi.vercel.app/" target="_blank" rel="noopener noreferrer">
+              <Image
+                src={anupToursImg}
+                alt="Anup Tours and Travels homepage with the ghats of Varanasi and tour packages across Uttar Pradesh"
+                loading="lazy"
+                class="work-cover-img"
+                widths={[640, 960, 1280]}
+                sizes="(max-width: 768px) 100vw, 50vw"
+              />
+              <div class="browser-overlay">
+                <span class="overlay-cta">
+                  <span>Open Preview</span>
+                  <span class="btn-arrow">&rarr;</span>
+                </span>
+              </div>
+            </a>
+          </div>
+
+          <div class="work-metrics">
+            <div class="metric-item">
+              <span class="metric-val">75</span>
+              <span class="metric-lbl">UP Districts Covered</span>
+            </div>
+            <div class="metric-item">
+              <span class="metric-val">Hi + En</span>
+              <span class="metric-lbl">Bilingual Design</span>
             </div>
             <div class="metric-item">
               <span class="metric-val">100%</span>
