@@ -200,7 +200,7 @@ const darjiling: CityContent = {
       heading: "Working with a remote team from the hills",
       paragraphs: [
         "We have no office in Darjeeling and do not claim one. We are three engineers working remotely for businesses across India, which suits a hill town where meetings in person are hard anyway.",
-        "Ankur Kumar is our full-stack developer. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and covers data science and automation. A project starts with a WhatsApp chat or call, followed by a page plan and itemised quote in about two working days. You review the site through a preview link on your phone and send corrections when convenient, even as voice notes.",
+        "One of us is our full-stack developer. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and covers data science and automation. A project starts with a WhatsApp chat or call, followed by a page plan and itemised quote in about two working days. You review the site through a preview link on your phone and send corrections when convenient, even as voice notes.",
         "We keep IST hours and reply seven days a week. Ready to start? <a href=\"/contact/\">Send us a message</a> with a line about your property or business.",
       ],
     },

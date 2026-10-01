@@ -178,7 +178,7 @@ const nizamabad: CityContent = {
       paragraphs: [
         "We have no office in Nizamabad and will not pretend otherwise. We are three engineers working remotely with clients across India, and that is how we keep our prices lower than city agencies: no rent, no sales team, and no middle layer between you and the developer.",
         "Projects run over calls, WhatsApp and screen sharing. After a first conversation, we send a page plan, a timeline and an itemised quote. Within one to two weeks you receive a preview link to check on your phone and share with partners. Small changes are usually done the same day, and we reply seven days a week on Indian time.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">message any of us</a> directly.",
+        "One of us builds the websites and applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">message any of us</a> directly.",
       ],
     },
     {

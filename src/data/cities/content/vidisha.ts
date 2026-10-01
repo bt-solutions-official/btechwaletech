@@ -167,7 +167,7 @@ const vidisha: CityContent = {
       heading: "From bahi-khata to a dashboard: records for traders and mills",
       paragraphs: [
         "A Vidisha grain trader or dal mill often holds years of valuable information in registers, Excel files and Tally: purchase rates by week, which buyers pay on time, how much stock sits in which godown, how soybean and chana prices moved across last season. Very little of it is ever viewed together, because putting it together takes time nobody has during harvest.",
-        "We build simple dashboards that bring these records onto one screen you can open on your phone. Typical views include purchases and sales by month, stock by godown and grade, outstanding payments by buyer and a rough margin estimate as rates change. Santosh Sharma, who leads our data work, keeps these setups small and cheap to run, usually on tools you already pay for.",
+        "We build simple dashboards that bring these records onto one screen you can open on your phone. Typical views include purchases and sales by month, stock by godown and grade, outstanding payments by buyer and a rough margin estimate as rates change. Another of us, who leads our data work, keeps these setups small and cheap to run, usually on tools you already pay for.",
         "For businesses ready for more, a custom lot-tracking or purchase system lets staff record arrivals at the mandi or the stone yard, print slips and update stock in real time. These systems start from ₹60,000 and are designed around the way your munim and staff already work, rather than forcing a new routine on them.",
       ],
     },
@@ -177,7 +177,7 @@ const vidisha: CityContent = {
       paragraphs: [
         "We do not have an office in Vidisha or in Madhya Pradesh. We are three engineers working remotely for clients across India, and not paying for an office or salespeople is why our starting prices stay low.",
         "The process runs over phone and WhatsApp. After a first call, we send a written page plan, timeline and itemised quote, usually within two working days. When you approve, you get a live preview link to check on your own phone and share with your family or partners. Changes are requested on WhatsApp, and we reply seven days a week, Indian time.",
-        "Ankur Kumar does full-stack development. Santosh Sharma leads AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">reach any of us</a> directly.",
+        "One of us does full-stack development. Another of us leads AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">reach any of us</a> directly.",
       ],
     },
     {

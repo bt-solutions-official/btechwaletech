@@ -69,7 +69,7 @@ const unjha: CityContent = {
       paragraphs: [
         "Unjha's economy revolves around its APMC. Farmers from across North Gujarat and beyond bring cumin, fennel, isabgol and other seed spices; traders, commission agents, cleaning and grading units, processors and exporters handle them; and the goods move to buyers across India and overseas. Around this trade are transporters, packaging suppliers, laboratories, banks and brokers.",
         "Because so much money moves through small family firms, <strong>IT services in Unjha</strong> need to be practical. An exporter wants overseas buyers to see a credible company before they request samples. A trader wants lot records that match what the munim writes. A processor wants to know exactly how much cleaned output came from each purchase. A shop near the Umiya Mata temple wants pilgrims to find it on Google Maps.",
-        "We are a remote team of three: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We have no office in Unjha and do not pretend to. Everything runs on WhatsApp and calls, and every plan and price reaches you in writing.",
+        "We are a remote team of three: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We have no office in Unjha and do not pretend to. Everything runs on WhatsApp and calls, and every plan and price reaches you in writing.",
       ],
     },
     {

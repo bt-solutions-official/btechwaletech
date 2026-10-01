@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       heading: "What does a freelance ecommerce developer actually do?",
       paragraphs: [
         `A freelance ecommerce developer connects three things into one working store: a catalogue shoppers can browse, a checkout that takes their money reliably, and back-office tools that turn an order into a packed, shipped and invoiced parcel. Design matters, but a pretty store with a broken shipping rule loses money every day.`,
-        `On a typical project the developer chooses and configures the platform, builds or adapts the storefront design, imports products with their variants and images, sets up payment and shipping, writes the order and customer emails, and connects anything your business already uses, such as an accounts package, a courier aggregator or WhatsApp. At BtechWaleTech, Ankur builds the store and integrations, Santosh handles hosting, data imports and technical SEO, and Vedansh runs the plan and automation.`,
+        `On a typical project the developer chooses and configures the platform, builds or adapts the storefront design, imports products with their variants and images, sets up payment and shipping, writes the order and customer emails, and connects anything your business already uses, such as an accounts package, a courier aggregator or WhatsApp. At BtechWaleTech, one of us builds the store and integrations, another of us handles hosting, data imports and technical SEO, and the third of us runs the plan and automation.`,
         `What a freelance ecommerce developer usually does not do: product photography, packaging design, running your paid ads or negotiating courier rates. Those belong to you or other specialists, and a good developer will say so early.`,
       ],
       list: [

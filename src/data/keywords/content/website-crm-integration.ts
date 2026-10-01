@@ -133,7 +133,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The browser sends the form to your own server, your server validates it and calls the CRM API with a stored secret, and a queue retries anything that fails. The visitor sees a thank-you page instantly, whatever the CRM is doing.`,
         `Sending leads straight from the browser to a CRM API looks simpler, but it exposes your API credentials to anyone who opens the page source, and it loses the lead if the CRM is slow. So we place a small server function in between. It can run on your existing hosting or a low-cost serverless function in your cloud account. It checks the data, adds tracking fields, looks for an existing record, then creates or updates the lead. If the CRM responds with an error or times out, the lead goes into a queue and a copy is written to a backup log.`,
-        `This design also keeps the website fast. The page does not load heavy CRM scripts, and Core Web Vitals do not suffer. Ankur, who does full-stack work on our team, usually builds the server side; Santosh sets up the cloud function, logs and alerts.`,
+        `This design also keeps the website fast. The page does not load heavy CRM scripts, and Core Web Vitals do not suffer. One of us, who does full-stack work on our team, usually builds the server side; another of us sets up the cloud function, logs and alerts.`,
       ],
       subs: [
         { heading: "Browser side", text: "Your form, your design, a bot check, hidden fields for UTM tags and landing page, and a thank-you page." },

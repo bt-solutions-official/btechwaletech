@@ -68,7 +68,7 @@ const dalliRajhara: CityContent = {
       paragraphs: [
         "The name says it plainly. Dalli and Rajhara are the two hills whose ore has gone north by rail to the Bhilai Steel Plant since the early 1960s, and the town between them grew to house the people who dig, haul, repair and supply. Schools, hospitals and quarters came with the mines, and the markets followed the pay cycle.",
         "Most work here still runs on paper and phone calls. A transporter keeps trip slips in a folder, a workshop tracks spare parts in a notebook, a clinic takes bookings on a personal number, a school sends notices through a dozen WhatsApp groups. <strong>IT services in Dalli-Rajhara</strong> are useful only when they make one of those jobs faster or less error-prone, so that is where we start.",
-        "We are three engineers working remotely. Ankur Kumar builds websites and web applications from front end to database. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava plans projects and handles data science and automation. We have no office in Dalli-Rajhara, Balod or Durg. Everything is done on WhatsApp, phone and screen-share, and every step is written down for you.",
+        "We are three engineers working remotely. One of us builds websites and web applications from front end to database. Another of us works on AI, machine learning, AWS and data. The third of us plans projects and handles data science and automation. We have no office in Dalli-Rajhara, Balod or Durg. Everything is done on WhatsApp, phone and screen-share, and every step is written down for you.",
       ],
     },
     {

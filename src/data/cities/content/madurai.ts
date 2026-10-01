@@ -159,7 +159,7 @@ const madurai: CityContent = {
       paragraphs: [
         "We do not have an office in Madurai, and we are not going to list a borrowed address to look local. We are three engineers who work remotely for clients across India. Because there is no rent or sales team in our costs, our prices stay lower, and you talk to the person actually building your site rather than a coordinator.",
         "Work starts with a phone call or a WhatsApp chat about your business. We then send a written page plan, a timeline and an itemised quote. Within a week or two you get a live preview link that you can open on your own phone and share with family or partners. Feedback comes to us on WhatsApp, and small changes usually go live the same day. We work on Indian time and reply seven days a week, which suits shop owners who only get a quiet moment on Sunday.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You will always know who is doing what, and you can <a href=\"/contact/\">reach any of us</a> directly.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You will always know who is doing what, and you can <a href=\"/contact/\">reach any of us</a> directly.",
       ],
     },
     {

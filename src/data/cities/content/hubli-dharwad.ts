@@ -168,7 +168,7 @@ const hubliDharwad: CityContent = {
       paragraphs: [
         "We have no office in either city, and we will not list a borrowed address to appear local. We are three engineers working remotely for clients across India. Without rent or sales staff to cover, our prices stay lower, and you speak directly to the people building your site.",
         "We begin with a call or WhatsApp chat, then send a written page plan, timeline and itemised quote. Within a week or two you receive a live preview link to open on your own phone. Feedback comes to us on WhatsApp and small changes are usually live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects alongside data science and automation. <a href=\"/contact/\">Contact any of us</a> directly.",
+        "One of us leads full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us manages projects alongside data science and automation. <a href=\"/contact/\">Contact any of us</a> directly.",
       ],
     },
     {

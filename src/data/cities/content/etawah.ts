@@ -161,7 +161,7 @@ const etawah: CityContent = {
       paragraphs: [
         "We do not have an office in Etawah, Agra or Kanpur, and we will not show an address we do not use. We are three engineers who work remotely for clients across India. Skipping rent and a sales team keeps our prices low, and you always speak to someone who is working on your project.",
         "The process is straightforward. We talk on the phone or WhatsApp about your business and customers. You get a page plan, timeline and itemised quote in writing. Within one to two weeks there is a live preview link you can open on your phone and share with family or partners. You send changes on WhatsApp, and small ones are usually done the same day. We reply seven days a week, Indian time.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us directly</a> in Hindi or English.",
+        "One of us builds the websites and applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us directly</a> in Hindi or English.",
       ],
     },
     {

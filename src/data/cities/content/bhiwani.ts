@@ -157,7 +157,7 @@ const bhiwani: CityContent = {
       id: "remote-team-bhiwani",
       heading: "Who you are working with, and how",
       paragraphs: [
-        "We have no office in Bhiwani and do not pretend to. BtechWaleTech is three engineers working remotely for clients across India. Ankur Kumar builds websites and web applications from start to finish. Santosh Sharma handles AI, machine learning, AWS and data projects. Vedansh Shrivastava runs project management, keeps timelines realistic and builds automation and data-science components.",
+        "We have no office in Bhiwani and do not pretend to. BtechWaleTech is three engineers working remotely for clients across India. One of us builds websites and web applications from start to finish. Another of us handles AI, machine learning, AWS and data projects. The third of us runs project management, keeps timelines realistic and builds automation and data-science components.",
         "Every project starts with questions about your customers. Within about two working days you receive a written page plan, timeline and itemised quote. Once you approve, we share a live preview link that you can open on your own phone and forward to your partner or family. Feedback comes over WhatsApp, and small edits often go live the same day.",
         "We work in Indian time and reply seven days a week, which suits traders who close late and coaches who are busy at dawn and dusk. You always know which engineer is handling your work and can message that person directly.",
       ],

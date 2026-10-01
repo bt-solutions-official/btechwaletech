@@ -165,7 +165,7 @@ const ranibennur: CityContent = {
       id: "ranibennur-remote-working",
       heading: "Working with a remote team from Ranibennur",
       paragraphs: [
-        "We have no office in Ranibennur, in Haveri or anywhere else. The team is three engineers: Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. You deal directly with the people writing your software.",
+        "We have no office in Ranibennur, in Haveri or anywhere else. The team is three engineers: one of us handles full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. You deal directly with the people writing your software.",
         "Remote work suits the way Ranibennur owners already operate. Much of your day is spent on the phone and on WhatsApp, and that is where we meet you. We share a private preview link that you open on your phone, walk through screens on a video call when needed, and send short written updates so there is always a record of what was agreed.",
         "For a seed firm or trader, the practical question is response time during your busy season. We reply on WhatsApp seven days a week, in Indian working hours, and we plan launches away from peak arrivals so nothing new breaks when you can least afford it.",
       ],

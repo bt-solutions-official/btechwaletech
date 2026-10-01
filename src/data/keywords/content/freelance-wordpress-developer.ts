@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       heading: "What a freelance WordPress developer does that a theme installer does not",
       paragraphs: [
         `Anyone can install WordPress and a theme in an afternoon. A freelance WordPress developer is the person you call when that setup needs to do something specific, load quickly on phones, survive updates and not get hacked. The difference is code: writing theme templates, block patterns and small plugins rather than stacking more add-ons.`,
-        `At BtechWaleTech the work splits naturally. Ankur writes PHP, JavaScript and theme code. Santosh handles the server side: hosting, PHP versions, caching, database tuning on AWS or your host, and technical SEO. Vedansh keeps the scope and schedule honest and handles automation such as form-to-sheet or WhatsApp notifications.`,
+        `At BtechWaleTech the work splits naturally. One of us writes PHP, JavaScript and theme code. Another of us handles the server side: hosting, PHP versions, caching, database tuning on AWS or your host, and technical SEO. The third of us keeps the scope and schedule honest and handles automation such as form-to-sheet or WhatsApp notifications.`,
         `A useful way to judge any WordPress freelancer: ask them what they would remove from your current site. Good developers usually have a list.`,
       ],
       list: [

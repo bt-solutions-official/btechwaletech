@@ -227,7 +227,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `We build real estate apps in Flutter or React Native, which produce Android and iOS apps from one codebase. Both handle maps, calculators, forms, photo uploads and notifications well. We choose based on your team's future plans, existing code and any libraries a specific integration needs.`,
         `The backend matters more than the framework. It holds listings synced from your CRM, owner accounts linked to your ERP, uploaded documents and photos, notification topics and DLD data summaries. We usually build it as an API with a database in your own cloud account, with role-based access so owners, tenants, agents and staff each see only what they should.`,
-        `Santosh handles cloud set-up, backups, monitoring and the data pipelines for DLD files. Ankur builds the app and admin. Vedansh runs the project plan and testing schedule. You own the code, the cloud account and both store listings.`,
+        `Another of us handles cloud set-up, backups, monitoring and the data pipelines for DLD files. One of us builds the app and admin. The third of us runs the project plan and testing schedule. You own the code, the cloud account and both store listings.`,
         `If you also need a website on the same data, one backend can serve both. Our <a href='/uae/web-application-development/'>web application development page</a> covers admin panels and portals in more depth.`,
       ],
     },

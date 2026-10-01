@@ -168,7 +168,7 @@ const ranaghat: CityContent = {
       paragraphs: [
         "We do not have an office in Ranaghat or anywhere in Nadia, and we would rather say so openly. We are three engineers working remotely with clients across India. Not paying rent or sales staff keeps our starting prices lower, and you deal directly with the people doing the work.",
         "The process runs over calls, WhatsApp and screen sharing. We begin with a conversation about your customers, then send a page plan, timeline and itemised quote. For a small site, a live preview link arrives within one to two weeks, and you can open it on your phone and show it to family or partners. Minor changes are usually done the same day, and we reply seven days a week on Indian time.",
-        "For weavers, we explain how to photograph sarees in daylight on a plain background with a phone, which usually works better than studio shots. Ankur Kumar leads full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, automation and data science. You can <a href=\"/contact/\">message any of us</a> directly.",
+        "For weavers, we explain how to photograph sarees in daylight on a plain background with a phone, which usually works better than studio shots. One of us leads full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us manages projects, automation and data science. You can <a href=\"/contact/\">message any of us</a> directly.",
       ],
     },
     {

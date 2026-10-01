@@ -169,7 +169,7 @@ const jharsuguda: CityContent = {
       paragraphs: [
         "We do not have an office in Jharsuguda, and we will not claim to. We are three engineers who work remotely for clients across India. With no rent or sales team to pay for, our starting prices stay modest, and you speak directly to the people doing the work.",
         "The work runs on calls, WhatsApp and screen sharing. We begin with your customers and the questions they ask, then send a page plan or software outline, a timeline and an itemised quote. After approval you get a preview link to check on your phone and share with partners. Small changes asked on WhatsApp are often made the same day, and we reply seven days a week on Indian time.",
-        "Ankur Kumar builds websites and web applications. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles data science and automation. When you are ready, <a href=\"/contact/\">message us</a>.",
+        "One of us builds websites and web applications. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and handles data science and automation. When you are ready, <a href=\"/contact/\">message us</a>.",
       ],
     },
     {

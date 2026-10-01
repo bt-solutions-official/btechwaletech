@@ -158,7 +158,7 @@ const bahraich: CityContent = {
       paragraphs: [
         "We do not have an office in Bahraich or Lucknow, and we will not show a borrowed address to look local. We are three engineers who work remotely for clients across India. Skipping rent and a sales team keeps prices lower, and it means the person you talk to is the person building your site.",
         "The process is straightforward. We start with a phone or WhatsApp conversation about your business and customers. You then receive a page plan, a timeline and an itemised quote in writing. Once you approve, a live preview link arrives within one to two weeks, which you can open on your own phone and share with your family or partners. Changes are requested on WhatsApp, and small ones are often done the same day.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. We reply seven days a week on Indian time, in Hindi or English. You can <a href=\"/contact/\">message us here</a>.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. We reply seven days a week on Indian time, in Hindi or English. You can <a href=\"/contact/\">message us here</a>.",
       ],
     },
     {

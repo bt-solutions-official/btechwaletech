@@ -209,7 +209,7 @@ const content: FreelanceContent = {
       heading: "The middle option: a small web team instead of an agency or a freelancer",
       paragraphs: [
         `In any web design agency vs freelancer comparison, a small team of two to five people is the overlooked third option. It gives you direct contact with the builders, like a freelancer, and cover when someone is away, like an agency. It suits businesses that want more safety than one person offers without paying for account management and premises.`,
-        `Our version is three freelance developers in India. Ankur builds the front end and back end, Santosh handles technical SEO, data, cloud and AI features, and Vedansh manages the project and automation. Each of us knows your site, so a holiday or illness does not stall it.`,
+        `Our version is three freelance developers in India. One of us builds the front end and back end, another of us handles technical SEO, data, cloud and AI features, and the third of us manages the project and automation. Each of us knows your site, so a holiday or illness does not stall it.`,
         `What a small team does not give you: in-person meetings, a brand identity studio, professional photography or a twenty-person bench for huge projects. We work remotely and do not visit clients. If those gaps matter, a UK agency is the better fit.`,
         `What it does give you: itemised quotes, starting prices you can plan around, and everything set up in your name from day one. For a UK business weighing web design agency vs freelancer, a small team is worth adding to the shortlist, especially for sites where continuity after launch matters as much as the launch itself. Our <a href='/uk/small-business-website-design/'>small business websites</a> page shows what a typical build includes.`,
       ],
@@ -278,7 +278,7 @@ const content: FreelanceContent = {
         `Search performance depends on how the site is built, not on who builds it. Clean page structure, fast loading, sensible internal links and structured data matter to Google and to AI answer engines whether an agency or a freelancer wrote the code.`,
         `Where suppliers differ is in whether SEO is part of the build or an extra. Some agencies have specialists who plan URLs, redirects and content; some freelancers do this well; others treat SEO as a plugin to install later. Ask specifically about redirects from your old site, Core Web Vitals, schema markup and Google Search Console setup.`,
         `AI search engines such as Google's AI Overviews and chat assistants quote short, self-contained answers. A site with clear headings, direct answers and well-marked-up business details stands a better chance of being cited. That is a content and structure job, not a size-of-supplier job.`,
-        `No one can honestly guarantee rankings, and you should walk away from anyone who does. Santosh leads technical SEO on our builds, and ongoing work is available from ${P.seo}. Our <a href='/uk/ai-search-optimisation/'>AI search optimisation</a> page explains how answer engines choose sources.`,
+        `No one can honestly guarantee rankings, and you should walk away from anyone who does. Another of us leads technical SEO on our builds, and ongoing work is available from ${P.seo}. Our <a href='/uk/ai-search-optimisation/'>AI search optimisation</a> page explains how answer engines choose sources.`,
       ],
     },
     {

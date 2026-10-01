@@ -121,7 +121,7 @@ const jhumriTilaiya: CityContent = {
       heading: "Android app development in Jhumri Tilaiya, with iOS from the same build",
       paragraphs: [
         "An app pays for itself when people open it every week. In Jhumri Tilaiya that usually means schools and coaching classes (homework, attendance, test marks, fee reminders), clinics with regular patients (appointment booking, reports), grocery and pharmacy stores with home delivery, and distributors whose retailers reorder the same items again and again.",
-        "We write one codebase in Flutter or React Native that runs on both Android phones and iPhones. Common features are OTP login, push notifications, catalogues or course lists, order and booking forms, UPI payments through Razorpay, and an admin panel so your staff can post notices or change prices themselves. Ankur Kumar builds the app and backend; Vedansh Shrivastava manages scope and timelines so the project does not drift.",
+        "We write one codebase in Flutter or React Native that runs on both Android phones and iPhones. Common features are OTP login, push notifications, catalogues or course lists, order and booking forms, UPI payments through Razorpay, and an admin panel so your staff can post notices or change prices themselves. One of us builds the app and backend; the third of us manages scope and timelines so the project does not drift.",
         "Apps start from ₹40,000. We publish them on Google Play and the App Store under developer accounts registered in your name, and explain the store fees and review process in advance. If your customers visit only occasionally, we will tell you honestly that a website and a proper map listing will serve you better, and cost less.",
       ],
     },
@@ -139,7 +139,7 @@ const jhumriTilaiya: CityContent = {
       heading: "AI and WhatsApp automation in Jhumri Tilaiya for schools, clinics and traders",
       paragraphs: [
         "In admission season, a Jhumri Tilaiya coaching class can receive hundreds of near-identical WhatsApp messages: fees, batch timings, whether there is a Sainik School test batch, where the centre is. A clinic gets the same questions about the doctor's days. A mineral trader gets rate requests from buyers in other states at odd hours. Answering each by hand is slow, and slow replies lose people.",
-        "We build automation on the WhatsApp Business Platform that replies in Hindi or English from information you have approved, sends brochures, fee sheets or rate lists, books appointments or demo classes, and records every enquiry in a Google Sheet. Complaints, refunds and price negotiations are passed to you with the full chat. Santosh Sharma designs the AI part so it stays within your facts and says “let me connect you” instead of guessing.",
+        "We build automation on the WhatsApp Business Platform that replies in Hindi or English from information you have approved, sends brochures, fee sheets or rate lists, books appointments or demo classes, and records every enquiry in a Google Sheet. Complaints, refunds and price negotiations are passed to you with the full chat. Another of us designs the AI part so it stays within your facts and says “let me connect you” instead of guessing.",
         "Automation projects start from ₹40,000 and take two to four weeks. If you get only a handful of messages a day, we will recommend the free WhatsApp Business app with labels and quick replies instead, and help you set it up.",
       ],
     },
@@ -149,7 +149,7 @@ const jhumriTilaiya: CityContent = {
       paragraphs: [
         "The Koderma Thermal Power Station at Banjhedih in Jainagar block, with units commissioned in 2013 and 2015, supports a ring of contractors, transporters, equipment hire firms, canteens, security agencies and spare-parts dealers. Stone crushers, building material suppliers and truck operators along NH20 add to the same economy.",
         "These firms are judged on paperwork. A purchase officer wants to see registrations, the fleet or equipment you run and a named contact before inviting a quote. A factual capability website with real photographs helps a Jhumri Tilaiya contractor look as organised as a competitor from a bigger city.",
-        "Internally, many of these businesses run on notebooks: trip slips, diesel issued, weighbridge readings, labour attendance and party-wise dues. We build custom web apps that replace those registers with phone-friendly forms and daily summaries, starting from ₹60,000. Santosh Sharma handles the data design and cloud hosting; we begin with the register that causes the most disputes and grow from there.",
+        "Internally, many of these businesses run on notebooks: trip slips, diesel issued, weighbridge readings, labour attendance and party-wise dues. We build custom web apps that replace those registers with phone-friendly forms and daily summaries, starting from ₹60,000. Another of us handles the data design and cloud hosting; we begin with the register that causes the most disputes and grow from there.",
       ],
     },
     {
@@ -175,7 +175,7 @@ const jhumriTilaiya: CityContent = {
       heading: "Working with a remote team from Jhumri Tilaiya",
       paragraphs: [
         "We do not have an office in Jhumri Tilaiya or anywhere in Koderma district, and we will not list a false address to look local. We are three engineers who work remotely for clients across India. No rent and no sales staff means lower prices, and you speak directly to whoever is building your project.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles data science and automation. The first step is a call or WhatsApp conversation about your business, followed within about two working days by a page plan, timeline and itemised quote.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and handles data science and automation. The first step is a call or WhatsApp conversation about your business, followed within about two working days by a page plan, timeline and itemised quote.",
         "After written approval, you receive a private preview link to check on your phone. Feedback goes over WhatsApp, and minor changes are often made the same day. We reply seven days a week on Indian time. You can <a href=\"/contact/\">get in touch here</a>, or first look at how our <a href=\"/services/web-development/\">web development</a> and <a href=\"/it-services/android-ios-app/\">Android and iOS app</a> work is done.",
       ],
     },

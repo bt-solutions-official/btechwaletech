@@ -69,7 +69,7 @@ const faridkot: CityContent = {
       paragraphs: [
         "Faridkot takes its name from the Sufi saint Baba Farid, who is believed to have meditated at the spot now marked by Gurdwara Tilla Baba Farid. For two centuries it was the capital of a princely state, and its fort, palace and old secretariat still shape the town centre. Today it is a district and divisional headquarters whose working life revolves around medical education, the grain trade and the farms of the Malwa plain.",
         "Requests for <strong>IT services in Faridkot</strong> reflect that mix. A hospital near the medical college wants patients to see OPD timings before they travel. An arhtiya wants his farmer ledgers on a phone instead of a thick bahi. An implement maker wants a dealer in Rajasthan to find his product. An IELTS centre wants admissions from Jaitu and Kotkapura. Each of these is a focused, specific job.",
-        "We handle them as a remote team of three. Ankur Kumar does full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management and builds data science and automation pieces. We do not have an office in Faridkot. The work happens on WhatsApp, calls and screen shares, and every plan, quote and change is confirmed in writing.",
+        "We handle them as a remote team of three. One of us does full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us runs project management and builds data science and automation pieces. We do not have an office in Faridkot. The work happens on WhatsApp, calls and screen shares, and every plan, quote and change is confirmed in writing.",
       ],
     },
     {

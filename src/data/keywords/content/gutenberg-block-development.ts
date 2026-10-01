@@ -252,7 +252,7 @@ const content: FreelanceContent = {
       heading: "Ownership, updates and working with our team",
       paragraphs: [
         `Your blocks are yours: custom Gutenberg block development with us never creates a dependency on us. They go into a Git repository and a custom plugin under your control, installed on hosting in your name. There is no licence from us and no lock-in; any competent WordPress developer can read the code later.`,
-        `Three of us share the work. Ankur Kumar builds the blocks, React and PHP. Santosh Sharma handles hosting, staging, speed checks and technical SEO. Vedansh Shrivastava plans the block list with you, organises content migration and runs editor training. You reach all of us on WhatsApp, seven days a week, in English or Hindi.`,
+        `Three of us share the work. One of us builds the blocks, React and PHP. Another of us handles hosting, staging, speed checks and technical SEO. The third of us plans the block list with you, organises content migration and runs editor training. You reach all of us on WhatsApp, seven days a week, in English or Hindi.`,
         `WordPress updates the block editor regularly, and occasionally a change affects custom blocks. The first two months after launch are covered by free maintenance; after that, care plans from ${P.care} a month keep WordPress, plugins and blocks tested together. Custom blocks also need the server on a supported PHP version; our <a href='/php-version-upgrade/'>PHP version upgrade service</a> covers that if your host is behind.`,
       ],
     },

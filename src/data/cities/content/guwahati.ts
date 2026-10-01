@@ -159,7 +159,7 @@ const guwahati: CityContent = {
       paragraphs: [
         "We have no office in Guwahati, and we will not invent one. We are three engineers working remotely for clients across India, the Northeast included. Without rent or sales staff to pay for, our prices stay reasonable, and you speak directly to the people building your site.",
         "The process is straightforward. We begin with a call or WhatsApp conversation about your business, then send a written page plan, timeline and itemised quote. Within a week or two you get a live preview link to open on your own phone. Feedback goes on WhatsApp and small changes are usually live the same day. We work on Indian Standard Time and reply seven days a week, which matters in a region where the business day starts early.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You always know who is working on what, and you can <a href=\"/contact/\">contact any of us</a> directly.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You always know who is working on what, and you can <a href=\"/contact/\">contact any of us</a> directly.",
       ],
     },
     {

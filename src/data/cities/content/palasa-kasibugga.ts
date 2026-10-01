@@ -69,7 +69,7 @@ const palasaKasibugga: CityContent = {
       paragraphs: [
         "Palasa and Kasibugga were separate towns until they merged into one municipality in 2000. Together they form the commercial centre of the northern tip of Srikakulam district, between Srikakulam town and Berhampur in Odisha. Farmers from the Uddanam belt, traders from Odisha and buyers from across India all do business here, mostly because of cashew.",
         "The requests we receive for <strong>IT services in Palasa Kasibugga</strong> reflect that. A processing unit wants a professional site that wholesale buyers in Delhi or Mumbai can check. A trader wants to sell packed kernels online. A hospital wants patients from Mandasa and Sompeta to find the right doctor. A school wants admissions and notices handled on phones.",
-        "We are three engineers working remotely: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We have no office in Palasa and say so from the start. Projects run on WhatsApp, calls and screen shares, with a written plan at each stage.",
+        "We are three engineers working remotely: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We have no office in Palasa and say so from the start. Projects run on WhatsApp, calls and screen shares, with a written plan at each stage.",
       ],
     },
     {

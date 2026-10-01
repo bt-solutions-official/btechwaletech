@@ -233,7 +233,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A typical build runs 6–12 weeks in two or three releases, planned around your season so launches land in quiet months. You start using the core, briefs, vendors, budgets and tasks, within the first five or six weeks.`,
         `Discovery comes first: we study two or three recent events end to end, your brief forms, vendor sheets, budget templates and task lists, and agree which one event type to perfect first. Designs follow on a clickable prototype your planners try on their phones. The core build adds events, functions, the vendor directory, bookings, budgets and task templates, shown on a staging link every week. The second release brings guest lists, RSVP pages and WhatsApp automations. A third, if needed, adds the client portal and day-of app.`,
-        `Vedansh leads planning and the weekly call, and his background in automation shapes the reminders and templates. Ankur builds the application screens and back end. Santosh sets up hosting, the database, backups and reporting. Your side names one decision-maker and gives us a real event to test with. The most common delay is waiting for templates; send whatever you have, even rough.`,
+        `The third of us leads planning and the weekly call, and his background in automation shapes the reminders and templates. One of us builds the application screens and back end. Another of us sets up hosting, the database, backups and reporting. Your side names one decision-maker and gives us a real event to test with. The most common delay is waiting for templates; send whatever you have, even rough.`,
       ],
     },
     {

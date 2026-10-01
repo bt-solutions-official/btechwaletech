@@ -28,7 +28,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Freelance DevOps engineer · pipelines, containers, monitoring, backups",
     h1: "Freelance DevOps engineer for small teams: CI/CD, Docker, monitoring and backups you can actually restore",
-    lede: `A freelance DevOps engineer sets up the machinery that ships your code safely: automated tests and deploys, containers that run the same everywhere, alerts before customers notice a problem, and backups that have been restored at least once. BtechWaleTech is three freelance developers in India, and Santosh Sharma leads the AWS, hosting and pipeline side. This page covers what the work includes, when you need it, how it is priced and what you should own at the end. For the cloud account itself, see our <a href='/freelance-aws-developer/'>AWS page</a>.`,
+    lede: `A freelance DevOps engineer sets up the machinery that ships your code safely: automated tests and deploys, containers that run the same everywhere, alerts before customers notice a problem, and backups that have been restored at least once. BtechWaleTech is three freelance developers in India, and another of us leads the AWS, hosting and pipeline side. This page covers what the work includes, when you need it, how it is priced and what you should own at the end. For the cloud account itself, see our <a href='/freelance-aws-developer/'>AWS page</a>.`,
     pills: ["CI/CD pipelines", "Docker and Compose", "Infrastructure as code", "Uptime and error alerts", "Automated, tested backups", "Zero-downtime deploys", "Runbooks you keep"],
     origin: "Three freelance developers · Remote from India · Your repositories, your cloud accounts",
   },

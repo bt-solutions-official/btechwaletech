@@ -186,7 +186,7 @@ const alappuzha: CityContent = {
       heading: "No office in Alappuzha, and how our remote process works",
       paragraphs: [
         "We have no office in Alappuzha or anywhere in Kerala, and we will not claim one. We are three engineers working remotely for clients across India. You speak directly to the people building your site, without a sales layer.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data-science tools. Start on our <a href=\"/contact/\">contact page</a>; we reply on WhatsApp seven days a week during Indian hours, including the busy season when you are on the water.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data-science tools. Start on our <a href=\"/contact/\">contact page</a>; we reply on WhatsApp seven days a week during Indian hours, including the busy season when you are on the water.",
         "After the first call, you receive a page plan, timeline and itemised quote in about two working days. After approval, a preview link lets you check the site on your phone and share it with partners. Our <a href=\"/services/web-development/\">web development</a> page explains the technical approach.",
         "For houseboat and homestay projects, we ask for photographs and a short video walk-through of each boat or room, which lets us write accurate descriptions without a site visit. We send clear shot lists so the material you gather on a phone is enough.",
       ],

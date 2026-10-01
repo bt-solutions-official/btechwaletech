@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A freelance React Native developer writes your app once in JavaScript or, better, TypeScript, and produces two native apps from it: an Android build for Google Play and an iOS build for the App Store. The buttons, lists and text inputs are real platform components, not a web page inside a wrapper, so the app feels native to users.`,
         `React Native is open source and maintained by Meta with a large community around it. Its big advantage for businesses is familiarity: the component model, hooks and state patterns are the same ones used on React websites. A company that already runs a React or Next.js site can hand the app to its own web developers later with far less retraining than a Kotlin or Swift codebase would need.`,
-        `The deliverable is more than screens. A complete React Native project includes the navigation structure, API calls to your backend, login, push notifications, analytics, crash reporting, app icons and splash screens, store listings and the signed release builds. In our team Ankur Kumar leads the app and API code, Santosh Sharma handles cloud hosting and any data or AI features, and Vedansh Shrivastava plans releases and testing rounds.`,
+        `The deliverable is more than screens. A complete React Native project includes the navigation structure, API calls to your backend, login, push notifications, analytics, crash reporting, app icons and splash screens, store listings and the signed release builds. In our team one of us leads the app and API code, another of us handles cloud hosting and any data or AI features, and the third of us plans releases and testing rounds.`,
       ],
     },
     {

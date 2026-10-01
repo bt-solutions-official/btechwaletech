@@ -88,7 +88,7 @@ const noida: CityContent = {
       heading: "MVPs and SaaS products for Noida founders",
       paragraphs: [
         "A large share of Noida's newer companies are software businesses at an early stage: B2B SaaS, edtech, HR tech, logistics tools and agency-turned-product teams. Their first problem is usually not the idea but getting a reliable first version in front of paying users without hiring a full team or burning months on an agency's process.",
-        "We build MVPs as proper web applications: user accounts and roles, the core workflow, payments through Razorpay or Stripe where needed, an admin panel, email and WhatsApp notifications, and hosting on AWS or a simpler platform depending on your budget. Santosh handles cloud setup and any AI or data components; Ankur builds the application end to end; Vedansh keeps scope and timelines honest.",
+        "We build MVPs as proper web applications: user accounts and roles, the core workflow, payments through Razorpay or Stripe where needed, an admin panel, email and WhatsApp notifications, and hosting on AWS or a simpler platform depending on your budget. Another of us handles cloud setup and any AI or data components; one of us builds the application end to end; the third of us keeps scope and timelines honest.",
         "We scope tightly. The first version should prove that customers will use and pay for the product, so we cut features that can wait and write down what was cut. You own the repository, the cloud account and the domain from day one, so you can hire in-house developers later and they can pick up the codebase without us.",
       ],
     },
@@ -168,7 +168,7 @@ const noida: CityContent = {
       heading: "AI agents and WhatsApp automation for Noida teams",
       paragraphs: [
         "Noida businesses are often early to try AI, and just as often disappointed by chatbots that answer nothing useful. The problem is usually scope. A narrow assistant that does one job well, with your own documents and a clear handover to a person, beats a general bot that tries to do everything.",
-        "Projects start at ₹40,000. Typical builds here include a lead-qualification agent that asks a few questions on WhatsApp and books a sales call, a support assistant that answers from your help documents, a clinic bot that confirms and reminds appointments, a tool that reads purchase orders or invoices and fills a sheet, and internal assistants that search company documents. Santosh builds the AI and data parts on AWS or other providers depending on cost and privacy needs.",
+        "Projects start at ₹40,000. Typical builds here include a lead-qualification agent that asks a few questions on WhatsApp and books a sales call, a support assistant that answers from your help documents, a clinic bot that confirms and reminds appointments, a tool that reads purchase orders or invoices and fills a sheet, and internal assistants that search company documents. Another of us builds the AI and data parts on AWS or other providers depending on cost and privacy needs.",
         "Every conversation is logged, sensitive data is handled carefully, and pricing, refunds, medical advice and contract terms stay with people. If a process is too irregular for automation, we will tell you before you spend money on it.",
       ],
     },
@@ -178,7 +178,7 @@ const noida: CityContent = {
       paragraphs: [
         "We do not have an office in Noida, and we will not list a co-working address as if it were one. We are three engineers working remotely across India. For many Noida clients that is familiar already, since their own teams work hybrid and meet on calls.",
         "After an initial call, you receive a scope document, timeline and itemised quote within about two working days. After written approval, you get a staging link early, usually in the first week or two, and progress updates on WhatsApp or your preferred tool. Web apps are built in short milestones with a demo at each. We work on IST and reply seven days a week.",
-        "Ankur Kumar leads full-stack development, Santosh Sharma handles AI, machine learning, AWS and data engineering, and Vedansh Shrivastava manages projects and builds data science and automation workflows. You talk to the person doing the work, not an account manager relaying messages.",
+        "One of us leads full-stack development, another of us handles AI, machine learning, AWS and data engineering, and the third of us manages projects and builds data science and automation workflows. You talk to the person doing the work, not an account manager relaying messages.",
       ],
     },
     {

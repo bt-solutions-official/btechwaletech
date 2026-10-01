@@ -30,7 +30,7 @@ const content: FreelanceContent = {
     h1: "Mobile app maintenance services: what keeps an app working after launch, and what it costs",
     lede: `Mobile app maintenance services keep a published Android or iOS app installable, stable and secure as phones, operating systems, store rules and third-party libraries change around it. BtechWaleTech is three freelance developers in India who maintain Flutter, React Native and native apps: yearly target API and SDK upgrades, crash monitoring, backend patches and store compliance. Apps we build get two months free; after that, plans start at ${P.care}. We also take over apps from developers who have moved on; for yearly budgets, see <a href='/app-maintenance-cost-in-india/'>app maintenance cost in India</a>.`,
     pills: ["Android target API upgrades", "iOS SDK and Xcode updates", "Flutter and React Native", "Crash and ANR monitoring", "Backend and API upkeep", "Store policy compliance", "Takeovers from other developers"],
-    origin: "Three freelance developers in India · app upkeep led by Ankur Kumar · WhatsApp replies 7 days a week",
+    origin: "Three freelance developers in India · app upkeep led by one of us · WhatsApp replies 7 days a week",
   },
   facts: [
     ["Plans from", `${P.care} · ${P.careUsd}`],

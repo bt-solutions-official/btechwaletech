@@ -71,7 +71,7 @@ const manjlegaon: CityContent = {
       paragraphs: [
         "The honest answer is that most Majalgaon businesses need three things: a Marathi website that loads on a modest phone, a correct Google Maps listing, and a way to handle WhatsApp enquiries without losing them. Very few need anything larger to begin with.",
         "Majalgaon is the headquarters of its taluka and the market town for a wide stretch of irrigated and rain-fed land on the north-eastern side of Beed district. Farmers from Pathrud, Dindrud, Manjrath and Nitrud come here for seed, fertiliser, spare parts, treatment and school admissions. They increasingly check a phone before they start the trip: which dealer has the variety in stock, which doctor sits today, what the mandi paid for soybean yesterday.",
-        "Our enquiries for <strong>IT services in Majalgaon</strong> reflect that. Three of us handle the work remotely: Ankur Kumar writes the websites and web applications, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Majalgaon or anywhere else, which we state plainly, because it is why our starting prices sit where they do.",
+        "Our enquiries for <strong>IT services in Majalgaon</strong> reflect that. Three of us handle the work remotely: one of us writes the websites and web applications, another of us handles AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Majalgaon or anywhere else, which we state plainly, because it is why our starting prices sit where they do.",
       ],
     },
     {
@@ -162,7 +162,7 @@ const manjlegaon: CityContent = {
       paragraphs: [
         "Business in Majalgaon runs through WhatsApp, and the same questions arrive all day: what is today's rate, is the variety in stock, is the doctor sitting, how much for a trip to Purushottampuri, when will payment come. During arrivals season or admission season nobody can answer them all, and an unanswered message becomes somebody else's customer.",
         "<strong>AI and WhatsApp automation in Majalgaon</strong> handles the repetitive layer in Marathi and English. The assistant replies with rates, stock, timings, fees and directions that you have given it, collects order or appointment details into a sheet or into your software, and hands anything unusual straight to you with the whole conversation attached. It runs on the official WhatsApp Business platform, so your number stays safe.",
-        "Santosh Sharma builds these, and the first step is always to read a sample of your real chats with your permission, to see which questions are worth automating. The assistant is fenced to the facts you supply and is instructed to pass the chat on rather than guess. Automation projects start at ₹40,000 and usually take two to four weeks.",
+        "Another of us builds these, and the first step is always to read a sample of your real chats with your permission, to see which questions are worth automating. The assistant is fenced to the facts you supply and is instructed to pass the chat on rather than guess. Automation projects start at ₹40,000 and usually take two to four weeks.",
       ],
     },
     {
@@ -178,7 +178,7 @@ const manjlegaon: CityContent = {
       id: "remote-team-majalgaon",
       heading: "Working with a remote IT team from Majalgaon",
       paragraphs: [
-        "There is no office to visit, in Majalgaon or in any other town, and we would rather you heard that from us than discovered it later. Three engineers do the work between them: Ankur Kumar on full-stack development, Santosh Sharma on AI, cloud and data, Vedansh Shrivastava on planning and automation. You deal with the same three people from the first call to launch.",
+        "There is no office to visit, in Majalgaon or in any other town, and we would rather you heard that from us than discovered it later. Three engineers do the work between them: one of us on full-stack development, another of us on AI, cloud and data, the third of us on planning and automation. You deal with the same three people from the first call to launch.",
         "In place of a visit you get paper. After one call about your trade and your buyers, you receive a written outline of every page or app screen, the sequence, the dates and the cost of each item. Nothing begins and nothing is billed until you approve that outline. As work proceeds, preview links arrive that open on any phone, so you can show a partner in the market or a son studying in Pune before anything goes live.",
         "Marathi wording is always sent to you to read first. A wrong spelling on a signboard page, a temple name or a fee table is the kind of thing customers in a town this size mention for years. WhatsApp is the main channel, answered seven days a week on Indian time, and if a date is going to slip you hear it the day we know, along with the replacement date.",
       ],

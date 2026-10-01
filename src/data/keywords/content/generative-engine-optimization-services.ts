@@ -30,7 +30,7 @@ const content: FreelanceContent = {
     h1: "Generative engine optimization services that get your business named in AI answers",
     lede: `Generative engine optimization services make your business the source that ChatGPT, Perplexity, Gemini and Google AI Overviews quote when a buyer asks a question you can answer. BtechWaleTech is three freelance developers in India who fix the technical side (crawler access, schema, entity data, page structure) and the content side (answer passages, comparison tables, off-site mentions), then measure AI referrals in GA4. Work runs inside <a href='/freelance-seo-expert/'>monthly SEO</a> from ${P.seo}, with no promise of citations nobody can guarantee.`,
     pills: ["Entity consistency", "Answer-first passages", "Schema and llms.txt", "Crawler access audit", "Off-site mentions", "AI referral tracking", "India and abroad"],
-    origin: "Three freelance developers in India · GEO led by Santosh Sharma · WhatsApp replies 7 days a week",
+    origin: "Three freelance developers in India · GEO led by another of us · WhatsApp replies 7 days a week",
   },
   facts: [
     ["GEO work from", `${P.seo} · ${P.seoUsd}`],

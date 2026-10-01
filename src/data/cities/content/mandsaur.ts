@@ -169,7 +169,7 @@ const mandsaur: CityContent = {
       paragraphs: [
         "We have no office in Mandsaur and we will not pretend otherwise. We are three engineers who work remotely for clients across India. Because we pay no rent and employ no sales staff, our starting prices are lower than an Indore agency's, and you talk directly to the people who write your code.",
         "Work runs over phone calls, WhatsApp and screen sharing. After the first conversation we send a page plan, timeline and itemised quote. Within one to two weeks you get a preview link to open on your phone, show your partners and mark up with changes. Small edits are usually done the same day, and we reply seven days a week on Indian time, including during the busy mandi season.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">message any of us</a> directly without going through a salesperson.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">message any of us</a> directly without going through a salesperson.",
       ],
     },
     {

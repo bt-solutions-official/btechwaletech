@@ -159,7 +159,7 @@ const amroha: CityContent = {
       paragraphs: [
         "We have no office in Amroha, and we will not pretend to. We are three engineers working remotely for clients across India. Because we pay no rent and have no sales staff, our prices are lower, and you talk directly to the person building your site.",
         "Everything happens on phone calls and WhatsApp. We start with a conversation about your business, then send a page plan, timeline and itemised quote in writing. Within a week or two you get a live link to your site to check on your own phone and show your family or partners. Changes are requested on WhatsApp and small ones are usually done the same day. We reply seven days a week.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">contact any of us</a> directly.",
+        "One of us builds the websites and applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">contact any of us</a> directly.",
       ],
     },
     {

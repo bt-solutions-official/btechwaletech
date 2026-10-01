@@ -171,7 +171,7 @@ const robertsonPet: CityContent = {
       paragraphs: [
         "We have no office in Robertsonpet or anywhere in KGF, and we do not claim one. We are three engineers who work remotely with businesses across India. Without office rent or sales staff, our prices stay lower, and you always deal directly with the people building your site.",
         "Work starts with a call or WhatsApp chat about your business, then a written plan with pages, timeline and quote. Within a week or two you receive a live preview link to check on your phone. Feedback comes over WhatsApp, and small changes usually go live the same day.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and covers data science and automation. We work on IST and reply every day, which suits owners who can only review their site after a long day or on Sunday.",
+        "One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data. The third of us manages projects and covers data science and automation. We work on IST and reply every day, which suits owners who can only review their site after a long day or on Sunday.",
       ],
     },
     {

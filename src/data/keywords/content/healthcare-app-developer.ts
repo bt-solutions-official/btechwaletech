@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A healthcare app developer turns a clinic's or health startup's service into software patients can use on their phones, while keeping sensitive data protected. The apps are usually less about clever features and more about reliable basics: booking that never double-books a doctor, reminders that arrive on time, reports that open on a cheap phone, and nobody seeing a record they should not.`,
         `The typical building blocks are patient registration with consent, doctor and slot management, appointment booking and payment, video or audio consultation, reminders, prescription and report sharing, and a web dashboard for doctors and staff. Behind them sit a database, file storage, notification services and audit logs.`,
-        `On our team Ankur builds the app in Flutter or React Native and the backend, Santosh sets up cloud hosting on AWS with encryption, backups and access controls, and Vedansh maps the clinic's workflow, writes the test plans and handles store submission, including the extra health declarations Google and Apple ask for.`,
+        `On our team one of us builds the app in Flutter or React Native and the backend, another of us sets up cloud hosting on AWS with encryption, backups and access controls, and the third of us maps the clinic's workflow, writes the test plans and handles store submission, including the extra health declarations Google and Apple ask for.`,
       ],
       list: [
         "Patient app on Android and iPhone",

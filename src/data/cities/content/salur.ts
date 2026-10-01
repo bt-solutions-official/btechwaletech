@@ -69,7 +69,7 @@ const salur: CityContent = {
       paragraphs: [
         "Salur has long been the place where the hill villages come down to buy and sell. Families from the forested mandals around it bring produce to the market yard and go home with groceries, cloth, fertiliser, medicines and hardware. The town's shops, clinics and schools therefore serve a much wider area than its own population, and a large share of that area now looks things up on a phone before making the trip.",
         "When people ask us about <strong>IT services in Salur</strong>, the request is usually specific. A wholesaler wants retailers to stop phoning every morning for rates. A clinic wants its doctors and timings visible on Google. A school wants a notice board parents can open without visiting. A young owner wants the family business to appear properly online for the first time.",
-        "We are a remote team of three and we handle all of this without an office in Salur. Ankur Kumar builds websites and web apps, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. You deal with named people on WhatsApp and calls, not a call centre.",
+        "We are a remote team of three and we handle all of this without an office in Salur. One of us builds websites and web apps, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. You deal with named people on WhatsApp and calls, not a call centre.",
       ],
     },
     {

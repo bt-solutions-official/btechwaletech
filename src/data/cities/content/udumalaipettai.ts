@@ -69,7 +69,7 @@ const udumalaipettai: CityContent = {
       paragraphs: [
         "Udumalpet has been a municipality for more than a century, and it remains the market town for a large stretch of coconut groves, maize fields and dairy farms between the Anamalai hills and the plains towards Dharapuram. Its bus routes link Pollachi, Palani, Tiruppur and Coimbatore, which keeps a steady flow of traders, students, patients and tourists passing through.",
         "Enquiries we receive for <strong>IT services in Udumalaipettai</strong> are mostly concrete. A coconut trader wants a proper record of purchases and lorry dispatches. A resort near Thirumoorthy wants its rooms to appear when Coimbatore families search for a weekend stay. A school wants an admissions page parents can read in Tamil. A clinic wants appointment requests to stop clogging the front-desk phone.",
-        "Three of us do this work, and we do it remotely. Ankur Kumar is the full-stack developer. Santosh Sharma takes AI, machine learning, AWS and data. Vedansh Shrivastava handles project management, data science and automation. There is no BtechWaleTech office in Udumalpet or Tiruppur, and we make that clear before anything else. Meetings happen on WhatsApp, calls and shared screens, and each decision is recorded in writing.",
+        "Three of us do this work, and we do it remotely. One of us is the full-stack developer. Another of us takes AI, machine learning, AWS and data. The third of us handles project management, data science and automation. There is no BtechWaleTech office in Udumalpet or Tiruppur, and we make that clear before anything else. Meetings happen on WhatsApp, calls and shared screens, and each decision is recorded in writing.",
       ],
     },
     {

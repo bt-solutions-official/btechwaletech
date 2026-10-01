@@ -69,7 +69,7 @@ const vinukonda: CityContent = {
       paragraphs: [
         "Vinukonda is the trading and service centre for a wide ring of villages in western Palnadu, and for neighbouring mandals such as Nuzendla, Savalyapuram, Ipur and Bollapalle. Farmers come here to sell produce, buy seed, fertiliser and pesticide, repair tractors and motors, see a doctor, and put children in school. More of them now check a phone first to see which dealer has stock or which hospital has a specialist today.",
         "Most requests we get for <strong>IT services in Vinukonda</strong> are specific. A fertiliser dealer wants credit given to each farmer tracked properly. A cotton trader wants purchase records that match the weighbridge slips. A school wants fee reminders and notices sent to parents. A shop wants its Google Maps pin to point to the right street. We try to solve that one problem well.",
-        "Three engineers do the work, all remotely. Ankur Kumar writes the full-stack code, Santosh Sharma looks after AI, machine learning, AWS hosting and data, and Vedansh Shrivastava plans projects and handles data science and automation. None of us sits in a Vinukonda office, since there isn't one. You deal with us by WhatsApp message, phone and shared screen, and each decision is confirmed on paper.",
+        "Three engineers do the work, all remotely. One of us writes the full-stack code, another of us looks after AI, machine learning, AWS hosting and data, and the third of us plans projects and handles data science and automation. None of us sits in a Vinukonda office, since there isn't one. You deal with us by WhatsApp message, phone and shared screen, and each decision is confirmed on paper.",
       ],
     },
     {

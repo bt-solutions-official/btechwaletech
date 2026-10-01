@@ -180,7 +180,7 @@ const tadpatri: CityContent = {
       id: "remote-team-tadpatri",
       heading: "Working with us from Tadpatri",
       paragraphs: [
-        "We do not have an office in Tadpatri or Anantapur, and we will not claim one. BtechWaleTech is three engineers working remotely. Ankur Kumar builds the full-stack web systems, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation.",
+        "We do not have an office in Tadpatri or Anantapur, and we will not claim one. BtechWaleTech is three engineers working remotely. One of us builds the full-stack web systems, another of us handles AI, machine learning, AWS and data, and the third of us manages projects, data science and automation.",
         "You explain what you need on WhatsApp or a quick call. In about two working days you get an itemised written quote. Nothing begins and nothing is billed until you approve it in writing. While we build, you check progress on a live preview link and send comments whenever you have a moment, even from the yard.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time. Every change and payment milestone is recorded in writing.",
       ],

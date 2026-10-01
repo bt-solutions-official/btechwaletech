@@ -70,7 +70,7 @@ const thiruvalla: CityContent = {
       paragraphs: [
         "Few towns of Thiruvalla's size have so many customers who live somewhere else. A hospital's website is read by a daughter in Kuwait deciding where her father should have surgery. A builder's page is read by a nurse in Manchester who wants a house near her parents. A college is chosen by families from Kollam, Alappuzha and Idukki after they have compared fees online. The town has a municipal population of about fifty thousand, yet its web audience stretches across several continents.",
         "Most requests we get for <strong>IT services in Thiruvalla</strong> start from that fact. Owners want a clean Malayalam and English website, a Google Maps listing that shows the right gate of the hospital or the right lane off the MC Road, WhatsApp replies that do not wait for office hours, and simple records that a relative abroad can check from a phone.",
-        "We are a remote team of three engineers. Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Thiruvalla and do not pretend otherwise. Meetings happen on calls, screen shares and WhatsApp, which suits a town where the decision-maker is often in another country anyway.",
+        "We are a remote team of three engineers. One of us handles full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Thiruvalla and do not pretend otherwise. Meetings happen on calls, screen shares and WhatsApp, which suits a town where the decision-maker is often in another country anyway.",
       ],
     },
     {
@@ -170,7 +170,7 @@ const thiruvalla: CityContent = {
       paragraphs: [
         "We are three engineers with no office in Thiruvalla or anywhere else, and we find that most local clients prefer it that way once they see how the work runs. It starts with a call about your business and your customers. You then receive a written plan of pages or screens, a timeline and an itemised cost list. Work starts only after you approve that list, and nothing is billed before your approval.",
         "Progress arrives as preview links that open on any phone or laptop, so a partner in Muscat or a son in Toronto can review the same page as you, on the same day. Malayalam text is sent to you for checking before it goes live, because a misspelt word on a hospital page or a wedding invitation service looks careless to the very readers you want to impress.",
-        "WhatsApp is our main line, answered seven days a week on Indian time. If a date slips, you hear about it the day we know, with a new date and the reason. Payments follow milestones you can see working, which keeps risk low for a first-time client. Ankur, Santosh and Vedansh each handle the parts of your project they know best, and one of them is always your named contact.",
+        "WhatsApp is our main line, answered seven days a week on Indian time. If a date slips, you hear about it the day we know, with a new date and the reason. Payments follow milestones you can see working, which keeps risk low for a first-time client. The BtechWaleTech team each handle the parts of your project they know best, and one of them is always your named contact.",
       ],
     },
     {

@@ -168,7 +168,7 @@ const tirunelveli: CityContent = {
       paragraphs: [
         "We do not have an office in Tirunelveli and will not borrow one to appear local. We are three engineers who work remotely with clients across India. That keeps rent and sales commission out of your price and puts you in direct touch with the people building your site.",
         "Work begins with a call or WhatsApp chat, followed by a written page plan, timeline and quote. Within a week or two you receive a live preview link to check on your own phone. Feedback goes on WhatsApp, and small changes usually go live the same day. We work Indian hours and reply seven days a week.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma looks after AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on data science and automation. If one of us is away, the other two keep your project on track.",
+        "One of us handles full-stack development. Another of us looks after AI, machine learning, AWS and data work. The third of us manages projects and works on data science and automation. If one of us is away, the other two keep your project on track.",
       ],
     },
     {

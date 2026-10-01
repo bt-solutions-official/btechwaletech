@@ -265,7 +265,7 @@ const content: FreelanceContent = {
         "We diagnose from headers and DNS first, list every system that sends as your domain, fix records and sending routes in a safe order, then verify with test messages to Gmail, Outlook and Yahoo addresses.",
         "The order matters because a wrong DNS change can stop mail entirely. We never change MX records without a plan, and we lower DNS TTL values before planned changes where possible, so a mistake can be reversed quickly. SPF gets merged and validated before publishing. DKIM is published first and switched on only once DNS shows the key. DMARC begins at <code>p=none</code>.",
         "Website mail comes next: SMTP configured, the From address set to your domain with visitors in Reply-To, every form tested, and submissions stored as a backup. Blacklists are checked, causes fixed, and removal requested where appropriate.",
-        "Finally we send test messages to several mailbox providers, read the resulting headers to confirm SPF, DKIM and DMARC all pass, and hand over a short note of every record changed, with its old and new values. Santosh Sharma usually handles the DNS and diagnosis; Ankur Kumar handles website and SMTP changes.",
+        "Finally we send test messages to several mailbox providers, read the resulting headers to confirm SPF, DKIM and DMARC all pass, and hand over a short note of every record changed, with its old and new values. Another of us usually handles the DNS and diagnosis; one of us handles website and SMTP changes.",
       ],
     },
     {

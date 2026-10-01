@@ -178,7 +178,7 @@ const panaji: CityContent = {
       paragraphs: [
         "We have no office in Panaji or anywhere in Goa, and we do not pretend to. We are three engineers working remotely for businesses across India. Without rent or a sales team to cover, our starting prices stay lower than those of agencies with large offices, and you talk directly to the people who build your site.",
         "Projects begin with a short call or WhatsApp chat. We then send a page plan, a timeline and an itemised quote. Once you approve it, you receive a preview link to check on your phone and share with partners. We make changes over chat and screen sharing, and we reply every day of the week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us</a> and get answers from the person doing the work.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us</a> and get answers from the person doing the work.",
       ],
     },
     {

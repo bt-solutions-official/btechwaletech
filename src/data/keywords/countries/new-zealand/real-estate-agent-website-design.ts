@@ -172,7 +172,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Suburb pages are the most useful thing a real estate agent website can publish, because vendors search for their suburb before they search for an agent. A good suburb page reads like a conversation you would have at an open home.`,
         `What goes on one? A short description of the housing stock, the streets that behave differently from the rest, what buyers from outside the area usually ask, a note on school zones in plain language with a link to the official zone map, transport and amenities, and your own commentary on recent market mood. Numbers belong on the page only when you can cite where they came from and when.`,
-        `We do not mass-produce these. A page for Ōnekawa and a page for Taradale should not share paragraphs, and Google is quick to ignore near-duplicate location pages. Our process is simple: you record a five-minute voice note per suburb on WhatsApp, Santosh turns it into a structured draft, you correct it, and it goes live. You bring the knowledge; we handle headings, internal links, schema and speed.`,
+        `We do not mass-produce these. A page for Ōnekawa and a page for Taradale should not share paragraphs, and Google is quick to ignore near-duplicate location pages. Our process is simple: you record a five-minute voice note per suburb on WhatsApp, another of us turns it into a structured draft, you correct it, and it goes live. You bring the knowledge; we handle headings, internal links, schema and speed.`,
         `Agents farming a handful of suburbs fit comfortably in the ${P.site} static plan. Agents covering a whole district with dozens of suburb and street-cluster pages usually need the ${P.seoSite} SEO website plan, which is built for hundreds of pages without slowing down. Either way, each page ends with an appraisal prompt tied to that suburb, so the lead arrives already tagged.`,
       ],
     },
@@ -254,7 +254,7 @@ const content: FreelanceContent = {
       heading: "Working with a team in India from New Zealand: how the project runs",
       paragraphs: [
         `New Zealand runs 6.5 hours ahead of India in winter and 7.5 hours ahead during daylight saving, so your afternoon is our morning. A message sent after your last open home on Sunday is usually answered by the time you are back at your desk.`,
-        `Calls happen by video at a time that suits you, typically between 2 pm and 5 pm New Zealand time. Most day-to-day decisions happen on WhatsApp: you send a photo of a flyer you like or a voice note about a suburb, and we reply with a draft. Ankur handles the build, Santosh the search and hosting side, and Vedansh keeps the schedule and your checklist in one place.`,
+        `Calls happen by video at a time that suits you, typically between 2 pm and 5 pm New Zealand time. Most day-to-day decisions happen on WhatsApp: you send a photo of a flyer you like or a voice note about a suburb, and we reply with a draft. One of us handles the build, another of us the search and hosting side, and the third of us keeps the schedule and your checklist in one place.`,
         `Quotes and invoices are in USD and come from India. You pay by Wise, bank wire or PayPal, and nothing is billed before you approve the written quote. Your domain, hosting and CRM access stay in your name throughout; we work through delegated logins you can revoke. The terms of any project are set out in your quote and our <a href='/terms/'>website terms</a>.`,
       ],
       subs: [
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
       ["Itemised USD quote", "Within about two working days you receive a written quote listing every page, the CRM integration and optional extras. Nothing is billed until you approve it."],
       ["Layout on your phone", "We share a clickable layout for home, appraisal and one suburb page. You review it between appointments and send changes by message."],
       ["Content from voice notes", "You record short notes per suburb; we turn them into drafts. You correct facts and tone, and your compliance person reviews claims and licence wording."],
-      ["Build, connect and test", "Ankur builds the pages and connects your CRM feed. Every form is tested end to end, with alerts reaching your phone and leads reaching your CRM."],
+      ["Build, connect and test", "One of us builds the pages and connects your CRM feed. Every form is tested end to end, with alerts reaching your phone and leads reaching your CRM."],
       ["Launch and two months of care", "The domain goes live on your accounts, Search Console is verified, and you get two months of free fixes and small edits from launch day."],
     ],
   },

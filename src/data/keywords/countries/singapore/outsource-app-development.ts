@@ -52,7 +52,7 @@ const content: FreelanceContent = {
   snapshot: {
     caption: "Outsourcing an app from Singapore, the short version",
     rows: [
-      { label: "Who you work with", value: "Ankur, Santosh and Vedansh, the same three people throughout" },
+      { label: "Who you work with", value: "The BtechWaleTech team, the same three people throughout" },
       { label: "Starting price", value: `From ${P.app} for Android and iOS together` },
       { label: "Typical duration", value: "6–10 weeks from approved scope to store submission" },
       { label: "How you pay", value: "Per milestone you have tested and approved" },
@@ -148,7 +148,7 @@ const content: FreelanceContent = {
       heading: "Step 3: how do you vet an outsourced app development team?",
       paragraphs: [
         `Vet the people, the process and the paperwork, in that order. A glossy portfolio is the weakest signal, because anyone can show screenshots. Ask instead to see how the team would run your first two weeks.`,
-        `On a first call, notice whether they ask about your customers and your revenue model or jump straight to technology. Good developers push back on features that do not earn their place. Ask who exactly will write the code, and whether those names stay the same until launch. With us the answer is simple: the three of us, Ankur on the app and backend, Santosh on cloud, data and AI, and Vedansh on planning and delivery.`,
+        `On a first call, notice whether they ask about your customers and your revenue model or jump straight to technology. Good developers push back on features that do not earn their place. Ask who exactly will write the code, and whether those names stay the same until launch. With us the answer is simple: the three of us, one of us on the app and backend, another of us on cloud, data and AI, and the third of us on planning and delivery.`,
         `Then test the paperwork. Request a sample quote format, a sample milestone plan and the clause they use for IP. A team that has done this before can share these quickly. A team that says "we will sort that out later" is telling you how disputes will be handled.`,
       ],
       subs: [

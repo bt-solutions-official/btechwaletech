@@ -159,7 +159,7 @@ const arrah: CityContent = {
       paragraphs: [
         "We have no office in Arrah or anywhere in Bihar, and we will not list an address we do not use. We are three engineers working remotely for clients across India. Skipping rent and a sales team is what lets us keep prices where they are, and it means the person you speak to is the person writing the code.",
         "The process is simple. We start with a phone or WhatsApp call about your business and customers. You receive a page plan, timeline and itemised quote in writing. Within a week or two you get a live preview link to open on your own phone and share with your partners or family. Changes are sent on WhatsApp, and small ones usually go live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. You can <a href=\"/contact/\">message any of us</a> directly, in Hindi or English.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. You can <a href=\"/contact/\">message any of us</a> directly, in Hindi or English.",
       ],
     },
     {

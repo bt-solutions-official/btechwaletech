@@ -165,7 +165,7 @@ const pathankot: CityContent = {
       id: "remote-team-pathankot",
       heading: "Working with a remote team from Pathankot",
       paragraphs: [
-        "We have no office in Pathankot and do not borrow an address to look local. BtechWaleTech is three engineers working remotely. Ankur Kumar handles full-stack development, from design to deployment. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava runs project management and builds the automation and data science pieces.",
+        "We have no office in Pathankot and do not borrow an address to look local. BtechWaleTech is three engineers working remotely. One of us handles full-stack development, from design to deployment. Another of us works on AI, machine learning, AWS and data. The third of us runs project management and builds the automation and data science pieces.",
         "The first conversation is a WhatsApp call about your customers and how they find you today. Within about two working days you get a page plan, timeline and itemised quote. After approval, we share a preview link early, and you check it on your own phone, the same way your customers will. Feedback goes back over WhatsApp, and small changes are often made the same day.",
         "Because nobody has to travel, the process is the same for a hotel near the junction and a school in Sujanpur. We reply seven days a week on Indian time, which suits businesses whose busiest days are weekends and holidays, and you can always reach the person doing your work.",
       ],

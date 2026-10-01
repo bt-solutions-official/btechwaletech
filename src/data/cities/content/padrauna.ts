@@ -69,7 +69,7 @@ const padrauna: CityContent = {
       paragraphs: [
         "Padrauna is small by census numbers, just under fifty thousand people in 2011, yet it carries the load of a district headquarters. Government offices and courts bring people in from Hata, Kasia, Khadda, Tamkuhiraj and Kaptanganj, and while they are in town they shop, eat, see doctors and visit coaching centres. Subhash Chowk, where the roads from Gorakhpur and Ramkola meet the town, is where much of that traffic first arrives.",
         "That trip now starts on a phone. Before leaving the village, a farmer checks whether a seed shop stocks the variety he wants; a parent looks up a coaching batch; a family compares two nursing homes. The business that answers online usually gets the visit. As an <strong>IT services team in Padrauna</strong> in the working sense, we help local firms give those answers through websites, map listings, Android and iOS apps and WhatsApp automation.",
-        "We are three engineers. Ankur Kumar handles full-stack development of sites and apps, Santosh Sharma looks after AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Padrauna or in Gorakhpur, and we would rather say that plainly than print an address that does not exist.",
+        "We are three engineers. One of us handles full-stack development of sites and apps, another of us looks after AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Padrauna or in Gorakhpur, and we would rather say that plainly than print an address that does not exist.",
       ],
     },
     {
@@ -180,7 +180,7 @@ const padrauna: CityContent = {
       heading: "How a remote project with a Padrauna business runs, step by step",
       paragraphs: [
         "First comes a WhatsApp message or a call in which you tell us what you sell, who buys it and what is going wrong today. Next, within about two working days, you receive a written plan: pages or app screens, a timeline and an itemised quote. Nothing is billed until you approve that plan in writing.",
-        "Once you approve, Vedansh keeps the schedule and sends updates, Ankur builds, and Santosh takes on any AI, cloud or data work. You get preview links that open on your phone, so you can show them to a partner or a relative whose opinion counts. Hindi wording is sent to you before it goes live, because a clumsy phrase on a business page gets noticed quickly in a small town.",
+        "Once you approve, the third of us keeps the schedule and sends updates, one of us builds, and another of us takes on any AI, cloud or data work. You get preview links that open on your phone, so you can show them to a partner or a relative whose opinion counts. Hindi wording is sent to you before it goes live, because a clumsy phrase on a business page gets noticed quickly in a small town.",
         "We answer WhatsApp seven days a week on Indian time. Payments follow stages you can see working. If we are going to miss a date, you hear it from us first, together with the new date, rather than after you have had to chase us.",
       ],
     },

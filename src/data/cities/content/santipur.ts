@@ -168,7 +168,7 @@ const santipur: CityContent = {
       paragraphs: [
         "We do not have an office in Santipur or anywhere in Nadia, and we will not invent one. We are three engineers who work remotely for clients across India, which keeps our costs low and means you speak directly to the people doing the work, not a salesperson who passes messages along.",
         "The process runs on WhatsApp, calls and screen sharing. You tell us about the business, we send a page plan, a timeline and an itemised quote, usually within two working days. Once you approve, you get a live preview link within a week or two for a small site. You can check it on your phone, show it to your family or partners, and send corrections as voice notes if that is easier than typing.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles automation and data science. You can <a href=\"/contact/\">reach any of us</a>, seven days a week.",
+        "One of us builds the websites and applications. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and handles automation and data science. You can <a href=\"/contact/\">reach any of us</a>, seven days a week.",
       ],
     },
     {

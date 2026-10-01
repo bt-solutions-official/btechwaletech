@@ -167,7 +167,7 @@ const muzaffarpur: CityContent = {
       paragraphs: [
         "We have no office in Muzaffarpur and we do not use a borrowed address to look local. We are three engineers working remotely for clients across India. Without rent and sales staff to pay for, our prices stay lower, and you speak directly with the people doing the work.",
         "We start with a call or WhatsApp chat about your business, then send a written plan with pages, timeline and cost. Within a week or two, you receive a live preview link to open on your phone and share with family members or partners involved in the business. Feedback comes on WhatsApp, and small changes usually go live the same day.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on data science and automation. We work on Indian time and reply seven days a week, including the Sundays when many traders finally have time to look at their site.",
+        "One of us builds the websites and applications. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on data science and automation. We work on Indian time and reply seven days a week, including the Sundays when many traders finally have time to look at their site.",
       ],
     },
     {

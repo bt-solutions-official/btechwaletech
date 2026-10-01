@@ -196,7 +196,7 @@ const kashipur: CityContent = {
       heading: "Working with a remote team from Kashipur",
       paragraphs: [
         "We have no office in Kashipur and do not list a fake address. We are three engineers working remotely for businesses across India, and you deal directly with the people who build your project.",
-        "Ankur Kumar is our full-stack developer. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and covers data science and automation. We start with a WhatsApp or phone discussion about your business, then send a page plan and itemised quote in about two working days. You review progress through a preview link on your phone and send changes whenever convenient.",
+        "One of us is our full-stack developer. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and covers data science and automation. We start with a WhatsApp or phone discussion about your business, then send a page plan and itemised quote in about two working days. You review progress through a preview link on your phone and send changes whenever convenient.",
         "We keep IST working hours and reply seven days a week. Small edits usually go live the same day. To begin, <a href=\"/contact/\">message us</a> with what you make or sell and who buys it.",
       ],
     },

@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["Code review", "Needs a second engineer", "Usually nobody reviews", "Every merge read by a second team member"],
       ["Cover for leave or illness", "Your problem to solve", "Work pauses", "Two teammates know the codebase"],
       ["Front end and apps", "Separate hires", "Separate contractors", "Same team builds web and mobile front ends"],
-      ["DevOps and cloud", "Often learned on the job", "Varies widely", "AWS setup handled by Santosh"],
+      ["DevOps and cloud", "Often learned on the job", "Varies widely", "AWS setup handled by another of us"],
       ["IP and repository", "Company-owned by contract", "Depends on terms and platform", "Your repo, your cloud, assignment in writing"],
       ["Best for", "Long-term core product teams", "Short, well-specified tasks", "Projects of weeks to months, plus ongoing care"],
       ["Not suited to", "Short one-off projects", "Work needing deep context", "Programmes needing ten or more engineers at once"],

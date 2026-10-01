@@ -159,7 +159,7 @@ const coimbatore: CityContent = {
       paragraphs: [
         "We don't have a Coimbatore office, and we will not invent one. We are three engineers who work remotely for clients across India, and our Coimbatore clients deal with us over calls, WhatsApp and shared screens. That keeps our costs, and your quote, lower than an agency paying rent on Avinashi Road.",
         "The process is predictable. We begin with a conversation about your products and buyers, then send a page plan, a timeline and an itemised quote. After approval, you receive a preview link within the first week or two and can review the real site on your own phone and computer. Changes are sent on WhatsApp, and small ones usually go live the same day. We work Indian hours and reply seven days a week, which suits owners who review things on a Sunday after the factory is quiet.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data work, including dashboards for dispatch and sales. Vedansh Shrivastava manages projects and handles data science and automation. You can reach any of us directly, and we are open about who is doing what.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data work, including dashboards for dispatch and sales. The third of us manages projects and handles data science and automation. You can reach any of us directly, and we are open about who is doing what.",
       ],
     },
     {

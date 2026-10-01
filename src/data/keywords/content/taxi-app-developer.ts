@@ -165,7 +165,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `For most operators, a cross-platform framework is the sensible choice. Flutter or React Native lets one codebase serve Android and iOS, which matters because your riders may use either while your drivers are almost all on Android. Native development is rarely needed for a taxi app at this scale.`,
         `On the server, we use Node.js for real-time work such as live location and trip status over sockets, with PostgreSQL and its geographic extension to answer “which drivers are within three kilometres?” quickly. Push notifications go through Firebase Cloud Messaging and Apple’s push service. OTP login uses an SMS provider; in India, business SMS templates must be registered on the telecom DLT system before they can be sent, which takes some lead time.`,
-        `Hosting sits on AWS or a similar cloud in your own account, sized for your fleet rather than for a national platform. Santosh sets up monitoring and backups so a server problem at night is noticed.`,
+        `Hosting sits on AWS or a similar cloud in your own account, sized for your fleet rather than for a national platform. Another of us sets up monitoring and backups so a server problem at night is noticed.`,
       ],
       subs: [
         { heading: "Mobile apps", text: "Flutter or React Native, one codebase for rider app, separate lighter codebase for the driver app." },

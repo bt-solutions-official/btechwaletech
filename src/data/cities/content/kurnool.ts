@@ -159,7 +159,7 @@ const kurnool: CityContent = {
       paragraphs: [
         "We have no office in Kurnool, and we will not invent one. We are three engineers working remotely for clients across India, which keeps rent and sales commissions out of your price and puts you in direct contact with the people building your site.",
         "We begin with a WhatsApp chat or call about your business and customers, then send a written page plan, timeline and quote. Within a week or two you get a live preview link that you can open on your phone and share with your partners. Feedback can come as messages, screenshots or voice notes, and small changes usually go live the same day. We work on Indian time and reply seven days a week.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You always know who is responsible for which part.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You always know who is responsible for which part.",
       ],
     },
     {

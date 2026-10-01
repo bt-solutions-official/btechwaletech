@@ -83,7 +83,7 @@ const content: FreelanceContent = {
     note: "The right channel depends on how long the work lasts and how much management time you have.",
     columns: ["Question", "Salaried .NET employee", "Offshore vendor with a bench", "BtechWaleTech freelance team"],
     rows: [
-      ["Who writes the code", "Your employee", "Whoever the vendor assigns", "Ankur, Santosh and Vedansh, by name"],
+      ["Who writes the code", "Your employee", "Whoever the vendor assigns", "The BtechWaleTech team, by name"],
       ["Commitment", "Long-term salary and benefits", "Monthly contract, often with minimum terms", "Per project, milestones in your approved quote"],
       ["Web Forms and old MVC", "Hard to recruit for", "Depends on who is free", "Taken on after a short audit"],
       ["Blazor, MVC or API choice", "Depends on the hire’s habits", "Often whatever the team knows best", "Explained in writing, tied to your users and staff"],
@@ -177,7 +177,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Azure is the natural home for many .NET apps, but it is not the only option, and a good developer will tell you when a simple Windows or Linux server is enough. Modern ASP.NET Core is cross-platform, so Linux hosting on Azure, AWS or a VPS is possible for many apps.`,
         `For a business portal on Azure, a tidy setup usually includes App Service for the web app, Azure SQL Database or SQL Server on a VM for data, Key Vault for connection strings and API keys, Application Insights for errors and performance, and deployment slots so a new version can be tested before swapping it live. Backups and alerts should be switched on before launch, not after the first incident.`,
-        `What drives the monthly Azure bill: the App Service plan tier, database size and performance tier, storage, outbound bandwidth, and anything left running that nobody uses. We document each resource and why it exists, and the subscription stays in your company’s name with billing from your card. Santosh leads hosting, and our <a href='/cloud-hosting-setup-freelancer/'>cloud hosting setup service</a> covers AWS too.`,
+        `What drives the monthly Azure bill: the App Service plan tier, database size and performance tier, storage, outbound bandwidth, and anything left running that nobody uses. We document each resource and why it exists, and the subscription stays in your company’s name with billing from your card. Another of us leads hosting, and our <a href='/cloud-hosting-setup-freelancer/'>cloud hosting setup service</a> covers AWS too.`,
       ],
     },
     {
@@ -211,7 +211,7 @@ const content: FreelanceContent = {
       id: "team-and-limits",
       heading: "Who you work with when you hire .NET developers from us, and our limits",
       paragraphs: [
-        `You work with three named people, not a rotating pool. Ankur Kumar builds the application end to end, Santosh Sharma handles SQL Server and Azure or AWS hosting, data and security checks, and Vedansh Shrivastava plans milestones, runs weekly demos and automates routine work.`,
+        `You work with three named people, not a rotating pool. One of us builds the application end to end, another of us handles SQL Server and Azure or AWS hosting, data and security checks, and the third of us plans milestones, runs weekly demos and automates routine work.`,
         `Because three of us read the same solution, a holiday or illness does not stall your project. Everything lives in your repository, and decisions are written down in the issue tracker or the README rather than in one person’s head.`,
         `Our limits are real. We do not supply developers to sit in your office. We do not handle servers, networks or hardware physically. We are not a fit for programmes that need ten or twenty .NET engineers in parallel. And we do not claim Microsoft partner status or certifications. What we offer is a small, accountable team for builds, upgrades and upkeep with a clear scope.`,
       ],

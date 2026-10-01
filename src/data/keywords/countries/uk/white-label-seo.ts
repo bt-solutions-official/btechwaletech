@@ -105,7 +105,7 @@ const content: FreelanceContent = {
         `White label SEO is search optimisation delivered by one team and sold by another under the seller's brand. Your agency owns the client relationship, the contract and the invoice; the delivery team does the work quietly in the background.`,
         `UK agencies turn to white label SEO for three common reasons. A web design studio keeps being asked for SEO after launch and loses the retainer to someone else. A social or paid media agency wants to offer organic search without hiring. Or an SEO agency has more clients than hands and needs overflow capacity without a permanent salary.`,
         `The model works when three things are true: the client never sees the delivery team, the work is genuinely good, and the maths leaves your agency enough margin to cover account management. It fails when the white label SEO UK provider delivers generic PDFs, builds poor links that get a client's site into trouble, or reaches out to your client directly.`,
-        `We are three freelance developers in India, and SEO sits alongside our web and data work: Santosh Sharma leads technical SEO, Ankur Kumar implements the fixes in code and CMS, and Vedansh Shrivastava keeps the monthly schedule and reports on time. The rest of this guide explains how a white label arrangement with us runs, from access to reporting.`,
+        `We are three freelance developers in India, and SEO sits alongside our web and data work: another of us leads technical SEO, one of us implements the fixes in code and CMS, and the third of us keeps the monthly schedule and reports on time. The rest of this guide explains how a white label arrangement with us runs, from access to reporting.`,
       ],
     },
     {

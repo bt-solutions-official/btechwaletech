@@ -162,7 +162,7 @@ const anakapalle: CityContent = {
       heading: "AI and WhatsApp automation in Anakapalle for traders and contractors",
       paragraphs: [
         "A jaggery trader's phone fills with the same questions every morning: today's rate, available grades, loading dates. A contractor's WhatsApp carries attendance photos, material requests and invoice queries. A clinic answers “is the doctor in today?” dozens of times. These are good candidates for automation.",
-        "We set up WhatsApp flows that reply in Telugu or English to common questions, send price lists, brochures and locations, log every enquiry in a sheet, and forward the serious ones to you with the full chat. For suppliers, AI tools can read incoming purchase orders or delivery challans and fill a register. Santosh Sharma designs these so that prices, discounts and complaints always come back to a person.",
+        "We set up WhatsApp flows that reply in Telugu or English to common questions, send price lists, brochures and locations, log every enquiry in a sheet, and forward the serious ones to you with the full chat. For suppliers, AI tools can read incoming purchase orders or delivery challans and fill a register. Another of us designs these so that prices, discounts and complaints always come back to a person.",
         "<strong>AI automation in Anakapalle</strong> starts from ₹40,000 and usually takes two to four weeks. If your message volume is small, we will suggest a simpler setup that costs less.",
       ],
     },
@@ -188,7 +188,7 @@ const anakapalle: CityContent = {
       heading: "A software team in Anakapalle's reach, working remotely",
       paragraphs: [
         "We have no office in Anakapalle or Visakhapatnam, and we will not list an address we do not use. We are three engineers who work with clients across India over calls, WhatsApp and screen sharing, which keeps our costs and prices low and means you speak with the people doing the work.",
-        "Ankur Kumar builds websites, apps and web applications. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on data science and automation. After a first conversation you receive a page plan, timeline and itemised quote in about two working days, then a private preview link you can check on your phone.",
+        "One of us builds websites, apps and web applications. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on data science and automation. After a first conversation you receive a page plan, timeline and itemised quote in about two working days, then a private preview link you can check on your phone.",
         "We reply on WhatsApp seven days a week in IST. Read more about our <a href=\"/services/web-development/\">web development service</a> or <a href=\"/contact/\">send us your requirements</a>.",
       ],
     },

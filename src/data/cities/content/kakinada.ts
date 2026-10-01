@@ -178,7 +178,7 @@ const kakinada: CityContent = {
       paragraphs: [
         "We have no office in Kakinada and will not claim one. We are three engineers who work remotely with businesses across India. Without rent or sales staff to pay for, we keep prices lower, and you speak directly to the developers doing the work.",
         "Projects move through calls, WhatsApp and screen sharing. After an initial conversation we send a page plan, timeline and itemised quote. Within one to two weeks you get a preview link to review on your phone and share with partners. Small changes usually happen the same day, and we reply every day of the week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us</a> directly and talk to whichever of us fits your question.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us</a> directly and talk to whichever of us fits your question.",
       ],
     },
     {

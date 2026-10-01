@@ -27,7 +27,7 @@ const content: FreelanceContent = {
     h1: "AI automation services in Singapore for the admin work your team retypes every day",
     lede: `AI automation services in Singapore make the most sense for the unglamorous work: invoices keyed into Xero, enquiries copied from WhatsApp into a CRM, reports stitched from three spreadsheets every Monday. BtechWaleTech is three freelance developers in India who map that work, automate it with n8n, Make or custom code, and add AI only where reading or judgement is needed. Projects start from ${P.ai} and typically take 2 to 4 weeks, priced without assuming any grant. See our wider <a href='/singapore/'>Singapore services</a>.`,
     pills: [`AI automation from ${P.ai}`, "2–4 weeks typical", "n8n, Make or custom code", "Xero, Google Workspace, WhatsApp, CRMs", "Invoice and document extraction", "PDPA-aware data handling", "Hours saved measured"],
-    origin: "Three freelance developers in India · automation led by Santosh and Vedansh · WhatsApp replies 7 days a week",
+    origin: "Three freelance developers in India · automation led by another of us and the third of us · WhatsApp replies 7 days a week",
   },
   facts: [
     ["AI automation from", `${P.ai}, usually 2–4 weeks`],

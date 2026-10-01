@@ -159,7 +159,7 @@ const agra: CityContent = {
       paragraphs: [
         "We don't have an office in Agra, and we won't list a fake address near Sanjay Place to look local. We are a three-person engineering team working remotely for clients across India. You speak to the engineers doing the work, and you don't pay for a showroom or a sales team inside your quote.",
         "Hotels and tour businesses are busy, so we keep the process light. After an initial call or WhatsApp chat, we send a written page plan, timeline and itemised quote. Within a week or two you have a live preview link, which you can check between guests or share with your partner. Feedback can be typed or sent as voice notes, and small changes usually go live the same day. We reply every day of the week on Indian time, including through the tourist season when you have the least time.",
-        "Ankur Kumar builds the sites and applications end to end. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages the project and builds the data science and automation parts. You can reach any of us directly.",
+        "One of us builds the sites and applications end to end. Another of us handles AI, machine learning, AWS and data. The third of us manages the project and builds the data science and automation parts. You can reach any of us directly.",
       ],
     },
     {

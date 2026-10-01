@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A grocery app developer builds a small system, not just one app. Customers see the ordering app on their phones. Your staff see a store panel, usually in a browser at the counter, where orders arrive and prices change. If you deliver with your own riders, they get a third app. Behind all three sits a server and database that holds products, orders, customers and delivery areas.`,
         `The customer app gets the attention, but the store panel decides whether the project works. If accepting an order, marking an item out of stock or updating the price of tomatoes takes more than a few taps, staff will go back to the phone and the notebook, and the app will quietly die.`,
-        `At BtechWaleTech, Ankur Kumar builds the apps and the panel, Santosh Sharma sets up the cloud backend on AWS, data exports and any AI features, and Vedansh Shrivastava plans the project around how your shop actually runs, including a morning spent understanding your billing and packing routine.`,
+        `At BtechWaleTech, one of us builds the apps and the panel, another of us sets up the cloud backend on AWS, data exports and any AI features, and the third of us plans the project around how your shop actually runs, including a morning spent understanding your billing and packing routine.`,
       ],
       list: [
         "Customer app: browse, search, cart, slot, pay, track, reorder",

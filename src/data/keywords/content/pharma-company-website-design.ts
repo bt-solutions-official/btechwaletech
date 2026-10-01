@@ -248,7 +248,7 @@ const content: FreelanceContent = {
       heading: "What tech stack suits pharma company website design?",
       paragraphs: [
         `For most pharma companies, a fast static or hybrid site built with a modern framework, fed by a headless CMS or a simple structured product store, is the right choice. It is quick to load, hard to hack, and cheap to host, which matters for a site that mostly publishes documents and product records.`,
-        `WordPress still suits companies whose marketing teams already know it, provided the theme is light, plugins are few and updates are someone's job. Where a portal is needed, we build it as a separate web app with its own login and database, rather than bolting logins onto a brochure site. Santosh handles AWS or other cloud setup, backups and access control; Ankur builds the front end and product data model; Vedansh runs the project plan and review batches.`,
+        `WordPress still suits companies whose marketing teams already know it, provided the theme is light, plugins are few and updates are someone's job. Where a portal is needed, we build it as a separate web app with its own login and database, rather than bolting logins onto a brochure site. Another of us handles AWS or other cloud setup, backups and access control; one of us builds the front end and product data model; the third of us runs the project plan and review batches.`,
       ],
       subs: [
         { heading: "Static or hybrid (Astro, Next.js)", text: "Best for catalogues and corporate content. Pages are prebuilt, so they load fast even on patchy connections abroad." },

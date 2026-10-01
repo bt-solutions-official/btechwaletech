@@ -34,9 +34,9 @@ const content: FreelanceContent = {
   },
   facts: [
     ["Built for", "Multi-specialty hospitals, hospital chains, super-speciality centres"],
-    ["Technical SEO and schema", "Santosh Sharma"],
-    ["Doctor directory and page build", "Ankur Kumar"],
-    ["Content calendar and reporting", "Vedansh Shrivastava"],
+    ["Technical SEO and schema", "Another of us"],
+    ["Doctor directory and page build", "One of us"],
+    ["Content calendar and reporting", "The third of us"],
     ["Monthly SEO", `From ${P.seo} · ${P.seoUsd} for overseas groups`],
     ["Rankings", "No one can guarantee them; we report real numbers"],
   ],
@@ -297,7 +297,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Measure enquiries by department and branch, not just traffic. A report that says “organic sessions up” tells the management committee nothing; a report that says “orthopaedics enquiries from search up at the Kharadi branch, cardiology flat” lets them act.`,
         `We set up GA4 events for calls, WhatsApp clicks and appointment form submissions, tagged with the department and branch they came from. Search Console is filtered by URL folder so each department hub and its children have their own trend line. Business Profile insights are pulled per branch. Where your front office uses a call-tracking or appointment system, we connect it so the numbers match what reception actually records.`,
-        `Keep the monthly report short: what we changed, what moved, what did not and why, and the next month's plan. Vedansh runs the reporting call; Santosh brings the technical detail. You keep direct access to every account, so you can check any number yourself without asking.`,
+        `Keep the monthly report short: what we changed, what moved, what did not and why, and the next month's plan. The third of us runs the reporting call; another of us brings the technical detail. You keep direct access to every account, so you can check any number yourself without asking.`,
       ],
       list: [
         "Enquiries per department and branch from organic search and Maps",

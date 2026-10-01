@@ -159,7 +159,7 @@ const bokaro: CityContent = {
       paragraphs: [
         "We do not have an office in Bokaro, and we do not pretend to. We are three engineers working remotely for clients across India. That keeps rent and sales commissions out of your quote and means you speak directly with the people building your site.",
         "The process is straightforward. After a WhatsApp chat or call about your business, we send a written page plan, timeline and quote. Within the first week or two you receive a live preview link to check on your own phone. Feedback can be text, screenshots or voice notes, and small changes usually go live the same day. We work on Indian time and reply seven days a week, including the evenings when contractors and shop owners are finally free.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on data science and automation.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data work. The third of us manages projects and works on data science and automation.",
       ],
     },
     {

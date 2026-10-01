@@ -201,7 +201,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Invest in foundations from day one, content later. Foundations cost almost nothing when built in: clean URLs, one H1 per page, fast load times, a sitemap, schema for your organisation and product, and verified Google Search Console. Retrofitting these after launch costs more.`,
         `Content is a strategy decision. If your buyers search for the problem you solve, such as “GST invoice software for small shops”, then use-case and comparison pages can become your cheapest acquisition channel over time. If you sell to twenty enterprise accounts through outbound, a big blog may not be the best use of money yet.`,
-        `Santosh on our team handles technical SEO and can build templated pages at scale when that strategy fits, from ${P.seoSite}. What we never do is promise positions; search results depend on competition and time, and anyone guaranteeing rankings is guessing.`,
+        `Another of us on our team handles technical SEO and can build templated pages at scale when that strategy fits, from ${P.seoSite}. What we never do is promise positions; search results depend on competition and time, and anyone guaranteeing rankings is guessing.`,
       ],
     },
     {

@@ -69,7 +69,7 @@ const jagraon: CityContent = {
       paragraphs: [
         "Jagraon has served the villages of western Ludhiana district for more than three centuries. Rai Kamaluddin of Raikot founded it in 1688, and it is best known outside Punjab as the birthplace of Lala Lajpat Rai. Today it is a sub-division headquarters with courts, tehsil offices, a busy bus stand and a railway station, and above all a grain market that farmers from a wide area rely on at every harvest.",
         "That mix defines the digital work people ask us for. Commission agents want clean records and faster communication with farmers. Tractor and implement dealers want more service bookings and fewer phone calls. Hospitals and clinics want patients from Sidhwan Bet or Mullanpur Dakha to find the right doctor. Schools, colleges and IELTS centres want enquiries that can be tracked.",
-        "Our <strong>IT services in Jagraon</strong> are delivered by three engineers working remotely. Ankur Kumar handles full-stack development of websites, apps and portals. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds data science and automation workflows. You deal directly with the people doing the work.",
+        "Our <strong>IT services in Jagraon</strong> are delivered by three engineers working remotely. One of us handles full-stack development of websites, apps and portals. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds data science and automation workflows. You deal directly with the people doing the work.",
       ],
     },
     {

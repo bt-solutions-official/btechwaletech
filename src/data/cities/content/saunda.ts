@@ -69,7 +69,7 @@ const saunda: CityContent = {
       paragraphs: [
         "Saunda is one of the mining settlements of the South Karanpura coalfield in the Damodar valley. The Saunda, Central Saunda and Saunda D underground mines belong to the Barka Sayal Area of Central Coalfields Limited, whose office is at nearby Sayal. Bhurkunda, a few kilometres away, has the railway station, two degree colleges and a large CCL hospital, and for most daily purposes the two places work as one town.",
         "Around the mines has grown a full local economy: transport and labour contractors, engineering workshops, tyre and battery shops, hardware stores, private schools, coaching classes, clinics, pharmacies, cloth and grocery markets. These are the people who ask us for <strong>IT services in Saunda</strong>, and their needs are specific: a site a purchase officer can check, a record of vehicle trips, a correct Google Maps pin, or a quicker way to answer WhatsApp messages.",
-        "We are a remote team of three. Ankur Kumar builds full-stack web and app code, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. We have no office in Saunda or Ramgarh and do not pretend to. Meetings happen on calls and screen shares, and every plan and quote reaches you in writing.",
+        "We are a remote team of three. One of us builds full-stack web and app code, another of us works on AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. We have no office in Saunda or Ramgarh and do not pretend to. Meetings happen on calls and screen shares, and every plan and quote reaches you in writing.",
       ],
     },
     {

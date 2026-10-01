@@ -142,7 +142,7 @@ const rajkot: CityContent = {
       paragraphs: [
         "Walk into almost any Rajkot office and you will find someone whose day is spent on WhatsApp: forwarding catalogues, answering “rate su che?”, confirming dispatch, and then copying the same details into a register or a spreadsheet. Automation cannot replace the relationship behind these chats, but it can remove most of the copying and the repetition.",
         "A typical project connects your WhatsApp Business number, website enquiry form and a Google Sheet or CRM. Every enquiry is logged with the product asked about, the city and the source. An AI assistant answers routine questions about models, minimum order quantities, catalogue links or office timings in Gujarati, Hindi or English, and hands the conversation to a salesperson as soon as the customer asks for a negotiated rate. For jewellery resellers, new designs can be pushed to a broadcast list with a single upload. For manufacturers, dispatch details from your system can go out automatically with the LR number.",
-        "Automation projects start from ₹40,000 and usually take two to four weeks. We map your current process first, automate only what is repetitive and safe, and keep people in charge of pricing, credit and anything contractual. If an automation would save ten minutes a week and cost more to maintain, we will say so. Santosh Sharma leads this work, drawing on his background in AI, machine learning and AWS.",
+        "Automation projects start from ₹40,000 and usually take two to four weeks. We map your current process first, automate only what is repetitive and safe, and keep people in charge of pricing, credit and anything contractual. If an automation would save ten minutes a week and cost more to maintain, we will say so. Another of us leads this work, drawing on his background in AI, machine learning and AWS.",
       ],
     },
     {
@@ -160,7 +160,7 @@ const rajkot: CityContent = {
       paragraphs: [
         "We should be clear: we have no office in Rajkot, and you won't find a borrowed address for us on Yagnik Road. We are three engineers who work remotely for businesses across India. That keeps our costs low, and it means you speak directly to the people who design, code and maintain your site rather than a sales executive.",
         "Rajkot clients are practical, and the process suits that. After a first call, we send a written page list, timeline and itemised quote. Once you approve, you receive a working preview link within the first week or two, which you can open on your phone, share with your partner or show your sales manager. Feedback comes by WhatsApp, voice notes included. Most small edits go live the same day. We reply every day of the week on Indian time, which helps owners who only find time on Sunday.",
-        "Ankur Kumar handles the full-stack development, from product pages to dealer portals. Santosh Sharma looks after AI, machine learning, AWS hosting and data. Vedansh Shrivastava manages the project, keeps timelines honest and builds the data science and automation pieces. You can message any of us directly.",
+        "One of us handles the full-stack development, from product pages to dealer portals. Another of us looks after AI, machine learning, AWS hosting and data. The third of us manages the project, keeps timelines honest and builds the data science and automation pieces. You can message any of us directly.",
       ],
     },
     {

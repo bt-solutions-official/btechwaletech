@@ -168,7 +168,7 @@ const moga: CityContent = {
       paragraphs: [
         "We do not have an office in Moga, Ludhiana or anywhere in Punjab, and we won't list one. We are three engineers working remotely for clients across India. Without office rent or sales staff, our prices stay lower and you speak directly to the people doing the work.",
         "Projects run on WhatsApp, calls and screen sharing. We start with a conversation about your business, then send a page plan, timeline and itemised quote, usually within two working days. After approval, you get a live preview to check on your own phone and share with partners or family abroad. Changes can be sent as messages or voice notes, and small ones are usually done the same day.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science tools. You can <a href=\"/contact/\">message us</a> any day of the week.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science tools. You can <a href=\"/contact/\">message us</a> any day of the week.",
       ],
     },
     {

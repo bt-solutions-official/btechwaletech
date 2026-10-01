@@ -33,7 +33,7 @@ const content: FreelanceContent = {
     origin: "A freelance group of three developers in India · English and Hindi · WhatsApp every day",
   },
   facts: [
-    ["Research lead", "Santosh Sharma, with Vedansh Shrivastava on data"],
+    ["Research lead", "Another of us, with the third of us on data"],
     ["Languages covered", "English, Hindi and Hinglish; regional with your input"],
     ["Main output", "Keyword-to-page map in a shared spreadsheet"],
     ["Data sources", "Search Console, Keyword Planner, SERPs, your enquiries"],
@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Keyword research services find the words and questions your potential customers type into search engines, measure which of them are worth pursuing, and decide which page on your site should answer each group. The finished product is a plan for your site, written as a spreadsheet.`,
         `Many businesses have been sent a keyword list before: a long export of phrases with volumes and difficulty scores. That list is raw material, not research. Research starts where the export ends: removing irrelevant terms, labelling intent, grouping phrases that one page can serve, and assigning each group to a page.`,
-        `At BtechWaleTech, Santosh Sharma leads the research and Vedansh Shrivastava handles the data work of cleaning, deduplicating and clustering. Ankur Kumar reviews the page plan with a builder's eye, because a map that asks for 400 pages the site's structure cannot support is not a useful map.`,
+        `At BtechWaleTech, another of us leads the research and the third of us handles the data work of cleaning, deduplicating and clustering. One of us reviews the page plan with a builder's eye, because a map that asks for 400 pages the site's structure cannot support is not a useful map.`,
       ],
       list: [
         "A cleaned master list of relevant searches, including Hinglish and regional ones",

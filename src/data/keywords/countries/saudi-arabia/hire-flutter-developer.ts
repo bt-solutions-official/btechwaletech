@@ -107,7 +107,7 @@ const content: FreelanceContent = {
         `Hiring a Flutter developer for a Saudi Arabia app means paying someone to write one Dart codebase that ships to both Google Play and the App Store, with Arabic as a first-class language rather than an afterthought. The developer builds the screens, connects them to a backend, adds payments, and prepares both store releases.`,
         `In practice, businesses in the Kingdom hire Flutter help for three reasons. Some have an idea and no app yet. Some have an app built elsewhere that now needs Arabic, mada-friendly checkout or a new feature. And some had a developer disappear with half a build and no documentation. Each situation needs a different kind of hire, so decide which one you are in before you post a job or send a WhatsApp message.`,
         `Flutter suits Saudi projects well because it draws every pixel itself. Arabic text, right-to-left layouts and custom fonts look the same on a budget Android phone and on the latest iPhone, which matters when your customers use both. The framework also handles text direction from the locale, so a well-built app flips its layout when the user switches to Arabic without a second codebase.`,
-        `When you hire a Flutter developer for Saudi Arabia through BtechWaleTech, you get three freelance developers instead of one: Ankur Kumar on the Flutter front end and APIs, Santosh Sharma on cloud, data and AI features, and Vedansh Shrivastava running the plan, demos and releases.`,
+        `When you hire a Flutter developer for Saudi Arabia through BtechWaleTech, you get three freelance developers instead of one: one of us on the Flutter front end and APIs, another of us on cloud, data and AI features, and the third of us running the plan, demos and releases.`,
       ],
     },
     {
@@ -189,7 +189,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Use Firebase when you need a working app quickly with modest data and standard login; use a custom API when you need complex business rules, integrations with Saudi systems, or tight control over where data sits. Many apps start on Firebase and move a few services to a custom API later.`,
         `Firebase gives a Flutter developer authentication, a document database, file storage, push notifications and hosting with very little server code. That speed is real, and for a booking app or loyalty card it is often the sensible choice. Its limits show when queries become relational, such as reports across branches, or when you must connect to an ERP, an accounting tool or a ZATCA-ready invoicing flow.`,
-        `A custom backend in Node.js or Python, hosted on AWS or another cloud in a region you choose, takes longer to build but gives you plain SQL data, your own admin panel and integrations without workarounds. Santosh Sharma handles this side, including hosting setup and access control.`,
+        `A custom backend in Node.js or Python, hosted on AWS or another cloud in a region you choose, takes longer to build but gives you plain SQL data, your own admin panel and integrations without workarounds. Another of us handles this side, including hosting setup and access control.`,
       ],
       list: [
         "Firebase: fastest start, pay-as-you-go, best for simple data and small teams.",

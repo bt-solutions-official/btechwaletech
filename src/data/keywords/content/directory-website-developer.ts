@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A directory website developer builds a site whose main content is a set of structured listings, each describing one entity: a business, a professional, a venue, a supplier, a school. Visitors find listings by browsing categories and locations or by searching, and then contact the listed business.`,
         `The build has three layers. The data layer holds listings with consistent fields such as name, category, address, coordinates, phone, hours, photos and niche-specific attributes. The page layer turns that data into listing pages plus category, city and category-in-city pages that people actually search for. The product layer adds whatever makes the directory a business: owner accounts, paid placements, reviews, enquiry forms and an admin panel.`,
-        `At BtechWaleTech, Santosh Sharma designs the data model and the SEO side, Ankur Kumar builds the templates, search and accounts, and Vedansh Shrivastava plans the launch data and moderation workflows. We build and host the software; we do not call businesses to sell listings for you or collect data door to door.`,
+        `At BtechWaleTech, another of us designs the data model and the SEO side, one of us builds the templates, search and accounts, and the third of us plans the launch data and moderation workflows. We build and host the software; we do not call businesses to sell listings for you or collect data door to door.`,
       ],
     },
     {

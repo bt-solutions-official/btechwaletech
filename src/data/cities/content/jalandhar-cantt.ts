@@ -69,7 +69,7 @@ const jalandharCantt: CityContent = {
       paragraphs: [
         "Jalandhar Cantonment is older than most of the city that has grown around it. It was laid out in 1848 after the first Anglo-Sikh War, covers roughly fifteen square kilometres beside the GT Road, and is governed by its own Cantonment Board rather than the municipal corporation. XI Corps, the Vajra Corps, has kept its headquarters here since 1951, and Military Hospital Jalandhar treats troops and their families from a wide area.",
         "For a business, that creates an unusual market. A large share of customers arrive on a posting, stay for its length and then move on, and a fresh set takes their place. Word of mouth resets with every batch. The families who knew your shop leave, and the ones who replace them begin by typing a search into Google Maps or asking in a colony WhatsApp group.",
-        "That is why <strong>IT services in Jalandhar Cantt</strong> are less about grand projects and more about being findable, trustworthy and easy to reach from the first day of someone's posting. We are a remote team of three engineers, Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We have no office in the cantonment and say so plainly.",
+        "That is why <strong>IT services in Jalandhar Cantt</strong> are less about grand projects and more about being findable, trustworthy and easy to reach from the first day of someone's posting. We are a remote team of three engineers, one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We have no office in the cantonment and say so plainly.",
       ],
     },
     {
@@ -184,7 +184,7 @@ const jalandharCantt: CityContent = {
       id: "remote-team-jalandhar-cantt",
       heading: "How our remote team works with Jalandhar Cantt clients",
       paragraphs: [
-        "There is no BtechWaleTech office in the cantonment or in Jalandhar city, and we will not rent a desk to suggest otherwise. Three engineers do the work directly. Vedansh Shrivastava plans the project and keeps the dates; Ankur Kumar writes the website, app and backend code; Santosh Sharma handles AI features, AWS hosting and data work.",
+        "There is no BtechWaleTech office in the cantonment or in Jalandhar city, and we will not rent a desk to suggest otherwise. Three engineers do the work directly. The third of us plans the project and keeps the dates; one of us writes the website, app and backend code; another of us handles AI features, AWS hosting and data work.",
         "A project runs like this. First comes a call or chat about your customers and what you want to change. Within about two working days you receive a written scope listing pages or screens, a timeline and an itemised quote, and nothing is billed until you approve it in writing. As the build moves along you get preview links to open on your own phone, handy when a partner or spouse wants a say, and feedback happens on WhatsApp, which we answer seven days a week on Indian time.",
         "People in the cantonment are used to procedure, and most appreciate a written trail. You will always know what was agreed, what has been delivered and what comes next. If a date slips, you hear the same day with the reason and a revised date, not after the deadline has quietly passed.",
       ],

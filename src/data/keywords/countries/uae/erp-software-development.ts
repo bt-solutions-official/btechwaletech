@@ -288,7 +288,7 @@ const content: FreelanceContent = {
       subs: [
         { heading: "Online stores", text: `If you sell on WooCommerce, see how stock sync fits into a store build on our <a href='/uae/woocommerce-development/'>WooCommerce development guide for Dubai</a>.` },
         { heading: "Dealer and customer portals", text: `Letting trade customers check stock and place orders themselves is often the second phase. Our <a href='/uae/web-application-development/'>web application development guide</a> covers portal scoping.` },
-        { heading: "AI-assisted reordering", text: `Once a year of clean sales data exists, a simple model can suggest reorder quantities by season. Santosh Sharma handles this data and AI work; <a href='/uae/ai-agent-development/'>AI agent development</a> explains what is realistic.` },
+        { heading: "AI-assisted reordering", text: `Once a year of clean sales data exists, a simple model can suggest reorder quantities by season. Another of us handles this data and AI work; <a href='/uae/ai-agent-development/'>AI agent development</a> explains what is realistic.` },
       ],
     },
     {
@@ -313,7 +313,7 @@ const content: FreelanceContent = {
       heading: "Working with an ERP team in India from Dubai: calls, payments and the first fortnight",
       paragraphs: [
         `Working with our team from the UAE feels close to working with someone across town, because India Standard Time is just an hour and a half ahead of Gulf Standard Time. A 9 am call in Dubai is 10:30 am for us, and the UAE working day sits almost entirely inside ours.`,
-        `The team splits the work by strength. Ankur Kumar builds the full-stack application, Santosh Sharma handles the database, reports, cloud hosting and any AI features, and Vedansh Shrivastava runs the project plan, the weekly demo and the data-migration checklist. You talk to all three on the same WhatsApp group, in English or Hindi, seven days a week.`,
+        `The team splits the work by strength. One of us builds the full-stack application, another of us handles the database, reports, cloud hosting and any AI features, and the third of us runs the project plan, the weekly demo and the data-migration checklist. You talk to all three on the same WhatsApp group, in English or Hindi, seven days a week.`,
         `Quotes and invoices are in USD, paid by Wise, bank wire or PayPal, against milestones written into the quote you approve. Nothing is billed before that approval. Invoices come from India, and your own accountant can advise on how to record them. The code repository, database and cloud account are yours from the first commit.`,
       ],
       subs: [

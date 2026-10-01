@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A blog website developer builds a blog you own and control, shaped around how you write and how you plan to earn. A free platform gives you a box to type into; a developer gives you the whole house, with the wiring placed where you need it.`,
         `In practice the work covers five areas. Platform choice and setup, whether WordPress or a static site. A design that makes long articles easy to read on a phone. SEO structure: categories, tags, clean URLs, schema markup and sitemaps. Speed, so posts open quickly on mobile data. And the pieces that make money or leads: ad slots, affiliate link handling, email sign-up forms and calls to action inside posts.`,
-        `What a blog website developer does not do by default is write your posts. We can help plan topics and structure, and Santosh on our team handles technical SEO, but the voice and expertise in the writing should come from you or your team. That is also what search engines and readers reward.`,
+        `What a blog website developer does not do by default is write your posts. We can help plan topics and structure, and another of us on our team handles technical SEO, but the voice and expertise in the writing should come from you or your team. That is also what search engines and readers reward.`,
       ],
       list: [
         "Choose and set up the right platform",

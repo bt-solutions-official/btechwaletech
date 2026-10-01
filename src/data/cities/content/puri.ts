@@ -161,7 +161,7 @@ const puri: CityContent = {
       paragraphs: [
         "We have no office in Puri and do not pretend otherwise. We are three engineers working remotely with clients across India, which keeps our costs and prices lower and means you always talk to the people building your site.",
         "We begin with a call or WhatsApp chat about your property or shop and your guests, then send a written plan with pages, timeline and quote. Within one or two weeks you get a live preview link to check on your phone. Feedback travels over WhatsApp, and small changes usually go live the same day.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data. Vedansh Shrivastava manages projects along with data science and automation. We work on IST and reply every day, including weekends and holidays, which is exactly when Puri businesses are busiest.",
+        "One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data. The third of us manages projects along with data science and automation. We work on IST and reply every day, including weekends and holidays, which is exactly when Puri businesses are busiest.",
       ],
     },
     {

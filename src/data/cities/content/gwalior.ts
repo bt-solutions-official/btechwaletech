@@ -159,7 +159,7 @@ const gwalior: CityContent = {
       paragraphs: [
         "We have no office in Gwalior, and we won't put a borrowed address on our site to seem local. We are three engineers working remotely for clients across India. Without rent and sales staff to pay for, we can keep prices lower, and you deal directly with the people doing the work.",
         "We begin with a call or WhatsApp conversation about your business, then send a page plan, timeline and itemised quote. After you approve, you get a live preview link, usually within a week or two, so you can open the real site on your phone and show it to your family or partners. Feedback comes on WhatsApp and small changes are usually live the same day. We keep Indian hours and reply seven days a week.",
-        "Ankur Kumar is responsible for full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles data science and automation. You will always know who is working on your site and can reach any of us.",
+        "One of us is responsible for full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and handles data science and automation. You will always know who is working on your site and can reach any of us.",
       ],
     },
     {

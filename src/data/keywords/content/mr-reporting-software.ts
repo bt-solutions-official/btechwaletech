@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `MR reporting software is the system a pharma company uses to record what each medical representative did in the field: which doctors and chemists were met, which brands were detailed, which samples were handed over, and what the day cost in travel. It turns that record into approvals and reports for the ASM, RSM and head office.`,
         `Most Indian pharma companies arrive at it from one of two starting points. Either reps send a DCR as a WhatsApp message each evening and someone at head office copies it into Excel, or the company already pays for a subscription tool that no longer matches its incentive rules or TA/DA policy. Both situations lead to the same question: should the MR reporting software be something you own?`,
-        `A complete system has two faces. The field app is what the representative opens forty times a day, so it must be quick on a mid-range Android phone and forgiving when the network drops. The web panel is where the sales office, finance and HR work, so it needs filters, exports and an audit trail. Our team builds both: Ankur Kumar writes the app and APIs, Santosh Sharma sets up the cloud, database and reporting layer, and Vedansh Shrivastava runs the plan and the rollout with your sales admin.`,
+        `A complete system has two faces. The field app is what the representative opens forty times a day, so it must be quick on a mid-range Android phone and forgiving when the network drops. The web panel is where the sales office, finance and HR work, so it needs filters, exports and an audit trail. Our team builds both: one of us writes the app and APIs, another of us sets up the cloud, database and reporting layer, and the third of us runs the plan and the rollout with your sales admin.`,
       ],
     },
     {
@@ -248,7 +248,7 @@ const content: FreelanceContent = {
       heading: "The tech stack behind a dependable MR reporting app",
       paragraphs: [
         `We build the field app in Flutter by default, which gives one codebase for Android and iOS and handles offline storage well; React Native is an option if your IT team prefers JavaScript. The web panel is a React or Next.js front end on a Node.js or Python API with PostgreSQL as the database.`,
-        `Hosting goes into your own AWS or other cloud account, set up by Santosh, with daily database backups and role-based access. Push notifications remind reps about pending DCRs and managers about approvals. Reports that head office runs often are pre-computed overnight so dashboards open quickly even with a year of call data.`,
+        `Hosting goes into your own AWS or other cloud account, set up by another of us, with daily database backups and role-based access. Push notifications remind reps about pending DCRs and managers about approvals. Reports that head office runs often are pre-computed overnight so dashboards open quickly even with a year of call data.`,
         `We avoid exotic tools. A pharma company should be able to hire any competent developer later to maintain its MR reporting software, so the stack is mainstream, documented and handed over with the source code.`,
       ],
     },

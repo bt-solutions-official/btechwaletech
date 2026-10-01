@@ -161,7 +161,7 @@ const unnao: CityContent = {
       paragraphs: [
         "We have no office in Unnao and will not invent one. We are three engineers working remotely for clients across India. With no rent or sales team to support, our starting prices stay low, and you always speak with the person who is building your site.",
         "Work happens over phone calls, WhatsApp and screen sharing. We begin with a conversation about your business, then send a page plan, timeline and itemised quote. After approval you get a preview link to open on your own phone and share with partners. Changes are sent on WhatsApp and small ones are usually done the same day. We reply seven days a week, in Indian time.",
-        "Ankur Kumar builds websites and applications. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles automation and data science. You can <a href=\"/contact/\">reach any of us</a> directly.",
+        "One of us builds websites and applications. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and handles automation and data science. You can <a href=\"/contact/\">reach any of us</a> directly.",
       ],
     },
     {

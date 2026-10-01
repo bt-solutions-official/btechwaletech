@@ -70,7 +70,7 @@ const markapur: CityContent = {
       paragraphs: [
         "Markapuram has long been known for one thing across India: slate. The school slates that generations of children wrote on came from here, and the town was exporting slate abroad by the late 1980s. Today the same deposits feed tiles, roofing and decorative stone. Add the pilgrim traffic heading for Srisailam and the new offices that come with district status, and the local economy is broader than it looks.",
         "Most requests for <strong>IT services in Markapur</strong> come from these groups. A slate unit wants overseas and domestic buyers to see its range. A lodge on the Srisailam road wants direct bookings. A hospital wants patients from Cumbum or Yerragondapalem to see doctor timings. A trader wants a better grip on dues from new customers in the district.",
-        "We are a remote team of three: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We have no office in Markapur and will not claim one. All work runs through WhatsApp, calls and screen shares, with written plans at each step.",
+        "We are a remote team of three: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We have no office in Markapur and will not claim one. All work runs through WhatsApp, calls and screen shares, with written plans at each step.",
       ],
     },
     {
@@ -169,7 +169,7 @@ const markapur: CityContent = {
       id: "remote-team-markapur",
       heading: "Working with a remote IT services team in Markapur that has no office in town",
       paragraphs: [
-        "Some owners hesitate to hire an <strong>IT services team in Markapur</strong> that they cannot walk into. That is reasonable, so we make the process visible. There is no salesman in between: Ankur, Santosh or Vedansh answers you directly. You get a written scope before work starts, a private preview link where the site grows day by day, and a sign-off at every milestone.",
+        "Some owners hesitate to hire an <strong>IT services team in Markapur</strong> that they cannot walk into. That is reasonable, so we make the process visible. There is no salesman in between: one of us, another of us or the third of us answers you directly. You get a written scope before work starts, a private preview link where the site grows day by day, and a sign-off at every milestone.",
         "Messages are answered seven days a week on WhatsApp, on Indian time. A ten-minute video call with a shared screen replaces the trip to Ongole or Vijayawada that a meeting would otherwise need, and that matters to a unit owner who cannot leave the yard during loading or a lodge owner in the middle of Ratha Saptami.",
         "If you want to talk, a short WhatsApp note or a message through the <a href=\"/contact/\">contact</a> page is enough to start. Talking to us and getting a quote costs nothing.",
       ],

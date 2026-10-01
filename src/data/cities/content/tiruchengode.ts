@@ -163,7 +163,7 @@ const tiruchengode: CityContent = {
       paragraphs: [
         "We have no office in Tiruchengode, Erode or Namakkal, and we will not claim one. We are three engineers working remotely for clients across India. With no rent or sales team, our costs stay lower, and you talk directly to the people building your site or software.",
         "Work happens over calls, WhatsApp and screen sharing. We start by understanding your business, buyers and where they are, then send a written plan, timeline and itemised quote. Within a week or two you get a private link to review on your own phone. Changes are sent on WhatsApp, and small ones are usually handled the same day. We reply seven days a week.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. <a href=\"/contact/\">Contact us</a> directly, or read about our <a href=\"/services/web-development/\">web development service</a>.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. <a href=\"/contact/\">Contact us</a> directly, or read about our <a href=\"/services/web-development/\">web development service</a>.",
       ],
     },
     {

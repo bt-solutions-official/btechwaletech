@@ -69,7 +69,7 @@ const kendujhar: CityContent = {
       paragraphs: [
         "Kendujhar, still widely called Keonjhar, is a district headquarters on a plateau in northern Odisha. The town itself is modest, but the district around it is one of the country's major sources of iron ore and manganese, and the flow of money, trucks, contractors and officials through the area shapes almost every local business.",
         "Demand for <strong>IT services in Kendujhar</strong> reflects that. Transporters want trip and diesel records they can trust. Service contractors to the mines want a professional website for tender and vendor registration. Hotels near the waterfalls want bookings from tourists. Hospitals, colleges and coaching centres want their details correct on Google, and shops in the main market want customers from the villages to find them.",
-        "We are a remote group of three engineers. Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and adds data science and automation. You talk directly with the person building your system.",
+        "We are a remote group of three engineers. One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and adds data science and automation. You talk directly with the person building your system.",
         "We have no office in Keonjhar, Bhubaneswar or anywhere else, and we would rather say that plainly. Work happens on WhatsApp, calls and screen shares, with written scopes and quotes at every stage. That keeps our prices low and saves you long road trips for meetings.",
       ],
     },

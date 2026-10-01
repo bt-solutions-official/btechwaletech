@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       heading: "What does a freelance frontend developer actually build?",
       paragraphs: [
         `Everything a visitor sees and interacts with in the browser. A freelance frontend developer takes a design, or sometimes just a rough sketch, and produces the markup, styling and behaviour that make it real: navigation that works on a small screen, forms that validate politely, tables that stay readable on a phone, modals that trap focus correctly and release it when closed.`,
-        `The job sits between design and backend. The designer decides how things should look; the backend developer decides where data comes from; the frontend developer makes both meet in a page that loads quickly and works for everyone. On small projects one person often does all three. On our team Ankur leads full-stack builds including the interface, Santosh handles performance measurement, hosting and technical SEO, and Vedansh plans the work and keeps review rounds on track.`,
+        `The job sits between design and backend. The designer decides how things should look; the backend developer decides where data comes from; the frontend developer makes both meet in a page that loads quickly and works for everyone. On small projects one person often does all three. On our team one of us leads full-stack builds including the interface, another of us handles performance measurement, hosting and technical SEO, and the third of us plans the work and keeps review rounds on track.`,
         `What frontend work is not: choosing your brand colours from scratch, writing marketing copy, or designing a database. A good frontend developer will flag gaps in those areas rather than quietly guess.`,
       ],
     },

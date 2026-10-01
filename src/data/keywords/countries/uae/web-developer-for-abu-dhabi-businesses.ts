@@ -229,7 +229,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Pick the simplest stack that meets your requirements for editing, integration and security. For content sites that is usually a fast static or hybrid framework with a headless CMS; for editors who already know it, WordPress remains a sensible choice.`,
         `For marketing and B2B sites we often use Astro or Next.js with a CMS your team can edit in both languages. Pages load quickly, which helps with Core Web Vitals and with visitors on mobile data. For businesses that already run WordPress, a clean theme with few plugins keeps things maintainable; see our <a href='/uae/wordpress-website-design/'>WordPress website design page</a>.`,
-        `Portals and internal tools use a typed backend, a relational database and role-based access. Hosting is set up in your own cloud account, often AWS, with a region chosen to suit your data requirements. Santosh handles the cloud side, including backups, monitoring and access policies.`,
+        `Portals and internal tools use a typed backend, a relational database and role-based access. Hosting is set up in your own cloud account, often AWS, with a region chosen to suit your data requirements. Another of us handles the cloud side, including backups, monitoring and access policies.`,
         `Integration is often the deciding factor in Abu Dhabi projects: connecting enquiry forms to your CRM, pulling product data from an ERP, or linking bookings to a clinic system. We document every integration so another developer could maintain it later. That matters if you ever move the work in-house.`,
       ],
     },

@@ -159,7 +159,7 @@ const mahesana: CityContent = {
       paragraphs: [
         "We have no office in Mehsana and will not list an address we don't use. We are three engineers who work remotely for clients across India, and that is why our starting prices are lower than those of agencies with rent and salespeople to cover.",
         "The process is designed for owners who prefer a phone call to a meeting room. We begin with a call about your business, then send a page plan, timeline and itemised quote. Once you approve, you receive a working preview link within days that you can open on your own phone and share with partners. Corrections go through WhatsApp, and small changes are usually made the same day. We answer seven days a week in Indian time.",
-        "You speak with the people doing the work. Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">reach us here</a> whenever you are ready.",
+        "You speak with the people doing the work. One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">reach us here</a> whenever you are ready.",
       ],
     },
     {

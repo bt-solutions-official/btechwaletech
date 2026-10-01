@@ -177,7 +177,7 @@ const tadepalligudem: CityContent = {
       heading: "How our remote team works with Tadepalligudem clients",
       paragraphs: [
         "There is no BtechWaleTech office in Tadepalligudem, Eluru or Rajahmundry, and you will not find a made-up Godavari address on our pages. The three of us work from different places for clients all over India. That saves rent, which shows in the price, and it means the engineer you chat with is the one writing your code.",
-        "Full-stack builds are Ankur Kumar's area. AI, machine learning, AWS and data projects sit with Santosh Sharma. Vedansh Shrivastava runs project planning and handles data science and automation work. A typical start is a short WhatsApp conversation about your mill, dealership or hostel; within about two working days you receive the page list, schedule and itemised costing.",
+        "Full-stack builds are our full-stack developer's area. AI, machine learning, AWS and data projects sit with another of us. The third of us runs project planning and handles data science and automation work. A typical start is a short WhatsApp conversation about your mill, dealership or hostel; within about two working days you receive the page list, schedule and itemised costing.",
         "During the build, a private preview link lets you test every page on the phone you actually use. Corrections come to us as WhatsApp messages or voice notes, and nothing goes live until you say yes. We keep IST hours all week, Sundays included, and minor edits are usually done the same day. <a href=\"/contact/\">Write to us</a> when you are ready.",
       ],
     },

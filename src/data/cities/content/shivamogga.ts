@@ -170,7 +170,7 @@ const shivamogga: CityContent = {
       paragraphs: [
         "We do not have an office in Shivamogga, and we will not claim one. We are three engineers who work remotely with clients across India, and not paying rent or salespeople is why our prices are lower than most agencies.",
         "Work happens by phone, WhatsApp and screen sharing. After a first conversation you receive a written plan, timeline and itemised quote. Within one or two weeks you get a live preview link to open on your phone. Changes are sent on WhatsApp, and small ones are usually done the same day. We reply every day of the week, on Indian time.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">message any of us</a> directly.",
+        "One of us builds the websites and applications. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">message any of us</a> directly.",
       ],
     },
     {

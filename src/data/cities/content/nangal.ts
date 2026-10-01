@@ -69,7 +69,7 @@ const nangal: CityContent = {
       paragraphs: [
         "For most Nangal clients, <strong>IT services in Nangal</strong> means four things: a clear website, a correct Google Maps listing, a WhatsApp line that answers routine questions, and sometimes a small piece of software or an app. The mix depends on who your customers are, and in this town that question has an unusually specific answer.",
         "Nangal was built for the Bhakra project and still carries that shape. Families of BBMB, NFL and PACL staff live in planned colonies such as BBMB Township and the numbered sectors of Naya Nangal. Private homes spread through Modern Avenue, Shivalik Avenue and the older Nangal Basti along Railway Road. Shopping happens in Jawahar Market, Main Market, Adda Market, GTB Market and Pahari Market. Customers from the Una side of the Himachal border come in for school, treatment and supplies.",
-        "Our job is to make your business easy to find and easy to deal with for those people. As an <strong>IT services team in Nangal</strong> in the service sense only, we have no office here and say so plainly. Ankur Kumar builds the sites, apps and web software. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava plans the work, sets the schedule and designs the automation.",
+        "Our job is to make your business easy to find and easy to deal with for those people. As an <strong>IT services team in Nangal</strong> in the service sense only, we have no office here and say so plainly. One of us builds the sites, apps and web software. Another of us handles AI, machine learning, AWS and data. The third of us plans the work, sets the schedule and designs the automation.",
       ],
     },
     {
@@ -178,7 +178,7 @@ const nangal: CityContent = {
       paragraphs: [
         "Clients in a town of plant engineers tend to ask sensible questions about process, so here it is. You send a short WhatsApp message about your business. We reply with questions, then a written scope listing pages or screens, deadlines and the price of every item. No work starts, and nothing is billed, until you approve that document.",
         "During the build you receive preview links that open on any phone, so partners, family members or your accountant can review them too. Punjabi and Hindi text is sent for your checking before it goes live. Payments are tied to stages you can see working. If something is going to be late, we tell you the same day with a new date.",
-        "WhatsApp is answered seven days a week on Indian time, and you always know who to ask: Ankur for the build, Santosh for AI and data, Vedansh for scope and timelines. To start, send a message from the <a href=\"/contact/\">contact page</a>, or read about our <a href=\"/services/web-development/\">web development work</a> first.",
+        "WhatsApp is answered seven days a week on Indian time, and you always know who to ask: one of us for the build, another of us for AI and data, the third of us for scope and timelines. To start, send a message from the <a href=\"/contact/\">contact page</a>, or read about our <a href=\"/services/web-development/\">web development work</a> first.",
       ],
     },
     {

@@ -175,7 +175,7 @@ const jagdalpur: CityContent = {
       id: "remote-team-jagdalpur",
       heading: "Our remote team and how we work",
       paragraphs: [
-        "You will not find a BtechWaleTech signboard in Gol Bazaar, because the business has no office there or anywhere else, and we refuse to invent one for Google. Three engineers do all the work remotely. Ankur Kumar is the full-stack developer behind the sites and apps. Santosh Sharma takes the AI, machine learning, AWS and data side. Vedansh Shrivastava plans and tracks every project and builds the automation and data science parts.",
+        "You will not find a BtechWaleTech signboard in Gol Bazaar, because the business has no office there or anywhere else, and we refuse to invent one for Google. Three engineers do all the work remotely. One of us is the full-stack developer behind the sites and apps. Another of us takes the AI, machine learning, AWS and data side. The third of us plans and tracks every project and builds the automation and data science parts.",
         "We start with a call in which you describe who your customers are and which months bring the rush. Roughly two working days later, a written page list, schedule and item-wise quote arrive. After you approve it in writing, a preview link follows; you test it on your own mobile and send corrections over WhatsApp, typed or as voice notes.",
         "Replies come every day of the week on Indian time, handy for hotels and tour operators whose busiest days fall on weekends and holidays. You always know which of us is handling your work and can message that person directly.",
       ],

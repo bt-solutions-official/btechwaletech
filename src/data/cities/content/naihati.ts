@@ -169,7 +169,7 @@ const naihati: CityContent = {
       paragraphs: [
         "We have no office in Naihati or Kolkata, and we say so plainly. We are three engineers who work remotely with clients across India. Not paying for rent or sales staff keeps our prices down, and you always speak with the person building your site.",
         "Everything runs on phone calls, WhatsApp and screen sharing. After a first conversation, you receive a page plan, timeline and itemised quote, usually within two working days. Once approved, you get a private preview link to check on your own phone, even on the train. Feedback goes on WhatsApp, and small changes are often done the same day. We reply seven days a week.",
-        "Ankur Kumar builds websites and web applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">message us directly</a> to begin.",
+        "One of us builds websites and web applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">message us directly</a> to begin.",
       ],
     },
     {

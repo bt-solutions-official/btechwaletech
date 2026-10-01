@@ -162,7 +162,7 @@ const viluppuram: CityContent = {
       paragraphs: [
         "We have no office in Viluppuram and we do not list a fake address to appear local. We are three engineers working remotely for clients in many towns. Because there is no rent, no reception and no sales team, more of your budget goes into the actual work, and you speak directly to the person building your site.",
         "The process is simple. We begin with a phone or WhatsApp conversation about your business, your customers and where they come from. Then we send a written page plan, timeline and itemised quote. Within a week or two you get a private link to your site, which you can open on your own phone and show to your partners or family. You send changes on WhatsApp, and small ones are usually finished the same day. We reply seven days a week, on Indian time.",
-        "Ankur Kumar handles full-stack development of websites and web applications. Santosh Sharma works on AI, machine learning, AWS and data projects. Vedansh Shrivastava manages projects and builds automation and data science work. You can <a href=\"/contact/\">contact us</a> directly, and see how we build sites on the <a href=\"/services/web-development/\">web development page</a>.",
+        "One of us handles full-stack development of websites and web applications. Another of us works on AI, machine learning, AWS and data projects. The third of us manages projects and builds automation and data science work. You can <a href=\"/contact/\">contact us</a> directly, and see how we build sites on the <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {

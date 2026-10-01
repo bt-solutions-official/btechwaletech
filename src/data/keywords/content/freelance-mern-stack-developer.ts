@@ -198,7 +198,7 @@ const content: FreelanceContent = {
         "Automated database backups, with a restore actually tested once",
         "Dependencies checked with npm audit and updated on a schedule",
       ],
-      after: [`If you store personal data of Indian users, also think about India’s Digital Personal Data Protection Act, 2023: collect only what you need, explain why, and be able to delete it on request. Santosh reviews these points on every build that handles customer data.`],
+      after: [`If you store personal data of Indian users, also think about India’s Digital Personal Data Protection Act, 2023: collect only what you need, explain why, and be able to delete it on request. Another of us reviews these points on every build that handles customer data.`],
     },
     {
       id: "hosting",

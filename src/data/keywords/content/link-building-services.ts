@@ -34,8 +34,8 @@ const content: FreelanceContent = {
   },
   facts: [
     ["Approach", "Earned and editorial links only"],
-    ["Link work lead", "Santosh Sharma (technical SEO and data)"],
-    ["Outreach and planning", "Vedansh Shrivastava (project management)"],
+    ["Link work lead", "Another of us (technical SEO and data)"],
+    ["Outreach and planning", "The third of us (project management)"],
     ["Pricing", `Inside monthly SEO, from ${P.seo} · ${P.seoUsd}`],
     ["Reporting", "Every link listed with URL and date"],
     ["Ranking promise", "None; nobody can guarantee rankings"],

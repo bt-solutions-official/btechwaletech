@@ -30,7 +30,7 @@ const content: FreelanceContent = {
     h1: "Driving school website that sells your course packages and walks learners through licence paperwork",
     lede: `A driving school website earns its keep when a nervous first-time driver reads your course options, sees which car and instructor they will get, books a trial slot and messages you on WhatsApp, all in about three minutes. BtechWaleTech is three freelance developers in India building driving school sites with package pages, lesson slot booking, plain-language learner and driving licence guides, and WhatsApp enrolment. Builds start from ${P.site}. For batch schedules and fee tracking, see <a href='/driving-school-software/'>driving school software</a>.`,
     pills: ["Course package pages", "Lesson slot booking", "Learner licence guide", "DL test preparation page", "Instructor and car profiles", "WhatsApp enrolment", "Hindi and regional pages"],
-    origin: "Ankur, Santosh and Vedansh · freelance developers in India · WhatsApp every day, IST",
+    origin: "The BtechWaleTech team · freelance developers in India · WhatsApp every day, IST",
   },
   facts: [
     ["Driving school site from", `${P.site} · ${P.siteUsd}`],

@@ -226,7 +226,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `We keep the stack boring and well supported, because a POS has to run for years without surprises. The back office is a web app (TypeScript on Node.js or Python, PostgreSQL), the billing terminal is either a desktop app or an installable web app with an offline database, and the captain and KDS apps are Flutter.`,
         `Why these choices? PostgreSQL handles reporting queries across months of bills without fuss. A web-based back office means owners and accountants can log in from anywhere. Flutter lets one developer maintain the captain app, KDS and a customer app from shared code. Hosting goes on a mainstream cloud provider in an Indian region, in your account, with daily backups you can download.`,
-        `Santosh handles the cloud, database and reporting side, Ankur builds the POS screens and apps, and Vedansh runs the plan, testing and staff training sessions. Three people is a real limit: we will not pretend to be a 20-person product team. It is also why every one of us knows your code. For the back-office side in more depth, see <a href='/web-application-developer/'>web application development</a>.`,
+        `Another of us handles the cloud, database and reporting side, one of us builds the POS screens and apps, and the third of us runs the plan, testing and staff training sessions. Three people is a real limit: we will not pretend to be a 20-person product team. It is also why every one of us knows your code. For the back-office side in more depth, see <a href='/web-application-developer/'>web application development</a>.`,
       ],
     },
     {
@@ -332,7 +332,7 @@ const content: FreelanceContent = {
         ["Printers and network tested with Wi-Fi off", "Staff on site with us on video", "Bills and KOTs still print"],
         ["UPI QR and settlement report checked", "Accountant", "A test payment appears in the day close"],
         ["Old system kept read-only", "Owner", "Previous data exported and stored"],
-        ["Staff trained on one shift", "Vedansh with the manager", "Every captain has sent a test order"],
+        ["Staff trained on one shift", "The third of us with the manager", "Every captain has sent a test order"],
       ],
     },
   ],

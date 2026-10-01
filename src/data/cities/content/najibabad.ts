@@ -69,7 +69,7 @@ const najibabad: CityContent = {
       paragraphs: [
         "Najibabad was laid out in 1751 by Najib-ud-Daula, and for most of its history it has lived on what passes through it: cane from the fields of Bijnor district, timber and forest produce coming down from the hills, grain for the mandis, and travellers bound for Kotdwar. That pattern still shapes local business. Many firms here serve customers who are not in Najibabad at all, but in villages around it or in towns across the border in Uttarakhand.",
         "That is exactly where a website, a map listing and a phone app start to matter. A customer in Kotdwar or Nagina checks online before calling. A contractor wants the day's trips on his phone. A school wants to send a notice without printing a hundred slips. Most requests we get for <strong>IT services in Najibabad</strong> are this practical, and we keep the answers equally practical.",
-        "We are a remote team of three. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation. There is no Najibabad office and we will not pretend otherwise; meetings happen on WhatsApp calls and screen shares, and every plan is sent to you in writing.",
+        "We are a remote team of three. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data work, and the third of us runs project management, data science and automation. There is no Najibabad office and we will not pretend otherwise; meetings happen on WhatsApp calls and screen shares, and every plan is sent to you in writing.",
       ],
     },
     {
@@ -148,7 +148,7 @@ const najibabad: CityContent = {
       id: "data-dashboards",
       heading: "Data dashboards for Najibabad traders and contractors",
       paragraphs: [
-        "Owners in the cane and grain trade often know their business in their heads but cannot see it on one page: how much credit is out with which retailer, which vehicle made the most trips last month, how this season compares with the last. Santosh and Vedansh build simple dashboards that pull from your billing software, Tally exports or spreadsheets and show those numbers clearly.",
+        "Owners in the cane and grain trade often know their business in their heads but cannot see it on one page: how much credit is out with which retailer, which vehicle made the most trips last month, how this season compares with the last. Another of us and the third of us build simple dashboards that pull from your billing software, Tally exports or spreadsheets and show those numbers clearly.",
         "The goal is not a wall of charts. It is three or four figures you look at every morning, and a weekly summary that arrives on WhatsApp. For a grain or fertiliser dealer that might be outstanding dues by village; for a contractor, tonnage and payments per mill; for a clinic, patient visits by day and doctor.",
         "Dashboard work is usually scoped alongside a website or software project, and we quote it item by item. If the underlying data is messy, we first help clean up how entries are made, since a dashboard is only as honest as the records behind it.",
       ],

@@ -66,7 +66,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "What an SEO website build includes",
     heading: "The parts of a search-first website, and who does each",
-    note: "Santosh Sharma leads the technical SEO and data side, Ankur Kumar builds the templates and code, and Vedansh Shrivastava runs the page map and review rounds.",
+    note: "Another of us leads the technical SEO and data side, one of us builds the templates and code, and the third of us runs the page map and review rounds.",
     cards: [
       { name: "Keyword and page mapping", note: "One search intent per page, grouped into hubs and detail pages, so no two pages compete for the same query.", size: "lg" },
       { name: "Service × location pages", note: `Hundreds of pages generated from structured data with genuinely different details per page, from ${P.seoSite}.`, href: "/services/seo-services/", size: "lg" },
@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `An SEO website developer builds the website itself with search in mind: the page structure, templates, code, schema, speed and crawl paths. An SEO expert or consultant usually works on a site that already exists, improving content, links and local listings over months. The two jobs overlap, but they happen at different moments.`,
         `The developer’s moment is before launch. Decisions made then are expensive to undo: URL patterns, whether pages render as HTML or only in JavaScript, how categories nest, how many clicks deep a page sits. Get them right and every future article or location page slots into a structure that already works. Get them wrong and you pay for a redesign, redirects and a dip in traffic.`,
-        `Our team splits the work by strength. Santosh Sharma handles technical SEO, data and hosting on AWS; Ankur Kumar writes the templates and front-end code; Vedansh Shrivastava owns the page map, content pipeline and review rounds. You talk to all three on WhatsApp.`,
+        `Our team splits the work by strength. Another of us handles technical SEO, data and hosting on AWS; one of us writes the templates and front-end code; the third of us owns the page map, content pipeline and review rounds. You talk to all three on WhatsApp.`,
       ],
       list: [
         "Before build: keyword research, intent grouping, page map",

@@ -104,7 +104,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `An AI automation agency maps repetitive work, connects your software so data moves without re-typing, and adds AI steps that read, sort or draft text. The alternative is hiring developers to do exactly that build directly, without paying for the layers around it.`,
         `Most UK AI automation agencies bundle four things: discovery workshops, the build itself, project management and a monthly retainer for monitoring. Some of that is valuable for large organisations with many teams. For a business of five to fifty people, the build and a clear handover are usually what actually matters.`,
-        `We work as the developer-led option. Vedansh maps the process with you in writing, Santosh designs the AI and data parts, Ankur builds integrations and any screens, and you get a working workflow plus documentation rather than a slide deck. If a job needs nothing more than an off-the-shelf Zapier template, we will say so and you can set it up yourself.`,
+        `We work as the developer-led option. The third of us maps the process with you in writing, another of us designs the AI and data parts, one of us builds integrations and any screens, and you get a working workflow plus documentation rather than a slide deck. If a job needs nothing more than an off-the-shelf Zapier template, we will say so and you can set it up yourself.`,
       ],
     },
     {

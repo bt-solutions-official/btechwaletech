@@ -135,7 +135,7 @@ const content: FreelanceContent = {
         `Make is quick to start, easy for non-developers to read, and priced by operations. n8n is open-source with a paid cloud option; self-hosted on your own server it avoids per-task fees, and the workflows are stored as JSON you can back up. Custom code, usually Python or Node.js, gives full control and testing but needs a developer for every change.`,
         `We often mix them: n8n or Make for the orchestration your team can see, with a small code service for the tricky part such as document parsing. Whatever we choose, it runs in accounts registered to your company, with our access removable in one click.`,
       ],
-      after: [`Our team member Santosh looks after AI, AWS and data work, and Vedansh handles automation and project management, so the design and the running of workflows sit with people who do this daily. More about the team is on <a href='/about/'>about us</a>.`],
+      after: [`Our team member another of us looks after AI, AWS and data work, and the third of us handles automation and project management, so the design and the running of workflows sit with people who do this daily. More about the team is on <a href='/about/'>about us</a>.`],
     },
     {
       id: "invoice-extraction",

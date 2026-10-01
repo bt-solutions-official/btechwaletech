@@ -173,7 +173,7 @@ const munger: CityContent = {
       paragraphs: [
         "We do not have an office in Munger or anywhere else. We are three engineers who work remotely with clients across India. You talk directly with the people building your site, and none of your money pays for office rent or sales staff.",
         "We begin with a phone call or WhatsApp chat about your business, then send a written page plan, timeline and itemised quote. Within a week or two you get a preview link to check on your phone. Feedback goes over WhatsApp, and small changes are usually done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. Our <a href=\"/services/web-development/\">web development page</a> explains the process in more detail.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. Our <a href=\"/services/web-development/\">web development page</a> explains the process in more detail.",
       ],
     },
     {

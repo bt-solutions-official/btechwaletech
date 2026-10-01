@@ -86,7 +86,7 @@ const content: FreelanceContent = {
       ["Who owns the API contract", "Negotiated between two people", "A lead you may never meet", "The same three developers who write both ends"],
       ["When a bug crosses layers", "Each side points at the other", "A ticket moves between departments", "One conversation, one fix"],
       ["Database design", "Often left to whoever gets there first", "Dedicated specialists", "Planned before the first screen is coded"],
-      ["Deployment and hosting", "Frequently nobody's job", "Separate operations team", "Set up in your cloud account by Santosh"],
+      ["Deployment and hosting", "Frequently nobody's job", "Separate operations team", "Set up in your cloud account by another of us"],
       ["Starting budget", "Two quotes to combine", "Usually the highest", `Web apps from ${P.software}`],
       ["Speed of small changes", "Wait for two calendars", "Change request process", "Often same week, via WhatsApp"],
       ["If one person is away", "Half the stack stalls", "Replacement assigned", "Two teammates already know the code"],
@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `It means one person or one small team is answerable for every layer between the user’s thumb and the stored record. A freelance full stack developer does not just make pages look right or just write server code; they decide how the two talk, where the data lives, and how the whole thing gets onto the internet and stays there.`,
         `Think of a simple leave-request app for a 40-person company. The <strong>frontend</strong> is the form and the manager’s approval screen. The <strong>backend</strong> checks that an employee has leave balance, applies the approval rules and sends a notification. The <strong>database</strong> stores employees, balances and every request with timestamps. <strong>Deployment</strong> covers the server, domain, SSL certificate, backups and monitoring. If four different people own those four layers, every change needs a meeting. If one team owns them, a new rule (“half-days count as 0.5”) is a single change tested end to end.`,
-        `In our group the layers are shared out by strength: Ankur leads the application code across frontend and backend, Santosh handles AWS, data modelling and performance, and Vedansh plans releases and automation. You still talk to all three on one WhatsApp thread.`,
+        `In our group the layers are shared out by strength: one of us leads the application code across frontend and backend, another of us handles AWS, data modelling and performance, and the third of us plans releases and automation. You still talk to all three on one WhatsApp thread.`,
       ],
       list: [
         "Frontend: HTML, CSS, JavaScript or TypeScript, usually React or Next.js",
@@ -183,7 +183,7 @@ const content: FreelanceContent = {
       heading: "Deployment and DevOps: the part many full stack freelancers skip",
       paragraphs: [
         `An app is not finished until it runs reliably on a server you control. This is the layer where freelance projects most often go wrong: the code works on the developer’s laptop, then launch day becomes a week of firefighting.`,
-        `We set up hosting in your own AWS account or on a VPS you pay for, with separate staging and production environments. Code moves through a CI/CD pipeline: every change is tested and deployed the same way, so releases are dull and repeatable. HTTPS, a firewall, database backups, error tracking and uptime alerts are configured before go-live. Santosh sizes the servers for your real traffic, which keeps the monthly cloud bill sensible instead of paying for capacity you never use.`,
+        `We set up hosting in your own AWS account or on a VPS you pay for, with separate staging and production environments. Code moves through a CI/CD pipeline: every change is tested and deployed the same way, so releases are dull and repeatable. HTTPS, a firewall, database backups, error tracking and uptime alerts are configured before go-live. Another of us sizes the servers for your real traffic, which keeps the monthly cloud bill sensible instead of paying for capacity you never use.`,
         `At handover you get the infrastructure written down: what runs where, what each service costs, how to restart it and how to roll back a bad release. If you later hire an in-house team, they inherit a documented system instead of a mystery.`,
       ],
       after: [`Hosting-only needs, such as moving servers or cutting cloud costs, are covered on our <a href='/freelance-aws-developer/'>AWS developer</a> page.`],

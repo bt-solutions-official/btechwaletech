@@ -185,7 +185,7 @@ const morvi: CityContent = {
       heading: "No Morbi office: working with us remotely",
       paragraphs: [
         "We do not have an office in Morbi and we will not list one. BtechWaleTech is three engineers working remotely for clients across India. You talk directly with the people building your site or portal, which keeps decisions quick and our prices lower than agencies with showrooms.",
-        "Ankur Kumar builds the full-stack side: catalogues, stores and portals. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science tools. Contact us through the <a href=\"/contact/\">contact page</a>; we reply on WhatsApp all seven days during Indian hours.",
+        "One of us builds the full-stack side: catalogues, stores and portals. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data science tools. Contact us through the <a href=\"/contact/\">contact page</a>; we reply on WhatsApp all seven days during Indian hours.",
         "After a first call you receive a page plan, timeline and itemised quote in about two working days. Once approved, a preview link arrives within one or two weeks, which you can check with your partners and sales team. Details of how we build are on our <a href=\"/services/web-development/\">web development</a> page.",
       ],
     },

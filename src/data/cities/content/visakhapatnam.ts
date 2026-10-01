@@ -168,7 +168,7 @@ const visakhapatnam: CityContent = {
       paragraphs: [
         "We have no office in Visakhapatnam, and we won't claim a local address we don't have. We are three engineers working remotely for businesses across India. That keeps rent and sales staff out of your quote, and it means you speak directly with the people building your site.",
         "The process is straightforward. After an initial call or WhatsApp conversation, we send a page plan, a timeline and an itemised quote. Once approved, you receive a live preview link within the first week or two, which you check on your own phone, and you send comments by message. Many small changes go live on the same day. We work on Indian time and reply seven days a week.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data projects. Vedansh Shrivastava manages delivery and works on data science and automation. You can reach any of us directly.",
+        "One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data projects. The third of us manages delivery and works on data science and automation. You can reach any of us directly.",
       ],
     },
     {

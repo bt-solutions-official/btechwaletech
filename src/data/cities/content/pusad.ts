@@ -68,7 +68,7 @@ const pusad: CityContent = {
       heading: "IT services in Pusad: what a Vidarbha market town asks for",
       paragraphs: [
         "Pusad is the second-largest town in Yavatmal district and the trading centre for its western talukas. Farmers bring cotton and soybean here after harvest, buy seed and fertiliser before sowing, and come in for hospitals, colleges, weddings and government offices. Families from Mahagaon, Umarkhed and the villages along the Pus river treat it as their nearest proper town.",
-        "Requests we get for <strong>IT services in Pusad</strong> reflect that. A cotton trader wants a clean record of purchases and payments. An agri dealer wants farmers to see stock and prices before they travel in. A coaching class wants admissions online before the new batch. We take these on as three remote engineers: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation.",
+        "Requests we get for <strong>IT services in Pusad</strong> reflect that. A cotton trader wants a clean record of purchases and payments. An agri dealer wants farmers to see stock and prices before they travel in. A coaching class wants admissions online before the new batch. We take these on as three remote engineers: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation.",
         "We do not have an office in Pusad, and we will not invent one. All work happens over WhatsApp, phone calls and screen shares, and you receive a written plan before anything is built.",
       ],
     },
@@ -79,7 +79,7 @@ const pusad: CityContent = {
         "Cotton ginning and oil pressing have been part of Pusad's economy for decades, and its traders buy cotton from farms across the surrounding talukas. The work is seasonal and intense: in a few months, a unit weighs thousands of loads, pays hundreds of farmers, presses bales and sells lint and seed to buyers elsewhere.",
         "Most of this is still tracked on paper slips and a diary. That leads to disputes over weight, moisture deductions and payment dates. As a <strong>software team in Pusad</strong>, we build web tools where each weighment is entered once, with vehicle number, farmer name, gross and tare weight, deduction and rate. The system shows what is owed to each farmer, what has been paid by UPI or bank transfer, and daily totals of bales pressed.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks. We usually build the weighment and payment register first, because it prevents arguments immediately, and add stock and sales modules in the next stage.",
-        "Owners who want to see the season at a glance can add a dashboard: quintals bought per day, average rate paid, bales pressed against target, and farmer payments still pending. Santosh Sharma sets these up from the same register, so nobody has to type figures twice, and the owner can check them on a phone from anywhere without calling the weighbridge clerk.",
+        "Owners who want to see the season at a glance can add a dashboard: quintals bought per day, average rate paid, bales pressed against target, and farmer payments still pending. Another of us sets these up from the same register, so nobody has to type figures twice, and the owner can check them on a phone from anywhere without calling the weighbridge clerk.",
       ],
     },
     {

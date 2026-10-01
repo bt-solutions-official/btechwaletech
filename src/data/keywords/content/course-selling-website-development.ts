@@ -181,7 +181,7 @@ const content: FreelanceContent = {
         `Host course videos on a private video storage and streaming service, not on public YouTube or on the same cheap server as your website. The website only stores which lesson maps to which video and decides who may watch it.`,
         `A good setup converts each upload into adaptive streams (HLS), so a student on patchy 4G in a small town gets a lower-resolution version that keeps playing, while someone on broadband sees full HD. Videos are served through a content delivery network close to your students, and every play request uses a short-lived signed link that expires within minutes, so copying the video URL into another browser does not work.`,
         `Unlisted YouTube videos are tempting because they are free, but anyone with the link can watch and share them, and you cannot tie a view to a paying student. Storing raw MP4 files on shared hosting is worse: large files slow the server for everyone and the direct file link can be downloaded in one click.`,
-        `Streaming cost scales with minutes watched, so we estimate it from your expected students and course length before you commit. Those bills go to your own cloud or streaming account, which Santosh, who handles AWS and cloud setup on our team, configures in your name.`,
+        `Streaming cost scales with minutes watched, so we estimate it from your expected students and course length before you commit. Those bills go to your own cloud or streaming account, which another of us, who handles AWS and cloud setup on our team, configures in your name.`,
       ],
     },
     {
@@ -285,7 +285,7 @@ const content: FreelanceContent = {
       heading: "How course selling website development runs, week by week",
       paragraphs: [
         `A typical single-brand course site runs 4–8 weeks from approval to first sale. Timelines slip mostly because content arrives late, so we plan content handover as seriously as code.`,
-        `Vedansh, who runs project management on our team, breaks the job into weekly milestones you can check on a staging link. Ankur builds the site and student area. Santosh sets up hosting, video streaming, analytics and the technical SEO. You talk to all three on one WhatsApp group.`,
+        `The third of us, who runs project management on our team, breaks the job into weekly milestones you can check on a staging link. One of us builds the site and student area. Another of us sets up hosting, video streaming, analytics and the technical SEO. You talk to all three on one WhatsApp group.`,
       ],
       list: [
         "Week 1: scope call, feature rings agreed, gateway and streaming accounts opened in your name",

@@ -36,7 +36,7 @@ const content: FreelanceContent = {
     ["Project builds from", `${P.site} (site) · ${P.software} (web app)`],
     ["Ongoing care from", `${P.care} · ${P.careUsd}`],
     ["Free period after launch", "2 months of maintenance"],
-    ["Who you work with", "Ankur, Santosh and Vedansh directly"],
+    ["Who you work with", "The BtechWaleTech team directly"],
     ["Monthly scope", "Agreed in your written quote"],
     ["Payment", "UPI, bank transfer, Wise, wire or PayPal"],
   ],
@@ -177,7 +177,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A well-run month has a rhythm you can predict. Without one, dedicated arrangements drift into reactive firefighting where everything is urgent and nothing important ships.`,
         `At the start of the month we agree the top items from your backlog and flag anything unclear. Each week you see a short written update and a demo on a staging link: what shipped, what is in progress, what is blocked by a missing decision. Urgent bugs jump the queue; everything else follows the agreed order. At month end you get a summary with links to every change.`,
-        `Vedansh keeps the plan and the backlog tidy, Ankur carries most feature work, and Santosh handles hosting, data, AWS and search-related tasks. Because all three know the code, holidays or illness do not freeze your roadmap.`,
+        `The third of us keeps the plan and the backlog tidy, one of us carries most feature work, and another of us handles hosting, data, AWS and search-related tasks. Because all three know the code, holidays or illness do not freeze your roadmap.`,
       ],
       subs: [
         { heading: "Week 1", text: "Backlog review, priorities confirmed, larger items broken into shippable pieces." },
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     { question: "Is there a minimum commitment or notice period?", answer: "We do not apply a standard rule; commitment, notice and how either side ends the arrangement are written into your quote before work starts. Read our terms and refund policy pages for general conditions, and ask us if you want a trial month first. Nothing is billed until you approve the written quote." },
     { question: "Should I choose a dedicated developer for my startup MVP?", answer: "Usually not for the first version. An MVP is project-shaped: a defined set of features, a launch date and a budget. Scope it tightly and build it as a project, then move to a monthly arrangement once users start asking for changes. Monthly capacity before launch tends to encourage scope creep instead of shipping." },
     { question: "Can foreign clients hire a dedicated web developer from your team?", answer: `Yes. Clients abroad use the same approach, with USD pricing such as web apps from ${P.softwareUsd} and care from ${P.careUsd}. We overlap part of your working day for calls, share progress on staging links and invoice for payment by Wise, bank wire or PayPal.` },
-    { question: "Does a dedicated web developer also look after SEO?", answer: `Technical SEO often overlaps with development: page speed, structured data, sitemaps, redirects and indexing issues. Santosh handles that side on our team. Content and ongoing search work are usually a separate monthly SEO service from ${P.seo}. Be wary of anyone who promises rankings; nobody can guarantee them.` },
+    { question: "Does a dedicated web developer also look after SEO?", answer: `Technical SEO often overlaps with development: page speed, structured data, sitemaps, redirects and indexing issues. Another of us handles that side on our team. Content and ongoing search work are usually a separate monthly SEO service from ${P.seo}. Be wary of anyone who promises rankings; nobody can guarantee them.` },
     { question: "What should be in a dedicated developer agreement?", answer: "Describe what the monthly fee covers, how urgent bugs are treated, where the backlog lives, who owns the accounts and code, how progress is reported, who covers absences, how payments work and how the arrangement ends. A detailed written quote both sides confirm can serve as the agreement for small businesses." },
     { question: "Dedicated developer rakhna sahi hai ya project par kaam karwana?", answer: "Agar har hafte naye features aur changes aate hain, to monthly dedicated arrangement faydemand hai. Agar sirf ek website ya app banana hai, to project par kaam karwana sasta aur saaf rehta hai. Hum pehle project banate hain, phir 2 mahine free maintenance dete hain, uske baad aap decide kar sakte hain." },
     { question: "Can you take over an existing codebase on a monthly basis?", answer: "Yes. We start with a short review of the code, hosting and deployment process, list any urgent risks, and document how to run the project. That review is priced in your itemised quote. Once we understand the codebase, monthly work proceeds from your backlog like any other engagement, with access set up in your own accounts." },

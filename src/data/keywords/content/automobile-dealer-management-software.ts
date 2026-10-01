@@ -393,7 +393,7 @@ const content: FreelanceContent = {
       ["Tell us about your dealership", "Share brands, branches, sub-dealers, what the manufacturer system covers and where work gets stuck. An itemised quote follows in about two working days."],
       ["Map each department", "On video calls we walk through sales, paperwork, workshop and parts as they happen today and agree the screens each role needs."],
       ["Phase the build", "We agree which department goes first, usually the enquiry desk, and set weekly review calls with your manager and one staff member."],
-      ["Build in your accounts", "Ankur builds the platform and apps, Santosh sets up hosting and integrations in your name, and Vedansh runs reviews and testing."],
+      ["Build in your accounts", "One of us builds the platform and apps, another of us sets up hosting and integrations in your name, and the third of us runs reviews and testing."],
       ["Pilot one department", "Staff use the new screens alongside the old method for a short overlap while we fix what slows them down."],
       ["Expand and hand over", "Remaining departments and branches follow. You receive code, documentation and recordings, and two free months of maintenance begin."],
     ],

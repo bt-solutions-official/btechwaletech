@@ -209,7 +209,7 @@ const content: FreelanceContent = {
         "Ask how emergency fixes outside the plan are charged",
       ],
       after: [
-        `On our side, three developers share the maintenance rota, so one person’s absence does not leave your site unattended. Ankur handles code fixes, Santosh looks after servers, backups and technical SEO, and Vedansh tracks renewals and the monthly reports.`,
+        `On our side, three developers share the maintenance rota, so one person’s absence does not leave your site unattended. One of us handles code fixes, another of us looks after servers, backups and technical SEO, and the third of us tracks renewals and the monthly reports.`,
       ],
     },
     {

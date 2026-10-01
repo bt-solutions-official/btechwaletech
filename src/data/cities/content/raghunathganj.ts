@@ -176,7 +176,7 @@ const raghunathganj: CityContent = {
       paragraphs: [
         "We have no office in Raghunathganj, Jangipur or Baharampur, and we will not invent one. We are three engineers working remotely for clients in many towns, and we have found that a phone call, a few WhatsApp messages and a preview link work just as well for a small business as a meeting in an office would.",
         "It starts with a conversation about what you do and who your customers are. We send a written plan of pages, a timeline and an itemised quote. Within a week or two you can open a working version of your site on your own phone, show it to family or staff, and send corrections on WhatsApp. Small edits are usually done the same day. We work on Indian time and reply seven days a week, so a shopkeeper who is only free on Sunday is not kept waiting.",
-        "You deal with the engineers directly. Ankur Kumar does the full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. To begin, <a href=\"/contact/\">send us a message</a>.",
+        "You deal with the engineers directly. One of us does the full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. To begin, <a href=\"/contact/\">send us a message</a>.",
       ],
     },
     {

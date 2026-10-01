@@ -174,7 +174,7 @@ const nagda: CityContent = {
       id: "remote-team-nagda",
       heading: "Our remote team and how a project runs",
       paragraphs: [
-        "Nobody from BtechWaleTech sits in a Nagda office, because there isn't one; the three of us work remotely and serve clients all over India. Ankur Kumar is the full-stack developer who writes your site or application. Santosh Sharma looks after AI, machine learning, AWS and data. Vedansh Shrivastava plans the project, watches deadlines and builds the automation and data-science parts.",
+        "Nobody from BtechWaleTech sits in a Nagda office, because there isn't one; the three of us work remotely and serve clients all over India. One of us is the full-stack developer who writes your site or application. Another of us looks after AI, machine learning, AWS and data. The third of us plans the project, watches deadlines and builds the automation and data-science parts.",
         "A first call, on WhatsApp or video, covers who your customers are and what they ask. About two working days later a written document arrives: pages proposed, dates and a quote broken into items. Once you say yes, you get a preview address that updates as we build, so the site can be checked on your phone and passed to a partner. Comments go back over chat and small fixes usually appear within hours.",
         "Replies come seven days a week on Indian time, which fits contractors living by plant shift timings and shop owners who pull the shutter down late. The same engineer handles your job from the first call to handover.",
       ],

@@ -52,7 +52,7 @@ const content: FreelanceContent = {
   snapshot: {
     caption: "A small offshore development center at a glance",
     rows: [
-      { label: "People", value: "Ankur (full-stack), Santosh (AI, AWS, data), Vedansh (PM, automation)" },
+      { label: "People", value: "One of us (full-stack), another of us (AI, AWS, data), the third of us (PM, automation)" },
       { label: "Contract styles", value: "Lab-type time-based work, or fixed-scope milestones" },
       { label: "Communication", value: "English specs, daily chat, weekly call, no bridge SE" },
       { label: "Overlap with Japan", value: "Roughly 13:00–18:00 JST every weekday" },
@@ -69,7 +69,7 @@ const content: FreelanceContent = {
       { name: "Web application development", note: `Admin systems, customer portals and SaaS features in React, Next.js, Node.js or Python, with projects from ${P.software}.`, href: "/japan/hire-react-developers/", size: "lg" },
       { name: "Mobile apps", note: `Flutter or React Native apps for iPhone and Android, published under your accounts, from ${P.app}.`, href: "/japan/outsource-app-development/", size: "lg" },
       { name: "AI automation and agents", note: `Document processing, internal chatbots and workflow automation, from ${P.ai}.`, size: "md" },
-      { name: "AWS and data work", note: "Cloud setup, data pipelines and dashboards handled by Santosh, with your company as the account owner.", size: "md" },
+      { name: "AWS and data work", note: "Cloud setup, data pipelines and dashboards handled by another of us, with your company as the account owner.", size: "md" },
       { name: "Maintenance of existing systems", note: `Bug fixes, dependency updates and small features on code you already run, from ${P.care} per month.`, size: "md" },
       { name: "MVP and prototypes", note: "Short, focused builds to test an idea before a larger internal team takes over.", href: "/japan/mvp-development-for-startups/", size: "sm" },
       { name: "LINE integrations", note: "LINE Messaging API bots and LINE MINI Apps that connect to your back office.", href: "/japan/line-chatbot-development/", size: "sm" },
@@ -227,7 +227,7 @@ const content: FreelanceContent = {
       heading: "What work suits an offshore development center in India?",
       paragraphs: [
         `Work with clear owners and testable outcomes suits an ODC best: product features, integrations, internal tools, apps and data pipelines. Work that depends on constant in-person context, such as on-site hardware or daily workshops with Japanese-only users, suits it less.`,
-        `Our three developers cover full-stack web development (Ankur), AI, machine learning, AWS, data and technical SEO (Santosh), and project management, data science and automation (Vedansh). That mix suits companies that want one team to build a web app, connect it to LINE or a CRM, add an AI feature, and set up the dashboards to measure it.`,
+        `Our three developers cover full-stack web development (One of us), AI, machine learning, AWS, data and technical SEO (Another of us), and project management, data science and automation (The third of us). That mix suits companies that want one team to build a web app, connect it to LINE or a CRM, add an AI feature, and set up the dashboards to measure it.`,
         `We do not do embedded or hardware work, on-site support, or large manual QA teams. If your roadmap leans heavily on those, a different partner, or a larger ODC, will fit better.`,
       ],
     },
@@ -254,7 +254,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This example is hypothetical, written to show how a small offshore development center in India might be set up; it is not a client story.`,
         `Suppose an Osaka company runs a B2B scheduling SaaS with four in-house engineers. Their backlog includes a React admin redesign, a Flutter app for field staff, and an AI feature that reads uploaded PDFs. Their tech lead writes English well; their sales team does not use English.`,
-        `A sensible setup would be lab-type work covering Ankur on the admin redesign, Santosh on the PDF extraction feature and its AWS pipeline, and Vedansh running the backlog with the tech lead, with the Flutter app handled as a fixed-scope project from ${P.app} under its own milestones. Tickets would live in the company’s Backlog space, code in its GitHub organization, and standups at 13:30 JST twice a week. The written proposal would state monthly scope, milestone amounts and review points after three months.`,
+        `A sensible setup would be lab-type work covering one of us on the admin redesign, another of us on the PDF extraction feature and its AWS pipeline, and the third of us running the backlog with the tech lead, with the Flutter app handled as a fixed-scope project from ${P.app} under its own milestones. Tickets would live in the company’s Backlog space, code in its GitHub organization, and standups at 13:30 JST twice a week. The written proposal would state monthly scope, milestone amounts and review points after three months.`,
       ],
     },
     {

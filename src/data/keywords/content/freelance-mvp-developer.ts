@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `An MVP, or minimum viable product, is the least you can build that still lets real users get real value, so you can learn whether the idea deserves more money. It is not a prototype that fakes everything, and it is not version one of your dream product with fewer colours. It is a working product with a deliberately narrow scope.`,
         `A freelance MVP developer does three jobs. First, helps you decide what to leave out, which is harder than deciding what to include. Second, builds the remaining features properly enough that users can depend on them. Third, sets up measurement so you can tell whether people use the product the way you hoped.`,
-        `At BtechWaleTech, Vedansh runs the scope sessions and weekly plan, Ankur builds the front and back end, and Santosh handles cloud setup on AWS, data and any AI component. You get one conversation with three roles behind it.`,
+        `At BtechWaleTech, the third of us runs the scope sessions and weekly plan, one of us builds the front and back end, and another of us handles cloud setup on AWS, data and any AI component. You get one conversation with three roles behind it.`,
       ],
       list: [
         "One clearly defined user and one painful problem",

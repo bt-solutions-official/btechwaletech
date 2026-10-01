@@ -182,7 +182,7 @@ const pudukkottai: CityContent = {
       id: "remote-team",
       heading: "How a remote team works with Pudukkottai clients",
       paragraphs: [
-        "We have no office in Pudukkottai, and we will not pretend otherwise with a borrowed address. BtechWaleTech is three engineers working remotely. Ankur Kumar builds the full-stack web work, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation.",
+        "We have no office in Pudukkottai, and we will not pretend otherwise with a borrowed address. BtechWaleTech is three engineers working remotely. One of us builds the full-stack web work, another of us handles AI, machine learning, AWS and data, and the third of us runs project management, data science and automation.",
         "You describe the job on WhatsApp or a short call, in Tamil-English or English. Within about two working days you get an itemised written quote. Nothing is started or billed until you approve it in writing. During the build you watch progress on a live preview link and leave comments whenever you have time, often in the evening after the shop closes.",
         "We answer WhatsApp seven days a week on Indian Standard Time. Decisions, changes and payments are recorded in writing, and payment follows milestones agreed in the quote.",
       ],

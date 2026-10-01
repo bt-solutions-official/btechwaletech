@@ -159,7 +159,7 @@ const pilibhit: CityContent = {
       paragraphs: [
         "We have no office in Pilibhit and do not pretend otherwise. We are three engineers working remotely for clients across India, which is why we can keep prices lower and why you speak directly to the person building your site rather than a salesperson.",
         "The process is simple. A first call or WhatsApp chat to understand your business, then a written page plan, timeline and itemised quote, usually within two working days. Once work starts you get a live preview link to check on your own phone and share with family or partners. Changes are requested on WhatsApp, and small ones are often done the same day. We reply seven days a week, on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. You can <a href=\"/contact/\">message any of us</a> directly.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. You can <a href=\"/contact/\">message any of us</a> directly.",
       ],
     },
     {

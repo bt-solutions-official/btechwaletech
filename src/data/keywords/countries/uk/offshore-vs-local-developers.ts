@@ -303,7 +303,7 @@ const content: FreelanceContent = {
         { heading: "After that", text: "Stand-ups or written updates on the rhythm you choose, demos on staging, milestone invoices in USD paid via Wise, bank wire or PayPal after you accept each stage." },
       ],
       after: [
-        `Ankur leads full-stack development, Santosh handles AI, data, AWS and technical SEO, and Vedansh runs project management and automation. You speak to all three directly, in English or Hindi.`,
+        `One of us leads full-stack development, another of us handles AI, data, AWS and technical SEO, and the third of us runs project management and automation. You speak to all three directly, in English or Hindi.`,
       ],
     },
     {
@@ -444,7 +444,7 @@ const content: FreelanceContent = {
     { question: "How do I test an offshore team before hiring them for the full project?", answer: "Commission a paid first milestone of one to three weeks with a clear finish line, such as a clickable prototype or one integration. Check whether they asked good questions, hit their estimate, pushed readable code to your repository and gave specific updates. It costs little and tells you more than any sales call." },
     { question: "Can an offshore team maintain software after launch?", answer: `Yes. We fix issues in our own work free for two months after launch, then offer care from ${P.care} covering updates, security patches, monitoring and small changes. Because the code sits in your repository with documentation, you can also move maintenance to a UK team later without starting over.` },
     { question: "Will I ever meet the offshore developers in person?", answer: "Not with us. We are three freelance developers working remotely from India and do not travel to clients or keep a UK office. You meet us on Zoom, Google Meet or Teams in your morning and message us on WhatsApp seven days a week. If in-person meetings are essential, choose an onshore supplier." },
-    { question: "Does offshore vs onshore software development affect SEO or site speed?", answer: "No. Search engines judge the website itself, not where its developers live. Speed, Core Web Vitals, crawlable structure and structured data depend on how the site is built and hosted. We host in a region close to your customers, and Santosh handles technical SEO. Nobody can honestly guarantee rankings, onshore or offshore." },
+    { question: "Does offshore vs onshore software development affect SEO or site speed?", answer: "No. Search engines judge the website itself, not where its developers live. Speed, Core Web Vitals, crawlable structure and structured data depend on how the site is built and hosted. We host in a region close to your customers, and another of us handles technical SEO. Nobody can honestly guarantee rankings, onshore or offshore." },
   ],
   related: {
     heading: "More UK guides for choosing who builds your software",

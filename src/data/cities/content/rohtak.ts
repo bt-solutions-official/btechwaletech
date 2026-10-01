@@ -157,7 +157,7 @@ const rohtak: CityContent = {
       id: "remote-rohtak",
       heading: "Working with us remotely from Rohtak",
       paragraphs: [
-        "BtechWaleTech has no office in Rohtak, and we will not invent one. We are three engineers working remotely for businesses across India. Ankur Kumar is the full-stack developer. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds data science and automation pieces.",
+        "BtechWaleTech has no office in Rohtak, and we will not invent one. We are three engineers working remotely for businesses across India. One of us is the full-stack developer. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and builds data science and automation pieces.",
         "The process is short and written down. We discuss your business on a call or WhatsApp, send a page plan and itemised quote within about two working days, and then share a live preview link as the build progresses. You review on your own phone, reply with comments, and small changes usually appear the same day.",
         "We reply seven days a week on Indian time. Many Rohtak owners review work late in the evening or on Sunday, and that suits us. There is no account manager in the middle; you talk directly to the person building your site.",
       ],

@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     h1: "AI agent development for Saudi Arabia: agents that act on orders, bookings and reports, with you in control",
     lede: `If you are searching for an AI agent development company in Saudi Arabia, start with one question: which actions may the agent take on its own, and which must a person approve? BtechWaleTech is three freelance developers in India who build tool-calling agents connected to Salla, Zid, Foodics, Google Sheets and your CRM, with approval checkpoints, audit logs and Arabic test sets agreed before launch. Agents start from ${P.ai}. Need a question-answering assistant instead? See <a href='/saudi-arabia/ai-chatbot-development/'>AI chatbot development in Saudi Arabia</a>.`,
     pills: ["Agents from " + P.ai, "Tool calling, not just chat", "Salla · Zid · Foodics APIs", "Human approval steps", "Full audit logs", "Arabic evaluation sets", "Your cloud, your keys"],
-    origin: "Three freelance developers in India · AI and automation led by Santosh Sharma · WhatsApp replies daily",
+    origin: "Three freelance developers in India · AI and automation led by another of us · WhatsApp replies daily",
   },
   facts: [
     ["AI agent build from", `${P.ai}, about 2–4 weeks`],
@@ -232,7 +232,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The team works remotely from India, two and a half hours ahead of Saudi time, so a Riyadh or Jeddah working day overlaps with ours for most of its hours. Calls happen on video, updates on WhatsApp, and there are no office visits.`,
         `In the first week after you approve the written quote, we hold a scoping call to build the task inventory and permission tiers, and you create or share accounts: your cloud project, the model provider account with its API keys, and developer access to Salla, Zid or Foodics. We also agree who collects the first thirty or so real example messages for the evaluation set. In week two, the first tools run against a test store or sandbox, and you see the agent drafting answers in shadow mode.`,
-        `Quotes are in US dollars and paid in milestones by Wise, bank wire or PayPal; nothing is billed before written approval. Invoices come from India, and your accountant should confirm how payments to a non-resident provider are treated. Santosh Sharma leads the AI and data work, Ankur Kumar builds the integrations and backend, and Vedansh Shrivastava manages the project and automation flows.`,
+        `Quotes are in US dollars and paid in milestones by Wise, bank wire or PayPal; nothing is billed before written approval. Invoices come from India, and your accountant should confirm how payments to a non-resident provider are treated. Another of us leads the AI and data work, one of us builds the integrations and backend, and the third of us manages the project and automation flows.`,
       ],
     },
     {

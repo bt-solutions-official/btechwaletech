@@ -237,7 +237,7 @@ const content: FreelanceContent = {
       heading: "How SEO for tradies works with a team in India",
       paragraphs: [
         `SEO is done entirely online, so a remote team can do it well as long as you supply local knowledge: the suburbs you want, the jobs you do there and photos from the work. We never visit sites and we never pretend to be local.`,
-        `Santosh Sharma leads technical SEO and reporting, Ankur Kumar handles website changes, and Vedansh Shrivastava manages the monthly plan and your questions. Our morning is your afternoon: India is four and a half hours behind the eastern states in winter and five and a half during daylight saving, four and a half behind Queensland all year and two and a half behind Perth. A monthly call can be fifteen minutes after you finish on the tools; everything else runs on WhatsApp and voice notes.`,
+        `Another of us leads technical SEO and reporting, one of us handles website changes, and the third of us manages the monthly plan and your questions. Our morning is your afternoon: India is four and a half hours behind the eastern states in winter and five and a half during daylight saving, four and a half behind Queensland all year and two and a half behind Perth. A monthly call can be fifteen minutes after you finish on the tools; everything else runs on WhatsApp and voice notes.`,
         `You keep ownership of everything: your Google Business Profile, Google Analytics, Search Console, website and domain stay in your business's name, and we are added as users. Quotes are in USD, paid by Wise from an AUD account, international wire or PayPal, with invoices from India; your accountant can advise how to record them.`,
       ],
       subs: [

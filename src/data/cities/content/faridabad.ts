@@ -160,7 +160,7 @@ const faridabad: CityContent = {
       paragraphs: [
         "We don't have an office in Faridabad, and we won't list a borrowed address in Sector 15 to look local. We are three engineers working remotely for clients across India. You talk directly to the people building your site, and there is no office rent or sales commission in your price.",
         "After a first call or WhatsApp conversation, we send a written page plan, timeline and itemised quote. Once approved, a live preview link reaches you within the first week or two, which you can open on your phone, share with your partners or show your plant head. Feedback can be typed or sent as voice notes, and most small changes go live the same day. We reply every day of the week on Indian time.",
-        "Ankur Kumar handles full-stack development, from product pages to vendor portals. Santosh Sharma covers AI, machine learning, AWS hosting and data work. Vedansh Shrivastava manages projects and builds the data science and automation pieces. You can message any of us directly.",
+        "One of us handles full-stack development, from product pages to vendor portals. Another of us covers AI, machine learning, AWS hosting and data work. The third of us manages projects and builds the data science and automation pieces. You can message any of us directly.",
       ],
     },
     {

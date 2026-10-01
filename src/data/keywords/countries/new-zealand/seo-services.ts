@@ -26,7 +26,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "SEO services NZ · monthly work you can see and check",
     h1: "SEO services NZ businesses can audit, task by task, every month",
-    lede: `Our SEO services NZ clients hire are built around one idea: you should be able to see exactly what was done each month and check it yourself in Google Search Console. BtechWaleTech is three freelance developers in India, and one of us, Santosh Sharma, leads technical SEO. Monthly SEO starts from ${P.seo}. The work splits between technical fixes, pages written for New Zealand searches, NZ directory citations and a plain-English report. See <a href='#month-by-month'>the month-by-month plan</a> first.`,
+    lede: `Our SEO services NZ clients hire are built around one idea: you should be able to see exactly what was done each month and check it yourself in Google Search Console. BtechWaleTech is three freelance developers in India, and one of us, another of us, leads technical SEO. Monthly SEO starts from ${P.seo}. The work splits between technical fixes, pages written for New Zealand searches, NZ directory citations and a plain-English report. See <a href='#month-by-month'>the month-by-month plan</a> first.`,
     pills: ["Ranking on google.co.nz", "Google Business Profile", "NZ directory citations", "Technical fixes first", "AI Overview readiness", "Plain-English reports", "Dated task log"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · reports land before your NZ Monday",
   },
@@ -52,7 +52,7 @@ const content: FreelanceContent = {
   snapshot: {
     caption: "A remote SEO team for a NZ business, at a glance",
     rows: [
-      { label: "Who does it", value: "Three freelance developers in India; Santosh Sharma leads technical SEO" },
+      { label: "Who does it", value: "Three freelance developers in India; another of us leads technical SEO" },
       { label: "Search market", value: "google.co.nz, Google Maps and AI answers shown to NZ users" },
       { label: "Monthly SEO", value: `From ${P.seo}` },
       { label: "First month", value: "Audit, fixes list, Business Profile review, citation clean-up" },

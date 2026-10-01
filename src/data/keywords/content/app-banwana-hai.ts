@@ -216,7 +216,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `App sirf woh nahi jo phone par dikhta hai. Peeche ek server hota hai jahan orders, users, products aur payments ka record rehta hai; ise backend kehte hain. Aur ek admin panel hota hai, jo computer ya phone ke browser mein khulta hai, jahan se aap bina developer ke products, rates, banners aur orders sambhal sakte hain.`,
         `Kai sasta quote isliye sasta hota hai kyunki usme admin panel nahi hota. Phir har chhote badlav ke liye developer ko message karna padta hai. Quote mein saaf poochiye: admin panel shaamil hai? Usme kya kya kar sakenge? Kitne staff login bana sakenge?`,
-        `Backend kahan chalega, yeh bhi aapke naam ka hona chahiye: cloud account jaise AWS, ya koi server, aapke card aur email par. Hamare team mein Santosh AWS aur data sambhalte hain, Ankur app aur backend ki coding, aur Vedansh project plan aur automation. Is tarah har hisse ka ek zimmedar hota hai.`,
+        `Backend kahan chalega, yeh bhi aapke naam ka hona chahiye: cloud account jaise AWS, ya koi server, aapke card aur email par. Hamare team mein another of us AWS aur data sambhalte hain, one of us app aur backend ki coding, aur the third of us project plan aur automation. Is tarah har hisse ka ek zimmedar hota hai.`,
       ],
     },
     {

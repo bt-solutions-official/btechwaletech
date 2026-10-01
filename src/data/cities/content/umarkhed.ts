@@ -69,7 +69,7 @@ const umarkhed: CityContent = {
       paragraphs: [
         "Umarkhed taluka has 135 villages and more than two lakh people, and a large share of them come to the town to sell crops, buy seed and fertiliser, see a doctor, attend college or shop for a wedding. The town itself is modest in size, but its catchment is wide, and it reaches across to Mahagaon, Pusad and the Nanded side of the river.",
         "That catchment now checks a phone before it travels. A farmer wants the day's soybean rate before loading a tractor. A mother in Dhanki wants to know which doctor sits on Thursday. A student in Brahmangaon wants the admission dates for a college. Businesses that answer these questions online get the visit; the rest are left to chance.",
-        "Most requests we receive for <strong>IT services in Umarkhed</strong> are practical: a Marathi website, a correct Google Maps pin, a WhatsApp number that replies, or a simple register that replaces a notebook. We are a remote team of three. Ankur Kumar builds the websites and web apps, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation.",
+        "Most requests we receive for <strong>IT services in Umarkhed</strong> are practical: a Marathi website, a correct Google Maps pin, a WhatsApp number that replies, or a simple register that replaces a notebook. We are a remote team of three. One of us builds the websites and web apps, another of us handles AI, machine learning, AWS and data, and the third of us runs project management, data science and automation.",
         "We have no office in Umarkhed and never pretend to. Conversations happen on WhatsApp and phone calls, and every plan and price reaches you in writing.",
       ],
     },
@@ -160,7 +160,7 @@ const umarkhed: CityContent = {
         "In Umarkhed, WhatsApp is the counter that never closes. Traders get asked the soybean rate at six in the morning, colleges get admission questions at midnight, and clinics get appointment requests while the doctor is in surgery. Every unanswered message is a customer who might go elsewhere.",
         "<strong>AI and WhatsApp automation in Umarkhed</strong> handles the repeated part. A Marathi and Hindi assistant on the official WhatsApp Business platform can share today's rates that you enter each morning, confirm stock, give fees and timings, record an appointment or order request, and store it in a Google Sheet or your software. Anything unusual goes to you with the full chat attached.",
         "We start by reading a sample of your real messages, with your permission, to see which questions come most often. The assistant only answers from facts you give it, so it will not invent a rate or a doctor's timing.",
-        "Automation starts at ₹40,000 and usually takes two to four weeks. Data work can follow: a dashboard of purchases, dues and enquiries by village, built by Santosh Sharma, turns the same records into weekly decisions.",
+        "Automation starts at ₹40,000 and usually takes two to four weeks. Data work can follow: a dashboard of purchases, dues and enquiries by village, built by another of us, turns the same records into weekly decisions.",
       ],
     },
     {
@@ -180,7 +180,7 @@ const umarkhed: CityContent = {
         "We are three engineers who work remotely, and we do not keep an office in Umarkhed or anywhere nearby. What replaces the office is a written trail. After a first call about your business, you receive a short plan: pages or screens, dates, and a costed list of each item. You approve it, change it, or walk away at no cost.",
         "No work is billed before that written approval. Once work starts, you get preview links that open on any phone, so a son in Pune or a partner at the shop can look at the same draft. Marathi text is sent to you for checking, because a wrong word on a price list or admission notice is noticed quickly in a small town.",
         "We reply on WhatsApp every day of the week on Indian time. If a date slips, we tell you the day we know, with the reason and a new date. Payments are tied to stages you can see working, which keeps risk low for a first website.",
-        "Ankur Kumar leads the build, Santosh Sharma handles AI, cloud and data, and Vedansh Shrivastava keeps the schedule and the automation on track. You will know who is doing what at each stage.",
+        "One of us leads the build, another of us handles AI, cloud and data, and the third of us keeps the schedule and the automation on track. You will know who is doing what at each stage.",
       ],
     },
     {

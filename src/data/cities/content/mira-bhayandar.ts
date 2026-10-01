@@ -168,7 +168,7 @@ const miraBhayandar: CityContent = {
       paragraphs: [
         "We do not have an office in Mira Road or Bhayandar, and we will not borrow an address to look local. We are three engineers who work remotely for businesses across India. Given how long it takes to cross the Dahisar check naka at peak hours, most of our Mira-Bhayandar clients are relieved not to schedule meetings at all.",
         "The process runs on calls, WhatsApp and screen shares. After a first conversation, we send a written page plan, timeline and itemised quote. Within the first week or two, you get a live preview link to check on your own phone, whether that is at the shop counter or on the 8:12 to Churchgate. Comments go on WhatsApp, and small changes often go live the same day. We work in IST and reply every day, including Sundays, when many shop owners finally have a quiet hour.",
-        "You deal directly with the people doing the work. Ankur Kumar builds the full-stack side of websites and applications. Santosh Sharma handles AI, machine learning, AWS and data projects. Vedansh Shrivastava runs project management, data science and automation. You can <a href=\"/contact/\">contact any of us</a>, and you will always know who is responsible for what.",
+        "You deal directly with the people doing the work. One of us builds the full-stack side of websites and applications. Another of us handles AI, machine learning, AWS and data projects. The third of us runs project management, data science and automation. You can <a href=\"/contact/\">contact any of us</a>, and you will always know who is responsible for what.",
       ],
     },
     {

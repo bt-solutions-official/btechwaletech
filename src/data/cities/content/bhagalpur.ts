@@ -172,7 +172,7 @@ const bhagalpur: CityContent = {
       id: "remote-team-bihar",
       heading: "How a remote team works with Bhagalpur clients",
       paragraphs: [
-        "We do not have an office in Bhagalpur, and we will not pretend to. We are three engineers working remotely: Ankur Kumar builds full-stack web applications, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation work.",
+        "We do not have an office in Bhagalpur, and we will not pretend to. We are three engineers working remotely: one of us builds full-stack web applications, another of us handles AI, machine learning, AWS and data, and the third of us manages projects, data science and automation work.",
         "For Bhagalpur clients, the process is straightforward. You describe your business on WhatsApp or a short call, we send a written itemised quote in about two working days, and work starts only after you approve it in writing. While we build, you see progress on a live preview link and can comment at any point.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time, and keep a written record of every decision. Payments follow milestones agreed in the quote, and nothing is billed before your approval.",
       ],

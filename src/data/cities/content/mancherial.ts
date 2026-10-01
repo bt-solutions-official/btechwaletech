@@ -187,7 +187,7 @@ const mancherial: CityContent = {
       paragraphs: [
         "We have no office in Mancherial or any other city. We are three engineers working remotely, and you speak directly with the people building your website instead of a salesperson. Without rent to cover, our starting prices stay low.",
         "It begins with a call or WhatsApp chat. We then send a written page plan, a timeline and an itemised quote. Within a week or two you get a preview link to review on your own phone, and you send changes on WhatsApp. Small fixes usually happen the same day, and we reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. Our <a href=\"/services/web-development/\">web development page</a> explains each step.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. Our <a href=\"/services/web-development/\">web development page</a> explains each step.",
         "Contractors in the coal belt already coordinate sites, crews and clients over the phone every day, so working with us remotely tends to feel normal. Telugu content is drafted with you and read by you, or someone you trust, before launch.",
       ],
     },

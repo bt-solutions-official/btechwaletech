@@ -167,7 +167,7 @@ const vellore: CityContent = {
       paragraphs: [
         "We have no office in Vellore or Chennai, and we will not display an address we do not use. We are three engineers working remotely for clients across India. No rent and no sales team keep our prices lower, and the person you speak to is the one building your site.",
         "We start with a call or WhatsApp conversation about your business and customers. You get a page plan, timeline and itemised quote in writing. After approval, a live preview link arrives within one to two weeks for you to check on your phone. Changes are requested on WhatsApp, and small ones are often finished the same day. We reply seven days a week, on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science solutions. We work in English and Hindi and arrange Tamil content review with you. You can <a href=\"/contact/\">contact us here</a>.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data science solutions. We work in English and Hindi and arrange Tamil content review with you. You can <a href=\"/contact/\">contact us here</a>.",
       ],
     },
     {

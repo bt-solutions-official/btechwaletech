@@ -168,7 +168,7 @@ const englishBazar: CityContent = {
       paragraphs: [
         "We do not have an office in Malda or any other city. We are three engineers who work remotely with clients across India. You speak directly with the people building your site, and none of your money goes towards office rent.",
         "The process is simple. We talk on the phone or WhatsApp about your business, then send a written page plan, timeline and itemised quote. Within a week or two you get a preview link to check on your phone. You send feedback on WhatsApp, often in Bengali, and small changes are usually made the same day. We reply seven days a week on Indian time, including Sundays and during mango season, when timing matters most.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. The <a href=\"/services/web-development/\">web development page</a> explains our process in more detail.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. The <a href=\"/services/web-development/\">web development page</a> explains our process in more detail.",
       ],
     },
     {

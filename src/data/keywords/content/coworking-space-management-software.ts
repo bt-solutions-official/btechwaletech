@@ -274,7 +274,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The admin system is a web application used in the browser by sales, community and finance teams, built with a modern JavaScript front end, Node.js or Python on the server and PostgreSQL for data. It runs in your own AWS or similar cloud account, with daily backups and role-based logins: finance sees invoices, community managers see members and tickets, and sales see inventory and the pipeline.`,
         `Integrations are what make it useful: payment links for UPI and cards, WhatsApp on the official Business Platform for invoices and passes, calendar sync for rooms, your access readers' API, and accounting sync. Meta's pricing documentation says it charges per delivered template message, with utility templates free inside a 24-hour customer service window, so invoice and pass messages stay inexpensive.`,
-        `The work is done by a small team you speak to directly: Ankur Kumar on full-stack development, Santosh Sharma on cloud, data and technical SEO, Vedansh Shrivastava on project management and automation. We work remotely in English and Hindi. We do not visit sites, install hardware or run your front desk; we build and support the software.`,
+        `The work is done by a small team you speak to directly: one of us on full-stack development, another of us on cloud, data and technical SEO, the third of us on project management and automation. We work remotely in English and Hindi. We do not visit sites, install hardware or run your front desk; we build and support the software.`,
       ],
     },
     {

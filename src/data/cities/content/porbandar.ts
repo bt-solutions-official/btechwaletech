@@ -165,7 +165,7 @@ const porbandar: CityContent = {
       id: "remote-team-porbandar",
       heading: "A remote team, and what that means for you",
       paragraphs: [
-        "We have no office in Porbandar and we will not invent one. BtechWaleTech is three engineers working remotely for clients across India. Ankur Kumar builds websites and web applications end to end. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects, keeps timelines honest and builds automation and data-science pieces.",
+        "We have no office in Porbandar and we will not invent one. BtechWaleTech is three engineers working remotely for clients across India. One of us builds websites and web applications end to end. Another of us handles AI, machine learning, AWS and data. The third of us manages projects, keeps timelines honest and builds automation and data-science pieces.",
         "We start by asking about your customers, then send a written page plan, timeline and itemised quote, usually within two working days. After approval you get a preview link to open on your own phone and share with a partner or manager. Feedback comes over WhatsApp, and small edits often go live the same day.",
         "We work on Indian time and reply seven days a week. That suits boat owners who return late from the harbour and hoteliers who are busiest on weekends. You always know which engineer is on your project and can message that person directly.",
       ],

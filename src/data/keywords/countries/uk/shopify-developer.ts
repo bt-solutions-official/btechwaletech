@@ -104,7 +104,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A Shopify developer changes how your store looks and behaves beyond what the admin settings allow: editing theme code in Liquid, building sections, writing apps against the Shopify APIs and connecting the store to other systems. A Shopify “expert” who only installs apps and tweaks settings is closer to a store manager.`,
         `For a UK retailer the work usually falls into one of five buckets. A new build, where a theme is chosen or created and the store is configured end to end. Theme customisation, where the existing theme gets new sections, templates or product page logic. A custom app, when a real business rule (trade pricing, bundles, a warehouse feed) cannot be met by anything in the App Store. Performance and clean-up, where old app code is slowing pages. And rescue work: a broken checkout flow, a failed import, a theme update that wiped changes.`,
-        `Knowing which bucket you are in is half the hiring decision. A theme job needs someone fluent in Liquid, JSON templates and CSS. An app needs back-end skills: authentication, webhooks, rate limits and hosting. Our team covers both, with Ankur on full-stack builds and Santosh on hosting, data and technical SEO.`,
+        `Knowing which bucket you are in is half the hiring decision. A theme job needs someone fluent in Liquid, JSON templates and CSS. An app needs back-end skills: authentication, webhooks, rate limits and hosting. Our team covers both, with one of us on full-stack builds and another of us on hosting, data and technical SEO.`,
       ],
     },
     {

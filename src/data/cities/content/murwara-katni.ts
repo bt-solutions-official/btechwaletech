@@ -168,7 +168,7 @@ const murwaraKatni: CityContent = {
       paragraphs: [
         "We do not have an office in Katni and will not pretend to. We are three engineers who work remotely with businesses across India, which keeps our costs and prices lower and means you speak directly with the people building your site.",
         "The process runs on calls, WhatsApp and screen sharing. After a first discussion you get a page plan, timeline and itemised quote, usually within two working days. Once you approve, we share a private preview link so you can check the site on your own phone and show your partners. Changes are requested on WhatsApp, and small ones are often done the same day. We reply seven days a week.",
-        "Ankur Kumar builds websites and applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us directly</a> to start.",
+        "One of us builds websites and applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us directly</a> to start.",
       ],
     },
     {

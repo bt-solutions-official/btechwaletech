@@ -151,7 +151,7 @@ const palwal: CityContent = {
       paragraphs: [
         "We don't have an office in Palwal, Faridabad or anywhere in Haryana, and we won't use a borrowed address to seem local. We are three engineers working remotely for clients across India. That means no rent or sales staff in your quote, and direct contact with the people building your site.",
         "Projects start with a call or WhatsApp conversation. We then send a written plan, timeline and itemised quote. Within a week or two you get a live preview link to open on your own phone, and you send feedback as messages or voice notes. Small changes often go live the same day. We work on Indian time and reply seven days a week, including Sundays when factory owners finally get a quiet hour.",
-        "Ankur Kumar does full-stack development, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava manages projects and handles data science and automation. <a href=\"/contact/\">Reach out</a> and you will talk to one of us directly.",
+        "One of us does full-stack development, another of us leads AI, machine learning, AWS and data work, and the third of us manages projects and handles data science and automation. <a href=\"/contact/\">Reach out</a> and you will talk to one of us directly.",
       ],
     },
     {

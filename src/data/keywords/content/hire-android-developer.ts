@@ -85,7 +85,7 @@ const content: FreelanceContent = {
     rows: [
       ["Time to start", "Weeks of job posts and notice periods", "Quick, if you can judge profiles", "Quote in about 2 working days"],
       ["Cost structure", "Monthly salary, benefits, equipment", "Hourly or fixed bids, plus platform fee", `Project price, app from ${P.app}`],
-      ["Who manages the work", "You or your tech lead", "You, through platform chat", "Vedansh plans; you review staging builds"],
+      ["Who manages the work", "You or your tech lead", "You, through platform chat", "The third of us plans; you review staging builds"],
       ["Back end and admin panel", "Often needs a second hire", "Sometimes a second seller", "Same team builds app, API and panel"],
       ["If someone leaves", "Hire again from scratch", "Project stalls", "Two teammates already know the code"],
       ["Play Console and signing key", "In the employer’s account", "Varies by seller", "Always in your account"],
@@ -122,7 +122,7 @@ const content: FreelanceContent = {
         `Pick the model by how long the work lasts. A single release with occasional updates suits a freelancer or small freelance team; weekly releases for years suit a salaried hire.`,
         `A full-time employee makes sense once the app is your product and changes every sprint. You pay salary through quiet months too, and you must manage and review the work, which is hard if nobody in-house reads code.`,
         `A solo freelancer is quick to start and suits contained jobs: fixing a crash, adding a screen, updating the target SDK. The risk is a single point of failure; illness or a better offer can pause your app for weeks.`,
-        `A small team sits between the two. With BtechWaleTech, Ankur builds the app and API, Santosh handles the AWS server, data and store listing search visibility, and Vedansh keeps the plan and your updates moving. You get one price and three people who know the code.`,
+        `A small team sits between the two. With BtechWaleTech, one of us builds the app and API, another of us handles the AWS server, data and store listing search visibility, and the third of us keeps the plan and your updates moving. You get one price and three people who know the code.`,
       ],
       subs: [
         { heading: "Choose full-time when", text: "The app is the business, releases are weekly and you can afford a tech lead to review work." },

@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Direct offer", value: "Perks you choose, shown on every room page and in checkout" },
       { label: "Local search", value: "Town, attraction and event pages; Google Business Profile tidy-up" },
       { label: "Starting price", value: `From ${P.site}; groups or large sites from ${P.seoSite}` },
-      { label: "People", value: "Ankur builds, Santosh handles SEO and hosting, Vedansh runs the project" },
+      { label: "People", value: "One of us builds, another of us handles SEO and hosting, the third of us runs the project" },
       { label: "Payment", value: "USD quote · Wise, bank wire or PayPal" },
     ],
   },

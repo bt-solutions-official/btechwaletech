@@ -69,7 +69,7 @@ const anjar: CityContent = {
       paragraphs: [
         "Few towns have changed as quickly as Anjar. The 2001 earthquake flattened the old town and killed around two thousand people here. In the years that followed, new roads, houses and markets were built, and large manufacturing plants arrived on the surrounding land. Today the taluka is home to steel pipe, steel and alloy works, and one of the largest towel factories anywhere, built within months of the disaster.",
         "That mix shapes demand for <strong>IT services in Anjar</strong>. Suppliers and contractors want to look credible to plant purchase departments. Transporters need order in their trip records. Bandhani and metalwork families want buyers beyond Kutch. Shops, schools and clinics in the rebuilt town need accurate listings for a population that includes many migrant workers and their families.",
-        "We are three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava leads project management, data science and automation. We have no office in Anjar and never claim one; work runs on WhatsApp, calls and screen shares, with written plans throughout.",
+        "We are three engineers working remotely. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us leads project management, data science and automation. We have no office in Anjar and never claim one; work runs on WhatsApp, calls and screen shares, with written plans throughout.",
       ],
     },
     {

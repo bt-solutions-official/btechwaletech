@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       heading: "What does it mean to book an app developer for hire?",
       paragraphs: [
         `Booking an app developer for hire means reserving a slot in someone’s calendar for a defined build, with a start date, a scope and a price agreed before code is written. It is different from posting a job and waiting for applicants. You already know you want an app; the question is who can start, and what they will hand you at the end.`,
-        `With our team, a booking covers one mobile app for Android and iOS, the small backend it needs, a basic admin panel for you, and release to Google Play and the App Store. Ankur leads the app and API build, Santosh handles the cloud setup on AWS and data, and Vedansh runs the weekly plan and keeps the feature list honest.`,
+        `With our team, a booking covers one mobile app for Android and iOS, the small backend it needs, a basic admin panel for you, and release to Google Play and the App Store. One of us leads the app and API build, another of us handles the cloud setup on AWS and data, and the third of us runs the weekly plan and keeps the feature list honest.`,
         `The honest limit: we take a small number of builds at a time so each one gets proper attention. That is why the quote states a start date rather than “immediately”. If the date does not suit you, you know on day two, not week four.`,
       ],
       list: [

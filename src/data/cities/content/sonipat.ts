@@ -169,7 +169,7 @@ const sonipat: CityContent = {
       paragraphs: [
         "We have no office in Sonipat, and we say so openly. We are three engineers who work remotely for clients across India. You talk directly to the people building your website, and your quote carries no office rent.",
         "The process starts with a call or WhatsApp chat about your business. You receive a written page plan, timeline and itemised quote. Within one or two weeks you have a live preview link to open on your phone and share with partners. Feedback goes on WhatsApp, and small changes are usually made the same day. We reply seven days a week, Indian time, which suits factory owners who review things on Sundays.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and looks after data science and automation. You always know who is working on your project.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and looks after data science and automation. You always know who is working on your project.",
       ],
     },
     {

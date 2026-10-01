@@ -188,7 +188,7 @@ const sarni: CityContent = {
       id: "remote-team-sarni",
       heading: "Working with a remote team from Sarni",
       paragraphs: [
-        "We do not have an office in Sarni, Betul or anywhere in Madhya Pradesh, and we will not invent one. BtechWaleTech is three engineers working remotely: Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation.",
+        "We do not have an office in Sarni, Betul or anywhere in Madhya Pradesh, and we will not invent one. BtechWaleTech is three engineers working remotely: one of us handles full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us manages projects, data science and automation.",
         "You describe what you need on WhatsApp or a short call. Within about two working days you receive a written quote with each item priced. Nothing starts and nothing is billed until you approve it in writing. While we build, you check a live preview link and send comments whenever it suits you, including between shifts.",
         "We answer on WhatsApp seven days a week on Indian Standard Time and keep every change and payment step in writing. You can read about our <a href=\"/services/web-development/\">web development</a> approach or simply <a href=\"/contact/\">message us</a> with a rough idea.",
       ],

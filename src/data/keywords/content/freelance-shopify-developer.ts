@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A freelance Shopify developer turns a Shopify account into a store that fits your products, your customers and your operations. Shopify supplies hosting, security, the checkout engine and the admin panel. The developer handles everything specific to your business: theme layout, product structure, payments, shipping, taxes, apps, integrations and speed.`,
         `Much of the value lies in what the developer chooses not to do. A store can be assembled from a paid theme and fifteen apps in a weekend, and it will look complete. It will also load slowly, cost a lot every month and break when two apps disagree. A good freelance Shopify developer writes the few features you need into the theme itself and keeps the app list short.`,
-        `At BtechWaleTech, Ankur Kumar leads theme and integration work, Santosh Sharma covers store SEO, analytics and data exports, and Vedansh Shrivastava plans the build and manages automation such as order updates on WhatsApp. You work with all three in one group chat.`,
+        `At BtechWaleTech, one of us leads theme and integration work, another of us covers store SEO, analytics and data exports, and the third of us plans the build and manages automation such as order updates on WhatsApp. You work with all three in one group chat.`,
       ],
       list: [
         "Theme setup and custom sections in Liquid",

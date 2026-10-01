@@ -173,7 +173,7 @@ const dhule: CityContent = {
       id: "remote-team-dhule",
       heading: "How we work with Dhule clients from a distance",
       paragraphs: [
-        "We have no office in Dhule, and we will not claim otherwise. We are three engineers working remotely: Ankur Kumar builds full-stack web applications, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava manages projects, data science and automation.",
+        "We have no office in Dhule, and we will not claim otherwise. We are three engineers working remotely: one of us builds full-stack web applications, another of us leads AI, machine learning, AWS and data work, and the third of us manages projects, data science and automation.",
         "You describe your business on WhatsApp or a short call. We send an itemised written quote in about two working days. Nothing starts and nothing is billed until you approve it in writing. While we build, you watch progress on a live preview link and comment whenever you like.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time, and keep every decision in writing. Payments follow the milestones set out in the quote.",
         "Working remotely also keeps the cost down. There is no showroom rent or travel built into your quote, and you deal directly with the engineers who write the code rather than a salesperson passing messages along. For a Dhule transporter or clinic, that usually means faster answers and fewer misunderstandings.",

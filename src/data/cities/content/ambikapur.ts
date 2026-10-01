@@ -156,7 +156,7 @@ const ambikapur: CityContent = {
       paragraphs: [
         "In Ambikapur, customers message before they travel. A patient's relative asks whether the doctor is in today, a student asks about batch timings, a traveller asks whether a Mainpat room is free this weekend, and a retailer from a nearby block asks for today's rate. These messages arrive all day, and the ones that go unanswered usually go to someone else.",
         "We set up automation that replies to common questions in Hindi or English, shares timings, fees, tariffs or price lists, records every enquiry in a Google Sheet, and passes the important ones to you with the full conversation. Clinics can send appointment confirmations and reminders; coaching centres can send fee reminders and batch notices; homestays can share availability and payment details.",
-        "Automation projects start from ₹40,000. Santosh Sharma designs the AI side so that pricing, refunds and complaints remain with you. If your message volume is modest, we will recommend a lighter setup that costs less.",
+        "Automation projects start from ₹40,000. Another of us designs the AI side so that pricing, refunds and complaints remain with you. If your message volume is modest, we will recommend a lighter setup that costs less.",
       ],
     },
     {
@@ -165,7 +165,7 @@ const ambikapur: CityContent = {
       paragraphs: [
         "We do not have an office in Ambikapur, and we won't claim one. We are three engineers working remotely for clients across India. We spend nothing on rent or sales staff, which keeps our prices low, and you talk directly to the people building your site.",
         "We begin with a call or WhatsApp chat about your business, then send a page plan, timeline and itemised quote in writing. After you approve it, you get a private preview link within days that you can check on your phone and show to your family or partners. Changes are requested on WhatsApp and small ones are usually done the same day. We reply seven days a week, in IST.",
-        "Ankur Kumar builds the websites and web applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can <a href=\"/contact/\">contact us directly</a>, or first read about our <a href=\"/services/web-development/\">web development service</a>.",
+        "One of us builds the websites and web applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can <a href=\"/contact/\">contact us directly</a>, or first read about our <a href=\"/services/web-development/\">web development service</a>.",
       ],
     },
     {

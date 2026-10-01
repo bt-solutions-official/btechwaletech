@@ -176,7 +176,7 @@ const hugliChinsurah: CityContent = {
       heading: "No office in Chinsurah: how working remotely with us goes",
       paragraphs: [
         "We are three engineers working remotely, and we have no office in Hugli-Chinsurah or anywhere else in the district. We say this clearly because many firms list addresses they never use. You deal directly with the people who build your project.",
-        "Ankur Kumar builds the full-stack web work. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava runs project management, data science and automation. Start from the <a href=\"/contact/\">contact page</a>; we reply on WhatsApp seven days a week during Indian working hours.",
+        "One of us builds the full-stack web work. Another of us handles AI, machine learning, AWS and data. The third of us runs project management, data science and automation. Start from the <a href=\"/contact/\">contact page</a>; we reply on WhatsApp seven days a week during Indian working hours.",
         "After a first call, you receive a page list, timeline and itemised quote in about two working days. Once you approve, a preview link follows, so you can check the site on your own phone on the train and share it with a partner or family member. The <a href=\"/services/web-development/\">web development</a> page explains how we build.",
         "Because Chinsurah is so close to Kolkata, some owners ask whether a city agency they can visit would be safer. Meeting in person is comfortable, but what protects you is the paperwork: a written scope, a line-by-line quote, the domain in your own name and access to the code. We give you all four, whether you are on Mahendra Mitra Road or in a village near Polba.",
       ],

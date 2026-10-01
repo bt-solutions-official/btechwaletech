@@ -134,7 +134,7 @@ const lucknow: CityContent = {
       paragraphs: [
         "Lucknow's technology scene is younger than Noida's but growing. HCL's IT City on Sultanpur Road and the TCS campus have brought large employers, and IIM Lucknow, AKTU's incubation efforts and a steady stream of engineers returning home from Bengaluru and Pune have produced small product teams, agencies and remote workers who serve clients abroad.",
         "Most of these teams can build software perfectly well but have no time for their own website. They need a site that looks credible to a client in Dubai or London on the first visit: clear services, honest case studies, a careers page and analytics that work from day one. We build them on static frameworks that pass Core Web Vitals and cost almost nothing to host.",
-        "For early startups, we build landing pages that change as quickly as the pitch does, with waitlists, demo booking and simple A/B testing. We set up the content so your team edits text and images directly, and we remain available for heavier changes. Where you need data or AI work, such as a recommendation feature or a document-reading pipeline on AWS, Santosh handles it directly.",
+        "For early startups, we build landing pages that change as quickly as the pitch does, with waitlists, demo booking and simple A/B testing. We set up the content so your team edits text and images directly, and we remain available for heavier changes. Where you need data or AI work, such as a recommendation feature or a document-reading pipeline on AWS, another of us handles it directly.",
       ],
     },
     {
@@ -159,7 +159,7 @@ const lucknow: CityContent = {
       paragraphs: [
         "Walk into almost any Lucknow business at eleven in the morning and someone will be answering the same WhatsApp questions they answered yesterday: what is the fee, is this design in stock, can you deliver to Hardoi, when is the doctor available. That work is repetitive, easy to get wrong when the shop is busy, and well suited to automation.",
         "We connect your WhatsApp Business number, website forms and a Google Sheet or CRM so every enquiry is saved with a name, number, source and status. An AI assistant replies to routine questions in Hindi or English using information you have approved, and hands off to a person as soon as a question falls outside that. A chikan wholesaler might use it to send the latest catalogue PDF to new retailers; a coaching institute to send batch details and fee reminders; a clinic to confirm and remind appointments.",
-        "Projects start at ₹40,000. Vedansh maps your current process before anything is built, and we automate only the steps that are repetitive and safe. Payments, medical questions and anything legally binding stay with your staff, and if an automation would save less time than it costs to maintain, we will say so.",
+        "Projects start at ₹40,000. The third of us maps your current process before anything is built, and we automate only the steps that are repetitive and safe. Payments, medical questions and anything legally binding stay with your staff, and if an automation would save less time than it costs to maintain, we will say so.",
       ],
     },
     {
@@ -168,7 +168,7 @@ const lucknow: CityContent = {
       paragraphs: [
         "We have no office in Lucknow and we will not list a virtual address to look local. We are three engineers working remotely across India. That is why our prices do not include rent, and why you will never be handed over to a junior after the contract is signed.",
         "In practice the process is quick. A call or WhatsApp chat about what you sell and to whom, then a written page plan, timeline and quote. Within a week or two you get a live preview link that you can open on your own phone and show to your family or partners. Changes are requested on WhatsApp, and small ones usually go live the same day. We work on IST and reply every day, including Sundays, when many Aminabad and Chowk shopkeepers finally have time to look.",
-        "Ankur Kumar builds the websites and applications end to end. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava runs project management and builds automations and data science pieces. You can reach any of us directly, and you will always know who is doing what.",
+        "One of us builds the websites and applications end to end. Another of us handles AI, machine learning, AWS and data work. The third of us runs project management and builds automations and data science pieces. You can reach any of us directly, and you will always know who is doing what.",
       ],
     },
     {

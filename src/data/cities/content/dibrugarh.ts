@@ -170,7 +170,7 @@ const dibrugarh: CityContent = {
       paragraphs: [
         "We have no office in Dibrugarh and will not invent one. We are three engineers working remotely for clients across India. Without rent or a sales team to pay for, our starting prices are lower than a metro agency's, and you speak directly to the people who build your site.",
         "Projects run over calls, WhatsApp and screen sharing, which suits the distances of Upper Assam well. After the first call we send a page plan, a timeline and an itemised quote. Within one to two weeks you get a preview link to check on your phone and share with partners. We reply every day of the week on Indian time, and small changes are usually made the same day.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">write to any of us</a> directly.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">write to any of us</a> directly.",
       ],
     },
     {

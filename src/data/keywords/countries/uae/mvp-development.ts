@@ -305,7 +305,7 @@ const content: FreelanceContent = {
       heading: "Building your MVP with a team in India from Dubai: the practical side",
       paragraphs: [
         `Working across the Gulf is easy on the clock: when it is 10 am in Dubai it is 11:30 am in India, so we share almost your entire working day and reply on WhatsApp seven days a week. Founders often work evenings and weekends; weekend messages are answered, and demos are scheduled when suits you.`,
-        `Vedansh Shrivastava runs the scope, weekly demos and learning log, Ankur Kumar builds the web or mobile product end to end, and Santosh Sharma sets up cloud hosting, analytics and any AI or data features. Calls are in English or Hindi over video with screen sharing. There are no in-person meetings.`,
+        `The third of us runs the scope, weekly demos and learning log, one of us builds the web or mobile product end to end, and another of us sets up cloud hosting, analytics and any AI or data features. Calls are in English or Hindi over video with screen sharing. There are no in-person meetings.`,
         `Quotes are in USD, paid by Wise, bank wire or PayPal against milestones listed in the quote you approve, and nothing is billed before that approval. Invoices come from India; your accountant can advise how to book them. Code and accounts are yours throughout, and any NDA is agreed in writing before you share details.`,
       ],
       subs: [

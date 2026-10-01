@@ -159,7 +159,7 @@ const allahabad: CityContent = {
       paragraphs: [
         "We should be clear about this: we have no office in Prayagraj, and we will not put a borrowed address on our site to look local. We are three engineers who work remotely with clients across India. Not paying rent or a sales team is part of why our prices are lower than those of agencies with a Civil Lines address.",
         "In practice the work starts with a phone call or a WhatsApp conversation about what your business does and who your customers are. We then send a page plan, a timeline and an itemised quote. Once you approve, you get a working preview link, usually within the first week or two, that you can open on your own phone and share with your partners or family. Comments come back on WhatsApp, and small fixes are often live the same day. We keep Indian hours and answer seven days a week.",
-        "You will know who is doing what. Ankur Kumar builds the site and any full-stack features. Santosh Sharma handles AI, machine learning, AWS hosting and data work. Vedansh Shrivastava manages the project and looks after data science and automation. If you want to ask any of us something directly, you can.",
+        "You will know who is doing what. One of us builds the site and any full-stack features. Another of us handles AI, machine learning, AWS hosting and data work. The third of us manages the project and looks after data science and automation. If you want to ask any of us something directly, you can.",
       ],
     },
     {

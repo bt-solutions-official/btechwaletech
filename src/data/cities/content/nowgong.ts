@@ -69,7 +69,7 @@ const nowgong: CityContent = {
       paragraphs: [
         "Nowgong was laid out as a military cantonment in 1842–43 and served as headquarters of the Bundelkhand Agency during British rule. The soldiers left long ago, but the town kept its role as a meeting point. National Highway 39 runs through it, carrying trucks, buses and tourist cars between Jhansi, Chhatarpur and Khajuraho. Farmers from surrounding villages bring grain and pulses to sell. Students arrive for the polytechnic and the engineering college.",
         "Requests for <strong>IT services in Nowgong</strong> come from exactly these groups. A hotel on the highway wants travellers to find it before they reach Chhatarpur. A trader wants his mandi rates and stock on WhatsApp without typing them fifty times a day. A coaching centre wants admissions from students who search on phones. A clinic wants its doctor timings on Google so patients from villages stop making wasted trips.",
-        "We are a team of three engineers working remotely. Ankur Kumar builds full-stack websites and web applications. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds data science and automation workflows. We have no office in Nowgong, or anywhere in Bundelkhand, and we say that openly from the first message.",
+        "We are a team of three engineers working remotely. One of us builds full-stack websites and web applications. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and builds data science and automation workflows. We have no office in Nowgong, or anywhere in Bundelkhand, and we say that openly from the first message.",
       ],
     },
     {

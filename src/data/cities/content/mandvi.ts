@@ -69,7 +69,7 @@ const mandvi: CityContent = {
       paragraphs: [
         "Mandvi was founded in the 1580s by Rao Khengarji I and grew into the chief port of the old Kutch state, placed where the camel caravan routes of the desert met sea lanes running to East Africa, the Malabar coast and the Persian Gulf. By the eighteenth century its merchants owned a fleet of about four hundred vessels. The habit of keeping exact ledgers that such trade demanded has never quite left the town.",
         "The customers have changed, though. A family from Ahmedabad picks between two beach stays on Google Maps before leaving home. A bentonite buyer in another state reads a supplier's website before asking for samples. Someone in Mumbai whose grandparents came from Mandvi wants bandhani for a wedding without a trip back. Every one of these journeys now begins on a phone.",
-        "Our job as an <strong>IT services team in Mandvi</strong> is to make those first searches end with you. We are three engineers working remotely: Ankur Kumar writes websites and web apps, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. We have no office in Mandvi or anywhere in Kutch, and every plan, quote and progress note reaches you in writing on WhatsApp or email.",
+        "Our job as an <strong>IT services team in Mandvi</strong> is to make those first searches end with you. We are three engineers working remotely: one of us writes websites and web apps, another of us covers AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. We have no office in Mandvi or anywhere in Kutch, and every plan, quote and progress note reaches you in writing on WhatsApp or email.",
         "Projects range from a ten-page Gujarati site for a guest house to an Android app for a dealer network. Each is priced on its own merits rather than pushed into a bundle you do not need.",
       ],
     },
@@ -174,7 +174,7 @@ const mandvi: CityContent = {
       paragraphs: [
         "We will not pretend to keep a shop near the Rukmavati Bridge. The three of us work remotely, and our process is built around that fact. It opens with a call, or a few voice notes on WhatsApp, about your business and the people who buy from you. Within about two working days you receive a written scope listing the pages or screens, the features, the timeline and a price for each item.",
         "Nothing is billed until you approve that document. During the build you get preview links that open on any phone, so a partner in Mumbai can review the same draft you are looking at in Mandvi. Gujarati text is sent to you for approval before it goes live, because a wrong word on a menu or a hotel rate card reflects on you, not on us.",
-        "Ankur, Santosh and Vedansh each own a clear part of the work, so you always know who answers for the code, the data or the schedule. Payments follow milestones you can check yourself. We reply on WhatsApp all seven days on Indian time, and if a date slips you hear about it at once, with the reason and the new date.",
+        "The BtechWaleTech team each own a clear part of the work, so you always know who answers for the code, the data or the schedule. Payments follow milestones you can check yourself. We reply on WhatsApp all seven days on Indian time, and if a date slips you hear about it at once, with the reason and the new date.",
       ],
     },
     {

@@ -264,7 +264,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A typical website for content creators goes from brief to launch in 1–2 weeks without a store and 4–8 weeks with one. The timeline depends mostly on how quickly you send content and feedback, not on the coding.`,
         `We start on WhatsApp or a short call: your platforms, audience, income streams, and three creator sites you like. Within about two working days you get an itemised quote. Nothing is billed until you approve it in writing.`,
-        `Next comes a page map and one design direction, shown on a real phone screen rather than a desktop mock-up, because most of your visitors arrive from an app on mobile. Once you approve the look, Ankur builds the site, Santosh handles SEO, structured data and analytics, and Vedansh coordinates the checklist, deadlines and your reviews.`,
+        `Next comes a page map and one design direction, shown on a real phone screen rather than a desktop mock-up, because most of your visitors arrive from an app on mobile. Once you approve the look, one of us builds the site, another of us handles SEO, structured data and analytics, and the third of us coordinates the checklist, deadlines and your reviews.`,
         `You get a private preview link, send changes in two review rounds, and we launch on your domain. On launch day we submit sitemaps to Google Search Console, test every form and payment, and hand over logins. Then comes the part many creators skip: we watch the first two weeks of analytics with you to see which bio link, video or post is actually sending visitors.`,
       ],
     },

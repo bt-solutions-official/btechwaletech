@@ -27,9 +27,9 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Freelance AWS developer · Hosting, serverless, cost",
     h1: "Freelance AWS developer for hosting, serverless apps and a smaller AWS bill",
-    lede: `A freelance AWS developer designs, builds and tidies up what you run on Amazon Web Services, from a static site on S3 and CloudFront to a serverless API or a web app on EC2 and RDS. At BtechWaleTech, a group of three freelance developers in India, Santosh Sharma leads AWS work alongside AI and data projects. This page covers when AWS is the right choice, which services fit small teams, how to keep costs predictable and how to vet anyone you give account access to.`,
+    lede: `A freelance AWS developer designs, builds and tidies up what you run on Amazon Web Services, from a static site on S3 and CloudFront to a serverless API or a web app on EC2 and RDS. At BtechWaleTech, a group of three freelance developers in India, another of us leads AWS work alongside AI and data projects. This page covers when AWS is the right choice, which services fit small teams, how to keep costs predictable and how to vet anyone you give account access to.`,
     pills: ["S3 + CloudFront hosting", "Lambda and API Gateway", "EC2, RDS, Lightsail", "AWS bill reviews", "IAM and security basics", "Infrastructure as code", "Account stays in your name"],
-    origin: "Three freelance developers · AWS work led by Santosh Sharma · Remote from India, clients in India and abroad",
+    origin: "Three freelance developers · AWS work led by another of us · Remote from India, clients in India and abroad",
   },
   facts: [
     ["Web app on AWS from", `${P.software} · ${P.softwareUsd}`],
@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A freelance AWS developer turns an application or website into something that runs reliably on Amazon Web Services, and keeps it affordable. The job sits between software development and operations: writing code that uses AWS services, and setting up the services themselves.`,
         `In practice, small clients hire us for a handful of recurring jobs. Hosting a fast site on S3 behind CloudFront. Building an API on Lambda and API Gateway. Moving an app from shared hosting or a tired EC2 instance to a cleaner setup. Reviewing a bill that has crept up month after month. Locking down an account where five people share the root password.`,
-        `Santosh Sharma leads AWS work in our team, Ankur Kumar writes the application code that runs on it, and Vedansh Shrivastava keeps the plan and handover documents in order. You talk to all three on one WhatsApp thread.`,
+        `Another of us leads AWS work in our team, one of us writes the application code that runs on it, and the third of us keeps the plan and handover documents in order. You talk to all three on one WhatsApp thread.`,
       ],
       list: [
         "Choose services that match your traffic, budget and team skills",

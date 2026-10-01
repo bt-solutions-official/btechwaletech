@@ -33,7 +33,7 @@ const content: FreelanceContent = {
     origin: "Three freelance developers working remotely from India · replies on WhatsApp 7 days a week, IST",
   },
   facts: [
-    ["Analysis lead", "Santosh Sharma (technical SEO, data, AWS)"],
+    ["Analysis lead", "Another of us (technical SEO, data, AWS)"],
     ["Unit of comparison", "One search query and its top results"],
     ["Evidence", "Live SERPs, crawls, field speed data, link profiles"],
     ["Output", "Ranked gap list plus a 90-day plan"],

@@ -249,7 +249,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Choose the developer who asks about your customers before talking about technology, and who is clear about ownership and aftercare. A cheaper quote that skips half the components is not cheaper.`,
         `Send a short description of your business, the pages you think you need and two sites you like. Then compare replies on three points: does the quote list the components on this page, is everything registered in your name, and what happens after launch? Ask to see live small business sites the developer has built and try their contact buttons yourself.`,
-        `Our team is Ankur Kumar on full-stack builds, Santosh Sharma on hosting, data and technical SEO, and Vedansh Shrivastava on project planning and automation. You speak to them directly on WhatsApp. The step-by-step hiring route is on <a href='/hire-website-developer/'>buying a website as a project</a>.`,
+        `Our team is one of us on full-stack builds, another of us on hosting, data and technical SEO, and the third of us on project planning and automation. You speak to them directly on WhatsApp. The step-by-step hiring route is on <a href='/hire-website-developer/'>buying a website as a project</a>.`,
       ],
     },
     {

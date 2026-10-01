@@ -69,7 +69,7 @@ const tarikere: CityContent = {
       paragraphs: [
         "Tarikere is where the flat maidan country starts to rise into the Western Ghats. Its taluk takes in maidan hoblis around Kasaba and Amruthapura as well as hill country around Lingadahalli and Lakkavalli, and the town serves both: areca growers selling produce, estate owners buying supplies, visitors heading to Kemmangundi, and families from about two hundred villages coming in for school, court work and hospital visits.",
         "When people here ask us for <strong>IT services in Tarikere</strong>, the request is rarely abstract. A trader wants buyers in Shivamogga and Davanagere to see his rates. A homestay owner near Kemmangundi wants bookings without twenty phone calls. A school wants parents in Ajjampura to receive notices on time. Each of these is a small, practical build.",
-        "Our team has three people. Ankur Kumar writes the websites and web apps, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava plans the work and builds the automation. We have no office in Tarikere and work entirely over WhatsApp, calls and screen shares, which is why an owner on BH Road never needs to take a day off to meet us.",
+        "Our team has three people. One of us writes the websites and web apps, another of us handles AI, machine learning, AWS and data, and the third of us plans the work and builds the automation. We have no office in Tarikere and work entirely over WhatsApp, calls and screen shares, which is why an owner on BH Road never needs to take a day off to meet us.",
       ],
     },
     {
@@ -176,8 +176,8 @@ const tarikere: CityContent = {
       id: "remote-team-tarikere",
       heading: "How three remote engineers run a Tarikere project",
       paragraphs: [
-        "Everything begins with a call or a WhatsApp voice note about your trade and your customers. Within about two working days, Vedansh sends a written plan: pages or app screens, the timeline, and a costed list of every item. You can strike lines out or ask for changes before anything starts, and no money changes hands until you approve.",
-        "During the build, Ankur shares preview links that open on any phone, so you can show a partner at the yard or a family member at home. Santosh joins when the work touches AI, data or cloud hosting. Kannada text is sent to you for checking before it goes live, since a wrong word on a school notice or a rate list is remembered for a long time.",
+        "Everything begins with a call or a WhatsApp voice note about your trade and your customers. Within about two working days, the third of us sends a written plan: pages or app screens, the timeline, and a costed list of every item. You can strike lines out or ask for changes before anything starts, and no money changes hands until you approve.",
+        "During the build, one of us shares preview links that open on any phone, so you can show a partner at the yard or a family member at home. Another of us joins when the work touches AI, data or cloud hosting. Kannada text is sent to you for checking before it goes live, since a wrong word on a school notice or a rate list is remembered for a long time.",
         "WhatsApp is the main channel, answered every day of the week on Indian time. If a date slips, you hear it the same day with the reason and the new date. Payments are split by milestones you can see working, which keeps the risk small for a first-time buyer.",
       ],
     },

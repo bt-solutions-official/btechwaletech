@@ -158,7 +158,7 @@ const godhra: CityContent = {
       paragraphs: [
         "Many established Godhra firms already have plenty of data. A wholesaler has years of billing in Tally, a contractor has attendance sheets and material issue slips, a school has fee records in Excel. The problem is that nobody has time to read them, so decisions still rely on memory and instinct.",
         "We connect to what you already use and build a small dashboard that answers a few practical questions: which retailers have not ordered this month, which dues are older than sixty days, which jobs are running over budget, which fee instalments are pending. It opens on a phone, updates on a schedule and shows only what matters to you, not fifty charts nobody reads.",
-        "Santosh Sharma leads this work, and projects are scoped after we see a sample of your data. Often the first version is simple, and we add views only once you are actually using it. Your data stays on accounts in your name, and we never share or reuse it.",
+        "Another of us leads this work, and projects are scoped after we see a sample of your data. Often the first version is simple, and we add views only once you are actually using it. Your data stays on accounts in your name, and we never share or reuse it.",
       ],
     },
     {
@@ -167,7 +167,7 @@ const godhra: CityContent = {
       paragraphs: [
         "We have no office in Godhra, Vadodara or anywhere in Gujarat, and we do not list an address we do not use. We are three engineers working remotely for clients across India. That is how our starting prices stay lower: no rent, no showroom, no commissions to salespeople.",
         "Working together needs only a phone. We call to understand your business, then send a written page plan, timeline and itemised quote. After your approval you get a private link to the site in progress and can check it on your own phone. Changes go on WhatsApp, and small ones are usually done the same day. We reply seven days a week, on Indian time.",
-        "Ankur Kumar builds websites and web applications. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">contact any of us</a> directly.",
+        "One of us builds websites and web applications. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">contact any of us</a> directly.",
       ],
     },
     {

@@ -262,7 +262,7 @@ const content: FreelanceContent = {
       heading: "Working with a freelance web team in India from New Zealand",
       paragraphs: [
         `India sits 6.5 hours behind New Zealand during NZ standard time and 7.5 hours behind in daylight saving. Your afternoons line up with our mornings, so questions sent after a client meeting are usually answered before your next day starts.`,
-        `We keep partner time to a minimum. A 30-minute kickoff call gathers packages, credentials and priorities. After that, most decisions happen on WhatsApp or email: you forward notes, approve layouts on your phone, and review content between jobs. Vedansh tracks approvals, Ankur builds the site and portal, and Santosh covers hosting, security settings and search.`,
+        `We keep partner time to a minimum. A 30-minute kickoff call gathers packages, credentials and priorities. After that, most decisions happen on WhatsApp or email: you forward notes, approve layouts on your phone, and review content between jobs. The third of us tracks approvals, one of us builds the site and portal, and another of us covers hosting, security settings and search.`,
         `Quotes are itemised in USD, payments go by Wise, bank wire or PayPal, and invoices come from India. Nothing is billed before you approve the written quote. How you account for the cost is your call. Domain, hosting, analytics and portal data stay in your practice's name; our access is granted by you and removed after handover.`,
       ],
       subs: [

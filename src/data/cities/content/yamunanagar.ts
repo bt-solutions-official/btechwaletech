@@ -167,7 +167,7 @@ const yamunanagar: CityContent = {
       paragraphs: [
         "We have no office in Yamunanagar, Jagadhri or anywhere else, and we will not invent one. We are three engineers working remotely for clients across India. The benefit for you is direct access to the people building your site and no office rent quietly added to the bill.",
         "Work starts with a phone call or WhatsApp chat about your products, buyers and the enquiries you want more of. We send a written page plan, timeline and itemised quote. Within the first week or two you get a preview link to check on your own phone, and feedback happens on WhatsApp. For factories, photographs are often the slowest part, so we send a simple shot list your staff can follow with a decent phone camera.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma looks after AI, machine learning, AWS and data work. Vedansh Shrivastava runs projects and builds automation and data science pieces. We answer seven days a week on Indian time, which suits owners who only get to their laptop on Sunday. More on our process is on the <a href=\"/services/web-development/\">web development page</a>.",
+        "One of us handles full-stack development. Another of us looks after AI, machine learning, AWS and data work. The third of us runs projects and builds automation and data science pieces. We answer seven days a week on Indian time, which suits owners who only get to their laptop on Sunday. More on our process is on the <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {

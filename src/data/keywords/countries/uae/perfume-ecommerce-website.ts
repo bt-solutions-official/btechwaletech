@@ -317,7 +317,7 @@ const content: FreelanceContent = {
       ],
       subs: [
         { heading: "Your first two weeks", text: "Days 1–3: a call about your range, channels and peak dates, then the written quote. After approval: accounts set up in your name, the note list and product model agreed, a sample of ten products loaded, and a first design on staging for comments." },
-        { heading: "Who you deal with", text: "Ankur Kumar builds the store, Santosh Sharma handles search, data and hosting, and Vedansh Shrivastava runs the plan and your weekly update." },
+        { heading: "Who you deal with", text: "One of us builds the store, another of us handles search, data and hosting, and the third of us runs the plan and your weekly update." },
       ],
     },
     {

@@ -311,7 +311,7 @@ const content: FreelanceContent = {
       id: "limits",
       heading: "What our custom software development service covers, and what it does not",
       paragraphs: [
-        `We are three freelance developers: Ankur Kumar leads full-stack development, Santosh Sharma handles AWS, data and AI, and Vedansh Shrivastava runs project management and process automation. You deal with all three directly, and the same people support the system after go-live.`,
+        `We are three freelance developers: one of us leads full-stack development, another of us handles AWS, data and AI, and the third of us runs project management and process automation. You deal with all three directly, and the same people support the system after go-live.`,
         `We build web apps, integrations, dashboards, portals and companion mobile apps. We do not supply on-site staff in Australia, install hardware or networks, replace your accounting system, or give legal, tax or privacy advice. We are also not the right fit for programmes that need twenty developers at once. If your project needs any of those, we say so in the first conversation.`,
         `Two months of free maintenance follow go-live, covering fixes and dependency updates while your team settles in. After that, support plans start from ${P.care}, or you can hand everything to another developer or an in-house hire, since the code and accounts are already yours.`,
       ],

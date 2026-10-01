@@ -110,7 +110,7 @@ const content: FreelanceContent = {
         `A good system does not add a new job for the guard. It replaces the signature in the logbook with a scan, the attendance line with a selfie, and the occurrence entry with a short form and a photo. The office then gets rosters, salary figures, client bills and registers without retyping anything.`,
       ],
       after: [
-        `Our three-person team splits the work plainly: Ankur Kumar builds the guard app and the backend, Santosh Sharma handles cloud hosting, data security and reporting, and Vedansh Shrivastava maps your agency’s process and runs testing and rollout.`,
+        `Our three-person team splits the work plainly: one of us builds the guard app and the backend, another of us handles cloud hosting, data security and reporting, and the third of us maps your agency’s process and runs testing and rollout.`,
       ],
     },
     {

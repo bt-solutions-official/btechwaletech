@@ -84,9 +84,9 @@ const content: FreelanceContent = {
     columns: ["Factor", "Dedicated developer from an outsourcing vendor", "Freelancer via Upwork or Toptal", "BtechWaleTech"],
     rows: [
       ["Pricing model", "Monthly or hourly per head", "Hourly or milestone, plus platform fees", `Itemised project quote; Go back ends from ${P.software}`],
-      ["Who manages the work", "You direct the developer daily", "You, through the platform", "Vedansh plans milestones; you approve each"],
+      ["Who manages the work", "You direct the developer daily", "You, through the platform", "The third of us plans milestones; you approve each"],
       ["Code review", "Depends on the vendor", "Rare for solo work", "Every pull request reviewed by a second developer"],
-      ["Infrastructure", "Often a separate DevOps hire", "Varies", "Santosh handles AWS, containers and monitoring"],
+      ["Infrastructure", "Often a separate DevOps hire", "Varies", "Another of us handles AWS, containers and monitoring"],
       ["Front end too", "Separate developer", "Separate hire", "Same team builds React, Vue or Angular screens"],
       ["If a person leaves", "Replacement with ramp-up time", "Project may stall", "Two others already know the services"],
       ["Repository and cloud", "Usually yours", "Varies by contract", "Yours from the first commit"],

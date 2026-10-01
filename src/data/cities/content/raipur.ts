@@ -116,7 +116,7 @@ const raipur: CityContent = {
       paragraphs: [
         "Nava Raipur Atal Nagar holds the state secretariat, many government departments, IIM Raipur, IIIT Naya Raipur and Hidayatullah National Law University, along with new residential sectors and commercial plots. Around it has grown a set of businesses that serve government and institutions: civil contractors, IT and office equipment suppliers, consultants, event managers and facility service firms.",
         "Government and institutional buyers check vendors carefully. A clear website with company details, registrations, completed work you are allowed to mention, key staff and a downloadable profile makes empanelment and tender evaluation easier. We keep it factual and never overstate experience or certifications, since procurement officers verify.",
-        "The institutes also bring students, faculty and startups. For student founders and small tech firms, we build fast landing pages and first web applications on modern static frameworks, with AI, AWS and data work handled by Santosh. We are honest when a simpler tool would serve an early startup better.",
+        "The institutes also bring students, faculty and startups. For student founders and small tech firms, we build fast landing pages and first web applications on modern static frameworks, with AI, AWS and data work handled by another of us. We are honest when a simpler tool would serve an early startup better.",
       ],
     },
     {
@@ -178,7 +178,7 @@ const raipur: CityContent = {
       paragraphs: [
         "We have no office in Raipur and will not list one. We are three engineers working remotely for clients across India, so rent and sales salaries stay out of your quote, and you talk directly to the people building your site.",
         "After a call or WhatsApp conversation, you receive a page plan, timeline and itemised quote, usually within two working days. Once you approve it in writing, you get a live preview link within the first week or two and review the real site on your own phone. Changes go on WhatsApp and small ones usually go live the same day. We work on IST and reply seven days a week.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds data science and automation workflows.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds data science and automation workflows.",
       ],
     },
     {

@@ -249,7 +249,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The warning sign is not a low price; it is a low price with vague scope. A cheap quote that lists every deliverable can be a genuine bargain, while a cheap quote that says only “website, five pages” is a future argument.`,
         `Watch for developers who register the domain or hosting in their own name, who will not give you repository access, or who build on a proprietary platform you cannot leave. Watch for quotes with no mention of redirects on a redesign, no staging site, no accessibility or speed checks, and no written change process. Be wary of anyone who promises first-page rankings: nobody controls Google’s results, and a promise like that tells you how the rest of the project will be sold.`,
-        `Also check who will actually do the work. On marketplaces, a polished profile sometimes hands the job to someone else. Ask to speak with the person writing the code. When you hire us, you talk directly with Ankur (full-stack development), Santosh (AI, ML, AWS, data and technical SEO) or Vedansh (project management, data science and automation), and the person you chat with is the person building.`,
+        `Also check who will actually do the work. On marketplaces, a polished profile sometimes hands the job to someone else. Ask to speak with the person writing the code. When you hire us, you talk directly with one of us (full-stack development), another of us (AI, ML, AWS, data and technical SEO) or the third of us (project management, data science and automation), and the person you chat with is the person building.`,
       ],
       list: [
         "Domain, hosting or code held in the developer’s name",

@@ -68,7 +68,7 @@ const sibsagar: CityContent = {
       paragraphs: [
         "Few district towns in India carry as much history as Sivasagar. As Rangpur it was the seat of the Ahom kings for most of the eighteenth century, and the district is said to hold more than 350 old monuments. Today the same town is headquarters of a district that produces a large share of Assam's crude oil and tea, with ONGC's Assam Asset run from Nazira and tea estates on most roads out of town.",
         "That mix shapes what people ask for. Enquiries about <strong>IT services in Sivasagar</strong> come from hotel and homestay owners who want visitors to book directly, contractors and vendors who work on oil sites, suppliers to tea gardens, colleges and coaching centres, hospitals and pharmacies, and shops along AT Road and Temple Road that want their Google listing to be right.",
-        "We have no office in Sivasagar and we say so up front. We are three engineers working remotely: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. Calls, WhatsApp and screen shares replace visits, and every decision is recorded in writing.",
+        "We have no office in Sivasagar and we say so up front. We are three engineers working remotely: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. Calls, WhatsApp and screen shares replace visits, and every decision is recorded in writing.",
         "Working this way removes office rent from the quote. You pay for the pages, screens and features you approve, and you can see each of them on a preview link before anything is final.",
       ],
     },
@@ -165,7 +165,7 @@ const sibsagar: CityContent = {
       id: "remote-team-sivasagar",
       heading: "Working with our remote IT team from Sivasagar",
       paragraphs: [
-        "Our three engineers work remotely, and we keep no office in Sivasagar or any other city. Instead of meetings, the project runs on clear documents. Ankur Kumar builds websites and web applications, Santosh Sharma handles AI, cloud and data, and Vedansh Shrivastava plans the work and the automation. After a first conversation about your business, you receive a written outline of pages or screens, a timeline and a costed list of every item.",
+        "Our three engineers work remotely, and we keep no office in Sivasagar or any other city. Instead of meetings, the project runs on clear documents. One of us builds websites and web applications, another of us handles AI, cloud and data, and the third of us plans the work and the automation. After a first conversation about your business, you receive a written outline of pages or screens, a timeline and a costed list of every item.",
         "Work starts only after you approve that list, and no payment is due before written approval. As the build progresses you get preview links that open on any phone, so partners and family can look too. Assamese text is sent to you for checking before publishing, because spelling and word choice in Assamese matter a great deal to local readers.",
         "We reply on WhatsApp every day, including weekends, on Indian time. If something will be late, you hear about it the same day with a new date. Payments follow visible milestones, which keeps the risk small for anyone putting their business online for the first time.",
       ],

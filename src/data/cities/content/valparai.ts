@@ -69,7 +69,7 @@ const valparai: CityContent = {
       paragraphs: [
         "Valparai is small on the map and large in the life of the Anamalai hills. The town is the market, the bus hub, the school and hospital centre and the administrative base for dozens of estate settlements spread across the plateau. Most families are linked to tea or coffee in some way, and over the last decade tourism has become the second pillar: homestays, cottages, estate bungalows converted for guests, jeeps and taxis, restaurants and small shops selling tea and spices.",
         "Enquiries we get for <strong>IT services in Valparai</strong> reflect that mix. A homestay owner wants guests from Bengaluru, Chennai and Kochi to find the property and book without ten phone calls. An estate office wants attendance and plucking data to reach the manager without a clerk carrying registers. A taxi operator wants a page that ranks for rides from Pollachi. A school wants to reach parents who live on estates an hour away.",
-        "We are a remote team of three engineers. Ankur Kumar builds the full-stack web and app side, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava leads project management, data science and automation. We have no office in Valparai or in Coimbatore, and we say that before anything else.",
+        "We are a remote team of three engineers. One of us builds the full-stack web and app side, another of us handles AI, machine learning, AWS and data, and the third of us leads project management, data science and automation. We have no office in Valparai or in Coimbatore, and we say that before anything else.",
       ],
     },
     {

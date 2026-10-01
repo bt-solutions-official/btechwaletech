@@ -306,7 +306,7 @@ const content: FreelanceContent = {
       id: "our-build",
       heading: "How we build a custom app, and what you receive",
       paragraphs: [
-        `We are a freelance group of three. Ankur Kumar leads the app and backend development, Santosh Sharma sets up the cloud hosting and any AI or data features, and Vedansh Shrivastava manages the plan, weekly demos and the store submission checklist.`,
+        `We are a freelance group of three. One of us leads the app and backend development, another of us sets up the cloud hosting and any AI or data features, and the third of us manages the plan, weekly demos and the store submission checklist.`,
         `Every custom app starts with a short scope: user types, screens, rules, integrations and what counts as done. You get an itemised quote in about two working days, and nothing is billed before your written approval. We build in short cycles with a test build on your phone, publish under your own Google Play and Apple developer accounts, and hand over the repository, admin credentials and a short technical note at launch.`,
         `What we do not do: resell clone scripts, publish apps under our own account, promise approval by a store (only Apple and Google decide that), or take on projects that need a twenty-person team. If a readymade app genuinely suits you, we will say so. Start a conversation on WhatsApp or through the <a href='/contact/'>contact page</a>.`,
       ],

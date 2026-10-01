@@ -69,7 +69,7 @@ const rameshwaram: CityContent = {
       paragraphs: [
         "Rameswaram runs on two clocks. One belongs to pilgrims arriving for darshan at the Ramanathaswamy Temple and a dip at Agni Theertham, often planning the trip from a phone hundreds of kilometres away. The other belongs to fishing families who read the weather in the Palk Strait and the Gulf of Mannar and land their catch before the market opens.",
         "Both clocks now start online. A family in Nagpur compares three lodges on Google before booking, a group from Kerala looks for a van that will cover Dhanushkodi and the Kalam memorial in a day, and a fish buyer in Chennai wants to know today's rate before sending a truck. Most requests we get for <strong>IT services in Rameswaram</strong> come from owners who have noticed those searches passing them by.",
-        "We are three engineers working remotely: Ankur Kumar writes the websites and web applications, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava plans the project and the automation. There is no office of ours on Pamban Island or anywhere else, and we say that plainly. Work moves over WhatsApp, calls and screen shares, with written notes at each step, which is why our starting prices stay where they are.",
+        "We are three engineers working remotely: one of us writes the websites and web applications, another of us handles AI, machine learning, AWS and data work, and the third of us plans the project and the automation. There is no office of ours on Pamban Island or anywhere else, and we say that plainly. Work moves over WhatsApp, calls and screen shares, with written notes at each step, which is why our starting prices stay where they are.",
       ],
     },
     {
@@ -169,7 +169,7 @@ const rameshwaram: CityContent = {
       paragraphs: [
         "Since we cannot walk into your lodge or your shop, the paper trail does that job instead. The first call is about your trade and your customers, not about technology. After it you receive a written outline of pages or app screens, the dates each stage should finish, and a costed list of every item with nothing hidden in a bundle.",
         "Nothing is built and nothing is billed until you approve that list. As the work moves, preview links arrive that open on any phone, so you can show a partner at the counter or send it to the agent in Madurai who fills your rooms. Payments follow milestones you can see working on screen, which keeps the risk low for a family business going online for the first time.",
-        "WhatsApp is the main line and it is answered every day of the week on Indian time. Ankur handles the build, Santosh the AI, cloud and data side, Vedansh the planning and the automation, so you always know whose answer you are getting. When something slips, you hear about it the day we know, together with a new date rather than a vague promise.",
+        "WhatsApp is the main line and it is answered every day of the week on Indian time. One of us handles the build, another of us the AI, cloud and data side, the third of us the planning and the automation, so you always know whose answer you are getting. When something slips, you hear about it the day we know, together with a new date rather than a vague promise.",
       ],
     },
     {

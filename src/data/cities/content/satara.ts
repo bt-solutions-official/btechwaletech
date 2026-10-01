@@ -183,7 +183,7 @@ const satara: CityContent = {
       id: "remote-team-satara",
       heading: "How we work with Satara clients from a distance",
       paragraphs: [
-        "We have no office in Satara, Pune or anywhere else in Maharashtra, and we will not put a false address on a listing. We are three engineers working remotely. Ankur Kumar builds the full-stack web systems, Santosh Sharma leads AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation.",
+        "We have no office in Satara, Pune or anywhere else in Maharashtra, and we will not put a false address on a listing. We are three engineers working remotely. One of us builds the full-stack web systems, another of us leads AI, machine learning, AWS and data, and the third of us handles project management, data science and automation.",
         "You describe what you need on WhatsApp or a short call. In about two working days you receive an itemised written quote, and nothing starts or is billed until you approve it in writing. During the build, you follow progress on a live preview link and comment whenever it suits you, whether from the shop floor or after closing time.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time. Every decision and payment milestone is recorded in writing, so there are no surprises at the end.",
       ],

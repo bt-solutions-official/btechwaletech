@@ -169,7 +169,7 @@ const sagar: CityContent = {
       paragraphs: [
         "We do not have an office in Sagar, and we will not claim one. We are three engineers working remotely with clients across India. Without rent or sales staff to pay for, our prices stay lower, and you deal directly with the people who build your site.",
         "Everything runs on phone calls, WhatsApp and screen sharing. We start with a conversation about your business and customers, then send a page plan, timeline and itemised quote. Within one to two weeks you receive a live preview link to check on your phone and show your partners or family. Small changes are usually made the same day, and we reply seven days a week, Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">get in touch</a> with any of us directly.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">get in touch</a> with any of us directly.",
       ],
     },
     {

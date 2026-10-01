@@ -28,12 +28,12 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Freelance data analyst · Excel, SQL, Python",
     h1: "Freelance data analyst for businesses that have the data but not the answers",
-    lede: `A freelance data analyst takes the spreadsheets, exports and databases your business already produces and turns them into clear answers and reports you can act on. At BtechWaleTech, Santosh Sharma and Vedansh Shrivastava handle the data side of our three-person freelance team, working in Excel, Google Sheets, SQL and Python. Every job starts from a sample of your real data, and recurring reports can be automated, with automation projects starting from ${P.ai}.`,
+    lede: `A freelance data analyst takes the spreadsheets, exports and databases your business already produces and turns them into clear answers and reports you can act on. At BtechWaleTech, another of us and the third of us handle the data side of our three-person freelance team, working in Excel, Google Sheets, SQL and Python. Every job starts from a sample of your real data, and recurring reports can be automated, with automation projects starting from ${P.ai}.`,
     pills: ["Excel & Google Sheets", "SQL queries", "Python & pandas", "Data cleaning", "MIS and sales reports", "Report automation", "Your data stays yours"],
     origin: "Three freelance developers with data and automation skills · Remote from India · For Indian and overseas businesses",
   },
   facts: [
-    ["Who does the analysis", "Santosh (data, AWS) and Vedansh (data science, automation)"],
+    ["Who does the analysis", "Another of us (data, AWS) and the third of us (data science, automation)"],
     ["Tools", "Excel, Google Sheets, SQL, Python"],
     ["How it is scoped", "From a sample of your real data"],
     ["Quote", "Itemised, in about 2 working days"],

@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `An LMS developer builds or configures a learning management system: the software that holds your courses, delivers lessons, tests learners, records progress and reports results. In India the same word covers very different products, from a school’s homework portal to a coaching institute’s paid test series to a company’s compliance training.`,
         `The core pieces are nearly always the same. <strong>Content:</strong> courses, modules, video, PDFs and live class links. <strong>Assessment:</strong> quizzes, tests, assignments and grading. <strong>People:</strong> learners, teachers, parents and admins with different permissions. <strong>Progress:</strong> completion, scores and certificates. <strong>Commerce</strong>, when you sell: prices, batches, coupons, instalments and invoices.`,
-        `On our team, Ankur builds the LMS application and apps, Santosh handles video hosting on AWS, data and reporting, and Vedansh manages the project, testing with real teachers, and automation such as reminders and result messages.`,
+        `On our team, one of us builds the LMS application and apps, another of us handles video hosting on AWS, data and reporting, and the third of us manages the project, testing with real teachers, and automation such as reminders and result messages.`,
       ],
     },
     {

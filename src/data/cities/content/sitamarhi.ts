@@ -184,7 +184,7 @@ const sitamarhi: CityContent = {
       id: "remote-team-sitamarhi",
       heading: "An IT services team in Sitamarhi's market, working without a local office",
       paragraphs: [
-        "We have no office in Sitamarhi, Muzaffarpur or anywhere else in Bihar, and we will not pretend otherwise. BtechWaleTech is three engineers who work remotely. Ankur Kumar builds full-stack websites and web apps, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation.",
+        "We have no office in Sitamarhi, Muzaffarpur or anywhere else in Bihar, and we will not pretend otherwise. BtechWaleTech is three engineers who work remotely. One of us builds full-stack websites and web apps, another of us handles AI, machine learning, AWS and data, and the third of us runs project management, data science and automation.",
         "The process suits busy owners. You describe what you need on WhatsApp or a short call. Within about two working days you receive an itemised written quote. Work starts only after you approve it in writing, and you watch progress on a live preview link, sending comments from the shop or the mill whenever you have a minute.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time, and keep every decision and payment milestone in writing so nothing depends on memory.",
       ],

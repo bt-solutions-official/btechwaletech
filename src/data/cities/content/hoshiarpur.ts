@@ -165,7 +165,7 @@ const hoshiarpur: CityContent = {
       id: "remote-team-hoshiarpur",
       heading: "How our remote team works with Hoshiarpur clients",
       paragraphs: [
-        "We do not have an office in Hoshiarpur, and we will not put a borrowed address on a map. BtechWaleTech is three engineers working remotely. Ankur Kumar builds websites and applications end to end. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science pieces.",
+        "We do not have an office in Hoshiarpur, and we will not put a borrowed address on a map. BtechWaleTech is three engineers working remotely. One of us builds websites and applications end to end. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data science pieces.",
         "We begin with your customers and how they find you today. Within about two working days you receive a page plan, a timeline and an itemised quote. Once approved, you get an early preview link to open on your own phone and share with family, including anyone abroad who wants a say. Feedback comes back on WhatsApp, and small edits often go live the same day.",
         "We reply seven days a week on Indian time. That suits shop owners who can only review work on a Sunday, and families coordinating across time zones. You always know which of the three of us is handling your job.",
       ],

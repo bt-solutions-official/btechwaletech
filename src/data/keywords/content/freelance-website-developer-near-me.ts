@@ -183,7 +183,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Identity checks feel awkward, so most people skip them. They take ten minutes and are the cheapest insurance you will buy. You are not investigating anyone; you are making sure the person on the call is who the quote says.`,
         `Match the name on the quote with a LinkedIn profile or a portfolio site that has existed for a while. Check that the UPI handle or bank account you will pay shows the same name when you enter it; UPI apps display the registered name before you confirm. If the freelancer is registered for GST and you need an input credit, ask for their GSTIN and look it up on the public GST portal. For code-heavy work, a GitHub or GitLab profile with real commits is a useful signal, though many good developers keep client code private.`,
-        `With us, you can see all three of us on one call: Ankur Kumar on full-stack builds, Santosh Sharma on AI, AWS, data and technical SEO, and Vedansh Shrivastava on project management and automation. Payments go to an account in a named person’s name, never to a third party.`,
+        `With us, you can see all three of us on one call: one of us on full-stack builds, another of us on AI, AWS, data and technical SEO, and the third of us on project management and automation. Payments go to an account in a named person’s name, never to a third party.`,
       ],
       list: [
         "Name on quote matches profile and payee account",

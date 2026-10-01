@@ -167,7 +167,7 @@ const dhanbad: CityContent = {
       heading: "Dashboards that show where the money goes",
       paragraphs: [
         "Many Dhanbad firms have grown large while their reporting stayed small: a few Excel files, Tally, and the owner's memory. When a business runs dozens of trucks, several work sites or hundreds of credit customers, that stops working. Payments are chased late, loss-making routes continue for months, and month-end becomes a scramble.",
-        "Santosh and Vedansh on our team work with data every day. We take the records you already have, clean them, and build a dashboard that shows outstanding payments by customer, profit by vehicle or site, diesel consumption against distance, or sales by product and month. It opens on a phone before the morning meeting and updates automatically as staff enter data.",
+        "Another of us and the third of us on our team work with data every day. We take the records you already have, clean them, and build a dashboard that shows outstanding payments by customer, profit by vehicle or site, diesel consumption against distance, or sales by product and month. It opens on a phone before the morning meeting and updates automatically as staff enter data.",
         "Dashboard projects are scoped individually, and simpler ones fall within our automation pricing. The aim is always a small number of numbers you will actually use, not a wall of charts.",
       ],
     },
@@ -177,7 +177,7 @@ const dhanbad: CityContent = {
       paragraphs: [
         "We do not have an office in Dhanbad, and we will not list a borrowed address to look local. We are three engineers working remotely for businesses across India. You speak directly with the people doing the work, and the quote does not carry office rent or a sales team.",
         "The process is straightforward. After a call or WhatsApp chat about your business, you receive a page plan, timeline and itemised quote, usually within two working days. Once you approve it in writing, you get a live preview link within the first week or two and can review the real site on your own phone. Feedback comes on WhatsApp, and small changes are usually made the same day. We work on IST and reply seven days a week.",
-        "Ankur Kumar builds the full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation.",
+        "One of us builds the full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation.",
       ],
     },
     {

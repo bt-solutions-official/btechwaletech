@@ -158,7 +158,7 @@ const darbhanga: CityContent = {
       id: "remote-darbhanga",
       heading: "Working with a remote team from Darbhanga",
       paragraphs: [
-        "We do not have an office in Darbhanga, and we will not invent one. BtechWaleTech is three engineers working remotely. Ankur Kumar builds the websites and applications. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and analytics.",
+        "We do not have an office in Darbhanga, and we will not invent one. BtechWaleTech is three engineers working remotely. One of us builds the websites and applications. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and builds automation and analytics.",
         "For you, the process is simple. We talk on a call or WhatsApp about your business, then send a page plan, timeline and itemised quote within about two working days. After approval you receive a live preview link that you can open on your own phone and share with family or partners. Feedback comes on WhatsApp, and small changes are often live the same day.",
         "We reply seven days a week on Indian time. Many Darbhanga clients review work in the evening or on Sunday, and that works for us. You always know which of us is handling your project and can speak to any of us directly.",
       ],

@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The short answer: a phone is a hostile place for software, and a good freelance mobile app developer designs around that. Screens are small, users hold the device in one hand, the network drops in lifts and trains, the operating system kills background work to save battery, and two app stores check your build before anyone can install it.`,
         `A web developer can push a fix to a server and every visitor sees it within seconds. A mobile developer ships a binary that sits on thousands of phones, some of which will never update. That changes how you plan releases, how you store data on the device, and how carefully you test before submission. It also means decisions about permissions, notifications and privacy disclosures must be made early, because Apple and Google ask about them at submission time.`,
-        `On our team Ankur writes the Flutter or React Native code and the backend, Santosh handles cloud setup on AWS, data storage and analytics, and Vedansh owns the release plan, store paperwork and testing rounds. That split exists because mobile work has more moving parts than a typical site.`,
+        `On our team one of us writes the Flutter or React Native code and the backend, another of us handles cloud setup on AWS, data storage and analytics, and the third of us owns the release plan, store paperwork and testing rounds. That split exists because mobile work has more moving parts than a typical site.`,
       ],
       list: [
         "Touch targets and layouts designed for thumbs, not cursors",

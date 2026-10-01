@@ -69,7 +69,7 @@ const koratla: CityContent = {
       paragraphs: [
         "Koratla sits on NH63 between Jagtial and Armoor, with its own railway station on the Peddapalli–Nizamabad line. It is a revenue division headquarters and the second-largest town in Jagtial district, and villages from Metpalli, Mallapur, Ibrahimpatnam and Kathlapur mandals come here to sell crops, buy gold and clothes, see doctors and study.",
         "What people ask us for under <strong>IT services in Koratla</strong> is usually specific. A trader wants his mango or turmeric rates to reach buyers without fifty calls a day. A hospital wants patients from villages to know OPD timings before they board a bus. A college wants admission enquiries in one place. A shop wants to appear when someone searches in Telugu for what it sells.",
-        "We are a remote team of three engineers. Ankur Kumar builds full-stack systems, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava looks after project management, data science and automation. We have no office in Koratla and do not claim one. Work runs over WhatsApp, calls and screen shares, and each decision is written down.",
+        "We are a remote team of three engineers. One of us builds full-stack systems, another of us handles AI, machine learning, AWS and data, and the third of us looks after project management, data science and automation. We have no office in Koratla and do not claim one. Work runs over WhatsApp, calls and screen shares, and each decision is written down.",
       ],
     },
     {

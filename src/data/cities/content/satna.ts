@@ -171,7 +171,7 @@ const satna: CityContent = {
       heading: "A remote team, and what that means for a Satna client",
       paragraphs: [
         "We have no office in Satna and we will not invent one. We are three engineers who work remotely with clients across India. That saves rent and sales staff, which is why our starting prices are lower than most agencies, and it means the person you talk to is the person building your site.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science solutions. You can reach us through the <a href=\"/contact/\">contact page</a>, and we answer on WhatsApp all seven days during IST hours.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data science solutions. You can reach us through the <a href=\"/contact/\">contact page</a>, and we answer on WhatsApp all seven days during IST hours.",
         "We begin with a phone call. Within about two working days you receive a page plan, timeline and itemised quote. After approval, a preview link arrives within a week or two for you to check on your phone. More detail on how we build is on our <a href=\"/services/web-development/\">web development</a> page.",
       ],
     },

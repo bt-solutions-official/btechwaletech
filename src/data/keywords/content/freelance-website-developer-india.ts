@@ -122,7 +122,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You should get a complete, working business asset, not just a design file. From BtechWaleTech that means a live site on your own domain, a hosting account in your name, the source code in a repository you can open, and a short handover note written in plain English or Hindi.`,
         `On the site itself, expect a home page that states what you do and where, service or product pages, an about page with real photos where possible, a contact page with a map, and sensible legal pages such as privacy and refund terms if you take payments. Every page carries a WhatsApp button, and every form sends to your email and, if you like, to a Google Sheet.`,
-        `Behind the scenes, a good freelance website developer in India also sets up Google Search Console, analytics, an XML sitemap, SSL, and schema markup describing your business. These are invisible to visitors but decide whether Google understands you. Ankur builds the pages, Santosh looks after hosting, data and technical SEO, and Vedansh keeps the plan and deadlines on track, so each part has an owner.`,
+        `Behind the scenes, a good freelance website developer in India also sets up Google Search Console, analytics, an XML sitemap, SSL, and schema markup describing your business. These are invisible to visitors but decide whether Google understands you. One of us builds the pages, another of us looks after hosting, data and technical SEO, and the third of us keeps the plan and deadlines on track, so each part has an owner.`,
       ],
     },
     {

@@ -211,7 +211,7 @@ const content: FreelanceContent = {
       heading: "Hosting after you convert a desktop application to a web application",
       paragraphs: [
         `For most businesses, a small cloud server with a managed or well-configured database is the right home: it stays on when the office is closed, backs up automatically and is reachable from every branch.`,
-        `We set up hosting in your own cloud account, in a region close to your users, with daily automated database backups, a staging copy, SSL, and monitoring that alerts us if the app goes down. Santosh handles the server side, including access controls and documentation of every credential in your password manager.`,
+        `We set up hosting in your own cloud account, in a region close to your users, with daily automated database backups, a staging copy, SSL, and monitoring that alerts us if the app goes down. Another of us handles the server side, including access controls and documentation of every credential in your password manager.`,
         `Some businesses prefer an on-premises server, perhaps because of unreliable internet at a factory. That works too: the web app runs on a machine in your office and staff use it over the local network, with an encrypted off-site backup. A hybrid, with a local server syncing to the cloud, is possible but adds complexity, so we recommend it only when the connectivity problem is real and frequent.`,
       ],
     },

@@ -111,7 +111,7 @@ const content: FreelanceContent = {
         { heading: "WhatsApp Business Platform (Cloud API)", text: "Hosted by Meta, used through an API, supports templates, webhooks, multiple agents and integrations. Right when systems or teams are involved." },
       ],
       after: [
-        `We are three freelance developers in India: Ankur Kumar builds the integrations, Santosh Sharma handles AI and cloud hosting, and Vedansh Shrivastava plans flows and templates with you.`,
+        `We are three freelance developers in India: one of us builds the integrations, another of us handles AI and cloud hosting, and the third of us plans flows and templates with you.`,
       ],
     },
     {

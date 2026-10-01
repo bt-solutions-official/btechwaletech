@@ -69,7 +69,7 @@ const panna: CityContent = {
       paragraphs: [
         "Panna is a quieter town than its reputation suggests. It is the district headquarters, so courts, offices, schools and hospitals draw people from Ajaigarh, Pawai, Gunnaur, Amanganj and Devendranagar. It is also a stop for visitors heading to the tiger reserve or coming across from Khajuraho, and a pilgrimage centre for followers of the Pranami tradition who visit the Prannath temple.",
         "Most requests for <strong>IT services in Panna</strong> are small and specific. A hotel wants direct bookings rather than relying on Khajuraho agents. A coaching centre wants admission enquiries in one list. A doctor wants patients to find the right clinic and timings on Google Maps. A trader wants a simple billing and stock tool that works on a laptop and a phone. None of these needs a big budget; each needs someone who listens first.",
-        "We are three engineers working remotely. Ankur Kumar builds the full-stack web and app code, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We do not have an office in Panna and say so up front. Work runs on WhatsApp, phone calls and screen shares, and every agreement is written down.",
+        "We are three engineers working remotely. One of us builds the full-stack web and app code, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We do not have an office in Panna and say so up front. Work runs on WhatsApp, phone calls and screen shares, and every agreement is written down.",
       ],
     },
     {

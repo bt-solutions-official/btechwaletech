@@ -69,7 +69,7 @@ const suri: CityContent = {
       paragraphs: [
         "Suri, spelt Siuri on railway boards, is where Birbhum's courts, collectorate, district hospital and many government offices sit. People from Dubrajpur, Mohammad Bazar, Rajnagar, Khoyrasol and the rest of the district come here for legal work, treatment, admissions and shopping, and the town's economy has grown around that daily flow as much as around its rice mills and workshops.",
         "Most enquiries for <strong>IT services in Suri</strong> are small and clear. A morabba shop wants to take orders from Kolkata and Bengalis living abroad. An advocate wants a professional page that clients can find. A rice mill wants paddy purchases and dispatches recorded without three different notebooks. A private school wants admission forms and fee notices online. A furniture maker wants photographs of finished work where buyers can see them.",
-        "We are a remote team of three. Ankur Kumar does full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. We have no office in Suri and say so honestly. All work runs over WhatsApp, calls and screen share, and each plan and quote comes to you in writing.",
+        "We are a remote team of three. One of us does full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. We have no office in Suri and say so honestly. All work runs over WhatsApp, calls and screen share, and each plan and quote comes to you in writing.",
       ],
     },
     {

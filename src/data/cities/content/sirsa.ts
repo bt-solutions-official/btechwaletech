@@ -169,7 +169,7 @@ const sirsa: CityContent = {
       paragraphs: [
         "There is no BtechWaleTech office in Sirsa, and there is none in Hisar or Bathinda either. The three of us work remotely and take clients from across India. Skipping rent and salespeople is the main reason our rates can begin where they do, and it means the person on the phone is the person writing your code.",
         "A typical project runs like this. We talk for twenty minutes about what you sell and who buys it. You then get a written page list, a timeline and an itemised quote. Usually within a fortnight, a working preview link arrives on your WhatsApp so you can open it in the mandi, at home or in the factory office and send back corrections. Minor changes are often turned around the same day, including weekends.",
-        "Ankur Kumar writes the websites and applications end to end. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava runs projects and builds automations and data science work. <a href=\"/contact/\">Send a message</a> and one of us answers personally.",
+        "One of us writes the websites and applications end to end. Another of us works on AI, machine learning, AWS and data. The third of us runs projects and builds automations and data science work. <a href=\"/contact/\">Send a message</a> and one of us answers personally.",
       ],
     },
     {

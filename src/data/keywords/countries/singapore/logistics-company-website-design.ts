@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     h1: "Logistics company website design in Singapore built to turn regional buyers into quote requests",
     lede: `Logistics company website design in Singapore is B2B sales engineering: a procurement manager in Jakarta or Ho Chi Minh City should be able to find your lane, check your credentials and send a complete RFQ in under three minutes. We are three freelance developers in India who build forwarder, 3PL and courier sites with instant-quote or RFQ forms by transport mode, shipment tracking and <strong>customer portal</strong> links, service and trade-lane pages, and credential sections for schemes such as Singapore Customs' Secure Trade Partnership where you hold them. Sites start from ${P.site}. See all our <a href='/singapore/'>Singapore services</a>.`,
     pills: [`Logistics sites from ${P.site}`, "RFQ forms by air, sea, road, warehousing", "Instant quotes for courier lanes", "Tracking and portal integration", "Trade-lane and industry pages", "Credentials shown with proof", "B2B SEO for regional buyers"],
-    origin: "Three freelance developers in India · Ankur Kumar on build and integrations, Santosh Sharma on cloud, data and SEO, Vedansh Shrivastava on project management · WhatsApp 7 days a week",
+    origin: "Three freelance developers in India · one of us on build and integrations, another of us on cloud, data and SEO, the third of us on project management · WhatsApp 7 days a week",
   },
   facts: [
     ["Logistics sites from", `${P.site}, 1–2 weeks`],

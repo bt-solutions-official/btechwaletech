@@ -70,7 +70,7 @@ const una: CityContent = {
       paragraphs: [
         "Una is the headquarters of a taluka with more villages than any other in Gujarat, and that fact explains the town. Farmers, fishing families, quarry workers and village shopkeepers come here to buy seeds and fertiliser, sell produce, see doctors, register documents and shop for weddings. Many of them now start that journey on a phone.",
         "Enquiries we receive for <strong>IT services in Una</strong> reflect this. A wholesaler wants retailers in villages to order without calling. A mango grower wants buyers in Ahmedabad and Mumbai to find him in May. A fish trader at Navabandar wants cleaner daily records. A hotel wants tourists heading to Diu to book directly. A clinic wants its map pin and hours right.",
-        "We work as a remote team of three. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava looks after project management, data science and automation. We have no office in Una and do not pretend to. Work happens on WhatsApp, calls and shared screens, with a written plan at every stage.",
+        "We work as a remote team of three. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us looks after project management, data science and automation. We have no office in Una and do not pretend to. Work happens on WhatsApp, calls and shared screens, with a written plan at every stage.",
       ],
     },
     {

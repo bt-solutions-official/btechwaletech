@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `HRMS software development is building a human resource management system around your own policies, instead of adapting your policies to a product. The finished system holds employee records, calculates leave and attendance, routes approvals and gives employees a self-service app, and it belongs to you.`,
         `An HRMS (human resource management system) covers the whole employee lifecycle, from offer letter to exit. Payroll is sometimes part of it and sometimes a separate system it feeds. The build usually has three faces: a web app for HR and managers, a mobile app for employees, and background jobs that pull biometric punches, apply leave accruals and send reminders.`,
-        `At BtechWaleTech, Ankur builds the application, Santosh handles cloud hosting on AWS, data modelling and reporting, and Vedansh runs the project plan and the workflow automation. Being three freelance developers, we suit employers from a few dozen to a few thousand employees who want a focused system, not a multi-year enterprise programme with a large vendor team.`,
+        `At BtechWaleTech, one of us builds the application, another of us handles cloud hosting on AWS, data modelling and reporting, and the third of us runs the project plan and the workflow automation. Being three freelance developers, we suit employers from a few dozen to a few thousand employees who want a focused system, not a multi-year enterprise programme with a large vendor team.`,
       ],
     },
     {
@@ -345,7 +345,7 @@ const content: FreelanceContent = {
       ["Discovery call with HR", "You walk us through today's process, the tool or sheets you use and where they break. We ask for your leave policy, shift patterns and device models, then quote in about two working days."],
       ["Policy and workflow mapping", "We write every leave rule, shift pattern, approval chain and lifecycle stage into a plain document your HR head signs off before any design begins."],
       ["Clickable HR and employee screens", "HR, managers and a few employees try a clickable prototype. Changes are cheap here, so we invite honest criticism from the people who will use it daily."],
-      ["Build with weekly releases", "Ankur builds the web app, Santosh sets up hosting and device integrations in your cloud account, and Vedansh shares a working version every week."],
+      ["Build with weekly releases", "One of us builds the web app, another of us sets up hosting and device integrations in your cloud account, and the third of us shares a working version every week."],
       ["Parallel month", "The HRMS calculates attendance and leave alongside your current method for a full month. Every difference is explained or fixed before switching over."],
       ["Go-live and handover", "Employees get access, HR gets guides and recordings, you receive the code and credentials, and two months of free maintenance begins."],
     ],

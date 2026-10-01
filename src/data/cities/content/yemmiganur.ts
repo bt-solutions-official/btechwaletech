@@ -159,7 +159,7 @@ const yemmiganur: CityContent = {
       heading: "Seeing your sales, dues and stock in one place",
       paragraphs: [
         "Most traders and weaving units in Yemmiganur already hold useful data, but it is spread across billing software, bank statements, WhatsApp chats and paper registers. Answering a simple question, such as which towel design sold best last Sankranti or which reseller has not paid in ninety days, can take an evening of searching.",
-        "We pull these sources together into a dashboard you can open on your phone. It can show monthly sales by product and by buyer, outstanding amounts sorted by age, yarn or stock levels against reorder points, and seasonal patterns across the year. Santosh Sharma, who handles our data work, keeps the setup plain: a few clear charts and tables rather than dozens of numbers nobody reads.",
+        "We pull these sources together into a dashboard you can open on your phone. It can show monthly sales by product and by buyer, outstanding amounts sorted by age, yarn or stock levels against reorder points, and seasonal patterns across the year. Another of us, who handles our data work, keeps the setup plain: a few clear charts and tables rather than dozens of numbers nobody reads.",
         "Dashboards often come as part of a software or automation project, but they can also be built on their own from existing spreadsheets. The first step is always the same: we look at the records you already keep and suggest what is worth tracking. If the answer is that a well-kept spreadsheet is enough for now, we will say that.",
         "For cooperatives and larger units, the same data can feed a short monthly summary for partners or members, sent automatically on WhatsApp, so decisions about production and credit rest on figures everyone can see.",
       ],
@@ -179,7 +179,7 @@ const yemmiganur: CityContent = {
       paragraphs: [
         "We have no office in Yemmiganur or anywhere in Kurnool district. We are three engineers who work remotely with clients across India, and we would rather say so than list an address we never use. No rent and no sales staff keep our starting prices low.",
         "Work happens over calls, WhatsApp and screen sharing. We start by understanding your products and buyers, then send a page plan and itemised quote. Within days you receive a preview link to open on your own phone, share with your family or partners and comment on by voice note if that is easier. We reply seven days a week on Indian time.",
-        "Ankur Kumar does full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. <a href=\"/contact/\">Contact us</a> and you will speak to one of the three.",
+        "One of us does full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. <a href=\"/contact/\">Contact us</a> and you will speak to one of the three.",
       ],
     },
     {

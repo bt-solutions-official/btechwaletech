@@ -168,7 +168,7 @@ const ongole: CityContent = {
       paragraphs: [
         "We do not have an office in Ongole, and we will not invent one. We are three engineers working remotely for clients across India, which keeps rent and sales commissions out of our starting prices and means you speak directly with the people building your website.",
         "The process starts with a WhatsApp chat or call about your business and customers. We send a written page plan, timeline and quote. Within a week or two you get a preview link you can open on your phone and share with your partners. Feedback can come as messages, screenshots or voice notes, in Telugu or English, and small changes often go live the same day. We work on Indian time and reply seven days a week.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation.",
       ],
     },
     {

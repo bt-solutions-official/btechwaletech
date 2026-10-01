@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Proof shown", value: "LBP details, guarantee memberships, prequalification status, insurances you supply" },
       { label: "Optional builds", value: "Plan and house-and-land library, client update portal, subcontractor document portal" },
       { label: "Starting prices", value: `From ${P.site}; plan-heavy sites from ${P.seoSite}; portals from ${P.software}` },
-      { label: "Your contact", value: "Ankur (build), Santosh (SEO and hosting), Vedansh (project management)" },
+      { label: "Your contact", value: "One of us (build), another of us (SEO and hosting), the third of us (project management)" },
       { label: "Billing", value: "USD quote · Wise, bank wire or PayPal · invoices issued from India" },
     ],
   },

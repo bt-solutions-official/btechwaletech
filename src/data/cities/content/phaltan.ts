@@ -69,7 +69,7 @@ const phaltan: CityContent = {
       paragraphs: [
         "Phaltan sits on the plain of the Nira valley in the north-east of Satara district, far enough from Pune that it keeps its own markets and near enough that engine plants and warehouses have come to its MIDC. The town grew as the capital of the Naik Nimbalkar state, and the old core around the Shri Ram temple still has the feel of a darbar town. Around it lie cane fields, dairy villages and fruit orchards that feed the weekly trade.",
         "The requests we get for <strong>IT services in Phaltan</strong> reflect that mix. An engineering vendor wants a site that satisfies a purchase team; a milk collection agent wants to stop writing fat readings in a notebook; a pomegranate trader wants buyers in Pune and Mumbai to find him; a clinic near the bus stand wants patients to see OPD days before they travel from Lonand or Wathar.",
-        "We handle these as a remote team of three. Ankur Kumar does full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Phaltan and do not pretend to. You deal with named people on WhatsApp and calls, see written plans, and get preview links you can open on your own phone.",
+        "We handle these as a remote team of three. One of us does full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Phaltan and do not pretend to. You deal with named people on WhatsApp and calls, see written plans, and get preview links you can open on your own phone.",
         "That model keeps prices modest and removes the trip to Satara or Baramati for a meeting. It also means every decision is written down, which Phaltan clients usually prefer to a verbal promise across a counter.",
       ],
     },
@@ -180,7 +180,7 @@ const phaltan: CityContent = {
         "We are an IT team of three engineers working remotely, not an IT services team in Phaltan with a shopfront, and we say that on the first call. Work starts with a conversation about your trade, your customers and what you want to change. You then receive a written outline of pages or screens, dates, and a costed list of every item.",
         "Nothing begins until you approve that list, and nothing is billed before then. During the build you get preview links that open on any phone, so partners and family members can comment without anyone travelling. Marathi text is always sent to you to read before it goes live, because a wrong word on a rate card or school notice is the kind of mistake people remember.",
         "WhatsApp is the main channel and is answered seven days a week on Indian time. If something slips, you hear about it the day we know, with a new date. Payments follow milestones you can see working, which keeps risk low for a firm going online for the first time.",
-        "Ankur builds the sites and apps, Santosh handles data, AI and cloud hosting, and Vedansh keeps the schedule and the automation on track. You always know who is doing what.",
+        "One of us builds the sites and apps, another of us handles data, AI and cloud hosting, and the third of us keeps the schedule and the automation on track. You always know who is doing what.",
       ],
     },
     {

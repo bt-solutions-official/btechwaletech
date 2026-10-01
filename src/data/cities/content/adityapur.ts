@@ -179,7 +179,7 @@ const adityapur: CityContent = {
       heading: "No office in Adityapur: how our remote team works with you",
       paragraphs: [
         "We have no office in Adityapur or Jamshedpur, and we will not list one. We are three engineers working remotely for clients across India, which keeps overheads low and means you talk directly to the people designing and coding your project.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data-science systems. Contact us through the <a href=\"/contact/\">contact page</a>; we reply on WhatsApp seven days a week in Indian hours.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data-science systems. Contact us through the <a href=\"/contact/\">contact page</a>; we reply on WhatsApp seven days a week in Indian hours.",
         "After the first call, you receive a scope, timeline and itemised quote in about two working days. For software projects, we ask for photographs or a short video of the process and sample documents such as job cards and challans, and we walk through them on a video call. The <a href=\"/services/web-development/\">web development</a> page describes how we build.",
       ],
     },

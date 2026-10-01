@@ -362,7 +362,7 @@ const content: FreelanceContent = {
         { heading: "Days 11–14", text: "The first installable build reaches your phone through TestFlight and Play internal testing. From here, new builds arrive most NZ mornings and feedback goes into one shared list." },
       ],
       after: [
-        `Ankur Kumar leads the Flutter or React Native build, Santosh Sharma handles cloud hosting, AI features and data, and Vedansh Shrivastava manages the plan and your updates. We work in English (and Hindi, if that suits anyone on your team). There are no site visits, so anything physical, such as hardware testing, stays on your side.`,
+        `One of us leads the Flutter or React Native build, another of us handles cloud hosting, AI features and data, and the third of us manages the plan and your updates. We work in English (and Hindi, if that suits anyone on your team). There are no site visits, so anything physical, such as hardware testing, stays on your side.`,
       ],
     },
   ],

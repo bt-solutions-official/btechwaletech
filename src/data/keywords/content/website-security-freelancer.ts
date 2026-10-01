@@ -196,7 +196,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Custom applications carry different risks from WordPress sites. There are no public plugins to exploit, but mistakes in your own code can be just as serious. The OWASP Top 10 list is a good map of the usual suspects.`,
         `The fixes we most often make: validating every input on the server, not only in the browser; using parameterised database queries so text can never become a command; checking on every request that the logged-in user is allowed to see that record; storing passwords with a slow hashing algorithm; setting secure, HTTP-only cookies; limiting request rates on login and OTP endpoints; and keeping API keys out of front-end code and public repositories.`,
-        `These changes happen in code, so they need a developer rather than a plugin. Ankur on our team handles full-stack work in PHP, Laravel and Node.js, and Santosh reviews AWS configurations such as storage bucket permissions and security groups. For deeper backend work, see our <a href='/freelance-backend-developer/'>freelance backend developer</a> page.`,
+        `These changes happen in code, so they need a developer rather than a plugin. One of us on our team handles full-stack work in PHP, Laravel and Node.js, and another of us reviews AWS configurations such as storage bucket permissions and security groups. For deeper backend work, see our <a href='/freelance-backend-developer/'>freelance backend developer</a> page.`,
       ],
     },
     {

@@ -69,7 +69,7 @@ const mudhol: CityContent = {
       paragraphs: [
         "Mudhol is a taluk town of roughly fifty thousand people, but its market serves far more. Cane growers from the irrigated villages, lorry owners who work the crushing season, students heading to its colleges and families visiting its hospitals all pass through. Before they travel, more of them now check a phone to see what is open, what it costs and whom to call.",
         "That is where most requests for <strong>IT services in Mudhol</strong> begin. A spares dealer wants a Kannada page that shows his stock categories. A clinic wants patients to stop phoning just to ask whether the doctor is in. A transporter wants his trip slips in one place instead of three notebooks. A weaver's son wants to sell his mother's sarees to relatives in Pune.",
-        "None of this needs a big agency or a long contract. As an <strong>IT services team in Mudhol</strong> in the practical sense, with no office in town but a steady WhatsApp line, we take on small, clear jobs first and grow them only if they pay back. Ankur Kumar handles full-stack development, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation.",
+        "None of this needs a big agency or a long contract. As an <strong>IT services team in Mudhol</strong> in the practical sense, with no office in town but a steady WhatsApp line, we take on small, clear jobs first and grow them only if they pay back. One of us handles full-stack development, another of us leads AI, machine learning, AWS and data work, and the third of us runs project management, data science and automation.",
       ],
     },
     {
@@ -169,7 +169,7 @@ const mudhol: CityContent = {
       paragraphs: [
         "We do not keep an office in Mudhol, Bagalkot or anywhere else, so it helps to know exactly what the first month looks like. Week one is a call or two about your business and a written note of what we understood, followed by an itemised quote. Work starts only once you approve it, and you are not billed a rupee before that approval.",
         "In the weeks after, you receive preview links that open on any phone, so your brother or your accountant can look too. Kannada text is sent for your reading before it goes live. Payments are tied to stages you can see working, never to promises. If a date slips, we tell you the day we know, with the new date and the reason.",
-        "Our WhatsApp line is answered seven days a week on Indian time, which matters during the crushing season, when transporters and dealers work through Sundays. Because the three of us each own a part of the job, you always know who to ask: Ankur about the site or app, Santosh about AI and data, and Vedansh about schedule and scope. Start by messaging us through the <a href=\"/contact/\">contact page</a>.",
+        "Our WhatsApp line is answered seven days a week on Indian time, which matters during the crushing season, when transporters and dealers work through Sundays. Because the three of us each own a part of the job, you always know who to ask: one of us about the site or app, another of us about AI and data, and the third of us about schedule and scope. Start by messaging us through the <a href=\"/contact/\">contact page</a>.",
       ],
     },
     {

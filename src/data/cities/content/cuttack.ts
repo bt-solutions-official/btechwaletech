@@ -159,7 +159,7 @@ const cuttack: CityContent = {
       paragraphs: [
         "We should say it clearly: we have no office in Cuttack or Bhubaneswar, and we do not use a rented address to look local. We are three engineers working remotely for businesses across India. That keeps our prices lower, and it means the person you message is the person building your site.",
         "Work starts with a phone call or a WhatsApp chat about what you sell, who buys it and which part of Cuttack you serve. We then send a page plan, timeline and itemised quote, usually within two working days. Early in the build you receive a private preview link to open on your own phone; you comment on WhatsApp, and small fixes often go live the same day. We reply every day of the week on Indian time, including Sundays, which suits shop owners who can only look at their site after closing.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma handles AI, machine learning, AWS hosting and data work. Vedansh Shrivastava runs the projects and looks after data science and automation. You can reach any of us directly.",
+        "One of us builds the websites and applications. Another of us handles AI, machine learning, AWS hosting and data work. The third of us runs the projects and looks after data science and automation. You can reach any of us directly.",
       ],
     },
     {

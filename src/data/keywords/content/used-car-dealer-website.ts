@@ -30,7 +30,7 @@ const content: FreelanceContent = {
     h1: "Used car dealer website that puts every car in your yard online and books test drives",
     lede: `A used car dealer website should work like your best salesperson on a Sunday morning: it shows what is on the lot today, answers the condition question honestly and gets the buyer to book a test drive. BtechWaleTech is three freelance developers in India who build dealer sites with searchable stock, one page per car with an inspection report, finance and exchange enquiry forms, a stock feed from your sheet or dealer software, and a WhatsApp link for every car. Dealer sites start at ${P.site}; see how we price it on our <a href='/pricing/'>pricing page</a>.`,
     pills: ["Stock search with filters", "One page per car", "Inspection report pages", "Finance and exchange forms", "Sheet or DMS stock feed", "WhatsApp car-share links", "Sold-car handling for SEO"],
-    origin: "Ankur, Santosh and Vedansh · a freelance team in India · WhatsApp replies every day",
+    origin: "The BtechWaleTech team · a freelance team in India · WhatsApp replies every day",
   },
   facts: [
     ["Dealer website from", `${P.site} · ${P.siteUsd}`],

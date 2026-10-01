@@ -291,7 +291,7 @@ const content: FreelanceContent = {
       id: "team",
       heading: "Who builds your theme and what we will not do",
       paragraphs: [
-        `Ankur Kumar builds the theme templates, patterns and ACF layouts; Santosh Sharma handles hosting, speed testing and technical SEO checks; Vedansh Shrivastava plans the page inventory, manages review rounds and prepares training material. All three can support the theme after launch.`,
+        `One of us builds the theme templates, patterns and ACF layouts; another of us handles hosting, speed testing and technical SEO checks; the third of us plans the page inventory, manages review rounds and prepares training material. All three can support the theme after launch.`,
         `We do not use nulled themes or plugins, we do not lock your site to a page builder licensed in our name, and we do not visit offices for training; sessions happen over video and are recorded. Photography and printed brand assets are outside our work, though we can suggest what the theme needs from your photographer. For a wider range of WordPress work, see <a href='/hire-wordpress-developer/'>hiring a WordPress developer</a>.`,
       ],
     },

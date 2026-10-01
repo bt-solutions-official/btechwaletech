@@ -68,7 +68,7 @@ const nathdwara: CityContent = {
       heading: "IT services in Nathdwara: who searches for this town, and what they want to know",
       paragraphs: [
         "Most people searching for Nathdwara on any given morning are not in Nathdwara. They are Vaishnav families in Ahmedabad, Surat, Mumbai or Indore planning a darshan trip, checking which of the day's darshans they can reach, where to stay within walking distance of the haveli and how to carry prasad home. Pushtimarg devotees treat this town of roughly 42,000 residents as a second home, and they plan the visit on their phones.",
-        "That is why <strong>IT services in Nathdwara</strong> look different from a typical small-town job. A guest house needs its walking time to the temple and its check-in rules stated plainly. A Pichwai studio needs photographs good enough for a collector in London. A marble unit at Gunjol needs a catalogue that a contractor in Delhi will trust without visiting. All three kinds of work fall to one remote team: Ankur Kumar writes the websites and web apps, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project planning, data science and automation.",
+        "That is why <strong>IT services in Nathdwara</strong> look different from a typical small-town job. A guest house needs its walking time to the temple and its check-in rules stated plainly. A Pichwai studio needs photographs good enough for a collector in London. A marble unit at Gunjol needs a catalogue that a contractor in Delhi will trust without visiting. All three kinds of work fall to one remote team: one of us writes the websites and web apps, another of us handles AI, machine learning, AWS and data, and the third of us runs project planning, data science and automation.",
         "We have no office in Nathdwara or Rajsamand, and we would rather say that in the first paragraph than let you find out later. Discussions happen on WhatsApp, calls and shared screens, and every decision reaches you in writing. What we save on rent and travel shows up in the starting prices, and you never have to drive to Udaipur for a meeting.",
       ],
     },
@@ -189,9 +189,9 @@ const nathdwara: CityContent = {
       list: [
         "Day one: a WhatsApp or phone call about your trade, your guests or buyers, and what the site or app should change for you.",
         "Days two and three: a written scope listing pages or screens, dates and an itemised quote. Nothing is billed until you approve it.",
-        "Week one: Ankur Kumar builds the first version and you receive a preview link to open on your own phone and show family or partners.",
+        "Week one: one of us builds the first version and you receive a preview link to open on your own phone and show family or partners.",
         "Week two: corrections, your review of every Hindi or Gujarati line, the Google listing linked, and launch on hosting registered to you.",
-        "After launch: Vedansh Shrivastava tracks open items, and Santosh Sharma sets up analytics, automation or data work if it is in scope.",
+        "After launch: the third of us tracks open items, and another of us sets up analytics, automation or data work if it is in scope.",
       ],
     },
     {

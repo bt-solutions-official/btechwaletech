@@ -259,7 +259,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Every add-on you install is a future update risk, so the right stack is the smallest one that does the job. A LearnDash developer should justify each plugin by the problem it solves.`,
         `Theme: pick one that styles LearnDash templates properly and loads little on lesson pages. LearnDash's own Focus Mode gives a distraction-free lesson layout that works with most themes, and it is often enough. Heavy page-builder themes look impressive in demos and are the usual cause of slow lesson pages on mobile.`,
-        `Hosting: managed WordPress hosting with object caching and enough PHP workers, or a cloud VPS we configure for you. For a few hundred active students, a mid-range managed plan is fine. For thousands, we set up a cloud server with Redis, scheduled backups and monitoring. Santosh handles the AWS side when that is the right home.`,
+        `Hosting: managed WordPress hosting with object caching and enough PHP workers, or a cloud VPS we configure for you. For a few hundred active students, a mid-range managed plan is fine. For thousands, we set up a cloud server with Redis, scheduled backups and monitoring. Another of us handles the AWS side when that is the right home.`,
         `Add-ons: WooCommerce if you need a cart and Indian gateways; a form plugin for enquiries; an SEO plugin; a backup plugin if hosting does not include one. Avoid stacking two membership plugins, two page builders or two caching plugins. If you need something unusual, a small <a href='/custom-wordpress-plugin-development/'>custom WordPress plugin</a> is often lighter than a large add-on used at five percent.`,
       ],
     },

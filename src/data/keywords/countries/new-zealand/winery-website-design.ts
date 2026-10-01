@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Platforms", value: "Shopify with a subscription app, a specialist wine sales platform, or WooCommerce" },
       { label: "Compliance support", value: "Age gate, date-of-birth check at checkout, licence details, delivery restrictions" },
       { label: "Starting prices", value: `Brand site from ${P.site}; shop and club from ${P.shop}` },
-      { label: "Team", value: "Ankur (build), Santosh (SEO, data, hosting), Vedansh (project lead)" },
+      { label: "Team", value: "One of us (build), another of us (SEO, data, hosting), the third of us (project lead)" },
       { label: "Payment", value: "USD quote · Wise, bank wire or PayPal" },
     ],
   },

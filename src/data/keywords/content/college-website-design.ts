@@ -256,7 +256,7 @@ const content: FreelanceContent = {
       heading: "College website design checklist: ownership, handover and red flags",
       paragraphs: [
         `The domain, hosting, Google Search Console, analytics and all code belong to the college, registered in the institution’s name from day one, with editor accounts for staff and a written guide. Two months of free maintenance follow launch; after that, maintenance is optional from ${P.care}. Payments are by UPI or bank transfer against milestones in the approved quote, as set out in our <a href='/terms/'>terms</a>.`,
-        `We are three freelance developers: Ankur builds the site and portal, Santosh handles hosting, data and technical SEO, and Vedansh runs the project plan and editor training. We do not visit campus, take photographs, write regulatory submissions or give compliance advice; your principal and IQAC coordinator approve every disclosure.`,
+        `We are three freelance developers: one of us builds the site and portal, another of us handles hosting, data and technical SEO, and the third of us runs the project plan and editor training. We do not visit campus, take photographs, write regulatory submissions or give compliance advice; your principal and IQAC coordinator approve every disclosure.`,
       ],
       list: [
         "Disclosure pages open without login and the site search finds them.",

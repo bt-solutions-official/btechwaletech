@@ -69,7 +69,7 @@ const neyyattinkara: CityContent = {
       paragraphs: [
         "Neyyattinkara is often described as the southern gateway of the Thiruvananthapuram area. The highway to Kanyakumari runs through it, the railway line to Nagercoil stops here, and the town serves a taluk of well over eight lakh people spread across villages, coastal settlements and handloom belts. It is a place where people shop, study, get treated and do government work, even if many commute to the capital for jobs.",
         "Requests for <strong>IT services in Neyyattinkara</strong> tend to be modest and specific. A handloom seller wants to reach buyers outside Kerala. A dental or eye clinic wants correct timings on Google. A resort near Poovar wants direct bookings. A supermarket wants repeat orders on WhatsApp. A dealer near Aralummoodu wants to stop writing everything in three registers.",
-        "The three of us split the work cleanly. Ankur Kumar builds the full-stack side, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs projects, data science and automation. That covers websites, local SEO, Android and iOS apps, custom software, dashboards and WhatsApp bots, so a business can add pieces over time with the same people.",
+        "The three of us split the work cleanly. One of us builds the full-stack side, another of us handles AI, machine learning, AWS and data, and the third of us runs projects, data science and automation. That covers websites, local SEO, Android and iOS apps, custom software, dashboards and WhatsApp bots, so a business can add pieces over time with the same people.",
         "We do not keep an office in Neyyattinkara, and we will not pretend to. The work is done over WhatsApp, video calls and shared screens, and each decision is noted in writing so partners and family members can follow along.",
       ],
     },
@@ -150,7 +150,7 @@ const neyyattinkara: CityContent = {
         "In Neyyattinkara, much of the customer service already happens on WhatsApp. Shoppers ask whether a colour of sari is in stock, patients ask about the doctor's timings, resort guests ask about boat rides and parents ask about fee dates. Many of these questions come in the evening, after staff have gone home, and wait until morning.",
         "<strong>AI and WhatsApp automation in Neyyattinkara</strong> can cover that gap. A WhatsApp assistant can reply in Malayalam, English or Tamil with timings, location, prices, availability or booking steps, collect an order or reservation in a set format and hand anything unusual to a person with the whole chat attached. It is kept away from refunds, medical advice and custom orders; those always go to a human.",
         "Behind the counter, automation can send payment reminders, tell customers their order or vehicle is ready, confirm resort bookings with directions, or give the owner a morning summary of the previous day's enquiries by type.",
-        "AI automation work is ₹40,000 onwards and usually takes two to four weeks, depending on how many kinds of conversation and systems are involved. Santosh leads this. We test with the questions your customers really send, and there is a simple switch to pause the assistant.",
+        "AI automation work is ₹40,000 onwards and usually takes two to four weeks, depending on how many kinds of conversation and systems are involved. Another of us leads this. We test with the questions your customers really send, and there is a simple switch to pause the assistant.",
       ],
     },
     {

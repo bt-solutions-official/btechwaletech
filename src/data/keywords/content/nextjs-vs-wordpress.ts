@@ -158,7 +158,7 @@ const content: FreelanceContent = {
         { heading: "WordPress", text: "Shared hosting is cheap but often slow; managed WordPress hosting costs more and handles updates and caching. Add backups, a CDN and perhaps a security service." },
         { heading: "Headless setups", text: "You pay for two things: the CMS (hosted plan or self-hosted) and the front-end host. Worth it for speed and editor experience, but budget for both." },
       ],
-      after: [`Santosh sets up hosting in your own AWS or other cloud account so every bill comes to you straight from the provider.`],
+      after: [`Another of us sets up hosting in your own AWS or other cloud account so every bill comes to you straight from the provider.`],
     },
     {
       id: "dependency",

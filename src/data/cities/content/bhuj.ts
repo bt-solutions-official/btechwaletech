@@ -159,7 +159,7 @@ const bhuj: CityContent = {
       paragraphs: [
         "We do not have an office in Bhuj or anywhere in Kutch, and we will not pretend otherwise. We are three engineers working remotely for clients across India. Skipping office rent and sales staff keeps our starting prices lower, and you speak directly to the people writing your code.",
         "Work happens over phone calls, WhatsApp and screen sharing. We start with a conversation about your customers and season, then send a page plan, a timeline and an itemised quote. Within one to two weeks for a small site, you get a live preview link to open on your own phone and show to family or partners. Minor changes are usually done the same day, and we reply seven days a week on Indian time.",
-        "For craft workshops, we ask you to send photos or short videos from your phone; we then guide you on light and angles if needed. Ankur Kumar leads full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. You can <a href=\"/contact/\">reach any of us</a> directly.",
+        "For craft workshops, we ask you to send photos or short videos from your phone; we then guide you on light and angles if needed. One of us leads full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. You can <a href=\"/contact/\">reach any of us</a> directly.",
       ],
     },
     {

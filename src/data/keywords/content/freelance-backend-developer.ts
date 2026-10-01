@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A freelance backend developer writes the code that runs on a server rather than in a browser or on a phone. When a customer taps “Place order”, the app sends a request; the backend checks who they are, whether the item is in stock, records the order, charges the payment, tells the shop and replies with a confirmation. All of that is backend work.`,
         `The main building blocks are an <strong>API</strong> (the list of requests your front ends can make), a <strong>database</strong> (where records live), <strong>authentication</strong> (proving who a user is), <strong>authorisation</strong> (deciding what that user may do), <strong>background jobs</strong> (emails, reports, retries) and <strong>integrations</strong> with outside services. Hosting and monitoring tie them together.`,
-        `On our team, Ankur leads backend architecture and code, Santosh owns AWS infrastructure, databases and data pipelines, and Vedansh manages scope, testing and automation. Every pull request is read by a second person before it is merged, which is the cheapest security control there is.`,
+        `On our team, one of us leads backend architecture and code, another of us owns AWS infrastructure, databases and data pipelines, and the third of us manages scope, testing and automation. Every pull request is read by a second person before it is merged, which is the cheapest security control there is.`,
       ],
     },
     {

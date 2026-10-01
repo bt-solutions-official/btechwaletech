@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     h1: "AI voice agent development for phone lines that answer, qualify and book",
     lede: `<strong>AI voice agent development</strong> is for US businesses that miss calls after hours, during lunch rushes or while the whole crew is on a job. We build phone agents on Twilio, Vapi or Retell that greet callers with a recording notice, ask your qualifying questions, check a real calendar, book the slot and write a summary to your CRM. Pilots start from ${P.ai}; agents with their own admin dashboard start from ${P.software}. For text-based assistants, see <a href='/usa/custom-ai-chatbot-development/'>custom AI chatbot development</a>.`,
     pills: ["Inbound call answering", "Lead qualification scripts", "Calendar booking", "CRM call summaries", "Recording consent greeting", "Warm transfer to staff", "Per-minute cost estimate"],
-    origin: "Three freelance developers in India · AI and cloud work led by Santosh Sharma · WhatsApp replies 7 days a week",
+    origin: "Three freelance developers in India · AI and cloud work led by another of us · WhatsApp replies 7 days a week",
   },
   facts: [
     ["Voice agent pilot from", `${P.ai} · 2–4 weeks`],

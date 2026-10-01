@@ -186,7 +186,7 @@ const sehore: CityContent = {
       paragraphs: [
         "We do not have an office in Sehore or Bhopal, and we would rather say that clearly than list a borrowed address. BtechWaleTech is three engineers working remotely for clients across India. No rent and no sales staff is part of why our starting prices are lower than many city agencies, and it means you always talk to the people doing the work.",
         "The process needs no travel. It starts with a call or WhatsApp chat about your business. Within roughly two working days you receive a written plan of pages or screens, a timeline and an itemised quote. Once you approve it, we build, and you test the site or app on your own phone through a private link before anything goes live. We reply on WhatsApp seven days a week, Indian time, and small changes are usually done the same day.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles data science and automation. You can <a href=\"/contact/\">reach any of us directly</a>, and the person who answers your question is the person who will fix it.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and handles data science and automation. You can <a href=\"/contact/\">reach any of us directly</a>, and the person who answers your question is the person who will fix it.",
       ],
     },
     {

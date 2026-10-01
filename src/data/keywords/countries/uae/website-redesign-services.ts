@@ -230,7 +230,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Pick the platform your team will actually edit. For marketing sites we often use a fast framework such as Astro with a headless CMS; for teams already comfortable with WordPress, a lean WordPress theme without heavy page builders works well; stores may stay on WooCommerce or Shopify if they suit the catalogue.`,
         `What matters for the redesign is that the platform supports clean URLs, server-side redirects, per-page titles and descriptions, hreflang, and structured data. Some hosted builders make one or more of these awkward. We check before recommending, and we tell you if your current platform can do the job so you avoid an unnecessary migration.`,
-        `Hosting goes in your own account, with backups and a content delivery network so pages load quickly for visitors across the Gulf and further afield. Santosh handles cloud set-up and monitoring. If your business later needs a portal or app, a clean content structure now makes that easier; see <a href='/uae/web-application-development/'>web application development in Dubai</a>.`,
+        `Hosting goes in your own account, with backups and a content delivery network so pages load quickly for visitors across the Gulf and further afield. Another of us handles cloud set-up and monitoring. If your business later needs a portal or app, a clean content structure now makes that easier; see <a href='/uae/web-application-development/'>web application development in Dubai</a>.`,
       ],
     },
     {

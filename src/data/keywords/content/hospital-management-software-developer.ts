@@ -221,7 +221,7 @@ const content: FreelanceContent = {
       id: "hosting",
       heading: "Cloud or local server for hospital software?",
       paragraphs: [
-        `As a hospital management software developer, for most clinics we recommend a cloud server in an Indian region, in your own account. It removes the risk of a local machine failing, makes backups automatic and lets the owner check reports from home. Santosh on our team handles AWS setup and security configuration.`,
+        `As a hospital management software developer, for most clinics we recommend a cloud server in an Indian region, in your own account. It removes the risk of a local machine failing, makes backups automatic and lets the owner check reports from home. Another of us on our team handles AWS setup and security configuration.`,
         `The main worry clinics raise is internet outages. We design the front desk to cope: a backup mobile connection at reception is cheap insurance, and critical screens are kept light so they work on slow links. Where the internet is truly unreliable, a local server with scheduled off-site backups is an option, with the trade-off that someone must look after the hardware. We do not supply or maintain hardware ourselves.`,
         `Whichever you choose, the account and the data are in your name. You receive the admin credentials, the backup location and a written note on how to restore.`,
       ],

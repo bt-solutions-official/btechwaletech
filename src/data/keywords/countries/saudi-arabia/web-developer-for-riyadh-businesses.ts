@@ -107,7 +107,7 @@ const content: FreelanceContent = {
         `A web developer in Riyadh mostly builds sites that have to impress another organisation: a procurement team, a government-linked client, a regional board or a sponsor. Consumer shops exist too, but the capital's briefs lean corporate, bilingual and tied to dates.`,
         `That shapes the work. A contractor bidding for projects needs capability pages that a procurement officer can scan in two minutes and a company profile PDF they can forward. A multinational opening a Riyadh office needs a site that follows global brand rules while reading naturally in Arabic. An exhibition organiser needs registration live on a fixed day, not “roughly next month”. A retail brand with branches in several malls needs click-and-collect that knows which branch has stock.`,
         `What these briefs share is that the site is judged by people who compare you with competitors in the same meeting. Speed on a phone, correct Arabic layout, clear contact routes and nothing broken on the pages that matter count for more than decoration.`,
-        `BtechWaleTech covers this as a three-person freelance team. Ankur Kumar builds the front end and any backend. Santosh Sharma handles hosting, analytics, technical SEO and AI features. Vedansh Shrivastava runs the schedule, the demos and your approvals, so one person always knows where the project stands.`,
+        `BtechWaleTech covers this as a three-person freelance team. One of us builds the front end and any backend. Another of us handles hosting, analytics, technical SEO and AI features. The third of us runs the schedule, the demos and your approvals, so one person always knows where the project stands.`,
       ],
     },
     {

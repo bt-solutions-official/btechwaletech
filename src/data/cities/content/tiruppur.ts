@@ -169,7 +169,7 @@ const tiruppur: CityContent = {
       paragraphs: [
         "We do not have an office in Tiruppur, and we will not invent one. BtechWaleTech is a team of three engineers who work remotely with clients across India. That is how we keep prices low, and it means you deal directly with the people doing the work.",
         "We start with a WhatsApp chat or call about your business, customers and goals, then send a written plan, timeline and itemised quote. Once you approve, you get a preview link in the first week or two that your merchandisers, partners or buyers can open and comment on. Feedback comes over WhatsApp, often as voice notes, and small changes are usually done the same day. We reply every day of the week on Indian time, which also suits early-morning calls from export customers in Europe.",
-        "Ankur Kumar builds the websites and backend systems. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and leads automation and data science work. You can speak with any of us directly.",
+        "One of us builds the websites and backend systems. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and leads automation and data science work. You can speak with any of us directly.",
       ],
     },
     {

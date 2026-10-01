@@ -69,7 +69,7 @@ const rajgarhChuru: CityContent = {
       paragraphs: [
         "Rajgarh takes its name from Maharaja Raj Singh I of Bikaner, who built the fort here in the eighteenth century. Railway timetables and many official papers call it Sadulpur, and both names are used in everyday speech. The town sits on the sandy bagar tract where Rajasthan meets Haryana, and it has long lived on trade: grain and pulses from the surrounding villages, goods moving through a rail junction, and families whose members work in the Gulf and in the big cities.",
         "That background explains what people want from <strong>IT services in Rajgarh</strong>. A commission agent wants every lot, rate and payment in one place. A sweet shop wants festival orders from relatives in Delhi and Jaipur. A college or coaching centre wants admissions from the whole tehsil. A hospital wants patients from Haryana border villages to find the right timings. None of this needs a big agency; it needs careful listening and modest, working software.",
-        "BtechWaleTech is three engineers working remotely: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We do not have an office in Rajgarh and we will not suggest otherwise. Conversations happen by phone and WhatsApp, and each agreement goes into a short written note.",
+        "BtechWaleTech is three engineers working remotely: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We do not have an office in Rajgarh and we will not suggest otherwise. Conversations happen by phone and WhatsApp, and each agreement goes into a short written note.",
       ],
     },
     {
@@ -164,7 +164,7 @@ const rajgarhChuru: CityContent = {
       id: "remote-team-rajgarh",
       heading: "How a remote IT team works with Rajgarh businesses",
       paragraphs: [
-        "With nobody from our team based in Rajgarh, the paperwork carries the weight a visit would. We start with a call about your trade, your customers and what is going wrong. Vedansh then writes a scope note: pages or screens, dates and a price for each part. Ankur builds it, and Santosh handles hosting, data and anything involving AI.",
+        "With nobody from our team based in Rajgarh, the paperwork carries the weight a visit would. We start with a call about your trade, your customers and what is going wrong. The third of us then writes a scope note: pages or screens, dates and a price for each part. One of us builds it, and another of us handles hosting, data and anything involving AI.",
         "Until you approve that note, no work starts and no bill is raised. During the build, you receive links that open on any phone, which you can share with a partner, son or munim for their view. Hindi text is always sent for your check before it goes live, because a wrong rate or a misspelt name on a statement causes real trouble.",
         "WhatsApp messages are answered every day of the week on Indian time. If a date will slip, we say so the moment we know and give a new one. Each payment follows a stage you have tried yourself, which keeps the risk small for a business trying this for the first time.",
       ],

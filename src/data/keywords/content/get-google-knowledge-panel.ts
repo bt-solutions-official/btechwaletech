@@ -31,7 +31,7 @@ const content: FreelanceContent = {
     h1: "How to get Google knowledge panel for your business or yourself, the honest way",
     lede: `How to get Google knowledge panel is a question with no application form behind it: Google builds knowledge panels automatically once it is confident an entity exists and knows the facts about it. BtechWaleTech is three freelance developers in India who strengthen those signals: consistent facts, Organization and Person schema with sameAs links, a Wikidata item only where it genuinely qualifies, and real mentions on trusted sites. Entity work runs inside <a href='/freelance-seo-expert/'>monthly SEO</a> from ${P.seo}. No one can promise a panel, and we never will.`,
     pills: ["Entity audit", "Organization schema with sameAs", "Person schema for founders", "Wikidata only if notable", "Authoritative mentions", "Claim and verify help", "No paid Wikipedia pages"],
-    origin: "Three freelance developers in India · entity SEO led by Santosh Sharma · WhatsApp replies 7 days a week",
+    origin: "Three freelance developers in India · entity SEO led by another of us · WhatsApp replies 7 days a week",
   },
   facts: [
     ["Entity SEO from", `${P.seo} · ${P.seoUsd}`],

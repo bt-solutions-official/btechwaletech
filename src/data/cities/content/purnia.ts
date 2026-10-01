@@ -177,7 +177,7 @@ const purnia: CityContent = {
       heading: "A remote team with no Purnia office, and how we work",
       paragraphs: [
         "We do not have an office in Purnia and will not pretend to. BtechWaleTech is three engineers working remotely for clients across India. You deal directly with the people writing your code, which keeps decisions quick and prices lower.",
-        "Ankur Kumar builds the full-stack side: sites, stores and web apps. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava runs project management and builds automation and data science tools. You can reach us through the <a href=\"/contact/\">contact page</a>, and we reply on WhatsApp seven days a week during Indian working hours.",
+        "One of us builds the full-stack side: sites, stores and web apps. Another of us handles AI, machine learning, AWS and data work. The third of us runs project management and builds automation and data science tools. You can reach us through the <a href=\"/contact/\">contact page</a>, and we reply on WhatsApp seven days a week during Indian working hours.",
         "After a first call, you receive a page plan, timeline and itemised quote in about two working days. Once you approve, a preview link follows within one or two weeks for you to check on your own phone. Technical details are on our <a href=\"/services/web-development/\">web development</a> page.",
       ],
     },

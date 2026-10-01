@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A job portal is a two-sided product. Candidates come to find and apply for jobs; employers come to post jobs and find candidates. An admin team sits in the middle, approving employers, removing spam and handling payments. A job portal developer has to build all three views and the rules that connect them.`,
         `Underneath, it is a database-driven web app: user accounts with roles, job records with dozens of fields, resume files and structured profiles, applications that move through stages, notifications, search indexes, payment records and audit logs. The public face is a fast, search-friendly listing site; behind the login are dashboards for each role.`,
-        `At BtechWaleTech, Ankur builds the application and APIs, Santosh handles search, data storage, cloud hosting and listing SEO, and Vedansh runs the project plan and the automation around alerts and reports. Three people who know the same codebase is a sensible size for a first release of most portals.`,
+        `At BtechWaleTech, one of us builds the application and APIs, another of us handles search, data storage, cloud hosting and listing SEO, and the third of us runs the project plan and the automation around alerts and reports. Three people who know the same codebase is a sensible size for a first release of most portals.`,
       ],
     },
     {

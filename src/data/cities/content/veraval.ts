@@ -169,7 +169,7 @@ const veraval: CityContent = {
       heading: "Working with a remote team from Veraval",
       paragraphs: [
         "We have no office in Veraval and will not claim a local address. We are three engineers working remotely for clients across India, which keeps our prices sensible and means you deal directly with the people building your site.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. We start with a WhatsApp chat or call, then share a page plan, timeline and itemised quote. You get a preview link to test on your own phone, and feedback travels over WhatsApp.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. We start with a WhatsApp chat or call, then share a page plan, timeline and itemised quote. You get a preview link to test on your own phone, and feedback travels over WhatsApp.",
         "We work on IST and answer seven days a week; small changes usually go live the same day. You can <a href=\"/contact/\">message us here</a> to begin.",
       ],
     },

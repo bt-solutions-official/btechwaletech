@@ -69,7 +69,7 @@ const rath: CityContent = {
       paragraphs: [
         "Rath is one of the larger towns of Hamirpur district and the headquarters of its tehsil. Farmers from surrounding villages bring grain and pulses to the mandi, buy seed, fertiliser and diesel, get tractors repaired, see doctors, attend college and shop for weddings here. Local belief links the town's name to Virat Nagari of the Mahabharata, and the Ramlila ground and Diwali fair still draw crowds from across the area.",
         "What has changed in recent years is the phone in every pocket. A farmer checks the day's rate before loading the trolley, a parent looks up a coaching centre's results, and a relative working in Delhi or Gujarat searches for a clinic before sending money home for treatment. Requests we receive for <strong>IT services in Rath</strong> reflect that: a Hindi website, a correct Google Maps listing, WhatsApp ordering or enquiries, and simple record-keeping that the whole family can open.",
-        "We are a remote team of three: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We have no office in Rath and state that openly. Every stage runs over WhatsApp, phone calls and screen sharing, with written plans and prices you can keep.",
+        "We are a remote team of three: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We have no office in Rath and state that openly. Every stage runs over WhatsApp, phone calls and screen sharing, with written plans and prices you can keep.",
       ],
     },
     {
@@ -158,7 +158,7 @@ const rath: CityContent = {
       id: "remote-team-rath",
       heading: "How our remote IT team works with Rath clients",
       paragraphs: [
-        "Because we are three engineers working remotely with no office in Rath, written records replace the face-to-face meeting. Ankur Kumar builds websites and web applications, Santosh Sharma handles AI, cloud and data, and Vedansh Shrivastava plans the project and the automation. After a first call about your business and your customers, you receive a written outline of pages or app screens, delivery dates and a costed list of each item.",
+        "Because we are three engineers working remotely with no office in Rath, written records replace the face-to-face meeting. One of us builds websites and web applications, another of us handles AI, cloud and data, and the third of us plans the project and the automation. After a first call about your business and your customers, you receive a written outline of pages or app screens, delivery dates and a costed list of each item.",
         "Work starts only after you approve that list, and no bill is raised before approval. As the work progresses, preview links arrive that open on any phone, so you can show them to your partner, your son studying in Kanpur or your munim. Hindi wording is sent to you for checking before it goes live, because a spelling mistake on a notice or price list is the kind of thing customers remember.",
         "We reply on WhatsApp seven days a week on Indian time. If a date slips, you hear about it the same day we know, with the new date. Payments are linked to stages you can see working, which keeps the risk low for a family business trying a website or app for the first time.",
       ],

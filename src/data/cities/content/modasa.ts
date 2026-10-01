@@ -70,7 +70,7 @@ const modasa: CityContent = {
         "When Aravalli district was formed in 2013, Modasa became the place where offices, courts and district services are based. It was already the main market for the surrounding countryside, and the new status added government work, more hospitals, more colleges and more people travelling in every day from Bhiloda, Meghraj, Malpur, Bayad and Dhansura.",
         "That makes <strong>IT services in Modasa</strong> less about big corporate projects and more about helping ordinary businesses answer people who are not yet in town. A family in Meghraj wants to know if a specialist sits at a hospital on Thursday. A student in Bhiloda wants the fee and batch timing for a coaching class. A trader in Bayad wants today's rate before making the trip.",
         "Most of these questions are asked on a phone, in Gujarati, and often by voice. A business that has a clear website, a correct Google Maps listing and a WhatsApp number that replies quickly wins that customer before a competitor down the road.",
-        "We work on this as a remote team of three. Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. We have no office in Modasa and say that plainly from the first message.",
+        "We work on this as a remote team of three. One of us handles full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. We have no office in Modasa and say that plainly from the first message.",
       ],
     },
     {

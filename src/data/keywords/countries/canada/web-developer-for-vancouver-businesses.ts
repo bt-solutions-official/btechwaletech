@@ -52,7 +52,7 @@ const content: FreelanceContent = {
   snapshot: {
     caption: "A remote web developer for your Vancouver business, in brief",
     rows: [
-      { label: "The team", value: "Ankur builds, Santosh handles SEO and hosting, Vedansh runs the project" },
+      { label: "The team", value: "One of us builds, another of us handles SEO and hosting, the third of us runs the project" },
       { label: "Call times", value: "7–8:30 a.m. Pacific; WhatsApp any day" },
       { label: "Work rhythm", value: "You comment by day, we build by night, you review next morning" },
       { label: "Common builds", value: "Service sites, Shopify stores, tourism booking sites, agent sites" },

@@ -217,7 +217,7 @@ const content: FreelanceContent = {
       heading: "Choosing hosting, theme and plugins for the new WordPress site",
       paragraphs: [
         `Pick hosting and a theme for speed and simplicity, not for feature lists. The point of leaving Wix is control, and a bloated WordPress install gives it straight back to a plugin vendor.`,
-        `For most migrated business sites we recommend managed WordPress hosting or a small cloud server with daily backups, a staging copy and a server region close to your customers. The account is opened in your name and paid from your card. Santosh, who handles the team's AWS and hosting work, sets up caching, SSL and backups and writes down every login.`,
+        `For most migrated business sites we recommend managed WordPress hosting or a small cloud server with daily backups, a staging copy and a server region close to your customers. The account is opened in your name and paid from your card. Another of us, who handles the team's AWS and hosting work, sets up caching, SSL and backups and writes down every login.`,
         `On the theme side, we prefer a light block theme styled to match your Wix design, rather than a heavy multipurpose theme with its own page builder. Plugins are kept to what the site needs: forms, SEO, caching, security and backups, plus whatever replaces a specific Wix app. Fewer plugins means fewer updates, fewer conflicts and a faster site on budget phones.`,
       ],
       after: [`If speed is the main reason for leaving Wix, our <a href='/wordpress-speed-optimization/'>WordPress speed optimisation</a> page explains how we tune the result.`],

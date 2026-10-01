@@ -177,7 +177,7 @@ const pune: CityContent = {
       paragraphs: [
         "We don't have an office in Pune and won't claim one with a rented address. We are three engineers who work remotely for businesses across India. You don't pay for office rent or a sales team, and you speak directly to the people building your site.",
         "Projects start with a call or WhatsApp conversation, followed by a written page plan, timeline and itemised quote. Within the first one or two weeks you get a live preview link to check on your phone and laptop. Feedback goes on WhatsApp, and small changes usually go live the same day. We work on Indian time and reply seven days a week.",
-        "Ankur Kumar builds the full stack. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can reach any of us directly, and with three people involved, work carries on if one of us is away.",
+        "One of us builds the full stack. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can reach any of us directly, and with three people involved, work carries on if one of us is away.",
       ],
     },
     {

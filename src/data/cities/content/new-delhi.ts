@@ -168,7 +168,7 @@ const newDelhi: CityContent = {
       paragraphs: [
         "We have no office in New Delhi, not in CP and not anywhere else, and we will not use a virtual office address to pretend otherwise. We are three engineers working remotely with clients across India, which is why our prices are a fraction of what central Delhi rents would demand.",
         "For offices used to formal processes, we fit in easily: a scoped proposal, a timeline with milestones, an itemised estimate and written approval before work starts. We meet over video, share progress through a live preview link, and accept feedback in whatever form your team prefers. We work on IST and answer on WhatsApp seven days a week.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data engineering. Vedansh Shrivastava manages projects and builds automation and data science work. Your team speaks directly with the engineers, not through account managers.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data engineering. The third of us manages projects and builds automation and data science work. Your team speaks directly with the engineers, not through account managers.",
       ],
     },
     {

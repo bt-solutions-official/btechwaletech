@@ -34,8 +34,8 @@ const content: FreelanceContent = {
     origin: "Three freelance developers working remotely from India · WhatsApp replies 7 days a week, IST",
   },
   facts: [
-    ["Maintenance lead", "Ankur Kumar (full-stack, WordPress and PHP)"],
-    ["Security and hosting", "Santosh Sharma (AWS, server hardening)"],
+    ["Maintenance lead", "One of us (full-stack, WordPress and PHP)"],
+    ["Security and hosting", "Another of us (AWS, server hardening)"],
     ["Plans start at", `${P.care} · ${P.careUsd} abroad`],
     ["Update method", "Staging copy first, then live"],
     ["New builds", "2 months of free maintenance after launch"],

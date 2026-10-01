@@ -69,7 +69,7 @@ const jorhat: CityContent = {
       paragraphs: [
         "Jorhat plays a bigger role than its municipal population suggests. It is the district headquarters, a railway and air link for Upper Assam, a university town, and the point from which most visitors leave for Majuli. Families from Titabor, Teok, Mariani and the tea gardens in between come here for hospitals, colleges, weddings and big purchases, and they increasingly decide where to go after checking a phone.",
         "Requests for <strong>IT services in Jorhat</strong> therefore tend to be practical. A Gar-Ali garment shop wants to appear when someone searches for sarees near them. A coaching institute near Baruah Chariali wants admission enquiries to stop getting lost in a WhatsApp group. A tea garden manager wants leaf weights and attendance in one place instead of three registers. A homestay owner wants bookings from travellers heading to Majuli.",
-        "We handle these as a remote group of three engineers. Ankur Kumar builds the full-stack web and app side. Santosh Sharma covers AI, machine learning, AWS and data work. Vedansh Shrivastava runs project management, data science and automation. We are not a local shop with a counter, and we do not pretend to be one; the difference is that you deal directly with the people writing your code.",
+        "We handle these as a remote group of three engineers. One of us builds the full-stack web and app side. Another of us covers AI, machine learning, AWS and data work. The third of us runs project management, data science and automation. We are not a local shop with a counter, and we do not pretend to be one; the difference is that you deal directly with the people writing your code.",
       ],
     },
     {

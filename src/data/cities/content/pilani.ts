@@ -70,7 +70,7 @@ const pilani: CityContent = {
       paragraphs: [
         "Pilani is the ancestral home of the Birla family, and much of the modern town grew from what that family built: the Birla Education Trust colleges from 1929, which became BITS Pilani in 1964, the Birla Museum in 1954, and the schools that still bring boarders from across India. CSIR's Central Electronics Engineering Research Institute arrived in 1953. The result is a town of about forty thousand where a large share of daily trade depends on students, staff, researchers and visiting families.",
         "That mix makes demand for <strong>IT services in Pilani</strong> unusual for a place this size. A guesthouse wants its rooms found by parents arriving for admissions. A school wants a parent app. A student founder wants a working prototype before placement season. A mustard and bajra trader two villages away just wants a Google Maps pin that points to the right gate.",
-        "We cover all of it as a remote team of three. Ankur Kumar builds full-stack websites and web apps. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava runs project management, data science and automation. None of us sits in an office in Pilani, and we never claim one.",
+        "We cover all of it as a remote team of three. One of us builds full-stack websites and web apps. Another of us works on AI, machine learning, AWS and data. The third of us runs project management, data science and automation. None of us sits in an office in Pilani, and we never claim one.",
       ],
     },
     {
@@ -105,7 +105,7 @@ const pilani: CityContent = {
       heading: "App development team in Pilani for student founders and research teams",
       paragraphs: [
         "A campus with thousands of engineering and science students produces a lot of ideas, and many of them need a working product before an incubator, investor or first customer will take them seriously. Students often have the skills but not the time between classes, Practice School and exams. Research groups face a similar gap: the experiment works, but nobody has built the web dashboard that lets others see the data.",
-        "As an <strong>app development team in Pilani</strong> that works remotely, we build minimum viable products in stages: a clickable prototype, then a first release with login, the core feature and an admin view, then iteration from real usage. Santosh Sharma handles cloud and data work on AWS, including dashboards that read from sensors or instruments over simple APIs.",
+        "As an <strong>app development team in Pilani</strong> that works remotely, we build minimum viable products in stages: a clickable prototype, then a first release with login, the core feature and an admin view, then iteration from real usage. Another of us handles cloud and data work on AWS, including dashboards that read from sensors or instruments over simple APIs.",
         "We are careful about ownership. The repository, cloud account and store listings are registered to the founder or the institution from the start, not to us, and we sign confidentiality terms on request. If your team only needs help with one part, such as deployment or the mobile front end, we quote for that part alone.",
       ],
     },

@@ -392,7 +392,7 @@ const content: FreelanceContent = {
       ["Share gates and rules", "Send photos of each punch point, headcounts per shift and your attendance rules on WhatsApp. We reply with questions and an itemised quote in about two working days."],
       ["Choose lanes and devices", "Together we decide kiosk, personal phone or both for each site, and list device specifications your IT team or vendor can buy."],
       ["Consent and data plan", "We draft the enrolment notice screen, retention periods and access roles for your lawyer to approve before any face is captured."],
-      ["Build and enrol a pilot group", "Ankur builds the apps and panel, Santosh sets up the model and cloud in your account, and one department enrols."],
+      ["Build and enrol a pilot group", "One of us builds the apps and panel, another of us sets up the model and cloud in your account, and one department enrols."],
       ["Tune on real punches", "Two weeks of pilot punches alongside your old method give us similarity scores to set thresholds and fix placement issues."],
       ["Roll out and hand over", "Remaining sites follow. You receive code, model documentation, admin guides and recordings; two months of free maintenance begin."],
     ],

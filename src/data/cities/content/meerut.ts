@@ -159,7 +159,7 @@ const meerut: CityContent = {
       paragraphs: [
         "We don't have an office in Meerut, and we won't claim one. We are three engineers working remotely, and the savings on rent and sales staff go straight into lower prices. It also means that the person you talk to is the person who writes your code or sets up your automation.",
         "Here is how a typical project runs. We talk on the phone or WhatsApp about your business and your buyers, then send a written plan with pages, timeline and itemised cost. After you approve it, you receive a working preview link, usually within the first two weeks, so you can check the site on your own phone and forward it to partners. Changes come to us on WhatsApp and small ones are often done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data engineering. Vedansh Shrivastava manages projects and works on data science and automation. <a href=\"/contact/\">Message us</a> with a few lines about your business to start.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data engineering. The third of us manages projects and works on data science and automation. <a href=\"/contact/\">Message us</a> with a few lines about your business to start.",
       ],
     },
     {

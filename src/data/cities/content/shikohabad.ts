@@ -127,7 +127,7 @@ const shikohabad: CityContent = {
       heading: "Android app development in Shikohabad, and iOS apps too",
       paragraphs: [
         "Not every Shikohabad business needs an app, and we say that upfront. An app makes sense when the same people come back again and again: coaching students checking test marks, school parents reading circulars, retailers reordering bangle designs every week, or patients booking follow-ups at a clinic. For a shop that customers visit twice a year, a website and a good map listing are enough.",
-        "When an app does fit, we build one codebase in Flutter or React Native that runs on both Android and iPhone. Typical features include phone-number login with OTP, push notifications for notices or new stock, a catalogue or course list, order or booking forms, UPI payment through Razorpay, and an admin panel where your staff update content without calling us. Ankur Kumar builds the app and panel; Vedansh Shrivastava keeps the project on schedule.",
+        "When an app does fit, we build one codebase in Flutter or React Native that runs on both Android and iPhone. Typical features include phone-number login with OTP, push notifications for notices or new stock, a catalogue or course list, order or booking forms, UPI payment through Razorpay, and an admin panel where your staff update content without calling us. One of us builds the app and panel; the third of us keeps the project on schedule.",
         "Android and iOS apps start from ₹40,000. We handle publishing on Google Play and the App Store under your own developer accounts, so the listing, reviews and download history belong to you. We explain the store fees and review timelines before you commit. People searching for an <strong>app development team in Shikohabad</strong> are often single tuition centres; for them we may suggest starting with a website and adding the app once enrolment justifies it.",
       ],
     },
@@ -145,7 +145,7 @@ const shikohabad: CityContent = {
       heading: "AI and WhatsApp automation in Shikohabad for busy counters",
       paragraphs: [
         "Most Shikohabad businesses already run on WhatsApp. The trouble is volume: a bangle unit receives design requests at midnight from a buyer in another state, a coaching centre gets the same fee question a hundred times during admissions, and a clinic's receptionist cannot reply while handling a queue. Messages that sit unanswered for two hours are often lost.",
-        "We build automation on the WhatsApp Business Platform that answers common questions in Hindi or English, sends catalogues, fee sheets or timings, books slots, and writes every enquiry into a Google Sheet with the date and source. Anything involving money, complaints or unusual requests is passed to a human with the full conversation attached. Santosh Sharma designs the AI layer so that it answers only from information you have approved.",
+        "We build automation on the WhatsApp Business Platform that answers common questions in Hindi or English, sends catalogues, fee sheets or timings, books slots, and writes every enquiry into a Google Sheet with the date and source. Anything involving money, complaints or unusual requests is passed to a human with the full conversation attached. Another of us designs the AI layer so that it answers only from information you have approved.",
         "AI automation starts from ₹40,000 and usually takes two to four weeks. For a small shop with twenty messages a day, we will say plainly that the free WhatsApp Business app with quick replies may be enough, and set that up for far less.",
       ],
     },
@@ -164,7 +164,7 @@ const shikohabad: CityContent = {
       paragraphs: [
         "Behind many Shikohabad businesses is a thick register. Bangle units track which karigar took how many pieces and what piece rate is due; transporters on the NH19 corridor log trips, diesel and driver advances; wholesalers keep party-wise credit in ledgers. These records work until the owner is ill, a page is lost or a dispute arises over a figure written six months ago.",
         "Custom software replaces that register with a simple web app that staff open on their phones. We build it around the columns you already use: work issued and returned, rates, advances, deliveries, dues and daily summaries. Owners see totals in one place and can export them for the accountant. Data sits on hosting in your name, with backups.",
-        "Custom web apps start from ₹60,000 and typically take six to twelve weeks. Santosh Sharma handles the data design and AWS hosting where it is needed; Ankur Kumar builds the screens. We start with the one record that causes the most trouble and add others only after your team is comfortable.",
+        "Custom web apps start from ₹60,000 and typically take six to twelve weeks. Another of us handles the data design and AWS hosting where it is needed; one of us builds the screens. We start with the one record that causes the most trouble and add others only after your team is comfortable.",
       ],
     },
     {
@@ -181,7 +181,7 @@ const shikohabad: CityContent = {
       heading: "How a remote team works with Shikohabad clients",
       paragraphs: [
         "We have no office in Shikohabad and will not pretend otherwise with a borrowed address. We are three engineers working remotely for clients across India, which keeps our overheads low and means you deal with the people doing the work, not a sales executive.",
-        "Ankur Kumar handles full-stack development of websites, stores and apps. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds data and automation tools. A project starts with a call or a WhatsApp chat, followed by a page plan, timeline and itemised quote, usually within two working days.",
+        "One of us handles full-stack development of websites, stores and apps. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds data and automation tools. A project starts with a call or a WhatsApp chat, followed by a page plan, timeline and itemised quote, usually within two working days.",
         "Once you approve in writing, you get a private preview link to check on your own phone, on mobile data, and to show family or partners. Changes are requested on WhatsApp, and small edits are often done the same day. We reply seven days a week, in IST. You can <a href=\"/contact/\">contact us here</a> or read more about our <a href=\"/services/web-development/\">web development service</a> first.",
       ],
     },

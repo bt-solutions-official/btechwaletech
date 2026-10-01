@@ -69,7 +69,7 @@ const pattukkottai: CityContent = {
       paragraphs: [
         "Pattukkottai is the commercial centre for the southern end of Thanjavur district. It became a municipality in 1965 and is now a selection grade municipality of 33 wards. Farmers from the surrounding coconut and paddy villages, fishermen's families from the coast, students and patients all come here to buy, sell, study and get treated.",
         "More and more of that begins on a phone. A buyer in Coimbatore wants a coconut trader's current rate. A family in Adirampattinam wants to know which doctor sits on Thursday. A student wants to check admission dates. Most requests we receive for <strong>IT services in Pattukkottai</strong> come from these moments: a clear Tamil website, a correct Google Maps pin, WhatsApp orders or a simple record that replaces a notebook.",
-        "We are three engineers working remotely. Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava runs project management, data science and automation, and he usually speaks to you first.",
+        "We are three engineers working remotely. One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us runs project management, data science and automation, and he usually speaks to you first.",
         "There is no office in Pattukkottai, and we say that plainly. Work happens over WhatsApp, calls and screen shares, and every decision is written down. You will not need to travel to Thanjavur or Tiruchirappalli for meetings, and our starting prices do not carry office rent.",
       ],
     },

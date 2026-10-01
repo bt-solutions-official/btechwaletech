@@ -144,7 +144,7 @@ const margao: CityContent = {
       id: "margao-remote",
       heading: "Working with a remote team from Margao",
       paragraphs: [
-        "We do not have an office in Margao or anywhere in Goa, and we will not pretend otherwise. We are three engineers who work remotely: Ankur Kumar handles full-stack development, Santosh Sharma leads AI, ML, AWS and data work, and Vedansh Shrivastava manages projects, data science and automation. You talk to the people building your site, not a sales layer.",
+        "We do not have an office in Margao or anywhere in Goa, and we will not pretend otherwise. We are three engineers who work remotely: one of us handles full-stack development, another of us leads AI, ML, AWS and data work, and the third of us manages projects, data science and automation. You talk to the people building your site, not a sales layer.",
         "In practice, remote work suits most Margao businesses. We start with a call or a WhatsApp voice note, share a written page plan, then a live preview link that you can open on your phone between customers. Feedback can be screenshots, voice messages or a quick video call. We reply on WhatsApp seven days a week, in Indian Standard Time.",
         "If you prefer to meet someone in person before paying, we understand. That is why we bill nothing before written approval and show work early, so you can judge progress on your own screen before committing further.",
       ],
@@ -163,7 +163,7 @@ const margao: CityContent = {
       heading: "Web apps and data tools for growing Margao firms",
       paragraphs: [
         "Some businesses need more than a website. A distributor supplying shops across South Goa may want a phone-based order app for its salesmen; a travel company may want a booking panel for drivers and tour guides; a school may need a parent portal for notices and fees. We build these as Android and iOS apps on Google Play and the App Store from ₹40,000, or as progressive web apps that install from the browser and cost less to maintain.",
-        "Data work is another common request. Owners often have sales in one system, stock in another and expenses on paper. We connect those sources into a dashboard that answers practical questions: which products sell in the season, which customers pay late, which rooms stay empty on weekdays. Santosh leads this work, and we keep the reports simple enough to use every day.",
+        "Data work is another common request. Owners often have sales in one system, stock in another and expenses on paper. We connect those sources into a dashboard that answers practical questions: which products sell in the season, which customers pay late, which rooms stay empty on weekdays. Another of us leads this work, and we keep the reports simple enough to use every day.",
         "We usually begin with a two-week pilot on real data from your business, such as last season's bookings or three months of invoices. If the dashboard or app does not change how you make decisions, we say so and stop there, rather than stretching the project. When it does help, we extend it one module at a time and keep the cost of each stage visible before it starts.",
       ],
     },

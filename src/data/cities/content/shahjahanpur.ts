@@ -176,7 +176,7 @@ const shahjahanpur: CityContent = {
       paragraphs: [
         "We have no office in Shahjahanpur, and we will not print a borrowed address to seem local. We are three engineers working remotely for businesses across India, and our Shahjahanpur clients deal with us by phone, WhatsApp and screen share, the same way they already deal with suppliers in Delhi or Kanpur.",
         "After a first conversation about your business, we send a written page plan, timeline and itemised quote. Within one to two weeks you get a working preview link to open on your phone and share with family or partners. Corrections go on WhatsApp, and small changes usually go live the same day. We keep Indian hours and reply seven days a week, so a Sunday review is no problem.",
-        "Ankur Kumar builds the full-stack code. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages the project and builds automation and data science tools. <a href=\"/contact/\">Get in touch</a> and you will be speaking to one of us.",
+        "One of us builds the full-stack code. Another of us handles AI, machine learning, AWS and data. The third of us manages the project and builds automation and data science tools. <a href=\"/contact/\">Get in touch</a> and you will be speaking to one of us.",
       ],
     },
     {

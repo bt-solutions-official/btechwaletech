@@ -69,7 +69,7 @@ const yevla: CityContent = {
       paragraphs: [
         "Yeola is a taluka town in Nashik district, spelled Yeola or Yevla depending on who writes it. It is best known across India for Paithani saris, which Maharashtrian brides and families buy for weddings and festivals. Weavers work on handlooms in homes and small workshops in the town and surrounding villages, and dozens of showrooms line the roads that visitors drive in on.",
         "The requests we get for <strong>IT services in Yeola</strong> follow from that. A weaving family wants to sell directly to buyers in Pune, Mumbai or the United States. A showroom wants its Google Maps listing to show real photographs and hours. An onion trader wants cleaner records. A school or clinic wants a proper website in Marathi.",
-        "We are a remote team of three engineers. Ankur Kumar works on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We have no office in Yeola and will not claim one. Work runs on WhatsApp, calls and screen shares, with a written plan at each stage.",
+        "We are a remote team of three engineers. One of us works on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We have no office in Yeola and will not claim one. Work runs on WhatsApp, calls and screen shares, with a written plan at each stage.",
       ],
     },
     {

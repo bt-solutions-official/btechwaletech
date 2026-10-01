@@ -70,7 +70,7 @@ const palghar: CityContent = {
       paragraphs: [
         "Palghar has changed quickly since it was made a district headquarters in 2014. Government offices at Kolgaon brought officials, contractors, lawyers and consultants into a town that was once known mainly as a Western Railway stop between Virar and Boisar. Housing has spread on both sides of the tracks, and commuters now travel daily towards Mumbai while Tarapur's industrial estates pull workers the other way.",
         "Most enquiries we receive for <strong>IT services in Palghar</strong> reflect that mix. An engineering contractor wants a site that a purchase manager at a Tarapur plant will take seriously. A resort owner in Kelwa wants weekend guests from Mumbai to book directly. A school wants parents to find admission details without calling. A fish trader in Satpati wants a way to take orders without a phone ringing at four in the morning.",
-        "We are a remote team of three engineers. Ankur Kumar handles full-stack development, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Palghar and never claim one. Work runs through calls, screen shares and WhatsApp, and every plan and cost reaches you in writing.",
+        "We are a remote team of three engineers. One of us handles full-stack development, another of us leads AI, machine learning, AWS and data work, and the third of us runs project management, data science and automation. We have no office in Palghar and never claim one. Work runs through calls, screen shares and WhatsApp, and every plan and cost reaches you in writing.",
       ],
     },
     {

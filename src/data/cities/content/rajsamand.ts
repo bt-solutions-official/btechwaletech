@@ -69,7 +69,7 @@ const rajsamand: CityContent = {
       paragraphs: [
         "Rajsamand is two towns that grew together along a lake. Kankroli sits at the southern end near the Dwarkadhish temple and the tyre factory, Rajnagar lies to the north-west, and the district offices, markets and industrial estates spread along the Udaipur–Ajmer highway. The town is surrounded by the Aravalli hills, and its economy rests on stone, manufacturing, mining, farming and religious tourism.",
         "That variety shows in the requests we get. People asking about <strong>IT services in Rajsamand</strong> range from a gangsaw owner in Dhoinda who wants a slab catalogue that buyers in Delhi or Bengaluru can browse, to a vendor supplying the tyre plant who needs a proper company website, to a guest house near Nathdwara that wants direct bookings, to a clinic that simply wants the right pin on Google Maps.",
-        "We are a remote team of three engineers. Ankur Kumar builds the websites and web applications, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no Rajsamand office, and we say so up front. Calls, WhatsApp and screen sharing replace office visits, and all plans and prices reach you in writing.",
+        "We are a remote team of three engineers. One of us builds the websites and web applications, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no Rajsamand office, and we say so up front. Calls, WhatsApp and screen sharing replace office visits, and all plans and prices reach you in writing.",
       ],
     },
     {
@@ -158,7 +158,7 @@ const rajsamand: CityContent = {
       id: "remote-team-rajsamand",
       heading: "How our remote IT team works with Rajsamand clients",
       paragraphs: [
-        "Since we have no office in Rajsamand, clear written records take the place of face-to-face meetings. Ankur Kumar develops websites and applications, Santosh Sharma works on AI, cloud and data, and Vedansh Shrivastava handles planning and automation. After a first conversation about your business, you get a written plan of pages or app screens, the delivery schedule and the cost of every item.",
+        "Since we have no office in Rajsamand, clear written records take the place of face-to-face meetings. One of us develops websites and applications, another of us works on AI, cloud and data, and the third of us handles planning and automation. After a first conversation about your business, you get a written plan of pages or app screens, the delivery schedule and the cost of every item.",
         "Nothing is built or billed before you approve that plan. As the work moves forward, you receive preview links that open on any phone, so partners, family members in the business or your CA can see them. Hindi text is shared for your approval before launch, since a wrong word in a stone name or temple timing is the sort of slip customers point out.",
         "We reply on WhatsApp every day of the week, Indian time. If a deadline is going to move, you learn about it as soon as we do, along with the reason and a new date. Payments follow milestones you can see working, which keeps risk low on a first project.",
       ],

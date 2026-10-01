@@ -163,7 +163,7 @@ const ranipet: CityContent = {
       paragraphs: [
         "We have no office in Ranipet, and we will not claim one. We are three engineers working remotely for businesses across India. Without an office or sales staff to fund, our prices stay reasonable, and you talk directly to the people doing the work.",
         "We start with a WhatsApp chat or call about your business, then send a page plan, timeline and itemised quote. Within a week or two you get a preview link to open on your phone. Feedback happens on WhatsApp, and small changes usually go live the same day. We work on IST and reply seven days a week.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can <a href=\"/contact/\">contact any of us</a> directly.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can <a href=\"/contact/\">contact any of us</a> directly.",
       ],
     },
     {

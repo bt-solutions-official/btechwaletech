@@ -69,7 +69,7 @@ const kannur: CityContent = {
       paragraphs: [
         "Kannur mixes old trades with newer ones. Handloom weaving has run here for centuries, cooperatives employ thousands, retail crowds along Fort Road and around Thavakkara, and the airport at Mattannur has brought travellers and cargo to a district that once relied mostly on rail and the coastal highway. Many families also have members working in the Gulf, which shapes how people shop and pay.",
         "Most requests we receive for <strong>IT services in Kannur</strong> are specific rather than grand. A weavers' society wants an export catalogue that buyers in Europe can browse. A textile shop wants its Google listing fixed. A hospital wants online tokens. A homestay near the beach wants direct bookings instead of paying commission on every night. A coaching centre wants admission enquiries on WhatsApp sorted automatically.",
-        "We handle these as a remote team of three. Ankur Kumar does full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Kannur, and we say that plainly. Work happens over WhatsApp, calls and screen shares, and you receive written plans at each step.",
+        "We handle these as a remote team of three. One of us does full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Kannur, and we say that plainly. Work happens over WhatsApp, calls and screen shares, and you receive written plans at each step.",
       ],
     },
     {

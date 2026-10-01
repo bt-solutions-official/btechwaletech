@@ -171,7 +171,7 @@ const bankura: CityContent = {
       paragraphs: [
         "We have no office in Bankura and will not claim one. We are three engineers working remotely for clients across India. With no rent and no sales staff, our starting prices stay below those of a Kolkata agency, and you speak directly to the people building your site.",
         "Everything runs on calls, WhatsApp and screen sharing. After a first conversation we send a page plan, a timeline and an itemised quote. Within one to two weeks you receive a preview link to check on your phone and show your family or partners. We reply seven days a week on Indian time, and small changes are usually done the same day.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">reach any of us</a> directly.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">reach any of us</a> directly.",
       ],
     },
     {

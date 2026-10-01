@@ -248,7 +248,7 @@ const content: FreelanceContent = {
         { heading: "Custom booking app (Node.js or Python with PostgreSQL)", text: "Needed when you want slots, payments, per-therapist permissions, encrypted questionnaires and audit logs working together." },
         { heading: "Mobile app", text: "Worth it only for ongoing programmes such as group courses or between-session exercises. Most practices do not need one at first." },
       ],
-      after: [`Hosting goes in your name with a provider whose data centres and terms you are comfortable with; Santosh sets up the cloud side, backups and access controls.`],
+      after: [`Hosting goes in your name with a provider whose data centres and terms you are comfortable with; another of us sets up the cloud side, backups and access controls.`],
     },
     {
       id: "seo-ai",

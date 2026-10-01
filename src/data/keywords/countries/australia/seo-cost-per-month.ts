@@ -83,7 +83,7 @@ const content: FreelanceContent = {
     rows: [
       ["Typical price level", "Highest, reflects Australian salaries and account staff", "Wide spread, from very low to high", `From ${P.seo}, scoped per site`],
       ["What you are told you get", "Often a package name and tier", "A gig description", "A task list with hours per job"],
-      ["Who does the work", "Account manager plus specialists", "One person, sometimes subcontracted", "Santosh on technical SEO, Ankur on site changes, Vedansh on planning"],
+      ["Who does the work", "Account manager plus specialists", "One person, sometimes subcontracted", "Another of us on technical SEO, one of us on site changes, the third of us on planning"],
       ["Can they change the site itself", "Sometimes via your developer", "Varies", "Yes, we edit templates, schema and speed issues directly"],
       ["Reporting focus", "Varies by agency", "Often rank screenshots", "Enquiries, calls and organic sales first"],
       ["Contract length", "Minimum terms are common; read the clause", "Per order or per milestone on the platform", "Agreed in your written quote; see our terms"],
@@ -265,7 +265,7 @@ const content: FreelanceContent = {
       heading: "Monthly SEO from India: how the arrangement works from Australia",
       paragraphs: [
         `Working with us from Australia runs on a simple weekly rhythm. We are four and a half hours behind AEST, four behind Adelaide on standard time, and two and a half behind Perth, so a 2 pm call in Brisbane is our 9:30 am. Summer daylight saving in the south-eastern states adds an hour to the gap.`,
-        `Santosh leads the technical SEO and reporting. Ankur makes the template, speed and schema changes on your site. Vedansh keeps the monthly task list, sends the plan for your approval and chases anything we need from you, such as photos, service details or answers to customer questions.`,
+        `Another of us leads the technical SEO and reporting. One of us makes the template, speed and schema changes on your site. The third of us keeps the monthly task list, sends the plan for your approval and chases anything we need from you, such as photos, service details or answers to customer questions.`,
         `We quote in USD. You pay by Wise, bank wire or PayPal, and invoices come from India; ask your accountant how to record them. Nothing is billed before you approve the written quote.`,
       ],
       subs: [
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
     heading: "How a monthly SEO plan gets scoped and started",
     steps: [
       ["Send your site and goals", "Share your web address, main services, the areas you serve and what a good month of enquiries looks like. Rough numbers are enough to start."],
-      ["We look before we quote", "Santosh runs a quick crawl and checks your Business Profile and search visibility, so the plan is based on your real site, not a template."],
+      ["We look before we quote", "Another of us runs a quick crawl and checks your Business Profile and search visibility, so the plan is based on your real site, not a template."],
       ["Itemised plan in two days", "You receive the tasks, the monthly scope and the starting price in USD. Nothing is charged until you approve it in writing."],
       ["Access, not passwords", "You add us as a user to Search Console, GA4, Business Profile and the website. Everything stays in your business name."],
       ["Fixes and tracking first", "The first weeks go on urgent errors and lead tracking, so every later report can show enquiries rather than rankings alone."],

@@ -168,7 +168,7 @@ const yavatmal: CityContent = {
       paragraphs: [
         "We do not have an office in Yavatmal, and we will not rent a virtual address to appear local. We are three engineers working remotely for clients across India. Without office rent and sales staff, more of your budget goes into the actual work, and the person you speak to is one of the people building your site.",
         "A project usually begins with a WhatsApp conversation or a short call. We then send a written page plan, timeline and quote. Within the first one or two weeks, you receive a live preview link that you can open on your own phone and show your family or partners. Feedback can be typed or sent as Marathi or Hindi voice notes, and small corrections usually go live the same day. We reply seven days a week on Indian time, which suits owners who only get free time after the shop shutter comes down.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma looks after AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on data science and automation. You can reach any of us directly, and you always know who is responsible for what.",
+        "One of us handles full-stack development. Another of us looks after AI, machine learning, AWS and data work. The third of us manages projects and works on data science and automation. You can reach any of us directly, and you always know who is responsible for what.",
       ],
     },
     {

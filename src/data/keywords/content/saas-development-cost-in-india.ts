@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `SaaS development cost in India covers everything a stranger needs to sign up, pay, use the product and get support without talking to you, plus everything you need to run many customers from one system. That second half is what separates a SaaS product from an MVP or a one-client web app.`,
         `An MVP can fake a lot: manual invoices, one shared admin login, founders fixing data by hand. A paid SaaS cannot. Once fifty companies pay monthly, you need tenant isolation that never leaks data between them, billing that handles renewals and failed payments, invoices that satisfy their accountants, an admin panel for each customer and a console for you.`,
-        `At BtechWaleTech, Ankur Kumar builds the application and billing logic, Santosh Sharma designs the cloud setup, data model and security, and Vedansh Shrivastava plans releases and keeps the roadmap tied to what paying customers ask for. The <a href='/freelance-saas-developer/'>freelance SaaS developer</a> page describes the working arrangement in more detail.`,
+        `At BtechWaleTech, one of us builds the application and billing logic, another of us designs the cloud setup, data model and security, and the third of us plans releases and keeps the roadmap tied to what paying customers ask for. The <a href='/freelance-saas-developer/'>freelance SaaS developer</a> page describes the working arrangement in more detail.`,
       ],
       list: [
         "Self-serve sign-up, trial and onboarding",
@@ -176,7 +176,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Cloud cost per customer is your total monthly infrastructure bill divided by active paying tenants, then checked against how usage is spread between them. It is the number that tells you whether your cheapest plan makes money.`,
         `Start with the fixed base: application servers, the database, a cache, backups and monitoring that exist whether you have five customers or five hundred. Then add the variable parts that grow with usage: storage of uploaded files, bandwidth, emails and SMS, and AI or third-party API calls. Early on, the fixed base dominates and cost per customer looks high; it falls as tenants are added, which is exactly why shared multi-tenancy matters.`,
-        `The danger is uneven usage. One tenant uploading thousands of documents or running AI summaries all day can cost more than everyone else combined. Santosh tags cloud resources and logs per-tenant usage of expensive operations, so you can see who drives cost and price plans accordingly, such as including a usage allowance and charging above it. Budget alerts in your cloud account catch surprises within days.`,
+        `The danger is uneven usage. One tenant uploading thousands of documents or running AI summaries all day can cost more than everyone else combined. Another of us tags cloud resources and logs per-tenant usage of expensive operations, so you can see who drives cost and price plans accordingly, such as including a usage allowance and charging above it. Budget alerts in your cloud account catch surprises within days.`,
       ],
       list: [
         "Fixed base: servers, database, cache, backups, monitoring",

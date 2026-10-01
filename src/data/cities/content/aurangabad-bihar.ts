@@ -168,7 +168,7 @@ const aurangabadBihar: CityContent = {
       paragraphs: [
         "We do not have an office in Aurangabad, Gaya, Patna or anywhere in Bihar, and we will not put a borrowed address on a map. We are three engineers working remotely for clients across India, and not paying rent or a sales staff is why our starting prices stay low.",
         "You reach us on WhatsApp or through the <a href=\"/contact/\">contact page</a>. We call to understand your business, then send a page plan, timeline and itemised quote, usually within two working days. After approval you receive a private preview link to check on your phone and share with family or partners. Changes are requested on WhatsApp, and small ones are often done the same day. Many clients have relatives working in Delhi, Kolkata or abroad who help review the site, and we are happy to include them on calls.",
-        "Ankur Kumar builds the websites and web applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You talk to them directly, seven days a week, on Indian time.",
+        "One of us builds the websites and web applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You talk to them directly, seven days a week, on Indian time.",
       ],
     },
     {

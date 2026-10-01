@@ -195,7 +195,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Secure the API as if every request might be hostile, because on the public internet some will be. Security is not an add-on line; it should be part of every endpoint from the first commit.`,
         `Use HTTPS only. Authenticate callers with OAuth 2.0 or scoped API keys, and give each caller the least access it needs. Validate every input against a schema and reject what does not fit. Rate-limit per key and per IP to blunt abuse. Verify signatures on incoming webhooks. Keep secrets in a managed secret store, never in the repository. Log requests without writing full card numbers, passwords or unnecessary personal data.`,
-        `India’s Digital Personal Data Protection Act, 2023 makes careful handling of personal data a legal matter, not just good practice. Collect only what the integration needs, know where it is stored, and be able to delete a person’s data on request. Santosh reviews cloud configuration, access policies and backups on AWS for every project we deliver.`,
+        `India’s Digital Personal Data Protection Act, 2023 makes careful handling of personal data a legal matter, not just good practice. Collect only what the integration needs, know where it is stored, and be able to delete a person’s data on request. Another of us reviews cloud configuration, access policies and backups on AWS for every project we deliver.`,
       ],
       list: [
         "HTTPS everywhere, with modern TLS",

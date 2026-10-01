@@ -136,7 +136,7 @@ const content: FreelanceContent = {
         "A CRO audit is a structured review of your site’s data, pages and forms that ends in a ranked list of problems and fixes. It is the first deliverable of our conversion rate optimization services, and often the most valuable.",
         "We work through five lenses. <strong>Data:</strong> GA4 funnels and landing page reports showing where visitors arrive, what they do and where they leave, split by device and channel. <strong>Behaviour:</strong> heatmaps and recordings of real sessions. <strong>Heuristics:</strong> a walkthrough of each key page asking whether the offer is clear within seconds, whether proof is visible, whether the next step is obvious. <strong>Technical:</strong> page speed, broken elements, form validation errors, layout shifts. <strong>Voice of customer:</strong> the questions your team hears on calls and WhatsApp, which usually reveal missing information.",
         "Each finding gets a severity and an effort estimate. A contact button hidden behind a cookie banner on mobile is severe and quick to fix. A full restructure of a service page is valuable but slower. The audit report groups them into “fix now”, “test” and “consider later”, with the reasoning for each, so you can act without us if you prefer.",
-        "Ankur Kumar and Santosh Sharma usually share this work: one walks the pages as a developer and designer, the other reads the data and technical signals.",
+        "One of us and another of us usually share this work: one walks the pages as a developer and designer, the other reads the data and technical signals.",
       ],
     },
     {

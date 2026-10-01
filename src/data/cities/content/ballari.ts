@@ -167,7 +167,7 @@ const ballari: CityContent = {
       paragraphs: [
         "We should be clear: there is no office of ours in Ballari, and we will not list a borrowed address to seem local. The three of us work remotely for clients all over India. That is why our quotes carry no rent or sales commission, and why the person answering your message is someone who writes the code.",
         "It works like this. You message us on WhatsApp or take a short call and describe the business. We reply with a written plan of pages, a schedule and the cost. Partway through the build you receive a live link that runs on your phone, so you judge a real website, not a mock-up. Send corrections however you like, in Kannada, Telugu, Hindi or English, as text or voice notes. Small fixes usually go live within the day, and we reply seven days a week on Indian time.",
-        "Ankur Kumar is the full-stack developer. Santosh Sharma leads AI, machine learning, AWS and data engineering. Vedansh Shrivastava plans and tracks projects and builds the data science and automation work. Any of the three can be contacted directly.",
+        "One of us is the full-stack developer. Another of us leads AI, machine learning, AWS and data engineering. The third of us plans and tracks projects and builds the data science and automation work. Any of the three can be contacted directly.",
       ],
     },
     {

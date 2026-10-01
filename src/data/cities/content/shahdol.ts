@@ -168,7 +168,7 @@ const shahdol: CityContent = {
       paragraphs: [
         "In Shahdol, the phone rings before the customer arrives. A patient's relative wants to know whether the surgeon is in today, a student asks about the next MPPSC batch, a retailer from Beohari wants today's cement rate, and a traveller asks if a room is free on Saturday. Messages left unanswered for an hour usually end up with a competitor.",
         "Our <strong>AI and WhatsApp automation in Shahdol</strong> replies to routine questions in Hindi or English, sends timings, fee lists, brochures and locations, logs each enquiry in a Google Sheet, and hands serious leads to you with the full chat attached. Clinics can confirm appointments, coaching centres can send fee reminders, and dealers can share updated price lists in one go.",
-        "Projects start from ₹40,000 and take two to four weeks. Santosh Sharma designs the AI side so that pricing decisions, refunds and complaints always stay with a person. If your message volume is small, we will suggest a lighter setup that costs less rather than sell you something you don't need.",
+        "Projects start from ₹40,000 and take two to four weeks. Another of us designs the AI side so that pricing decisions, refunds and complaints always stay with a person. If your message volume is small, we will suggest a lighter setup that costs less rather than sell you something you don't need.",
       ],
     },
     {
@@ -177,7 +177,7 @@ const shahdol: CityContent = {
       paragraphs: [
         "We do not have an office in Shahdol and we will not pretend to. We are three engineers working remotely for clients across India. Not paying rent or sales staff is what keeps our starting prices low, and it means you speak directly with the people who build your site or app.",
         "Work starts with a call or WhatsApp chat about your business. Within about two working days you receive a page plan, timeline and itemised quote. Once you approve it, a private preview link arrives that you can open on your own phone and show to family or partners. Changes are requested on WhatsApp, and small ones are usually done the same day. We reply seven days a week, in IST.",
-        "Ankur Kumar handles full-stack development of websites and web apps. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava runs project management and works on data science and automation. You can <a href=\"/contact/\">contact us</a> directly or first read about our <a href=\"/services/web-development/\">web development service</a>.",
+        "One of us handles full-stack development of websites and web apps. Another of us works on AI, machine learning, AWS and data. The third of us runs project management and works on data science and automation. You can <a href=\"/contact/\">contact us</a> directly or first read about our <a href=\"/services/web-development/\">web development service</a>.",
       ],
     },
     {

@@ -221,7 +221,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A typical water can delivery app takes 6–10 weeks from signed quote to live apps, in four stages: mapping how your jars move, building the owner’s panel and ledger, building the staff and customer apps on top, and a live trial on one route before switching everyone over.`,
         `The first week is mostly questions and a walk-through on video. We want to see your register, your bill book, a photo of the plant floor and a typical morning’s call log. From that we write a short document: which customer types you serve, how deposits are taken, what the cut-off is, how offices are billed. You approve it before any code is written.`,
-        `The panel comes first because it holds the rules. Then the staff app, because drivers are the people who make or break the data. The customer app follows, and publishing to Google Play and the App Store happens under your developer accounts. Throughout, you get a test link and test builds every week, and Vedansh keeps a running list of what is done and what is next on WhatsApp.`,
+        `The panel comes first because it holds the rules. Then the staff app, because drivers are the people who make or break the data. The customer app follows, and publishing to Google Play and the App Store happens under your developer accounts. Throughout, you get a test link and test builds every week, and the third of us keeps a running list of what is done and what is next on WhatsApp.`,
       ],
       after: [`The pilot route matters more than any demo. One driver uses the staff app for a week while the diary runs alongside. Differences between the two tell us exactly which screen to fix before the rest of the team moves over.`],
     },

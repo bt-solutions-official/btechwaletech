@@ -310,7 +310,7 @@ const content: FreelanceContent = {
         "Days 11–14: payment provider in test mode, first test ticket printed in your kitchen.",
       ],
       after: [
-        `What we cannot do: visit your restaurant, install hardware or train staff in person. We guide the printer setup over video, and the three of us (Ankur on the build, Santosh on hosting and search, Vedansh on planning and automation) stay reachable seven days a week. More on our remote model: <a href='/hire-indian-developers/'>hiring developers in India</a>.`,
+        `What we cannot do: visit your restaurant, install hardware or train staff in person. We guide the printer setup over video, and the three of us (One of us on the build, another of us on hosting and search, the third of us on planning and automation) stay reachable seven days a week. More on our remote model: <a href='/hire-indian-developers/'>hiring developers in India</a>.`,
       ],
     },
     {

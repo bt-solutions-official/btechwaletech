@@ -177,7 +177,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A business system needs more than one skill set, and a single hire rarely has them all. Expect gaps and plan how to fill them.`,
         `Even a modest order management system touches database design, back-end logic, a usable interface, access control, backups, hosting, and sometimes a mobile app or WhatsApp alerts. Security and cloud setup are specialist work; so is making screens that busy counter staff can use without training. A generalist can do all of it passably, but some part usually suffers.`,
-        `An outsourced team spreads this across people. In ours, Ankur Kumar leads full-stack development, Santosh Sharma covers cloud infrastructure on AWS, data, AI and technical SEO, and Vedansh Shrivastava runs project management, testing checklists and automation. You get three perspectives on every design decision, and one person checks another's work before it goes live.`,
+        `An outsourced team spreads this across people. In ours, one of us leads full-stack development, another of us covers cloud infrastructure on AWS, data, AI and technical SEO, and the third of us runs project management, testing checklists and automation. You get three perspectives on every design decision, and one person checks another's work before it goes live.`,
       ],
     },
     {
@@ -205,7 +205,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Give outside developers the least access that lets them do the job, from accounts you own, and remove it the day the work ends. That rule protects you from vendors and employees alike.`,
         `In practice, host the software on a cloud account billed to your business, create individual logins for each developer rather than sharing one password, and use sample or masked data during development wherever possible. Production customer data should be reachable only by the people who need it, with access logged.`,
-        `We work this way by default. Santosh sets up the hosting under your account with separate user roles, backups and activity logs, and we build admin roles into the software itself so your staff see only what their job needs. When a project closes, you can revoke our access in minutes without breaking anything.`,
+        `We work this way by default. Another of us sets up the hosting under your account with separate user roles, backups and activity logs, and we build admin roles into the software itself so your staff see only what their job needs. When a project closes, you can revoke our access in minutes without breaking anything.`,
       ],
       list: [
         "Cloud account, domain and code repository in the business's name",

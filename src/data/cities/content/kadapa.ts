@@ -176,7 +176,7 @@ const kadapa: CityContent = {
       paragraphs: [
         "We do not have an office in Kadapa and will not put a false address on this page. We are three engineers working remotely for clients across India, which keeps our costs down and lets you speak directly with the people building your site.",
         "Work starts with a WhatsApp chat or call, followed by a written page plan, timeline and itemised quote. Within a week or two you receive a preview link to open on your own phone on mobile data. Feedback can come as messages or voice notes, and small changes usually go live the same day. We work on IST and reply seven days a week.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science tools. You can reach any of us directly.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science tools. You can reach any of us directly.",
       ],
     },
     {

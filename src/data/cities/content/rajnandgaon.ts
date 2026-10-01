@@ -158,7 +158,7 @@ const rajnandgaon: CityContent = {
       paragraphs: [
         "We have no office in Rajnandgaon, Durg or Raipur, and we say that plainly. We are three engineers who work remotely for clients across India. Not paying rent or sales commissions is how we keep our starting prices where they are.",
         "Working together takes a phone and WhatsApp. We first call to understand your business and customers, then send a page plan, timeline and itemised quote in writing. After you approve it, you get a private link to watch the site take shape and check it on your own phone. Corrections go on WhatsApp, and small ones are often finished the same day. We reply seven days a week, on Indian time.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and handles automation and data science. You can <a href=\"/contact/\">reach any of us directly</a>; there is no call centre in between.",
+        "One of us builds the websites and applications. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and handles automation and data science. You can <a href=\"/contact/\">reach any of us directly</a>; there is no call centre in between.",
       ],
     },
     {

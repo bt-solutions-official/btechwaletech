@@ -88,7 +88,7 @@ const mohali: CityContent = {
       heading: "MVPs and SaaS builds for Mohali founders",
       paragraphs: [
         "Mohali has a steady supply of founders: engineers leaving IT service firms, ISB graduates, researchers from the science institutes and small agencies turning client work into products. Most need the same thing first, a working MVP that real users can try, built without locking them into one developer forever.",
-        "We build web apps and SaaS products with login, roles, billing through Razorpay, admin panels, email and WhatsApp notifications, and hosting on AWS or similar services in your account. Santosh handles cloud architecture and any AI or data components; Ankur writes the application; Vedansh keeps scope, timeline and priorities honest. You get the repository, documentation and deployment access from the first day.",
+        "We build web apps and SaaS products with login, roles, billing through Razorpay, admin panels, email and WhatsApp notifications, and hosting on AWS or similar services in your account. Another of us handles cloud architecture and any AI or data components; one of us writes the application; the third of us keeps scope, timeline and priorities honest. You get the repository, documentation and deployment access from the first day.",
         "We push back on scope. An MVP should prove one thing, not ship every feature on the roadmap. Starting from ₹60,000, most MVPs take six to twelve weeks, and we would rather launch something narrow that users actually use than spend months on screens nobody opens.",
       ],
     },
@@ -169,7 +169,7 @@ const mohali: CityContent = {
       heading: "AI agents and WhatsApp automation for Mohali businesses",
       paragraphs: [
         "Businesses in Mohali are more open to automation than most, but many have been burned by chatbots that frustrate customers. The useful kind is narrow and honest: it handles routine questions quickly, collects details, and hands over to a person when needed.",
-        "Typical projects include property lead qualification with brochure delivery and site-visit booking; clinic appointment booking with reminders; visa enquiry intake with document checklists; order status and returns for online stores; and internal assistants that answer staff questions from your own policies and documents. Santosh builds the AI side on your data, with guardrails so the assistant says “I'll connect you” instead of guessing.",
+        "Typical projects include property lead qualification with brochure delivery and site-visit booking; clinic appointment booking with reminders; visa enquiry intake with document checklists; order status and returns for online stores; and internal assistants that answer staff questions from your own policies and documents. Another of us builds the AI side on your data, with guardrails so the assistant says “I'll connect you” instead of guessing.",
         "Automation starts from ₹40,000 and usually takes two to four weeks. We map your current process first and automate only what is repetitive. Anything involving payment disputes, medical advice or legal promises stays with your team.",
       ],
     },
@@ -179,7 +179,7 @@ const mohali: CityContent = {
       paragraphs: [
         "We have no office in Mohali. We are three engineers working remotely for clients across India, and we would rather say that than rent a desk to look local. Many Mohali businesses already work with remote teams, so the model will feel familiar.",
         "After a first call, we send a written scope, timeline and itemised quote, usually within two working days. During the build you get a staging link, weekly progress updates and direct WhatsApp access to the engineers. Small changes are often done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science pieces. You can <a href=\"/contact/\">reach any of us</a> directly.",
+        "One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data science pieces. You can <a href=\"/contact/\">reach any of us</a> directly.",
       ],
     },
     {

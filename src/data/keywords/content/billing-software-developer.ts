@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A billing software developer builds the path from “customer wants to buy” to “invoice issued, payment recorded, tax calculated, stock reduced, report updated”. The invoice PDF is the visible part; the rules behind it are the real work.`,
         `In practice that means a product or service master with HSN or SAC codes and tax rates, a party master with GSTIN and state, invoice screens that pick the correct tax split, numbering that never repeats within a financial year, payment entry across cash, UPI, card and credit, returns and credit notes, and reports that your accountant can use without retyping.`,
-        `On our team, Ankur Kumar builds the application itself, Santosh Sharma handles hosting, database design, backups and reporting, and Vedansh Shrivastava maps your current billing process and runs the project plan. That mapping step matters: every business has a few habits, such as a particular discount scheme, that software must respect or staff will quietly go back to paper.`,
+        `On our team, one of us builds the application itself, another of us handles hosting, database design, backups and reporting, and the third of us maps your current billing process and runs the project plan. That mapping step matters: every business has a few habits, such as a particular discount scheme, that software must respect or staff will quietly go back to paper.`,
       ],
       list: [
         "Masters: items, services, parties, tax rates, price lists",

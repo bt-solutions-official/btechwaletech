@@ -167,7 +167,7 @@ const singrauli: CityContent = {
       paragraphs: [
         "We do not have an office in Singrauli, Rewa or anywhere nearby, and we will not display an address we do not use. We are three engineers working remotely for clients across India. Without rent or a sales team our prices stay lower, and you always speak to someone who works on your project.",
         "We begin with a call or WhatsApp conversation about your business and what you need. You receive a page plan or a software outline, a timeline and an itemised quote in writing. After approval, a live preview arrives within one to two weeks for a website, or in planned stages for software. Changes are requested on WhatsApp, and small ones are often done the same day.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work, which suits operational systems for fleets and sites. We reply seven days a week on Indian time. <a href=\"/contact/\">Contact us here</a>.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work, which suits operational systems for fleets and sites. We reply seven days a week on Indian time. <a href=\"/contact/\">Contact us here</a>.",
       ],
     },
     {

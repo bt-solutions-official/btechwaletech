@@ -89,7 +89,7 @@ const gurgaon: CityContent = {
       paragraphs: [
         "Early-stage companies in Gurugram usually have two software problems at once. They need a marketing site that explains a product which is still changing every month, and they need the product itself, or at least a working MVP, without hiring five engineers before the next round.",
         "For the marketing site, we build something the founders can edit themselves: headlines, pricing tables and feature sections that change without a developer. We set up analytics, a waitlist or demo booking flow, and event tracking from the first day, so you know which campaigns bring real sign-ups. Pages are structured so that when positioning shifts, as it will, the site bends rather than breaks.",
-        "For the product, Ankur Kumar builds full-stack web applications with sensible, well-known tools rather than exotic ones, so the next engineer you hire can pick them up quickly. Santosh Sharma handles AWS architecture, data pipelines and any machine learning pieces, and keeps cloud costs proportionate to your stage. We document as we go and hand over a repository you fully own. If you later build an internal team, we help with the transition rather than making it difficult.",
+        "For the product, one of us builds full-stack web applications with sensible, well-known tools rather than exotic ones, so the next engineer you hire can pick them up quickly. Another of us handles AWS architecture, data pipelines and any machine learning pieces, and keeps cloud costs proportionate to your stage. We document as we go and hand over a repository you fully own. If you later build an internal team, we help with the transition rather than making it difficult.",
       ],
     },
     {
@@ -149,7 +149,7 @@ const gurgaon: CityContent = {
       heading: "AI agents and automation that earn their place",
       paragraphs: [
         "Almost every Gurugram company has been pitched an AI project in the last two years, and many have tried one that looked impressive in a demo and then quietly stopped being used. The useful projects tend to be narrower: take one repetitive process, automate it reliably, and measure the time saved.",
-        "Examples that work well include a lead qualification assistant that asks inbound prospects a few questions and routes them to the right salesperson, a WhatsApp flow that handles order status and returns for a D2C brand, a document assistant that answers staff questions using your internal policies, and an automation that reads incoming purchase orders and enters them into your system. Santosh Sharma and Vedansh Shrivastava design these with clear boundaries: what the AI can answer, when it hands over to a person, and how every action is logged.",
+        "Examples that work well include a lead qualification assistant that asks inbound prospects a few questions and routes them to the right salesperson, a WhatsApp flow that handles order status and returns for a D2C brand, a document assistant that answers staff questions using your internal policies, and an automation that reads incoming purchase orders and enters them into your system. Another of us and the third of us design these with clear boundaries: what the AI can answer, when it hands over to a person, and how every action is logged.",
         "Automation projects start from ₹40,000 and usually take two to four weeks. We start by mapping the process as it runs today, estimate the time saved, and tell you plainly when a simple rule-based workflow will do the job better than a language model.",
       ],
     },
@@ -159,7 +159,7 @@ const gurgaon: CityContent = {
       paragraphs: [
         "We have no office in Gurugram, and we will not list a coworking address to look local. BtechWaleTech is three engineers working remotely for clients across India. Many Gurugram teams already work in a hybrid way, spread across Delhi, Noida and other cities, so a remote vendor fits naturally into how they operate.",
         "Communication is direct. You get a shared WhatsApp group or Slack channel with the engineers building your project, not an account manager. We send a written plan and quote, share a live preview link within the first week or two, and push small changes the same day. For web apps we work in short cycles with a working build at each stage. We reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma covers AI, machine learning, AWS and data engineering. Vedansh Shrivastava manages delivery and handles data science and automation. With three people, work does not stall if one of us is unavailable, and you always know who wrote which part of your code.",
+        "One of us leads full-stack development. Another of us covers AI, machine learning, AWS and data engineering. The third of us manages delivery and handles data science and automation. With three people, work does not stall if one of us is unavailable, and you always know who wrote which part of your code.",
       ],
     },
     {

@@ -251,7 +251,7 @@ const content: FreelanceContent = {
       heading: "How we build a dealer loyalty program app, week by week",
       paragraphs: [
         `The build runs in four stages: scheme design and screens, the core scan-and-earn loop, KYC and payouts, then a pilot with real members before a wider launch. A typical first release takes 6–10 weeks for the app and up to 12 weeks when the console and integrations are heavy.`,
-        `Week one is mostly questions. Which members, which SKUs, what a point is worth, who approves payouts, which languages, where codes will be printed. Vedansh turns the answers into a written scope and a scheme rule sheet your sales head signs off. Ankur builds the app and console; Santosh sets up the cloud account in your name, the database, the payout integration and the dashboards.`,
+        `Week one is mostly questions. Which members, which SKUs, what a point is worth, who approves payouts, which languages, where codes will be printed. The third of us turns the answers into a written scope and a scheme rule sheet your sales head signs off. One of us builds the app and console; another of us sets up the cloud account in your name, the database, the payout integration and the dashboards.`,
         `We then ship a working scan-and-earn loop on test codes within the first few weeks so your team can try it on their own phones. KYC, redemption and fraud rules follow, tested with dummy payouts. The pilot runs with a small group of friendly electricians or retailers in one territory, which exposes confusing screens and printing problems before a lakh codes reach the market.`,
       ],
       list: [

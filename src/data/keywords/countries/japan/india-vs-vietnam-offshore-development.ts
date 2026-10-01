@@ -67,7 +67,7 @@ const content: FreelanceContent = {
     heading: "Project types a small Indian team handles well for Japan",
     note: "If your India vs Vietnam offshore development decision comes down to the type of work, these are the areas where an English-first team in India is usually the stronger pick.",
     cards: [
-      { name: "AI automation and agents", note: `Document extraction, RAG chatbots over your manuals and workflow agents, built by Santosh with your cloud account as owner, from ${P.ai}.`, size: "lg" },
+      { name: "AI automation and agents", note: `Document extraction, RAG chatbots over your manuals and workflow agents, built by another of us with your cloud account as owner, from ${P.ai}.`, size: "lg" },
       { name: "Custom web apps and SaaS features", note: `React, Next.js, Node.js or Python products run as short iterations with an English product owner, from ${P.software}.`, href: "/japan/hire-react-developers/", size: "lg" },
       { name: "Data pipelines and dashboards", note: "Sales, inventory or usage data cleaned, modelled and shown in dashboards your managers can read without asking an engineer.", size: "md" },
       { name: "AWS setup and cost clean-up", note: "Accounts, IAM, backups and monitoring set up under your organisation, with a written runbook your in-house staff can follow.", size: "md" },
@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["Spec format it prefers", "Japanese basic and detailed design documents", "English requirements, often formal", "English tickets, user stories, screenshots"],
       ["Strongest work", "Japanese-spec system development and testing", "Large programmes and long contracts", "AI, data, AWS, web apps and mobile apps"],
       ["Minimum engagement", "Often a lab team of several people", "Usually larger scopes", `Single projects from ${P.site}`],
-      ["Who you talk to", "Bridge SE and project manager", "Account and delivery managers", "Ankur, Santosh and Vedansh by name"],
+      ["Who you talk to", "Bridge SE and project manager", "Account and delivery managers", "The BtechWaleTech team by name"],
       ["Local presence", "Many have a Japan sales office", "Many have Japan offices", "None; fully remote from India"],
       ["Choose it when", "Your staff work only in Japanese", "You need scale and formal governance", "You can run it in English and want specialists"],
     ],
@@ -174,7 +174,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `For AI, data engineering and cloud architecture, India usually offers a deeper and more varied pool, because Indian engineers have worked on this kind of product work for global companies for many years. Vietnam’s pool is growing quickly, but the Japan-facing vendors in particular have concentrated on system development to Japanese specifications.`,
         `This matters because AI and data projects are experimental by nature. You do not hand over a detailed design document for a retrieval-augmented chatbot; you agree a goal, try an approach on real documents, measure the answers, and adjust. That loop works best when the engineer doing the experiment talks directly to the person who knows the documents. A translation layer slows each loop down.`,
-        `On our team, Santosh Sharma handles AI, machine learning, AWS and data work. Typical projects for Japanese clients include extracting fields from scanned invoices and order forms, search over internal manuals, LINE chatbots that answer from your own content, and dashboards built on sales or inventory data. Japanese text brings its own issues (tokenisation, mixed full-width and half-width characters, vertical scans), and we test on your real samples before promising accuracy.`,
+        `On our team, another of us handles AI, machine learning, AWS and data work. Typical projects for Japanese clients include extracting fields from scanned invoices and order forms, search over internal manuals, LINE chatbots that answer from your own content, and dashboards built on sales or inventory data. Japanese text brings its own issues (tokenisation, mixed full-width and half-width characters, vertical scans), and we test on your real samples before promising accuracy.`,
         `Cloud work follows the same pattern. We set up AWS accounts under your organisation, with IAM roles, backups, logging and budget alerts, and write a runbook in English. If you already run on Google Cloud or Azure, we work there instead. What we do not do is manage physical servers in a Japanese data centre or provide 24/7 on-call operations; for that, a larger vendor is the right choice.`,
       ],
     },
@@ -255,7 +255,7 @@ const content: FreelanceContent = {
         `Communication style differs more between vendors than between countries, but some patterns are worth knowing: Japan-facing Vietnamese teams are trained in Japanese reporting habits, while English-first Indian teams tend to raise questions openly in writing and expect quick decisions.`,
         `With us, the default channel is written: a shared chat or your issue tracker, plus WhatsApp for quick questions, with replies seven days a week in IST. We hold one scheduled call a week in your afternoon, more during launch weeks. When something is unclear, we ask rather than guess, and when something will slip, we say so early with the reason and a new date. If your team prefers Slack, Teams or Backlog, we use that.`,
         `Holiday calendars are worth putting in the plan in either country. Vietnam’s Tết (Lunar New Year) usually falls in late January or February and many teams take several days off around it. India’s biggest festival period is usually Diwali in October or November, and holidays vary by state. Japan has its own quiet weeks around Golden Week, Obon and the year-end. Put all three calendars side by side when you plan a release and agree the dates in the written schedule.`,
-        `Finally, decide who decides. In a bridge SE model, decisions often travel up and down two chains. In our model, one person on your side approves scope and priorities, and one of us (usually Vedansh) keeps the plan. That short chain is a big part of why a small team can move quickly.`,
+        `Finally, decide who decides. In a bridge SE model, decisions often travel up and down two chains. In our model, one person on your side approves scope and priorities, and one of us (usually the third of us) keeps the plan. That short chain is a big part of why a small team can move quickly.`,
       ],
     },
     {
@@ -305,7 +305,7 @@ const content: FreelanceContent = {
       ],
       subs: [
         { heading: "Days 1–3: access and questions", text: "You invite us to your repository, issue tracker and cloud account. We read what exists, list every open question in one document, and hold the first call at around 13:00–14:00 JST." },
-        { heading: "Days 4–7: plan and first build", text: "Vedansh turns the answers into a milestone plan with dates. Ankur or Santosh starts the first feature, with a preview link you can open on your phone." },
+        { heading: "Days 4–7: plan and first build", text: "The third of us turns the answers into a milestone plan with dates. One of us or another of us starts the first feature, with a preview link you can open on your phone." },
         { heading: "Days 8–10: first review", text: "You review the first feature against its acceptance criteria. We fix what needs fixing and adjust the plan if the review shows the spec was unclear." },
         { heading: "Days 11–14: rhythm", text: "A weekly call, daily written updates, and pull requests you can see as they happen. By now you know whether English-first works for your team." },
       ],

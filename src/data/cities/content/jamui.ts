@@ -69,7 +69,7 @@ const jamui: CityContent = {
       paragraphs: [
         "Jamui is a young district, formed in 1991 when it was separated from Munger, and the town serves ten blocks and well over a thousand villages. Families from Sikandra, Khaira, Chakai, Sono and Gidhaur come here for the district court, government offices, hospitals, colleges, wholesale markets and coaching classes. Before they make the trip, more and more of them check a phone.",
         "That habit shapes what <strong>IT services in Jamui</strong> should deliver. A shopkeeper needs a correct Google Maps pin and a WhatsApp link, not a flashy site. A coaching centre needs a page that lists batches, fees and results honestly. A clinic needs doctor timings that are actually up to date. A contractor bidding for government or private work needs a simple profile that looks credible when a purchase officer searches for it.",
-        "We are a remote team of three engineers. Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Jamui and do not pretend otherwise. Work happens over WhatsApp, phone calls and screen shares, with every plan and quote in writing.",
+        "We are a remote team of three engineers. One of us handles full-stack development, another of us handles AI, machine learning, AWS and data work, and the third of us runs project management, data science and automation. We have no office in Jamui and do not pretend otherwise. Work happens over WhatsApp, phone calls and screen shares, with every plan and quote in writing.",
       ],
     },
     {

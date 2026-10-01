@@ -187,7 +187,7 @@ const shamli: CityContent = {
       id: "remote-it-company-shamli",
       heading: "An IT services team for Shamli that works remotely",
       paragraphs: [
-        "We have no office in Shamli, Muzaffarnagar or anywhere in Uttar Pradesh, and we will not claim one. BtechWaleTech is three engineers working remotely. Ankur Kumar builds full-stack web systems, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation.",
+        "We have no office in Shamli, Muzaffarnagar or anywhere in Uttar Pradesh, and we will not claim one. BtechWaleTech is three engineers working remotely. One of us builds full-stack web systems, another of us covers AI, machine learning, AWS and data, and the third of us handles project management, data science and automation.",
         "Tell us what you need on WhatsApp or a short call. Within about two working days you get an itemised written quote. Work begins, and billing begins, only after you approve it in writing. While we build, you follow progress on a live preview link and send comments whenever the factory gives you a free minute.",
         "We reply on WhatsApp seven days a week on Indian Standard Time and record every decision and payment milestone in writing. You can <a href=\"/contact/\">message us here</a>.",
       ],

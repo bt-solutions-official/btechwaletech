@@ -159,7 +159,7 @@ const ichalkaranji: CityContent = {
       paragraphs: [
         "A typical weaving unit tracks production in a register, beam issues on paper and payments in a mix of Tally and memory. The owner knows roughly how things are going, but questions such as which looms are underperforming this month, which job-work party still owes for last quarter, or how much yarn is lying unused are hard to answer quickly.",
         "We build simple web applications for exactly this. Supervisors enter daily meterage per loom on a phone, beam and yarn movements are recorded when they happen, and dispatches and bills are linked to each party. The owner gets a dashboard showing production by loom and quality, pending payments by party, and stock on hand. Because it is a progressive web app, staff install it from a link, and it works on the ordinary Android phones already in the shed.",
-        "These tools start from ₹60,000 for a custom web application, depending on how many screens and reports you need. We begin with the one report that would save you the most time and add the rest only once that first piece is being used every day. Santosh Sharma, who leads our data and AI work, handles the reporting side and can connect existing Excel or Tally exports.",
+        "These tools start from ₹60,000 for a custom web application, depending on how many screens and reports you need. We begin with the one report that would save you the most time and add the rest only once that first piece is being used every day. Another of us, who leads our data and AI work, handles the reporting side and can connect existing Excel or Tally exports.",
       ],
     },
     {
@@ -168,7 +168,7 @@ const ichalkaranji: CityContent = {
       paragraphs: [
         "We do not have an office in Ichalkaranji, and we will not borrow an address to pretend otherwise. We are three engineers working remotely for clients across India. Textile owners are already used to this: many of your buyers, agents and suppliers are people you deal with by phone and WhatsApp for years before ever meeting.",
         "The work follows a clear routine. A call or WhatsApp chat about your business comes first, then a written page plan, timeline and itemised quote. Within a week or two you receive a live preview link to check on your own phone. Feedback is sent on WhatsApp, and small corrections are usually made the same day. We reply seven days a week on Indian Standard Time, which suits owners who only find time for the website on a Sunday.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You speak directly to whichever of us is doing the work. See how we approach builds on our <a href=\"/services/web-development/\">web development page</a>.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You speak directly to whichever of us is doing the work. See how we approach builds on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {

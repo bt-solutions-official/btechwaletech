@@ -162,7 +162,7 @@ const bharuch: CityContent = {
       paragraphs: [
         "A chemical trader's WhatsApp is full of rate requests, stock checks and dispatch queries, many from buyers asking the same questions about grade, pack size and minimum quantity. A contractor's phone carries attendance photos, work updates and material requests from half a dozen sites. Both lose information in the scroll.",
         "We connect your WhatsApp Business number and website forms to a shared sheet or simple CRM. An assistant working only from product data you approve can answer grade, packing and availability questions, ask for quantity and delivery location, and pass a qualified RFQ to your sales person. For contractors, site messages can be turned into daily logs by site and date.",
-        "Automation starts at ₹40,000. Santosh Sharma, who handles our AI and data work, maps your current process first and suggests only what saves time safely. Price negotiation, technical advice on hazardous materials and complaints always stay with a person.",
+        "Automation starts at ₹40,000. Another of us, who handles our AI and data work, maps your current process first and suggests only what saves time safely. Price negotiation, technical advice on hazardous materials and complaints always stay with a person.",
       ],
     },
     {
@@ -178,14 +178,14 @@ const bharuch: CityContent = {
       heading: "Dashboards for traders and contractors",
       paragraphs: [
         "Chemical traders deal with many products, suppliers and customers, and margins move with every rate change. Contractors juggle manpower across sites, monthly bills and retention amounts. The numbers sit in ERP exports, Tally and spreadsheets, but few owners see them in one place.",
-        "We build dashboards that show enquiries, quotes and orders by product and customer, outstanding payments, and for contractors, manpower and billing by site. Vedansh Shrivastava and Santosh Sharma handle this work, starting from the questions you already ask each week. Dashboards are quoted separately and can be added to any website or automation project.",
+        "We build dashboards that show enquiries, quotes and orders by product and customer, outstanding payments, and for contractors, manpower and billing by site. The third of us and another of us handle this work, starting from the questions you already ask each week. Dashboards are quoted separately and can be added to any website or automation project.",
       ],
     },
     {
       id: "remote-team-bharuch",
       heading: "How we work with Bharuch clients remotely",
       paragraphs: [
-        "We do not have an office in Bharuch, Vadodara or Surat, and we will not invent one. We are three engineers working remotely for businesses across India. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects and works on data science and automation.",
+        "We do not have an office in Bharuch, Vadodara or Surat, and we will not invent one. We are three engineers working remotely for businesses across India. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us manages projects and works on data science and automation.",
         "We begin on WhatsApp or a call, send a page plan and itemised quote, and share a preview link within the first week or two for you to check on your phone. Your technical staff can review product pages directly and leave comments in one thread. We work on IST and reply seven days a week, which helps during shutdowns when your team works weekends.",
         "Gujarati voice notes are welcome; we reply in English or Hindi and confirm decisions in writing. <a href=\"/contact/\">Contact us here</a>.",
       ],

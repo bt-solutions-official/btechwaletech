@@ -69,7 +69,7 @@ const nanpara: CityContent = {
       paragraphs: [
         "Nanpara's position explains most of its business. The four-lane highway from Lucknow through Bahraich runs past the town towards Rupaidiha, where goods cross into Nepalgunj. Trucks, transport agents, clearing staff, dhabas, tyre shops and wholesalers all depend on that flow, while the surrounding villages grow paddy, wheat, pulses and sugarcane and come to Nanpara to sell and to buy.",
         "Requests for <strong>IT services in Nanpara</strong> reflect this mix. A transporter wants to know where each truck is and which bills are pending. A rice miller wants a cleaner record of paddy purchases. A hospital wants its doctors and timings on Google. A school wants parents to see notices without calling. Most of these jobs are smaller than people fear, and most can start small.",
-        "Nobody from our side sits in a Nanpara office; the three of us work remotely and talk to clients directly by phone and WhatsApp. Ankur Kumar writes the full-stack code for sites and web apps. Santosh Sharma takes AI, machine learning, AWS hosting and data work. Vedansh Shrivastava plans projects, runs data science tasks and builds the automation.",
+        "Nobody from our side sits in a Nanpara office; the three of us work remotely and talk to clients directly by phone and WhatsApp. One of us writes the full-stack code for sites and web apps. Another of us takes AI, machine learning, AWS hosting and data work. The third of us plans projects, runs data science tasks and builds the automation.",
       ],
     },
     {

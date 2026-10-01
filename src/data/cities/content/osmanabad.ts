@@ -173,7 +173,7 @@ const osmanabad: CityContent = {
       id: "remote-team",
       heading: "How a remote team works with Dharashiv clients",
       paragraphs: [
-        "We do not have an office in Dharashiv, Tuljapur or anywhere else in Marathwada, and we will not pretend to. We are three engineers working remotely: Ankur Kumar handles full-stack development, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation.",
+        "We do not have an office in Dharashiv, Tuljapur or anywhere else in Marathwada, and we will not pretend to. We are three engineers working remotely: one of us handles full-stack development, another of us leads AI, machine learning, AWS and data work, and the third of us runs project management, data science and automation.",
         "The process is simple. You explain what you need on WhatsApp or a short call, in Marathi-flavoured Hindi or English, whichever is comfortable. We send an itemised written quote in about two working days. Nothing is billed until you approve it in writing, and payments follow milestones agreed in that quote.",
         "While we build, you follow progress on a live preview link from your phone and leave comments whenever you like. We reply on WhatsApp seven days a week on Indian Standard Time, and every decision is noted in writing so there is no confusion later.",
         "Because there is no local showroom or sales staff, you talk directly to the people who write the code. For a small clinic or trader, this usually means faster answers and fewer misunderstandings than dealing through a middleman.",

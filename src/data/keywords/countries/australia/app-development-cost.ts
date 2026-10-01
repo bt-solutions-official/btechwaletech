@@ -86,7 +86,7 @@ const content: FreelanceContent = {
       ["Discovery and design", "Often a paid workshop phase", "Usually skipped", "Included in the itemised quote as screens and flows"],
       ["iOS and Android", "Sometimes native, two codebases", "Often one platform only", "One Flutter or React Native codebase for both"],
       ["Admin panel", "Usually quoted", "Often missing", "Quoted as its own line"],
-      ["Project management", "Dedicated PM, billed", "You manage the freelancer", "Vedansh runs milestones and demos"],
+      ["Project management", "Dedicated PM, billed", "You manage the freelancer", "The third of us runs milestones and demos"],
       ["Face-to-face meetings", "Yes", "No", "No; video calls in your afternoon"],
       ["Platform or service fees", "None", "Marketplace fee on each payment", "None"],
       ["Starting price", "Ask for their range", "Varies widely", `From ${P.app}`],
@@ -282,7 +282,7 @@ const content: FreelanceContent = {
       heading: "How paying and working with an app team in India works from Australia",
       paragraphs: [
         `Working with us from Australia looks like a normal project with a time difference that helps more than it hurts. India is four and a half hours behind Sydney and Melbourne on standard time, and two and a half behind Perth.`,
-        `Calls happen in your afternoon, which is our morning. You review a build in the evening or the next morning, send notes on WhatsApp, and the fixes are underway before your next working day starts. Ankur leads the app and backend code, Santosh handles cloud setup, AI features and analytics, and Vedansh runs the milestones and demos.`,
+        `Calls happen in your afternoon, which is our morning. You review a build in the evening or the next morning, send notes on WhatsApp, and the fixes are underway before your next working day starts. One of us leads the app and backend code, another of us handles cloud setup, AI features and analytics, and the third of us runs the milestones and demos.`,
         `Quotes are in USD, and you pay by Wise, bank wire or PayPal against milestones. Invoices come from India, and we do not advise on how you treat them for tax; your accountant does that.`,
       ],
       subs: [

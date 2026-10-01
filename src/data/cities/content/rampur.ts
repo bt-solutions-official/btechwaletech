@@ -159,7 +159,7 @@ const rampur: CityContent = {
       paragraphs: [
         "We do not have an office in Rampur, or in any other city, and we will not pretend otherwise. We are three engineers who work remotely for businesses across India. No rent and no salespeople is a large part of why our prices are lower than agency quotes.",
         "The process runs on calls and WhatsApp. First a conversation about what you sell and to whom, then a written page plan, timeline and itemised quote. Within a week or two you get a live preview link to open on your own phone and show your partners. Corrections are sent as WhatsApp messages and small ones are usually finished the same day. We answer seven days a week, Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava runs projects and handles automation and data science. You can <a href=\"/contact/\">reach any of us</a> directly, and you always know who is working on your site.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us runs projects and handles automation and data science. You can <a href=\"/contact/\">reach any of us</a> directly, and you always know who is working on your site.",
       ],
     },
     {

@@ -166,7 +166,7 @@ const paramakudi: CityContent = {
       id: "remote-team-paramakudi",
       heading: "An IT services team in Paramakudi's reach, without an office in town",
       paragraphs: [
-        "We have no office in Paramakudi, Ramanathapuram or anywhere in Tamil Nadu, and we will not pretend otherwise. BtechWaleTech is three engineers who work remotely. Ankur Kumar handles full-stack development, Santosh Sharma looks after AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation.",
+        "We have no office in Paramakudi, Ramanathapuram or anywhere in Tamil Nadu, and we will not pretend otherwise. BtechWaleTech is three engineers who work remotely. One of us handles full-stack development, another of us looks after AI, machine learning, AWS and data work, and the third of us runs project management, data science and automation.",
         "You tell us what you need on WhatsApp or a call. Within about two working days you receive an itemised written quote. Work starts only after you approve it in writing, and nothing is billed before that. During the build you get a preview link you can open on your phone between customers and comment on whenever you like.",
         "We answer WhatsApp seven days a week on Indian Standard Time, and every decision is kept in writing so there is no confusion later about what was agreed.",
       ],

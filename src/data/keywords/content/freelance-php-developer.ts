@@ -243,7 +243,7 @@ const content: FreelanceContent = {
       heading: "Making a slow PHP application fast again",
       paragraphs: [
         `Slow PHP pages are usually slow databases. Before touching code, we turn on the slow query log and look at which queries run most often and longest. Missing indexes and the classic “N+1” pattern, where a page runs one query per row in a list, account for most of the pain.`,
-        `After the database, three quick wins: make sure OPcache is enabled, move to a current PHP 8 release, and cache results that rarely change, such as menu trees or price lists. For Laravel, route, config and view caching plus queued background jobs help a lot. If you are on crowded shared hosting and traffic has grown, a small VPS or an AWS instance with PHP-FPM behind Nginx is often the right step; Santosh handles that side.`,
+        `After the database, three quick wins: make sure OPcache is enabled, move to a current PHP 8 release, and cache results that rarely change, such as menu trees or price lists. For Laravel, route, config and view caching plus queued background jobs help a lot. If you are on crowded shared hosting and traffic has grown, a small VPS or an AWS instance with PHP-FPM behind Nginx is often the right step; another of us handles that side.`,
         `For public pages, check Core Web Vitals too. A fast server does not help if the page ships heavy images and scripts. Our <a href='/website-speed-optimization-freelancer/'>speed optimisation</a> page covers the front-end half.`,
       ],
     },

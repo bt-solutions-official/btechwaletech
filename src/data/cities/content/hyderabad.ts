@@ -160,7 +160,7 @@ const hyderabad: CityContent = {
       paragraphs: [
         "Hyderabad businesses hear a great deal about AI, often from vendors who promise far more than they deliver. We take a practical line: find tasks that are repetitive, clearly defined and easy to check, automate those first, and keep people in charge of judgement calls.",
         "Common projects include a WhatsApp assistant that answers routine questions about menus, fees, stock or appointment slots in Telugu, Hindi, Urdu or English and hands anything unusual to staff; an enquiry pipeline that gathers leads from the website, WhatsApp and IndiaMART into one CRM; document extraction for purchase orders, invoices or certificates of analysis; and internal assistants that answer staff questions from your own SOPs and cite the source document.",
-        "Santosh Sharma leads our AI and AWS work and builds these with logging, cost controls and clear limits on what the system may do by itself. Projects start at ₹40,000. Payments, medical advice and anything with regulatory or legal weight stay with your team, and we'll tell you if an automation isn't worth the maintenance.",
+        "Another of us leads our AI and AWS work and builds these with logging, cost controls and clear limits on what the system may do by itself. Projects start at ₹40,000. Payments, medical advice and anything with regulatory or legal weight stay with your team, and we'll tell you if an automation isn't worth the maintenance.",
       ],
     },
     {
@@ -169,7 +169,7 @@ const hyderabad: CityContent = {
       paragraphs: [
         "We have no office in Hyderabad, and we won't list a borrowed address to seem local. We are three engineers working remotely across India. Given the drive between Secunderabad and Gachibowli at rush hour, most clients are happy to meet over a call.",
         "We begin with a conversation about your business, then send a written plan with pages, features, timeline and cost. Within the first week or two you get a live preview link to test on your own phone. Feedback can come as messages, screenshots or voice notes, and small changes usually go live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack <a href=\"/services/web-development/\">web development</a>. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can speak to any of us directly.",
+        "One of us leads full-stack <a href=\"/services/web-development/\">web development</a>. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can speak to any of us directly.",
       ],
     },
     {

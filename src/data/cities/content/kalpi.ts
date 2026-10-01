@@ -69,7 +69,7 @@ const kalpi: CityContent = {
       paragraphs: [
         "Kalpi is small on the map but unusually well placed. The Kanpur–Jhansi railway crosses the Yamuna here, NH 27 carries trucks between Kanpur and Jhansi past the town, and Orai, the district headquarters, is a short bus ride away. For centuries it traded in grain, ghee and cotton, and today it also has something few towns of its size can claim: a working cluster of handmade paper factories whose products reach offices, shops and exporters far from Bundelkhand.",
         "That mix shapes the requests we get for <strong>IT services in Kalpi</strong>. A paper unit wants a catalogue that a buyer in Delhi or Jaipur can trust. A grain trader wants a clean record of lots, rates and payments. A school wants admission forms and a way to reach parents. A clinic near the station wants its timings to show correctly on Google. None of these need a large agency; they need someone who will listen to the actual problem and build the smallest thing that solves it.",
-        "We are three engineers working remotely. Ankur Kumar builds websites and web applications from front to back, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project planning, data science and automation. There is no Kalpi office, and we will not pretend otherwise. Everything happens on WhatsApp, phone calls and shared screens, with written documents at each stage so you can check what was agreed.",
+        "We are three engineers working remotely. One of us builds websites and web applications from front to back, another of us handles AI, machine learning, AWS and data work, and the third of us runs project planning, data science and automation. There is no Kalpi office, and we will not pretend otherwise. Everything happens on WhatsApp, phone calls and shared screens, with written documents at each stage so you can check what was agreed.",
       ],
     },
     {
@@ -164,7 +164,7 @@ const kalpi: CityContent = {
       id: "remote-team-kalpi",
       heading: "How our remote IT team works with clients in Kalpi",
       paragraphs: [
-        "Because we have no office in Kalpi, we rely on a clear paper trail instead of meetings. After a first call about your business and customers, Vedansh sends a written plan listing the pages or app screens, the timeline and a costed list of every item. Ankur builds the site or app, and Santosh takes on anything involving AI, cloud hosting or data.",
+        "Because we have no office in Kalpi, we rely on a clear paper trail instead of meetings. After a first call about your business and customers, the third of us sends a written plan listing the pages or app screens, the timeline and a costed list of every item. One of us builds the site or app, and another of us takes on anything involving AI, cloud hosting or data.",
         "Work starts only after you approve that plan, and nothing is billed before then. As the project moves you get preview links that open on any phone, so you can show them to family or partners and send comments in Hindi on WhatsApp. Any Hindi copy is sent to you to read before it goes live, because a spelling mistake on a product page or school notice is noticed and remembered.",
         "We answer WhatsApp seven days a week on Indian time. If something will be late, you hear about it the day we know, along with a new date. Payments are tied to milestones you can see working, which keeps the risk low for a family business trying a website or app for the first time.",
       ],

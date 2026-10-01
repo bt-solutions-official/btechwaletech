@@ -168,7 +168,7 @@ const aizawl: CityContent = {
       paragraphs: [
         "We do not have an office in Aizawl, or anywhere else, and we will not invent one. We are three engineers who work remotely for clients across India. For a Mizoram business that is less unusual than it sounds; you are probably already used to working with suppliers in Guwahati and Kolkata by phone. The difference is that you talk to the people actually writing your code, not a salesperson, and there is no office rent hidden in your quote.",
         "The process runs on WhatsApp, calls and screen sharing. We start by asking about your customers and what you want the site to do, then send a page plan, timeline and itemised quote. Within the first week or two you get a live preview link to open on your own phone, over the same mobile network your customers use. Feedback goes on WhatsApp and small corrections are often made the same day. We reply seven days a week on Indian Standard Time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and looks after data science and automation. You always know who is doing what, and you can reach any of us directly. Read more about how we build on our <a href=\"/services/web-development/\">web development page</a>.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and looks after data science and automation. You always know who is doing what, and you can reach any of us directly. Read more about how we build on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {

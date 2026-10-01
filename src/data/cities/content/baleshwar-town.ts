@@ -185,7 +185,7 @@ const baleshwarTown: CityContent = {
       paragraphs: [
         "We do not have an office in Balasore or any other city. We are three engineers working remotely with clients across India, and you speak directly with the people building your website. No rent means our starting prices stay low.",
         "After an initial call or WhatsApp chat, we send a written page plan, a timeline and an itemised quote. Within a week or two you get a preview link to check on your own phone. Feedback goes on WhatsApp, and small changes are usually made the same day. We reply seven days a week, on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. Read more on our <a href=\"/services/web-development/\">web development page</a>.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. Read more on our <a href=\"/services/web-development/\">web development page</a>.",
         "Exporters and suppliers in Balasore already deal with buyers they have never met in person, so remote work tends to feel familiar. For Odia and Bengali content, a trusted person on your side reviews every line before launch.",
       ],
     },

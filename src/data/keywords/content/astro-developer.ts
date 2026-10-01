@@ -176,7 +176,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A fully static Astro site deploys to any CDN, including Cloudflare, Vercel and Netlify, usually within their free or entry tiers for a small business. If you need on-demand pages or server islands, Astro uses an adapter for the platform you pick.`,
         `There is a recent development worth knowing. On 16 January 2026 Cloudflare announced that the Astro Technology Company team was joining Cloudflare; the Astro blog post on the move says Astro stays open source under the MIT licence and keeps supporting a wide range of deployment targets, not only Cloudflare. For you, that means no lock-in: your Astro JS developer can still deploy to Vercel, Netlify, a Node server or plain static hosting.`,
-        `How we decide with clients: Cloudflare Pages or Workers when you want generous static bandwidth and edge functions; Vercel or Netlify when a team already uses them or wants preview deployments per branch; a static bucket behind a CDN on AWS when data residency or an existing AWS account matters. Santosh sets these up in your account, with DNS, SSL, redirects and caching headers, as part of the build.`,
+        `How we decide with clients: Cloudflare Pages or Workers when you want generous static bandwidth and edge functions; Vercel or Netlify when a team already uses them or wants preview deployments per branch; a static bucket behind a CDN on AWS when data residency or an existing AWS account matters. Another of us sets these up in your account, with DNS, SSL, redirects and caching headers, as part of the build.`,
       ],
     },
     {

@@ -69,7 +69,7 @@ const wankaner: CityContent = {
       paragraphs: [
         "Wankaner was the seat of a Jhala Rajput princely state, and Ranjit Vilas Palace still looks down on the old town from its hill. The name is plain Gujarati: a bend, vanka, in the river, ner, which here is the Machhu. In 2013 the taluka moved from Rajkot district to Morbi district, and that change matched what had already happened on the ground. Factories making wall, floor and vitrified tiles now stand along the highway from Dhuva and Sartanpar Road towards Morbi.",
         "The requests we receive for <strong>IT services in Wankaner</strong> therefore come from two directions. Plants, traders and suppliers on the industrial side want export catalogues, dispatch records, dealer apps and quicker replies to enquiries. Clinics, schools, tutors, hotels and shops in the town want a Gujarati website, a correct map pin and an easy way to take bookings on WhatsApp.",
-        "Both kinds of client deal with the same three people. Ankur Kumar writes the full-stack code for websites and web apps. Santosh Sharma looks after AI, machine learning, AWS hosting and data. Vedansh Shrivastava manages the project plan, data science and automation. We keep no office in Wankaner or Morbi; work runs over WhatsApp, calls and screen shares, and every agreement is put in writing.",
+        "Both kinds of client deal with the same three people. One of us writes the full-stack code for websites and web apps. Another of us looks after AI, machine learning, AWS hosting and data. The third of us manages the project plan, data science and automation. We keep no office in Wankaner or Morbi; work runs over WhatsApp, calls and screen shares, and every agreement is put in writing.",
       ],
     },
     {
@@ -159,7 +159,7 @@ const wankaner: CityContent = {
       heading: "An IT services team in Wankaner without an office: how our remote team runs a project",
       paragraphs: [
         "To be clear from the start: there is no BtechWaleTech office in Wankaner, Morbi or Rajkot. We are three engineers working remotely, and the process is built so you never need to visit one. For a plant owner who spends the day on the shop floor, that often turns out simpler than arranging meetings.",
-        "A project opens with a call or a WhatsApp voice note about your business. Vedansh then sends a written scope listing each page, screen or feature, the timeline and the price of every item. Work begins only when you approve that scope in writing, and nothing is billed before then. During the build you receive preview links to open on your phone and forward to a partner or your sales head.",
+        "A project opens with a call or a WhatsApp voice note about your business. The third of us then sends a written scope listing each page, screen or feature, the timeline and the price of every item. Work begins only when you approve that scope in writing, and nothing is billed before then. During the build you receive preview links to open on your phone and forward to a partner or your sales head.",
         "Our WhatsApp is answered seven days a week on Indian time. If a date slips, you hear about it the same day along with a revised plan. Payments are tied to milestones you can see working, and any Gujarati text is sent to you for checking before it goes live, since product names and technical terms are easy to get wrong in translation.",
       ],
     },

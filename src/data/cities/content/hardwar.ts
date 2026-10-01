@@ -169,7 +169,7 @@ const hardwar: CityContent = {
       paragraphs: [
         "We do not have an office in Haridwar, and we do not pretend otherwise. We are three engineers who work remotely with clients across India. There is no office rent inside your quote, and you speak directly to the people doing the work.",
         "Projects start with a call or WhatsApp chat about your business. You then receive a written page plan, a timeline and an itemised quote. Within one or two weeks you get a live preview link to open on your phone and share with partners or trustees. Feedback goes on WhatsApp and small changes are usually made the same day. We reply seven days a week, Indian time, including festival periods when hoteliers finally have questions late at night.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and takes care of data science and automation. You always know who is doing what.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and takes care of data science and automation. You always know who is doing what.",
       ],
     },
     {

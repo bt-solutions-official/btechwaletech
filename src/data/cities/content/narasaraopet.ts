@@ -159,7 +159,7 @@ const narasaraopet: CityContent = {
       paragraphs: [
         "There is no BtechWaleTech office in Narasaraopet, and we will not put a borrowed address on a listing to seem local. The three of us work remotely and serve clients across India. Because we are not paying for premises or salespeople, your budget buys development time, and whoever replies to your WhatsApp is actually writing the code.",
         "A typical project opens with a WhatsApp conversation or a quick phone call, after which you receive a written plan listing pages, dates and costs. Inside the first week or two, a working preview address arrives that you can open on your own handset and forward to a partner or family member. Corrections can be typed or sent as Telugu voice notes, and minor fixes normally appear within hours. We answer every day of the week, on IST.",
-        "Ankur Kumar writes the full-stack code. Santosh Sharma covers AI, machine learning, AWS and data engineering. Vedansh Shrivastava plans and tracks projects and works on data science and automation. Each of us is directly reachable, so responsibility is never vague.",
+        "One of us writes the full-stack code. Another of us covers AI, machine learning, AWS and data engineering. The third of us plans and tracks projects and works on data science and automation. Each of us is directly reachable, so responsibility is never vague.",
       ],
     },
     {

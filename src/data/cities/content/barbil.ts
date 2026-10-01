@@ -69,7 +69,7 @@ const barbil: CityContent = {
       paragraphs: [
         "Barbil's economy is unusual even by Odisha standards. The Joda–Barbil belt is counted among the most productive iron ore regions in the country, and the ore from its hills feeds steel plants in Rourkela, Jamshedpur, Bokaro and beyond. Almost every business in the town is connected to that flow, whether it hauls ore, repairs trucks, feeds workers, rents rooms to visiting engineers or sells phones to drivers.",
         "Requests we receive for <strong>IT services in Barbil</strong> reflect that. Transporters want to know where their trucks are and what each trip earned. Hotels want visiting officials to find and book them. Clinics want fewer patients arriving on the wrong day. Shops want to be found on Google Maps by the families of mine staff who have just moved to town.",
-        "We are a remote team of three. Ankur Kumar builds full-stack web and app systems, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. We do not have a Barbil office, and we say that at the start. Work runs on WhatsApp, calls and screen shares, with a written record of every decision.",
+        "We are a remote team of three. One of us builds full-stack web and app systems, another of us handles AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. We do not have a Barbil office, and we say that at the start. Work runs on WhatsApp, calls and screen shares, with a written record of every decision.",
       ],
     },
     {

@@ -53,7 +53,7 @@ const content: FreelanceContent = {
   snapshot: {
     caption: "Working with a remote web developer from Toronto, at a glance",
     rows: [
-      { label: "Who builds it", value: "Ankur (development), Santosh (SEO, hosting), Vedansh (project lead)" },
+      { label: "Who builds it", value: "One of us (development), another of us (SEO, hosting), the third of us (project lead)" },
       { label: "Meetings", value: "Video calls in your morning; WhatsApp any day" },
       { label: "Typical scope", value: "5–40 page business site, or an SEO site for many GTA suburbs" },
       { label: "Accessibility", value: "Built and tested against WCAG 2.0 AA criteria" },
@@ -115,7 +115,7 @@ const content: FreelanceContent = {
         `<strong>Visibility:</strong> titles, schema, internal links, Google Business Profile alignment and suburb pages for the areas you cover.`,
       ],
       after: [
-        `BtechWaleTech covers all four layers with three people: Ankur Kumar builds, Santosh Sharma handles SEO, hosting and AI features, and Vedansh Shrivastava runs the project and keeps your approvals moving. We do not produce printed brand books or photo shoots; you bring photos, or we use licensed stock you approve.`,
+        `BtechWaleTech covers all four layers with three people: one of us builds, another of us handles SEO, hosting and AI features, and the third of us runs the project and keeps your approvals moving. We do not produce printed brand books or photo shoots; you bring photos, or we use licensed stock you approve.`,
       ],
     },
     {

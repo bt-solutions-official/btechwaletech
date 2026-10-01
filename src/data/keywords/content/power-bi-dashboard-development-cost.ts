@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Custom web dashboard", `From ${P.software} · ${P.softwareUsd}`],
     ["Typical build time", "2–4 weeks for most first dashboards"],
     ["Upkeep after launch", `2 months free, then from ${P.care}`],
-    ["Data lead", "Santosh Sharma (data, AWS, ML)"],
+    ["Data lead", "Another of us (data, AWS, ML)"],
   ],
   stats: [
     { value: "8", label: "Scheduled refreshes a day on shared capacity, per Microsoft" },
@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Power BI dashboard development cost splits into three parts: getting the data (connecting and cleaning sources), modelling it (tables, relationships and DAX measures), and presenting it (report pages, security and sharing). On most business projects the first two take more hours than the third.`,
         `That surprises people, because the visible output is the charts. But a bar chart of monthly sales takes minutes once the model is right. What takes days is discovering that the Tally export uses different customer names from the CRM, that returns are booked as negative invoices in one branch and credit notes in another, or that the ecommerce order file changes columns every few months.`,
-        `At BtechWaleTech, Santosh Sharma leads the data work: sources, pipelines, models and cloud setup. Vedansh Shrivastava, who works in data science and automation, handles requirements, testing and measure definitions with you. Ankur Kumar comes in when a pipeline or a custom web view needs full-stack code. You talk to all three on one WhatsApp group.`,
+        `At BtechWaleTech, another of us leads the data work: sources, pipelines, models and cloud setup. The third of us, who works in data science and automation, handles requirements, testing and measure definitions with you. One of us comes in when a pipeline or a custom web view needs full-stack code. You talk to all three on one WhatsApp group.`,
       ],
       list: [
         "Source connection: files, databases, APIs, cloud apps",

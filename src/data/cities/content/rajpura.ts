@@ -175,7 +175,7 @@ const rajpura: CityContent = {
       paragraphs: [
         "We should be plain about this: we are not a local <strong>IT services team in Rajpura</strong> with a shopfront. We are a remote team of three engineers working for clients across India, and we have no office in Rajpura or anywhere else. Without rent and sales staff to pay for, we keep starting prices lower, and you speak directly with the people who write your code.",
         "Work happens over calls, WhatsApp and screen sharing. First we discuss your business. Then we send a page or screen plan, a timeline and an itemised quote. For a small site you usually see a live preview link within one to two weeks, which you can open on your phone and show to your partners. We reply seven days a week on Indian time, and small changes are often done the same day.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can <a href=\"/contact/\">contact us</a> and talk to any of them.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can <a href=\"/contact/\">contact us</a> and talk to any of them.",
       ],
     },
     {

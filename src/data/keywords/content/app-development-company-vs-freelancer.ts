@@ -164,7 +164,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Whoever builds the backend should document it and host it on a cloud account you own. If the app talks to a server, the server is at least half the product, and it is where most outages start.`,
         `Companies often cover the backend, but some pass it to a sub-vendor, which adds another party to chase when an API stops responding at night. Solo mobile freelancers sometimes specialise in screens and treat the server as an afterthought: a free-tier database, a hard-coded API key, no backups. It works in the demo and fails when real users arrive.`,
-        `In our team, Ankur writes the app and the API, and Santosh sets up the cloud side on AWS or a similar provider under your billing account, with backups, logs and alerts. That split is deliberate: the person who writes the API is not the only person who knows where it runs.`,
+        `In our team, one of us writes the app and the API, and another of us sets up the cloud side on AWS or a similar provider under your billing account, with backups, logs and alerts. That split is deliberate: the person who writes the API is not the only person who knows where it runs.`,
         `Whoever you hire, ask for the backend to be included in the written scope as its own line: database design, API endpoints, admin panel, hosting setup, backups and monitoring. If a quote says “backend: as required” or leaves it out entirely, you are comparing an app against half an app.`,
       ],
       subs: [
@@ -275,7 +275,7 @@ const content: FreelanceContent = {
       heading: "The middle option: a small freelance team instead of a company or a solo freelancer",
       paragraphs: [
         `For many first apps, a small freelance team gives you the direct contact of a freelancer with some of the cover of a company. It is not right for every project, and it helps to know where its limits are.`,
-        `BtechWaleTech is three freelance developers. Ankur Kumar builds the app and the full-stack backend. Santosh Sharma handles AI features, AWS, data and technical SEO. Vedansh Shrivastava runs the project plan, testing checklist and automation. You message all three in one WhatsApp group, in English or Hindi, and get replies seven days a week on Indian time.`,
+        `BtechWaleTech is three freelance developers. One of us builds the app and the full-stack backend. Another of us handles AI features, AWS, data and technical SEO. The third of us runs the project plan, testing checklist and automation. You message all three in one WhatsApp group, in English or Hindi, and get replies seven days a week on Indian time.`,
         `What that setup does well: MVPs, business apps for clinics, shops, schools and service firms, internal tools, and apps that need a backend and a website together. What it does not do: large programmes that need a dozen engineers at once, on-site staff in your office, hardware or IoT manufacturing, or round-the-clock operations desks. If you need those, an established company is the honest recommendation.`,
       ],
     },

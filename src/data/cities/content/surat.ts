@@ -177,7 +177,7 @@ const surat: CityContent = {
       paragraphs: [
         "We don't have an office in Surat and won't use a borrowed address to look local. We are three engineers working remotely for businesses across India. That keeps rent and sales staff out of your price, and the person you message is the one doing the work.",
         "Each project starts with a call or WhatsApp chat, followed by a written page plan, timeline and itemised quote. Within a week or two you receive a live preview link to check on your phone. Feedback goes on WhatsApp, and small changes usually go live the same day. We reply seven days a week on Indian time, which suits Surat's long working hours.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can reach any of us directly.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can reach any of us directly.",
       ],
     },
     {

@@ -159,7 +159,7 @@ const buxar: CityContent = {
       paragraphs: [
         "We have no office in Buxar, Patna or anywhere in Bihar, and we will not put a fake address on a page. We are three engineers working remotely for clients in many Indian cities. That saves rent and sales staff, which is why our starting prices are what they are, and it means you deal with the people who build your site.",
         "First comes a phone or WhatsApp call about your business and customers. Then you receive a page plan, timeline and itemised quote in writing. Within one or two weeks you get a preview link to check on your own phone and show to family or partners. Changes are sent on WhatsApp and small ones usually go live the same day. We reply seven days a week, on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava runs projects and builds automation and data science work. You can <a href=\"/contact/\">message us</a> in Hindi or English whenever it suits you.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us runs projects and builds automation and data science work. You can <a href=\"/contact/\">message us</a> in Hindi or English whenever it suits you.",
       ],
     },
     {

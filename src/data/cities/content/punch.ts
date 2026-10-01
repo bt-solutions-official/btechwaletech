@@ -69,7 +69,7 @@ const punch: CityContent = {
       paragraphs: [
         "Poonch town is the headquarters of a mountainous border district. Families from Mendhar, Surankote, Mandi and the villages around Haveli come here for the district offices, the degree college, hospitals, courts and the main markets. Visitors come for the fort, the gurdwara at Nangali Sahib and the high meadows beyond. Almost all of them check a phone before they set out, because the roads are long and a wasted journey costs a day.",
         "That makes <strong>IT services in Poonch</strong> practical rather than glamorous. A guest house wants rooms booked before the traveller reaches Behramgala. A coaching centre wants students from Mendhar to see batch timings. A clinic wants patients to know which days the specialist visits. A rajma seller wants buyers in Jammu to order without a phone call.",
-        "Our team has three people. Ankur Kumar builds the websites and web apps end to end, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. We have no office in Poonch or anywhere in Jammu and Kashmir; the work happens over WhatsApp, calls and screen shares, with every decision written down.",
+        "Our team has three people. One of us builds the websites and web apps end to end, another of us covers AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. We have no office in Poonch or anywhere in Jammu and Kashmir; the work happens over WhatsApp, calls and screen shares, with every decision written down.",
       ],
     },
     {

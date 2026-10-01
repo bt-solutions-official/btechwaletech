@@ -180,7 +180,7 @@ const content: FreelanceContent = {
       heading: "Keeping rankings: the SEO parity checklist we launch against",
       paragraphs: [
         `Search engines should see the same site, only faster. Parity means every signal that existed before still exists after.`,
-        `Santosh checks each item before the switch: titles and descriptions match the old ones unless deliberately improved; one H1 per page; canonical tags point to the new, final URLs; robots meta directives carried over, including noindex on pages that had it; structured data for articles, breadcrumbs, organisation and FAQs rebuilt as JSON-LD; XML sitemaps list only live, canonical URLs; internal links in body text updated to new URLs rather than relying on redirects; hreflang tags kept on multilingual sites.`,
+        `Another of us checks each item before the switch: titles and descriptions match the old ones unless deliberately improved; one H1 per page; canonical tags point to the new, final URLs; robots meta directives carried over, including noindex on pages that had it; structured data for articles, breadcrumbs, organisation and FAQs rebuilt as JSON-LD; XML sitemaps list only live, canonical URLs; internal links in body text updated to new URLs rather than relying on redirects; hreflang tags kept on multilingual sites.`,
         `After launch we submit the new sitemap in Google Search Console, watch the page indexing and crawl stats reports daily for the first weeks, and compare clicks for top pages against the saved baseline. Short dips while Google recrawls are normal; nobody can guarantee rankings through a migration, but careful parity avoids the self-inflicted losses. See <a href='/technical-seo-freelancer/'>technical SEO</a> for our wider method.`,
       ],
     },

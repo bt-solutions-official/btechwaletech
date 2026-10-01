@@ -69,7 +69,7 @@ const nimbahera: CityContent = {
       paragraphs: [
         "Nimbahera sits in the south-east of Chittorgarh district, close to the Madhya Pradesh border and within easy reach of Neemuch and Mandsaur. The ground beneath it is limestone. That stone, sold as Nimbahera stone for floors and walls and quarried as raw material for cement, has shaped the town's economy, drawing plants, transporters, contractors and machinery dealers to the area.",
         "Enquiries we get for <strong>IT services in Nimbahera</strong> are usually specific. A stone trader wants a page of slab sizes and finishes that buyers in Gujarat or Madhya Pradesh can see. A transporter wants every truck trip logged without chasing drivers on the phone. A school wants admission forms online. A hospital wants patients from Bari Sadri and Chhoti Sadri to know which doctor is available on which day.",
-        "We are a remote team of three: Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. We have no office in Nimbahera and we say so openly. Work happens over WhatsApp, calls and screen share, with each plan and quote sent to you in writing.",
+        "We are a remote team of three: one of us handles full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. We have no office in Nimbahera and we say so openly. Work happens over WhatsApp, calls and screen share, with each plan and quote sent to you in writing.",
       ],
     },
     {

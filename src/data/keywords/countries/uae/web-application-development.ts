@@ -301,7 +301,7 @@ const content: FreelanceContent = {
       heading: "Building a web app with a team in India from the UAE: how it works",
       paragraphs: [
         `Time zones barely matter between the UAE and India: our clocks run 90 minutes ahead of yours, so a Dubai morning stand-up at 9:30 is 11:00 for us and afternoons overlap fully. Most coordination happens in a shared WhatsApp group, with a weekly video demo of the staging site.`,
-        `Ankur Kumar leads the full-stack build, Santosh Sharma sets up cloud hosting, monitoring and any data or AI features, and Vedansh Shrivastava owns the plan, the scoping document and weekly progress notes. We work in English and Hindi. There are no site visits; everything, including user acceptance testing, runs over screen share.`,
+        `One of us leads the full-stack build, another of us sets up cloud hosting, monitoring and any data or AI features, and the third of us owns the plan, the scoping document and weekly progress notes. We work in English and Hindi. There are no site visits; everything, including user acceptance testing, runs over screen share.`,
         `Payments are in USD by Wise, bank wire or PayPal against milestones in the written quote, and nothing is billed before you approve it. Invoices are issued from India; your accountant will know how to book them. Contract terms such as NDAs are agreed in writing before you share sensitive data.`,
       ],
       list: [

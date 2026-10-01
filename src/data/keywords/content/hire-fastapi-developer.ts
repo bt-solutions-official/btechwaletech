@@ -27,7 +27,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Python APIs · AI and ML in production",
     h1: "Hire FastAPI developer help to turn Python models into fast, documented APIs",
-    lede: `Most people who hire a FastAPI developer already have something valuable in Python (a trained model, an LLM prompt pipeline, a data process) and need it served reliably to an app, a website or a partner. BtechWaleTech is three freelance developers in India, and our AI and cloud work is led by Santosh Sharma, who handles ML, AWS and data. We build async FastAPI services with Pydantic contracts, PostgreSQL and Docker, and put them into production in your cloud. AI automation starts from ${P.ai}; broader <a href='/hire-python-developer/'>Python development</a> is covered separately.`,
+    lede: `Most people who hire a FastAPI developer already have something valuable in Python (a trained model, an LLM prompt pipeline, a data process) and need it served reliably to an app, a website or a partner. BtechWaleTech is three freelance developers in India, and our AI and cloud work is led by another of us, who handles ML, AWS and data. We build async FastAPI services with Pydantic contracts, PostgreSQL and Docker, and put them into production in your cloud. AI automation starts from ${P.ai}; broader <a href='/hire-python-developer/'>Python development</a> is covered separately.`,
     pills: ["Async FastAPI", "Pydantic v2 models", "Auto OpenAPI docs", "ML & LLM serving", "SQLAlchemy / SQLModel + Postgres", "Docker & Uvicorn", "Your cloud account"],
     origin: "Three freelance developers in India · replies on WhatsApp, 7 days a week",
   },
@@ -82,7 +82,7 @@ const content: FreelanceContent = {
     note: "AI APIs sit between two skill sets: data science and backend engineering. The gaps show up in production, not in the demo.",
     columns: ["What matters", "Data scientist who also writes APIs", "General web development shop", "BtechWaleTech (3 freelancers)"],
     rows: [
-      ["Understanding the model", "Strong", "Often limited", "Santosh handles ML; he reads your notebook and metrics first"],
+      ["Understanding the model", "Strong", "Often limited", "Another of us handles ML; he reads your notebook and metrics first"],
       ["Async and concurrency", "Often blocking calls inside async code", "Usually solid", "Reviewed: blocking work moved to threads, workers or queues"],
       ["Input validation and contracts", "Loose dictionaries", "Varies", "Pydantic models for every request and response"],
       ["Deployment and monitoring", "Frequently a manual server", "Usually fine for web, less for GPUs", "Docker, health checks, logs, alerts in your cloud"],
@@ -224,7 +224,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Package the service as a Docker image built from the official Python image, start it with the fastapi run command (which uses Uvicorn), and let your platform run several containers behind a load balancer. That is close to what FastAPI's own deployment guide recommends.`,
         `The guide says the old pre-built uvicorn-gunicorn-fastapi image is no longer needed because Uvicorn and the fastapi command support a --workers option. It recommends one process per container on Kubernetes-style clusters, letting the cluster handle replication, and adding workers mainly for simpler setups such as a single server or Docker Compose. It also stresses the exec form of CMD so the app shuts down gracefully and runs its lifespan cleanup.`,
-        `For models, container memory and startup time matter: a large model means slower scale-up, so we keep images lean, cache weights sensibly and set health checks that only pass once the model is loaded. Everything runs in your own AWS, Google Cloud or Azure account; see our <a href='/freelance-aws-developer/'>AWS development</a> page for how Santosh sets up accounts, IAM and monitoring.`,
+        `For models, container memory and startup time matter: a large model means slower scale-up, so we keep images lean, cache weights sensibly and set health checks that only pass once the model is loaded. Everything runs in your own AWS, Google Cloud or Azure account; see our <a href='/freelance-aws-developer/'>AWS development</a> page for how another of us sets up accounts, IAM and monitoring.`,
       ],
     },
     {

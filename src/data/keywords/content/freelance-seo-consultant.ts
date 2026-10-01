@@ -28,7 +28,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Freelance SEO consultant · Audits and roadmaps",
     h1: "Freelance SEO consultant: audits, strategy and a roadmap your team can actually follow",
-    lede: `A freelance SEO consultant diagnoses why a site is not getting the search traffic it should, then writes a prioritised plan to fix it, rather than selling a vague monthly package. BtechWaleTech is three freelance developers in India, with technical SEO led by Santosh Sharma, so our audits come from people who can also change the code. This page explains what a good audit contains, how a roadmap is built, and what consulting costs, with ongoing work from ${P.seo} a month.`,
+    lede: `A freelance SEO consultant diagnoses why a site is not getting the search traffic it should, then writes a prioritised plan to fix it, rather than selling a vague monthly package. BtechWaleTech is three freelance developers in India, with technical SEO led by another of us, so our audits come from people who can also change the code. This page explains what a good audit contains, how a roadmap is built, and what consulting costs, with ongoing work from ${P.seo} a month.`,
     pills: ["Technical SEO audit", "Search Console review", "Content gap analysis", "90-day roadmap", "Developer-ready tickets", "Local SEO checks", "No ranking guarantees"],
     origin: "Three freelance developers · Remote from India · Sites in India and abroad",
   },
@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A freelance SEO consultant is hired to think before anyone types. The job is to find what is holding a site back in search, decide which fixes matter most, and set out a plan that your team, or the consultant, can carry out. An SEO executive, by contrast, is usually hired to do tasks: publish posts, build listings, update meta tags.`,
         `Both roles are useful, but mixing them up costs money. Businesses often pay for months of activity, such as blog posts and directory submissions, when the real problem is that Google cannot index half their pages. A consultant’s first deliverable should explain what is actually wrong, with evidence from your own data.`,
-        `At BtechWaleTech, consulting is led by Santosh Sharma, who handles technical SEO, data and AWS hosting, with Ankur Kumar available to implement code changes and Vedansh Shrivastava turning the plan into a tracked schedule. That combination means recommendations are written by people who know what each fix costs to build.`,
+        `At BtechWaleTech, consulting is led by another of us, who handles technical SEO, data and AWS hosting, with one of us available to implement code changes and the third of us turning the plan into a tracked schedule. That combination means recommendations are written by people who know what each fix costs to build.`,
       ],
     },
     {

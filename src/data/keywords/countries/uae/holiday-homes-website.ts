@@ -274,7 +274,7 @@ const content: FreelanceContent = {
       id: "working-from-dubai",
       heading: "Working with a remote team in India on your Dubai holiday homes website",
       paragraphs: [
-        `India is 1.5 hours ahead of the UAE, so our working day overlaps almost all of yours; a 10 am call in Dubai is 11:30 am for us. You talk directly to the three developers doing the work: Ankur Kumar on the booking site and integrations, Santosh Sharma on hosting, data and technical SEO, and Vedansh Shrivastava on planning, testing and the owner portal workflows.`,
+        `India is 1.5 hours ahead of the UAE, so our working day overlaps almost all of yours; a 10 am call in Dubai is 11:30 am for us. You talk directly to the three developers doing the work: one of us on the booking site and integrations, another of us on hosting, data and technical SEO, and the third of us on planning, testing and the owner portal workflows.`,
         `Here is what the first two weeks usually look like on a holiday homes project:`,
       ],
       list: [

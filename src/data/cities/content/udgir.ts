@@ -185,7 +185,7 @@ const udgir: CityContent = {
       heading: "How we work with Udgir clients remotely",
       paragraphs: [
         "We do not have an office in Udgir or Latur and will not display a local address we never use. We are three engineers working remotely with clients across India, which keeps our prices reasonable and puts you in direct touch with the people building your project.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. We start with a WhatsApp chat or call, then send a page plan, timeline and itemised quote, usually within two working days.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. We start with a WhatsApp chat or call, then send a page plan, timeline and itemised quote, usually within two working days.",
         "You check a preview on your own phone, send changes on WhatsApp and approve before launch. We work on IST and reply seven days a week, and small edits usually go live the same day. <a href=\"/contact/\">Get in touch</a> to begin.",
       ],
     },

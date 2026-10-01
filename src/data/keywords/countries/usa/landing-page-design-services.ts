@@ -255,7 +255,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Choose the provider that asks about your ad groups, lead handling and tracking before talking about design. A beautiful page with broken tracking is worse than a plain page that reports every lead.`,
         `Questions worth asking: Will you build one page per ad group or theme? How will you track calls as well as forms? Can you set up enhanced conversions? How will you measure speed? How do you handle consent wording? Who owns the pages and data? What happens after launch? Good landing page design services answer concretely and explain trade-offs.`,
-        `Red flags include promising a specific conversion rate, using fake reviews or countdown timers that reset, hiding consent text in a footer link, building pages on an account you do not control and ignoring phone calls in tracking. With us, you talk directly to the developers: Ankur builds the pages, Santosh handles tracking, data and speed, and Vedansh plans the rollout.`,
+        `Red flags include promising a specific conversion rate, using fake reviews or countdown timers that reset, hiding consent text in a footer link, building pages on an account you do not control and ignoring phone calls in tracking. With us, you talk directly to the developers: one of us builds the pages, another of us handles tracking, data and speed, and the third of us plans the rollout.`,
       ],
       list: [
         "Asks about ad groups and lead handling first",

@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       heading: "What does a freelance software developer build for a business?",
       paragraphs: [
         `A freelance software developer writes software that exists for one business, not for the mass market. Think of the order-taking screen your dealers log into, the billing tool your counter staff use, or the dashboard that tells the owner at 9 pm how much was collected today.`,
-        `Most of this is web-based software. It runs in a browser, stores data in a database such as PostgreSQL or MySQL on cloud hosting, and can be opened on a laptop in the office or a phone in the warehouse. When staff work in the field, the same backend can feed an Android and iOS app. That is the kind of project our team takes on: Ankur Kumar builds the full stack, Santosh Sharma handles AWS hosting, data and any AI features, and Vedansh Shrivastava plans the modules and keeps the milestones moving.`,
+        `Most of this is web-based software. It runs in a browser, stores data in a database such as PostgreSQL or MySQL on cloud hosting, and can be opened on a laptop in the office or a phone in the warehouse. When staff work in the field, the same backend can feed an Android and iOS app. That is the kind of project our team takes on: one of us builds the full stack, another of us handles AWS hosting, data and any AI features, and the third of us plans the modules and keeps the milestones moving.`,
         `What a freelance software developer is not: a reseller of licences, an IT support desk, or a hardware installer. We do not supply computers, barcode printers or networks, though we will tell you which common devices our software works with.`,
       ],
       list: [

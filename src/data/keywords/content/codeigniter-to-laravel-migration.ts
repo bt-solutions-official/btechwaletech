@@ -281,7 +281,7 @@ const content: FreelanceContent = {
       heading: "Ownership, handover and how our small team works",
       paragraphs: [
         `For every CodeIgniter to Laravel migration, the code goes into a Git repository you own from the first day, and deployments run on hosting billed to you. When we finish, you hold every credential: repository, server, database, domain and any cloud storage. Our role ends without anything depending on us.`,
-        `Three people handle your project. Ankur Kumar does the Laravel and CodeIgniter code, Santosh Sharma handles the server, database clean-up and backups, and Vedansh Shrivastava keeps the module map, stage approvals and testing sign-offs in order. You message us on WhatsApp in English or Hindi, any day of the week, and get replies from the people doing the work.`,
+        `Three people handle your project. One of us does the Laravel and CodeIgniter code, another of us handles the server, database clean-up and backups, and the third of us keeps the module map, stage approvals and testing sign-offs in order. You message us on WhatsApp in English or Hindi, any day of the week, and get replies from the people doing the work.`,
         `At handover you receive the updated module map, a short guide to running and deploying the app, the list of scheduled jobs, and notes on what we would improve next. We do not do on-site visits and we do not staff large teams; for a typical business app, three people who know the code are enough.`,
       ],
     },

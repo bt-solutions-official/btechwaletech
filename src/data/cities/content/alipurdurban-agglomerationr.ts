@@ -69,7 +69,7 @@ const alipurduar: CityContent = {
       paragraphs: [
         "Alipurduar takes its name from Colonel Hedayat Ali Khan, a British officer of the 1865 Bhutan War, and from “duar”, the gateway to the hills. That description still fits. The town is the headquarters of a district formed in 2014, the base of a Northeast Frontier Railway division, and the nearest urban centre for Jaldapara, Buxa, the Chilapata forests, dozens of tea estates and the border town of Jaigaon.",
         "The businesses that ask us for help reflect that geography. Homestay and resort owners want direct bookings instead of paying high commissions. Tea estate suppliers and transporters want cleaner records. Traders in Jaigaon and Hasimara want to be found by buyers. Clinics, coaching centres and schools in the town want parents and patients to reach them easily.",
-        "Our <strong>IT services in Alipurduar</strong> come from a remote team of three engineers. Ankur Kumar builds the full-stack web and app side. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava handles project management, data science and automation. You deal with us directly on WhatsApp, not through a sales desk.",
+        "Our <strong>IT services in Alipurduar</strong> come from a remote team of three engineers. One of us builds the full-stack web and app side. Another of us works on AI, machine learning, AWS and data. The third of us handles project management, data science and automation. You deal with us directly on WhatsApp, not through a sales desk.",
       ],
     },
     {

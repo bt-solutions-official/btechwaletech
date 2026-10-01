@@ -69,7 +69,7 @@ const tundla: CityContent = {
       paragraphs: [
         "Tundla owes its shape to the railway. The East Indian Railway reached here in 1862, the town became a municipality in 1870, and Tundla Junction still decides the rhythm of daily life: the Agra branch splits from the Delhi–Kanpur main line here, and crews change on a large share of passing trains. Around the station and the railway colony grew markets, schools and workshops, and beyond them lie villages growing potato, wheat and mustard.",
         "Enquiries for <strong>IT services in Tundla</strong> reflect this mix. A cold storage owner wants farmers to check their bag count without phoning. A coaching centre wants railway families to see batch timings. A dhaba on NH 19 wants travellers from Agra to find it. A trader dealing in Firozabad glassware wants buyers outside the region.",
-        "We handle these as a remote team of three: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We keep no office in Tundla and make that clear from the first message; the work runs on WhatsApp, phone calls and written plans.",
+        "We handle these as a remote team of three: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We keep no office in Tundla and make that clear from the first message; the work runs on WhatsApp, phone calls and written plans.",
       ],
     },
     {

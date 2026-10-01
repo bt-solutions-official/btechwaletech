@@ -147,7 +147,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Server location matters mainly through speed: a server close to your visitors, or a content delivery network in front of it, cuts the delay before pages start loading. For a site whose customers are in Britain, UK or nearby European hosting with a CDN is the sensible default.`,
         `Speed is what Google measures for users, through Core Web Vitals, rather than the server’s postcode. Hosting also matters for privacy paperwork: if personal data from forms is stored on a server outside the UK, your privacy notice should say so, and your adviser may want to check the transfer arrangements. Keeping hosting in the UK or EEA usually keeps that simpler.`,
-        `Choose managed WordPress hosting or a well-configured cloud server over the cheapest shared plan. Look for: PHP kept current, server-level caching, daily backups, one-click staging, and support that answers. We set the account up in your name, you pay the host directly, and Santosh configures caching, SSL and backups.`,
+        `Choose managed WordPress hosting or a well-configured cloud server over the cheapest shared plan. Look for: PHP kept current, server-level caching, daily backups, one-click staging, and support that answers. We set the account up in your name, you pay the host directly, and another of us configures caching, SSL and backups.`,
       ],
     },
     {

@@ -69,7 +69,7 @@ const pachora: CityContent = {
       paragraphs: [
         "Pachora is a taluka town with a very wide hinterland. The municipal council has run the town since 1947, but the taluka around it has 95 gram panchayats, more than most tehsils in Maharashtra, and a large share of those villages grow cotton, banana, maize, jowar and bajra. When farmers need seed, a loan, a doctor, a college seat or a buyer for their crop, Pachora is where they come.",
         "That shapes the kind of <strong>IT services in Pachora</strong> people actually ask us for. A ginning unit wants its purchase slips and bale counts in one place. A krishi seva kendra wants farmers to see stock before making the trip. A clinic wants patients from Bhadgaon and Jamner to know which days the specialist sits. A college wants admission forms that do not have to be collected in person.",
-        "None of this needs a large agency. It needs someone who listens to how the business already works and then builds the smallest thing that fixes the real problem. We are three engineers who work remotely: Ankur Kumar writes the websites and web apps, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation.",
+        "None of this needs a large agency. It needs someone who listens to how the business already works and then builds the smallest thing that fixes the real problem. We are three engineers who work remotely: one of us writes the websites and web apps, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation.",
         "We have no office in Pachora or anywhere in Jalgaon district, and we will not pretend otherwise. Calls, screen shares and WhatsApp replace the visit, and every decision is written down so you can check it later.",
       ],
     },
@@ -189,7 +189,7 @@ const pachora: CityContent = {
       paragraphs: [
         "Working with someone you have never met needs clear rules, so here are ours. The first call is about your business, not our portfolio: who buys from you, where they come from, what they ask and what wastes your time. Within about two working days you receive a written plan listing pages or screens, dates and a separate price for each item.",
         "Work begins only after you approve that plan, and you are not billed for anything before that approval. As we build, you get preview links that open on any phone, so you can check them at the shop, show them to your partner or pass them to a family member in Pune or Mumbai for a second opinion. Marathi text is always sent for your reading before it goes live.",
-        "Ankur handles the build, Santosh the data, AI and cloud side, and Vedansh keeps the schedule and your requests in one list so nothing gets lost in a chat thread. We reply on WhatsApp seven days a week on Indian time. If a date slips, you hear it from us that day with a new date, not after you chase.",
+        "One of us handles the build, another of us the data, AI and cloud side, and the third of us keeps the schedule and your requests in one list so nothing gets lost in a chat thread. We reply on WhatsApp seven days a week on Indian time. If a date slips, you hear it from us that day with a new date, not after you chase.",
         "Payments are tied to milestones you can see working. That keeps the risk small for a family business trying its first website or app.",
       ],
     },

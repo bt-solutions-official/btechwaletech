@@ -208,7 +208,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `We build the PMS as a web application, so the front desk, the owner and the accountant use it from any browser, and the housekeeping app in Flutter. The back end uses TypeScript on Node.js or Python, with PostgreSQL for bookings and folios, hosted on a mainstream cloud provider in an Indian region, in your account.`,
         `Why a web app and not desktop software? Owners of small hotels often live elsewhere, and a web PMS lets them check occupancy and cash from their phone. The front desk computer only needs a browser. For hill towns and remote properties with unreliable internet, we add an offline mode for the desk: today’s arrivals, in-house guests and folios cached locally, with changes synced when the line returns, and a 4G backup recommended.`,
-        `Santosh sets up the cloud, database, backups and reporting. Ankur builds the front desk, booking engine and apps. Vedansh runs the plan, testing and staff training. We are a small freelance team, so we take on hotels and small groups, not 500-room chains that need a dedicated vendor team. For more on web app builds in general, see <a href='/web-application-developer/'>web application development</a>.`,
+        `Another of us sets up the cloud, database, backups and reporting. One of us builds the front desk, booking engine and apps. The third of us runs the plan, testing and staff training. We are a small freelance team, so we take on hotels and small groups, not 500-room chains that need a dedicated vendor team. For more on web app builds in general, see <a href='/web-application-developer/'>web application development</a>.`,
       ],
     },
     {

@@ -166,7 +166,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Searchers in the UAE use both English and Arabic, and they search differently in each. Treat them as two audiences. Each language should have its own URLs, for example /en/ and /ar/, with hreflang tags telling Google which page serves which language, and a language switch that points each page to its equivalent.`,
         `Keyword research must be done in Arabic, not translated from English; the words people type are often different. Titles, meta descriptions, headings and image alt text all need native-language versions. For local businesses, a Google Business Profile with the correct emirate and area, and consistent name, address and phone across listings, matters as much as the website itself.`,
-        `Santosh on our team handles technical SEO: structured data for your business type, XML sitemaps per language, fast Core Web Vitals on mobile, and Google Search Console setup. As with any market, nobody can guarantee rankings; strong structure gives your content a fair chance. Ongoing <a href='/services/seo-services/'>monthly SEO</a> starts from ${P.seoUsd}.`,
+        `Another of us on our team handles technical SEO: structured data for your business type, XML sitemaps per language, fast Core Web Vitals on mobile, and Google Search Console setup. As with any market, nobody can guarantee rankings; strong structure gives your content a fair chance. Ongoing <a href='/services/seo-services/'>monthly SEO</a> starts from ${P.seoUsd}.`,
       ],
     },
     {

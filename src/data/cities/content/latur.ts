@@ -172,7 +172,7 @@ const latur: CityContent = {
       id: "remote-team-latur",
       heading: "Working with us from Latur",
       paragraphs: [
-        "We do not have an office in Latur, and we say so plainly. We are three engineers who work remotely. Ankur Kumar handles full-stack development, Santosh Sharma leads AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation.",
+        "We do not have an office in Latur, and we say so plainly. We are three engineers who work remotely. One of us handles full-stack development, another of us leads AI, machine learning, AWS and data, and the third of us manages projects, data science and automation.",
         "The process is simple. You explain your needs on WhatsApp or a short call, we send an itemised written quote in about two working days, and nothing starts or gets billed until you approve it in writing. While we build, you follow progress on a live preview link and comment whenever you like.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time. Every decision is recorded in writing, and payments follow the milestones agreed in the quote.",
       ],

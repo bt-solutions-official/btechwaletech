@@ -30,7 +30,7 @@ const content: FreelanceContent = {
     h1: "SEO for salons that turns “near me” searches into booked chairs",
     lede: `SEO for salons is the work of making your parlour the one Google shows when someone nearby types “keratin treatment near me” or “bridal makeup in Kothrud” and is ready to book. BtechWaleTech is three freelance developers in India who set up your Google Business Profile booking, build service-plus-locality pages, plan bridal and festival keywords and grow reviews within Google’s rules. <a href='/local-seo-expert/'>Local SEO</a> starts at ${P.seo} a month, and nobody can honestly promise you the top spot.`,
     pills: ["Google Business Profile booking", "Service + locality pages", "Bridal season keywords", "Review growth by the rules", "Instagram linked to Google", "WhatsApp enquiries", "Hindi and English pages"],
-    origin: "Three freelance developers in India · salon SEO handled by Santosh Sharma · WhatsApp replies 7 days a week",
+    origin: "Three freelance developers in India · salon SEO handled by another of us · WhatsApp replies 7 days a week",
   },
   facts: [
     ["Monthly salon SEO from", `${P.seo} · ${P.seoUsd}`],

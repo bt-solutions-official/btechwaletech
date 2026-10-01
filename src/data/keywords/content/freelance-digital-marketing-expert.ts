@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A freelance digital marketing expert decides which online channels are worth your money, sets them up so results can be measured, and improves them month by month. The channels are search engines (organic and paid), maps and local listings, social platforms, email and messaging. The job is not “posting on Instagram”; it is getting more of the right people to contact you at a cost that makes sense.`,
         `Good work starts with a single number the business cares about: enquiries per month, booked appointments, online orders or cost per lead. Every channel is then judged against that number, not against likes or impressions.`,
-        `At BtechWaleTech, Santosh leads SEO, technical SEO, analytics and data; Ankur builds landing pages, site fixes and integrations; Vedansh handles automation, reporting and project planning. That mix makes us strong on search, websites and measurement, and lighter on content creation for social platforms, which we say plainly throughout this page.`,
+        `At BtechWaleTech, another of us leads SEO, technical SEO, analytics and data; one of us builds landing pages, site fixes and integrations; the third of us handles automation, reporting and project planning. That mix makes us strong on search, websites and measurement, and lighter on content creation for social platforms, which we say plainly throughout this page.`,
       ],
     },
     {

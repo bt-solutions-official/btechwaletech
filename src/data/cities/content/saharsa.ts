@@ -176,7 +176,7 @@ const saharsa: CityContent = {
       heading: "Keeping track of purchases from hundreds of small growers",
       paragraphs: [
         "A makhana or maize trader in Saharsa may buy from hundreds of small growers and pond lessees in a season, often in small lots, with advances paid out before harvest and balances settled later. Most of this is recorded in registers or loose sheets, and reconciling it at the end of the season takes days and causes disputes.",
-        "We build simple purchase registers that run in a phone browser: record each lot with grower name, village, grade, weight and rate, note advances and payments, and see at a glance what is owed to whom. A dashboard shows stock by grade, sales by buyer and state, and pending dues. Santosh Sharma, who leads our data work, keeps these setups light so they cost little to run.",
+        "We build simple purchase registers that run in a phone browser: record each lot with grower name, village, grade, weight and rate, note advances and payments, and see at a glance what is owed to whom. A dashboard shows stock by grade, sales by buyer and state, and pending dues. Another of us, who leads our data work, keeps these setups light so they cost little to run.",
         "These tools start from ₹60,000 for a custom system, or less if a well-structured Google Sheet with a dashboard covers your needs. We will suggest the simpler option first when it is enough.",
       ],
     },
@@ -186,7 +186,7 @@ const saharsa: CityContent = {
       paragraphs: [
         "We do not have an office in Saharsa or anywhere in Bihar, and we say so plainly. We are three engineers working remotely for clients across India. Without rent or a sales team, we can keep starting prices low, and you always talk to the people building your site.",
         "Everything happens over phone calls and WhatsApp. After a first conversation, we send a written page plan, timeline and itemised quote, usually within two working days. Once you approve, you get a live preview link to check on your own phone and share with family or partners. Changes are requested on WhatsApp, and we reply seven days a week, Indian time.",
-        "Ankur Kumar builds websites and applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">message any of us</a> directly.",
+        "One of us builds websites and applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">message any of us</a> directly.",
       ],
     },
     {

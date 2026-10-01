@@ -69,7 +69,7 @@ const shahabadHardoi: CityContent = {
       paragraphs: [
         "Shahabad has an unusual history for a tehsil town. It was founded in 1677 by Nawab Diler Khan, a Pathan commander in the Mughal army sent to put down an uprising in Shahjahanpur, and he settled fellow Pathans here. The Bari Deorhi palace, the Jama Masjid and his mausoleum of dressed kankar blocks still stand. In 1901 it was the largest town in the district, and today it has about 80,000 residents.",
         "The present economy is more down to earth: carpet weaving, building materials, dairy, and the grain trade that flows through the New Mandi. Around these sit the shops, clinics, schools and coaching centres that serve villages across the tehsil. When people ask us about <strong>IT services in Shahabad</strong>, they usually mean a Hindi website, a correct Google Maps pin, a WhatsApp order system or a proper ledger for a trading business.",
-        "We are three engineers working remotely. Ankur Kumar builds full-stack web and app systems, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. We have no office in Shahabad, Hardoi or Lucknow, and we would rather say so than invent an address.",
+        "We are three engineers working remotely. One of us builds full-stack web and app systems, another of us covers AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. We have no office in Shahabad, Hardoi or Lucknow, and we would rather say so than invent an address.",
       ],
     },
     {

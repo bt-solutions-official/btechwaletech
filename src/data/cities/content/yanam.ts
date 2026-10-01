@@ -69,7 +69,7 @@ const yanam: CityContent = {
       paragraphs: [
         "Yanam is unusual. It is administered from Puducherry, more than 800 km away by road, yet almost every customer who walks into a Yanam shop speaks Telugu and many of them live across the boundary in Kakinada or Konaseema district. The town is only a few square kilometres, but it pulls in shoppers, patients and weekend visitors from a wide ring of delta villages.",
         "That mix shapes what people ask us for when they look for <strong>IT services in Yanam</strong>. A trader wants a Telugu website that explains what he stocks and how to reach him from Andhra side. A hospital wants doctor timings online so patients from Tallarevu or I. Polavaram do not make a wasted trip. A lodge wants its rooms found by people planning a Sunday at the river walk.",
-        "We are a remote team of three and do not keep an office in Yanam. Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. The work runs on WhatsApp, phone calls and screen shares, with every plan and price sent to you in writing.",
+        "We are a remote team of three and do not keep an office in Yanam. One of us handles full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. The work runs on WhatsApp, phone calls and screen shares, with every plan and price sent to you in writing.",
         "For most small Yanam businesses the first job is modest: a clean website, a correct map pin and a WhatsApp link. Bigger systems can wait until the basics bring in enquiries.",
       ],
     },

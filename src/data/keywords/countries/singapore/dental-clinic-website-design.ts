@@ -31,7 +31,7 @@ const content: FreelanceContent = {
     h1: "Dental clinic website design in Singapore that books implant, braces and wisdom-tooth consultations",
     lede: `Dental clinic website design in Singapore works best when each high-value treatment has its own calm, factual page and the booking button is never more than a thumb away. We are three freelance developers in India who build dental sites around the <strong>Singapore Dental Council</strong> ethical guidelines: no smile galleries, no patient testimonials, no discount hooks, just clear treatment explanations, CHAS dental information, branch pages and online booking with reminders. Sites start from ${P.site}. Browse our other <a href='/singapore/'>Singapore services</a>.`,
     pills: [`Dental sites from ${P.site}`, "Treatment pages for implants, braces, wisdom teeth", "Written to SDC website guidelines", "CHAS dental information", "Booking with reminders", "One page per branch", "Your domain, your patient data"],
-    origin: "Three freelance developers in India · Ankur builds, Santosh handles SEO and data, Vedansh runs the project · WhatsApp 7 days a week",
+    origin: "Three freelance developers in India · one of us builds, another of us handles SEO and data, the third of us runs the project · WhatsApp 7 days a week",
   },
   facts: [
     ["Dental sites from", `${P.site}, usually 1–2 weeks`],

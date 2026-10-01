@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `If you only hire a web designer, you get a picture of a website; someone still has to make it work. That gap is where most disappointment comes from, because a mock-up does not have to load on slow data, fit long Hindi words or handle a form error.`,
         `So decide first what you need at the end. Want a live, working site? Hire someone who designs and builds, or hire a designer and a developer who have worked together before. Only want a visual direction to hand to your in-house developer? A design-only freelancer is fine, as long as the hand-off format is agreed.`,
-        `Our team sits in the first group. Ankur leads the front-end layout and build, Santosh checks hosting, speed and search structure, and Vedansh keeps the schedule and review rounds on track. You approve a design, and that same design is what reaches the domain.`,
+        `Our team sits in the first group. One of us leads the front-end layout and build, another of us checks hosting, speed and search structure, and the third of us keeps the schedule and review rounds on track. You approve a design, and that same design is what reaches the domain.`,
       ],
       subs: [
         { heading: "Hire design-only when", text: "You already have a developer, an in-house team or a platform partner who will build exactly what is drawn." },

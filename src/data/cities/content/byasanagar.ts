@@ -167,7 +167,7 @@ const byasanagar: CityContent = {
       id: "remote-team-byasanagar",
       heading: "How our remote team delivers work to Jajpur Road clients",
       paragraphs: [
-        "We are three engineers working remotely, with no office in Byasanagar, Cuttack, Bhubaneswar or anywhere else. Ankur Kumar develops websites and web applications across the full stack. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava runs project management and builds data science and automation workflows.",
+        "We are three engineers working remotely, with no office in Byasanagar, Cuttack, Bhubaneswar or anywhere else. One of us develops websites and web applications across the full stack. Another of us covers AI, machine learning, AWS and data. The third of us runs project management and builds data science and automation workflows.",
         "Every project begins with a conversation about your business and what you want to change, followed by a written scope within about two working days. It lists pages or screens, features, dates and the cost of each item. Nothing starts, and nothing is billed, until you approve it in writing.",
         "During the build you receive preview links that work on any phone, so you can share them with partners or your site team. Odia and Hindi content is sent for your review before publishing. Payments are linked to milestones you can see and test.",
         "WhatsApp is our main channel and we answer seven days a week, on Indian time. If a date slips, you are told the same day, with the reason and a new date. Plant vendors are used to documented processes, and we work the same way. You can get in touch through our <a href=\"/contact/\">contact page</a>.",

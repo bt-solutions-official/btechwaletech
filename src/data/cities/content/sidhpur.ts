@@ -175,7 +175,7 @@ const sidhpur: CityContent = {
       id: "remote-team-sidhpur",
       heading: "How a remote team works with Sidhpur businesses",
       paragraphs: [
-        "We keep no office in Sidhpur, and we state that plainly. The team is three engineers: Ankur Kumar builds full-stack web applications, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. You speak directly with the people doing the work, not a sales desk.",
+        "We keep no office in Sidhpur, and we state that plainly. The team is three engineers: one of us builds full-stack web applications, another of us handles AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. You speak directly with the people doing the work, not a sales desk.",
         "A project starts with a message or call about your business. We send a written scope and itemised quote, and work begins only when you agree. You review the site or app on preview links from your phone, send comments in Gujarati, Hindi or English, and approve each stage before we move on.",
         "We reply on WhatsApp seven days a week in Indian working hours, which suits traders who are busiest on weekdays at the yard. Video calls are available whenever a screen share helps. To begin, send your requirement through our <a href=\"/contact/\">contact page</a>.",
       ],

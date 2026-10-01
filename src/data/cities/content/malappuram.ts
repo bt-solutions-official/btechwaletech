@@ -166,7 +166,7 @@ const malappuram: CityContent = {
       id: "remote-team-malappuram",
       heading: "Working with a remote team from Malappuram",
       paragraphs: [
-        "We have no office in Malappuram, and we will never invent one. BtechWaleTech is three engineers working remotely for clients in many Indian cities. Ankur Kumar builds websites and web applications end to end. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects, keeps the timeline honest and builds automation and data-science pieces.",
+        "We have no office in Malappuram, and we will never invent one. BtechWaleTech is three engineers working remotely for clients in many Indian cities. One of us builds websites and web applications end to end. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects, keeps the timeline honest and builds automation and data-science pieces.",
         "The process suits families who are split between Kerala and the Gulf. The first discussion is a WhatsApp call at a time that works for both partners. Within about two working days you receive a page plan, timeline and itemised quote in writing. After approval, a live preview link goes to everyone who needs to see it, and comments come back on the same chat.",
         "We work in Indian Standard Time and reply seven days a week. Each project has one named engineer you can message directly, so nothing gets lost between a salesperson and a developer.",
       ],

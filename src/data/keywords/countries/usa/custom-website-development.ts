@@ -263,7 +263,7 @@ const content: FreelanceContent = {
       id: "hosting-security",
       heading: "Hosting and security choices for a custom-coded site",
       paragraphs: [
-        `Most custom marketing sites we build are hosted on a static or edge platform such as Netlify, Vercel, Cloudflare Pages or AWS, in accounts you own. Sites that store user data run on AWS in a US region, with a database, backups and access logs set up by Santosh, who handles our cloud work.`,
+        `Most custom marketing sites we build are hosted on a static or edge platform such as Netlify, Vercel, Cloudflare Pages or AWS, in accounts you own. Sites that store user data run on AWS in a US region, with a database, backups and access logs set up by another of us, who handles our cloud work.`,
         `A static Astro site has a small attack surface: there is no database or admin panel on the public server to break into. Forms and integrations run as small serverless functions with secrets kept in the host’s environment settings, never in the code. For sites with logins, we add role-based access, rate limiting on forms, encrypted connections everywhere and dependency updates on a schedule.`,
         `If your business handles health, financial or children’s data, tell us at the start. It changes hosting choices and vendor agreements, and your own counsel should confirm what your obligations are. See <a href='/usa/aws-consulting-for-small-business/'>AWS setup for small businesses</a> for the cloud side.`,
       ],

@@ -271,7 +271,7 @@ const content: FreelanceContent = {
         "Get an itemised quote that separates the website from any booking software.",
       ],
       after: [
-        `We are three freelance developers: Ankur builds the site and calculator, Santosh handles hosting and technical SEO, and Vedansh manages the plan and WhatsApp automation. We do not shoot photos on site, run your ads or visit branches. If you are weighing freelancers against an agency, our <a href='/freelancer-vs-agency-for-website/'>freelancer vs agency comparison</a> is candid about when each fits.`,
+        `We are three freelance developers: one of us builds the site and calculator, another of us handles hosting and technical SEO, and the third of us manages the plan and WhatsApp automation. We do not shoot photos on site, run your ads or visit branches. If you are weighing freelancers against an agency, our <a href='/freelancer-vs-agency-for-website/'>freelancer vs agency comparison</a> is candid about when each fits.`,
       ],
     },
     {

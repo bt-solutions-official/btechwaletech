@@ -69,7 +69,7 @@ const tiptur: CityContent = {
       paragraphs: [
         "Few Karnataka towns are defined by a single crop the way Tiptur is. Coconut groves cover the taluk, and the whole local economy, from the APMC yard to the transport lorries, the processing units, the banks and the shops on B.H. Road, rises and falls with the copra price. Tiptur is also the second largest town in Tumakuru district and a place where families from Honnavalli, Nonavinakere, Kibbanahalli Cross and Halkurke come for colleges, hospitals and shopping.",
         "What people ask us for under <strong>IT services in Tiptur</strong> is usually down to earth. A commission agent wants auction-day records he can trust. A desiccated coconut unit wants a site that overseas buyers will take seriously. A college wants admission enquiries sorted. A textile shop wants the right pin on Google Maps. We match the tool to the job and avoid anything heavier than needed.",
-        "Our team is three engineers who work remotely. Ankur Kumar builds the full-stack code; Santosh Sharma handles AI, machine learning, AWS and data; Vedansh Shrivastava manages projects and leads data science and automation. We have no office in Tiptur, and we will not claim one. You work with us over WhatsApp, phone and screen sharing, and every agreement is sent in writing.",
+        "Our team is three engineers who work remotely. One of us builds the full-stack code; another of us handles AI, machine learning, AWS and data; the third of us manages projects and leads data science and automation. We have no office in Tiptur, and we will not claim one. You work with us over WhatsApp, phone and screen sharing, and every agreement is sent in writing.",
       ],
     },
     {

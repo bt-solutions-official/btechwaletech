@@ -159,7 +159,7 @@ const srinagarUttarakhand: CityContent = {
       paragraphs: [
         "We have no office in Srinagar, Pauri or anywhere in Uttarakhand, and we will not print an address we do not use. We are three engineers working remotely for clients across India. Not paying for an office or a sales team is what keeps our rates where they are, and it means the person you speak to is the one building your site.",
         "The work runs on phone calls, WhatsApp and screen sharing, which suits the hills well because nobody has to travel down to Dehradun for a meeting. We start with a call about your business, then send a page plan, timeline and itemised quote in writing. Within one to two weeks you get a preview link to open on your own phone. Changes are sent on WhatsApp and small ones usually go live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. You can <a href=\"/contact/\">contact us</a> directly in Hindi or English.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. You can <a href=\"/contact/\">contact us</a> directly in Hindi or English.",
       ],
     },
     {

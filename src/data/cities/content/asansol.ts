@@ -150,7 +150,7 @@ const asansol: CityContent = {
       paragraphs: [
         "We have no office in Asansol and will not list a borrowed address to look local. The three of us work remotely for clients across India. That keeps rent and sales staff out of your price, and it means the person answering your message is the person writing the code.",
         "The process is short. We talk on a call or on WhatsApp about what you sell and who buys it. You receive a written page plan, timeline and quote, usually within two working days. Once you approve, you get a live preview link early in the build, which you can open on your own phone and share with a partner or family member. Changes are requested in chat and small ones often go live the same day. We reply on Indian time, seven days a week.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and covers data science and automation. You can reach any of us directly, and because there are three of us, work continues if one person is away. To start, message us through the <a href=\"/contact/\">contact page</a>.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and covers data science and automation. You can reach any of us directly, and because there are three of us, work continues if one person is away. To start, message us through the <a href=\"/contact/\">contact page</a>.",
       ],
     },
     {

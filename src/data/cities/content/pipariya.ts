@@ -172,7 +172,7 @@ const pipariya: CityContent = {
       id: "remote-team-pipariya",
       heading: "Working with three remote engineers from Pipariya",
       paragraphs: [
-        "There is no Pipariya office, and we will not pretend otherwise. The team is Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. Conversations happen on WhatsApp and calls, seven days a week on Indian time, and screens are shared when something is easier to show than to describe.",
+        "There is no Pipariya office, and we will not pretend otherwise. The team is one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. Conversations happen on WhatsApp and calls, seven days a week on Indian time, and screens are shared when something is easier to show than to describe.",
         "What replaces the handshake is paperwork you can check. Before any money changes hands you receive:",
       ],
       list: [

@@ -69,7 +69,7 @@ const jhargram: CityContent = {
       paragraphs: [
         "Jhargram became the headquarters of a new district in 2017, and the town has been adjusting ever since. District offices, a state university, a government medical college and a steady stream of weekend visitors from Kolkata and Jamshedpur have all added demand for services that used to be found only in Kharagpur or Medinipur. People from Binpur, Gopiballavpur, Nayagram and Silda now come here to study, shop, see a doctor or handle paperwork.",
         "Most of the enquiries we get for <strong>IT services in Jhargram</strong> are practical. A homestay owner wants guests to find the property on Google Maps. A coaching centre wants a page that shows batches and fees. A craft group wants to sell sabai baskets outside the district. A clinic wants appointment requests on WhatsApp instead of a phone that rings all morning.",
-        "We are a remote team of three. Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Jhargram, and we would rather say that plainly than pretend otherwise. Everything happens over WhatsApp, calls and screen shares, with written plans and quotes at each stage.",
+        "We are a remote team of three. One of us handles full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Jhargram, and we would rather say that plainly than pretend otherwise. Everything happens over WhatsApp, calls and screen shares, with written plans and quotes at each stage.",
       ],
     },
     {

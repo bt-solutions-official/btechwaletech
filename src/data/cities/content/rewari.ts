@@ -165,7 +165,7 @@ const rewari: CityContent = {
       id: "remote-team-rewari",
       heading: "How our remote team works with Rewari clients",
       paragraphs: [
-        "We do not have an office in Rewari, and we say so plainly. BtechWaleTech is three engineers working remotely for clients across India. Ankur Kumar builds websites and web applications from start to finish. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects, sets realistic timelines and builds automation and data-science components.",
+        "We do not have an office in Rewari, and we say so plainly. BtechWaleTech is three engineers working remotely for clients across India. One of us builds websites and web applications from start to finish. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects, sets realistic timelines and builds automation and data-science components.",
         "The first step is a WhatsApp or video call about your customers and goals. Within about two working days you receive a written page plan, timeline and itemised quote. After you approve it, you get a live preview link you can open on your own phone and share with a partner. Feedback comes over chat, and small changes often go live the same day.",
         "We work on Indian Standard Time and reply seven days a week, which suits traders who close late and factory owners whose day starts at the shift change. One named engineer stays responsible for your project throughout.",
       ],

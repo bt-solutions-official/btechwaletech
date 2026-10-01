@@ -171,7 +171,7 @@ const kolar: CityContent = {
       paragraphs: [
         "We have no office in Kolar and will not claim one. We are three engineers working remotely for clients across India. Without rent or a sales team, our starting prices stay below a Bengaluru agency's, and you deal directly with the people writing your code.",
         "Work runs through calls, WhatsApp and screen sharing. After a first conversation, we send a page plan, a timeline and an itemised quote. Within one to two weeks you receive a preview link to check on your phone and share with partners. Small changes are usually done the same day, and we reply every day of the week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">contact any of us</a> directly.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">contact any of us</a> directly.",
       ],
     },
     {

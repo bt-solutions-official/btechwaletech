@@ -178,7 +178,7 @@ const jagtial: CityContent = {
       paragraphs: [
         "We have no office in Jagtial and will not claim one. We are three engineers working remotely for clients across India. Without rent or a sales team, we keep starting prices modest, and you talk directly with the people doing the work.",
         "Work happens on calls, WhatsApp and screen sharing. We begin with your customers and their common questions, then send a page plan, timeline and itemised quote. After approval you receive a preview link to open on your phone and share with family, including relatives abroad. Small changes requested on WhatsApp are often done the same day, and we reply seven days a week on Indian time.",
-        "Ankur Kumar builds websites and applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can <a href=\"/contact/\">contact us</a> whenever you are ready.",
+        "One of us builds websites and applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can <a href=\"/contact/\">contact us</a> whenever you are ready.",
       ],
     },
     {

@@ -160,7 +160,7 @@ const anantapur: CityContent = {
       paragraphs: [
         "There is no BtechWaleTech board near the Clock Tower, and we will not pretend otherwise. Three engineers do all the work from home offices, serving businesses in many states. Skipping the showroom and the sales executive is what lets a groundnut processor or a Kalyandurg dealer deal with the actual builder at a fair rate.",
         "A typical project in Anantapur runs like this. First, a call or a WhatsApp thread about what you sell and who buys it. Next, a written sitemap, schedule and line-by-line estimate. Then, usually by the end of the first or second week, a private preview link you can open on the phone in your shop. You send corrections as messages or voice notes, and minor fixes are often done before evening. Our hours follow IST, including weekends.",
-        "Ankur Kumar writes the front-end and server code. Santosh Sharma looks after AI models, AWS hosting and data work. Vedansh Shrivastava plans the schedule and builds the automations and analysis. Each of them can be reached through our <a href=\"/contact/\">contact page</a>.",
+        "One of us writes the front-end and server code. Another of us looks after AI models, AWS hosting and data work. The third of us plans the schedule and builds the automations and analysis. Each of them can be reached through our <a href=\"/contact/\">contact page</a>.",
       ],
     },
     {

@@ -286,9 +286,9 @@ const content: FreelanceContent = {
         "You own everything: the source code, the Google Play and App Store listings if the app is published, the cloud account and the data. Google Play charges developers a one-time US$25 registration fee and Apple's developer programme costs US$99 a year; many landlord apps are distributed privately to a few users, which we will discuss with you.",
       ],
       list: [
-        "Ankur Kumar builds the app and web platform",
-        "Santosh Sharma sets up cloud hosting, backups and security",
-        "Vedansh Shrivastava runs the project and your weekly check-ins",
+        "One of us builds the app and web platform",
+        "Another of us sets up cloud hosting, backups and security",
+        "The third of us runs the project and your weekly check-ins",
       ],
     },
     {

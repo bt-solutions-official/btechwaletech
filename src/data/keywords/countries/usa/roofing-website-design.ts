@@ -248,7 +248,7 @@ const content: FreelanceContent = {
       heading: "Who owns your roofing website, domain and photos?",
       paragraphs: [
         "You should, and with us you do. The domain is registered in your business name, hosting sits in your account, and the code, content and photos are yours to keep if you ever change designers. Many roofers only discover they rent their site when they try to leave a monthly contract.",
-        "At handover you get the admin login, a list of every account and who owns it, and a short video showing how to add a project to the gallery, update a financing banner or change an area list. Ankur builds the site, Santosh handles speed, Search Console and technical SEO, and Vedansh coordinates content and keeps the checklist moving with your office. Your Google Business Profile stays in your own Google account; we ask for manager access only if you want our help with it.",
+        "At handover you get the admin login, a list of every account and who owns it, and a short video showing how to add a project to the gallery, update a financing banner or change an area list. One of us builds the site, another of us handles speed, Search Console and technical SEO, and the third of us coordinates content and keeps the checklist moving with your office. Your Google Business Profile stays in your own Google account; we ask for manager access only if you want our help with it.",
       ],
     },
     {

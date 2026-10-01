@@ -69,7 +69,7 @@ const kottayam: CityContent = {
       paragraphs: [
         "Kottayam has a reputation that runs ahead of its size. It was the first town in India to be declared fully literate, it has produced Malayalam newspapers and books for well over a century, and it sends a steady stream of nurses, engineers and teachers to the Gulf, Europe and North America. People here read carefully, compare options and ask questions before they commit.",
         "That shapes the work we do when someone looks for <strong>IT services in Kottayam</strong>. A hospital wants doctor schedules and departments set out clearly. A rubber dealer wants a website that shows his grades and buying terms. A resort in Kumarakom wants guests abroad to see real room photographs and book dates without a long email chain. A coaching centre wants parents to find fees and batch timings without calling.",
-        "We are a remote team of three and have no office in Kottayam. Ankur Kumar leads full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We work through WhatsApp, calls and screen shares, and every scope, date and price reaches you in writing.",
+        "We are a remote team of three and have no office in Kottayam. One of us leads full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We work through WhatsApp, calls and screen shares, and every scope, date and price reaches you in writing.",
         "Most Kottayam clients start with a clear, accurate website and a correct Google listing, then add apps or automation once enquiries grow.",
       ],
     },

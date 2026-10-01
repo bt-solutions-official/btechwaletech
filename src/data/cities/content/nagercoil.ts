@@ -177,7 +177,7 @@ const nagercoil: CityContent = {
       paragraphs: [
         "We have no office in Nagercoil, and we will not pretend to. We are three engineers who work remotely with clients across India. That keeps office costs out of your quote and puts you in direct contact with the people building your website.",
         "We begin with a call or WhatsApp chat about your business, then send a written page plan, timeline and itemised quote. Within one or two weeks you get a live preview link to open on your phone. Feedback goes on WhatsApp and small changes are usually done the same day. We reply seven days a week on Indian time. For Tamil and Malayalam text, you or someone you trust checks the wording before it goes live.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. Our <a href=\"/services/web-development/\">web development page</a> explains the process in detail.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. Our <a href=\"/services/web-development/\">web development page</a> explains the process in detail.",
       ],
     },
     {

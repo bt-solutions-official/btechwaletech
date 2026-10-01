@@ -169,7 +169,7 @@ const mangaluru: CityContent = {
       paragraphs: [
         "We have no office in Mangaluru and will not borrow an address to look local. We are three engineers working remotely with clients across India. That keeps rent and sales commissions out of your price and means you talk directly to the people building your site.",
         "Projects start with a call or WhatsApp conversation, then a written page plan, timeline and quote. Within a week or two you get a live preview link to check on your phone. Feedback goes on WhatsApp, and small changes usually go live the same day. We work Indian hours, seven days a week.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. If one of us is unavailable, the other two keep your work moving.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. If one of us is unavailable, the other two keep your work moving.",
       ],
     },
     {

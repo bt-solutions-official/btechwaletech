@@ -179,7 +179,7 @@ const vizianagaram: CityContent = {
       heading: "How a remote team works with Vizianagaram clients",
       paragraphs: [
         "We have no office in Vizianagaram and we do not pretend to have one. We are three engineers working remotely for clients across India. Without rent or sales staff, our prices stay lower, and you talk directly to the people doing the work.",
-        "Ankur Kumar does full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. Reach us through our <a href=\"/contact/\">contact page</a>; we reply on WhatsApp seven days a week during Indian hours.",
+        "One of us does full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. Reach us through our <a href=\"/contact/\">contact page</a>; we reply on WhatsApp seven days a week during Indian hours.",
         "After a first call, we send a page plan and itemised quote within about two working days. Once you approve, a preview link follows within a week or two for you to check on your own phone. Telugu content is reviewed by you before it goes live, because it should sound like your business. Our <a href=\"/services/web-development/\">web development</a> page has more detail on the technical side.",
       ],
     },

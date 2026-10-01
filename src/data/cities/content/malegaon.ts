@@ -168,7 +168,7 @@ const malegaon: CityContent = {
       paragraphs: [
         "We have no office in Malegaon, and we will not rent a mailbox address to pretend otherwise. BtechWaleTech is three engineers who work remotely for clients across India. Without rent and sales staff to pay, our prices stay lower, and you talk directly to the people writing your code.",
         "A project begins with a WhatsApp chat or call about your business and what you want the website or tool to do. We then send a written plan, timeline and itemised quote. After you approve it, you get a preview link, usually within the first week or two, that you can open on your phone and show to your partners or family. Changes are requested on WhatsApp, and small ones are often done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. You can speak to any of us, and you will not be passed around.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. You can speak to any of us, and you will not be passed around.",
       ],
     },
     {

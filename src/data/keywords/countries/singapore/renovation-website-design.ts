@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     h1: "Renovation website design in Singapore that brings HDB, BTO and condo leads straight to you",
     lede: `Renovation website design in Singapore should do one job above all: make homeowners who have just collected their keys send <em>you</em> their floor plan, instead of filling in a form on a lead platform that sells the same enquiry to several firms. We are three freelance developers in India who build renovation and interior design sites with galleries sorted by BTO, resale HDB, condo and landed homes, quote forms that capture a real brief, honest display of your <strong>HDB Directory of Renovation Contractors</strong> listing where you hold it, and estate-level SEO. Sites start from ${P.site}. See our other <a href='/singapore/'>Singapore services</a>.`,
     pills: [`Renovation sites from ${P.site}`, "Galleries by property type", "Quote forms with floor-plan upload", "DRC and accreditation shown honestly", "Real reviews, linked to source", "Estate and BTO-town SEO", "You own the site and every lead"],
-    origin: "Three freelance developers in India · build by Ankur Kumar, SEO by Santosh Sharma, project management by Vedansh Shrivastava · WhatsApp 7 days a week",
+    origin: "Three freelance developers in India · build by one of us, SEO by another of us, project management by the third of us · WhatsApp 7 days a week",
   },
   facts: [
     ["Renovation sites from", `${P.site}, 1–2 weeks`],

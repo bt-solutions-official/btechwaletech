@@ -303,7 +303,7 @@ const content: FreelanceContent = {
       ],
       subs: [
         { heading: "The first two weeks", text: "A kick-off call on your target clients and trades; a site map and case study template; a folder request for certificates, profile and photos; then the home, services and one full case study built on staging for your review." },
-        { heading: "Who does what", text: "Vedansh Shrivastava plans the content collection with your team, Ankur Kumar builds the site, and Santosh Sharma handles hosting, search setup and the document centre." },
+        { heading: "Who does what", text: "The third of us plans the content collection with your team, one of us builds the site, and another of us handles hosting, search setup and the document centre." },
       ],
     },
     {

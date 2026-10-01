@@ -27,9 +27,9 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Shopify SEO expert · remote, across India",
     h1: "Shopify SEO expert for Indian stores: what gets fixed, how rankings grow and what it costs",
-    lede: `A Shopify SEO expert finds the reasons your store is invisible on Google and fixes them inside the limits Shopify sets: duplicate product paths, thin collection pages, missing product data, and apps that slow every page. BtechWaleTech is three freelance developers in India, and Santosh Sharma leads technical SEO on our Shopify work. This page explains each fix, what you can do yourself, where a specialist earns the fee, and why monthly SEO starts from ${P.seo}.`,
+    lede: `A Shopify SEO expert finds the reasons your store is invisible on Google and fixes them inside the limits Shopify sets: duplicate product paths, thin collection pages, missing product data, and apps that slow every page. BtechWaleTech is three freelance developers in India, and another of us leads technical SEO on our Shopify work. This page explains each fix, what you can do yourself, where a specialist earns the fee, and why monthly SEO starts from ${P.seo}.`,
     pills: ["Duplicate URL clean-up", "Collection page content", "Product schema", "App and speed audit", "Google Merchant Center", "AI search visibility", "Monthly reports"],
-    origin: "Three freelance developers in India · Shopify SEO led by Santosh Sharma · WhatsApp replies 7 days a week",
+    origin: "Three freelance developers in India · Shopify SEO led by another of us · WhatsApp replies 7 days a week",
   },
   facts: [
     ["Monthly SEO from", `${P.seo} · ${P.seoUsd}`],
@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A Shopify SEO expert makes your collections and products the pages Google chooses to show for shopping searches, working inside Shopify’s rules rather than fighting them. The job is half technical (theme code, structured data, speed, crawl control) and half commercial (which searches deserve a page, what that page must say).`,
         `Shopify already does a fair amount for you. Its help centre says themes add canonical tags automatically, that <strong>sitemap.xml</strong> and <strong>robots.txt</strong> are generated for every store, and that themes include product schema. So a Shopify SEO expert is not there to install basics. The value is in the gaps: theme code that creates duplicate paths, a sitemap full of thin pages, schema missing the fields Google uses for merchant listings, and a catalogue with no page aimed at the words buyers type.`,
-        `On our side, Santosh runs the audit and technical fixes, Ankur edits Liquid templates and sections when the theme needs changing, and Vedansh keeps the monthly plan, reporting and content calendar moving. You message whichever of us you need.`,
+        `On our side, another of us runs the audit and technical fixes, one of us edits Liquid templates and sections when the theme needs changing, and the third of us keeps the monthly plan, reporting and content calendar moving. You message whichever of us you need.`,
       ],
       list: [
         "Crawl the store and compare what Google indexes with what you want indexed",

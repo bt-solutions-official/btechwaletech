@@ -69,7 +69,7 @@ const arakkonam: CityContent = {
       paragraphs: [
         "Arakkonam's old Tamil name is said to refer to six surrounding places, among them Kanchipuram, Thakkolam, Tiruttani and Sholinghur, and the town still works as a hub for them. Trains from Chennai, Bengaluru, Tirupati and further converge at the junction, suburban services carry commuters to the city, and the naval air station, the NDRF and the CISF centre bring families from every state on transfer postings.",
         "That mix shapes the enquiries we get for <strong>IT services in Arakkonam</strong>. A landlord wants newly transferred officers to find his flats before they arrive. A tuition centre wants railway and defence families to see its batches. A clinic wants appointment requests on WhatsApp. A textile or electronics shop on Gandhi Road wants a proper Google Maps listing and a page that answers price questions.",
-        "Our team is three engineers working remotely. Ankur Kumar is the full-stack developer, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects and handles data science and automation. We do not have an Arakkonam office and do not pretend otherwise. Projects run over WhatsApp, phone and screen share, and we confirm every agreement in writing.",
+        "Our team is three engineers working remotely. One of us is the full-stack developer, another of us covers AI, machine learning, AWS and data, and the third of us manages projects and handles data science and automation. We do not have an Arakkonam office and do not pretend otherwise. Projects run over WhatsApp, phone and screen share, and we confirm every agreement in writing.",
       ],
     },
     {

@@ -142,7 +142,7 @@ const content: FreelanceContent = {
       heading: "Scheduled reports from a Python automation freelancer: how a script runs without anyone pressing a button",
       paragraphs: [
         `A report automation has three parts: get the data, shape it, deliver it. The schedule decides when all three happen.`,
-        `On a Windows office PC, Windows Task Scheduler can run a Python script at, say, 8 am each weekday, as long as the machine is on. On a Linux server, cron does the same job. For work that should run whether or not an office machine is on, a cloud schedule works well, for example a small function on AWS triggered by a timer. Santosh on our team handles AWS set-ups, so the choice is made on reliability and cost, not habit.`,
+        `On a Windows office PC, Windows Task Scheduler can run a Python script at, say, 8 am each weekday, as long as the machine is on. On a Linux server, cron does the same job. For work that should run whether or not an office machine is on, a cloud schedule works well, for example a small function on AWS triggered by a timer. Another of us on our team handles AWS set-ups, so the choice is made on reliability and cost, not habit.`,
         `Delivery can be an email with the file attached, a Google Sheet updated in place, a message in a WhatsApp group through the WhatsApp Business Platform with proper opt-in, or a file dropped into a shared drive. We always add a failure alert: if the script cannot find today’s file, someone hears about it rather than discovering a missing report at noon.`,
       ],
       subs: [

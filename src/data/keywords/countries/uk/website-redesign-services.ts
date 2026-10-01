@@ -129,7 +129,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The inventory is a single spreadsheet listing every URL your site has, with the evidence needed to decide its future. Nothing gets designed until it exists, because design decisions (which pages to merge, what the menu holds) depend on it.`,
         `We build it from four sources, because no single one is complete: a crawl of the live site, your XML sitemap, the Pages report and Performance report in Google Search Console, and your analytics landing pages for the last twelve months. Old platforms often hide URLs that only a combination reveals: image attachment pages, tag archives, PDF downloads and forgotten campaign pages that still receive links.`,
-        `Each row then gets a decision: keep (same URL), move (new URL, 301 redirect), merge (combine with another page, redirect both to the survivor), or remove (410 or redirect to the nearest parent if it has links or traffic). You see and approve the decisions. Santosh handles the crawl and Search Console side; you know which pages matter commercially, so your input on the “keep or merge” column is the most valuable part.`,
+        `Each row then gets a decision: keep (same URL), move (new URL, 301 redirect), merge (combine with another page, redirect both to the survivor), or remove (410 or redirect to the nearest parent if it has links or traffic). You see and approve the decisions. Another of us handles the crawl and Search Console side; you know which pages matter commercially, so your input on the “keep or merge” column is the most valuable part.`,
       ],
       list: [
         "URL, page title and main heading",
@@ -262,7 +262,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Redesign work suits remote delivery well because most of it happens in shared documents and on a staging site. You will not meet us in person, and we do not do site visits; everything runs on video calls, WhatsApp and a shared inventory spreadsheet.`,
         `India runs four and a half hours ahead of the UK during British Summer Time and five and a half hours ahead in winter. That means your late morning and early afternoon overlap our working day, so calls sit comfortably in UK working hours, and changes you request at lunchtime are often on staging by the time you finish work.`,
-        `Quotes are in USD; you can pay from a GBP account through Wise, bank wire or PayPal, and invoices come from India. Nothing is billed before you approve the written quote, and our <a href='/terms/'>terms</a> set out how changes are handled. Ankur leads the build, Santosh runs the crawl, redirects and Search Console, and Vedansh keeps the plan and your decisions in one place.`,
+        `Quotes are in USD; you can pay from a GBP account through Wise, bank wire or PayPal, and invoices come from India. Nothing is billed before you approve the written quote, and our <a href='/terms/'>terms</a> set out how changes are handled. One of us leads the build, another of us runs the crawl, redirects and Search Console, and the third of us keeps the plan and your decisions in one place.`,
       ],
       subs: [
         { heading: "First two weeks", text: "Day 1–2: access to analytics, Search Console, hosting and domain. Days 3–5: inventory shared for your decisions. Week 2: templates on staging and redirect map drafted." },

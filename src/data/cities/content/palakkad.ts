@@ -174,7 +174,7 @@ const palakkad: CityContent = {
       id: "remote-team-palakkad",
       heading: "Working with a remote team from Palakkad",
       paragraphs: [
-        "We have no office in Palakkad and will not claim one. BtechWaleTech is three engineers working remotely for clients across India. Ankur Kumar builds websites and web applications from start to finish. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects, keeps timelines honest and builds automation and data-science components.",
+        "We have no office in Palakkad and will not claim one. BtechWaleTech is three engineers working remotely for clients across India. One of us builds websites and web applications from start to finish. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects, keeps timelines honest and builds automation and data-science components.",
         "Each project begins with questions about your customers. About two working days later you receive a page plan, timeline and itemised quote. After approval, we share a preview link for you to check on your own phone and pass on to partners. Feedback comes over WhatsApp, and small changes often go live the same day.",
         "We work in Indian time and reply seven days a week, which suits factory owners who review work after shifts and shopkeepers who are free only on Sundays. You always know which engineer is on your project and can message that person directly.",
       ],

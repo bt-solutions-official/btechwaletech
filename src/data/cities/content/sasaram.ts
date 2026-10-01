@@ -168,7 +168,7 @@ const sasaram: CityContent = {
       paragraphs: [
         "We have no office in Sasaram, Patna or anywhere in Bihar, and we will not publish an address we do not use. We are three engineers working remotely for clients across India. Skipping rent and a sales team keeps prices low, and the person you speak to writes your code.",
         "We begin with a phone or WhatsApp call about your business. You then receive a page plan, timeline and itemised quote in writing. Within one to two weeks you get a preview link to check on your own phone. Changes go over WhatsApp, and small ones usually go live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. <a href=\"/contact/\">Reach any of us</a> in Hindi or English.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. <a href=\"/contact/\">Reach any of us</a> in Hindi or English.",
       ],
     },
     {

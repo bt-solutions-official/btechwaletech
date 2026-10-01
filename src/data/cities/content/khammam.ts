@@ -158,7 +158,7 @@ const khammam: CityContent = {
       paragraphs: [
         "We do not have an office in Khammam or Hyderabad, and we will not show an address we do not use. We are three engineers who work remotely for clients across India. Without rent and a sales team, prices stay lower, and the person answering your questions is the one building your site.",
         "Work starts with a call or WhatsApp chat about your business and customers. You then receive a page plan, timeline and itemised quote in writing. After approval, a live preview link arrives within one to two weeks, which you can open on your phone and share with partners. Changes are requested on WhatsApp, and small ones are often done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar builds the full-stack side. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. We speak English and Hindi, and we arrange Telugu content review with you so the language sounds right. <a href=\"/contact/\">Get in touch here</a>.",
+        "One of us builds the full-stack side. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. We speak English and Hindi, and we arrange Telugu content review with you so the language sounds right. <a href=\"/contact/\">Get in touch here</a>.",
       ],
     },
     {

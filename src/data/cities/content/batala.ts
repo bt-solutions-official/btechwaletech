@@ -158,7 +158,7 @@ const batala: CityContent = {
       heading: "Dealer records, raw material costs and simple dashboards",
       paragraphs: [
         "Many Batala firms have years of useful data sitting in Tally, Excel sheets and registers: which dealers pay late, which models sell in which season, how pig iron and scrap prices have moved against your selling rates. Very few owners have time to look at it together.",
-        "We build small dashboards that pull this information into one screen you can open on your phone. Typical views include sales by state and month, outstanding dues by dealer, top-selling models and a simple margin estimate as material costs change. Santosh Sharma, who leads our data and AWS work, keeps these systems lean so they cost little to run.",
+        "We build small dashboards that pull this information into one screen you can open on your phone. Typical views include sales by state and month, outstanding dues by dealer, top-selling models and a simple margin estimate as material costs change. Another of us, who leads our data and AWS work, keeps these systems lean so they cost little to run.",
         "For firms that want more, a custom dealer portal lets approved dealers place orders, check dispatch status and download invoices. These applications start at ₹60,000 and are designed around the way your office already works, not around a generic template.",
       ],
     },
@@ -168,7 +168,7 @@ const batala: CityContent = {
       paragraphs: [
         "We should be clear: we do not have an office in Batala or anywhere in Punjab. We are three engineers who work remotely with clients across India. Not paying rent or salespeople is why our starting prices are lower than those of city agencies.",
         "The process is straightforward. We start with a call to understand your products and buyers, then send a written page plan, timeline and itemised quote, usually within two working days. Once you approve, you get a working preview link to check on your own phone, share with your partners or show your dealers. Changes are sent on WhatsApp, and we reply seven days a week, Indian time.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">message any of us</a> and speak directly with the person doing the work.",
+        "One of us builds the websites and applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">message any of us</a> and speak directly with the person doing the work.",
       ],
     },
     {

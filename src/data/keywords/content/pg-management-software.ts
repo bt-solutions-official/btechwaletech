@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `PG management software is a system that tracks beds, tenants, rent, deposits, meals and complaints for paying-guest and co-living properties in one database, usually with an owner dashboard, a manager panel and tenant access by app or WhatsApp. It exists because a PG's business is per bed, not per room or per flat.`,
         `That per-bed detail is what makes general property or rental tools awkward. A three-sharing room can have one bed on notice, one occupied and one vacant, each at a different rent and move-in date. Meals are another layer that flats never have. So is the churn: students and young professionals move in and out every month, and every move needs onboarding, a deposit and later a settlement.`,
-        `A custom PG management software build models your properties exactly as they run. BtechWaleTech builds these as a web platform with Flutter apps where needed; Ankur writes the application, Santosh sets up the cloud and data, and Vedansh manages the plan and the automation around rent and reminders.`,
+        `A custom PG management software build models your properties exactly as they run. BtechWaleTech builds these as a web platform with Flutter apps where needed; one of us writes the application, another of us sets up the cloud and data, and the third of us manages the plan and the automation around rent and reminders.`,
       ],
     },
     {
@@ -327,7 +327,7 @@ const content: FreelanceContent = {
       ["Tell us about your properties", "Share bed counts, sharing types, current rent process and your biggest headache on WhatsApp. We reply with questions and an itemised quote in about two working days."],
       ["Rules workshop", "We write down rent cycles, deposit and notice rules, meal plans and roles with you, so the software follows your policies instead of forcing new ones."],
       ["Screens you can click", "Owner, manager and tenant screens as a clickable prototype. Your managers try it before a line of code, because they will use it most."],
-      ["Build and weekly versions", "Ankur builds the platform and apps, Santosh sets up hosting and payments in your accounts, and Vedansh sends a working version every week for review."],
+      ["Build and weekly versions", "One of us builds the platform and apps, another of us sets up hosting and payments in your accounts, and the third of us sends a working version every week for review."],
       ["Pilot property for one cycle", "One PG goes live for a full rent cycle with the old method alongside. We import tenants and deposits, then compare collections to your records."],
       ["Rollout and handover", "Other properties follow; you receive code, credentials, guides and recordings, and two months of free maintenance starts."],
     ],

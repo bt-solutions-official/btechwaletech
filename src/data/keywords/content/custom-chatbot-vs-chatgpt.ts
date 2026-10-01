@@ -356,7 +356,7 @@ const content: FreelanceContent = {
       id: "our-build",
       heading: "How we build and hand over a custom AI chatbot",
       paragraphs: [
-        `We are three freelance developers, and each part of a chatbot has a clear owner. Santosh Sharma handles the AI side: retrieval, prompts, model choice and evaluation, drawing on his AI, ML and AWS work. Ankur Kumar builds the widget, the backend and integrations with your systems. Vedansh Shrivastava runs the project, the WhatsApp automation flows and the test sessions with your staff.`,
+        `We are three freelance developers, and each part of a chatbot has a clear owner. Another of us handles the AI side: retrieval, prompts, model choice and evaluation, drawing on his AI, ML and AWS work. One of us builds the widget, the backend and integrations with your systems. The third of us runs the project, the WhatsApp automation flows and the test sessions with your staff.`,
         `The handover is complete, not symbolic. You receive the source code in your repository, the prompts and guardrail rules as readable files, the cleaned knowledge documents, and admin access to every account involved: model API, cloud hosting, WhatsApp Business and the lead sheet or CRM. The API key belongs to you, so if you ever stop working with us, the bot keeps running and another developer can take over.`,
         `What we do not do: promise perfect accuracy, build general-purpose assistants for WhatsApp, run your support team, or give legal sign-off on data protection. We will, however, tell you plainly when ChatGPT on its own is the smarter spend. Message us through the <a href='/contact/'>contact page</a> with a sample of the questions your customers ask most.`,
       ],

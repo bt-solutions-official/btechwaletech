@@ -172,7 +172,7 @@ const kancheepuram: CityContent = {
       paragraphs: [
         "We have no office in Kancheepuram or Chennai, and we tell every client that at the start. We are three engineers working remotely across India. Without rent or a sales team to support, our starting prices stay low, and you always talk to the person doing the work.",
         "The process is simple. After a phone call about your business, we send a page plan, timeline and itemised quote in writing. Within a week or two you receive a live link to check on your own phone. Changes are sent on WhatsApp, small ones are often done the same day, and we reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science pieces. <a href=\"/contact/\">Message us</a> and one of the three will reply.",
+        "One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data science pieces. <a href=\"/contact/\">Message us</a> and one of the three will reply.",
       ],
     },
     {

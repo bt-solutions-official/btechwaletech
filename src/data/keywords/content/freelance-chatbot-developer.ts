@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A freelance chatbot developer designs the conversation, builds the bot, connects it to your systems and keeps tuning it once real customers start typing. The bot is a small part; the value is in the design around it.`,
         `In practice the work has five parts. Conversation design: what questions people ask, in what words, and what a good answer looks like. The brain: either fixed rules, a large language model (LLM) grounded in your content, or both. Channels: a chat widget on your website, WhatsApp, or chat inside your app. Integrations: sending leads to your CRM, reading order status from your system, booking slots in a calendar. And handover: passing the chat to a person with the history intact when the bot should stop.`,
-        `At BtechWaleTech, Santosh leads the AI side (model choice, retrieval and evaluation), Ankur builds the integrations and the web widget, and Vedansh maps the conversation flows with you and runs testing.`,
+        `At BtechWaleTech, another of us leads the AI side (model choice, retrieval and evaluation), one of us builds the integrations and the web widget, and the third of us maps the conversation flows with you and runs testing.`,
       ],
     },
     {

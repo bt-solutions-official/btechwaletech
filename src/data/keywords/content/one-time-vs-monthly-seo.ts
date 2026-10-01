@@ -312,7 +312,7 @@ const content: FreelanceContent = {
       id: "our-approach",
       heading: "How we handle one-time and monthly SEO work",
       paragraphs: [
-        `We are three freelance developers, and the SEO side is led by Santosh Sharma, who handles technical SEO alongside AI, data and AWS work. Ankur Kumar makes the code changes on the site, and Vedansh Shrivastava keeps the monthly plan and reporting on schedule.`,
+        `We are three freelance developers, and the SEO side is led by another of us, who handles technical SEO alongside AI, data and AWS work. One of us makes the code changes on the site, and the third of us keeps the monthly plan and reporting on schedule.`,
         `A one-time job starts with read access to your Search Console, a crawl and a written list of fixes, each priced. You approve the list, we make the changes, and you get a short note of what changed with before-and-after URLs. A monthly plan starts from that same list, adds a page plan for the next three months, and reports from your own accounts.`,
         `What we do not do: guarantee rankings, buy links, run your Google Ads account, or hold your data hostage. Everything we build or write is yours. If a monthly plan stops making sense for your business, we would rather tell you than keep invoicing. You can reach us through the <a href='/contact/'>contact page</a> or WhatsApp.`,
       ],

@@ -174,7 +174,7 @@ const sopore: CityContent = {
       id: "remote-team-sopore",
       heading: "An IT services team in Sopore without a Sopore office: how we work remotely",
       paragraphs: [
-        "We should be clear: we have no office in Sopore or anywhere else in Kashmir. BtechWaleTech is three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects and builds data science and automation work.",
+        "We should be clear: we have no office in Sopore or anywhere else in Kashmir. BtechWaleTech is three engineers working remotely. One of us handles full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us manages projects and builds data science and automation work.",
         "Working with an <strong>IT services team in Sopore</strong> that is not physically in Sopore is simpler than it sounds. We start with a WhatsApp or video call, you share photographs, price lists and samples of your paperwork, and we send a written plan and quote. During the build you see a working preview link and can ask for changes at each stage.",
         "We reply on WhatsApp seven days a week during Indian working hours. When mobile data in the valley is slow or interrupted, we switch to phone calls and email so the project keeps moving.",
         "Payments are staged and tied to delivered work, and every milestone is written down. If you want to meet someone in person, we are not the right fit, and we would rather say that now.",

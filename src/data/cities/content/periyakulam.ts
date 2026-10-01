@@ -69,7 +69,7 @@ const periyakulam: CityContent = {
       paragraphs: [
         "Periyakulam is a working agricultural town rather than a commercial city. Mango orchards climb toward the hills, the Varaha river splits the streets into Thenkarai and Vadakarai, and the horticulture college brings students and researchers from across Tamil Nadu. Families from Devadanapatti, Vadugapatti, Jeyamangalam and nearby villages come in for hospitals, schools, cloth, jewellery and farm inputs, and more of them now check a phone before they set out.",
         "Requests we get for <strong>IT services in Periyakulam</strong> are rarely grand. A mango trader wants pre-orders from Chennai and Bengaluru before the season opens. A clinic wants its doctors' timings online in Tamil. A nursery owner wants a catalogue that answers “do you have grafted Senthuram saplings?” without a phone call. A coaching centre wants admission enquiries sorted instead of buried in WhatsApp.",
-        "We take these on as a remote group of three engineers. Ankur Kumar writes websites and web apps end to end, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project planning, data science and automation. If you were hoping for an <strong>IT services team in Periyakulam</strong> with a shopfront, we are not that: there is no office in the town or anywhere in Theni district. Calls, screen shares and WhatsApp replace the visit, and every plan and estimate reaches you in writing.",
+        "We take these on as a remote group of three engineers. One of us writes websites and web apps end to end, another of us covers AI, machine learning, AWS and data, and the third of us runs project planning, data science and automation. If you were hoping for an <strong>IT services team in Periyakulam</strong> with a shopfront, we are not that: there is no office in the town or anywhere in Theni district. Calls, screen shares and WhatsApp replace the visit, and every plan and estimate reaches you in writing.",
       ],
     },
     {
@@ -159,7 +159,7 @@ const periyakulam: CityContent = {
       heading: "How a remote team works with Periyakulam owners, step by step",
       paragraphs: [
         "We are three engineers working remotely, with no office in Periyakulam. That is a real difference from a local studio, so rather than simply asking for trust, here is how a project actually runs from first message to launch.",
-        "Ankur Kumar builds the site or app, Santosh Sharma looks after AI, data and AWS, and Vedansh Shrivastava keeps the schedule and the automation moving. Replies come on WhatsApp seven days a week on Indian time. If a date slips, you hear about it the same day along with a revised one, not after you have had to chase us.",
+        "One of us builds the site or app, another of us looks after AI, data and AWS, and the third of us keeps the schedule and the automation moving. Replies come on WhatsApp seven days a week on Indian time. If a date slips, you hear about it the same day along with a revised one, not after you have had to chase us.",
         "Tamil text gets extra care. Every Tamil page is sent to you to read before it goes live, because a spelling slip in a clinic's instructions or a sapling name is exactly the sort of error local customers spot first.",
       ],
       list: [

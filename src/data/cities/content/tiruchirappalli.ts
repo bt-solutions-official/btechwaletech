@@ -150,7 +150,7 @@ const tiruchirappalli: CityContent = {
       paragraphs: [
         "We don't have an office in Tiruchirappalli and we won't list a borrowed address. We are three engineers working remotely for clients across India. That keeps rent and sales commission out of your price, and means the person you talk to is the person writing your code.",
         "A project begins with a phone call or WhatsApp conversation about your business. We then send a written page plan, timeline and itemised quote. Within a week or two, you get a live preview link to check on your own phone, and you give feedback on a working site rather than a static design. Small changes usually go live the same day. We reply seven days a week on Indian time, which helps owners who only have Sundays free to review.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You always know who is doing what, and you can message any of us directly.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You always know who is doing what, and you can message any of us directly.",
       ],
     },
     {

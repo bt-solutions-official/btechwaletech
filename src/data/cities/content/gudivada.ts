@@ -185,7 +185,7 @@ const gudivada: CityContent = {
       paragraphs: [
         "We have no office in Gudivada, or anywhere else. We are three engineers who work remotely for clients across India, and you deal directly with the people writing your code. Not paying rent is one reason our starting prices stay where they are.",
         "The process is straightforward. After a WhatsApp chat or a call, we send a written plan of pages, a timeline and an itemised quote. Within a week or two you receive a preview link to check on your own phone. You send feedback on WhatsApp, and small changes are usually done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava runs project management and builds automation and data science pieces. Our <a href=\"/services/web-development/\">web development page</a> sets out the steps in more detail.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us runs project management and builds automation and data science pieces. Our <a href=\"/services/web-development/\">web development page</a> sets out the steps in more detail.",
         "For Telugu content, we draft with your input and you, or someone you trust, read every line before it goes live. Owners in the delta already run much of their trade over phone and video, so approving a website from your shop counter tends to feel natural rather than distant.",
       ],
     },

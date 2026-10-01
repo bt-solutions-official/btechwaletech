@@ -69,7 +69,7 @@ const athni: CityContent = {
       paragraphs: [
         "Few towns in Karnataka sit as close to Maharashtra as Athni. Miraj is about 55 km away, Sangli is nearby, and Kolhapur is roughly 100 km off, while Belagavi city is further at around 140 km. Customers walk into Athni shops speaking Kannada or Marathi, and many switch between the two mid-sentence.",
         "That shapes how businesses need to show up online. A clinic, school or shop that only has an English page, or only a Kannada one, misses half its audience. Our <strong>IT services in Athni</strong> start from that point: pages that read naturally in the languages your customers actually use, with the important details, phone number, timings and location, identical in each.",
-        "We are a remote team of three engineers. Ankur Kumar builds websites and web applications from front to back. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava plans projects and handles data science and automation. We have no office in Athni and say so openly; everything runs on WhatsApp, calls, screen shares and written documents.",
+        "We are a remote team of three engineers. One of us builds websites and web applications from front to back. Another of us works on AI, machine learning, AWS and data. The third of us plans projects and handles data science and automation. We have no office in Athni and say so openly; everything runs on WhatsApp, calls, screen shares and written documents.",
       ],
     },
     {

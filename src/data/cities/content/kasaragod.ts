@@ -70,7 +70,7 @@ const kasaragod: CityContent = {
         "Kasaragod faces two directions at once. Its administration, schools and law are Kerala's, but its shopping, hospitals and colleges also pull people south from Dakshina Kannada and north into Mangaluru. Customers here might write to a shop in Malayalam, speak Tulu at the counter and read a bill in Kannada. Add the Gulf, where many families have someone working, and a single business can have buyers in Uppala, Mangaluru and Sharjah.",
         "That mix shapes <strong>IT services in Kasaragod</strong>. A website that works only in English misses a large part of the town; one in Malayalam alone misses the Kannada and Tulu-speaking north. The usual answer is a site with a clear language switch, map listings written for both states, and a WhatsApp number that relatives abroad can use to place orders for family at home.",
         "Requests we get are usually specific: a textile or gold showroom wanting a catalogue, a resort near Bekal wanting direct bookings, a clinic in Vidyanagar wanting its pin fixed, a trader wanting arecanut purchases on a phone instead of a ledger.",
-        "The work is done by three engineers. Ankur Kumar builds the sites and web apps, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. None of us has an office in Kasaragod, and we mention it before anything else.",
+        "The work is done by three engineers. One of us builds the sites and web apps, another of us covers AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. None of us has an office in Kasaragod, and we mention it before anything else.",
       ],
     },
     {

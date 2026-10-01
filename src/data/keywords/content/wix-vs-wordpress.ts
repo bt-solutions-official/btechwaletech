@@ -83,7 +83,7 @@ const content: FreelanceContent = {
     note: "Same small business, three routes. The right column is not always the right answer; it is the one we can speak for directly.",
     columns: ["Question", "Wix (do it yourself)", "WordPress (self-hosted)", "Hand-built by BtechWaleTech"],
     rows: [
-      ["Who builds it", "You, in the drag-and-drop editor", "You or a developer, with a theme", "Ankur, Santosh and Vedansh"],
+      ["Who builds it", "You, in the drag-and-drop editor", "You or a developer, with a theme", "The BtechWaleTech team"],
       ["What you pay monthly", "A Wix plan, billed by Wix", "Hosting, plus any premium plugins", "Only your own hosting, if any"],
       ["Speed on budget phones", "Depends on template and apps", "Depends on theme, plugins, hosting", "Lean code tuned for Core Web Vitals"],
       ["Editing text yourself", "Very easy", "Easy once set up", "Through us, or a simple CMS if you want one"],

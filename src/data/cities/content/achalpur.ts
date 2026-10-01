@@ -173,7 +173,7 @@ const achalpur: CityContent = {
       paragraphs: [
         "You will not find our office in Achalpur or Paratwada because there is none, and we say so plainly. We are three engineers spread across India, working remotely for clients in many towns. Skipping rent and salespeople keeps our starting prices lower than most Amravati or Nagpur agencies, and you deal with the engineers themselves.",
         "Nothing about the process needs you to travel. We start with a phone or WhatsApp conversation about your business, then within roughly two working days you receive a written plan of pages, a schedule and a line-by-line quote. After you say yes, we build, and you get a private link to try the site on your own mobile and show your partners. Messages get answers on every day of the week, Indian time, and minor corrections normally happen within hours.",
-        "Who you will talk to: Ankur Kumar writes the full-stack code, Santosh Sharma looks after AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project planning along with automation and data science. Any of the three can be <a href=\"/contact/\">contacted directly</a>, without a salesperson in between.",
+        "Who you will talk to: one of us writes the full-stack code, another of us looks after AI, machine learning, AWS and data work, and the third of us runs project planning along with automation and data science. Any of the three can be <a href=\"/contact/\">contacted directly</a>, without a salesperson in between.",
       ],
     },
     {

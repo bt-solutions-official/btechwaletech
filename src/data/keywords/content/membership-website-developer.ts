@@ -203,7 +203,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A membership site holds names, phone numbers, emails and payment history, so it must be treated as a store of personal data from the first line of code.`,
         `Passwords are hashed with modern algorithms; one-time passwords expire quickly; admin accounts use two-factor authentication. Card details never touch your server; the payment provider stores them. Access rules are checked on the server for every request, not just hidden in the interface. Backups run daily and are tested.`,
-        `India’s Digital Personal Data Protection Act, 2023 requires clear consent and purpose for personal data. Collect only what the membership needs, explain why, let members download or delete their data and remove it when they ask. Member directories should show only fields members agree to share. Santosh reviews cloud security and backups on AWS for every platform we launch.`,
+        `India’s Digital Personal Data Protection Act, 2023 requires clear consent and purpose for personal data. Collect only what the membership needs, explain why, let members download or delete their data and remove it when they ask. Member directories should show only fields members agree to share. Another of us reviews cloud security and backups on AWS for every platform we launch.`,
       ],
     },
     {

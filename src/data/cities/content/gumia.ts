@@ -184,7 +184,7 @@ const gumia: CityContent = {
       id: "remote-team-gumia",
       heading: "How a remote team delivers for Gumia clients",
       paragraphs: [
-        "BtechWaleTech has no office in Gomia, Bermo or Bokaro, and we won't pretend otherwise. The three of us work remotely: Ankur Kumar on full-stack web development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation.",
+        "BtechWaleTech has no office in Gomia, Bermo or Bokaro, and we won't pretend otherwise. The three of us work remotely: one of us on full-stack web development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation.",
         "A project runs like this. We talk on a call or WhatsApp; within about two working days you get a written scope listing pages or screens, dates and the price of each part. We begin only once you approve it in writing, and not a rupee is billed before then.",
         "While we build, you check progress on preview links from your phone, and any Hindi copy comes to you for correction before it is published. Messages are answered every day of the week during Indian hours. If a date moves, we tell you that day and give the new one.",
       ],

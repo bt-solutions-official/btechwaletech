@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Typical problems", "Filter URLs, thin categories, slow catalogues"],
     ["Monthly SEO", `From ${P.seo} · ${P.seoUsd}`],
     ["Store builds and rebuilds", `From ${P.shop}, 4–8 weeks`],
-    ["Who does the code", "Ankur Kumar, full-stack developer"],
+    ["Who does the code", "One of us, full-stack developer"],
   ],
   stats: [
     { value: "3", label: "Freelance developers: code, SEO and project management" },

@@ -177,7 +177,7 @@ const thrissur: CityContent = {
       paragraphs: [
         "We do not have an office in Thrissur and will not list a shared address to appear local. We are three engineers working remotely for businesses across India. Thrissur clients work with us through calls, WhatsApp, shared documents and screen sharing, which suits busy owners who cannot spend an afternoon in meetings.",
         "We begin with a conversation about your business and customers, then send a written page plan, a timeline and an itemised quote. In the first week or two, a live preview link lets you check the site on your own phone and share it with partners. Feedback goes on WhatsApp, and small changes usually go live the same day. We work Indian hours and reply seven days a week, which helps during the festival and wedding seasons when weekdays are packed.",
-        "Ankur Kumar writes the full-stack code, Santosh Sharma looks after AI, machine learning, AWS and data, and Vedansh Shrivastava manages delivery and builds automation and data science work. You can <a href=\"/contact/\">reach any of us</a> directly.",
+        "One of us writes the full-stack code, another of us looks after AI, machine learning, AWS and data, and the third of us manages delivery and builds automation and data science work. You can <a href=\"/contact/\">reach any of us</a> directly.",
       ],
     },
     {

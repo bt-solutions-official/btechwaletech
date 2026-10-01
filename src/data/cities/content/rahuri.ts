@@ -70,7 +70,7 @@ const rahuri: CityContent = {
       paragraphs: [
         "Most requests for <strong>IT services in Rahuri</strong> come down to four things: a Marathi website that a farmer can read on his phone, a Google Maps listing that shows the right shop, a way to stop losing WhatsApp orders, and a record of supplies and payments that the whole family can check. Very few of them start with a big software idea.",
         "That is because of how the town earns. Rahuri is a taluka headquarters of about 54,000 people serving 96-odd villages, and the money moves through seed and fertiliser counters, cane weighed at the factory gate, milk poured at collection centres, and the steady trade around the agricultural university campus. All of it depends on a phone call or a message, and almost none of it depends on an office visit.",
-        "We are three engineers working from our own desks: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data work, and Vedansh Shrivastava on project management, data science and automation. You get written scope, a costed list and preview links you can open in the shop, rather than a salesman and a brochure.",
+        "We are three engineers working from our own desks: one of us on full-stack development, another of us on AI, machine learning, AWS and data work, and the third of us on project management, data science and automation. You get written scope, a costed list and preview links you can open in the shop, rather than a salesman and a brochure.",
         "There is no office of ours in Rahuri and we will not pretend otherwise. What replaces it is a paper trail: what we will build, by when, for how much, and who owns each account when it is done.",
       ],
     },

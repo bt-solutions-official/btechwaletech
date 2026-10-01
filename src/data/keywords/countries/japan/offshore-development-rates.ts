@@ -83,7 +83,7 @@ const content: FreelanceContent = {
     rows: [
       ["Pricing unit", "Engineer-months, by grade", "Man-months or a fixed amount in yen", "Project starting price, itemised"],
       ["Japanese-language layer", "Bridge SE, often billed as a role", "Japanese project managers in Japan", "None: English-first, you approve Japanese text"],
-      ["Management overhead", "Account and delivery managers", "Two management layers, onshore and offshore", "Vedansh manages; developers talk to you directly"],
+      ["Management overhead", "Account and delivery managers", "Two management layers, onshore and offshore", "The third of us manages; developers talk to you directly"],
       ["Who carries overrun risk", "You, on time-based contracts", "Depends on the contract model", "Us, within the agreed scope; changes quoted separately"],
       ["Team scale", "Can add many engineers quickly", "Large programmes", "Three developers; no 20-person teams"],
       ["Currency", "Often USD, sometimes JPY", "JPY", "USD, payable in USD or JPY by Wise or wire"],
@@ -169,7 +169,7 @@ const content: FreelanceContent = {
         "Designer, data or AI specialist: often part-time, billed at specialist grades",
       ],
       after: [
-        `On a small team, the ratio of people who build to people who coordinate is the number to watch. In our case all three people build: Ankur on full-stack development, Santosh on AI, cloud and data, and Vedansh on project management plus data science and automation.`,
+        `On a small team, the ratio of people who build to people who coordinate is the number to watch. In our case all three people build: one of us on full-stack development, another of us on AI, cloud and data, and the third of us on project management plus data science and automation.`,
       ],
     },
     {
@@ -301,7 +301,7 @@ const content: FreelanceContent = {
       heading: "Buying offshore development from our team in India: how it runs from Japan",
       paragraphs: [
         `Our day starts when Japan’s morning is well under way, so we overlap your afternoon from about 12:30 JST. That is enough for a daily call or written stand-up plus demos, while your mornings stay free for review.`,
-        `You deal directly with the three people doing the work. Vedansh keeps the plan and the weekly report; Ankur and Santosh build and join calls whenever a technical question needs an answer. Messages on WhatsApp get replies seven days a week, in English or Hindi; Japanese text for your users is written or approved by you.`,
+        `You deal directly with the three people doing the work. The third of us keeps the plan and the weekly report; one of us and another of us build and join calls whenever a technical question needs an answer. Messages on WhatsApp get replies seven days a week, in English or Hindi; Japanese text for your users is written or approved by you.`,
         `Payments are in USD, settled in USD or JPY by Wise or bank wire, against milestones in the quote, with invoices issued from India. Your accountant can advise on recording an overseas invoice; we keep each one clear about the period, the milestone and the amount.`,
         `The first two weeks follow a pattern: a scoping call, a written feature list with acceptance criteria for your sign-off, access to your repository and cloud account, and a first working screen or endpoint on staging by the end of week two. By then you can judge whether the effective cost looks the way the quote promised.`,
       ],

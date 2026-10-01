@@ -159,7 +159,7 @@ const durg: CityContent = {
       paragraphs: [
         "We do not have an office in Durg or Bhilai, and we will not claim one. We are a team of three engineers who work remotely with clients across India. You speak directly with the people building your site, and no office rent is hidden inside your quote.",
         "The process is short. We start with a call or WhatsApp chat to understand your business, then send a written page plan, timeline and itemised quote. Within a week or two you get a live preview link to check on your own phone. Feedback on WhatsApp is usually handled the same day. We reply seven days a week, Indian time, because many owners only have time on Sundays.",
-        "Ankur Kumar is our full-stack developer. Santosh Sharma leads AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles data science and automation. The <a href=\"/services/web-development/\">web development page</a> explains how we plan and build a site, step by step.",
+        "One of us is our full-stack developer. Another of us leads AI, machine learning, AWS and data. The third of us manages projects and handles data science and automation. The <a href=\"/services/web-development/\">web development page</a> explains how we plan and build a site, step by step.",
       ],
     },
     {

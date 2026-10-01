@@ -69,7 +69,7 @@ const seoni: CityContent = {
       paragraphs: [
         "Seoni is the headquarters of a large, mostly rural district with a sizeable tribal population and more than a third of its area under forest. People from Barghat, Keolari, Lakhnadon, Chhapara, Kurai, Ghansor and hundreds of villages come to Seoni for hospitals, colleges, courts, wholesale markets and government offices. At the same time, NH44 carries a constant stream of trucks and cars between Nagpur and Jabalpur through the town.",
         "The requests we receive for <strong>IT services in Seoni</strong> reflect that mix. A resort near Pench wants direct bookings instead of paying commission on every guest. A rice mill wants better purchase and dispatch records. A transport firm wants to track trips and payments. A coaching institute wants a site that parents trust. A clinic wants patients to know doctor timings before they travel an hour to reach it.",
-        "We are three engineers working remotely, with no office in Seoni. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava leads project management, data science and automation. The work runs on WhatsApp, calls and screen shares, and every plan and price is confirmed in writing.",
+        "We are three engineers working remotely, with no office in Seoni. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us leads project management, data science and automation. The work runs on WhatsApp, calls and screen shares, and every plan and price is confirmed in writing.",
       ],
     },
     {

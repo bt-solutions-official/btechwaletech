@@ -173,7 +173,7 @@ const shillong: CityContent = {
       paragraphs: [
         "We have no Shillong office, and we would rather say that clearly than list an address we never use. We are three engineers working remotely for businesses across India. Not paying for an office or a sales team is one reason our prices stay where they are, and it means you always speak to the person doing the work.",
         "The process works well over distance. We start with a WhatsApp chat or call about your business, then send a page plan, timeline and itemised quote. Within the first week or two you get a preview link to open on your own phone, wherever you are in the hills. Feedback happens on WhatsApp, and small corrections usually go live the same day. We work in IST and reply seven days a week.",
-        "Ankur Kumar builds the websites and applications end to end. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava runs projects and works on data science and automation. You can <a href=\"/contact/\">message any of us</a> directly.",
+        "One of us builds the websites and applications end to end. Another of us handles AI, machine learning, AWS and data work. The third of us runs projects and works on data science and automation. You can <a href=\"/contact/\">message any of us</a> directly.",
       ],
     },
     {

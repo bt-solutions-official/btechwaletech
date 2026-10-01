@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `n8n is a workflow automation tool: you connect nodes on a visual canvas, each node doing one job such as “when a form is submitted”, “add a row to Google Sheets” or “send a WhatsApp message”. It is released under n8n's Sustainable Use License, a fair-code licence, and can be self-hosted or used as n8n's paid cloud service.`,
         `The tool is friendly enough that many people build a first workflow in an afternoon. The gap appears later. Real business data is messy, APIs time out, tokens expire, a supplier changes a field name and a flow silently stops. An n8n automation expert designs for those moments: validation, retries, error branches, alerts, logging and a hosting setup that survives restarts and updates.`,
-        `At BtechWaleTech, Vedansh maps the process and designs the workflows, Santosh handles hosting on AWS or a VPS plus the AI and data steps, and Ankur writes custom code and API connections when a built-in node is not enough.`,
+        `At BtechWaleTech, the third of us maps the process and designs the workflows, another of us handles hosting on AWS or a VPS plus the AI and data steps, and one of us writes custom code and API connections when a built-in node is not enough.`,
       ],
       list: [
         "Triggers: webhooks, schedules, new emails, form submissions, app events",

@@ -177,7 +177,7 @@ const parli: CityContent = {
       id: "remote-team-parli",
       heading: "An IT services team in Parli's market that works remotely",
       paragraphs: [
-        "We have no office in Parli, Beed or anywhere in Marathwada, and we say that upfront. BtechWaleTech is a team of three engineers. Ankur Kumar builds full-stack web applications, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation.",
+        "We have no office in Parli, Beed or anywhere in Marathwada, and we say that upfront. BtechWaleTech is a team of three engineers. One of us builds full-stack web applications, another of us works on AI, machine learning, AWS and data, and the third of us handles project management, data science and automation.",
         "The process is simple. You tell us on WhatsApp or a call what you need; we ask a few questions; about two working days later you receive a written quote with every item priced. Nothing is charged until you approve it in writing. While we build, you watch progress on a preview link and send comments whenever it suits you, whether from the lodge counter, the yard or a site office.",
         "We answer WhatsApp every day of the week, on Indian Standard Time. Decisions and payment milestones are recorded in writing so nothing rests on memory. You can reach us through the <a href=\"/contact/\">contact page</a>.",
       ],

@@ -107,7 +107,7 @@ const kochi: CityContent = {
       paragraphs: [
         "Kakkanad, the Ernakulam district headquarters, holds Infopark, SmartCity Kochi and the Cochin Special Economic Zone, which between them host hundreds of IT and IT-enabled services companies alongside electronics, engineering and food units. At Kalamassery, the Kerala Startup Mission's integrated startup complex in the Technology Innovation Zone houses incubators such as Maker Village and BioNest. The result is a dense population of small software firms and product startups.",
         "These teams can build software, but their own website is usually nobody's job. It ends up as a template that says little about what they actually deliver. We write and build service pages based on real projects, case studies with outcomes the client has allowed you to share, a careers page that brings in applications, and analytics that are set up correctly. Static builds keep hosting costs near zero and score well on Core Web Vitals, which matters when your prospects are technical.",
-        "For startups we set up landing pages that can change weekly, waitlist or demo booking flows, and simple content management so the founders can edit copy themselves. When the product needs a proper web application, a data pipeline or AI features, Santosh and Ankur can build that too, starting from ₹60,000.",
+        "For startups we set up landing pages that can change weekly, waitlist or demo booking flows, and simple content management so the founders can edit copy themselves. When the product needs a proper web application, a data pipeline or AI features, another of us and one of us can build that too, starting from ₹60,000.",
       ],
     },
     {
@@ -159,7 +159,7 @@ const kochi: CityContent = {
       paragraphs: [
         "We have no office in Kochi and we will not invent a Kakkanad address to seem local. We are three engineers working remotely for businesses across India. Without office rent or sales staff, our prices stay lower, and the person answering your message is one of the people writing the code.",
         "A project begins with a call or WhatsApp conversation about your business and your customers. Within about two working days you receive a page plan, timeline and itemised quote. Once you approve it, we share a private preview link early in the build so you can check the real site on your own phone. Comments come on WhatsApp, and small changes usually go live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data engineering. Vedansh Shrivastava manages projects and works on data science and automation. You can speak to any of us directly at any stage.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data engineering. The third of us manages projects and works on data science and automation. You can speak to any of us directly at any stage.",
       ],
     },
     {

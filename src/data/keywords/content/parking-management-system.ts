@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A parking management system is software that records vehicle entries and exits, applies the tariff, collects payment, controls barriers and reports occupancy and revenue. Put simply, it replaces the ticket book and the cash box with a record for every vehicle.`,
         `In practice it has four layers. At the edge are devices: ANPR cameras, QR ticket printers, FASTag readers and boom barriers. Above them sits the gate software that decides whether to open the barrier and how much to charge. Behind that is a server with the tariff rules, passes and transaction history. On top are the people’s screens: the attendant app, the valet app, the manager’s dashboard and the site owner’s reports.`,
-        `BtechWaleTech builds the software layers. Ankur Kumar writes the gate software, apps and backend; Santosh Sharma handles cloud or on-premise hosting, camera data pipelines and dashboards; and Vedansh Shrivastava maps your tariffs and contracts, manages the vendors’ interfaces and runs acceptance testing at go-live.`,
+        `BtechWaleTech builds the software layers. One of us writes the gate software, apps and backend; another of us handles cloud or on-premise hosting, camera data pipelines and dashboards; and the third of us maps your tariffs and contracts, manages the vendors’ interfaces and runs acceptance testing at go-live.`,
       ],
     },
     {

@@ -69,7 +69,7 @@ const pandhurna: CityContent = {
       paragraphs: [
         "<strong>IT services in Pandhurna</strong> are mostly about three jobs: being found when someone searches, answering customers without the phone ringing all day, and keeping season records straight. A website, a Google listing, a WhatsApp assistant and occasionally custom software or an app cover almost every request we see from the town.",
         "Pandhurna's position has changed quickly. Until October 2023 it was a tehsil town of Chhindwara district; now it is the headquarters of a district of its own, with Sausar and Nandanwadi under it. District offices bring officials, lawyers, contractors and visitors who do not know the town and look everything up. At the same time, the old economy of orange orchards, cotton, ginning factories and the mandi carries on as before.",
-        "We serve Pandhurna remotely and have no office there. That is stated plainly because it matters. Ankur Kumar builds the websites, apps and web software. Santosh Sharma looks after AI, machine learning, AWS and data work. Vedansh Shrivastava plans each job, keeps the schedule and designs automation and reports. You will know which of the three is handling your request.",
+        "We serve Pandhurna remotely and have no office there. That is stated plainly because it matters. One of us builds the websites, apps and web software. Another of us looks after AI, machine learning, AWS and data work. The third of us plans each job, keeps the schedule and designs automation and reports. You will know which of the three is handling your request.",
       ],
     },
     {
@@ -202,7 +202,7 @@ const pandhurna: CityContent = {
       paragraphs: [
         "Trust with a remote team is built on documents, not handshakes. After a first WhatsApp conversation, you get a written scope with each page or screen, the timeline and the price of every item. Work starts only once you approve it, and nothing is billed before then.",
         "As the build progresses, preview links open on any phone, so a partner, munim or family member can check them. Marathi and Hindi text comes to you for approval before publishing. Payments follow stages you can test yourself. If a date slips, you hear about it from us the same day, with a reason and a new date.",
-        "WhatsApp is answered every day of the week on Indian time, including during the cotton rush. Ankur handles the build, Santosh the AI and data, Vedansh the scope and schedule. Start with a message through the <a href=\"/contact/\">contact page</a>, or read more about our <a href=\"/services/web-development/\">web development service</a>.",
+        "WhatsApp is answered every day of the week on Indian time, including during the cotton rush. One of us handles the build, another of us the AI and data, the third of us the scope and schedule. Start with a message through the <a href=\"/contact/\">contact page</a>, or read more about our <a href=\"/services/web-development/\">web development service</a>.",
       ],
     },
     {

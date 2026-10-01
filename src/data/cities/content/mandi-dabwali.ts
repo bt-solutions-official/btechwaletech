@@ -68,7 +68,7 @@ const mandiDabwali: CityContent = {
       paragraphs: [
         "Mandi Dabwali is one of those towns where the state line runs almost through the market. The Haryana side has the mandi, the municipal council and the railway station; the Punjab village of Dabwali and the roads to Bathinda, Malout and Lambi are minutes away. Farmers, buyers and families from Sirsa, Bathinda, Sri Muktsar Sahib and the Hanumangarh side of Rajasthan all do business here.",
         "Enquiries we get for <strong>IT services in Mandi Dabwali</strong> reflect that mix. A jeep workshop wants a catalogue of past builds that buyers from other states can browse. An arhtiya wants a cleaner way to keep farmer accounts. A hospital wants its OPD timings visible in Hindi and Punjabi. A coaching centre wants its batches to appear when students search for IELTS or government exam classes.",
-        "We have no office in Mandi Dabwali, and we are open about that. Our team is three engineers working remotely: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We work through WhatsApp, calls and screen shares, and every step is written down.",
+        "We have no office in Mandi Dabwali, and we are open about that. Our team is three engineers working remotely: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We work through WhatsApp, calls and screen shares, and every step is written down.",
         "Without an office to fund, our starting prices stay low. The quote lists only the work you ask for, and you can see and approve each part before it is final.",
       ],
     },
@@ -165,7 +165,7 @@ const mandiDabwali: CityContent = {
       id: "remote-team-dabwali",
       heading: "How our remote team works with Mandi Dabwali businesses",
       paragraphs: [
-        "We are three engineers working remotely, with no office in Mandi Dabwali or anywhere else, so we rely on written plans in place of face-to-face meetings. Ankur Kumar builds websites and web applications, Santosh Sharma handles AI, cloud and data, and Vedansh Shrivastava plans the project and the automation. After a first call about your business, you get a written outline of pages or screens, dates and a costed list of items.",
+        "We are three engineers working remotely, with no office in Mandi Dabwali or anywhere else, so we rely on written plans in place of face-to-face meetings. One of us builds websites and web applications, another of us handles AI, cloud and data, and the third of us plans the project and the automation. After a first call about your business, you get a written outline of pages or screens, dates and a costed list of items.",
         "Nothing begins until you approve that list, and nothing is billed before your written approval. During the build you receive preview links that open on any phone, so partners and family can check them. Hindi and Punjabi wording is sent to you before publishing, since a wrong word on a shop page or a school notice is noticed by everyone.",
         "We reply on WhatsApp every day, weekends included, on Indian time. If a date will slip, you are told the same day with a new date and the reason. Payments are tied to stages you can see working, which keeps the risk low for a first-time client.",
       ],

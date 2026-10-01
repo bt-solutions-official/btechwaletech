@@ -69,7 +69,7 @@ const charkhiDadri: CityContent = {
       paragraphs: [
         "Until December 2016, Charkhi Dadri was a sub-division of Bhiwani. District status brought a deputy commissioner's office, new courts, a district hospital and a steady stream of people from Badhra, Baund Kalan, Jhojhu and dozens of villages who now come to Dadri instead of Bhiwani for paperwork, shopping and treatment. Businesses that serve them have grown faster than their online presence.",
         "A typical enquiry for <strong>IT services in Charkhi Dadri</strong> is practical. A coaching owner wants test results and fee reminders on phones. A commission agent wants a cleaner record of arrivals and payments. A doctor wants the clinic to show correctly on Google Maps with the right hours. A sports shop wants to sell supplements and mats to buyers outside the district.",
-        "We are three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation. There is no office in Dadri and we will not pretend otherwise; everything happens over WhatsApp, calls and shared screens, with written updates at each stage.",
+        "We are three engineers working remotely. One of us handles full-stack development, another of us handles AI, machine learning, AWS and data work, and the third of us runs project management, data science and automation. There is no office in Dadri and we will not pretend otherwise; everything happens over WhatsApp, calls and shared screens, with written updates at each stage.",
       ],
     },
     {

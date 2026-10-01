@@ -36,7 +36,7 @@ const content: FreelanceContent = {
     ["What this page is", "A self-audit guide, not a sales scan"],
     ["Main free tool", "Google Search Console, your own data"],
     ["Time needed", "One afternoon for the 20 checks"],
-    ["Guide written by", "Santosh Sharma (technical SEO and data)"],
+    ["Guide written by", "Another of us (technical SEO and data)"],
     ["Monthly SEO", `From ${P.seo} · ${P.seoUsd}`],
     ["Quote for a manual audit", "Itemised, in about 2 working days"],
   ],

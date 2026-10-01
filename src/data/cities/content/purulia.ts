@@ -169,7 +169,7 @@ const purulia: CityContent = {
       paragraphs: [
         "We do not have an office in Purulia, and we will not pretend to. We are three engineers who work remotely with clients across India. Skipping rent and a sales team is what keeps our starting prices lower than a Kolkata or Ranchi agency, and it means you deal directly with the people writing your code.",
         "The process is simple. We talk on a call or on WhatsApp, and within about two working days you get a page plan, a timeline and an itemised quote. Once you approve it, we build, and you receive a private preview link to check on your own phone and share with your partners. We answer seven days a week on Indian time, and small changes are usually done the same day.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can <a href=\"/contact/\">message any of us</a> and get an answer from the person doing the work.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can <a href=\"/contact/\">message any of us</a> and get an answer from the person doing the work.",
       ],
     },
     {

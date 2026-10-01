@@ -160,7 +160,7 @@ const vasaiVirar: CityContent = {
       paragraphs: [
         "We don't have an office in Vasai, Virar or Mumbai, and we won't borrow an address to appear local. We are three engineers working remotely for clients across India. You don't pay for office rent or a sales team, and you talk directly with the people building your project.",
         "The process is straightforward. We discuss your business on a call or on WhatsApp. You receive a written plan with pages, timeline and itemised cost. Once you approve it, a live preview link follows within the first week or two so you can check the site on your own phone. Changes come to us on WhatsApp and small ones usually go live the same day. We work on Indian time and reply seven days a week, which helps owners who are on site in Waliv all week and only free on Sunday.",
-        "Ankur Kumar builds the full-stack side. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can <a href=\"/contact/\">message us here</a> to get started.",
+        "One of us builds the full-stack side. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can <a href=\"/contact/\">message us here</a> to get started.",
       ],
     },
     {

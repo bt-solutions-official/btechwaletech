@@ -170,7 +170,7 @@ const content: FreelanceContent = {
       heading: "Where should a German WordPress site be hosted?",
       paragraphs: [
         `Host it in Germany or elsewhere in the EU, with a provider that signs a data processing agreement (AVV). That keeps latency low and removes a whole category of questions about transfers outside the EU.`,
-        `Managed WordPress hosting from German providers suits most business sites: updates of the server stack, backups and support are included, and the data centre is in Germany. For higher traffic, shops with campaign peaks or businesses already on AWS, a setup in the AWS Frankfurt region (eu-central-1) gives more control, with the trade-off that someone has to run it. Santosh on our team handles AWS builds and will say plainly when managed hosting is the better choice.`,
+        `Managed WordPress hosting from German providers suits most business sites: updates of the server stack, backups and support are included, and the data centre is in Germany. For higher traffic, shops with campaign peaks or businesses already on AWS, a setup in the AWS Frankfurt region (eu-central-1) gives more control, with the trade-off that someone has to run it. Another of us on our team handles AWS builds and will say plainly when managed hosting is the better choice.`,
         `The hosting contract is always yours. We configure staging and production, HTTPS, server-side caching, daily backups kept separately, and a restore test before launch. We also check that the CDN or email provider you use does not quietly move data outside the EU.`,
       ],
       list: [

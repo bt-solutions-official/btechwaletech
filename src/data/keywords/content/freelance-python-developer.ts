@@ -146,7 +146,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Most “data problems” in small and mid-sized companies are really cleaning problems. Names spelled three ways, dates in mixed formats, GST numbers with spaces, and duplicate customers make any report unreliable.`,
         `A freelance Python developer with data skills fixes the pipeline, not just the chart. We write pandas code that loads exports from your billing software, CRM or spreadsheets, standardises columns, removes duplicates, and writes the result to a PostgreSQL table or a clean workbook. From there, a dashboard in a web app, Power BI or Google Looker Studio can refresh without manual steps.`,
-        `Be sceptical of dashboards built directly on raw exports. They look finished in the demo and break the first time a column is renamed. Ask how the pipeline handles a missing file or a new column. Santosh Sharma leads our data and AWS work, so this part of the project has a named owner. For analysis-only projects, see the <a href='/freelance-data-analyst/'>data analyst</a> page.`,
+        `Be sceptical of dashboards built directly on raw exports. They look finished in the demo and break the first time a column is renamed. Ask how the pipeline handles a missing file or a new column. Another of us leads our data and AWS work, so this part of the project has a named owner. For analysis-only projects, see the <a href='/freelance-data-analyst/'>data analyst</a> page.`,
       ],
     },
     {
@@ -221,7 +221,7 @@ const content: FreelanceContent = {
         { heading: "Containers", text: "Docker images make deployments repeatable and portable between hosts. Useful once there are several services." },
       ],
       after: [
-        `All accounts are opened in your name, paid by your card. Santosh handles AWS set-up and cost checks. More on this on the <a href='/freelance-aws-developer/'>AWS developer</a> page.`,
+        `All accounts are opened in your name, paid by your card. Another of us handles AWS set-up and cost checks. More on this on the <a href='/freelance-aws-developer/'>AWS developer</a> page.`,
       ],
     },
     {

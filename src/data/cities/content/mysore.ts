@@ -168,7 +168,7 @@ const mysore: CityContent = {
       paragraphs: [
         "We have no office in Mysuru and won’t claim one. We are three engineers working remotely for clients across India, which keeps rent and sales costs out of your price and puts you directly in touch with the people building your site.",
         "We begin with a call or WhatsApp conversation about your business, then send a written plan with pages, timeline and quote. Within a week or two, you receive a live preview link to open on your own phone. Feedback comes on WhatsApp, and small changes often go live the same day.",
-        "Ankur Kumar does the full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. We keep Indian hours and reply seven days a week, which helps hotels and shops whose busiest days are weekends.",
+        "One of us does the full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. We keep Indian hours and reply seven days a week, which helps hotels and shops whose busiest days are weekends.",
       ],
     },
     {

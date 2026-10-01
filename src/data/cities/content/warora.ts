@@ -69,7 +69,7 @@ const warora: CityContent = {
       paragraphs: [
         "Few towns of Warora's size carry so many different stories. Under British rule it was a coal-mining centre of the Central Provinces, important enough that Jamsetji Tata came to test its coal in 1882. Today two thermal power stations stand at its edge, Western Coalfields mines work the surrounding taluka, black cotton soil around it grows cotton, soybean and tur, and Anandwan, the community Baba Amte founded in 1949, lies about five kilometres away.",
         "Businesses looking for <strong>IT services in Warora</strong> reflect that range. A contractor who supplies manpower to a power plant needs a proper website and a way to track attendance. A trucking firm wants trip and diesel records it can trust. A cotton trader wants farmers to see the day's rate before they load a bullock cart. A college or coaching class wants enquiries from Bhadravati, Shegaon and Madheli to reach the office instead of getting lost.",
-        "The work is done by three engineers operating remotely. Ankur Kumar builds websites and web apps end to end, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava plans projects and builds automation and data-science tools. We have no Warora office. We talk on WhatsApp and calls, share screens when needed, and put scope, prices and dates in writing.",
+        "The work is done by three engineers operating remotely. One of us builds websites and web apps end to end, another of us handles AI, machine learning, AWS and data, and the third of us plans projects and builds automation and data-science tools. We have no Warora office. We talk on WhatsApp and calls, share screens when needed, and put scope, prices and dates in writing.",
       ],
     },
     {
@@ -159,7 +159,7 @@ const warora: CityContent = {
       heading: "Working with a remote IT services team in Warora: the process in plain terms",
       paragraphs: [
         "Because we have no office in Warora or elsewhere, we rely on paperwork instead of handshakes. First, a call or WhatsApp chat about your business and the result you want. Second, a written proposal: pages or screens, features, timeline and a price for each item. Third, your approval. Nothing is billed before you give it.",
-        "During the build, Vedansh keeps the schedule and your point of contact steady, Ankur writes the code, and Santosh handles hosting, AI and data pieces. You receive preview links at each stage, openable on any phone, so a partner, manager or family member can check them. Marathi content is sent to you for approval before publishing, because a mistake in a rate, a phone number or a college name costs more than a day's delay.",
+        "During the build, the third of us keeps the schedule and your point of contact steady, one of us writes the code, and another of us handles hosting, AI and data pieces. You receive preview links at each stage, openable on any phone, so a partner, manager or family member can check them. Marathi content is sent to you for approval before publishing, because a mistake in a rate, a phone number or a college name costs more than a day's delay.",
         "We reply on WhatsApp all seven days of the week, within Indian hours. Delays are reported as soon as we know about them, with a revised date. Payments are linked to milestones you can see working, which suits businesses that have been let down by a vanished developer before.",
       ],
     },

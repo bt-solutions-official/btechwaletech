@@ -142,7 +142,7 @@ const proddatur: CityContent = {
       heading: "Reading your own sales numbers before the next season",
       paragraphs: [
         "Proddatur's shops live by seasons: Dasara, Sankranti, the wedding months and the harvest, when farmers from the surrounding mandals have money to spend. Most owners know roughly how each season went, but few can say which categories grew, which designs sat unsold for a year, or which wholesale buyers always pay late.",
-        "Santosh and Vedansh on our team work with data, and they can turn billing software exports, spreadsheets or even a season of typed-up registers into a small dashboard. Sales by category and month, stock age by design range, dues by customer and festival-week peaks sit on one phone screen. A jeweller can see which bangle designs move and which tie up gold; a cloth merchant can plan purchases before the rush instead of guessing.",
+        "Another of us and the third of us on our team work with data, and they can turn billing software exports, spreadsheets or even a season of typed-up registers into a small dashboard. Sales by category and month, stock age by design range, dues by customer and festival-week peaks sit on one phone screen. A jeweller can see which bangle designs move and which tie up gold; a cloth merchant can plan purchases before the rush instead of guessing.",
         "We start small, with one season of your own records, so you can judge the value before spending more. We don't sell forecasts we cannot back up. The point is to show clearly what your numbers already say.",
       ],
     },
@@ -177,7 +177,7 @@ const proddatur: CityContent = {
       paragraphs: [
         "We do not have an office in Proddatur, Kadapa or anywhere in Andhra Pradesh, and we will not pretend to. We are three engineers who work remotely for clients across India. No rent and no sales staff keep our prices lower, and you speak directly to the people building your site.",
         "Everything runs on WhatsApp, calls and screen sharing. We start with a conversation about your business, then send a page plan, timeline and itemised quote, usually within two working days. After approval, you get a live preview link to check on your own phone and show family or partners. Corrections can be sent as messages or voice notes, and small ones are usually done the same day.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science tools. You can <a href=\"/contact/\">get in touch</a> any day of the week.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science tools. You can <a href=\"/contact/\">get in touch</a> any day of the week.",
       ],
     },
     {

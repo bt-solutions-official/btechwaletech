@@ -28,7 +28,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Freelance machine learning engineer · Forecasting, classification, data first",
     h1: "Freelance machine learning engineer for forecasting and classification, starting with your data",
-    lede: `A freelance machine learning engineer builds models that predict something useful from your own records: next month's demand, which leads will convert, which invoices look wrong. BtechWaleTech is three freelance developers in India, and our ML work is led by Santosh Sharma (ML, AWS, data) with Vedansh Shrivastava (data science, automation). Before any model, we check whether your data can support one. Projects start from ${P.ai}, and you own the code, the model and the data pipeline.`,
+    lede: `A freelance machine learning engineer builds models that predict something useful from your own records: next month's demand, which leads will convert, which invoices look wrong. BtechWaleTech is three freelance developers in India, and our ML work is led by another of us (ML, AWS, data) with the third of us (data science, automation). Before any model, we check whether your data can support one. Projects start from ${P.ai}, and you own the code, the model and the data pipeline.`,
     pills: ["Demand and sales forecasting", "Lead and churn scoring", "Document and image classification", "Data readiness check first", "Python, scikit-learn, AWS", "Models deployed as APIs", "You own model and code"],
     origin: "Three freelance developers · ML, data and full-stack · Working remotely from India",
   },
@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A freelance machine learning engineer delivers a working prediction, not a research paper. The output is a model that takes your data in, returns a forecast or a label, and fits into how your team works: a column in a sheet, a score in the CRM, a chart on a dashboard, or an API your app calls.`,
         `That delivery has five parts. First, understanding the business decision the prediction supports. Second, preparing the data. Third, training and comparing models. Fourth, deploying the chosen one so it runs on a schedule or on demand. Fifth, monitoring it, because models drift as the world changes.`,
-        `Many freelancers are strong at step three only. The value for a business sits in all five, especially the first and last. At BtechWaleTech, Santosh handles modelling and AWS deployment, Vedansh the data science and automation around it, and Ankur the app or dashboard where people see the result.`,
+        `Many freelancers are strong at step three only. The value for a business sits in all five, especially the first and last. At BtechWaleTech, another of us handles modelling and AWS deployment, the third of us the data science and automation around it, and one of us the app or dashboard where people see the result.`,
       ],
       list: [
         "A clear definition of what is being predicted, for whom, and how often",

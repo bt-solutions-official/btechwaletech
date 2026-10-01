@@ -162,7 +162,7 @@ const zirakpur: CityContent = {
       paragraphs: [
         "We have no office in Zirakpur or elsewhere in the tricity, and we will not invent one. We are three engineers working remotely for clients in many cities. Without rent, a showroom or a sales team, our costs stay lower and you talk directly to the people doing the work.",
         "Projects run on calls, WhatsApp and screen sharing. We begin with a conversation about your business and customers, then send a written plan, timeline and itemised quote. Within a week or two you receive a private preview link to check on your own phone. Changes are requested on WhatsApp, and small ones are usually handled the same day. We reply seven days a week, on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science solutions. <a href=\"/contact/\">Contact us</a> directly, or read about our <a href=\"/services/web-development/\">web development work</a>.",
+        "One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data science solutions. <a href=\"/contact/\">Contact us</a> directly, or read about our <a href=\"/services/web-development/\">web development work</a>.",
       ],
     },
     {

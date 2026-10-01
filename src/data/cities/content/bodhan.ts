@@ -182,7 +182,7 @@ const bodhan: CityContent = {
       id: "remote-team-bodhan",
       heading: "An IT services team in Bodhan without an office here: how we work",
       paragraphs: [
-        "We should be clear: BtechWaleTech has no office in Bodhan, Nizamabad or anywhere in Telangana. We are three engineers who work remotely. Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava handles project management, data science and automation.",
+        "We should be clear: BtechWaleTech has no office in Bodhan, Nizamabad or anywhere in Telangana. We are three engineers who work remotely. One of us handles full-stack development, another of us handles AI, machine learning, AWS and data work, and the third of us handles project management, data science and automation.",
         "Working with us from Bodhan is straightforward. You describe the business on WhatsApp or a short call. Within about two working days you receive an itemised written quote. Once you approve it in writing, we start and share a live preview link so you can check progress from the shop or the mill and send comments whenever you have time.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time. Every change request, price and milestone stays in writing, so there is never confusion about what was agreed. If a meeting in person is essential for a particular job, we will say so honestly rather than pretend we have staff nearby.",
       ],

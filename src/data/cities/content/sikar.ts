@@ -167,7 +167,7 @@ const sikar: CityContent = {
       paragraphs: [
         "We do not have an office in Sikar or Jaipur, and we will not borrow an address to look local. We are three engineers working remotely for clients across India. Without rent or a sales layer, our prices stay lower and the person you talk to is the one doing the work.",
         "We begin with a call or WhatsApp chat about your business and what you want from the site. You receive a page plan, timeline and itemised quote in writing. After approval, a live preview link arrives in one to two weeks, which you can check on your phone and share with partners. Changes are requested on WhatsApp; small ones are often done the same day.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. We reply seven days a week on Indian time, in Hindi or English. <a href=\"/contact/\">Contact us here</a>.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. We reply seven days a week on Indian time, in Hindi or English. <a href=\"/contact/\">Contact us here</a>.",
       ],
     },
     {

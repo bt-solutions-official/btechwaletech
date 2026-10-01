@@ -70,7 +70,7 @@ const chirmiri: CityContent = {
       paragraphs: [
         "Chirmiri is not one compact town. It is a string of settlements on a forested plateau, each grown around a mine: Domanhill, Godripara, Kurasia, Korea, Gelhapani, Bartunga and West Chirimiri, with Haldibadi as a major market. Coal mining started here in the 1920s, and South Eastern Coalfields still runs its Chirimiri Area from the town.",
         "That shape affects business. A customer in Godripara may not know a shop in Haldibadi exists, and a newcomer posted to a colony has no idea where to find a doctor or tutor. Much of the demand for <strong>IT services in Chirmiri</strong> is therefore about being found: a correct Google Maps pin, a WhatsApp number that gets answered, and a page listing what you offer.",
-        "We are a remote team of three engineers. Ankur Kumar builds full-stack websites and apps, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. We do not have an office in Chirmiri. Instead we work over WhatsApp, calls and screen shares, and every step is confirmed in writing.",
+        "We are a remote team of three engineers. One of us builds full-stack websites and apps, another of us works on AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. We do not have an office in Chirmiri. Instead we work over WhatsApp, calls and screen shares, and every step is confirmed in writing.",
         "For a town several hours from Bilaspur or Raipur, that means you get the work without travelling for meetings, at starting prices that reflect our low overheads.",
       ],
     },

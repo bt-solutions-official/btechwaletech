@@ -215,7 +215,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Most laundry app development projects take 6–10 weeks to go live: about a week of mapping your process, four to five weeks on the panel and rider app, two to three weeks on the customer app, and store review plus a pilot at one outlet.`,
         `We build the panel first because tags, prices and stages live there, and a customer app without them is just a booking form. The rider app follows, tested on real pickups while the old method runs alongside. The customer app comes last and is published under your own Google Play and Apple developer accounts.`,
-        `Each week you get a test link or build and a short WhatsApp update from Vedansh on what changed and what needs your decision. Delays usually come from our side needing answers, such as the final price list or the factory’s stage names, so sending those early is the fastest way to launch sooner.`,
+        `Each week you get a test link or build and a short WhatsApp update from the third of us on what changed and what needs your decision. Delays usually come from our side needing answers, such as the final price list or the factory’s stage names, so sending those early is the fastest way to launch sooner.`,
       ],
     },
     {

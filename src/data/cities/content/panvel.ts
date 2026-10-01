@@ -162,7 +162,7 @@ const panvel: CityContent = {
       paragraphs: [
         "We do not have an office in Panvel or anywhere in Navi Mumbai. We are three engineers working remotely for clients across India, which keeps rent and sales commissions out of our starting prices and puts you in touch with the people writing your code.",
         "We start with a WhatsApp chat or call about your business and customers, then send a page plan, timeline and quote in writing. You receive a live preview link within the first week or two, which you can check on your own phone and share with partners. Feedback can come as messages, screenshots or voice notes, and small changes often go live the same day. We work on Indian time and reply seven days a week.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on data science and automation.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on data science and automation.",
       ],
     },
     {

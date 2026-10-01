@@ -168,7 +168,7 @@ const raigarh: CityContent = {
       paragraphs: [
         "We have no office in Raigarh or anywhere nearby, and we do not list a rented address to seem local. The three of us work remotely for clients across India. Skipping rent and sales staff means more of your budget goes into building, and the person who answers is someone who works on your project.",
         "You start by messaging us on WhatsApp or booking a short call. We follow with a written scope, schedule and estimate. A working preview link arrives inside the first week or two so you can test the site on your own phone. Send comments as text or Hindi voice notes; small corrections often appear the same day. We answer seven days a week on Indian time, which suits contractors who are on site until late.",
-        "Ankur Kumar builds the full-stack application. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava plans and runs projects and works on data science and automation. You can reach any of the three directly.",
+        "One of us builds the full-stack application. Another of us handles AI, machine learning, AWS and data. The third of us plans and runs projects and works on data science and automation. You can reach any of the three directly.",
       ],
     },
     {

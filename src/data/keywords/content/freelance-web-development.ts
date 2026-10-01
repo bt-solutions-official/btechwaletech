@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Freelance web development is a service in which independent developers take responsibility for a defined web outcome, such as a 40-page business site or a booking portal, for an agreed price and timeline. You are not renting a person by the hour for an open-ended role; you are buying a result with clear edges.`,
         `That framing matters because it changes what you ask for. When you hire a person, you judge their CV. When you buy freelance web development as a service, you judge the proposal: what will be built, on which stack, what you will receive at the end, and who fixes it next month. A strong proposal answers all four before you pay anything.`,
-        `For BtechWaleTech the service is delivered by three people. Ankur Kumar writes most of the full-stack code, Santosh Sharma handles AWS hosting, data work and technical SEO, and Vedansh Shrivastava plans the project and builds automations. Every project is visible to all three, which is the main practical difference from a single freelancer working alone.`,
+        `For BtechWaleTech the service is delivered by three people. One of us writes most of the full-stack code, another of us handles AWS hosting, data work and technical SEO, and the third of us plans the project and builds automations. Every project is visible to all three, which is the main practical difference from a single freelancer working alone.`,
       ],
       list: [
         "A written scope listing pages, features and integrations",

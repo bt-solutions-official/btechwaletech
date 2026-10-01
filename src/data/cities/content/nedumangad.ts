@@ -69,7 +69,7 @@ const nedumangad: CityContent = {
       paragraphs: [
         "Nedumangad has long been the trading point where the eastern taluk meets the city. Farmers from Vithura, Palode, Aryanad, Peringamala and Kallara bring pepper, rubber sheets, banana, tapioca, arecanut and vegetables to its market, and families from the same villages come to its hospitals, schools, government offices and textile shops. The town's name, by one account, comes from Neduman, an old name for Vishnu, and the forest, kadu, that once surrounded it.",
         "Requests we get for <strong>IT services in Nedumangad</strong> reflect that mix. A commission agent wants daily rates and farmer dues in one place. A jewellery or textile shop wants to be found by families shopping for weddings. A tuition centre wants fee reminders without typing each one. A homestay near Ponmudi wants bookings that do not depend on commission portals.",
-        "We are three engineers working remotely: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We do not have an office in Nedumangad, and we say so upfront. Everything happens over WhatsApp, calls and screen shares, with written plans at each step.",
+        "We are three engineers working remotely: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We do not have an office in Nedumangad, and we say so upfront. Everything happens over WhatsApp, calls and screen shares, with written plans at each step.",
       ],
     },
     {

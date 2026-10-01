@@ -177,7 +177,7 @@ const karwar: CityContent = {
       paragraphs: [
         "We do not have an office in Karwar, Goa or anywhere in Karnataka, and we will not show a borrowed address to look local. BtechWaleTech is three engineers working remotely with clients across India. Without rent and sales staff, our starting prices stay lower and you talk directly to the people building your site.",
         "Projects run over WhatsApp, phone calls and screen sharing. After an initial conversation we send a page plan, timeline and itemised quote, usually within two working days. Once you approve, you get a preview link to check on your own phone, share with partners and comment on by message or voice note. Small changes are usually done the same day.",
-        "Ankur Kumar builds websites and applications end to end. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava plans projects and builds automation and data science tools. <a href=\"/contact/\">Message us</a> on any day of the week, Indian time.",
+        "One of us builds websites and applications end to end. Another of us handles AI, machine learning, AWS and data. The third of us plans projects and builds automation and data science tools. <a href=\"/contact/\">Message us</a> on any day of the week, Indian time.",
       ],
     },
     {

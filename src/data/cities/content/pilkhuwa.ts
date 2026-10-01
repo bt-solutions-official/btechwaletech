@@ -174,7 +174,7 @@ const pilkhuwa: CityContent = {
       id: "remote-team-pilkhuwa",
       heading: "IT services team in Pilkhuwa without a local office: our remote team",
       paragraphs: [
-        "We have no office in Pilkhuwa, Hapur or Ghaziabad. BtechWaleTech is a team of three engineers working remotely. Ankur Kumar builds full-stack web applications, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management along with data science and automation.",
+        "We have no office in Pilkhuwa, Hapur or Ghaziabad. BtechWaleTech is a team of three engineers working remotely. One of us builds full-stack web applications, another of us works on AI, machine learning, AWS and data, and the third of us runs project management along with data science and automation.",
         "Hiring an <strong>IT services team in Pilkhuwa</strong> that works remotely is straightforward. We begin with a WhatsApp or video call, you send photographs of your products and samples of your current paperwork, and we reply with a written plan and quote. During the build you get a preview link and can ask for changes at each stage.",
         "We answer WhatsApp every day of the week during Indian working hours. Every milestone and payment is written down in advance, so there are no surprises when the invoice arrives.",
         "If you prefer to sit across a table from your developer, a local provider will suit you better, and we would rather say that at the start.",

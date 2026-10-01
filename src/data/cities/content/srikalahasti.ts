@@ -69,7 +69,7 @@ const srikalahasti: CityContent = {
       paragraphs: [
         "Most people know Srikalahasti for the Srikalahasteeswara temple, where Shiva is worshipped as the Vayu linga, and for the Rahu-Ketu pooja that brings devotees from across South India. Many combine the visit with Tirumala, which is only a short drive away. That flow of visitors supports lodges, choultries, restaurants, pooja-item shops, taxis, photographers and flower sellers around the temple.",
         "The town is also a revenue division headquarters, a market for surrounding paddy villages, home to engineering and degree colleges, and the centre of pen Kalamkari, a hand-drawn textile art with its own geographical indication. Requests for <strong>IT services in Srikalahasti</strong> come from all of these groups, and each needs something slightly different.",
-        "We work as a remote team of three engineers. Ankur Kumar handles full-stack web and app development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. We have no Srikalahasti or Tirupati office, and we are clear about that from the first message.",
+        "We work as a remote team of three engineers. One of us handles full-stack web and app development, another of us covers AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. We have no Srikalahasti or Tirupati office, and we are clear about that from the first message.",
       ],
     },
     {

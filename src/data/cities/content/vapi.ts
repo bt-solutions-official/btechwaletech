@@ -186,7 +186,7 @@ const vapi: CityContent = {
       paragraphs: [
         "We have no office in Vapi, Surat or Mumbai, and we say so at the start. We are three engineers working remotely across India. Without rent or a sales team, our starting prices stay low, and you always talk to the people building your site or software.",
         "We begin with a call about your business, then send a page plan or software scope, timeline and itemised quote in writing. Within a week or two for websites, you receive a live link to review. Changes come to us on WhatsApp, small ones are often done the same day, and we reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science pieces. <a href=\"/contact/\">Get in touch</a> and one of us will reply directly.",
+        "One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data science pieces. <a href=\"/contact/\">Get in touch</a> and one of us will reply directly.",
       ],
     },
     {

@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A WhatsApp chatbot developer builds software that sits between your WhatsApp business number and your own systems. When a customer messages you, Meta sends that message to the bot's server; the bot decides what to reply, looks up data where needed, and sends a response back through the API, all in a second or two.`,
         `The visible part is the conversation: menus, buttons, lists, product cards and replies. The larger part is invisible: the server that receives messages, the logic that tracks where each customer is in a flow, connections to your stock, bookings or CRM, message templates approved by Meta, and a dashboard where your staff can see chats and take over from the bot.`,
-        `At BtechWaleTech, Santosh leads the AI and data side, including answers drawn from your documents; Ankur builds the server, integrations and admin screens; Vedansh maps your processes into conversation flows and manages template approvals and testing. You deal with all three directly on WhatsApp, which is fitting for this kind of project.`,
+        `At BtechWaleTech, another of us leads the AI and data side, including answers drawn from your documents; one of us builds the server, integrations and admin screens; the third of us maps your processes into conversation flows and manages template approvals and testing. You deal with all three directly on WhatsApp, which is fitting for this kind of project.`,
       ],
       list: [
         "Webhook server that receives and sends messages",

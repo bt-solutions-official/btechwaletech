@@ -169,7 +169,7 @@ const shivpuri: CityContent = {
       paragraphs: [
         "We do not have an office in Shivpuri and will not invent one. We are three engineers working remotely for clients across India. Without rent and sales staff to carry, we keep starting prices lower, and you talk directly to the people building your site.",
         "Everything runs on calls, WhatsApp and screen sharing. We start with a conversation about your business, then send a page plan, timeline and itemised quote. For a small site you receive a live preview link within one to two weeks, which you can open on your phone and show to your family or partners. Small changes are usually made the same day, and we reply seven days a week, Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma looks after AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on data science and automation. You can <a href=\"/contact/\">contact us</a> and speak to any of them directly.",
+        "One of us leads full-stack development. Another of us looks after AI, machine learning, AWS and data work. The third of us manages projects and works on data science and automation. You can <a href=\"/contact/\">contact us</a> and speak to any of them directly.",
       ],
     },
     {

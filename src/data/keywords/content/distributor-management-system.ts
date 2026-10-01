@@ -243,7 +243,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The DMS runs in a cloud account opened in your brand's name, with the code in a repository you own. Distributors get logins that show only their own data; your team sees all distributors according to role.`,
         `Our stack is intentionally ordinary: a web app in React or Next.js, an API in Node.js or Python, PostgreSQL as the database, a Windows-friendly connector for Tally computers, and Flutter or React Native for any mobile app. Ordinary tools mean any competent developer can maintain the system later.`,
-        `Ankur builds the DMS and apps, Santosh designs the data model, Tally sync and reporting and sets up the cloud, and Vedansh runs the plan, the distributor rollout and testing with your sales operations team. All three are on your WhatsApp group, in English or Hindi. At handover you hold the code, cloud account, database and any Play or App Store listings. Maintenance is free for two months after launch; terms are in your written quote and our <a href='/terms/'>terms page</a>.`,
+        `One of us builds the DMS and apps, another of us designs the data model, Tally sync and reporting and sets up the cloud, and the third of us runs the plan, the distributor rollout and testing with your sales operations team. All three are on your WhatsApp group, in English or Hindi. At handover you hold the code, cloud account, database and any Play or App Store listings. Maintenance is free for two months after launch; terms are in your written quote and our <a href='/terms/'>terms page</a>.`,
       ],
     },
     {

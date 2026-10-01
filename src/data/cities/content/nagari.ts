@@ -69,7 +69,7 @@ const nagari: CityContent = {
       paragraphs: [
         "Powerlooms arrived in Nagari in 1976, and within a few decades the town became one of the largest weaving clusters in south India. Workers came from Salem and Erode in the busy years, and today the looms produce lungis, dhotis, cotton sarees, towels and shirting fabric. The sector has also struggled: rising costs, ageing machines and competition from auto-loom units across the border have squeezed many small owners.",
         "That is the setting for most enquiries about <strong>IT services in Nagari</strong>. A loom owner wants buyers in Chennai, Kerala or Karnataka to see his designs without a trip. A trader wants a cleaner record of what was dispatched and what is unpaid. A clinic or school wants to appear on Google Maps in Tamil and Telugu. None of this needs a big budget.",
-        "Our team is three people, all remote. Ankur Kumar does full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You message one of us on WhatsApp and stay with that person through the project.",
+        "Our team is three people, all remote. One of us does full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You message one of us on WhatsApp and stay with that person through the project.",
       ],
     },
     {

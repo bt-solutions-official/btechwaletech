@@ -69,7 +69,7 @@ const limbdi: CityContent = {
       paragraphs: [
         "Most Limbdi businesses need three things online: a clear Gujarati website, a correct Google Maps listing and a quicker way to handle WhatsApp enquiries. Apps and custom software come next, for the firms whose volume justifies them. That is the short answer; the rest of this page explains who needs which, and what it costs.",
         "Limbdi is a taluka town in Surendranagar district, roughly 100 km from Ahmedabad on the road to Rajkot. It was the seat of the Jhala rulers of Limbdi State, a 9-gun salute princely state, and it still serves a wide farming hinterland where cotton is the crop that sets the mood of the year. Farmers, ginning buyers, truck drivers, students and patients all pass through, and nearly every one of them checks a phone before deciding where to go.",
-        "When people ask us for <strong>IT services in Limbdi</strong>, the requests are grounded. A ginning unit wants its kapas purchases on a screen instead of in three registers. A highway hotel wants families from Ahmedabad to find it before they drive past. A clinic wants fewer calls asking whether the doctor is in today. We handle this as a remote team of three: Ankur Kumar builds the websites and web apps, Santosh Sharma looks after AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation.",
+        "When people ask us for <strong>IT services in Limbdi</strong>, the requests are grounded. A ginning unit wants its kapas purchases on a screen instead of in three registers. A highway hotel wants families from Ahmedabad to find it before they drive past. A clinic wants fewer calls asking whether the doctor is in today. We handle this as a remote team of three: one of us builds the websites and web apps, another of us looks after AI, machine learning, AWS and data, and the third of us runs project management, data science and automation.",
         "We have no office in Limbdi and will not pretend otherwise. Meetings happen on WhatsApp calls and screen shares, every plan comes in writing, and you never need to travel to Surendranagar or Ahmedabad to sign anything.",
       ],
     },
@@ -110,7 +110,7 @@ const limbdi: CityContent = {
         "Education brings a steady stream of students into Limbdi, and marketing for these institutions works when it removes doubt before admission season: courses, fees, seats, hostel and transport, set out plainly.",
         "The Limbdi Homoeopathic Medical College, run by the Shree Limbdi Vikas Trust on the Limbdi–Dhandhuka road, has taught the BHMS degree since 2000 under Saurashtra University, with 100 seats a year. The town's schooling goes back a long way: a girls' school opened in 1859 still runs today as a co-educational municipal school. Private English-medium schools and coaching classes for board exams and entrance tests fill out the picture.",
         "Useful <strong>digital marketing in Limbdi</strong> for them is careful publishing. A college site needs course pages, eligibility, fee ranges, admission dates, separate hostel details for boys and girls, and a prospectus to download. A coaching class needs batch timings, results it can actually back up, and a form that lands straight in WhatsApp. Parents search in Gujarati and students in English, so we write both.",
-        "Paid ads can wait. For most institutions here, a complete Google listing, a quick site and an automatic reply to the rush of June and July enquiries do more than any banner. Vedansh plans these projects so the admission form, the WhatsApp flow and the fee reminder all feed a single sheet.",
+        "Paid ads can wait. For most institutions here, a complete Google listing, a quick site and an automatic reply to the rush of June and July enquiries do more than any banner. The third of us plans these projects so the admission form, the WhatsApp flow and the fee reminder all feed a single sheet.",
       ],
     },
     {
@@ -151,7 +151,7 @@ const limbdi: CityContent = {
         "WhatsApp automation in Limbdi pays for itself when the same questions arrive dozens of times a day: today's kapas rate, whether a room is free tonight, admission dates, doctor timings.",
         "A great deal of Limbdi's trade already happens on WhatsApp. Farmers message ginners for the day's rate, travellers ask hotels about rooms, parents ask colleges about fees and hostel seats. Staff answer by hand between other jobs, and messages that come in at night or during a rush often wait until the answer no longer matters.",
         "With <strong>AI and WhatsApp automation in Limbdi</strong>, an assistant on the official WhatsApp Business platform replies in Gujarati, Hindi or English from facts you supply: rates you update each morning, room types and tariffs, course lists, OPD days. It gathers booking or admission details into a Google Sheet or your own software, and sends anything unusual, such as a complaint or a large order, straight to a person with the whole chat attached.",
-        "Santosh designs these assistants to decline questions they have no facts for instead of guessing. Projects start at ₹40,000 and take two to four weeks. We begin by reading a sample of your real chats, with your permission, to pick the five or six questions worth automating first.",
+        "Another of us designs these assistants to decline questions they have no facts for instead of guessing. Projects start at ₹40,000 and take two to four weeks. We begin by reading a sample of your real chats, with your permission, to pick the five or six questions worth automating first.",
       ],
     },
     {
@@ -169,7 +169,7 @@ const limbdi: CityContent = {
       heading: "How our remote team runs a Limbdi project, step by step",
       paragraphs: [
         "We work with Limbdi clients fully remotely, and the process is built so you always know where things stand without visiting anyone.",
-        "Ankur writes the code for websites and web apps, Santosh handles anything involving AI, AWS hosting or data, and Vedansh keeps the schedule, the automation and the communication on track. You deal with three named people, not a ticket queue. Our WhatsApp line is answered seven days a week on Indian time, and if a date slips you hear about it the day we know, with the reason and a new date.",
+        "One of us writes the code for websites and web apps, another of us handles anything involving AI, AWS hosting or data, and the third of us keeps the schedule, the automation and the communication on track. You deal with three named people, not a ticket queue. Our WhatsApp line is answered seven days a week on Indian time, and if a date slips you hear about it the day we know, with the reason and a new date.",
       ],
       list: [
         "First call on WhatsApp: your trade, your buyers and the one thing you most want to change.",

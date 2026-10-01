@@ -174,7 +174,7 @@ const renukoot: CityContent = {
       id: "remote-team-renukoot",
       heading: "An IT services team in Renukoot that works remotely",
       paragraphs: [
-        "We have no office in Renukoot, Robertsganj or anywhere in Sonbhadra. BtechWaleTech is three engineers working remotely. Ankur Kumar does full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects and works on data science and automation.",
+        "We have no office in Renukoot, Robertsganj or anywhere in Sonbhadra. BtechWaleTech is three engineers working remotely. One of us does full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us manages projects and works on data science and automation.",
         "Working with an <strong>IT services team in Renukoot</strong> that is not physically there is simpler than it sounds. We begin with a WhatsApp or video call, you share documents, photographs and samples of your current paperwork, and we send a written plan and itemised quote. During the build you get a preview link and can ask for changes at each stage.",
         "We reply on WhatsApp seven days a week during Indian working hours. Payments are staged against delivered work, and each milestone is written down in advance.",
         "If you need someone to visit your site or office, a local provider will suit you better, and we would rather tell you that at the start.",

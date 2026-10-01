@@ -185,7 +185,7 @@ const tanuku: CityContent = {
       id: "remote-team-tanuku",
       heading: "An IT services team for Tanuku that works remotely, without a local office",
       paragraphs: [
-        "We do not have an office in Tanuku or anywhere in West Godavari, and we will never list a borrowed address to look local. BtechWaleTech is three engineers working remotely. Ankur Kumar handles full-stack development of websites and apps. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds data science and automation.",
+        "We do not have an office in Tanuku or anywhere in West Godavari, and we will never list a borrowed address to look local. BtechWaleTech is three engineers working remotely. One of us handles full-stack development of websites and apps. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and builds data science and automation.",
         "The process is simple. A WhatsApp call to understand your buyers and season, a page plan and itemised quote in about two working days, then an early preview link you open on your own phone. Feedback comes by WhatsApp and small changes are often done the same day. We reply seven days a week on Indian time, which suits owners who only get free time on Sunday.",
         "Working remotely also keeps quotes free of rent and travel charges. A client in Iragavaram or Penugonda gets the same process and prices as one next to the railway station.",
       ],

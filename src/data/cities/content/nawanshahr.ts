@@ -69,7 +69,7 @@ const nawanshahr: CityContent = {
       paragraphs: [
         "Nawanshahr is small on a map and large in reach. The district was carved out in 1995 and renamed Shaheed Bhagat Singh Nagar in 2008, but most people still say Nawanshahr. Like the rest of Doaba, it has sent a large share of its families to Canada, the UK and the USA, and the money and expectations they send home shape local business. Land here is priced closer to Ludhiana than to most Punjab districts.",
         "That creates an unusual customer. A shopper on Banga Road may be local, but the person paying for a wedding hall, a new house or a daughter's study visa is often sitting in Brampton or Wolverhampton, comparing options on a phone at midnight Indian time. Businesses that look credible online, with clear prices and quick replies, win those decisions.",
-        "Our <strong>IT services in Nawanshahr</strong> are built around that reality. We are three engineers who work remotely: Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. There is no office in Nawanshahr or anywhere else, and we would rather tell you that on day one than invent an address.",
+        "Our <strong>IT services in Nawanshahr</strong> are built around that reality. We are three engineers who work remotely: one of us handles full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. There is no office in Nawanshahr or anywhere else, and we would rather tell you that on day one than invent an address.",
       ],
     },
     {

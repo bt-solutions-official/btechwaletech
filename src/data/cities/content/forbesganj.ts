@@ -69,7 +69,7 @@ const forbesganj: CityContent = {
       paragraphs: [
         "Forbesganj grew as a trading post in the Kosi region and took its name from Alexander John Forbes, who ran the area in British times. Today it is one of the busiest towns in Araria district, with a municipal area of 25 wards, a railway junction on the line to Jogbani, and highways that connect it to Purnea, Siliguri and the Nepal border about 12 km away. Buyers come from villages across the subdivision and from across the border to purchase grain, cloth, hardware, groceries and farm inputs.",
         "The requests we receive for <strong>IT services in Forbesganj</strong> mostly come from merchants. A wholesaler wants retailers to order without twenty phone calls a morning. A makhana packer wants buyers in Delhi or Kolkata to find the brand. A coaching centre wants enquiries from students in Narpatganj and Bhargama. A clinic wants patients to know which doctor sits on which day.",
-        "We serve them as a remote team of three: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. There is no Forbesganj office, and we tell clients so at the outset. Everything moves on WhatsApp, calls and written documents.",
+        "We serve them as a remote team of three: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. There is no Forbesganj office, and we tell clients so at the outset. Everything moves on WhatsApp, calls and written documents.",
       ],
     },
     {
@@ -98,7 +98,7 @@ const forbesganj: CityContent = {
       paragraphs: [
         "The Forbesganj subdivision grows paddy, maize and jute, and the town has rice mills and traders who buy from farmers and sell to mills, feed makers and markets elsewhere. Margins are thin, volumes are high, and prices move with the season and with demand from other states.",
         "The main gap we see here is information. A trader may not know his average buying price for the week, how much stock sits in each godown, which buyers pay late, or how this season compares with last. Most of that data exists somewhere, in a register, a Tally file or a phone's photo gallery.",
-        "Santosh leads our data work. We gather what you already record, tidy it, and build a dashboard you can read on a phone: purchases and sales by crop and grade, stock by godown, margins by week and dues by buyer. Mills can add a gate entry register for trucks and moisture readings.",
+        "Another of us leads our data work. We gather what you already record, tidy it, and build a dashboard you can read on a phone: purchases and sales by crop and grade, stock by godown, margins by week and dues by buyer. Mills can add a gate entry register for trucks and moisture readings.",
         "A dashboard built on existing data usually starts at ₹40,000. A full purchase and stock system with truck entries starts at ₹60,000. We never promise price forecasts; we show you your own numbers clearly.",
       ],
     },

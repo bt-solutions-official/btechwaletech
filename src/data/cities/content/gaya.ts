@@ -168,7 +168,7 @@ const gaya: CityContent = {
       paragraphs: [
         "We do not have an office in Gaya, and we will not claim one. BtechWaleTech is a team of three engineers working remotely for clients across India. That keeps costs down and means you speak to the person building your site instead of a salesperson who hands over notes.",
         "After a first conversation on WhatsApp or a call, we send a written plan, timeline and itemised quote. Once you approve it, a preview link follows within the first week or two, and you can open it on your phone, share it with family or partners and send feedback as voice notes or text. Small changes are often made the same day. We reply every day of the week, on Indian time.",
-        "Ankur Kumar builds the websites and backend systems. Santosh Sharma works on AI, ML, AWS and data. Vedansh Shrivastava manages projects and designs automation and data science work. Any of the three can be reached directly throughout the project.",
+        "One of us builds the websites and backend systems. Another of us works on AI, ML, AWS and data. The third of us manages projects and designs automation and data science work. Any of the three can be reached directly throughout the project.",
       ],
     },
     {

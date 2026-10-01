@@ -70,7 +70,7 @@ const bhatapara: CityContent = {
       paragraphs: [
         "Bhatapara is not a big city, but it punches above its size in trade. The krishi upaj mandi here buys and sells produce through the year, rice mills, dal mills and poha units line the roads out of town, and the railway station puts both Raipur and Bilaspur within easy reach. Farmers from surrounding villages bring paddy in, and finished rice, dal and poha go out by truck and rail.",
         "That kind of economy creates specific digital needs. When people talk about <strong>IT services in Bhatapara</strong>, they rarely mean a flashy corporate site. They mean a mill owner who wants buyers in Odisha or Maharashtra to find him, a commission agent who wants rates to reach regular parties without fifty phone calls, a clinic that needs its OPD timings on Google, or a coaching institute filling seats before the session starts.",
-        "We are a remote team of three: Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Bhatapara and will not pretend otherwise. Work happens on WhatsApp, calls and screen shares, and every plan, date and cost reaches you in writing. You do not need to travel to Raipur for a single meeting.",
+        "We are a remote team of three: one of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Bhatapara and will not pretend otherwise. Work happens on WhatsApp, calls and screen shares, and every plan, date and cost reaches you in writing. You do not need to travel to Raipur for a single meeting.",
       ],
     },
     {
@@ -151,7 +151,7 @@ const bhatapara: CityContent = {
       heading: "Data analysis and dashboards for Bhatapara mills and trading firms",
       paragraphs: [
         "A mill or trading firm in Bhatapara often has plenty of data but no clear picture. Weighbridge slips, batch registers, sale bills and bank entries sit in different places, and the owner learns how the season went only when the accountant closes the books.",
-        "Santosh and Vedansh build simple dashboards that pull these records together. Useful views include paddy received per day against capacity, yield by variety and batch, stock by grade in each godown, dispatch by buyer and state, freight cost per tonne, and dues outstanding by age. For retail shops the useful view is simpler: sales by category, best-selling items before festivals, and slow stock that needs clearing.",
+        "Another of us and the third of us build simple dashboards that pull these records together. Useful views include paddy received per day against capacity, yield by variety and batch, stock by grade in each godown, dispatch by buyer and state, freight cost per tonne, and dues outstanding by age. For retail shops the useful view is simpler: sales by category, best-selling items before festivals, and slow stock that needs clearing.",
         "Dashboards can run on Google Sheets and Looker Studio for smaller firms or on a proper database for larger ones. Pricing is quoted after we see your records, and the first step is always cleaning up how data is entered, because a dashboard built on inconsistent entries only shows the confusion more clearly.",
       ],
     },

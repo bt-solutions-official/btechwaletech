@@ -147,7 +147,7 @@ const content: FreelanceContent = {
       heading: "What does it cost to build an app with a team in India?",
       paragraphs: [
         `With us, an Android and iOS app starts at ${P.app} and usually takes six to ten weeks for a first release; platforms with web portals start at ${P.software}. The saving comes from labour costs in India, not from leaving out testing, back-end work or store submission.`,
-        `You deal directly with the three people who build the app. Ankur Kumar leads full-stack development, Santosh Sharma handles cloud, data and AI features, and Vedansh Shrivastava runs project management and automation. There is no account-manager layer between you and the code.`,
+        `You deal directly with the three people who build the app. One of us leads full-stack development, another of us handles cloud, data and AI features, and the third of us runs project management and automation. There is no account-manager layer between you and the code.`,
         `The trade-offs are real and worth naming. We work remotely and never visit. The overlap with UK hours runs from late morning, so live calls happen in your morning or around lunch. And three developers suit SME apps and MVPs, not programmes needing twenty engineers. If those limits are fine, the cost difference can be large.`,
         `Offshore is not always the right answer; our <a href='/uk/offshore-vs-local-developers/'>offshore vs local developers guide</a> sets out when a UK team is worth the premium.`,
       ],

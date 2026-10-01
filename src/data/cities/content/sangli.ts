@@ -167,7 +167,7 @@ const sangli: CityContent = {
       paragraphs: [
         "We will be direct about this: BtechWaleTech has no office in Sangli, Miraj or anywhere else. We are three engineers who work remotely for businesses across India. Not paying rent for a front office is one of the reasons our prices stay where they are, and it means you talk with the people writing your code rather than a sales executive.",
         "Here is how a Sangli project usually runs. You send a WhatsApp message or book a call, and we discuss what you sell, who buys and what the site must do. We then send a page plan, timeline and itemised quote. Once you approve it in writing, a live preview link arrives within the first week or two, which you can check on your phone and forward to a partner or your CA. Changes are requested on WhatsApp and small ones are usually done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development, from page design to databases. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science workflows. You will have direct access to all three.",
+        "One of us handles full-stack development, from page design to databases. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science workflows. You will have direct access to all three.",
       ],
     },
     {

@@ -69,7 +69,7 @@ const rampuraPhul: CityContent = {
       paragraphs: [
         "Most requests for <strong>IT services in Rampura Phul</strong> are practical ones: a website that appears when someone searches the firm's name, a correct pin on Google Maps, a way to take orders or bookings on WhatsApp, and a digital record to replace the paper register. The town is the headquarters of its tehsil in Bathinda district, so farmers, students and patients from the surrounding villages come here to sell crops, attend college, see a doctor and buy supplies.",
         "The place has two roots. Phul was founded in 1627 by Phul, whose descendants went on to rule Patiala, Nabha and Jind, and Rampura was set up in 1680 by his son, Choudhri Rama. Over time the two grew into a single trading town around the railway station, and the grain and cotton business now shapes most of its commercial life.",
-        "We serve this market as a remote team of three. Ankur Kumar writes the websites and web applications, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project planning, data science and automation. There is no Rampura Phul office, and we will not pretend otherwise: you deal directly with the engineers on WhatsApp and video calls, and every commitment reaches you in writing.",
+        "We serve this market as a remote team of three. One of us writes the websites and web applications, another of us handles AI, machine learning, AWS and data, and the third of us runs project planning, data science and automation. There is no Rampura Phul office, and we will not pretend otherwise: you deal directly with the engineers on WhatsApp and video calls, and every commitment reaches you in writing.",
       ],
     },
     {
@@ -151,7 +151,7 @@ const rampuraPhul: CityContent = {
       paragraphs: [
         "WhatsApp is the main business line for nearly every shop and agent in Rampura Phul, and messages pile up when the mandi is busy. An assistant on the official WhatsApp Business platform can answer the questions that repeat all day, so the owner handles only the ones that need judgement.",
         "With <strong>AI and WhatsApp automation in Rampura Phul</strong>, a feed dealer's number can reply with today's prices and pack sizes, a clinic's number can offer the next free slot and note the animal's symptoms, and a spares shop can check stock against a list you keep updated. Replies go out in Punjabi, Hindi or English, matching how the customer writes. Every order or booking is saved to a Google Sheet or your own software.",
-        "Projects start at ₹40,000 and run two to four weeks. Santosh Sharma designs the assistant after reading a sample of your real chats, with your consent, to find the questions worth automating. It answers only from facts you have approved, and anything unusual, such as a rate negotiation or a complaint, goes straight to you with the whole conversation attached.",
+        "Projects start at ₹40,000 and run two to four weeks. Another of us designs the assistant after reading a sample of your real chats, with your consent, to find the questions worth automating. It answers only from facts you have approved, and anything unusual, such as a rate negotiation or a complaint, goes straight to you with the whole conversation attached.",
       ],
     },
     {
@@ -177,7 +177,7 @@ const rampuraPhul: CityContent = {
       heading: "IT services team in Rampura Phul without an office: how the remote arrangement works",
       paragraphs: [
         "We are not a local shop with a counter, and it is fairer to say that at the start. BtechWaleTech is three engineers working remotely. You never pay for an office, a receptionist or a sales executive's travel, and you speak to the person who is actually building your project.",
-        "It begins with a call or a few voice notes about your business. Vedansh Shrivastava turns that into a written scope listing pages or screens, features, dates and a price for each item. Nothing starts and nothing is billed until you approve it. Ankur Kumar then builds, and you receive preview links that open on any phone, so partners and family members can check progress from the shop or the mandi office.",
+        "It begins with a call or a few voice notes about your business. The third of us turns that into a written scope listing pages or screens, features, dates and a price for each item. Nothing starts and nothing is billed until you approve it. One of us then builds, and you receive preview links that open on any phone, so partners and family members can check progress from the shop or the mandi office.",
         "Punjabi text is sent to you for checking before it goes live, because a wrong word on a school notice or a feed listing gets noticed at once. We reply on WhatsApp seven days a week on Indian time. If a date is going to slip, you hear about it the day we know, along with the reason and a new date.",
       ],
     },

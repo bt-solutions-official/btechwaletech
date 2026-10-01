@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A WhatsApp automation expert makes WhatsApp part of your operations rather than a phone someone checks between tasks. The work sits in three layers: getting a business number onto the official WhatsApp Business Platform, writing and approving message templates, and connecting those messages to events in your store, CRM, billing software or Google Sheets.`,
         `The result is a set of messages that go out by themselves at the right moment, plus replies that flow back into the right customer record. Staff stop copying order numbers into chats and start handling only the conversations that need a person.`,
-        `At BtechWaleTech, Vedansh maps your workflow and the trigger for each message, Ankur builds the integrations and inbox, and Santosh handles hosting on AWS, data sync and any AI parts. You keep the Meta Business account and the number.`,
+        `At BtechWaleTech, the third of us maps your workflow and the trigger for each message, one of us builds the integrations and inbox, and another of us handles hosting on AWS, data sync and any AI parts. You keep the Meta Business account and the number.`,
       ],
       list: [
         "Onboarding a number to the WhatsApp Cloud API in your Meta Business account",

@@ -168,7 +168,7 @@ const patna: CityContent = {
       paragraphs: [
         "We do not have an office in Patna, and we will not put a fake address on this page. We are three engineers working remotely with clients across India. Because there is no rent or sales staff to pay for, our prices stay lower, and you always deal with the people who actually build your site.",
         "The process is simple. We begin with a call or a WhatsApp conversation, then send a written page plan, timeline and itemised quote. Within one or two weeks you get a working preview link to check on your own phone and share with your family or partners. Changes are sent on WhatsApp and small ones usually go live the same day. We work on IST and reply seven days a week.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automations and data science tools. You can speak to any of us directly at any stage.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automations and data science tools. You can speak to any of us directly at any stage.",
       ],
     },
     {

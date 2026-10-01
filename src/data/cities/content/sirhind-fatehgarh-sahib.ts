@@ -69,7 +69,7 @@ const sirhind: CityContent = {
       paragraphs: [
         "Sirhind was once a Mughal provincial capital on the highway between Lahore and Delhi, and old accounts describe it as a town of mosques, gardens, caravan inns and wells. Today it shares its civic life with Fatehgarh Sahib, and the two together serve as headquarters for one of Punjab's smaller districts. The courts, district offices, colleges and bus routes all bring people in from Bassi Pathana, Amloh, Khamanon and hundreds of villages.",
         "That mix shapes the requests we get for <strong>IT services in Sirhind</strong>. A pump workshop wants a catalogue that dealers in other states can trust. A school wants admissions to stop depending on one phone number. A guest house near the gurdwara wants to be found before the December crowd arrives. A commission agent wants his ledgers somewhere safer than one computer in the back room.",
-        "We handle these as a remote team of three. Ankur Kumar does the full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Sirhind or Fatehgarh Sahib and do not pretend otherwise; the work happens over WhatsApp, calls and screen shares, with written plans at every step.",
+        "We handle these as a remote team of three. One of us does the full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Sirhind or Fatehgarh Sahib and do not pretend otherwise; the work happens over WhatsApp, calls and screen shares, with written plans at every step.",
         "Most local owners start small, with a clear site and a correct map pin, and add an app or automation once the first step pays for itself. We are happy to work in that order and will not push a bigger project than your business needs this year.",
       ],
     },
@@ -179,7 +179,7 @@ const sirhind: CityContent = {
         "We are three engineers who work remotely, with no office in Sirhind, Chandigarh or anywhere else. Instead of a showroom, you get paperwork. After a first call about your trade and your customers, we send a written outline of pages or app screens, the timeline and the cost of each item. Work begins only after you approve it, and no money changes hands before that.",
         "While the project runs, you receive preview links that open on any phone, so you can check them at the shop, show a partner or ask your children for an opinion. Punjabi text is sent to you for reading before it goes live, because a wrong word on a gurdwara-facing guest house page or a college notice is the kind of mistake people remember.",
         "WhatsApp is our main line and is answered seven days a week on Indian time. If something is going to be late, you hear about it the same day, with a new date. Payments are tied to milestones you can see working, which keeps risk low if this is your first website or app.",
-        "Ankur handles the build, Santosh the AI, cloud and data pieces, and Vedansh keeps the plan and the automation on track. You always know who is doing what. Start the conversation on our <a href=\"/contact/\">contact page</a>.",
+        "One of us handles the build, another of us the AI, cloud and data pieces, and the third of us keeps the plan and the automation on track. You always know who is doing what. Start the conversation on our <a href=\"/contact/\">contact page</a>.",
       ],
     },
     {

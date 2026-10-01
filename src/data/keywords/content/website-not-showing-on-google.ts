@@ -312,7 +312,7 @@ const content: FreelanceContent = {
       id: "fix-service",
       heading: "Our done-for-you fix when your website is not showing on Google",
       paragraphs: [
-        `If you would rather hand it over, send us the domain on WhatsApp. We ask for user access to Search Console, never the password to your Google account, and read-only or limited access to the CMS or code if the fix needs it. Santosh Sharma leads the technical diagnosis; Ankur Kumar makes any template or code changes; Vedansh Shrivastava keeps you updated on what was found and when.`,
+        `If you would rather hand it over, send us the domain on WhatsApp. We ask for user access to Search Console, never the password to your Google account, and read-only or limited access to the CMS or code if the fix needs it. Another of us leads the technical diagnosis; one of us makes any template or code changes; the third of us keeps you updated on what was found and when.`,
         `You receive a short written diagnosis: which of the five causes applies, the evidence from Search Console and the live test, and the fix. We quote the fix as a one-off job in about two working days and start only after you approve it in writing. Payments in India are by UPI or bank transfer; international clients pay in USD by Wise, wire or PayPal.`,
         `After the fix, we watch the Page indexing report until the key pages are indexed, and tell you plainly if something else turns up. If you then want to work on rankings and enquiries, monthly SEO starts at ${P.seo}, but it is not a condition of the fix.`,
       ],

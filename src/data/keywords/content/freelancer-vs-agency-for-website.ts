@@ -116,7 +116,7 @@ const content: FreelanceContent = {
       heading: "The option most comparisons skip: a small freelance team",
       paragraphs: [
         `Between a solo freelancer and an agency sits the small freelance team: two to five independent developers who work together regularly, share code and cover for each other. It removes the solo freelancer's biggest weakness without adding agency layers.`,
-        `BtechWaleTech is one of these. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, ML, AWS, data and technical SEO, and Vedansh Shrivastava runs project management, data science and automation. Every project is visible to all three, so a week of illness or a family function does not freeze your launch.`,
+        `BtechWaleTech is one of these. One of us handles full-stack development, another of us covers AI, ML, AWS, data and technical SEO, and the third of us runs project management, data science and automation. Every project is visible to all three, so a week of illness or a family function does not freeze your launch.`,
         `A small team also brings a built-in second pair of eyes. One person writes a feature, another tests it, and the third checks the plan against your brief. In the freelancer vs agency debate, that review step is often overlooked; it is the first thing a solo freelancer skips under deadline pressure.`,
         `The limit is headcount. Three people can build a business website, an SEO site, a store, a web app or an app well; they cannot staff a year-long platform that needs fifteen developers at once. If that is your project, look at agencies.`,
       ],

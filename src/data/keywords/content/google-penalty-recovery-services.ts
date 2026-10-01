@@ -282,7 +282,7 @@ const content: FreelanceContent = {
       heading: "Google penalty recovery services from BtechWaleTech: how it works",
       paragraphs: [
         `Message us on WhatsApp with a screenshot of your Manual actions report and your domain. We confirm whether it is a manual action, what type, and how wide, and send an itemised plan and quote in about two working days. If the report is empty, we tell you so and point you to the right kind of help.`,
-        `Santosh Sharma leads the link and data analysis. Ankur Kumar handles content, template, schema and security fixes in your CMS or codebase. Vedansh Shrivastava runs the outreach log, the evidence folder and the timeline, so the reconsideration request is backed by complete records. You keep ownership of Search Console, the domain, hosting and code throughout; the request is submitted from your account.`,
+        `Another of us leads the link and data analysis. One of us handles content, template, schema and security fixes in your CMS or codebase. The third of us runs the outreach log, the evidence folder and the timeline, so the reconsideration request is backed by complete records. You keep ownership of Search Console, the domain, hosting and code throughout; the request is submitted from your account.`,
         `Cleanup work runs as monthly SEO from ${P.seo} (${P.seoUsd}). Indian clients pay by UPI or bank transfer; international clients by Wise, bank wire or PayPal in USD. Anything beyond that, such as a rebuild, is quoted separately and approved by you in writing first. We do not promise approval, and we do not buy or sell links. We do the work thoroughly enough that a reviewer can see it.`,
       ],
     },

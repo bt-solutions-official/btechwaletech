@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["Who owns the data model", "The vendor", "Usually you, if the contract says so", "You: database and repository in your name"],
       ["Budget certainty", "Predictable, but grows with headcount", "Low: hours can drift", "Itemised estimate per user story before work starts"],
       ["Integrations", "Only the connectors the vendor offers", "Depends on the individual", "Tally, WhatsApp, payments, email, SMS as scoped"],
-      ["Project management", "Not needed", "You manage the contractor", "Vedansh plans milestones and demos"],
+      ["Project management", "Not needed", "You manage the contractor", "The third of us plans milestones and demos"],
       ["If the person leaves", "Not applicable", "Work stalls; knowledge leaves with them", "Two teammates already know the codebase"],
       ["Upkeep after launch", "Included in the subscription", "Paid per fix", `2 months free, then from ${P.care}`],
       ["Best for", "Standard processes with many vendors to choose from", "Small, well-specified tasks", "Processes that give you an edge or save real hours"],

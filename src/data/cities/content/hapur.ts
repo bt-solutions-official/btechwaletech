@@ -161,7 +161,7 @@ const hapur: CityContent = {
       paragraphs: [
         "We have no office in Hapur and will not pretend to have one. We are three engineers working remotely for businesses across India. Without an NCR office or sales team to pay for, our prices stay reasonable, and you talk directly to the people building your site.",
         "The process is simple. We begin with a WhatsApp chat or call about your business, then send a page plan, timeline and itemised quote. Within a week or two you get a preview link to check on your own phone. Feedback goes on WhatsApp, and small changes are usually live the same day. We work on IST and reply seven days a week, which suits owners who do their thinking on a Sunday.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can <a href=\"/contact/\">contact any of us</a> directly.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can <a href=\"/contact/\">contact any of us</a> directly.",
       ],
     },
     {

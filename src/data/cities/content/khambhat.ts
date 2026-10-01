@@ -70,7 +70,7 @@ const khambhat: CityContent = {
       paragraphs: [
         "Khambhat gave its name to a whole gulf. For centuries ships left its harbour with textiles, indigo and stone beads, until silt pushed the big trade south to Surat. What remains is a compact old town with serious craft skills, a lively market and a large rural taluk around it, all within reach of Anand, Vadodara and Ahmedabad.",
         "The questions we hear about <strong>IT services in Khambhat</strong> are practical. A bead exporter wants a catalogue foreign buyers can trust. A kite maker wants wholesalers in other cities to find him before January. A sweet shop wants its halwasan to reach relatives in Mumbai and the US. A clinic wants patients from Tarapur and the villages to see its timings before they set out.",
-        "Our team has three people. Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. We have no office in Khambhat and do not pretend to; everything runs on WhatsApp, calls, screen shares and written plans, which is why our starting prices stay low.",
+        "Our team has three people. One of us handles full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. We have no office in Khambhat and do not pretend to; everything runs on WhatsApp, calls, screen shares and written plans, which is why our starting prices stay low.",
       ],
     },
     {

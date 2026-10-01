@@ -168,7 +168,7 @@ const barnala: CityContent = {
       paragraphs: [
         "We have no office in Barnala and do not use a borrowed address to look local. We are three engineers working remotely for clients across India. Not paying rent or sales salaries keeps our starting prices lower, and the person you talk to is one of the people doing the work.",
         "Most projects begin with a WhatsApp chat or short call, followed by a written page plan, timeline and quote. Within the first one or two weeks you get a live preview link to open on your own phone, which is far easier to judge than a design picture. Feedback can come as text or Punjabi and Hindi voice notes, and small fixes usually go live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar builds the full-stack side. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can reach each of us directly.",
+        "One of us builds the full-stack side. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can reach each of us directly.",
       ],
     },
     {

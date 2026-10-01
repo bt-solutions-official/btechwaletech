@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       heading: "What does an ecommerce app developer build?",
       paragraphs: [
         `An ecommerce app developer builds a mobile shopping experience end to end: the app customers install, the backend that stores products and orders, and the tools your staff use every day. The customer app gets the attention, but the admin side decides whether the business runs smoothly after launch.`,
-        `On our team, Ankur builds the Flutter or React Native app and the backend APIs. Santosh sets up hosting on AWS, the database, analytics and search visibility for any web store. Vedansh runs the plan, writes the feature list with you and connects automations such as order alerts on WhatsApp.`,
+        `On our team, one of us builds the Flutter or React Native app and the backend APIs. Another of us sets up hosting on AWS, the database, analytics and search visibility for any web store. The third of us runs the plan, writes the feature list with you and connects automations such as order alerts on WhatsApp.`,
         `An app is one sales channel, not the whole shop. Most sellers still need a web presence, a Google Business Profile and a way to take orders on WhatsApp, and the app should connect to all of them rather than live in isolation.`,
       ],
       list: [

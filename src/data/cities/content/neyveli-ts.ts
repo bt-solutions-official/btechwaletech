@@ -168,7 +168,7 @@ const neyveli: CityContent = {
       heading: "How a remote team works with Neyveli clients",
       paragraphs: [
         "We do not have an office in Neyveli or anywhere in Cuddalore district, and we will not pretend otherwise with a borrowed address. We are three engineers who work remotely for clients across India, which keeps costs lower and means you speak directly to the people who write your code.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on data science and automation. A project begins with a WhatsApp chat or phone call, followed by a page plan, timeline and itemised quote, usually within two working days.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on data science and automation. A project begins with a WhatsApp chat or phone call, followed by a page plan, timeline and itemised quote, usually within two working days.",
         "You review a live preview on your own phone, send corrections on WhatsApp and approve before launch. We work on IST and reply seven days a week, and most small changes go live the same day. To start, <a href=\"/contact/\">send us a message</a> with a line about your business.",
       ],
     },

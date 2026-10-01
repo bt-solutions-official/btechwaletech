@@ -32,7 +32,7 @@ const content: FreelanceContent = {
     h1: "AI Overview optimization: get cited in Google’s AI answers and keep the clicks that matter",
     lede: `AI Overview optimization is the work of making your pages the sources Google links inside its AI-generated summaries, and giving searchers a reason to click through anyway. BtechWaleTech is three freelance developers in India who audit which of your queries show AI Overviews, rebuild service pages into citable formats, clean up structured data, and track the effect in Search Console. It runs inside <a href='/freelance-seo-expert/'>monthly SEO</a> from ${P.seo}. Nobody outside Google can guarantee a citation, and we will not pretend otherwise.`,
     pills: ["Query triage for AI Overviews", "Citable page formats", "Click protection", "Structured data clean-up", "Snippet controls advice", "Hindi and English queries", "Search Console tracking"],
-    origin: "Three freelance developers in India · AI search work led by Santosh Sharma · WhatsApp replies 7 days a week",
+    origin: "Three freelance developers in India · AI search work led by another of us · WhatsApp replies 7 days a week",
   },
   facts: [
     ["AI Overview work from", `${P.seo} · ${P.seoUsd}`],

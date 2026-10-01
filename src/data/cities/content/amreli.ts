@@ -152,7 +152,7 @@ const amreli: CityContent = {
         "Count the WhatsApp messages an Amreli trader gets during groundnut season and most are the same five questions: today's bhav, is stock available, where is the godown, when do you open, can you send a truck. A clinic gets its own five: is the doctor in, what is the fee, is a test available, where do we park, can we come now.",
         "A bot built on the official WhatsApp Business platform can answer those in Gujarati and English at any hour and write every conversation into a sheet you can search. Our automation work starts at ₹40,000. The moment a message looks like a large order, a complaint or a worried relative, it is handed to a real person with the conversation so far attached.",
         "Some things a bot must never do. It should not commit to a rate on a full truckload, book an appointment nobody has checked, or give a delivery date the godown cannot meet. We write those limits into the design so the owner stays in charge of money and promises.",
-        "For mills, hospitals and bigger traders, AI can go further: turning photographed purchase slips into register entries, giving the owner a one-paragraph summary of the day's enquiries, or preparing draft replies that staff approve with one tap. Santosh Sharma, our AI and data engineer, first checks whether it truly saves time for your business, and says so if it does not.",
+        "For mills, hospitals and bigger traders, AI can go further: turning photographed purchase slips into register entries, giving the owner a one-paragraph summary of the day's enquiries, or preparing draft replies that staff approve with one tap. Another of us, our AI and data engineer, first checks whether it truly saves time for your business, and says so if it does not.",
       ],
     },
     {
@@ -170,7 +170,7 @@ const amreli: CityContent = {
       heading: "Three engineers, no Amreli office, one WhatsApp thread",
       paragraphs: [
         "BtechWaleTech is a freelance group of three engineers who work remotely. There is no signboard outside a shop, and we do not rent an office in Amreli or anywhere else. We say that openly instead of printing a borrowed address, and the rent we save stays out of your quote.",
-        "The people you speak to are the people who build. Ankur Kumar writes the websites and applications end to end. Santosh Sharma looks after AI, machine learning, AWS hosting and data work. Vedansh Shrivastava plans the project, keeps timelines honest and builds automations and data science pieces.",
+        "The people you speak to are the people who build. One of us writes the websites and applications end to end. Another of us looks after AI, machine learning, AWS hosting and data work. The third of us plans the project, keeps timelines honest and builds automations and data science pieces.",
         "A project usually starts with a phone call or a voice note describing your business. We follow with a list of what we need, typically photographs, prices, a logo and a few lines about your history. Within days you receive a private link to watch the site grow on your own phone, and you ask for changes in the same WhatsApp thread.",
         "Messages are answered seven days a week on Indian time, which matters when harvest or Diwali traffic peaks. We talk in Hindi or English, and you or your staff read and correct the Gujarati text before it is published.",
       ],

@@ -69,7 +69,7 @@ const mandi: CityContent = {
       paragraphs: [
         "Mandi is the headquarters of Himachal Pradesh's second most populous district and the market that villages from Karsog, Sarkaghat, Joginder Nagar, Chachyot and Sundernagar look to. People come here for hospital visits, college admissions, court work, wholesale buying and weddings. Before they travel the winding roads, they now check on a phone: which hotel has a room, which doctor is available on Thursday, whether a shop stocks what they need.",
         "Requests we receive for <strong>IT services in Mandi</strong> are usually practical. A hotel wants direct bookings instead of paying commission on every night. A shop in the bazaar wants its Google Maps pin fixed. A coaching institute wants fee reminders sent without a staff member typing each one. A transporter wants to know which vehicle is where. Few of these need anything elaborate, and we size the solution to the problem.",
-        "We are a remote team of three. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Mandi, and we will not pretend otherwise. Work happens over WhatsApp, phone calls and screen shares, with every plan and quote sent to you in writing.",
+        "We are a remote team of three. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Mandi, and we will not pretend otherwise. Work happens over WhatsApp, phone calls and screen shares, with every plan and quote sent to you in writing.",
       ],
     },
     {

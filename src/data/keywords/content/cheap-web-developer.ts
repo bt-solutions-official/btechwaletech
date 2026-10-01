@@ -199,7 +199,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Our entry plan is a static website from ${P.site}. “Static” means the pages are built ahead of time and served as plain files, which is why hosting is inexpensive, pages open quickly, and there is very little for attackers to target.`,
         `Here is what that typically covers for a small business: a phone-first design adapted to your logo and colours, the pages you need (up to 100 are allowed, most start with a handful), a contact form that emails you, a click-to-chat WhatsApp button with a prefilled message, a Google Maps embed, page titles and descriptions, a sitemap, schema for your business type, SSL and Google Search Console set up in your account.`,
-        `Ankur builds the pages, Santosh handles hosting setup and the technical SEO pieces, and Vedansh keeps the timeline and your questions on track. You deal with all three on one WhatsApp thread.`,
+        `One of us builds the pages, another of us handles hosting setup and the technical SEO pieces, and the third of us keeps the timeline and your questions on track. You deal with all three on one WhatsApp thread.`,
         `Edits during the first two months after launch are free. After that you can make changes through us from ${P.care}, or take the code elsewhere.`,
       ],
     },

@@ -153,7 +153,7 @@ const jalpaiguri: CityContent = {
       paragraphs: [
         "A Dooars homestay can get dozens of WhatsApp messages a day in season, most asking the same things: are rooms free on these dates, what is the tariff, is food included, can you arrange a jungle safari, how far is it from the station. Answering all of them by hand while also running the property is hard.",
         "We connect your WhatsApp Business number and website form to a simple sheet or CRM. An assistant working only from information you approve replies with availability, tariffs, inclusions and directions in Bengali, Hindi or English, collects dates and guest details and hands over to you to confirm. Reminders can go out before arrival, and review requests after checkout. For tea factories, the same approach sends growers their daily leaf and payment summaries.",
-        "Automation starts at ₹40,000. Santosh Sharma, who handles our AI work, looks at your current process first and suggests only what saves real time. Payment disputes and complaints always stay with a person.",
+        "Automation starts at ₹40,000. Another of us, who handles our AI work, looks at your current process first and suggests only what saves real time. Payment disputes and complaints always stay with a person.",
       ],
     },
     {
@@ -161,7 +161,7 @@ const jalpaiguri: CityContent = {
       heading: "Numbers a tea factory or resort owner can read on one screen",
       paragraphs: [
         "A bought-leaf factory's season is decided by a few numbers: how much green leaf came in from each grower, what rate was paid, how much made tea came out, and what it fetched. A resort owner watches occupancy by month, the share of bookings coming direct versus through platforms, and the average spend per guest. These figures usually sit in registers, Excel files and booking platform exports that no one has time to combine.",
-        "We build dashboards that pull these sources together and show the answers on a phone each morning: intake and out-turn by week, grower payment status, occupancy against last season, and direct booking share. Vedansh Shrivastava and Santosh Sharma handle this data work, and they start from the questions you already ask rather than a crowded screen of charts.",
+        "We build dashboards that pull these sources together and show the answers on a phone each morning: intake and out-turn by week, grower payment status, occupancy against last season, and direct booking share. The third of us and another of us handle this data work, and they start from the questions you already ask rather than a crowded screen of charts.",
         "Dashboards are quoted separately and can sit alongside a website, a leaf intake system or a booking automation. If a simple monthly spreadsheet would answer your question just as well, we will say so.",
       ],
     },
@@ -177,7 +177,7 @@ const jalpaiguri: CityContent = {
       id: "remote-team-jalpaiguri",
       heading: "Working with us from Jalpaiguri",
       paragraphs: [
-        "We do not have an office in Jalpaiguri, Siliguri or Kolkata, and we will not pretend otherwise. We are three engineers working remotely for clients across India. Ankur Kumar leads full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects and works on data science and automation.",
+        "We do not have an office in Jalpaiguri, Siliguri or Kolkata, and we will not pretend otherwise. We are three engineers working remotely for clients across India. One of us leads full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us manages projects and works on data science and automation.",
         "We start with a WhatsApp chat or call, send a page plan and itemised quote, and share a preview link within the first week or two that you can open on your phone. Photos of rooms, gardens or products can be sent straight from your phone. We work on IST and reply every day of the week, which suits tourism businesses whose busiest days are weekends.",
         "You can <a href=\"/contact/\">contact us here</a>. Bengali voice notes are welcome; we reply in English or Hindi and confirm every decision in writing.",
       ],

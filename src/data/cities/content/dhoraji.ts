@@ -69,7 +69,7 @@ const dhoraji: CityContent = {
       paragraphs: [
         "Dhoraji came into Gondal state in the eighteenth century, when Kumbhaji II took it from Junagadh, and its fort was completed in 1755 with four main gates and three smaller ones. Bhagwatsinhji, the well-known ruler of Gondal, was born in the Darbargadh here. The town kept its merchant character after independence, and today it runs on plastic manufacturing, oil milling, cotton and the farm trade of the surrounding taluka.",
         "That mix shapes the demand for <strong>IT services in Dhoraji</strong>. A plastic unit wants a catalogue that dealers in other states can trust. An oil mill wants to sell packed oil under its own brand. A ginner wants dispatch and payment records that match. Schools, clinics and shops want correct Google listings and fewer repeated phone calls. None of these need a large project to start.",
-        "We are a remote team of three. Ankur Kumar builds full-stack web and app code, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava looks after project management, data science and automation. We have no office in Dhoraji or Rajkot and do not pretend to. Calls and screen shares replace meetings, and every quote and plan arrives in writing.",
+        "We are a remote team of three. One of us builds full-stack web and app code, another of us handles AI, machine learning, AWS and data, and the third of us looks after project management, data science and automation. We have no office in Dhoraji or Rajkot and do not pretend to. Calls and screen shares replace meetings, and every quote and plan arrives in writing.",
       ],
     },
     {

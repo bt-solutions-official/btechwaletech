@@ -54,7 +54,7 @@ const content: FreelanceContent = {
     rows: [
       { label: "What you get", value: "A web app inside LINE, its admin screens, and the review submission" },
       { label: "Typical first features", value: "Member card with barcode, points, reservations, order ahead" },
-      { label: "Who builds it", value: "Ankur (full-stack), Santosh (AWS, data), Vedansh (project lead)" },
+      { label: "Who builds it", value: "One of us (full-stack), another of us (AWS, data), the third of us (project lead)" },
       { label: "Japanese copy", value: "You supply or approve it; we build the screens around it" },
       { label: "Accounts", value: "LINE provider, channels, hosting and repository all in your name" },
       { label: "Payments", value: "PayPay, cards or konbini through a processor you contract with" },
@@ -239,7 +239,7 @@ const content: FreelanceContent = {
         `We build the front end as a lightweight single-page app with the LIFF SDK, and the back end as a small API on your cloud account. The priority is speed on a mid-range phone over a train-station connection.`,
         `For the front end we usually choose React or Vue with a small bundle, because LY Corporation’s performance guidelines are part of the review and a slow first screen is the most common reason customers give up. Japanese web fonts are heavy, so we rely on the phone’s system fonts rather than downloading full font files. Images are compressed and sized for phone screens.`,
         `The back end is typically Node.js or Python on AWS, with a managed database such as PostgreSQL. We verify every LIFF ID token on the server rather than trusting the user ID sent from the browser, which prevents someone from impersonating another member. Webhooks from your POS or payment processor are signed and checked.`,
-        `In our LINE MINI App development work, hosting sits in your cloud account, with the Tokyo region as the default choice so data stays close to your customers. Santosh handles the AWS setup, monitoring and backups, and the whole stack is documented so another developer could take it over.`,
+        `In our LINE MINI App development work, hosting sits in your cloud account, with the Tokyo region as the default choice so data stays close to your customers. Another of us handles the AWS setup, monitoring and backups, and the whole stack is documented so another developer could take it over.`,
       ],
     },
     {

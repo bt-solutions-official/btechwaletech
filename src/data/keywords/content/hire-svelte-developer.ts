@@ -235,7 +235,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Almost anywhere. SvelteKit uses adapters, small plugins that prepare the built app for a specific target. The official adapters cover Node servers, static hosting, Vercel, Netlify and Cloudflare, according to the SvelteKit documentation.`,
         `This flexibility helps you control running costs. A marketing site built with the static adapter is plain files that can sit on a CDN at very low cost. A web app with logins might use the Node adapter on a small cloud server or container, or a serverless platform if traffic is spiky. You can switch adapters later without rewriting the app, which reduces lock-in.`,
-        `We set up hosting in your own account, never ours. For Indian businesses with users mostly in India, we often suggest a cloud region in Mumbai or Hyderabad for server-rendered apps, and a CDN for static assets. For audiences abroad, a global CDN or edge platform keeps pages quick everywhere. Our team member Santosh handles AWS and cloud setup, so hosting is part of the same project, not a separate hire.`,
+        `We set up hosting in your own account, never ours. For Indian businesses with users mostly in India, we often suggest a cloud region in Mumbai or Hyderabad for server-rendered apps, and a CDN for static assets. For audiences abroad, a global CDN or edge platform keeps pages quick everywhere. Our team member another of us handles AWS and cloud setup, so hosting is part of the same project, not a separate hire.`,
       ],
     },
     {

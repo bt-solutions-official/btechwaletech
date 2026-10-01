@@ -69,7 +69,7 @@ const nokha: CityContent = {
       paragraphs: [
         "Nokha is one of the few Rajasthan towns with a birth date. Maharaja Ganga Singh established it on 19 September 1927 as a krishi mandi for the Bikaner state, and it was laid out on a planned grid that residents still compare with Chandigarh. People also call it Dharam Nagri. Nearly a century later, the mandi, the factories that grew around it and the shops that serve a wide desert hinterland are still its backbone.",
         "Requests for <strong>IT services in Nokha</strong> follow that pattern. A bhujia maker wants distributors in other states to order online. A commission agent wants a cleaner lot and payment ledger. A school wants admissions online. A clinic wants to show up when villagers search on their phones.",
-        "Three engineers do the work, all remotely. Ankur Kumar writes the full-stack code; Santosh Sharma looks after AI, machine learning, AWS and data; Vedansh Shrivastava plans the project and handles data science and automation. Your contact with us is a WhatsApp chat, not a call centre.",
+        "Three engineers do the work, all remotely. One of us writes the full-stack code; another of us looks after AI, machine learning, AWS and data; the third of us plans the project and handles data science and automation. Your contact with us is a WhatsApp chat, not a call centre.",
       ],
     },
     {

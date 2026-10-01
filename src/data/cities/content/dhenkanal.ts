@@ -69,7 +69,7 @@ const dhenkanal: CityContent = {
       paragraphs: [
         "Dhenkanal takes its name from Dhenka, a Savara chief who once ruled the area, and the palace of the Bhoi rulers still overlooks the town. Today it is the administrative centre of a district with a mixed economy: paddy, groundnut, cashew and potato on the farms, chrome ore and granite in the ground, and steel, refractory and other plants in and around five IDCO industrial estates.",
         "That mix shapes what people want when they ask about <strong>IT services in Dhenkanal</strong>. A fabrication contractor needs a credible profile for plant purchase teams. A dokra artisan family wants buyers outside Odisha. A coaching centre wants admissions from Kamakhyanagar and Hindol. A lodge near Kapilash wants pilgrims to find it before Shivaratri.",
-        "We are three engineers who work remotely. Ankur Kumar handles full-stack development, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava looks after project management, data science and automation. We have no office in Dhenkanal or anywhere in Odisha. Everything is done over WhatsApp, calls and preview links, and we would rather be honest about that than invent a local address.",
+        "We are three engineers who work remotely. One of us handles full-stack development, another of us leads AI, machine learning, AWS and data work, and the third of us looks after project management, data science and automation. We have no office in Dhenkanal or anywhere in Odisha. Everything is done over WhatsApp, calls and preview links, and we would rather be honest about that than invent a local address.",
       ],
     },
     {

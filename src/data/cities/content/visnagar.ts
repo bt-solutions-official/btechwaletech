@@ -69,7 +69,7 @@ const visnagar: CityContent = {
       paragraphs: [
         "Visnagar's history is written in metal. For generations its workshops beat and shaped copper into pots, water vessels and plates, and the town became known across Gujarat as the copper city. Later, engineering units making submersible pumps and threshers set up here, and the diamond trade found a place too. Since 2016, Sankalchand Patel University and Nootan Medical College have brought a large student population and a hospital campus.",
         "That mix shapes the requests we get for <strong>IT services in Visnagar</strong>. A copperware family wants to sell online to buyers in Mumbai and the United States. A pump maker wants dealers in Banaskantha and Rajasthan to place orders without phoning. A clinic wants patients from surrounding villages to find it on Google Maps. A commission agent at the market yard wants a cleaner ledger.",
-        "We handle all of it as three engineers working remotely. Ankur Kumar builds full-stack web and app code, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava manages projects, data science and automation.",
+        "We handle all of it as three engineers working remotely. One of us builds full-stack web and app code, another of us leads AI, machine learning, AWS and data work, and the third of us manages projects, data science and automation.",
       ],
     },
     {

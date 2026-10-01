@@ -161,7 +161,7 @@ const jehanabad: CityContent = {
       paragraphs: [
         "We have no office in Jehanabad, Patna or anywhere in Bihar, and we do not list an address we do not use. We are three engineers who work remotely for clients across India. Saving on rent and salespeople is what keeps our starting prices low, and it means you speak directly with the people doing the work.",
         "We start with a call on phone or WhatsApp to understand your business. You then get a page plan, timeline and itemised quote in writing. Within a week or two, a preview link comes to your phone, which you can share with your family or partners. Changes go to us on WhatsApp, and small ones are often live the same day. We reply seven days a week, Indian time.",
-        "Ankur Kumar builds full-stack web applications. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles automation and data science. <a href=\"/contact/\">Write to us</a> in Hindi or English.",
+        "One of us builds full-stack web applications. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and handles automation and data science. <a href=\"/contact/\">Write to us</a> in Hindi or English.",
       ],
     },
     {

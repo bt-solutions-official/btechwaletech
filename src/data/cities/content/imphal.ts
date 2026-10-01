@@ -162,7 +162,7 @@ const imphal: CityContent = {
       paragraphs: [
         "We do not have an office in Imphal, and we would not claim one. We are three engineers working remotely for clients across India. Without office rent or sales staff, our prices stay reasonable and you deal directly with the people who build your site.",
         "We start with a WhatsApp conversation or call, then send a page plan, timeline and itemised quote. Within a week or two you receive a preview link to check on your own phone. Feedback happens on WhatsApp, and small changes usually go live the same day. We work on Indian Standard Time and reply seven days a week. If connectivity is disrupted on your side, we simply pick up when you are back online; nothing is lost.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can <a href=\"/contact/\">reach any of us</a> directly.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can <a href=\"/contact/\">reach any of us</a> directly.",
       ],
     },
     {

@@ -30,7 +30,7 @@ const content: FreelanceContent = {
     h1: "Freelance data scientist for analysis, forecasting models and dashboards that people use",
     lede: `A freelance data scientist turns the records your business already keeps, such as invoices, orders, leads and stock movements, into answers you can act on: what will sell next month, which customers are drifting away, where margin leaks. BtechWaleTech is three freelance developers in India, two of whom work on data every week. This page explains what the work involves, how to judge a data scientist, what drives cost (deployed models from ${P.ai}), and why every project starts with a <a href='/freelance-machine-learning-engineer/'>data readiness check</a>.`,
     pills: ["Sales and demand forecasting", "Customer segmentation", "Churn and lead scoring", "Dashboards on live data", "Python, SQL, Power BI", "Data audit first", "Your data, your accounts"],
-    origin: "Santosh Sharma and Vedansh Shrivastava lead data work · Remote from India · IST with overlap for overseas clients",
+    origin: "Another of us and the third of us lead data work · Remote from India · IST with overlap for overseas clients",
   },
   facts: [
     ["Deployed model or automation from", `${P.ai} · ${P.aiUsd}`],
@@ -85,7 +85,7 @@ const content: FreelanceContent = {
     rows: [
       ["Best for", "Continuous, daily modelling work", "Enterprise programmes with many streams", "Defined projects with a clear business question"],
       ["Commitment", "Salary, hiring time, notice period", "Long contracts and statements of work", "Per project, itemised quote"],
-      ["Who does the work", "One person, sometimes alone", "Mixed seniority on rotation", "Santosh and Vedansh, with Ankur for app and dashboard builds"],
+      ["Who does the work", "One person, sometimes alone", "Mixed seniority on rotation", "Another of us and the third of us, with one of us for app and dashboard builds"],
       ["Data engineering included", "Often missing", "Separate team", "Pipelines, cleaning and deployment in scope"],
       ["Output", "Depends on the person", "Decks and reports", "Working model, dashboard or tool, plus a plain-language report"],
       ["Starting budget", "Annual salary and overheads", "Usually the highest", `Deployed models from ${P.ai}`],
@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A freelance data scientist is an independent specialist who uses statistics, programming and machine learning to answer questions from data and, often, to predict what happens next. A data analyst mostly describes what already happened: monthly sales by region, top products, returns by courier. A data scientist goes a step further and builds models that forecast, score or group things, then checks how reliable those models are.`,
         `In small businesses the line blurs, and that is fine. Most real projects need both: first an honest description of the numbers, then a model only where it earns its keep. A good freelance data scientist will tell you when a simple chart answers your question and no model is needed at all.`,
-        `The third piece people forget is engineering. A forecast in a notebook helps nobody. It has to run on a schedule, pull fresh data, and land where a manager sees it. On our team, Santosh handles modelling, AWS and pipelines, Vedansh handles data science and automation, and Ankur builds any dashboard or web front end.`,
+        `The third piece people forget is engineering. A forecast in a notebook helps nobody. It has to run on a schedule, pull fresh data, and land where a manager sees it. On our team, another of us handles modelling, AWS and pipelines, the third of us handles data science and automation, and one of us builds any dashboard or web front end.`,
       ],
       list: [
         "Data analyst: describes the past, builds reports and spreadsheets",
@@ -250,7 +250,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A dashboard is only useful if someone looks at it before making a decision. Most unused dashboards fail for the same reasons: too many charts, numbers that do not match the accounts team, and slow loading on a phone.`,
         `We start by asking each user what they decide and when. A branch manager might need yesterday's sales against target and today's recommended order, nothing more. An owner might need cash, margin and top risks for the week. Each gets a focused page rather than one giant screen.`,
-        `We reconcile totals with your accountant's figures before launch, schedule refreshes, and test on the phones people actually carry. Where Power BI licences are not worth it, a lightweight web dashboard built by Ankur can be cheaper to run. More detail is on <a href='/dashboard-developer/'>dashboard developer</a>.`,
+        `We reconcile totals with your accountant's figures before launch, schedule refreshes, and test on the phones people actually carry. Where Power BI licences are not worth it, a lightweight web dashboard built by one of us can be cheaper to run. More detail is on <a href='/dashboard-developer/'>dashboard developer</a>.`,
       ],
     },
     {

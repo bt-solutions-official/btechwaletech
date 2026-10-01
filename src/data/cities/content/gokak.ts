@@ -68,7 +68,7 @@ const gokak: CityContent = {
       heading: "IT services in Gokak: what a town at the river confluence actually needs",
       paragraphs: [
         "Gokak is the second-largest commercial centre in Belagavi district and serves a wide rural hinterland. Farmers, cane contractors, students and patients from surrounding villages come here to buy, study and get treated. Increasingly they check a phone first: which shop has stock, which doctor sits on Tuesday, where to order karadantu for a wedding, whether a college has seats left.",
-        "Most enquiries we receive for <strong>IT services in Gokak</strong> are modest and specific. An owner wants a Kannada website, a correct Google Maps pin, a way to take orders on WhatsApp, or a simple record of trips and payments that the whole family can see. We handle all of this as a remote team of three: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation.",
+        "Most enquiries we receive for <strong>IT services in Gokak</strong> are modest and specific. An owner wants a Kannada website, a correct Google Maps pin, a way to take orders on WhatsApp, or a simple record of trips and payments that the whole family can see. We handle all of this as a remote team of three: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation.",
         "We do not have an office in Gokak, and we say so up front. The work runs on WhatsApp, calls and screen shares, and you receive written plans at every step. That arrangement keeps our starting prices low and means you never have to drive to Belagavi or Hubballi for a meeting.",
       ],
     },
@@ -158,7 +158,7 @@ const gokak: CityContent = {
       id: "remote-team-gokak",
       heading: "How our remote IT team works with Gokak clients",
       paragraphs: [
-        "We are three engineers working remotely, with no office in Gokak or anywhere else, so paper trail replaces the handshake. Ankur Kumar builds the websites and web apps, Santosh Sharma handles AI, cloud and data work, and Vedansh Shrivastava plans the project and the automation. After an opening call about your trade and your buyers, you get a written outline of pages or app screens, the dates, and a costed list of every item.",
+        "We are three engineers working remotely, with no office in Gokak or anywhere else, so paper trail replaces the handshake. One of us builds the websites and web apps, another of us handles AI, cloud and data work, and the third of us plans the project and the automation. After an opening call about your trade and your buyers, you get a written outline of pages or app screens, the dates, and a costed list of every item.",
         "Nothing starts until you sign off on that list, and nothing is billed before then either. As work moves, you receive preview links that open on any phone, so you can pass them around the family or show a partner at the shop. Any Kannada wording is sent to you to read first, because a spelling slip on a sweets box label or a school notice is the kind of thing customers remember.",
         "WhatsApp is our main line, answered all seven days on Indian time. When something runs late, you hear it the day we find out, along with the new date. Payments follow milestones you can see working, which keeps the risk small for a family firm going online for the first time.",
       ],

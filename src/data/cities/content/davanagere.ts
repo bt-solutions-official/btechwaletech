@@ -177,7 +177,7 @@ const davanagere: CityContent = {
       paragraphs: [
         "We have no office in Davanagere, and we will not claim an address we do not have. BtechWaleTech is three engineers working remotely for clients across India. Without office rent and salespeople, our prices stay reasonable, and you speak directly with the people building your project.",
         "It starts with a WhatsApp conversation or call about your business. We follow with a written plan, timeline and itemised quote. After approval, you get a preview link within the first week or two, which you can check on your phone and share with partners, doctors or college management. Feedback comes by WhatsApp, and small changes are often made the same day. We reply every day of the week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, ML, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science solutions. All three can be reached directly.",
+        "One of us leads full-stack development. Another of us handles AI, ML, AWS and data work. The third of us manages projects and builds automation and data science solutions. All three can be reached directly.",
       ],
     },
     {

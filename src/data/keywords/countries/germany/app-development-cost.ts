@@ -82,7 +82,7 @@ const content: FreelanceContent = {
     columns: ["Cost element", "German app agency", "German freelancer", "BtechWaleTech"],
     rows: [
       ["Day rate basis", "Salaries, social contributions, office, sales, margin", "Own rate, own insurance and pension", "Indian cost base, remote only"],
-      ["Project management", "Separate PM, often billed", "Freelancer manages alone", "Vedansh Shrivastava manages, included in quote"],
+      ["Project management", "Separate PM, often billed", "Freelancer manages alone", "The third of us manages, included in quote"],
       ["Design", "In-house designers", "Often subcontracted", "Screens and prototype included in scope"],
       ["Backend and admin panel", "Included or partner", "Depends on skills", "Built by the same three developers"],
       ["Meetings in person", "Yes", "Often possible", "No; video calls in English"],

@@ -53,7 +53,7 @@ const content: FreelanceContent = {
   snapshot: {
     caption: "Web design for a Christchurch or Canterbury business",
     rows: [
-      { label: "Who builds it", value: "Ankur Kumar (full-stack), Santosh Sharma (AWS, AI, technical SEO), Vedansh Shrivastava (project lead)" },
+      { label: "Who builds it", value: "One of us (full-stack), another of us (AWS, AI, technical SEO), the third of us (project lead)" },
       { label: "Where we work from", value: "India; no Christchurch or Canterbury office" },
       { label: "Sectors we plan for", value: "Construction, trades, manufacturing, agritech, tourism, professional services" },
       { label: "Area coverage", value: "Christchurch suburbs plus Selwyn, Waimakariri, Ashburton, Timaru and beyond" },

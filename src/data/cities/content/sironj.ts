@@ -69,7 +69,7 @@ const sironj: CityContent = {
       paragraphs: [
         "Sironj serves a large rural tehsil. On any market day the town fills with farmers bringing soybean or wheat, families visiting doctors, students heading to college and buyers at cloth, jewellery and hardware shops. More and more of these people open their phones before they set out: which trader is buying today, whether the clinic is open, where to find a particular seed variety.",
         "The requests we get for <strong>IT services in Sironj</strong> reflect that. A commission agent wants a simple page showing contact numbers and the crops he handles. A school wants admission forms that parents can fill on a phone. A coaching centre wants test results sent automatically. A dealer wants his Google Maps pin fixed so tractors stop turning up at the wrong gate.",
-        "We are a remote team of three and have no office in Sironj. Ankur Kumar builds websites and web apps, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. You talk to us on WhatsApp and calls, see progress on preview links, and never need to drive to Bhopal for a meeting.",
+        "We are a remote team of three and have no office in Sironj. One of us builds websites and web apps, another of us handles AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. You talk to us on WhatsApp and calls, see progress on preview links, and never need to drive to Bhopal for a meeting.",
       ],
     },
     {

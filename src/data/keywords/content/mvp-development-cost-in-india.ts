@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `MVP development cost in India should include everything needed for real users to complete one valuable task and for you to measure whether they did. That means the core workflow, sign-up, basic security, analytics, hosting and a way for you to support users. It should not include features that only matter at scale.`,
         `A founder-friendly quote splits the work into lines you can reason about: product design, the core feature, authentication, payments if the test involves money, an admin view, analytics events, hosting setup, app store release if it is a mobile MVP, and support after launch. Each line has a price and a reason.`,
-        `At BtechWaleTech, Vedansh Shrivastava runs the scoping conversation and keeps the feature list honest, Ankur Kumar builds the product end to end, and Santosh Sharma handles cloud setup, data and any AI component. You talk to all three on WhatsApp and in short calls, in English or Hindi.`,
+        `At BtechWaleTech, the third of us runs the scoping conversation and keeps the feature list honest, one of us builds the product end to end, and another of us handles cloud setup, data and any AI component. You talk to all three on WhatsApp and in short calls, in English or Hindi.`,
       ],
       list: [
         "Scoping workshop: what the MVP must prove",

@@ -69,7 +69,7 @@ const venkatagiri: CityContent = {
       paragraphs: [
         "Venkatagiri is a municipal town in Tirupati district, known across the country for one thing above all: its sarees. Fine cotton and silk-cotton weaves with zari borders and jamdani motifs leave the town for Chennai, Hyderabad, Bengaluru and beyond, and buyers far away search for them by the town's name. The weaving trade supports a large part of the population, with master weavers, dyers, zari suppliers, cooperative societies and showrooms all tied to it.",
         "The requests we see for <strong>IT services in Venkatagiri</strong> reflect that. A weaver family wants to sell direct instead of only through traders. A showroom wants an online catalogue that shows real colours. A master weaver wants to track yarn given out and sarees returned. Beyond weaving, schools, clinics, shops and the businesses that serve pilgrims during the Poleramma jatara all want to be found correctly on Google.",
-        "We are a remote team of three engineers. Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. We have no office in Venkatagiri or anywhere else and we say so clearly. The work runs on WhatsApp, calls and screen sharing, with written plans at every step.",
+        "We are a remote team of three engineers. One of us handles full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. We have no office in Venkatagiri or anywhere else and we say so clearly. The work runs on WhatsApp, calls and screen sharing, with written plans at every step.",
       ],
     },
     {
@@ -164,7 +164,7 @@ const venkatagiri: CityContent = {
       id: "remote-team-venkatagiri",
       heading: "How our remote team works with Venkatagiri clients",
       paragraphs: [
-        "With no office in Venkatagiri, we replace face-to-face meetings with clear written records. After a first call about your looms, showroom or business, you receive a written plan of pages or app screens, the timeline and a costed list of each item. Vedansh manages that plan, Ankur builds the website or app, and Santosh takes care of AI, cloud and data work.",
+        "With no office in Venkatagiri, we replace face-to-face meetings with clear written records. After a first call about your looms, showroom or business, you receive a written plan of pages or app screens, the timeline and a costed list of each item. The third of us manages that plan, one of us builds the website or app, and another of us takes care of AI, cloud and data work.",
         "Work begins only after you approve the plan, and no bill is raised before that. You get preview links that open on any phone, so family members and partners can see progress and send comments on WhatsApp. All Telugu text is sent to you for checking before it goes live, because a mistake on a product page reflects on your name.",
         "We reply on WhatsApp seven days a week on Indian time. If anything will be late, you are told the same day with a new date. Payments follow milestones you can see working, which keeps the risk low for a family weaving business going online for the first time.",
       ],

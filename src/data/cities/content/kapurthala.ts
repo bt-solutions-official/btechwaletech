@@ -167,7 +167,7 @@ const kapurthala: CityContent = {
       paragraphs: [
         "We do not have an office in Kapurthala, Jalandhar or anywhere in Punjab, and we will not publish an address we do not have. We are three engineers working remotely across India, which keeps costs down and our starting prices low.",
         "You reach us on WhatsApp or through the <a href=\"/contact/\">contact page</a>. We call to understand your business, then send a page plan, timeline and itemised quote, usually within two working days. After approval you receive a preview link you can open on your phone, or forward to a relative abroad for their opinion. Changes are sent on WhatsApp, and small ones are often done the same day. Because many Kapurthala clients have family in other time zones, we are used to joint calls at convenient hours.",
-        "Ankur Kumar builds the websites and web applications. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on automation and data science. You speak with them directly, seven days a week, on Indian time.",
+        "One of us builds the websites and web applications. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on automation and data science. You speak with them directly, seven days a week, on Indian time.",
       ],
     },
     {

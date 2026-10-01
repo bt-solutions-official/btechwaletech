@@ -167,7 +167,7 @@ const solapur: CityContent = {
       paragraphs: [
         "We do not have an office in Solapur, and we will not pretend to by renting an address. BtechWaleTech is a team of three engineers who work remotely for clients across India. That keeps our prices low and means you speak directly with the people building your website rather than a salesperson.",
         "The process is straightforward. We talk on WhatsApp or a call about your business and goals, then send a written plan, timeline and itemised quote. After approval, you get a live preview link, usually in the first week or two, which you can open on your phone and share with partners. Changes are requested on WhatsApp and small ones are done the same day. We reply every day of the week on Indian time.",
-        "Ankur Kumar builds the websites and backend systems. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and designs automation and data science work. You can reach any of us directly.",
+        "One of us builds the websites and backend systems. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and designs automation and data science work. You can reach any of us directly.",
       ],
     },
     {

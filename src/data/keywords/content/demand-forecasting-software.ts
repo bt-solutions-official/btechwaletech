@@ -256,7 +256,7 @@ const content: FreelanceContent = {
         { heading: "Following months", text: "Overrides and errors are reviewed monthly, the calendar is updated for the coming year, and models are refitted as new data arrives." },
       ],
       after: [
-        `Santosh handles data and models, Ankur builds integrations and any buyer screens, and Vedansh runs the schedule and your weekly review call.`,
+        `Another of us handles data and models, one of us builds integrations and any buyer screens, and the third of us runs the schedule and your weekly review call.`,
       ],
     },
     {

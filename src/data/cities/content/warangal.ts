@@ -151,7 +151,7 @@ const warangal: CityContent = {
       paragraphs: [
         "We don't have an office in Warangal, Hanamkonda or Kazipet, and we won't list a borrowed address. We are three engineers working remotely for clients across India. That keeps office rent and sales commission out of your quote, and means you speak with the people doing the work.",
         "It starts with a call or WhatsApp chat about your business. We send a written page plan, timeline and itemised quote. Within one or two weeks, you receive a live preview link to check on your phone, so you comment on a working site rather than a design image. Changes are handled on WhatsApp, and small ones usually go live the same day. We reply seven days a week on Indian time, including during harvest season, when traders are busiest.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You'll know who is responsible for each part, and you can message any of us directly.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You'll know who is responsible for each part, and you can message any of us directly.",
       ],
     },
     {

@@ -222,7 +222,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Sabse sasta nahi, sabse saaf quote chuniye: jismein har feature alag line mein ho, admin panel aur backend likha ho, testing aur store launch shaamil ho, aur code tatha accounts aapke naam hon. Aisa quote baad ke "yeh toh shaamil nahi tha" wale kharche se bachata hai.`,
         `Upwork, Fiverr ya Freelancer.com jaise marketplaces par akele freelancers bhi mil jaate hain; wahan bids alag-alag aati hain aur marketplace apni fees leta hai. Wahan bhi wahi sawaal poochiye: pichla kaam dikhaiye jo Play Store par live ho, backend kaun banayega, aur agar aap beech mein uplabdh na hon toh kya hoga. Portfolio mein live apps dekhiye, sirf screenshots nahi.`,
-        `Humare saath aap seedhe teen developers se baat karte hain: Ankur Kumar full-stack development dekhte hain, Santosh Sharma AI, AWS aur technical SEO, aur Vedansh Shrivastava project management aur automation. Likhit, itemised quote lagbhag 2 working din mein aata hai, aur approval se pehle kuch bill nahi hota. Sawaalon ki list <a href='/questions-to-ask-app-developer/'>questions to ask an app developer</a> par hai.`,
+        `Humare saath aap seedhe teen developers se baat karte hain: one of us full-stack development dekhte hain, another of us AI, AWS aur technical SEO, aur the third of us project management aur automation. Likhit, itemised quote lagbhag 2 working din mein aata hai, aur approval se pehle kuch bill nahi hota. Sawaalon ki list <a href='/questions-to-ask-app-developer/'>questions to ask an app developer</a> par hai.`,
       ],
       list: [
         "Har feature alag line mein, din ke saath",

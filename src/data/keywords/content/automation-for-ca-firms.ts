@@ -325,7 +325,7 @@ const content: FreelanceContent = {
       id: "working-with-us",
       heading: "Working with BtechWaleTech on automation for CA firms",
       paragraphs: [
-        `Three freelance developers build and look after every workflow: Ankur Kumar handles full-stack development and any client portal, Santosh Sharma handles AI extraction, data pipelines and cloud setup, and Vedansh Shrivastava manages the project and the automation logic. You talk to the people writing the code.`,
+        `Three freelance developers build and look after every workflow: one of us handles full-stack development and any client portal, another of us handles AI extraction, data pipelines and cloud setup, and the third of us manages the project and the automation logic. You talk to the people writing the code.`,
         `We work remotely with practices anywhere in India, in English or Hindi, and reply on WhatsApp seven days a week during Indian hours. Screen-share sessions replace office visits; we do not visit sites, install hardware or give tax or legal advice. Payment is by UPI or bank transfer against an itemised quote you approve in writing first.`,
         `If you also want more clients, pair automation with visibility: <a href='/seo-for-chartered-accountants/'>SEO for chartered accountants</a> covers how practices get found on Google, and an <a href='/ai-sales-agent/'>AI sales agent</a> can answer first enquiries about your services on WhatsApp before a partner calls back.`,
       ],

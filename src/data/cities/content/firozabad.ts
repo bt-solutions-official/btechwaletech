@@ -177,7 +177,7 @@ const firozabad: CityContent = {
       paragraphs: [
         "We do not have an office in Firozabad, and we will not print a borrowed local address to seem nearby. We are three engineers who work remotely for businesses across India. That keeps your price free of rent and sales commissions, and you deal directly with the people doing the work.",
         "We begin with a phone call or WhatsApp chat about what you sell and who buys it. You then receive a page plan, timeline and itemised quote. Within the first week or two you get a live link to the site in progress, which you check on your own phone, and you send changes by message, even as voice notes in Hindi if that is easier. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma looks after AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on data science and automation.",
+        "One of us handles full-stack development. Another of us looks after AI, machine learning, AWS and data work. The third of us manages projects and works on data science and automation.",
       ],
     },
     {

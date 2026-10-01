@@ -161,7 +161,7 @@ const tenali: CityContent = {
       paragraphs: [
         "We do not have an office in Tenali, Guntur or Vijayawada, and we say so openly. We are three engineers working remotely for clients across India, which keeps our rates lower than an agency paying rent and sales staff. You speak directly to the people building your site.",
         "We start with a phone call, then send a page plan, timeline and itemised quote. Within one or two weeks you receive a live link to test on your own phone and share with family or partners. Changes come to us on WhatsApp, small ones are often done the same day, and we reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. <a href=\"/contact/\">Contact us</a> and you will hear back from one of the three.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. <a href=\"/contact/\">Contact us</a> and you will hear back from one of the three.",
       ],
     },
     {

@@ -53,7 +53,7 @@ const content: FreelanceContent = {
   snapshot: {
     caption: "Web design for an Auckland business, remote-first",
     rows: [
-      { label: "Who builds it", value: "Ankur Kumar (full-stack), Santosh Sharma (AI, AWS, technical SEO), Vedansh Shrivastava (project management)" },
+      { label: "Who builds it", value: "One of us (full-stack), another of us (AI, AWS, technical SEO), the third of us (project management)" },
       { label: "Where we are", value: "India; no Auckland office, no site visits" },
       { label: "Meeting times", value: "Auckland afternoons on video, or WhatsApp any day" },
       { label: "Typical Auckland build", value: "Service pages plus suburb pages for North Shore, West and South Auckland" },
@@ -84,7 +84,7 @@ const content: FreelanceContent = {
     rows: [
       ["How the price is built", "Developer time plus office, sales and account management", "One person's rate and availability", `Developer time only; from ${P.site}`],
       ["Face-to-face meetings", "Easy; they can visit your premises", "Often possible", "Video calls only, booked in your afternoon"],
-      ["Who writes the code", "Varies; sometimes outsourced", "The designer, or a contractor", "Ankur, Santosh or Vedansh directly"],
+      ["Who writes the code", "Varies; sometimes outsourced", "The designer, or a contractor", "One of us, another of us or the third of us directly"],
       ["Suburb and multi-location SEO", "Common in larger agencies", "Depends on the person", "Built into the SEO site plan"],
       ["Holiday and sick cover", "A bench of staff", "Work pauses", "Three people share the project"],
       ["Local photography and shoots", "Often in-house or arranged", "Sometimes", "You supply photos or hire a local photographer"],
@@ -167,7 +167,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You rank in Auckland by being more relevant and more trustworthy than the other businesses in your category for each specific search, not by being “the best web design” on paper. Auckland has more competitors per category than anywhere else in New Zealand, so the basics that win in a smaller town are only the entry ticket here.`,
         `In practice that means four layers. First, a technically clean site that Google can crawl and that passes Core Web Vitals on mobile. Second, page structure that matches how people search: service pages plus suburb pages, linked sensibly. Third, a complete Google Business Profile with correct categories, photos and steady reviews. Fourth, consistent listings on New Zealand directories and industry bodies.`,
-        `Santosh Sharma handles the technical SEO side of our builds, so the site is ready for this work on launch day rather than patched later. If you want ongoing work after launch, our <a href='/new-zealand/seo-services/'>SEO services for NZ businesses</a> start from ${P.seo}.`,
+        `Another of us handles the technical SEO side of our builds, so the site is ready for this work on launch day rather than patched later. If you want ongoing work after launch, our <a href='/new-zealand/seo-services/'>SEO services for NZ businesses</a> start from ${P.seo}.`,
         `Nobody can honestly guarantee a ranking position in Auckland or anywhere else, because Google decides its results. What a good web design Auckland partner can promise is visible, logged work and a site that gives you a fair chance.`,
       ],
     },
@@ -251,7 +251,7 @@ const content: FreelanceContent = {
       heading: "What happens in the first two weeks of an Auckland web design project?",
       paragraphs: [
         `In the first two weeks you agree the scope, see the page plan and approve a design direction. By the end of week two a static site is usually built on staging; larger SEO sites are well into their page templates.`,
-        `Here is how those days usually run for an Auckland client. Day one is a WhatsApp chat or a call where we learn what you sell, which suburbs matter and what the current site gets wrong. Within about two working days you receive an itemised quote. Once approved, Vedansh sets up a shared checklist, and you add us as users on your domain, hosting and analytics accounts.`,
+        `Here is how those days usually run for an Auckland client. Day one is a WhatsApp chat or a call where we learn what you sell, which suburbs matter and what the current site gets wrong. Within about two working days you receive an itemised quote. Once approved, the third of us sets up a shared checklist, and you add us as users on your domain, hosting and analytics accounts.`,
         `Days three to six cover the sitemap and suburb page plan, plus a design for the home page and one inner page. You comment on it in writing or on a short afternoon call. Days seven to ten are for building templates and loading your content. From there it is review rounds on a staging link you can open on your own phone.`,
       ],
       list: [

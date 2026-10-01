@@ -69,7 +69,7 @@ const mahnarBazar: CityContent = {
       paragraphs: [
         "Mahnar Bazar is a municipality and the headquarters of both a sub-division and a block in Vaishali district. For the villages around it, from Hasanpur Basahi and Chamrahra to Mahindwara and Lodipur, it is the place to buy seed and cement, see a doctor, register land, open a bank account or pick up clothes for a wedding. The town has its own police station, land registration office, government hospital and veterinary hospital, and several national banks keep branches here.",
         "That role as a service town decides what local businesses need online. A Mahnar shopkeeper rarely wants a showy website. He wants people in the villages to find his number, check whether an item is in stock and send an order on WhatsApp without making the trip. Our work on <strong>IT services in Mahnar Bazar</strong> starts from that plain need and grows only when the business does.",
-        "We are three engineers working remotely. Ankur Kumar builds websites and web apps, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava plans each project and the automation behind it. There is no Mahnar office. In its place you get written plans, preview links you can open on any phone and a WhatsApp line that is answered seven days a week.",
+        "We are three engineers working remotely. One of us builds websites and web apps, another of us handles AI, machine learning, AWS and data work, and the third of us plans each project and the automation behind it. There is no Mahnar office. In its place you get written plans, preview links you can open on any phone and a WhatsApp line that is answered seven days a week.",
       ],
     },
     {

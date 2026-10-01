@@ -69,7 +69,7 @@ const sidlaghatta: CityContent = {
       paragraphs: [
         "Most of Sidlaghatta earns its living from one fibre. Farmers in the surrounding villages grow mulberry and rear silkworms; the cocoons come to the government market in town; reelers buy them at auction, boil and reel them into raw silk; twisters and traders then send that yarn onward to weaving centres. Around this chain sit dairies, vegetable growers, schools, clinics, transporters and the shops that serve all of them.",
         "A request for <strong>IT services in Sidlaghatta</strong> therefore rarely looks like a city start-up brief. It is a reeler who wants to know which lots actually made money, a trader who is tired of sending the same rate message to forty weavers, a chawki centre that loses bookings when the phone is busy, or a clinic that wants patients to stop turning up on the wrong day.",
-        "We are a group of three. Ankur Kumar writes the full-stack code, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. None of us sits in an office in Sidlaghatta, and we do not pretend otherwise; everything is agreed on WhatsApp, calls and shared screens, and confirmed in writing.",
+        "We are a group of three. One of us writes the full-stack code, another of us handles AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. None of us sits in an office in Sidlaghatta, and we do not pretend otherwise; everything is agreed on WhatsApp, calls and shared screens, and confirmed in writing.",
       ],
     },
     {

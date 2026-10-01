@@ -165,7 +165,7 @@ const morena: CityContent = {
       id: "remote-team-morena",
       heading: "Three engineers, no Morena office, and why that works",
       paragraphs: [
-        "We do not have an office in Morena, and we will not borrow an address to pretend otherwise. BtechWaleTech is a remote team of three engineers. Ankur Kumar develops the websites and web applications from design to deployment. Santosh Sharma looks after AI, machine learning, AWS and data work. Vedansh Shrivastava manages each project, keeps the schedule honest and builds automation and data-science pieces.",
+        "We do not have an office in Morena, and we will not borrow an address to pretend otherwise. BtechWaleTech is a remote team of three engineers. One of us develops the websites and web applications from design to deployment. Another of us looks after AI, machine learning, AWS and data work. The third of us manages each project, keeps the schedule honest and builds automation and data-science pieces.",
         "The process is simple. We ask about your customers first, then send a written page plan, timeline and itemised quote, usually within two working days. After approval you get a live preview link to open on your own phone and share with a brother, partner or accountant. Feedback comes on WhatsApp, and small corrections often go live the same day.",
         "We work on Indian time and reply seven days a week, which suits mill owners who are at the mandi all morning and shopkeepers who only have time after closing. You always know who is working on your project and can reach that person directly.",
       ],

@@ -76,7 +76,7 @@ const uravakonda: CityContent = {
       paragraphs: [
         "Uravakonda is the headquarters of its mandal and the place where villages across Vidapanakal, Vajrakarur, Beluguppa and Kudair come for their real business. A farmer sells kernels here, buys seed and gypsum here, admits a child in a junior college here, and takes an ailing parent to a clinic here. Almost every one of those decisions now starts with a phone search or a WhatsApp message.",
         "That is why the requests we get for <strong>IT services in Uravakonda</strong> are practical rather than grand. An input dealer wants a page that lists brands and pack sizes so buyers stop calling to ask. A commission agent wants his purchase register on a phone instead of on a rate-diary that goes missing. A lab wants its map pin corrected. A tuition centre wants admission enquiries to land in one place.",
-        "We handle all of that as three engineers working remotely. Ankur Kumar writes the websites and web applications, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project planning, data science and automation. There is no office in Uravakonda, Guntakal or Anantapur, and we would rather say that at the start than let you discover it later.",
+        "We handle all of that as three engineers working remotely. One of us writes the websites and web applications, another of us handles AI, machine learning, AWS and data work, and the third of us runs project planning, data science and automation. There is no office in Uravakonda, Guntakal or Anantapur, and we would rather say that at the start than let you discover it later.",
         "Working this way keeps our starting prices where a mandal-town business can reach them. You do not travel, we do not bill for travel, and the whole job runs on WhatsApp, calls, screen shares and written notes you can keep.",
       ],
     },
@@ -167,7 +167,7 @@ const uravakonda: CityContent = {
         "WhatsApp carries most of the day's business here. Farmers ask today's rate, retailers ask whether a fertiliser batch has landed, parents ask about admissions, patients ask whether the doctor is sitting. The same handful of questions arrive dozens of times, and often at six in the morning or ten at night.",
         "<strong>AI and WhatsApp automation in Uravakonda</strong> takes that repetition off you. A Telugu-speaking assistant replies with the facts you have given it — rates as you update them, stock status, timings, fees, directions — records enquiry details into a Google Sheet or your own software, and hands over to you the moment a conversation turns into a negotiation. It runs on the official WhatsApp Business platform so your number stays safe.",
         "We start by reading a sample of your real chats, with your permission, to see which questions are worth automating and which must always reach a human. Anything the assistant has not been given facts about, it says it does not know instead of guessing. For a trading business that distinction is not optional.",
-        "Automation work starts at ₹40,000 and usually takes two to four weeks. Santosh Sharma builds and tunes these assistants, and we hand you the rate or price sheet that drives the answers so you control what it says.",
+        "Automation work starts at ₹40,000 and usually takes two to four weeks. Another of us builds and tunes these assistants, and we hand you the rate or price sheet that drives the answers so you control what it says.",
       ],
     },
     {
@@ -186,7 +186,7 @@ const uravakonda: CityContent = {
         "The arrangement is simple to describe. We are three people, we work from our own desks, and there is no office here — so instead of a handshake you get documents. The first call is about your trade, your buyers and what is going wrong today. What comes back is a written outline of pages or app screens, a date for each stage, and a costed list where every item stands on its own line.",
         "Work begins after you approve that list, and nothing is billed before your approval. From then on you get preview links that open on any phone, which matters in a town where a decision often involves a brother, a partner and an accountant who are all in different places. Telugu wording is always sent to you to read before it goes live, because a spelling mistake on a college notice or an oil label is remembered far longer than it should be.",
         "WhatsApp is the working channel, answered seven days a week on Indian time. If something slips, you hear about it the day we know, with a revised date rather than an excuse. Payments are tied to stages you can see working, so your exposure at any moment stays small.",
-        "For anything involving money — purchase registers, dues, checkout — we test with your real numbers in a sandbox before launch, and Vedansh Shrivastava walks your staff through it on a call.",
+        "For anything involving money — purchase registers, dues, checkout — we test with your real numbers in a sandbox before launch, and the third of us walks your staff through it on a call.",
       ],
     },
     {

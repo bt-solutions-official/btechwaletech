@@ -315,7 +315,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Straightforward: you create the API credentials in your bol.com seller account and share access securely, we build and test, and we talk on WhatsApp and short calls. India is three and a half hours ahead of Dutch summer time and four and a half in winter, which gives a shared working window from your late morning onward.`,
         `You receive an itemised USD quote within about two working days. Nothing is billed before you approve it in writing, and payment goes in milestones by Wise, bank wire or PayPal, with invoices issued from India. We work in English; Dutch product or customer texts come from you.`,
-        `The integration service runs in a cloud account in your name, the code lives in your repository, and credentials can be rotated by you whenever you like. Our three-person setup means Ankur writes the integration, Santosh hosts and monitors it, and Vedansh plans the rollout and automations, so there is always someone who knows the code.`,
+        `The integration service runs in a cloud account in your name, the code lives in your repository, and credentials can be rotated by you whenever you like. Our three-person setup means one of us writes the integration, another of us hosts and monitors it, and the third of us plans the rollout and automations, so there is always someone who knows the code.`,
       ],
       after: [
         `For more on how a remote offshore team fits alongside your staff, see <a href='/offshore-web-development-team/'>offshore web development team</a>.`,

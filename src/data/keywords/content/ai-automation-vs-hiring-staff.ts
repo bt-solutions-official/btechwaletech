@@ -223,7 +223,7 @@ const content: FreelanceContent = {
         { heading: "AI step", text: "A language model reads text or images and returns structured fields, a category or a draft reply. We choose the model by accuracy on your samples and running cost." },
         { heading: "Rules and checks", text: "Plain code validates totals, formats and duplicates, because rules are cheaper and more predictable than AI where they work." },
         { heading: "Destinations", text: "Google Sheets, Tally import files, your CRM, a database or a small dashboard, plus WhatsApp or email notifications." },
-        { heading: "Hosting", text: "A small cloud server or serverless functions on an account in your name, set up by Santosh, who handles our AWS and data work." },
+        { heading: "Hosting", text: "A small cloud server or serverless functions on an account in your name, set up by another of us, who handles our AWS and data work." },
       ],
       after: [`Tools such as <a href='/n8n-automation-expert/'>n8n</a> or Make fit simple flows; custom Python code fits heavy document work. We pick by maintenance cost, not fashion.`],
     },

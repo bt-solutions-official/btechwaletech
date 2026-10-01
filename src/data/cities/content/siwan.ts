@@ -170,7 +170,7 @@ const siwan: CityContent = {
       paragraphs: [
         "We do not have an office in Siwan, Patna or anywhere in Bihar, and we will not show a false address to seem local. BtechWaleTech is three engineers working remotely for clients across India. Having no rent or sales team keeps our starting prices lower and puts you in direct contact with the people doing the work.",
         "Projects run over WhatsApp, calls and screen sharing. After a first conversation we send a page plan, timeline and itemised quote, usually within two working days. Once you approve it, you get a preview link to open on your own phone, forward to family members abroad, and comment on through messages or voice notes. Small changes are typically done the same day.",
-        "Ankur Kumar builds sites and applications end to end. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science tools. You can <a href=\"/contact/\">message us</a> any day of the week.",
+        "One of us builds sites and applications end to end. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data science tools. You can <a href=\"/contact/\">message us</a> any day of the week.",
       ],
     },
     {

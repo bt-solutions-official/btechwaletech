@@ -70,7 +70,7 @@ const nakodar: CityContent = {
       paragraphs: [
         "Few towns of Nakodar's size have such a spread-out customer base. A property dealer here may be showing a plot to a buyer in Surrey, a clinic may be booking a check-up for a parent on behalf of a son in Birmingham, and a coaching centre may be counselling a student whose sister already studies in Winnipeg. The shop is in Punjab; the person paying often is not.",
         "That changes what <strong>IT services in Nakodar</strong> need to do. A website has to answer questions without a phone call, because the caller is asleep when the shop is open. Prices, documents required, timings and photographs of the actual premises matter more than design flourishes. A WhatsApp number that someone actually answers matters most of all.",
-        "We are a three-person remote team. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Nakodar or in Jalandhar, and we do not pretend to. Every plan, quote and handover note is sent to you in writing so that family members here and abroad can read the same document.",
+        "We are a three-person remote team. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data work, and the third of us runs project management, data science and automation. We have no office in Nakodar or in Jalandhar, and we do not pretend to. Every plan, quote and handover note is sent to you in writing so that family members here and abroad can read the same document.",
       ],
     },
     {

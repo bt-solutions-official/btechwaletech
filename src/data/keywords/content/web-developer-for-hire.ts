@@ -155,10 +155,10 @@ const content: FreelanceContent = {
         `Here is how our week one usually runs on a business website. The exact split changes for stores and web apps, where the first week leans towards data and screens.`,
       ],
       subs: [
-        { heading: "Day 1: kick-off", text: "A short video or phone call with Vedansh to confirm goals, pages, deadline and who approves what. You get a written summary on WhatsApp the same day." },
+        { heading: "Day 1: kick-off", text: "A short video or phone call with the third of us to confirm goals, pages, deadline and who approves what. You get a written summary on WhatsApp the same day." },
         { heading: "Day 2: sitemap and content map", text: "Every page listed with its purpose and the action a visitor should take. You approve or edit it before design begins." },
         { heading: "Days 3–4: design direction", text: "Home page layout on mobile first, colours and type. One round of comments is built in here, so changes are cheap." },
-        { heading: "Day 5: staging link", text: "Ankur puts the first pages on a private staging URL you can open on your own phone. Santosh sets up hosting and the domain plan in your name." },
+        { heading: "Day 5: staging link", text: "One of us puts the first pages on a private staging URL you can open on your own phone. Another of us sets up hosting and the domain plan in your name." },
       ],
       after: [
         `If content is late, day five shifts but the sitemap and design still happen, so no week is wasted. Compare this with the <a href='/freelance-website-development/'>full build process from sitemap to launch</a>.`,
@@ -258,7 +258,7 @@ const content: FreelanceContent = {
       heading: "Will the site be ready for Google from launch day?",
       paragraphs: [
         `It should be, and it costs little extra when planned in week one. SEO basics belong in the build, not in a later project: clean URLs, one clear heading per page, page titles and descriptions written for searchers, image compression, a sitemap and schema markup for your business type.`,
-        `Santosh sets up Google Search Console and submits the sitemap at launch, then checks that pages are being indexed. We also test Core Web Vitals on a mid-range Android phone over mobile data, because that is how most Indian visitors arrive. A site that scores well on a laptop but stalls on a phone loses enquiries quietly.`,
+        `Another of us sets up Google Search Console and submits the sitemap at launch, then checks that pages are being indexed. We also test Core Web Vitals on a mid-range Android phone over mobile data, because that is how most Indian visitors arrive. A site that scores well on a laptop but stalls on a phone loses enquiries quietly.`,
         `What a web developer for hire cannot do is promise rankings. Rankings depend on competition, content and time. If you want ongoing growth after launch, monthly SEO starts at ${P.seo}, and the <a href='/freelance-seo-expert/'>freelance SEO page</a> explains what that work includes.`,
       ],
     },

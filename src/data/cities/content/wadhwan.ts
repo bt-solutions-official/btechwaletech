@@ -185,7 +185,7 @@ const wadhwan: CityContent = {
       id: "remote-team-surendranagar",
       heading: "A remote team, not a local office",
       paragraphs: [
-        "We have no office in Wadhwan, Surendranagar or anywhere in Gujarat, and we will not pretend otherwise. BtechWaleTech is three engineers working remotely. Ankur Kumar handles full-stack web development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation.",
+        "We have no office in Wadhwan, Surendranagar or anywhere in Gujarat, and we will not pretend otherwise. BtechWaleTech is three engineers working remotely. One of us handles full-stack web development, another of us works on AI, machine learning, AWS and data, and the third of us manages projects, data science and automation.",
         "You describe what you need on WhatsApp or a short call, in Gujarati-flavoured Hindi or English, whichever is easier. Within about two working days you receive an itemised written quote. Nothing starts and nothing is billed until you approve it in writing. During the build you follow progress on a live preview link and send comments from the factory, the shop or the ginning yard.",
         "We reply on WhatsApp seven days a week on Indian Standard Time, including during the cotton season when owners are busiest. Every change and payment milestone is written down, so nobody has to remember what was agreed on a phone call.",
       ],

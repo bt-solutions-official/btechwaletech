@@ -263,7 +263,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `We build a LIMS as a web application on a relational database, hosted in your cloud account, because audit trails, specifications and results are relational data that must stay consistent for years.`,
         `A typical stack is a PostgreSQL database, a server layer in Node.js or Python, and a browser front end that works on lab PCs and tablets at the bench. Barcode printing uses standard thermal label printers; scanning uses ordinary USB scanners that type into the browser. PDFs are generated on the server from locked templates.`,
-        `Hosting runs in a cloud region in India by default, with daily backups, point-in-time recovery, encrypted storage and HTTPS. If your policy requires servers on your own premises, we can deploy there, provided your IT team maintains the machine. Santosh on our team handles the AWS and database side, including monitoring and restore drills.`,
+        `Hosting runs in a cloud region in India by default, with daily backups, point-in-time recovery, encrypted storage and HTTPS. If your policy requires servers on your own premises, we can deploy there, provided your IT team maintains the machine. Another of us on our team handles the AWS and database side, including monitoring and restore drills.`,
         `We avoid exotic frameworks. A LIMS outlives several developers, so the next person who opens the code, whether us or someone you hire, should recognise everything in it. For broader background on this kind of build, see our page on <a href='/web-application-developer/'>web application development</a>.`,
       ],
     },

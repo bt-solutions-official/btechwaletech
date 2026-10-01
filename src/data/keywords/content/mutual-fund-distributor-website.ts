@@ -186,7 +186,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Put reports behind a secure login and let clients help themselves. It reduces your quarter-end messages and looks professional.`,
         `A report page can offer: the latest holdings summary you uploaded or imported, capital gains statements for tax season, SIP schedules, and a request button for anything not available instantly, such as a consolidated account statement. Each file is stored in your cloud account, visible only to that client and your team, and downloads are logged.`,
-        `For practices with many clients, we automate the import: your platform or RTA exports are read on a schedule, matched to client records by PAN or folio, and turned into a clean summary. Santosh handles that data work; it is often the feature clients value most. Automation of this kind starts at ${P.ai} when it sits on existing exports, and grows into the dashboard build when it needs logins and permissions.`,
+        `For practices with many clients, we automate the import: your platform or RTA exports are read on a schedule, matched to client records by PAN or folio, and turned into a clean summary. Another of us handles that data work; it is often the feature clients value most. Automation of this kind starts at ${P.ai} when it sits on existing exports, and grows into the dashboard build when it needs logins and permissions.`,
       ],
     },
     {

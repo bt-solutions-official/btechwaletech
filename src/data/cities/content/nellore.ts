@@ -176,7 +176,7 @@ const nellore: CityContent = {
       paragraphs: [
         "BtechWaleTech does not have an office in Nellore or anywhere else, and we will not rent an address to appear local. We are three engineers who work remotely with businesses across India. That keeps our prices lower and means you talk directly with the people who build your website.",
         "Most projects start with a WhatsApp message or a short call where we learn about your business and customers. We send a written plan, timeline and itemised quote. Once you approve it, a live preview link arrives in the first week or two, which you can open on your phone and share with partners. Changes are requested on WhatsApp and small ones are often done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science workflows. You can message any of us directly.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science workflows. You can message any of us directly.",
       ],
     },
     {

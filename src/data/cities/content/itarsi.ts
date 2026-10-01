@@ -179,7 +179,7 @@ const itarsi: CityContent = {
       id: "remote-team-itarsi",
       heading: "How our remote team works with Itarsi clients",
       paragraphs: [
-        "We have no office in Itarsi, Narmadapuram or anywhere in Madhya Pradesh, and we will not pretend to. BtechWaleTech is three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma looks after AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation.",
+        "We have no office in Itarsi, Narmadapuram or anywhere in Madhya Pradesh, and we will not pretend to. BtechWaleTech is three engineers working remotely. One of us handles full-stack development, another of us looks after AI, machine learning, AWS and data, and the third of us manages projects, data science and automation.",
         "You explain what you need on WhatsApp or a short call. In about two working days you get a written, itemised quote. Nothing starts and nothing is billed until you approve it in writing. During the build you follow progress on a live preview link and send comments whenever you have a spare moment, whether from the shop, the godown or the mandi.",
         "We reply on WhatsApp seven days a week on Indian Standard Time, and every change and payment milestone is written down. For the <a href=\"/services/web-development/\">web development</a> side, you can see examples and our process before you decide, and you can <a href=\"/contact/\">contact us</a> with a rough idea rather than a finished brief.",
       ],

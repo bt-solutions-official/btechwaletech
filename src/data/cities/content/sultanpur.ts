@@ -183,7 +183,7 @@ const sultanpur: CityContent = {
       id: "remote-team-sultanpur",
       heading: "The team behind your site and how we work",
       paragraphs: [
-        "We have no office in Sultanpur, and we will not pretend to. BtechWaleTech is three engineers working remotely for clients across India. Ankur Kumar builds websites and web applications from start to finish. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects, keeps timelines realistic and builds automation and data-science components.",
+        "We have no office in Sultanpur, and we will not pretend to. BtechWaleTech is three engineers working remotely for clients across India. One of us builds websites and web applications from start to finish. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects, keeps timelines realistic and builds automation and data-science components.",
         "You start with a WhatsApp or video call about your customers. Within about two working days you receive a written page plan, timeline and itemised quote. Once you approve, you get a live preview link to check on your phone and forward to partners. Feedback comes over WhatsApp, and small edits are often live the same day.",
         "We work on Indian time and reply seven days a week, which suits institute owners who are busiest in the evening and traders who close late. A named engineer stays responsible for your project throughout.",
       ],

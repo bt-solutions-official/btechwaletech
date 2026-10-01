@@ -69,7 +69,7 @@ const panruti: CityContent = {
       paragraphs: [
         "Panruti is a municipality and taluk headquarters in Cuddalore district, with around sixty thousand people in the 2011 census and a much wider trading reach. Its jackfruit is sold across Tamil Nadu and beyond during the season, and its cashew processing units send kernels to buyers across India and abroad. Neyveli, Cuddalore, Villupuram and Puducherry are all within a short drive.",
         "When people ask us about <strong>IT services in Panruti</strong>, the requests are practical. A cashew exporter wants a website that looks credible to an overseas importer. A jackfruit trader wants retailers in Chennai and Bengaluru to know what he has each week. A textile or jewellery shop wants a correct map pin and a WhatsApp link. A school wants parents to find admission dates and fees online.",
-        "We are a remote team of three with no office in Panruti. Ankur Kumar builds the websites and web apps, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We work on WhatsApp, calls and screen shares, and every plan and price comes to you in writing.",
+        "We are a remote team of three with no office in Panruti. One of us builds the websites and web apps, another of us handles AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We work on WhatsApp, calls and screen shares, and every plan and price comes to you in writing.",
         "Most Panruti clients begin with a simple site and listing, then add a store, an app or automation when the first step is bringing in enquiries.",
       ],
     },

@@ -218,7 +218,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A custom catering management software project usually takes 6–12 weeks. We build it in releases so you use the enquiry and quotation part within the first month, rather than waiting for everything.`,
         `Release one (weeks 1–4) covers enquiries, dishes, packages, quotations and bookings with the date calendar. Release two (weeks 5–8) adds the payment ledger, reminders and the raw material calculator using your recipes. Release three (weeks 9–12) adds staff allocation, event-day screens, expenses and the margin report. Each release goes to a staging link first; your sales person and head cook test it on real enquiries before it goes live.`,
-        `Your part matters as much as ours. We need your packages, a list of dishes, recipes with quantities for the dishes that drive most of your purchase cost, your staff register and a few past bookings to test with. Vedansh plans the releases and runs a short weekly call, Ankur builds the app, and Santosh handles the database, hosting and reports. The build fits around the wedding season: if your peak months are close, we plan go-live before them or just after, never in the middle.`,
+        `Your part matters as much as ours. We need your packages, a list of dishes, recipes with quantities for the dishes that drive most of your purchase cost, your staff register and a few past bookings to test with. The third of us plans the releases and runs a short weekly call, one of us builds the app, and another of us handles the database, hosting and reports. The build fits around the wedding season: if your peak months are close, we plan go-live before them or just after, never in the middle.`,
       ],
     },
     {

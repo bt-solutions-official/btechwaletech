@@ -221,7 +221,7 @@ const content: FreelanceContent = {
       heading: "Tech choices behind a reliable reminder system",
       paragraphs: [
         `The stack is deliberately boring: a small scheduled service, a tiny database and the official WhatsApp Cloud API. Boring runs for years without surprises.`,
-        `We typically write the sync and scheduler in Python or Node.js and run them on a low-cost cloud function or instance in your account, often on AWS where Santosh handles setup. A PostgreSQL or SQLite table holds the reminder queue with a full send history, which doubles as your audit trail. Secrets such as API tokens stay in the cloud provider’s secret store. For clients already on automation tools, n8n can host the workflow, though we keep the business rules in code where they are easier to test.`,
+        `We typically write the sync and scheduler in Python or Node.js and run them on a low-cost cloud function or instance in your account, often on AWS where another of us handles setup. A PostgreSQL or SQLite table holds the reminder queue with a full send history, which doubles as your audit trail. Secrets such as API tokens stay in the cloud provider’s secret store. For clients already on automation tools, n8n can host the workflow, though we keep the business rules in code where they are easier to test.`,
         `Monitoring matters more than cleverness. A daily summary to the owner lists reminders sent, payments received and failed deliveries. An alert fires if the sync hasn’t succeeded for a set number of hours, because a stale list is how paid customers get chased.`,
       ],
     },

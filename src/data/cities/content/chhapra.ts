@@ -166,7 +166,7 @@ const chhapra: CityContent = {
       paragraphs: [
         "We do not have an office in Chhapra, and we will not show a fake local address. We are three engineers working remotely for clients across India. Without rent or a sales team to pay for, we keep prices low, and you speak directly with the people doing the work.",
         "Work begins with a WhatsApp chat or phone call. We then send a written page plan, timeline and itemised quote. Within the first week or two you get a preview link to open on your own phone using mobile data, as your customers will. Feedback can be text or voice notes, and small changes usually go live the same day. We work on IST and reply every day of the week.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science tools. You can contact any of us directly throughout.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science tools. You can contact any of us directly throughout.",
       ],
     },
     {

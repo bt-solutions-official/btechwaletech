@@ -240,7 +240,7 @@ const content: FreelanceContent = {
       heading: "Hosting a Shopware 6 shop for German customers",
       paragraphs: [
         `Host in Germany or elsewhere in the EU, on a provider that offers a data processing agreement (AVV). That keeps latency low for German shoppers and simplifies your GDPR paperwork.`,
-        `Options range from Shopware-optimised managed hosting from German providers to a cloud setup on AWS Frankfurt or a similar EU region. Managed hosting suits most small and mid-sized shops; a cloud build makes sense when you need autoscaling for peaks or already run other systems there. Santosh on our team handles AWS setups and will tell you honestly when managed hosting is the simpler answer.`,
+        `Options range from Shopware-optimised managed hosting from German providers to a cloud setup on AWS Frankfurt or a similar EU region. Managed hosting suits most small and mid-sized shops; a cloud build makes sense when you need autoscaling for peaks or already run other systems there. Another of us on our team handles AWS setups and will tell you honestly when managed hosting is the simpler answer.`,
         `Whatever you choose, the contract is between you and the host. We configure the server, set up staging and production, automate deployments from Git, schedule backups and test that a restore actually works. For a full view of consent, fonts and data transfers on the storefront, see our page on a <a href='/germany/gdpr-compliant-website/'>GDPR-compliant website</a>.`,
       ],
     },

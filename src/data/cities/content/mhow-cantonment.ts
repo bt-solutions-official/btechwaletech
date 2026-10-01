@@ -186,7 +186,7 @@ const mhowCantonment: CityContent = {
       paragraphs: [
         "We have no office in Mhow or Indore. BtechWaleTech is three engineers who work remotely for clients across India, and we would rather say that plainly than show an address we do not use. Without rent or sales staff, our starting prices stay low and you deal directly with the people building your project.",
         "Working together needs no travel. We begin with a call or WhatsApp chat, send a written plan, timeline and itemised quote within about two working days, and start once you approve. You check progress on your own phone through a private link before launch. We answer on WhatsApp seven days a week on Indian time, and small fixes are usually done the same day.",
-        "Ankur Kumar builds full-stack web and app code. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and covers data science and automation. You can <a href=\"/contact/\">contact any of us directly</a>.",
+        "One of us builds full-stack web and app code. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and covers data science and automation. You can <a href=\"/contact/\">contact any of us directly</a>.",
       ],
     },
     {

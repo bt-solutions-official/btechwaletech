@@ -104,7 +104,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A custom AI chatbot is a chat window, on your website or WhatsApp, connected to a language model that answers visitors using your own information, plus the plumbing around it: lead capture, hand-off to staff, logging, privacy controls and a way to keep answers current.`,
         `The model is the part everyone talks about, and the easiest part to buy. What an AI chatbot development company in the UK should really be selling is everything else: preparing your content so the bot can find the right passage, instructions that stop it wandering off-topic, tests that prove it answers correctly, and a route to a person when it cannot. That is where most of the build time goes.`,
-        `With us, Santosh designs the retrieval and model side, Ankur builds the widget, WhatsApp connection and integrations, and Vedansh runs the content gathering and testing with your team. You end up with a bot that runs in your accounts, a document explaining how it works, and a test set you can rerun whenever content changes.`,
+        `With us, another of us designs the retrieval and model side, one of us builds the widget, WhatsApp connection and integrations, and the third of us runs the content gathering and testing with your team. You end up with a bot that runs in your accounts, a document explaining how it works, and a test set you can rerun whenever content changes.`,
       ],
     },
     {

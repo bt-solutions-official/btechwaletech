@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A small business website has one job: bring you more enquiries from the right people at a cost that makes sense. Everything a freelance web developer for small business delivers should serve that job, and anything that does not is optional.`,
         `In concrete terms, that means a site that explains what you do in the first screen, a separate page for each main service or product line, visible proof such as photos of real work or certifications, and at least two easy ways to contact you. Behind the scenes, it means the site is fast on mobile data, appears correctly in Google, and sends every enquiry somewhere you will actually see it.`,
-        `On our side, Ankur builds the site, Santosh sets up hosting, analytics and the technical search side, and Vedansh keeps the plan moving and wires enquiries into WhatsApp or a sheet. You get one WhatsApp thread with all three instead of chasing one person.`,
+        `On our side, one of us builds the site, another of us sets up hosting, analytics and the technical search side, and the third of us keeps the plan moving and wires enquiries into WhatsApp or a sheet. You get one WhatsApp thread with all three instead of chasing one person.`,
       ],
       list: [
         "A clear offer on the first screen, with who it is for and where you serve",

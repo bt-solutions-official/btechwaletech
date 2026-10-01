@@ -297,7 +297,7 @@ const content: FreelanceContent = {
       heading: "Google core update recovery with BtechWaleTech",
       paragraphs: [
         `Message us on WhatsApp with your domain, the date your traffic fell and a screenshot of the Search Console performance chart. With view access, we confirm whether the timing matches a core update and send an itemised recovery quote in about two working days.`,
-        `Santosh Sharma handles the data side: loss maps, query analysis and technical checks. Ankur Kumar handles template, speed and schema changes in your stack. Vedansh Shrivastava manages the content decision log and schedule, so every merge, rewrite and removal is recorded and reversible. You or your specialists supply first-hand material and expert review; we turn it into structured, well-linked pages.`,
+        `Another of us handles the data side: loss maps, query analysis and technical checks. One of us handles template, speed and schema changes in your stack. The third of us manages the content decision log and schedule, so every merge, rewrite and removal is recorded and reversible. You or your specialists supply first-hand material and expert review; we turn it into structured, well-linked pages.`,
         `Recovery work runs as monthly SEO from ${P.seo} (${P.seoUsd}), paid by UPI or bank transfer in India, or by Wise, bank wire or PayPal internationally. Your domain, hosting, Search Console and code stay in your name. If a rebuild is part of the plan, it comes with two months of free maintenance, then maintenance from ${P.care}. We will tell you plainly if we think a full recovery is unlikely, and where your effort would earn more instead.`,
       ],
     },

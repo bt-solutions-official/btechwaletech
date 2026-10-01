@@ -169,7 +169,7 @@ const sambhal: CityContent = {
       paragraphs: [
         "We have no office in Sambhal and we will not pretend to. We are three engineers working remotely for clients across India. Not paying rent or sales staff keeps our prices lower, and you always talk to the person building your site.",
         "Work happens over phone calls, WhatsApp and screen sharing. After a first conversation, you receive a page plan, timeline and itemised quote, usually within two working days. Once approved, you get a private preview link to check on your own phone and show your family or partners. Changes are requested on WhatsApp and small ones are often done the same day. We reply seven days a week.",
-        "Ankur Kumar builds websites and web applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us directly</a> to begin.",
+        "One of us builds websites and web applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us directly</a> to begin.",
       ],
     },
     {

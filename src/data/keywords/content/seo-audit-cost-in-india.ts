@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The SEO audit cost in India buys analyst hours: time spent reading your data, crawling your pages, working out why Google treats them the way it does, and writing a fix list your team can act on. Tools make the crawl fast, but the judgement is what you pay for.`,
         `A cheap report and a proper audit can both be twenty pages long. The difference is what sits behind each line. A tool can flag that 400 pages have duplicate titles; an analyst tells you those 400 pages are filtered category URLs that should not be indexed at all, so the real fix is a canonical and a noindex rule, not 400 new titles.`,
-        `At BtechWaleTech, Santosh Sharma leads audits on the technical SEO and data side, Ankur Kumar reviews anything that needs code changes, and Vedansh Shrivastava turns findings into a prioritised task list with owners and effort estimates. You talk to all three directly on WhatsApp or a call.`,
+        `At BtechWaleTech, another of us leads audits on the technical SEO and data side, one of us reviews anything that needs code changes, and the third of us turns findings into a prioritised task list with owners and effort estimates. You talk to all three directly on WhatsApp or a call.`,
       ],
       list: [
         "Reading your Search Console performance history",

@@ -69,7 +69,7 @@ const mahasamund: CityContent = {
       paragraphs: [
         "Mahasamund is the headquarters of a district that stretches from the Mahanadi towards the Odisha border, taking in Bagbahara, Pithora, Basna and Saraipali. Farmers, traders, students and patients from all of these come to the town for the court, the district offices, the medical college, wholesale markets and the railway station. More and more of those visits begin with a phone search.",
         "The requests we get for <strong>IT services in Mahasamund</strong> are practical. A trader wants his shop to show up correctly on Google Maps. A rice mill wants a proper website that a buyer in another state can check. A hospital wants patients to book on WhatsApp instead of queuing at 7 a.m. A coaching centre wants a parent app. None of this needs a large vendor; it needs people who listen and finish the job.",
-        "We are a remote team of three. Ankur Kumar handles full-stack development, Santosh Sharma looks after AI, machine learning, AWS and data work, and Vedansh Shrivastava manages projects and builds data science and automation pieces. We have no office in Mahasamund and will not pretend otherwise. Calls, screen shares and WhatsApp replace the visits, and every plan and quote is sent to you in writing.",
+        "We are a remote team of three. One of us handles full-stack development, another of us looks after AI, machine learning, AWS and data work, and the third of us manages projects and builds data science and automation pieces. We have no office in Mahasamund and will not pretend otherwise. Calls, screen shares and WhatsApp replace the visits, and every plan and quote is sent to you in writing.",
       ],
     },
     {

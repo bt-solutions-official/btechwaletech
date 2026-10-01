@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A B2B website developer designs for a buyer who is not buying today. The visitor might be a purchase officer shortlisting suppliers, an engineer checking a tolerance, or a founder comparing distributors. They visit several times, forward links to colleagues and eventually send an enquiry. The site has to support that slow, shared decision.`,
         `That changes priorities compared with a consumer site. Clear product data matters more than lifestyle images. The key conversion is a detailed request for quote, not a cart. Trust signals are certificates, test reports, plant or warehouse details, GSTIN and a real address, not influencer quotes. And the enquiry must reach the right salesperson fast, with enough detail to quote.`,
-        `At BtechWaleTech, Vedansh maps your sales process and the questions buyers ask, Ankur builds the catalogue, forms and any portal, and Santosh handles hosting, product data and technical SEO.`,
+        `At BtechWaleTech, the third of us maps your sales process and the questions buyers ask, one of us builds the catalogue, forms and any portal, and another of us handles hosting, product data and technical SEO.`,
       ],
     },
     {

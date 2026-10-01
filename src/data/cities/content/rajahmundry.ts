@@ -168,7 +168,7 @@ const rajahmundry: CityContent = {
       paragraphs: [
         "There is no BtechWaleTech office on Main Road or anywhere else in the city, and we would rather say that plainly than print a borrowed address. The three of us work from different places, connected by the same tools you already use. Because nobody is paying for a showroom or a sales desk, your money goes into the site itself.",
         "A typical project begins with a short conversation on WhatsApp, where you tell us what you sell and who buys it. A written plan of pages, dates and costs follows. Early in the build you get a working link that runs on your own phone, which you can forward to a partner or a son studying in Hyderabad for a second opinion. Corrections can be typed, circled on a screenshot or sent as a Telugu voice note, and minor fixes are often done the same evening. Replies come every day of the week, on IST.",
-        "The team is small enough to name. Ankur Kumar writes the front-end and back-end code. Santosh Sharma looks after AI models, AWS infrastructure and data pipelines. Vedansh Shrivastava plans the work, keeps dates honest and builds the data science and automation pieces.",
+        "The team is small enough to name. One of us writes the front-end and back-end code. Another of us looks after AI models, AWS infrastructure and data pipelines. The third of us plans the work, keeps dates honest and builds the data science and automation pieces.",
       ],
     },
     {

@@ -126,7 +126,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A MongoDB developer designs how data is stored in documents, makes sure every common query is served by an index, and writes the aggregation pipelines that turn raw data into reports. On many teams they also own the cluster: users, network rules, backups and upgrades.`,
         `That is different from a backend developer who happens to use MongoDB. Plenty of apps run on an ORM or ODM like Mongoose with default settings, which works until the data grows. The specialist reads explain plans, knows the difference between a query that examines ten documents and one that examines ten million, and designs so that difference never happens.`,
-        `On our team, Santosh leads data modelling, performance and cloud set-up, Ankur builds the Node.js or Python API and front end, and Vedansh manages the plan, testing and releases. You talk to all three directly.`,
+        `On our team, another of us leads data modelling, performance and cloud set-up, one of us builds the Node.js or Python API and front end, and the third of us manages the plan, testing and releases. You talk to all three directly.`,
       ],
     },
     {

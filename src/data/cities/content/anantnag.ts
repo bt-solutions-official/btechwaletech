@@ -182,7 +182,7 @@ const anantnag: CityContent = {
       id: "remote-team-anantnag",
       heading: "Working with a remote team from Anantnag",
       paragraphs: [
-        "We have no office in Anantnag or anywhere in Kashmir, and we will not list a false local address. We are three engineers who work remotely. Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation.",
+        "We have no office in Anantnag or anywhere in Kashmir, and we will not list a false local address. We are three engineers who work remotely. One of us handles full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us manages projects, data science and automation.",
         "You tell us what you need on WhatsApp or a call. Within about two working days you receive an itemised written quote, and no work starts and nothing is billed until you approve it in writing. You follow progress on a live preview link and send comments when convenient, whether that is between customers or late in the evening.",
         "We reply on WhatsApp seven days a week on Indian Standard Time. If a connection problem delays a reply on your side, the project simply waits; nothing moves forward without your written agreement.",
       ],

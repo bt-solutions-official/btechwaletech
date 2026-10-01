@@ -183,7 +183,7 @@ const udupi: CityContent = {
       id: "remote-team-udupi",
       heading: "How our remote team works with Udupi clients",
       paragraphs: [
-        "BtechWaleTech has no office in Udupi or Manipal, and we will not put a borrowed address on Google to look local. We are three engineers working remotely. Ankur Kumar builds websites and applications end to end. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work.",
+        "BtechWaleTech has no office in Udupi or Manipal, and we will not put a borrowed address on Google to look local. We are three engineers working remotely. One of us builds websites and applications end to end. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work.",
         "We begin by understanding your customers and your seasons: the academic calendar in Manipal, the fishing season at Malpe, the festival calendar at the Matha. Within about two working days you receive a page plan, timeline and itemised quote. After written approval, you get an early preview link to check on your own phone.",
         "We reply seven days a week on Indian time, which suits restaurants and homestays that work weekends. You always know which of us is handling your project and can message that person directly.",
       ],

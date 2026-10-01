@@ -258,7 +258,7 @@ const content: FreelanceContent = {
         `Our evening in India overlaps with Canadian mornings, Eastern and Pacific, so calls happen before your day gets busy and work moves forward while you sleep. WhatsApp handles quick questions seven days a week.`,
         `The first two weeks usually go like this. Day one or two: a 30-minute video call about your services, towns, customers and the calls you want more of. Within about two working days you receive an itemized quote in USD. Once you approve it in writing, you register or confirm the domain and hosting in your name, and we send a short content list: services, areas, hours, photos, a few lines about you.`,
         `Days three to seven: the home page and one service page go up on a private preview link you can open on your phone at the job site. You comment in plain words on WhatsApp or email; no design jargon needed. Days eight to fourteen: the remaining pages, forms, call tracking, Google profile alignment and speed checks, then launch and Search Console submission. Content that arrives late moves the dates, which is the most common delay.`,
-        `Ankur Kumar builds the site, Santosh Sharma handles hosting, tracking and technical SEO, and Vedansh Shrivastava keeps the schedule and checks the finished pages. You talk to the people doing the work. We do not visit premises, we do not give legal or tax advice, and invoices come from India.`,
+        `One of us builds the site, another of us handles hosting, tracking and technical SEO, and the third of us keeps the schedule and checks the finished pages. You talk to the people doing the work. We do not visit premises, we do not give legal or tax advice, and invoices come from India.`,
       ],
     },
     {

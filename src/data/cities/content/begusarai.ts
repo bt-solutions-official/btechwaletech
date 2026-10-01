@@ -166,7 +166,7 @@ const begusarai: CityContent = {
       paragraphs: [
         "We have no office in Begusarai or anywhere else, and we will not invent an address to look local. We are three engineers who work remotely with businesses across India, which keeps our costs low and means you always talk to the person writing your code rather than a salesman.",
         "The process runs on WhatsApp and phone calls. After a first conversation we send a written page plan, timeline and quote. Within the first week or two you receive a preview link to open on your own phone, on mobile data, exactly as your customers will. Feedback goes by message or voice note, and small changes are usually made the same day. We work on IST and reply seven days a week.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science tools. You can reach any of us directly throughout the project.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data science tools. You can reach any of us directly throughout the project.",
       ],
     },
     {

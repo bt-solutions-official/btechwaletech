@@ -168,7 +168,7 @@ const ludhiana: CityContent = {
       paragraphs: [
         "We don't have an office in Ludhiana and we won't use a borrowed address to pretend otherwise. We are three engineers working remotely for businesses across India. You don't pay for our rent or a sales team, and you speak directly with the people building your site or system.",
         "Work starts with a call or WhatsApp conversation about your products and buyers. We send a page plan, timeline and itemised quote. After approval, you get a live preview link within the first week or two, check it on your own phone, and send comments by message. Many small changes go live the same day. We keep Indian hours and reply seven days a week, which suits owners who only have time on Sundays.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on data science and automation.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on data science and automation.",
       ],
     },
     {

@@ -152,7 +152,7 @@ const nagina: CityContent = {
       paragraphs: [
         "We do not have an office in Nagina or anywhere in Bijnor district, and we say so up front. We are three engineers who work remotely for clients across India, which keeps our costs low and means you talk to the person doing the work rather than a sales executive.",
         "The process runs on calls, WhatsApp and screen sharing. We first understand what you sell and to whom, then send a page plan and itemised quote. You receive a live preview link within days and can open it on your own phone, show it to your partners and send changes as voice notes if that is easier. We reply seven days a week during Indian working hours.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma looks after AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science pieces. You can <a href=\"/contact/\">message us directly</a> to begin.",
+        "One of us handles full-stack development. Another of us looks after AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data science pieces. You can <a href=\"/contact/\">message us directly</a> to begin.",
       ],
     },
     {

@@ -178,7 +178,7 @@ const amritsar: CityContent = {
       paragraphs: [
         "We have no office in Amritsar and will not invent one. We are three engineers who work remotely for clients across India. That keeps rent and sales staff out of your quote and puts you in direct contact with the people building your site.",
         "After a call or WhatsApp conversation, you receive a page plan, timeline and itemised quote, usually within two working days. Once you approve it in writing, a live preview link arrives within the first week or two, and you review the real site on your phone. Changes are requested on WhatsApp and small ones are usually live the same day. We work on IST and reply seven days a week.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds data science and automation workflows.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds data science and automation workflows.",
       ],
     },
     {

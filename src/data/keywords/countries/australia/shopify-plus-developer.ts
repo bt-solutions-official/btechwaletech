@@ -85,7 +85,7 @@ const content: FreelanceContent = {
       ["Checkout extensions and Functions", "Yes", "Often not their focus", "Yes, built as a custom app for your store"],
       ["B2B and Markets setup", "Yes", "Sometimes", "Yes, including catalogue imports"],
       ["Strategy workshops and brand design", "Strong", "Limited", "Limited; we build to your brand guide"],
-      ["Who writes the code", "Varies by team", "The freelancer", "Ankur builds, Santosh handles data and SEO, Vedansh runs testing"],
+      ["Who writes the code", "Varies by team", "The freelancer", "One of us builds, another of us handles data and SEO, the third of us runs testing"],
       ["Testing approach", "Usually formal QA", "Varies", "Development store or preview first, test orders on every path"],
       ["Account and code ownership", "Check the contract", "Check what was set up", "Yours: store, apps, repository"],
       ["In-person meetings", "Yes", "Rare", "No; video calls in your afternoon"],
@@ -106,7 +106,7 @@ const content: FreelanceContent = {
         `A Shopify Plus developer works where the Plus plan removes limits: the information, shipping and payment steps of checkout, custom apps containing Shopify Functions, company-level wholesale catalogues and advanced automation. Theme work is the same on every plan; the difference is everything below the theme.`,
         `On a standard plan, most customisation happens in the theme and through public apps. That covers the storefront well. It stops at checkout, and it stops at business logic that no public app handles quite right, such as a discount that depends on the customer's trade tier and the product's supplier at the same time.`,
         `Shopify's documentation is specific about where the lines sit. Apps that customise the information, shipping and payment pages, and the Checkout Branding API, are listed as Plus features. Shopify also says that <a href='https://shopify.dev/docs/api/functions' rel='noopener'>only stores on a Shopify Plus plan can use custom apps that contain Shopify Function APIs</a>, while public apps with Functions work on any plan.`,
-        `So the skills a Shopify Plus developer brings are closer to software development than theme editing: writing and deploying apps with the Shopify CLI, handling GraphQL Admin API data, testing checkout changes before they reach real buyers, and planning how B2B, markets and discounts interact. Ankur does that build work on our team, with Santosh on data and reporting and Vedansh on testing and scheduling.`,
+        `So the skills a Shopify Plus developer brings are closer to software development than theme editing: writing and deploying apps with the Shopify CLI, handling GraphQL Admin API data, testing checkout changes before they reach real buyers, and planning how B2B, markets and discounts interact. One of us does that build work on our team, with another of us on data and reporting and the third of us on testing and scheduling.`,
       ],
     },
     {

@@ -184,7 +184,7 @@ const mahuva: CityContent = {
       id: "remote-it-company",
       heading: "An IT services team in Mahuva without an office: how we work remotely",
       paragraphs: [
-        "We do not have an office in Mahuva, Bhavnagar or anywhere in Gujarat, and we will not pretend to. BtechWaleTech is three engineers who work remotely. Ankur Kumar handles full-stack development of websites and web apps. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava runs project management, data science and automation.",
+        "We do not have an office in Mahuva, Bhavnagar or anywhere in Gujarat, and we will not pretend to. BtechWaleTech is three engineers who work remotely. One of us handles full-stack development of websites and web apps. Another of us works on AI, machine learning, AWS and data. The third of us runs project management, data science and automation.",
         "You describe what you need on WhatsApp or a short call, in Gujarati, Hindi or English. Within about two working days you receive an itemised written quote. Work starts only after you approve it in writing, and nothing is billed before that. During the build you check progress on a live preview link and send comments whenever you find time between auctions or patients.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time. Decisions, changes and payment milestones are recorded in writing so there is never a dispute over what was agreed.",
         "Working remotely keeps our costs down and lets us serve Mahuva, Talaja, Rajula and Savarkundla at the same prices as bigger cities. You can <a href=\"/contact/\">contact us</a> with a rough idea and we will tell you honestly whether it is worth building.",

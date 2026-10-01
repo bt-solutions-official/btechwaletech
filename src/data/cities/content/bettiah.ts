@@ -177,7 +177,7 @@ const bettiah: CityContent = {
       paragraphs: [
         "We have no office in Bettiah, Patna or anywhere in Bihar, and we will not invent an address. We are three engineers working remotely for clients across India, which keeps our prices low and puts you directly in touch with the people building your site.",
         "A project begins with a conversation about your business on the phone or WhatsApp. After that you receive, in writing, a list of pages, the timeline and the quote broken into items. In a week or two a preview link arrives that you can open on your own phone and show your family or staff. Corrections are sent as WhatsApp messages and most small ones go live the same day. Someone answers every day of the week, on Indian time.",
-        "The three of us split the work cleanly. Ankur Kumar writes the full-stack code for websites and web apps. Santosh Sharma looks after AI, machine learning, AWS hosting and data work. Vedansh Shrivastava plans projects, keeps deadlines and builds automation and data science tools. <a href=\"/contact/\">WhatsApp or call us</a> in Hindi or English.",
+        "The three of us split the work cleanly. One of us writes the full-stack code for websites and web apps. Another of us looks after AI, machine learning, AWS hosting and data work. The third of us plans projects, keeps deadlines and builds automation and data science tools. <a href=\"/contact/\">WhatsApp or call us</a> in Hindi or English.",
       ],
     },
     {

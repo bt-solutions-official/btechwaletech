@@ -174,7 +174,7 @@ const nandurbar: CityContent = {
       id: "remote-team-nandurbar",
       heading: "Working with a remote team from Nandurbar",
       paragraphs: [
-        "We do not have an office in Nandurbar, Dhule or anywhere in Khandesh, and we will not pretend otherwise. We are three engineers working remotely: Ankur Kumar builds full-stack applications, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava handles project management, data science and automation.",
+        "We do not have an office in Nandurbar, Dhule or anywhere in Khandesh, and we will not pretend otherwise. We are three engineers working remotely: one of us builds full-stack applications, another of us leads AI, machine learning, AWS and data work, and the third of us handles project management, data science and automation.",
         "You describe your needs on WhatsApp or a quick call. We send an itemised written quote within about two working days. Nothing starts and nothing is billed until you approve in writing, and payments follow agreed milestones.",
         "While we build, you follow progress on a live preview link and comment whenever you like. We reply on WhatsApp seven days a week on Indian Standard Time and keep every decision in writing.",
         "Remote working keeps prices low because there is no local office rent in the quote, and you talk directly to the engineers writing your code. For small businesses and NGOs in Nandurbar, this usually means clearer answers and faster fixes.",

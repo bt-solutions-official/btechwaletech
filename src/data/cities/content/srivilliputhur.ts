@@ -68,7 +68,7 @@ const srivilliputhur: CityContent = {
       heading: "IT services in Srivilliputhur, a temple town with a working economy",
       paragraphs: [
         "Srivilliputhur is known first for the Andal temple, birthplace of the poet-saints Periyalvar and Andal, and its tall tiered tower is the symbol on the Tamil Nadu government emblem. Behind that fame is a practical town: sweet shops, weaving households, textile retailers, schools, hospitals and wholesale traders serving villages between Rajapalayam and Krishnankoil.",
-        "Requests we receive for <strong>IT services in Srivilliputhur</strong> are usually simple and specific. A palkova shop wants to take orders from Chennai and abroad. A weaver wants to sell sarees without a middleman. A lodge wants festival bookings sorted before the crowd arrives. We do this as a remote team of three: Ankur Kumar builds the full-stack systems, Santosh Sharma leads AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation.",
+        "Requests we receive for <strong>IT services in Srivilliputhur</strong> are usually simple and specific. A palkova shop wants to take orders from Chennai and abroad. A weaver wants to sell sarees without a middleman. A lodge wants festival bookings sorted before the crowd arrives. We do this as a remote team of three: one of us builds the full-stack systems, another of us leads AI, machine learning, AWS and data, and the third of us manages projects, data science and automation.",
         "We do not keep an office in Srivilliputhur and never claim to. Everything runs through WhatsApp, phone calls and screen shares, and every step is confirmed in writing. That is also how we keep our starting prices where they are.",
       ],
     },

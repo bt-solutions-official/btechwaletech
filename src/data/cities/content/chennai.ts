@@ -177,7 +177,7 @@ const chennai: CityContent = {
       paragraphs: [
         "We have no office in Chennai and do not use a virtual address to look local. We are three engineers who work remotely with businesses across India. That keeps rent and sales staff out of your quote, and it means the person you message is the person building your site.",
         "Projects follow a simple pattern. A call or WhatsApp chat to understand your business, then a written page plan, timeline and itemised quote. Within the first week or two you get a live preview link you can open on your phone, so you are reviewing a working website rather than a slide. Feedback goes on WhatsApp, and small fixes are usually live the same day. We reply seven days a week on Indian time, which suits owners who only find time for the website on a Sunday.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma looks after AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and handles data science and automation. With three of us, work continues even if one person is unavailable.",
+        "One of us handles full-stack development. Another of us looks after AI, machine learning, AWS and data work. The third of us manages projects and handles data science and automation. With three of us, work continues even if one person is unavailable.",
       ],
     },
     {

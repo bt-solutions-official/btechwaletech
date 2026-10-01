@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Three layers, and most people only picture the first. The visible layer is what members use: sign-up, profiles, a feed of posts, comments and reactions, groups, direct messages and notifications. The operational layer is what you and your moderators use: an admin panel to manage members, a queue of reported content, tools to remove posts and suspend accounts, and reports on activity. The infrastructure layer holds it together: a backend API, a database, media storage and delivery, push notification services and background jobs.`,
         `A social media app developer who only builds the visible layer hands you a community you cannot run. The first time someone posts spam or abuse, you discover there is no way to remove it except asking the developer to delete a database row.`,
-        `On our team, Ankur builds the app and backend, Santosh handles cloud setup on AWS, data and search visibility for the web version, and Vedansh plans the scope and builds automation such as moderation workflows and reporting.`,
+        `On our team, one of us builds the app and backend, another of us handles cloud setup on AWS, data and search visibility for the web version, and the third of us plans the scope and builds automation such as moderation workflows and reporting.`,
       ],
     },
     {

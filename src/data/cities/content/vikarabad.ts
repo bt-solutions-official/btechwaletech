@@ -69,7 +69,7 @@ const vikarabad: CityContent = {
       paragraphs: [
         "Vikarabad became a district headquarters in October 2016, and the town has been growing into that role ever since. New government offices, a medical college that opened in 2023, more private hospitals, schools and coaching centres now draw people from Marpalle, Mominpet, Pudur, Dharur and Nawabpet. Many of them check a phone before they set out: whether a clinic is open on Sunday, which college still has seats, how far a resort is from the Ananthagiri temple.",
         "That is why most requests we see for <strong>IT services in Vikarabad</strong> are practical ones. A shop owner wants a Telugu page and a map pin that lands at the right gate. A resort wants weekend bookings without twenty phone calls. A college wants an admission form that works on a cheap phone. A trader wants to see, at a glance, which buyers still owe money after the season.",
-        "We are an honest fit for that kind of work. There are three of us, working remotely: Ankur Kumar writes the full-stack code, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no Vikarabad office and will not pretend otherwise; plans, previews and quotes reach you on WhatsApp and email.",
+        "We are an honest fit for that kind of work. There are three of us, working remotely: one of us writes the full-stack code, another of us handles AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no Vikarabad office and will not pretend otherwise; plans, previews and quotes reach you on WhatsApp and email.",
       ],
     },
     {
@@ -167,8 +167,8 @@ const vikarabad: CityContent = {
       id: "remote-team-vikarabad",
       heading: "How a Vikarabad project runs with our remote team of three",
       paragraphs: [
-        "Nobody from our side will walk into your shop in Vikarabad, and we would rather say that on the first call than on the tenth. What you get instead is a written trail. After a conversation about your business, Vedansh sends a scope that lists every page, screen or feature, the timeline and the cost of each item. Nothing is billed until you approve it in writing.",
-        "Ankur then builds the site or app, and Santosh joins wherever there is AI, cloud hosting or data work. Progress arrives as preview links that open on any phone, so a partner, a family member or a college principal can look without installing anything. Telugu and Urdu text is sent to you for checking before it goes live, because you know how your customers speak better than we do.",
+        "Nobody from our side will walk into your shop in Vikarabad, and we would rather say that on the first call than on the tenth. What you get instead is a written trail. After a conversation about your business, the third of us sends a scope that lists every page, screen or feature, the timeline and the cost of each item. Nothing is billed until you approve it in writing.",
+        "One of us then builds the site or app, and another of us joins wherever there is AI, cloud hosting or data work. Progress arrives as preview links that open on any phone, so a partner, a family member or a college principal can look without installing anything. Telugu and Urdu text is sent to you for checking before it goes live, because you know how your customers speak better than we do.",
         "We answer WhatsApp seven days a week on Indian time. If a date slips, you hear about it as soon as we know, not on the deadline. Payments are tied to milestones you can see working. Prefer to talk it through first? <a href=\"/contact/\">Contact us</a> with a few lines about what you sell and who buys it.",
       ],
     },

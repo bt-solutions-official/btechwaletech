@@ -175,7 +175,7 @@ const portBlair: CityContent = {
       paragraphs: [
         "We have no office in Sri Vijaya Puram or anywhere in the islands, and we will not pretend otherwise. We are three engineers who work remotely for clients across India. For an island business that is less of a drawback than it sounds: most mainland agencies would not fly in either, and our prices stay lower because we do not pay for rent or a sales team.",
         "A project begins with a call or a WhatsApp voice note. We send a page plan, a timeline and an itemised quote, then share a preview link you can open on your phone and show your partners. Changes happen over chat and screen sharing, and we reply every day of the week on Indian time.",
-        "Ankur Kumar builds the full-stack side. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us</a> and speak to the person doing the work.",
+        "One of us builds the full-stack side. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us</a> and speak to the person doing the work.",
       ],
     },
     {

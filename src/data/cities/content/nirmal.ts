@@ -69,7 +69,7 @@ const nirmal: CityContent = {
       paragraphs: [
         "Nirmal became a district headquarters when Telangana reorganised its districts, and the town has taken on the offices, hospitals, courts and colleges that come with that role. People from the mandals around it, and from Bhainsa, Khanapur and Basara, now come here for services they once travelled to Adilabad or Nizamabad for. Before they set out, many of them search on a phone.",
         "That search is where most requests for <strong>IT services in Nirmal</strong> begin. A hospital wants its specialists and OPD timings to show up correctly. A seed dealer wants retailers to re-order without calling five times. A family of artisans wants buyers in Hyderabad or Bengaluru to find their toys. A coaching centre wants admission enquiries to land on WhatsApp.",
-        "We handle this as a remote team of three: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We have no office in Nirmal and say so openly. Everything runs through WhatsApp, calls and screen shares, and each step is confirmed in writing.",
+        "We handle this as a remote team of three: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We have no office in Nirmal and say so openly. Everything runs through WhatsApp, calls and screen shares, and each step is confirmed in writing.",
       ],
     },
     {

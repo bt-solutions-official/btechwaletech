@@ -159,7 +159,7 @@ const belagavi: CityContent = {
       paragraphs: [
         "We do not have an office in Belagavi and will not pretend to with a borrowed address. We are three engineers working remotely for clients across India, which keeps rent and sales commission out of your price and puts you in direct contact with the people doing the work.",
         "A project starts with a call or WhatsApp chat about your business, then a written page plan, timeline and quote. Within the first week or two you receive a live preview link to check on your phone. Feedback goes on WhatsApp and small edits usually go live the same day. We work Indian hours, seven days a week.",
-        "Ankur Kumar builds the full-stack side. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You always know who is doing what, and if one of us is away, the other two keep your project moving.",
+        "One of us builds the full-stack side. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You always know who is doing what, and if one of us is away, the other two keep your project moving.",
       ],
     },
     {

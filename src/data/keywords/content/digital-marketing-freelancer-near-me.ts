@@ -145,7 +145,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your website supports your Maps listing and catches searches the listing misses, such as “price of root canal in [area]” or “AC repair same day”. Local SEO ties the two together.`,
         `The basics are straightforward. Use the same name, address and phone number on your website, your Google profile and every directory where you appear. Create one useful page per main service, and one per area only if you truly serve it and can say something specific about it. Add LocalBusiness schema, embed a map, and make sure the site loads quickly on a budget Android phone.`,
-        `Then track results in Google Search Console: which searches show your pages, which areas bring clicks and which pages need better titles. Santosh handles technical SEO and Search Console reporting on our team. Nobody can guarantee a top position on Maps or in search, and anyone who promises one is guessing or using methods that risk suspension.`,
+        `Then track results in Google Search Console: which searches show your pages, which areas bring clicks and which pages need better titles. Another of us handles technical SEO and Search Console reporting on our team. Nobody can guarantee a top position on Maps or in search, and anyone who promises one is guessing or using methods that risk suspension.`,
       ],
       after: [`For a deeper look at listings and citations, read <a href='/local-seo-expert/'>local SEO expert</a>.`],
     },

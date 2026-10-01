@@ -182,7 +182,7 @@ const bhadrak: CityContent = {
       id: "remote-team-bhadrak",
       heading: "Working with a remote team from Bhadrak",
       paragraphs: [
-        "We have no office in Bhadrak, Bhubaneswar or anywhere in Odisha, and we will not put a borrowed address on your listing or ours. We are three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma leads AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation.",
+        "We have no office in Bhadrak, Bhubaneswar or anywhere in Odisha, and we will not put a borrowed address on your listing or ours. We are three engineers working remotely. One of us handles full-stack development, another of us leads AI, machine learning, AWS and data, and the third of us manages projects, data science and automation.",
         "You tell us what you need on WhatsApp or a short call. Within about two working days you receive an itemised written quote, and nothing begins or is billed until you approve it in writing. You watch progress on a live preview link and send comments whenever it suits you, whether during a quiet hour at the shop or late at night.",
         "We reply on WhatsApp seven days a week on Indian Standard Time, and every change and payment milestone is recorded in writing.",
       ],

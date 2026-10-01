@@ -158,7 +158,7 @@ const udaipur: CityContent = {
       paragraphs: [
         "We do not have an office in Udaipur, and we will not borrow an address to look local. We are three engineers working remotely for businesses across India. Without rent or sales staff to pay for, our prices stay lower, and the person replying to you is one of the people building your site.",
         "We start with a call or WhatsApp chat about your business, customers and season. Within about two working days you get a page plan, timeline and itemised quote. Once you approve it, you receive a private preview link early in the build to check on your own phone. Feedback goes on WhatsApp, and small changes are often live the same day. We reply seven days a week on Indian time, which matters in a tourism city where weekends are the busiest days.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can contact any of us directly.",
+        "One of us handles full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can contact any of us directly.",
       ],
     },
     {

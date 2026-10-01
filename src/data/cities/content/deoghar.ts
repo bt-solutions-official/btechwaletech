@@ -162,7 +162,7 @@ const deoghar: CityContent = {
       paragraphs: [
         "We do not have an office in Deoghar and we will not pretend to. We are three engineers working remotely for clients across India. Not paying for an office or sales staff helps keep our starting prices where they are, and you deal directly with the people who build your website.",
         "We begin with a WhatsApp chat or call about your business, then send a page plan, timeline and quote in writing. Within a week or two you get a preview link that you can open on your phone and share with family members or partners. You can send feedback in Hindi or English, as text, screenshots or voice notes. We work on Indian time and reply seven days a week, which matters when your busy season does not follow office hours.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation.",
       ],
     },
     {

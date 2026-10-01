@@ -199,7 +199,7 @@ const miryalaguda: CityContent = {
       id: "remote-it-company",
       heading: "An IT services team in Miryalaguda's orbit, working remotely",
       paragraphs: [
-        "We have no office in Miryalaguda, Nalgonda or anywhere in Telangana, and we will not pretend otherwise. BtechWaleTech is three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma looks after AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation.",
+        "We have no office in Miryalaguda, Nalgonda or anywhere in Telangana, and we will not pretend otherwise. BtechWaleTech is three engineers working remotely. One of us handles full-stack development, another of us looks after AI, machine learning, AWS and data, and the third of us runs project management, data science and automation.",
         "You describe the job on WhatsApp or a short call. In about two working days you receive an itemised written quote. Nothing starts and nothing is billed until you approve it in writing. During the build you watch progress on a live preview link and send comments from the mill office or the shop counter whenever you have a moment.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time, and keep every decision and payment milestone in writing. Read more about our <a href=\"/services/web-development/\">web development work</a> or <a href=\"/contact/\">send us a message</a>.",
       ],

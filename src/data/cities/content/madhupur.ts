@@ -70,7 +70,7 @@ const madhupur: CityContent = {
       paragraphs: [
         "Madhupur has been a railway town since the Howrah–Delhi line reached it in the 1870s, and it still works like one. Trains bring visitors, goods and students; the Giridih branch line starts here; and the bazaar grew up beside the station. Tradition says the town is named after Madhu, a cowherd whose cattle once grazed this land.",
         "For much of the twentieth century Madhupur was also a place where Bengali families from Kolkata came to rest and recover, and many built houses here. Sir Asutosh Mookerjee was among the well-known names who spent time in the town. That history still shapes its economy, from guest houses in old kothis to sweet shops that make Bengali-style sweets.",
-        "Enquiries we get for <strong>IT services in Madhupur</strong> reflect that mix. A guest house wants direct bookings. A wholesaler wants to stop losing track of credit. A school wants its notices to reach parents. A clinic wants the right hours on Google Maps. Our three-person remote team covers all of it: Ankur Kumar builds sites and apps, Santosh Sharma leads AI, AWS and data work, and Vedansh Shrivastava manages projects and automation.",
+        "Enquiries we get for <strong>IT services in Madhupur</strong> reflect that mix. A guest house wants direct bookings. A wholesaler wants to stop losing track of credit. A school wants its notices to reach parents. A clinic wants the right hours on Google Maps. Our three-person remote team covers all of it: one of us builds sites and apps, another of us leads AI, AWS and data work, and the third of us manages projects and automation.",
       ],
     },
     {
@@ -169,7 +169,7 @@ const madhupur: CityContent = {
         "Madhupur businesses already live on WhatsApp. The trouble is that the same questions arrive all day: Is a room free for Durga Puja? What is the rate for a box of sweets? When do admissions open? Is the doctor in today? Answering them one by one eats the owner's day.",
         "With <strong>AI and WhatsApp automation in Madhupur</strong>, an assistant on the official WhatsApp Business platform answers these in Hindi, English or Bengali using facts you provide, collects booking or order details, saves them in a Google Sheet or your software, and sends anything unusual straight to you with the whole conversation.",
         "It will not make up a price or confirm a room you have not marked free. We read a sample of your real chats, with permission, to decide what it should handle and what must stay with a person.",
-        "These projects start at ₹40,000 and take two to four weeks. Once the data is flowing, Santosh Sharma can turn it into a simple dashboard of bookings by month or orders by route.",
+        "These projects start at ₹40,000 and take two to four weeks. Once the data is flowing, another of us can turn it into a simple dashboard of bookings by month or orders by route.",
       ],
     },
     {

@@ -69,7 +69,7 @@ const kathua: CityContent = {
       paragraphs: [
         "For anyone driving north from Punjab, Kathua is where Jammu and Kashmir begins in earnest. Trucks cross at Lakhanpur and pass through on NH-44, the town's market serves villages from Hiranagar to the foothills, and the industrial areas on its edge make steel furniture, coolers, textiles and more. The district headquarters, courts, the medical college and many schools bring steady traffic from Billawar, Basohli and Bani as well.",
         "Most requests we receive for <strong>IT services in Kathua</strong> are practical. A manufacturer at Govindsar wants dealers in Punjab and Himachal to find its products online. A hotel on the highway wants correct listings for travellers heading to Jammu and Katra. A coaching centre wants admission enquiries in one place. A wholesaler wants billing and credit records that do not live in one person's notebook.",
-        "We are a remote team of three engineers. Ankur Kumar handles full-stack web and app development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Kathua or Jammu and say so openly. Work runs on WhatsApp, calls and screen shares, with every decision recorded in writing.",
+        "We are a remote team of three engineers. One of us handles full-stack web and app development, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Kathua or Jammu and say so openly. Work runs on WhatsApp, calls and screen shares, with every decision recorded in writing.",
       ],
     },
     {

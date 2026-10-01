@@ -238,7 +238,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Give the new developer your asset inventory, all recovered credentials through a password manager or secure channel, the original scope, chat history about decisions, and a clear list of what you want finished first.`,
         `Then set up the next phase so it cannot happen again. Every account stays in your name, with the new developer added as a user. Code goes to your repository with regular commits you can see. Payments follow working builds you can test. Each week you get a short written update. If your new developer resists these conditions, that tells you something.`,
-        `When we take over, Vedansh runs the recovery checklist with you, Santosh handles domain, hosting, cloud and store account moves, and Ankur leads the code audit and completion. At the end you receive a handover sheet listing every account, where it lives and how the site or app is deployed, so any developer could pick it up after us.`,
+        `When we take over, the third of us runs the recovery checklist with you, another of us handles domain, hosting, cloud and store account moves, and one of us leads the code audit and completion. At the end you receive a handover sheet listing every account, where it lives and how the site or app is deployed, so any developer could pick it up after us.`,
       ],
     },
     {

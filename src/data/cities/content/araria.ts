@@ -69,7 +69,7 @@ const araria: CityContent = {
       paragraphs: [
         "Araria is the headquarters of a large, mostly rural district. Families from Jokihat, Kursakanta, Sikti, Palasi, Raniganj, Narpatganj and Bhargama come into town for hospitals, courts, colleges and wholesale buying. Increasingly, the first stop is a phone: which clinic is open, which coaching batch has seats, whose maize rate is best this week.",
         "Enquiries for <strong>IT services in Araria</strong> are usually direct. A shop owner wants a Hindi website and a correct Google Maps pin. A trader wants to stop tracking dues in three different notebooks. A hospital wants patients to book on WhatsApp. A makhana processor wants buyers in Delhi to find him without a broker.",
-        "Three people do this work, all remotely. Ankur Kumar writes the websites and web apps; Santosh Sharma covers AI, ML, AWS and data work; Vedansh Shrivastava handles project management, data science and automation. There is no Araria office, and we would rather you knew that from the start. Work runs over WhatsApp, calls and screen shares, with every plan in writing.",
+        "Three people do this work, all remotely. One of us writes the websites and web apps; another of us covers AI, ML, AWS and data work; the third of us handles project management, data science and automation. There is no Araria office, and we would rather you knew that from the start. Work runs over WhatsApp, calls and screen shares, with every plan in writing.",
       ],
     },
     {

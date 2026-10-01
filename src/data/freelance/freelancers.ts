@@ -64,7 +64,7 @@ const content: FreelanceContent = {
   snapshot: {
     caption: "Hiring IT freelancers from BtechWaleTech",
     rows: [
-      { label: "Who you hire", value: "Ankur Kumar (full stack), Santosh Sharma (AI, cloud, SEO), Vedansh Shrivastava (projects, automation)" },
+      { label: "Who you hire", value: "One of us (full stack), another of us (AI, cloud, SEO), the third of us (projects, automation)" },
       { label: "Roles covered", value: "Web developer, app developer, SEO expert, AI engineer, automation developer, data analyst, cloud engineer" },
       { label: "Tech stack", value: "Astro, React, Next.js, WordPress, Shopify, Flutter, React Native, Python, n8n, Zapier, AWS" },
       { label: "How you engage us", value: "Fixed-price projects paid in milestones, or month-to-month SEO and maintenance" },
@@ -124,7 +124,7 @@ const content: FreelanceContent = {
       id: "who-we-are",
       heading: "Who you hire: three IT freelancers working as one team",
       paragraphs: [
-        `BtechWaleTech is three engineers in India who decided to work as a freelance team instead of three separate freelancers competing for the same clients. <strong>Ankur Kumar</strong> is a full stack developer who builds the websites, web apps and backends. <strong>Santosh Sharma</strong> works on AI and machine learning, AWS, data science, technical SEO and deployment. <strong>Vedansh Shrivastava</strong> runs project management alongside data science, AI and automation work. That is the whole team, and you can read more <a href="/about/">about us</a> before you decide anything.`,
+        `BtechWaleTech is three engineers in India who decided to work as a freelance team instead of three separate freelancers competing for the same clients. <strong>One of us</strong> is a full stack developer who builds the websites, web apps and backends. <strong>Another of us</strong> works on AI and machine learning, AWS, data science, technical SEO and deployment. <strong>The third of us</strong> runs project management alongside data science, AI and automation work. That is the whole team, and you can read more <a href="/about/">about us</a> before you decide anything.`,
         `Working as a team solves the two problems people most often have with freelancers. The first is the single point of failure: if a solo freelancer falls ill, takes a bigger contract or simply stops replying, your project stops with them. With three people who all know the project, work continues. The second is the skills gap: a solo web developer may be excellent at code and weak at SEO, or strong on design and unable to set up a server. Between the three of us, a project gets development, AI and data, cloud deployment, SEO and project management without you having to hire and coordinate four people.`,
         `We work the way freelancers do, only as a team of three. There is no sales team, no account manager relaying messages, and no junior developer quietly assigned after the first call. When you send a WhatsApp message, one of us reads it, and the person who replies is one of the people who will build your project. We keep the team small on purpose, because a small team is what keeps prices where they are.`,
       ],

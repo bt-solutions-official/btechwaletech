@@ -69,7 +69,7 @@ const sherkot: CityContent = {
       paragraphs: [
         "Sherkot is a town of about sixty thousand people where one trade reaches into almost every lane. Brush work is done in small factories and in homes, and the finished goods travel to stationery wholesalers, art shops, paint dealers and schools in Rajasthan, Maharashtra, Karnataka, Tamil Nadu, Kerala, West Bengal and Uttarakhand. Around that trade sit the ordinary businesses of a market town: cloth and wedding shops, clinics, schools, farm input dealers and transporters.",
         "Most enquiries we receive for <strong>IT services in Sherkot</strong> are practical. A brush maker wants a proper catalogue that a dealer in Chennai can browse without calling. A trader wants his shop on Google Maps with the right phone number. A school wants a site that parents trust and a way to send notices. A unit owner wants to stop keeping job-work accounts in three different notebooks.",
-        "We handle this as a remote team of three engineers. Ankur Kumar leads full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. We do not have an office in Sherkot, and we say that clearly. Work happens on WhatsApp, phone calls and screen shares, and every plan and cost arrives in writing.",
+        "We handle this as a remote team of three engineers. One of us leads full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. We do not have an office in Sherkot, and we say that clearly. Work happens on WhatsApp, phone calls and screen shares, and every plan and cost arrives in writing.",
       ],
     },
     {

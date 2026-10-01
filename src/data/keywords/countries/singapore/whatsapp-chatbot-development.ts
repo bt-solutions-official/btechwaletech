@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     h1: "WhatsApp chatbot for Singapore businesses: bookings, replies and reminders that hand over to your staff",
     lede: `A WhatsApp chatbot in Singapore earns its keep when it books the slot, answers the routine question and sends the reminder, then passes the chat to a real person the moment it should. BtechWaleTech is three freelance developers in India who build these bots on Meta's WhatsApp Business Platform (Cloud API), linked to your calendar and CRM, with opt-in and Do Not Call checks designed in from day one. Builds start from ${P.ai}. See our wider <a href='/singapore/'>Singapore services</a>.`,
     pills: [`WhatsApp bots from ${P.ai}`, "Built on Meta's Cloud API", "Bookings and reminders", "Opt-in and DNC-aware flows", "Hand-off to your staff inbox", "Calendar and CRM links", "Number and account in your name"],
-    origin: "Three freelance developers in India · WhatsApp builds led by Vedansh Shrivastava and Santosh Sharma · replies 7 days a week",
+    origin: "Three freelance developers in India · WhatsApp builds led by the third of us and another of us · replies 7 days a week",
   },
   facts: [
     ["WhatsApp bot builds from", `${P.ai}, usually 2–4 weeks`],

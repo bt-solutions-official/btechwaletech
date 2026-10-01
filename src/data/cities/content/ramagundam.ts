@@ -175,7 +175,7 @@ const ramagundam: CityContent = {
       paragraphs: [
         "There is no BtechWaleTech office in Ramagundam, Godavarikhani or anywhere else, and this page will never show a borrowed address. We are three engineers who work online for clients across India. No rent and no sales staff means the person you message is the person writing your code.",
         "A project begins with a WhatsApp conversation or a call. You then get a written plan of pages, a timeline and an itemised estimate. After approval, a preview link arrives within a week or two; open it on your own phone on mobile data, show it to your partner, and send corrections as text or voice notes. Small fixes often go live the same day. We work on IST and answer all seven days, which suits contractors whose busiest days are plant shutdown weekends.",
-        "Ankur Kumar builds the full stack. Santosh Sharma looks after AI, machine learning, AWS and data work. Vedansh Shrivastava runs projects and builds automation and data science tools. Any of the three can be reached directly.",
+        "One of us builds the full stack. Another of us looks after AI, machine learning, AWS and data work. The third of us runs projects and builds automation and data science tools. Any of the three can be reached directly.",
       ],
     },
     {

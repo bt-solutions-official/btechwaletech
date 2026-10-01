@@ -168,7 +168,7 @@ const kollam: CityContent = {
       paragraphs: [
         "We have no office in Kollam, and we will not list a borrowed address to look local. The three of us work remotely for businesses all over India, and our Kollam clients work with us the same way they already work with suppliers in other states: calls, WhatsApp, shared documents and screen sharing.",
         "The process is short. We begin with a conversation about what you sell and who buys it, then send a written page plan, a timeline and an itemised quote. Within the first week or two you get a working preview link that you can open on your own phone and share with your partner or family. Changes go through WhatsApp, and small ones are usually done the same day. We work on Indian time and reply all seven days, which helps shop owners who can only review things on a Sunday.",
-        "You always know who is doing what. Ankur Kumar writes the full-stack code, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava manages the project and builds the automation and data science pieces. If you want to <a href=\"/contact/\">talk to us</a>, you talk to one of them.",
+        "You always know who is doing what. One of us writes the full-stack code, another of us handles AI, machine learning, AWS and data work, and the third of us manages the project and builds the automation and data science pieces. If you want to <a href=\"/contact/\">talk to us</a>, you talk to one of them.",
       ],
     },
     {

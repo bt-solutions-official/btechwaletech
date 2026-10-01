@@ -87,7 +87,7 @@ const content: FreelanceContent = {
       ["What you pay with", "Cash, usually hourly", "Equity, often plus a small salary", "Cash, against an itemised quote"],
       ["Speed to start", "Fast, once you find someone", "Slow; finding the right partner can take months", "Quote in about 2 working days"],
       ["Skills covered", "Usually one person's specialism", "One person, sometimes two", "Development, AI and cloud, project management"],
-      ["Who manages the work", "You do", "The co-founder", "Vedansh coordinates; you approve milestones"],
+      ["Who manages the work", "You do", "The co-founder", "The third of us coordinates; you approve milestones"],
       ["Risk if someone leaves", "Work stops; handover depends on goodwill", "Serious; equity and knowledge walk out", "Three people know the code; accounts stay yours"],
       ["Code and account ownership", "Depends on your contract and set-up", "Shared through the company", "Yours from day one"],
       ["Long-term product thinking", "Limited to the task", "Strongest", "Practical advice, but the product vision stays yours"],

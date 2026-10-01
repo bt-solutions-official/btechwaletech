@@ -26,7 +26,7 @@ const content: FreelanceContent = {
     h1: "SEO for solicitors: rank for local legal searches without stepping outside SRA rules",
     lede: `SEO for solicitors means earning visibility for searches such as “conveyancing solicitors in Leeds” or “probate solicitor near me” with pages that are accurate, written or reviewed by named solicitors, and honest enough to satisfy both Google and the SRA Code of Conduct. BtechWaleTech is three freelance developers working remotely from India, one of whom specialises in technical SEO. We build and improve practice-area pages, set up local SEO for each staffed office, grow genuine reviews on Google and ReviewSolicitors, and track enquiries by practice area so you can see what pays. Monthly SEO starts at ${P.seo}. For the site itself, see <a href='/uk/solicitor-website-design/'>solicitor website design</a>.`,
     pills: ["Practice-area pages that rank", "One Business Profile per staffed office", "Named-solicitor E-E-A-T", "Genuine review growth", "Enquiries tracked by practice area", "No ranking guarantees", "From " + P.seo + " a month"],
-    origin: "Three freelance developers in India · technical SEO led by Santosh Sharma · WhatsApp 7 days a week",
+    origin: "Three freelance developers in India · technical SEO led by another of us · WhatsApp 7 days a week",
   },
   facts: [
     ["Monthly SEO from", P.seo],
@@ -237,7 +237,7 @@ const content: FreelanceContent = {
       heading: "Working with a remote SEO team in India from a UK law firm",
       paragraphs: [
         `Legal SEO suits remote working because it runs on documents, data and structured reviews rather than office visits. Your marketing lead and solicitors review drafts and reports online, and we do the research, drafting, technical work and measurement between reviews.`,
-        `India is four and a half hours ahead of the UK in summer and five and a half hours ahead in winter, so our day overlaps with UK office hours from late morning. A typical month has one short video call, a shared list of pages awaiting solicitor review, and the report. Santosh Sharma leads the technical SEO and data work, with Ankur Kumar on development and Vedansh Shrivastava on project management and reporting automation.`,
+        `India is four and a half hours ahead of the UK in summer and five and a half hours ahead in winter, so our day overlaps with UK office hours from late morning. A typical month has one short video call, a shared list of pages awaiting solicitor review, and the report. Another of us leads the technical SEO and data work, with one of us on development and the third of us on project management and reporting automation.`,
         `We work entirely in accounts your firm owns (Search Console, analytics, Business Profiles, website), so access can be removed at any time. We never need client files. Quotes are in USD and invoices come from India, payable by Wise, bank wire or PayPal, with nothing billed before written approval. If your firm needs a confidentiality agreement, ask and it is agreed in writing with the quote.`,
       ],
       subs: [

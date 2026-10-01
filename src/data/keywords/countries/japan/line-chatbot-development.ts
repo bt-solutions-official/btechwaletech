@@ -56,7 +56,7 @@ const content: FreelanceContent = {
       { label: "Answers from", value: "Rules, your FAQ and manuals via AI retrieval, or live systems" },
       { label: "Hands over to", value: "Your staff in chat, with the conversation history attached" },
       { label: "Connects to", value: "Shopify, booking engines, CRMs, spreadsheets, internal APIs" },
-      { label: "Built by", value: "Santosh (AI, AWS), Ankur (integrations), Vedansh (flows, testing)" },
+      { label: "Built by", value: "Another of us (AI, AWS), one of us (integrations), the third of us (flows, testing)" },
       { label: "You provide", value: "FAQ content, Japanese wording approval, API access to your systems" },
       { label: "Not included", value: "Call-centre staffing, Japanese copywriting, legal advice" },
     ],
@@ -209,7 +209,7 @@ const content: FreelanceContent = {
         `The bot becomes useful when it can see your data, which is why integration is the heart of most LINE chatbot development. We connect it through each system’s API after linking the customer’s LINE user ID to their record, so the bot can say “your order shipped yesterday” rather than “please check your email”.`,
         `Account linking comes first. The customer taps a button, signs in to your site or confirms a phone number or email once, and the link is stored. From then on the bot knows who it is talking to. Without linking, the bot can still ask for an order number and a verification detail, which works but adds friction.`,
         `For Shopify, the bot can read order and fulfilment status and send shipping updates to linked customers. For booking engines and calendars, it can show open slots and create or change reservations. For CRMs, it can log each conversation to the customer record and create a follow-up task when a lead asks for a quote. For systems without an API, a scheduled spreadsheet or CSV sync is a practical fallback.`,
-        `Ankur builds the integrations; Santosh handles the AI layer and the AWS setup. Everything runs in your cloud account with keys stored in its secret manager.`,
+        `One of us builds the integrations; another of us handles the AI layer and the AWS setup. Everything runs in your cloud account with keys stored in its secret manager.`,
       ],
     },
     {

@@ -150,7 +150,7 @@ const palanpur: CityContent = {
       paragraphs: [
         "We don't have an office in Palanpur, Ahmedabad or anywhere in Gujarat, and we won't list a borrowed address to appear local. We are three engineers working remotely for clients across India. Your quote carries no rent or sales commission, and the person you message is the one building your site.",
         "The first step is a conversation, by phone or on WhatsApp, about what you sell and who buys it. You then receive a written outline of pages, a schedule and an itemised quote. Inside the first week or two, a working preview link arrives that you can test on your own mobile; corrections can be typed or sent as voice notes, and minor edits usually appear within hours. We keep Indian hours and answer every day of the week, so reviewing the site on a Sunday after the bazaar closes is fine.",
-        "The three of us split the work clearly. Ankur Kumar writes the front and back end. Santosh Sharma looks after AI, machine learning, AWS hosting and data. Vedansh Shrivastava plans and runs each project and also takes on data science and automation tasks. <a href=\"/contact/\">Send us a message</a> and one of those three names replies.",
+        "The three of us split the work clearly. One of us writes the front and back end. Another of us looks after AI, machine learning, AWS hosting and data. The third of us plans and runs each project and also takes on data science and automation tasks. <a href=\"/contact/\">Send us a message</a> and one of those three names replies.",
       ],
     },
     {

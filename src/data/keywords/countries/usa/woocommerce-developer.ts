@@ -236,7 +236,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Ask how they work, not just what they have built. The best signal is a developer who insists on staging, version control and a custom plugin for your changes.`,
         `Useful questions: Will you work on a staging copy? Where will custom code live? How will you handle updates for WordPress, WooCommerce and extensions? Have you migrated a store to HPOS? How do you test subscription renewals? How do you check sales tax for multiple states? What will you measure to prove a speed fix worked? A WooCommerce developer for hire who answers with specifics has done the work before.`,
-        `Red flags: asking for your hosting root password when a limited account would do, editing parent-theme or WooCommerce core files, installing a new plugin for every small request, promising first-page rankings, or refusing to hand over code. We work on staging, keep code in a repository you own and document what we changed. You talk directly with Ankur on development, Santosh on hosting, data and technical SEO, and Vedansh on planning.`,
+        `Red flags: asking for your hosting root password when a limited account would do, editing parent-theme or WooCommerce core files, installing a new plugin for every small request, promising first-page rankings, or refusing to hand over code. We work on staging, keep code in a repository you own and document what we changed. You talk directly with one of us on development, another of us on hosting, data and technical SEO, and the third of us on planning.`,
       ],
       list: [
         "Staging copy for all changes",

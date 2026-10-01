@@ -70,7 +70,7 @@ const makrana: CityContent = {
       paragraphs: [
         "Makrana is a marble town first and everything else second. The mines in the surrounding hills, the gang saws and cutting units along the roads, the polishing yards, the transporters and the dealers who sell to builders across India all depend on one material. Schools, clinics, hardware shops, hotels for visiting buyers and the local market grew around that trade.",
         "Requests we get for <strong>IT services in Makrana</strong> usually come from this core. A dealer wants a site that shows his stock properly to a builder in Hyderabad or Mumbai. A processing unit wants to stop losing track of which slabs went on which truck. A carving workshop wants to take orders for idols from temple trusts in other states. A school wants parents to see notices without printing circulars.",
-        "We are a remote team of three and we do not keep an office in Makrana. Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. Everything is agreed on WhatsApp, calls and screen shares, and written down, which suits a trade where many buyers never visit in person anyway.",
+        "We are a remote team of three and we do not keep an office in Makrana. One of us handles full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. Everything is agreed on WhatsApp, calls and screen shares, and written down, which suits a trade where many buyers never visit in person anyway.",
       ],
     },
     {

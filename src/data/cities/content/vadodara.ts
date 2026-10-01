@@ -168,7 +168,7 @@ const vadodara: CityContent = {
       paragraphs: [
         "We don't have an office in Vadodara and we won't list a borrowed address to look local. We are three engineers working remotely for clients across India. That keeps rent and sales commissions out of your price, and it means the person you message is the person building your site.",
         "After a first call or WhatsApp conversation we send a page plan, a timeline and an itemised quote. Once you approve, you get a live preview link within the first week or two and review it on your own phone. Comments go by message, and small changes are often live the same day. We work on Indian time and reply seven days a week, including the festival weeks when shop owners are busiest and need quick edits most.",
-        "Ankur Kumar does full-stack development. Santosh Sharma handles AI, machine learning, AWS and data engineering. Vedansh Shrivastava manages projects and works on data science and automation. You can talk to any of us directly.",
+        "One of us does full-stack development. Another of us handles AI, machine learning, AWS and data engineering. The third of us manages projects and works on data science and automation. You can talk to any of us directly.",
       ],
     },
     {

@@ -69,7 +69,7 @@ const tandur: CityContent = {
       paragraphs: [
         "Tandur is the headquarters of one of Vikarabad district's two revenue divisions, and the town's economy grows out of the ground beneath it. Limestone quarries supply the polished Tandur stone slabs used for floors, steps and paving. The same limestone feeds cement plants in the surrounding area. And the deep black soil of Tandur, Peddemul, Basheerabad and Yalal mandals grows a red gram good enough to earn a Geographical Indication tag in 2022.",
         "Around these trades is a busy town economy of transporters, building material dealers, machinery workshops, dal mills, fertiliser shops, hospitals, schools and coaching centres. More of their customers now search online first: a builder in Hyderabad looking for a slab supplier, a family comparing hospitals, a buyer outside Telangana wanting genuine Tandur dal.",
-        "Three engineers do all the work, remotely and without a sales layer in between. Ankur Kumar writes the websites, apps and backend code. Santosh Sharma covers AI, machine learning, AWS hosting and data. Vedansh Shrivastava plans each project and builds the data science and automation pieces. When you ask for <strong>IT services in Tandur</strong> from us, the person replying on WhatsApp is one of those three.",
+        "Three engineers do all the work, remotely and without a sales layer in between. One of us writes the websites, apps and backend code. Another of us covers AI, machine learning, AWS hosting and data. The third of us plans each project and builds the data science and automation pieces. When you ask for <strong>IT services in Tandur</strong> from us, the person replying on WhatsApp is one of those three.",
       ],
     },
     {

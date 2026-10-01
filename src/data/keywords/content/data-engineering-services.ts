@@ -28,7 +28,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Data engineering services · India and remote",
     h1: "Data engineering services for one source of truth across sales, marketing and finance",
-    lede: `Data engineering services build the pipes that pull numbers out of Tally, your CRM, ad accounts and online store, clean them, and land them in one warehouse so every report agrees. BtechWaleTech is three freelance developers; Santosh leads the data and AWS side, with Ankur on integrations and Vedansh on planning. Here you will find how pipelines work, when BigQuery, Postgres or Redshift fits, what monitoring and quality checks look like, and what it costs: pipeline work starts at ${P.ai}.`,
+    lede: `Data engineering services build the pipes that pull numbers out of Tally, your CRM, ad accounts and online store, clean them, and land them in one warehouse so every report agrees. BtechWaleTech is three freelance developers; another of us leads the data and AWS side, with one of us on integrations and the third of us on planning. Here you will find how pipelines work, when BigQuery, Postgres or Redshift fits, what monitoring and quality checks look like, and what it costs: pipeline work starts at ${P.ai}.`,
     pills: ["ETL and ELT pipelines", "Tally and CRM extraction", "Ads and GA4 data", "BigQuery · Postgres · Redshift", "Scheduling and alerts", "Data-quality tests", "You own the warehouse"],
     origin: "Three freelance developers in India · English and Hindi · WhatsApp replies 7 days a week",
   },

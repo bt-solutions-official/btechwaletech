@@ -167,7 +167,7 @@ const navsari: CityContent = {
       paragraphs: [
         "We do not have an office in Navsari, and we will not claim one. We are three engineers working remotely for businesses across India. Skipping office rent and sales staff keeps our prices down, and you always speak with the person writing your code.",
         "Work begins with a WhatsApp chat or a call about your customers and goals. A written plan follows, listing the pages, timeline and quote. Within the first week or two you get a preview link to check on your own phone, and feedback travels back on WhatsApp. Small corrections usually go live the same day.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava runs project management along with data science and automation. We follow IST and reply every day of the week, which helps owners who only get time to review their site late in the evening or on Sunday.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us runs project management along with data science and automation. We follow IST and reply every day of the week, which helps owners who only get time to review their site late in the evening or on Sunday.",
       ],
     },
     {

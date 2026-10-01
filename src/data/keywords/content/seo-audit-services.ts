@@ -33,7 +33,7 @@ const content: FreelanceContent = {
     origin: "Three freelance developers working remotely from India · WhatsApp replies 7 days a week, IST",
   },
   facts: [
-    ["Audit lead", "Santosh Sharma (technical SEO, data, AWS)"],
+    ["Audit lead", "Another of us (technical SEO, data, AWS)"],
     ["Evidence base", "Your Search Console, a full crawl, field speed data"],
     ["Output", "Prioritised fix list with impact and effort"],
     ["Audit price", "Quoted by site size after a first look"],
@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `SEO audit services are a paid diagnosis of why your website does or does not earn traffic and enquiries from search. You are paying for judgement, not for a tool licence: somebody experienced reads your data, separates real problems from noise, and tells you the order in which to fix them.`,
         `Think of it like a pre-purchase inspection of a used car. A scanner can print fifty warning codes. A mechanic tells you which two will leave you stranded on the highway and which forty-eight can wait. A good audit does the same for your site, and it should name the cause behind each symptom rather than restating the symptom in bigger font.`,
-        `At BtechWaleTech the audit is led by Santosh Sharma, who works on technical SEO, data and AWS, with Ankur Kumar reviewing anything that touches templates or code and Vedansh Shrivastava turning the findings into a timed plan. Because all three are developers, the recommendations are written so a developer can act on them without guessing.`,
+        `At BtechWaleTech the audit is led by another of us, who works on technical SEO, data and AWS, with one of us reviewing anything that touches templates or code and the third of us turning the findings into a timed plan. Because all three are developers, the recommendations are written so a developer can act on them without guessing.`,
       ],
       list: [
         "A diagnosis of crawl, index, content, speed and link health",

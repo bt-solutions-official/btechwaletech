@@ -245,7 +245,7 @@ const content: FreelanceContent = {
       heading: "How does a Saudi restaurant work with a freelance team in India?",
       paragraphs: [
         `India is two and a half hours ahead of Riyadh, so our working day covers most of yours. A 10 am call in Jeddah is 12:30 pm for us; a problem you spot at 6 pm Saudi time is 8:30 pm here, still inside our evening. We follow your Sunday-to-Thursday week for calls and plan releases away from Thursday-night and weekend rushes.`,
-        `Quotes and invoices are in US dollars, paid by Wise or bank wire, and the invoice comes from India. There is no office, no local entity and no site visits: the team is Ankur Kumar on development, Santosh Sharma on cloud, data and technical SEO, and Vedansh Shrivastava on project management. You deal with the same three people from quote to aftercare.`,
+        `Quotes and invoices are in US dollars, paid by Wise or bank wire, and the invoice comes from India. There is no office, no local entity and no site visits: the team is one of us on development, another of us on cloud, data and technical SEO, and the third of us on project management. You deal with the same three people from quote to aftercare.`,
         `The first two weeks look like this. Day one, a video call to walk through your menu, branches and how orders reach the kitchen today. Within about two working days, an itemised quote. After your written approval, week one covers menu data and design; by the end of week two you have a staging ordering link to try on your own phone. Nothing is billed before you approve the scope in writing.`,
       ],
     },

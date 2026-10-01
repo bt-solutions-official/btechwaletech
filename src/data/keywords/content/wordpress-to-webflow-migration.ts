@@ -299,7 +299,7 @@ const content: FreelanceContent = {
         "Keep old hosting for a few weeks before cancelling",
       ],
       after: [
-        `Our team splits this work. Ankur handles the domain, publishing and form tests; Santosh runs Search Console, sitemaps and redirect sampling; Vedansh keeps the checklist and tells you, on WhatsApp, what is done and what is still waiting.`,
+        `Our team splits this work. One of us handles the domain, publishing and form tests; another of us runs Search Console, sitemaps and redirect sampling; the third of us keeps the checklist and tells you, on WhatsApp, what is done and what is still waiting.`,
       ],
     },
     {

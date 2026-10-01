@@ -69,7 +69,7 @@ const sattenapalle: CityContent = {
       paragraphs: [
         "Sattenapalle sits between two worlds. On one side is the Palnadu countryside, where farmers grow chilli, cotton, paddy, black gram and red gram and depend on the town for seed, fertiliser, pesticides, credit and buyers. On the other is the Amaravati capital region: the town falls under APCRDA, lies on the Guntur–Sattenapalle growth corridor, and has been named on a proposed rail link to the capital. Guntur is under an hour away.",
         "That position decides what people ask of <strong>IT services in Sattenapalle</strong>. Dealers want credit records that match what the farmer remembers. Commission agents want clean lot and payment statements. Junior colleges and schools want admissions from the whole mandal. Hospitals want patients from villages to find correct timings before they travel. Real estate and construction firms want to be visible to buyers watching the capital region.",
-        "BtechWaleTech is three engineers who work remotely. Ankur Kumar builds websites and web apps, Santosh Sharma takes care of AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. We have no office in Sattenapalle, and we state that openly. Calls, WhatsApp and screen shares replace visits, and each decision is confirmed in a written note.",
+        "BtechWaleTech is three engineers who work remotely. One of us builds websites and web apps, another of us takes care of AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. We have no office in Sattenapalle, and we state that openly. Calls, WhatsApp and screen shares replace visits, and each decision is confirmed in a written note.",
       ],
     },
     {
@@ -164,7 +164,7 @@ const sattenapalle: CityContent = {
       id: "remote-team-sattenapalle",
       heading: "Working with a remote IT team from Sattenapalle",
       paragraphs: [
-        "Because none of us is based in Sattenapalle, we keep the process tightly documented. It begins with a call where you explain your business, customers and the problem you want solved. Vedansh then writes a scope note listing each page or app screen, target dates and the cost of every part. Ankur handles the build; Santosh covers cloud, data and anything with AI in it.",
+        "Because none of us is based in Sattenapalle, we keep the process tightly documented. It begins with a call where you explain your business, customers and the problem you want solved. The third of us then writes a scope note listing each page or app screen, target dates and the cost of every part. One of us handles the build; another of us covers cloud, data and anything with AI in it.",
         "No work starts, and no invoice is raised, until you approve that note. While building, we send links you can open on any phone and pass to your partner, principal or accountant for comments. All Telugu text is shared for your check before publishing, because a spelling slip on a fee chart or a product page reflects on your name.",
         "We answer WhatsApp on all seven days, Indian time. If a date is going to slip, we tell you when we first see it, with a revised date. Payments are tied to stages you can test yourself, which keeps the risk low for a business going digital for the first time.",
       ],

@@ -152,7 +152,7 @@ const suryapet: CityContent = {
         "Business in Suryapet runs on WhatsApp. Traders send rates, patients' families ask about doctors, parents enquire about admissions and customers send photographs of the product they want. When the owner is busy in the yard or the clinic, messages pile up and some go unanswered.",
         "Our WhatsApp automation projects start at ₹40,000. Using the official WhatsApp Business platform, we set up replies in Telugu and English for the questions you get every day, such as timings, fees, stock, location and how to book. Every conversation is logged, and anything that needs judgement, like a bulk order or an urgent medical question, goes straight to a person.",
         "Automation should support your staff, not replace their judgement. A bot should never confirm an appointment that no one has checked, quote a final rate for a large lot or promise a delivery date you cannot meet. We design it to handle the repetitive questions, so your team has more time for the conversations that matter.",
-        "For larger operations, such as a hospital with several departments or a rice mill handling hundreds of arrivals, AI can do more: reading scanned weighment slips, summarising daily enquiries or drafting replies for staff to approve. Santosh Sharma, who leads AI and data work on our team, will tell you plainly what is worth automating in your case and what is better left manual.",
+        "For larger operations, such as a hospital with several departments or a rice mill handling hundreds of arrivals, AI can do more: reading scanned weighment slips, summarising daily enquiries or drafting replies for staff to approve. Another of us, who leads AI and data work on our team, will tell you plainly what is worth automating in your case and what is better left manual.",
       ],
     },
     {
@@ -170,7 +170,7 @@ const suryapet: CityContent = {
       heading: "How our remote team works with Suryapet clients",
       paragraphs: [
         "We are three engineers who work remotely. We have no office in Suryapet, or anywhere else, and we will not pretend otherwise by listing an address we do not use. Instead, you deal directly with the people who build your website, and our prices do not include rent.",
-        "Ankur Kumar builds the websites and applications, front to back. Santosh Sharma handles AI, machine learning, AWS hosting and data. Vedansh Shrivastava manages projects and works on data science and automation. You talk to one of us on WhatsApp or a call, and the person answering knows your project.",
+        "One of us builds the websites and applications, front to back. Another of us handles AI, machine learning, AWS hosting and data. The third of us manages projects and works on data science and automation. You talk to one of us on WhatsApp or a call, and the person answering knows your project.",
         "We start with a conversation about your business and customers, then send a short checklist for photographs, text and details. While we build, you receive a private preview link to check on your own phone. Changes are made quickly, and you can see progress at every stage without visiting any office.",
         "We reply on WhatsApp seven days a week, in Indian time, including weekends during harvest and jatara season when many Suryapet businesses are busiest. Our conversations can be in English or Hindi, and we work with you or your staff on the Telugu text for your site, which you approve before it goes live.",
       ],

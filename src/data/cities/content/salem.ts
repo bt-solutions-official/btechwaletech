@@ -161,7 +161,7 @@ const salem: CityContent = {
       paragraphs: [
         "We don't have an office in Salem, and we won't list a borrowed address. We are three engineers working remotely for clients across India. That keeps rent and sales commission out of your quote and puts you in direct contact with the people building your site.",
         "Projects begin with a phone call or WhatsApp conversation about your business. We send a written page plan, timeline and itemised quote. Within a week or two, you get a live preview link to open on your own phone, so you comment on a working site, not a drawing. Changes happen over WhatsApp, and small ones usually go live the same day. We reply seven days a week on Indian time, which suits traders who only have evenings or Sundays free.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You will always know who is responsible for what, and you can message any of us.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You will always know who is responsible for what, and you can message any of us.",
       ],
     },
     {

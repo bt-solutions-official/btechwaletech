@@ -28,7 +28,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Hire AI developer · evidence, privacy, running costs",
     h1: "Hire an AI developer without buying hype: test the claims, guard your data, know the monthly bill",
-    lede: `Before you hire an AI developer, you need three answers most sales pitches skip: can the demo survive your real data, where does that data travel, and what will each month of API usage cost after launch? BtechWaleTech is three freelance developers in India, and Santosh Sharma leads our AI, ML and AWS work. This page gives you a practical way to check claims, a privacy checklist in plain words, a method to estimate token bills, and honest starting prices from ${P.ai}.`,
+    lede: `Before you hire an AI developer, you need three answers most sales pitches skip: can the demo survive your real data, where does that data travel, and what will each month of API usage cost after launch? BtechWaleTech is three freelance developers in India, and another of us leads our AI, ML and AWS work. This page gives you a practical way to check claims, a privacy checklist in plain words, a method to estimate token bills, and honest starting prices from ${P.ai}.`,
     pills: ["Proof on your own data", "Written data-flow map", "Token cost estimate", "RAG and document AI", "WhatsApp and web bots", "Keys in your account", "You own prompts and code"],
     origin: "Three freelance developers · Remote from India · AI work for Indian and overseas clients",
   },
@@ -37,7 +37,7 @@ const content: FreelanceContent = {
     ["Typical build", "2–4 weeks for a focused AI automation"],
     ["Quote", "Itemised, about 2 working days"],
     ["API keys", "Created in your account, billed to you"],
-    ["AI lead", "Santosh Sharma (AI, ML, AWS, data)"],
+    ["AI lead", "Another of us (AI, ML, AWS, data)"],
     ["After launch", "2 months of free maintenance"],
   ],
   stats: [
@@ -134,7 +134,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Useful AI work sits on ordinary software skill. A developer who cannot build a clean API, handle errors or write to a database will build an AI demo that breaks on day three. Check the base first, then the AI layer.`,
         `On the AI side, look for hands-on use of hosted model APIs, prompt design with structured output such as JSON schemas, retrieval-augmented generation (RAG) with a vector store, and evaluation scripts that score answers automatically. For document work, ask about OCR on low-quality scans. For classic machine learning, ask how they split training and test data and which error metric they report.`,
-        `The skills people forget are the operational ones: rate limits and retries, caching repeated calls, masking phone numbers and Aadhaar-like identifiers before they leave your server, logging each prompt and answer for audit, and setting a spending cap on the API account. At BtechWaleTech, Santosh handles the AI, AWS and data side, Ankur builds the app or integration it lives in, and Vedansh runs the plan and the automation flows.`,
+        `The skills people forget are the operational ones: rate limits and retries, caching repeated calls, masking phone numbers and Aadhaar-like identifiers before they leave your server, logging each prompt and answer for audit, and setting a spending cap on the API account. At BtechWaleTech, another of us handles the AI, AWS and data side, one of us builds the app or integration it lives in, and the third of us runs the plan and the automation flows.`,
       ],
       list: [
         "Python or Node.js, REST APIs, webhooks, a SQL database",

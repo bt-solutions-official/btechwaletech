@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A freelance web designer is an independent professional who decides the visual and interaction side of a website: where things sit, how big text is, which colours carry meaning, and what a visitor sees first on a phone. A developer turns that decision into working HTML, CSS and JavaScript, connects forms and puts it on hosting.`,
         `In small projects the roles blur. Plenty of freelance web designers only produce mockups, which then need a separate coder. Plenty of developers skip design and install a theme. The trouble sits in the gap: a beautiful Figma file loses its spacing and font weights when someone else codes it in a hurry, or a coder guesses at mobile layouts the designer never drew.`,
-        `Our set-up removes that gap. Ankur Kumar designs layouts and builds them, Santosh Sharma handles speed, hosting and technical SEO so design choices never slow the page, and Vedansh Shrivastava keeps the review rounds on schedule. You approve a design, and the same people make sure the live site matches it pixel for pixel on the devices your customers use.`,
+        `Our set-up removes that gap. One of us designs layouts and builds them, another of us handles speed, hosting and technical SEO so design choices never slow the page, and the third of us keeps the review rounds on schedule. You approve a design, and the same people make sure the live site matches it pixel for pixel on the devices your customers use.`,
       ],
       list: [
         "Designer: layout, hierarchy, typography, colour, imagery, interaction states",
@@ -249,7 +249,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `It does not have to. Slow sites usually come from heavy themes, sliders, oversized images and a dozen tracking scripts, not from good design. A deliberate design often loads faster than a generic theme because it only includes what the page needs.`,
         `Google’s Core Web Vitals give design decisions a measurable target. Largest Contentful Paint should be within 2.5 seconds, Interaction to Next Paint under 200 milliseconds and Cumulative Layout Shift under 0.1. Each maps to a design choice: the hero image drives LCP, heavy interactive widgets hurt INP, and images or banners without reserved space cause layout shift.`,
-        `So we design the hero with a well-compressed image or a strong text block, reserve space for every image and embed, avoid auto-playing carousels, and keep animation to CSS transitions that do not block input. Santosh checks the built pages in PageSpeed Insights and in Search Console’s field data after launch. If you want ranking work on top, our monthly <a href='/services/seo-services/'>SEO service</a> starts at ${P.seo}, with no promises of positions because nobody can guarantee them.`,
+        `So we design the hero with a well-compressed image or a strong text block, reserve space for every image and embed, avoid auto-playing carousels, and keep animation to CSS transitions that do not block input. Another of us checks the built pages in PageSpeed Insights and in Search Console’s field data after launch. If you want ranking work on top, our monthly <a href='/services/seo-services/'>SEO service</a> starts at ${P.seo}, with no promises of positions because nobody can guarantee them.`,
       ],
     },
     {

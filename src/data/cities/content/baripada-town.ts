@@ -169,7 +169,7 @@ const baripada: CityContent = {
       paragraphs: [
         "We have no office in Baripada, Bhubaneswar or anywhere in Odisha, and we will not list a false address to look local. BtechWaleTech is three engineers who work remotely with clients across India, which keeps our costs and starting prices low and means you speak directly to the people doing the work.",
         "A project begins with a call or WhatsApp chat about your business. We then send a page plan, timeline and itemised quote, usually within two working days. After you approve, we share a live preview link that you can open on your phone, show to your family or group members, and comment on with messages or voice notes. Small changes are often done the same day.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science tools. <a href=\"/contact/\">Message us</a> on any day of the week.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science tools. <a href=\"/contact/\">Message us</a> on any day of the week.",
       ],
     },
     {

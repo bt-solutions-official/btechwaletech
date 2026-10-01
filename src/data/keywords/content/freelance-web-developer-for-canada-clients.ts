@@ -107,7 +107,7 @@ const content: FreelanceContent = {
         `Canadian businesses usually come to India for three reasons: lower project costs than local rates, developers who can cover several skills at once, and a work pattern where your morning request is often handled while you sleep and waiting on a staging link when you wake up.`,
         `The cost difference is real, but it should not be the only reason. What makes a remote arrangement work is a clear written scope, ownership of every account in your name, and a predictable daily rhythm. Without those, savings disappear into rework and email chains.`,
         `A freelance web developer for Canada clients also needs to understand what makes a Canadian website different from a generic one: French for Quebec audiences, provincial privacy law, accessibility expectations in Ontario, CAD pricing and Canadian spelling. None of these is hard, but each one is easy to miss if the developer has only built for India or the US.`,
-        `BtechWaleTech is a small freelance team of three: Ankur Kumar leads full-stack development, Santosh Sharma handles AWS hosting, data and technical SEO, and Vedansh Shrivastava manages the project plan and automation. You speak to all three directly.`,
+        `BtechWaleTech is a small freelance team of three: one of us leads full-stack development, another of us handles AWS hosting, data and technical SEO, and the third of us manages the project plan and automation. You speak to all three directly.`,
       ],
     },
     {

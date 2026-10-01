@@ -30,7 +30,7 @@ const content: FreelanceContent = {
     h1: "How to rank app on Play Store: the factors you can actually move, and how",
     lede: `How to rank app on Play Store comes down to five levers you control: the words in your listing, how many people install after seeing it, how stable the app is on real phones, the ratings and reviews it earns, and what your listing experiments teach you. BtechWaleTech is three freelance developers in India, so we work on the listing and the code: fixing crashes and ANRs is as much our job as rewriting a title. Ranking work starts from ${P.seo}, and nobody can promise a top position.`,
     pills: ["Title and description keywords", "Genuine install velocity", "Crash and ANR fixes", "Review replies", "Store listing experiments", "Hindi and regional listings", "Target API updates"],
-    origin: "Three freelance developers in India · Android builds by Ankur Kumar · WhatsApp replies 7 days a week",
+    origin: "Three freelance developers in India · Android builds by one of us · WhatsApp replies 7 days a week",
   },
   facts: [
     ["Ranking work from", `${P.seo} · ${P.seoUsd}`],

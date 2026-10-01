@@ -53,7 +53,7 @@ const content: FreelanceContent = {
   snapshot: {
     caption: "AI automation from a small remote team, seen from a NZ business",
     rows: [
-      { label: "Who builds it", value: "Three freelance engineers in India; Santosh Sharma leads the AI side" },
+      { label: "Who builds it", value: "Three freelance engineers in India; another of us leads the AI side" },
       { label: "First project", value: "One workflow pilot, measured against a before-and-after time log" },
       { label: "Starting price", value: `From ${P.ai} for a pilot build` },
       { label: "Timeline", value: "2–4 weeks for the pilot, then expand workflow by workflow" },

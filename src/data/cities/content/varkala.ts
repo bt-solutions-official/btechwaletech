@@ -70,7 +70,7 @@ const varkala: CityContent = {
       paragraphs: [
         "Few Kerala towns of forty thousand people depend on the internet as heavily as Varkala. A traveller in Berlin, Bengaluru or Delhi decides on a North Cliff guesthouse, a panchakarma package or a two-hundred-hour yoga course from a phone screen, often weeks before arriving. A pilgrim family planning the Sivagiri visit looks up lodges and train timings. Students across the taluk check college notices online. For all of them, the first contact with a Varkala business is a search result.",
         "That is why most requests we get for <strong>IT services in Varkala</strong> are really about bookings and replies: a site that shows rooms honestly, a Google Maps pin that sits on the right lane of the cliff, and a way to answer the flood of WhatsApp questions without hiring another person. Some owners also want software to track treatments or course batches, or an app for returning guests.",
-        "We are three engineers who work remotely. Ankur Kumar writes the websites and web apps, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava plans each project and builds the automation. There is no Varkala office and we will not pretend otherwise. Calls, screen shares and written plans do the job, and the saving shows up in our prices.",
+        "We are three engineers who work remotely. One of us writes the websites and web apps, another of us handles AI, machine learning, AWS and data, and the third of us plans each project and builds the automation. There is no Varkala office and we will not pretend otherwise. Calls, screen shares and written plans do the job, and the saving shows up in our prices.",
       ],
     },
     {

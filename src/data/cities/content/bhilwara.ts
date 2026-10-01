@@ -140,7 +140,7 @@ const bhilwara: CityContent = {
       paragraphs: [
         "Many Bhilwara units have outgrown the mix of registers, Excel files and chat groups they started with. The owner wants to know which agents are bringing business, which orders are pending at the process house, and which parties are overdue, but getting those answers means phoning three people.",
         "We build small, focused web applications that solve one problem well. An agent portal lets each agent see their own orders, dispatch status and commission without calling the office. A dispatch tracker records when grey fabric went to processing, when it came back and when it was packed. A payment follow-up screen lists overdue bills by party and agent. These start at ₹60,000, and we can connect them to Tally exports so nobody enters data twice.",
-        "On the data side, Santosh and Vedansh turn existing records into dashboards: sales by quality, by region and by season, or loom output against targets. Often the data already exists in Tally or spreadsheets and just needs cleaning and presenting on a screen you can check from your phone.",
+        "On the data side, another of us and the third of us turn existing records into dashboards: sales by quality, by region and by season, or loom output against targets. Often the data already exists in Tally or spreadsheets and just needs cleaning and presenting on a screen you can check from your phone.",
       ],
     },
     {
@@ -158,7 +158,7 @@ const bhilwara: CityContent = {
       paragraphs: [
         "We do not have an office in Bhilwara, and we will not borrow an address to look local. We are three engineers working remotely for clients across India. That keeps rent and sales staff out of your quote, and it means the person you talk to is the person building your site.",
         "Work starts with a phone call or WhatsApp chat about your products, customers and the areas you serve. You then get a written plan listing pages, features, timeline and cost. Within the first week or two, a working preview link arrives that you can open on your own phone and share with your partners or sons who run the sales side. Comments come back on WhatsApp, and small fixes usually go live the same day.",
-        "Ankur Kumar builds the websites and applications end to end. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava runs project management along with data science and automation. We work on Indian time and answer seven days a week, which suits owners who only get time to review things after the factory shift ends.",
+        "One of us builds the websites and applications end to end. Another of us handles AI, machine learning, AWS and data. The third of us runs project management along with data science and automation. We work on Indian time and answer seven days a week, which suits owners who only get time to review things after the factory shift ends.",
       ],
     },
     {

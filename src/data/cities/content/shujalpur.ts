@@ -68,7 +68,7 @@ const shujalpur: CityContent = {
       paragraphs: [
         "Shujalpur's day begins with tractor-trolleys queuing at the mandi gate and ends with shopkeepers counting cash in the market. In between, farmers, students and patients from the surrounding villages come in by bus, bike and train. A growing share of them look things up on a phone first: the day's soybean rate, whether a seed variety has arrived, which doctor sits on Thursday, when college forms open.",
         "The work we are asked to do for <strong>IT services in Shujalpur</strong> follows those questions. A Hindi website that answers them, a Google Maps listing that points to the right gate, a WhatsApp line that replies when the owner cannot, or a small piece of software that keeps lots, weights and payments straight. Occasionally an app, when the same people need to come back every week.",
-        "We are an <strong>IT services team in Shujalpur</strong> only in the sense that we serve it; we have no office in the town and never pretend otherwise. Ankur Kumar builds the websites, apps and web software. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava plans each project and designs the automation and reporting.",
+        "We are an <strong>IT services team in Shujalpur</strong> only in the sense that we serve it; we have no office in the town and never pretend otherwise. One of us builds the websites, apps and web software. Another of us handles AI, machine learning, AWS and data. The third of us plans each project and designs the automation and reporting.",
       ],
     },
     {
@@ -168,7 +168,7 @@ const shujalpur: CityContent = {
       paragraphs: [
         "Clients sometimes ask how they can trust a team they will never meet across a counter. The answer is paperwork and visibility. After a first call, you receive a written scope listing the pages or screens, the timeline and the cost of each item. Nothing starts, and nothing is billed, until you approve it.",
         "While we work, you get preview links that open on any phone, so your partner, your munim or your children can check them too. Hindi text comes to you for reading before it goes live. Payments follow stages you can see working. If a date slips, you hear it from us the same day, with the reason and the new date.",
-        "WhatsApp is our main channel, and it is answered seven days a week on Indian time, including Sundays in the middle of the soybean season. You always know whom to ask: Ankur for the build, Santosh for AI and data, Vedansh for scope and schedule. To begin, message us from the <a href=\"/contact/\">contact page</a>.",
+        "WhatsApp is our main channel, and it is answered seven days a week on Indian time, including Sundays in the middle of the soybean season. You always know whom to ask: one of us for the build, another of us for AI and data, the third of us for scope and schedule. To begin, message us from the <a href=\"/contact/\">contact page</a>.",
       ],
     },
     {

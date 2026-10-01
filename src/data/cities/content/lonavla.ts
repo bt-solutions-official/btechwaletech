@@ -69,7 +69,7 @@ const lonavla: CityContent = {
       paragraphs: [
         "Lonavla's permanent population is modest, but its customer base is the whole Mumbai–Pune belt. Families book a bungalow for the weekend, college groups plan monsoon trips to Bhushi Dam and Tiger's Leap, trekkers head for Rajmachi and Lohagad, and almost everyone buys a box of chikki on the way home. Nearly all of these decisions start on a phone, often days before the visit and sometimes from the car on the expressway.",
         "That shapes what <strong>IT services in Lonavla</strong> need to do. A villa owner wants guests to find the property, see real photos and book directly without a heavy platform commission. A resort wants its WhatsApp to stop drowning in the same tariff question. A chikki maker wants repeat buyers in Mumbai to reorder without visiting. A school or yoga retreat wants to look credible to parents and students from other cities.",
-        "We are a remote team of three: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We have no office in Lonavla. The work runs over WhatsApp, calls and screen shares, with written progress at each step.",
+        "We are a remote team of three: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We have no office in Lonavla. The work runs over WhatsApp, calls and screen shares, with written progress at each step.",
         "If you are not sure where to begin, start with a <a href=\"/services/web-development/\">website</a> and a correct map listing; everything else builds on those.",
       ],
     },

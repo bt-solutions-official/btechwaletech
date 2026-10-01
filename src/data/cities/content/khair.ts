@@ -168,7 +168,7 @@ const khair: CityContent = {
       paragraphs: [
         "We do not have an office in Khair, in Aligarh or anywhere in Uttar Pradesh, and we will not put a borrowed address on a map to look local. We are three engineers who work remotely with clients across India. Skipping rent and a sales staff is the main reason our starting prices stay where they are.",
         "The steps are simple. You send a message on WhatsApp or fill in the <a href=\"/contact/\">contact form</a>. We call to understand what you sell and who buys from you, then send a page plan, a timeline and an itemised quote, usually within two working days. After you approve it, you get a private link and can watch the site take shape on your own phone. Changes are asked for on WhatsApp, and small ones are often finished the same day.",
-        "Ankur Kumar builds the websites and web applications. Santosh Sharma looks after AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and handles automation and data science. You talk directly to the person doing the work, seven days a week, in Indian time.",
+        "One of us builds the websites and web applications. Another of us looks after AI, machine learning, AWS and data work. The third of us manages projects and handles automation and data science. You talk directly to the person doing the work, seven days a week, in Indian time.",
       ],
     },
     {

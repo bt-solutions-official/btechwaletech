@@ -161,7 +161,7 @@ const sambalpur: CityContent = {
       paragraphs: [
         "We have no office in Sambalpur and will not claim one. We are three engineers working remotely for clients across India. Without rent or a sales team, our starting prices stay lower, and you always speak with the person doing the work.",
         "Everything runs on phone calls, WhatsApp and screen sharing. We begin with a conversation about your customers, then send a page plan, timeline and itemised quote. Once approved, you receive a live preview link to check on your phone and show your family or partners. Changes are requested on WhatsApp and small ones are typically done the same day. We reply seven days a week, in Indian time.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma looks after AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">get in touch</a> whenever you are ready.",
+        "One of us builds the websites and applications. Another of us looks after AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">get in touch</a> whenever you are ready.",
       ],
     },
     {

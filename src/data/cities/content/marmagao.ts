@@ -177,7 +177,7 @@ const marmagao: CityContent = {
       heading: "Working with our remote team from Goa",
       paragraphs: [
         "We have no office in Vasco, Panaji or anywhere else in Goa, and we will not list a local address that we never use. We are three engineers working remotely with clients across India, which keeps our prices reasonable and means you talk directly to the people building your site.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. We start with a WhatsApp chat or call, then share a page plan, timeline and itemised quote, usually within two working days.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. We start with a WhatsApp chat or call, then share a page plan, timeline and itemised quote, usually within two working days.",
         "You test the site on your own phone through a preview link and send corrections on WhatsApp. We work on IST and reply seven days a week, and small changes usually go live the same day. <a href=\"/contact/\">Message us</a> to begin.",
       ],
     },

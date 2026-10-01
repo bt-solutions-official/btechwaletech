@@ -157,7 +157,7 @@ const hisar: CityContent = {
       id: "remote-hisar",
       heading: "How a remote team runs a Hisar project",
       paragraphs: [
-        "We have no office in Hisar and we do not list a borrowed address to look local. BtechWaleTech is three engineers working remotely for clients across India. Ankur Kumar builds the websites and applications end to end. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava plans the project, keeps timelines honest and builds the automation and analytics pieces.",
+        "We have no office in Hisar and we do not list a borrowed address to look local. BtechWaleTech is three engineers working remotely for clients across India. One of us builds the websites and applications end to end. Another of us handles AI, machine learning, AWS and data. The third of us plans the project, keeps timelines honest and builds the automation and analytics pieces.",
         "A project starts with a conversation about your customers, not your colours. We then send a written page plan, timeline and itemised quote, usually within two working days. Once approved, you receive a live preview link that you can open on your own phone and share with a partner or family member. Comments come back on WhatsApp and small changes often go live the same evening.",
         "We work on Indian time and reply every day of the week, which suits shop owners who can only review work on a Sunday. You always know which of the three is handling your job, and you can reach any of us directly.",
       ],

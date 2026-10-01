@@ -70,7 +70,7 @@ const nuzvid: CityContent = {
       paragraphs: [
         "Nuzvid has two economies running side by side. One follows the orchards: flowering in winter, picking from April, lorries leaving for Vijayawada, Hyderabad and other states until the monsoon arrives. The other follows the academic calendar at RGUKT on Mylavaram Road, where students from rural Andhra Pradesh study engineering and need hostels, food, stationery, repairs and transport.",
         "Most requests we get for <strong>IT services in Nuzvid</strong> come from one of these two worlds. A grower wants buyers outside the district to find him directly. A commission agent wants a cleaner record of boxes, lorries and advances. A hostel owner wants parents to see rooms, rules and fees before they travel. A clinic wants its timings right on Google Maps.",
-        "We are three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Nuzvid and will not pretend otherwise. Everything runs through WhatsApp, calls and screen shares, with written plans at each step.",
+        "We are three engineers working remotely. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Nuzvid and will not pretend otherwise. Everything runs through WhatsApp, calls and screen shares, with written plans at each step.",
       ],
     },
     {

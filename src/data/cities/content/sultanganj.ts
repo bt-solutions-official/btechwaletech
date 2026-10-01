@@ -69,7 +69,7 @@ const sultanganj: CityContent = {
       paragraphs: [
         "Sultanganj runs on two calendars. For about a month in July and August, the Shravani Mela brings kanwariyas in saffron to the ghats below the Ajgaibinath temple. They fill pots with water from the Ganga, which flows north at this point, and walk roughly 105 km to Baidyanath Temple in Deoghar. For the other eleven months, Sultanganj is a trading and farming town of about fifty thousand people, 25 km west of Bhagalpur, with the usual demand for doctors, schools, shops and transport.",
         "That split shapes most requests we get for <strong>IT services in Sultanganj</strong>. A dharamshala wants group bookings sorted before the rush. A shop selling kanwars and puja items wants advance orders from other districts. A clinic wants its hours and doctors listed in Hindi. A grain trader wants his books out of the notebook and onto a phone.",
-        "We are a remote team of three engineers. Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. There is no office in Sultanganj or Bhagalpur, and we never claim one. Anyone searching for an <strong>IT services team in Sultanganj</strong> should know that up front: we meet on calls and WhatsApp, and everything we agree is written down.",
+        "We are a remote team of three engineers. One of us handles full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. There is no office in Sultanganj or Bhagalpur, and we never claim one. Anyone searching for an <strong>IT services team in Sultanganj</strong> should know that up front: we meet on calls and WhatsApp, and everything we agree is written down.",
       ],
     },
     {
@@ -114,7 +114,7 @@ const sultanganj: CityContent = {
       paragraphs: [
         "Away from the ghats, Sultanganj is a market for the farming villages around it. The Ganga's alluvial soil supports rice, wheat, maize and other crops, and Bhagalpur district holds geographical indication tags for Katarni rice, Zardalu mango and Bhagalpur silk. Traders, millers, fertiliser dealers, hardware shops and transporters all do business on credit, and most still track it in notebooks.",
         "For them, an <strong>IT services team in Sultanganj</strong> is useful only if it saves time or money. We build billing and stock tools that print GST invoices, show credit outstanding by customer, and warn when stock runs low. For sellers of Katarni rice or Zardalu mangoes who want buyers outside Bihar, we build product pages that explain the GI origin clearly, with pack sizes, dispatch windows and UPI or card payment.",
-        "Data work fits here too. Santosh Sharma can turn two or three years of sales, purchases and dues into a dashboard that shows which customers pay late, which products move in which months, and how the mela weeks compare with the rest of the year. Owners usually find one or two surprises that pay for the exercise.",
+        "Data work fits here too. Another of us can turn two or three years of sales, purchases and dues into a dashboard that shows which customers pay late, which products move in which months, and how the mela weeks compare with the rest of the year. Owners usually find one or two surprises that pay for the exercise.",
       ],
     },
     {
@@ -169,7 +169,7 @@ const sultanganj: CityContent = {
       paragraphs: [
         "Will you ever meet us in person? Probably not. We are three engineers who work remotely and keep no office in Bihar or anywhere else. What replaces the meeting is a written trail. After a first call about your business, you get a plan listing pages or screens, dates and the cost of each item, usually within two working days.",
         "Work starts only after you approve that plan in writing, and no money is asked for before then. As the site or app takes shape, we send preview links that open on any phone, so you can show them to family or partners. Payments are tied to stages you can see working.",
-        "Who does what? Ankur Kumar builds the website or app. Santosh Sharma sets up AI, AWS hosting and data dashboards. Vedansh Shrivastava plans the schedule, follows up and handles automation. We answer on WhatsApp every day of the week, Indian time, and if a date slips you hear about it the same day. Hindi text is always sent to you for checking before it goes live, because a mistake in a rate or a room description turns into an argument at the counter.",
+        "Who does what? One of us builds the website or app. Another of us sets up AI, AWS hosting and data dashboards. The third of us plans the schedule, follows up and handles automation. We answer on WhatsApp every day of the week, Indian time, and if a date slips you hear about it the same day. Hindi text is always sent to you for checking before it goes live, because a mistake in a rate or a room description turns into an argument at the counter.",
       ],
     },
     {

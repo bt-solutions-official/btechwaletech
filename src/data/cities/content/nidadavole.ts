@@ -71,7 +71,7 @@ const nidadavole: CityContent = {
       paragraphs: [
         "For most businesses here the list is short: a Telugu website that loads on a basic Android phone, a Google Maps listing with the correct pin and hours, and a way to handle WhatsApp enquiries when the shop or the mill is busy. That set covers the majority of enquiries we receive.",
         "Nidadavole is a municipality and mandal headquarters in the Kovvur revenue division, and it earns its living from two things: what the canal-fed land around it produces, and the two railway lines that cross at the junction. Paddy, sugarcane, bags, fertiliser, hardware and people all move through the town, and a fair share of the buying decisions now begin with a search on a phone in Telugu.",
-        "Three of us handle <strong>IT services in Nidadavole</strong> between us. Ankur Kumar writes the sites and web applications, Santosh Sharma takes the AI, machine learning, AWS and data work, and Vedansh Shrivastava handles project management, data science and automation. There is no office of ours in Nidadavole, Rajahmundry or anywhere else. We say so at the start, because it is why the starting prices are what they are and why nobody is billing you for a showroom.",
+        "Three of us handle <strong>IT services in Nidadavole</strong> between us. One of us writes the sites and web applications, another of us takes the AI, machine learning, AWS and data work, and the third of us handles project management, data science and automation. There is no office of ours in Nidadavole, Rajahmundry or anywhere else. We say so at the start, because it is why the starting prices are what they are and why nobody is billing you for a showroom.",
       ],
     },
     {
@@ -160,7 +160,7 @@ const nidadavole: CityContent = {
       paragraphs: [
         "During harvest the WhatsApp of a mill office or a transport agent is unusable. Rate questions, lorry availability, bag supply, payment status and booking requests arrive together, and the messages that go unanswered for six hours are the ones that go to somebody else.",
         "<strong>AI and WhatsApp automation in Nidadavole</strong> takes the repeating layer off your staff. The assistant answers in Telugu and English with the rates, timings, capacity and terms you have given it, collects order, lorry or appointment details into a sheet or into your software, and hands anything it was not taught straight to you with the conversation attached. It runs on the official WhatsApp Business platform so your number stays in good standing.",
-        "Santosh Sharma builds these, and the honest part of the work is the first step: reading a sample of your real chats, with your permission, to see which questions repeat often enough to automate. Anything involving a price negotiation or a credit decision stays with you by design. Automation starts at ₹40,000 and normally takes two to four weeks.",
+        "Another of us builds these, and the honest part of the work is the first step: reading a sample of your real chats, with your permission, to see which questions repeat often enough to automate. Anything involving a price negotiation or a credit decision stays with you by design. Automation starts at ₹40,000 and normally takes two to four weeks.",
       ],
     },
     {
@@ -177,7 +177,7 @@ const nidadavole: CityContent = {
       heading: "How a three-person remote team runs a Nidadavole project",
       paragraphs: [
         "We will never walk into your office, because we do not have one either. What replaces the visit is a document. One call about your trade and your customers, then a written outline listing every page or app screen, the order they get built in, the dates, and a cost against each line. You approve that outline before anything starts, and nothing is billed before you do.",
-        "The same three people stay on the job from that call to launch: Ankur Kumar on development, Santosh Sharma on AI, cloud and data, Vedansh Shrivastava on planning and automation. You are not handed to an account manager, and you are not told a specialist will join later.",
+        "The same three people stay on the job from that call to launch: one of us on development, another of us on AI, cloud and data, the third of us on planning and automation. You are not handed to an account manager, and you are not told a specialist will join later.",
         "Preview links arrive as sections get built, and they open on any phone, so you can show a partner at the mill or a son working in Hyderabad before anything is public. Telugu text always comes to you for reading first, because a wrong spelling in a temple name, a doctor's qualification or a fee table is the sort of thing this town talks about. WhatsApp is the main line, answered all seven days on Indian time, and a slipping date is reported the day we see it, with a new date attached.",
       ],
     },

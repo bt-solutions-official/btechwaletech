@@ -168,7 +168,7 @@ const tirupati: CityContent = {
       paragraphs: [
         "We have no office in Tirupati and will not pretend to have one. We are three engineers who work remotely for clients across India. For you, that means no office rent built into the quote and direct contact with the people who build your website, rather than a salesperson who hands your project to someone you never hear from.",
         "The process is straightforward. We start with a call or WhatsApp conversation about your business, then send a page plan, timeline and itemised quote. Within a week or two you receive a live preview link to open on your phone. Feedback goes on WhatsApp, and small changes are often made the same day. We reply seven days a week on Indian time, which matters in a city where the busiest days are weekends and festivals.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and covers data science and automation. You can reach any of us directly. More on our approach is on the <a href=\"/services/web-development/\">web development page</a>.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and covers data science and automation. You can reach any of us directly. More on our approach is on the <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {

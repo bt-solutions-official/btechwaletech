@@ -27,7 +27,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Self-hosted open LLMs · your cloud, your servers, your data",
     h1: "Private LLM deployment: run open models on your own cloud so sensitive data stays under your control",
-    lede: `Private LLM deployment means running an open language model such as Llama, Mistral or Qwen on servers you control, so prompts, documents and answers never pass through a third-party AI API. BtechWaleTech is three freelance developers in India, with AWS and ML work led by Santosh Sharma, who size the GPUs, set up the inference server, lock down the network and measure quality against hosted APIs. Setups start at ${P.ai}, and GPU bills go straight to your own account.`,
+    lede: `Private LLM deployment means running an open language model such as Llama, Mistral or Qwen on servers you control, so prompts, documents and answers never pass through a third-party AI API. BtechWaleTech is three freelance developers in India, with AWS and ML work led by another of us, who size the GPUs, set up the inference server, lock down the network and measure quality against hosted APIs. Setups start at ${P.ai}, and GPU bills go straight to your own account.`,
     pills: ["Llama, Mistral, Qwen, Indic models", "GPU sizing", "AWS Mumbai and Hyderabad", "Indian GPU clouds", "vLLM inference", "DPDP-aware design", "Quality benchmarks"],
     origin: "Three freelance developers in India · AWS, ML and data work · WhatsApp 7 days a week",
   },

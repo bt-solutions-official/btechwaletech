@@ -176,7 +176,7 @@ const jamnagar: CityContent = {
       paragraphs: [
         "We do not have an office in Jamnagar, and we will not pretend to with a borrowed address. We are three engineers who work remotely with clients across India, which keeps rent and sales staff out of your quote and gives you direct access to the people doing the work.",
         "A project starts with a phone or WhatsApp conversation. Within about two working days you get a written page plan, timeline and itemised quote. After approval, you receive a live preview link early on, which you can open on your phone and share with partners. Changes are requested on WhatsApp, and small edits usually go live the same day. We work on Indian time and reply seven days a week.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can reach any of us through the <a href=\"/contact/\">contact page</a>.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can reach any of us through the <a href=\"/contact/\">contact page</a>.",
       ],
     },
     {

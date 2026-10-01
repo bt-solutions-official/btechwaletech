@@ -169,7 +169,7 @@ const kohima: CityContent = {
       paragraphs: [
         "We do not have an office in Kohima, and we will not pretend to. We are three engineers working remotely for clients around India. Not paying rent or a sales staff is part of why our starting prices are what they are, and it means you speak directly with the people doing the work.",
         "The process runs on calls, WhatsApp and screen sharing. We start by asking about your customers and what they ask most often. Then we send a page plan, a timeline and an itemised quote. Once you approve, you receive a preview link that you can open on your phone and show your partners or family. Small changes asked on WhatsApp are often done the same day, and we reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development of websites and applications. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. When you want to talk, <a href=\"/contact/\">send us a message</a>.",
+        "One of us handles full-stack development of websites and applications. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. When you want to talk, <a href=\"/contact/\">send us a message</a>.",
       ],
     },
     {

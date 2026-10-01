@@ -214,7 +214,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Small details tell visitors whether a site was built for them. We localise for US users by default when the client is American.`,
         `That means US English spelling, dates as month/day/year, phone numbers in US format with click-to-call, addresses with state and ZIP code, and imperial units where your trade uses them. For stores, it means sales tax configured per state with your accountant's guidance and shipping rules that reflect US carriers and zones.`,
-        `Performance matters too. We host in a US region, for example an AWS region in the United States, or use a CDN with US edge locations, so pages load quickly for your customers rather than for us. For local businesses, we set up LocalBusiness schema and help keep your Google Business Profile consistent with the site. Santosh handles hosting, AWS and technical SEO on our team.`,
+        `Performance matters too. We host in a US region, for example an AWS region in the United States, or use a CDN with US edge locations, so pages load quickly for your customers rather than for us. For local businesses, we set up LocalBusiness schema and help keep your Google Business Profile consistent with the site. Another of us handles hosting, AWS and technical SEO on our team.`,
       ],
     },
     {

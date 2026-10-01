@@ -210,7 +210,7 @@ const chikkamagaluru: CityContent = {
       heading: "Working with us from Chikkamagaluru",
       paragraphs: [
         "We have no office in Chikkamagaluru and do not pretend to. We are three engineers working remotely for businesses across India, and you talk directly to the people building your project.",
-        "Ankur Kumar is our full-stack developer. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and covers data science and automation. We begin with a WhatsApp chat or call about your business, then send a page plan and itemised quote in about two working days. You review the site on your own phone through a preview link and send changes whenever convenient.",
+        "One of us is our full-stack developer. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and covers data science and automation. We begin with a WhatsApp chat or call about your business, then send a page plan and itemised quote in about two working days. You review the site on your own phone through a preview link and send changes whenever convenient.",
         "We keep IST hours and reply seven days a week. To start, <a href=\"/contact/\">send us a message</a> about your estate, stay or shop.",
       ],
     },

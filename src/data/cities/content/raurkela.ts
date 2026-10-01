@@ -160,7 +160,7 @@ const raurkela: CityContent = {
       paragraphs: [
         "We do not have an office in Rourkela and will not invent one. We are three engineers who work remotely for clients across India, so there is no rent or sales commission in your quote and you speak directly with the people building your site.",
         "The process is straightforward: a call or WhatsApp chat about your business, a written page plan, timeline and quote, then a live preview link within a week or two that you can open on your own phone. Changes go on WhatsApp and small ones usually go live the same day. We work Indian hours and reply seven days a week, which suits shift-based businesses that only get free time on a weekly off.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. With three of us, your project does not stall if one person is unavailable.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. With three of us, your project does not stall if one person is unavailable.",
       ],
     },
     {

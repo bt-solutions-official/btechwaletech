@@ -69,7 +69,7 @@ const vatakara: CityContent = {
       paragraphs: [
         "Vatakara, often written Vadakara, has been a market town of north Malabar for centuries, once the centre of the Kadathanadu principality and a port for pepper and other produce. Today it is a busy municipal town of around seventy-five thousand people on NH 66, with the railway, fishing coast, Nut Street's coconut and areca trade, and a wide hinterland of villages towards Kuttiady and Nadapuram.",
         "When people here look for <strong>IT services in Vatakara</strong>, the brief is usually practical. A halwa maker wants orders from Bengaluru and the Gulf without phone calls at midnight. A dental or eye clinic wants appointment requests on WhatsApp. A tuition centre wants to send notices without twenty group chats. A copra trader wants to see, on one screen, what each supplier and buyer owes.",
-        "We do this as a remote team of three: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We have no office in Vatakara or Kozhikode and say so plainly. Work runs over WhatsApp, calls and screen sharing, with plans and approvals written down.",
+        "We do this as a remote team of three: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We have no office in Vatakara or Kozhikode and say so plainly. Work runs over WhatsApp, calls and screen sharing, with plans and approvals written down.",
       ],
     },
     {

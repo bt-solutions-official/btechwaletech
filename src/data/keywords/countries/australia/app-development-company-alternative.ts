@@ -189,7 +189,7 @@ const content: FreelanceContent = {
       heading: "What a three-person team can and cannot do compared with a larger studio",
       paragraphs: [
         `Three developers can take a well-defined app from scope to store and keep it running. They cannot staff parallel workstreams across several products, run on-site research, or scale to a dozen engineers next month.`,
-        `On our side, Ankur Kumar leads full-stack and app development, Santosh Sharma handles cloud, data and AI features, and Vedansh Shrivastava manages the project, schedule and automation. Everyone knows the codebase, so a holiday or illness does not stall your build the way it can with a single freelancer.`,
+        `On our side, one of us leads full-stack and app development, another of us handles cloud, data and AI features, and the third of us manages the project, schedule and automation. Everyone knows the codebase, so a holiday or illness does not stall your build the way it can with a single freelancer.`,
         `If your roadmap already needs separate web, mobile and data teams working at once, or your board expects a supplier with a physical presence, an Australian studio or a larger firm is the better match. We would rather say that on the first call than overpromise.`,
       ],
     },

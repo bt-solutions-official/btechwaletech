@@ -69,7 +69,7 @@ const sangamner: CityContent = {
       paragraphs: [
         "Sangamner takes its name from a confluence: the Pravara, Mhalungi and Adhala meet near the town. It is the headquarters of one of Ahmednagar district's largest talukas and a trading centre for villages that live on milk, sugarcane, onions and vegetables. On market days its streets fill with families buying cloth, gold, phones, utensils and farm inputs, and many of those buyers now search on their phones before they leave home.",
         "Most requests for <strong>IT services in Sangamner</strong> are practical. A cloth merchant wants a proper Google listing and a catalogue on WhatsApp. A dairy society wants milk collection slips and payment sheets without handwritten registers. A hospital wants patients from Akole or Rahuri to see OPD timings before travelling. A coaching class wants admission forms and fee reminders that parents actually read.",
-        "We handle this as a remote team of three. Ankur Kumar does full-stack development, Santosh Sharma looks after AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Sangamner and do not pretend to; we work on WhatsApp, phone calls and screen sharing, and every plan and quote reaches you in writing.",
+        "We handle this as a remote team of three. One of us does full-stack development, another of us looks after AI, machine learning, AWS and data work, and the third of us runs project management, data science and automation. We have no office in Sangamner and do not pretend to; we work on WhatsApp, phone calls and screen sharing, and every plan and quote reaches you in writing.",
       ],
     },
     {

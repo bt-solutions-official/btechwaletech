@@ -241,7 +241,7 @@ const content: FreelanceContent = {
       id: "working-from-australia",
       heading: "Working with a white label SEO team in India from Australia",
       paragraphs: [
-        `You deal directly with three freelance developers, not a rotating account team. Ankur Kumar handles full-stack changes on client sites, Santosh Sharma leads technical SEO and data, and Vedansh Shrivastava manages schedules, briefs and reporting.`,
+        `You deal directly with three freelance developers, not a rotating account team. One of us handles full-stack changes on client sites, another of us leads technical SEO and data, and the third of us manages schedules, briefs and reporting.`,
         `Communication runs through WhatsApp, email, a shared tracker and video calls in your afternoon. We have no Australian office and do not attend client meetings; you front the relationship. Quotes are in USD, and agencies usually pay by Wise from an AUD account, by bank wire or PayPal. Invoices come from India.`,
         `The first two weeks with a new agency partner look like this. In week one we agree the responsibility split, your report template and the first client's scope; you arrange access in the client's accounts. In week two we run the audit, send findings to you in draft for review, apply the first approved fixes and set up the dashboard in your account. From the second month the monthly rhythm takes over.`,
       ],

@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A freelance WooCommerce developer takes a WordPress site and turns it into a store that can take money, calculate tax, produce invoices, talk to couriers and survive a festive-season sale. Installing the plugin takes minutes; making it fit your business takes weeks.`,
         `The work usually spans setup (hosting, WordPress, WooCommerce, theme), catalogue (categories, attributes, variations, images), checkout (payment methods, COD rules, address fields that suit Indian addresses), tax and invoicing, shipping, notifications, and performance. On many stores there is custom code too: a small plugin that adds a feature the business needs and no off-the-shelf extension handles cleanly.`,
-        `On our team Ankur builds and customises the store, Santosh handles hosting on AWS or a managed WordPress host, caching, backups and technical SEO, and Vedansh maps your order flow and automates the repetitive parts, such as pushing orders to a sheet or sending WhatsApp dispatch alerts.`,
+        `On our team one of us builds and customises the store, another of us handles hosting on AWS or a managed WordPress host, caching, backups and technical SEO, and the third of us maps your order flow and automates the repetitive parts, such as pushing orders to a sheet or sending WhatsApp dispatch alerts.`,
       ],
       list: [
         "Store setup: hosting, SSL, WordPress, WooCommerce, theme",

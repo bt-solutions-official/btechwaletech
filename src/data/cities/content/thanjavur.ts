@@ -158,7 +158,7 @@ const thanjavur: CityContent = {
       paragraphs: [
         "We have no office in Thanjavur and do not claim one. We are three engineers who work remotely with clients across India. Not paying rent or sales staff keeps our prices lower, and it means the person you speak to is the person doing the work.",
         "Work runs over phone calls, WhatsApp and screen sharing. After a first conversation, you receive a page plan, timeline and itemised quote, usually within two working days. Once approved, you get a private preview link to check on your own phone and share with partners or family. Feedback goes over WhatsApp, and small changes are often done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar builds the websites and web applications. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">reach us directly</a> without going through a salesperson.",
+        "One of us builds the websites and web applications. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">reach us directly</a> without going through a salesperson.",
       ],
     },
     {

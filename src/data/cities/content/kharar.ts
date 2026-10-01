@@ -183,7 +183,7 @@ const kharar: CityContent = {
       id: "remote-team-kharar",
       heading: "Three engineers, no Kharar office, and how we work with you",
       paragraphs: [
-        "We should be clear: BtechWaleTech has no office in Kharar, Mohali or anywhere in Punjab, and we will not show you a borrowed address. We are three engineers who work remotely. Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation.",
+        "We should be clear: BtechWaleTech has no office in Kharar, Mohali or anywhere in Punjab, and we will not show you a borrowed address. We are three engineers who work remotely. One of us handles full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us runs project management, data science and automation.",
         "You tell us what you need over WhatsApp or a short video call. Within about two working days you receive an itemised written quote. Nothing starts and nothing is billed until you approve it in writing. During the build you follow progress on a live preview link and send comments whenever it suits you, whether from the PG office or between site visits.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time, and every change request and payment milestone is kept in writing so there are no surprises at the end.",
       ],

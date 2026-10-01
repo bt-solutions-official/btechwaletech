@@ -69,7 +69,7 @@ const sirsi: CityContent = {
       paragraphs: [
         "Sirsi heads a taluk, a revenue subdivision covering Sirsi, Siddapur, Yellapur and Mundgod, and an educational district set up in 2009. Its municipal council goes back to 1866. More than three-quarters of the taluk is forest, and the town is the place where growers from across the uplands come to sell areca and spice, bank with their cooperative, buy inputs and visit a doctor.",
         "That economy is increasingly handled on phones. A grower checks today's rate before deciding whether to sell. A family in Bengaluru books a homestay near Unchalli. A student looks up forestry admissions. Most of what people ask us for under <strong>IT services in Sirsi</strong> grows out of this: a clear Kannada website, an accurate map pin, orders over WhatsApp, or a lot register to replace the ledger.",
-        "Three of us do the work. Ankur Kumar is the full-stack developer. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles data science and automation, and he is the one who usually takes your first call.",
+        "Three of us do the work. One of us is the full-stack developer. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and handles data science and automation, and he is the one who usually takes your first call.",
         "We do not have a Sirsi office, and we will not pretend to. Calls, chats and screen sharing replace visits, and decisions are recorded in writing. Nobody has to drive down a ghat road for a meeting, and our prices are not paying for a showroom.",
       ],
     },

@@ -69,7 +69,7 @@ const chirkunda: CityContent = {
       paragraphs: [
         "Chirkunda is the last Jharkhand town on NH 19 before the highway crosses the Barakar river into Barakar, a neighbourhood of Asansol in West Bengal. The Damodar marks its southern edge and the Barakar its eastern one, and both rivers form the state line. Dhanbad, the district headquarters, is about 45 kilometres away, yet many people here shop, study and work across the bridge as easily as in their own town. Hindi, Bengali, Khortha and Marwari are all heard in the same market lane.",
         "That mix shapes what people ask us for. Enquiries for <strong>IT services in Chirkunda</strong> usually come from wholesalers who supply shops on both sides of the river, refractory and fire-brick makers in Kumardhubi and Dumarkunda, transporters and contractors working the Mugma coal area, and schools, coaching centres and clinics serving the wider Nirsa block. Most want a clear website, a correct map listing, a way to handle WhatsApp orders, or a simple register that replaces a stack of challans.",
-        "We are a remote team of three, and we have no office in Chirkunda, Dhanbad or Asansol. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. If you are searching for an <strong>IT services team in Chirkunda</strong> that works over WhatsApp and puts everything in writing, that is how we operate.",
+        "We are a remote team of three, and we have no office in Chirkunda, Dhanbad or Asansol. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. If you are searching for an <strong>IT services team in Chirkunda</strong> that works over WhatsApp and puts everything in writing, that is how we operate.",
       ],
     },
     {
@@ -169,7 +169,7 @@ const chirkunda: CityContent = {
       paragraphs: [
         "A typical project begins with a WhatsApp message and a call of twenty or thirty minutes about your trade, your buyers and what you want to change. Within about two working days you receive a written plan: pages or app screens, timeline and a costed list of every item. Nothing starts, and nothing is billed, until you approve it.",
         "During the build, you get preview links that open on any phone, so you can check the design in the shop between customers or show it to a partner in the evening. Hindi and Bengali text comes to you for approval before it goes live, since a spelling slip on a product page is exactly the kind of thing a buyer from across the river will notice.",
-        "We have no office in Chirkunda, and we do not pretend otherwise. Ankur Kumar builds the websites and apps, Santosh Sharma handles AI, cloud and data, and Vedansh Shrivastava plans the work and the automation. WhatsApp is answered seven days a week on Indian time. If something runs late, we tell you the day we know, with a new date, and each payment follows a milestone you have seen working.",
+        "We have no office in Chirkunda, and we do not pretend otherwise. One of us builds the websites and apps, another of us handles AI, cloud and data, and the third of us plans the work and the automation. WhatsApp is answered seven days a week on Indian time. If something runs late, we tell you the day we know, with a new date, and each payment follows a milestone you have seen working.",
       ],
     },
     {

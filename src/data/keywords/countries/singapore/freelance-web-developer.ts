@@ -52,7 +52,7 @@ const content: FreelanceContent = {
   snapshot: {
     caption: "Freelance web developer for Singapore, in seven lines",
     rows: [
-      { label: "Who builds it", value: "Ankur, Santosh and Vedansh, three freelancers in India" },
+      { label: "Who builds it", value: "The BtechWaleTech team, three freelancers in India" },
       { label: "Business website", value: `From ${P.site}, 1–2 weeks` },
       { label: "Content-heavy SEO site", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Hours you can reach us", value: "Most of the SGT business day, plus WhatsApp 7 days" },
@@ -121,7 +121,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A three-person team is safer on continuity; a solo local freelancer is better if you want face-to-face meetings and the site is small enough that a delay would not hurt. That is the honest trade-off, and neither answer is wrong.`,
         `A solo freelance web developer in Singapore brings things a remote team cannot: coffee meetings in Tanjong Pagar, a shared understanding of local business culture, and billing in SGD without conversion. What one person cannot offer is redundancy. Holidays, reservist call-ups, illness, a bigger client or simply burnout can stall a project for weeks, and there is nobody else who knows where the code lives.`,
-        `Our set-up addresses exactly that gap. Ankur Kumar leads the full-stack build, Santosh Sharma looks after cloud hosting, data and technical SEO, and Vedansh Shrivastava runs the plan, the checklists and the automation. All three work in the same repository with written notes, so any one of them can answer your message about any part of the project.`,
+        `Our set-up addresses exactly that gap. One of us leads the full-stack build, another of us looks after cloud hosting, data and technical SEO, and the third of us runs the plan, the checklists and the automation. All three work in the same repository with written notes, so any one of them can answer your message about any part of the project.`,
       ],
       subs: [
         { heading: "Choose a solo local freelancer when", text: "The site is under ten pages, you want in-person workshops, you are comfortable with a single point of contact and your launch date has slack." },
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
   faqs: [
     { question: "How much does a freelance web developer cost in Singapore?", answer: `It depends on scope, and quotes vary widely between local freelancers, marketplace sellers and remote teams. The main drivers are unique layouts, copywriting, integrations and payments. Our business websites start at ${P.site}, SEO websites at ${P.seoSite} and online stores at ${P.shop}, all quoted in USD with every item listed so you can compare against other quotes line by line.` },
     { question: "Is it better to hire a local freelancer or a remote team in India?", answer: "Hire locally if in-person meetings matter most or a regulator expects a Singapore-registered supplier. Hire a small remote team if you care more about continuity, a lower starting price and having full-stack, cloud and SEO skills under one roof. Both can work well; the key is owning your accounts either way." },
-    { question: "What happens if one of your developers is unavailable?", answer: "The other two carry on. All three of us work from the same Git repository, with written notes on decisions and deployment. Your project manager, Vedansh, reassigns tasks so the timeline is protected, and you keep talking in the same WhatsApp group without having to brief anyone again." },
+    { question: "What happens if one of your developers is unavailable?", answer: "The other two carry on. All three of us work from the same Git repository, with written notes on decisions and deployment. Your project manager, the third of us, reassigns tasks so the timeline is protected, and you keep talking in the same WhatsApp group without having to brief anyone again." },
     { question: "Can a freelance web developer in India work Singapore hours?", answer: "Largely, yes. Singapore is two and a half hours ahead of India, so a 9 am to 6 pm SGT day covers 6:30 am to 3:30 pm IST. Calls fit comfortably from late morning SGT onward, and WhatsApp messages are read seven days a week." },
     { question: "How do I pay a freelancer in India from Singapore?", answer: "We quote in USD and most Singapore clients pay through Wise from an SGD account, which shows the rate and fee up front. Bank wire also works. Payments are tied to milestones in the written quote, and nothing is billed before you approve that quote." },
     { question: "Will I get a Singapore GST invoice?", answer: "No. Invoices are issued from India, and we do not have a Singapore entity or GST registration. How your company treats an imported service for tax purposes is a question for your accountant, and we will provide whatever invoice details they need." },

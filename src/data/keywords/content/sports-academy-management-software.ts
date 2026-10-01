@@ -295,7 +295,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The admin system is a web application that works in any browser at the front desk or on the owner's laptop. We typically use a JavaScript framework for the interface, Node.js or Python behind it, and PostgreSQL for data, hosted in your own cloud account with automated backups. The coach and parent apps are Flutter, talking to the same API, with offline support in the coach app for grounds with poor signal.`,
         `Ownership is simple: the code repository, database, cloud account, payment provider account and app store listings are all in your name from the start. At handover you receive credentials and short documentation. If you later move to another developer, nothing needs our permission.`,
-        `The team behind it is small by design. Ankur Kumar builds the full-stack system, Santosh Sharma handles cloud, data and technical SEO, and Vedansh Shrivastava runs project management and automation. We work remotely in English and Hindi and reply on WhatsApp seven days a week. We do not install hardware such as gate turnstiles or cameras ourselves; your local vendor does that, and we integrate.`,
+        `The team behind it is small by design. One of us builds the full-stack system, another of us handles cloud, data and technical SEO, and the third of us runs project management and automation. We work remotely in English and Hindi and reply on WhatsApp seven days a week. We do not install hardware such as gate turnstiles or cameras ourselves; your local vendor does that, and we integrate.`,
       ],
     },
     {

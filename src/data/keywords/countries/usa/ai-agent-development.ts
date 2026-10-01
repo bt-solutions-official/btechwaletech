@@ -185,7 +185,7 @@ const content: FreelanceContent = {
       heading: "Where should an ai agent development company host your agent?",
       paragraphs: [
         "Host the agent in a cloud account your business owns, usually AWS, Google Cloud or Azure, with the model provider account also in your name. That way you control the data, the logs and the bill, and you can change developers without migrating anything.",
-        `A typical small deployment is a containerized API service or a set of serverless functions, a managed Postgres database with a vector extension for the document index, object storage for source files, a queue for long-running tasks, and a secrets manager for API keys. Santosh on our team handles the cloud side; if you are new to AWS, our <a href='/usa/aws-consulting-for-small-business/'>AWS setup for small businesses</a> page explains the account structure we recommend. Logs go to a store you can query, with personal data masked where the task allows.`,
+        `A typical small deployment is a containerized API service or a set of serverless functions, a managed Postgres database with a vector extension for the document index, object storage for source files, a queue for long-running tasks, and a secrets manager for API keys. Another of us on our team handles the cloud side; if you are new to AWS, our <a href='/usa/aws-consulting-for-small-business/'>AWS setup for small businesses</a> page explains the account structure we recommend. Logs go to a store you can query, with personal data masked where the task allows.`,
         "For businesses handling health, financial or children's data, we host with providers that offer the agreements your sector requires and restrict which fields ever reach the model. Compliance remains your responsibility and your counsel should confirm the setup; we build the controls and document them.",
       ],
     },
@@ -251,7 +251,7 @@ const content: FreelanceContent = {
       heading: "Who owns what an ai agent development company builds for you?",
       paragraphs: [
         "You do. Code lives in a repository under your organization, the model provider and cloud accounts are in your business name, and prompts, tool definitions and evaluation sets are delivered as plain files. We work as invited collaborators whose access you can remove at any time.",
-        "Handover includes an architecture diagram, the tool permission table, runbooks for rotating keys and re-indexing documents, the eval set with instructions to re-run it, and a recorded walkthrough. Ankur documents the application code, Santosh documents the AI and cloud pieces, and Vedansh checks that someone on your side can follow the runbooks without calling us. Conversation logs belong to you and stay in your storage under the retention period you choose.",
+        "Handover includes an architecture diagram, the tool permission table, runbooks for rotating keys and re-indexing documents, the eval set with instructions to re-run it, and a recorded walkthrough. One of us documents the application code, another of us documents the AI and cloud pieces, and the third of us checks that someone on your side can follow the runbooks without calling us. Conversation logs belong to you and stay in your storage under the retention period you choose.",
         "Terms on confidentiality and code assignment are written into your quote; we can also sign your own agreement after reviewing it. Our general terms are on the <a href='/terms/'>terms page</a>.",
       ],
     },

@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     h1: "Clinic website design in Singapore: patient booking that stays within MOH advertising rules",
     lede: `Clinic website design in Singapore is a narrower job than most designers admit: the site has to make booking easy while every word, photo and price follows the Healthcare Services (Advertisement) Regulations. BtechWaleTech is three freelance developers in India who build factual, fast clinic sites with online appointment or queue booking, CHAS and MediSave information pages, careful handling of patient data, and a Google Business Profile that matches. Sites start from ${P.site}. See all our <a href='/singapore/'>Singapore services</a>.`,
     pills: [`Clinic websites from ${P.site}`, "Copy built around HCSA ad rules", "Online appointment or queue booking", "CHAS and MediSave info pages", "Patient data kept to a minimum", "Google Business Profile aligned", "Domain and data in your name"],
-    origin: "Three freelance developers in India · build by Ankur Kumar, data and SEO by Santosh Sharma · WhatsApp replies 7 days a week",
+    origin: "Three freelance developers in India · build by one of us, data and SEO by another of us · WhatsApp replies 7 days a week",
   },
   facts: [
     ["Clinic websites from", `${P.site}, 1–2 weeks`],

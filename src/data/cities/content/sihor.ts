@@ -69,7 +69,7 @@ const sihor: CityContent = {
       paragraphs: [
         "Most requests for <strong>IT services in Sihor</strong> come down to four things: a Gujarati website a customer can read on a phone, a correct Google Maps pin, a way to take enquiries on WhatsApp without losing them, and a small record-keeping tool the family can all see. Very few Sihor owners want a big software project on day one.",
         "That is because the town's economy is hands-on. The re-rolling mills in GIDC Sihor turn ship-breaking plate and mill billets into angles, flats, squares, round bars and TMT bars. Vessel workshops beat copper and brass into thalis, tambas and kansa serving pieces. Potters throw clay, and snuff units still run. Buyers for all of these now arrive by search, not by walking the bazaar.",
-        "We are three engineers working remotely. Ankur Kumar writes the full-stack code, Santosh Sharma handles AI, machine learning, AWS and the data side, and Vedansh Shrivastava runs project management, data science and automation. There is no office in Sihor and we do not pretend otherwise. Work moves on WhatsApp, calls and screen shares, which is exactly why a ₹10,000 site is possible at all.",
+        "We are three engineers working remotely. One of us writes the full-stack code, another of us handles AI, machine learning, AWS and the data side, and the third of us runs project management, data science and automation. There is no office in Sihor and we do not pretend otherwise. Work moves on WhatsApp, calls and screen shares, which is exactly why a ₹10,000 site is possible at all.",
       ],
     },
     {
@@ -151,7 +151,7 @@ const sihor: CityContent = {
       paragraphs: [
         "<strong>AI and WhatsApp automation in Sihor</strong> is worth setting up when the same five questions arrive twenty times a day. In this town those questions are rate for a given section, whether a size is in stock, load readiness, weight and pack size of a vessel set, and school or clinic timings. An assistant answers them in Gujarati and English, takes down the details of anything it cannot answer, and hands the whole conversation to a human.",
         "We build it on the official WhatsApp Business platform, so your number is not put at risk by an unofficial tool. The assistant is given your facts and nothing else, and is set up to say it will check rather than invent an answer, because a wrong rate quoted to a dealer costs more than an unanswered message. Enquiries land in a Google Sheet or in your own software, whichever you already use.",
-        "Automation starts at ₹40,000 and normally takes two to four weeks. Santosh Sharma begins by reading a sample of your real chats, with your permission, to find which questions repeat often enough to be worth the money. Sometimes the honest answer is that a saved reply and a fixed rate-list PDF will do the job, and we say that rather than sell an assistant nobody needs.",
+        "Automation starts at ₹40,000 and normally takes two to four weeks. Another of us begins by reading a sample of your real chats, with your permission, to find which questions repeat often enough to be worth the money. Sometimes the honest answer is that a saved reply and a fixed rate-list PDF will do the job, and we say that rather than sell an assistant nobody needs.",
       ],
     },
     {
@@ -168,7 +168,7 @@ const sihor: CityContent = {
       heading: "How a three-engineer remote team works with Sihor clients",
       paragraphs: [
         "We have no office in Sihor, in Bhavnagar or anywhere else, so the written record does the work a handshake would. After one call about your trade and who buys from you, you get a page-by-page or screen-by-screen outline, the dates each stage lands, and a costed list of every item. Nothing begins and nothing is billed until you approve that list.",
-        "Ankur Kumar builds the site or the web app, Santosh Sharma takes the AI, cloud and data work, and Vedansh Shrivastava keeps the plan and the automation moving. As each stage finishes you get a preview link that opens on any phone, so you can show a partner in the mill office or send it to a son in Surat for an opinion. Gujarati copy always comes to you to read before it goes live, because a wrong spelling on a rate list or a temple timing is the thing people remember.",
+        "One of us builds the site or the web app, another of us takes the AI, cloud and data work, and the third of us keeps the plan and the automation moving. As each stage finishes you get a preview link that opens on any phone, so you can show a partner in the mill office or send it to a son in Surat for an opinion. Gujarati copy always comes to you to read before it goes live, because a wrong spelling on a rate list or a temple timing is the thing people remember.",
         "WhatsApp is the main line and it is answered seven days a week on Indian time. If a stage slips, you hear about it the day we know, with a revised date rather than a vague reassurance. Payments follow milestones you can see working on screen, which keeps the exposure small for a family business going online for the first time. Message us through the <a href=\"/contact/\">contact page</a> or on WhatsApp.",
       ],
     },

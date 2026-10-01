@@ -188,7 +188,7 @@ const malerkotla: CityContent = {
       paragraphs: [
         "We do not have an office in Malerkotla, Ludhiana or anywhere in Punjab, and we will not show an address we do not use. We are three engineers working remotely for clients across India. That keeps our costs and prices low, and you speak directly with the people doing the work.",
         "We start with a call or WhatsApp chat, then send a page plan, timeline and itemised quote. You receive a preview link within one to two weeks and check it on your phone. Changes are handled over WhatsApp. We reply seven days a week on Indian time, in Hindi or English, and you can send Punjabi or Urdu text for us to place.",
-        "Ankur Kumar builds full-stack web applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science tools. <a href=\"/contact/\">Contact us</a> any day.",
+        "One of us builds full-stack web applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science tools. <a href=\"/contact/\">Contact us</a> any day.",
       ],
     },
     {

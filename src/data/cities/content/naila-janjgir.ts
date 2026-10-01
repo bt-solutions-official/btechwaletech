@@ -69,7 +69,7 @@ const nailaJanjgir: CityContent = {
       paragraphs: [
         "Janjgir became a district headquarters in 1998, and its twin settlement of Naila is the side of town that holds the railway station. Together they hold the Collectorate, the district court, government offices, banks, hospitals and schools that people from across the district visit. Around them lies paddy country, dotted with rice mills, and a short drive away are the kosa looms of Champa and the power and cement plants on the Akaltara side.",
         "Enquiries for <strong>IT services in Naila Janjgir</strong> come from that mix. A rice miller wants to stop reconciling registers at midnight. A saree trader in Champa wants buyers in Delhi and Bengaluru to order without a phone call. An advocate near the court wants clients to find the chamber. A school wants admissions to stop depending on pamphlets.",
-        "We are three engineers who work remotely. Ankur Kumar is the full-stack developer, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava manages projects, data science and automation. There is no Janjgir office, and we prefer to say that clearly. Instead, you have our WhatsApp numbers, video calls whenever you need them, and every plan and price in writing.",
+        "We are three engineers who work remotely. One of us is the full-stack developer, another of us handles AI, machine learning, AWS and data work, and the third of us manages projects, data science and automation. There is no Janjgir office, and we prefer to say that clearly. Instead, you have our WhatsApp numbers, video calls whenever you need them, and every plan and price in writing.",
       ],
     },
     {

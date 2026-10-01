@@ -177,7 +177,7 @@ const jaipur: CityContent = {
       paragraphs: [
         "We have no office in Jaipur and won't use a borrowed address to appear local. We are three engineers who work remotely for businesses across India. That keeps rent and sales staff out of your quote, and the person answering your WhatsApp is the one building your site.",
         "Projects start with a call or WhatsApp chat about your business, followed by a written page plan, timeline and itemised quote. Within a week or two you receive a live preview link to open on your own phone. Feedback happens on WhatsApp, and small changes are often live the same day. We work on Indian time and reply seven days a week, including during the wedding and tourist seasons when your own days are longest.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can reach any of us directly.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can reach any of us directly.",
       ],
     },
     {

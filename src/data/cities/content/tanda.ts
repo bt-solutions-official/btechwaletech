@@ -163,7 +163,7 @@ const tanda: CityContent = {
       paragraphs: [
         "We have no office in Tanda, Akbarpur or anywhere in the district, and we do not pretend otherwise. We are three engineers working remotely with clients across India. Without rent or a sales team, our costs remain low, and you speak directly to the people building your site.",
         "Everything happens through phone calls, WhatsApp and screen sharing. We start with a conversation about your business, then send a written page plan, timeline and itemised quote. Within a week or two you receive a link to check the site on your own phone and show your family or partners. Changes are sent on WhatsApp, and small ones are usually done the same day. We reply seven days a week.",
-        "Ankur Kumar builds websites and web applications. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles automation and data science. You can <a href=\"/contact/\">contact us</a> directly or read more about our <a href=\"/services/web-development/\">web development work</a>.",
+        "One of us builds websites and web applications. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and handles automation and data science. You can <a href=\"/contact/\">contact us</a> directly or read more about our <a href=\"/services/web-development/\">web development work</a>.",
       ],
     },
     {

@@ -178,7 +178,7 @@ const rajampet: CityContent = {
       paragraphs: [
         "We have no office in Rajampet, Kadapa or anywhere in Andhra Pradesh, and we will not list a borrowed address to seem local. BtechWaleTech is three engineers who work remotely with clients across India. Skipping rent and sales staff keeps our starting prices lower and puts you in direct contact with the people building your site.",
         "Projects run over WhatsApp, calls and screen sharing. After a first conversation we send a page plan, timeline and itemised quote, usually within two working days. Once approved, you receive a preview link to open on your phone, share with partners or family, and comment on by message or voice note. Small changes are usually made the same day.",
-        "Ankur Kumar builds websites and applications end to end. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava plans projects and builds automation and data science tools. <a href=\"/contact/\">Message us</a> any day of the week, Indian time.",
+        "One of us builds websites and applications end to end. Another of us handles AI, machine learning, AWS and data. The third of us plans projects and builds automation and data science tools. <a href=\"/contact/\">Message us</a> any day of the week, Indian time.",
       ],
     },
     {

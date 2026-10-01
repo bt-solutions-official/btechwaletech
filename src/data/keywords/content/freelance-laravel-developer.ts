@@ -218,7 +218,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Any freelance Laravel developer should know that the framework protects against common attacks by default, including CSRF, SQL injection through its query builder and escaped output in Blade. Problems appear when those defaults are bypassed, secrets leak, or debug mode is left on in production.`,
         `On every project we switch debug off in production, store secrets only in environment files outside the repository, validate every input with form requests, authorise every action with policies, rate-limit logins and APIs, and log errors to a place you can see. Backups run daily to storage in your cloud account, and restoring one is tested before launch.`,
-        `For speed, we eager-load relationships, add database indexes where queries need them, cache configuration and routes, push slow work to queues run by Horizon, and use Redis for cache and sessions when traffic justifies it. Santosh handles AWS setup where you want it, so your app runs in your own account with sensible cost limits.`,
+        `For speed, we eager-load relationships, add database indexes where queries need them, cache configuration and routes, push slow work to queues run by Horizon, and use Redis for cache and sessions when traffic justifies it. Another of us handles AWS setup where you want it, so your app runs in your own account with sensible cost limits.`,
       ],
     },
     {
@@ -236,7 +236,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A first version of a Laravel app typically takes 6–12 weeks. The shape is the same whatever the product.`,
         `Week one is discovery: user roles, main screens, data model sketch and integrations, turned into a written scope. Weeks two and three set up the repository in your account, the database schema, authentication, roles and the admin panel skeleton, deployed to a staging server. The middle weeks deliver features in small batches, each one on staging for you to test, with tests around the business rules. The last stretch covers integrations, reports, data import, performance checks and a production deploy with backups verified.`,
-        `You review on staging every week, not at the end. That is how problems with a screen or a rule surface when they are cheap to fix. Vedansh keeps the plan and the decision log so nothing agreed on a call gets lost.`,
+        `You review on staging every week, not at the end. That is how problems with a screen or a rule surface when they are cheap to fix. The third of us keeps the plan and the decision log so nothing agreed on a call gets lost.`,
       ],
     },
     {

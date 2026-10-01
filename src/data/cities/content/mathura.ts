@@ -71,7 +71,7 @@ const mathura: CityContent = {
       paragraphs: [
         "Most people outside Uttar Pradesh know Mathura as the birthplace of Krishna. People who work here know a larger city. Indian Oil's refinery south of town has run since 1982 and supplies fuel to the Delhi region. UPSIDC estates at Site A and Site B, and the Kosi Kotwan industrial area near Kosi Kalan on NH-19, host factories and their suppliers. Small workshops across the district turn out taps, showers and sanitary fittings, now the district's notified product under the One District One Product scheme. And the old bazaars around Holi Gate and Chowk Bazaar still move sweets, textiles, brass and silver.",
         "So the requests we get for <strong>IT services in Mathura</strong> vary more than in a pure pilgrim town. A contractor wants a record of which worker was on which job. A fittings manufacturer wants a catalogue dealers in Rajasthan can browse. A hotel near the Janmasthan wants its Janmashtami rooms booked early. A coaching institute wants admissions on WhatsApp.",
-        "We handle these as a remote team of three. Ankur Kumar does full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava runs project management, data science and automation. You deal with the three of us directly, never with a sales desk.",
+        "We handle these as a remote team of three. One of us does full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us runs project management, data science and automation. You deal with the three of us directly, never with a sales desk.",
       ],
     },
     {
@@ -170,7 +170,7 @@ const mathura: CityContent = {
       heading: "Working with a remote IT team from Mathura",
       paragraphs: [
         "We have no office in Mathura, and we would rather say so than invent an address. Everything happens on WhatsApp, calls and screen shares, which is also why our starting prices stay where they are. For most clients it means less travel, not more: no trip to Agra or Delhi to sit in a meeting.",
-        "The process is simple. You tell us about your business in a message or a short call. Vedansh writes up the scope, dates and an itemised cost list. Nothing is billed until you approve it in writing. Ankur builds, Santosh handles anything involving AI, data or cloud hosting, and you get preview links you can open on your phone and forward to a partner or a son who looks after the shop's social media.",
+        "The process is simple. You tell us about your business in a message or a short call. The third of us writes up the scope, dates and an itemised cost list. Nothing is billed until you approve it in writing. One of us builds, another of us handles anything involving AI, data or cloud hosting, and you get preview links you can open on your phone and forward to a partner or a son who looks after the shop's social media.",
         "Hindi text is sent to you for checking before it goes live, since a wrong word on a sweets box or a hotel tariff card is noticed at once. We answer WhatsApp all seven days on Indian time, and if a date slips, you hear it from us the same day with the new date. Payments follow milestones you can see working.",
       ],
     },

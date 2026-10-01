@@ -69,7 +69,7 @@ const kothagudem: CityContent = {
       paragraphs: [
         "Kothagudem grew out of the old Palvancha zamindari into one of the biggest towns of the Telangana coal belt. The head office of Singareni Collieries sits here, the thermal power station at Palvancha is a few kilometres away, and mines, colonies and contractor yards spread across Ramavaram, Rudrampur and the roads towards Yellandu and Manuguru. It is also known for summer heat that can cross 48°C.",
         "The requests we get for <strong>IT services in Kothagudem</strong> reflect that mix. A labour contractor wants a clean record of attendance and wages for each work order. An engineering supplier wants purchase officers to find a proper website. A hospital wants patients from Palvancha and Sujathanagar to see which doctor is available. A college wants admission enquiries answered on WhatsApp at night.",
-        "The three of us split the work by strength. Ankur Kumar builds the full stack, front to back. Santosh Sharma takes AI, machine learning, AWS and data projects. Vedansh Shrivastava keeps projects on schedule and handles data science and automation. None of us is based in Kothagudem, and we do not claim an office here. Everything runs over WhatsApp, calls and shared screens, with written notes after each step.",
+        "The three of us split the work by strength. One of us builds the full stack, front to back. Another of us takes AI, machine learning, AWS and data projects. The third of us keeps projects on schedule and handles data science and automation. None of us is based in Kothagudem, and we do not claim an office here. Everything runs over WhatsApp, calls and shared screens, with written notes after each step.",
       ],
     },
     {

@@ -158,7 +158,7 @@ const panipat: CityContent = {
       id: "remote-panipat",
       heading: "A remote team that works on Panipat hours",
       paragraphs: [
-        "We have no office in Panipat and do not pretend to. BtechWaleTech is three engineers working remotely. Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and analytics.",
+        "We have no office in Panipat and do not pretend to. BtechWaleTech is three engineers working remotely. One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and builds automation and analytics.",
         "We start with a call or WhatsApp chat about your products and buyers, then send a page plan, timeline and itemised quote within about two working days. Once you approve, you get a live preview link that you can share with partners, merchandisers or a buying agent, and feedback arrives on WhatsApp. Small changes often go live the same day.",
         "We reply seven days a week on Indian time. Export houses often work late when buyers in other time zones are awake, and we are used to reviewing changes in the evening. You always know which of us is doing what, and you speak directly to the builder.",
       ],

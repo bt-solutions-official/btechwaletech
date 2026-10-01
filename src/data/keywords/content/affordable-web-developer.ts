@@ -203,7 +203,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Our prices are modest because of how we work, not because we skip steps. Three freelance developers working remotely do not carry office rent, sales staff or layers of management, and you do not pay a platform commission when you hire us directly.`,
         `We also reuse what is sensible. Page templates designed once serve many inner pages. Static builds with Astro or a similar generator need cheaper hosting and fewer security updates than a heavy CMS. For SEO websites, hundreds of service or location pages come from structured data, so the cost per page stays low without copying text between pages.`,
-        `Work is split by strength. Ankur Kumar handles the full-stack build, Santosh Sharma covers hosting on AWS, data and technical SEO, and Vedansh Shrivastava plans the project and keeps timelines on track. Each part has an owner, which avoids the rework that quietly inflates cheaper projects.`,
+        `Work is split by strength. One of us handles the full-stack build, another of us covers hosting on AWS, data and technical SEO, and the third of us plans the project and keeps timelines on track. Each part has an owner, which avoids the rework that quietly inflates cheaper projects.`,
       ],
     },
     {

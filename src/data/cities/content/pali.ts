@@ -169,7 +169,7 @@ const pali: CityContent = {
       heading: "Working with a remote team when your business is in Pali",
       paragraphs: [
         "We do not have an office in Pali, and we will not list an address there. We are three engineers who work remotely for clients across India, which keeps our costs low and means you speak to the builders, not a salesperson.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava runs project management and works on data science and automation. You can reach any of us through our <a href=\"/contact/\">contact page</a>, and we reply on WhatsApp seven days a week during Indian hours.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us runs project management and works on data science and automation. You can reach any of us through our <a href=\"/contact/\">contact page</a>, and we reply on WhatsApp seven days a week during Indian hours.",
         "The process is simple. A call to understand the business, then a page plan and itemised quote in about two working days. After approval, you get a preview link within a week or two to check on your own phone. Corrections go over WhatsApp. Our <a href=\"/services/web-development/\">web development</a> page explains the technical side if you want details.",
       ],
     },

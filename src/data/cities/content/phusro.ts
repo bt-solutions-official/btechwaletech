@@ -179,7 +179,7 @@ const phusro: CityContent = {
       heading: "No office in Phusro, and how we work instead",
       paragraphs: [
         "We have no office in Phusro, Bermo or anywhere in Bokaro district, and we will not list one. We are three engineers working remotely for clients across India. You deal directly with the people building your project, not a sales agent.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data-science systems. Write to us from the <a href=\"/contact/\">contact page</a>; we reply on WhatsApp seven days a week during Indian working hours.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data-science systems. Write to us from the <a href=\"/contact/\">contact page</a>; we reply on WhatsApp seven days a week during Indian working hours.",
         "After the first call, you get a page plan, timeline and itemised quote in about two working days. After approval, a preview link arrives so you can check everything on your phone, even in a colony with weak signal. The <a href=\"/services/web-development/\">web development</a> page explains our technical approach.",
         "Working remotely suits a spread-out area like this. A shop owner in Kathara and a transporter in Dhori can both review drafts at night after work without travelling to Bokaro, and all feedback stays in one written thread that either side can refer back to later.",
       ],

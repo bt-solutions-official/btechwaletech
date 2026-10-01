@@ -228,7 +228,7 @@ const content: FreelanceContent = {
       id: "working-from-australia",
       heading: "How to hire Flutter developers in India from Australia and work with them day to day",
       paragraphs: [
-        `You get test builds on your phone through TestFlight and Play testing tracks, a short call in your afternoon each week, and WhatsApp for everything in between. You do not need a technical background to manage the project; Vedansh Shrivastava handles the project management side.`,
+        `You get test builds on your phone through TestFlight and Play testing tracks, a short call in your afternoon each week, and WhatsApp for everything in between. You do not need a technical background to manage the project; the third of us handles the project management side.`,
         `In practice the clock works in your favour. When it is 2 pm in Sydney it is 9:30 am in India during standard time, so our day starts as your afternoon begins. Brisbane has the same gap all year since Queensland does not change clocks, Adelaide and Darwin sit half an hour closer, and Perth is only two and a half hours ahead of us, which gives West Australian founders most of a working day in common. Builds you ask for in the afternoon are often on your phone the next morning.`,
         `The first two weeks after you hire Flutter developers from our team:`,
       ],

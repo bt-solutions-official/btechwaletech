@@ -105,7 +105,7 @@ const content: FreelanceContent = {
         `An AI receptionist is software that answers your calls and messages in natural speech or text, understands what the customer needs, and either books them in or captures the details for you. For a UK sole trader or small clinic, it is a way to stop losing work to the phone you could not answer.`,
         `Think about where calls are missed. A heating engineer is under a boiler with wet hands. A physio is mid-treatment. An electrician is on a rewire with the power off and a van full of tools. The customer rings once, hears voicemail and calls the next name on Google. An AI receptionist UK trades install is there for exactly that moment: it answers, asks four or five sensible questions and makes sure the job does not walk away.`,
         `It is not magic, and it is not a person. It works best for predictable conversations: new job enquiries, quote requests, appointment bookings, rescheduling, opening hours, areas covered and “are you Gas Safe registered?” style questions. It is weaker at negotiation, complaints and anything that needs judgement about safety or money, so a good build hands those to you.`,
-        `We are three freelance developers in India. Santosh Sharma builds the AI and voice pipeline, Ankur Kumar connects calendars, job tools and your website, and Vedansh Shrivastava maps your call flows and tests them with you until they sound right.`,
+        `We are three freelance developers in India. Another of us builds the AI and voice pipeline, one of us connects calendars, job tools and your website, and the third of us maps your call flows and tests them with you until they sound right.`,
       ],
     },
     {

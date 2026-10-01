@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Flutter app development cost in India covers the design, Dart code, backend, testing and store release of one app that runs on Android phones and iPhones. Flutter is Google’s open-source UI toolkit, and its own documentation describes it as a way to “build beautiful, multiplatform apps from a single codebase”. That single codebase is where the saving comes from.`,
         `A realistic quote has more lines than people expect. Screens are only the visible part. Behind them sit the data model, login, the rules that decide who sees what, notifications, analytics, crash reporting and the signing keys each store demands. A cheap number that lists only “app design and development” has usually left half of these out, and they come back later as change requests.`,
-        `With BtechWaleTech the starting point is ${P.app}. Ankur Kumar writes the Flutter and backend code, Santosh Sharma sets up the cloud side and data, and Vedansh Shrivastava keeps the screen list, test plan and store paperwork moving. You deal with all three directly on WhatsApp.`,
+        `With BtechWaleTech the starting point is ${P.app}. One of us writes the Flutter and backend code, another of us sets up the cloud side and data, and the third of us keeps the screen list, test plan and store paperwork moving. You deal with all three directly on WhatsApp.`,
       ],
       list: [
         "UI design for every screen and its empty, loading and error states",
@@ -212,7 +212,7 @@ const content: FreelanceContent = {
       heading: "Flutter app running costs in India after the build is paid for",
       paragraphs: [
         `After launch a Flutter app has four ongoing costs: the Apple fee each year, backend usage, maintenance and new features. None of them are large for a small app, but budgeting for them stops the app going stale six months after launch.`,
-        `Backend usage depends on your choice. A small Firebase app can sit inside the no-cost tier for a long time. A custom API runs on a cloud server that you pay for monthly, sized to your traffic. Santosh sets up billing alerts in your cloud account so a sudden spike never surprises you.`,
+        `Backend usage depends on your choice. A small Firebase app can sit inside the no-cost tier for a long time. A custom API runs on a cloud server that you pay for monthly, sized to your traffic. Another of us sets up billing alerts in your cloud account so a sudden spike never surprises you.`,
         `Maintenance matters more with apps than websites. Google and Apple release new OS versions every year and periodically raise the minimum target versions they accept, and Flutter itself ships regular stable releases. An app nobody updates eventually cannot publish fixes. BtechWaleTech includes 2 months of free maintenance after launch; after that, optional care starts at ${P.care}. Our <a href='/app-maintenance-cost-in-india/'>app maintenance cost page</a> lists what is typically covered.`,
       ],
       list: [

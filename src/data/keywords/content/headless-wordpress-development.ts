@@ -199,7 +199,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You pay for two kinds of hosting: a server for WordPress and PHP, and a platform for the front end. The good news is that the WordPress server can be smaller than before, because visitors no longer hit it directly.`,
         `The WordPress side needs PHP, MySQL or MariaDB, backups and updates, just like any WordPress site. It can sit on a managed WordPress host or a small cloud server, ideally on a subdomain such as cms.yourdomain.com with the admin protected. The front end can be deployed as static files on a CDN, or on a platform that supports server rendering for Next.js or Astro. Pure static output is the cheapest to run; server rendering costs more but lets pages update without a full rebuild.`,
-        `Santosh on our team handles the cloud setup, including AWS where it suits, DNS, SSL, caching rules and the webhook that tells the front end to rebuild or revalidate when someone clicks Publish. Every account is opened in your name, and we document which service does what so a future developer is not guessing.`,
+        `Another of us on our team handles the cloud setup, including AWS where it suits, DNS, SSL, caching rules and the webhook that tells the front end to rebuild or revalidate when someone clicks Publish. Every account is opened in your name, and we document which service does what so a future developer is not guessing.`,
       ],
     },
     {

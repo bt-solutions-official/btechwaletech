@@ -168,7 +168,7 @@ const jamshedpur: CityContent = {
       paragraphs: [
         "In a Jamshedpur workshop, the supervisor's phone is the order book. Customers ask for dispatch status, traders send enquiries with photographs of parts, labs get report requests all afternoon, and coaching offices answer the same fee question hundreds of times before each session. Most of it is answered manually and then typed again somewhere else.",
         "Automation projects start at ₹40,000. An assistant trained on your own information can answer routine questions in Hindi, English or Bengali and hand serious enquiries to a person. An ancillary unit can let customers check the status of their job number. A trader can receive orders in a standard format that lands in a sheet ready for billing. A clinic can confirm and remind appointments automatically. All conversations are logged.",
-        "Quotations, credit, negotiations and medical advice stay with people. For AI work such as reading drawings or purchase orders, Santosh tests accuracy on your real documents first, and we tell you honestly where a human check is still needed.",
+        "Quotations, credit, negotiations and medical advice stay with people. For AI work such as reading drawings or purchase orders, another of us tests accuracy on your real documents first, and we tell you honestly where a human check is still needed.",
       ],
     },
     {
@@ -177,7 +177,7 @@ const jamshedpur: CityContent = {
       paragraphs: [
         "We do not have an office in Jamshedpur and do not claim one. We are three engineers working remotely for clients across India, which keeps rent and sales staff out of your quote and puts you in direct touch with the people building your site or software.",
         "After a call or WhatsApp conversation, you receive a page plan or scope, a timeline and an itemised quote in about two working days. Once you approve in writing, we share a live preview link, usually in the first week or two, which you can check on your phone or show your partners. Software projects move in short milestones with a demo each time. We work on IST and reply seven days a week, including shift-change hours when plant contractors are often free to talk.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science workflows.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science workflows.",
       ],
     },
     {

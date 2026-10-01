@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A freelance app developer delivers a working app in the stores plus everything behind it: the server, database, admin screens and the accounts needed to keep it running. The phone app is the visible 40 percent; the rest is what makes it reliable.`,
         `Think of an app project as four layers. The <strong>client app</strong> is what users install. The <strong>backend</strong> stores data, sends notifications and enforces rules such as “only paid members can book”. The <strong>admin panel</strong> lets your staff manage content without calling a developer. And the <strong>store layer</strong> covers listings, screenshots, privacy forms and review responses on Google Play and the App Store.`,
-        `When you compare quotes, check which of these four layers each freelancer has actually priced. A low figure often covers only the first one. On our side, Ankur builds the app and backend, Santosh sets up cloud hosting on AWS and the data side, and Vedansh runs the plan, test builds and store submissions.`,
+        `When you compare quotes, check which of these four layers each freelancer has actually priced. A low figure often covers only the first one. On our side, one of us builds the app and backend, another of us sets up cloud hosting on AWS and the data side, and the third of us runs the plan, test builds and store submissions.`,
       ],
       list: [
         "Installable Android and iOS builds from one codebase",

@@ -170,7 +170,7 @@ const sitapur: CityContent = {
       heading: "How our remote team works with Sitapur",
       paragraphs: [
         "We have no office in Sitapur and do not list a borrowed address. We are three engineers working remotely for businesses across India, and you talk directly to the people doing the work.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. We start with a WhatsApp chat or call, share a page plan and itemised quote, and send a preview link you can test on your own phone. Feedback happens on WhatsApp in Hindi or English.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. We start with a WhatsApp chat or call, share a page plan and itemised quote, and send a preview link you can test on your own phone. Feedback happens on WhatsApp in Hindi or English.",
         "We work IST hours and reply seven days a week, and small changes usually go live the same day. <a href=\"/contact/\">Message us</a> with a line about your business to begin.",
       ],
     },

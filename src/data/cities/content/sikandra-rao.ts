@@ -69,7 +69,7 @@ const sikandraRao: CityContent = {
       paragraphs: [
         "Sikandra Rao is not a metro and does not pretend to be one. It is the place where farmers from 165 villages of the tehsil come to sell, borrow, buy seed, admit a child to school and see a doctor. Aligarh lies to the north-west and Etah to the east along the same highway, Hathras city is the district headquarters, and Agra is the nearest airport, so people here are used to travelling for anything the town cannot supply.",
         "Internet work is one of the things they have traditionally travelled for, usually to Aligarh. That is unnecessary now. Nearly every enquiry we get about <strong>IT services in Sikandra Rao</strong> is for something a remote team can do better and cheaper: a Hindi website, a correct Google listing, a WhatsApp reply that works at night, or a register that replaces a stack of notebooks.",
-        "There are three of us. Ankur Kumar builds websites and web applications, Santosh Sharma looks after AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project planning, data science and automation. We do not keep an office in Sikandra Rao, Hathras or Aligarh, and we would rather say so than invent an address. Everything runs on WhatsApp, calls and screen shares, with written notes you can keep.",
+        "There are three of us. One of us builds websites and web applications, another of us looks after AI, machine learning, AWS and data work, and the third of us runs project planning, data science and automation. We do not keep an office in Sikandra Rao, Hathras or Aligarh, and we would rather say so than invent an address. Everything runs on WhatsApp, calls and screen shares, with written notes you can keep.",
       ],
     },
     {
@@ -169,7 +169,7 @@ const sikandraRao: CityContent = {
       paragraphs: [
         "The first week tells you most of what you need to know about us. You describe your trade and your customers on a call; we send back a written outline of the pages or screens, the dates for each stage, and a costed list where every item stands alone. You strike out what you do not want. Only then does work start, and only then does anything get billed.",
         "After that, you see progress instead of hearing about it. Preview links open on any phone, so you can show your brother at the counter or your accountant before approving. Hindi text comes to you for reading first, because a wrong spelling on a fee list or a rent slab is the sort of thing customers point out for years.",
-        "We have no office in Sikandra Rao and no plans to open one, which is exactly why the starting prices are what they are. WhatsApp is answered seven days a week on Indian time. Ankur handles the build, Santosh the AI, cloud and data side, Vedansh the plan and the automation, so you know who is replying. If a date slips you hear it the same day, with the revised date attached.",
+        "We have no office in Sikandra Rao and no plans to open one, which is exactly why the starting prices are what they are. WhatsApp is answered seven days a week on Indian time. One of us handles the build, another of us the AI, cloud and data side, the third of us the plan and the automation, so you know who is replying. If a date slips you hear it the same day, with the revised date attached.",
       ],
     },
     {

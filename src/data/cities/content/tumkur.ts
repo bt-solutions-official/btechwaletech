@@ -178,7 +178,7 @@ const tumkur: CityContent = {
       paragraphs: [
         "We have no office in Tumakuru and will not list one. We are three engineers working remotely for clients across India. Because we pay no rent and employ no sales staff, our prices are lower than a Bengaluru agency's, and you speak directly with the people writing your code.",
         "Projects run over calls, WhatsApp and screen sharing. After a first conversation, we send a page plan, timeline and itemised quote. Within one to two weeks you receive a preview link to check on your phone and share with partners. Small changes are usually done the same day, and we reply every day of the week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">reach any of us</a> directly.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">reach any of us</a> directly.",
       ],
     },
     {

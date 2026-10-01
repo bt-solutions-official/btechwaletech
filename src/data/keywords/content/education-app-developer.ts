@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `An education app developer builds two products that must work together: the student app on phones and the admin side where teachers and staff manage content, batches, tests and students. Students only see the first, but the second decides whether your team can run the app without calling the developer every day.`,
         `On the student side, a typical app has sign-in by mobile number and OTP, a home screen with enrolled courses, video lessons, downloadable notes, tests, results and notifications. On the admin side there are screens to upload lectures, build question banks, schedule tests, manage batches and fees, and see who is falling behind.`,
-        `Behind both sits a server and database that store users, progress and test attempts, and a video service that stores and streams lessons. At BtechWaleTech, Ankur builds the app and admin panel, Santosh sets up hosting on AWS, video delivery and analytics, and Vedansh plans the scope and automations such as reminder messages.`,
+        `Behind both sits a server and database that store users, progress and test attempts, and a video service that stores and streams lessons. At BtechWaleTech, one of us builds the app and admin panel, another of us sets up hosting on AWS, video delivery and analytics, and the third of us plans the scope and automations such as reminder messages.`,
       ],
     },
     {

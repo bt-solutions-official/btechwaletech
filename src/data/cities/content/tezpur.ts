@@ -70,7 +70,7 @@ const tezpur: CityContent = {
       paragraphs: [
         "Tezpur is the main town of Sonitpur district and one of the older cities of Assam, remembered in legend as Sonitpur and still marked by Agnigarh hill, the Mahabhairab temple and the ruins of Da Parbatia and Bamuni Hills. Today it is a service town: people from Dhekiajuli, Rangapara, Biswanath Chariali and nearby villages come here for hospitals, colleges, government offices, wholesale goods and flights.",
         "Requests for <strong>IT services in Tezpur</strong> reflect that mix. A private hospital wants appointment requests online. A coaching institute wants admissions tracked. A tea garden supplier wants a catalogue for managers across the district. A homestay owner wants travellers heading for Nameri or Arunachal to find a bed. A shop in Mission Chariali wants its map pin and hours corrected.",
-        "We handle this as a team of three working remotely: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We do not have an office in Tezpur and say so at the start. Work runs on WhatsApp, video calls and shared screens, with written plans at each step.",
+        "We handle this as a team of three working remotely: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We do not have an office in Tezpur and say so at the start. Work runs on WhatsApp, video calls and shared screens, with written plans at each step.",
       ],
     },
     {

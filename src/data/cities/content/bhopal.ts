@@ -168,7 +168,7 @@ const bhopal: CityContent = {
       paragraphs: [
         "We do not have an office in Bhopal and we will not borrow an address to look local. We are three engineers who work remotely for clients across India. What you save is the rent, the reception desk and the sales staff that an MP Nagar agency has to recover from each project. What you gain is direct contact with the people writing your code.",
         "Work starts with a phone call or a WhatsApp chat about your business. We then send a page plan, a timeline and an itemised quote. Within the first week or two you get a live preview link to open on your own phone, and you give feedback in a message rather than in a meeting across town. Small changes often go live the same day. We keep Indian hours and reply seven days a week, which matters for shop owners and doctors who only get time to review on Sundays.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava runs project management and takes care of data science and automation. You will always know who is doing what.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us runs project management and takes care of data science and automation. You will always know who is doing what.",
       ],
     },
     {

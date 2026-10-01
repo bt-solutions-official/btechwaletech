@@ -105,7 +105,7 @@ const content: FreelanceContent = {
         `A Power BI consultant builds the pipeline from your business systems to a set of reports that update on schedule: connections to sources, a clean data model, calculated measures such as gross margin and debtor days, report pages for each audience, and the refresh and security settings that keep it running.`,
         `For a UK SME, the real product is not the charts. It is the end of the monthly ritual where someone exports from Xero or Sage, pastes into a workbook, fixes the formulas that broke, and emails a PDF nobody fully trusts. A good Power BI consultant UK businesses hire removes that ritual and leaves you with numbers that match the accounts.`,
         `The work usually has five stages: agree the questions, connect and clean the sources, build the model, design the pages, and set up refresh plus handover. Each is visible to you. You see reconciled totals before any chart is drawn, because a beautiful dashboard with the wrong turnover figure is worse than no dashboard.`,
-        `We are three freelance developers working from India. Santosh Sharma leads data modelling, SQL and cloud setup, Vedansh Shrivastava runs discovery and KPI design with your directors, and Ankur Kumar builds any custom connectors or web dashboards. You talk to the people doing the work.`,
+        `We are three freelance developers working from India. Another of us leads data modelling, SQL and cloud setup, the third of us runs discovery and KPI design with your directors, and one of us builds any custom connectors or web dashboards. You talk to the people doing the work.`,
       ],
     },
     {

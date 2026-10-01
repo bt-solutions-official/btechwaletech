@@ -195,7 +195,7 @@ const adilabad: CityContent = {
       paragraphs: [
         "We have no office in Adilabad or any other city. We are three engineers working remotely for clients across India, and you speak directly with the people building your site. No rent keeps our starting prices where they are.",
         "After a call or WhatsApp chat, we send a written page plan, timeline and itemised quote. Within a week or two you receive a preview link to check on your phone. You send changes on WhatsApp, and small fixes are usually done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. Our <a href=\"/services/web-development/\">web development page</a> explains the process.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. Our <a href=\"/services/web-development/\">web development page</a> explains the process.",
         "Adilabad traders already sell cotton to mills they have never visited, so remote work is nothing new here. For Telugu, Marathi or Hindi content, you or someone you trust reads every line before it goes live.",
       ],
     },

@@ -259,7 +259,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Choose a developer who asks about your analyser models, rate chart style and payment cycle before anything else. Dairy management software that cannot read your machines or match your deductions will be abandoned at the centre within weeks.`,
         `Ask candidates how they handle offline collection, how a rate chart revision takes effect mid-day, and how a manual override is audited. Ask who owns the code and the farmer data, and whether you can export everything. A developer who promises to work with “all analysers” without asking for your model is guessing.`,
-        `Be clear about what our team does and does not do. Ankur Kumar builds the software and hardware drivers, Santosh Sharma handles cloud hosting, data and reporting, and Vedansh Shrivastava plans the rollout and trains operators remotely. We do not supply or service analysers, scales or printers, and we do not visit centres.`,
+        `Be clear about what our team does and does not do. One of us builds the software and hardware drivers, another of us handles cloud hosting, data and reporting, and the third of us plans the rollout and trains operators remotely. We do not supply or service analysers, scales or printers, and we do not visit centres.`,
       ],
       list: [
         "Did they ask for your analyser and scale models?",

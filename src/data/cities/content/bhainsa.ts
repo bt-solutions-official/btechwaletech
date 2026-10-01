@@ -69,7 +69,7 @@ const bhainsa: CityContent = {
       paragraphs: [
         "Bhainsa is the headquarters of its own revenue division in Nirmal district, with mandals such as Mudhole, Kubeer, Kuntala, Tanoor, Lokeswaram and Basar looking to it for markets, hospitals, courts and schools. The Maharashtra border lies just to the west, so buyers and sellers from the Nanded side are part of daily trade. It is common to hear Telugu, Urdu and Marathi in a single shop within the same hour.",
         "That shapes what people ask us for when they look for <strong>IT services in Bhainsa</strong>. A cotton trader wants his rates and contact details visible to farmers on both sides of the border. A hospital wants patients from thirty villages to know which specialist sits on which day. A school wants admission forms that parents can fill in the language they read best. A dealer wants a stock list that staff can update without calling anyone.",
-        "We do this as a remote team of three. Ankur Kumar builds the websites and web applications, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. We have no office in Bhainsa, Nirmal or Nizamabad, and we say that up front. Work happens on WhatsApp, calls and screen shares, and you get written plans at each stage.",
+        "We do this as a remote team of three. One of us builds the websites and web applications, another of us handles AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. We have no office in Bhainsa, Nirmal or Nizamabad, and we say that up front. Work happens on WhatsApp, calls and screen shares, and you get written plans at each stage.",
         "The result is lower starting prices and no need to travel to Hyderabad for a meeting. Most Bhainsa clients begin with a small site and a clean map listing, then add an app or automation after the first step proves useful.",
       ],
     },
@@ -180,7 +180,7 @@ const bhainsa: CityContent = {
         "We are three engineers working remotely, with no office in Bhainsa or any other city. In place of a visit, you get clear paperwork. After a first call about your trade and customers, we send a written outline of pages or app screens, timelines and the cost of each item. Nothing starts and nothing is billed until you approve it.",
         "As work progresses, you receive preview links that open on any phone, so you can check them at the shop or share them with family. Telugu, Urdu and Marathi text is sent for your reading before it goes live, because a spelling slip on a notice or rate board is the kind of thing customers remember.",
         "WhatsApp is our main channel, answered seven days a week on Indian time. If anything is running late, you hear it the same day along with a new date. Payments follow milestones you can see working, which keeps risk low for a family business going online for the first time.",
-        "Ankur builds, Santosh handles AI, cloud and data, and Vedansh keeps the plan and automation on track. To start, message us from the <a href=\"/contact/\">contact page</a>.",
+        "One of us builds, another of us handles AI, cloud and data, and the third of us keeps the plan and automation on track. To start, message us from the <a href=\"/contact/\">contact page</a>.",
       ],
     },
     {

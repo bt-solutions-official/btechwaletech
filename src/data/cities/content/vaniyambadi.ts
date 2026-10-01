@@ -175,7 +175,7 @@ const vaniyambadi: CityContent = {
       id: "remote-team-vaniyambadi",
       heading: "Working with a remote IT team from Vaniyambadi",
       paragraphs: [
-        "We have no office in Vaniyambadi or anywhere in Tamil Nadu. BtechWaleTech is three engineers who work remotely: Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation.",
+        "We have no office in Vaniyambadi or anywhere in Tamil Nadu. BtechWaleTech is three engineers who work remotely: one of us handles full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us handles project management, data science and automation.",
         "You describe the requirement on WhatsApp or a call, and within about two working days you receive an itemised written quote. Work starts only after you approve it in writing. During the build you follow progress on a preview link and send comments from your phone, and every change, deadline and payment milestone is written down.",
         "A tannery owner can send a voice note explaining how batches move through the unit, and we reply with a written scope and sample screens before coding begins. Product photos can be taken on a phone and shared on WhatsApp; we crop and compress them. Replies come seven days a week on Indian Standard Time. To start, message us through the <a href=\"/contact/\">contact page</a>.",
       ],

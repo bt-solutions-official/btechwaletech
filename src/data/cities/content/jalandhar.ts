@@ -150,7 +150,7 @@ const jalandhar: CityContent = {
       paragraphs: [
         "We have no office in Jalandhar, and we won't borrow an address to pretend we do. We are three engineers who work remotely for clients across India. The practical effect is that our quotes carry no rent or sales commission, and you speak with the person building your site rather than a coordinator.",
         "The process is straightforward. We begin with a call or WhatsApp chat about what you sell and who buys it, then send a written page plan, timeline and itemised quote. Within a week or two you get a live preview link to open on your phone, and you comment on a working site rather than a mock-up. Changes are discussed on WhatsApp and small ones usually go live the same day. We reply seven days a week on Indian time, which suits factory owners who only look at the website after the shift ends.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data work. Vedansh Shrivastava runs project management and handles data science and automation. You will always know who is working on your project, and you can message any of us directly.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data work. The third of us runs project management and handles data science and automation. You will always know who is working on your project, and you can message any of us directly.",
       ],
     },
     {

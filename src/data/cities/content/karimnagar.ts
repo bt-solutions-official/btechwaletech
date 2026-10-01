@@ -160,7 +160,7 @@ const karimnagar: CityContent = {
       paragraphs: [
         "We do not have an office in Karimnagar or Hyderabad, and we will not list an address we do not use. We are three engineers who work remotely with clients across India. Not paying rent or a sales team keeps our prices down, and you always speak to someone who works on your project.",
         "We begin with a call or WhatsApp conversation about your business, customers and goals. You receive a page plan, timeline and itemised quote in writing. Within one to two weeks you have a live preview link to check on your phone and share with partners. Changes are requested on WhatsApp, and small ones are often done the same day. We reply seven days a week, on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science solutions. You can <a href=\"/contact/\">reach us directly</a> in English or Hindi, and we arrange Telugu content review with you.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data science solutions. You can <a href=\"/contact/\">reach us directly</a> in English or Hindi, and we arrange Telugu content review with you.",
       ],
     },
     {

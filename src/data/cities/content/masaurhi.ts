@@ -69,7 +69,7 @@ const masaurhi: CityContent = {
       paragraphs: [
         "Masaurhi is the headquarters of one of Patna district's six sub-divisions, covering the Masaurhi, Punpun and Dhanarua blocks. Villages from all three come into town for the bazar, the block and court offices, the colleges and the clinics. Many families also have one foot in Patna, and the daily trains and buses on the Gaya line keep that link busy.",
         "Requests for <strong>IT services in Masaurhi</strong> tend to be practical. A school wants admission forms online. A medical store wants its name to show on Google Maps. A coaching centre wants a list of batches and a way for parents to ask questions without calling ten times a day. A fertiliser dealer wants to know who owes what.",
-        "We answer these as a remote team of three. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. You deal with one of us on WhatsApp from the first message to launch.",
+        "We answer these as a remote team of three. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. You deal with one of us on WhatsApp from the first message to launch.",
       ],
     },
     {

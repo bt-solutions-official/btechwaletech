@@ -69,7 +69,7 @@ const sindhnur: CityContent = {
       paragraphs: [
         "Few towns of Sindhanur's size move as much produce. Canal irrigation from the Tungabhadra lets farmers here harvest paddy twice a year, and that steady supply feeds rice mills, traders, transporters, gunny bag suppliers, tractor showrooms, spare parts shops and fertiliser dealers. Money from the fields flows into the town's hospitals, colleges, jewellers and cloth shops.",
         "When owners ask us about <strong>IT services in Sindhanur</strong>, they usually have one clear problem in mind. A miller wants buyers in Hyderabad or Bengaluru to see his brands and packing sizes. A tractor dealer wants service bookings without twenty phone calls. A hospital wants a Kannada page listing doctors and OPD days. A trader wants paddy purchases and payments in one place instead of three notebooks.",
-        "We handle this as a remote group of three. Ankur Kumar builds the websites and web apps end to end. Santosh Sharma looks after AI, machine learning, AWS and data. Vedansh Shrivastava plans and runs projects and works on data science and automation. None of us sits in an office in Sindhanur or Raichur, and we say that up front. You deal with us over WhatsApp, calls and screen shares, with each step confirmed in writing.",
+        "We handle this as a remote group of three. One of us builds the websites and web apps end to end. Another of us looks after AI, machine learning, AWS and data. The third of us plans and runs projects and works on data science and automation. None of us sits in an office in Sindhanur or Raichur, and we say that up front. You deal with us over WhatsApp, calls and screen shares, with each step confirmed in writing.",
       ],
     },
     {

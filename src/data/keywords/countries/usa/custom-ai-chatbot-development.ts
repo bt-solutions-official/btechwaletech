@@ -261,7 +261,7 @@ const content: FreelanceContent = {
       heading: "After custom AI chatbot development, who owns the bot and its transcripts?",
       paragraphs: [
         "Your business owns all of it. The code sits in your repository, the model provider and hosting accounts are in your name, and the prompts, content index settings, test set and transcripts are yours to keep, export or delete.",
-        "At handover you receive a short runbook: how to add or edit content and re-index it, how to change the greeting or refusal list, how to re-run the test set, how to rotate API keys, and how to find and delete a person's transcript on request. Ankur walks your team through the widget and integrations, Santosh through the AI and hosting pieces, and Vedansh keeps the list of open items until each one is closed. Confidentiality and code assignment terms go into your written quote; our general terms are on the <a href='/terms/'>terms page</a>.",
+        "At handover you receive a short runbook: how to add or edit content and re-index it, how to change the greeting or refusal list, how to re-run the test set, how to rotate API keys, and how to find and delete a person's transcript on request. One of us walks your team through the widget and integrations, another of us through the AI and hosting pieces, and the third of us keeps the list of open items until each one is closed. Confidentiality and code assignment terms go into your written quote; our general terms are on the <a href='/terms/'>terms page</a>.",
       ],
     },
     {

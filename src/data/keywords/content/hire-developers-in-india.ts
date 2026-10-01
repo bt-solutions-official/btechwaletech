@@ -84,10 +84,10 @@ const content: FreelanceContent = {
     columns: ["Question", "Solo marketplace freelancer", "Agency or dedicated-team vendor", "BtechWaleTech (freelance team of three)"],
     rows: [
       ["How you pay", "Hourly or milestone through the platform", "Monthly per seat or large project fee", "Per project, itemised, in stages"],
-      ["Who writes the code", "The freelancer", "Whoever the vendor assigns, may change", "Ankur, Santosh and Vedansh, named from day one"],
+      ["Who writes the code", "The freelancer", "Whoever the vendor assigns, may change", "The BtechWaleTech team, named from day one"],
       ["Extra fees", "Platform service fees on payments", "Management overhead inside the rate", "No platform, recruiter or middleman fee"],
       ["Continuity if someone leaves", "Work stops", "Replacement, often with a ramp-up", "Two teammates already know the code"],
-      ["Management effort for you", "High: you are the project manager", "Low to medium", "Low: Vedansh runs the plan and updates"],
+      ["Management effort for you", "High: you are the project manager", "Low to medium", "Low: the third of us runs the plan and updates"],
       ["Code ownership", "Depends on the contract you write", "Check the master agreement carefully", "Your repository and accounts from the start"],
       ["Scale ceiling", "One person", "Tens of developers", "Three people; not built for 20-seat teams"],
       ["Legal set-up", "Platform terms", "Vendor master agreement", "Written scope and quote, your terms welcome"],
@@ -122,7 +122,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Hire a freelance developer when the task is specific, you can judge the result yourself, and a delay of a week would not hurt the business. Fixing a checkout bug, building a landing page, writing an integration between two tools: these suit one skilled person well.`,
         `The weakness is concentration. One person means one point of failure: illness, a family wedding or a better-paying client can pause your project with no one to pick it up. You also become the project manager by default, writing tickets, testing builds and chasing updates.`,
-        `A freelance team reduces that risk while keeping the direct line to the people coding. At BtechWaleTech, Ankur writes most of the full-stack code, Santosh handles AWS, data, AI work and technical SEO, and Vedansh runs the plan, the updates and automation. When one of us is away, the other two can open the same repository and keep going, because nothing lives only on one laptop.`,
+        `A freelance team reduces that risk while keeping the direct line to the people coding. At BtechWaleTech, one of us writes most of the full-stack code, another of us handles AWS, data, AI work and technical SEO, and the third of us runs the plan, the updates and automation. When one of us is away, the other two can open the same repository and keep going, because nothing lives only on one laptop.`,
       ],
       subs: [
         { heading: "Signs a solo freelancer is enough", text: "The job fits in two or three weeks, you have a clear written spec, and you or a colleague can review the code or at least test the result thoroughly." },

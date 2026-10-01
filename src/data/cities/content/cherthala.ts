@@ -79,7 +79,7 @@ const cherthala: CityContent = {
       paragraphs: [
         "Coir is the trade most people link with Cherthala. Husk from the region's coconut groves is turned into yarn, ropes, mats, rugs and geotextiles, and private and cooperative units along NH 66 run mechanised looms that make carpets and doormats for export. Much of the selling still happens through agents, trade fairs and emailed PDFs.",
         "A <strong>website development team in Cherthala</strong> is useful to a coir unit only if the site answers what an importer asks first: sizes, weaves, backing options, colours, printing, minimum order quantity, packing per carton and container, lead time and certifications. We build a catalogue where each product has its own page with close-up photographs and a specification table, plus a sample-request form that records country, quantity and target price.",
-        "A catalogue of this kind is a static site and starts at ₹10,000, taking one to two weeks once photographs are ready. If you sell doormats to Indian households too, a store with UPI and card checkout can sit alongside it later. Ankur Kumar, who does our full-stack work, keeps export and retail pages separate so a buyer in Europe never lands on a ₹499 retail price.",
+        "A catalogue of this kind is a static site and starts at ₹10,000, taking one to two weeks once photographs are ready. If you sell doormats to Indian households too, a store with UPI and card checkout can sit alongside it later. One of us, who does our full-stack work, keeps export and retail pages separate so a buyer in Europe never lands on a ₹499 retail price.",
       ],
     },
     {
@@ -88,7 +88,7 @@ const cherthala: CityContent = {
       paragraphs: [
         "North of the town, Aroor, Chandiroor, Ezhupunna, Thuravoor and Arookutty are known for seafood processing, with plants handling shrimp, squid, cuttlefish and fin fish for export. Prawns are also farmed in the region's paddy fields. The Mega Food Park at Pallippuram, set up on 84 acres under the central Mega Food Park scheme, adds cold storage, freezing, deboning and warehousing for the sector.",
         "Most of these businesses live or die on traceability. As a <strong>software team in Cherthala</strong> for this trade, we would build a lot register: every purchase recorded with supplier, landing centre or farm, species, count and weight, then followed through peeling, grading, freezing and cold store to the dispatch document. Supplier payments and advances sit in the same system, and a buyer query about a carton can be traced in minutes.",
-        "Custom software of this kind starts at ₹60,000 and is built in stages over six to twelve weeks. Santosh Sharma handles the AWS hosting and data side, so the system keeps working when three shifts are entering data at once. If you only need a clean stock sheet and a daily summary, we will say so; a dashboard over your existing Excel is far cheaper than a new application.",
+        "Custom software of this kind starts at ₹60,000 and is built in stages over six to twelve weeks. Another of us handles the AWS hosting and data side, so the system keeps working when three shifts are entering data at once. If you only need a clean stock sheet and a daily summary, we will say so; a dashboard over your existing Excel is far cheaper than a new application.",
       ],
     },
     {
@@ -151,7 +151,7 @@ const cherthala: CityContent = {
       heading: "AI and WhatsApp automation in Cherthala for exporters, stays and clinics",
       paragraphs: [
         "Cherthala businesses already run on WhatsApp, and the trouble is the hours. An importer in another time zone messages at 2 a.m. about carton sizes. Guests ask for feast-week rooms late at night. A clinic receptionist answers the same timing question forty times before lunch.",
-        "With <strong>AI and WhatsApp automation in Cherthala</strong>, an assistant on the official WhatsApp Business platform answers those repeat questions from facts you approve, in Malayalam or English. Vedansh Shrivastava, who handles our automation, starts by reading a month of your real chats to decide what the assistant should and should not answer. Common jobs:",
+        "With <strong>AI and WhatsApp automation in Cherthala</strong>, an assistant on the official WhatsApp Business platform answers those repeat questions from facts you approve, in Malayalam or English. The third of us, who handles our automation, starts by reading a month of your real chats to decide what the assistant should and should not answer. Common jobs:",
       ],
       list: [
         "Sending product specifications and sample terms to export enquiries",
@@ -182,7 +182,7 @@ const cherthala: CityContent = {
       id: "remote-team-cherthala",
       heading: "How our remote team works with Cherthala clients",
       paragraphs: [
-        "There is no Cherthala office, and we won't invent one. Three people do the work. Ankur Kumar builds websites and web apps end to end. Santosh Sharma looks after AI, machine learning, AWS and data. Vedansh Shrivastava plans the project and runs data science and automation. The people you speak to on day one are the people who build.",
+        "There is no Cherthala office, and we won't invent one. Three people do the work. One of us builds websites and web apps end to end. Another of us looks after AI, machine learning, AWS and data. The third of us plans the project and runs data science and automation. The people you speak to on day one are the people who build.",
         "A project usually starts with a WhatsApp message or voice note. We ask about your buyers, your busy months and what you want to change, then send a written scope with pages or screens, dates and costed lines, normally within about two working days. Work begins after you approve it in writing; nothing is billed before that. You follow progress on preview links and every change request is noted.",
         "When comparing quotes from anyone, ask who registers the domain, whether the site is tested on cheap Android phones, and what an edit will cost a year from now. Our starting figures are on the <a href=\"/pricing/\">pricing page</a>, and you can <a href=\"/contact/\">message us</a> any day of the week on Indian time.",
       ],

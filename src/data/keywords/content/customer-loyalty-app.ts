@@ -214,7 +214,7 @@ const content: FreelanceContent = {
       heading: "How a customer loyalty app for small business gets built",
       paragraphs: [
         `For WhatsApp loyalty the build usually takes 2–4 weeks; a dashboard with POS integration 6–12 weeks; a full app 6–10 weeks. Most of the first week is choosing the reward rule and writing the messages.`,
-        `Vedansh runs the scoping call: what you sell, average bill, how often regulars visit, what reward you can afford, who bills at the counter. Santosh sets up the WhatsApp Business Platform connection, the cloud database and the dashboards; Ankur builds the counter screen, the bot flows and any app. You test on your own phone with your staff before a single customer sees it.`,
+        `The third of us runs the scoping call: what you sell, average bill, how often regulars visit, what reward you can afford, who bills at the counter. Another of us sets up the WhatsApp Business Platform connection, the cloud database and the dashboards; one of us builds the counter screen, the bot flows and any app. You test on your own phone with your staff before a single customer sees it.`,
         `We then suggest a soft launch: two weeks where staff invite regulars personally, before table QRs and posters go up. That catches confusing messages early and gives you the first real numbers on sign-ups and repeat visits.`,
       ],
     },

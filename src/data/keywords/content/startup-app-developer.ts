@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A startup app developer does more than write screens. At the early stage, the job is to turn a fuzzy idea into the smallest product that can prove or disprove your riskiest assumption, then build it so it can grow if the answer is yes.`,
         `In practice that means five things. First, helping you pick the one core user journey worth building. Second, choosing a stack that is cheap to run and easy for future hires to pick up. Third, building the app, backend and admin tools. Fourth, getting the app through Google Play and App Store review in your accounts. Fifth, leaving behind documentation so your first engineer is productive in days, not months.`,
-        `At BtechWaleTech, Ankur leads the full-stack and app build, Santosh handles AWS, data, analytics and any AI or machine learning pieces, and Vedansh runs the plan, scope trade-offs and weekly demos. For a founder without a technical partner, that gives you three people who cover the gaps a solo freelancer would leave.`,
+        `At BtechWaleTech, one of us leads the full-stack and app build, another of us handles AWS, data, analytics and any AI or machine learning pieces, and the third of us runs the plan, scope trade-offs and weekly demos. For a founder without a technical partner, that gives you three people who cover the gaps a solo freelancer would leave.`,
       ],
     },
     {

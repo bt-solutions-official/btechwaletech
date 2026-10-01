@@ -69,7 +69,7 @@ const dhuri: CityContent = {
       paragraphs: [
         "Dhuri is not a big city, and it does not need big-city software. It is a town of roughly fifty-five thousand people at the 2011 census, with a busy grain market, a railway junction that sends trains towards Ludhiana, Bathinda, Rajpura and Jakhal, and villages all around that come in for crops, spares, schooling and treatment.",
         "Most requests we get for <strong>IT services in Dhuri</strong> are specific and modest. A commission agent wants his farmers to see their account without phoning him ten times a season. A trolley and implement workshop wants a proper website with photographs of its models. A hospital wants doctor timings online. An IELTS centre wants its batch dates and results in one place instead of scattered Facebook posts.",
-        "We are three engineers working remotely, and we do not have an office in Dhuri. Ankur Kumar does full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. Everything is done over WhatsApp, calls and screen shares, and you get every plan and price in writing.",
+        "We are three engineers working remotely, and we do not have an office in Dhuri. One of us does full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. Everything is done over WhatsApp, calls and screen shares, and you get every plan and price in writing.",
         "For most Dhuri businesses the sensible first step is small: a clean site, an accurate map listing and a WhatsApp button.",
       ],
     },

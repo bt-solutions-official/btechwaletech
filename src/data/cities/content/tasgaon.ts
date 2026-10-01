@@ -69,7 +69,7 @@ const tasgaon: CityContent = {
       paragraphs: [
         "Life in Tasgaon follows the vineyard year. Pruning, spraying and harvest decide when farmers have cash, when traders are busy, when cold storages fill up and when shops sell the most. A digital project that ignores this rhythm tends to launch at the wrong moment, so we plan backwards from your season rather than forwards from our calendar.",
         "Requests for <strong>IT services in Tasgaon</strong> usually sound practical. A raisin trader wants buyers in Delhi or Kolkata to see his grades and photos before calling. A cold storage owner wants to stop answering the same “how many boxes are left in my lot?” question fifty times a day. A clinic near the market wants its timings to show correctly on Google Maps. A school wants admission forms that parents in Savlaj or Manerajuri can fill on a phone.",
-        "We are a remote team of three. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. There is no BtechWaleTech office in Tasgaon or in Sangli, and we do not pretend otherwise; you deal directly with the engineers doing the work, over WhatsApp, calls and screen shares.",
+        "We are a remote team of three. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. There is no BtechWaleTech office in Tasgaon or in Sangli, and we do not pretend otherwise; you deal directly with the engineers doing the work, over WhatsApp, calls and screen shares.",
       ],
     },
     {

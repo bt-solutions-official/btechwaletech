@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `An ERP software developer builds one shared system where every department records its work against the same data. When the store issues raw material, production sees it; when sales books an order, stock is reserved; when goods leave, the invoice and the ledger update. That shared truth is the whole point of ERP.`,
         `For a large enterprise, ERP means dozens of modules and years of rollout. For an Indian SME with a few godowns, one factory or a distribution network, it means something far smaller and more practical: the four or five modules that remove double entry and guesswork. A good ERP software developer starts from that reality instead of selling you a scaled-down enterprise suite.`,
-        `Custom ERP is simply a web application built for your process, usually with a browser interface for office staff and a phone app for people on the shop floor or in the field. In our team, Ankur builds the application, Santosh designs the database and hosting, and Vedansh maps your workflows and plans each rollout phase.`,
+        `Custom ERP is simply a web application built for your process, usually with a browser interface for office staff and a phone app for people on the shop floor or in the field. In our team, one of us builds the application, another of us designs the database and hosting, and the third of us maps your workflows and plans each rollout phase.`,
       ],
     },
     {

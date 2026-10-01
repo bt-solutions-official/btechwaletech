@@ -159,7 +159,7 @@ const hazaribag: CityContent = {
       paragraphs: [
         "A mid-sized Hazaribagh transporter might run twenty or thirty trucks and a few loaders across two or three project sites. At month end, someone sits with challans, diesel slips and a diary to work out trips, fuel consumption and what each client owes. Mistakes in that calculation cost real money, and disputes over trip counts can hold up payments for weeks.",
         "We build a small data layer that removes most of this effort. Supervisors enter trips and diesel issues from a phone, or the data is pulled from the spreadsheets you already keep. A dashboard then shows trips per vehicle, fuel per trip, idle machines, pending bills and ageing dues, and flags numbers that look unusual, such as a truck using far more diesel than its usual pattern.",
-        "Santosh Sharma leads this work. We start by looking at one month of your actual records, then build only the few views that answer your real questions. The data sits on accounts registered to you. Projects like this start from ₹60,000 as custom software, and a simpler reporting sheet can cost less if that is all you need.",
+        "Another of us leads this work. We start by looking at one month of your actual records, then build only the few views that answer your real questions. The data sits on accounts registered to you. Projects like this start from ₹60,000 as custom software, and a simpler reporting sheet can cost less if that is all you need.",
       ],
     },
     {
@@ -168,7 +168,7 @@ const hazaribag: CityContent = {
       paragraphs: [
         "We do not have an office in Hazaribagh, Ranchi or anywhere in Jharkhand, and we do not claim one. We are three engineers working remotely for clients across India, which is why our starting prices stay lower: no rent, no sales team, no commissions.",
         "The process needs only your phone. We call to understand your business, then send a written page plan, timeline and itemised quote. After you approve it, you get a private link to watch the site take shape. Changes go on WhatsApp, and small ones are often done the same day. We reply seven days a week, in Indian time.",
-        "Ankur Kumar builds websites and applications. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">message any of us directly</a>.",
+        "One of us builds websites and applications. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">message any of us directly</a>.",
       ],
     },
     {

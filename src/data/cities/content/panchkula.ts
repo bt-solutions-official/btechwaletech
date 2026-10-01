@@ -174,7 +174,7 @@ const panchkula: CityContent = {
       paragraphs: [
         "We do not have an office in Panchkula, Chandigarh or anywhere else, and we will not pretend otherwise. We are three engineers working remotely for clients across India. You deal directly with the people building your site, and your quote does not carry sector-market office rent.",
         "The process starts with a call or WhatsApp chat, followed by a written page plan, timeline and itemised quote. Within a week or two you get a preview link to review on your phone. Feedback goes on WhatsApp, and small changes are usually done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. Our <a href=\"/services/web-development/\">web development page</a> describes the process in more detail.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. Our <a href=\"/services/web-development/\">web development page</a> describes the process in more detail.",
       ],
     },
     {

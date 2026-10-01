@@ -175,7 +175,7 @@ const bagaha: CityContent = {
       paragraphs: [
         "We have no office in Bagaha, and we will not invent one. We are three engineers who work remotely with clients across India. Without rent and a sales team, our starting prices stay lower than big-city agencies, and you talk directly to the people writing your site.",
         "It works over calls, WhatsApp and screen sharing. After the first conversation we send a page plan, timeline and itemised quote. Once approved, we build and send you a private preview link to check on your phone and share with family or partners. We reply seven days a week on Indian time, and small changes are usually done the same day.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles data science and automation. You can <a href=\"/contact/\">write to any of us</a> directly.",
+        "One of us leads full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and handles data science and automation. You can <a href=\"/contact/\">write to any of us</a> directly.",
       ],
     },
     {

@@ -168,7 +168,7 @@ const mumbai: CityContent = {
       paragraphs: [
         "We do not have a Mumbai office, and we won't list a borrowed address to look local. We are three engineers working remotely across India. In a city where a meeting across town can take two hours each way, most of our Mumbai clients find calls and WhatsApp faster than sitting in traffic between Andheri and Churchgate.",
         "The process is short. We talk about your business, then send a written plan listing pages, features, timeline and cost. Within a week or two you get a live preview link to open on your own phone. You send feedback as voice notes or screenshots, and small changes usually go live the same day. We reply seven days a week on Indian time, which suits shop owners who can only review their site on a Sunday.",
-        "Ankur Kumar leads full-stack <a href=\"/services/web-development/\">web development</a>. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava runs project management along with data science and automation. You know who is doing what, and you can message any of us directly.",
+        "One of us leads full-stack <a href=\"/services/web-development/\">web development</a>. Another of us handles AI, machine learning, AWS and data work. The third of us runs project management along with data science and automation. You know who is doing what, and you can message any of us directly.",
       ],
     },
     {

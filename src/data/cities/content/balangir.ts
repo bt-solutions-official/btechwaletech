@@ -169,7 +169,7 @@ const balangir: CityContent = {
       paragraphs: [
         "We have no office in Balangir and will not claim one. We are three engineers working remotely across India. Skipping rent and sales staff is how we keep starting prices modest, and it means you deal with the people writing the code, not a middleman.",
         "Work happens on phone calls, WhatsApp and screen sharing. We begin by asking about your customers, what they ask and where they come from. Then we send a page plan, timeline and itemised quote. After approval you get a preview link to open on your own phone and show family or partners. Small changes requested on WhatsApp are often finished the same day. We reply seven days a week, on Indian time.",
-        "Ankur Kumar builds websites and applications. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">reach us here</a> whenever you are ready.",
+        "One of us builds websites and applications. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">reach us here</a> whenever you are ready.",
       ],
     },
     {

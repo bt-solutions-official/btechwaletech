@@ -116,7 +116,7 @@ const bhimavaram: CityContent = {
       paragraphs: [
         "Larger pond owners and farm managers juggle many numbers: stocking density, daily feed per pond, water parameters, medicine used, survival estimates, harvest counts and payments from processors. Most of this lives in notebooks or scattered spreadsheets, which makes it hard to compare one crop with the next.",
         "We build a simple record system that staff fill from a phone at the pond side, even in Telugu. A dashboard then shows feed use against growth, costs per pond, harvest results and payments due, crop by crop. The aim is not fancy charts; it is to help an owner see which ponds and practices actually earn money.",
-        "Santosh Sharma leads this data work. We start with one season of your actual records and build only the views you will use. The data stays in accounts registered to you. Projects start from ₹60,000, and a smaller reporting sheet may be enough if you run only a few ponds.",
+        "Another of us leads this data work. We start with one season of your actual records and build only the views you will use. The data stays in accounts registered to you. Projects start from ₹60,000, and a smaller reporting sheet may be enough if you run only a few ponds.",
       ],
     },
     {
@@ -178,7 +178,7 @@ const bhimavaram: CityContent = {
       paragraphs: [
         "We have no office in Bhimavaram, Vijayawada or anywhere in Andhra Pradesh, and we do not list an address we do not use. We are three engineers working remotely for clients across India, which is how our starting prices stay lower: no rent, no showroom, no commissions.",
         "All you need is a phone. We call to understand your business, then send a written page plan, timeline and itemised quote. After you approve it, you get a private link to follow the site as it is built. Changes go on WhatsApp, and small ones are often done the same day. We reply seven days a week, in Indian time. If you prefer Telugu for content, we work with your text and check it with you carefully.",
-        "Ankur Kumar builds websites and applications. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">contact any of us directly</a>.",
+        "One of us builds websites and applications. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">contact any of us directly</a>.",
       ],
     },
     {

@@ -271,7 +271,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The build runs in five stages: supplier check, store set-up, product and pricing work, COD and policy set-up, then testing with real orders. A focused store launches in 4–8 weeks.`,
         `We start with your niche, supplier details and budget on WhatsApp or a call, and review your supplier's feed and process before quoting. You get an itemised quote in about two working days, including the list of recurring vendor costs. Nothing is billed before written approval.`,
-        `Ankur builds the store and integrations. Santosh handles analytics, ad tracking, structured data and speed. Vedansh coordinates supplier questions, product data and your reviews, which is where most dropshipping projects slow down.`,
+        `One of us builds the store and integrations. Another of us handles analytics, ad tracking, structured data and speed. The third of us coordinates supplier questions, product data and your reviews, which is where most dropshipping projects slow down.`,
         `Before launch we place real test orders: prepaid and COD, confirmed and cancelled, to your address and to another state. We check the order reaches the supplier, tracking comes back, the customer receives each message and refunds work. Only then do you switch on ads. Launch comes with two months of free maintenance for fixes and small changes.`,
       ],
     },

@@ -69,7 +69,7 @@ const sihora: CityContent = {
       paragraphs: [
         "Sihora needs a small set of practical tools: a Hindi website that answers the questions customers ring about, a correct Google Maps pin, a way to take orders on WhatsApp, and simple records for trucks, trips and payments. Very few Sihora firms need anything exotic, and we would rather build the four basics well than sell a large package.",
         "The town is the market for the 162 villages of its tehsil. Farmers bring paddy and wheat to the mandi, families come for clothes and jewellery before weddings, patients arrive at the Civil Hospital and private clinics, and students travel in for the government college. Before they make the trip, more of them now search on a phone: is the shop open, which doctor sits today, what is the rate, are admissions still on.",
-        "When people look for <strong>IT services in Sihora</strong>, they are usually asking for help with exactly these moments. Our team is three people working remotely: Ankur Kumar handles full-stack web and app development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. There is no Sihora office and we will not pretend otherwise; you deal directly with the engineers doing the work, over WhatsApp and calls.",
+        "When people look for <strong>IT services in Sihora</strong>, they are usually asking for help with exactly these moments. Our team is three people working remotely: one of us handles full-stack web and app development, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. There is no Sihora office and we will not pretend otherwise; you deal directly with the engineers doing the work, over WhatsApp and calls.",
       ],
     },
     {
@@ -160,7 +160,7 @@ const sihora: CityContent = {
       paragraphs: [
         "Most Sihora businesses already run on WhatsApp. Grain rate queries, spare part requests, admission questions, catering enquiries and appointment requests all arrive there, often when the owner is busiest. Automation handles the repeated part of that traffic so that people who are ready to buy get an answer before they message a competitor.",
         "With <strong>AI and WhatsApp automation in Sihora</strong>, an assistant replies in Hindi to routine questions about rates, stock, fees, timings and directions, collects order or booking details, writes them into a sheet or your software, and sends anything outside its brief to a person with the full conversation attached. It runs on the official WhatsApp Business platform, so your number is not put at risk by unofficial tools.",
-        "Projects start at ₹40,000 and take two to four weeks. Santosh Sharma leads the AI work; Vedansh Shrivastava maps the message flows with you first, using a sample of your real chats shared with permission, so we automate the questions that genuinely repeat. The assistant is given only facts you approve, and it says “let me connect you” rather than guessing at a price or a medical answer.",
+        "Projects start at ₹40,000 and take two to four weeks. Another of us leads the AI work; the third of us maps the message flows with you first, using a sample of your real chats shared with permission, so we automate the questions that genuinely repeat. The assistant is given only facts you approve, and it says “let me connect you” rather than guessing at a price or a medical answer.",
       ],
     },
     {
@@ -177,7 +177,7 @@ const sihora: CityContent = {
       heading: "How a remote team delivers for Sihora clients",
       paragraphs: [
         "Working remotely with a Sihora business follows a written routine. We begin with a call about your trade, your customers and what you want to stop doing by hand. Within about two working days you receive a document listing pages or app screens, delivery dates and a cost for every item. Nothing starts, and nothing is billed, until you approve it in writing.",
-        "Ankur Kumar builds the site or app, Santosh Sharma sets up anything involving AI, cloud hosting or data, and Vedansh Shrivastava keeps the schedule and the automation flows on track. You see progress on preview links that open on any phone, so you can check them at the shop, pass them to a partner, or show a son or daughter who handles the family’s online side. Hindi wording is sent for your approval before launch.",
+        "One of us builds the site or app, another of us sets up anything involving AI, cloud hosting or data, and the third of us keeps the schedule and the automation flows on track. You see progress on preview links that open on any phone, so you can check them at the shop, pass them to a partner, or show a son or daughter who handles the family’s online side. Hindi wording is sent for your approval before launch.",
         "WhatsApp is the main channel, answered seven days a week on Indian time. If a date slips, you hear it the same day along with the revised plan. Payments are tied to stages you can see working. That structure is what makes remote work safe for a first-time client in Sihora who has never met us across a table.",
       ],
     },

@@ -216,7 +216,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A typical project takes 6–12 weeks, in two or three stages, so the donation counter moves to the new system first and other counters follow. We schedule go-live away from major festivals, when no trust wants its counters changing.`,
         `The first two weeks go to understanding your temple: the seva list with timings and limits, sample receipts, the income heads your accountant uses, how prasad is dispatched and how rooms are allotted. We then share designs of the counter screens and the devotee booking pages. Stage one (roughly weeks 3–6) builds donor records, donations, receipts and seva booking. Stage two adds prasad dispatch and the guest house. Stage three brings full accounts and reports, and a devotee app if the trust wants one.`,
-        `Vedansh coordinates with the trust's nominated person and runs a weekly call. Ankur builds the counter screens, booking pages and back end. Santosh handles hosting, the database, backups and the reports trustees read. Counter clerks are trained on short video calls in Hindi or English, with recordings they can rewatch. Running old receipt books alongside the new system for a week or two is sensible while clerks get comfortable.`,
+        `The third of us coordinates with the trust's nominated person and runs a weekly call. One of us builds the counter screens, booking pages and back end. Another of us handles hosting, the database, backups and the reports trustees read. Counter clerks are trained on short video calls in Hindi or English, with recordings they can rewatch. Running old receipt books alongside the new system for a week or two is sensible while clerks get comfortable.`,
       ],
     },
     {

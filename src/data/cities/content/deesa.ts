@@ -174,7 +174,7 @@ const deesa: CityContent = {
       id: "remote-team-deesa",
       heading: "How we work with Deesa clients without a local office",
       paragraphs: [
-        "We have no office in Deesa, Palanpur or anywhere in Gujarat, and we say so upfront. We are three engineers working remotely: Ankur Kumar builds full-stack applications, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava handles project management, data science and automation.",
+        "We have no office in Deesa, Palanpur or anywhere in Gujarat, and we say so upfront. We are three engineers working remotely: one of us builds full-stack applications, another of us leads AI, machine learning, AWS and data work, and the third of us handles project management, data science and automation.",
         "You describe your business on WhatsApp or in a short call, in Hindi or English. We send an itemised written quote in about two working days. Nothing starts and nothing is billed until you approve it in writing. Payments follow milestones set out in that quote.",
         "While we build, you watch progress on a live preview link and comment directly on what you see. We reply on WhatsApp seven days a week on Indian Standard Time and keep every decision in writing.",
         "Working remotely keeps the cost down because there is no showroom rent or sales team built into your price. You speak directly with the engineers writing the code, which for a busy trader or cold storage owner usually means faster answers and fewer misunderstandings.",

@@ -215,7 +215,7 @@ const content: FreelanceContent = {
       heading: "Using part-time developer hours for SEO and speed",
       paragraphs: [
         `Search improvements suit part-time work well, because they are steady and incremental rather than one big push.`,
-        `Each month, Santosh reviews Google Search Console for pages that dropped out of the index, crawl errors and queries where you appear but rarely get clicks. The fixes are often small: a better title, a missing internal link, a slow image, a page that needs a short FAQ. Over several months these add up. Core Web Vitals checks on real phones catch slow pages before visitors notice.`,
+        `Each month, another of us reviews Google Search Console for pages that dropped out of the index, crawl errors and queries where you appear but rarely get clicks. The fixes are often small: a better title, a missing internal link, a slow image, a page that needs a short FAQ. Over several months these add up. Core Web Vitals checks on real phones catch slow pages before visitors notice.`,
         `Monthly SEO with us starts at ${P.seo}. We report what changed and what Search Console shows, and we do not promise positions, because rankings depend on competitors and time as well as your site. For a deeper look at search-only work, see <a href='/freelance-seo-expert/'>freelance SEO expert</a>.`,
       ],
     },

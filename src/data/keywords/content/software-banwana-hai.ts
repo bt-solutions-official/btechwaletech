@@ -195,7 +195,7 @@ const content: FreelanceContent = {
         "What does support look like after go-live, and what does it cost?",
       ],
       after: [
-        `Freelancers on marketplaces such as Upwork, Fiverr or Freelancer.com, local software shops and larger development houses all quote in very different ways, and we do not comment on their rates. The questions above work for all of them. With us, you speak directly to the three people building your software: Ankur Kumar on full-stack development, Santosh Sharma on data, cloud and AI, and Vedansh Shrivastava on project management and automation.`,
+        `Freelancers on marketplaces such as Upwork, Fiverr or Freelancer.com, local software shops and larger development houses all quote in very different ways, and we do not comment on their rates. The questions above work for all of them. With us, you speak directly to the three people building your software: one of us on full-stack development, another of us on data, cloud and AI, and the third of us on project management and automation.`,
       ],
     },
     {

@@ -69,7 +69,7 @@ const sircilla: CityContent = {
       paragraphs: [
         "Sircilla became the headquarters of the new Rajanna Sircilla district when Telangana reorganised its districts, and it is a first-grade municipality of 34 wards. The town is known across the state as Textile Town. Loom sheds, sizing and dyeing units, yarn dealers and saree traders fill its lanes, and many households depend on weaving wages.",
         "Business here moves through WhatsApp. Designs are shared as photos, orders are confirmed by voice note, wage and metre counts are sent at the end of the week. When owners look for <strong>IT services in Sircilla</strong>, they usually want to bring order to this: a catalogue website, a clean record of production and payments, a correct Google Maps listing, or an automated reply to the same ten questions.",
-        "Our team is three people. Ankur Kumar is the full-stack developer behind the websites, apps and back-end systems. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava handles project management, data science and automation, and he is normally the first person you talk to.",
+        "Our team is three people. One of us is the full-stack developer behind the websites, apps and back-end systems. Another of us leads AI, machine learning, AWS and data work. The third of us handles project management, data science and automation, and he is normally the first person you talk to.",
         "We have no office in Sircilla or Karimnagar, and we will not claim one. We work over calls, WhatsApp and screen sharing, and we put every decision in writing. That saves you a trip to Hyderabad for meetings and keeps our starting prices free of office overheads.",
       ],
     },

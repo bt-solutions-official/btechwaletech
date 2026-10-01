@@ -158,7 +158,7 @@ const aligarh: CityContent = {
       paragraphs: [
         "We do not have an office in Aligarh, and we will not invent one. BtechWaleTech is a remote team of three engineers working for clients across India. For you, this means lower prices, because there is no rent or sales team in the quote, and direct contact with the people building your site.",
         "Projects follow a simple pattern. After an initial conversation on WhatsApp or a call, we send a written page plan, timeline and itemised quote. Once you approve it, you receive a live preview link, usually within the first week or two, that you can open on your phone and share with family or partners. Feedback comes on WhatsApp and small changes are usually live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can talk to any of us directly, and with three people, work continues even when one of us is away.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can talk to any of us directly, and with three people, work continues even when one of us is away.",
       ],
     },
     {

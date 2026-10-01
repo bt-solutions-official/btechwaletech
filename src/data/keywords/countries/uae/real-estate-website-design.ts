@@ -243,7 +243,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `For most brokerages we recommend a fast framework such as Astro or Next.js, a database for listings, and a headless CMS for guides, projects and agent profiles. Listings and editorial content live separately, so a feed import never overwrites a guide your team wrote.`,
         `WordPress with a real estate plugin is a reasonable alternative if your team already uses it and listing volume is modest. At higher volume, plugin-based imports tend to slow down and become hard to debug, which is why many brokerages move to a custom import once feeds grow.`,
-        `Hosting is set up in your own cloud account, with a content delivery network for photos. Santosh handles the cloud set-up, backups and monitoring. Imports run as scheduled jobs with logs, so if a feed fails you see it the same day rather than when a buyer complains.`,
+        `Hosting is set up in your own cloud account, with a content delivery network for photos. Another of us handles the cloud set-up, backups and monitoring. Imports run as scheduled jobs with logs, so if a feed fails you see it the same day rather than when a buyer complains.`,
         `If you also want an app for buyers or agents, the same listing database can serve both. Apps start from ${P.app}; our <a href='/uae/real-estate-app-development/'>real estate app development page</a> explains when an app makes sense and when a fast mobile site is enough.`,
       ],
     },

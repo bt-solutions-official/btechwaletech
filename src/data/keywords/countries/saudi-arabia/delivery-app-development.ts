@@ -249,7 +249,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The overlap is generous: India is two and a half hours ahead of Saudi time, so a 9 am Riyadh stand-up is 11:30 am for us and a late issue reported at 7 pm your time reaches us at 9:30 pm. We plan sprint reviews on Sundays or Mondays to match your working week and avoid shipping driver-app updates right before the weekend rush.`,
         `During the pilot we watch dashboards in your peak hours. Pricing is in US dollars, the invoice comes from India, and payment is by Wise or bank wire at the milestones set in the written quote. We do not have a Saudi office or entity and cannot visit your warehouse, so field testing is done by your drivers with us on a call.`,
-        `The first fortnight: a long scoping call on your model and operations, an itemised quote within about two working days, then after approval a clickable prototype of the three apps by the end of week two. Ankur builds, Santosh sets up cloud, maps and data, and Vedansh keeps the plan and your weekly review on track.`,
+        `The first fortnight: a long scoping call on your model and operations, an itemised quote within about two working days, then after approval a clickable prototype of the three apps by the end of week two. One of us builds, another of us sets up cloud, maps and data, and the third of us keeps the plan and your weekly review on track.`,
       ],
     },
     {

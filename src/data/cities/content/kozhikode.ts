@@ -139,7 +139,7 @@ const kozhikode: CityContent = {
       heading: "Startups, IT firms and professionals around Cyberpark",
       paragraphs: [
         "Kozhikode's technology scene has grown around the government Cyberpark and UL Cyberpark, with IT and ITES firms, startups and a steady supply of graduates from NIT Calicut and other engineering colleges. IIM Kozhikode adds management talent and an active startup ecosystem nearby.",
-        "Young companies here often need more than a brochure site: a product landing page with clear messaging, a web app built to a tight budget, a customer dashboard or an internal tool. We build web applications from ₹60,000 with modern frameworks and hosting on AWS where it makes sense, and Santosh Sharma handles AI and data work for products that need it.",
+        "Young companies here often need more than a brochure site: a product landing page with clear messaging, a web app built to a tight budget, a customer dashboard or an internal tool. We build web applications from ₹60,000 with modern frameworks and hosting on AWS where it makes sense, and another of us handles AI and data work for products that need it.",
         "For consultancies, CA firms, lawyers and architects in the city, we build focused service sites with profiles, case examples you are allowed to share, and consultation booking. Search pages for each service help clients across Malabar find the right professional.",
         "Graduates who stay in the city rather than moving to Bengaluru also start small agencies, ed-tech ventures and service firms of their own. For them we keep the first build lean: one clear page per offer, working analytics and a contact route that reaches the founder's phone, then add features only when real users ask for them.",
       ],
@@ -178,7 +178,7 @@ const kozhikode: CityContent = {
       paragraphs: [
         "We have no office in Kozhikode, and we will not claim one. BtechWaleTech is three engineers working remotely for clients across India. Without office rent and a sales layer, our prices stay reasonable, and you talk directly with the people building your project.",
         "The process begins with a WhatsApp chat or call about your business and goals. We send a written plan, timeline and itemised quote, and after you approve it, a preview link follows within the first week or two. You can check it on your phone, share it with partners or family abroad, and send feedback as text or voice notes. Small changes are often done the same day, and we reply every day of the week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. You can contact any of us directly.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. You can contact any of us directly.",
       ],
     },
     {

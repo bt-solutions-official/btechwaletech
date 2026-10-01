@@ -69,7 +69,7 @@ const pandharpur: CityContent = {
       paragraphs: [
         "Few towns in Maharashtra have a rhythm as predictable as Pandharpur. For most of the year it is a taluka town of shops, schools, clinics and farm trade. Then the palkhis from Alandi and Dehu arrive for Ashadhi Ekadashi, and the town fills with varkaris for days. Kartiki brings another large crowd, and Chaitri and Maghi smaller ones.",
         "That rhythm shapes what people want from <strong>IT services in Pandharpur</strong>. A lodge owner needs rooms booked weeks before the yatra and a phone that stops ringing with the same question. A math or dharmashala wants donors and devotees in other cities to see its facilities and send contributions properly. A prasad shop wants to sell to families who cannot travel. Farmers and traders want cleaner records for cane and fruit.",
-        "We are a remote team of three and have no office in Pandharpur. Ankur Kumar builds the websites and web apps, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. Planning happens on WhatsApp and video calls, and you get every plan, quote and timeline in writing.",
+        "We are a remote team of three and have no office in Pandharpur. One of us builds the websites and web apps, another of us handles AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. Planning happens on WhatsApp and video calls, and you get every plan, quote and timeline in writing.",
       ],
     },
     {

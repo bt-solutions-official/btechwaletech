@@ -159,7 +159,7 @@ const kanpur: CityContent = {
       paragraphs: [
         "We do not have an office in Kanpur, and we will not invent one. We are three engineers who work remotely with clients across India. You will not pay for our rent, and you will not be passed to a sales executive and then to a junior developer you never meet.",
         "The work runs on calls, WhatsApp and screen sharing. After the first conversation we send a written plan, timeline and quote. Within a week or two you get a live preview on a real link, which you can open on your phone at the factory or in the shop and forward to your partners. Feedback comes back on WhatsApp and small changes usually go live the same day. We work on Indian time and reply seven days a week.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds data science and automation work. Each of us is reachable directly, and you will always know who is responsible for what.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds data science and automation work. Each of us is reachable directly, and you will always know who is responsible for what.",
       ],
     },
     {

@@ -35,7 +35,7 @@ const content: FreelanceContent = {
   facts: [
     ["Options compared", "Agency, solo freelancer, small team"],
     ["Where we sit", "Small freelance team of three"],
-    ["Who does your SEO", "Santosh Sharma, with Ankur and Vedansh"],
+    ["Who does your SEO", "Another of us, with one of us and the third of us"],
     ["Monthly SEO", `From ${P.seo} · ${P.seoUsd}`],
     ["Reporting source", "Your own Search Console and analytics"],
     ["Accounts and content", "Owned by you, always"],
@@ -69,7 +69,7 @@ const content: FreelanceContent = {
     note: "The cards describe what we actually do on SEO engagements. Where a bigger organisation would serve you better, the comparison below says so.",
     cards: [
       { name: "Technical fixes shipped by developers", note: "Many SEO providers can only recommend a canonical fix or a template change and then wait for your developer. We are developers, so redirects, schema, speed work and template edits get done by the same people who found the problem.", href: "/technical-seo-freelancer/", size: "lg" },
-      { name: "The person you talk to does the work", note: "No account manager relaying messages. Santosh plans and runs the SEO, Ankur handles code changes and Vedansh keeps the schedule, and you can message any of them.", href: "/about/", size: "lg" },
+      { name: "The person you talk to does the work", note: "No account manager relaying messages. Another of us plans and runs the SEO, one of us handles code changes and the third of us keeps the schedule, and you can message any of them.", href: "/about/", size: "lg" },
       { name: "Audit before any retainer", note: "A proper look at your Search Console and site structure first, so the monthly plan targets real problems.", href: "/seo-audit-services/", size: "md" },
       { name: "On-page and content work", note: "Titles, page structure, internal links and content briefs for the pages that should win buyer searches.", href: "/on-page-seo-services/", size: "md" },
       { name: "Local SEO", note: "Google Business Profile, citations and location pages for clinics, shops and service firms.", href: "/local-seo-expert/", size: "md" },
@@ -121,7 +121,7 @@ const content: FreelanceContent = {
       heading: "The third option most comparisons skip: a small specialist team",
       paragraphs: [
         `Between a large agency and a solo freelancer sits the small team: two to five practitioners who work together without the account layers of an agency. For many businesses it combines the direct contact of a freelancer with the cover and range that a single person cannot offer.`,
-        `BtechWaleTech is one such team: three freelance developers in India. Santosh Sharma leads technical SEO, data and cloud work. Ankur Kumar is a full-stack developer who carries out template, speed and code changes. Vedansh Shrivastava handles project management and automation and keeps the monthly plan on schedule. You can message any of them on WhatsApp, and none of them is a salesperson.`,
+        `BtechWaleTech is one such team: three freelance developers in India. Another of us leads technical SEO, data and cloud work. One of us is a full-stack developer who carries out template, speed and code changes. The third of us handles project management and automation and keeps the monthly plan on schedule. You can message any of them on WhatsApp, and none of them is a salesperson.`,
         `The limits are real and worth stating. A small team will not staff a content department writing many articles a week, run national media relations, or manage large paid ad budgets alongside SEO. If your plan depends on those, an agency is a better fit. If your plan depends on fixing the site, sharpening key pages, winning local search and earning good links steadily, a small team is often the most efficient choice.`,
       ],
     },

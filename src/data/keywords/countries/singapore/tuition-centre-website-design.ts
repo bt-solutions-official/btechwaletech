@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     h1: "Tuition centre website design in Singapore that fills trial classes, not just looks tidy",
     lede: `Good tuition centre website design in Singapore starts from how parents actually search: “P5 maths tuition Bishan”, “A-Level chemistry tuition near Tampines”, “IP English class Saturday”. BtechWaleTech is three freelance developers in India who build subject-and-level pages, clear timetable and fee pages, and a trial-class booking flow that lands in your WhatsApp, with neighbourhood SEO built in. Sites start from ${P.site}. More in our <a href='/singapore/'>Singapore services</a>.`,
     pills: [`Tuition websites from ${P.site}`, "Pages for PSLE, O-Level, A-Level and IP", "Trial-class booking in 3 taps", "Parent WhatsApp flow", "Timetable and fee pages", "Neighbourhood SEO", "Domain and site in your name"],
-    origin: "Three freelance developers in India · design and build by Ankur Kumar, SEO by Santosh Sharma · WhatsApp replies 7 days a week",
+    origin: "Three freelance developers in India · design and build by one of us, SEO by another of us · WhatsApp replies 7 days a week",
   },
   facts: [
     ["Tuition websites from", `${P.site}, 1–2 weeks`],

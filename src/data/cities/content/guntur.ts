@@ -168,7 +168,7 @@ const guntur: CityContent = {
       paragraphs: [
         "We do not have an office in Guntur or anywhere in Andhra Pradesh, and we will not invent an address to look local. We are three engineers working remotely for clients across India, which keeps our prices lower and puts you in direct contact with the developers.",
         "We start with a call or WhatsApp conversation, then send a written page plan, timeline and itemised quote. Within a week or two, you receive a live preview link to check on your phone. For software projects, we build in stages and show you each working part so your staff can try it with real data. Feedback comes over WhatsApp, and we reply every day of the week in IST, including during the busy season when owners have little time on weekdays.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data, including dashboards. Vedansh Shrivastava manages projects and works on data science and automation. Telugu content is written or checked by you or someone you trust, since good Telugu copy should come from a native writer. You can <a href=\"/contact/\">contact us here</a>.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data, including dashboards. The third of us manages projects and works on data science and automation. Telugu content is written or checked by you or someone you trust, since good Telugu copy should come from a native writer. You can <a href=\"/contact/\">contact us here</a>.",
       ],
     },
     {

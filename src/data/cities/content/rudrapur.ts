@@ -188,7 +188,7 @@ const rudrapur: CityContent = {
       id: "remote-team-rudrapur",
       heading: "An IT services team in Rudrapur's market without a Rudrapur office",
       paragraphs: [
-        "We do not have an office in Rudrapur, Pantnagar or anywhere in Uttarakhand, and we will not pretend otherwise. BtechWaleTech is three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation.",
+        "We do not have an office in Rudrapur, Pantnagar or anywhere in Uttarakhand, and we will not pretend otherwise. BtechWaleTech is three engineers working remotely. One of us handles full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us manages projects, data science and automation.",
         "Work happens on WhatsApp, email and video calls. You describe what you need, we ask questions, and within about two working days you get an itemised written quote. Nothing is billed until you approve it in writing. During the build you see progress on a live preview link and can comment from the shop floor or the counter whenever you have a minute.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time, which suits owners who only get to their messages after the second shift. Every decision, change and payment milestone is kept in writing so nothing depends on memory. To start, message us from the <a href=\"/contact/\">contact page</a>.",
       ],

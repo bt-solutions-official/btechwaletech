@@ -168,7 +168,7 @@ const dehriOnSone: CityContent = {
       paragraphs: [
         "We do not have an office in Dehri, Sasaram or Patna, and we will not put a borrowed address on our website. We are three engineers who work remotely for businesses across India. Without rent and sales staff our prices stay lower, and the person who takes your call is the one who builds your site.",
         "The process is simple. We talk on phone or WhatsApp about your business, then send a page plan, timeline and itemised quote. Within one to two weeks you get a preview link to check on your own phone, and changes are handled over WhatsApp. We reply seven days a week, Indian time.",
-        "Ankur Kumar builds the full-stack web work. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava runs project management and builds automation and data science tools. <a href=\"/contact/\">Message us</a> in Hindi or English.",
+        "One of us builds the full-stack web work. Another of us handles AI, machine learning, AWS and data. The third of us runs project management and builds automation and data science tools. <a href=\"/contact/\">Message us</a> in Hindi or English.",
       ],
     },
     {

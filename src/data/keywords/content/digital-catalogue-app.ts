@@ -256,7 +256,7 @@ const content: FreelanceContent = {
       heading: "How we build a digital catalogue app, and what it runs on",
       paragraphs: [
         "A typical digital catalogue app takes 4–10 weeks: a week to define product fields, buyer groups and price rules, then weekly versions you test with a few real buyers before launch. The web catalogue comes first; the app follows when needed.",
-        "Ankur Kumar builds the catalogue, admin panel and Flutter app. Santosh Sharma sets up hosting, image storage and delivery in your cloud account, and any AI photo tagging. Vedansh Shrivastava runs the project, organises data migration and keeps the weekly check-ins on track.",
+        "One of us builds the catalogue, admin panel and Flutter app. Another of us sets up hosting, image storage and delivery in your cloud account, and any AI photo tagging. The third of us runs the project, organises data migration and keeps the weekly check-ins on track.",
         "We choose image delivery that keeps catalogues quick on patchy mobile data, because buyers in smaller towns browse on budget Android phones. Pages are also built so public collection pages can appear in Google search if you want new buyers to find you, while private ranges and prices stay hidden.",
       ],
     },

@@ -69,7 +69,7 @@ const shahabad: CityContent = {
       paragraphs: [
         "Few taluk towns in Karnataka have a product that is known by the town's own name in other states. Shahabad stone is one of them. The grey limestone from the quarries around the town has been cut into slabs for floors, steps, compound walls and platforms for generations, and builders from Maharashtra, Telangana and Andhra Pradesh still ask for it by that name.",
         "That gives local firms a real reason to be findable online. When we talk about <strong>IT services in Shahabad</strong>, most of the work is practical: a site that shows slab sizes and finishes to a builder in Pune, a Google Maps listing that sends a truck driver to the right yard, a WhatsApp flow that answers the same price question for the twentieth time that day.",
-        "Our team is three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Shahabad or Kalaburagi, and we will not pretend to. Calls, screen shares and WhatsApp replace the visit, and every decision is written down so you can check it later.",
+        "Our team is three engineers working remotely. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Shahabad or Kalaburagi, and we will not pretend to. Calls, screen shares and WhatsApp replace the visit, and every decision is written down so you can check it later.",
       ],
     },
     {

@@ -176,7 +176,7 @@ const ramgarh: CityContent = {
       id: "remote-team-ramgarh",
       heading: "How our remote team works with Ramgarh clients",
       paragraphs: [
-        "We have no office in Ramgarh, Ranchi or anywhere in Jharkhand, and we will not pretend otherwise. We are three engineers working remotely: Ankur Kumar builds full-stack applications, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava handles project management, data science and automation.",
+        "We have no office in Ramgarh, Ranchi or anywhere in Jharkhand, and we will not pretend otherwise. We are three engineers working remotely: one of us builds full-stack applications, another of us leads AI, machine learning, AWS and data work, and the third of us handles project management, data science and automation.",
         "You describe your needs on WhatsApp or a short call in Hindi or English. We send an itemised written quote in about two working days. Nothing starts and nothing is billed until you approve in writing, and payments follow the milestones in that quote.",
         "While we build, you follow progress on a live preview link and comment whenever you like. We reply on WhatsApp seven days a week on Indian Standard Time and keep every decision in writing.",
         "Without office rent or a sales team in the price, costs stay lower, and you deal directly with the engineers who write your code. For busy contractors and shop owners, that usually means quicker answers and fewer misunderstandings.",

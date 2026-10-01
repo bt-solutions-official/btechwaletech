@@ -271,7 +271,7 @@ const content: FreelanceContent = {
       heading: "Code ownership, handover and working with us remotely",
       paragraphs: [
         `Your repository, your cloud account, your domain: a .NET Framework to .NET Core migration should never leave you dependent on the people who did it. We work in a Git repository you own or that we transfer to you, deploy to servers billed to you, and hand over admin access at the end. Nothing lives on our personal accounts once the project closes.`,
-        `Day to day you deal with the three of us directly. Ankur Kumar handles the full-stack migration work, from controllers to Razor or Blazor screens. Santosh Sharma looks after cloud hosting, Linux servers, data and monitoring. Vedansh Shrivastava runs the phase plan, tracks decisions and keeps the audit document current. Updates come on WhatsApp seven days a week, in English or Hindi, with calls when a decision needs discussing.`,
+        `Day to day you deal with the three of us directly. One of us handles the full-stack migration work, from controllers to Razor or Blazor screens. Another of us looks after cloud hosting, Linux servers, data and monitoring. The third of us runs the phase plan, tracks decisions and keeps the audit document current. Updates come on WhatsApp seven days a week, in English or Hindi, with calls when a decision needs discussing.`,
         `Handover includes a short architecture note, the list of what changed and why, how to build and deploy, where logs go, and what still carries risk. We do not visit your office, we do not supply twenty developers for a large programme, and we do not give licensing advice on commercial components; we tell you what we see and you decide.`,
       ],
     },

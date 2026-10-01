@@ -69,7 +69,7 @@ const arwal: CityContent = {
       paragraphs: [
         "Arwal became a separate district in 2001, carved out of Jehanabad, and the town has grown into the place where people from Kaler, Karpi, Kurtha and Suryapur Vanshi come to meet officials, see a doctor, buy supplies and send children to coaching. There is no railway station in the town itself, so NH 139 and the road links to Jehanabad, Patna and Aurangabad carry most of the traffic.",
         "The requests that reach us for <strong>IT services in Arwal</strong> are practical ones. A coaching centre wants its batches and results online. A clinic wants correct timings on Google. A fertiliser dealer wants to know which retailer owes what. A school wants fee reminders to go out without three staff members spending a day on the phone. These are small jobs that make a real difference, and they do not need an expensive agency.",
-        "Behind BtechWaleTech are three engineers who work from different places: Ankur Kumar writes the websites and web apps, Santosh Sharma covers AI, ML, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. None of us sits in an Arwal office, because there isn't one. Discussion happens on WhatsApp and phone calls, and every decision is confirmed in writing.",
+        "Behind BtechWaleTech are three engineers who work from different places: one of us writes the websites and web apps, another of us covers AI, ML, AWS and data, and the third of us runs project management, data science and automation. None of us sits in an Arwal office, because there isn't one. Discussion happens on WhatsApp and phone calls, and every decision is confirmed in writing.",
       ],
     },
     {
@@ -164,7 +164,7 @@ const arwal: CityContent = {
       id: "remote-team-arwal",
       heading: "How our remote IT team works with Arwal clients",
       paragraphs: [
-        "Working from outside Arwal means the paperwork has to be better than a handshake. We start with a phone conversation about who your customers are and what keeps going wrong. Within a couple of days Vedansh turns that into a short document: every page or screen we propose, a delivery date for each stage and the cost of each piece. Ankur then does the building, while Santosh looks after hosting, data and any AI parts.",
+        "Working from outside Arwal means the paperwork has to be better than a handshake. We start with a phone conversation about who your customers are and what keeps going wrong. Within a couple of days the third of us turns that into a short document: every page or screen we propose, a delivery date for each stage and the cost of each piece. One of us then does the building, while another of us looks after hosting, data and any AI parts.",
         "You sign off on that document first; until you do, there is no work and no invoice. While the project runs, a link on your phone shows the latest version, and you can forward it to a partner or a teacher on your staff for their view. Hindi wording always comes to you for a read-through, since parents and customers in Arwal will spot a wrong word on a fee notice faster than anyone.",
         "Messages get answered every day, Sunday included, during Indian working hours. Delays are reported as soon as we spot them, never at the deadline. Each payment is linked to a stage you have already tested yourself, so a shopkeeper or school owner trying this for the first time never pays ahead for something unseen.",
       ],

@@ -167,7 +167,7 @@ const nadiad: CityContent = {
       paragraphs: [
         "We have no office in Nadiad or Ahmedabad, and we say so plainly. We are three engineers working remotely for clients across India. Without rent or sales staff, our prices stay lower and you deal directly with the people building your site.",
         "A typical Nadiad project starts with a call in which you explain the business in your own words, in Gujarati-flavoured English or Hindi if that is easier. Within about two working days we send back a written outline of pages, a schedule and a line-by-line estimate. When you say yes, a private link goes live that you, your partners or a cousin in New Jersey can open and comment on. Corrections come to us on WhatsApp, often as screenshots with circles drawn on them, and minor ones are usually handled within the day. Someone from the team answers every day of the week, on IST.",
-        "Three people do the work. Ankur Kumar writes the front end and back end of every site and app. Santosh Sharma looks after AI models, AWS hosting and data pipelines. Vedansh Shrivastava plans schedules, keeps projects on track and builds automations and analyses. Any of them can be reached through our <a href=\"/contact/\">contact page</a>.",
+        "Three people do the work. One of us writes the front end and back end of every site and app. Another of us looks after AI models, AWS hosting and data pipelines. The third of us plans schedules, keeps projects on track and builds automations and analyses. Any of them can be reached through our <a href=\"/contact/\">contact page</a>.",
       ],
     },
     {

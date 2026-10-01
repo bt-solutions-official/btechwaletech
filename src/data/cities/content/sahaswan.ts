@@ -175,7 +175,7 @@ const sahaswan: CityContent = {
       id: "remote-team-sahaswan",
       heading: "Working with our remote team from Sahaswan",
       paragraphs: [
-        "There is no BtechWaleTech office in Sahaswan, and we say that clearly. The team is three engineers: Ankur Kumar builds full-stack websites and web applications, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. You speak to the people building your project.",
+        "There is no BtechWaleTech office in Sahaswan, and we say that clearly. The team is three engineers: one of us builds full-stack websites and web applications, another of us works on AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. You speak to the people building your project.",
         "A project begins with a WhatsApp message or call. We send a written scope with an itemised quote, and work starts only when you agree. You then check the site or app on preview links from your phone, send comments in Hindi or English, and approve each stage. Photographs taken on a good phone are fine; we guide you on light and angles.",
         "We answer WhatsApp seven days a week during Indian working hours, which suits shopkeepers who are free only after closing or on a weekly off day. To start, send your requirement through the <a href=\"/contact/\">contact page</a>.",
       ],

@@ -84,7 +84,7 @@ const content: CityContent = {
       paragraphs: [
         "The best IT services team in Noida for a given project is the one whose team size, skills and engagement model fit that project; for focused builds and owner-led businesses, a small freelance team often delivers faster and with less overhead than a large firm.",
         "If you are comparing IT companies in Noida, look past headcount. Ask to use a system they built that is still running. Ask who will write and review your code, and meet them. Request an itemised quote rather than a single figure. Confirm that domains, cloud accounts, app store listings and repositories will be yours. Ask how knowledge is retained if a developer leaves.",
-        "BtechWaleTech is a freelance group of three engineers. Ankur Kumar leads full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava runs project management, automation and data work. We are not a fit for projects needing on-site teams, dozens of developers or a staffed round-the-clock helpdesk. We are a good fit when you want direct access, continuity and transparent pricing.",
+        "BtechWaleTech is a freelance group of three engineers. One of us leads full stack development, another of us covers AI, machine learning, AWS and data science, and the third of us runs project management, automation and data work. We are not a fit for projects needing on-site teams, dozens of developers or a staffed round-the-clock helpdesk. We are a good fit when you want direct access, continuity and transparent pricing.",
       ],
       list: [
         "Use a live system the vendor maintains",

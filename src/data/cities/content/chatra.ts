@@ -69,7 +69,7 @@ const chatra: CityContent = {
       paragraphs: [
         "Chatra has been a district headquarters since 1991, and people from twelve blocks come here for courts, the Sadar Hospital, Chatra College and wholesale shopping. The district is large and partly forested, and distances between Hunterganj, Pratappur, Tandwa and Itkhori are long, so a phone call or a Google search often decides where someone goes before they set out.",
         "Most requests we get for <strong>IT services in Chatra</strong> are specific and modest. A transporter wants his trucks and loaders listed so mining contractors can find him. A school wants a proper admission page. A pharmacy wants its Google Maps pin fixed. A hotel near Itkhori wants pilgrims to book rooms on WhatsApp before the Bhadrakali mela crowds arrive.",
-        "We are a remote group of three engineers: Ankur Kumar builds the full-stack software, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. We have no office in Chatra and will never claim one. Work runs on WhatsApp, calls and screen shares, with a written plan at every step.",
+        "We are a remote group of three engineers: one of us builds the full-stack software, another of us handles AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. We have no office in Chatra and will never claim one. Work runs on WhatsApp, calls and screen shares, with a written plan at every step.",
       ],
     },
     {

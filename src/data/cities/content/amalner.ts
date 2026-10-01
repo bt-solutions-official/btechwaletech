@@ -162,7 +162,7 @@ const amalner: CityContent = {
       paragraphs: [
         "We have no office in Amalner, and we will not pretend otherwise with a borrowed address. We are three engineers working remotely for clients in many towns. Without rent or a sales team, our costs stay low and you speak directly to the people who build your site.",
         "Work happens over phone calls, WhatsApp and screen sharing. We start by understanding your business and customers, then send a written page plan, timeline and itemised quote. Within a week or two you receive a private link to review on your own phone. Changes go through WhatsApp, and small ones are usually done the same day. We reply seven days a week, in Indian time.",
-        "Ankur Kumar builds websites and web applications. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. You can <a href=\"/contact/\">contact any of us</a>, and see our approach on the <a href=\"/services/web-development/\">web development page</a>.",
+        "One of us builds websites and web applications. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. You can <a href=\"/contact/\">contact any of us</a>, and see our approach on the <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {

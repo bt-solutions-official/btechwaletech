@@ -69,7 +69,7 @@ const sojat: CityContent = {
       paragraphs: [
         "Sojat needs three things online more than anything else: credible trade websites for its henna processors, a way for buyers in other states and countries to find them, and simple tools that replace the registers and loose bills behind the trade. Shops, clinics, schools and temple trusts need the basics done properly too.",
         "The town sits on the left bank of the Sukri, where the Aravalli country begins, and its name is printed on henna packets sold far beyond Rajasthan. Sojat Mehndi was registered as a Geographical Indication in 2021–22. Yet when a wholesaler in Hyderabad or an importer abroad searches for a Sojat supplier, they often find marketplace listings, resellers and pages with no address rather than the families who actually grind and pack the leaf.",
-        "That gap is the core of our work for <strong>IT services in Sojat</strong>. Ankur Kumar builds the websites, stores and web apps. Santosh Sharma handles AI, AWS hosting and data work, including dashboards and document reading. Vedansh Shrivastava plans each project, writes the scope and keeps the dates. We have no office in Sojat or anywhere else; the three of us work remotely and talk to clients on WhatsApp and video calls. Being honest about that is better than a borrowed address on a map.",
+        "That gap is the core of our work for <strong>IT services in Sojat</strong>. One of us builds the websites, stores and web apps. Another of us handles AI, AWS hosting and data work, including dashboards and document reading. The third of us plans each project, writes the scope and keeps the dates. We have no office in Sojat or anywhere else; the three of us work remotely and talk to clients on WhatsApp and video calls. Being honest about that is better than a borrowed address on a map.",
       ],
     },
     {
@@ -175,7 +175,7 @@ const sojat: CityContent = {
       id: "remote-team-sojat",
       heading: "An IT services team in Sojat without a Sojat office: how the work actually runs",
       paragraphs: [
-        "It starts with a call of fifteen or twenty minutes about your product, your buyers and the one problem that costs you the most time. Vedansh then writes a plan listing the pages or app screens, the dates and a cost for every item, and sends it within about two working days. Nothing is billed until you approve that plan in writing.",
+        "It starts with a call of fifteen or twenty minutes about your product, your buyers and the one problem that costs you the most time. The third of us then writes a plan listing the pages or app screens, the dates and a cost for every item, and sends it within about two working days. Nothing is billed until you approve that plan in writing.",
         "During the build you get preview links that open on any phone, so a partner at the grinding unit, a son handling exports or a relative in another city can comment before anything goes live. Hindi text always comes to you for checking. Payments are linked to milestones you can see working, not to promises.",
         "We reply on WhatsApp seven days a week on Indian time. If a date will slip, you hear it the same day with the reason and a new date. Nobody needs to travel to Jodhpur or Jaipur for a meeting, and nobody has to take our word for progress, because the preview link shows it.",
       ],

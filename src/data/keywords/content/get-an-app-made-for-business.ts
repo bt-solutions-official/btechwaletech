@@ -173,7 +173,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Hire a no-code builder for simple internal tools, an app development company for large programmes needing many specialists at once, and a freelancer or small freelance team for a typical business app where you want direct contact and a sensible budget.`,
         `The honest risk with a solo freelancer is continuity: if that one person gets ill or takes a job, your app stalls. Large companies solve continuity but add layers of account managers and higher rates. A small freelance team sits in between: the people writing the code talk to you directly, and more than one of them knows the codebase.`,
-        `On our team, Ankur builds the app and its back end, Santosh handles cloud hosting, data and any AI features, and Vedansh manages the plan and your weekly check-ins. Whoever you choose, the tests in the next section apply equally. For a longer look at this choice specifically for apps, read <a href='/app-development-company-vs-freelancer/'>app development company vs freelancer</a>.`,
+        `On our team, one of us builds the app and its back end, another of us handles cloud hosting, data and any AI features, and the third of us manages the plan and your weekly check-ins. Whoever you choose, the tests in the next section apply equally. For a longer look at this choice specifically for apps, read <a href='/app-development-company-vs-freelancer/'>app development company vs freelancer</a>.`,
       ],
     },
     {

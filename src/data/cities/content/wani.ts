@@ -69,7 +69,7 @@ const wani: CityContent = {
       paragraphs: [
         "Wani is only a taluka town on paper, but it works like a small regional capital. Mine workers, truck owners, cotton farmers, students and patients from a wide area of eastern Yavatmal and the Chandrapur border come here to trade, study and get treated. The market around Natraj Chowk and the main roads, the railway station and the MSRTC depot keep the town moving all day.",
         "Enquiries we receive for <strong>IT services in Wani</strong> tend to be concrete. A transporter wants every trip, diesel slip and advance recorded without three separate notebooks. A ginning unit wants buyers in other states to find it. A college wants admission enquiries in one place. A shop wants to show up when someone searches for its product in Marathi.",
-        "We are a remote team of three engineers. Ankur Kumar does full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava looks after project management, data science and automation. There is no Wani office, and we make that clear at the start. We work over WhatsApp, calls and screen shares, with every plan and quote sent in writing, which saves you the trip to Nagpur or Chandrapur for meetings.",
+        "We are a remote team of three engineers. One of us does full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us looks after project management, data science and automation. There is no Wani office, and we make that clear at the start. We work over WhatsApp, calls and screen shares, with every plan and quote sent in writing, which saves you the trip to Nagpur or Chandrapur for meetings.",
       ],
     },
     {

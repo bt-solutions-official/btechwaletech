@@ -54,7 +54,7 @@ const content: FreelanceContent = {
   snapshot: {
     caption: "Generalist freelance team at a glance",
     rows: [
-      { label: "Who you work with", value: "Ankur (full stack), Santosh (AI, AWS, SEO), Vedansh (project lead)" },
+      { label: "Who you work with", value: "One of us (full stack), another of us (AI, AWS, SEO), the third of us (project lead)" },
       { label: "Website", value: `From ${P.site}, 1–2 weeks` },
       { label: "Online store", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Android & iOS app", value: `From ${P.app}, 6–10 weeks` },
@@ -122,7 +122,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Pick a generalist freelance developer (or a small generalist team) when your projects are connected and your budget is modest. Pick separate specialists when each project is large, independent and needs deep expertise that one person cannot hold.`,
         `For a clinic, coaching institute, distributor or local brand, the pieces are almost always connected. The website collects enquiries; the app lets repeat customers book or reorder; the automation sends reminders and updates a sheet. If three different freelancers build these, somebody has to glue them together, and that glue is where projects break. When one freelance developer near you, or one small team, owns all three, the glue is designed in from day one.`,
-        `The honest weakness of a lone generalist is depth. One person rarely knows mobile publishing, AI APIs, cloud hosting and SEO equally well. That is why we work as three: Ankur Kumar handles full-stack web and app code, Santosh Sharma covers AI, machine learning, AWS, data and technical SEO, and Vedansh Shrivastava runs project management, data science and automation. You get generalist coverage without pretending one person is expert in everything.`,
+        `The honest weakness of a lone generalist is depth. One person rarely knows mobile publishing, AI APIs, cloud hosting and SEO equally well. That is why we work as three: one of us handles full-stack web and app code, another of us covers AI, machine learning, AWS, data and technical SEO, and the third of us runs project management, data science and automation. You get generalist coverage without pretending one person is expert in everything.`,
       ],
       subs: [
         { heading: "Go generalist when", text: "Your website, app and automation share customers, products or orders, and you want one team answerable for how they fit together." },

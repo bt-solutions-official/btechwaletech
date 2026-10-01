@@ -146,7 +146,7 @@ const content: FreelanceContent = {
       heading: "Which languages and frameworks does a freelance coder need to know?",
       paragraphs: [
         `The one your project already uses. That sounds obvious, but many small-task disasters start with someone rewriting a PHP feature in Node.js because it is what they know.`,
-        `Between the three of us we cover the stacks most small Indian and overseas businesses run on: JavaScript and TypeScript (React, Next.js, Astro, Node.js), Python (Django, FastAPI, pandas, scripts), PHP (WordPress, Laravel, older custom code), Dart with Flutter and JavaScript with React Native for apps, and SQL across PostgreSQL and MySQL. Santosh also handles AWS configuration, which is often where “the code is fine but it breaks in production” problems actually live.`,
+        `Between the three of us we cover the stacks most small Indian and overseas businesses run on: JavaScript and TypeScript (React, Next.js, Astro, Node.js), Python (Django, FastAPI, pandas, scripts), PHP (WordPress, Laravel, older custom code), Dart with Flutter and JavaScript with React Native for apps, and SQL across PostgreSQL and MySQL. Another of us also handles AWS configuration, which is often where “the code is fine but it breaks in production” problems actually live.`,
         `What we will not pretend to know: legacy desktop languages, embedded firmware, mainframes, game engines and blockchain contracts. If your code is in one of those, we will say so on the first message rather than learn on your budget.`,
       ],
     },

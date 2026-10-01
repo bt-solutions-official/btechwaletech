@@ -142,7 +142,7 @@ const content: FreelanceContent = {
       heading: "What does a website design freelancer actually do for you?",
       paragraphs: [
         `A good website design freelancer does more than pick colours. The work starts with understanding who visits the site and what they need to do there: call, book, buy, download a brochure or ask for a quote. The layout is then planned backwards from that action.`,
-        `In our team the design and build are not split between strangers. Ankur Kumar designs the layouts and codes them as a full-stack developer, Santosh Sharma handles hosting on AWS, speed and technical SEO, and Vedansh Shrivastava runs the schedule and any automation such as WhatsApp lead alerts. You get one conversation covering everything.`,
+        `In our team the design and build are not split between strangers. One of us designs the layouts and codes them as a full-stack developer, another of us handles hosting on AWS, speed and technical SEO, and the third of us runs the schedule and any automation such as WhatsApp lead alerts. You get one conversation covering everything.`,
       ],
       list: [
         "Page map: which pages exist and how visitors move between them",
@@ -234,7 +234,7 @@ const content: FreelanceContent = {
       heading: "Does a website design freelancer help your SEO and page speed?",
       paragraphs: [
         `Design decisions are SEO decisions. Heading order, how text is placed in the layout, image sizes, how menus link pages together and whether content is real text or baked into images all affect how Google reads a site. A builder handles some of this automatically and some of it badly; a freelancer can control all of it.`,
-        `When our team designs a site, Santosh’s technical SEO work is part of the build, not an afterthought: one clear H1 per page, logical headings, schema markup for your business type, an XML sitemap, compressed and correctly sized images, and clean URLs. We check Core Web Vitals on a mid-range phone before launch.`,
+        `When our team designs a site, another of us’s technical SEO work is part of the build, not an afterthought: one clear H1 per page, logical headings, schema markup for your business type, an XML sitemap, compressed and correctly sized images, and clean URLs. We check Core Web Vitals on a mid-range phone before launch.`,
         `Speed matters more in India than most design portfolios admit. A large share of visitors arrive on budget Android phones and mobile data, where a heavy hero video or a dozen third-party scripts can add seconds. A lean custom design often loads faster than a builder template for exactly this reason.`,
         `What we will not do is promise positions. Good design and structure give your content a fair chance; rankings then depend on competition, content and time. For ongoing work there is <a href='/services/seo-services/'>monthly SEO</a> from ${P.seo}.`,
       ],

@@ -159,7 +159,7 @@ const siliguri: CityContent = {
       paragraphs: [
         "We have no office in Siliguri, and we won't pretend to have one. We are three engineers working remotely for businesses across India. You speak directly with the people who design, code and maintain your site, and our quotes carry no office rent or sales commission.",
         "The process is straightforward. After a call or WhatsApp conversation about your business, we send a written page plan, timeline and itemised quote. Once approved, you receive a live preview link within the first week or two, which you can open on your phone, check on the road, or share with a partner. Feedback can be typed or sent as voice notes, and small changes usually go live the same day. We reply every day of the week on Indian time, including during the busy tourist months.",
-        "Ankur Kumar handles full-stack development, from booking forms to distributor portals. Santosh Sharma covers AI, machine learning, AWS hosting and data. Vedansh Shrivastava manages the project and builds the data science and automation pieces. You can message any of us directly.",
+        "One of us handles full-stack development, from booking forms to distributor portals. Another of us covers AI, machine learning, AWS hosting and data. The third of us manages the project and builds the data science and automation pieces. You can message any of us directly.",
       ],
     },
     {

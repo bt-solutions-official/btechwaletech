@@ -170,7 +170,7 @@ const erode: CityContent = {
       paragraphs: [
         "We have no office in Erode and do not claim one. We are three engineers working remotely with businesses across India, which keeps our prices down and means you speak directly to the people building your site.",
         "We start with a call or WhatsApp chat about your products and buyers, then send a written plan with pages, timeline and quote. Within one or two weeks you receive a preview link to check on your phone. Feedback comes over WhatsApp, and small changes usually go live the same day.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and covers data science and automation. We work on IST and reply every day, which suits traders who review things after the market closes.",
+        "One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data. The third of us manages projects and covers data science and automation. We work on IST and reply every day, which suits traders who review things after the market closes.",
       ],
     },
     {

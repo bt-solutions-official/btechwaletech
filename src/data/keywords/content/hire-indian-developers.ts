@@ -83,7 +83,7 @@ const content: FreelanceContent = {
     note: "Each model moves risk to a different place. Pick the one whose risk you are best placed to manage.",
     columns: ["Question for you", "Marketplace freelancer", "Large outsourcing vendor", "BtechWaleTech"],
     rows: [
-      ["Who writes the code", "The profile holder, usually alone", "Whoever the vendor staffs", "Ankur, Santosh or Vedansh, named from day one"],
+      ["Who writes the code", "The profile holder, usually alone", "Whoever the vendor staffs", "One of us, another of us or the third of us, named from day one"],
       ["How you pay", "Through the platform, with its fee", "Vendor invoice, often monthly", "Direct USD invoice via Wise, wire or PayPal"],
       ["Contract", "Platform terms plus your add-ons", "Master services agreement", "Written scope and quote; your IP clause welcome"],
       ["Time-zone cover", "Depends on the individual", "Shift teams possible", "Planned overlap window agreed per project"],
@@ -251,7 +251,7 @@ const content: FreelanceContent = {
       heading: "Who owns the code when you hire Indian developers?",
       paragraphs: [
         `You should, and the setup should make that true in practice, not just on paper. A contract clause is useless if the only copy of the code sits on a laptop in another country.`,
-        `On our projects the Git repository is created in your GitHub, GitLab or Bitbucket organisation, or transferred to it before the first milestone payment. Cloud hosting is billed to your card in your account on AWS or whichever provider you choose; Santosh sets up access with separate user permissions so ours can be revoked in one click. Domains stay with your registrar. Mobile apps are published from your Google Play Console and App Store Connect accounts, so reviews, downloads and revenue are yours.`,
+        `On our projects the Git repository is created in your GitHub, GitLab or Bitbucket organisation, or transferred to it before the first milestone payment. Cloud hosting is billed to your card in your account on AWS or whichever provider you choose; another of us sets up access with separate user permissions so ours can be revoked in one click. Domains stay with your registrar. Mobile apps are published from your Google Play Console and App Store Connect accounts, so reviews, downloads and revenue are yours.`,
         `At handover you receive the repository, a list of every service and its renewal date, environment variables stored safely, and short setup notes so any other developer can run the project. If you later bring development in-house, nothing needs to be negotiated.`,
       ],
     },

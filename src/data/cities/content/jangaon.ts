@@ -69,7 +69,7 @@ const jangaon: CityContent = {
       paragraphs: [
         "For most of its history Jangaon was a mandal town that travellers passed on the road between Hyderabad and Warangal, with a railway station laid by the Nizam's Guaranteed State Railway in 1879. In October 2016 it became the headquarters of a new district, and with that came government offices, a medical college, more schools, more hospitals and more lawyers, contractors and suppliers setting up close to them.",
         "The enquiries we see for <strong>IT services in Jangaon</strong> follow that growth. A rice miller wants buyers in Hyderabad to find him without a broker. A cotton trader wants his dues from ginners tracked properly. A Pembarthi artisan family wants to sell brass lamps directly to temples and homes in other states. A private school wants parents to see fees and bus routes online. A clinic wants its doctors' timings right on Google.",
-        "BtechWaleTech is three engineers working remotely. Ankur Kumar builds the websites and web apps; Santosh Sharma looks after AI, machine learning, AWS and data; Vedansh Shrivastava plans the work and handles data science and automation. None of us sits in an office in Jangaon, and we will never claim one. Calls, screen shares and WhatsApp carry the work, and every decision is confirmed in writing.",
+        "BtechWaleTech is three engineers working remotely. One of us builds the websites and web apps; another of us looks after AI, machine learning, AWS and data; the third of us plans the work and handles data science and automation. None of us sits in an office in Jangaon, and we will never claim one. Calls, screen shares and WhatsApp carry the work, and every decision is confirmed in writing.",
       ],
     },
     {

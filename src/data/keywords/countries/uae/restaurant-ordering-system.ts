@@ -272,7 +272,7 @@ const content: FreelanceContent = {
       id: "working-remotely",
       heading: "Working with a remote team in India on your Dubai restaurant ordering system",
       paragraphs: [
-        `India is 1.5 hours ahead of the UAE, so our day overlaps almost all of your trading hours before dinner service. You work directly with Ankur Kumar on the ordering site and POS connection, Santosh Sharma on hosting, data and search setup, and Vedansh Shrivastava on planning, testing and the mock service with your team.`,
+        `India is 1.5 hours ahead of the UAE, so our day overlaps almost all of your trading hours before dinner service. You work directly with one of us on the ordering site and POS connection, another of us on hosting, data and search setup, and the third of us on planning, testing and the mock service with your team.`,
         `The first two weeks of a restaurant project usually go like this:`,
       ],
       list: [

@@ -290,7 +290,7 @@ const content: FreelanceContent = {
         "Access to ERP and platform through accounts you create and can revoke.",
       ],
       after: [
-        `Who does what: Ankur builds the shop and portal, Santosh handles hosting, data and search, and Vedansh runs planning and the sync automation. We do not visit your warehouse or sit in on sales meetings. For how remote teams in India usually work, see <a href='/outsource-web-development-to-india/'>outsourcing web development to India</a>.`,
+        `Who does what: one of us builds the shop and portal, another of us handles hosting, data and search, and the third of us runs planning and the sync automation. We do not visit your warehouse or sit in on sales meetings. For how remote teams in India usually work, see <a href='/outsource-web-development-to-india/'>outsourcing web development to India</a>.`,
       ],
     },
     {

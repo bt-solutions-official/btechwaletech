@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A Framer website developer turns a design, or a rough brief, into a live Framer site with a proper component system, responsive breakpoints, CMS collections, motion, SEO settings and a connected custom domain. The visual part is only half the job; structure is the other half.`,
         `In Framer, a careless build looks fine on day one and becomes painful by month three: every button a slightly different copy, every section duplicated rather than reused, breakpoints patched one by one. A good developer builds components with variants (default, hover, mobile) and uses them everywhere, so a change to the primary button updates the whole site.`,
-        `On our team, Ankur builds the pages, components and any code components; Santosh sets up SEO, analytics and Search Console; Vedansh keeps the scope, timeline and feedback rounds moving. You talk to all three on one WhatsApp group, in English or Hindi.`,
+        `On our team, one of us builds the pages, components and any code components; another of us sets up SEO, analytics and Search Console; the third of us keeps the scope, timeline and feedback rounds moving. You talk to all three on one WhatsApp group, in English or Hindi.`,
       ],
       list: [
         "Page structure and a written purpose for each page",

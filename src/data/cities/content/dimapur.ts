@@ -170,7 +170,7 @@ const dimapur: CityContent = {
       paragraphs: [
         "We don't have an office in Dimapur, or anywhere else. We are three engineers working remotely for clients across India, and we say so upfront. It keeps our costs low and means you always speak to the person writing your code.",
         "Work happens through calls, WhatsApp and screen sharing. After a first conversation, we send a page plan, timeline and itemised quote, usually within two working days. Once work begins you get a live preview link to check on your phone. Changes are sent on WhatsApp and small ones are often done the same day. We reply seven days a week on Indian time, which matches Nagaland's working hours.",
-        "Ankur Kumar builds websites and web applications. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles automation and data science. You can <a href=\"/contact/\">contact us</a> directly.",
+        "One of us builds websites and web applications. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and handles automation and data science. You can <a href=\"/contact/\">contact us</a> directly.",
       ],
     },
     {

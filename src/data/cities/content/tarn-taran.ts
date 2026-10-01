@@ -184,7 +184,7 @@ const tarnTaran: CityContent = {
       id: "remote-team-ownership-tarn-taran",
       heading: "Our remote team, your ownership and maintenance for Tarn Taran projects",
       paragraphs: [
-        "BtechWaleTech has no office in Tarn Taran or Amritsar. We are three engineers working remotely: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We work over WhatsApp, phone and video calls and reply seven days a week during Indian working hours.",
+        "BtechWaleTech has no office in Tarn Taran or Amritsar. We are three engineers working remotely: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We work over WhatsApp, phone and video calls and reply seven days a week during Indian working hours.",
         "Everything we build is registered in your name: domain, hosting, source code, Google Business Profile and the Google Play and App Store developer accounts. You keep every login. If you later choose another developer, you already have everything you need.",
         "Each project includes two months of free maintenance after launch for fixes, small changes and security updates. After that, maintenance starts at ₹8,000 a month for systems that need regular care, such as arhtiya software used daily through both harvests. A simple shop site may need nothing more than an occasional update.",
         "If you prefer to meet your developer face to face, a local provider will suit you better. We would rather say that at the start than disappoint you later.",

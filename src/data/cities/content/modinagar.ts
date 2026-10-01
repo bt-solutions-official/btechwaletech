@@ -169,7 +169,7 @@ const modinagar: CityContent = {
       paragraphs: [
         "We have no office in Modinagar, Ghaziabad or any other city, and we will not invent one. We are three engineers who work remotely for clients across India. That is a big reason our prices are lower than NCR agency quotes: no rent and no sales staff.",
         "Everything happens over calls, WhatsApp and screen sharing. After a first conversation you receive a written page plan, timeline and itemised quote. Within one or two weeks there is a live preview link for you to open on your own phone. Changes are sent on WhatsApp and small ones are usually finished the same day. We reply every day of the week, Indian time.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and handles automation and data science. You can <a href=\"/contact/\">contact any of us</a> directly.",
+        "One of us builds the websites and applications. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and handles automation and data science. You can <a href=\"/contact/\">contact any of us</a> directly.",
       ],
     },
     {

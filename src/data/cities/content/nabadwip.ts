@@ -166,7 +166,7 @@ const nabadwip: CityContent = {
       id: "remote-team-nabadwip",
       heading: "A small remote team you can reach directly",
       paragraphs: [
-        "BtechWaleTech has no office in Nabadwip, and we do not create fake local addresses to look nearby. We are three engineers working remotely. Ankur Kumar builds websites and applications end to end. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science solutions.",
+        "BtechWaleTech has no office in Nabadwip, and we do not create fake local addresses to look nearby. We are three engineers working remotely. One of us builds websites and applications end to end. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data science solutions.",
         "We begin with a conversation about your visitors, your seasons and your current enquiries. Within about two working days you receive a page plan, timeline and itemised quote. After your written approval, an early preview link lets you check the site on your own phone, and feedback flows over WhatsApp.",
         "We reply seven days a week on Indian time, which matters for businesses whose busiest days are festival Sundays. You always know which of us is working on your project and can message that person directly.",
       ],

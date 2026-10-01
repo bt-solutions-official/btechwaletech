@@ -30,7 +30,7 @@ const content: FreelanceContent = {
     h1: "Law firm website design in Singapore that wins enquiries and respects the publicity rules",
     lede: `Law firm website design in Singapore has a constraint most designers never meet: everything on the site is publicity under <strong>Part 5 of the Legal Profession (Professional Conduct) Rules 2015</strong>, so a clever headline can become a professional conduct problem. We are three freelance developers in India who build law practice sites with practice-area pages for divorce, conveyancing and corporate work, accurate lawyer profiles, a secure enquiry intake with conflict-check fields, and PDPA-conscious handling of client data. Sites start from ${P.site}. See our other <a href='/singapore/'>Singapore services</a>.`,
     pills: [`Law practice sites from ${P.site}`, "Written with Part 5 PCR 2015 in mind", "Divorce, conveyancing, corporate pages", "Accurate lawyer profiles", "Secure intake with conflict-check fields", "PDPA-conscious data handling", "Domain and data in your name"],
-    origin: "Three freelance developers in India · Ankur Kumar builds, Santosh Sharma handles security and SEO, Vedansh Shrivastava manages the project · WhatsApp 7 days a week",
+    origin: "Three freelance developers in India · one of us builds, another of us handles security and SEO, the third of us manages the project · WhatsApp 7 days a week",
   },
   facts: [
     ["Law practice sites from", `${P.site}, 1–2 weeks`],

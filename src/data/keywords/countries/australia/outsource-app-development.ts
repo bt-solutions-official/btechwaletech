@@ -283,7 +283,7 @@ const content: FreelanceContent = {
       id: "our-model",
       heading: "How BtechWaleTech handles an outsourced app build, and its limits",
       paragraphs: [
-        `We are three freelance developers, and every outsourced app is built by the same three people from scope to handover. Ankur Kumar leads full-stack and mobile development, Santosh Sharma handles cloud infrastructure, data and AI features, and Vedansh Shrivastava runs project management and the milestone plan. You talk to all three directly.`,
+        `We are three freelance developers, and every outsourced app is built by the same three people from scope to handover. One of us leads full-stack and mobile development, another of us handles cloud infrastructure, data and AI features, and the third of us runs project management and the milestone plan. You talk to all three directly.`,
         `The limits are real. We do not visit sites in Australia, do not provide a team of twenty, and do not give legal, tax or privacy advice. Where your project needs any of those, we will say so in the first conversation. What we offer is a clear spec, milestones you test on your own phone, code and accounts in your name, and an honest answer when something will take longer. Our <a href='/australia/'>Australia hub</a> shows the other work we do remotely for Australian clients.`,
       ],
     },

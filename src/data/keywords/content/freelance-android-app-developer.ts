@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A freelance Android app developer is responsible for getting a working, policy-compliant app into the hands of real users and keeping it there. Writing Kotlin or Dart is only one slice of that. The other slices are deciding what version one contains, choosing how the app talks to a server, preparing the app for Google Play’s review, running test releases, and then shipping fixes for as long as the app lives.`,
         `Clients often assume the job ends when the app “works on my phone”. In practice that is the midpoint. Play Console needs a signed Android App Bundle, a privacy policy URL, a Data safety declaration, a content rating questionnaire, target audience details and store graphics. New personal developer accounts also need a closed test with at least 12 testers opted in for 14 days in a row before production is unlocked. A good freelancer plans for all of this in week one, not the night before launch.`,
-        `At BtechWaleTech the work is split by strength. Ankur leads the app and backend code. Santosh handles cloud hosting on AWS, data and the analytics side. Vedansh runs the release plan, tester coordination and automation. You talk to all three on one WhatsApp group.`,
+        `At BtechWaleTech the work is split by strength. One of us leads the app and backend code. Another of us handles cloud hosting on AWS, data and the analytics side. The third of us runs the release plan, tester coordination and automation. You talk to all three on one WhatsApp group.`,
       ],
     },
     {
@@ -191,7 +191,7 @@ const content: FreelanceContent = {
       heading: "How do you pass Google Play’s 12-tester, 14-day closed test?",
       paragraphs: [
         `You pass it by recruiting more testers than you need, keeping them opted in without a break, and giving them real tasks. Google’s rule counts testers who stay opted in continuously for 14 days; someone who joins, tries it for a week and leaves does not count.`,
-        `We ask clients to line up 15 to 20 people: staff, family, loyal customers. Each gets a one-page note with the opt-in link and three tasks to try. Vedansh tracks opt-ins in a sheet and nudges anyone who drops off. When you apply for production access, Play Console asks about the test, what feedback you got and how you acted on it, so we log feedback as we go.`,
+        `We ask clients to line up 15 to 20 people: staff, family, loyal customers. Each gets a one-page note with the opt-in link and three tasks to try. The third of us tracks opt-ins in a sheet and nudges anyone who drops off. When you apply for production access, Play Console asks about the test, what feedback you got and how you acted on it, so we log feedback as we go.`,
         `Organisation accounts are not bound by this specific requirement, which is one more reason businesses should register as organisations. Even then, we still run a closed test. It is the cheapest QA you will ever buy.`,
       ],
     },

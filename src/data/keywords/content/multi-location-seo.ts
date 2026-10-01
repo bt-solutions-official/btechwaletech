@@ -318,7 +318,7 @@ const content: FreelanceContent = {
       heading: "How a multi location SEO project runs: the first 90 days",
       paragraphs: [
         `The first 90 days follow a set order: inventory and access, clean-up, branch pages, reviews, then reporting and steady monthly work. Doing it in this order avoids building pages on top of broken profiles.`,
-        `In the first fortnight we collect access to every profile, your website, Search Console and analytics, and send the branch questionnaire. Santosh runs the technical and profile audit; Vedansh chases branch managers for the answers and photos; Ankur builds or rebuilds the location pages and store locator.`,
+        `In the first fortnight we collect access to every profile, your website, Search Console and analytics, and send the branch questionnaire. Another of us runs the technical and profile audit; the third of us chases branch managers for the answers and photos; one of us builds or rebuilds the location pages and store locator.`,
         `By week six most profiles should be clean and verified, branch pages live and linked from each profile, and schema validated. Review requests start branch by branch. By week twelve the dashboard has enough data to compare branches, and the monthly plan shifts towards the weakest ones: more photos and posts, targeted citations, content for services that branch is strong in, and local links from nearby organisations.`,
         `Opening a new branch after that follows a checklist: create the profile early, verify it, publish the branch page before opening day, add the row to the master sheet, and include the branch in the next report.`,
       ],

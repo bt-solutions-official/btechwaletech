@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A freelance iOS developer turns your app idea into a build Apple will accept, and then keeps it accepted as iOS changes each year. Writing screens is the visible part; much of the real work sits in Apple's tooling.`,
         `That tooling includes Xcode, which only runs on a Mac; signing certificates and provisioning profiles that tie a build to your developer account; App Store Connect, where the app listing, pricing, screenshots and privacy answers live; and TestFlight, Apple's beta channel. A developer who is comfortable with all four can take you from idea to live listing without surprises.`,
-        `At BtechWaleTech, Ankur leads app and backend development, Santosh handles cloud hosting, data and any AI features, and Vedansh runs the plan, test rounds and store paperwork. We build with Flutter or React Native so one codebase serves iPhone and Android, adding Swift modules only where a native feature needs them.`,
+        `At BtechWaleTech, one of us leads app and backend development, another of us handles cloud hosting, data and any AI features, and the third of us runs the plan, test rounds and store paperwork. We build with Flutter or React Native so one codebase serves iPhone and Android, adding Swift modules only where a native feature needs them.`,
       ],
       list: [
         "Design screens that follow Apple's Human Interface Guidelines",

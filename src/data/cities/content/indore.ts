@@ -150,7 +150,7 @@ const indore: CityContent = {
       paragraphs: [
         "We don't have an office in Indore, and we won't pretend otherwise with a borrowed address. We are a team of three engineers working remotely for clients across India. For you, that means no office rent and no sales staff built into the quote. It also means you deal directly with the people who build your website.",
         "The routine is simple. We start with a call or a WhatsApp conversation about your business, then send a written page plan, timeline and quote. Within the first week or two you receive a live preview link to open on your own phone, so you are reviewing a working site rather than a picture of one. Feedback goes on WhatsApp, and small changes usually go live the same day. We work on Indian time and reply seven days a week, including the weekends when most shop owners finally have time to review their site.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and handles data science and automation. You will know which of us is working on what, and you can speak to any of us directly.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data work. The third of us manages projects and handles data science and automation. You will know which of us is working on what, and you can speak to any of us directly.",
       ],
     },
     {

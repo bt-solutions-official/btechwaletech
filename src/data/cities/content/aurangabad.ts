@@ -159,7 +159,7 @@ const aurangabad: CityContent = {
       paragraphs: [
         "In a supplier's office, RFQs arrive as emails, PDFs and WhatsApp photos of drawings, and someone has to log each one, check capacity and send a quote. In a hotel, the same questions about Ellora timings, airport pickup and room availability come in all day. In a clinic, reception spends hours confirming appointments.",
         "We build automation around those routines. An AI assistant can read incoming RFQs, extract part details and quantities into a sheet, and prepare a draft quote from your own rate card for a person to check. WhatsApp flows can answer standard hotel, tour or clinic questions in Marathi, Hindi or English, take booking requests and send reminders. Everything is logged, and anything unusual goes to a person with the full context.",
-        "Santosh Sharma, who handles AI, machine learning and AWS work on our team, designs these systems. Automation starts from ₹40,000. We look at your real workflow first and automate only what is repetitive and low-risk; pricing decisions, complaints and medical advice stay with people.",
+        "Another of us, who handles AI, machine learning and AWS work on our team, designs these systems. Automation starts from ₹40,000. We look at your real workflow first and automate only what is repetitive and low-risk; pricing decisions, complaints and medical advice stay with people.",
       ],
     },
     {
@@ -168,7 +168,7 @@ const aurangabad: CityContent = {
       paragraphs: [
         "We do not have an office in Aurangabad, Pune or Mumbai, and we will not invent one. We are three engineers working remotely for clients across India. That keeps our overheads and starting prices low, and it means the person on your first call is the one designing and building the work.",
         "A typical project starts with a call about your business and buyers, followed by a written page plan or software scope, timeline and itemised quote. For websites, a preview link arrives within one to two weeks; for software, we share working screens every week so you can test them with your staff. Feedback comes on WhatsApp or a shared sheet, and we reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development, Santosh Sharma leads AI, ML, AWS and data work, and Vedansh Shrivastava manages projects and builds automation and data science pieces. You can <a href=\"/contact/\">contact us</a> in English, Hindi or Marathi-mixed messages; we will understand.",
+        "One of us handles full-stack development, another of us leads AI, ML, AWS and data work, and the third of us manages projects and builds automation and data science pieces. You can <a href=\"/contact/\">contact us</a> in English, Hindi or Marathi-mixed messages; we will understand.",
       ],
     },
     {

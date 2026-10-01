@@ -69,7 +69,7 @@ const vikramasingapuram: CityContent = {
       paragraphs: [
         "Vikramasingapuram is the last sizeable town before the road climbs towards Papanasam, Karayar and the forest. Families from Sivanthipuram, Agasthiyarpatti, Ambasamudram and the farm villages along the Thamirabarani shop here, send children to its schools and visit its clinics. Pilgrims and day visitors pass through on their way to the falls. That mix of residents and travellers shapes what local businesses need from the internet.",
         "When someone asks us about <strong>IT services in Vikramasingapuram</strong>, the request is usually concrete. A textile shop wants its Google Maps pin fixed. A lodge owner is tired of answering the same room question forty times a day on WhatsApp. A school wants fee reminders to reach parents without printing slips. A contractor wants to stop tracking labour and material on loose paper.",
-        "We are a remote team of three engineers. Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Singai or Tirunelveli, and we would rather say that plainly than borrow someone's address. Everything we propose comes in writing, and you decide at each step.",
+        "We are a remote team of three engineers. One of us handles full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Singai or Tirunelveli, and we would rather say that plainly than borrow someone's address. Everything we propose comes in writing, and you decide at each step.",
       ],
     },
     {

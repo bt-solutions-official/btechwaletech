@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     h1: "Technical SEO services for the Netherlands: fix what stops Google from ranking your pages",
     lede: `Technical SEO services for the Netherlands cover the parts of search that live in code, not copy: hreflang between nl-NL, nl-BE and English versions, Core Web Vitals on Shopify, Magento and WooCommerce, crawl waste from faceted filters, and product and organisation schema. BtechWaleTech is three freelance developers in India who find these problems and fix them in your codebase, while your Dutch copy stays with your own writers. Monthly technical SEO starts from ${P.seo}; our <a href='/netherlands/wordpress-website-development/'>WordPress builds</a> ship with the basics done.`,
     pills: ["Crawl and index audits", "hreflang nl-NL / nl-BE / en", "Core Web Vitals fixes", "Faceted navigation control", "Product & Organization schema", "Monthly reports", "No Dutch copywriting"],
-    origin: "Three freelance developers in India · technical SEO led by Santosh Sharma · fixes shipped, not just reported",
+    origin: "Three freelance developers in India · technical SEO led by another of us · fixes shipped, not just reported",
   },
   facts: [
     ["Monthly technical SEO from", `${P.seo}`],

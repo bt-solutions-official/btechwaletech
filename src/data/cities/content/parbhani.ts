@@ -161,7 +161,7 @@ const parbhani: CityContent = {
       paragraphs: [
         "We have no office in Parbhani, Aurangabad or anywhere in Marathwada, and we will not show an address we do not use. We are three engineers who work remotely with clients across India. Without rent and a sales team, our prices stay lower, and you speak to the person building your site.",
         "Everything runs on phone calls and WhatsApp. We start with a conversation about your business and customers, then send a page plan, timeline and itemised quote in writing. Within one to two weeks you receive a live preview link to open on your phone and share with family or partners. Changes are sent on WhatsApp, and small ones are often done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. You can <a href=\"/contact/\">contact us directly</a> in Hindi or English, and we review Marathi content together with you.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. You can <a href=\"/contact/\">contact us directly</a> in Hindi or English, and we review Marathi content together with you.",
       ],
     },
     {

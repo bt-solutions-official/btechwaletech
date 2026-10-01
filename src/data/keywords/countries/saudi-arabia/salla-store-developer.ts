@@ -241,7 +241,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Mostly on WhatsApp and short video calls, inside a working day that overlaps well: India runs two and a half hours ahead, so your 11 am is our 1:30 pm, and your evening order rush lands in our late evening.`,
         `Access is the first practical step. You add us as a staff user in your Salla dashboard with only the permissions the job needs; you never share the owner login. Theme code lives in a Git repository you own. For custom apps, the app is registered through a Salla Partners account and hosted on a cloud account in your name, so you keep control if you ever change developers.`,
-        `Money and paperwork: an itemised USD quote in about two working days, milestones in writing, payment by Wise or bank wire, and invoices from India. Nothing is billed before you approve. In the first two weeks, you can expect a store audit and quote in the first days, then theme changes appearing on a preview store by the end of the second week, with Vedansh coordinating, Ankur writing the Twig, Tailwind and app code, and Santosh on hosting, data and SEO checks.`,
+        `Money and paperwork: an itemised USD quote in about two working days, milestones in writing, payment by Wise or bank wire, and invoices from India. Nothing is billed before you approve. In the first two weeks, you can expect a store audit and quote in the first days, then theme changes appearing on a preview store by the end of the second week, with the third of us coordinating, one of us writing the Twig, Tailwind and app code, and another of us on hosting, data and SEO checks.`,
       ],
     },
     {

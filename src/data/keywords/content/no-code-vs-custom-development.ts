@@ -250,7 +250,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `No-code platforms handle a lot of security for you, and many do it well; the trade-off is that you depend on their settings and their data locations. In custom development you choose where data lives, who can see which records, and how long it is kept, but you are also responsible for getting it right.`,
         `Things to check on a no-code tool: where the servers are, whether privacy rules on each data type are set correctly (a common mistake is leaving customer records readable by any logged-in user), whether you can see an access log, and how backups are restored. India’s Digital Personal Data Protection Act, 2023 places duties on businesses that collect personal data, so it is worth knowing where yours sits. For legal questions, talk to your own lawyer.`,
-        `In our custom builds we apply role-based access, encrypted connections, hashed passwords, separate staging and production data, and daily backups in your own cloud account. Santosh, who handles AWS and data on the team, sets up hosting so you can see and control every resource.`,
+        `In our custom builds we apply role-based access, encrypted connections, hashed passwords, separate staging and production data, and daily backups in your own cloud account. Another of us, who handles AWS and data on the team, sets up hosting so you can see and control every resource.`,
       ],
     },
     {
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
         "Is your budget for the next twelve months small and uncertain? Yes favours no-code.",
       ],
       after: [
-        `Still split? Send us the answers on WhatsApp. Ankur, Santosh or Vedansh will reply with a plain recommendation, and if that recommendation is “stay on the tool you have”, you will hear exactly that.`,
+        `Still split? Send us the answers on WhatsApp. One of us, another of us or the third of us will reply with a plain recommendation, and if that recommendation is “stay on the tool you have”, you will hear exactly that.`,
       ],
     },
     {

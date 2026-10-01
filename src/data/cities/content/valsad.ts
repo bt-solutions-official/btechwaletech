@@ -149,7 +149,7 @@ const valsad: CityContent = {
       paragraphs: [
         "During mango season, a Valsad grower can receive hundreds of WhatsApp messages a day asking about price, availability, box sizes and delivery. A chemical trader gets rate requests for dozens of products. A hotel answers the same tariff question again and again. Most of these replies are identical, and the important ones get lost in the pile.",
         "We set up automation that answers the common questions in Gujarati, Hindi or English, shares current availability or a price list, records every enquiry in a Google Sheet with the buyer's city and interest, and hands you the ones that need a person. For growers, pre-orders can be collected into a clean dispatch list each evening. For traders, a rate request can generate a draft quotation for you to check before sending.",
-        "Projects start from ₹40,000. Santosh Sharma designs the AI side so that pricing decisions, complaints and anything involving money stay with you. If your message volume is small, we will suggest a simpler, cheaper setup instead of full automation.",
+        "Projects start from ₹40,000. Another of us designs the AI side so that pricing decisions, complaints and anything involving money stay with you. If your message volume is small, we will suggest a simpler, cheaper setup instead of full automation.",
       ],
     },
     {
@@ -158,7 +158,7 @@ const valsad: CityContent = {
       paragraphs: [
         "We have no office in Valsad and won't pretend otherwise. We are three engineers working remotely for businesses across India. No rent and no sales staff means lower prices, and it means you speak directly to the people doing the work.",
         "Work begins with a call or WhatsApp conversation about your business. We then send a page plan, timeline and itemised quote in writing. After approval, you get a private preview link within days that you can open on your phone and share with family or partners. Changes are requested on WhatsApp; small ones are usually done the same day. We reply seven days a week, in IST, and use screen sharing when needed.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">message any of us</a> or read about our <a href=\"/services/web-development/\">web development work</a> first.",
+        "One of us builds the websites and applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">message any of us</a> or read about our <a href=\"/services/web-development/\">web development work</a> first.",
       ],
     },
     {

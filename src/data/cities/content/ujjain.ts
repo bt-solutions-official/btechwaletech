@@ -176,7 +176,7 @@ const ujjain: CityContent = {
       paragraphs: [
         "We have no office in Ujjain and will not show a borrowed address. We are three engineers working remotely for clients across India, which keeps office rent and sales staff out of your price, and means you talk directly to the people building your site.",
         "Projects begin with a call or WhatsApp chat. Within about two working days you receive a page plan, timeline and itemised quote. Once you approve, you get a live preview link early in the build to check on your own phone. Feedback goes on WhatsApp and small changes usually go live the same day. We work on Indian time and reply seven days a week.",
-        "Ankur Kumar leads full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects and works on data science and automation. Reach us through the <a href=\"/contact/\">contact page</a>.",
+        "One of us leads full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us manages projects and works on data science and automation. Reach us through the <a href=\"/contact/\">contact page</a>.",
       ],
     },
     {

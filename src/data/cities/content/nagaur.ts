@@ -175,7 +175,7 @@ const nagaur: CityContent = {
       id: "remote-team-nagaur",
       heading: "Who builds your site, and how we work remotely",
       paragraphs: [
-        "We have no office in Nagaur, and we will not pretend otherwise. BtechWaleTech is three engineers working remotely for clients across India. Ankur Kumar builds websites and web applications from start to finish. Santosh Sharma handles AI, machine learning, AWS and data projects. Vedansh Shrivastava runs project management, keeps timelines realistic and builds automation and data-science components.",
+        "We have no office in Nagaur, and we will not pretend otherwise. BtechWaleTech is three engineers working remotely for clients across India. One of us builds websites and web applications from start to finish. Another of us handles AI, machine learning, AWS and data projects. The third of us runs project management, keeps timelines realistic and builds automation and data-science components.",
         "Work begins with a conversation about your buyers and your season. Within about two working days you receive a page plan, timeline and itemised quote in writing. After approval, you get a live preview link to check on your own phone and share with your partners or family. Feedback comes over WhatsApp, and small edits often go live the same day.",
         "We work on Indian time and reply seven days a week, which suits traders who are busiest at harvest and during the fair. One named engineer is responsible for your project throughout.",
       ],

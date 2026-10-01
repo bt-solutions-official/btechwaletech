@@ -69,7 +69,7 @@ const thoubal: CityContent = {
       paragraphs: [
         "Thoubal is the headquarters of one of Manipur's valley districts, a short drive south of Imphal on the road to Moreh. Its bazaar on the river bank, along with smaller markets at Ningombam, Athokpam and Babu Bazaar, supplies a dense ring of villages where rice farming, weaving and fishing are the main livelihoods.",
         "The people who contact us for <strong>IT services in Thoubal</strong> are rarely looking for anything elaborate. A weaver wants to sell phanek to buyers outside the state. A college wants its admission notice to reach students before the deadline. A shop wants to appear when someone searches on Google Maps. A trader wants to stop writing credit in three notebooks.",
-        "We are three engineers working remotely. Ankur Kumar builds websites and web apps end to end, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava manages projects and handles data science and automation. None of us has an office in Thoubal, and we will not pretend otherwise. What we can promise is written plans, published starting prices and replies on WhatsApp every day of the week.",
+        "We are three engineers working remotely. One of us builds websites and web apps end to end, another of us leads AI, machine learning, AWS and data work, and the third of us manages projects and handles data science and automation. None of us has an office in Thoubal, and we will not pretend otherwise. What we can promise is written plans, published starting prices and replies on WhatsApp every day of the week.",
       ],
     },
     {

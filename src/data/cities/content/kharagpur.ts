@@ -167,7 +167,7 @@ const kharagpur: CityContent = {
       id: "remote-kharagpur",
       heading: "How our remote team works with Kharagpur clients",
       paragraphs: [
-        "We have no office in Kharagpur and will not claim one. BtechWaleTech is three engineers working remotely. Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and analytics.",
+        "We have no office in Kharagpur and will not claim one. BtechWaleTech is three engineers working remotely. One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and builds automation and analytics.",
         "We begin with a call or WhatsApp conversation about your business and customers. Within about two working days you receive a page plan, timeline and itemised quote. After approval, you get a live preview link to open on your phone and share with partners. Feedback comes on WhatsApp and small changes often go live the same day.",
         "We reply seven days a week on Indian time. Many shop owners and contractors review work in the evening or on Sunday, and that suits us. You always know who is working on your project and can speak to them directly, without an account manager in between.",
       ],

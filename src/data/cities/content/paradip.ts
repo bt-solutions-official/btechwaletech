@@ -95,7 +95,7 @@ const paradip: CityContent = {
       paragraphs: [
         "The Indian Oil refinery, Paradeep Phosphates and the IFFCO plant keep a long list of maintenance, shutdown, civil, electrical, housekeeping and manpower contractors busy. Much of their paperwork still runs on registers and spreadsheets: gate passes, labour attendance, safety training records, job cards, measurement sheets and running bills.",
         "Custom software replaces that with one system your supervisors can use from a phone. A foreman marks attendance and job progress on site, the office sees it the same evening, and billing pulls from recorded quantities rather than memory. Shutdown periods, when crews swell and hours stretch, are where this saves the most arguments.",
-        "Custom web applications start from ₹60,000 and usually take six to twelve weeks, depending on how many modules you need. Vedansh Shrivastava maps your current process first, so the software matches how your sites already work instead of forcing a new routine on busy supervisors.",
+        "Custom web applications start from ₹60,000 and usually take six to twelve weeks, depending on how many modules you need. The third of us maps your current process first, so the software matches how your sites already work instead of forcing a new routine on busy supervisors.",
       ],
     },
     {
@@ -178,7 +178,7 @@ const paradip: CityContent = {
       paragraphs: [
         "A transporter in Paradip can get dozens of WhatsApp messages an hour asking whether a trailer is free, what the rate to Angul is, or where a loaded truck has reached. Hotels get room enquiries at midnight and suppliers get the same price-list request over and over. Much of that can be answered automatically.",
         "We set up WhatsApp flows that reply in Odia or English, share rate cards and documents, collect booking details, log every enquiry in a sheet and pass anything unusual to a person with the full conversation. An AI assistant trained on your own price lists and FAQs can handle the common questions, while negotiation, credit and complaints stay with you.",
-        "Automation starts from ₹40,000 and takes two to four weeks. Santosh Sharma designs the AI side and keeps it narrow: it answers what you have approved, and nothing else.",
+        "Automation starts from ₹40,000 and takes two to four weeks. Another of us designs the AI side and keeps it narrow: it answers what you have approved, and nothing else.",
       ],
     },
     {
@@ -186,7 +186,7 @@ const paradip: CityContent = {
       heading: "Dashboards for trips, diesel and billing",
       paragraphs: [
         "Transport and contracting margins in Paradip are thin, and money leaks through small gaps: a trip not billed, diesel issued without a matching trip, a running bill delayed because measurement sheets were not compiled. Owners often only see the problem at the month's end.",
-        "We connect the sources you already have, whether spreadsheets, a billing tool or app entries, into a dashboard showing trips per vehicle, diesel per kilometre, pending bills and receivables by client. It opens on your phone and updates daily. Santosh Sharma and Vedansh Shrivastava handle the data work.",
+        "We connect the sources you already have, whether spreadsheets, a billing tool or app entries, into a dashboard showing trips per vehicle, diesel per kilometre, pending bills and receivables by client. It opens on your phone and updates daily. Another of us and the third of us handle the data work.",
         "Dashboards can be part of a custom software project or a smaller standalone job, quoted after we see your data.",
         "For clearing agents, the same approach tracks shipments by status, pending documents and invoices raised against each consignment. For hotels, occupancy and advance bookings by week help plan staff around refinery shutdowns and busy crew-change periods. The point is not a pretty chart but a daily number you trust enough to act on.",
       ],
@@ -196,7 +196,7 @@ const paradip: CityContent = {
       heading: "An IT services team in Paradip without an office in Paradip",
       paragraphs: [
         "We should say it clearly: we have no office in Paradip, and we will not show an address we do not use. We are three engineers who work remotely for clients across India. That saves rent and sales staff, which is part of why our starting prices are lower, and it means you talk directly to the people doing the work.",
-        "Ankur Kumar builds websites, web apps and mobile apps. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava runs projects and works on data science and automation. We reply on WhatsApp seven days a week, on IST, and small changes are usually done the same day.",
+        "One of us builds websites, web apps and mobile apps. Another of us handles AI, machine learning, AWS and data. The third of us runs projects and works on data science and automation. We reply on WhatsApp seven days a week, on IST, and small changes are usually done the same day.",
         "The process is simple: a call or chat, a written page plan and itemised quote, a private preview link you check on your own phone, then launch. <a href=\"/contact/\">Message us</a> to start.",
       ],
     },

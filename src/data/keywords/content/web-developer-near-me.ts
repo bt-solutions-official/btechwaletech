@@ -120,7 +120,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `No. The quality of a website depends on skill, process and care, and none of those improve because someone lives in your district. A web developer near me and a developer five states away use the same code editors, the same hosting providers and the same Google tools.`,
         `Where closeness helps is the first conversation. Sitting together, you can point at a competitor’s site on your phone and say “like this, but simpler”. That is useful, and we reproduce it with a screen-shared video call where you scroll and we take notes. Where closeness can hurt is choice: in a smaller town you may have two or three options, and the best-reviewed one may be busy with bigger clients.`,
-        `A remote team gives you a wider pool. Our three developers split the work by strength: Ankur Kumar on full-stack builds, Santosh Sharma on hosting, data and technical SEO, and Vedansh Shrivastava on planning and automation. You get all three skills without hiring three local people.`,
+        `A remote team gives you a wider pool. Our three developers split the work by strength: one of us on full-stack builds, another of us on hosting, data and technical SEO, and the third of us on planning and automation. You get all three skills without hiring three local people.`,
       ],
       subs: [
         { heading: "Local tends to win when", text: "You need hardware set up, you strongly prefer paper contracts signed in person, or the developer already knows your market well from years in the same town." },

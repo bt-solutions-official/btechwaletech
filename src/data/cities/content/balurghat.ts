@@ -167,7 +167,7 @@ const balurghat: CityContent = {
       heading: "Seeing the harvest year in numbers",
       paragraphs: [
         "Trade in Dakshin Dinajpur follows the crop calendar. Paddy arrives in waves after each harvest, jute has its own season, and cash flow for traders, mills and input dealers swings with both. Most owners carry the pattern in their heads, which works until the business grows or a son or daughter takes over and needs to understand it quickly.",
-        "Santosh and Vedansh on our team work on data analysis, and they can turn the records you already keep into a small dashboard. Purchases by week, stock by godown, dues by buyer and sales by month sit on one screen that you open on your phone. If your records are in registers, we start by entering one season so you can judge whether the view is useful before committing further.",
+        "Another of us and the third of us on our team work on data analysis, and they can turn the records you already keep into a small dashboard. Purchases by week, stock by godown, dues by buyer and sales by month sit on one screen that you open on your phone. If your records are in registers, we start by entering one season so you can judge whether the view is useful before committing further.",
         "The value is practical: spotting which buyers pay late, which months need extra working capital, which products move slowly. We don't sell forecasts we can't back up. We show you what your own numbers already say, clearly enough to act on.",
       ],
     },
@@ -177,7 +177,7 @@ const balurghat: CityContent = {
       paragraphs: [
         "We do not have an office in Balurghat, Siliguri or anywhere in North Bengal, and we will not pretend otherwise. We are three engineers who work remotely for clients across India. No rent and no sales staff means lower prices, and you speak directly to the people building your site.",
         "Work runs through WhatsApp, calls and screen sharing. We start with a conversation about your business and send a page plan, timeline and itemised quote, usually within two working days. After you approve, you receive a live preview link to check on your own phone. Corrections can be typed or sent as voice notes, and small changes are usually made the same day.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data tools. You can <a href=\"/contact/\">contact us directly</a> any day of the week.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data tools. You can <a href=\"/contact/\">contact us directly</a> any day of the week.",
       ],
     },
     {

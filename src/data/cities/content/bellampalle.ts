@@ -68,7 +68,7 @@ const bellampalle: CityContent = {
       paragraphs: [
         "Bellampalle owes its growth to coal. Singareni Collieries Company Limited has operated underground and opencast mines here since the British period, and the town has long been one of the best-known mining centres of the Godavari Valley coalfield. Around the mines sit transport firms, workshops, canteens, labour contractors, material suppliers and the shops, schools and clinics that serve mine families.",
         "Most enquiries we get for <strong>IT services in Bellampalle</strong> are specific and modest. A transporter wants to know exactly how many trips each lorry made last month. A clinic wants its map pin corrected and its OPD timings shown in Telugu. A coaching centre wants to send marks to parents without printing slips. A shop wants customers from Tandur and Kasipet to know what it stocks before they travel.",
-        "We are a remote team of three engineers, and we have no office in Bellampalle. Ankur Kumar leads full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava looks after project management, data science and automation. We work over WhatsApp, phone and screen sharing, and every step is written down so you can check it.",
+        "We are a remote team of three engineers, and we have no office in Bellampalle. One of us leads full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us looks after project management, data science and automation. We work over WhatsApp, phone and screen sharing, and every step is written down so you can check it.",
         "Because there is no local office to pay for, our starting prices stay low, and the quote you receive shows only the work you asked for.",
       ],
     },
@@ -165,7 +165,7 @@ const bellampalle: CityContent = {
       id: "remote-team-bellampalle",
       heading: "How our remote IT team works with Bellampalle clients",
       paragraphs: [
-        "We are three engineers who work remotely, without an office in Bellampalle or elsewhere, so we rely on written records instead of meetings across a table. Ankur Kumar builds websites and web applications, Santosh Sharma handles AI, cloud and data, and Vedansh Shrivastava plans the project and the automation. After a first call about your work and your customers, you receive a written outline of pages or screens, the timeline and a costed list of items.",
+        "We are three engineers who work remotely, without an office in Bellampalle or elsewhere, so we rely on written records instead of meetings across a table. One of us builds websites and web applications, another of us handles AI, cloud and data, and the third of us plans the project and the automation. After a first call about your work and your customers, you receive a written outline of pages or screens, the timeline and a costed list of items.",
         "Nothing starts until you approve that list, and no payment is taken before written approval. During the build you get preview links that open on any phone, so family members or partners can see progress. Telugu text is shared with you for checking before it goes live, since a wrong word on a school circular or a shop board is noticed by everyone.",
         "We reply on WhatsApp every day of the week, on Indian time. If a deadline is going to move, you are told the same day, with a new date and the reason. Payments are linked to stages you can see working, which keeps the risk low for a first-time client.",
       ],

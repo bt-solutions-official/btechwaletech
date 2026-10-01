@@ -174,7 +174,7 @@ const agartala: CityContent = {
       id: "remote-team-northeast",
       heading: "Working with a remote team from Tripura",
       paragraphs: [
-        "We do not have an office in Agartala and we will not pretend otherwise. We are three engineers who work remotely with clients across India. Ankur Kumar handles full-stack development, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava manages projects, data science and automation.",
+        "We do not have an office in Agartala and we will not pretend otherwise. We are three engineers who work remotely with clients across India. One of us handles full-stack development, another of us leads AI, machine learning, AWS and data work, and the third of us manages projects, data science and automation.",
         "For clients in the north-east, remote work removes a practical problem: most established agencies are in Kolkata, Guwahati or further away, and a visit costs a day or more of travel anyway. We replace meetings with a written brief, short video calls when needed, WhatsApp updates on progress and a staging link where you can see the site as it grows.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time. Decisions are recorded in writing, so nothing depends on anyone remembering a phone conversation. Payments follow agreed milestones, and nothing is billed before you approve the quote in writing.",
       ],

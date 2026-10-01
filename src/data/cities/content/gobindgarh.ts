@@ -70,7 +70,7 @@ const gobindgarh: CityContent = {
       paragraphs: [
         "Mandi Gobindgarh is a small town with an outsized industrial footprint. Hundreds of rolling mills, induction furnaces, forging shops, foundries and scrap-cutting yards sit along the G.T. Road, Amloh Road and the Focal Point area, turning scrap and billets into bars, angles, channels, flats, wire rod and forged parts that travel across North India. Around them are machinery builders, transporters, gas suppliers, brokers, hardware shops, banks and a busy retail market.",
         "Yet the online presence of this cluster is thin. Search for a particular section or grade and you often find directory listings, not the mill itself. That gap is where a sensible website and a few well-built pages pay back. When a purchase manager in Ambala, Jaipur or Jammu looks for a supplier, the firm that shows its sizes, grades, capacity and contact details clearly gets the first call.",
-        "We are not an IT services team in Gobindgarh with a showroom and a sales team. We are three engineers who work remotely: Ankur Kumar builds the websites and apps, Santosh Sharma handles AI, AWS and data work, and Vedansh Shrivastava runs projects and automation. That keeps costs lower and means the person you talk to on WhatsApp is the person doing the work.",
+        "We are not an IT services team in Gobindgarh with a showroom and a sales team. We are three engineers who work remotely: one of us builds the websites and apps, another of us handles AI, AWS and data work, and the third of us runs projects and automation. That keeps costs lower and means the person you talk to on WhatsApp is the person doing the work.",
       ],
     },
     {
@@ -155,7 +155,7 @@ const gobindgarh: CityContent = {
       paragraphs: [
         "A mill's sales desk gets the same questions many times a day: do you have this section, what sizes, what is the minimum order, can you deliver to this city. Those questions come mostly on WhatsApp, often at odd hours, and a slow reply loses the order to the next mill down the road.",
         "We build WhatsApp automation, from ₹40,000, that answers the routine part in Punjabi, Hindi or English. It shares the product list, asks for size, grade, quantity and destination, records each enquiry in a sheet or your software, and hands the conversation to a salesperson with the details already collected. It never quotes a rate on its own unless you set that up and approve the figures.",
-        "AI tools can also read incoming purchase orders or email enquiries and fill them into your order register, draft replies for your team to check, or summarise the day's dispatches. Santosh Sharma handles this work, and we keep it limited to tasks where a mistake is easy to spot and correct.",
+        "AI tools can also read incoming purchase orders or email enquiries and fill them into your order register, draft replies for your team to check, or summarise the day's dispatches. Another of us handles this work, and we keep it limited to tasks where a mistake is easy to spot and correct.",
       ],
     },
     {
@@ -182,7 +182,7 @@ const gobindgarh: CityContent = {
       paragraphs: [
         "Many mills and traders have grown past registers and spreadsheets but find large ERP systems too costly and too rigid. Custom software, from ₹60,000, fills that gap. We build web applications for order booking, production logs, scrap purchase records, stock of finished sections, dispatch planning, party ledgers and payment follow-up, designed around how your office already works.",
         "Access can be split by role, so the gate sees only vehicle entries, the dispatch clerk sees loading plans and the owner sees everything. Reports can be downloaded as Excel or viewed on a phone. Where you already use accounting software, we can export data in a form your accountant can import.",
-        "Vedansh Shrivastava plans these projects in stages, starting with the part that causes the most daily trouble. You see working screens early, and you pay for each stage only after approving its quote in writing.",
+        "The third of us plans these projects in stages, starting with the part that causes the most daily trouble. You see working screens early, and you pay for each stage only after approving its quote in writing.",
       ],
     },
     {

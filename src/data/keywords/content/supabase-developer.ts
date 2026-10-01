@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A Supabase developer is a backend developer who builds on Supabase, an open-source platform that wraps a full Postgres database with auth, file storage, auto-generated APIs, edge functions and realtime. The core skill is Postgres, not clicking around a dashboard.`,
         `That distinction matters more than it sounds. Supabase lets a front-end developer create tables and query them from the browser within an hour. The same speed is how data leaks happen: if the browser can query the database directly, the database itself must enforce who sees what. A real Supabase developer thinks in schemas, foreign keys, indexes, SQL functions and policies, and uses the dashboard as a convenience.`,
-        `At BtechWaleTech, Ankur handles full-stack builds and front ends, Santosh covers data modelling, cloud and performance, and Vedansh keeps scope, testing and releases on track. You message all three on one WhatsApp group.`,
+        `At BtechWaleTech, one of us handles full-stack builds and front ends, another of us covers data modelling, cloud and performance, and the third of us keeps scope, testing and releases on track. You message all three on one WhatsApp group.`,
               `Hire one before you have real users, ideally before the first table is created, because a schema and policy model is far cheaper to design than to retrofit. The second-best time is right before launch, for a security review.`,
         `Situations where we are usually called in:`,
       ],

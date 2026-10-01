@@ -69,7 +69,7 @@ const manglaur: CityContent = {
       paragraphs: [
         "Drive south from Roorkee on the Delhi road and Manglaur is the first real town you reach. It has a municipal board, a population of roughly fifty-three thousand at the last census, a main bazaar that serves the villages of Narsan block, and a highway frontage lined with dhabas, fuel stations, tyre shops and workshops. The Uttar Pradesh border is a short drive further on.",
         "That position shapes what local businesses need. Some sell to travellers who will never return, some to farmers who come every week, and some to factories in Haridwar or Roorkee that judge suppliers by paperwork. A single template will not serve all three. Good <strong>IT services in Manglaur</strong> start by asking which of these groups pays your bills.",
-        "Our team is three people, working remotely. Ankur Kumar builds websites and web applications end to end. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles data science and automation. There is no Manglaur office and no sales executive in between; you speak to the people doing the work.",
+        "Our team is three people, working remotely. One of us builds websites and web applications end to end. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and handles data science and automation. There is no Manglaur office and no sales executive in between; you speak to the people doing the work.",
       ],
       list: [
         "Travellers on the highway: Google Maps listings, photos, timings and a call button",

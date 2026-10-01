@@ -168,7 +168,7 @@ const ahmednagar: CityContent = {
       paragraphs: [
         "We have no office in Ahilyanagar and do not claim one. We are three engineers working remotely for clients across India. That keeps office rent and sales costs out of your quote and puts you in direct contact with the people building your site.",
         "It starts with a call or WhatsApp chat about your business and customers. You then get a written plan with pages, timeline and cost. Within a week or two, a live preview link arrives that you can open on your phone and share with your partners. Feedback comes over WhatsApp, and small changes usually go live the same day.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and covers data science and automation. We work on Indian time and reply seven days a week.",
+        "One of us builds the websites and applications. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and covers data science and automation. We work on Indian time and reply seven days a week.",
       ],
     },
     {

@@ -201,7 +201,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Upgrade hosting when the server is the bottleneck: time to first byte stays high after page caching is working, the admin is slow, or the site slows sharply under traffic. If the front end is bloated, a bigger server will not fix it.`,
         `The checks are simple. Which PHP version runs, and does it match WordPress's recommendation? How much memory can PHP use? Is there a page cache at server level, and an object cache? Where is the server, relative to where your visitors are? For a site whose customers are in India, a server in India or a CDN with Indian edge locations usually makes a visible difference.`,
-        `Any hosting we suggest is chosen for your traffic and budget, and any new account is opened in your name. Santosh on our team handles migrations between hosts, including cloud servers on AWS where that suits the traffic, with a backup and rollback plan and DNS changes timed for low-traffic hours.`,
+        `Any hosting we suggest is chosen for your traffic and budget, and any new account is opened in your name. Another of us on our team handles migrations between hosts, including cloud servers on AWS where that suits the traffic, with a backup and rollback plan and DNS changes timed for low-traffic hours.`,
       ],
     },
     {

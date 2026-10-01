@@ -26,9 +26,9 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Technical SEO audit · for Australian websites",
     h1: "Technical SEO audit for Australian sites, with the fixes built by the people who wrote the report",
-    lede: `A technical SEO audit tells you why Google is not crawling, indexing or ranking pages it should, and a useful one ends in fixes, not a 90-page PDF. BtechWaleTech is three freelance developers in India, with technical SEO led by Santosh Sharma. We check Search Console coverage, Core Web Vitals for mobile visitors, en-AU and en-NZ hreflang, migration redirects and JavaScript rendering on Shopify, Webflow and React sites, then implement what you approve. Ongoing SEO starts from ${P.seo}. Stores should also read our <a href='/australia/ecommerce-seo-services/'>ecommerce SEO services</a> guide.`,
+    lede: `A technical SEO audit tells you why Google is not crawling, indexing or ranking pages it should, and a useful one ends in fixes, not a 90-page PDF. BtechWaleTech is three freelance developers in India, with technical SEO led by another of us. We check Search Console coverage, Core Web Vitals for mobile visitors, en-AU and en-NZ hreflang, migration redirects and JavaScript rendering on Shopify, Webflow and React sites, then implement what you approve. Ongoing SEO starts from ${P.seo}. Stores should also read our <a href='/australia/ecommerce-seo-services/'>ecommerce SEO services</a> guide.`,
     pills: ["Search Console coverage", "Core Web Vitals on mobile", "en-AU and en-NZ hreflang", "Migration redirect checks", "JavaScript rendering", "Shopify, Webflow, React", "Fixes implemented, not just listed"],
-    origin: "Three freelance developers in India · technical SEO by Santosh Sharma · WhatsApp replies 7 days a week",
+    origin: "Three freelance developers in India · technical SEO by another of us · WhatsApp replies 7 days a week",
   },
   facts: [
     ["Audit price", "Quoted after scoping your site"],

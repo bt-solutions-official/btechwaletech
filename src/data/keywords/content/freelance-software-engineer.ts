@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The difference is what happens to the code after it works once. A coder gets the feature running. A freelance software engineer also makes it safe to change next month: tests that fail loudly when something breaks, a pipeline that runs those tests automatically, and notes that explain why the system is shaped the way it is.`,
         `Both roles are useful. For a one-off script or a small fix, paying for engineering ceremony is waste. For software that runs your billing, bookings, stock or customer records for years, the ceremony is the cheap part. A single silent bug in an invoice calculation can cost more than the whole test suite.`,
-        `At BtechWaleTech the work is split so no one marks their own homework. Ankur writes most feature code across front end and back end, Santosh owns cloud, data and AI parts plus the pipelines, and Vedansh keeps the plan, the acceptance criteria and the automation. Whoever did not write a change reviews it.`,
+        `At BtechWaleTech the work is split so no one marks their own homework. One of us writes most feature code across front end and back end, another of us owns cloud, data and AI parts plus the pipelines, and the third of us keeps the plan, the acceptance criteria and the automation. Whoever did not write a change reviews it.`,
       ],
       list: [
         "Coder: makes the feature work on their machine",

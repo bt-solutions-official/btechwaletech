@@ -69,7 +69,7 @@ const vrindavan: CityContent = {
       paragraphs: [
         "Vrindavan sits on the west bank of the Yamuna, about 15 km north of Mathura, and is home to thousands of temples dedicated to Radha and Krishna. Banke Bihari, built in 1862, draws the largest crowds. The ISKCON Krishna-Balaram Mandir, Prem Mandir, Radha Madan Mohan, Radha Damodar and Radha Vallabh temples each have their own devotees. Almost every business in town, from a tea stall to a hotel, depends on the people who come to see them.",
         "That makes the requests for <strong>IT services in Vrindavan</strong> unusual. A guest house wants bookings for Janmashtami weeks in advance. A poshak workshop wants to sell Laddu Gopal dresses to families in Mumbai and London. A tour operator wants Braj yatra enquiries on WhatsApp. An ashram wants a clear page for visiting devotees and a record of donations.",
-        "We take on this work as a remote team of three. Ankur Kumar handles full-stack development, Santosh Sharma leads AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. You speak with us directly on WhatsApp.",
+        "We take on this work as a remote team of three. One of us handles full-stack development, another of us leads AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. You speak with us directly on WhatsApp.",
       ],
     },
     {

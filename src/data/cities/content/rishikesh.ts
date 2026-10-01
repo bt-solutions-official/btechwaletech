@@ -69,7 +69,7 @@ const rishikesh: CityContent = {
       paragraphs: [
         "Few Indian towns of Rishikesh's size have a customer base this international. On one lane in Tapovan you may find a yoga school whose students come from Brazil and Korea, a café whose menu is written for Israeli and European backpackers, a rafting office selling half-day trips to college groups from Delhi, and a dharamshala hosting families from Gujarat. Each of them is found, judged and booked mostly online.",
         "When people ask us about <strong>IT services in Rishikesh</strong>, the problems are specific. A school wants its own booking page so it stops paying a large portal commission on every student. A hotel near Lakshman Jhula wants its rooms to show correctly on Google Maps. A camp at Shivpuri wants enquiries answered at midnight, when overseas visitors are awake. A travel agent wants to stop maintaining Char Dham group lists in a spreadsheet emailed back and forth.",
-        "We are a group of three working remotely. Ankur Kumar handles full-stack development, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava looks after project management, data science and automation. There is no Rishikesh office and we do not claim one. Planning happens on WhatsApp and video calls, and everything agreed is written down.",
+        "We are a group of three working remotely. One of us handles full-stack development, another of us leads AI, machine learning, AWS and data work, and the third of us looks after project management, data science and automation. There is no Rishikesh office and we do not claim one. Planning happens on WhatsApp and video calls, and everything agreed is written down.",
       ],
     },
     {

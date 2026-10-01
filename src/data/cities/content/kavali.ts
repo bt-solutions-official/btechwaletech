@@ -69,7 +69,7 @@ const kavali: CityContent = {
       paragraphs: [
         "Kavali is one of the larger towns of Nellore district and the headquarters of its own revenue division. It grew on the old trunk road and the east coast railway; today NH16 bypasses it and NH167BG begins here, so traffic, trade and people from dozens of villages meet in its markets, hospitals and colleges.",
         "The enquiries we see for <strong>IT services in Kavali</strong> tend to be down to earth. An aqua feed dealer wants to track credit across farmers. A hospital wants patients from Bogole or Alluru to see which doctor is sitting today. A college wants cleaner admission pages. A shop wants to appear on Google Maps with the right timings and a WhatsApp link.",
-        "We are a team of three working remotely. Ankur Kumar builds full-stack websites and apps, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. There is no Kavali office, and we tell every client that at the first call. Work happens over WhatsApp, phone, screen shares and written plans.",
+        "We are a team of three working remotely. One of us builds full-stack websites and apps, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. There is no Kavali office, and we tell every client that at the first call. Work happens over WhatsApp, phone, screen shares and written plans.",
       ],
     },
     {

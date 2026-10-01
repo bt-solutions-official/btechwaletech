@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       heading: "What does a freelance web developer actually do?",
       paragraphs: [
         `A freelance web developer turns your business goal into a working website and keeps it running, without being on your payroll. In practice that covers five jobs: planning the pages, designing the layout, writing the code, putting it live on hosting, and fixing or improving it afterwards.`,
-        `The word “developer” matters. A designer can make a site look right in a mock-up; a developer makes forms send email, pages load fast on a budget Android phone, and Google read the structure. Many freelancers do both. At BtechWaleTech, Ankur handles full-stack builds, Santosh covers hosting on AWS, data and technical SEO, and Vedansh runs the project plan and automation, so each part has an owner.`,
+        `The word “developer” matters. A designer can make a site look right in a mock-up; a developer makes forms send email, pages load fast on a budget Android phone, and Google read the structure. Many freelancers do both. At BtechWaleTech, one of us handles full-stack builds, another of us covers hosting on AWS, data and technical SEO, and the third of us runs the project plan and automation, so each part has an owner.`,
         `What a freelance web developer usually does not do: print brochures, run your social media, shoot product photos or visit your shop. Ask up front which of these you need and who will do them.`,
       ],
       list: [

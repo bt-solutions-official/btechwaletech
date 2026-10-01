@@ -140,7 +140,7 @@ const roorkee: CityContent = {
       paragraphs: [
         "In Roorkee, as elsewhere, business happens on WhatsApp. An instrument maker gets a request for a quotation from a college, a PG owner answers the same questions about rent and food twenty times in August, and a coaching centre sends fee reminders one by one. Much of this is repetitive, and it is exactly the kind of work that automation handles well.",
         "We build systems that answer common questions automatically in English or Hindi, send your price list or brochure when someone asks, record every enquiry in a Google Sheet with the date and source, and forward anything unusual to you with the full conversation. For instrument sellers, a quotation request can be turned into a draft quote in a standard format for you to check and send. For institutes, fee reminders and batch updates can go out on schedule.",
-        "Santosh Sharma, who handles our AI and AWS work, designs these so that a person always makes the final decision on money, discounts and complaints. Automation projects start from ₹40,000. Before quoting, we look at how many messages you actually receive; if the volume is small, we will suggest a simpler setup instead.",
+        "Another of us, who handles our AI and AWS work, designs these so that a person always makes the final decision on money, discounts and complaints. Automation projects start from ₹40,000. Before quoting, we look at how many messages you actually receive; if the volume is small, we will suggest a simpler setup instead.",
       ],
     },
     {
@@ -167,7 +167,7 @@ const roorkee: CityContent = {
       paragraphs: [
         "We do not have an office in Roorkee, and we won't list an address we don't use. We are three engineers working remotely for clients across India. That keeps our costs low, and it means the person you speak to is the person writing your code, not a sales executive.",
         "The process is simple. We start with a call or a WhatsApp conversation about your business, then send a page plan, timeline and itemised quote. Once you approve it, you get a private preview link within days that you can open on your own phone, share with partners and comment on. Small changes are usually done the same day. We reply every day of the week, in IST, and use screen sharing when something is easier to show than explain.",
-        "Ankur Kumar does the full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. If you would like to talk to one of us before deciding, <a href=\"/contact/\">get in touch here</a>, or read more about how we approach <a href=\"/services/web-development/\">web development</a>.",
+        "One of us does the full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. If you would like to talk to one of us before deciding, <a href=\"/contact/\">get in touch here</a>, or read more about how we approach <a href=\"/services/web-development/\">web development</a>.",
       ],
     },
     {

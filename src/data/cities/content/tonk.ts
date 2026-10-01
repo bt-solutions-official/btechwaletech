@@ -160,7 +160,7 @@ const tonk: CityContent = {
       paragraphs: [
         "We have no office in Tonk and we will not invent one. We are three engineers working remotely for clients across India, and that is how we keep rates lower than an agency with rent and sales staff. You speak to the people who actually build your site.",
         "A project usually starts with a phone call about your business and customers. We follow with a page plan, timeline and itemised quote in writing. Within a week or two you receive a live link to check on your own phone, show your partners and mark changes on WhatsApp. Small edits are often done the same day, and we reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma looks after AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science pieces. You can <a href=\"/contact/\">reach any of us</a> directly.",
+        "One of us handles full-stack development. Another of us looks after AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data science pieces. You can <a href=\"/contact/\">reach any of us</a> directly.",
       ],
     },
     {

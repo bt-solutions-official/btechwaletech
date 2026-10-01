@@ -162,7 +162,7 @@ const ahmedabad: CityContent = {
       paragraphs: [
         "We don't have an Ahmedabad office and won't borrow an address to look local. We are three engineers working remotely across India, which keeps office rent out of your quote and means you talk directly to the people building your site.",
         "We start with a call or a WhatsApp chat about your business. You then receive a written plan with pages, features, timeline and cost. Within the first week or two, you get a live preview link to check on your phone, and feedback can go by message, screenshot or voice note. Small changes usually go live the same day. We reply seven days a week on Indian time, including during festival weeks when many shops finally have time to look at their website.",
-        "Ankur Kumar leads full-stack <a href=\"/services/web-development/\">web development</a>. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on data science and automation. You can speak to any of us directly.",
+        "One of us leads full-stack <a href=\"/services/web-development/\">web development</a>. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on data science and automation. You can speak to any of us directly.",
       ],
     },
     {

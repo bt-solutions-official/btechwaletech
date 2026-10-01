@@ -178,7 +178,7 @@ const bhilai: CityContent = {
       paragraphs: [
         "We do not have an office in Bhilai and will not show one. We are three engineers working remotely for clients across India, so you pay for engineering rather than rent and sales staff, and you talk directly to the people who build your site.",
         "After a call or WhatsApp conversation, you receive a page plan, timeline and itemised quote in about two working days. Once you approve it in writing, you get a live preview link, usually within the first week or two, to check on your phone. Feedback comes on WhatsApp, and small changes often go live the same day. We work on IST and answer seven days a week, which suits coaching owners who are busiest on weekday evenings.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science workflows.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science workflows.",
       ],
     },
     {

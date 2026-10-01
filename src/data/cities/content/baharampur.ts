@@ -186,7 +186,7 @@ const baharampur: CityContent = {
       heading: "Working with a remote team from Berhampore",
       paragraphs: [
         "We do not have an office in Baharampur or anywhere in Murshidabad, and we will not invent an address. BtechWaleTech is three engineers working remotely for clients across India. You speak directly with the person building your site, and we pass on the savings from not paying rent.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science tools. Message us through the <a href=\"/contact/\">contact page</a>; we answer on WhatsApp seven days a week during Indian hours, in English or Hindi. Bengali copy is drafted with your input and checked by you before it goes live.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science tools. Message us through the <a href=\"/contact/\">contact page</a>; we answer on WhatsApp seven days a week during Indian hours, in English or Hindi. Bengali copy is drafted with your input and checked by you before it goes live.",
         "After a first conversation, you receive a page plan, timeline and itemised quote in about two working days. Once approved, a preview link arrives within one or two weeks, which you check on your phone and share with family or partners. The technical approach is explained on our <a href=\"/services/web-development/\">web development</a> page.",
       ],
     },

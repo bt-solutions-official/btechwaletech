@@ -159,7 +159,7 @@ const kalyanDombivali: CityContent = {
       paragraphs: [
         "We do not have an office in Kalyan, Dombivli or Mumbai, and we won't put a borrowed address on our site to look local. We are three engineers who work remotely. You don't pay for rent or a sales team, and the person you speak to on day one is the person building your project.",
         "The process is simple. We start with a call or WhatsApp chat about your business and customers. You then receive a page plan, timeline and itemised quote in writing. After approval, you get a live preview link, usually within a week or two, which you can open on your phone during your commute and share with partners or family. You send changes on WhatsApp and we make small ones the same day where possible. We reply seven days a week on Indian time, which suits owners who only get time on Sundays.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can reach any of us directly; <a href=\"/contact/\">send a message</a> to begin, or read about our <a href=\"/services/web-development/\">web development work</a>.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can reach any of us directly; <a href=\"/contact/\">send a message</a> to begin, or read about our <a href=\"/services/web-development/\">web development work</a>.",
       ],
     },
     {

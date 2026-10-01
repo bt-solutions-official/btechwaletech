@@ -177,7 +177,7 @@ const thanesar: CityContent = {
       paragraphs: [
         "There is no BtechWaleTech office in Kurukshetra, nor anywhere else in Haryana. Our three engineers work from different places and serve clients all over India. That arrangement is the reason our entry prices are modest: no showroom rent, no commission-based sales executives, and no middle layer between you and the developer.",
         "A typical project starts with a phone call about your guests, students or patients. Within about two working days you receive a written sitemap, a delivery schedule and a line-by-line estimate. After you agree, a working preview goes live on a private link that you, your partners or your trust committee can open on any phone. Feedback comes by WhatsApp, which we answer on weekends too, on Indian time.",
-        "Full-stack development is Ankur Kumar's area. Santosh Sharma looks after AI, machine learning, AWS and data projects. Vedansh Shrivastava runs project management along with automation and data science. Through our <a href=\"/contact/\">contact page</a> you can speak to whichever of them your question concerns.",
+        "Full-stack development is our full-stack developer's area. Another of us looks after AI, machine learning, AWS and data projects. The third of us runs project management along with automation and data science. Through our <a href=\"/contact/\">contact page</a> you can speak to whichever of them your question concerns.",
       ],
     },
     {

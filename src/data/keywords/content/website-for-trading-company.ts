@@ -131,7 +131,7 @@ const content: FreelanceContent = {
       heading: "Getting product data from Excel into a catalogue",
       paragraphs: [
         `Your product sheet becomes the website’s database. The cleaner it is, the faster and cheaper the build, and the easier every future update.`,
-        `We start by reviewing a sample of your sheet: one row per SKU, a column for brand, category and each key attribute, plus image file names and datasheet links. Common problems are mixed units (“10mm”, “10 mm”, “1 cm”), merged cells, specifications buried in a description column, and the same product listed twice under different codes. Vedansh writes a cleaning script that standardises these and flags anything it cannot fix, so your team only reviews exceptions.`,
+        `We start by reviewing a sample of your sheet: one row per SKU, a column for brand, category and each key attribute, plus image file names and datasheet links. Common problems are mixed units (“10mm”, “10 mm”, “1 cm”), merged cells, specifications buried in a description column, and the same product listed twice under different codes. The third of us writes a cleaning script that standardises these and flags anything it cannot fix, so your team only reviews exceptions.`,
         `Once the data is clean, updates are a re-import rather than a page-by-page edit. Add 200 new SKUs to the sheet, upload it, and the category pages, filters and sitemap update together. For traders whose master data lives in Tally or an ERP, we can pull from an export on a schedule instead of a manual upload. Images are the usual bottleneck: manufacturer images need permission to reuse, and we can process them to a consistent size and background.`,
       ],
     },
@@ -201,7 +201,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Choose the lightest stack that handles your catalogue size and update frequency. For most traders that is a statically generated catalogue built from a product database, with a small server component for enquiries and quotations.`,
         `A static catalogue (built with a framework such as Astro or Next.js from your product data) loads very fast, is cheap to host and hard to break. It rebuilds whenever you re-import the sheet. A CMS such as WordPress with a product plugin suits teams who want to edit individual products in a dashboard daily, but it slows down noticeably at tens of thousands of SKUs unless carefully tuned. A custom web app with a proper database is right when you need logins, customer-specific prices, stock sync and quotation records.`,
-        `We often combine them: static catalogue pages for speed and SEO, plus a small web app for the RFQ admin and dealer portal. Ankur builds the front end and admin, Santosh sets up hosting, search and Search Console, and Vedansh owns the data pipeline from your sheet or Tally export.`,
+        `We often combine them: static catalogue pages for speed and SEO, plus a small web app for the RFQ admin and dealer portal. One of us builds the front end and admin, another of us sets up hosting, search and Search Console, and the third of us owns the data pipeline from your sheet or Tally export.`,
       ],
       subs: [
         { heading: "Static catalogue", text: "Fastest and cheapest to run; best when data changes weekly or less and there are no logins." },

@@ -167,7 +167,7 @@ const saharanpur: CityContent = {
       paragraphs: [
         "We do not have an office in Saharanpur, and we will not invent an address to look local. We are three engineers working remotely for clients across India. That keeps our prices lower, and you deal directly with the people building your website.",
         "We begin with a call or WhatsApp conversation, then send a written page plan, timeline and itemised quote. Within the first week or two, you get a live preview link to check on your own phone. For wood craft catalogues, we send a simple photo guide so you or your staff can shoot products consistently on a phone, which usually works better than waiting for a professional shoot. Feedback goes on WhatsApp, and small changes are often live the same day. We reply every day of the week, in IST.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can <a href=\"/contact/\">contact us here</a> and speak to whichever of us is working on your project.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can <a href=\"/contact/\">contact us here</a> and speak to whichever of us is working on your project.",
       ],
     },
     {

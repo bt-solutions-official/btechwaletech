@@ -69,7 +69,7 @@ const nanjangud: CityContent = {
       paragraphs: [
         "Nanjangud has two lives that rarely overlap. Around the Srikanteshwara temple and the ratha beedi, the town is a pilgrim centre known as Dakshina Kashi, with lodges, choultries, puja stores and eateries. On the industrial side, the KIADB estate hosts large plants in food, pharmaceuticals and electronics, and the service firms that support them. Between these sit farms growing paddy, sugarcane and the famous rasabale banana.",
         "Enquiries for <strong>IT services in Nanjangud</strong> come from all three. A fabrication shop wants a site a Nestlé or AT&S purchase engineer will take seriously. A lodge near the temple wants families from Bengaluru to book directly. A kalyana mantapa wants to show available dates. A farmer group wants buyers for GI-tagged bananas.",
-        "We handle these as a remote team of three. Ankur Kumar does full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. We have no office in Nanjangud and say so plainly. Work happens on WhatsApp and calls, with written plans and preview links you open on your phone.",
+        "We handle these as a remote team of three. One of us does full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. We have no office in Nanjangud and say so plainly. Work happens on WhatsApp and calls, with written plans and preview links you open on your phone.",
       ],
     },
     {

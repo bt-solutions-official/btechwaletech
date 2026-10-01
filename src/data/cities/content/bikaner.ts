@@ -176,7 +176,7 @@ const bikaner: CityContent = {
       paragraphs: [
         "We have no office in Bikaner and no local representative. We are three engineers working remotely for businesses across India, and we would rather say that plainly than put a rented address on a page. The benefit to you is lower cost and direct contact with the people who write your code.",
         "It works like this: a call or WhatsApp chat about your business, then a page plan, timeline and itemised quote within roughly two working days. After you approve in writing, you get a live preview link, usually within the first week or two, which you can check on your phone and share with family partners. Changes are requested on WhatsApp, and small edits often go live the same day. We work on IST and answer seven days a week.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science workflows.",
+        "One of us builds the websites and applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science workflows.",
       ],
     },
     {

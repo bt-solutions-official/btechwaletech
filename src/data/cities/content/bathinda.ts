@@ -168,7 +168,7 @@ const bathinda: CityContent = {
       paragraphs: [
         "We have no office in Bathinda, and we say so plainly. We are three engineers working remotely for clients across India. That keeps rent out of our pricing and means you talk to the people doing the work, not a sales executive relaying messages.",
         "A project begins with a call or a WhatsApp chat about your business. You then receive a written page plan, a timeline and an itemised quote. Within one or two weeks there is a live preview link you can open on your own phone and share with your partners. Feedback comes on WhatsApp and small changes are usually made the same day. We answer seven days a week on Indian time, which suits shopkeepers and doctors who only find time on Sunday.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and takes care of data science and automation. You always know who is responsible for what and can message any of us directly.",
+        "One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and takes care of data science and automation. You always know who is responsible for what and can message any of us directly.",
       ],
     },
     {

@@ -35,7 +35,7 @@ const content: FreelanceContent = {
   facts: [
     ["Monthly SEO from", `${P.seo} · ${P.seoUsd}`],
     ["Location-page website", `From ${P.seoSite}, 3–5 weeks`],
-    ["Technical SEO lead", "Santosh Sharma"],
+    ["Technical SEO lead", "Another of us"],
     ["Profile ownership", "Always your Google account"],
     ["Reporting", "Monthly, from Search Console and profile insights"],
     ["Replies", "WhatsApp, 7 days a week, IST"],
@@ -85,7 +85,7 @@ const content: FreelanceContent = {
     rows: [
       ["Business Profile basics", "Possible with patience", "Handled", "Handled, in your account"],
       ["Location pages on the website", "Hard without a developer", "Often a separate web team", "Same three people build and optimise them"],
-      ["Schema and technical fixes", "Rarely done", "Handled by specialists", "Handled by Santosh directly"],
+      ["Schema and technical fixes", "Rarely done", "Handled by specialists", "Handled by another of us directly"],
       ["Review approach", "Ad hoc", "Varies; check it is policy-safe", "Policy-safe requests only, no incentives"],
       ["Reporting", "None", "Detailed dashboards", "Monthly plain-language report"],
       ["Who you talk to", "Yourself", "An account manager", "The person doing the work, on WhatsApp"],

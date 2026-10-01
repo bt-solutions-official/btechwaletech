@@ -36,7 +36,7 @@ const content: FreelanceContent = {
     ["AI automation from", P.ai],
     ["Maintenance from", `${P.care} after 2 free months`],
     ["Hosting", "Your cloud account, EU region such as Frankfurt"],
-    ["Team", "Ankur Kumar, Santosh Sharma, Vedansh Shrivastava"],
+    ["Team", "One of us, another of us, the third of us"],
   ],
   stats: [
     { value: "3", label: "Developers covering build, cloud and project management" },
@@ -242,7 +242,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A remote team is one of the main levers on software development cost in Germany, and it works through short daily written updates, a weekly demo in your morning and shared tools you control. India is 3.5 hours ahead of Germany in summer and 4.5 hours in winter, so a stand-up at 10:00 in Stuttgart falls in our afternoon, with several shared hours afterwards.`,
         `The first two weeks: a kickoff call to go through your process and systems, followed by written user stories and a data model you review. We ask for test access to the systems we must integrate, set up a repository and project board under your organisation, and deploy a first skeleton to your cloud account. By day ten you can log into a test version, even if it only shows the structure.`,
-        `Vedansh Shrivastava manages scope and timeline, Ankur Kumar leads the full-stack build, and Santosh Sharma handles cloud, data and AI parts. Communication and contracts are in English. Invoices come from India in USD or EUR by Wise or wire. We do not travel for site visits and have no German office. Data protection terms for transfers to India are covered on our <a href='/germany/offshore-software-development/'>offshore development</a> page.`,
+        `The third of us manages scope and timeline, one of us leads the full-stack build, and another of us handles cloud, data and AI parts. Communication and contracts are in English. Invoices come from India in USD or EUR by Wise or wire. We do not travel for site visits and have no German office. Data protection terms for transfers to India are covered on our <a href='/germany/offshore-software-development/'>offshore development</a> page.`,
       ],
     },
     {

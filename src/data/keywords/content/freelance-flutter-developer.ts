@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Flutter is Google's open-source toolkit for building apps from a single codebase. A freelance Flutter developer writes the screens and logic in Dart, and Flutter compiles that code into a real Android app and a real iOS app. The same project can also produce a web build and desktop builds, although most business clients only need the two phone platforms.`,
         `What makes Flutter different is who draws the interface. Instead of asking Android or iOS to render buttons and lists, Flutter paints every pixel with its own engine. That is why a Flutter app looks the same on a Samsung, a Redmi and an iPhone, and why custom designs are no harder to build than standard ones.`,
-        `The job covers more than screens. A working Flutter developer also sets up state management, connects the app to a backend, handles permissions for camera and location, configures push notifications, prepares signed release builds and walks the app through store review. At BtechWaleTech, Ankur leads the app and API work, Santosh handles cloud hosting and data, and Vedansh keeps the plan and releases on schedule.`,
+        `The job covers more than screens. A working Flutter developer also sets up state management, connects the app to a backend, handles permissions for camera and location, configures push notifications, prepares signed release builds and walks the app through store review. At BtechWaleTech, one of us leads the app and API work, another of us handles cloud hosting and data, and the third of us keeps the plan and releases on schedule.`,
       ],
     },
     {
@@ -190,7 +190,7 @@ const content: FreelanceContent = {
         { heading: "Supabase", text: "PostgreSQL underneath with auth and storage on top. Easier reporting and SQL, and the data is simpler to move later. Good middle ground." },
         { heading: "Your own API (Node.js or Python with PostgreSQL)", text: `Most control and cleanest ownership, hosted in your cloud account. Right when business rules are complex or an admin portal from ${P.software} will share the data.` },
       ],
-      after: [`Whichever we choose, the account is created in your name. Santosh sets up hosting on AWS or a similar cloud with backups and alerts; more on that side is on <a href='/freelance-aws-developer/'>freelance AWS developer</a>.`],
+      after: [`Whichever we choose, the account is created in your name. Another of us sets up hosting on AWS or a similar cloud with backups and alerts; more on that side is on <a href='/freelance-aws-developer/'>freelance AWS developer</a>.`],
     },
     {
       id: "native-features",

@@ -174,7 +174,7 @@ const karur: CityContent = {
       paragraphs: [
         "In Karur, business already runs on WhatsApp. Retailers ask for today's rates, buyers ask for sample status, operators ask when their coach will be ready, and families ask whether a hall is free. Much of the day goes into answering the same questions and forwarding the same PDFs.",
         "WhatsApp automation handles the repetitive part. It can send catalogues and price lists, answer questions about MOQ, sizes or timings in Tamil or English, collect the details of each new enquiry into a Google Sheet, remind customers of pending payments and notify your staff when a lead looks serious. AI agents can read incoming emails or messages and draft replies for your approval, which helps export desks that work across time zones.",
-        "Santosh Sharma designs the AI parts so that pricing decisions, discounts and complaints stay with you. Projects start from ₹40,000 and usually take two to four weeks. If your enquiry volume is small, we will suggest a lighter setup rather than an expensive one you do not need.",
+        "Another of us designs the AI parts so that pricing decisions, discounts and complaints stay with you. Projects start from ₹40,000 and usually take two to four weeks. If your enquiry volume is small, we will suggest a lighter setup rather than an expensive one you do not need.",
       ],
     },
     {
@@ -183,7 +183,7 @@ const karur: CityContent = {
       paragraphs: [
         "We do not have an office in Karur and do not pretend to. BtechWaleTech is three engineers working remotely for clients across India, and you talk directly to the people doing the work instead of a salesperson. Not paying for a showroom is part of why our starting prices are lower than many agencies.",
         "Work starts with a phone call or WhatsApp chat about your business. Within about two working days you receive a written plan and itemised quote. After approval, we share a private preview link that you can open on your phone, show your partners and comment on. Small changes are often done the same day, and we reply seven days a week in IST.",
-        "Ankur Kumar handles full-stack development of websites, apps and web applications. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds data science and automation workflows. Start with our <a href=\"/services/web-development/\">web development service</a> or simply <a href=\"/contact/\">send us a message</a>.",
+        "One of us handles full-stack development of websites, apps and web applications. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds data science and automation workflows. Start with our <a href=\"/services/web-development/\">web development service</a> or simply <a href=\"/contact/\">send us a message</a>.",
       ],
     },
     {

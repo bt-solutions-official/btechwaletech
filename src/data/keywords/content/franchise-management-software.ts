@@ -164,7 +164,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The dashboard should answer the founder's daily questions in under a minute: which outlets sold more or less than usual, how today compares with the same day last week, which items are growing, and which outlets are late on royalty, indents or audits.`,
         `We build dashboards with filters for region, format, master franchisee and opening date, because comparing a two-month-old outlet with a five-year-old one tells you little. Useful measures include average bill value, bills per day, sales per square foot for formats where that matters, delivery versus dine-in share, and royalty collected against due.`,
-        `Outlet owners see their own numbers and, if you choose, anonymised comparisons with similar outlets. That turns the dashboard from a monitoring tool into a coaching tool. Owners who can see where they rank tend to ask for help earlier. Santosh handles the data model and dashboards; if you already use a BI tool, the same data can feed it instead. See our work as a <a href='/dashboard-developer/'>dashboard developer</a>.`,
+        `Outlet owners see their own numbers and, if you choose, anonymised comparisons with similar outlets. That turns the dashboard from a monitoring tool into a coaching tool. Owners who can see where they rank tend to ask for help earlier. Another of us handles the data model and dashboards; if you already use a BI tool, the same data can feed it instead. See our work as a <a href='/dashboard-developer/'>dashboard developer</a>.`,
       ],
     },
     {
@@ -224,7 +224,7 @@ const content: FreelanceContent = {
       heading: "How we build franchise management software in phases",
       paragraphs: [
         `We work in phases of 6–12 weeks each, starting with the module that loses you the most money or time. Each phase goes live with a few pilot outlets before rolling out to the network.`,
-        `Phase one begins with a discovery week. Vedansh maps how royalty, indents, audits and onboarding work today, collects your agreement templates, audit sheets and price lists, and turns them into a written scope. Ankur builds the portal and apps; Santosh sets up the cloud account, database, integrations and dashboards. You see working screens on a staging link within the first few weeks, not a slide deck.`,
+        `Phase one begins with a discovery week. The third of us maps how royalty, indents, audits and onboarding work today, collects your agreement templates, audit sheets and price lists, and turns them into a written scope. One of us builds the portal and apps; another of us sets up the cloud account, database, integrations and dashboards. You see working screens on a staging link within the first few weeks, not a slide deck.`,
         `The pilot is where franchise software succeeds or fails. We pick three to five outlets with owners willing to give honest feedback, watch how they use indents and audits, and fix friction before the rest of the network is asked to switch. Training for outlet owners is short and practical: videos in English or Hindi, plus a WhatsApp helpline for the first weeks.`,
       ],
       list: [

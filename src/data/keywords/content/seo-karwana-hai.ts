@@ -302,7 +302,7 @@ const content: FreelanceContent = {
         `Chhote business ke liye aksar ek chhoti freelance team sabse sahi balance deti hai: agency se kam overhead, akele freelancer se zyada backup. Par har model ki apni jagah hai.`,
         `In-house SEO executive tab samajh mein aata hai jab aapke paas roz ka content ka kaam ho, jaise news site ya bada ecommerce store. Nuksaan: ek insaan se technical, content aur local teeno ka expert hona mushkil hai, aur salary har mahine fixed hai.`,
         `Badi agency tab theek hai jab aapko SEO ke saath ads, social media aur PR ek hi jagah chahiye aur budget bada hai. Akela freelancer sasta ho sakta hai, par bimar pade ya naukri le le toh kaam ruk jaata hai.`,
-        `BtechWaleTech teen freelance developers ka group hai: Santosh Sharma technical SEO, AI aur data sambhalte hain, Ankur Kumar full-stack development, aur Vedansh Shrivastava project aur automation. Iska fayda yeh hai ki SEO mein jo technical ya website ka kaam nikle, woh wahi team kar deti hai. Hum ads chalane, influencer marketing ya on-site shoot jaisa kaam nahi karte.`,
+        `BtechWaleTech teen freelance developers ka group hai: another of us technical SEO, AI aur data sambhalte hain, one of us full-stack development, aur the third of us project aur automation. Iska fayda yeh hai ki SEO mein jo technical ya website ka kaam nikle, woh wahi team kar deti hai. Hum ads chalane, influencer marketing ya on-site shoot jaisa kaam nahi karte.`,
       ],
       after: [
         `Poori tulna <a href='/seo-agency-vs-freelancer/'>SEO agency vs freelancer</a> par hai. Individual expert chahiye toh <a href='/freelance-seo-expert/'>freelance SEO expert</a> page dekhiye.`,

@@ -178,7 +178,7 @@ const chittoor: CityContent = {
       heading: "How a remote team works with Chittoor clients",
       paragraphs: [
         "We do not have an office in Chittoor, and we will not print a borrowed address to look local. We are three engineers working remotely for clients across India, which keeps costs down and means you speak to the person writing your code.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava runs project management along with data science and automation. The process begins with a WhatsApp chat or call, followed by a page plan and itemised quote. You then get a preview link to open on your own phone, and feedback flows through WhatsApp.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us runs project management along with data science and automation. The process begins with a WhatsApp chat or call, followed by a page plan and itemised quote. You then get a preview link to open on your own phone, and feedback flows through WhatsApp.",
         "We reply seven days a week on IST. Small edits usually go live the same day. If you want to start, <a href=\"/contact/\">send us a message</a> with a line about your business.",
       ],
     },

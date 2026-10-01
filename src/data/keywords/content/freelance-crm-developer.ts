@@ -186,7 +186,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Choose boring, well-supported technology, because a CRM will be edited for years and possibly by other developers. The exact stack matters less than whether it is common, documented and in your repository.`,
         `Our usual stack is a web app with a React-based front end, a Node.js or Python (Django or FastAPI) back end, and a PostgreSQL database, hosted on AWS or a VPS in your name. For businesses already running Laravel or PHP systems, extending that codebase can be more practical than adding another language.`,
-        `Security basics are not optional in a CRM, which holds your customers’ names and numbers: role-based permissions, secure login with optional two-factor authentication, an audit log of who changed what, encrypted connections, daily database backups and restricted admin access. Santosh handles hosting and backups on AWS; Ankur leads the application build.`,
+        `Security basics are not optional in a CRM, which holds your customers’ names and numbers: role-based permissions, secure login with optional two-factor authentication, an audit log of who changed what, encrypted connections, daily database backups and restricted admin access. Another of us handles hosting and backups on AWS; one of us leads the application build.`,
         `If you are extending an existing SaaS CRM instead, the work is mostly APIs and webhooks. Our <a href='/freelance-api-developer/'>API developer</a> page covers those integrations.`,
       ],
     },

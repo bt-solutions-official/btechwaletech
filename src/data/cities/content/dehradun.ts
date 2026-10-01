@@ -168,7 +168,7 @@ const dehradun: CityContent = {
       paragraphs: [
         "We have no office in Dehradun, and we will not borrow one to look local. We are three engineers working remotely for clients across India. Without rent or sales staff, our prices stay lower, and the person you talk to is building your site.",
         "Work starts with a call or WhatsApp chat about your organisation, audiences and deadlines, such as the start of admissions or the tourist season. Within about two working days you receive a page plan, timeline and itemised quote. After approval, a private preview link arrives early in the build so you can check the real site on your phone. Changes are discussed on WhatsApp and small ones often go live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data engineering. Vedansh Shrivastava manages projects and works on data science and automation. Any of us can be contacted directly.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data engineering. The third of us manages projects and works on data science and automation. Any of us can be contacted directly.",
       ],
     },
     {

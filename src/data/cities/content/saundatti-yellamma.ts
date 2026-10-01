@@ -69,7 +69,7 @@ const saundattiYellamma: CityContent = {
       paragraphs: [
         "Most Saundatti businesses need three things from an IT partner: a clear website in Kannada and English, a correct Google Maps listing, and a quicker way to handle the calls and WhatsApp messages that pile up in the jatre months. Apps and custom software come later, and only for firms with a steady base of repeat users.",
         "The town is small on paper, 41,215 people at the 2011 census, but two large flows of people shape its trade. One is the stream of devotees climbing to the Renuka Yellamma temple on Yellammana Gudda, a few kilometres outside town. The other is the farm economy of a big taluk of more than three lakh rural residents, where cotton, maize, wheat and sugarcane decide how much money reaches the market after each harvest.",
-        "When owners here ask about <strong>IT services in Saundatti</strong>, the request is usually concrete. A lodge wants bookings from devotees before they leave home. A hospital wants patients from Munavalli and Yaragatti to know which doctor sits on which day. A fertiliser dealer is tired of copying credit entries into three notebooks. We handle all of it as a remote team of three: Ankur Kumar writes the websites and web apps, Santosh Sharma takes AI, machine learning, AWS and data work, and Vedansh Shrivastava plans the project and builds the automation.",
+        "When owners here ask about <strong>IT services in Saundatti</strong>, the request is usually concrete. A lodge wants bookings from devotees before they leave home. A hospital wants patients from Munavalli and Yaragatti to know which doctor sits on which day. A fertiliser dealer is tired of copying credit entries into three notebooks. We handle all of it as a remote team of three: one of us writes the websites and web apps, another of us takes AI, machine learning, AWS and data work, and the third of us plans the project and builds the automation.",
       ],
     },
     {
@@ -176,7 +176,7 @@ const saundattiYellamma: CityContent = {
       paragraphs: [
         "We are three engineers with no office in Saundatti or anywhere else, so the process has to be clear enough to replace a meeting across a table. It starts with a call about your trade, your customers and the season that matters most to you. Within about two working days you receive a written note listing the pages or app screens, the timeline and the cost of every item.",
         "Work begins only when you approve that note, and nothing is billed before then. While we build, you get preview links that open on any phone, so a partner at the lodge or a son studying in Dharwad can check them too. Any Kannada, Marathi or Telugu wording comes to you for a read before launch, since a mistake on a rate card or a temple timing costs more than it looks.",
-        "If a date slips, we tell you the same day, with the new date and the reason. Payments follow milestones you can see working. And because Ankur, Santosh and Vedansh each own their part of the job, you always know who is writing the code, who is setting up the AI or cloud side, and who is keeping the schedule honest.",
+        "If a date slips, we tell you the same day, with the new date and the reason. Payments follow milestones you can see working. And because the BtechWaleTech team each own their part of the job, you always know who is writing the code, who is setting up the AI or cloud side, and who is keeping the schedule honest.",
       ],
     },
     {

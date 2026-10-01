@@ -159,7 +159,7 @@ const thane: CityContent = {
       paragraphs: [
         "For a Thane clinic, class or home-service business, WhatsApp can mean a hundred messages a day: “Is the doctor in today?”, “What are the batch timings?”, “Can someone come for AC service tomorrow?”. Answering them by hand pulls staff away from the patients, students and customers already in front of them, and slow replies send people to the competitor down the road.",
         "We link your WhatsApp Business number, website forms and a Google Sheet or CRM so every enquiry is captured with its source and status. An AI assistant answers routine questions in English, Marathi or Hindi using information you approve, books or requests appointments, sends menus, brochures and fee structures, and hands the conversation to a person when it needs judgement. Reminders for appointments, fees and renewals go out automatically.",
-        "Projects start at ₹40,000. Vedansh maps your current process first, and we automate only the steps that are repetitive and low-risk. Payments, medical questions and complaints stay with people. If a proposed automation would not save real time, we will tell you so before you spend anything.",
+        "Projects start at ₹40,000. The third of us maps your current process first, and we automate only the steps that are repetitive and low-risk. Payments, medical questions and complaints stay with people. If a proposed automation would not save real time, we will tell you so before you spend anything.",
       ],
     },
     {
@@ -168,7 +168,7 @@ const thane: CityContent = {
       paragraphs: [
         "We do not have an office in Thane, and we will not list a borrowed address. We are three engineers who work remotely with clients across India. That keeps rent and sales staff out of your price, and it means you speak directly with the people building your site.",
         "Many Thane owners are used to working this way already, since they deal with Mumbai suppliers and clients over calls every day. We start with a call or WhatsApp chat, then send a written page plan, timeline and itemised quote. Within a week or two you get a live preview link to check on your phone, including on the train home. Feedback goes on WhatsApp and small edits usually go live the same day. We work on IST and reply seven days a week.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automations and data science work. Each of us is reachable directly.",
+        "One of us handles full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automations and data science work. Each of us is reachable directly.",
       ],
     },
     {

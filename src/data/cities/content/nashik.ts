@@ -160,7 +160,7 @@ const nashik: CityContent = {
       paragraphs: [
         "We don't have an office in Nashik and won't claim one. We are three engineers working remotely for businesses across India. You speak directly to the people doing the work, and there is no office rent or sales commission built into your quote.",
         "After a first conversation by phone or WhatsApp, we send a written page plan, timeline and itemised quote. Once you approve, a live preview link reaches you within the first week or two, so you can review a working site on your own phone and share it with partners or your plant manager. Feedback can be typed or sent as voice notes, and most small changes go live the same day. We reply every day of the week on Indian time.",
-        "Ankur Kumar handles full-stack development, from capability pages to supplier portals. Santosh Sharma covers AI, machine learning, AWS hosting and data work. Vedansh Shrivastava manages projects and builds the data science and automation pieces. You can contact any of us directly.",
+        "One of us handles full-stack development, from capability pages to supplier portals. Another of us covers AI, machine learning, AWS hosting and data work. The third of us manages projects and builds the data science and automation pieces. You can contact any of us directly.",
       ],
     },
     {

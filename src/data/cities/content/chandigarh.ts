@@ -169,7 +169,7 @@ const chandigarh: CityContent = {
       paragraphs: [
         "We do not have an office in Chandigarh, Mohali or Panchkula, and we will not claim one. We are three engineers who work remotely for clients across India. That means no rent and no sales staff folded into your quote, and it means the person you talk to is the person writing your code.",
         "Projects begin with a call or WhatsApp chat. We then send a written page plan, a timeline and an itemised quote. Within the first week or two you receive a live preview link to open on your phone. Changes are requested on WhatsApp and small ones usually go live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack development, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava manages projects alongside data science and automation. You can <a href=\"/contact/\">reach any of us</a> directly.",
+        "One of us leads full-stack development, another of us handles AI, machine learning, AWS and data work, and the third of us manages projects alongside data science and automation. You can <a href=\"/contact/\">reach any of us</a> directly.",
       ],
     },
     {

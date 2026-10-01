@@ -69,7 +69,7 @@ const lunglei: CityContent = {
       paragraphs: [
         "Lunglei stretches along a ridge above the valleys of southern Mizoram. It was the headquarters of the South Lushai Hills in the 1890s, and before Partition its links to Chittagong made it an important trading and education town. Today it is the second-largest town in the state and the place people from across the south come to study, shop, see a doctor or deal with government offices.",
         "That shapes what <strong>IT services in Lunglei</strong> should look like. A college needs students from Hnahthial, Tlabung and the villages to find courses and admission dates. A hospital needs its departments and OPD timings online. A shop in Bazar Veng or Chanmari wants customers to know what arrived this week. A homestay wants visitors heading for Khawnglung or Thorangtlang to book ahead.",
-        "We are three engineers working remotely. Ankur Kumar does full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Lunglei or anywhere in Mizoram, and we say so openly. Work runs on WhatsApp, calls and screen shares, with every plan and cost in writing.",
+        "We are three engineers working remotely. One of us does full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Lunglei or anywhere in Mizoram, and we say so openly. Work runs on WhatsApp, calls and screen shares, with every plan and cost in writing.",
       ],
     },
     {

@@ -161,7 +161,7 @@ const silchar: CityContent = {
       paragraphs: [
         "We do not have an office in Silchar, and we will not invent one. We are three engineers working remotely for clients across India. With no rent or sales staff to pay for, our starting prices stay low, and you speak directly with the person building your site.",
         "The work happens over phone calls, WhatsApp and screen sharing. We start with a conversation about your customers, then send a page plan, timeline and itemised quote. After approval, you get a live preview link to check on your own phone and share with family or partners. Changes are requested on WhatsApp, and small ones are usually done the same day. We reply seven days a week, in Indian time.",
-        "Ankur Kumar builds websites and applications. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and leads automation and data science. You can <a href=\"/contact/\">contact us</a> whenever it suits you.",
+        "One of us builds websites and applications. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and leads automation and data science. You can <a href=\"/contact/\">contact us</a> whenever it suits you.",
       ],
     },
     {

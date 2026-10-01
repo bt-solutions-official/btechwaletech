@@ -168,7 +168,7 @@ const raayachuru: CityContent = {
       paragraphs: [
         "We do not have an office in Raichur and will not pretend otherwise. We are three engineers working remotely for clients across India. Not paying for an office or a sales team is part of why our starting prices are what they are, and it means you talk to the people who actually write your website.",
         "Work starts with a WhatsApp conversation or a call about your business, customers and goals. We send a written page plan, timeline and quote. Within a week or two you get a preview link to open on your own phone and share with partners or family members who have a say. Feedback can be typed, sent as screenshots or recorded as voice notes in the language you prefer, and small changes are often live the same day.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and covers data science and automation. We work on Indian time and reply seven days a week.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and covers data science and automation. We work on Indian time and reply seven days a week.",
       ],
     },
     {

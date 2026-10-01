@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A website migration freelancer changes where or how your site lives without breaking what already works. “Where” means hosting or domain; “how” means platform, framework or URL structure. The visible part is the new site. The part that decides success is invisible: redirects, DNS records, email routing, form endpoints, analytics and the signals Google has built up about your pages over years.`,
         `Most migration damage is not dramatic. A site stays online but loses a third of its search traffic because old URLs return 404 errors. Emails stop arriving because MX records were not copied. A contact form sends to an address on the old server. Nobody notices for weeks. A good website migration freelancer is paid to notice all of this before it happens.`,
-        `At BtechWaleTech, Santosh Sharma leads the SEO and hosting side, including AWS setups and Search Console. Ankur Kumar handles rebuilds and data exports, and Vedansh Shrivastava plans the switch window and runs the checklist so each step is signed off.`,
+        `At BtechWaleTech, another of us leads the SEO and hosting side, including AWS setups and Search Console. One of us handles rebuilds and data exports, and the third of us plans the switch window and runs the checklist so each step is signed off.`,
       ],
       list: [
         "Inventory: every URL, DNS record, integration and account",

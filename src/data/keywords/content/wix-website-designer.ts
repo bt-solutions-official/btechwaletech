@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A Wix website designer turns your business into a clear, well-structured site inside the Wix platform and configures everything behind it. You get the look, but also the settings, apps and rules that make the site work for customers and for Google.`,
         `Owners often assume the job is picking a template and swapping photos. That is maybe a fifth of it. The rest is deciding which pages exist and why, writing headings people actually search for, making each section behave on a 6-inch phone, wiring the contact form to the right inbox, setting up Wix Stores or Wix Bookings, and filling in the SEO fields that Wix leaves blank until someone opens them.`,
-        `At BtechWaleTech the work is split by strength. Ankur handles layout and any custom code, Santosh covers technical SEO, Search Console and analytics, and Vedansh runs the plan so you know what is done and what is waiting on you. You talk to all three on one WhatsApp group.`,
+        `At BtechWaleTech the work is split by strength. One of us handles layout and any custom code, another of us covers technical SEO, Search Console and analytics, and the third of us runs the plan so you know what is done and what is waiting on you. You talk to all three on one WhatsApp group.`,
       ],
       list: [
         "Page plan: which pages you need, what each one should make a visitor do",

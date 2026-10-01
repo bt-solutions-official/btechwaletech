@@ -150,7 +150,7 @@ const pollachi: CityContent = {
       paragraphs: [
         "We do not have an office in Pollachi or in Coimbatore, and we won't list a borrowed address to look local. We are three engineers who work remotely for clients across India. The practical effect is simple: your quote has no rent or sales commission inside it, and the person you message is the person writing the code.",
         "Projects usually begin with a phone call or WhatsApp chat about your business. We then send a written page plan, a timeline and an itemised quote. Within the first week or two you get a live preview link that you can open on your own phone at the yard or the shop. Feedback goes on WhatsApp, voice notes included, and small changes are often live the same day. We work on Indian time and reply seven days a week, which helps when the only free hour a trader has is Sunday afternoon.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data work. Vedansh Shrivastava runs project management and handles data science and automation. If you want to <a href=\"/contact/\">talk through a project</a>, you can reach any of us directly.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data work. The third of us runs project management and handles data science and automation. If you want to <a href=\"/contact/\">talk through a project</a>, you can reach any of us directly.",
       ],
     },
     {

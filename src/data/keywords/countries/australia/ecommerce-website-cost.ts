@@ -233,7 +233,7 @@ const content: FreelanceContent = {
       heading: "Paying for and running a store build with a team in India",
       paragraphs: [
         `Our process from Australia is built around your afternoon. We are four and a half hours behind the east coast on standard time, so a mid-afternoon call in Sydney is our morning, and changes you ask for are usually visible on the staging store the next time you check.`,
-        `You create the platform account, domain and payment provider in your business name and invite us as staff or collaborators. Ankur builds the theme and integrations, Santosh sets up analytics, Search Console and speed checks, and Vedansh keeps the milestone list and test orders on track.`,
+        `You create the platform account, domain and payment provider in your business name and invite us as staff or collaborators. One of us builds the theme and integrations, another of us sets up analytics, Search Console and speed checks, and the third of us keeps the milestone list and test orders on track.`,
         `We quote in USD. You pay against milestones by Wise, bank wire or PayPal, and invoices come from India; your accountant advises on how to record them. The terms that apply once work starts are in your written quote and on our <a href='/terms/'>terms page</a>.`,
       ],
       subs: [

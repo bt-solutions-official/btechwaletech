@@ -261,7 +261,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The first two weeks turn your idea into an approved scope, a signed quote and a clickable prototype. Here is what that looks like from a Canadian business’s side.`,
         `You message us on WhatsApp or through the contact page with a short description and any screenshots of apps you like. We reply with questions and suggest a video call in your morning: Eastern mornings are our evenings in India, and early Pacific mornings work too. Within about two working days of that call you receive an itemised quote in USD. Nothing is billed until you approve it in writing, and payments go from Canada by Wise, bank wire or PayPal against invoices issued from India.`,
-        `Once you approve, you create the Google Play and Apple developer accounts in your business name and invite us, and you create or share the cloud project in the Canadian region we agreed. We set up the repository under your GitHub or GitLab organisation. Vedansh runs the plan, Ankur leads the Flutter build, and Santosh handles the backend, cloud and any AI features.`,
+        `Once you approve, you create the Google Play and Apple developer accounts in your business name and invite us, and you create or share the cloud project in the Canadian region we agreed. We set up the repository under your GitHub or GitLab organisation. The third of us runs the plan, one of us leads the Flutter build, and another of us handles the backend, cloud and any AI features.`,
         `By the end of week two you have a clickable prototype of the main flows in both languages, a written list of screens and features, and the first test build installed on your own phone.`,
       ],
       list: [

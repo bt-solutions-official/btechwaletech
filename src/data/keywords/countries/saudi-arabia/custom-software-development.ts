@@ -275,7 +275,7 @@ const content: FreelanceContent = {
       ],
       subs: [
         { heading: "Your first two weeks", text: "Days 1–2: screen-share sessions on your current process and a list of documents to collect. Days 3–5: scope draft and itemised quote. After approval: your repository and cloud account are set up, and by the end of week two you click through Arabic and English screen designs for the main workflow." },
-        { heading: "Who you talk to", text: "Vedansh Shrivastava runs planning and your weekly demo, Ankur Kumar leads the full-stack build, and Santosh Sharma handles cloud setup, data work and any AI or reporting components." },
+        { heading: "Who you talk to", text: "The third of us runs planning and your weekly demo, one of us leads the full-stack build, and another of us handles cloud setup, data work and any AI or reporting components." },
       ],
     },
     {

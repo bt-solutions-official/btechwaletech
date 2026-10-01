@@ -160,7 +160,7 @@ const rewa: CityContent = {
       paragraphs: [
         "We have no office in Rewa, and we will not pretend otherwise. We are three engineers working remotely for clients across India. Because there is no rent or sales team to pay for, our starting prices are lower, and you deal directly with the person building your site.",
         "Work happens over phone calls, WhatsApp and screen sharing. After a first conversation about your business, we send a page plan, timeline and itemised quote. Once you approve, you get a preview link to open on your own phone and share with partners or family. Changes are sent on WhatsApp and small ones are usually made the same day. We reply seven days a week, in Indian time.",
-        "Ankur Kumar builds websites and applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us</a> directly.",
+        "One of us builds websites and applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us</a> directly.",
       ],
     },
     {

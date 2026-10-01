@@ -143,7 +143,7 @@ const machilipatnam: CityContent = {
       paragraphs: [
         "A Bandar jewellery unit can have hundreds of resellers, many of them women who sell through their own WhatsApp groups and Instagram pages. Every day they ask for new designs, rates, stock and dispatch status, and the owner's phone becomes a flood of photos and questions.",
         "We can connect your WhatsApp Business number to a catalogue and a simple order sheet. When a reseller asks for new arrivals, the assistant sends the latest designs with codes and rates. When she orders, the codes and quantities go into a list your packing team can work from, and a dispatch message with tracking goes out automatically. The same approach works for Kalamkari units dealing with boutiques.",
-        "AI replies are limited to information you approve, in Telugu or English, and a person takes over for price negotiation, credit or complaints. Automation starts at ₹40,000. Santosh Sharma handles the AI side and will tell you plainly if a step is better left manual.",
+        "AI replies are limited to information you approve, in Telugu or English, and a person takes over for price negotiation, credit or complaints. Automation starts at ₹40,000. Another of us handles the AI side and will tell you plainly if a step is better left manual.",
       ],
     },
     {
@@ -160,7 +160,7 @@ const machilipatnam: CityContent = {
       heading: "Knowing which designs and buyers actually pay",
       paragraphs: [
         "Ask a Bandar jewellery owner which fifty designs sold most last season and the answer usually comes from memory. The same goes for which resellers pay on time, which states return the most pieces and which Kalamkari prints sit in stock for months. The data exists in bills, Tally files and WhatsApp chats, but nobody has time to read it together.",
-        "We build simple dashboards that pull from your billing exports and order sheets and show sales by design code, category, reseller and state, along with pending payments and slow stock. You see it on your phone each morning. Santosh Sharma and Vedansh Shrivastava handle this kind of data work, and they start with the questions you already ask rather than a pile of charts you will never open.",
+        "We build simple dashboards that pull from your billing exports and order sheets and show sales by design code, category, reseller and state, along with pending payments and slow stock. You see it on your phone each morning. Another of us and the third of us handle this kind of data work, and they start with the questions you already ask rather than a pile of charts you will never open.",
         "A dashboard is often added to an existing website or automation project, and we quote it separately so you can decide whether it is worth it.",
       ],
     },
@@ -168,7 +168,7 @@ const machilipatnam: CityContent = {
       id: "remote-team-machilipatnam",
       heading: "Working with us from Machilipatnam",
       paragraphs: [
-        "We do not have an office in Machilipatnam, Vijayawada or anywhere in Andhra Pradesh, and we will not claim one. We are three engineers who work remotely with clients across India. Ankur Kumar builds the full-stack side of each project, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects and works on data science and automation.",
+        "We do not have an office in Machilipatnam, Vijayawada or anywhere in Andhra Pradesh, and we will not claim one. We are three engineers who work remotely with clients across India. One of us builds the full-stack side of each project, another of us handles AI, machine learning, AWS and data, and the third of us manages projects and works on data science and automation.",
         "We begin on WhatsApp or a phone call, send a page plan and itemised quote, and share a preview link within the first week or two that you can check on your own phone. Product photos can be sent straight from your phone, and feedback goes in one chat thread so nothing is missed. We work on IST and reply every day of the week.",
         "If you prefer to discuss details in Telugu, you can send voice notes; we reply in English or simple Hindi and confirm every decision in writing. <a href=\"/contact/\">Get in touch here</a>.",
       ],

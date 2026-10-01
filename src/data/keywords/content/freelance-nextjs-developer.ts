@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Because Next.js rewards people who understand where code runs. A general developer can make a page look right; a freelance Next.js developer decides which parts render at build time, which render per request, and which few pieces ship JavaScript to the phone. Those decisions shape speed, hosting bills and how quickly Google indexes new pages.`,
         `Next.js is a React framework maintained by Vercel. It adds routing, server rendering, image and font optimisation, metadata handling and API endpoints to React, so one codebase covers the marketing pages and the logged-in product. That breadth is the reason teams pick it, and also the reason a careless build can end up heavy: everything is possible, so everything gets added.`,
-        `Hire a specialist when search traffic matters, when you expect hundreds of pages, or when a website and a web app need to share one login, one design system and one deployment. Ankur Kumar leads our Next.js builds, Santosh Sharma handles hosting, AWS and technical SEO, and Vedansh Shrivastava keeps the plan, milestones and automation on track.`,
+        `Hire a specialist when search traffic matters, when you expect hundreds of pages, or when a website and a web app need to share one login, one design system and one deployment. One of us leads our Next.js builds, another of us handles hosting, AWS and technical SEO, and the third of us keeps the plan, milestones and automation on track.`,
       ],
       list: [
         "You want server-rendered HTML for SEO without giving up React",
@@ -159,7 +159,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Pick hosting after you know the rendering mix. A fully static export can sit on almost any static host at very low cost. Server rendering, ISR, middleware and image optimisation need a runtime, which narrows the choice.`,
         `<strong>Vercel</strong> is the path of least effort: push to GitHub, get preview URLs and global delivery. Its free Hobby tier is meant for personal, non-commercial use, so a business site normally needs a paid team plan; check current pricing on their site before deciding. <strong>Netlify</strong> and <strong>Cloudflare</strong> run Next.js through adapters and suit mostly static sites. <strong>AWS</strong> gives more control: Amplify Hosting for a managed route, or containers and EC2 when the app shares infrastructure with other services. A <strong>VPS</strong> running Next.js in standalone mode inside Docker behind Nginx is cheap and predictable, but you take on patching and monitoring.`,
-        `Santosh sets up whichever option suits your traffic and budget, always inside accounts registered to you. We write down the monthly cost you should expect and what makes it rise, such as image optimisation volume or server function time, so the bill never surprises you.`,
+        `Another of us sets up whichever option suits your traffic and budget, always inside accounts registered to you. We write down the monthly cost you should expect and what makes it rise, such as image optimisation volume or server function time, so the bill never surprises you.`,
       ],
     },
     {
@@ -232,7 +232,7 @@ const content: FreelanceContent = {
       heading: "How a Next.js project runs with our freelance team, week by week",
       paragraphs: [
         `For a typical business or SEO site, the build takes one to five weeks; for a web app, six to twelve. The rhythm is the same: plan the routes and data first, then design, then build in small releases you can see.`,
-        `Week one covers the route map, content model and rendering plan, written down so you know which pages are static and which are dynamic. Design follows, phone first. Development happens on a branch with automatic preview deployments, so every change has its own link you can open on WhatsApp and comment on. Vedansh keeps a short checklist of what is done and what is waiting on you, usually content and approvals.`,
+        `Week one covers the route map, content model and rendering plan, written down so you know which pages are static and which are dynamic. Design follows, phone first. Development happens on a branch with automatic preview deployments, so every change has its own link you can open on WhatsApp and comment on. The third of us keeps a short checklist of what is done and what is waiting on you, usually content and approvals.`,
         `Before launch we run Lighthouse, check every metadata tag, validate structured data, test forms and payment flows, and set up redirects if an old site exists. On launch day we point the domain, confirm HTTPS, submit the sitemap in Search Console and hand over access. Two months of free maintenance then covers fixes, dependency updates and small edits.`,
       ],
     },

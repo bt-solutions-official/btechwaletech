@@ -172,7 +172,7 @@ const patan: CityContent = {
       paragraphs: [
         "We have no office in Patan and do not claim one. We are three engineers who work remotely with businesses across India. With no rent or sales staff to fund, our starting prices stay well below a typical Ahmedabad agency, and you speak directly with the people writing your site.",
         "After a first call or WhatsApp chat, we send a page plan, timeline and itemised quote within about two working days. Once you approve, we build and share a private preview link you can check on your own phone and show your family or partners. We reply seven days a week on Indian time, and small changes are generally made the same day.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles data science and automation. You can <a href=\"/contact/\">contact any of us</a> directly.",
+        "One of us leads full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and handles data science and automation. You can <a href=\"/contact/\">contact any of us</a> directly.",
       ],
     },
     {

@@ -177,7 +177,7 @@ const jhansi: CityContent = {
       paragraphs: [
         "We should be clear from the start: BtechWaleTech has no office in Jhansi, Lucknow or any other city, and we will not pretend otherwise with a borrowed address. We are three engineers working remotely for clients across India. Without office rent, our prices stay lower, and you talk directly with the people who build your website.",
         "A typical project begins with a WhatsApp message or call about your business and customers. We send a written plan, timeline and itemised quote. Once you approve it, a live preview link arrives in the first week or two, which you can check on your phone and share with partners. Changes are requested on WhatsApp and small ones are often done the same day. We reply seven days a week, on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data projects. Vedansh Shrivastava manages projects and builds automation and data science workflows. You can reach any of us directly.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data projects. The third of us manages projects and builds automation and data science workflows. You can reach any of us directly.",
       ],
     },
     {

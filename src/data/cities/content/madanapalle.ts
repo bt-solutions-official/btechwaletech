@@ -186,7 +186,7 @@ const madanapalle: CityContent = {
       paragraphs: [
         "We have no office in Madanapalle, Tirupati or Bengaluru, and we will not invent one. We are three engineers working remotely for clients around India. That keeps our costs down and means you talk directly to the people building your site.",
         "We start with a call or WhatsApp chat, then send a page plan, timeline and itemised quote. You get a preview link within one to two weeks to check on your own phone, and changes are handled over WhatsApp. We reply seven days a week on Indian time. We communicate in English and Hindi; you can send Telugu content and we will place it correctly.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. <a href=\"/contact/\">Get in touch</a> whenever it suits you.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. <a href=\"/contact/\">Get in touch</a> whenever it suits you.",
       ],
     },
     {

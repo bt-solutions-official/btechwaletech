@@ -69,7 +69,7 @@ const thodupuzha: CityContent = {
       paragraphs: [
         "Thodupuzha is the first sizeable town travellers reach on the way up into Idukki, and it has long been the place where hill farmers come down to sell and to shop. Traders here buy pepper, rubber, ginger and cocoa; textile and jewellery shops serve families from across the taluk; and hospitals and colleges draw people from Muvattupuzha, Pala and the hill villages.",
         "Most requests for <strong>IT services in Thodupuzha</strong> are grounded and specific. A spice dealer wants to sell packed pepper and cardamom beyond Kerala. A hospital wants doctors' timings and departments shown correctly on Google Maps. A college wants admission enquiries collected in one place. A homestay near Malankara wants direct bookings from families in Kochi. Each of these can be done without a big budget.",
-        "We are three engineers who work remotely. Ankur Kumar builds the full-stack web and app code, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. We have no office in Thodupuzha and say so plainly. Work happens over WhatsApp, calls and screen shares, and every decision is written down.",
+        "We are three engineers who work remotely. One of us builds the full-stack web and app code, another of us handles AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. We have no office in Thodupuzha and say so plainly. Work happens over WhatsApp, calls and screen shares, and every decision is written down.",
       ],
     },
     {

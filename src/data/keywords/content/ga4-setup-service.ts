@@ -270,7 +270,7 @@ const content: FreelanceContent = {
         "Day one is access and audit. You add us as a user to your GA4 property (or we guide you to create one in your own Google account), share Tag Manager access and, if needed, website admin. We list every existing tag, duplicate snippet and broken trigger.",
         "Next comes the plan. We send the one-page measurement plan on WhatsApp and wait for your approval, because the event names chosen now will appear in your reports for years. Then we build: property settings, filters, the container, lead events, consent wiring and any cross-domain rules.",
         "Testing is where most of the time goes. Using Tag Manager preview and GA4 DebugView, we submit every form, tap every WhatsApp and call button on desktop and on a mid-range Android phone, and run test orders for stores. Only when each event appears with the right parameters do we publish the container.",
-        "Handover includes the measurement plan, a changelog, the report collection and a short screen recording walking through the lead-source report. Santosh Sharma, who handles data and technical SEO in our team, usually runs these jobs, with Ankur Kumar on any site code changes.",
+        "Handover includes the measurement plan, a changelog, the report collection and a short screen recording walking through the lead-source report. Another of us, who handles data and technical SEO in our team, usually runs these jobs, with one of us on any site code changes.",
       ],
     },
     {

@@ -169,7 +169,7 @@ const ratlam: CityContent = {
       paragraphs: [
         "We have no office in Ratlam and do not pretend to. We are three engineers working remotely for businesses across India. Without rent or a sales team, our prices stay lower, and you speak directly to the people building your site.",
         "Everything is done over calls and WhatsApp. We begin with a conversation about your business, then send a written page plan, timeline and itemised quote. Within one or two weeks you receive a live preview link to check on your phone. Changes are sent on WhatsApp, and small ones are usually done the same day. We reply seven days a week, Indian time.",
-        "Ankur Kumar builds websites and web applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">contact any of us</a> directly.",
+        "One of us builds websites and web applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">contact any of us</a> directly.",
       ],
     },
     {

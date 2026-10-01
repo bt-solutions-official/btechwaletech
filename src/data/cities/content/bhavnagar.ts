@@ -167,7 +167,7 @@ const bhavnagar: CityContent = {
       paragraphs: [
         "We have no office in Bhavnagar, and we will not use a borrowed address to seem local. We are three engineers working remotely for clients across India. That keeps our prices down, and it means the person you message is building your site, not passing notes to someone else.",
         "The process is simple. We talk on a call or WhatsApp about your products, buyers and goals. Within about two working days you receive a page plan, timeline and itemised quote. Once you approve it, you get a private preview link early in the build to check on your own phone, and small changes usually go live the same day. We answer seven days a week on Indian time, including Sundays.",
-        "Ankur Kumar does full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles data science and automation. You can reach any of us directly.",
+        "One of us does full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and handles data science and automation. You can reach any of us directly.",
       ],
     },
     {

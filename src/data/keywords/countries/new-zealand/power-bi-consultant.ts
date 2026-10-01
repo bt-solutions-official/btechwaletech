@@ -53,7 +53,7 @@ const content: FreelanceContent = {
   snapshot: {
     caption: "Power BI consulting for a NZ SME, at a glance",
     rows: [
-      { label: "Who does the work", value: "Santosh Sharma (data, AWS, modelling), Ankur Kumar (APIs and connectors), Vedansh Shrivastava (project lead, training)" },
+      { label: "Who does the work", value: "Another of us (data, AWS, modelling), one of us (APIs and connectors), the third of us (project lead, training)" },
       { label: "Common sources", value: "Xero, Shopify, WooCommerce, Excel on SharePoint, SQL databases, CSV exports" },
       { label: "Reporting calendar", value: "Financial year from 1 April, GST periods monthly, two-monthly or six-monthly" },
       { label: "Licences", value: "Usually Power BI Pro for each person who publishes or views shared reports" },

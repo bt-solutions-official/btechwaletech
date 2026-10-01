@@ -186,7 +186,7 @@ const srikakulam: CityContent = {
       paragraphs: [
         "We do not have an office in Srikakulam or anywhere else. We are three engineers working remotely for clients across India, and you speak with the people actually building your site. Not paying rent keeps our starting prices low.",
         "After a call or WhatsApp conversation, we send a written page plan, timeline and itemised quote. Within a week or two you receive a preview link to check on your phone. Changes are sent on WhatsApp, and small fixes are usually done the same day. We reply seven days a week, on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. Our <a href=\"/services/web-development/\">web development page</a> describes how a project runs.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. Our <a href=\"/services/web-development/\">web development page</a> describes how a project runs.",
         "Many Srikakulam families already manage relatives' affairs in Hyderabad, Chennai or the Gulf over video calls, so a remote project feels familiar. Telugu content is written with your help and checked by you before launch.",
       ],
     },

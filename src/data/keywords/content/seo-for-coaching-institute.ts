@@ -36,9 +36,9 @@ const content: FreelanceContent = {
   facts: [
     ["Built for", "JEE, NEET, UPSC, SSC, banking, CA, CLAT and tuition centres"],
     ["Where you can win", "Local, batch, faculty and exam-plus-city searches"],
-    ["Technical SEO and video markup", "Santosh Sharma"],
-    ["Course and batch page build", "Ankur Kumar"],
-    ["Content calendar", "Vedansh Shrivastava"],
+    ["Technical SEO and video markup", "Another of us"],
+    ["Course and batch page build", "One of us"],
+    ["Content calendar", "The third of us"],
     ["Monthly SEO", `From ${P.seo} · ${P.seoUsd} abroad`],
   ],
   stats: [

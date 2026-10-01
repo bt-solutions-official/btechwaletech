@@ -157,7 +157,7 @@ const pernampattu: CityContent = {
       id: "remote-team",
       heading: "An IT services team in Pernampattu without an office: how we work remotely",
       paragraphs: [
-        "We should be clear: we have no office in Pernambut, Vellore or anywhere else in Tamil Nadu. We are three engineers who work remotely. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation.",
+        "We should be clear: we have no office in Pernambut, Vellore or anywhere else in Tamil Nadu. We are three engineers who work remotely. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation.",
         "For a tannery owner, that means no appointments and no travel. You send photographs and a voice note on WhatsApp, we reply with questions, and within about two working days you have a written, itemised quote. Once approved, you see progress on a test link and give feedback whenever it suits you, early morning or late evening.",
         "Working this way keeps our starting prices low. It also means you deal directly with the people writing the code, not a sales executive passing messages along. We reply on WhatsApp seven days a week, on Indian time.",
       ],

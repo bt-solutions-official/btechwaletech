@@ -69,7 +69,7 @@ const sillod: CityContent = {
       paragraphs: [
         "Most Sillod enquiries begin with one of three requests: a Marathi website that looks trustworthy, a correct Google Maps pin, or a simple way to get purchase and payment records off paper. Those three cover most of what <strong>IT services in Sillod</strong> means for a taluka town whose economy runs on maize, cotton, ginger and gold.",
         "The town of about 58,000 people is the market for a taluka of more than a hundred villages. Farmers bring grain to the market yard, families come to the Sarafa lanes for wedding jewellery, and patients travel in from Ajintha, Shivna and Bhavan. Before they set out, more of them now check a phone first: is the shop open, what is today's rate, which doctor sits on Monday. A business that answers those questions online usually gets the visit.",
-        "We handle this as a remote group of three engineers. Ankur Kumar builds the websites and web apps, Santosh Sharma looks after AI, machine learning, AWS hosting and data, and Vedansh Shrivastava runs project planning, data science and automation. There is no Sillod office, and we say that plainly: the work runs on WhatsApp, phone calls and screen shares, with every plan and price given to you in writing.",
+        "We handle this as a remote group of three engineers. One of us builds the websites and web apps, another of us looks after AI, machine learning, AWS hosting and data, and the third of us runs project planning, data science and automation. There is no Sillod office, and we say that plainly: the work runs on WhatsApp, phone calls and screen shares, with every plan and price given to you in writing.",
       ],
     },
     {
@@ -177,7 +177,7 @@ const sillod: CityContent = {
         "WhatsApp automation helps a Sillod business when the same five or six questions arrive dozens of times a day. An assistant answers those, and a person handles everything else.",
         "Picture a trader fielding “aaj makka ka bhav kya hai?” fifty times after a rate change, a clinic asked for the doctor's timing at eleven at night, or a highway hotel receiving booking questions in three languages while the owner is busy at the counter. Every reply that never goes out sends that customer to someone else.",
         "With <strong>AI and WhatsApp automation in Sillod</strong>, we set up an assistant on the official WhatsApp Business platform that replies in Marathi, Hindi or English, shares the rates or timings you have entered, collects order and appointment details into a Google Sheet or your software, and passes anything unusual to you with the full chat attached. It does not guess: when it has not been given a fact, it says a person will reply shortly.",
-        "These projects start at ₹40,000 and take two to four weeks. Santosh Sharma designs the AI side and Vedansh Shrivastava maps your message flows, working from a sample of your real chats shared with permission, so the automation handles the questions you actually receive rather than imagined ones.",
+        "These projects start at ₹40,000 and take two to four weeks. Another of us designs the AI side and the third of us maps your message flows, working from a sample of your real chats shared with permission, so the automation handles the questions you actually receive rather than imagined ones.",
       ],
     },
     {
@@ -185,7 +185,7 @@ const sillod: CityContent = {
       heading: "Working with a remote IT team from Sillod: the steps, in order",
       paragraphs: [
         "You do not need to travel to Chhatrapati Sambhajinagar to work with us. Everything happens over WhatsApp and video calls, in this order:",
-        "Ankur Kumar writes the code for websites and web apps, Santosh Sharma handles AI, AWS and data work, and Vedansh Shrivastava keeps the plan, the dates and the automation on track. You always know who is working on your project and whom to ask.",
+        "One of us writes the code for websites and web apps, another of us handles AI, AWS and data work, and the third of us keeps the plan, the dates and the automation on track. You always know who is working on your project and whom to ask.",
         "We reply on WhatsApp seven days a week, on Indian time. If a date slips, you hear about it the day we know, with the reason and a new date. Payments are tied to milestones you can see working, which keeps the risk low for a family business going online for the first time. Start with a message through our <a href=\"/contact/\">contact page</a>.",
       ],
       list: [

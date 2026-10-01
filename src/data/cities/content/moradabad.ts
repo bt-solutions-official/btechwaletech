@@ -149,7 +149,7 @@ const moradabad: CityContent = {
       heading: "Knowing which buyers and designs actually make money",
       paragraphs: [
         "Export margins in metalware can disappear quickly when raw material prices rise, a shipment is delayed or a buyer pushes for a discount after samples are approved. Many owners track orders carefully but have no simple way to see the whole picture across seasons.",
-        "Our data work pulls together what you already have, including Tally exports, order sheets, costing files and shipment records, and turns it into a dashboard you can check on your phone. You can see revenue and margin by buyer, product family and material, repeat order rates, sample-to-order conversion and which designs keep selling year after year. Santosh Sharma leads this work, and he will explain every number rather than hand you a chart with no context.",
+        "Our data work pulls together what you already have, including Tally exports, order sheets, costing files and shipment records, and turns it into a dashboard you can check on your phone. You can see revenue and margin by buyer, product family and material, repeat order rates, sample-to-order conversion and which designs keep selling year after year. Another of us leads this work, and he will explain every number rather than hand you a chart with no context.",
         "The goal is better decisions, not prettier reports. One exporter might find that a long-standing buyer is barely profitable once rework is counted. Another might discover that a small line of aluminium planters is carrying the season. Either insight is worth far more than the cost of the dashboard.",
       ],
     },
@@ -159,7 +159,7 @@ const moradabad: CityContent = {
       paragraphs: [
         "We have no office in Moradabad and we will not rent a virtual address to appear local. BtechWaleTech is three engineers working remotely with clients across India, and we run projects over WhatsApp, calls and screen sharing. Exporters are usually comfortable with this, since they already work with buyers they rarely meet in person.",
         "Here is how a project runs. We begin with a conversation about your products, customers and what the website should achieve. Within about two working days you receive a written page plan, timeline and itemised quote. Once approved, you get a live preview link early, often within the first week, and you review it on your own phone. Changes are requested on WhatsApp and small ones are done the same day. We reply seven days a week on Indian time, which suits owners who only find time for the website on Sundays.",
-        "You always know who is doing what. Ankur Kumar builds the site and any backend systems. Santosh Sharma handles AI, machine learning, AWS hosting and data. Vedansh Shrivastava manages the project and designs automation and data science work. You can speak to any of us directly, and there is no account manager in between relaying messages.",
+        "You always know who is doing what. One of us builds the site and any backend systems. Another of us handles AI, machine learning, AWS hosting and data. The third of us manages the project and designs automation and data science work. You can speak to any of us directly, and there is no account manager in between relaying messages.",
       ],
     },
     {

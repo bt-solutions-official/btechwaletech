@@ -27,7 +27,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Hire SEO expert · questions, red flags, reporting",
     h1: "Hire an SEO expert who shows the work: what to ask, what to avoid and what the reports should prove",
-    lede: `When you hire an SEO expert, you are buying months of work you cannot easily see, so the hiring questions matter more than the sales pitch. BtechWaleTech is three freelance developers in India, with Santosh Sharma leading technical SEO, and monthly SEO starts from ${P.seo}. This guide gives you the interview questions, the red flags (starting with any promise of the top spot), sample report contents and a fair way to judge <a href='/services/seo-services/'>SEO services</a> from anyone, including us.`,
+    lede: `When you hire an SEO expert, you are buying months of work you cannot easily see, so the hiring questions matter more than the sales pitch. BtechWaleTech is three freelance developers in India, with another of us leading technical SEO, and monthly SEO starts from ${P.seo}. This guide gives you the interview questions, the red flags (starting with any promise of the top spot), sample report contents and a fair way to judge <a href='/services/seo-services/'>SEO services</a> from anyone, including us.`,
     pills: ["Interview questions", "Red-flag checklist", "What reports should show", "Search Console access for you", "Technical, content and local SEO", "No lock-in contracts", "No ranking promises"],
     origin: "Three freelance developers · Remote from India · SEO for businesses in India and abroad",
   },
@@ -82,7 +82,7 @@ const content: FreelanceContent = {
     note: "Each model works for some businesses. The question is who does the work, who can change the website, and who owns the results.",
     columns: ["What you should check", "Solo freelancer from a marketplace", "SEO agency", "BtechWaleTech"],
     rows: [
-      ["Who does the work", "One person, often juggling many clients", "Account manager plus junior executives", "Three freelance developers; technical SEO led by Santosh"],
+      ["Who does the work", "One person, often juggling many clients", "Account manager plus junior executives", "Three freelance developers; technical SEO led by another of us"],
       ["Can they change the website code", "Often not; sends a list of fixes", "Sometimes, via a separate dev team", "Yes; fixes are made in code, not just reported"],
       ["Starting budget", "Varies widely by seller", "Usually higher, with retainers", `Monthly SEO from ${P.seo}`],
       ["Reports", "Varies; sometimes tool screenshots only", "Branded dashboards", "Your own Search Console and Analytics, plus a work log"],
@@ -266,7 +266,7 @@ const content: FreelanceContent = {
       heading: "Why it helps when your SEO expert can also change the code",
       paragraphs: [
         `Many SEO problems live in the code: slow templates, wrong canonical tags, missing schema, JavaScript that hides content, or a sitemap that lists broken pages. If you hire an SEO expert who can only report these, they wait on someone else to fix them.`,
-        `Our team is three developers, so the person who finds a problem can usually fix it in the same week. Ankur works on the site code, Santosh leads technical SEO, data and hosting, and Vedansh keeps the monthly plan and reports on schedule. When a site is too weak to improve piece by piece, we will say so and quote a rebuild designed for search instead of patching it for months.`,
+        `Our team is three developers, so the person who finds a problem can usually fix it in the same week. One of us works on the site code, another of us leads technical SEO, data and hosting, and the third of us keeps the monthly plan and reports on schedule. When a site is too weak to improve piece by piece, we will say so and quote a rebuild designed for search instead of patching it for months.`,
         `If you already have a developer you like, that is fine too. We send clear, testable tickets with the exact change, the reason and how to check it, and we verify the fix in Search Console afterwards.`,
       ],
       after: [`Deep technical issues are covered on <a href='/technical-seo-freelancer/'>technical SEO freelancer</a>.`],

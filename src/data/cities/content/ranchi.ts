@@ -168,7 +168,7 @@ const ranchi: CityContent = {
       paragraphs: [
         "We do not have an office in Ranchi, and we will not claim one. BtechWaleTech is a remote team of three engineers who work with clients across India. This keeps our costs low, and it means the person you message is the person building your website.",
         "We start with a conversation on WhatsApp or a call to understand your business. Within about two working days you receive a written page plan, timeline and itemised quote. Once approved, you get a live preview link, usually in the first week or two, to open on your phone and share with partners. Feedback comes on WhatsApp and small changes are usually done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and handles data science and automation. You can speak to any of us, and with three of us on the team, work does not stop if one person is unavailable.",
+        "One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and handles data science and automation. You can speak to any of us, and with three of us on the team, work does not stop if one person is unavailable.",
       ],
     },
     {

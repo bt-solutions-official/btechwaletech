@@ -186,7 +186,7 @@ const katihar: CityContent = {
       heading: "No office in Katihar, and why that works for you",
       paragraphs: [
         "We have no office in Katihar and will not list one. We are three engineers working remotely for clients across India. This keeps our prices low and means you talk directly to the people building your site, not an agent passing messages along.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science solutions. Contact us through our <a href=\"/contact/\">contact page</a>; we reply on WhatsApp all seven days during Indian hours.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science solutions. Contact us through our <a href=\"/contact/\">contact page</a>; we reply on WhatsApp all seven days during Indian hours.",
         "After an initial call, you receive a page plan, timeline and itemised quote in about two working days. Once approved, a preview link arrives within a week or two to check on your phone and share with partners or family. Our <a href=\"/services/web-development/\">web development</a> page explains the technical side.",
       ],
     },

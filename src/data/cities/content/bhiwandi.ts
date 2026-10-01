@@ -158,7 +158,7 @@ const bhiwandi: CityContent = {
       paragraphs: [
         "We do not have an office in Bhiwandi, and we will not borrow an address to appear local. We are three engineers who work remotely for clients across India. For you, that means no office rent or sales commission in our prices, and direct contact with the developers.",
         "Given the traffic on the Nashik highway and around Kalyan Naka, most clients appreciate not having to arrange meetings. We start with a call or WhatsApp conversation, then send a written plan, timeline and itemised quote. Within a week or two, you get a live preview link to check on your phone. For software projects, we build in short stages and show you each working part, so your supervisors can try it before we add more. Feedback comes on WhatsApp, and we reply every day of the week in IST.",
-        "Ankur Kumar handles full-stack development, which covers most website and software work. Santosh Sharma handles AI, machine learning, AWS and data, including dashboards. Vedansh Shrivastava manages projects and works on data science and automation. You can <a href=\"/contact/\">contact us directly</a>, and you will always know who is working on what.",
+        "One of us handles full-stack development, which covers most website and software work. Another of us handles AI, machine learning, AWS and data, including dashboards. The third of us manages projects and works on data science and automation. You can <a href=\"/contact/\">contact us directly</a>, and you will always know who is working on what.",
       ],
     },
     {

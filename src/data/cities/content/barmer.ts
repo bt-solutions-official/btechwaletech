@@ -185,7 +185,7 @@ const barmer: CityContent = {
       heading: "No Barmer office: how our remote team works with you",
       paragraphs: [
         "We have no office in Barmer and will not claim one. BtechWaleTech is three engineers working remotely for businesses across India. You speak directly with the people building your site, and the money we save on rent shows in our starting prices.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science systems. Reach us through the <a href=\"/contact/\">contact page</a>; we reply on WhatsApp all seven days during Indian hours.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science systems. Reach us through the <a href=\"/contact/\">contact page</a>; we reply on WhatsApp all seven days during Indian hours.",
         "After a first call, you receive a page plan, timeline and itemised quote in about two working days. Once approved, a preview link follows within one or two weeks for you to test on your own phone, even from a site office with weak signal. Our <a href=\"/services/web-development/\">web development</a> page explains the technical side.",
       ],
     },

@@ -186,7 +186,7 @@ const lakhimpur: CityContent = {
       heading: "Working with our remote team from Lakhimpur",
       paragraphs: [
         "We do not have an office in Lakhimpur and will not pretend otherwise. We are three engineers working remotely for clients across India, and you talk directly to the people building your site rather than a sales executive.",
-        "Ankur Kumar does full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava handles project management, data science and automation. We start with a WhatsApp chat or call, send a page plan and itemised quote, then share a preview link you can open on your own phone. Feedback happens on WhatsApp, in Hindi or English.",
+        "One of us does full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us handles project management, data science and automation. We start with a WhatsApp chat or call, send a page plan and itemised quote, then share a preview link you can open on your own phone. Feedback happens on WhatsApp, in Hindi or English.",
         "We reply seven days a week on IST, and small changes usually go live the same day. To begin, <a href=\"/contact/\">send us a message</a> about your business.",
       ],
     },

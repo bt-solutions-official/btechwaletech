@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You are buying three things: skill, availability and reliability at a distance. Skill is the easiest to check. Availability and reliability are where remote hiring succeeds or fails, because you cannot glance across the room to see whether work is happening.`,
         `So the question to ask when you hire a remote developer is not only “can they build this?” but “how will I know, every few days, that it is being built, and what happens if they vanish?” A good remote arrangement answers both without you having to chase. Progress should be visible on a link you can open. Access should sit in your accounts so nothing is held hostage. And there should be a plan for illness, travel or a family emergency.`,
-        `That is why we work as three people rather than one. Ankur Kumar leads full-stack builds, Santosh Sharma covers AWS, data and technical SEO, and Vedansh Shrivastava runs project management and automation. Each project has a lead, but the other two can open the repository and continue if needed.`,
+        `That is why we work as three people rather than one. One of us leads full-stack builds, another of us covers AWS, data and technical SEO, and the third of us runs project management and automation. Each project has a lead, but the other two can open the repository and continue if needed.`,
       ],
       list: [
         "Skill: proven with live work and a paid first milestone",

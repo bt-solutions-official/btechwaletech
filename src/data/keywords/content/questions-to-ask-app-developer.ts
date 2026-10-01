@@ -91,7 +91,7 @@ const content: FreelanceContent = {
       ["What is the total cost?", "One number with no breakdown", "Itemised lines, including backend and admin", `Itemised quote; apps start at ${P.app}`],
       ["How do you get paid?", "Most of the money up front", "Milestones tied to working builds you can test", "Schedule set in your written quote, linked to builds you can install"],
       ["What happens after launch?", "“We will support you” with nothing written", "Defined period, what counts as a bug, what is extra", "Two months of free maintenance, then optional plans"],
-      ["Who writes the code?", "Evasive; work may be passed on", "Named people you can speak to", "Ankur, Santosh and Vedansh, reachable on WhatsApp"],
+      ["Who writes the code?", "Evasive; work may be passed on", "Named people you can speak to", "The BtechWaleTech team, reachable on WhatsApp"],
       ["What if you disappear?", "Laughs it off", "Code, accounts and docs mean anyone can continue", "Everything is in your accounts, so another developer can take over"],
     ],
     fine: "A developer who answers everything perfectly can still deliver late; these questions reduce risk, they do not remove it, which is why milestone payments against working builds matter.",
@@ -185,7 +185,7 @@ const content: FreelanceContent = {
         "If I change developers, can the new one run the backend without you?",
       ],
       after: [
-        `Our approach: Santosh sets up the cloud project in your account, explains the expected running cost before launch, and documents how to deploy it. The admin panel appears as its own line in the quote so you can see what it costs.`,
+        `Our approach: another of us sets up the cloud project in your account, explains the expected running cost before launch, and documents how to deploy it. The admin panel appears as its own line in the quote so you can see what it costs.`,
       ],
     },
     {
@@ -221,7 +221,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `One of the most revealing questions to ask an app developer is who will do the work. Ask for the names of the people writing your code and who you will speak to each week. Many projects are sold by one person and built by someone you never meet.`,
         `Subcontracting is not automatically bad, but you deserve to know. Ask how many projects the developer is running at once, what happens if the main developer falls ill, and whether anyone else already knows the codebase. For solo freelancers, ask what their backup plan is. For firms, ask whether the people on the sales call will be on the project.`,
-        `With us the answer is simple: Ankur Kumar writes the app and front-end code, Santosh Sharma handles backend, cloud, AI features and data, and Vedansh Shrivastava manages the project and your updates. All three can see the code, so one person being away does not stop the work. We are a small freelance team, so we are honest that we suit apps that three people can build well, not programmes that need twenty developers at once.`,
+        `With us the answer is simple: one of us writes the app and front-end code, another of us handles backend, cloud, AI features and data, and the third of us manages the project and your updates. All three can see the code, so one person being away does not stop the work. We are a small freelance team, so we are honest that we suit apps that three people can build well, not programmes that need twenty developers at once.`,
       ],
     },
     {

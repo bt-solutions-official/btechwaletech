@@ -159,7 +159,7 @@ const delhi: CityContent = {
       paragraphs: [
         "We have no office in Delhi, and we won't publish a borrowed address to pretend otherwise. We are three engineers working remotely across India. In a city where getting from Rohini to Saket can take most of a morning, a video call or a WhatsApp voice note is often the faster meeting.",
         "The routine is simple. We discuss your business, then send a written page plan, timeline and cost. Within the first week or two you receive a live preview link to check on your own phone. Feedback comes as messages or screenshots, and small changes usually go live the same day. We reply seven days a week on Indian time, so you can review your site on a Sunday when the market is shut.",
-        "Ankur Kumar leads full-stack <a href=\"/services/web-development/\">web development</a>. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You always know who is doing what, and can speak to any of us directly.",
+        "One of us leads full-stack <a href=\"/services/web-development/\">web development</a>. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You always know who is doing what, and can speak to any of us directly.",
       ],
     },
     {

@@ -167,7 +167,7 @@ const loni: CityContent = {
       paragraphs: [
         "Most Loni units run on a mix of Tally, Excel, a register and the owner's memory. That works with ten workers and two buyers. With forty workers, six buyers and job work going out to others, mistakes start costing real money: pieces lost between units, payments forgotten, raw material ordered twice.",
         "We build small web tools that match your existing way of working rather than forcing an ERP on you. A stock tracker for raw material and finished goods, a job-work register that tracks what went to which karigar and what came back, a daily production entry screen for supervisors, and a dues list that shows which buyers owe what. Everything works on a phone and exports to Excel or Tally.",
-        "For owners who want a quick view, we add a dashboard showing orders, dispatches, dues and cash position. Santosh, who handles our data work, keeps these simple and accurate. Projects start at ₹60,000 for custom software and are built in stages, so you use the first part within weeks.",
+        "For owners who want a quick view, we add a dashboard showing orders, dispatches, dues and cash position. Another of us, who handles our data work, keeps these simple and accurate. Projects start at ₹60,000 for custom software and are built in stages, so you use the first part within weeks.",
       ],
     },
     {
@@ -176,7 +176,7 @@ const loni: CityContent = {
       paragraphs: [
         "BtechWaleTech does not have an office in Loni, Ghaziabad or Delhi, and we will not borrow an address to look local. We are three engineers who work remotely with clients across India. That is why our prices are lower, and why you speak with the person building your website rather than a salesperson who passes on messages.",
         "A project usually starts with a WhatsApp message or a short call where we understand your business and customers. We send a written plan, timeline and itemised quote. After you approve, you get a live preview link within the first week or two that you can open on your phone and show your partners or family. Changes are requested on WhatsApp and small ones are often done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar builds the websites and backend systems. Santosh Sharma looks after AI, machine learning, AWS and data work. Vedansh Shrivastava plans projects and builds automation and data science workflows. You can message any of us directly.",
+        "One of us builds the websites and backend systems. Another of us looks after AI, machine learning, AWS and data work. The third of us plans projects and builds automation and data science workflows. You can message any of us directly.",
       ],
     },
     {

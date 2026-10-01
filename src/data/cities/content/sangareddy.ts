@@ -70,7 +70,7 @@ const sangareddy: CityContent = {
       paragraphs: [
         "Sangareddy sits on NH 65, the Hyderabad–Pune highway, close enough to the city that many residents commute, yet it runs its own district with four revenue divisions: Sangareddy, Narayankhed, Zaheerabad and Andole-Jogipet. Around it are some of Telangana's oldest industrial areas, major central public-sector plants, IIT Hyderabad at Kandi and new residential colonies that did not exist a decade ago.",
         "So <strong>IT services in Sangareddy</strong> covers an unusually wide range. A pharma packaging supplier in Pashamylaram needs a site that satisfies a purchase manager. A hostel near Kandi needs students and parents to find its rooms. A builder near Isnapur needs a project page that shows approvals and floor plans. A clinic in town needs OPD timings on Google in Telugu and English.",
-        "We handle this as a remote team of three. Ankur Kumar does full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava leads project management, data science and automation. We have no office in Sangareddy and we say so plainly. Work runs on WhatsApp, calls and screen shares, with every plan and price in writing.",
+        "We handle this as a remote team of three. One of us does full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us leads project management, data science and automation. We have no office in Sangareddy and we say so plainly. Work runs on WhatsApp, calls and screen shares, with every plan and price in writing.",
       ],
     },
     {

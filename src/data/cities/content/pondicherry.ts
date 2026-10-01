@@ -176,7 +176,7 @@ const pondicherry: CityContent = {
       paragraphs: [
         "BtechWaleTech does not have an office in Pondicherry or any other city. We are three engineers working remotely for clients across India, and we would rather be honest about that than rent an address to look local. Not paying office rent keeps our prices down, and you deal directly with the people building your site.",
         "Most projects start with a WhatsApp message or a call about your business and guests or customers. We send a written plan, timeline and itemised quote. After you approve it, a live preview link arrives within a week or two, which you can check on your phone and share with partners. Changes are requested on WhatsApp, and small ones are usually done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science workflows. You can reach all three directly.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science workflows. You can reach all three directly.",
       ],
     },
     {

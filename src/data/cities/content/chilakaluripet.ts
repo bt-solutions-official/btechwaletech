@@ -176,7 +176,7 @@ const chilakaluripet: CityContent = {
       paragraphs: [
         "We do not have an office in Chilakaluripet, Guntur or anywhere in Andhra Pradesh, and we will not put a borrowed address on a map. We are three engineers working remotely for clients across India, which is why our starting prices stay low.",
         "You contact us on WhatsApp or through the <a href=\"/contact/\">contact page</a>. We call to understand your business, then send a page plan, timeline and itemised quote, usually within two working days. After approval you receive a private preview link to open on your phone and share with partners. Changes are requested on WhatsApp, and small ones are often done the same day. Our team works in English and Hindi; for Telugu content we draft carefully and ask you or your staff to check every line.",
-        "Ankur Kumar builds the websites and web applications. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on automation and data science. You speak directly to them, seven days a week, on Indian time.",
+        "One of us builds the websites and web applications. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on automation and data science. You speak directly to them, seven days a week, on Indian time.",
       ],
     },
     {

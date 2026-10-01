@@ -105,7 +105,7 @@ const content: FreelanceContent = {
         `An SEO package is a monthly bundle of search work sold at a set scope: some mix of technical fixes, on-page changes, content, local listings, links and reporting. The useful question is never the tier name but the list of jobs that will be done in a given month.`,
         `A UK package worth paying for includes, at minimum, an initial audit with the findings fixed, a keyword map that ties each important search to one page, ongoing on-page and content work, local profile work if you serve an area, and a monthly report that shows enquiries or sales from organic search. Everything else is a question of volume and depth.`,
         `The trouble with comparing SEO packages UK providers publish is that two plans with the same headline, say “Growth” or “Pro”, can hold wildly different amounts of work. One may be a few hours of automated reporting; another may include a developer making changes to your site every week. This guide gives you the checklists to tell them apart.`,
-        `We sell monthly SEO ourselves, so read this with that in mind. We are three freelance developers working from India: Santosh Sharma plans the SEO and data work, Ankur Kumar implements changes in code and CMS, and Vedansh Shrivastava keeps the monthly schedule and report on track. The comparisons below apply to any provider, including us.`,
+        `We sell monthly SEO ourselves, so read this with that in mind. We are three freelance developers working from India: another of us plans the SEO and data work, one of us implements changes in code and CMS, and the third of us keeps the monthly schedule and report on track. The comparisons below apply to any provider, including us.`,
       ],
     },
     {

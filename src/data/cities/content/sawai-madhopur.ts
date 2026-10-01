@@ -168,7 +168,7 @@ const sawaiMadhopur: CityContent = {
       paragraphs: [
         "We have no office in Sawai Madhopur or elsewhere in Rajasthan, and we will not list a fake address to appear local. We are three engineers working remotely for clients across India. That keeps our overheads low, and it is why our starting prices are what they are.",
         "The process is straightforward. You message us on WhatsApp or through the <a href=\"/contact/\">contact page</a>. We call to understand your property or business, then send a page plan, timeline and itemised quote, usually within two working days. After approval you get a private preview link to check on your phone, and you send change requests on WhatsApp. For hotels, we ask for photos and room details early, since they take the longest to gather.",
-        "Ankur Kumar builds the websites and web applications. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You talk directly to them, seven days a week, on Indian time, including through the busy winter season.",
+        "One of us builds the websites and web applications. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You talk directly to them, seven days a week, on Indian time, including through the busy winter season.",
       ],
     },
     {

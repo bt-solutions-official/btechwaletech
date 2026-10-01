@@ -69,7 +69,7 @@ const vaijapur: CityContent = {
       paragraphs: [
         "Ask a Vaijapur shopkeeper where customers come from and the answer is rarely just the town. Farmers ride in from Shiur, Lasurgaon, Nagamthan and Aghur; truck drivers stop on the way to Nashik, Yeola or Chhatrapati Sambhajinagar; pilgrims pass through on their way to Shirdi. The town grew as a market for all of them, and in the Hyderabad State years it shipped cotton out to wider markets.",
         "That mix shapes what <strong>IT services in Vaijapur</strong> should look like. A dealer needs village farmers to see stock and rates. A lodge needs Shirdi-bound families to find it at night. A college needs students from neighbouring talukas to understand fees and hostel options. Each problem is small, specific and fixable in weeks rather than months.",
-        "Before you shortlist any <strong>IT services team in Vaijapur</strong>, one thing about us: we do not have an office here or in Sambhajinagar. We are three engineers who work remotely. Ankur Kumar writes the full-stack code, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. Meetings happen on WhatsApp calls and shared screens, and every decision is written down.",
+        "Before you shortlist any <strong>IT services team in Vaijapur</strong>, one thing about us: we do not have an office here or in Sambhajinagar. We are three engineers who work remotely. One of us writes the full-stack code, another of us covers AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. Meetings happen on WhatsApp calls and shared screens, and every decision is written down.",
       ],
     },
     {

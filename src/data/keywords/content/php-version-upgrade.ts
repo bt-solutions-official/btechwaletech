@@ -259,7 +259,7 @@ const content: FreelanceContent = {
       heading: "Access, ownership and who does the upgrade",
       paragraphs: [
         `With our PHP version upgrade service you stay in control of everything. We work through a separate user or temporary credentials that you create for us in your hosting panel, WordPress admin or Git repository, and you can revoke them when the job is done. Your domain, hosting account and code never move to us.`,
-        `The work is split across three people. Ankur Kumar fixes the code, from theme functions to Laravel controllers. Santosh Sharma handles the server side: PHP version settings, extensions, backups, staging and logs. Vedansh Shrivastava keeps the checklist, coordinates the test pass with you and schedules the live switch. You talk to all three on WhatsApp in English or Hindi, seven days a week.`,
+        `The work is split across three people. One of us fixes the code, from theme functions to Laravel controllers. Another of us handles the server side: PHP version settings, extensions, backups, staging and logs. The third of us keeps the checklist, coordinates the test pass with you and schedules the live switch. You talk to all three on WhatsApp in English or Hindi, seven days a week.`,
         `At the end you receive a short report: PHP version before and after, what was fixed, what was updated or replaced, what still shows deprecation notices for the next version, and the date the chosen PHP branch reaches end of life. We do not visit offices, and we do not take over hosting you already have.`,
       ],
     },

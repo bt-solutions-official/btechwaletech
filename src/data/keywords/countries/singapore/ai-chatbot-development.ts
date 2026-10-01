@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     h1: "Comparing an AI chatbot development company in Singapore? Get a bot that answers from your own documents",
     lede: `If you are shortlisting an AI chatbot development company in Singapore, start with one question: will the bot answer from <strong>your</strong> FAQs, policies and price lists, or from whatever a general model guesses? BtechWaleTech is three freelance developers in India who build retrieval-based (RAG) chatbots for websites, Telegram and internal helpdesks, tuned for Singapore English and mixed English–Chinese questions, with a clean hand-off to a person. Builds start from ${P.ai}. Browse our other <a href='/singapore/'>work for Singapore clients</a>.`,
     pills: [`Custom chatbots from ${P.ai}`, "Answers cite your own documents", "Website, Telegram or staff helpdesk", "Singlish and English–Chinese tested", "Human hand-off built in", "PDPA-aware retention settings", "Accounts in your name"],
-    origin: "Three freelance developers in India · chatbot builds led by Santosh Sharma · WhatsApp replies 7 days a week",
+    origin: "Three freelance developers in India · chatbot builds led by another of us · WhatsApp replies 7 days a week",
   },
   facts: [
     ["Chatbot builds from", `${P.ai}, typically 2–4 weeks`],

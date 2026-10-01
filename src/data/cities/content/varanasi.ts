@@ -160,7 +160,7 @@ const varanasi: CityContent = {
       paragraphs: [
         "We don't have an office in Varanasi, and we won't pretend to with a borrowed address. We are three engineers who work remotely for clients across India. There is no rent or sales commission in your price, and the person you speak with is the person building your site.",
         "A project starts with a call or WhatsApp conversation about your business and customers. We send a written plan with pages, timeline and itemised cost. After you approve it, you receive a live preview link, usually within a week or two, which you can open on your own phone and share with family or partners. Changes come to us on WhatsApp, and small ones usually go live the same day. We work on Indian time and reply seven days a week, including festival seasons when many Varanasi businesses are busiest.",
-        "Ankur Kumar builds full-stack. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava handles project management, data science and automation. You can <a href=\"/contact/\">send us a message</a> to start.",
+        "One of us builds full-stack. Another of us covers AI, machine learning, AWS and data. The third of us handles project management, data science and automation. You can <a href=\"/contact/\">send us a message</a> to start.",
       ],
     },
     {

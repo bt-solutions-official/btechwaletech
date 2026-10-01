@@ -257,7 +257,7 @@ const content: FreelanceContent = {
       heading: "Tech choices and ownership in our attendance management software builds",
       paragraphs: [
         `We keep the stack plain and widely known so another developer can maintain it later: a web app in React or Next.js, an API in Node.js or Python, PostgreSQL for data, and the mobile app in Flutter or React Native so one codebase serves Android and iPhone. Hosting runs on AWS or another cloud in an account registered to your business.`,
-        `Ankur builds the application and the app, Santosh handles the cloud setup, data model and reports, and Vedansh runs the project plan and the device-integration testing with your site staff. You talk to all three on one WhatsApp group, in English or Hindi.`,
+        `One of us builds the application and the app, another of us handles the cloud setup, data model and reports, and the third of us runs the project plan and the device-integration testing with your site staff. You talk to all three on one WhatsApp group, in English or Hindi.`,
         `At handover you hold the source code repository, the cloud account, the database, the Google Play and App Store developer accounts and the admin logins. Nothing runs on our servers and there is no per-employee licence owed to us. Google Play charges a one-time US$25 developer registration and Apple's developer programme is US$99 a year; both accounts sit in your name. Terms are in our <a href='/terms/'>terms page</a> and your written quote.`,
       ],
     },

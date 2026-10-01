@@ -69,7 +69,7 @@ const namakkal: CityContent = {
       paragraphs: [
         "Few towns of Namakkal's size have such a national footprint. Its poultry farms supply eggs to much of southern India and beyond, its lorry body workshops have built truck bodies, trailers and tankers since the 1960s, and its transport owners run lorries, tankers and borewell rigs across the country. Add a large cluster of residential schools that draw students from all over Tamil Nadu, and you have a town with serious business needs.",
         "The requests we see for <strong>IT services in Namakkal</strong> follow those industries. A layer farm wants daily records that the owner can see from anywhere. A body builder wants a catalogue website that fleet buyers in other states take seriously. A transporter wants trip and diesel records that do not depend on one munshi's notebook. A school wants parents to see fees, hostel rules and admission dates without calling.",
-        "We are three engineers working remotely, and we have no office in Namakkal. Ankur Kumar leads full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. We work on WhatsApp, calls and screen shares, and every scope and price comes to you in writing.",
+        "We are three engineers working remotely, and we have no office in Namakkal. One of us leads full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. We work on WhatsApp, calls and screen shares, and every scope and price comes to you in writing.",
       ],
     },
     {

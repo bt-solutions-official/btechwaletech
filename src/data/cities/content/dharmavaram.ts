@@ -185,7 +185,7 @@ const dharmavaram: CityContent = {
       heading: "How we work with Dharmavaram clients from a distance",
       paragraphs: [
         "We have no office in Dharmavaram and will not pretend otherwise. We are three engineers working remotely for clients across India, and you talk directly with the people writing your code.",
-        "Ankur Kumar builds the websites and stores as our full-stack developer. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and looks after data science and automation. A project starts with a WhatsApp conversation about what you sell and to whom, followed by a page plan and an itemised quote within about two working days.",
+        "One of us builds the websites and stores as our full-stack developer. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and looks after data science and automation. A project starts with a WhatsApp conversation about what you sell and to whom, followed by a page plan and an itemised quote within about two working days.",
         "You review a preview link on your own phone, send corrections as voice notes or photos if that is easier, and we reply seven days a week on IST hours. When you are ready, <a href=\"/contact/\">send us a message</a> with a line about your business and, if you have one, your Instagram or catalogue link.",
       ],
     },

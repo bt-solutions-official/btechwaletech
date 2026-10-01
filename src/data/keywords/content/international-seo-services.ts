@@ -31,7 +31,7 @@ const content: FreelanceContent = {
     h1: "International SEO services that help Indian businesses rank in the US, UK, UAE and beyond",
     lede: `International SEO services make a website from India show up for buyers searching in the US, UK, UAE, Australia or wherever you sell, in their spelling, currency and context. BtechWaleTech is three freelance developers in India who choose the right domain structure, implement hreflang correctly, build market-specific pricing pages, earn links in each country and remove geo-targeting mistakes that quietly block Google. Monthly <a href='/freelance-seo-expert/'>SEO work</a> starts at ${P.seo} (${P.seoUsd}), with no promise of rankings nobody can guarantee.`,
     pills: ["ccTLD vs subfolder decision", "hreflang done right", "en-US, en-GB, en-IN copy", "Currency and pricing pages", "Country-level link building", "No IP redirects", "Search Console by country"],
-    origin: "Three freelance developers in India · international SEO led by Santosh Sharma · replies on WhatsApp 7 days a week",
+    origin: "Three freelance developers in India · international SEO led by another of us · replies on WhatsApp 7 days a week",
   },
   facts: [
     ["Monthly SEO from", `${P.seo} · ${P.seoUsd}`],

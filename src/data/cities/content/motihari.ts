@@ -183,7 +183,7 @@ const motihari: CityContent = {
       id: "remote-team-motihari",
       heading: "Our remote team and how a project runs",
       paragraphs: [
-        "Let us be plain: there is no BtechWaleTech counter in Chhatauni or anywhere else in Bihar, and we will never pin a fake address on Google. The team is three engineers who work from their own desks. Ankur Kumar writes the front and back end of every site and app. Santosh Sharma looks after AI, machine learning, AWS and data pipelines. Vedansh Shrivastava keeps projects on schedule and builds the automation and data science pieces.",
+        "Let us be plain: there is no BtechWaleTech counter in Chhatauni or anywhere else in Bihar, and we will never pin a fake address on Google. The team is three engineers who work from their own desks. One of us writes the front and back end of every site and app. Another of us looks after AI, machine learning, AWS and data pipelines. The third of us keeps projects on schedule and builds the automation and data science pieces.",
         "First comes a phone or video call where you tell us who buys from you and when business peaks. Two working days later, give or take, a written page list, schedule and line-by-line quote reaches you. Once you sign off, a preview link follows quickly; you open it on your own mobile, mark what you dislike and send notes as WhatsApp messages or voice notes.",
         "Messages get answered every day of the week on Indian time, Sundays and Chhath week included. You always know which of us is working on your project and can message that person directly.",
       ],

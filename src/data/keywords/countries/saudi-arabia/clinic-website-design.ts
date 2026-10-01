@@ -243,7 +243,7 @@ const content: FreelanceContent = {
         `Yes, and the time zones help. India sits two and a half hours ahead, so a morning call before your first patient at 9 am Riyadh time is 11:30 am for us, and we are still online when your evening clinic ends. Calls follow your Sunday–Thursday week; WhatsApp is open every day.`,
       ],
       subs: [
-        { heading: "Who you talk to", text: "Vedansh Shrivastava runs the project and your weekly check-in; Ankur Kumar builds the site and booking; Santosh Sharma handles hosting, data security settings and technical SEO." },
+        { heading: "Who you talk to", text: "The third of us runs the project and your weekly check-in; one of us builds the site and booking; another of us handles hosting, data security settings and technical SEO." },
         { heading: "Money", text: "Quotes are in US dollars. The invoice comes from India and you pay by Wise or bank wire at the milestones in your written quote. Nothing is billed until you approve the scope." },
         { heading: "Contracts and ownership", text: "Your quote and our terms set out deliverables and milestones. Accounts are opened in the clinic's name from day one, so ownership never has to be transferred later." },
         { heading: "First two weeks", text: "Day one: a video call on your specialties, doctors and booking. Around day two: your itemised quote. Week one after approval: sitemap and design on staging. Week two: first real pages with your doctors, ready for your medical director to review." },

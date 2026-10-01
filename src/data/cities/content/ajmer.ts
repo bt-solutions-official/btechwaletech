@@ -167,7 +167,7 @@ const ajmer: CityContent = {
       paragraphs: [
         "We do not have an office in Ajmer and will not invent one. We are three engineers working remotely for clients across India. That keeps rent and sales commissions out of your quote, and means the person you talk to is the person building your site.",
         "Projects start with a call or a WhatsApp chat about your business. Within about two working days you receive a written plan, timeline and itemised quote. After approval, you get a live preview link early in the build to open on your phone and share with partners. Feedback happens on WhatsApp, and small changes often go live the same day. We reply on Indian time, seven days a week.",
-        "Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects and works on data science and automation. You can message any of us through our <a href=\"/contact/\">contact page</a>.",
+        "One of us handles full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us manages projects and works on data science and automation. You can message any of us through our <a href=\"/contact/\">contact page</a>.",
       ],
     },
     {

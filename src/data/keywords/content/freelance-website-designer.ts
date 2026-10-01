@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A freelance website designer decides what each page says, in what order, and how it looks on a phone, then proves those decisions with mockups before anyone writes code. The job sits between your business goals and the developer's keyboard.`,
         `For a business owner, the useful output is not “a nice look”. It is a set of decisions you can check: which page a Google visitor lands on, what they read first, where the WhatsApp button sits, which photo sells the service. A good freelance website designer writes those decisions down as a sitemap and a wireframe, then dresses them with your colours, fonts and imagery.`,
-        `At BtechWaleTech the three of us split the work by strength. Ankur turns approved screens into responsive code, Santosh checks the design against search and speed needs, and Vedansh keeps the revision rounds on schedule. You deal with the same people from first sketch to launch.`,
+        `At BtechWaleTech the three of us split the work by strength. One of us turns approved screens into responsive code, another of us checks the design against search and speed needs, and the third of us keeps the revision rounds on schedule. You deal with the same people from first sketch to launch.`,
       ],
       list: [
         "Sitemap: every page and how they link",
@@ -235,7 +235,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Search performance is partly decided in the mockup. Design choices set the heading structure, the amount of readable text on each page, and how heavy the page becomes.`,
         `A freelance website designer who understands search keeps one clear H1 per page, puts the service and place in real text rather than inside an image, leaves room for a short FAQ section, and plans internal links between related services. On speed, the designer limits font files, avoids autoplay video, and specifies image sizes so the developer can serve compressed versions. These choices help Core Web Vitals on phones.`,
-        `Santosh reviews every design for these points before build, and after launch we connect Google Search Console so you can watch impressions grow. Nobody can guarantee rankings, and we will not pretend otherwise. Ongoing search work, if you want it, starts at ${P.seo}; see <a href='/freelance-seo-expert/'>freelance SEO</a>.`,
+        `Another of us reviews every design for these points before build, and after launch we connect Google Search Console so you can watch impressions grow. Nobody can guarantee rankings, and we will not pretend otherwise. Ongoing search work, if you want it, starts at ${P.seo}; see <a href='/freelance-seo-expert/'>freelance SEO</a>.`,
       ],
     },
     {

@@ -238,7 +238,7 @@ const content: FreelanceContent = {
       heading: "Salesman tracking app tech stack and who owns what",
       paragraphs: [
         `We build the app in Flutter or React Native so one codebase covers Android and iPhone, with a local database on the phone for offline orders. The web panel runs on React or Next.js with a Node.js or Python API and PostgreSQL, hosted in a cloud account opened in your company's name. Maps use a mainstream map provider with an API key billed to you.`,
-        `Ankur handles the app and panel, Santosh sets up the cloud, location data storage and reports, and Vedansh manages the plan, the pilot with your reps and the integration testing with your accounts team. You can reach all three on WhatsApp in English or Hindi.`,
+        `One of us handles the app and panel, another of us sets up the cloud, location data storage and reports, and the third of us manages the plan, the pilot with your reps and the integration testing with your accounts team. You can reach all three on WhatsApp in English or Hindi.`,
         `At handover you hold the code repository, the Google Play and App Store developer accounts, the cloud account and all admin logins. Google Play charges a one-time US$25 registration and Apple's developer programme costs US$99 a year, both paid by you, in your name. Nothing depends on our servers and there is no per-salesman fee owed to us. See <a href='/terms/'>our terms</a> for how handover is written up.`,
       ],
     },

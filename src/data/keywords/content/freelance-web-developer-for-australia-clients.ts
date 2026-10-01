@@ -181,7 +181,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Host close to your visitors, in an account you own. For most Australian businesses that means an Australian region, such as AWS in Sydney or Melbourne, or a host with Australian servers and a content delivery network.`,
         `Static sites are the simplest case: pages are pre-built and served from edge locations near your visitors, so speed is excellent and hosting cost is low. For sites with logins, bookings or customer data, keeping the database in Australia also helps with privacy expectations and customer questions about where data sits.`,
-        `We create the hosting account with you, or you create it and invite us with limited access. Santosh Sharma, who handles AWS and hosting on our team, sets up backups, SSL and uptime checks before launch. More on the setup side is on <a href='/cloud-hosting-setup-freelancer/'>hosting setup</a>.`,
+        `We create the hosting account with you, or you create it and invite us with limited access. Another of us, who handles AWS and hosting on our team, sets up backups, SSL and uptime checks before launch. More on the setup side is on <a href='/cloud-hosting-setup-freelancer/'>hosting setup</a>.`,
       ],
     },
     {

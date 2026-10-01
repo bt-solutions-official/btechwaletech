@@ -159,7 +159,7 @@ const bharatpur: CityContent = {
       paragraphs: [
         "We do not have an office in Bharatpur, Jaipur or Agra, and we will not list an address we do not use. We are three engineers working remotely for clients across India. Without rent or a sales team, our prices stay lower, and you speak to the people building your site.",
         "It works over phone and WhatsApp. We start with a conversation about your business and customers, then send a page plan, timeline and itemised quote in writing. Within one to two weeks you get a live preview link to check on your phone and share with partners or family. Changes are sent on WhatsApp, and small ones are usually live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data science solutions. You can <a href=\"/contact/\">contact us directly</a> in Hindi or English.",
+        "One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data science solutions. You can <a href=\"/contact/\">contact us directly</a> in Hindi or English.",
       ],
     },
     {

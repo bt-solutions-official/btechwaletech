@@ -170,7 +170,7 @@ const mahbubnagar: CityContent = {
       paragraphs: [
         "We have no office in Mahbubnagar and do not claim one. We are three engineers who work remotely with clients across India. Without office rent or a sales team, our prices stay lower, and you always talk to the person building your site.",
         "We start with a call or WhatsApp chat about your business and customers, then send a written plan with pages, timeline and quote. Within a week or two, you receive a live preview link to check on your phone. Feedback comes over WhatsApp, and small changes usually go live the same day.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data projects. Vedansh Shrivastava manages delivery and covers data science and automation. We work on IST and reply every day, including evenings and Sundays when many owners finally have time to review their site.",
+        "One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data projects. The third of us manages delivery and covers data science and automation. We work on IST and reply every day, including evenings and Sundays when many owners finally have time to review their site.",
       ],
     },
     {

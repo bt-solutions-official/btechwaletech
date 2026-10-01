@@ -69,7 +69,7 @@ const alirajpur: CityContent = {
       paragraphs: [
         "Alirajpur was a princely state under the Bhopawar Agency before independence and became a district of its own in 2008, when it was separated from Jhabua. The town is the district's administrative and trading centre. People from Jobat, Sondwa, Udaigarh, Kathiwada and Chandrashekhar Azad Nagar come here for government offices, the mandi, hospitals, schools and shopping.",
         "The district has a large tribal population, mostly Bhil and Bhilala, and at the 2011 census it recorded one of the lowest literacy rates in India. That matters for digital work. A website or app for Alirajpur customers has to be simple, visual and in Hindi, with large buttons, clear photographs, phone and WhatsApp links, and as little typing as possible. Voice notes and pictures often work better than long forms.",
-        "Our <strong>IT services in Alirajpur</strong> come from a team of three engineers working remotely. Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds data science and automation workflows. You talk to the people building your project, not a middleman.",
+        "Our <strong>IT services in Alirajpur</strong> come from a team of three engineers working remotely. One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds data science and automation workflows. You talk to the people building your project, not a middleman.",
       ],
     },
     {

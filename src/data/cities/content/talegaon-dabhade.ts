@@ -68,7 +68,7 @@ const talegaonDabhade: CityContent = {
       paragraphs: [
         "Talegaon Dabhade has changed quickly. Once a quiet town on the old Mumbai–Pune road, it now sits beside one of the Pune region's larger MIDC estates, with car and engineering plants, their vendors, and a floriculture park on the same land. Housing projects have spread along the roads to the station and the highway as people working in Pimpri-Chinchwad, Chakan and Hinjewadi look for more space and cooler air.",
         "Enquiries for <strong>IT services in Talegaon Dabhade</strong> reflect that mix. A job-work shop wants a website that passes a large plant's vendor check. A builder wants site-visit leads tracked properly. A flower grower wants wholesale buyers to see varieties and availability. A school wants admission forms online. A clinic near the station wants its Google listing corrected.",
-        "We are three engineers working remotely. Ankur Kumar leads full-stack development; Santosh Sharma looks after AI, machine learning, AWS and data; Vedansh Shrivastava handles project management, data science and automation. We keep no office in Talegaon or Pune, and we state that upfront. Calls, WhatsApp and screen sharing carry the work, with written plans at every stage.",
+        "We are three engineers working remotely. One of us leads full-stack development; another of us looks after AI, machine learning, AWS and data; the third of us handles project management, data science and automation. We keep no office in Talegaon or Pune, and we state that upfront. Calls, WhatsApp and screen sharing carry the work, with written plans at every stage.",
       ],
     },
     {

@@ -266,7 +266,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A NestJS app is usually packaged in a Docker image and run on a cloud VM, a container service or a platform such as AWS, Google Cloud or Azure, with PostgreSQL and Redis as managed services. The right choice depends on traffic, budget and who will operate it after handover.`,
         `For a new product with modest traffic, a single well-configured VM or container service with managed PostgreSQL is enough and cheap to run. As usage grows, the API and the BullMQ workers can scale separately. Kubernetes is worth it only when there are several services and someone to look after the cluster; see our <a href='/kubernetes-consultant/'>Kubernetes page</a> for that decision.`,
-        `Whatever the host, every NestJS deployment we hand over includes health-check endpoints, structured logs, error alerts, environment-based configuration with secrets outside the code, database backups with a tested restore, and a written rollback step. Santosh, who handles cloud and AWS work in our team, sets these up in your account so the bills and access are yours.`,
+        `Whatever the host, every NestJS deployment we hand over includes health-check endpoints, structured logs, error alerts, environment-based configuration with secrets outside the code, database backups with a tested restore, and a written rollback step. Another of us, who handles cloud and AWS work in our team, sets these up in your account so the bills and access are yours.`,
         `If raw throughput is a priority, Nest's Fastify adapter is an option; we measure before switching rather than assuming.`,
       ],
     },

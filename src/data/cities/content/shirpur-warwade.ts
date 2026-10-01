@@ -69,7 +69,7 @@ const shirpurWarwade: CityContent = {
       paragraphs: [
         "Shirpur is the second-largest town in Dhule district and the headquarters of a large taluka that runs from the Tapi banks up into the Satpuda foothills. Farmers bring cotton, maize and bananas to its traders; tribal villages to the north depend on its hospitals and markets; and a cluster of engineering, pharmacy and management colleges brings students from across Maharashtra and beyond.",
         "That mix shapes what people ask us for. Requests for <strong>IT services in Shirpur</strong> tend to be specific: a ginning unit wants a proper record of lots and payments, a hostel wants students to find it before they arrive, a clinic wants appointment requests on WhatsApp, a dealer wants a Marathi page that shows stock and prices.",
-        "We are a remote team of three engineers. Ankur Kumar leads full-stack development, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava manages projects, data science and automation. We do not have an office in Shirpur or Dhule, and we say so at the start. Work runs over WhatsApp, calls and screen shares, and every decision is confirmed in writing.",
+        "We are a remote team of three engineers. One of us leads full-stack development, another of us handles AI, machine learning, AWS and data work, and the third of us manages projects, data science and automation. We do not have an office in Shirpur or Dhule, and we say so at the start. Work runs over WhatsApp, calls and screen shares, and every decision is confirmed in writing.",
       ],
     },
     {

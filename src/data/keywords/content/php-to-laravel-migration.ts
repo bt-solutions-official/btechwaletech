@@ -233,7 +233,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The finished Laravel app should run on a supported PHP branch, on hosting you control. That is often the first time a legacy app has had either.`,
         `Laravel's release notes list the PHP versions each release supports; Laravel 12 supports PHP 8.2 to 8.5, and Laravel 13 requires at least PHP 8.3. The same page explains that each Laravel release receives bug fixes for 18 months and security fixes for two years. Plan an upgrade roughly once a year so you never fall far behind again.`,
-        `Shared hosting that ran the old app may not suit Laravel well, because queues and the scheduler need a process running in the background. We usually set up a small cloud server or a managed Laravel-friendly platform, opened in your name, with daily database backups, SSL, a staging copy and deployment from Git. Santosh handles the server side and documents every credential in your password manager, not ours.`,
+        `Shared hosting that ran the old app may not suit Laravel well, because queues and the scheduler need a process running in the background. We usually set up a small cloud server or a managed Laravel-friendly platform, opened in your name, with daily database backups, SSL, a staging copy and deployment from Git. Another of us handles the server side and documents every credential in your password manager, not ours.`,
       ],
       after: [`For the infrastructure details, see <a href='/freelance-aws-developer/'>AWS setup by a freelance developer</a>.`],
     },

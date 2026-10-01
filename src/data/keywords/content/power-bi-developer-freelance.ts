@@ -28,7 +28,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Power BI dashboards built to last",
     h1: "Power BI developer, freelance: data models, refresh and sharing done properly",
-    lede: `Looking for a Power BI developer on a freelance basis? The dashboard is the easy part; what decides whether it gets used is the data model underneath, a refresh that runs without anyone touching it, and sharing that shows each person only their numbers. BtechWaleTech is three freelance developers in India, with Santosh leading data work. Power BI projects are quoted itemised from your sources; data automation starts at ${P.ai} (${P.aiUsd}).`,
+    lede: `Looking for a Power BI developer on a freelance basis? The dashboard is the easy part; what decides whether it gets used is the data model underneath, a refresh that runs without anyone touching it, and sharing that shows each person only their numbers. BtechWaleTech is three freelance developers in India, with another of us leading data work. Power BI projects are quoted itemised from your sources; data automation starts at ${P.ai} (${P.aiUsd}).`,
     pills: ["Star-schema data models", "DAX measures", "Power Query clean-up", "Scheduled refresh & gateways", "Row-level security", "Tally, Excel & SQL sources", "Your tenant, your files"],
     origin: "Three freelance developers · Remote from India · Data projects for clients across India and abroad",
   },
@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A Power BI developer turns scattered business data into reports people trust and open without being asked. On a freelance project that breaks into five pieces of work, and the visible charts are only the last one.`,
         `First comes <strong>connection</strong>: reaching your data wherever it lives, from Excel on SharePoint to a SQL database or accounting exports. Then <strong>preparation</strong> in Power Query: fixing column names, types, duplicates and date formats. Then the <strong>model</strong>: tables related in a star schema, with DAX measures for every number that matters. Then <strong>report design</strong>: pages built around decisions. Finally <strong>operations</strong>: scheduled refresh, gateways, security and sharing in the Power BI service.`,
-        `At BtechWaleTech, Santosh leads the data and model work, Vedansh maps the reporting needs and automation, and Ankur builds anything that needs a web front end or API. A freelance Power BI developer who only does the last step will give you a pretty report that breaks the first time a source file changes.`,
+        `At BtechWaleTech, another of us leads the data and model work, the third of us maps the reporting needs and automation, and one of us builds anything that needs a web front end or API. A freelance Power BI developer who only does the last step will give you a pretty report that breaks the first time a source file changes.`,
       ],
       list: [
         "Connect: files, databases, cloud apps, APIs",

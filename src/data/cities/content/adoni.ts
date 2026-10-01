@@ -166,7 +166,7 @@ const adoni: CityContent = {
       id: "remote-team-adoni",
       heading: "How our remote team works",
       paragraphs: [
-        "We have no office in Adoni and will not list a borrowed address. BtechWaleTech is three engineers working remotely. Ankur Kumar builds websites and applications end to end. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work.",
+        "We have no office in Adoni and will not list a borrowed address. BtechWaleTech is three engineers working remotely. One of us builds websites and applications end to end. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work.",
         "We start by understanding your buyers and your season. Within about two working days you receive a page plan, timeline and itemised quote. After approval, we share an early preview link that you check on your own phone. Feedback comes back on WhatsApp, and small edits are often done the same day.",
         "We reply seven days a week on Indian time, which suits a market town where Sunday is often the only quiet day. You always know which of the three of us is working on your project and can contact them directly.",
       ],

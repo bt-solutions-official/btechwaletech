@@ -104,7 +104,7 @@ const content: FreelanceContent = {
       heading: "What does a freelance AI developer actually build?",
       paragraphs: [
         `Most AI work for businesses in 2026 is not about inventing new models. It is about wiring an existing large language model, such as those from OpenAI, Anthropic or Google, or an open-weight model you host yourself, into your documents, your apps and your daily routine. A freelance AI developer does that wiring, plus the unglamorous parts that make it dependable: cleaning data, writing the prompts, adding checks and measuring results.`,
-        `Think of the output as software with a language model inside it. The model reads and writes text well; the code around it decides what the model sees, what it is allowed to do and what happens when it is unsure. At BtechWaleTech, Santosh leads the AI and data side, Ankur builds the web app, API and dashboard around it, and Vedansh maps the business workflow and runs the pilot.`,
+        `Think of the output as software with a language model inside it. The model reads and writes text well; the code around it decides what the model sees, what it is allowed to do and what happens when it is unsure. At BtechWaleTech, another of us leads the AI and data side, one of us builds the web app, API and dashboard around it, and the third of us maps the business workflow and runs the pilot.`,
       ],
       list: [
         "Retrieval (RAG) chatbots that answer from your own files",

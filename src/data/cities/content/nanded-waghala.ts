@@ -158,7 +158,7 @@ const nanded: CityContent = {
       paragraphs: [
         "We do not have an office in Nanded, and we will not borrow an address to appear local. We are three engineers working remotely for clients around India, which keeps office rent and sales commissions out of your quote and puts you in direct contact with the people building your site.",
         "Most projects begin with a phone call or a WhatsApp conversation about your business. Within about two working days you receive a written page plan, timeline and itemised quote. After you approve it, you get a live preview link early in the build that you can open on your phone and show to family or partners. Feedback happens on WhatsApp, and small edits usually go live the same day. We reply on Indian time, seven days a week, including the weekends when many shop owners have time to review.",
-        "Ankur Kumar does the full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects and works on data science and automation. You can reach any of us through the <a href=\"/contact/\">contact page</a>.",
+        "One of us does the full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us manages projects and works on data science and automation. You can reach any of us through the <a href=\"/contact/\">contact page</a>.",
       ],
     },
     {

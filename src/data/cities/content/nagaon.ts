@@ -159,7 +159,7 @@ const nagaon: CityContent = {
       paragraphs: [
         "We have no office in Nagaon, and we do not use a borrowed local address. We are three engineers working remotely for clients across India. That keeps rent and sales staff out of your quote, and it means you speak directly with the people building your website.",
         "Projects start with a WhatsApp chat or a short call. We send a written page plan, timeline and quote, and within the first one or two weeks you get a live preview link to open on your own phone. You can send feedback as text or voice notes, and small changes usually go live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on data science and automation. You can contact any of us directly.",
+        "One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and works on data science and automation. You can contact any of us directly.",
       ],
     },
     {

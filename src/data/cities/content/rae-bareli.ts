@@ -151,7 +151,7 @@ const raeBareli: CityContent = {
       id: "remote-team-rae-bareli",
       heading: "Working remotely with a Rae Bareli business",
       paragraphs: [
-        "We have no office in Rae Bareli or Lucknow, and we will not invent one. We are three engineers working remotely across India. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects and works on data science and automation.",
+        "We have no office in Rae Bareli or Lucknow, and we will not invent one. We are three engineers working remotely across India. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us manages projects and works on data science and automation.",
         "The work happens on WhatsApp and phone calls. We start by understanding your business, then send a page plan and an itemised quote. Within a week or two you receive a preview link to check on your own phone, and feedback goes into one chat thread. We work on IST and reply seven days a week, which helps owners who only find time in the evening or on Sunday.",
         "You can <a href=\"/contact/\">contact us here</a> or message us directly on WhatsApp.",
       ],
@@ -195,7 +195,7 @@ const raeBareli: CityContent = {
       heading: "Dashboards for distributors, pharmacies and institutes",
       paragraphs: [
         "Distributors supplying FMCG, pharma or building materials to the tehsil markets deal with hundreds of retailers, credit balances and daily deliveries. Coaching institutes track batch strength, attendance and pending fees. Much of this lives in Tally, Excel files and registers that only one person understands.",
-        "We build dashboards that pull from these sources and show what matters on one screen: sales by area and salesman, outstanding payments by retailer, slow-moving stock, fee collections by batch. Vedansh Shrivastava and Santosh Sharma handle this data work and begin with the three or four questions you already ask every week, rather than a wall of charts. Dashboards are quoted separately and can be added to any website or automation project.",
+        "We build dashboards that pull from these sources and show what matters on one screen: sales by area and salesman, outstanding payments by retailer, slow-moving stock, fee collections by batch. The third of us and another of us handle this data work and begin with the three or four questions you already ask every week, rather than a wall of charts. Dashboards are quoted separately and can be added to any website or automation project.",
       ],
     },
   ],

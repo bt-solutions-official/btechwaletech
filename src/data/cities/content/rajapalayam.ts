@@ -179,7 +179,7 @@ const rajapalayam: CityContent = {
       paragraphs: [
         "We have no office in Rajapalayam and don't pretend to. We are three engineers working remotely for clients across India. That keeps our costs low and means you talk directly to the people building your site.",
         "After a first call or WhatsApp chat, we send a page plan, timeline and itemised quote in writing, usually within two working days. During the build you get a live preview link to check on your own phone. Changes are sent on WhatsApp and small ones are often done the same day. We reply seven days a week, on Indian time. For Tamil content, we work with your team to make sure every line reads naturally.",
-        "Ankur Kumar builds websites and web applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">contact any of us</a> directly.",
+        "One of us builds websites and web applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">contact any of us</a> directly.",
       ],
     },
     {

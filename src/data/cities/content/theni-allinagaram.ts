@@ -175,7 +175,7 @@ const theni: CityContent = {
       id: "remote-team-theni",
       heading: "Working with a remote IT team from Theni",
       paragraphs: [
-        "There is no BtechWaleTech office in Theni, nor anywhere else in the state. We are a remote group of three engineers. Ankur Kumar builds the full stack, Santosh Sharma looks after AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management along with data science and automation.",
+        "There is no BtechWaleTech office in Theni, nor anywhere else in the state. We are a remote group of three engineers. One of us builds the full stack, another of us looks after AI, machine learning, AWS and data work, and the third of us runs project management along with data science and automation.",
         "Tell us the requirement by WhatsApp message or phone, and an itemised written quote reaches you in roughly two working days. Only your written go-ahead starts the work or any billing. As the build progresses, a preview link lets you check each stage and reply with comments from your mobile, and we note every change, due date and payment step in writing.",
         "A trader in Bodi or a mill manager in Andipatti can send a voice note describing how purchases or dispatch work today, and we reply with a written scope and sample screens before any code is written. Photos of products and premises can be shot on a phone and sent on WhatsApp. Replies come seven days a week on Indian Standard Time; start through our <a href=\"/contact/\">contact page</a>.",
       ],

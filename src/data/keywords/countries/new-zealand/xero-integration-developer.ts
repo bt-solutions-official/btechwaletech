@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Before your live file", value: "Built and tested against Xero's Demo Company" },
       { label: "Mapping", value: "GST rates, accounts, tracking categories agreed in a shared sheet" },
       { label: "Starting prices", value: `Sync from ${P.ai} · integration app from ${P.software}` },
-      { label: "Who builds it", value: "Ankur Kumar (full-stack) and Santosh Sharma (AWS, data), managed by Vedansh Shrivastava" },
+      { label: "Who builds it", value: "One of us (full-stack) and another of us (AWS, data), managed by the third of us" },
       { label: "Payment", value: "Quoted in USD · Wise, bank wire or PayPal" },
     ],
   },
@@ -269,7 +269,7 @@ const content: FreelanceContent = {
       heading: "Where should a Xero integration run?",
       paragraphs: [
         `Most Xero integrations run happily as small scheduled or event-driven functions in a cloud account, costing little to run. The choice between serverless functions, a small server or an existing platform depends on volume and what else you already host.`,
-        `Santosh Sharma, who handles our AWS and data work, usually suggests a serverless set-up for scheduled syncs: functions triggered on a timer or by webhooks, a queue for records waiting to be sent, and a small database table for the log. NZ businesses often choose an Australian or New Zealand cloud region to keep data close; we set it up where you prefer.`,
+        `Another of us, who handles our AWS and data work, usually suggests a serverless set-up for scheduled syncs: functions triggered on a timer or by webhooks, a queue for records waiting to be sent, and a small database table for the log. NZ businesses often choose an Australian or New Zealand cloud region to keep data close; we set it up where you prefer.`,
         `If your business already runs a custom portal or app, the integration can live inside it instead. That is common when we are also building the portal, covered on our <a href='/new-zealand/software-development-company/'>custom software for NZ SMEs</a> page.`,
       ],
     },

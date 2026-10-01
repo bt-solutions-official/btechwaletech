@@ -69,7 +69,7 @@ const tirur: CityContent = {
       paragraphs: [
         "Tirur is the headquarters of one of Malappuram district's most populous taluks, and it behaves like a much larger town than its municipal boundary suggests. Buyers from Tanur, Kuttippuram, Tirunavaya, Valanchery and the coastal villages come in for phones, appliances, fish, textiles, hospital visits and college admissions. Many of their families have someone working in the Gulf, which means a lot of shopping and decision-making already happens over WhatsApp and video calls.",
         "That habit shapes what people ask us for. Requests for <strong>IT services in Tirur</strong> are usually practical: a Malayalam website that shows stock and prices, a Google Maps pin that points to the right shop and not the one next door, an order flow on WhatsApp, or a billing and stock tool for a dealer who supplies dozens of smaller retailers. A few want a full Android and iOS app. Some just need their existing site fixed so it stops showing last year's offers.",
-        "We handle this as a remote team of three. Ankur Kumar does full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects and builds automation. We have no office in Tirur and never pretend to. Work happens over WhatsApp, calls and screen shares, and every plan, change and price reaches you in writing.",
+        "We handle this as a remote team of three. One of us does full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us manages projects and builds automation. We have no office in Tirur and never pretend to. Work happens over WhatsApp, calls and screen shares, and every plan, change and price reaches you in writing.",
       ],
     },
     {
@@ -167,7 +167,7 @@ const tirur: CityContent = {
       id: "remote-team-tirur",
       heading: "How our remote IT team works with Tirur clients",
       paragraphs: [
-        "We are three engineers working remotely with no office in Tirur, so we rely on clear writing instead of a front desk. Ankur Kumar builds websites and web apps, Santosh Sharma handles AI, cloud and data work, and Vedansh Shrivastava plans the project and the automation. After a first call about your trade and your customers, you receive a written outline of pages or app screens, delivery dates and a costed list of every item.",
+        "We are three engineers working remotely with no office in Tirur, so we rely on clear writing instead of a front desk. One of us builds websites and web apps, another of us handles AI, cloud and data work, and the third of us plans the project and the automation. After a first call about your trade and your customers, you receive a written outline of pages or app screens, delivery dates and a costed list of every item.",
         "Work begins only after you approve that list, and no bill is raised before approval. During the build you get preview links that open on any phone, so you can share them with a partner, a son working in Muscat or the accountant. Malayalam text is sent to you for checking before it goes live, because a wrong word on a price board or admission notice is the sort of mistake customers screenshot.",
         "We answer WhatsApp seven days a week on Indian time. If a date slips, we tell you the day we know, along with the new date and the reason. Payments are tied to stages you can see working, which keeps the risk small for a family business going online for the first time.",
       ],

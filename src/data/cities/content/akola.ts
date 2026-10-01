@@ -168,7 +168,7 @@ const akola: CityContent = {
       paragraphs: [
         "We have no office in Akola and do not borrow an address to look local. We are three engineers working remotely for clients across India. That keeps rent and sales salaries out of your quote, and it means the person you speak to is the person writing your site.",
         "Work usually starts with a WhatsApp chat or a short call about your business, followed by a written page plan, timeline and quote. Within the first one or two weeks you receive a live preview link to open on your own phone, so you are judging a working website rather than a static picture. Feedback goes on WhatsApp, voice notes included, and small changes are usually live the same day. We reply seven days a week on Indian time, which suits mill owners and shopkeepers who only find time for this after closing.",
-        "Ankur Kumar builds the full-stack side. Santosh Sharma looks after AI, machine learning, AWS and data. Vedansh Shrivastava runs projects and handles data science and automation. You always know who is doing what and can reach any of us directly.",
+        "One of us builds the full-stack side. Another of us looks after AI, machine learning, AWS and data. The third of us runs projects and handles data science and automation. You always know who is doing what and can reach any of us directly.",
       ],
     },
     {

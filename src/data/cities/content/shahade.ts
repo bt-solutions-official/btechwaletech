@@ -70,7 +70,7 @@ const shahade: CityContent = {
       paragraphs: [
         "Ask anyone in the taluka where they go for a scan, a wedding saree, a tractor part or a college admission and the answer is usually Shahade. The town sits in the plain between the Tapi and the Satpuda foothills, with Madhya Pradesh a short drive north and Gujarat not far west, so its shops and clinics serve families who speak Marathi, Ahirani, Gujarati, Hindi and Bhili, sometimes all in one household.",
         "That mix shapes what good <strong>IT services in Shahade</strong> look like. A website here must work in more than one language, load on an entry-level phone in a village with two bars of signal, and lead straight to a phone call or a WhatsApp chat. Fancy animation adds nothing; a correct map pin and clear timings add a lot.",
-        "We are a remote team of three. Ankur Kumar builds websites and web apps end to end, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project planning, data science and automation. None of us keeps an office in Shahade or Nandurbar, and we will not pretend otherwise. Calls, screen shares and WhatsApp replace the visit, and every decision is written down so you can check it later.",
+        "We are a remote team of three. One of us builds websites and web apps end to end, another of us handles AI, machine learning, AWS and data work, and the third of us runs project planning, data science and automation. None of us keeps an office in Shahade or Nandurbar, and we will not pretend otherwise. Calls, screen shares and WhatsApp replace the visit, and every decision is written down so you can check it later.",
       ],
     },
     {

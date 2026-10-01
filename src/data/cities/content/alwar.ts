@@ -169,7 +169,7 @@ const alwar: CityContent = {
       paragraphs: [
         "We do not have an office in Alwar, and we will not list one. We are three engineers working remotely for clients across India. That is why our prices can be lower than an NCR agency's: there is no showroom, no rent and no sales staff to fund, and you talk to the person who actually writes the code.",
         "The process runs on calls, WhatsApp and screen sharing. We begin with a conversation about your business and customers, then send a page plan, timeline and itemised quote. Within a week or two you receive a live preview link to check on your own phone, show your partners or family, and mark changes. We reply seven days a week, Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds automation and data-science pieces. You can <a href=\"/contact/\">reach us directly</a> without going through a salesperson.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and builds automation and data-science pieces. You can <a href=\"/contact/\">reach us directly</a> without going through a salesperson.",
       ],
     },
     {

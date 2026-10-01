@@ -309,7 +309,7 @@ const content: FreelanceContent = {
       id: "what-you-get",
       heading: "What you get for the money when a remote team builds your website",
       paragraphs: [
-        `You get the build itself, ownership of every account and two months of free maintenance. Just as important, you deal directly with the three people doing the work: Ankur Kumar on full-stack development, Santosh Sharma on AI, AWS and technical SEO, and Vedansh Shrivastava on project management.`,
+        `You get the build itself, ownership of every account and two months of free maintenance. Just as important, you deal directly with the three people doing the work: one of us on full-stack development, another of us on AI, AWS and technical SEO, and the third of us on project management.`,
         `At handover you receive admin logins, a recorded walkthrough of editing your pages, the code in a repository you control and a list of every service the site uses with who bills it. Google Search Console and analytics are connected in your name. If you later hire someone else, they can pick it up without asking us.`,
         `What you do not get: office meetings, site visits, local photography or a large team for multi-year programmes. If those matter, a New Zealand agency is the better fit, and we would rather say so up front. You can see live examples on our <a href='/portfolio/'>portfolio</a> and all plan prices on the <a href='/pricing/'>pricing page</a>.`,
       ],

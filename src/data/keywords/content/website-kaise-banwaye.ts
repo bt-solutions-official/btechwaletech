@@ -138,7 +138,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Teeno raaste sahi hain, bas alag logon ke liye. Jawab is baat par depend karta hai ki aapke paas time kitna hai aur website se kitna kaam lena hai.`,
         `Free ya monthly website builder (drag-and-drop tools) tab theek hai jab aapko ek-do page ka profile chahiye aur aap khud baithkar design kar sakte hain. Kami yeh hai ki website us platform par bandhi rehti hai, speed aur SEO template par depend karte hain, aur monthly plan saalon tak chalta rehta hai. WordPress khud seekhkar banana bhi ek raasta hai; YouTube par bahut tutorials hain, par security updates aur backup aapki zimmedari ban jaate hain.`,
-        `Developer ya freelance team se banwana tab sahi hai jab website se asli business chahiye: enquiry, orders, Google par dikhna. Aapka time bachta hai, design aapke customers ke hisaab se banta hai, aur code aapka hota hai. Hamari team mein Ankur Kumar full-stack development, Santosh Sharma hosting aur technical SEO, aur Vedansh Shrivastava project planning dekhte hain.`,
+        `Developer ya freelance team se banwana tab sahi hai jab website se asli business chahiye: enquiry, orders, Google par dikhna. Aapka time bachta hai, design aapke customers ke hisaab se banta hai, aur code aapka hota hai. Hamari team mein one of us full-stack development, another of us hosting aur technical SEO, aur the third of us project planning dekhte hain.`,
       ],
       subs: [
         { heading: "Builder chuniye jab", text: "Budget bahut tight hai, sirf ek page chahiye, aur aap khud kuch din laga sakte hain." },

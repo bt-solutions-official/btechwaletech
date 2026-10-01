@@ -288,7 +288,7 @@ const content: FreelanceContent = {
       id: "team-limits",
       heading: "Who builds your plugin and what we do not take on",
       paragraphs: [
-        `Ankur Kumar writes the plugin code and integrations, Santosh Sharma handles hosting, security checks and any AI features, and Vedansh Shrivastava manages the specification, testing rounds and automation of repetitive admin work. All three can read and support the plugin after launch.`,
+        `One of us writes the plugin code and integrations, another of us handles hosting, security checks and any AI features, and the third of us manages the specification, testing rounds and automation of repetitive admin work. All three can read and support the plugin after launch.`,
         `What we do not do: resell or modify pirated premium plugins, publish plugins on the directory under our name using your code, or build features that bypass another vendor’s licence. We also will not promise that a plugin change will lift your rankings; SEO results depend on far more than code. For sites needing a full redesign, see <a href='/custom-wordpress-theme-development/'>custom theme development</a>, which pairs naturally with a custom plugin.`,
       ],
     },

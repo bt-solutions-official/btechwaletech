@@ -84,7 +84,7 @@ const content: CityContent = {
       paragraphs: [
         "The best IT services team in Kolkata for your project is the one that matches its scale, skills and support model, which you can judge by using its live work, meeting the developers and reading an itemised quote. For owner-led businesses with focused needs, a small freelance team is often the better match.",
         "If you are comparing IT companies in Kolkata, you will find large firms in Sector V and New Town, mid-sized software houses, and many individual developers. Ask each for a working system you can use today, the name of the person who will code your project, a feature-by-feature quote, written confirmation that all accounts and code will be yours, and the cost and terms of support in year two.",
-        "BtechWaleTech is a freelance group of three developers. Ankur Kumar leads full stack development, Santosh Sharma handles AI, machine learning, AWS and data science, and Vedansh Shrivastava manages projects, automation and data work. We have no Kolkata office, do not work on site and take limited projects at once. In return, you get direct engineers, continuity and transparent pricing.",
+        "BtechWaleTech is a freelance group of three developers. One of us leads full stack development, another of us handles AI, machine learning, AWS and data science, and the third of us manages projects, automation and data work. We have no Kolkata office, do not work on site and take limited projects at once. In return, you get direct engineers, continuity and transparent pricing.",
       ],
       list: [
         "Use a live system the vendor built",

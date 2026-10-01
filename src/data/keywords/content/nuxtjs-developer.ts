@@ -185,7 +185,7 @@ const content: FreelanceContent = {
         "Heavy SSR or long-running jobs: Node VPS or containers, with a CDN in front",
         "Data must stay in India: choose an Indian cloud region and keep the database there too",
       ],
-      after: [`Whatever you pick, the account is opened in your name and we are added as collaborators. Santosh handles AWS and VPS setups; see <a href='/cloud-hosting-setup-freelancer/'>cloud hosting setup</a> for what that involves.`],
+      after: [`Whatever you pick, the account is opened in your name and we are added as collaborators. Another of us handles AWS and VPS setups; see <a href='/cloud-hosting-setup-freelancer/'>cloud hosting setup</a> for what that involves.`],
     },
     {
       id: "nuxt-developer-cost",

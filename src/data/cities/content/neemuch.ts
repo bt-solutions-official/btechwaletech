@@ -152,7 +152,7 @@ const neemuch: CityContent = {
       paragraphs: [
         "We have no office in Neemuch, Indore or anywhere in Madhya Pradesh, and we don't borrow an address to look local. We are three engineers who work remotely for clients across India. You don't pay for our rent or a sales team, and the person you message is the one writing your code.",
         "A project begins with a call or WhatsApp chat. We then send a written page plan, timeline and itemised quote. Within a week or two you receive a live preview link to check on your own phone, and you send feedback as text or voice notes. Small edits often go live the same day. We work on Indian time and reply seven days a week, which suits traders who only have time on Sundays or after mandi hours.",
-        "Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects along with data science and automation. <a href=\"/contact/\">Get in touch</a> and you will speak to one of us directly.",
+        "One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us manages projects along with data science and automation. <a href=\"/contact/\">Get in touch</a> and you will speak to one of us directly.",
       ],
     },
     {

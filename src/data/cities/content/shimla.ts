@@ -168,7 +168,7 @@ const shimla: CityContent = {
       paragraphs: [
         "We do not have an office in Shimla or elsewhere in Himachal, and we will not claim one. We are three engineers working remotely for clients across India. Without rent or sales staff, our starting prices stay lower and you speak directly to the people who write your code.",
         "The work happens over calls, WhatsApp and screen sharing. We begin with a conversation about your guests or customers, then send a page plan, timeline and itemised quote. For a small site, a live preview link arrives within one to two weeks, and you can check it on your phone and share it with partners. Small changes are usually made the same day, and we reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. If you are planning for the summer or snow season, it helps to <a href=\"/contact/\">contact us</a> a couple of months ahead.",
+        "One of us leads full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. If you are planning for the summer or snow season, it helps to <a href=\"/contact/\">contact us</a> a couple of months ahead.",
       ],
     },
     {

@@ -260,7 +260,7 @@ const content: FreelanceContent = {
       heading: "Working with a web team in India from a New Zealand clinic",
       paragraphs: [
         `India is 6.5 hours behind New Zealand in NZ winter and 7.5 hours behind during daylight saving, so your late afternoon is our morning. Send a message after your last patient and the reply is often waiting before your first one the next day.`,
-        `Calls are short and scheduled around clinic hours, usually a 20-minute video call at lunchtime or after 4 pm your time. Between calls, WhatsApp does the work: you forward a photo of the reception fee sheet, a voice note about a condition, or a screenshot of your booking settings. Vedansh keeps the task list, Ankur builds, and Santosh handles hosting, speed and search.`,
+        `Calls are short and scheduled around clinic hours, usually a 20-minute video call at lunchtime or after 4 pm your time. Between calls, WhatsApp does the work: you forward a photo of the reception fee sheet, a voice note about a condition, or a screenshot of your booking settings. The third of us keeps the task list, one of us builds, and another of us handles hosting, speed and search.`,
         `Money is simple. Quotes are itemised in USD, you pay by Wise, bank wire or PayPal, and invoices come from India. Nothing is billed before you approve the written quote. Your domain, hosting, Google accounts and practice software stay in your name; we work through access you can revoke at any time.`,
       ],
       subs: [

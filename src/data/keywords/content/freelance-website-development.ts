@@ -108,7 +108,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Freelance website development covers everything between “we need a website” and a live, indexed site that your staff can rely on. It is not just coding. A useful way to picture it is seven phases, each with a clear output you can check: a brief, a sitemap, a content set, approved designs, a staging build, a passed test sheet and a launched site with handover notes.`,
         `Skipping any phase moves its cost to a later one. A missing sitemap turns into a menu that keeps changing during the build. Missing content turns into a design filled with placeholder text that nobody can approve. Missing testing turns into a contact form that quietly sends enquiries to nowhere for a month.`,
-        `At BtechWaleTech the phases have owners. Vedansh Shrivastava runs the plan and the weekly check-ins, Ankur Kumar leads the full-stack build, and Santosh Sharma handles hosting on AWS, analytics and technical SEO. You speak to all three on one WhatsApp group, so nothing is relayed through a middle layer.`,
+        `At BtechWaleTech the phases have owners. The third of us runs the plan and the weekly check-ins, one of us leads the full-stack build, and another of us handles hosting on AWS, analytics and technical SEO. You speak to all three on one WhatsApp group, so nothing is relayed through a middle layer.`,
       ],
       list: [
         "Brief: one page on goals, audience and budget band",

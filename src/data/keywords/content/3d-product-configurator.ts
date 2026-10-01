@@ -243,7 +243,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A 3D product configurator is only useful if the order that reaches your workshop is unambiguous. Every configuration should produce a readable summary, a unique ID and a snapshot image attached to the order.`,
         `For furniture, the order sheet lists each part, its material code and dimensions. For jewellery, it lists metal, purity, stone, ring size and any engraving. For apparel, it lists colours by panel with their codes, names and numbers with font and position, and the size breakdown. For machinery, it lists every option, compatibility notes and the resulting part numbers. The format should match what your team already uses, so we ask for a sample job card early.`,
-        `Saved configurations are a second benefit. Buyers can share a link to their design on WhatsApp with family before paying, and sales staff can open the same link to answer questions. For B2B, the configuration can feed a quote in your CRM or an ERP. If your team handles orders on spreadsheets today, Vedansh can set up simple automation so configured orders land in the right sheet or tool automatically.`,
+        `Saved configurations are a second benefit. Buyers can share a link to their design on WhatsApp with family before paying, and sales staff can open the same link to answer questions. For B2B, the configuration can feed a quote in your CRM or an ERP. If your team handles orders on spreadsheets today, the third of us can set up simple automation so configured orders land in the right sheet or tool automatically.`,
       ],
     },
     {

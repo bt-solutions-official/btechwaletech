@@ -203,7 +203,7 @@ const sivakasi: CityContent = {
       heading: "How our remote team works with Sivakasi clients",
       paragraphs: [
         "We do not have a Sivakasi office, and we will not invent one. We are three engineers working remotely for businesses across India, and you speak directly to the people who build your project.",
-        "Ankur Kumar is our full-stack developer. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and covers data science and automation. A project starts with a WhatsApp chat or call about your business, followed by a page plan and itemised quote in about two working days. You check progress on your own phone through a preview link.",
+        "One of us is our full-stack developer. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and covers data science and automation. A project starts with a WhatsApp chat or call about your business, followed by a page plan and itemised quote in about two working days. You check progress on your own phone through a preview link.",
         "We keep IST hours and reply seven days a week, including during your busy season. To begin, <a href=\"/contact/\">send us a message</a> with what you make and who buys it.",
       ],
     },

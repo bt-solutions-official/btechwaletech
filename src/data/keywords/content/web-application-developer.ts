@@ -245,7 +245,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Build for your next two years of users, not for a million. Most business web apps serve tens to a few thousand users, and a well-built single application on modest cloud resources handles that comfortably.`,
         `What actually slows web apps is usually avoidable: missing database indexes, loading entire tables into one screen, repeated queries inside loops, and large unoptimised images or scripts on the front end. We design pages to fetch only what they show, add pagination and search early, and measure response times on staging with realistic data volumes.`,
-        `When growth comes, the usual upgrades are straightforward: a larger database instance, caching frequent reads, moving slow jobs such as report generation to background workers, and serving static files through a CDN. Santosh handles this AWS side, keeping cost in view, since oversized infrastructure is a quiet monthly drain.`,
+        `When growth comes, the usual upgrades are straightforward: a larger database instance, caching frequent reads, moving slow jobs such as report generation to background workers, and serving static files through a CDN. Another of us handles this AWS side, keeping cost in view, since oversized infrastructure is a quiet monthly drain.`,
       ],
     },
     {

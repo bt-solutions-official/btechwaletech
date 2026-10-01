@@ -142,7 +142,7 @@ const wardha: CityContent = {
         "In Wardha, as in most of Vidarbha, customers prefer to message. Farmers ask for today's kapas rate, patients' families ask about a doctor's availability, parents enquire about batches, and shop customers send photographs of what they want. Messages that arrive during busy hours often wait until night, and some are forgotten.",
         "Our WhatsApp automation projects start at ₹40,000. Using the official WhatsApp Business platform, we set up replies in Marathi, Hindi and English for your common questions: timings, fees, stock, location and how to order or book. Every conversation is saved, and anything needing judgement, like a bulk order, a complaint or a medical concern, goes directly to a person.",
         "We are strict about limits. A bot should not quote a final rate for a truckload, confirm an unchecked appointment or promise a delivery date. Those decisions stay with you. The automation takes care of the routine questions, which in most businesses are the majority, so your staff can focus on the rest.",
-        "For larger organisations, AI can help further: reading scanned purchase slips into a register, summarising daily enquiries, or drafting replies for staff to review. Santosh Sharma, who leads our AI and data work, will tell you plainly whether a proposed automation will save you time or simply add complexity.",
+        "For larger organisations, AI can help further: reading scanned purchase slips into a register, summarising daily enquiries, or drafting replies for staff to review. Another of us, who leads our AI and data work, will tell you plainly whether a proposed automation will save you time or simply add complexity.",
       ],
     },
     {
@@ -160,7 +160,7 @@ const wardha: CityContent = {
       heading: "No Wardha office: working with a remote team of three",
       paragraphs: [
         "We are three engineers working remotely. We have no office in Wardha or any other city, and we will not claim a local address to look nearby. You deal directly with the people building your website, and our starting prices are lower because we pay no rent.",
-        "Ankur Kumar does full-stack development, covering both the pages customers see and the systems behind them. Santosh Sharma works on AI, machine learning, AWS hosting and data. Vedansh Shrivastava manages projects and handles data science and automation. The person who replies on WhatsApp is someone who works on your project.",
+        "One of us does full-stack development, covering both the pages customers see and the systems behind them. Another of us works on AI, machine learning, AWS hosting and data. The third of us manages projects and handles data science and automation. The person who replies on WhatsApp is someone who works on your project.",
         "We begin with a conversation about your business and customers, then send a short checklist for photographs, text, prices and logos. As the site takes shape, you receive a private preview link to check on your own phone. Changes are quick, and you can see progress at every stage.",
         "We reply seven days a week in Indian time, including weekends during the cotton season, when many Wardha businesses are busiest. We communicate in English or Hindi, and we work with you or your staff on any Marathi text, which you approve before it goes live.",
       ],

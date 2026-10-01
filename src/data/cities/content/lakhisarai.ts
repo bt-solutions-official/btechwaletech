@@ -168,7 +168,7 @@ const lakhisarai: CityContent = {
       paragraphs: [
         "We do not have an office in Lakhisarai, Patna or anywhere else, and we will not claim one. We are three engineers working remotely for clients across India. That keeps our costs and prices low, and it means you speak directly with the people who build your site, not with a salesperson.",
         "The first step is a phone call or a WhatsApp voice note in Hindi or English. We then send a page plan, a timeline and an itemised quote. Once you approve it, you get a preview link within a week or two that you can open on your phone and show your family or partners. Changes happen over WhatsApp and screen sharing, and we reply every day of the week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles automation and data science. You can <a href=\"/contact/\">message any of us</a> directly.",
+        "One of us leads full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and handles automation and data science. You can <a href=\"/contact/\">message any of us</a> directly.",
       ],
     },
     {

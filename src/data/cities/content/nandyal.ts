@@ -169,7 +169,7 @@ const nandyal: CityContent = {
       paragraphs: [
         "We have no office in Nandyal and will not claim one. We are three engineers working remotely for clients across India, which keeps rent and sales staff out of our starting prices and lets you talk directly to the people building your site.",
         "We start with a WhatsApp chat or call about your business, then send a page plan, timeline and quote in writing. Within a week or two you receive a preview link to check on your own phone and share with partners or family. Feedback can be sent as text, screenshots or voice notes in Telugu or English, and small changes often go live the same day. We work on Indian time and reply seven days a week.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation.",
       ],
     },
     {

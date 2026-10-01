@@ -168,7 +168,7 @@ const ganjbasoda: CityContent = {
       paragraphs: [
         "We do not have an office in Ganjbasoda, Vidisha or Bhopal, and we will not claim one. We are three engineers who work remotely for clients across India. Without rent or sales staff, our prices stay lower, and you talk to the people actually building your site.",
         "Everything happens by WhatsApp, phone and screen sharing. We start with a call about your business and send a page plan, timeline and itemised quote, usually within two working days. After your approval, a live preview link arrives within a week or two for a small site. You can open it on your phone at the mandi or the quarry, show it to your partners, and send corrections as voice notes.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles automation and data science. You can <a href=\"/contact/\">contact any of us</a>, seven days a week.",
+        "One of us builds the websites and applications. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and handles automation and data science. You can <a href=\"/contact/\">contact any of us</a>, seven days a week.",
       ],
     },
     {

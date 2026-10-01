@@ -159,7 +159,7 @@ const patiala: CityContent = {
       paragraphs: [
         "We have no office in Patiala, and we won't borrow an address to look local. Our team of three engineers works remotely for clients across India, and that is part of why the prices above are possible. You are not paying for rent, a receptionist or a sales executive, and you deal directly with the people doing the work.",
         "A project begins with a phone call or a WhatsApp chat about what you sell and to whom. We then send a page plan, a timeline and an itemised quote. Once you approve it, you get a preview link early, usually within the first week or two, which you can open on your own phone and share with family or partners. Changes are requested on WhatsApp and small ones often go live the same day. We work on Indian time and answer seven days a week, which helps shop owners who can only look at their site after closing.",
-        "Ankur Kumar builds the full-stack side of every project. Santosh Sharma takes care of AI, machine learning, AWS and data. Vedansh Shrivastava runs project management and handles data science and automation. You will always know who is doing what, and you can reach each of us directly. You can <a href=\"/contact/\">start a conversation here</a>.",
+        "One of us builds the full-stack side of every project. Another of us takes care of AI, machine learning, AWS and data. The third of us runs project management and handles data science and automation. You will always know who is doing what, and you can reach each of us directly. You can <a href=\"/contact/\">start a conversation here</a>.",
       ],
     },
     {

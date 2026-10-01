@@ -168,7 +168,7 @@ const kaithal: CityContent = {
       paragraphs: [
         "We do not have an office in Kaithal or anywhere in Haryana, and we do not list a fake address. We are three engineers working remotely for clients across India, and that is exactly why our starting prices are lower: no rent, no showroom, no sales team taking a commission.",
         "The process is simple. You message us on WhatsApp or <a href=\"/contact/\">through the contact page</a>. We call to understand your business, then send a written page plan, timeline and itemised quote, usually within two working days. Once you approve it, you get a private link to the site in progress, which you can open on your own phone and show your partners or family. Changes are requested on WhatsApp, and small ones are often done the same day.",
-        "Ankur Kumar builds the websites and web applications. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on automation and data science. You speak to the person doing the job, not a relationship manager, and replies come seven days a week in Indian time.",
+        "One of us builds the websites and web applications. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on automation and data science. You speak to the person doing the job, not a relationship manager, and replies come seven days a week in Indian time.",
       ],
     },
     {

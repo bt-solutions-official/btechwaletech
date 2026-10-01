@@ -27,7 +27,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "AI automation freelancer · Workflows for emails, documents and sheets",
     h1: "AI automation freelancer for the back-office work your team repeats every day",
-    lede: `An AI automation freelancer builds workflows that read, sort and write the routine text your team handles: inbox triage, document data entry, spreadsheet updates and recurring reports. BtechWaleTech is three freelance developers in India; Santosh leads AI and data, Vedansh maps and automates processes, and Ankur connects everything to your apps. Workflows start from ${P.ai}, take 2–4 weeks, run in accounts you own, and keep a person in charge of anything that matters.`,
+    lede: `An AI automation freelancer builds workflows that read, sort and write the routine text your team handles: inbox triage, document data entry, spreadsheet updates and recurring reports. BtechWaleTech is three freelance developers in India; another of us leads AI and data, the third of us maps and automates processes, and one of us connects everything to your apps. Workflows start from ${P.ai}, take 2–4 weeks, run in accounts you own, and keep a person in charge of anything that matters.`,
     pills: ["Email triage and drafts", "Document to spreadsheet", "Reports on a schedule", "CRM and sheet updates", "n8n, Python or Apps Script", "Human approval steps", "Clients in India and abroad"],
     origin: "Three freelance developers · Remote from India · Automation for teams in India and overseas",
   },

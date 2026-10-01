@@ -69,7 +69,7 @@ const rampurhat: CityContent = {
       paragraphs: [
         "Rampurhat is the third largest town in Birbhum and the headquarters of its most populous subdivision. Trains from Howrah, Sealdah, Malda and the Dumka line meet at its junction, NH 14 runs through it, and villages from the Jharkhand border to the Mayurakshi come here to buy, sell, study and see a doctor. Its economy leans on three very different pillars: the stone belt to the west, the pilgrim traffic of Tarapith, and a large government hospital.",
         "Enquiries we get for <strong>IT services in Rampurhat</strong> follow those pillars. A crusher owner wants dispatch records his accountant can trust. A Tarapith lodge wants direct bookings instead of paying agents. A diagnostic centre near the medical college wants patients to see test prices and report times. A wholesale trader wants retailers from Mallarpur and Murarai to place orders without a phone call.",
-        "We take on this work as a remote team of three: Ankur Kumar for full-stack development, Santosh Sharma for AI, machine learning, AWS and data, and Vedansh Shrivastava for project management, data science and automation. We have no office in Rampurhat. You work with us on WhatsApp and calls, with every plan and price written down.",
+        "We take on this work as a remote team of three: one of us for full-stack development, another of us for AI, machine learning, AWS and data, and the third of us for project management, data science and automation. We have no office in Rampurhat. You work with us on WhatsApp and calls, with every plan and price written down.",
       ],
     },
     {
@@ -118,7 +118,7 @@ const rampurhat: CityContent = {
       paragraphs: [
         "Farms around Rampurhat grow rice, wheat, mustard and vegetables, watered by the Brahmani, Dwarka and Mayurakshi systems. Grain traders, seed and fertiliser dealers, pump and tractor workshops and cold storage users all handle large volumes at thin margins, often on credit that runs from one harvest to the next.",
         "The problem we see most is not a missing website but missing numbers. A dealer may not know which retailers are most overdue, which products move in which month, or how much credit is outstanding in each block. Much of this sits in handwritten ledgers or in a Tally file that only the accountant opens.",
-        "We build simple billing and stock tools, or connect to the Tally data you already have, and turn it into a dashboard: sales by product and month, dues by retailer and block, stock that is not moving. Santosh leads this work, and it is written in plain terms an owner can read on a phone.",
+        "We build simple billing and stock tools, or connect to the Tally data you already have, and turn it into a dashboard: sales by product and month, dues by retailer and block, stock that is not moving. Another of us leads this work, and it is written in plain terms an owner can read on a phone.",
         "A small dashboard on existing data is usually quoted as automation work from ₹40,000. A full billing system with stock and credit control starts at ₹60,000.",
       ],
     },

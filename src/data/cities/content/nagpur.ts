@@ -98,7 +98,7 @@ const nagpur: CityContent = {
       paragraphs: [
         "Nagpur's position has made it a natural base for transport companies, warehousing and regional distribution, and MIHAN was planned around the airport partly to build on that. Freight operators, packers and movers, C&F agents and distributors for FMCG and pharma brands are a large, often invisible, part of the city's business base.",
         "For these companies a website mostly has to generate and qualify enquiries. A shipper wants to know which routes you run, what vehicle sizes you have, whether you handle part loads, how you track consignments and how to get a quote. We build route and service pages, a quote request form that asks for origin, destination, weight and dates, and a tracking page where it makes sense.",
-        "The bigger gains are often inside the business. We build web tools for trip planning, driver and vehicle records, proof-of-delivery photo uploads, fuel and expense entries and customer-wise billing. Santosh can connect them to dashboards on AWS so you see trips, margins and outstanding payments without waiting for someone to compile them. These projects start at ₹60,000.",
+        "The bigger gains are often inside the business. We build web tools for trip planning, driver and vehicle records, proof-of-delivery photo uploads, fuel and expense entries and customer-wise billing. Another of us can connect them to dashboards on AWS so you see trips, margins and outstanding payments without waiting for someone to compile them. These projects start at ₹60,000.",
       ],
     },
     {
@@ -159,7 +159,7 @@ const nagpur: CityContent = {
       paragraphs: [
         "In Nagpur offices, WhatsApp is where the day's work lands: freight enquiries, stock questions from retailers, appointment requests from patients, fee questions from parents. Staff answer many of these by hand, copy details into registers and forget a few when things get busy. Automating the predictable parts frees them for the conversations that need judgement.",
         "We connect your WhatsApp Business number, website forms and a sheet or CRM so every enquiry is recorded with its source and status. An AI assistant can answer routine questions in Marathi, Hindi or English using information you approve: route availability for a transporter, stock and rates for a trader, doctor timings for a clinic. Anything unusual goes straight to a person with the conversation history attached.",
-        "Automation starts at ₹40,000. Vedansh documents your current process first, and we automate only the steps that are repetitive and low-risk. Pricing negotiations, medical advice and payments stay with your team. If an automation would cost more to maintain than it saves, we will recommend against it.",
+        "Automation starts at ₹40,000. The third of us documents your current process first, and we automate only the steps that are repetitive and low-risk. Pricing negotiations, medical advice and payments stay with your team. If an automation would cost more to maintain than it saves, we will recommend against it.",
       ],
     },
     {
@@ -168,7 +168,7 @@ const nagpur: CityContent = {
       paragraphs: [
         "We do not have an office in Nagpur and we will not claim one. We are three engineers working remotely for clients across India. Without rent or a sales team to fund, our prices stay lower, and you speak directly with the people who build your website.",
         "The process is straightforward. We start with a call or WhatsApp chat, then send a written page plan, timeline and itemised quote. Within one or two weeks you receive a live preview link to open on your own phone. Feedback comes on WhatsApp and small edits usually go live the same day. We work on IST and reply seven days a week.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. You can message any of us directly.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. You can message any of us directly.",
       ],
     },
     {

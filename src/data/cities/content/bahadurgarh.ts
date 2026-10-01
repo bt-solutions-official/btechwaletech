@@ -144,7 +144,7 @@ const bahadurgarh: CityContent = {
       paragraphs: [
         "At a typical Bahadurgarh footwear or plastics unit, the sales manager's phone is the order system. Distributors send photos of articles they want, transporters send lorry receipts, and new buyers ask the same five questions about price, MOQ and delivery. Orders slip through, and nobody can say how many enquiries arrived last month or how many were converted.",
         "We connect your WhatsApp Business number and website forms to a shared sheet or a simple CRM. An AI assistant, trained only on the information you approve, can answer routine questions about article availability, MOQ, carton sizes and dispatch days in Hindi or English, collect the buyer's city and GST details, and hand the conversation to a person when it turns into negotiation. Dealer orders typed as messages can be turned into a clean order list for the godown.",
-        "Automation starts at ₹40,000. Santosh Sharma, who handles our AI and data work, maps your current flow first and suggests only what saves real hours. Rate negotiations, payment follow-ups and complaints stay with your team. If a process is too irregular to automate safely, we tell you that instead of selling it.",
+        "Automation starts at ₹40,000. Another of us, who handles our AI and data work, maps your current flow first and suggests only what saves real hours. Rate negotiations, payment follow-ups and complaints stay with your team. If a process is too irregular to automate safely, we tell you that instead of selling it.",
       ],
     },
     {
@@ -160,7 +160,7 @@ const bahadurgarh: CityContent = {
       id: "remote-team-bahadurgarh",
       heading: "How a remote team works with a Bahadurgarh owner",
       paragraphs: [
-        "We do not have an office in Bahadurgarh or in Delhi, and we will not list a fake address. We are three engineers who work remotely for businesses across India. Ankur Kumar builds the full-stack side. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava runs projects and works on data science and automation.",
+        "We do not have an office in Bahadurgarh or in Delhi, and we will not list a fake address. We are three engineers who work remotely for businesses across India. One of us builds the full-stack side. Another of us handles AI, machine learning, AWS and data. The third of us runs projects and works on data science and automation.",
         "The work runs on WhatsApp, phone calls and screen sharing. We start with a conversation about your products and buyers, send a page plan and itemised quote, and share a preview link within the first week or two that you can open on your phone. Photos of articles, machines or your premises can be sent straight from your phone. Changes are listed in one chat thread so nothing is forgotten.",
         "We work on IST and reply seven days a week. Many Bahadurgarh owners review drafts on Sunday, when the factory is quieter, and that suits us fine. You can <a href=\"/contact/\">contact us here</a>.",
       ],

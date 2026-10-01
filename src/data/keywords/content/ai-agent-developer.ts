@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Models", value: "Hosted APIs or open-weight models, chosen per task" },
       { label: "Safety", value: "Permission scopes, approval steps, spend caps, logs" },
       { label: "Quality", value: "Evaluation test set run before every change" },
-      { label: "Who builds it", value: "Santosh (AI, AWS), Ankur (integrations), Vedansh (process)" },
+      { label: "Who builds it", value: "Another of us (AI, AWS), one of us (integrations), the third of us (process)" },
     ],
   },
   services: {

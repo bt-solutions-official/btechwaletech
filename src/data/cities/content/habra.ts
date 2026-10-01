@@ -167,7 +167,7 @@ const habra: CityContent = {
       paragraphs: [
         "We have no office in Habra, Barasat or Kolkata, and we will not publish an address we do not use. We are three engineers working remotely for clients across India. Saving on rent and a sales team keeps our rates down, and the person you talk to writes the code.",
         "We begin with a call or WhatsApp chat about your business. You then get a page plan, timeline and itemised quote in writing. Within one to two weeks a preview link comes to your phone, which you can share with family or partners. Changes are sent on WhatsApp, and small ones usually go live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. <a href=\"/contact/\">Message us</a> in Bengali, Hindi or English.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. <a href=\"/contact/\">Message us</a> in Bengali, Hindi or English.",
       ],
     },
     {

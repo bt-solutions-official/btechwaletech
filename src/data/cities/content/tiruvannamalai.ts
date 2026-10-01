@@ -168,7 +168,7 @@ const tiruvannamalai: CityContent = {
       paragraphs: [
         "We do not have an office in Tiruvannamalai or anywhere in Tamil Nadu, and we will not pretend to. We are three engineers working remotely for clients across India. Not paying rent or sales staff keeps our starting prices lower, and you speak directly to the people building the site.",
         "The work runs over calls, WhatsApp and screen sharing. We begin with a conversation about your guests or customers, then send a page plan, timeline and itemised quote. For a small site, a live preview link arrives within one to two weeks, and you can check it on your phone and show your family or partners. Small changes are usually done the same day, and we reply seven days a week on Indian time. Tamil text is drafted with care and checked by you before it goes live.",
-        "Ankur Kumar leads full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, automation and data science. If you want the site ready before Karthigai Deepam, <a href=\"/contact/\">contact us</a> two or three months ahead.",
+        "One of us leads full-stack development, another of us handles AI, machine learning, AWS and data, and the third of us manages projects, automation and data science. If you want the site ready before Karthigai Deepam, <a href=\"/contact/\">contact us</a> two or three months ahead.",
       ],
     },
     {

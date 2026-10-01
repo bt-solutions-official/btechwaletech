@@ -69,7 +69,7 @@ const tikamgarh: CityContent = {
       paragraphs: [
         "Tikamgarh is the commercial and administrative centre for a large rural district in Bundelkhand. Farmers bring grain and oilseed to its market, families come in for hospitals and court work, and students from Jatara, Palera, Baldeogarh and smaller villages come for colleges and coaching. Before most of those trips, somebody checks a phone.",
         "Requests we get for <strong>IT services in Tikamgarh</strong> are usually practical. A shop wants a Hindi site and a correct map pin. A clinic wants appointment requests on WhatsApp instead of a phone that rings all morning. A dealer wants to see which retailer owes how much. A brass workshop wants buyers in Delhi or Bengaluru to find it without going through three middlemen.",
-        "We are a remote group of three engineers. Ankur Kumar handles full-stack development, Santosh Sharma looks after AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Tikamgarh and will not pretend to; work happens over WhatsApp, calls and screen shares, with every plan written down.",
+        "We are a remote group of three engineers. One of us handles full-stack development, another of us looks after AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Tikamgarh and will not pretend to; work happens over WhatsApp, calls and screen shares, with every plan written down.",
       ],
     },
     {

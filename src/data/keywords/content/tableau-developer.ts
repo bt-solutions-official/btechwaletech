@@ -41,7 +41,7 @@ const content: FreelanceContent = {
     ["After delivery", "2 months of free fixes"],
   ],
   stats: [
-    { value: "3", label: "Freelance developers, data led by Santosh" },
+    { value: "3", label: "Freelance developers, data led by another of us" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "2", label: "Months of free maintenance" },
     { value: "7", label: "Days a week on WhatsApp" },
@@ -119,7 +119,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A Tableau developer spends more time on data than on charts: agreeing definitions, shaping tables, building extracts and setting permissions. The visible dashboard is the last and smallest part of the work.`,
         `A typical engagement moves through five kinds of task. Connecting: linking Tableau to databases, warehouses, spreadsheets or cloud apps, and deciding live or extract for each. Shaping: joins, relationships, calculated fields and level-of-detail expressions that turn raw data into business measures. Designing: dashboard layouts for each audience, with filters and drill-downs that answer the next question. Securing: user filters, entitlement tables and project permissions. Operating: publishing, refresh schedules, alerts and documentation.`,
-        `In our team, Santosh leads the data and cloud side, Ankur handles portals and embedded analytics when Tableau views must live inside your own app, and Vedansh runs the plan, the definitions sessions and the reconciliation checks.`,
+        `In our team, another of us leads the data and cloud side, one of us handles portals and embedded analytics when Tableau views must live inside your own app, and the third of us runs the plan, the definitions sessions and the reconciliation checks.`,
       ],
     },
     {

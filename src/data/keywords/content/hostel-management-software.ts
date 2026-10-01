@@ -268,7 +268,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The hostel office uses a web application in the browser, built with a modern JavaScript front end, Node.js or Python on the server and PostgreSQL for data. It is hosted in your institution's own cloud account with daily backups. The student, parent, warden and guard apps are built in Flutter and published under your institution's developer accounts; Google's Play Console help lists a one-time US$25 registration fee, and Apple's developer programme is US$99 a year.`,
         `Parents are the audience least likely to install another app, so approvals also work on WhatsApp through the official Business Platform. Meta's pricing documentation says utility templates are free inside a 24-hour customer service window and charged outside it, so approval and alert messages remain inexpensive at hostel scale.`,
-        `You work directly with the three of us: Ankur Kumar on full-stack development, Santosh Sharma on cloud, data and technical SEO, and Vedansh Shrivastava on project management and automation. We work remotely in English and Hindi. We do not install gate hardware or visit campuses; your local vendor installs devices and we integrate with them.`,
+        `You work directly with the three of us: one of us on full-stack development, another of us on cloud, data and technical SEO, and the third of us on project management and automation. We work remotely in English and Hindi. We do not install gate hardware or visit campuses; your local vendor installs devices and we integrate with them.`,
       ],
     },
     {

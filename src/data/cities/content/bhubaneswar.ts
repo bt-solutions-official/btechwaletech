@@ -89,7 +89,7 @@ const bhubaneswar: CityContent = {
       paragraphs: [
         "Bhubaneswar's IT scene is more than the big campuses. Hundreds of smaller firms, many started by engineers from KIIT, IIT Bhubaneswar and other colleges, work on outsourced development, product builds and support for clients abroad. Incubators and state startup programmes have added more founders building products for Odisha and beyond.",
         "These teams usually have the skills to build their own website but not the time. The result is a homepage last touched two years ago, a portfolio that doesn't show recent work, and a careers page that never appears in search. We build fast static sites with clear service pages, case studies written around real outcomes, readable English for overseas prospects, and analytics set up correctly from the first day.",
-        "For product startups, the priorities are different: a landing page that can change weekly, a waitlist or demo booking flow, pricing pages you can edit yourself, and documentation or help pages that don't need a developer to update. We set up a structure your team can manage, and we remain available for the larger changes. If you need a web application behind the marketing site, Ankur and Santosh can build that too.",
+        "For product startups, the priorities are different: a landing page that can change weekly, a waitlist or demo booking flow, pricing pages you can edit yourself, and documentation or help pages that don't need a developer to update. We set up a structure your team can manage, and we remain available for the larger changes. If you need a web application behind the marketing site, one of us and another of us can build that too.",
         "Many Bhubaneswar firms also bid for government and public sector work, and their buyers read websites differently. A tender reviewer wants registration details, empanelments you actually hold, past projects with dates and scope, and named key personnel. We add a clear credentials page and a downloadable company profile so this information is easy to find and verify, rather than scattered across the homepage and a two-year-old brochure.",
       ],
     },
@@ -151,7 +151,7 @@ const bhubaneswar: CityContent = {
       paragraphs: [
         "We have no office in Bhubaneswar and won't pretend to have one. We are three engineers who work remotely for clients across India. That means no rent or sales staff built into your price, and it means you speak directly to the people doing the work.",
         "It starts with a call or WhatsApp conversation about your business and customers. We then send a written page plan, timeline and itemised quote. Within one to two weeks you receive a live preview link to open on your own phone, so you review a working site, not a picture of one. Feedback goes over WhatsApp, and small fixes usually go live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data engineering. Vedansh Shrivastava manages projects and works on data science and automation. You'll know who is responsible for each part of your project, and you can reach any of us directly.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data engineering. The third of us manages projects and works on data science and automation. You'll know who is responsible for each part of your project, and you can reach any of us directly.",
       ],
     },
     {

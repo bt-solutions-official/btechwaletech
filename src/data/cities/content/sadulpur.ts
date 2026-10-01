@@ -176,7 +176,7 @@ const sadulpur: CityContent = {
       paragraphs: [
         "We have no office in Sadulpur and won't pretend to. We are three engineers working remotely for clients across India. Without rent or sales staff, our prices stay lower, and you always talk to the person who is building your site.",
         "Everything happens on calls and WhatsApp. After a first conversation, we send a page plan, timeline and itemised quote in writing, usually within two working days. During the build, you get a live link to check on your own phone and show family or partners. Changes are sent on WhatsApp and small ones are often done the same day. We reply seven days a week.",
-        "Ankur Kumar builds websites and applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">contact any of us</a> directly.",
+        "One of us builds websites and applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">contact any of us</a> directly.",
       ],
     },
     {

@@ -270,7 +270,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Pick a developer who can explain, simply, how they stop overselling, how the scanner works offline and how late payments get their tickets. Those three answers separate a real ticketing build from a shopping cart with a QR plugin.`,
         `Ask whether you own the code, domain, hosting and payment gateway account. Ask how they will test before your release date and who is reachable during launch hour and event night. Ask for an itemised quote that separates the site, seat maps, scanner app and any messaging.`,
-        `Our team is small and hands-on: Ankur Kumar builds the site and scanner app, Santosh Sharma handles cloud hosting, load testing and search visibility, and Vedansh Shrivastava runs planning, testing with your staff and the launch checklist. We work remotely; we do not staff your gates or supply scanning hardware.`,
+        `Our team is small and hands-on: one of us builds the site and scanner app, another of us handles cloud hosting, load testing and search visibility, and the third of us runs planning, testing with your staff and the launch checklist. We work remotely; we do not staff your gates or supply scanning hardware.`,
       ],
       list: [
         "How is inventory protected when many buyers pay at once?",

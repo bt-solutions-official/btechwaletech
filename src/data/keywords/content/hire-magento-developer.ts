@@ -86,7 +86,7 @@ const content: FreelanceContent = {
       ["Cost pattern", "Salary and benefits every month", "Hourly, plus platform fees", `Itemised projects; upkeep from ${P.care}`],
       ["Availability for urgent issues", "Office hours, one person", "Depends on the individual", "Three people who know the store; WhatsApp 7 days"],
       ["If one person leaves", "Knowledge walks out", "Start searching again", "Two others already know the code"],
-      ["Coverage of hosting and DevOps", "Only if hired for it", "Varies widely", "Santosh handles AWS and servers"],
+      ["Coverage of hosting and DevOps", "Only if hired for it", "Varies widely", "Another of us handles AWS and servers"],
       ["Code and access ownership", "Yours", "Often on the freelancer's machine", "Your Git, your server, your keys"],
       ["Best volume of work", "Full-time, continuous", "Small one-off tasks", "Regular upkeep plus planned projects"],
       ["Very large Adobe Commerce Cloud programmes", "Possible with a team", "Rarely suitable", "Not our fit; a larger team suits better"],
@@ -142,7 +142,7 @@ const content: FreelanceContent = {
         { heading: "Magento DevOps or server engineer", text: "PHP-FPM, web server, Varnish, OpenSearch, database, cache storage, cron, deployments and backups. Hire this when the store is slow or unstable under load." },
       ],
       after: [
-        `On our team, Ankur Kumar covers full-stack development (backend modules and frontend), Santosh Sharma handles AWS, servers, data and technical SEO, and Vedansh Shrivastava manages the plan, testing schedule and automation. A small store rarely needs three separate hires; it needs someone who can tell which of the three problems it has.`,
+        `On our team, one of us covers full-stack development (backend modules and frontend), another of us handles AWS, servers, data and technical SEO, and the third of us manages the plan, testing schedule and automation. A small store rarely needs three separate hires; it needs someone who can tell which of the three problems it has.`,
       ],
     },
     {

@@ -173,7 +173,7 @@ const korba: CityContent = {
       id: "remote-team-korba",
       heading: "How our remote team works with Korba clients",
       paragraphs: [
-        "We do not have an office in Korba, and we will not pretend we do. We are three engineers who work remotely: Ankur Kumar builds full-stack web applications, Santosh Sharma leads AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation.",
+        "We do not have an office in Korba, and we will not pretend we do. We are three engineers who work remotely: one of us builds full-stack web applications, another of us leads AI, machine learning, AWS and data, and the third of us manages projects, data science and automation.",
         "You explain your requirement on WhatsApp or a short call, and we send an itemised written quote in about two working days. Work starts, and billing begins, only after your written approval. While we build, you see progress on a live preview link and can comment whenever you like.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time, and keep every decision in writing. For businesses used to working with large organisations, this documented, milestone-based process usually feels familiar.",
       ],

@@ -280,7 +280,7 @@ const content: FreelanceContent = {
         "<strong>Dashboard:</strong> a shared spreadsheet at first; a web dashboard when managers want live comparisons.",
       ],
       after: [
-        `Buying an off-the-shelf AI add-on is right when your process matches its defaults. Building makes sense when you have portal routing rules, language-based assignment, or approval steps no add-on supports. Santosh Sharma leads the AI and data side of our builds; Ankur Kumar handles integrations; Vedansh Shrivastava runs testing and rollout with your agents. See also <a href='/uae/ai-chatbot-development/'>AI chatbot development for Dubai</a> if your main goal is a website assistant.`,
+        `Buying an off-the-shelf AI add-on is right when your process matches its defaults. Building makes sense when you have portal routing rules, language-based assignment, or approval steps no add-on supports. Another of us leads the AI and data side of our builds; one of us handles integrations; the third of us runs testing and rollout with your agents. See also <a href='/uae/ai-chatbot-development/'>AI chatbot development for Dubai</a> if your main goal is a website assistant.`,
       ],
     },
     {

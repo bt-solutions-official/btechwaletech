@@ -69,7 +69,7 @@ const kadiri: CityContent = {
       paragraphs: [
         "Kadiri serves a wide dryland hinterland in the south of the old Anantapur region, now part of Sri Sathya Sai district. Farmers from mandals like Talupula, Nallacheruvu, Tanakal, Mudigubba and Gandlapenta bring their produce here, buy seed and inputs, visit doctors and send their children to school and college. The Narasimha temple brings a steady stream of pilgrims and large crowds at festival time.",
         "Enquiries for <strong>IT services in Kadiri</strong> are practical. A groundnut trader wants cleaner purchase and sale records. A lodge near the temple wants bookings before the Brahmotsavam. A handloom family wants to sell sarees directly to buyers in Bengaluru and Hyderabad. A clinic wants patients to know which doctor is available before they travel from a village.",
-        "We are a remote team of three, and we have no office in Kadiri. Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava looks after project management, data science and automation. We plan on WhatsApp and video calls and confirm everything in writing.",
+        "We are a remote team of three, and we have no office in Kadiri. One of us handles full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us looks after project management, data science and automation. We plan on WhatsApp and video calls and confirm everything in writing.",
       ],
     },
     {

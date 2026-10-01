@@ -321,7 +321,7 @@ const content: FreelanceContent = {
       id: "our-approach",
       heading: "How we build a paid website, and what stays yours",
       paragraphs: [
-        `We are three freelance developers. Ankur Kumar builds the site, Santosh Sharma handles technical SEO, hosting and analytics setup, and Vedansh Shrivastava plans the pages with you and keeps the project on schedule. We work in English and Hindi, and reply on WhatsApp seven days a week.`,
+        `We are three freelance developers. One of us builds the site, another of us handles technical SEO, hosting and analytics setup, and the third of us plans the pages with you and keeps the project on schedule. We work in English and Hindi, and reply on WhatsApp seven days a week.`,
         `A typical static site runs like this: you share what you sell, where you serve and what customers ask; we send an itemised quote in about two working days; after written approval we buy nothing in our own name, because the domain, hosting and Search Console are set up in yours. You see the pages on a preview link, ask for changes, and the site goes live in one to two weeks for most projects. Payment in India is by UPI or bank transfer.`,
         `What we do not do: host your site on an account you cannot access, bundle mandatory yearly packages, or promise rankings. If a free page genuinely serves you better right now, we will say that too. Reach us on the <a href='/contact/'>contact page</a>.`,
       ],

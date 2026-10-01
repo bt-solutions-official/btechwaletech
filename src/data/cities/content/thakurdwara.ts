@@ -69,7 +69,7 @@ const thakurdwara: CityContent = {
       paragraphs: [
         "Thakurdwara is the headquarters of one of Moradabad district's tehsils, a market town for more than two hundred villages on the road that runs from Moradabad to Kashipur and on to Ramnagar. Its history goes back at least to the eighteenth century, when the Rohilla ruler Ali Mohammed pushed out Thakur Mahendra Singh of Thakurdwara, and the town has been a trading point for farm produce ever since.",
         "Today it faces two ways. To the south lie the cane and mentha fields of western Uttar Pradesh and the brass city of Moradabad. To the north, across the border, is Kashipur with its factories and larger markets, and Jaspur a short drive away. Shops, dealers and clinics in Thakurdwara serve customers from both sides.",
-        "Most enquiries we receive for <strong>IT services in Thakurdwara</strong> are practical. A fertiliser dealer wants village retailers to see his stock. A clinic wants patients to know which doctor sits on which day. A cane contractor wants his advances and payments in one place. We handle this remotely as three engineers: Ankur Kumar builds the web and app side, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava plans each project and its automation.",
+        "Most enquiries we receive for <strong>IT services in Thakurdwara</strong> are practical. A fertiliser dealer wants village retailers to see his stock. A clinic wants patients to know which doctor sits on which day. A cane contractor wants his advances and payments in one place. We handle this remotely as three engineers: one of us builds the web and app side, another of us handles AI, machine learning, AWS and data, and the third of us plans each project and its automation.",
       ],
     },
     {
@@ -175,7 +175,7 @@ const thakurdwara: CityContent = {
       heading: "How a remote team works with a Thakurdwara business",
       paragraphs: [
         "We do not have an office in Thakurdwara, Moradabad or anywhere else. Our work runs on WhatsApp, phone calls and screen sharing. That keeps costs down, and it means you never have to take a day off to travel to a meeting in Moradabad or Kashipur.",
-        "It starts with a short conversation about what you sell and who buys it. Vedansh then sends a written plan: pages or screens, dates and an itemised cost list. Once you approve it, Ankur builds and Santosh sets up anything involving data, AI or hosting. You see progress on preview links that open on any phone, and you can show them to your partner or your son before saying yes.",
+        "It starts with a short conversation about what you sell and who buys it. The third of us then sends a written plan: pages or screens, dates and an itemised cost list. Once you approve it, one of us builds and another of us sets up anything involving data, AI or hosting. You see progress on preview links that open on any phone, and you can show them to your partner or your son before saying yes.",
         "Hindi wording is sent to you for checking before it goes live. We reply on WhatsApp every day of the week, Indian time. If something will be late, we tell you as soon as we know, with a new date. You pay in parts, each part after a stage you can see working, and nothing is billed before your written approval.",
       ],
     },

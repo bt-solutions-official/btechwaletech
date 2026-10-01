@@ -159,7 +159,7 @@ const jammu: CityContent = {
       paragraphs: [
         "We have no office in Jammu, and we will not borrow an address to look local. We are three engineers who work remotely with clients across India. For you, that means there is no rent or sales commission hidden in the quote, and the person you talk to is the person building your site.",
         "Work starts with a phone call or WhatsApp chat about your business, followed by a written page plan, timeline and quote. Within a week or two you get a live preview link to open on your own phone, not a static mock-up. Changes are sent on WhatsApp and small ones usually go live the same day. We work on Indian time, seven days a week, which suits shop owners who can only look at the site after closing or on a holiday.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma looks after AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and handles data science and automation. If network trouble or a holiday keeps one of us away, the other two carry on, which a lone freelancer cannot promise.",
+        "One of us handles full-stack development. Another of us looks after AI, machine learning, AWS and data work. The third of us manages projects and handles data science and automation. If network trouble or a holiday keeps one of us away, the other two carry on, which a lone freelancer cannot promise.",
       ],
     },
     {

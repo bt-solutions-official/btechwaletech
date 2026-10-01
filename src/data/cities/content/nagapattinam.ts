@@ -168,7 +168,7 @@ const nagapattinam: CityContent = {
       paragraphs: [
         "We do not have an office in Nagapattinam, Chennai or anywhere else in Tamil Nadu, and we will not show an address we do not use. We are three engineers who work remotely for clients across India. Not paying for a showroom or a sales team keeps our starting rates low, and it means the person you talk to on the first call writes the code.",
         "A project runs in a few clear steps. We begin with a WhatsApp or phone call about your customers, seasons and competitors. You receive a written page plan, timeline and itemised quote. Within a week or two a preview link arrives that you can open on your own phone, forward to partners and comment on. Corrections come back to us on WhatsApp, and small ones usually go live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data work. We work in English and Hindi, and we prepare Tamil content with you and your staff so it reads naturally. You can <a href=\"/contact/\">reach us here</a>.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data work. We work in English and Hindi, and we prepare Tamil content with you and your staff so it reads naturally. You can <a href=\"/contact/\">reach us here</a>.",
       ],
     },
     {

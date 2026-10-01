@@ -159,7 +159,7 @@ const firozpur: CityContent = {
       paragraphs: [
         "We do not have an office in Firozpur or anywhere else in Punjab, and we will not pretend otherwise with a borrowed address. BtechWaleTech is three engineers working remotely for clients across India. Skipping rent and sales staff is a large part of why our starting prices are lower than most agencies.",
         "Work happens over WhatsApp, phone calls and screen sharing. After a first conversation we send a page plan, a timeline and an itemised quote, normally within two working days. Once you approve, you get a preview link that you can open on your own phone, show your partners or children, and comment on by message or voice note. Small corrections are usually made the same day.",
-        "Ankur Kumar builds the websites and applications end to end. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava plans projects and builds automation and data science tools. You can <a href=\"/contact/\">reach us on WhatsApp</a> any day, Indian time.",
+        "One of us builds the websites and applications end to end. Another of us handles AI, machine learning, AWS and data work. The third of us plans projects and builds automation and data science tools. You can <a href=\"/contact/\">reach us on WhatsApp</a> any day, Indian time.",
       ],
     },
     {

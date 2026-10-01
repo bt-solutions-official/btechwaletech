@@ -174,7 +174,7 @@ const anand: CityContent = {
       id: "remote-team-anand",
       heading: "Who builds your site, and how we work remotely",
       paragraphs: [
-        "We have no office in Anand, and we will not borrow an address to look local. BtechWaleTech is three engineers working remotely for clients across India. Ankur Kumar builds websites and web applications from start to finish. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects, keeps timelines realistic and builds automation and data-science pieces.",
+        "We have no office in Anand, and we will not borrow an address to look local. BtechWaleTech is three engineers working remotely for clients across India. One of us builds websites and web applications from start to finish. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects, keeps timelines realistic and builds automation and data-science pieces.",
         "We start by asking about your customers. Within about two working days you receive a written page plan, timeline and itemised quote. After approval, we share a live preview link that you can open on your phone and forward to partners or family abroad. Feedback comes on WhatsApp, and small edits often go live the same day.",
         "We work in Indian time and reply seven days a week, which suits factory owners who review work after shifts and families coordinating with relatives overseas. You always know which engineer is on your project and can reach that person directly.",
       ],

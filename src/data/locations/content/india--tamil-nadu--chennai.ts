@@ -84,7 +84,7 @@ const content: CityContent = {
       paragraphs: [
         "The best IT services team in Chennai for a given project is the one whose team size, specialisation and working style match that project; for owner-led businesses and early-stage founders with focused requirements, a small freelance group is often a better fit than a large firm.",
         "If you are comparing IT companies in Chennai, look past the logo walls. Ask to see production systems they built and maintain today. Ask who will write your code and whether you can speak with them. Check if quotes are itemised. Confirm that the domain, cloud, app store and repository accounts will be yours. Ask what happens to your project if a key developer leaves.",
-        "BtechWaleTech is three engineers working as a freelance team. Ankur Kumar leads full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava handles project management, automation and data work. That means continuity and direct access, but also limits: no on-site staff, no round-the-clock staffed helpdesk and a small number of concurrent projects. We will tell you plainly if your project needs a bigger team.",
+        "BtechWaleTech is three engineers working as a freelance team. One of us leads full stack development, another of us covers AI, machine learning, AWS and data science, and the third of us handles project management, automation and data work. That means continuity and direct access, but also limits: no on-site staff, no round-the-clock staffed helpdesk and a small number of concurrent projects. We will tell you plainly if your project needs a bigger team.",
       ],
       list: [
         "See live systems they maintain, not only screenshots",

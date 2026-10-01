@@ -179,7 +179,7 @@ const tinsukia: CityContent = {
       paragraphs: [
         "We have no office in Tinsukia and will not claim one. We are three engineers working remotely for clients across India. That keeps our starting prices lower than those of agencies with offices and sales staff, and you deal directly with the people who build your system.",
         "We begin with a call or WhatsApp chat in Hindi or English, then send a page plan, a timeline and an itemised quote. Once you approve it, you get a preview link to test on your phone. Changes happen over chat and screen sharing, and we reply every day of the week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. You can <a href=\"/contact/\">reach us here</a> and speak to the person doing the work.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. You can <a href=\"/contact/\">reach us here</a> and speak to the person doing the work.",
       ],
     },
     {

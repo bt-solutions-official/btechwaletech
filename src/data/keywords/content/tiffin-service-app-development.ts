@@ -230,7 +230,7 @@ const content: FreelanceContent = {
       heading: "How tiffin service app development runs, from first call to launch",
       paragraphs: [
         `A typical first release takes 6–10 weeks for the apps and up to 12 weeks when the panel includes corporate accounts or multiple kitchens. The first week is spent writing down your rules: plans, cut-offs, skips, billing, routes.`,
-        `Vedansh leads the scoping call and turns your answers into a rule sheet: what each plan includes, prices, cut-off times, how skips are charged, which areas each rider covers. Ankur builds the apps and panel; Santosh sets up hosting in your name, the payment integration, and the reports you will look at every evening.`,
+        `The third of us leads the scoping call and turns your answers into a rule sheet: what each plan includes, prices, cut-off times, how skips are charged, which areas each rider covers. One of us builds the apps and panel; another of us sets up hosting in your name, the payment integration, and the reports you will look at every evening.`,
         `Before launch we run a parallel week: your team keeps the notebook, the panel runs alongside, and we compare counts and bills every day. Mismatches reveal rules nobody wrote down (“Sharma ji's family always gets two extra rotis”). Then customers move over in batches, regulars first, with a short video in Hindi or English showing how to skip a meal and top up the wallet.`,
       ],
       list: [

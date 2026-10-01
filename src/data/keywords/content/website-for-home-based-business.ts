@@ -236,7 +236,7 @@ const content: FreelanceContent = {
       heading: "How we build a home based business website, step by step",
       paragraphs: [
         `A website for home based business sellers takes one to two weeks to build, and most of that time depends on how quickly you send photos and the menu. The coding itself is the smaller part for a site this size.`,
-        `Day one is a WhatsApp or phone conversation in Hindi or English: what you sell, where you deliver, how you take payment, and what you want customers to do. Vedansh turns that into a page list and an itemised quote within about two working days. After you approve it in writing, Ankur designs the phone layout first and shares a preview link. You check it on your own phone and send changes. Santosh handles the domain connection, hosting, Search Console, Business Profile linking and structured data.`,
+        `Day one is a WhatsApp or phone conversation in Hindi or English: what you sell, where you deliver, how you take payment, and what you want customers to do. The third of us turns that into a page list and an itemised quote within about two working days. After you approve it in writing, one of us designs the phone layout first and shares a preview link. You check it on your own phone and send changes. Another of us handles the domain connection, hosting, Search Console, Business Profile linking and structured data.`,
         `Before launch we test every order button on Android and iPhone, confirm the WhatsApp message comes through complete, and check the pages on slow mobile data. Then we go live, share the handover notes and stay on for two months of free maintenance.`,
       ],
     },

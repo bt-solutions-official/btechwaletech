@@ -107,7 +107,7 @@ const content: FreelanceContent = {
         `LLM fine-tuning services deliver a version of an existing language model, or a small adapter file on top of it, that has been trained on your examples to perform one job more consistently. A good engagement also delivers the cleaned dataset, the training scripts and an evaluation report showing how the tuned model compares with the untuned one.`,
         `Fine-tuning changes behaviour, not knowledge. Think of it as teaching a capable new hire your house style and your categories by showing them hundreds of worked examples, rather than handing them a library. The model learns patterns: how your replies are structured, which label a message deserves, which JSON fields to fill and how.`,
         `What it does not reliably do is memorise facts for accurate recall. If you fine-tune on your product catalogue, the model may still invent prices or mix up products. Facts belong in a retrieval layer the model reads at answer time. This single distinction saves more budgets than any technical choice.`,
-        `At BtechWaleTech, Santosh Sharma leads AI and ML work, with Vedansh Shrivastava on data preparation and automation and Ankur Kumar integrating the result into your software. You talk to the three of us directly.`,
+        `At BtechWaleTech, another of us leads AI and ML work, with the third of us on data preparation and automation and one of us integrating the result into your software. You talk to the three of us directly.`,
       ],
       list: [
         "A baseline report: how well prompting and retrieval already do",

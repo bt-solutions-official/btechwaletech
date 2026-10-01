@@ -68,7 +68,7 @@ const viramgam: CityContent = {
       paragraphs: [
         "Viramgam has been a crossing point for a long time. Rail lines from Ahmedabad, Mahesana, Surendranagar and Kutch meet at its junction, National Highway 947 carries road freight through it, and an inland container depot handles cargo for industry in the region. Around that transport core sits a farming town with an APMC, ginning units, farm input dealers, schools, hospitals and a market that serves villages across the taluka.",
         "The past decade has added the Mandal–Becharaji Special Investment Region to the north, anchored by the Suzuki car plant at Hansalpur. That has pulled in component makers, transporters, contract staffing firms, canteens and rental housing. When people here ask us for <strong>IT services in Viramgam</strong>, it is usually one of three things: a proper Gujarati and English website that makes a small firm look credible to a larger buyer, cleaner records for trips, bales or stock, or a WhatsApp flow that stops customers waiting for replies.",
-        "Three of us do this work remotely. Ankur Kumar is the full-stack developer, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava looks after project management, data science and automation. There is no Viramgam office and we will not pretend otherwise. You deal with us over WhatsApp, phone and screen share, and each decision is written down so both sides can refer back to it.",
+        "Three of us do this work remotely. One of us is the full-stack developer, another of us handles AI, machine learning, AWS and data, and the third of us looks after project management, data science and automation. There is no Viramgam office and we will not pretend otherwise. You deal with us over WhatsApp, phone and screen share, and each decision is written down so both sides can refer back to it.",
       ],
     },
     {
@@ -166,7 +166,7 @@ const viramgam: CityContent = {
       id: "remote-team-viramgam",
       heading: "How our remote IT team works with Viramgam clients",
       paragraphs: [
-        "Without an office in Viramgam, we make up for the missing handshake with documents. Ankur Kumar develops the sites and applications, Santosh Sharma takes the AI, cloud and data parts, and Vedansh Shrivastava plans timelines and automation. After an initial call about your trade, you receive a written scope with pages or app screens, milestone dates and the price of each piece.",
+        "Without an office in Viramgam, we make up for the missing handshake with documents. One of us develops the sites and applications, another of us takes the AI, cloud and data parts, and the third of us plans timelines and automation. After an initial call about your trade, you receive a written scope with pages or app screens, milestone dates and the price of each piece.",
         "Nothing is built and nothing is invoiced until you approve that scope. While we work, you get preview links that open on any phone, so partners, family members or your accountant can look at them too. Gujarati copy comes to you for checking before launch, since a mistake on a rate board or school circular is the kind of thing people notice at once.",
         "WhatsApp messages get answered every day of the week, on Indian time. When a milestone is going to slip, you are told as soon as we know, with the reason and a revised date. Payments are tied to milestones you can test yourself, which keeps a first project low-risk.",
       ],

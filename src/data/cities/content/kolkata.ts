@@ -186,7 +186,7 @@ const kolkata: CityContent = {
       paragraphs: [
         "We don't have a Kolkata office and we won't list a borrowed address to seem local. We are three engineers working remotely for clients across India. That keeps office rent and sales staff out of your price, and it means the person answering your message is the one building your site.",
         "Each project begins with a call or WhatsApp chat, followed by a written page plan, timeline and itemised quote. Within a week or two you receive a live preview link to check on your own phone. Feedback goes on WhatsApp, and small changes usually appear the same day. We work on Indian time and answer seven days a week, useful for owners who can only look at their website after the shop closes.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava runs project management along with data science and automation work. You can talk to any of us directly.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us runs project management along with data science and automation work. You can talk to any of us directly.",
       ],
     },
     {

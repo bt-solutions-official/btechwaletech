@@ -84,7 +84,7 @@ const content: FreelanceContent = {
     columns: ["Consideration", "Contractor via a staffing firm", "Solo Angular freelancer", "BtechWaleTech"],
     rows: [
       ["Billing basis", "Monthly or hourly contract rate", "Hourly or per milestone", `Itemised project quote; Angular builds from ${P.software}`],
-      ["Who directs the work", "You manage the contractor daily", "You, with no second opinion", "Vedansh plans milestones; you approve each one"],
+      ["Who directs the work", "You manage the contractor daily", "You, with no second opinion", "The third of us plans milestones; you approve each one"],
       ["Code review", "Only if your team does it", "Rarely", "Second developer reviews every pull request"],
       ["Back end, cloud, data", "Separate contractors", "Depends on the person", "Node, Python, AWS and data work within the team"],
       ["Continuity", "Replacement if they leave, with ramp-up", "Single point of failure", "Two others already know the code"],

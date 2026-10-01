@@ -54,7 +54,7 @@ const content: FreelanceContent = {
   snapshot: {
     caption: "Working with our offshore team",
     rows: [
-      { label: "Who you talk to", value: "Ankur, Santosh and Vedansh, the people doing the work" },
+      { label: "Who you talk to", value: "The BtechWaleTech team, the people doing the work" },
       { label: "Channels", value: "WhatsApp, email, video calls, shared staging links" },
       { label: "Time zone", value: "IST (UTC+5:30); calls arranged in your morning or evening" },
       { label: "Websites", value: `From ${P.siteUsd}, 1–2 weeks` },
@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `An offshore web development team is a group of developers based in another country who build, run and improve your web products while you manage them remotely. The work itself is the same as with a local team: planning, design, code, testing, deployment and maintenance. What changes is distance, time zone, contracts and payment.`,
         `The term usually brings to mind a large vendor with hundreds of engineers and a project manager in the middle. That is one model. Another, which is ours, is a small offshore web development team of senior generalists where the client talks to the builders directly. Both work; they solve different problems.`,
-        `BtechWaleTech is three freelance developers in India. Ankur Kumar leads full-stack development, Santosh Sharma covers AWS, data, AI and technical SEO, and Vedansh Shrivastava handles project management, data science and automation. Every message you send is read by someone who can also change the code.`,
+        `BtechWaleTech is three freelance developers in India. One of us leads full-stack development, another of us covers AWS, data, AI and technical SEO, and the third of us handles project management, data science and automation. Every message you send is read by someone who can also change the code.`,
       ],
     },
     {

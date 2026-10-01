@@ -30,7 +30,7 @@ const content: FreelanceContent = {
     h1: "How to rank on ChatGPT: what makes it recommend a business, and what you can change",
     lede: `How to rank on ChatGPT comes down to three things you can influence: whether its search can reach your pages, whether other websites and reviews vouch for you, and whether your pages answer the question in plain, quotable sentences. BtechWaleTech is three freelance developers in India who check each of these on your site, fix what is broken, and set up tracking so you can see <a href='/ga4-setup-service/'>ChatGPT visits in GA4</a>. The work runs inside monthly SEO from ${P.seo}; nobody can promise a mention, and we do not.`,
     pills: ["Bing indexing check", "OAI-SearchBot access", "Review and mention plan", "Answer-first service pages", "Prompt testing log", "GA4 ChatGPT channel", "Hindi and English"],
-    origin: "Three freelance developers in India · ChatGPT visibility led by Santosh Sharma · WhatsApp replies 7 days a week",
+    origin: "Three freelance developers in India · ChatGPT visibility led by another of us · WhatsApp replies 7 days a week",
   },
   facts: [
     ["Help from", `${P.seo} · ${P.seoUsd}`],

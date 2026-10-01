@@ -70,7 +70,7 @@ const chaibasa: CityContent = {
       paragraphs: [
         "Chaibasa is where West Singhbhum comes to get things done. District offices, courts, banks, Kolhan University and its colleges, hospitals and wholesale markets all sit here, and people travel in from Chakradharpur, Jhinkpani, Tonto, Noamundi and a wide spread of villages.",
         "Most enquiries we get for <strong>IT services in Chaibasa</strong> are practical. A transporter wants proper trip records. A coaching institute wants its batches and fees online. A hardware or electrical shop in Sadar Bazar wants a correct Google Maps pin and a WhatsApp link for rate checks. A contractor wants a website that a mining company's vendor desk will accept as proof that it exists.",
-        "We handle these as a remote team of three. Ankur Kumar does full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. There is no Chaibasa office, and we say so at the start. We work over WhatsApp, calls and screen shares, and every plan, quote and change is written down.",
+        "We handle these as a remote team of three. One of us does full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. There is no Chaibasa office, and we say so at the start. We work over WhatsApp, calls and screen shares, and every plan, quote and change is written down.",
         "That setup saves you trips to Jamshedpur or Ranchi for meetings and keeps our starting prices lower than those of city agencies with rent to cover.",
       ],
     },

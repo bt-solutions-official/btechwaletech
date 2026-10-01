@@ -34,9 +34,9 @@ const content: FreelanceContent = {
   facts: [
     ["Built for", "Independent hotels, resorts, heritage stays, homestays, guest houses"],
     ["Main goal", "More bookings on your own website"],
-    ["Schema and technical SEO", "Santosh Sharma"],
-    ["Website and booking integration", "Ankur Kumar"],
-    ["Content and review routine", "Vedansh Shrivastava"],
+    ["Schema and technical SEO", "Another of us"],
+    ["Website and booking integration", "One of us"],
+    ["Content and review routine", "The third of us"],
     ["Monthly SEO", `From ${P.seo} · ${P.seoUsd} for properties abroad`],
   ],
   stats: [

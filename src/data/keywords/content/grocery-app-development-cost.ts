@@ -122,7 +122,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The grocery app development cost is made of the customer app, the admin panel, the catalogue work, delivery logic, stock sync and publishing. The screens a customer sees are only one slice; grocery is data-heavy, and the data work is where cheap quotes cut corners.`,
         `A fashion or electronics store might list two hundred products. A neighbourhood supermarket easily lists three to eight thousand, many in several pack sizes, and prices change weekly. So the quote must include importing that catalogue, cleaning names and categories, attaching images, and deciding how stock and prices stay current.`,
-        `With BtechWaleTech, Ankur Kumar builds the app and admin, Santosh Sharma handles the catalogue import, billing sync and cloud setup, and Vedansh Shrivastava plans slots, delivery rules and testing with your staff. You speak to all three on WhatsApp.`,
+        `With BtechWaleTech, one of us builds the app and admin, another of us handles the catalogue import, billing sync and cloud setup, and the third of us plans slots, delivery rules and testing with your staff. You speak to all three on WhatsApp.`,
       ],
       subs: [
         { heading: "Fixed-ish parts", text: "Customer app screens, login by phone OTP, cart and checkout, admin basics, publishing to Google Play and the App Store." },

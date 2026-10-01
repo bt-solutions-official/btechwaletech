@@ -242,7 +242,7 @@ const content: FreelanceContent = {
         { heading: "After launch", text: "Monthly check of predicted versus actual, retraining when drift appears, and a written note on model health." },
       ],
       after: [
-        `Vedansh manages the plan and your weekly update, Santosh builds the data pipeline and models, and Ankur handles CRM integration and any web dashboard.`,
+        `The third of us manages the plan and your weekly update, another of us builds the data pipeline and models, and one of us handles CRM integration and any web dashboard.`,
       ],
     },
     {

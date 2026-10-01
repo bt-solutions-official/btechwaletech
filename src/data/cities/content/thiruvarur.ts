@@ -175,7 +175,7 @@ const thiruvarur: CityContent = {
       id: "remote-team-thiruvarur",
       heading: "Working with a remote team from Thiruvarur: how the process runs",
       paragraphs: [
-        "We have no office in Thiruvarur or anywhere in the delta, and we do not pretend otherwise. The team is three engineers: Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava manages projects and builds data science and automation pieces. You talk directly to the people doing the work.",
+        "We have no office in Thiruvarur or anywhere in the delta, and we do not pretend otherwise. The team is three engineers: one of us handles full-stack development, another of us handles AI, machine learning, AWS and data work, and the third of us manages projects and builds data science and automation pieces. You talk directly to the people doing the work.",
         "A project begins with a WhatsApp message or call about your business and what you want to change. We send a written scope with an itemised quote, and work starts only after you agree to it. You then see the website or app on preview links from your phone, send comments in Tamil or English, and approve each stage. Photographs can be taken on a phone; we guide you on angles and light.",
         "We reply on WhatsApp seven days a week during Indian working hours, which matters for shop owners who only have time on Sundays. When a meeting is useful, a video call does the job. If you prefer to start, send your requirement through the <a href=\"/contact/\">contact page</a> and we will come back with questions rather than a sales pitch.",
       ],

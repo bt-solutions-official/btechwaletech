@@ -142,7 +142,7 @@ const ranebennuru: CityContent = {
         "In Ranebennuru, business happens on WhatsApp. Dealers ask about seed stock, farmers ask which variety suits their land, traders send rates and patients' families ask when a doctor is available. When the owner is busy in the yard, at the processing plant or in the clinic, messages pile up.",
         "Our WhatsApp automation projects start at ₹40,000. Using the official WhatsApp Business platform, we set up replies in Kannada and English for the questions you receive daily: timings, stock, rates, location and how to order or book. Every conversation is recorded, and anything that needs judgement, such as a dealer order, a crop complaint or a medical concern, goes directly to a person.",
         "Seed businesses need particular care here. A bot must never give agronomic advice that could cost a farmer a crop, or promise results. It can share product leaflets, point to the nearest dealer and collect details of a complaint for your field team, but the advice itself stays with trained staff.",
-        "Larger companies can use AI for more: reading scanned inspection sheets into a register, summarising daily dealer enquiries or drafting replies for staff to approve. Santosh Sharma, who leads our AI and data work, will tell you honestly whether an idea will save time or only add complexity before you spend anything.",
+        "Larger companies can use AI for more: reading scanned inspection sheets into a register, summarising daily dealer enquiries or drafting replies for staff to approve. Another of us, who leads our AI and data work, will tell you honestly whether an idea will save time or only add complexity before you spend anything.",
       ],
     },
     {
@@ -160,7 +160,7 @@ const ranebennuru: CityContent = {
       heading: "No office in Ranebennuru: how we work remotely",
       paragraphs: [
         "We are three engineers working remotely. We do not have an office in Ranebennuru or anywhere else, and we will not list a borrowed address to seem local. You work directly with the people building your website, and our prices carry no rent.",
-        "Ankur Kumar handles full-stack development, meaning the pages customers see and the systems behind them. Santosh Sharma works on AI, machine learning, AWS hosting and data. Vedansh Shrivastava manages projects and works on data science and automation. Whoever replies on WhatsApp knows your project.",
+        "One of us handles full-stack development, meaning the pages customers see and the systems behind them. Another of us works on AI, machine learning, AWS hosting and data. The third of us manages projects and works on data science and automation. Whoever replies on WhatsApp knows your project.",
         "We start with a conversation about your business, then send a short checklist for photographs, text, product details and logos. While we build, you receive a private preview link to check on your own phone. Changes are made quickly, and you can see progress throughout.",
         "We reply seven days a week in Indian time, including during the sowing and harvest seasons when seed and trade businesses are busiest. We talk in English or Hindi, and work with you or your staff on the Kannada text, which you approve before anything goes live.",
       ],

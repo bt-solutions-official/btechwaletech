@@ -70,7 +70,7 @@ const perambalur: CityContent = {
       paragraphs: [
         "Most requests for <strong>IT services in Perambalur</strong> come from three directions: farm trade, the education and hospital cluster that has grown along the Tiruchirappalli highway, and the ancillary firms feeding the tyre and sugar plants. Each wants something different, which is why a single template page rarely helps any of them.",
         "Perambalur became a district headquarters in 1995 and now handles the paperwork, banking and treatment needs of four taluks. Families from Kunnam, Alathur and Veppanthattai come here for hospitals, hostels, tractor spares and gold purchases. Before they travel, they check a phone: who is open, which doctor sits today, what a course costs.",
-        "We are three engineers working remotely and we have no office in Perambalur. Ankur Kumar writes the full-stack code, Santosh Sharma takes the AI, machine learning, AWS and data work, and Vedansh Shrivastava handles planning and automation. You talk to the person building your thing, and the written plan arrives before the bill does.",
+        "We are three engineers working remotely and we have no office in Perambalur. One of us writes the full-stack code, another of us takes the AI, machine learning, AWS and data work, and the third of us handles planning and automation. You talk to the person building your thing, and the written plan arrives before the bill does.",
       ],
     },
     {

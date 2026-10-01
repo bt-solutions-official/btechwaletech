@@ -169,7 +169,7 @@ const content: FreelanceContent = {
       heading: "Hosting a custom CRM in AWS Frankfurt",
       paragraphs: [
         `Host the CRM in AWS’s Frankfurt region (eu-central-1) or on your own servers in Germany, with the cloud account in your company’s name. That keeps customer data in Germany at rest and makes the processor contract a matter between you and your provider.`,
-        `A typical setup for an SME CRM: a managed database with automated backups and encryption, the application on a small managed container or server setup, file storage for attachments, a separate staging environment and monitoring for errors and uptime. Santosh on our team handles AWS architecture and sizes it to your user count rather than to worst-case assumptions.`,
+        `A typical setup for an SME CRM: a managed database with automated backups and encryption, the application on a small managed container or server setup, file storage for attachments, a separate staging environment and monitoring for errors and uptime. Another of us on our team handles AWS architecture and sizes it to your user count rather than to worst-case assumptions.`,
         `AWS offers a data processing addendum for GDPR purposes, which you accept in your own account. If your policy requires a German-owned host instead, the same application runs on a German provider’s servers. Either way, we work through access you grant and can revoke.`,
       ],
       after: [`For the website side of data protection, see our <a href='/germany/gdpr-compliant-website/'>GDPR-compliant website</a> guide.`],

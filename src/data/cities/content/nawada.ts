@@ -169,7 +169,7 @@ const nawada: CityContent = {
       paragraphs: [
         "We do not have an office in Nawada, and we would rather say so than invent one. We are three engineers working remotely for clients across India. Having no rent and no sales staff helps keep our starting prices where they are, and you talk directly to the people doing the work.",
         "Everything runs over calls, WhatsApp and screen sharing. We first ask about your customers and the questions they ask most. Then we send a page plan, a timeline and an itemised quote. After approval you get a preview link that you can open on your phone and share with family or partners. Small changes asked on WhatsApp are often done the same day, and we reply seven days a week on Indian time.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. When you are ready, <a href=\"/contact/\">contact us</a>.",
+        "One of us builds the websites and applications. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. When you are ready, <a href=\"/contact/\">contact us</a>.",
       ],
     },
     {

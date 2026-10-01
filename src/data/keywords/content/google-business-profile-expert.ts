@@ -28,7 +28,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Google Business Profile expert · Maps, reviews, posts",
     h1: "Google Business Profile expert help for more calls, direction requests and honest reviews",
-    lede: `A Google Business Profile expert sets up, verifies and maintains the listing that appears when people search for your business or a service near them on Google Search and Maps. BtechWaleTech is three freelance developers in India, and Santosh leads local and technical SEO. We fix categories, services, photos and hours, reply to reviews, publish posts and connect the profile to a fast website, all within Google's guidelines. Ongoing local SEO starts at ${P.seo} a month.`,
+    lede: `A Google Business Profile expert sets up, verifies and maintains the listing that appears when people search for your business or a service near them on Google Search and Maps. BtechWaleTech is three freelance developers in India, and another of us leads local and technical SEO. We fix categories, services, photos and hours, reply to reviews, publish posts and connect the profile to a fast website, all within Google's guidelines. Ongoing local SEO starts at ${P.seo} a month.`,
     pills: ["Setup and verification help", "Category and service clean-up", "Review replies", "Weekly posts", "Photo plan", "Suspension recovery", "Search Console + Maps insights"],
     origin: "Three freelance developers · Remote from India · Local businesses in every state",
   },

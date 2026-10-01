@@ -70,7 +70,7 @@ const muktsar: CityContent = {
       paragraphs: [
         "Sri Muktsar Sahib is a district headquarters in the south-west of Punjab, bordering Rajasthan and Haryana to the south and sitting between Bathinda, Faridkot, Firozpur and Fazilka. Its economy is farming first: cotton, wheat and paddy pass through its grain markets, and the town supplies seed, fertiliser, machinery, cloth, gold and medicine to a big rural belt.",
         "Most requests we see for <strong>IT services in Muktsar</strong> are specific. An arhtiya wants a clean ledger that farmers can check. A jutti workshop wants orders from Canada and Delhi. A hospital wants patients from Lambi and Gidderbaha to see OPD timings. An IELTS or coaching centre wants its batches, fees and results shown honestly.",
-        "We are three engineers working remotely: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We have no Muktsar office and say so at the start. Work runs on WhatsApp, calls, screen shares and written plans, which keeps our starting prices where they are.",
+        "We are three engineers working remotely: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We have no Muktsar office and say so at the start. Work runs on WhatsApp, calls, screen shares and written plans, which keeps our starting prices where they are.",
       ],
     },
     {

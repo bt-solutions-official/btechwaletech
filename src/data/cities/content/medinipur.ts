@@ -168,7 +168,7 @@ const medinipur: CityContent = {
       paragraphs: [
         "We have no office in Medinipur, Kharagpur or Kolkata, and we will not publish an address we do not use. We are three engineers working remotely for clients across India. Not paying for an office or a sales team keeps our rates low, and the person you talk to is the person writing your site.",
         "We start with a call about your business and customers, then send a page plan, timeline and itemised quote in writing. A preview link reaches your phone within one to two weeks so you can check it yourself and share it with partners. Changes go over WhatsApp, and small ones usually go live the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. <a href=\"/contact/\">Write to us</a> in Bengali, Hindi or English.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. <a href=\"/contact/\">Write to us</a> in Bengali, Hindi or English.",
       ],
     },
     {

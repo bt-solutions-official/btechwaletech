@@ -324,7 +324,7 @@ const content: FreelanceContent = {
       heading: "Who should handle SEO for a new website, and what you should own",
       paragraphs: [
         `Ideally, the same people who build the site, because most new-site SEO lives in the templates, the URL plan and the launch-day setup. When a designer builds the site and an SEO provider arrives later, the first months of SEO are often spent undoing build decisions.`,
-        `BtechWaleTech is three freelance developers: Ankur Kumar builds the full-stack site, Santosh Sharma handles technical SEO, structured data and analytics, and Vedansh Shrivastava plans the pages and keeps the project on schedule. Because the builders and the SEO person are the same small team, launch-day checks and early fixes happen without handoffs.`,
+        `BtechWaleTech is three freelance developers: one of us builds the full-stack site, another of us handles technical SEO, structured data and analytics, and the third of us plans the pages and keeps the project on schedule. Because the builders and the SEO person are the same small team, launch-day checks and early fixes happen without handoffs.`,
         `Whatever you choose, keep ownership in your hands from the first day: the domain registered to your business, hosting in your account, Search Console and Analytics owned by you, and the code delivered to you. After launch, you get two months of free maintenance, then maintenance from ${P.care} if you want it, and monthly SEO from ${P.seo} is optional and separate.`,
       ],
       after: [

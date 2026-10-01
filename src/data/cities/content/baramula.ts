@@ -165,7 +165,7 @@ const baramula: CityContent = {
       id: "remote-team-baramulla",
       heading: "Working with our remote team",
       paragraphs: [
-        "We have no office in Baramulla or anywhere in Kashmir, and we do not list a borrowed address. BtechWaleTech is three engineers working remotely. Ankur Kumar builds websites and applications from start to finish. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava plans projects and builds automation and data science pieces.",
+        "We have no office in Baramulla or anywhere in Kashmir, and we do not list a borrowed address. BtechWaleTech is three engineers working remotely. One of us builds websites and applications from start to finish. Another of us works on AI, machine learning, AWS and data. The third of us plans projects and builds automation and data science pieces.",
         "Projects start with a conversation about your buyers and your season. Within about two working days you receive a page plan, timeline and itemised quote. After approval, we share a preview link early so you can check the site on your own phone. Feedback comes back on WhatsApp or voice notes, whichever suits you.",
         "We reply seven days a week on Indian time, which matters during a harvest or a sudden snowfall when you cannot wait until Monday. You always know which of the three of us is handling your job, and you can speak to them directly.",
       ],

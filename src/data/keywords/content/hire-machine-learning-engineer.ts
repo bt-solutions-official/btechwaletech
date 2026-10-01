@@ -28,9 +28,9 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Hire a machine learning engineer · Data audit before model",
     h1: "Hire a machine learning engineer the careful way: check your data, set the metric, then build the model",
-    lede: `Before you hire a machine learning engineer, find out whether your data can support the result you want and how you will measure success. Most failed ML projects fail there, not in the code. BtechWaleTech is three freelance developers; Santosh Sharma leads our ML, data and AWS work, with Ankur and Vedansh covering integration and project delivery. We start with a <a href='/freelance-data-scientist/'>data audit</a>, agree evaluation metrics in writing, and quote AI builds from ${P.ai}.`,
+    lede: `Before you hire a machine learning engineer, find out whether your data can support the result you want and how you will measure success. Most failed ML projects fail there, not in the code. BtechWaleTech is three freelance developers; another of us leads our ML, data and AWS work, with one of us and the third of us covering integration and project delivery. We start with a <a href='/freelance-data-scientist/'>data audit</a>, agree evaluation metrics in writing, and quote AI builds from ${P.ai}.`,
     pills: ["Data audit first", "Metrics agreed in writing", "Baseline before model", "Forecasting and classification", "Document and text models", "Deployment on AWS", "Models and data stay yours"],
-    origin: "Three freelance developers · India · ML, data and AWS led by Santosh Sharma",
+    origin: "Three freelance developers · India · ML, data and AWS led by another of us",
   },
   facts: [
     ["AI and automation from", `${P.ai} · ${P.aiUsd}`],
@@ -121,7 +121,7 @@ const content: FreelanceContent = {
       heading: "Why a data audit comes before you hire a machine learning engineer for the build",
       paragraphs: [
         `A data audit tells you whether the model you want is possible with the data you have. It is the cheapest way to avoid a failed ML project, and it should come before any promise about accuracy.`,
-        `In our audits, Santosh looks at five things: how many examples you have and over what period; how complete and consistent the fields are; whether the outcome you want to predict is recorded reliably; whether any field leaks the answer (for example, a “refund processed” flag used to predict refunds); and how the data will be available when the model runs in real life.`,
+        `In our audits, another of us looks at five things: how many examples you have and over what period; how complete and consistent the fields are; whether the outcome you want to predict is recorded reliably; whether any field leaks the answer (for example, a “refund processed” flag used to predict refunds); and how the data will be available when the model runs in real life.`,
         `The output is a short written report: what is usable, what is missing, what a realistic first model could achieve, and what the baseline is. Sometimes the answer is “collect data for three more months first”. That is a useful answer too, and far cheaper than learning it after a full build.`,
       ],
       subs: [
@@ -199,7 +199,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Our ML projects move through six stages, each with something you can review. You can stop after any stage if the evidence says the project is not worth continuing.`,
         `Stage one is scoping: the decision to improve, the metric and who will use the output. Stage two is the data audit and baseline. Stage three is modelling, where we try a small number of well-chosen approaches and report results against the baseline on held-out data. Stage four is integration: an API, a scheduled job or a dashboard that puts predictions where people work. Stage five is a shadow period where the model runs alongside current decisions so you can compare. Stage six is go-live with monitoring and a retraining plan.`,
-        `Vedansh keeps the plan and weekly updates on track, Santosh leads data and modelling, and Ankur builds the integration into your web app, internal tools or mobile app.`,
+        `The third of us keeps the plan and weekly updates on track, another of us leads data and modelling, and one of us builds the integration into your web app, internal tools or mobile app.`,
       ],
     },
     {
@@ -244,7 +244,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `They overlap but solve different problems. A machine learning engineer trains models on your own structured data to predict numbers or categories. An LLM developer builds on large language models to read, write, summarise and converse.`,
         `Choose ML when the task is forecasting, scoring, ranking or detecting anomalies in tables of historical data. Choose an LLM approach when the task involves reading documents, answering questions from text, or generating drafts. Many real projects combine both: an LLM extracts fields from invoices, and a classic model predicts which invoices are likely to be disputed.`,
-        `Santosh covers both sides, so we can recommend the mix without bias toward one tool. For LLM-heavy work, see <a href='/chatgpt-integration-developer/'>LLM integration developer</a> and <a href='/ai-agent-developer/'>AI agent developer</a>.`,
+        `Another of us covers both sides, so we can recommend the mix without bias toward one tool. For LLM-heavy work, see <a href='/chatgpt-integration-developer/'>LLM integration developer</a> and <a href='/ai-agent-developer/'>AI agent developer</a>.`,
       ],
     },
     {
@@ -380,9 +380,9 @@ const content: FreelanceContent = {
     { question: "What happens when the model's performance drops over time?", answer: "This is called drift and it is normal as customer behaviour, prices and products change. We set up monitoring on incoming data and on the agreed metric, with alerts when results fall below an agreed level, and document a retraining routine. Support is free for two months after launch, then maintenance continues if you want it." },
     { question: "What interview questions should I ask an ML engineer?", answer: "Ask about a model that failed and why, how they would validate a time-based forecast, which metric they would use when positives are rare, what they would check first if accuracy dropped, and when they would advise against using ML. Good candidates talk about data, baselines and business cost before algorithms." },
     { question: "Is a paid test task a good way to hire an ML engineer?", answer: "Yes, if it uses a small anonymised sample of your real data and a clear question. Ask for a short notebook and a one-page summary covering baseline, model, metric and caveats. Judge the reasoning and honesty of the summary more than the score, and pay for the candidate's time." },
-    { question: "Can you deploy the model on AWS?", answer: "Yes. Santosh handles AWS work, and we usually deploy either as a nightly batch job that writes predictions to a database, sheet or dashboard, or as an API your app calls in real time. Everything runs in your AWS account, with running costs estimated in the quote so you know what to expect each month." },
+    { question: "Can you deploy the model on AWS?", answer: "Yes. Another of us handles AWS work, and we usually deploy either as a nightly batch job that writes predictions to a database, sheet or dashboard, or as an API your app calls in real time. Everything runs in your AWS account, with running costs estimated in the quote so you know what to expect each month." },
     { question: "Can a small business benefit from machine learning?", answer: "Yes, when it has a repeated decision and enough history. Common wins are stock forecasting, prioritising leads, spotting unusual transactions and reading documents into sheets. For very small datasets, a good dashboard or simple rules often beat a model, and we will say so rather than sell a model you do not need." },
-    { question: "Do you hire out ML engineers to work inside our team?", answer: "We work as a freelance team on defined projects rather than placing individuals as staff. You get Santosh on the data and modelling, with Ankur and Vedansh on integration and delivery, under one written quote. For ongoing help after a project, maintenance and further work can be arranged; ask us about the scope you need." },
+    { question: "Do you hire out ML engineers to work inside our team?", answer: "We work as a freelance team on defined projects rather than placing individuals as staff. You get another of us on the data and modelling, with one of us and the third of us on integration and delivery, under one written quote. For ongoing help after a project, maintenance and further work can be arranged; ask us about the scope you need." },
     { question: "ML engineer hire karne ka kharcha kitna hota hai?", answer: `BtechWaleTech ke saath AI automation ${P.ai} se shuru hota hai aur web app ke andar ML feature ${P.software} se. Pehla kadam data audit hota hai, jisse pata chalta hai ki aapke data se kaam ka model ban sakta hai ya nahi. Quote approve karne ke baad hi payment hota hai.` },
     { question: "Can you work with data from Tally, Excel and our billing software?", answer: "Yes. Many Indian businesses keep data across Tally exports, Excel sheets, billing tools and WhatsApp orders. Joining and cleaning these sources is often the largest part of the work, and we plan for it in the audit. Once combined, the data can feed forecasts, dashboards or scoring models on a schedule." },
   ],

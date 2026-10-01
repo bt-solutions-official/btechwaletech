@@ -69,7 +69,7 @@ const nohar: CityContent = {
       paragraphs: [
         "Nohar is a tehsil headquarters in the southern part of Hanumangarh district, where irrigated fields give way to sand and rain-fed farming. Farmers from dozens of villages bring their gram, guar, moong and mustard to its mandi, then shop in the town for seed, fertiliser, tractor parts, clothes and household goods. Students, patients and pilgrims add to the traffic.",
         "What people ask us for under <strong>IT services in Nohar</strong> is usually direct. A commission agent wants his ledger on a computer instead of three registers. A tractor dealer wants a page that shows models and finance options. A school wants its admission details online. A dharamshala near Gogamedi wants bookings on WhatsApp before the August fair.",
-        "We are three engineers working remotely: Ankur Kumar builds full-stack software, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. We have no Nohar office and say so openly. Everything runs through WhatsApp, calls and shared screens, with a written plan at each step.",
+        "We are three engineers working remotely: one of us builds full-stack software, another of us covers AI, machine learning, AWS and data, and the third of us handles project management, data science and automation. We have no Nohar office and say so openly. Everything runs through WhatsApp, calls and shared screens, with a written plan at each step.",
       ],
     },
     {

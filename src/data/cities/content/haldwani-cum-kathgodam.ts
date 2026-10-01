@@ -176,7 +176,7 @@ const haldwani: CityContent = {
       paragraphs: [
         "We do not have an office in Haldwani or anywhere else in Uttarakhand. We are three engineers working remotely for clients across India, which keeps our costs low and means you always speak with the people doing the work.",
         "It works through phone calls and WhatsApp. After a first conversation, we send a written page plan, timeline and itemised quote, usually within two working days. Once approved, you get a live preview link to check on your own phone and share with family or partners. Changes are requested on WhatsApp, and we reply every day of the week, Indian time.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects, data science and automation. You can <a href=\"/contact/\">contact us</a> and reach any of them directly.",
+        "One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects, data science and automation. You can <a href=\"/contact/\">contact us</a> and reach any of them directly.",
       ],
     },
     {

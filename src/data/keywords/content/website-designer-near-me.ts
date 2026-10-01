@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A website designer decides what a visitor sees first, what they read next and which button they press at the end. For a shop, clinic or school, that path is short: find out if you are the right place, check timings or fees, then call, message or visit.`,
         `Good design here is less about decoration and more about order. A pharmacy owner’s visitor wants to know if you deliver and until what time. A parent looking at a school wants the admission window and the fee range before the principal’s message. A dental patient wants to see the doctor’s face and a way to book. When you search <strong>website designer near me</strong>, you are really looking for someone who can put those answers in the right order on a small screen.`,
-        `In our team, Ankur turns the layout into working pages, Santosh handles hosting and the technical side of search, and Vedansh keeps the plan and review rounds moving. You talk to the people making the design, not to a salesperson describing it.`,
+        `In our team, one of us turns the layout into working pages, another of us handles hosting and the technical side of search, and the third of us keeps the plan and review rounds moving. You talk to the people making the design, not to a salesperson describing it.`,
       ],
       list: [
         "Page structure: which pages exist and what each one must make a visitor do",

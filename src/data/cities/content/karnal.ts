@@ -168,7 +168,7 @@ const karnal: CityContent = {
       paragraphs: [
         "We do not have an office in Karnal and will not pretend to have one. We are three engineers who work remotely for clients across India. That keeps office rent out of your quote and means you speak directly with the people building your website, not a salesperson passing messages along.",
         "The routine is simple. A call or WhatsApp conversation about your business comes first, followed by a written page plan, timeline and quote. Within a week or two you receive a live preview link to open on your own phone. Feedback goes on WhatsApp and small changes are usually made the same day. We reply seven days a week on Indian time, including Sundays, when many shop owners and doctors finally have time to look at their site.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles data science and automation. You know who is working on what and can reach any of us directly. Our <a href=\"/services/web-development/\">web development page</a> explains the build process in more detail.",
+        "One of us leads full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and handles data science and automation. You know who is working on what and can reach any of us directly. Our <a href=\"/services/web-development/\">web development page</a> explains the build process in more detail.",
       ],
     },
     {

@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     h1: "Ecommerce SEO services for Australia that get category and product pages found on google.com.au",
     lede: `Ecommerce SEO services in Australia should be judged on one thing: whether your category and product pages start appearing for the searches your buyers type on google.com.au. BtechWaleTech is three freelance developers in India, including a technical SEO specialist, who restructure collection pages, fix duplicate filter URLs on Shopify and WooCommerce, add Product markup with AUD prices and shipping, and connect your catalogue to Google Merchant Center free listings. Monthly work starts from ${P.seo}. For store fixes rather than rankings, see our <a href='/australia/woocommerce-developer/'>WooCommerce developer</a> page.`,
     pills: ["Category page architecture", "Product schema in AUD", "Filter and facet duplicates", "Merchant Center free listings", "Buyer comparison content", "Shopify and WooCommerce", "Monthly reports you can read"],
-    origin: "Three freelance developers in India · SEO led by Santosh Sharma · replies on WhatsApp, 7 days a week",
+    origin: "Three freelance developers in India · SEO led by another of us · replies on WhatsApp, 7 days a week",
   },
   facts: [
     ["Monthly ecommerce SEO", `From ${P.seo}`],

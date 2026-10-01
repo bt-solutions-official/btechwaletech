@@ -69,7 +69,7 @@ const bhawanipatna: CityContent = {
       paragraphs: [
         "Bhawanipatna has grown from a district office town into the place where much of Kalahandi comes for treatment, study, shopping and government work. The medical college hospital, the state university, the engineering college, the collectorate and the courts bring a steady flow of visitors from blocks such as Kesinga, Dharamgarh, Junagarh and Lanjigarh. Most of them now search on a phone before they set out.",
         "Enquiries we get for <strong>IT services in Bhawanipatna</strong> are usually practical. A pharmacy owner wants the right Maps pin near the hospital. A coaching centre wants an admission form that parents can fill in Odia. A rice trader wants to stop reconciling paddy slips by hand. A lodge wants guests arriving for Chhatar Jatra to find it without calling five times.",
-        "We handle these as a remote team of three. Ankur Kumar does full-stack development, Santosh Sharma looks after AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. We do not have an office in Bhawanipatna or elsewhere in Odisha, and we say that up front. Work runs on WhatsApp, calls and preview links you can open on your phone.",
+        "We handle these as a remote team of three. One of us does full-stack development, another of us looks after AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. We do not have an office in Bhawanipatna or elsewhere in Odisha, and we say that up front. Work runs on WhatsApp, calls and preview links you can open on your phone.",
       ],
     },
     {

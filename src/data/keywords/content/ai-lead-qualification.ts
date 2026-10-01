@@ -176,7 +176,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Use rules when every lead comes through one clean form, machine learning when you have thousands of past leads with recorded outcomes, and an LLM when leads are messy, multilingual or few. Many good systems combine all three.`,
         `Rules are cheap, transparent and fast. They fail on free text and drift silently as your market changes. A classic machine learning model, trained on your CRM history, can be very accurate, but it needs a large, honest dataset where every lead is marked won or lost, and many small Indian businesses simply do not have that. An LLM needs almost no history to start, reads any language your team reads, and explains itself, but each call costs money and it can be confidently wrong if the rubric is vague.`,
-        `Our usual design for AI lead qualification: hard rules first (spam, out-of-area, duplicates), then the LLM for judgement, then, after six months of outcomes, an optional statistical check that compares model bands with real wins. Santosh, who handles the AI and data side of our team, sets up that comparison so the business can see whether scores predict revenue or just look clever.`,
+        `Our usual design for AI lead qualification: hard rules first (spam, out-of-area, duplicates), then the LLM for judgement, then, after six months of outcomes, an optional statistical check that compares model bands with real wins. Another of us, who handles the AI and data side of our team, sets up that comparison so the business can see whether scores predict revenue or just look clever.`,
       ],
       subs: [
         { heading: "Choose rules alone when", text: "Forms are structured, volume is modest and your criteria fit in five lines." },

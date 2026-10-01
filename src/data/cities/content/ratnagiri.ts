@@ -69,7 +69,7 @@ const ratnagiri: CityContent = {
       paragraphs: [
         "Ratnagiri's year has a rhythm that most IT providers from outside the Konkan do not understand. Mango orders peak from late winter into May, fishing pauses during the monsoon ban and restarts after, tourists crowd the beaches in winter and on long weekends, and the rains close some roads and slow couriers. A website or app built here has to work around all of that.",
         "Requests for <strong>IT services in Ratnagiri</strong> reflect this. A grower wants hapus orders from Mumbai and Pune without a hundred phone calls. A fish trader wants a clean record of auctions and buyer payments. An MIDC workshop wants purchase managers to find it. A homestay near Ganpatipule wants bookings on WhatsApp during Diwali and the Christmas break.",
-        "We are three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava looks after project management, data science and automation. We do not have an office in Ratnagiri and will not claim one. Work happens over WhatsApp, calls and screen shares, with every decision written down.",
+        "We are three engineers working remotely. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us looks after project management, data science and automation. We do not have an office in Ratnagiri and will not claim one. Work happens over WhatsApp, calls and screen shares, with every decision written down.",
         "The best time to start a mango website is October or November, not February. We plan timelines with the season in mind and tell you honestly if a date is too tight.",
       ],
     },

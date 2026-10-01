@@ -176,7 +176,7 @@ const jamalpur: CityContent = {
       heading: "Working with a remote team from Jamalpur",
       paragraphs: [
         "We have no office in Jamalpur or Munger, and we will not put a fake local address on our site. We are three engineers working remotely for clients across India, which keeps our prices sensible and means you speak directly with the people building your project.",
-        "Ankur Kumar takes care of full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and handles data science and automation. We begin with a WhatsApp chat or call, then send a page plan, timeline and itemised quote, usually within two working days.",
+        "One of us takes care of full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and handles data science and automation. We begin with a WhatsApp chat or call, then send a page plan, timeline and itemised quote, usually within two working days.",
         "You check the site on your own phone through a preview link and send changes on WhatsApp. We work on IST and reply seven days a week, and small edits usually go live the same day. <a href=\"/contact/\">Contact us here</a> to get started.",
       ],
     },

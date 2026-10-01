@@ -69,7 +69,7 @@ const shegaon: CityContent = {
       paragraphs: [
         "Shegaon is two towns in one. The first is the pilgrim town around the Shri Sant Gajanan Maharaj temple, where families arrive by train and bus from Nagpur, Pune, Mumbai, Aurangabad and villages across Vidarbha, stay a night or two, eat the famous kachori near the station and visit Anand Sagar. The second is the older market town of cotton ginning and pressing, oil mills and small engineering works that has served the surrounding farms for well over a century.",
         "Most enquiries we get for <strong>IT services in Shegaon</strong> come from one side or the other. A lodge owner wants pilgrims to find and book rooms without a middleman. A snack maker wants to send kachori and chivda to devotees who have gone home. A ginning mill wants its lot and payment records in order. A crane maker wants dealers in other states to see his product range. A college wants admissions from across Vidarbha.",
-        "We are a remote team of three engineers. Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. We have no office in Shegaon and say so clearly. Everything runs on calls, screen shares and WhatsApp, with every plan and cost sent in writing.",
+        "We are a remote team of three engineers. One of us handles full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us manages projects, data science and automation. We have no office in Shegaon and say so clearly. Everything runs on calls, screen shares and WhatsApp, with every plan and cost sent in writing.",
       ],
     },
     {

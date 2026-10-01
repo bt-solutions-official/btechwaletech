@@ -68,7 +68,7 @@ const palani: CityContent = {
       heading: "IT services in Palani: built around a pilgrim town's calendar",
       paragraphs: [
         "Palani's economy follows the temple. On an ordinary weekday the lodges on Giri Veedhi fill slowly; on a Krithigai day, in the weeks of Thaipusam or at Panguni Uthiram, the town can barely hold its visitors. Most pilgrims arrive from Coimbatore, Tiruppur, Madurai, Kerala and Bengaluru, and nearly all of them search on a phone before they leave home: where to stay, how to reach the winch station, which taxi goes on to Kodaikanal.",
-        "When people ask us about <strong>IT services in Palani</strong>, the requests are usually practical. A lodge wants its rooms bookable without twenty phone calls. A sweet shop wants to take parcel orders from Chennai. A clinic wants its timings correct on Google Maps. We handle these as a remote team of three: Ankur Kumar builds the websites and apps, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation.",
+        "When people ask us about <strong>IT services in Palani</strong>, the requests are usually practical. A lodge wants its rooms bookable without twenty phone calls. A sweet shop wants to take parcel orders from Chennai. A clinic wants its timings correct on Google Maps. We handle these as a remote team of three: one of us builds the websites and apps, another of us handles AI, machine learning, AWS and data, and the third of us manages projects, data science and automation.",
         "We have no office in Palani and do not pretend otherwise. Work happens on WhatsApp, calls and screen shares, with written plans you can check at every stage.",
       ],
     },

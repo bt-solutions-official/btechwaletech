@@ -69,7 +69,7 @@ const chalakudy: CityContent = {
       paragraphs: [
         "Most Chalakudy businesses need three things online: a correct Google Maps listing, a clear website in Malayalam and English, and a quick way to answer WhatsApp enquiries. Apps, automation and custom software come later, when a specific task justifies the spend.",
         "The town's position explains why. Chalakudy is a municipality of about fifty thousand people and the headquarters of a taluk in Thrissur district, roughly 30 km south of Thrissur city and 47 km north of Kochi. National Highway 544 runs straight through it, Chalakudi railway station is the second-largest in the district, and Cochin International Airport is about 19 km away. That flow brings customers who have never seen your shop and who judge it from a phone screen first.",
-        "When people ask us for <strong>IT services in Chalakudy</strong>, the brief is usually narrow: a homestay wants direct bookings, a plywood unit wants a catalogue carpenters can use, a clinic wants fewer missed calls. We are a remote team of three. Ankur Kumar builds the websites and web apps, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava plans projects and automation. We have no office in Chalakudy, and we say so before any money changes hands.",
+        "When people ask us for <strong>IT services in Chalakudy</strong>, the brief is usually narrow: a homestay wants direct bookings, a plywood unit wants a catalogue carpenters can use, a clinic wants fewer missed calls. We are a remote team of three. One of us builds the websites and web apps, another of us leads AI, machine learning, AWS and data work, and the third of us plans projects and automation. We have no office in Chalakudy, and we say so before any money changes hands.",
       ],
     },
     {
@@ -151,7 +151,7 @@ const chalakudy: CityContent = {
       paragraphs: [
         "Automation makes sense wherever the same questions arrive dozens of times a day. For a homestay in the monsoon, that means rates, availability and whether the falls are open to visitors; for a plywood dealer, stock and delivery dates; for a clinic, timings and token numbers.",
         "We set up an assistant on the official WhatsApp Business platform that answers those repeat questions in Malayalam or English, collects dates, names and requirements, writes them into a Google Sheet or your software, and hands the chat to a person when it turns unusual, becomes a complaint or moves to price negotiation. It answers only from facts you approve, so it will not make up a room rate or a discount.",
-        "Projects in <strong>AI and WhatsApp automation in Chalakudy</strong> start at ₹40,000 and usually take two to four weeks. Vedansh Shrivastava maps the workflow with you first, using a sample of your real messages shared with your permission, and Santosh Sharma builds the AI side. Together they decide which questions are worth automating and which should always reach a human.",
+        "Projects in <strong>AI and WhatsApp automation in Chalakudy</strong> start at ₹40,000 and usually take two to four weeks. The third of us maps the workflow with you first, using a sample of your real messages shared with your permission, and another of us builds the AI side. Together they decide which questions are worth automating and which should always reach a human.",
       ],
     },
     {
@@ -168,7 +168,7 @@ const chalakudy: CityContent = {
       heading: "How a remote IT team runs a Chalakudy project, step by step",
       paragraphs: [
         "We keep no office in Chalakudy, Thrissur or anywhere else. The work runs over WhatsApp, phone calls and screen sharing, and everything that matters is put in writing, so you always have a record to point to.",
-        "Ankur Kumar writes the code, Santosh Sharma handles anything involving AI, cloud hosting on AWS or data, and Vedansh Shrivastava keeps the schedule and tells you on the same day if a date is going to slip. We reply on WhatsApp seven days a week on Indian time, which matters most in the Onam and Christmas weeks when many Chalakudy shops are at their busiest.",
+        "One of us writes the code, another of us handles anything involving AI, cloud hosting on AWS or data, and the third of us keeps the schedule and tells you on the same day if a date is going to slip. We reply on WhatsApp seven days a week on Indian time, which matters most in the Onam and Christmas weeks when many Chalakudy shops are at their busiest.",
       ],
       list: [
         "First two days: a call about your business and customers, then a written scope with pages or app screens, timeline and an itemised quote.",

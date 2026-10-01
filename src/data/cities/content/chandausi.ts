@@ -149,7 +149,7 @@ const chandausi: CityContent = {
       paragraphs: [
         "In Chandausi, nearly every business conversation happens on WhatsApp. A trader is asked the day's rate a dozen times before noon, a school office answers the same admission questions all through April, a clinic receives messages asking whether the doctor has arrived, and a shop gets photo requests for items in stock. Answering each one by hand takes hours and important messages get missed.",
         "We set up automation that replies to common questions in Hindi, shares rate lists, fee structures or timings, saves every enquiry in a Google Sheet with the date and requirement, and forwards anything that needs a decision to you with the full chat. Traders can update rates once and have them shared automatically. Schools and coaching centres can send fee reminders and notices on schedule. Clinics can confirm appointments and send reminders.",
-        "Automation projects start from ₹40,000. Santosh Sharma designs the AI side so that prices, credit, refunds and complaints stay with you. If you receive only a few messages a day, we will say so and suggest a simpler setup.",
+        "Automation projects start from ₹40,000. Another of us designs the AI side so that prices, credit, refunds and complaints stay with you. If you receive only a few messages a day, we will say so and suggest a simpler setup.",
       ],
     },
     {
@@ -167,7 +167,7 @@ const chandausi: CityContent = {
       paragraphs: [
         "We have no office in Chandausi, and we won't claim one. We are three engineers who work remotely with clients across India. Because we pay no rent and employ no sales staff, our prices stay low, and you always deal with the people doing the work.",
         "We start with a call or WhatsApp chat about your business, then send a page plan, timeline and itemised quote in writing. Once you approve, you get a private preview link within days to check on your own phone and show to family or partners. Changes are requested on WhatsApp and small ones are usually done the same day. We reply seven days a week, in IST.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us here</a>, or read about our <a href=\"/services/web-development/\">web development service</a> first.",
+        "One of us builds the websites and applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">contact us here</a>, or read about our <a href=\"/services/web-development/\">web development service</a> first.",
       ],
     },
     {

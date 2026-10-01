@@ -69,7 +69,7 @@ const rabkaviBanhatti: CityContent = {
       paragraphs: [
         "Walk through Banhatti or Rampur on a working day and the sound of power looms follows you from street to street. The town's main occupation is making sarees and doing the jobs around them: dyeing yarn, rolling it onto beams, folding and packing finished pieces, and dispatching bundles to dealers in other states. Rabkavi, Banhatti, Hosur and Rampur together form one municipal area of about 77,000 people by the 2011 census.",
         "That economy shapes what <strong>IT services in Rabkavi Banhatti</strong> should look like. Most owners do not want a fancy brand site. They want buyers in Bengaluru or Hyderabad to see current designs, a dealer to reorder without three phone calls, a correct Google Maps pin for the shop, and a simple way to know which loom produced what and which party still owes money.",
-        "We are three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Rabkavi Banhatti or anywhere in Bagalkot district, and we do not pretend otherwise; the work happens on WhatsApp, calls and shared preview links.",
+        "We are three engineers working remotely. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data work, and the third of us runs project management, data science and automation. We have no office in Rabkavi Banhatti or anywhere in Bagalkot district, and we do not pretend otherwise; the work happens on WhatsApp, calls and shared preview links.",
       ],
     },
     {

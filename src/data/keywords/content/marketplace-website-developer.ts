@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A marketplace website developer builds a platform with three sets of users instead of one. Buyers browse and pay. Vendors list products or services, fulfil orders and get paid. You, the operator, set the rules, take a commission and step in when something goes wrong. Each group needs its own screens, permissions and notifications.`,
         `That is why a marketplace is not “an online store with more products”. A normal store has one seller, one stock list and one bank account receiving money. A marketplace has many of each, and every order may split across vendors with different shipping times, tax details and payout schedules.`,
-        `In practice our work covers the buyer storefront, vendor registration and dashboards, the admin console where you approve vendors and resolve disputes, the commission and payout logic, and, when needed, Android and iOS apps. Ankur builds the platform and apps, Santosh handles the cloud setup, data and technical SEO, and Vedansh plans the flows and keeps scope honest.`,
+        `In practice our work covers the buyer storefront, vendor registration and dashboards, the admin console where you approve vendors and resolve disputes, the commission and payout logic, and, when needed, Android and iOS apps. One of us builds the platform and apps, another of us handles the cloud setup, data and technical SEO, and the third of us plans the flows and keeps scope honest.`,
       ],
     },
     {

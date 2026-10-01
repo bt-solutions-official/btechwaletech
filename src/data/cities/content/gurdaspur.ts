@@ -69,7 +69,7 @@ const gurdaspur: CityContent = {
       paragraphs: [
         "Gurdaspur sits near the geographical centre of its district, a long stretch of Majha farmland between the Ravi and the Beas that touches the Pakistan border on one side and the foothills towards Pathankot on the other. The town serves as the district's administrative seat, with courts, offices, hospitals, colleges and a large retail market that draws buyers from villages in every direction.",
         "The work people ask us for when they search <strong>IT services in Gurdaspur</strong> is usually specific. A commission agent wants the season's purchases and farmer payments in one place. An IELTS or computer centre wants enquiries from WhatsApp organised by course. A doctor wants patients from Dinanagar or Kalanaur to see OPD days before travelling. A clothing shop on Tibri Road wants its Google Maps pin to point to the right door.",
-        "We handle this as a remote team of three. Ankur Kumar works on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We do not have a Gurdaspur office, and we tell every client so on the first call. Work happens on WhatsApp, calls and screen shares, with every decision written down.",
+        "We handle this as a remote team of three. One of us works on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. We do not have a Gurdaspur office, and we tell every client so on the first call. Work happens on WhatsApp, calls and screen shares, with every decision written down.",
       ],
     },
     {

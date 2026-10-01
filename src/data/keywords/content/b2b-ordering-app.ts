@@ -227,7 +227,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Plan for about 6–10 weeks for the dealer app, with the admin panel and integrations built alongside. The first two weeks go on pricing rules, item and dealer masters, and the Tally or ERP connection, because everything else depends on them.`,
         `Weeks three to six cover the catalogue, cart, credit checks and approvals, shown weekly on a test build that your sales team can install. The final weeks add WhatsApp templates, store listings and a pilot with real dealers. Apple and Google review times vary, so we submit early.`,
-        `At handover you hold the code repository, cloud account, database, Google Play and App Store accounts and all admin logins. Ankur builds the app and panel, Santosh handles the cloud, the accounts integration and data, and Vedansh runs the plan, dealer pilot and testing, all reachable on one WhatsApp group. Two months of maintenance follow at no charge; see our <a href='/terms/'>terms</a> for how handover is recorded.`,
+        `At handover you hold the code repository, cloud account, database, Google Play and App Store accounts and all admin logins. One of us builds the app and panel, another of us handles the cloud, the accounts integration and data, and the third of us runs the plan, dealer pilot and testing, all reachable on one WhatsApp group. Two months of maintenance follow at no charge; see our <a href='/terms/'>terms</a> for how handover is recorded.`,
       ],
     },
     {

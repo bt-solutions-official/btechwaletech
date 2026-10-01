@@ -70,7 +70,7 @@ const mulbagal: CityContent = {
       paragraphs: [
         "Mulbagal takes its name from Mudalabagilu, the eastern doorway of old Vijayanagara and, later, of the Mysore state. The role has not really changed. Trucks cross towards Chittoor and Chennai through the Nangali border, farmers bring tomatoes and beans to the APMC yard beside the highway, and families from Bengaluru stop for a temple visit and a plate of the town's famous dose.",
         "That mix shapes the requests we get for <strong>IT services in Mulbagal</strong>. A commission agent wants his daily lot and payment records out of a notebook. A lodge near Kurudumale wants weekend pilgrims to find it. A school on the Kolar road wants to send fee reminders in Kannada and Telugu. Few of these jobs are large; most need someone who listens first and builds only what pays back within a season or two.",
-        "We are a remote team of three engineers with no office in Mulbagal. Ankur Kumar builds websites and web apps, Santosh Sharma takes the AI, machine learning, AWS and data work, and Vedansh Shrivastava manages projects and designs the automations. Everything runs over WhatsApp, calls and shared screens, and you receive written plans you can show a partner or family member before saying yes.",
+        "We are a remote team of three engineers with no office in Mulbagal. One of us builds websites and web apps, another of us takes the AI, machine learning, AWS and data work, and the third of us manages projects and designs the automations. Everything runs over WhatsApp, calls and shared screens, and you receive written plans you can show a partner or family member before saying yes.",
       ],
     },
     {

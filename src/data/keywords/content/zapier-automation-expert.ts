@@ -150,7 +150,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Consider self-hosting when your monthly task count has pushed you into higher plan tiers, when workflows process personal data you would rather keep on your own server, or when you need logic the hosted tools make awkward.`,
         `Self-hosting is not free. You pay for a server, and someone has to apply updates, watch disk space, back up workflow data and respond if the server goes down. For a business running a handful of workflows with modest volume, a hosted plan is usually cheaper once you count that effort.`,
-        `The crossover is a calculation, not a feeling. We estimate your current and expected monthly volume, price it on the hosted plan you would need, and compare that with a small server plus maintenance. If self-hosting wins, Santosh sets up n8n on a server in your cloud account with HTTPS, backups and monitoring. If it does not, we tell you so and stay on Zapier or Make.`,
+        `The crossover is a calculation, not a feeling. We estimate your current and expected monthly volume, price it on the hosted plan you would need, and compare that with a small server plus maintenance. If self-hosting wins, another of us sets up n8n on a server in your cloud account with HTTPS, backups and monitoring. If it does not, we tell you so and stay on Zapier or Make.`,
       ],
       after: [
         `For a closer look at self-hosted workflows, read <a href='/n8n-automation-expert/'>n8n automation</a>; for server setup itself, see <a href='/cloud-hosting-setup-freelancer/'>hosting setup</a>.`,
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `AI steps are useful for reading unstructured text: sorting enquiries by intent, pulling an amount and date from an invoice PDF, or drafting a first reply. They are not useful for anything that must be exactly right every time without checking.`,
         `We use AI steps with guardrails. The prompt asks for a fixed output format, the workflow validates that format before using it, and anything uncertain goes to a person rather than straight to a customer. For money, legal or medical content, a human approves before anything is sent.`,
-        `Each AI call also has a usage cost from the model provider, on top of your automation plan. For high volumes we estimate that cost upfront. Santosh handles the AI and data side on our team, and for larger AI projects see <a href='/chatgpt-integration-developer/'>LLM integration</a> or <a href='/ai-agent-developer/'>AI agents</a>.`,
+        `Each AI call also has a usage cost from the model provider, on top of your automation plan. For high volumes we estimate that cost upfront. Another of us handles the AI and data side on our team, and for larger AI projects see <a href='/chatgpt-integration-developer/'>LLM integration</a> or <a href='/ai-agent-developer/'>AI agents</a>.`,
       ],
     },
     {

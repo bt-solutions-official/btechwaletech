@@ -68,7 +68,7 @@ const jatani: CityContent = {
       paragraphs: [
         "Jatani grew around the railway. Khurda Road Junction is one of the key stations of East Coast Railway and the headquarters of its Khurda Road division, so for decades the town's economy has leaned on railway staff, their families, contractors and the shops that serve them. In the last decade or so a second layer has been added: IIT Bhubaneswar at Argul, NISER and a Centurion University campus have brought thousands of students, faculty and visitors into the area.",
         "That mix shapes what businesses here need online. Requests for <strong>IT services in Jatani</strong> tend to be specific: a PG or mess owner wants a listing that students find before the semester begins, a railway contractor needs a clean capability website for a tender file, a coaching centre wants admissions from families in Khordha and Bhubaneswar, and a shop in Raja Bazar wants a correct Google Maps pin and WhatsApp orders.",
-        "We work as a remote team of three. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Jatani and say so from the first message. Planning, reviews and changes happen over WhatsApp, calls and screen shares, with everything confirmed in writing.",
+        "We work as a remote team of three. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Jatani and say so from the first message. Planning, reviews and changes happen over WhatsApp, calls and screen shares, with everything confirmed in writing.",
       ],
     },
     {
@@ -157,7 +157,7 @@ const jatani: CityContent = {
       id: "remote-team-jatani",
       heading: "How our remote IT team works with Jatani clients",
       paragraphs: [
-        "None of the three of us sits in a Jatani office; the team is fully remote, so the paperwork does the job a front desk would. Ankur Kumar writes the websites and web apps, Santosh Sharma looks after AI, cloud and data, and Vedansh Shrivastava owns planning and automation. One call about your business is enough for us to send back a written outline listing pages or app screens, target dates and the cost of each item.",
+        "None of the three of us sits in a Jatani office; the team is fully remote, so the paperwork does the job a front desk would. One of us writes the websites and web apps, another of us looks after AI, cloud and data, and the third of us owns planning and automation. One call about your business is enough for us to send back a written outline listing pages or app screens, target dates and the cost of each item.",
         "Work begins only when you approve that list, and no bill is raised before then. During the build, preview links arrive that open on any phone, so you can check them with a partner, an accountant or a relative who knows computers. Odia text is sent for your review before it goes live, since a wrong word on a notice or menu is the kind of error customers remember.",
         "We answer WhatsApp seven days a week on Indian time. If a date moves, you hear about it the day we know, along with the reason and the new date. Payments follow stages you can see working, which keeps the risk low for a small business going online for the first time.",
       ],

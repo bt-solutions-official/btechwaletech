@@ -69,7 +69,7 @@ const tilhar: CityContent = {
       paragraphs: [
         "Tilhar has been a tehsil headquarters for a long time, and it still works as the market and service centre for a large belt of villages between Shahjahanpur and the Bareilly side of the district. Farmers sell grain here, families shop in the bazaar, children study in its schools and patients come to its clinics. More and more of them look at a phone before they make the trip.",
         "Most of what people ask us for under <strong>IT services in Tilhar</strong> is simple and practical: a Hindi website with correct timings and a map pin, a Google listing that shows up when someone searches the shop's name, a way to take orders or appointment requests on WhatsApp, or a record of purchases and payments that is not a torn register.",
-        "Three engineers do the work, all remotely. Full-stack development sits with Ankur Kumar; AI, machine learning, AWS and data belong to Santosh Sharma; and Vedansh Shrivastava runs projects, data science and automation. None of us has a desk in Tilhar or Shahjahanpur, and we mention that in the very first conversation. Calls, WhatsApp chats and shared screens replace office visits, and each plan or quote reaches you as a written document.",
+        "Three engineers do the work, all remotely. Full-stack development sits with one of us; AI, machine learning, AWS and data belong to another of us; and the third of us runs projects, data science and automation. None of us has a desk in Tilhar or Shahjahanpur, and we mention that in the very first conversation. Calls, WhatsApp chats and shared screens replace office visits, and each plan or quote reaches you as a written document.",
       ],
     },
     {

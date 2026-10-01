@@ -69,7 +69,7 @@ const siruguppa: CityContent = {
       paragraphs: [
         "The name Siruguppa is often explained as “siri” and “kuppe”, a heap of wealth, and in harvest season the heaps are literal. Paddy from Tungabhadra-irrigated fields arrives at mill yards around the town, gets dried, hulled and polished, and leaves as bagged rice for markets across south India. Around that trade sit oil factories, transporters, fertiliser shops, hospitals, schools and the usual taluk-town shops.",
         "When people ask us about <strong>IT services in Siruguppa</strong>, the requests follow that economy. A miller wants buyers in Bengaluru or Hyderabad to find his brand. A trader wants to stop reconciling arrivals from three notebooks. A clinic wants patients from Tekkalakote or Karur to stop making wasted trips. A school wants parents to get notices on their phones.",
-        "We are three engineers working remotely. Ankur Kumar builds the websites and web applications end to end. Santosh Sharma handles AI, machine learning, AWS hosting and data work. Vedansh Shrivastava runs project management and builds the automation and data science pieces. Between us we cover a small website as comfortably as a multi-user mill system.",
+        "We are three engineers working remotely. One of us builds the websites and web applications end to end. Another of us handles AI, machine learning, AWS hosting and data work. The third of us runs project management and builds the automation and data science pieces. Between us we cover a small website as comfortably as a multi-user mill system.",
         "There is no Siruguppa office, and we will not pretend otherwise. Calls, WhatsApp and screen shares replace meetings, and every decision is written down so your family or partners can see it. You avoid a trip to Ballari or Hosapete, and our costs stay low enough to keep the starting prices where they are.",
       ],
     },
@@ -167,7 +167,7 @@ const siruguppa: CityContent = {
       heading: "Data dashboards for Siruguppa mills and traders",
       paragraphs: [
         "A mill that has kept two or three seasons of records, even on paper and Excel, is sitting on useful answers. Which paddy supplier gives the best yield? Which buyer pays late every time? Did the broken percentage rise after the new polisher? How much diesel went to the generator during power cuts?",
-        "We clean those records, put them into a simple database and build a dashboard you can open on a phone. Charts compare seasons, buyers and varieties, and a weekly summary can arrive on WhatsApp. Santosh handles this work, and the numbers stay in an account you own. If the data is too patchy to answer a question, we tell you before charging for a dashboard.",
+        "We clean those records, put them into a simple database and build a dashboard you can open on a phone. Charts compare seasons, buyers and varieties, and a weekly summary can arrive on WhatsApp. Another of us handles this work, and the numbers stay in an account you own. If the data is too patchy to answer a question, we tell you before charging for a dashboard.",
       ],
     },
     {

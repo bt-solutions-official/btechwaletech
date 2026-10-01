@@ -168,7 +168,7 @@ const phagwara: CityContent = {
       paragraphs: [
         "We have no office in Phagwara, Jalandhar or anywhere in Punjab, and we do not pretend otherwise. We are three engineers working remotely for clients across India and for Indian families abroad. Skipping office rent and sales staff keeps our starting prices low, and it means you talk to the people who actually build your site or software.",
         "We start with a phone or WhatsApp call. You then get a written page plan or software scope, timeline and itemised quote. For websites, a preview link arrives within one to two weeks; for software, we share working screens every week. Feedback comes on WhatsApp, and small changes usually go live the same day. We reply seven days a week on Indian time, and can schedule calls to suit family members abroad.",
-        "Ankur Kumar handles full-stack development, Santosh Sharma leads AI, ML, AWS and data work, and Vedansh Shrivastava manages projects and builds automation and data science pieces. <a href=\"/contact/\">Get in touch</a> in English, Hindi or Punjabi-mixed messages.",
+        "One of us handles full-stack development, another of us leads AI, ML, AWS and data work, and the third of us manages projects and builds automation and data science pieces. <a href=\"/contact/\">Get in touch</a> in English, Hindi or Punjabi-mixed messages.",
       ],
     },
     {

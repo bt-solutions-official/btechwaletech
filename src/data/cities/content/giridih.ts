@@ -141,7 +141,7 @@ const giridih: CityContent = {
       paragraphs: [
         "In Giridih, orders and enquiries mostly come through WhatsApp and phone calls. A steel dealer asks for today's rate on three sizes of TMT, a pilgrim group wants to know whether rooms are free next month, a patient's family asks when the doctor sits, and a coaching centre fields fee questions every evening. Much of this is repetitive, and the important messages get buried.",
         "We build automation that replies to routine questions in Hindi or English, shares rate lists, room availability or timings, records every enquiry in a Google Sheet with the date, source and requirement, and passes anything that needs a decision to you. For mills and traders, rate requests can produce a draft quotation for you to check. For dharamshalas and hotels, booking requests can be collected with dates, number of guests and contact details.",
-        "Projects start from ₹40,000. Santosh Sharma, who handles our AI and AWS work, designs them so that rates, discounts, refunds and complaints stay under your control. If your message volume is small, we will tell you and suggest a simpler setup.",
+        "Projects start from ₹40,000. Another of us, who handles our AI and AWS work, designs them so that rates, discounts, refunds and complaints stay under your control. If your message volume is small, we will tell you and suggest a simpler setup.",
       ],
     },
     {
@@ -159,7 +159,7 @@ const giridih: CityContent = {
       paragraphs: [
         "We do not have an office in Giridih, and we will not invent one. We are three engineers working remotely for clients across India. Without rent or a sales team to pay for, our prices stay low, and you always talk directly to the people doing the work.",
         "We start with a call or WhatsApp conversation about your business, then send a page plan, a timeline and an itemised quote in writing. After approval, you receive a private preview link within days to check on your own phone and share with partners or family. Changes are requested on WhatsApp, and small ones are usually done the same day. We reply seven days a week, in IST.",
-        "Ankur Kumar builds the websites and applications. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on automation and data science. You can <a href=\"/contact/\">reach us here</a> or read about our <a href=\"/services/web-development/\">web development approach</a> first.",
+        "One of us builds the websites and applications. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on automation and data science. You can <a href=\"/contact/\">reach us here</a> or read about our <a href=\"/services/web-development/\">web development approach</a> first.",
       ],
     },
     {

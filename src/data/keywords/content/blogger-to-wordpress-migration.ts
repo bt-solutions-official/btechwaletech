@@ -211,7 +211,7 @@ const content: FreelanceContent = {
       heading: "Choosing hosting and a theme for a migrated Blogger blog",
       paragraphs: [
         `Pick hosting for your traffic and audience location, and a theme for speed, not for the demo. A blog moving off Google's infrastructure should not become slower than it was on Blogger, or readers and search visibility will suffer.`,
-        `For most Indian blogs, good shared or managed WordPress hosting with a server or CDN edge close to India, page caching, a recent PHP version and daily backups is enough. Very busy blogs may need a small cloud server, which Santosh on our team can set up on AWS or another provider in your name.`,
+        `For most Indian blogs, good shared or managed WordPress hosting with a server or CDN edge close to India, page caching, a recent PHP version and daily backups is enough. Very busy blogs may need a small cloud server, which another of us on our team can set up on AWS or another provider in your name.`,
         `For the theme, we prefer lightweight block themes or a small custom theme over heavy multipurpose themes with page builders. Recipe, travel, finance and exam-preparation blogs each benefit from specific layouts, such as recipe cards, table of contents, author boxes and related posts, and we add those with lean plugins or theme code. For a fully bespoke look, see <a href='/custom-wordpress-theme-development/'>custom WordPress theme development</a>.`,
       ],
     },

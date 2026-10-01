@@ -197,7 +197,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `We work in short, visible steps: you see a running build on a staging URL from the second week, not a slide deck at the end.`,
         `Week one is discovery. We list user roles, screens and the data each screen needs, agree the API contract, and choose SPA, Next.js or hybrid. If you have Figma designs we map them to components; if not, we sketch wireframes and agree them before styling. Weeks two to four build the shell: authentication, navigation, the design system components and the first two or three real screens against a mock or real API.`,
-        `The middle weeks fill in remaining screens in priority order, with a staging deploy after every merged pull request so you can click through on your phone. The final stretch is hardening: tests for critical flows, accessibility checks, performance budgets, error tracking, and a production deployment in your cloud account. Ankur leads the React and API work, Santosh handles hosting, data and anything SEO-related, and Vedansh keeps the plan and your feedback loop moving.`,
+        `The middle weeks fill in remaining screens in priority order, with a staging deploy after every merged pull request so you can click through on your phone. The final stretch is hardening: tests for critical flows, accessibility checks, performance budgets, error tracking, and a production deployment in your cloud account. One of us leads the React and API work, another of us handles hosting, data and anything SEO-related, and the third of us keeps the plan and your feedback loop moving.`,
       ],
     },
     {
@@ -259,7 +259,7 @@ const content: FreelanceContent = {
       heading: "Beyond React: the backend, hosting and apps from one small team",
       paragraphs: [
         `A React front end is only as good as the API behind it, so we rarely take React work in isolation. When we build the interface, we usually also design the API, the database schema and the deployment.`,
-        `Our backend work is mostly in Node.js and Python, with PostgreSQL or MySQL, deployed to AWS or a VPS depending on budget. Santosh sets up monitoring, backups and cost alerts so a sudden cloud bill does not surprise you. When customers need a phone app, the same team builds it in React Native from ${P.app}, sharing types and validation logic with the web app.`,
+        `Our backend work is mostly in Node.js and Python, with PostgreSQL or MySQL, deployed to AWS or a VPS depending on budget. Another of us sets up monitoring, backups and cost alerts so a sudden cloud bill does not surprise you. When customers need a phone app, the same team builds it in React Native from ${P.app}, sharing types and validation logic with the web app.`,
         `What we do not take on: large programmes needing ten or twenty engineers in parallel, on-site staff augmentation, or hardware. If your roadmap needs that scale, we would rather say so on day one. For the full-stack picture, see <a href='/freelance-full-stack-developer/'>freelance full stack developer</a>.`,
       ],
     },

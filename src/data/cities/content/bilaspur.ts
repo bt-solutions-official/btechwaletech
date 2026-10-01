@@ -176,7 +176,7 @@ const bilaspur: CityContent = {
       paragraphs: [
         "We do not have an office in Bilaspur, and we will not put a borrowed address on this page to look local. We are three engineers working remotely for businesses across India. For Bilaspur clients, that means you pay nothing towards office rent or sales staff, and every message you send reaches someone who actually builds the site.",
         "A project begins with a phone or WhatsApp conversation, followed by a written page plan, timeline and itemised quote. Within one or two weeks you receive a preview link to open on your own phone, and you send changes on WhatsApp. Small ones usually go live the same day. We work on Indian time and reply seven days a week, including Sundays, when many shop owners and advocates finally have time to review.",
-        "Ankur Kumar builds the full-stack code. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages the project and builds automations and data science tools. You can <a href=\"/contact/\">message any of us</a> directly.",
+        "One of us builds the full-stack code. Another of us handles AI, machine learning, AWS and data work. The third of us manages the project and builds automations and data science tools. You can <a href=\"/contact/\">message any of us</a> directly.",
       ],
     },
     {

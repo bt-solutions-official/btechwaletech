@@ -69,7 +69,7 @@ const mandapeta: CityContent = {
       paragraphs: [
         "Mandapeta is a mill town first. Paddy from farms across the delta is sold to its rice mills, and the town's commercial life follows the harvest calendar: brokers, lorry owners, gunny bag suppliers, fertiliser shops, mechanics, banks and hotels all get busier when the crop comes in. Local traders say the constituency has well over a hundred commercial units, from rice and oil mills to plastics and food processing.",
         "Most requests for <strong>IT services in Mandapeta</strong> are practical. A miller wants buyers in Hyderabad or Chennai to find a proper profile before they place an order. A poultry farmer wants daily records that a supervisor can fill in from the shed. A hospital wants fewer wasted phone calls. A school wants fee reminders to go out without anyone typing a hundred messages.",
-        "We handle this as a remote group of three engineers. Ankur Kumar writes the websites and web applications, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava plans each project and builds the automation. There is no Mandapeta office and we will not pretend there is one. Calls, WhatsApp and shared screens replace visits, and that is a large part of why our starting prices stay where they are.",
+        "We handle this as a remote group of three engineers. One of us writes the websites and web applications, another of us works on AI, machine learning, AWS and data, and the third of us plans each project and builds the automation. There is no Mandapeta office and we will not pretend there is one. Calls, WhatsApp and shared screens replace visits, and that is a large part of why our starting prices stay where they are.",
         "If you are comparing an <strong>IT services team in Mandapeta</strong> with a remote team, the fair test is simple: who puts the scope in writing, who registers accounts in your name, and who is still answering six months after launch.",
       ],
     },
@@ -168,7 +168,7 @@ const mandapeta: CityContent = {
         "We do not have an office in Mandapeta, in Rajamahendravaram or anywhere else. The three of us work remotely, and we have built our process so that a client in a mill town never has to wonder what is happening. It starts with a call or a WhatsApp voice note in which you tell us what you sell, who buys it and what is going wrong today.",
         "Within about two working days you receive a written plan: the pages or screens, the order in which they will be built, the dates, and a cost for every item. You can remove lines, ask questions or take time to discuss it with your partners. Work begins only when you approve it, and nothing is billed before that point.",
         "During the build, you get preview links that open on any phone. Telugu text is sent to you for checking before it goes live. Payments are tied to stages you can see working. If a date slips, we tell you as soon as we know, with the reason and the new date.",
-        "WhatsApp is answered seven days a week on Indian time. Ankur, Santosh and Vedansh are the people doing the work, so the person you speak to is the person who can fix the problem.",
+        "WhatsApp is answered seven days a week on Indian time. The BtechWaleTech team are the people doing the work, so the person you speak to is the person who can fix the problem.",
       ],
     },
     {

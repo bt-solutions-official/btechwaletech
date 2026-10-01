@@ -89,7 +89,7 @@ const thiruvananthapuram: CityContent = {
       paragraphs: [
         "Technopark at Kazhakoottam opened in 1995 as India's first technology park and now houses several hundred companies, from global names such as Infosys, TCS, Oracle and UST to small product teams and consultancies. Around it, Sreekaryam, Kariavattom and the NH stretch have filled with apartments, co-working spaces and the small businesses that serve them. Technocity, further north at Pallippuram, extends the same corridor.",
         "Small IT firms in this ecosystem often have excellent engineers and a weak website, because nobody has time to write their own marketing pages. When a prospect in Europe or the US checks you out, they look for specific evidence: clear service pages, case studies with actual outcomes, the tech stack you use, the people behind the company and a working contact route. A slow template site with vague claims costs you meetings.",
-        "We build these sites on static frameworks, so they are fast, secure and cheap to host, with analytics and Search Console set up correctly from day one. For early-stage startups, we build landing pages that can change weekly, waitlist or demo booking flows, and a simple way for your own team to edit text. We can also help with the product itself, from admin panels to data pipelines on AWS, which is Santosh's area.",
+        "We build these sites on static frameworks, so they are fast, secure and cheap to host, with analytics and Search Console set up correctly from day one. For early-stage startups, we build landing pages that can change weekly, waitlist or demo booking flows, and a simple way for your own team to edit text. We can also help with the product itself, from admin panels to data pipelines on AWS, which is our AI and cloud engineer's area.",
       ],
     },
     {
@@ -168,7 +168,7 @@ const thiruvananthapuram: CityContent = {
       paragraphs: [
         "We do not have an office in Thiruvananthapuram or anywhere in Kerala, and we will not invent an address to look local. We are three engineers working remotely for clients across India. That keeps our prices lower, and it means you speak directly with the people building your site.",
         "Work starts with a call or a WhatsApp conversation. We send a written page plan, timeline and itemised quote. Within a week or two you receive a live preview link to open on your own phone, and feedback goes back on WhatsApp. Small changes are often live the same day. We work in IST and reply every day of the week, including weekends and, with some notice, during Onam.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. For content in Malayalam, we work from text you or your team supply or approve, because good Malayalam copy should come from someone who writes it natively. You can <a href=\"/contact/\">reach us here</a>.",
+        "One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. For content in Malayalam, we work from text you or your team supply or approve, because good Malayalam copy should come from someone who writes it natively. You can <a href=\"/contact/\">reach us here</a>.",
       ],
     },
     {

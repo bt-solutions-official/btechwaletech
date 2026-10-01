@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A remote Shopify developer gives you the same store a local agency would, built by people you never meet in person. For a Canadian merchant that means a working theme, organized products and collections, a CAD checkout, sales tax that matches your registrations, shipping rates that do not lose you money, and the admin set up so your own staff can run orders the next morning.`,
         `When people search <strong>Shopify developer Canada</strong>, they are usually in one of three places. Some have a product and no store yet. Some are on Shopify already and something is wrong: taxes charged incorrectly in Quebec, shipping quotes far too high for Western provinces, or a theme that breaks on phones. And some are growing and want to sell into the US or add French for Quebec customers. A developer who works on Canadian stores regularly will ask which of these you are before quoting anything.`,
-        `BtechWaleTech is three freelance developers in India. Ankur Kumar builds themes and handles integrations, Santosh Sharma looks after technical SEO, hosting and anything involving data or AI, and Vedansh Shrivastava plans the project and keeps the checklist honest. You message all three on WhatsApp, and calls happen in your morning.`,
+        `BtechWaleTech is three freelance developers in India. One of us builds themes and handles integrations, another of us looks after technical SEO, hosting and anything involving data or AI, and the third of us plans the project and keeps the checklist honest. You message all three on WhatsApp, and calls happen in your morning.`,
       ],
       list: [
         "Store structure: products, variants, collections, navigation and filters",

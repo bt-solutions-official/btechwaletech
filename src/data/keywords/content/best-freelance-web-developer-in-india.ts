@@ -274,7 +274,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `It would be odd to write this guide and then ask you to skip it for us. Here is what we can show and what we cannot.`,
         `We can show live sites on our <a href='/portfolio/'>portfolio</a> for you to test on your phone. We can connect you with a past client when they agree to it. We send an itemised quote in about two working days, set accounts up in your name, share a staging link during the build, take staged payments by UPI or bank transfer, and include two months of free maintenance after launch.`,
-        `We will not claim to be the best freelance web developer in India, display ratings we cannot verify, promise rankings, or quote project counts. The team is Ankur Kumar on full-stack builds, Santosh Sharma on AI, AWS, data and technical SEO, and Vedansh Shrivastava on project management and automation. Read more on <a href='/about/'>about us</a>.`,
+        `We will not claim to be the best freelance web developer in India, display ratings we cannot verify, promise rankings, or quote project counts. The team is one of us on full-stack builds, another of us on AI, AWS, data and technical SEO, and the third of us on project management and automation. Read more on <a href='/about/'>about us</a>.`,
       ],
     },
     {

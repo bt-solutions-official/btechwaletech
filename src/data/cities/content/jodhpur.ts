@@ -178,7 +178,7 @@ const jodhpur: CityContent = {
       paragraphs: [
         "We do not have an office in Jodhpur and do not pretend to. We are three engineers who work remotely with clients across India, which removes rent and sales commissions from your quote and puts you in direct contact with the people building your site.",
         "After an initial call or WhatsApp conversation, you get a page plan, timeline and itemised quote, usually within two working days. When you approve it in writing, a live preview link follows within the first week or two, and you review the real site on your own phone. Feedback is sent on WhatsApp and small changes usually go live the same day. We work on IST and answer seven days a week, which helps exporters whose buyers are in other time zones.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds data science and automation workflows.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds data science and automation workflows.",
       ],
     },
     {

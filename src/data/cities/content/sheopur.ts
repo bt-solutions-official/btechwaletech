@@ -70,7 +70,7 @@ const sheopur: CityContent = {
       paragraphs: [
         "For most of its history Sheopur was known within the region as a market for wheat, mustard and bajra, a fort town on the Seep river about 25 km from the Rajasthan border. Since September 2022, when cheetahs brought from Africa were released in Kuno National Park, its name has travelled much further, and a small tourism economy has started to form alongside the mandi.",
         "Requests for <strong>IT services in Sheopur</strong> come from both sides of that change. A grain trader wants a cleaner record of purchases and payments. A resort near Kuno wants guests from Delhi or Jaipur to book directly. A woodcarver wants buyers outside the district. A school in Vijaypur wants admission enquiries. A clinic wants its timings right on Google Maps.",
-        "We are three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Sheopur and say so at the outset. Work happens over WhatsApp, calls and screen shares, with written plans throughout.",
+        "We are three engineers working remotely. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us runs project management, data science and automation. We have no office in Sheopur and say so at the outset. Work happens over WhatsApp, calls and screen shares, with written plans throughout.",
       ],
     },
     {

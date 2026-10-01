@@ -237,7 +237,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A typical build takes 6–12 weeks from signed quote to go-live. Integrations decide where in that range you land: a kiosk with UPI and printing sits near the short end; card terminal, POS sync and food court splitting push it longer.`,
         `Weeks 1–2 are discovery and design. We collect your menu, combos, photos and printer models, map the order flow screen by screen, and share clickable designs you can try on a tablet. Weeks 3–6 are the core build: menu service, kiosk front end, admin panel, payments and KOT routing, shown on a staging link every few days. Weeks 7–9 cover integrations and hardware testing on the actual kiosk model you bought. The final stretch is a soft launch: one kiosk during quiet hours, staff feedback, fixes, then peak-hour use.`,
-        `Vedansh runs the plan and your weekly check-in, Ankur builds the kiosk app and back office, and Santosh sets up hosting, the database and reporting. You talk to all three on one WhatsApp group. The single biggest cause of delay is menu data: final prices, combo rules and photos arriving late. Send them early, even rough, and the timeline holds.`,
+        `The third of us runs the plan and your weekly check-in, one of us builds the kiosk app and back office, and another of us sets up hosting, the database and reporting. You talk to all three on one WhatsApp group. The single biggest cause of delay is menu data: final prices, combo rules and photos arriving late. Send them early, even rough, and the timeline holds.`,
       ],
     },
     {

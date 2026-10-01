@@ -159,7 +159,7 @@ const jabalpur: CityContent = {
       paragraphs: [
         "We don't have an office in Jabalpur and won't pretend to with a borrowed address. We are three engineers working remotely for clients across India. Without office rent and sales staff, we can charge less than local agencies, and you talk directly to the people who build your site.",
         "It starts with a call or WhatsApp chat about your business. We then send a written page plan, timeline and itemised quote. Once you approve it, you get a live preview link within the first week or two, which you can open on your own phone and share with partners. You send changes on WhatsApp, and small ones usually go live the same day. We work on Indian time and reply seven days a week.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on data science and automation. You always know who is working on what, and you can contact any of us.",
+        "One of us handles full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and works on data science and automation. You always know who is working on what, and you can contact any of us.",
       ],
     },
     {

@@ -69,7 +69,7 @@ const northLakhimpur: CityContent = {
       paragraphs: [
         "North Lakhimpur is where much of Lakhimpur district comes to buy, sell, study and get treated. Families from Bihpuria, Narayanpur, Dhakuakhana, Laluk and Harmutty travel in for hospitals, colleges, government offices and wholesale markets, and traders from the Arunachal side come to stock up. The town's name is traced to Lakshminarayana, a Chutia king of the early fifteenth century.",
         "Most requests we get for <strong>IT services in North Lakhimpur</strong> are modest. A wholesaler wants retailers to order without phoning. A clinic wants appointment requests on WhatsApp instead of a queue at the door. A coaching centre wants results and notices to reach parents. A shop in the main bazaar wants its Google Maps pin corrected and its hours shown. We aim to solve that problem, not to sell something bigger.",
-        "We are a remote team of three engineers. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava leads project management, data science and automation. We have no office in North Lakhimpur. Work runs over WhatsApp, calls and screen shares, and every plan and quote comes to you in writing.",
+        "We are a remote team of three engineers. One of us handles full-stack development, another of us covers AI, machine learning, AWS and data, and the third of us leads project management, data science and automation. We have no office in North Lakhimpur. Work runs over WhatsApp, calls and screen shares, and every plan and quote comes to you in writing.",
       ],
     },
     {
@@ -123,7 +123,7 @@ const northLakhimpur: CityContent = {
       paragraphs: [
         "Floods from the Ranganadi, Subansiri and other rivers affect Lakhimpur district most years, and power and network cuts come with them. A business that depends on a computer in its office loses its records when that computer is damaged, and one that depends on a single phone loses its customers when the phone is out of reach.",
         "A <strong>website development team in North Lakhimpur</strong> should build with this in mind. We host websites and records in the cloud with daily backups, so nothing is lost when your office is closed. Forms and orders arrive on WhatsApp and email, so more than one person can respond. A short notice banner can tell customers about temporary closures or changed timings within minutes.",
-        "For traders and clinics, this reliability is often the real reason to move records off paper. If the shop floods, the ledger survives. Our AWS work, led by Santosh Sharma, keeps hosting costs modest for small businesses while giving them backups they do not have to think about.",
+        "For traders and clinics, this reliability is often the real reason to move records off paper. If the shop floods, the ledger survives. Our AWS work, led by another of us, keeps hosting costs modest for small businesses while giving them backups they do not have to think about.",
       ],
     },
     {

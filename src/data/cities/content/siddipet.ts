@@ -69,7 +69,7 @@ const siddipet: CityContent = {
       paragraphs: [
         "Siddipet became a district headquarters in 2016, and since then the town has gained a government medical college, a large new government hospital, wide roads, the Komati Cheruvu lakefront and its own IT tower. It serves a district that stretches from Gajwel to Husnabad and draws people from dozens of mandals for shopping, treatment, courts, colleges and government offices.",
         "Requests for <strong>IT services in Siddipet</strong> tend to come from businesses that have grown with the town. A hospital that added departments wants its website to catch up. A clothing store with two branches wants its catalogue on WhatsApp. A coaching centre wants online admissions. A startup in the IT tower wants a product site that looks as good as those of Hyderabad competitors.",
-        "We are three engineers working remotely. Ankur Kumar builds full-stack web and app systems, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects and handles data science and automation. We have no office in Siddipet and will not claim one; the work runs on WhatsApp, calls and screen sharing, with plans and quotes always in writing.",
+        "We are three engineers working remotely. One of us builds full-stack web and app systems, another of us works on AI, machine learning, AWS and data, and the third of us manages projects and handles data science and automation. We have no office in Siddipet and will not claim one; the work runs on WhatsApp, calls and screen sharing, with plans and quotes always in writing.",
       ],
     },
     {

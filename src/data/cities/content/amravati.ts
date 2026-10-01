@@ -167,7 +167,7 @@ const amravati: CityContent = {
       paragraphs: [
         "We do not have an office in Amravati, and we won't pretend otherwise with a borrowed address. The three of us work remotely for clients in many cities, which keeps rent and sales staff out of your price and means you deal directly with the engineers writing your code.",
         "The process is short. You explain your business on a call or WhatsApp. Within about two working days you get a page plan, timeline and itemised quote. After written approval, we share a live preview link, usually in the first week or two, that you open on your own phone and show your partners or family. Feedback comes on WhatsApp, and small changes often go live the same day. We work on IST and reply seven days a week, including during the cotton season when you are busiest in the evenings.",
-        "Ankur Kumar builds the website and application code end to end. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava plans and manages projects and builds data science and automation workflows.",
+        "One of us builds the website and application code end to end. Another of us handles AI, machine learning, AWS and data work. The third of us plans and manages projects and builds data science and automation workflows.",
       ],
     },
     {

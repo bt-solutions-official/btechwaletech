@@ -69,7 +69,7 @@ const vita: CityContent = {
       paragraphs: [
         "Few towns of Vita's size have a trade network as wide as Khanapur taluka's gold refining business. Families from Vita and the surrounding villages run refining and related work in many cities, while the town itself remains the home base: where families return for festivals, where money is invested, and where new businesses start.",
         "Alongside that, Vita is a working taluka centre. Textile units, agro-processing tied to sugarcane and fruit, jewellers, cloth and grocery shops, clinics, colleges and farm-input dealers all serve Khanapur taluka and the villages beyond. Requests for <strong>IT services in Vita</strong> come from all of these, and most start small: a website, a correct map listing, a register that replaces a notebook.",
-        "Behind the work sit three engineers, none of them based in Vita. Ankur Kumar writes the websites and web applications. Santosh Sharma looks after AI, machine learning, AWS hosting and data. Vedansh Shrivastava keeps the project on schedule and designs the automation and data science pieces. Whoever picks up your WhatsApp message is one of these three.",
+        "Behind the work sit three engineers, none of them based in Vita. One of us writes the websites and web applications. Another of us looks after AI, machine learning, AWS hosting and data. The third of us keeps the project on schedule and designs the automation and data science pieces. Whoever picks up your WhatsApp message is one of these three.",
       ],
     },
     {

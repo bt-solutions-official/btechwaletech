@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The label covers a wide range of people. Some are college students picking up small jobs. Some left salaried roles at IT services firms or product startups and now sell their time independently. Others work in small groups of two to five who split design, code and project management between them. All of them are “freelance developers in India”, but they are very different hires.`,
         `The common thread is independence. There is no employer standing behind the work, no HR department, and usually no office. You are contracting with a person or a small group directly, which means lower overheads and more direct contact, and also means you do more of the checking yourself.`,
-        `BtechWaleTech sits in the small-group category. Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS, data and technical SEO. Vedansh Shrivastava runs project management, data science and automation. That split is deliberate: a website that needs an app later, or an app that needs a WhatsApp bot, does not have to leave the team.`,
+        `BtechWaleTech sits in the small-group category. One of us handles full-stack development. Another of us covers AI, machine learning, AWS, data and technical SEO. The third of us runs project management, data science and automation. That split is deliberate: a website that needs an app later, or an app that needs a WhatsApp bot, does not have to leave the team.`,
       ],
     },
     {

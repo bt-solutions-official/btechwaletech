@@ -167,7 +167,7 @@ const brahmapur: CityContent = {
       paragraphs: [
         "We have no office in Berhampur and do not pretend to have one. We are three engineers who work remotely for clients across India. Without office rent or sales staff, our prices stay lower, and you talk directly to the people doing the work.",
         "The process is straightforward. We start with a call or WhatsApp chat about your business and customers, then send a written plan with pages, timeline and quote. Within a week or two you get a live preview link to open on your phone. Feedback comes back on WhatsApp, and small changes usually go live the same day.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma leads AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and covers data science and automation. We work on IST and reply every day of the week, including the evenings and Sundays when many shop owners finally have time to review their site.",
+        "One of us handles full-stack development. Another of us leads AI, machine learning, AWS and data work. The third of us manages projects and covers data science and automation. We work on IST and reply every day of the week, including the evenings and Sundays when many shop owners finally have time to review their site.",
       ],
     },
     {

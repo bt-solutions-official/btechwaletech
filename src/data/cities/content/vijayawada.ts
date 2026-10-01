@@ -159,7 +159,7 @@ const vijayawada: CityContent = {
       paragraphs: [
         "We have no office in Vijayawada, and we won't display a borrowed address to look local. We are three engineers working remotely for clients across India. That keeps our prices below those of agencies paying rent on MG Road, and it means you speak directly to the people who build your site.",
         "The process is straightforward. We talk on a call or on WhatsApp about your business, then send a page plan, timeline and itemised quote. After your approval, you get a live preview link within the first week or two, which you can open on your phone and share with partners. Feedback goes on WhatsApp, and small changes are usually live the same day. We work Indian hours and reply seven days a week. Our conversations are in English or Hindi; for Telugu content, we work with your team's input and review.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You always know who is doing what, and you can reach any of us directly.",
+        "One of us handles full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You always know who is doing what, and you can reach any of us directly.",
       ],
     },
     {

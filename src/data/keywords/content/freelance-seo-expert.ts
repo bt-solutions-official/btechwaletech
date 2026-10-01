@@ -28,7 +28,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Freelance SEO expert · Technical, on-page, content, local",
     h1: "Freelance SEO expert for Indian businesses: technical fixes, page work, content and local search",
-    lede: `A freelance SEO expert improves how search engines crawl, understand and rank your site, and you work with the person doing the fixes rather than a sales team. At BtechWaleTech, three freelance developers in India, Santosh leads technical SEO while the others build and fix the pages, so recommendations actually get implemented. Monthly SEO starts from ${P.seo}. This page explains the four parts of SEO, what a month of work really contains, how long results take and how to spot someone selling promises.`,
+    lede: `A freelance SEO expert improves how search engines crawl, understand and rank your site, and you work with the person doing the fixes rather than a sales team. At BtechWaleTech, three freelance developers in India, another of us leads technical SEO while the others build and fix the pages, so recommendations actually get implemented. Monthly SEO starts from ${P.seo}. This page explains the four parts of SEO, what a month of work really contains, how long results take and how to spot someone selling promises.`,
     pills: ["Technical SEO audits", "On-page optimisation", "Content planning", "Local SEO and Google Business Profile", "Schema markup", "Core Web Vitals", "Search Console reporting"],
     origin: "Three freelance developers · Remote from India · SEO clients across India and abroad",
   },
@@ -68,7 +68,7 @@ const content: FreelanceContent = {
     heading: "Four areas of SEO, and the work inside each",
     note: "SEO is not one task. Most sites have a weak spot in one of these four areas, and fixing that area first gives the quickest return.",
     cards: [
-      { name: "Technical SEO", note: "Crawling, indexing, redirects, canonical tags, sitemaps, site speed and Core Web Vitals. Santosh audits and our developers fix directly in the code.", href: "/technical-seo-freelancer/", size: "lg" },
+      { name: "Technical SEO", note: "Crawling, indexing, redirects, canonical tags, sitemaps, site speed and Core Web Vitals. Another of us audits and our developers fix directly in the code.", href: "/technical-seo-freelancer/", size: "lg" },
       { name: "Local SEO", note: "Google Business Profile, reviews, consistent name, address and phone, and location pages for businesses that serve nearby customers.", href: "/local-seo-expert/", size: "lg" },
       { name: "On-page optimisation", note: "Titles, headings, internal links, image alt text and page copy tuned to what searchers actually want on each page.", href: "/services/seo-services/", size: "md" },
       { name: "Content planning and writing", note: "Topic research, content briefs and service or guide pages written to answer real questions, not stuffed with keywords.", href: "/freelance-seo-consultant/", size: "md" },

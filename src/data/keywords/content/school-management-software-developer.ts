@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A school management software developer turns the registers, receipt books and spreadsheets in your office into one connected system. The accounts clerk records fees, teachers mark attendance, the exam coordinator enters marks, and management sees totals, all in the same database, so nothing is typed twice.`,
         `In practice the system has three faces. A web dashboard serves the office and management on a computer. A lightweight teacher view works on a phone for attendance and marks. A parents app, or at least a parent login, shows notices, homework, attendance and fee dues, and lets parents pay by UPI.`,
-        `Behind those screens sit the parts nobody sees but everyone relies on: permissions so a class teacher sees only her section, audit logs for fee changes, nightly backups, and exports in the formats your board and auditors ask for. At BtechWaleTech, Ankur builds the web and app code, Santosh handles the database, hosting and data imports, and Vedansh maps your office workflow and manages the rollout.`,
+        `Behind those screens sit the parts nobody sees but everyone relies on: permissions so a class teacher sees only her section, audit logs for fee changes, nightly backups, and exports in the formats your board and auditors ask for. At BtechWaleTech, one of us builds the web and app code, another of us handles the database, hosting and data imports, and the third of us maps your office workflow and manages the rollout.`,
       ],
       list: [
         "Student records and admissions",
@@ -205,7 +205,7 @@ const content: FreelanceContent = {
       heading: "Moving from spreadsheets or an old system without disrupting the term",
       paragraphs: [
         `Switch over in phases and at quiet points in the school year. The worst time to change fee software is the week fees are due; the best is just before a new session or after exams.`,
-        `We start by collecting sample files: the student master list, fee ledgers, attendance registers and last year’s marks. Santosh cleans and maps them into the new database, flagging duplicates, missing admission numbers and inconsistent class names for your office to confirm. We then run the new system in parallel with the old method for a short period, so staff can compare numbers before the old registers are retired.`,
+        `We start by collecting sample files: the student master list, fee ledgers, attendance registers and last year’s marks. Another of us cleans and maps them into the new database, flagging duplicates, missing admission numbers and inconsistent class names for your office to confirm. We then run the new system in parallel with the old method for a short period, so staff can compare numbers before the old registers are retired.`,
         `Training is short and role-based: a session for the accounts team on fees, one for teachers on attendance and marks, and a simple guide for parents on installing the app. Questions after go-live come to us on WhatsApp, seven days a week.`,
       ],
     },

@@ -69,7 +69,7 @@ const gudur: CityContent = {
       paragraphs: [
         "Gudur's day starts early. Lemon lorries arrive at the market, commission agents call buyers in Chennai, Bengaluru and Hyderabad with the morning's rates, and trains on the Chennai–Vijayawada line bring in traders and students. By afternoon the talk has moved to mica and feldspar dispatches, prawn harvests in the coastal mandals and admissions at the engineering colleges.",
         "What people ask for when they look for <strong>IT services in Gudur</strong> is usually specific. A lemon agent wants a simple way to share daily rates and record which lot went to which buyer. A mineral trader wants a website that looks credible to a buyer in another state or abroad. A hospital wants its timings shown correctly on Google. A college wants every admission enquiry in one list.",
-        "We are three engineers working as a remote team. Ankur Kumar handles full-stack development. Santosh Sharma covers AI, machine learning, AWS and data. Vedansh Shrivastava runs project management and adds data science and automation. You speak directly to the people building your project.",
+        "We are three engineers working as a remote team. One of us handles full-stack development. Another of us covers AI, machine learning, AWS and data. The third of us runs project management and adds data science and automation. You speak directly to the people building your project.",
         "We do not have an office in Gudur or in Nellore, and we are open about that. Work is done over WhatsApp, calls and screen shares, with written scopes at each step. It keeps costs down and means you do not have to take a morning off during the market's busiest hours to attend a meeting.",
       ],
     },

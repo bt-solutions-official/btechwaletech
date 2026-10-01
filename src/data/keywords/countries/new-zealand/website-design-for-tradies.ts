@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Key features", value: "Click-to-call, photo-upload quote form, suburb pages, licence details, reviews links" },
       { label: "Connects to", value: "Your email, and your job tool where its plan allows incoming enquiries" },
       { label: "Starting price", value: `From ${P.site}; SEO site with many area pages from ${P.seoSite}` },
-      { label: "Who you talk to", value: "Ankur, Santosh or Vedansh, on WhatsApp or a short video call" },
+      { label: "Who you talk to", value: "One of us, another of us or the third of us, on WhatsApp or a short video call" },
       { label: "Payment", value: "Quoted in USD · Wise, bank wire or PayPal" },
     ],
   },

@@ -183,7 +183,7 @@ const eluru: CityContent = {
       paragraphs: [
         "We do not have an office in Eluru or any other city. We are three engineers working remotely with clients across India. You talk directly to the people building your site, and none of your money pays for office rent.",
         "We start with a call or WhatsApp chat, then send a written page plan, timeline and itemised quote. Within a week or two you get a preview link to check on your phone. Feedback goes on WhatsApp, and small changes are usually done the same day. We reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data science work. Our <a href=\"/services/web-development/\">web development page</a> describes the process.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and builds automation and data science work. Our <a href=\"/services/web-development/\">web development page</a> describes the process.",
         "Distance has not been a problem for clients in coastal Andhra. Most owners already run their business on WhatsApp and video calls, and approving a design on your own phone is easier than sitting in a stranger's office. When content has to be in Telugu, we draft it with your help and you or a trusted person reads every line before it goes live.",
       ],
     },

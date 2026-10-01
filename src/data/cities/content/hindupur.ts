@@ -188,7 +188,7 @@ const hindupur: CityContent = {
       heading: "Working with us from Hindupur",
       paragraphs: [
         "We have no Hindupur office and do not pretend to. We are three engineers working remotely for businesses across India, and you speak directly to the people who build your project rather than a salesperson.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma covers AI, machine learning, AWS and data work. Vedansh Shrivastava handles project management, data science and automation. A project begins with a WhatsApp conversation about your business, then a page plan and itemised quote. Soon after, you get a preview link to check on your own phone, and changes are discussed on WhatsApp.",
+        "One of us leads full-stack development. Another of us covers AI, machine learning, AWS and data work. The third of us handles project management, data science and automation. A project begins with a WhatsApp conversation about your business, then a page plan and itemised quote. Soon after, you get a preview link to check on your own phone, and changes are discussed on WhatsApp.",
         "We keep IST hours and reply seven days a week. Minor edits usually go live the same day. To start, <a href=\"/contact/\">message us</a> with a line about what you sell.",
       ],
     },

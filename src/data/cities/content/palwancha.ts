@@ -70,7 +70,7 @@ const palwancha: CityContent = {
       paragraphs: [
         "Palwancha grew around industry. The Kothagudem Thermal Power Station gave it the Power City name, a coal-based sponge iron plant opened here in 1980, a ferro-alloys unit and a TSIIC industrial park followed, and Singareni coal mines operate across the district. Along NH-30 the town also serves as a market for villages and forest settlements towards Kinnerasani and Burgampadu.",
         "Requests for <strong>IT services in Palwancha</strong> come from all of these. A contractor at KTPS wants cleaner attendance and bill records. A hospital wants patients from surrounding mandals to see doctor timings before they travel. A college wants admission enquiries answered in Telugu and English. A lodge near the reservoir wants to be found by weekend visitors.",
-        "We are three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava leads project management, data science and automation. We have no office in Palwancha, and we tell you so from the start. Work happens on WhatsApp, calls and screen shares, and each decision is confirmed in writing.",
+        "We are three engineers working remotely. One of us handles full-stack development, another of us works on AI, machine learning, AWS and data, and the third of us leads project management, data science and automation. We have no office in Palwancha, and we tell you so from the start. Work happens on WhatsApp, calls and screen shares, and each decision is confirmed in writing.",
         "You do not need to travel to Khammam or Hyderabad for meetings, and our starting prices stay low because we carry no office rent.",
       ],
     },

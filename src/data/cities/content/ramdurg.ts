@@ -70,7 +70,7 @@ const ramdurg: CityContent = {
       paragraphs: [
         "Ramdurg is the trading and services centre for a taluk of 115 villages. Families from Katakol, Mudakavi, Hulkund, Salahalli and Torgal come in for seeds and fertiliser, cloth, gold, hospital visits, college admissions and government offices. Before the trip, more of them now check a phone: is the shop open on the fair day, which doctor is in, what the PU fee is, whether a lodge near Godachi has a room.",
         "So the requests we get for <strong>IT services in Ramdurg</strong> are practical ones. A Kannada website with a correct map pin. A price list that customers can see on WhatsApp. A register that shows which village retailer still owes money. An app that tells parents the bus is late. Few of these need anything elaborate, and we would rather build the small version well than sell a large one.",
-        "We are three engineers working remotely: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. There is no Ramdurg office. Calls, WhatsApp and screen shares replace the visit, and every decision is written down for you.",
+        "We are three engineers working remotely: one of us on full-stack development, another of us on AI, machine learning, AWS and data, and the third of us on project management, data science and automation. There is no Ramdurg office. Calls, WhatsApp and screen shares replace the visit, and every decision is written down for you.",
       ],
     },
     {
@@ -159,8 +159,8 @@ const ramdurg: CityContent = {
       id: "remote-team-ramdurg",
       heading: "An IT services team in Ramdurg without an office: how the remote work runs",
       paragraphs: [
-        "We have no office in Ramdurg, Belagavi or anywhere else, and we would rather say that on the first call than let you assume otherwise. What you get instead is a written process. After a conversation about your business, Vedansh sends a short document listing the pages or screens, the dates and the cost of each item.",
-        "Work begins only when you approve that document, and no money is asked for before then. Ankur builds, Santosh handles anything involving AI, cloud or data, and you see progress on preview links that open on your own phone. Kannada text goes to you for checking before it is published, because a spelling mistake on a college notice travels fast.",
+        "We have no office in Ramdurg, Belagavi or anywhere else, and we would rather say that on the first call than let you assume otherwise. What you get instead is a written process. After a conversation about your business, the third of us sends a short document listing the pages or screens, the dates and the cost of each item.",
+        "Work begins only when you approve that document, and no money is asked for before then. One of us builds, another of us handles anything involving AI, cloud or data, and you see progress on preview links that open on your own phone. Kannada text goes to you for checking before it is published, because a spelling mistake on a college notice travels fast.",
         "Our WhatsApp line is answered every day of the week, on Indian time. If a date slips, you hear about it the same day with a revised plan. Payments are tied to stages you can see working, which keeps the risk low for anyone putting their business online for the first time.",
       ],
     },

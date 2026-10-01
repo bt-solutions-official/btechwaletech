@@ -149,7 +149,7 @@ const khanna: CityContent = {
       paragraphs: [
         "We don't have an office in Khanna, Ludhiana or anywhere in Punjab, and we won't put a borrowed address on a page to look local. We are three engineers working remotely for clients across India. Because there is no rent or sales staff to cover, our starting prices can stay where they are, and you always talk to the people doing the work.",
         "A project begins with a call or WhatsApp chat about your business. We follow up with a written plan, timeline and itemised quote. Within a week or two you get a live preview link to open on your own phone, and you send feedback by message or voice note. Small changes often go live the same day. We work on Indian time, seven days a week, so if Sunday is the only day you can sit with your site, we are available.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and takes care of data science and automation. You can <a href=\"/contact/\">contact any of us directly</a>.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and takes care of data science and automation. You can <a href=\"/contact/\">contact any of us directly</a>.",
       ],
     },
     {

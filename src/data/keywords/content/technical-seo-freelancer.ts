@@ -28,13 +28,13 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Technical SEO freelancer · crawling, indexing, structured data, speed",
     h1: "Technical SEO freelancer who fixes crawling, indexing, schema and speed in the code, not only in a report",
-    lede: `A technical SEO freelancer makes sure search engines can find, crawl, render and index your pages, and that those pages load fast and describe themselves clearly with structured data. At BtechWaleTech that work is led by Santosh Sharma, who handles technical SEO, AWS and data, with two full-stack teammates who can ship the fixes directly. Monthly SEO starts at ${P.seo}. This page explains what a technical audit should cover, how to read Search Console, what fixes cost and how to hire well.`,
+    lede: `A technical SEO freelancer makes sure search engines can find, crawl, render and index your pages, and that those pages load fast and describe themselves clearly with structured data. At BtechWaleTech that work is led by another of us, who handles technical SEO, AWS and data, with two full-stack teammates who can ship the fixes directly. Monthly SEO starts at ${P.seo}. This page explains what a technical audit should cover, how to read Search Console, what fixes cost and how to hire well.`,
     pills: ["Crawl and index audits", "Search Console diagnosis", "Schema markup", "Core Web Vitals", "JavaScript rendering", "Site migrations", "Fixes shipped in code"],
     origin: "Three freelance developers · Remote from India · Sites in India and abroad",
   },
   facts: [
     ["Monthly SEO from", `${P.seo} · ${P.seoUsd}`],
-    ["Technical lead", "Santosh Sharma (technical SEO, AWS, data)"],
+    ["Technical lead", "Another of us (technical SEO, AWS, data)"],
     ["Fixes made by", "The same team, in your codebase"],
     ["Evidence", "Search Console, crawl data, server logs"],
     ["Rankings", "Never guaranteed, always measured"],

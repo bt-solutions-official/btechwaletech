@@ -234,7 +234,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Our default stack for society management app development is Flutter for the resident and guard apps, a Node.js or Python back end, PostgreSQL for the ledger and a small cloud setup on AWS or a similar provider in your account. It is not the only choice, but it keeps one codebase for both phone platforms and a database that handles accounting-style data well.`,
         `Push notifications carry visitor approvals, so they must arrive in seconds; we use the standard Firebase Cloud Messaging route on Android and Apple's push service on iPhone. Payment collection uses a UPI and card checkout into the society's own bank account, with webhooks updating the ledger. Receipts and bills are generated as PDFs the resident can download or forward.`,
-        `Hosting costs for one society are small and grow gently. For an FM platform we add backups, monitoring and a staging copy so updates are tested before residents see them. Santosh handles the AWS side, including access keys held by you, not us. More on the app side of our work is on <a href='/it-services/android-ios-app/'>Android and iOS app development</a>.`,
+        `Hosting costs for one society are small and grow gently. For an FM platform we add backups, monitoring and a staging copy so updates are tested before residents see them. Another of us handles the AWS side, including access keys held by you, not us. More on the app side of our work is on <a href='/it-services/android-ios-app/'>Android and iOS app development</a>.`,
       ],
     },
     {
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
       ["Scoping call on WhatsApp or video", "We ask who owns the app, how many flats and gates there are, and which three problems hurt most. You get an itemised quote in about two working days."],
       ["Billing and gate workshops", "Two short sessions with the treasurer and the security supervisor, where we write down billing heads, late-fee rules and the exact gate flow before any screen is designed."],
       ["Clickable designs", "Resident, guard and admin screens as a clickable prototype you can pass around the committee. Changes are cheap here, so we encourage arguments at this stage."],
-      ["Build with weekly test builds", "Ankur builds the apps and admin, Santosh sets up the cloud in your account, and Vedansh sends a test build and progress note every week."],
+      ["Build with weekly test builds", "One of us builds the apps and admin, another of us sets up the cloud in your account, and the third of us sends a test build and progress note every week."],
       ["Pilot on one tower and one gate", "Real residents and guards use the app for a short trial. We fix what confuses them, import the flat list and opening balances, and check totals against your accounts."],
       ["Store release and handover", "Apps go live under your developer accounts, you receive code, logins and guides, and two months of free maintenance begins."],
     ],

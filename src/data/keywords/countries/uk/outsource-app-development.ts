@@ -82,7 +82,7 @@ const content: FreelanceContent = {
     note: "Outsourcing is a spectrum. Each option shifts risk and management effort onto you or the supplier in different ways.",
     columns: ["Factor", "Freelancer via Upwork or Fiverr", "Large offshore outsourcing vendor", "BtechWaleTech"],
     rows: [
-      ["Who manages the work", "Mostly you", "Vendor's project managers", "The developers, with Vedansh as project lead"],
+      ["Who manages the work", "Mostly you", "Vendor's project managers", "The developers, with the third of us as project lead"],
       ["Team continuity", "One person; stalls if they leave", "Staff may rotate between clients", "Same three people throughout"],
       ["Direct access to developers", "Yes", "Often through a manager", "Yes, on WhatsApp and calls"],
       ["Payment protection", "Marketplace escrow, with service fees", "Contracted milestones", "Milestones paid after you test builds"],

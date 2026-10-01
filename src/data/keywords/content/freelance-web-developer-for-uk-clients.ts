@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Mostly for three reasons: cost, availability and a time zone that overlaps with the UK working day better than the US or Australia. A UK small business, charity or agency can get the same scope for less and still speak to the developers during its morning.`,
         `India also has a long history of building software for UK companies, so English communication, UK spelling and British business conventions are familiar ground. What varies a lot is how carefully individual freelancers handle data protection, ownership and contracts. That is where UK clients should spend their vetting time.`,
-        `We are a small freelance group of three: Ankur Kumar builds the sites and apps, Santosh Sharma handles hosting, AWS, data and technical SEO, and Vedansh Shrivastava manages the plan, automation and paperwork. You deal with all three on one thread, and nobody sits between you and the code.`,
+        `We are a small freelance group of three: one of us builds the sites and apps, another of us handles hosting, AWS, data and technical SEO, and the third of us manages the plan, automation and paperwork. You deal with all three on one thread, and nobody sits between you and the code.`,
       ],
     },
     {

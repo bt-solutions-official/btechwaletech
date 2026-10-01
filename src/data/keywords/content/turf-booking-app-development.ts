@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Turf booking app development produces three connected pieces: a player app for booking and paying, an owner or staff app for running the ground day to day, and a web panel for settings and reports. All three read from one database, so a slot booked on a phone disappears from every other screen instantly.`,
         `The key difference from listing your turf on a sports marketplace is ownership. The app carries your turf’s name on Google Play and the App Store, payments land in your own account, and the list of players who book with you is yours to message about tournaments, rain cancellations or a new floodlit ground.`,
-        `You receive the source code, the admin logins and the cloud hosting account in your name. Our team is Ankur Kumar for the apps and backend, Santosh Sharma for hosting, payments setup and search visibility, and Vedansh Shrivastava for planning, testing and your launch checklist.`,
+        `You receive the source code, the admin logins and the cloud hosting account in your name. Our team is one of us for the apps and backend, another of us for hosting, payments setup and search visibility, and the third of us for planning, testing and your launch checklist.`,
       ],
     },
     {
@@ -258,7 +258,7 @@ const content: FreelanceContent = {
       heading: "Tech choices for a turf booking app that stays fast on match night",
       paragraphs: [
         `We build the player and staff apps in Flutter, one codebase for Android and iOS, with a Node.js or Python backend and PostgreSQL. Slot holds use database-level locking so simultaneous taps cannot both succeed. The web panel is a React application for the owner.`,
-        `Evenings between 7 and 11 pm bring most of the traffic, so the backend is sized for that peak, not the daily average. Push notifications remind players an hour before kick-off and nudge teams whose recurring slot is about to lapse. Hosting sits in your own cloud account, with backups and monitoring set up by Santosh.`,
+        `Evenings between 7 and 11 pm bring most of the traffic, so the backend is sized for that peak, not the daily average. Push notifications remind players an hour before kick-off and nudge teams whose recurring slot is about to lapse. Hosting sits in your own cloud account, with backups and monitoring set up by another of us.`,
         `If you want players to book without installing anything, a mobile booking page built as a <a href='/progressive-web-app-developer/'>progressive web app</a> can share the same backend and slot engine.`,
       ],
     },

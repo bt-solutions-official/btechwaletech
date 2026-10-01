@@ -150,7 +150,7 @@ const bengaluru: CityContent = {
       paragraphs: [
         "In Bengaluru, everyone has heard of AI agents, and many businesses have been pitched expensive projects that never went into production. We take a narrower approach. We look for tasks that are repetitive, well defined and cheap to check, and automate those first. That usually delivers more than an ambitious agent that nobody trusts.",
         "Typical projects include a WhatsApp assistant that answers routine questions about menus, fees, stock or appointment slots in English or Kannada, with handover to a person for anything unusual; a lead pipeline that captures website and WhatsApp enquiries into a CRM and assigns them; document extraction that reads invoices or purchase orders into your accounting system; and internal assistants that answer staff questions from your own policies and manuals, citing the source.",
-        "Santosh Sharma, who leads our AI and AWS work, builds these with cost controls, logging and clear limits on what the system may do on its own. Projects start at ₹40,000. Anything involving payments, medical advice or legal commitments stays with a human, and we'll tell you when an automation isn't worth building.",
+        "Another of us, who leads our AI and AWS work, builds these with cost controls, logging and clear limits on what the system may do on its own. Projects start at ₹40,000. Anything involving payments, medical advice or legal commitments stays with a human, and we'll tell you when an automation isn't worth building.",
       ],
     },
     {
@@ -159,7 +159,7 @@ const bengaluru: CityContent = {
       paragraphs: [
         "We have no Bengaluru office and we won't borrow an address to appear local. We are three engineers working remotely across India. In a city where remote and hybrid working are already normal, and where a meeting in Whitefield from Jayanagar can eat half a day, most clients are glad not to travel.",
         "We start with a call or WhatsApp conversation, then send a written scope, timeline and cost. You get a live preview link within the first week or two and review it on your own phone. For technical clients we can work in your GitHub organisation, with pull requests you can review. Everyone else can send feedback as screenshots or voice notes. We reply seven days a week on Indian time.",
-        "Ankur Kumar leads full-stack <a href=\"/services/web-development/\">development</a>. Santosh Sharma handles AI, machine learning, AWS and data engineering. Vedansh Shrivastava manages projects and works on data science and automation. You can reach any of us directly.",
+        "One of us leads full-stack <a href=\"/services/web-development/\">development</a>. Another of us handles AI, machine learning, AWS and data engineering. The third of us manages projects and works on data science and automation. You can reach any of us directly.",
       ],
     },
     {

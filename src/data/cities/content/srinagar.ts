@@ -125,7 +125,7 @@ const srinagar: CityContent = {
       paragraphs: [
         "Srinagar has a small but active technology scene. STPI Srinagar has operated from the Electronics Complex at Rangreth since 2001 and runs incubation for early-stage companies, while the University of Kashmir and NIT Srinagar at Hazratbal produce graduates who increasingly want to build businesses at home rather than move to Bengaluru or Gurugram. Alongside software startups there are young founders running online stores for crafts, food brands, travel companies and education services.",
         "What these founders usually need is speed and flexibility on a small budget. A landing page that explains the product clearly, collects signups and can be edited by the team without a developer is often enough to start. As the business grows, it needs a proper site with pricing, case studies, a careers page and analytics that the investors will ask about. We build on fast static frameworks, so hosting costs stay close to zero and pages load well for users on the variable mobile connections common across the valley.",
-        "For founders building a product, Santosh handles AI, machine learning and AWS work and Ankur handles full-stack development, so we can also help with the first version of a web application, an admin panel or an API. We are honest about scope: if a no-code tool will do the job for the first six months, we will tell you, and you can come back when you outgrow it.",
+        "For founders building a product, another of us handles AI, machine learning and AWS work and one of us handles full-stack development, so we can also help with the first version of a web application, an admin panel or an API. We are honest about scope: if a no-code tool will do the job for the first six months, we will tell you, and you can come back when you outgrow it.",
       ],
     },
     {
@@ -168,7 +168,7 @@ const srinagar: CityContent = {
       paragraphs: [
         "We have no office in Srinagar and we will not invent one. We are a team of three engineers who work remotely for clients across India, and all our work happens on calls, WhatsApp, email and shared screens. That keeps rent and sales salaries out of your quote, and it means the person you talk to is the person who builds your site.",
         "A project starts with a conversation about what you sell and who buys it. We then send a page plan, a timeline and an itemised quote, usually within two working days. Once you approve it in writing, a live preview link arrives within the first week or two, and you check it on your own phone rather than looking at mock-ups. Changes are sent on WhatsApp and small ones are usually live the same day. We work on Indian Standard Time and reply seven days a week.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds data science and automation workflows. If a shop owner in Lal Chowk wants to call the developer directly, he can.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data work. The third of us manages projects and builds data science and automation workflows. If a shop owner in Lal Chowk wants to call the developer directly, he can.",
       ],
     },
     {

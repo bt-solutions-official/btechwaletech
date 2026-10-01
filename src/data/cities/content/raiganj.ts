@@ -187,7 +187,7 @@ const raiganj: CityContent = {
       heading: "No office in Raiganj, and how we still work closely with you",
       paragraphs: [
         "We have no office in Raiganj or anywhere in Uttar Dinajpur, and we will not pretend otherwise. We are three engineers working remotely for clients across India, which keeps costs down and means you speak directly with the people doing the work.",
-        "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and builds automation and data-science work. Reach us through the <a href=\"/contact/\">contact page</a>; we reply on WhatsApp seven days a week during Indian hours.",
+        "One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us manages projects and builds automation and data-science work. Reach us through the <a href=\"/contact/\">contact page</a>; we reply on WhatsApp seven days a week during Indian hours.",
         "After a first call, you receive a page plan, timeline and itemised quote in about two working days. Once you approve, a preview link follows within a week or two, so you can check the site on your phone and show it to family or partners. Our <a href=\"/services/web-development/\">web development</a> page covers the technical side.",
       ],
     },

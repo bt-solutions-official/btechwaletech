@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `React Native app development cost pays for one JavaScript or TypeScript codebase that renders real native controls on Android and iOS, plus everything needed to get it into both stores and keep it there. React Native is maintained by Meta and an open-source community, and it lets a developer describe screens in React while the phone draws its own buttons, lists and text fields.`,
         `The visible screens are perhaps half of the bill. The rest is plumbing: authentication, the API layer, state management, push notification setup, crash reporting, the build pipeline, signing certificates, privacy declarations and the review process on each store. A quote that lists only “design + development” has left most of that out, and you will meet it later as change requests.`,
-        `With BtechWaleTech the React Native starting point is ${P.app}. Ankur Kumar writes the app and API code, Santosh Sharma sets up cloud hosting, analytics and data flows, and Vedansh Shrivastava keeps the feature list, test builds and store paperwork on schedule. All three are on the same WhatsApp group with you.`,
+        `With BtechWaleTech the React Native starting point is ${P.app}. One of us writes the app and API code, another of us sets up cloud hosting, analytics and data flows, and the third of us keeps the feature list, test builds and store paperwork on schedule. All three are on the same WhatsApp group with you.`,
       ],
       list: [
         "Screen design with loading, empty and error states",

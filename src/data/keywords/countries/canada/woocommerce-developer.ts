@@ -104,7 +104,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A WooCommerce developer builds, repairs and extends online stores that run on WordPress with the WooCommerce plugin. For Canadian retailers the job has a local flavour: provincial sales tax tables, Canada Post rates, CAD card payments, and often wholesale buyers who need different prices from retail shoppers.`,
         `Unlike a hosted platform, WooCommerce gives you the code, the database and the server. That is its biggest advantage and its biggest burden. You can make the store do almost anything, but someone has to keep WordPress, the theme and dozens of plugins updated and working together. A good WooCommerce developer is part builder, part mechanic and part editor who removes what does not need to be there.`,
-        `We are three freelance developers in India. Ankur Kumar writes the PHP, theme and plugin code; Santosh Sharma handles hosting, performance, data and technical SEO; Vedansh Shrivastava plans each job and keeps the test checklist. You reach all three on WhatsApp, and we meet you on video in your morning.`,
+        `We are three freelance developers in India. One of us writes the PHP, theme and plugin code; another of us handles hosting, performance, data and technical SEO; the third of us plans each job and keeps the test checklist. You reach all three on WhatsApp, and we meet you on video in your morning.`,
       ],
       list: [
         "Store builds on WordPress and WooCommerce",

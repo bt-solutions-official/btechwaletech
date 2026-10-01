@@ -175,7 +175,7 @@ const guntakal: CityContent = {
       id: "remote-team-guntakal",
       heading: "Who we are and how a project runs",
       paragraphs: [
-        "BtechWaleTech is three engineers working remotely, and we have no office in Guntakal or anywhere else. We will not put a borrowed address on Google to look local. Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava runs project management along with data science and automation.",
+        "BtechWaleTech is three engineers working remotely, and we have no office in Guntakal or anywhere else. We will not put a borrowed address on Google to look local. One of us handles full-stack development. Another of us works on AI, machine learning, AWS and data. The third of us runs project management along with data science and automation.",
         "A project begins with a short call about your customers and your busiest months. Within about two working days you receive a page plan, a timeline and an itemised quote. After written approval, you get a preview link early, check it on your own phone and send changes on WhatsApp. Small corrections are often done the same day.",
         "We reply seven days a week on Indian time. That suits a railway town where shift work means many owners are free only late in the evening or on a Sunday. You always know which of the three of us is working on your project.",
       ],

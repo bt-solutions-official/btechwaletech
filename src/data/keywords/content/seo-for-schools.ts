@@ -34,9 +34,9 @@ const content: FreelanceContent = {
   facts: [
     ["For", "K-12 schools, play schools, boarding and international schools"],
     ["Main goal", "Admission enquiries and campus visits"],
-    ["Technical SEO", "Santosh Sharma"],
-    ["Website and forms", "Ankur Kumar"],
-    ["Admission-season calendar", "Vedansh Shrivastava"],
+    ["Technical SEO", "Another of us"],
+    ["Website and forms", "One of us"],
+    ["Admission-season calendar", "The third of us"],
     ["Monthly SEO", `From ${P.seo} · ${P.seoUsd} for schools abroad`],
   ],
   stats: [

@@ -69,7 +69,7 @@ const udhagamandalam: CityContent = {
       paragraphs: [
         "Udhagamandalam grew as a colonial sanatorium in the early nineteenth century and became a municipality in 1866. Two hundred years later it still depends on people arriving from the plains: tourists from Bengaluru, Chennai, Kerala and Coimbatore, students joining residential schools, and buyers for the tea, vegetables and dairy produced on the Nilgiri slopes.",
         "Almost all of those people now decide on a phone. A family chooses a homestay from map results. A school parent checks the admission page. A tea buyer in Delhi looks for a grower who ships. Most enquiries we receive for <strong>IT services in Ooty</strong> come down to making sure the business shows up in those moments and can reply quickly when it does.",
-        "We do this as a remote team of three engineers. Ankur Kumar builds the websites, apps and back ends; Santosh Sharma handles AI, machine learning, AWS and data; Vedansh Shrivastava manages projects, data science and automation. We have no office in Ooty. The work runs over WhatsApp, calls and screen shares, and every plan and change is confirmed in writing.",
+        "We do this as a remote team of three engineers. One of us builds the websites, apps and back ends; another of us handles AI, machine learning, AWS and data; the third of us manages projects, data science and automation. We have no office in Ooty. The work runs over WhatsApp, calls and screen shares, and every plan and change is confirmed in writing.",
       ],
     },
     {
@@ -149,7 +149,7 @@ const udhagamandalam: CityContent = {
       heading: "Data and booking dashboards for Ooty's seasonal businesses",
       paragraphs: [
         "Ooty's year has sharp peaks and long quiet stretches: summer holidays, the Flower Show crowds, long weekends and the year-end rush, with slow weeks in the heavy monsoon. Owners usually know this by feel, but few can see how many enquiries turned into stays, which source brought them, or which room type sat empty most often.",
-        "Santosh and Vedansh build small dashboards that pull from your booking sheet, website forms, WhatsApp enquiries and billing records and show a handful of numbers clearly: enquiries by week, conversion to bookings, occupancy by room type, and revenue per month compared with last year. Tea and chocolate sellers get orders by state, repeat buyers and best-selling pack sizes.",
+        "Another of us and the third of us build small dashboards that pull from your booking sheet, website forms, WhatsApp enquiries and billing records and show a handful of numbers clearly: enquiries by week, conversion to bookings, occupancy by room type, and revenue per month compared with last year. Tea and chocolate sellers get orders by state, repeat buyers and best-selling pack sizes.",
         "The point is to plan with evidence: when to open bookings, when to offer a longer-stay rate, how much stock to make before a holiday. Dashboard work is scoped with a website or software project and quoted item by item. If records are patchy, we first tidy how entries are made, because a chart built on guesses only repeats them.",
       ],
     },

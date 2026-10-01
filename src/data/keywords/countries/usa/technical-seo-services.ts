@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       paragraphs: [
         "Technical SEO services cover everything that decides whether search engines can find, fetch, render, understand and quickly serve your pages: crawling, indexing, rendering, speed, structured data, internal linking and site architecture. They do not cover writing blog posts, building backlinks or managing your Google Business Profile.",
         "The dividing line matters because many US site owners buy a general SEO retainer, receive content and outreach, and still have half their product or service pages excluded from Google. Content cannot rank from a URL that is not indexed. Equally, a technically perfect site with thin pages will not rank either, so we are open about which problem you have.",
-        "Our version of technical SEO services is developer-led. Santosh on our team handles the SEO diagnosis and Ankur handles the full-stack changes, so the person who spots a canonical conflict is working next to the person who edits the template. That shortens the gap between “we found it” and “it is fixed” from months to days.",
+        "Our version of technical SEO services is developer-led. Another of us on our team handles the SEO diagnosis and one of us handles the full-stack changes, so the person who spots a canonical conflict is working next to the person who edits the template. That shortens the gap between “we found it” and “it is fixed” from months to days.",
       ],
       list: [
         "<strong>In scope</strong>: indexing, canonicals, redirects, sitemaps, robots rules, rendering, Core Web Vitals, schema, internal links, pagination, hreflang, migrations.",

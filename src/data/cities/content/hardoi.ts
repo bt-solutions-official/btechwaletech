@@ -174,7 +174,7 @@ const hardoi: CityContent = {
       paragraphs: [
         "We have no office in Hardoi, and we will not pretend otherwise. We are three engineers working remotely with businesses across India. Without rent or a sales team to pay for, our starting prices stay below what a Lucknow agency usually charges, and you talk directly to the people who build your site.",
         "The work happens over calls, WhatsApp and screen sharing. After the first conversation we send a page plan, a timeline and an itemised quote within about two working days. Once you approve, we build and share a private preview link you can open on your own phone. We reply seven days a week on Indian time, and small edits are usually done the same day.",
-        "Ankur Kumar leads full-stack development. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can <a href=\"/contact/\">reach any of us</a> and get an answer from the person doing the work.",
+        "One of us leads full-stack development. Another of us handles AI, machine learning, AWS and data. The third of us manages projects and works on data science and automation. You can <a href=\"/contact/\">reach any of us</a> and get an answer from the person doing the work.",
       ],
     },
     {
