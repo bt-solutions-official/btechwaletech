@@ -24,6 +24,7 @@ const groupLabels: Record<string, string> = {
   "india-seo-growth-maintenance": "SEO, growth and maintenance",
   "india-cost-hinglish": "Costs, pricing and Hindi guides",
   "india-comparisons-audiences": "Comparisons and buyer guides",
+  "india-website-development": "Website development across India",
 };
 
 /** Every /{keyword}/ page that has a content file, grouped as in keywords.json, for the /services/ directory. */

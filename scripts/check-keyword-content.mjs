@@ -13,6 +13,7 @@ const MIN_PAGE_WORDS = 5500; // rendered <main> words, template included
 const MIN_NEW_PAGE_WORDS = 6300; // batch-2 India pages and every country page (~5,650 unique words + template)
 const MIN_LOCAL_PAGE_WORDS = 5300; // /bhiwadi-rajasthan/ pages (~4,650 unique words + template)
 const MIN_GUJARAT_PAGE_WORDS = 5700; // /gujarat/ pages (~5,050 unique words + template)
+const MIN_INDIA_WEB_WORDS = 5700; // batch-3 India website-development pages in keywords.json (~5,050 unique words + template)
 const TEMPLATE_WORDS = 650; // shared FreelancePage words (price table, quote card, CTA links); ~700 measured on /freelance-web-developer/
 const MAX_OVERLAP = 0.12; // share of a page's 8-word phrases also found in any other single page
 const root = process.cwd();
@@ -166,7 +167,7 @@ for (const { id, c, h, error } of pages) {
     if (local ? !localIds.has(id) : intl ? !countryIds.has(id) : !entry) problems.push(`"${id}" is not in ${local ? `${placeSet.dir}/pages.json` : intl ? "countries.json" : "keywords.json"}`);
     if (c.path !== `/${id}/`) problems.push(`path "${c.path}" must be "/${id}/"`);
     const total = words(text).length + TEMPLATE_WORDS;
-    const min = local ? placeSet.min : intl || entry?.batch === 2 ? MIN_NEW_PAGE_WORDS : MIN_PAGE_WORDS;
+    const min = local ? placeSet.min : entry?.batch === 3 ? MIN_INDIA_WEB_WORDS : intl || entry?.batch === 2 ? MIN_NEW_PAGE_WORDS : MIN_PAGE_WORDS;
     if (total < min) problems.push(`~${total} page words, need ${min}+ (add ~${min - total} unique words)`);
     const tLen = `${c.meta.title} | BtechWaleTech`.length;
     if (tLen > 70) problems.push(`title ${tLen} chars with brand suffix, keep <= 70`);
@@ -181,16 +182,17 @@ for (const { id, c, h, error } of pages) {
     if (c.areas.cards.length < (intl ? 12 : 14)) problems.push(`${c.areas.cards.length} area cards, need ${intl ? 12 : 14}+`);
     if (c.related.links.length < 12) problems.push(`${c.related.links.length} related links, need 12+`);
     if (!/^\d{4}-\d{2}-\d{2}$/.test(c.updated)) problems.push("updated must be YYYY-MM-DD");
-    if (local) {
+    // Place pages and the batch-3 India website-development pages follow the owner's no-names, no-company rules.
+    if (local || entry?.batch === 3) {
       const count = (word) => (text.match(new RegExp(`\\b${word}\\b`, "g")) ?? []).length;
-      if (!c.related.links.some((l) => l.href === `/${placeSet.prefix}/`)) problems.push(`related links must include the /${placeSet.prefix}/ hub`);
+      if (local && !c.related.links.some((l) => l.href === `/${placeSet.prefix}/`)) problems.push(`related links must include the /${placeSet.prefix}/ hub`);
       // The owner asked for no team member names on place pages; describe roles instead.
       const names = text.match(/\b(?:Ankur|Santosh|Vedansh|Shrivastava)\b/g);
       if (names) problems.push(`names a team member (${[...new Set(names)].join(", ")}); say "the BtechWaleTech team" and describe roles without names`);
       // The owner's rule: we are freelancers, not a company, so place pages never use service-company phrases.
       const serviceCompany = text.match(/\b(?:website|web|software|app|mobile app|IT|web design|website design|digital marketing|SEO|ecommerce|e-commerce|web application|custom software|ERP|CRM)(?: development| design)? compan(?:y|ies)\b/gi);
       if (serviceCompany) problems.push(`says "company" about IT services (we are freelancers): ${[...new Set(serviceCompany)].join(", ")}; use "freelance team", "services" or "agency" for alternatives`);
-      if (placeSet.prefix === "bhiwadi-rajasthan") {
+      if (placeSet?.prefix === "bhiwadi-rajasthan") {
         // Bhiwadi pages sell one-to-one meetings in Bhiwadi, so every page must say so, without inventing an office there.
         if (count("Bhiwadi") < 40) problems.push(`"Bhiwadi" appears ${count("Bhiwadi")} times, need 40+`);
         const meet = (text.match(/\b(?:face[- ]to[- ]face|one[- ]to[- ]one|in[- ]person)\b/gi) ?? []).length;
@@ -199,10 +201,10 @@ for (const { id, c, h, error } of pages) {
         const office = text.match(/\b(?:our|an?|the) (?:office|branch|centre|center|address) (?:in|at) Bhiwadi\b|\bBhiwadi (?:office|branch)\b/gi);
         if (office) problems.push(`claims an office in Bhiwadi, found: ${[...new Set(office)].join(", ")}`);
       } else {
-        // Gujarat pages: the build is remote, so the page must be about its place without implying a local office.
-        const { place } = localPlan.get(id)?.entry ?? {};
+        // Gujarat and batch-3 pages: the build is remote, so the page must be about its place without implying a local office.
+        const { place } = (local ? localPlan.get(id)?.entry : entry) ?? {};
         if (place && count(place) < 30) problems.push(`"${place}" appears ${count(place)} times, need 30+`);
-        if (count("Gujarat") < 8) problems.push(`"Gujarat" appears ${count("Gujarat")} times, need 8+`);
+        if (local && count("Gujarat") < 8) problems.push(`"Gujarat" appears ${count("Gujarat")} times, need 8+`);
         const office = text.match(/\bour (?:office|branch|studio|showroom) (?:in|at)\b|\bwe(?: are|'re) (?:based|located) in (?!India\b)[A-Z]\w+|\bvisit (?:us|our office)\b/gi);
         if (office) problems.push(`implies a local office (we work remotely), found: ${[...new Set(office)].join(", ")}`);
         if (!/\bBtechWaleTech team\b/.test(text)) problems.push(`say "the BtechWaleTech team" at least once (e.g. a facts card ["Who builds it", "The BtechWaleTech team"])`);

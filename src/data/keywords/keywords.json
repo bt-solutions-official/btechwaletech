@@ -4316,5 +4316,804 @@
   "angle": "For an Indian business spending ₹10k to ₹30k a month, which brings more paying inquiries: SEO or regular Instagram and Facebook posting? Covers the difference between search intent and scrolling attention, results that keep building versus posts that fade, realistic timelines and cost per lead, and how a website ties both together when a business does both.",
   "batch": 2,
   "group": "india-comparisons-audiences"
+ },
+ {
+  "slug": "website-development-services-india",
+  "keyword": "website development services in India",
+  "angle": "Core India-wide service page (freelance team, not a company): what a complete website development service includes for Indian businesses, every scope with starting prices, how a remote team serves clients in every state, regional-language sites, ownership and handover",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "India"
+ },
+ {
+  "slug": "website-developer-in-india",
+  "keyword": "website developer in India",
+  "angle": "Hiring view: why Indian businesses and overseas clients hire a website developer in India, skills and portfolio checks, freelance team vs agency vs in-house, time zones, INR and USD billing, contracts",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "India"
+ },
+ {
+  "slug": "website-designer-in-india",
+  "keyword": "website designer in India",
+  "angle": "Design view: UI/UX and visual design for Indian users, mobile-first and low-end Android, Indic-script typography, Figma reviews, design deliverables, designer vs developer",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "India"
+ },
+ {
+  "slug": "ecommerce-website-development-india",
+  "keyword": "ecommerce website development in India",
+  "angle": "Online stores for Indian sellers and D2C brands: Shopify vs WooCommerce vs custom, UPI, card and COD checkout, GST invoices, shipping aggregators, marketplace vs own store",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "India"
+ },
+ {
+  "slug": "website-banane-wala",
+  "keyword": "website banane wala",
+  "angle": "Hinglish page for people searching who builds websites (website banane wala near me): what a website banane wala actually does, freelancer vs agency vs DIY, kitna kharcha, kitna time, kya kya milta hai, how to check before paying",
+  "batch": 3,
+  "group": "india-website-development"
+ },
+ {
+  "slug": "website-developer-delhi",
+  "keyword": "website developer in Delhi",
+  "angle": "Core Delhi page (freelance team, not a company): complete business websites for Delhi businesses from a remote freelance team; what a build includes, the local market (traders, wholesalers, clinics, coaching institutes and service firms; markets such as Chandni Chowk, Karol Bagh, Nehru Place, Lajpat Nagar, Sadar Bazar; Okhla and Naraina industrial areas), localities served, cost, process",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Delhi"
+ },
+ {
+  "slug": "website-designer-delhi",
+  "keyword": "website designer in Delhi",
+  "angle": "Design side for Delhi brands: layout, visual identity, photography, Hindi/English and regional-language copy, mobile-first design, designer vs developer, screen-share design reviews; not a repeat of the developer page; local context: traders, wholesalers, clinics, coaching institutes and service firms; markets such as Chandni Chowk, Karol Bagh, Nehru Place, Lajpat Nagar, Sadar Bazar; Okhla and Naraina industrial areas",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Delhi"
+ },
+ {
+  "slug": "ecommerce-website-development-delhi",
+  "keyword": "ecommerce website development in Delhi",
+  "angle": "Online stores for Delhi sellers, wholesalers and D2C brands: catalogue, UPI/card/COD checkout, GST invoices, shipping from Delhi, Shopify vs WooCommerce vs custom, marketplace vs own store; local context: traders, wholesalers, clinics, coaching institutes and service firms; markets such as Chandni Chowk, Karol Bagh, Nehru Place, Lajpat Nagar, Sadar Bazar; Okhla and Naraina industrial areas",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Delhi"
+ },
+ {
+  "slug": "freelance-web-developer-delhi",
+  "keyword": "freelance web developer in Delhi",
+  "angle": "Hiring a freelancer in Delhi: freelance team vs agency vs in-house vs marketplace freelancer, vetting, contracts, milestones, payments, red flags, local vs remote; local context: traders, wholesalers, clinics, coaching institutes and service firms; markets such as Chandni Chowk, Karol Bagh, Nehru Place, Lajpat Nagar, Sadar Bazar; Okhla and Naraina industrial areas",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Delhi"
+ },
+ {
+  "slug": "website-development-cost-delhi",
+  "keyword": "website development cost in Delhi",
+  "angle": "Price breakdown for Delhi businesses: cost drivers, sample budgets by business type, running costs (domain, hosting, maintenance), why Delhi quotes vary so widely; local context: traders, wholesalers, clinics, coaching institutes and service firms; markets such as Chandni Chowk, Karol Bagh, Nehru Place, Lajpat Nagar, Sadar Bazar; Okhla and Naraina industrial areas",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Delhi"
+ },
+ {
+  "slug": "website-developer-mumbai",
+  "keyword": "website developer in Mumbai",
+  "angle": "Core Mumbai page (freelance team, not a company): complete business websites for Mumbai businesses from a remote freelance team; what a build includes, the local market (finance, trading, media and entertainment, diamonds, textiles, pharma, restaurants; areas such as Andheri MIDC, BKC, Lower Parel, Dadar, Fort, Crawford Market), localities served, cost, process",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Mumbai"
+ },
+ {
+  "slug": "website-designer-mumbai",
+  "keyword": "website designer in Mumbai",
+  "angle": "Design side for Mumbai brands: layout, visual identity, photography, Hindi/English and regional-language copy, mobile-first design, designer vs developer, screen-share design reviews; not a repeat of the developer page; local context: finance, trading, media and entertainment, diamonds, textiles, pharma, restaurants; areas such as Andheri MIDC, BKC, Lower Parel, Dadar, Fort, Crawford Market",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Mumbai"
+ },
+ {
+  "slug": "ecommerce-website-development-mumbai",
+  "keyword": "ecommerce website development in Mumbai",
+  "angle": "Online stores for Mumbai sellers, wholesalers and D2C brands: catalogue, UPI/card/COD checkout, GST invoices, shipping from Mumbai, Shopify vs WooCommerce vs custom, marketplace vs own store; local context: finance, trading, media and entertainment, diamonds, textiles, pharma, restaurants; areas such as Andheri MIDC, BKC, Lower Parel, Dadar, Fort, Crawford Market",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Mumbai"
+ },
+ {
+  "slug": "freelance-web-developer-mumbai",
+  "keyword": "freelance web developer in Mumbai",
+  "angle": "Hiring a freelancer in Mumbai: freelance team vs agency vs in-house vs marketplace freelancer, vetting, contracts, milestones, payments, red flags, local vs remote; local context: finance, trading, media and entertainment, diamonds, textiles, pharma, restaurants; areas such as Andheri MIDC, BKC, Lower Parel, Dadar, Fort, Crawford Market",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Mumbai"
+ },
+ {
+  "slug": "website-development-cost-mumbai",
+  "keyword": "website development cost in Mumbai",
+  "angle": "Price breakdown for Mumbai businesses: cost drivers, sample budgets by business type, running costs (domain, hosting, maintenance), why Mumbai quotes vary so widely; local context: finance, trading, media and entertainment, diamonds, textiles, pharma, restaurants; areas such as Andheri MIDC, BKC, Lower Parel, Dadar, Fort, Crawford Market",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Mumbai"
+ },
+ {
+  "slug": "website-developer-bangalore",
+  "keyword": "website developer in Bangalore",
+  "angle": "Core Bangalore page (freelance team, not a company): complete business websites for Bangalore businesses from a remote freelance team; what a build includes, the local market (startups, SaaS and IT, D2C brands, clinics, schools, restaurants; areas such as Koramangala, HSR Layout, Indiranagar, Whitefield, Electronic City, Peenya; Bengaluru name variant; Kannada sites), localities served, cost, process",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Bangalore"
+ },
+ {
+  "slug": "website-designer-bangalore",
+  "keyword": "website designer in Bangalore",
+  "angle": "Design side for Bangalore brands: layout, visual identity, photography, Hindi/English and regional-language copy, mobile-first design, designer vs developer, screen-share design reviews; not a repeat of the developer page; local context: startups, SaaS and IT, D2C brands, clinics, schools, restaurants; areas such as Koramangala, HSR Layout, Indiranagar, Whitefield, Electronic City, Peenya; Bengaluru name variant; Kannada sites",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Bangalore"
+ },
+ {
+  "slug": "ecommerce-website-development-bangalore",
+  "keyword": "ecommerce website development in Bangalore",
+  "angle": "Online stores for Bangalore sellers, wholesalers and D2C brands: catalogue, UPI/card/COD checkout, GST invoices, shipping from Bangalore, Shopify vs WooCommerce vs custom, marketplace vs own store; local context: startups, SaaS and IT, D2C brands, clinics, schools, restaurants; areas such as Koramangala, HSR Layout, Indiranagar, Whitefield, Electronic City, Peenya; Bengaluru name variant; Kannada sites",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Bangalore"
+ },
+ {
+  "slug": "freelance-web-developer-bangalore",
+  "keyword": "freelance web developer in Bangalore",
+  "angle": "Hiring a freelancer in Bangalore: freelance team vs agency vs in-house vs marketplace freelancer, vetting, contracts, milestones, payments, red flags, local vs remote; local context: startups, SaaS and IT, D2C brands, clinics, schools, restaurants; areas such as Koramangala, HSR Layout, Indiranagar, Whitefield, Electronic City, Peenya; Bengaluru name variant; Kannada sites",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Bangalore"
+ },
+ {
+  "slug": "website-development-cost-bangalore",
+  "keyword": "website development cost in Bangalore",
+  "angle": "Price breakdown for Bangalore businesses: cost drivers, sample budgets by business type, running costs (domain, hosting, maintenance), why Bangalore quotes vary so widely; local context: startups, SaaS and IT, D2C brands, clinics, schools, restaurants; areas such as Koramangala, HSR Layout, Indiranagar, Whitefield, Electronic City, Peenya; Bengaluru name variant; Kannada sites",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Bangalore"
+ },
+ {
+  "slug": "website-developer-hyderabad",
+  "keyword": "website developer in Hyderabad",
+  "angle": "Core Hyderabad page (freelance team, not a company): complete business websites for Hyderabad businesses from a remote freelance team; what a build includes, the local market (IT and startups, pharma and life sciences, real estate, hospitals, training institutes; areas such as HITEC City, Gachibowli, Madhapur, Ameerpet, Secunderabad, Begumpet; Telugu and Urdu sites), localities served, cost, process",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Hyderabad"
+ },
+ {
+  "slug": "website-designer-hyderabad",
+  "keyword": "website designer in Hyderabad",
+  "angle": "Design side for Hyderabad brands: layout, visual identity, photography, Hindi/English and regional-language copy, mobile-first design, designer vs developer, screen-share design reviews; not a repeat of the developer page; local context: IT and startups, pharma and life sciences, real estate, hospitals, training institutes; areas such as HITEC City, Gachibowli, Madhapur, Ameerpet, Secunderabad, Begumpet; Telugu and Urdu sites",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Hyderabad"
+ },
+ {
+  "slug": "ecommerce-website-development-hyderabad",
+  "keyword": "ecommerce website development in Hyderabad",
+  "angle": "Online stores for Hyderabad sellers, wholesalers and D2C brands: catalogue, UPI/card/COD checkout, GST invoices, shipping from Hyderabad, Shopify vs WooCommerce vs custom, marketplace vs own store; local context: IT and startups, pharma and life sciences, real estate, hospitals, training institutes; areas such as HITEC City, Gachibowli, Madhapur, Ameerpet, Secunderabad, Begumpet; Telugu and Urdu sites",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Hyderabad"
+ },
+ {
+  "slug": "freelance-web-developer-hyderabad",
+  "keyword": "freelance web developer in Hyderabad",
+  "angle": "Hiring a freelancer in Hyderabad: freelance team vs agency vs in-house vs marketplace freelancer, vetting, contracts, milestones, payments, red flags, local vs remote; local context: IT and startups, pharma and life sciences, real estate, hospitals, training institutes; areas such as HITEC City, Gachibowli, Madhapur, Ameerpet, Secunderabad, Begumpet; Telugu and Urdu sites",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Hyderabad"
+ },
+ {
+  "slug": "website-developer-chennai",
+  "keyword": "website developer in Chennai",
+  "angle": "Core Chennai page (freelance team, not a company): complete business websites for Chennai businesses from a remote freelance team; what a build includes, the local market (auto and engineering suppliers, healthcare, IT on OMR, textiles retail in T. Nagar, education; areas such as Guindy, Ambattur, OMR, Anna Nagar, Velachery; Tamil sites), localities served, cost, process",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Chennai"
+ },
+ {
+  "slug": "website-designer-chennai",
+  "keyword": "website designer in Chennai",
+  "angle": "Design side for Chennai brands: layout, visual identity, photography, Hindi/English and regional-language copy, mobile-first design, designer vs developer, screen-share design reviews; not a repeat of the developer page; local context: auto and engineering suppliers, healthcare, IT on OMR, textiles retail in T. Nagar, education; areas such as Guindy, Ambattur, OMR, Anna Nagar, Velachery; Tamil sites",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Chennai"
+ },
+ {
+  "slug": "ecommerce-website-development-chennai",
+  "keyword": "ecommerce website development in Chennai",
+  "angle": "Online stores for Chennai sellers, wholesalers and D2C brands: catalogue, UPI/card/COD checkout, GST invoices, shipping from Chennai, Shopify vs WooCommerce vs custom, marketplace vs own store; local context: auto and engineering suppliers, healthcare, IT on OMR, textiles retail in T. Nagar, education; areas such as Guindy, Ambattur, OMR, Anna Nagar, Velachery; Tamil sites",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Chennai"
+ },
+ {
+  "slug": "freelance-web-developer-chennai",
+  "keyword": "freelance web developer in Chennai",
+  "angle": "Hiring a freelancer in Chennai: freelance team vs agency vs in-house vs marketplace freelancer, vetting, contracts, milestones, payments, red flags, local vs remote; local context: auto and engineering suppliers, healthcare, IT on OMR, textiles retail in T. Nagar, education; areas such as Guindy, Ambattur, OMR, Anna Nagar, Velachery; Tamil sites",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Chennai"
+ },
+ {
+  "slug": "website-developer-pune",
+  "keyword": "website developer in Pune",
+  "angle": "Core Pune page (freelance team, not a company): complete business websites for Pune businesses from a remote freelance team; what a build includes, the local market (IT parks, automotive and engineering (Pimpri-Chinchwad, Chakan), education, startups, real estate; areas such as Hinjewadi, Kharadi, Baner, Kothrud, Hadapsar; Marathi sites), localities served, cost, process",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Pune"
+ },
+ {
+  "slug": "website-designer-pune",
+  "keyword": "website designer in Pune",
+  "angle": "Design side for Pune brands: layout, visual identity, photography, Hindi/English and regional-language copy, mobile-first design, designer vs developer, screen-share design reviews; not a repeat of the developer page; local context: IT parks, automotive and engineering (Pimpri-Chinchwad, Chakan), education, startups, real estate; areas such as Hinjewadi, Kharadi, Baner, Kothrud, Hadapsar; Marathi sites",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Pune"
+ },
+ {
+  "slug": "ecommerce-website-development-pune",
+  "keyword": "ecommerce website development in Pune",
+  "angle": "Online stores for Pune sellers, wholesalers and D2C brands: catalogue, UPI/card/COD checkout, GST invoices, shipping from Pune, Shopify vs WooCommerce vs custom, marketplace vs own store; local context: IT parks, automotive and engineering (Pimpri-Chinchwad, Chakan), education, startups, real estate; areas such as Hinjewadi, Kharadi, Baner, Kothrud, Hadapsar; Marathi sites",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Pune"
+ },
+ {
+  "slug": "freelance-web-developer-pune",
+  "keyword": "freelance web developer in Pune",
+  "angle": "Hiring a freelancer in Pune: freelance team vs agency vs in-house vs marketplace freelancer, vetting, contracts, milestones, payments, red flags, local vs remote; local context: IT parks, automotive and engineering (Pimpri-Chinchwad, Chakan), education, startups, real estate; areas such as Hinjewadi, Kharadi, Baner, Kothrud, Hadapsar; Marathi sites",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Pune"
+ },
+ {
+  "slug": "website-developer-kolkata",
+  "keyword": "website developer in Kolkata",
+  "angle": "Core Kolkata page (freelance team, not a company): complete business websites for Kolkata businesses from a remote freelance team; what a build includes, the local market (wholesale trade (Burrabazar), IT in Salt Lake Sector V and New Town, tea, jute, sweets, education, hospitals; Howrah; Bengali sites), localities served, cost, process",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Kolkata"
+ },
+ {
+  "slug": "website-designer-kolkata",
+  "keyword": "website designer in Kolkata",
+  "angle": "Design side for Kolkata brands: layout, visual identity, photography, Hindi/English and regional-language copy, mobile-first design, designer vs developer, screen-share design reviews; not a repeat of the developer page; local context: wholesale trade (Burrabazar), IT in Salt Lake Sector V and New Town, tea, jute, sweets, education, hospitals; Howrah; Bengali sites",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Kolkata"
+ },
+ {
+  "slug": "ecommerce-website-development-kolkata",
+  "keyword": "ecommerce website development in Kolkata",
+  "angle": "Online stores for Kolkata sellers, wholesalers and D2C brands: catalogue, UPI/card/COD checkout, GST invoices, shipping from Kolkata, Shopify vs WooCommerce vs custom, marketplace vs own store; local context: wholesale trade (Burrabazar), IT in Salt Lake Sector V and New Town, tea, jute, sweets, education, hospitals; Howrah; Bengali sites",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Kolkata"
+ },
+ {
+  "slug": "website-developer-noida",
+  "keyword": "website developer in Noida",
+  "angle": "Core Noida page (freelance team, not a company): complete business websites for Noida businesses from a remote freelance team; what a build includes, the local market (IT and startups, apparel exporters, electronics manufacturing, coaching, real estate; sectors such as Sector 18, 62, 63, Film City; Greater Noida), localities served, cost, process",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Noida"
+ },
+ {
+  "slug": "website-designer-noida",
+  "keyword": "website designer in Noida",
+  "angle": "Design side for Noida brands: layout, visual identity, photography, Hindi/English and regional-language copy, mobile-first design, designer vs developer, screen-share design reviews; not a repeat of the developer page; local context: IT and startups, apparel exporters, electronics manufacturing, coaching, real estate; sectors such as Sector 18, 62, 63, Film City; Greater Noida",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Noida"
+ },
+ {
+  "slug": "ecommerce-website-development-noida",
+  "keyword": "ecommerce website development in Noida",
+  "angle": "Online stores for Noida sellers, wholesalers and D2C brands: catalogue, UPI/card/COD checkout, GST invoices, shipping from Noida, Shopify vs WooCommerce vs custom, marketplace vs own store; local context: IT and startups, apparel exporters, electronics manufacturing, coaching, real estate; sectors such as Sector 18, 62, 63, Film City; Greater Noida",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Noida"
+ },
+ {
+  "slug": "website-developer-gurgaon",
+  "keyword": "website developer in Gurgaon",
+  "angle": "Core Gurgaon page (freelance team, not a company): complete business websites for Gurgaon businesses from a remote freelance team; what a build includes, the local market (corporates, startups, consultancies, real estate, auto suppliers (Manesar); areas such as Cyber City, Udyog Vihar, Golf Course Road, Sohna Road; Gurugram name variant), localities served, cost, process",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Gurgaon"
+ },
+ {
+  "slug": "website-designer-gurgaon",
+  "keyword": "website designer in Gurgaon",
+  "angle": "Design side for Gurgaon brands: layout, visual identity, photography, Hindi/English and regional-language copy, mobile-first design, designer vs developer, screen-share design reviews; not a repeat of the developer page; local context: corporates, startups, consultancies, real estate, auto suppliers (Manesar); areas such as Cyber City, Udyog Vihar, Golf Course Road, Sohna Road; Gurugram name variant",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Gurgaon"
+ },
+ {
+  "slug": "ecommerce-website-development-gurgaon",
+  "keyword": "ecommerce website development in Gurgaon",
+  "angle": "Online stores for Gurgaon sellers, wholesalers and D2C brands: catalogue, UPI/card/COD checkout, GST invoices, shipping from Gurgaon, Shopify vs WooCommerce vs custom, marketplace vs own store; local context: corporates, startups, consultancies, real estate, auto suppliers (Manesar); areas such as Cyber City, Udyog Vihar, Golf Course Road, Sohna Road; Gurugram name variant",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Gurgaon"
+ },
+ {
+  "slug": "website-developer-jaipur",
+  "keyword": "website developer in Jaipur",
+  "angle": "Core Jaipur page (freelance team, not a company): complete business websites for Jaipur businesses from a remote freelance team; what a build includes, the local market (gems and jewellery (Johari Bazaar), block printing and textiles (Sanganer, Bagru), handicrafts, hotels and tourism, coaching; Sitapura and VKI industrial areas), localities served, cost, process",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Jaipur"
+ },
+ {
+  "slug": "website-designer-jaipur",
+  "keyword": "website designer in Jaipur",
+  "angle": "Design side for Jaipur brands: layout, visual identity, photography, Hindi/English and regional-language copy, mobile-first design, designer vs developer, screen-share design reviews; not a repeat of the developer page; local context: gems and jewellery (Johari Bazaar), block printing and textiles (Sanganer, Bagru), handicrafts, hotels and tourism, coaching; Sitapura and VKI industrial areas",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Jaipur"
+ },
+ {
+  "slug": "ecommerce-website-development-jaipur",
+  "keyword": "ecommerce website development in Jaipur",
+  "angle": "Online stores for Jaipur sellers, wholesalers and D2C brands: catalogue, UPI/card/COD checkout, GST invoices, shipping from Jaipur, Shopify vs WooCommerce vs custom, marketplace vs own store; local context: gems and jewellery (Johari Bazaar), block printing and textiles (Sanganer, Bagru), handicrafts, hotels and tourism, coaching; Sitapura and VKI industrial areas",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Jaipur"
+ },
+ {
+  "slug": "website-developer-lucknow",
+  "keyword": "website developer in Lucknow",
+  "angle": "Core Lucknow page (freelance team, not a company): complete business websites for Lucknow businesses from a remote freelance team; what a build includes, the local market (chikankari garments, food brands, hospitals, coaching and schools, real estate; areas such as Hazratganj, Aminabad, Gomti Nagar, Alambagh), localities served, cost, process",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Lucknow"
+ },
+ {
+  "slug": "website-designer-lucknow",
+  "keyword": "website designer in Lucknow",
+  "angle": "Design side for Lucknow brands: layout, visual identity, photography, Hindi/English and regional-language copy, mobile-first design, designer vs developer, screen-share design reviews; not a repeat of the developer page; local context: chikankari garments, food brands, hospitals, coaching and schools, real estate; areas such as Hazratganj, Aminabad, Gomti Nagar, Alambagh",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Lucknow"
+ },
+ {
+  "slug": "ecommerce-website-development-lucknow",
+  "keyword": "ecommerce website development in Lucknow",
+  "angle": "Online stores for Lucknow sellers, wholesalers and D2C brands: catalogue, UPI/card/COD checkout, GST invoices, shipping from Lucknow, Shopify vs WooCommerce vs custom, marketplace vs own store; local context: chikankari garments, food brands, hospitals, coaching and schools, real estate; areas such as Hazratganj, Aminabad, Gomti Nagar, Alambagh",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Lucknow"
+ },
+ {
+  "slug": "website-developer-chandigarh",
+  "keyword": "website developer in Chandigarh",
+  "angle": "Core Chandigarh page (freelance team, not a company): complete business websites for Chandigarh businesses from a remote freelance team; what a build includes, the local market (immigration and IELTS consultants, hospitals, education, real estate in the tricity (Mohali, Panchkula, Zirakpur); sector markets such as Sector 17), localities served, cost, process",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Chandigarh"
+ },
+ {
+  "slug": "website-designer-chandigarh",
+  "keyword": "website designer in Chandigarh",
+  "angle": "Design side for Chandigarh brands: layout, visual identity, photography, Hindi/English and regional-language copy, mobile-first design, designer vs developer, screen-share design reviews; not a repeat of the developer page; local context: immigration and IELTS consultants, hospitals, education, real estate in the tricity (Mohali, Panchkula, Zirakpur); sector markets such as Sector 17",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Chandigarh"
+ },
+ {
+  "slug": "website-developer-indore",
+  "keyword": "website developer in Indore",
+  "angle": "Core Indore page (freelance team, not a company): complete business websites for Indore businesses from a remote freelance team; what a build includes, the local market (trading and wholesale (Rajwada, Siyaganj), food brands, education, Pithampur and Sanwer Road industry; areas such as Vijay Nagar, Palasia), localities served, cost, process",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Indore"
+ },
+ {
+  "slug": "website-designer-indore",
+  "keyword": "website designer in Indore",
+  "angle": "Design side for Indore brands: layout, visual identity, photography, Hindi/English and regional-language copy, mobile-first design, designer vs developer, screen-share design reviews; not a repeat of the developer page; local context: trading and wholesale (Rajwada, Siyaganj), food brands, education, Pithampur and Sanwer Road industry; areas such as Vijay Nagar, Palasia",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Indore"
+ },
+ {
+  "slug": "website-developer-vijayawada",
+  "keyword": "website developer in Vijayawada",
+  "angle": "Core Vijayawada page (freelance team, not a company): complete business websites for Vijayawada businesses from a remote freelance team; what a build includes, the local market (trading, auto parts (Auto Nagar), education and coaching, hospitals; Amaravati capital region; Telugu sites), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Vijayawada"
+ },
+ {
+  "slug": "website-developer-madurai",
+  "keyword": "website developer in Madurai",
+  "angle": "Core Madurai page (freelance team, not a company): complete business websites for Madurai businesses from a remote freelance team; what a build includes, the local market (temple tourism, textiles and sungudi sarees, jasmine trade, hospitals, education; Tamil sites), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Madurai"
+ },
+ {
+  "slug": "website-developer-nashik",
+  "keyword": "website developer in Nashik",
+  "angle": "Core Nashik page (freelance team, not a company): complete business websites for Nashik businesses from a remote freelance team; what a build includes, the local market (grapes and wineries, onion trade, Satpur and Ambad MIDC industry, religious tourism (Trimbakeshwar); Marathi sites), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Nashik"
+ },
+ {
+  "slug": "website-developer-siliguri",
+  "keyword": "website developer in Siliguri",
+  "angle": "Core Siliguri page (freelance team, not a company): complete business websites for Siliguri businesses from a remote freelance team; what a build includes, the local market (gateway to Darjeeling, Sikkim and the North-East: tea, tour operators, hotels, wholesale trade, education), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Siliguri"
+ },
+ {
+  "slug": "website-developer-guwahati",
+  "keyword": "website developer in Guwahati",
+  "angle": "Core Guwahati page (freelance team, not a company): complete business websites for Guwahati businesses from a remote freelance team; what a build includes, the local market (gateway to the North-East: tea, tourism, Fancy Bazar trade, hospitals, education; Assamese sites), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Guwahati"
+ },
+ {
+  "slug": "website-developer-ghaziabad",
+  "keyword": "website developer in Ghaziabad",
+  "angle": "Core Ghaziabad page (freelance team, not a company): complete business websites for Ghaziabad businesses from a remote freelance team; what a build includes, the local market (Sahibabad and Meerut Road industrial areas, Indirapuram, Vaishali, Raj Nagar Extension residential belts, schools, clinics), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Ghaziabad"
+ },
+ {
+  "slug": "website-developer-meerut",
+  "keyword": "website developer in Meerut",
+  "angle": "Core Meerut page (freelance team, not a company): complete business websites for Meerut businesses from a remote freelance team; what a build includes, the local market (sports goods, scissors, jewellery, education, real estate; western UP), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Meerut"
+ },
+ {
+  "slug": "website-developer-faridabad",
+  "keyword": "website developer in Faridabad",
+  "angle": "Core Faridabad page (freelance team, not a company): complete business websites for Faridabad businesses from a remote freelance team; what a build includes, the local market (manufacturing and auto components, industrial sectors, Ballabgarh, schools and hospitals; NCR), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Faridabad"
+ },
+ {
+  "slug": "website-developer-karnal",
+  "keyword": "website developer in Karnal",
+  "angle": "Core Karnal page (freelance team, not a company): complete business websites for Karnal businesses from a remote freelance team; what a build includes, the local market (basmati rice mills and agri-business, dairy research, highway hotels and dhabas, education; Haryana), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Karnal"
+ },
+ {
+  "slug": "website-developer-jodhpur",
+  "keyword": "website developer in Jodhpur",
+  "angle": "Core Jodhpur page (freelance team, not a company): complete business websites for Jodhpur businesses from a remote freelance team; what a build includes, the local market (handicrafts and furniture exporters, tourism and heritage hotels, guar gum, textiles; Rajasthan), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Jodhpur"
+ },
+ {
+  "slug": "website-developer-udaipur",
+  "keyword": "website developer in Udaipur",
+  "angle": "Core Udaipur page (freelance team, not a company): complete business websites for Udaipur businesses from a remote freelance team; what a build includes, the local market (tourism, lake hotels, destination weddings, marble and stone, handicrafts; Rajasthan), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Udaipur"
+ },
+ {
+  "slug": "website-developer-kanpur",
+  "keyword": "website developer in Kanpur",
+  "angle": "Core Kanpur page (freelance team, not a company): complete business websites for Kanpur businesses from a remote freelance team; what a build includes, the local market (leather and tanneries, textiles, manufacturing, education, wholesale trade), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Kanpur"
+ },
+ {
+  "slug": "website-developer-varanasi",
+  "keyword": "website developer in Varanasi",
+  "angle": "Core Varanasi page (freelance team, not a company): complete business websites for Varanasi businesses from a remote freelance team; what a build includes, the local market (pilgrimage tourism and guesthouses, Banarasi silk sarees, education (BHU), food), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Varanasi"
+ },
+ {
+  "slug": "website-developer-mohali",
+  "keyword": "website developer in Mohali",
+  "angle": "Core Mohali page (freelance team, not a company): complete business websites for Mohali businesses from a remote freelance team; what a build includes, the local market (IT City and startups, hospitals, immigration consultants, education, real estate; Chandigarh tricity), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Mohali"
+ },
+ {
+  "slug": "website-developer-ludhiana",
+  "keyword": "website developer in Ludhiana",
+  "angle": "Core Ludhiana page (freelance team, not a company): complete business websites for Ludhiana businesses from a remote freelance team; what a build includes, the local market (hosiery and knitwear, bicycles and parts, auto components, machine tools; Punjab's industrial city), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Ludhiana"
+ },
+ {
+  "slug": "website-developer-amritsar",
+  "keyword": "website developer in Amritsar",
+  "angle": "Core Amritsar page (freelance team, not a company): complete business websites for Amritsar businesses from a remote freelance team; what a build includes, the local market (Golden Temple tourism and hotels, food brands, textiles and wholesale (Hall Bazaar), NRI families), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Amritsar"
+ },
+ {
+  "slug": "website-developer-bhopal",
+  "keyword": "website developer in Bhopal",
+  "angle": "Core Bhopal page (freelance team, not a company): complete business websites for Bhopal businesses from a remote freelance team; what a build includes, the local market (state capital, education and coaching, hospitals, government suppliers, tourism; Mandideep industry), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Bhopal"
+ },
+ {
+  "slug": "website-developer-gwalior",
+  "keyword": "website developer in Gwalior",
+  "angle": "Core Gwalior page (freelance team, not a company): complete business websites for Gwalior businesses from a remote freelance team; what a build includes, the local market (tourism and heritage, education, trade, Malanpur industry), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Gwalior"
+ },
+ {
+  "slug": "website-developer-jabalpur",
+  "keyword": "website developer in Jabalpur",
+  "angle": "Core Jabalpur page (freelance team, not a company): complete business websites for Jabalpur businesses from a remote freelance team; what a build includes, the local market (education, defence-related industry, tourism (Bhedaghat), trade), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Jabalpur"
+ },
+ {
+  "slug": "website-developer-kochi",
+  "keyword": "website developer in Kochi",
+  "angle": "Core Kochi page (freelance team, not a company): complete business websites for Kochi businesses from a remote freelance team; what a build includes, the local market (port and spice trade, seafood exports, tourism and homestays, Infopark IT, Gulf-NRI families; Malayalam sites), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Kochi"
+ },
+ {
+  "slug": "website-developer-trivandrum",
+  "keyword": "website developer in Trivandrum",
+  "angle": "Core Trivandrum page (freelance team, not a company): complete business websites for Trivandrum businesses from a remote freelance team; what a build includes, the local market (Technopark IT, Ayurveda and healthcare, tourism (Kovalam), government and education; Thiruvananthapuram name variant; Malayalam sites), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Trivandrum"
+ },
+ {
+  "slug": "website-developer-kozhikode",
+  "keyword": "website developer in Kozhikode",
+  "angle": "Core Kozhikode page (freelance team, not a company): complete business websites for Kozhikode businesses from a remote freelance team; what a build includes, the local market (trade, spices, food brands, healthcare, Gulf-NRI families; Calicut name variant; Malayalam sites), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Kozhikode"
+ },
+ {
+  "slug": "website-developer-mangalore",
+  "keyword": "website developer in Mangalore",
+  "angle": "Core Mangalore page (freelance team, not a company): complete business websites for Mangalore businesses from a remote freelance team; what a build includes, the local market (port, education and medical colleges, cashew, banking heritage, seafood; Mangaluru name variant; Kannada sites), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Mangalore"
+ },
+ {
+  "slug": "website-developer-mysore",
+  "keyword": "website developer in Mysore",
+  "angle": "Core Mysore page (freelance team, not a company): complete business websites for Mysore businesses from a remote freelance team; what a build includes, the local market (tourism and heritage, silk, sandalwood, yoga schools, education, IT campuses; Mysuru name variant; Kannada sites), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Mysore"
+ },
+ {
+  "slug": "website-developer-coimbatore",
+  "keyword": "website developer in Coimbatore",
+  "angle": "Core Coimbatore page (freelance team, not a company): complete business websites for Coimbatore businesses from a remote freelance team; what a build includes, the local market (textiles and spinning mills, pumps and motors, foundries, education, hospitals; Tamil sites), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Coimbatore"
+ },
+ {
+  "slug": "website-developer-trichy",
+  "keyword": "website developer in Trichy",
+  "angle": "Core Trichy page (freelance team, not a company): complete business websites for Trichy businesses from a remote freelance team; what a build includes, the local market (engineering industry around BHEL, education, temple tourism (Srirangam); Tiruchirappalli name variant; Tamil sites), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Trichy"
+ },
+ {
+  "slug": "website-developer-visakhapatnam",
+  "keyword": "website developer in Visakhapatnam",
+  "angle": "Core Visakhapatnam page (freelance team, not a company): complete business websites for Visakhapatnam businesses from a remote freelance team; what a build includes, the local market (port and logistics, steel, pharma, tourism, IT; Vizag name variant; Telugu sites), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Visakhapatnam"
+ },
+ {
+  "slug": "website-developer-hubli",
+  "keyword": "website developer in Hubli",
+  "angle": "Core Hubli page (freelance team, not a company): complete business websites for Hubli businesses from a remote freelance team; what a build includes, the local market (commercial hub of north Karnataka, education in Dharwad, trading, manufacturing; Hubballi name variant; Kannada sites), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Hubli"
+ },
+ {
+  "slug": "website-developer-pondicherry",
+  "keyword": "website developer in Pondicherry",
+  "angle": "Core Pondicherry page (freelance team, not a company): complete business websites for Pondicherry businesses from a remote freelance team; what a build includes, the local market (tourism, heritage hotels and guesthouses, cafes, Auroville, education; Puducherry name variant), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Pondicherry"
+ },
+ {
+  "slug": "website-developer-thane",
+  "keyword": "website developer in Thane",
+  "angle": "Core Thane page (freelance team, not a company): complete business websites for Thane businesses from a remote freelance team; what a build includes, the local market (residential growth, Wagle Estate MSMEs, retail, clinics, schools; Mumbai Metropolitan Region), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Thane"
+ },
+ {
+  "slug": "website-developer-navi-mumbai",
+  "keyword": "website developer in Navi Mumbai",
+  "angle": "Core Navi Mumbai page (freelance team, not a company): complete business websites for Navi Mumbai businesses from a remote freelance team; what a build includes, the local market (Vashi APMC trade, TTC MIDC industry, CBD Belapur offices, logistics around JNPT, real estate), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Navi Mumbai"
+ },
+ {
+  "slug": "website-developer-nagpur",
+  "keyword": "website developer in Nagpur",
+  "angle": "Core Nagpur page (freelance team, not a company): complete business websites for Nagpur businesses from a remote freelance team; what a build includes, the local market (oranges, logistics and MIHAN, education, hospitals, trade; central India), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Nagpur"
+ },
+ {
+  "slug": "website-developer-aurangabad",
+  "keyword": "website developer in Aurangabad",
+  "angle": "Core Aurangabad page (freelance team, not a company): complete business websites for Aurangabad businesses from a remote freelance team; what a build includes, the local market (auto and engineering (Waluj, Shendra MIDC), tourism (Ajanta and Ellora), education; officially Chhatrapati Sambhajinagar), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Aurangabad"
+ },
+ {
+  "slug": "website-developer-kolhapur",
+  "keyword": "website developer in Kolhapur",
+  "angle": "Core Kolhapur page (freelance team, not a company): complete business websites for Kolhapur businesses from a remote freelance team; what a build includes, the local market (foundry and engineering, sugar and jaggery, Kolhapuri chappals, dairy, temple tourism), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Kolhapur"
+ },
+ {
+  "slug": "website-developer-patna",
+  "keyword": "website developer in Patna",
+  "angle": "Core Patna page (freelance team, not a company): complete business websites for Patna businesses from a remote freelance team; what a build includes, the local market (coaching and education, hospitals, trade, government suppliers; Bihar), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Patna"
+ },
+ {
+  "slug": "website-developer-ranchi",
+  "keyword": "website developer in Ranchi",
+  "angle": "Core Ranchi page (freelance team, not a company): complete business websites for Ranchi businesses from a remote freelance team; what a build includes, the local market (state capital, education, hospitals, mining-linked suppliers, tourism; Jharkhand), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Ranchi"
+ },
+ {
+  "slug": "website-developer-jamshedpur",
+  "keyword": "website developer in Jamshedpur",
+  "angle": "Core Jamshedpur page (freelance team, not a company): complete business websites for Jamshedpur businesses from a remote freelance team; what a build includes, the local market (steel and Adityapur industrial area auto suppliers, education, hospitals; Jharkhand), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Jamshedpur"
+ },
+ {
+  "slug": "website-developer-bhubaneswar",
+  "keyword": "website developer in Bhubaneswar",
+  "angle": "Core Bhubaneswar page (freelance team, not a company): complete business websites for Bhubaneswar businesses from a remote freelance team; what a build includes, the local market (state capital, temples and tourism, Infocity IT, education, hospitals; Odia sites), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Bhubaneswar"
+ },
+ {
+  "slug": "website-developer-raipur",
+  "keyword": "website developer in Raipur",
+  "angle": "Core Raipur page (freelance team, not a company): complete business websites for Raipur businesses from a remote freelance team; what a build includes, the local market (steel and rice mills, trade, state capital, education; Chhattisgarh), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Raipur"
+ },
+ {
+  "slug": "website-developer-dehradun",
+  "keyword": "website developer in Dehradun",
+  "angle": "Core Dehradun page (freelance team, not a company): complete business websites for Dehradun businesses from a remote freelance team; what a build includes, the local market (boarding schools and coaching, tourism gateway (Mussoorie, Rishikesh), hotels and homestays, state capital; Uttarakhand), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Dehradun"
+ },
+ {
+  "slug": "website-developer-jammu",
+  "keyword": "website developer in Jammu",
+  "angle": "Core Jammu page (freelance team, not a company): complete business websites for Jammu businesses from a remote freelance team; what a build includes, the local market (pilgrimage tourism (Katra, Vaishno Devi), dry fruits and basmati trade, hotels, education), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Jammu"
+ },
+ {
+  "slug": "website-developer-jalandhar",
+  "keyword": "website developer in Jalandhar",
+  "angle": "Core Jalandhar page (freelance team, not a company): complete business websites for Jalandhar businesses from a remote freelance team; what a build includes, the local market (sports goods, leather, hand tools, NRI families in Doaba, education; Punjab), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Jalandhar"
+ },
+ {
+  "slug": "website-developer-agra",
+  "keyword": "website developer in Agra",
+  "angle": "Core Agra page (freelance team, not a company): complete business websites for Agra businesses from a remote freelance team; what a build includes, the local market (Taj Mahal tourism and hotels, leather footwear, marble inlay handicrafts, petha sweets), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Agra"
+ },
+ {
+  "slug": "website-developer-prayagraj",
+  "keyword": "website developer in Prayagraj",
+  "angle": "Core Prayagraj page (freelance team, not a company): complete business websites for Prayagraj businesses from a remote freelance team; what a build includes, the local market (competitive-exam coaching, Magh Mela and Kumbh pilgrimage, education, courts; Allahabad name variant), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Prayagraj"
+ },
+ {
+  "slug": "website-developer-bareilly",
+  "keyword": "website developer in Bareilly",
+  "angle": "Core Bareilly page (freelance team, not a company): complete business websites for Bareilly businesses from a remote freelance team; what a build includes, the local market (zari-zardozi, bamboo and cane furniture, trade, education; western UP), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Bareilly"
+ },
+ {
+  "slug": "website-developer-gorakhpur",
+  "keyword": "website developer in Gorakhpur",
+  "angle": "Core Gorakhpur page (freelance team, not a company): complete business websites for Gorakhpur businesses from a remote freelance team; what a build includes, the local market (trade, education, hospitals, terracotta craft, publishing; eastern UP), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Gorakhpur"
+ },
+ {
+  "slug": "website-developer-panipat",
+  "keyword": "website developer in Panipat",
+  "angle": "Core Panipat page (freelance team, not a company): complete business websites for Panipat businesses from a remote freelance team; what a build includes, the local market (handloom and home-furnishing exporters, recycled yarn, textiles, refinery town; Haryana), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Panipat"
+ },
+ {
+  "slug": "website-developer-kota",
+  "keyword": "website developer in Kota",
+  "angle": "Core Kota page (freelance team, not a company): complete business websites for Kota businesses from a remote freelance team; what a build includes, the local market (JEE and NEET coaching hub, hostels and PGs, Kota stone, Kota Doria sarees; Rajasthan), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Kota"
+ },
+ {
+  "slug": "website-developer-goa",
+  "keyword": "website developer in Goa",
+  "angle": "Core Goa page (freelance team, not a company): complete business websites for Goa businesses from a remote freelance team; what a build includes, the local market (tourism, hotels, villas and homestays, restaurants and cafes, real estate, pharma manufacturing; Panaji, Margao, Mapusa, Vasco), localities served, cost, process, nearby towns served",
+  "batch": 3,
+  "group": "india-website-development",
+  "place": "Goa"
  }
 ]
