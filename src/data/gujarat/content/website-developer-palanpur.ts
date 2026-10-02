@@ -367,7 +367,7 @@ const content: FreelanceContent = {
   process: {
     heading: "How we build your Palanpur website, step by step",
     steps: [
-      ["Message us", "Send a WhatsApp note with your business name, what you sell and any old site. We reply the same day with a few questions and suggest a call time."],
+      ["Message us", "Send a WhatsApp note with your business name, what you sell and any old site. We usually reply the same day with a few questions and suggest a call time."],
       ["Talk it through", "A short phone or video call about your buyers, best products and what visitors should do. We note which language each page needs."],
       ["Itemised quote", "Within about two working days you get a written scope with each page and feature priced, so you can remove or postpone items."],
       ["Share material", "You drop photos, price lists, certificates and text into a shared folder. We flag gaps and suggest phone photos where needed."],

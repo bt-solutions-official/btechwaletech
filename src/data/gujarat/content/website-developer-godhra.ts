@@ -391,7 +391,7 @@ const content: FreelanceContent = {
   process: {
     heading: "How a Godhra website gets built, from first message to launch",
     steps: [
-      ["Send a WhatsApp message", "Tell us your business, town and what you want the site to do. A voice note is fine. We reply the same day with a few questions and a time for a call."],
+      ["Send a WhatsApp message", "Tell us your business, town and what you want the site to do. A voice note is fine. We usually reply the same day with a few questions and a time for a call."],
       ["Talk it through on a call", "A phone or video call of about half an hour covers customers, pages, languages and budget. You share photos and existing material on WhatsApp afterwards."],
       ["Approve an itemised quote", "Within about two working days you get a page-by-page quote with starting prices. Nothing is billed until you approve it in writing."],
       ["Review on a staging link", "You open the draft site on your own phone, comment on WhatsApp, and we walk through changes together on a screen-share call."],

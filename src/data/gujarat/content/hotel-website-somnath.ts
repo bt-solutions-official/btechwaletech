@@ -394,7 +394,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Let families and bus groups book your Somnath hotel directly",
-    note: `Message BtechWaleTech on WhatsApp with your room types, rates and how groups book today. You get questions the same day, an itemised quote in about two working days, hotel sites from ${P.site}, booking builds from ${P.shop}, every account in your hotel's name and two months of free maintenance.`,
+    note: `Message BtechWaleTech on WhatsApp with your room types, rates and how groups book today. You usually get questions the same day, an itemised quote in about two working days, hotel sites from ${P.site}, booking builds from ${P.shop}, every account in your hotel's name and two months of free maintenance.`,
   },
 };
 

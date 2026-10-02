@@ -405,7 +405,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want shippers and buyers to trust your Gandhidham desk before they call?",
-    note: `Send your company profile and service list on WhatsApp. You get questions back the same day, an itemised quote in about two working days, websites from ${P.site}, every account in your business name and two months of free maintenance after launch.`,
+    note: `Send your company profile and service list on WhatsApp. You usually get questions back the same day, an itemised quote in about two working days, websites from ${P.site}, every account in your business name and two months of free maintenance after launch.`,
   },
 };
 

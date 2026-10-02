@@ -425,7 +425,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Send us your grade list and we will plan the Unjha site around it",
-    note: `Message BtechWaleTech on WhatsApp with the commodities and grades you trade and who buys them. You get questions the same day, an itemised quote in about two working days, trader sites from ${P.site}, every account in your firm's name and two months of free maintenance after launch.`,
+    note: `Message BtechWaleTech on WhatsApp with the commodities and grades you trade and who buys them. You usually get questions the same day, an itemised quote in about two working days, trader sites from ${P.site}, every account in your firm's name and two months of free maintenance after launch.`,
   },
 };
 

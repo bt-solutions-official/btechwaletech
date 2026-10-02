@@ -393,7 +393,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Help pilgrims find and book your Dwarka rooms directly",
-    note: `Message BtechWaleTech on WhatsApp with your room types, charges and how pilgrims book today. You get questions the same day, an itemised quote in about two working days, hotel and dharamshala sites from ${P.site}, booking builds from ${P.shop}, accounts in your name and two months of free maintenance.`,
+    note: `Message BtechWaleTech on WhatsApp with your room types, charges and how pilgrims book today. You usually get questions the same day, an itemised quote in about two working days, hotel and dharamshala sites from ${P.site}, booking builds from ${P.shop}, accounts in your name and two months of free maintenance.`,
   },
 };
 

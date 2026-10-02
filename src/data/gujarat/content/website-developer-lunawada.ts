@@ -383,7 +383,7 @@ const content: FreelanceContent = {
   process: {
     heading: "Six steps from first message to a live Lunawada website",
     steps: [
-      ["Message on WhatsApp", "Tell us your business, which talukas you serve and what the website should do. We reply the same day to fix a call at a time that suits you."],
+      ["Message on WhatsApp", "Tell us your business, which talukas you serve and what the website should do. We usually reply the same day to fix a call at a time that suits you."],
       ["Plan on a call", "We agree pages, languages and must-have features in about thirty minutes, then you send photos and documents on WhatsApp."],
       ["Itemised quote", "You get a page-by-page quote within about two working days. Nothing is billed until you approve it in writing."],
       ["First look on staging", "The home page and one inner page appear on a private link. You review on your own phone and send comments."],

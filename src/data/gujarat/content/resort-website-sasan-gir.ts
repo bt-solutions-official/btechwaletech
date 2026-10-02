@@ -389,7 +389,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to fill your Gir season with direct bookings?",
-    note: `Send BtechWaleTech your cottage types, seasonal rates and the travel apps you use on WhatsApp. You get questions the same day, an itemised quote in about two working days, resort sites from ${P.site}, booking builds from ${P.shop}, every account in your name and two months of free maintenance.`,
+    note: `Send BtechWaleTech your cottage types, seasonal rates and the travel apps you use on WhatsApp. You usually get questions the same day, an itemised quote in about two working days, resort sites from ${P.site}, booking builds from ${P.shop}, every account in your name and two months of free maintenance.`,
   },
 };
 

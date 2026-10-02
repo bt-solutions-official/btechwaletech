@@ -396,7 +396,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Plan this year's garba passes now, not on the first night",
-    note: `Send BtechWaleTech your venue, expected crowd and pass types on WhatsApp. You get questions the same day, an itemised quote in about two working days, event sites from ${P.site}, pass and QR systems from ${P.shop}, every account in your name and two months of free maintenance covering all nine nights.`,
+    note: `Send BtechWaleTech your venue, expected crowd and pass types on WhatsApp. You usually get questions the same day, an itemised quote in about two working days, event sites from ${P.site}, pass and QR systems from ${P.shop}, every account in your name and two months of free maintenance covering all nine nights.`,
   },
 };
 

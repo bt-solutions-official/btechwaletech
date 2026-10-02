@@ -352,7 +352,7 @@ const content: FreelanceContent = {
   process: {
     heading: "Getting your Radhanpur website live",
     steps: [
-      ["Send a WhatsApp", "Tell us your business, what you offer and who your customers are. We reply the same day with a few questions."],
+      ["Send a WhatsApp", "Tell us your business, what you offer and who your customers are. We usually reply the same day with a few questions."],
       ["Plan on a call", "At a time that suits you, often evenings, we agree pages, languages and how enquiries should reach you."],
       ["Approve the quote", "A written, itemised scope arrives within about two working days. Nothing is billed until you approve it."],
       ["Share material", "Upload photos, menus, fleet details or commodity lists and any approved Gujarati text to a shared folder."],

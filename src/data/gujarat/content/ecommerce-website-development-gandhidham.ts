@@ -418,7 +418,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Tell us how your goods leave Gandhidham, and we will plan the store around it",
-    note: `Send your product list, pack sizes and dispatch method on WhatsApp. You get questions the same day, an itemised quote in about two working days, stores from ${P.shop}, every account in your business name and two months of free maintenance after launch.`,
+    note: `Send your product list, pack sizes and dispatch method on WhatsApp. You usually get questions the same day, an itemised quote in about two working days, stores from ${P.shop}, every account in your business name and two months of free maintenance after launch.`,
   },
 };
 

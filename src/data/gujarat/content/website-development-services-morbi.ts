@@ -414,7 +414,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to give Morbi buyers a website that answers them first?",
-    note: `Send a WhatsApp message with what you make and who buys it. You get questions back the same day, an itemised quote in about two working days, business sites from ${P.site}, every account in your name and two months of free maintenance after launch.`,
+    note: `Send a WhatsApp message with what you make and who buys it. You usually get questions back the same day, an itemised quote in about two working days, business sites from ${P.site}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

@@ -32,6 +32,8 @@ for (const set of placeSets) {
   for (const entry of JSON.parse(readFileSync(join(root, "src", "data", set.dir, "pages.json"), "utf8"))) localPlan.set(`${set.prefix}/${entry.slug}`, { set, entry });
 }
 const localIds = new Set(localPlan.keys());
+// While a batch of place pages is being written in parallel, links to planned siblings are allowed; set false afterwards.
+const ALLOW_PLANNED_LINKS = false;
 const localBuilt = new Set(placeSets.flatMap(({ prefix, dir }) => {
   const contentDir = join(root, "src", "data", dir, "content");
   return existsSync(contentDir) ? readdirSync(contentDir).filter((f) => f.endsWith(".ts")).map((f) => `${prefix}/${f.replace(/\.ts$/, "")}`) : [];
@@ -97,7 +99,7 @@ function validHref(href) {
   const segs = p.split("/").filter(Boolean);
   if (segs.length === 1 && (keywordSlugs.has(segs[0]) || citySlugs.has(segs[0]))) return true;
   // Place pages count as link targets only once their content file exists (a planned page is not a live URL).
-  if (segs.length === 2 && (countryIds.has(`${segs[0]}/${segs[1]}`) || localBuilt.has(`${segs[0]}/${segs[1]}`))) return true;
+  if (segs.length === 2 && (countryIds.has(`${segs[0]}/${segs[1]}`) || (ALLOW_PLANNED_LINKS ? localIds : localBuilt).has(`${segs[0]}/${segs[1]}`))) return true;
   if (["india", "it-services", "countries"].includes(segs[0])) return true;
   const base = join(root, "src", "pages", ...segs);
   return existsSync(join(base, "index.astro")) || existsSync(`${base}.astro`);

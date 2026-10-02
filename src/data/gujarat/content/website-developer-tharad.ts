@@ -358,7 +358,7 @@ const content: FreelanceContent = {
   process: {
     heading: "Building your Tharad website in six steps",
     steps: [
-      ["Message on WhatsApp", "Tell us your business, your customers and where they come from. We reply the same day and suggest a call time."],
+      ["Message on WhatsApp", "Tell us your business, your customers and where they come from. We usually reply the same day and suggest a call time."],
       ["Discuss on a call", "We go over services, languages and how enquiries should reach you, including your address under the new district."],
       ["Receive the quote", "A written, itemised scope arrives in about two working days. Nothing is billed until you approve it."],
       ["Send photos and text", "Upload real photos, price or course lists and approved Gujarati text. We point out anything missing."],

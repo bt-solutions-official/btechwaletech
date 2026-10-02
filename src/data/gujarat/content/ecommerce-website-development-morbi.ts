@@ -410,7 +410,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Tell us what leaves your Morbi gate, and how, and we will plan the store around it",
-    note: `Send your product list and current shipping method on WhatsApp. You get questions back the same day, an itemised quote in about two working days, stores from ${P.shop}, every account in your business name and two months of free maintenance after launch.`,
+    note: `Send your product list and current shipping method on WhatsApp. You usually get questions back the same day, an itemised quote in about two working days, stores from ${P.shop}, every account in your business name and two months of free maintenance after launch.`,
   },
 };
 

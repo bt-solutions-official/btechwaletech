@@ -344,7 +344,7 @@ const content: FreelanceContent = {
   process: {
     heading: "Six steps to your Harij website",
     steps: [
-      ["WhatsApp us", "Tell us your business, what you sell or offer, and who your customers are. We reply the same day."],
+      ["WhatsApp us", "Tell us your business, what you sell or offer, and who your customers are. We usually reply the same day."],
       ["Short call", "We agree pages, language and what visitors should do, at a time that suits you."],
       ["Written quote", "An itemised quote arrives in about two working days. Nothing is billed until you approve it."],
       ["Send material", "Share photos, product lists and your Gujarati text on WhatsApp or a shared folder."],

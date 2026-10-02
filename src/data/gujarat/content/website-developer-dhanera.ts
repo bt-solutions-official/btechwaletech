@@ -342,7 +342,7 @@ const content: FreelanceContent = {
   process: {
     heading: "Six steps to a live Dhanera website",
     steps: [
-      ["Send a message", "WhatsApp your business name, commodities or services, and who you want as buyers. We reply the same day with a few questions."],
+      ["Send a message", "WhatsApp your business name, commodities or services, and who you want as buyers. We usually reply the same day with a few questions."],
       ["Plan on a call", "We agree pages, languages and how enquiries should reach you, at a time that suits the yard schedule."],
       ["Approve the quote", "An itemised written quote arrives in about two working days. Nothing is billed until you approve it."],
       ["Share material", "Photos of real lots, bags, trucks or premises, plus approved Gujarati or Hindi text, go into a shared folder."],

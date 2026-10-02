@@ -63,7 +63,7 @@ Read `scripts/keyword-brief-v2.md` fully and follow "The business", "India pages
 - Anything else (town economy, district, local industries) must be checked by WebSearch before you state it; if unsure,
   leave it out or keep it general. Never invent statistics, rankings, business counts or local company names.
 - Allowed external links (max 3 per page, only if useful): gidc.gujarat.gov.in, ifsca.gov.in, official government
-  portals (gujaratindia.gov.in, gst.gov.in, rera.gujarat.gov.in), fonts.google.com, Google Search Central / Business Profile
+  portals (gujaratindia.gov.in, gst.gov.in, gujrera.gujarat.gov.in), fonts.google.com, Google Search Central / Business Profile
   help, developer docs (WordPress, Shopify, Next.js, React).
 
 ## Linking (every internal href ends with "/"; the checker rejects broken ones)

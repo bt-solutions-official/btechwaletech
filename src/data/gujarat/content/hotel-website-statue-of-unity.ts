@@ -389,7 +389,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want more guests to book you directly at Ekta Nagar?",
-    note: `Send BtechWaleTech your room types, current rates and the booking apps you use on WhatsApp. You get questions the same day, an itemised quote in about two working days, hotel sites from ${P.site}, booking builds from ${P.shop}, every account in your name and two months of free maintenance.`,
+    note: `Send BtechWaleTech your room types, current rates and the booking apps you use on WhatsApp. You usually get questions the same day, an itemised quote in about two working days, hotel sites from ${P.site}, booking builds from ${P.shop}, every account in your name and two months of free maintenance.`,
   },
 };
 
