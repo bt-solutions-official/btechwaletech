@@ -11,7 +11,7 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-developer-viramgam/",
   crumb: "Website developer in Viramgam",
-  updated: "2026-10-01",
+  updated: "2026-10-07",
   meta: {
     title: `Website Developer in Viramgam from ${P.site}`,
     description: `Website developer in Viramgam for transporters, auto-belt vendors, cotton traders and schools: fast sites from ${P.site}, Gujarati-ready, itemised quote in 2 days.`,
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does a website developer in Viramgam cost, and which site should come first?",
-    text: `BtechWaleTech builds Viramgam business sites from ${P.site}: up to 100 mobile-first pages with WhatsApp, a quote or enquiry form and search basics, usually live in 1–2 weeks. Transporters and auto-belt vendors should start with one page per service plus a quote form. Online stores start at ${P.shop}, SEO sites of 299+ pages at ${P.seoSite}. Quotes are itemised and arrive in about two working days.`,
+    text: `BtechWaleTech builds Viramgam business sites from ${P.site}: up to 100 mobile-first pages with WhatsApp, a quote or enquiry form and search basics, usually live in 1–2 weeks. Transporters and auto-belt vendors should start with one page per service plus a quote form. An online store starts at ${P.shop} and a 299+ page SEO site at ${P.seoSite}. You get an itemised quote roughly two working days after the call.`,
     more: `Supplying plants? See our <a href='/gujarat/manufacturer-website-design-gujarat/'>manufacturer website design guide for Gujarat</a> and the <a href='/logistics-company-website-design/'>logistics website design</a> page.`,
   },
   snapshot: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Viramgam website pricing: starting points with an itemised quote",
-    note: `These figures mark where each type of build starts. A Viramgam quote goes up with the number of unique layouts, how many services or routes need their own pages, quote forms with file uploads, payments, booking requests, and writing we do from your notes or old brochure. A Gujarati version adds its own pages and checks. One call and about two working days later you get an itemised quote; trim or postpone any line. Nothing is billed until you approve in writing, and payment is in INR by UPI or bank transfer.`,
+    note: `These figures mark where each type of build starts. A Viramgam quote goes up with the number of unique layouts, how many services or routes need their own pages, quote forms with file uploads, payments, booking requests, and writing we do from your notes or old brochure. A Gujarati version adds its own pages and checks. One call and about two working days later you get an itemised quote; trim or postpone any line. Until you approve in writing no bill is raised, and you then pay in INR through UPI or a bank transfer.`,
   },
   guideLabel: "Website developer in Viramgam: a full guide",
   guide: [
@@ -154,9 +154,9 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a website developer in Viramgam charge?",
       paragraphs: [
-        `Our starting prices are ${P.site} (around ${P.siteUsd}) for a business site of up to 100 pages, ${P.seoSite} for an SEO site of 299+ pages, ${P.shop} for an online store and ${P.software} for a custom web app such as a shipment tracker or vendor portal.`,
+        `A Viramgam business site of up to 100 pages starts at ${P.site} (about ${P.siteUsd}). An SEO site with 299+ pages starts at ${P.seoSite}, an online store at ${P.shop}, and a custom web app, for instance a shipment tracker or a vendor portal, at ${P.software}.`,
         `Four things move a Viramgam quote. How many different layouts you need, because repeated templates are quicker than unique designs. How much writing we do, since turning voice notes or an old brochure into clear pages takes time. Which features you want: quote forms with uploads, booking requests, payments or a sheet-driven rate list. And whether you need a Gujarati version.`,
-        `Domain, hosting and email are paid by you directly to the providers, in your name, so there is no mark-up. After two free months, care is optional from ${P.care}.`,
+        `You pay the providers yourself for the domain, hosting and email, all held in your name, which leaves nothing for anyone to mark up. After two free months, care is optional from ${P.care}.`,
         `Other developers and agencies price very differently, so send them the same written brief and compare line by line. For wider context see <a href='/gujarat/website-development-cost-gujarat/'>website development cost in Gujarat</a> and <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
       ],
     },
@@ -196,8 +196,8 @@ const content: FreelanceContent = {
       id: "tech",
       heading: "Which platform suits a Viramgam website?",
       paragraphs: [
-        `Choose based on how often content changes and who changes it. A vendor profile may change twice a year; a school's notice board changes weekly; a store changes stock daily.`,
-        `For profiles and service sites we usually build static sites with Astro: very fast, cheap to host and nothing to patch. WordPress is better when your staff will post notices, results or job openings themselves, as long as it is kept updated with a short plugin list. Shopify or WooCommerce fit online selling with UPI and card checkout, from ${P.shop}. A custom web app from ${P.software} suits logins, tracking, dispatch records or vendor portals.`,
+        `Two questions settle it: how often will the content change, and who will be changing it? A vendor profile may change twice a year; a school's notice board changes weekly; a store changes stock daily.`,
+        `For profiles and service sites we usually build static sites with Astro: very fast, cheap to host and nothing to patch. WordPress is better when your staff will post notices, results or job openings themselves, as long as it is kept updated with a short plugin list. For selling online with UPI and card checkout, Shopify or WooCommerce fits, from ${P.shop}. Logins, tracking, dispatch records and vendor portals call for a custom web app, from ${P.software}.`,
         `Speed is non-negotiable. Images are compressed, fonts trimmed and scripts kept few, because a logistics manager checking you from a highway and a farmer on a basic phone both judge you on the first few seconds. Every tool we use has public documentation, so another developer can always take over the site.`,
       ],
     },
@@ -206,8 +206,8 @@ const content: FreelanceContent = {
       heading: "Can a Viramgam website be in Gujarati and English?",
       paragraphs: [
         `Yes. Most Viramgam businesses benefit from both: English or Hindi for buyers outside Gujarat, Gujarati for local customers and farmers.`,
-        `We build the Gujarati side properly. Text is stored as Unicode so it displays on every phone. Fonts such as Noto Sans Gujarati, Hind Vadodara or Mukta Vaani come from <a href='https://fonts.google.com/' rel='noopener'>Google Fonts</a>, with spacing that keeps vowel signs clear. Each language gets its own URLs, a visible switch, correct language tags and its own page titles for search.`,
-        `The Gujarati wording itself comes from you, your translator or someone you trust. The BtechWaleTech team writes English and Hindi, not Gujarati, so we will not present machine translation as finished copy.`,
+        `The Gujarati side gets proper engineering. All text is saved as Unicode, which is why it shows correctly on any phone. Fonts such as Noto Sans Gujarati, Hind Vadodara or Mukta Vaani come from <a href='https://fonts.google.com/' rel='noopener'>Google Fonts</a>, with spacing that keeps vowel signs clear. Each language gets its own URLs, a visible switch, correct language tags and its own page titles for search.`,
+        `As for the Gujarati wording, that is yours to provide, through your translator or anyone you trust. English and Hindi are what the BtechWaleTech team writes, not Gujarati, and machine translation will never be passed off as finished copy.`,
         `In practice, a transporter or vendor site can be English-first with a Hindi option for drivers and staff; a cotton trader adds a Gujarati page for farmers; a school or clinic is usually Gujarati-first with English alongside. See our <a href='/gujarat/bilingual-gujarati-english-website/'>bilingual Gujarati–English website guide</a>.`,
       ],
     },
@@ -216,8 +216,8 @@ const content: FreelanceContent = {
       heading: "Phones, WhatsApp and UPI on a Viramgam site",
       paragraphs: [
         `Plan for the phone first. Logistics coordinators, plant buyers, farmers and parents all check you on mobile, often on the move.`,
-        `We use large tap targets, a call and WhatsApp bar that stays visible, readable text and no heavy sliders or autoplay video. WhatsApp links pre-fill a message such as “Quote: 20 ft container, Viramgam to Mundra” or “Admission enquiry, Class 11 science”, so the reply can be specific straight away.`,
-        `Where money changes hands online, checkout supports UPI and cards through a payment gateway in your name. That suits coaching fees, a stay booking near Nalsarovar or a small store. Business buyers usually pay against invoices, so vendors and transporters rarely need online payment; a clear quote form does more for them.`,
+        `Tap targets are large, text is readable, a call and WhatsApp bar stays on screen, and heavy sliders and autoplay video are left out. Each WhatsApp link opens with a message already typed, for example “Quote: 20 ft container, Viramgam to Mundra” or “Admission enquiry, Class 11 science”, which lets you answer precisely from the first reply.`,
+        `If payments are taken online, the checkout accepts UPI and cards via a payment gateway registered in your name. That suits coaching fees, a stay booking near Nalsarovar or a small store. Business buyers usually pay against invoices, so vendors and transporters rarely need online payment; a clear quote form does more for them.`,
         `Before launch we test on a low-cost Android phone over mobile data, because that is how many visitors will see the site first.`,
       ],
     },
@@ -226,9 +226,9 @@ const content: FreelanceContent = {
       heading: "Will buyers searching for Viramgam services find you on Google and AI tools?",
       paragraphs: [
         `They can, when your pages describe each service and place clearly and your Google profile matches. Nobody can guarantee a ranking, and you should be cautious of anyone who says otherwise.`,
-        `We give each page a distinct title and description, one main heading, a clean URL and schema markup for your business, services and FAQs. A sitemap goes into Search Console before launch so you can see which searches show your pages.`,
+        `Every page gets a title and description of its own, a single main heading and a clean URL, along with schema markup for your business, services and FAQs. Before launch the sitemap is submitted to Search Console, so you can check which searches are showing your pages.`,
         `For local searches, the <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> matters most. Keep the name, address and phone identical to your website footer, choose the category that fits your actual work and add your own photos. Service pages written in plain sentences, such as “container transport from Viramgam to Mundra and Kandla”, help buyers who search by route.`,
-        `AI assistants and Google's AI Overviews pick up pages that answer one question per section, show facts in tables and name the location. FAQs, accurate capacities and specific route or service pages help. Monthly SEO is optional from ${P.seo}; see <a href='/gujarat/seo-friendly-website-gujarat/'>SEO-friendly websites in Gujarat</a>.`,
+        `AI assistants and Google's AI Overviews pick up pages that answer one question per section, show facts in tables and name the location. FAQs, accurate capacities and specific route or service pages help. If you want ongoing work, monthly SEO is available from ${P.seo}; our page on <a href='/gujarat/seo-friendly-website-gujarat/'>SEO-friendly websites in Gujarat</a> explains it.`,
       ],
     },
     {
@@ -253,7 +253,7 @@ const content: FreelanceContent = {
       id: "example",
       heading: "Hypothetical example: a Viramgam transporter wants contract work",
       paragraphs: [
-        `What follows is an invented scenario to show the process. It is not a client, and no results are claimed.`,
+        `The scenario below is invented, only to illustrate the process. It describes no actual client and claims no results.`,
         `Say a family transport business in Viramgam runs a dozen trucks, mostly carrying cotton bales and general goods, and wants contract work from vendors in the auto belt and shippers using the container depot. Buyers keep asking for a profile, and the owner keeps sending photos one by one on WhatsApp.`,
         `On the first call we plan eight pages: a home page with the services and coverage, separate pages for container movement, part-load and full-load transport, a fleet page with truck types and capacities, a page on documentation and how updates are shared during a trip, a careers page for drivers, and a contact page with a quote form asking origin, destination, weight and dates. A Hindi version of the careers page helps driver recruitment; a Gujarati page for local traders comes from the owner's text.`,
         `The scope fits the plan from ${P.site}. If the business later wants a login where regular customers see trip status, that is a portal from ${P.software}, built beside the site.`,
@@ -263,9 +263,9 @@ const content: FreelanceContent = {
       id: "after-handover",
       heading: "After handover: your accounts, two free months and optional care",
       paragraphs: [
-        `Everything belongs to your business: the domain, hosting, email and code. We create the accounts with you on a call, or you create them and add us as users, so nothing sits on a helper's personal login. Renewal fees go from you directly to the provider.`,
-        `At handover you receive admin logins, repository access, DNS details, a list of every paid service with renewal dates and a short note in English or Hindi on everyday edits. If an earlier developer still controls your domain, we explain how to request it back.`,
-        `Then come two months of free maintenance from launch day: text and photo edits, bug fixes, updates, backups and help with Search Console. The first weeks bring the most changes, such as a new route, a revised phone number, admission dates or a new photo of the fleet. Send them on WhatsApp.`,
+        `Everything belongs to your business: the domain, hosting, email and code. The accounts are opened with you during a call, or you open them and add us as users; either way, nothing ends up under a helper's personal login. Renewal fees go from you directly to the provider.`,
+        `When we hand over, you get the admin logins, repository access and DNS details, a list of each paid service and when it renews, and a short note in English or Hindi about day-to-day edits. Should a previous developer still be in control of your domain, we show you how to ask for it back.`,
+        `From launch day, two months of maintenance follow at no charge, covering text and photo edits, bug fixes, updates, backups and help with Search Console. The first weeks bring the most changes, such as a new route, a revised phone number, admission dates or a new photo of the fleet. Send them on WhatsApp.`,
         `From the third month, care is optional and starts at ${P.care}. Some owners take it; others edit the site themselves or hand it to another developer, which is easy because every login is already theirs. Read our <a href='/gujarat/domain-hosting-email-setup-gujarat/'>domain and email setup guide</a> and <a href='/gujarat/website-maintenance-gujarat/'>maintenance guide</a> for more.`,
       ],
     },
@@ -276,7 +276,7 @@ const content: FreelanceContent = {
         `The same remote process serves the towns and villages that share Viramgam's roads, rail lines and buyers.`,
         `North and east, Mandal and Detroj sit in the car-making belt where vendors, hostels for workers, canteens and service firms need sharp profiles; Kadi, further north, has its own <a href='/gujarat/website-developer-kadi/'>website developer in Kadi</a> guide. South-east, Nalsarovar's stays, eateries and boat services need pages that visitors find in winter. Sanand's estates are covered on our <a href='/gujarat/website-developer-sanand-gidc/'>Sanand GIDC</a> page.`,
         `West along the rail line, Lakhtar and Surendranagar have traders and manufacturers who buy and sell through Viramgam; see <a href='/gujarat/website-developer-surendranagar/'>website developer in Surendranagar</a>. South, <a href='/gujarat/website-developer-dholka/'>Dholka</a> and <a href='/gujarat/website-developer-bavla/'>Bavla</a> have their own guides. City-wide services are on the <a href='/viramgam/'>Viramgam</a> and <a href='/ahmedabad/'>Ahmedabad</a> pages.`,
-        `Across this side of Gujarat, the steps do not change: a WhatsApp brief, one call, an itemised quote, a staging link and accounts in your name.`,
+        `Anywhere on this side of Gujarat the sequence is identical: you brief us on WhatsApp, we hold one call, send an itemised quote, share a staging link and open the accounts in your name.`,
       ],
     },
   ],
@@ -285,7 +285,7 @@ const content: FreelanceContent = {
       id: "cost-table",
       eyebrow: "Cost",
       heading: "What a Viramgam website costs, by scope",
-      note: `Starting prices in INR with approximate USD. Quotes depend on pages, features and writing. See all plans on the <a href='/pricing/'>pricing page</a>.`,
+      note: `All prices are INR starting figures, with approximate USD beside them. Pages, features and writing shape each quote. See all plans on the <a href='/pricing/'>pricing page</a>.`,
       columns: ["Scope", "Starts at", "Approx. USD", "Typical time", "Suits"],
       rows: [
         ["Business site, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Transporters, vendors, traders, schools, clinics"],
@@ -333,7 +333,7 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Viramgam and around",
     heading: "Places near Viramgam where we build websites",
-    note: "We work remotely, so every place below gets the same process and starting prices. Each note says what local businesses usually need.",
+    note: "Because we work remotely, the process and the starting prices are the same for every place listed below. Each note says what local businesses usually need.",
     cards: [
       { name: "Viramgam town market", note: "Cloth, hardware, mobile and grocery shops need timings, map pins and WhatsApp buttons for customers who travel in from the villages." },
       { name: "Viramgam Junction area", note: "Transporters, repair shops, eateries and lodging near the station need precise maps, hours and quote or booking forms." },
@@ -358,31 +358,31 @@ const content: FreelanceContent = {
       ["Brief on WhatsApp", "Send what you offer, who buys and what visitors should do next, plus a few sites you like from any industry."],
       ["Call about buyers", "A short phone or video call on the questions your buyers ask, your busy months and the pages each service needs."],
       ["Priced scope", "Within about two working days, an itemised quote. Approve it in writing or change lines; nothing is billed before approval."],
-      ["Accounts and design", "Domain, hosting and email set up in your business name, then the home page on a private staging link."],
+      ["Accounts and design", "Your business name goes on the domain, hosting and email accounts; after that the home page appears on a private staging link."],
       ["Build and walk-through", "Pages, forms and search settings built, reviewed with you on screen-share, fixed from one combined list, then launched."],
       ["Handover and two free months", `You get logins, code access and renewal dates. Fixes and edits are free for two months; care from ${P.care} is optional after.`],
     ],
   },
   faqHeading: "Website developer in Viramgam: questions answered",
   faqs: [
-    { question: "How much does a website developer in Viramgam charge?", answer: `BtechWaleTech builds business sites from ${P.site} for up to 100 pages, SEO sites of 299+ pages from ${P.seoSite}, online stores from ${P.shop} and custom portals from ${P.software}. The final price depends on layouts, number of services, features, writing and Gujarati pages. You get an itemised quote in about two working days and pay nothing before approving it.` },
-    { question: "Do you have an office in Viramgam?", answer: "No. BtechWaleTech is three freelance developers working remotely from India, so there are no office visits. We work through WhatsApp, phone and video calls, screen-share reviews and a private staging link you open on your phone. Owners in Viramgam can review every page without leaving their yard, workshop or shop." },
-    { question: "How long does a website for a Viramgam business take?", answer: "A business site is usually live 1–2 weeks after the scope is approved and photos and text arrive. SEO sites take 3–5 weeks, online stores 4–8 weeks and custom portals 6–12 weeks. Missing content causes most delays, so gather fleet, workshop or premises photos and contact details early." },
+    { question: "How much does a website developer in Viramgam charge?", answer: `Business sites of up to 100 pages are built by BtechWaleTech from ${P.site}; SEO sites of 299+ pages start from ${P.seoSite}, online stores from ${P.shop} and custom portals from ${P.software}. Layouts, the number of services, features, writing and Gujarati pages set the final price. An itemised quote reaches you in about two working days, and you pay nothing until you approve it.` },
+    { question: "Do you have an office in Viramgam?", answer: "No. BtechWaleTech is three freelance developers who work remotely from India, which means nobody visits an office. Everything runs on WhatsApp, phone and video calls, with reviews over screen-share and a private staging link that opens on your phone. Owners in Viramgam can review every page without leaving their yard, workshop or shop." },
+    { question: "How long does a website for a Viramgam business take?", answer: "Once the scope is approved and your photos and text are in, a business site is normally live in 1–2 weeks. Give an SEO site 3–5 weeks, an online store 4–8 weeks and a custom portal 6–12 weeks. Missing content causes most delays, so gather fleet, workshop or premises photos and contact details early." },
     { question: "What should a transporter in Viramgam put on a website?", answer: "Fleet types and capacities, routes and coverage, container, part-load and full-load services, the documentation you handle, how trip updates are shared, photos of your own trucks and yard, and a quote form asking origin, destination, weight and dates. Named contacts for bookings and dispatch help buyers trust you quickly." },
     { question: "I supply plants in the Hansalpur–Becharaji belt. Do I need a website?", answer: "Yes, if you want new purchase teams to consider you. A vendor site with one page per capability, equipment lists, team skills, a general quality and safety note, shareable work photos and a quote form with file upload answers their checks. Show only client names and certificates you are allowed to display." },
     { question: "Can a cotton trader in Viramgam benefit from a website?", answer: "Yes, especially with buyers who have not dealt with you before. Commodity pages with seasons and quality notes, photos of your godown, a buyer enquiry form and a Gujarati page for farmers make you easier to verify and contact. Daily rates can be shown from a sheet if you want, without editing code." },
-    { question: "Can my website be in Gujarati?", answer: "Yes. We build Gujarati and bilingual sites with Unicode text, proper web fonts, a language switch and separate URLs. The team writes English and Hindi, not Gujarati, so you or your translator supply or approve the Gujarati copy, and we place it and check it on phones." },
+    { question: "Can my website be in Gujarati?", answer: "Yes. Gujarati and bilingual sites are built with Unicode text, proper web fonts, a language switch and separate URLs. Our team writes in English and Hindi but not Gujarati, so the Gujarati copy is supplied or approved by you or your translator; we then place it and check how it reads on phones." },
     { question: "Is a remote developer suitable for Viramgam businesses?", answer: "For most business sites, yes. The work depends on a clear scope, tested live work and ownership terms rather than meetings. Calls, screen-share and a staging link make reviews easy. If you need daily on-site help or a large team, an Ahmedabad agency suits that better." },
-    { question: "Who owns the domain, hosting and code?", answer: "Your business does. The domain is registered in your name, the hosting is billed to you and the code sits in a repository you can open. At handover you receive every login, DNS details and a renewal list, so you can switch developers at any time without anyone's permission." },
-    { question: "How do I pay for my website?", answer: "In INR by UPI or bank transfer, in stages linked to visible progress: an advance, a payment after design approval and the balance before launch. The split is written in the quote. Domain, hosting and email fees go from you straight to the providers, with no mark-up." },
-    { question: "What happens after the website launches?", answer: `Two months of maintenance are free: edits, fixes, updates, backups and help with Search Console. After that, care is optional from ${P.care}. You can also manage the site yourself or give it to another developer, since every account is already in your business name.` },
-    { question: "Can you make my Viramgam business rank first on Google?", answer: "Nobody can honestly guarantee that. We build each site with distinct titles, fast pages, schema markup, a sitemap and Search Console from launch, and help align your Google Business Profile with the site. Clear service and route pages usually bring the first relevant searches." },
+    { question: "Who owns the domain, hosting and code?", answer: "Your business does. Your name is on the domain registration, the hosting bill comes to you, and the code is in a repository you can open. Handover gives you each login, the DNS details and a renewal list, so a switch to another developer is possible any time and needs no one's permission." },
+    { question: "How do I pay for my website?", answer: "By UPI or bank transfer in INR, in stages that follow visible progress: first an advance, then a payment once the design is approved, then the balance before launch. Your quote spells out the split. Domain, hosting and email fees go from you straight to the providers, with no mark-up." },
+    { question: "What happens after the website launches?", answer: `Two months of maintenance are free: edits, fixes, updates, backups and help with Search Console. Care beyond that is optional, from ${P.care}. Since each account is already in your business name, you can just as well manage the site yourself or pass it to another developer.` },
+    { question: "Can you make my Viramgam business rank first on Google?", answer: "Nobody can honestly guarantee that. Each site is built with distinct titles, fast pages, schema markup and a sitemap, with Search Console connected from launch, and we help bring your Google Business Profile in line with the site. Clear service and route pages usually bring the first relevant searches." },
     { question: "Do you build sites for schools and coaching classes in Viramgam?", answer: "Yes. Education sites usually need fees, streams or batches, faculty, admissions, notices and results. They should load fast on basic phones and offer Gujarati for parents. A student portal can be added later if needed. You confirm any claims about results or recognition before publishing." },
     { question: "Can a hotel or homestay near Nalsarovar get a website?", answer: `Yes. A stay site usually needs rooms with real photos, rules, meals, birding-season notes, directions and a booking enquiry form. Online advance payment with UPI and cards can be added. A simple version fits the plan from ${P.site}; booking calendars and payments add to the quote.` },
-    { question: "What do you need from me to start?", answer: "A short message or voice note about the business, your logo if you have one, real photos of your trucks, workshop or premises, any brochure or rate card, and a few websites you like. If a domain already exists, tell us who registered it so ownership can be checked first." },
-    { question: "Can you redesign my existing site?", answer: "Yes. We list current pages, keep the ones that bring visitors, redirect old addresses to new ones and move email carefully. The new site is reviewed on a staging link before the switch, and your domain stays in your name the whole time." },
-    { question: "Do you also build apps, portals or automation?", answer: `Yes, as separate projects. Android and iOS apps start at ${P.app}, custom web apps such as tracking or vendor portals at ${P.software}, and AI or WhatsApp automation at ${P.ai}. For most Viramgam businesses, a fast website comes first and portals follow once buyers are engaging.` },
-    { question: "Viramgam mein website banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath Viramgam ke business ki website ${P.site} se shuru hoti hai aur aksar 1–2 hafte mein live ho jaati hai. Saara kaam WhatsApp, phone aur video call par hota hai. Domain aur hosting aapke naam par rehte hain, aur launch ke baad 2 mahine maintenance free hai.` },
+    { question: "What do you need from me to start?", answer: "Send a short message or voice note describing the business, your logo if one exists, real photos of your trucks, workshop or premises, any rate card or brochure, and a few websites you like. Where a domain already exists, let us know who registered it, so that ownership can be checked before anything else." },
+    { question: "Can you redesign my existing site?", answer: "Yes. Current pages are listed, the ones that bring visitors are kept, old addresses are redirected to new ones and email is moved with care. You review the new site on a staging link before the switch, and throughout, the domain remains in your name." },
+    { question: "Do you also build apps, portals or automation?", answer: `Yes, as separate projects. An Android or iOS app starts at ${P.app}; a custom web app such as a tracking or vendor portal starts at ${P.software}, and AI or WhatsApp automation at ${P.ai}. For most Viramgam businesses, a fast website comes first and portals follow once buyers are engaging.` },
+    { question: "Viramgam mein website banwane ka kharcha kitna hai?", answer: `Viramgam ke business ki website BtechWaleTech ${P.site} se banana shuru karta hai, aur aksar 1–2 hafte mein woh live ho jaati hai. Poora kaam WhatsApp, phone aur video call ke zariye hota hai. Domain aur hosting aapke naam par hi rehte hain, aur launch ke baad 2 mahine tak maintenance free hai.` },
     { question: "Do you work with businesses in Mandal, Detroj and Surendranagar too?", answer: "Yes. The same remote process, starting prices and ownership terms apply in Mandal, Detroj, Becharaji, Nalsarovar, Lakhtar, Surendranagar, Sanand and across Ahmedabad district. Whether you searched for a website developer in Viramgam or a neighbouring town, you get the same itemised quote and two free months after launch." },
   ],
   related: {
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready for a website that buyers outside Viramgam can trust?",
-    note: `Send a WhatsApp message or voice note about your business. You get a call, an itemised quote in about two working days, business sites from ${P.site}, every account in your own name and two months of free maintenance after launch.`,
+    note: `Describe your business in a WhatsApp message or a voice note. A call follows, then an itemised quote in about two working days. Business sites begin at ${P.site}, all accounts go in your own name, and maintenance is free for two months after launch.`,
   },
 };
 

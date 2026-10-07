@@ -11,7 +11,7 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-developer-porbandar/",
   crumb: "Website developer in Porbandar",
-  updated: "2026-10-01",
+  updated: "2026-10-07",
   meta: {
     title: `Website Developer in Porbandar: Sites from ${P.site}`,
     description: `Website developer in Porbandar for seafood traders, net makers, hotels and shops. Sites from ${P.site}, Gujarati-ready layouts, built remotely with a live preview.`,
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does a website developer in Porbandar cost, and what is included?",
-    text: `Hiring BtechWaleTech as your website developer in Porbandar, a business site of up to 100 mobile-first pages starts at ${P.site} and usually goes live in 1–2 weeks. It includes product or room pages, an enquiry form, a WhatsApp button, SEO basics, Google Maps setup and hosting in your name. SEO websites start at ${P.seoSite}, online stores at ${P.shop}, with two months of free maintenance.`,
+    text: `As a website developer in Porbandar, BtechWaleTech prices a mobile-first business site from ${P.site} for anything up to 100 pages, and most are live within 1–2 weeks. Product or room pages, an enquiry form, WhatsApp button, basic SEO, a Google Maps pin and hosting under your own account are all part of it. SEO builds begin at ${P.seoSite} and online stores at ${P.shop}; the first two months of maintenance cost nothing.`,
     more: `Hotels should also read our guide to a <a href='/gujarat/hotel-website-dwarka/'>hotel website for Dwarka</a>, since many Porbandar visitors continue up the coast, and exporters can compare notes on our <a href='/gujarat/export-business-website-gujarat/'>export business website</a> page.`,
   },
   snapshot: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Website prices for Porbandar businesses: where each build starts",
-    note: `These are starting points, not packages. A Porbandar site costs more than the base figure for a few clear reasons: more distinct page designs, a large catalogue such as dozens of net meshes or seafood species, a booking or availability feature for rooms, two language versions, or text we draft from your brochure. The town you work in does not change the price. After a WhatsApp brief and a video call, you receive an itemised quote in about two working days; drop any line you do not need. Nothing is billed before you approve in writing, and payment is by UPI or bank transfer in stages.`,
+    note: `These are starting points, not packages. A Porbandar site costs more than the base figure for a few clear reasons: more distinct page designs, a large catalogue such as dozens of net meshes or seafood species, a booking or availability feature for rooms, two language versions, or text we draft from your brochure. The town you work in does not change the price. Brief us on WhatsApp, join one video call, and roughly two working days later a line-by-line quote reaches you, from which any item you do not want can be struck. Stage payments go by UPI or bank transfer, and none is due until your written approval is in.`,
   },
   guideLabel: "Website developer in Porbandar: a practical guide",
   guide: [
@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A website developer in Porbandar turns what you already sell into pages that a stranger can trust in under a minute, then keeps those pages working. In practice that means choosing the right pages, designing them for a phone screen, writing clean code, connecting the domain and hosting in your name, and setting up Google Search Console and your Maps listing so people can actually find the site.`,
         `Who needs one here? A frozen-fish trader whose new buyer in Kochi asked for “your website link”. A guest house owner who is tired of paying commission to booking portals for guests who would happily call direct. A fishing-net unit that wants dealers in Kerala or Maharashtra to see mesh sizes without a dozen phone calls. A school near Kamla Baug whose parents now check everything on their phones. Each one needs a different first site.`,
-        `With BtechWaleTech, the people you speak to are the people who build. Inside the BtechWaleTech team one developer leads design and full-stack code, another handles hosting, data and technical SEO, and the third keeps the plan, approvals and deadlines moving. All three work remotely from India, which keeps the price honest and the communication direct.`,
+        `With BtechWaleTech, the people you speak to are the people who build. The BtechWaleTech team splits the work three ways: one developer owns design and full-stack code, a second owns hosting, data and technical SEO, and the third keeps the plan, your approvals and the dates on track. All three work remotely from India, which keeps the price honest and the communication direct.`,
       ],
     },
     {
@@ -142,7 +142,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a website developer in Porbandar charge?",
       paragraphs: [
-        `With us, a business website of up to 100 pages starts at ${P.site} (roughly ${P.siteUsd}), an SEO website of 299 or more pages at ${P.seoSite}, an online store at ${P.shop} and a custom portal or web app at ${P.software}. After the two free months, care plans start at ${P.care}.`,
+        `A harbour trader's or hotelier's business website of up to 100 pages begins at ${P.site} (close to ${P.siteUsd}); the SEO build of 299 pages or more begins at ${P.seoSite}, a store with checkout at ${P.shop}, and a custom portal or web app at ${P.software}. After the two free months, care plans start at ${P.care}.`,
         `Quotes for the same Porbandar project can differ a lot between developers, and the gap nearly always hides a difference in scope. Ask every quote to list these drivers separately:`,
       ],
       list: [
@@ -153,7 +153,7 @@ const content: FreelanceContent = {
         "Integrations: sending enquiries to a Google Sheet, a CRM or several WhatsApp numbers",
       ],
       after: [
-        `Domain, hosting and business email are paid by you, directly to the providers, so no mark-up sits inside our figure. The full state-wide breakdown is on <a href='/gujarat/website-development-cost-gujarat/'>website development cost in Gujarat</a>, and national figures are on <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
+        `You pay the registrar, the host and the mailbox provider yourself for the domain, hosting and business email, which keeps our figure free of any mark-up. The full state-wide breakdown is on <a href='/gujarat/website-development-cost-gujarat/'>website development cost in Gujarat</a>, and national figures are on <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
       ],
     },
     {
@@ -166,7 +166,7 @@ const content: FreelanceContent = {
         { heading: "Day 1: the brief", text: "You send a WhatsApp message or voice note in Gujarati-accented Hindi or English: what you sell, who buys, and two websites you like. We usually reply the same day with questions." },
         { heading: "Day 2–3: the video call", text: "A 30–45 minute call, with screen-share if your current site or catalogue needs a look. You show products or rooms on camera; we note what deserves a page." },
         { heading: "Within two working days: the quote", text: "An itemised list of pages, features and content tasks with a timeline. You trim it until it fits, then approve in writing." },
-        { heading: "Week 1: design on a staging link", text: "Domain and hosting are created in your name. The home page design appears on a private link you open on your own phone." },
+        { heading: "Week 1: design on a staging link", text: "We open the domain and hosting accounts under your name first. Then a private link carries the home page design, ready to check on the phone in your pocket." },
         { heading: "Week 2: build, review, launch", text: "Inner pages, forms, speed work and SEO tags follow. You send one combined change list, we fix it, and the site goes live after the final payment." },
       ],
       after: [`Photos are the usual bottleneck. A few clear phone pictures of your boats, rooms or products, taken in daylight, beat a stock library every time.`],
@@ -194,8 +194,8 @@ const content: FreelanceContent = {
         `Pick the platform by who edits the site and how often. A net maker who updates prices twice a year needs something different from a hotel that changes offers every festival season.`,
       ],
       subs: [
-        { heading: "Static site (Astro or similar)", text: "Very fast, cheap to host and hard to hack, because there is no database. Best when changes are occasional and you are happy to send them to us on WhatsApp." },
-        { heading: "WordPress", text: "Right when your staff want to post news, tariffs or offers themselves. It needs regular updates and a short plugin list to stay quick and safe. See our <a href='/gujarat/wordpress-developer-gujarat/'>WordPress developer in Gujarat</a> page." },
+        { heading: "Static site (Astro or similar)", text: "No database sits behind it, so it loads quickly, costs little to host and gives attackers almost nothing to break into. It suits a Porbandar net maker or trader whose changes are rare enough to WhatsApp to us when they come up." },
+        { heading: "WordPress", text: "Right when your staff want to post news, tariffs or offers themselves. Keep its plugins few and its updates regular, or it slows down and becomes a security risk. See our <a href='/gujarat/wordpress-developer-gujarat/'>WordPress developer in Gujarat</a> page." },
         { heading: "Shopify or WooCommerce", text: "For shops selling dry fish, snacks or crafts online with UPI and card checkout. Shopify suits owners who want less upkeep; WooCommerce suits those already on WordPress." },
         { heading: "Custom web app", text: `Needed when buyers log in to see their own prices, or boats, catches and orders must be recorded and searched. Starts at ${P.software}.` },
       ],
@@ -208,7 +208,7 @@ const content: FreelanceContent = {
         `Use this list to compare quotes. A good site for a Porbandar trader, hotel or service business covers most of it, and any quote that leaves items out should say so plainly.`,
       ],
       list: [
-        "First screen that says what you do, for whom and that you are in Porbandar",
+        "An opening screen that names your trade, your buyer and Porbandar as the place you work from",
         "Product, species, room or service pages with real photos and plain specifications",
         "Capacity or capability page for processors and manufacturers: cold store size, mesh range, output you can document",
         "Enquiry form asking for quantity, destination port or travel dates, depending on the trade",
@@ -225,8 +225,8 @@ const content: FreelanceContent = {
       id: "gujarati",
       heading: "Can my Porbandar website be in Gujarati as well as English?",
       paragraphs: [
-        `Yes, and for shops, schools, clinics and many traders it should be. We build the Gujarati side properly: Unicode text, web fonts such as Noto Sans Gujarati, Hind Vadodara or Mukta Vaani from <a href='https://fonts.google.com/' rel='noopener'>Google Fonts</a>, line spacing that suits the script, a language switcher and separate URLs so Google can index each version.`,
-        `Here is the honest part. The BtechWaleTech team writes English and Hindi, not Gujarati. You, a staff member or a translator you trust supplies or approves every Gujarati line. We never publish machine translation as if it were checked copy, because a wrong word on a price or a medical page does more harm than no Gujarati at all.`,
+        `Yes, and for shops, schools, clinics and many traders it should be. The technical side of Gujarati is our job: Unicode text throughout, a web font from <a href='https://fonts.google.com/' rel='noopener'>Google Fonts</a> such as Mukta Vaani, Noto Sans Gujarati or Hind Vadodara, line height tuned to the script, a switcher between languages, and a separate URL for each version so that Google indexes both.`,
+        `One thing we will not pretend about: nobody in the BtechWaleTech team writes Gujarati; our working languages are English and Hindi. Every Gujarati line on your Porbandar site is therefore supplied or signed off by you, someone on your staff, or a translator whose work you trust. We never publish machine translation as if it were checked copy, because a wrong word on a price or a medical page does more harm than no Gujarati at all.`,
         `A practical split for Porbandar: export buyers, cold-chain specs and hotel booking pages in English first; contact, timings, offers and careers pages in Gujarati too. Hindi is worth adding for hotels, since many pilgrims and tourists arrive from other states. Our <a href='/gujarat/gujarati-website-development/'>Gujarati website development</a> guide covers fonts, URLs and SEO in more depth.`,
       ],
     },
@@ -243,8 +243,8 @@ const content: FreelanceContent = {
       id: "seo",
       heading: "Will a Porbandar website show up on Google Maps and in AI answers?",
       paragraphs: [
-        `It can, if it is built for search from day one, but nobody can guarantee a position. Rankings depend on competition, content and trust built over months.`,
-        `Every site we hand over has unique titles and descriptions, one clear heading per page, clean URLs, compressed images, a sitemap and schema markup for your business type. We verify Google Search Console before launch so you can see which searches bring impressions in the first weeks.`,
+        `Yes, provided search is planned into the build from the first day; what no developer can honestly promise is a fixed position. Rankings depend on competition, content and trust built over months.`,
+        `Before handover, each page gets its own title and description, a single clear heading, a tidy URL and compressed images, and the site as a whole gets a sitemap plus schema markup matched to your kind of business. Google Search Console is verified ahead of launch, so from the opening weeks you can watch which searches are producing impressions.`,
         `For shops, hotels, clinics and restaurants, the Google Business Profile matters as much as the site. Your name, address and phone should match the website footer exactly, categories should describe what you do, and photos should be your own. Google's <a href='https://support.google.com/business/' rel='noopener'>Business Profile help</a> explains verification steps.`,
         `For processors and manufacturers, specific pages win: a buyer searching for a particular net type or frozen product should land on a page that answers exactly that. AI assistants and Google's AI Overviews also tend to quote short, direct answers, tables and named places, so we write FAQ and spec blocks that way. Ongoing work is optional through <a href='/gujarat/seo-friendly-website-gujarat/'>SEO-friendly websites in Gujarat</a>.`,
       ],
@@ -253,9 +253,9 @@ const content: FreelanceContent = {
       id: "ownership",
       heading: "Who owns the site, the domain and the email after launch?",
       paragraphs: [
-        `You do, and the quote should say so in writing. The domain is registered to your business and email address, hosting is billed to your card, and the code sits in a repository you can open.`,
-        `A common story in coastal towns: a nephew or a local operator registered the domain years ago in his own name, then moved to the Gulf, and the business lost its email on renewal day. We avoid that by creating accounts with you on a video call, or by having you create them and add us as users. Payment for domain, hosting and mailboxes goes straight from you to the provider.`,
-        `At handover you receive admin logins, repository access, DNS details, a list of every paid service with its renewal date, and a short note on editing common content. If an old developer still controls your domain, send us whatever proof of ownership you have; we will explain the transfer steps and help you request it. For email moves see <a href='/gujarat/domain-hosting-email-setup-gujarat/'>domain, hosting and email setup in Gujarat</a>.`,
+        `You own all of it, and a proper quote puts that in writing. Your business and your email address hold the domain registration, your card pays the hosting bill, and the code is kept in a repository that you are able to open.`,
+        `Coastal towns know this story well: years ago a nephew or a local operator put the domain in his own name, later left for the Gulf, and on renewal day the business found its email gone. Our way around it is to set up each account alongside you during a video call, or to let you set them up and then invite us in as users. Payment for domain, hosting and mailboxes goes straight from you to the provider.`,
+        `Handover brings you the admin logins, access to the repository, the DNS details, a sheet of each paid service and the date it renews, plus brief notes on how to edit everyday content. Is a former developer still holding your domain? Share any ownership proof you can find, and we will walk you through the transfer and help you file the request. For email moves see <a href='/gujarat/domain-hosting-email-setup-gujarat/'>domain, hosting and email setup in Gujarat</a>.`,
       ],
     },
     {
@@ -281,7 +281,7 @@ const content: FreelanceContent = {
       id: "example",
       heading: "A worked example: a fishing-net maker in Porbandar GIDC",
       paragraphs: [
-        `This is a hypothetical scenario to show how a project runs. It is not a client and no results are claimed.`,
+        `The unit below is made up, purely to show the path a project takes. No real client is described, and no results are being claimed for it.`,
         `Say a twenty-worker unit in Porbandar's industrial estate makes nylon and HDPE fishing nets and ropes. Most orders come from boat owners along the Saurashtra coast and from two dealers in Maharashtra, all by phone. A new dealer in Kerala wants to see mesh sizes, twine thickness and pack weights before ordering, and the owner has only a visiting card and a WhatsApp catalogue.`,
         `On the video call we agree on a home page, an about page with machine and capacity details the owner can document, eight product-family pages with a specification table each, a dealer enquiry form asking for net type, quantity and delivery port, and a contact page in Gujarati and English. The owner's son supplies the Gujarati lines. We suggest moving email to the business domain at the same time.`,
         `That scope sits in the static plan from ${P.site}, with separate lines for drafting product copy and the email move. Once photos arrive, the build takes about two weeks. Enquiries land on WhatsApp and in a shared inbox, and the two free maintenance months cover a price-list update and new photos. If the unit later wants dealer logins with their own rates, that becomes a <a href='/gujarat/web-application-development-gujarat/'>web application</a> added to the same site, not a rebuild.`,
@@ -311,7 +311,7 @@ const content: FreelanceContent = {
       id: "cost-table",
       eyebrow: "Costs",
       heading: "Website cost in Porbandar by type of project",
-      note: `Starting prices in INR with approximate USD. Your quote depends on pages, features, languages and content work. Full list on <a href='/pricing/'>pricing</a>.`,
+      note: `These are INR starting prices, with rough USD equivalents alongside. Pages, features, languages and content work decide what a Porbandar quote finally comes to. Full list on <a href='/pricing/'>pricing</a>.`,
       columns: ["Project", "Starts at", "Approx. USD", "Typical time", "Good for"],
       rows: [
         ["Business or profile site, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Traders, net makers, clinics, schools"],
@@ -383,33 +383,33 @@ const content: FreelanceContent = {
     steps: [
       ["Message us on WhatsApp", "Tell us what you sell, who buys it and which websites you like. A voice note is fine, and we reply with questions the same day."],
       ["Talk on a video call", "We look at your products, rooms or current site on screen and agree what each page must make a visitor do."],
-      ["Approve an itemised quote", "Within about two working days you get every page, feature and content task priced. Remove lines freely; nothing is billed before written approval."],
-      ["See the design on staging", "Domain, hosting and email are created in your name. The home page appears on a private link you check on your own phone."],
+      ["Approve an itemised quote", "In roughly two working days a priced list arrives covering each page, feature and content task. Remove lines freely; nothing is billed before written approval."],
+      ["See the design on staging", "Domain, hosting and email are created in your name. A private link then shows the home page, and you look it over on your own handset."],
       ["Build, test and launch", "Inner pages, forms, speed work and SEO tags follow. One combined round of changes, then DNS, SSL and Search Console go live."],
       ["Handover and two free months", `You receive logins, code access and a renewals list. Small fixes cost nothing for two months, then care starts at ${P.care}.`],
     ],
   },
   faqHeading: "Website developer in Porbandar: common questions",
   faqs: [
-    { question: "How much does a website developer in Porbandar charge?", answer: `With BtechWaleTech, a business website of up to 100 pages starts at ${P.site}, an SEO website of 299+ pages at ${P.seoSite} and an online store at ${P.shop}. The final figure depends on distinct page designs, features, languages and any content we write. You get an itemised quote in about two working days, and nothing is billed before you approve it.` },
+    { question: "How much does a website developer in Porbandar charge?", answer: `For a Porbandar business, BtechWaleTech starts a website of up to 100 pages at ${P.site}; an SEO website with 299+ pages starts at ${P.seoSite} and an online store at ${P.shop}. How many distinct page designs you need, which features and languages you add, and whether we write content all move the final number. Expect a line-by-line quote within about two working days, with no billing until you have approved it.` },
     { question: "Do you have an office in Porbandar?", answer: "No. BtechWaleTech is three freelance developers who work remotely from India. Every project runs over WhatsApp, phone, video calls with screen-share and a private staging link where you see the site as it is built. That keeps costs lower and means you deal directly with the people writing your code, without travelling anywhere." },
-    { question: "How long does it take to build a website for a Porbandar business?", answer: "A static business site usually goes live in 1–2 weeks after you approve the scope. SEO websites take 3–5 weeks, online stores 4–8 weeks and custom portals 6–12 weeks. The usual delay is waiting for photos, product details or approvals, so sharing everything in one folder early is the fastest route to launch." },
+    { question: "How long does it take to build a website for a Porbandar business?", answer: "Once the scope is approved, a static business site is normally live within 1–2 weeks. Allow 3–5 weeks for an SEO website, 4–8 for an online store and 6–12 for a custom portal. Photos, product details and approvals are what usually hold things up, so a single shared folder with everything in it, sent early, shortens the wait more than anything else." },
     { question: "Can you build a website for a seafood exporter in Porbandar?", answer: "Yes. A seafood trader or processor site typically has species and product pages, pack formats, cold-chain capacity you can document, an English page for overseas buyers and an enquiry form asking for quantity and destination port. We publish only the approvals and registrations you actually hold, and your own consultant confirms what the rules require you to display." },
-    { question: "Can my website be in Gujarati?", answer: "Yes. We build the Gujarati version with proper Unicode fonts, spacing, a language switcher and separate URLs for search engines. Our team writes English and Hindi, so you or a translator you trust supplies or approves the Gujarati copy. Many Porbandar businesses keep export and booking pages in English and add Gujarati contact, offers and careers pages." },
+    { question: "Can my website be in Gujarati?", answer: "Yes. The Gujarati version gets correct Unicode fonts and spacing, a switcher between languages and its own URLs that search engines can read. Since English and Hindi are the languages our team writes, the Gujarati copy is supplied or approved by you or by a translator you rely on. Many Porbandar businesses keep export and booking pages in English and add Gujarati contact, offers and careers pages." },
     { question: "Is a remote developer as good as a local one?", answer: "What decides quality is skill, process and ownership terms, not distance. Video calls with screen-share and a live staging link let you review every page as closely as you would across a desk. You also avoid paying for someone's premises. If you need a person physically at your unit every week, a local agency is the better fit." },
-    { question: "Who will own my website and domain?", answer: "You will. The domain, hosting and business email are registered to your business and paid by you directly to the providers. The code sits in a repository you can access. At handover you receive every login, DNS details and a renewals list, so you can change developers later without asking anyone's permission." },
+    { question: "Who will own my website and domain?", answer: "You will. Your business is the registered holder of the domain, the hosting and the business email, and you pay those providers yourself. We keep the code in a repository that you can open. Handover includes all logins, the DNS details and a list of renewals, which means a later change of developer needs nobody's permission." },
     { question: "What should a hotel website near Kirti Mandir include?", answer: "Room pages with real photos, a tariff range you control, amenities, check-in times, a map from Kirti Mandir, the railway station and the beach, guest policies and a direct booking enquiry by WhatsApp or form. Adding Hindi helps with visitors from other states. A verified Google Business Profile matters as much as the site itself." },
-    { question: "How do I pay for the website?", answer: "Payment is in INR by UPI or bank transfer, in stages tied to work you can see: an advance to start, a payment when the design is approved and the balance before launch. The exact split is written in your quote. Domain, hosting and email are paid by you directly to the providers, so nothing is hidden inside our figure." },
-    { question: "Will my Porbandar website rank on Google?", answer: "It will be built to be found: unique titles, clean URLs, fast pages, schema markup, a sitemap and Search Console from launch day. Rankings depend on competition, content and time, and nobody can guarantee a position. For shops and hotels, a well-kept Google Business Profile usually brings the first calls; for manufacturers, specific product pages do." },
-    { question: "Do you write the content, or do I?", answer: "Either works. Many owners send a brochure, photos and a voice note, and we draft English or Hindi pages for them to approve. Content writing is a separate line in the quote, so you can choose. Gujarati copy always comes from you or your translator; we handle its layout, fonts and SEO." },
-    { question: "What maintenance do I get after launch?", answer: `Two months of maintenance are free: text and photo changes, small fixes, updates, backups and form checks. After that, care is optional and starts at ${P.care}. You can also manage the site yourself or move it to another developer, because every login and the code are already in your name.` },
-    { question: "Can you redesign my old Porbandar website without losing visitors?", answer: "Yes. We list every existing URL, keep pages that already bring traffic and redirect old addresses to the new ones so Google results and saved links keep working. Email is moved or kept carefully so no messages are lost, and the new site is tested on a staging link before the old one is switched off." },
+    { question: "How do I pay for the website?", answer: "We bill in INR and you pay by UPI or bank transfer. Payments follow stages you can check with your own eyes: an advance when work starts, a second part once you approve the design, and the remainder ahead of launch, with the exact split set out in the quote. The domain, hosting and email bills go from you to the providers, so our figure carries no hidden extras." },
+    { question: "Will my Porbandar website rank on Google?", answer: "We build it so search engines can find it: each page has its own title and a clean URL, pages load fast, schema markup and a sitemap are in place, and Search Console is connected on launch day. Rankings depend on competition, content and time, and nobody can guarantee a position. For shops and hotels, a well-kept Google Business Profile usually brings the first calls; for manufacturers, specific product pages do." },
+    { question: "Do you write the content, or do I?", answer: "Either works. Many owners send a brochure, photos and a voice note, and we draft English or Hindi pages for them to approve. Content writing is a separate line in the quote, so you can choose. Gujarati text is the exception: it always comes from you or your translator, while its layout, fonts and SEO are our part." },
+    { question: "What maintenance do I get after launch?", answer: `For two months after launch, maintenance is free and covers text and photo changes, small fixes, updates, backups and form checks. From then on care is optional, starting at ${P.care}. Because every login and the code already sit in your name, you are equally free to run the site yourself or hand it to another developer.` },
+    { question: "Can you redesign my old Porbandar website without losing visitors?", answer: "Yes. Every existing URL goes on a list; pages that already bring traffic are kept, and each old address is redirected to its new one so that Google results and saved links carry on working. Email is either moved or left in place with care so that no message goes missing, and the old site is switched off only after the new one has been tested on a staging link." },
     { question: "Do you build online stores for Porbandar sellers?", answer: `Yes. Online stores with UPI and card checkout, courier tracking and order emails start at ${P.shop}. They suit sellers of dry fish, snacks, handicrafts or souvenirs who ship across India. If you only need a few products, a WhatsApp ordering site from the static plan can be a cheaper first step.` },
     { question: "What do I need ready before the first call?", answer: "Your current domain and email logins, or the name of whoever registered them, your logo, a brochure or price list if you have one, ten to twenty clear photos of products, rooms or your unit, and two or three websites you like. If a buyer has asked for specific information, forward that message too." },
-    { question: "Do you also make mobile apps or software?", answer: `Yes, as separate projects. Android and iOS apps start at ${P.app} and custom web apps at ${P.software}. Most Porbandar businesses are better served by a fast website first; an app makes sense when the same customers order repeatedly or field staff need to log data daily.` },
-    { question: "Can three freelance developers handle my project?", answer: "They handle most business websites, catalogues, online stores and portals, and all three know every project, so work continues if one is away. What we do not suit is a project needing twenty developers at once or someone placed at your premises. We say so on the first call if that is your situation." },
-    { question: "Do you work only in Porbandar town?", answer: "No. The same remote process serves Ranavav, Kutiyana, Madhavpur and the rest of the district, the coast down to Veraval and up to Dwarka, and businesses anywhere in Gujarat and India. Starting prices, ownership terms and the two free months of maintenance stay the same wherever you are." },
-    { question: "Porbandar me website banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath business website ${P.site} se shuru hoti hai aur aam taur par 1–2 hafte mein live ho jaati hai. Kaam WhatsApp, video call aur staging link par remote hota hai. Domain aur hosting aapke naam par rehte hain, aur launch ke baad 2 mahine maintenance free milta hai.` },
+    { question: "Do you also make mobile apps or software?", answer: `Yes, as separate projects. Apps for Android and iOS begin at ${P.app}, while custom web apps begin at ${P.software}. Most Porbandar businesses are better served by a fast website first; an app makes sense when the same customers order repeatedly or field staff need to log data daily.` },
+    { question: "Can three freelance developers handle my project?", answer: "For most business websites, catalogues, online stores and portals, yes; each of the three knows every project, so nothing stops when one person is away. Where we are the wrong fit is a job that needs twenty developers working at once, or a person stationed at your premises. If that describes you, we will tell you so on the first call." },
+    { question: "Do you work only in Porbandar town?", answer: "No. The same remote process serves Ranavav, Kutiyana, Madhavpur and the rest of the district, the coast down to Veraval and up to Dwarka, and businesses anywhere in Gujarat and India. Wherever you are, the starting prices, the ownership terms and the two months of free maintenance do not change." },
+    { question: "Porbandar me website banwane ka kharcha kitna hai?", answer: `Porbandar ke business ke liye BtechWaleTech ${P.site} se website banana shuru karta hai, aur zyadatar sites 1–2 hafte ke andar live ho jaati hain. Kaam WhatsApp, video call aur staging link par remote hota hai. Domain aur hosting dono aapke hi naam par register hote hain, aur launch ke baad pehle 2 mahine ka maintenance bilkul free rehta hai.` },
     { question: "Does a website developer in Porbandar need to know the local trade?", answer: "It helps a great deal. A developer who asks about mesh sizes, species, room seasons or port routes builds pages that answer real buyer questions. We ask those questions on the first call and turn the answers into page structure, so you do not pay for generic pages that never bring an enquiry." },
   ],
   related: {
@@ -432,7 +432,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready for a website that works as hard as your Porbandar business?",
-    note: `Send us a WhatsApp message with what you sell and who buys it. You usually get questions the same day, an itemised quote in about two working days, business sites from ${P.site}, every account in your name and two months of free maintenance after launch.`,
+    note: `Tell us on WhatsApp what your Porbandar business sells and who its buyers are. Questions normally come back the same day and a line-by-line quote follows in about two working days. Business sites start from ${P.site}, each account is opened in your name, and maintenance is free for the first two months after launch.`,
   },
 };
 

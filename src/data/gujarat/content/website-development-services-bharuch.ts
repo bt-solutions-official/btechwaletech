@@ -11,7 +11,7 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-development-services-bharuch/",
   crumb: "Website development services in Bharuch",
-  updated: "2026-10-01",
+  updated: "2026-10-07",
   meta: {
     title: `Website Development Services in Bharuch from ${P.site}`,
     description: `Comparing website development services in Bharuch? Complete business sites from ${P.site}, built remotely by three freelance developers. Quote in 2 days.`,
@@ -28,7 +28,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Website development · Bharuch, Gujarat",
     h1: "Website development services in Bharuch from three freelance developers who build the whole site",
-    lede: `If you are shortlisting website development services in Bharuch, you probably want one team that handles planning, design, code, hosting and the first months after launch, without passing you between departments. BtechWaleTech is three freelance developers working remotely from India who do exactly that for Bharuch traders, plant suppliers, clinics, schools and shops. Complete business websites start at ${P.site}. The rest of this page covers scope, cost, the remote process and how to vet anyone you hire; every other Gujarat service sits on our <a href='/gujarat/'>Gujarat hub</a>.`,
+    lede: `Anyone comparing website development services in Bharuch usually wants a single team for the lot: planning, design, code, hosting and the early months after launch, with no hand-offs between departments. That is the work BtechWaleTech, three freelance developers working remotely from India, does for Bharuch traders, plant suppliers, clinics, schools and shops. Complete business websites start at ${P.site}. The rest of this page covers scope, cost, the remote process and how to vet anyone you hire; every other Gujarat service sits on our <a href='/gujarat/'>Gujarat hub</a>.`,
     pills: [`Business sites from ${P.site}`, "Plant supplier profiles", "Product and RFQ pages", "Online stores with UPI", "English, Hindi and Gujarati layouts", "Domain and code in your name", "2 months free maintenance"],
     origin: "Three freelance developers in India · building websites for Bharuch businesses · WhatsApp 7 days a week",
   },
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What do website development services in Bharuch cost for a complete site?",
-    text: `With BtechWaleTech, a complete business website for a Bharuch firm starts at ${P.site}: up to 100 mobile-first pages, enquiry and RFQ forms, a WhatsApp button, basic SEO, hosting setup and two free months of maintenance, usually live in 1–2 weeks. SEO websites of 299+ pages start at ${P.seoSite} and online stores at ${P.shop}. You get an itemised quote first.`,
+    text: `For a Bharuch firm, BtechWaleTech prices a complete business website from ${P.site}. The build runs to as many as 100 mobile-first pages with RFQ and enquiry forms, a WhatsApp button, basic SEO and hosting setup, goes live in 1–2 weeks in most cases, and comes with two months of free maintenance. SEO websites with 299+ pages begin at ${P.seoSite} and online stores at ${P.shop}, each after an itemised quote.`,
     more: `Want the design side explained? Read <a href='/gujarat/website-designer-bharuch/'>website designer in Bharuch</a>. Planning to sell online? See <a href='/gujarat/ecommerce-website-development-bharuch/'>ecommerce website development in Bharuch</a>.`,
   },
   snapshot: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Website development prices for Bharuch businesses",
-    note: `These are starting figures, never package deals. A Bharuch website moves above the starting point for a handful of clear reasons: more unique page layouts, a product catalogue with filters or data-sheet downloads, a Gujarati version, integrations with your CRM or sheets, and writing work if we draft your copy. The town itself does not change the price, and neither does the framework we choose. Send your brief on WhatsApp and you get an itemised estimate in about two working days. Every line carries its own figure, so you can trim or postpone items, and nothing is billed before you approve it in writing.`,
+    note: `These are starting figures, never package deals. A Bharuch website moves above the starting point for a handful of clear reasons: more unique page layouts, a product catalogue with filters or data-sheet downloads, a Gujarati version, integrations with your CRM or sheets, and writing work if we draft your copy. Being in Bharuch neither raises nor lowers the figure, and the framework we pick has no effect on it either. Send your brief on WhatsApp and you get an itemised estimate in about two working days. Every line carries its own figure, so you can trim or postpone items, and nothing is billed before you approve it in writing.`,
   },
   guideLabel: "Website development services in Bharuch: the complete buyer's guide",
   guide: [
@@ -129,7 +129,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do website development services in Bharuch cost?",
       paragraphs: [
-        `Price follows scope. With us, a complete static business site of up to 100 pages starts at ${P.site} (roughly ${P.siteUsd}), an SEO website of 299+ pages at ${P.seoSite}, an online store at ${P.shop} and a portal or web app at ${P.software}. After the two free months, optional care starts at ${P.care}.`,
+        `Price follows scope. For Bharuch, a complete static business site (up to 100 pages) begins at ${P.site}, close to ${P.siteUsd}. An SEO website of 299+ pages begins at ${P.seoSite}, an online store at ${P.shop}, and a portal or web app at ${P.software}. After the two free months, optional care starts at ${P.care}.`,
         `Quotes for the same Bharuch project can differ a lot between providers, and the gap usually reflects what is quietly included or left out. Ask each bidder how they handle these cost drivers:`,
       ],
       list: [
@@ -140,7 +140,7 @@ const content: FreelanceContent = {
         "Integrations: sending enquiries to a CRM, Google Sheet or shared inbox needs setup and testing",
         "Photography: fresh plant and product photos are often the best spend on the whole project",
       ],
-      after: [`Domain, hosting and business email are paid by you straight to the providers, so no markup hides inside our figure. For the full arithmetic, read <a href='/gujarat/website-development-cost-gujarat/'>website development cost in Gujarat</a> or the national view on <a href='/website-making-cost-in-india/'>website making cost in India</a>.`],
+      after: [`The bills for your domain, hosting and business email go from you to the providers, never through us, so our price has no markup tucked into it. For the full arithmetic, read <a href='/gujarat/website-development-cost-gujarat/'>website development cost in Gujarat</a> or the national view on <a href='/website-making-cost-in-india/'>website making cost in India</a>.`],
     },
     {
       id: "remote",
@@ -157,7 +157,7 @@ const content: FreelanceContent = {
       heading: "Website development process for Bharuch clients, step by step",
       paragraphs: [
         `A static business website usually takes 1–2 weeks once scope is approved; an SEO site 3–5 weeks; a store 4–8 weeks; a portal 6–12 weeks. Waiting for content, not coding, is what stretches most timelines.`,
-        `Day one is the brief: what you sell, who buys, which areas you serve and what a good enquiry looks like. A 30-minute video call follows. Within about two working days you receive the itemised quote and a draft page list. Once you approve it in writing, we create the domain, hosting and email accounts with you, in your business name, and design the home page on staging.`,
+        `Day one is the brief: what you sell, who buys, which areas you serve and what a good enquiry looks like. A 30-minute video call follows. Within about two working days you receive the itemised quote and a draft page list. After your written approval, the domain, hosting and email accounts are opened together with you under your business name, and the home page is designed on a staging link.`,
         `In the next stretch the inner pages, forms, WhatsApp button and structured data are built while you gather photos and approve text. You send one combined list of changes rather than ten scattered messages, which keeps the schedule honest. We test on budget Android phones and slow connections, then connect the domain, switch on SSL and verify Google Search Console. The final payment comes before go-live, and a handover sheet lists every login and renewal date.`,
       ],
       after: [`The timeline table further down shows the same flow week by week, with what you do at each point.`],
@@ -167,7 +167,7 @@ const content: FreelanceContent = {
       heading: "How do I choose website development services in Bharuch?",
       paragraphs: [
         `Judge on evidence you can check, terms written down, and the people who will actually build. Send the same short brief to two or three providers and compare how they respond, not only the number at the bottom.`,
-        `Good signs: they ask about your buyers, your products and who answers enquiries; they price pages and features line by line; they say, unprompted, that the domain and hosting will be registered to you; they show live sites you can open on mobile data. Weak signs: a single lump sum, a long list of “free” extras, or a portfolio made only of screenshots.`,
+        `The good signs are easy to list. They want to know who your buyers are, what you sell and who replies to enquiries. Pages and features are priced one line at a time. Without being asked, they tell you the domain and hosting will be registered in your name. And the live sites they show open properly on your phone over mobile data. Weak signs: a single lump sum, a long list of “free” extras, or a portfolio made only of screenshots.`,
       ],
       list: [
         "Open three live sites they built, on your own phone, and time the load",
@@ -186,10 +186,10 @@ const content: FreelanceContent = {
         `Choose by who edits the site and how often. Most Bharuch suppliers update pages a few times a year; a school, coaching centre or builder may post every week. The stack should follow that rhythm.`,
       ],
       subs: [
-        { heading: "Static site (Astro or similar)", text: "Very fast, cheap to host and hard to hack because there is no database. Ideal for supplier, capability and clinic sites where changes arrive on WhatsApp a few times a year." },
+        { heading: "Static site (Astro or similar)", text: "With no database behind it, a static site loads quickly, is inexpensive to host and leaves little for an attacker to target. Ideal for supplier, capability and clinic sites where changes arrive on WhatsApp a few times a year." },
         { heading: "WordPress", text: `Right when your office staff want to post news, openings or project updates themselves. It needs regular updates and a short plugin list; see WordPress developer in Gujarat.` },
         { heading: "Headless CMS with a static front end", text: "A simple editing dashboard for staff, with pages still served as fast static files. Useful for large chemical catalogues maintained by a sales coordinator." },
-        { heading: "Custom web app (Node.js or Python, PostgreSQL)", text: "Needed once dealers or vendors log in, prices vary by customer, or records must be stored and searched." },
+        { heading: "Custom web app (Node.js or Python, PostgreSQL)", text: "This becomes necessary when vendors or dealers need logins, when each customer sees different prices, or when records have to be kept and searched later." },
       ],
       after: [`Whatever we pick, images are compressed, scripts kept light and every page checked against Core Web Vitals, because many visitors from shop floors and site offices browse on modest phones.`],
     },
@@ -219,7 +219,7 @@ const content: FreelanceContent = {
       heading: "Gujarati, Hindi and English on a Bharuch website",
       paragraphs: [
         `Most Bharuch B2B sites lead in English, because RFQs, data sheets and export buyers use English. Local-facing businesses often need Gujarati too, and Hindi helps with the large migrant workforce in the industrial estates. Plan languages by audience, not by habit.`,
-        `Be clear about who writes what. The BtechWaleTech team works in English and Hindi. For Gujarati we handle everything technical: Unicode text, web fonts such as Noto Sans Gujarati, Hind Vadodara or Mukta Vaani from <a href='https://fonts.google.com/' rel='noopener'>Google Fonts</a>, line heights that suit the script, a language switcher, separate URLs for each language and the tags search engines use to pick the right version. You or your translator supply or approve every Gujarati line before it goes live; we never publish unchecked machine translation.`,
+        `Be clear about who writes what. The BtechWaleTech team works in English and Hindi. The technical work for Gujarati is ours. That means Unicode text, a suitable web font from <a href='https://fonts.google.com/' rel='noopener'>Google Fonts</a> (Hind Vadodara, Noto Sans Gujarati and Mukta Vaani are the usual choices), line heights set for the script, a language switcher, a separate URL per language, and the tags that tell search engines which version to show. No Gujarati line goes live until you or your translator has supplied or approved it, and unchecked machine translation is never published.`,
         `A common Bharuch pattern is English product and capability pages, a Gujarati home page and contact page for local customers, and a Hindi careers page for operators and helpers. Each language gets its own address, so a Gujarati search lands on the Gujarati page. Details sit on our Gujarati website development guide.`,
       ],
     },
@@ -238,18 +238,18 @@ const content: FreelanceContent = {
       heading: "Will a new website show up when people search in Bharuch?",
       paragraphs: [
         `It can, if search is built in from the first page, but nobody can honestly guarantee positions. Rankings depend on competition, content quality and trust built over months.`,
-        `Every site we launch has unique titles and descriptions, one clear H1 per page, clean URLs, compressed images, a sitemap, canonical tags and schema markup for your organisation, products and FAQs. <a href='https://search.google.com/search-console/about' rel='noopener'>Google Search Console</a> is verified before launch so you can watch impressions from week one.`,
-        `For shops, clinics, schools and service firms, the Google Business Profile matters as much as the site: the same name, address and phone in both places, accurate categories, real photos and replies to reviews. For suppliers, specific pages win. A buyer searching for a particular solvent grade or an insulation contractor near Dahej should land on a page that answers exactly that query, not a generic home page.`,
-        `AI assistants and Google's AI Overviews tend to quote pages that answer one question clearly, show specs in tables and name the place. We write FAQ blocks and product tables with that in mind. Ongoing optimisation is optional, through <a href='/services/seo-services/'>SEO services</a> starting at ${P.seo} a month.`,
+        `Each site we launch for a Bharuch business carries its own title and description on every page, a single clear H1, clean URLs, compressed images, canonical tags, a sitemap, and schema markup covering your organisation, products and FAQs. We verify <a href='https://search.google.com/search-console/about' rel='noopener'>Google Search Console</a> ahead of launch, which lets you follow impressions from the first week.`,
+        `Service firms, shops, clinics and schools should treat the Google Business Profile as seriously as the website. Keep the name, address and phone identical in both, choose accurate categories, upload real photos and answer reviews. For suppliers, specific pages win. A buyer searching for a particular solvent grade or an insulation contractor near Dahej should land on a page that answers exactly that query, not a generic home page.`,
+        `Pages that give one clear answer to one question, lay out specs in tables and name the place are the ones AI assistants and Google's AI Overviews tend to quote. Our FAQ blocks and product tables are written with that habit in mind. Ongoing optimisation is optional, through <a href='/services/seo-services/'>SEO services</a> starting at ${P.seo} a month.`,
       ],
     },
     {
       id: "ownership-care",
       heading: "After launch: ownership, handover and the two free months",
       paragraphs: [
-        `You own everything, and the quote says so. The domain is registered to your business and email, hosting is billed to your card, and the code lives in a repository you can open. We create these accounts with you on a screen-share, or you create them and add us as users.`,
+        `You own everything, and the quote says so. Your business and email hold the domain registration, your card is billed for hosting, and the code stays in a repository open to you. The accounts are set up with you over a screen-share; if you prefer, you set them up and invite us as users.`,
         `A familiar Bharuch story explains why this matters: an earlier developer bought the domain in his own name, changed his number, and the business lost its email on renewal day. A handover sheet prevents that. Ours lists every login, DNS record, renewal date and the steps to edit common content.`,
-        `For the first two months after launch, maintenance is free: text and photo edits, small fixes, plugin or dependency updates, backups and a check that forms still deliver. From the third month, care is optional and starts at ${P.care}. You can also manage the site yourself or pass it to another developer, because nothing is locked to us.`,
+        `Maintenance costs nothing during the first two months after launch, and it covers text and photo edits, small fixes, plugin or dependency updates, backups and a check that forms still deliver. Care from the third month onward is optional, from ${P.care}. Since nothing is locked to us, you may equally run the site yourself or hand it to a different developer.`,
         `Because all three developers know each project, one person being on leave does not stall your updates. More on ongoing care is on website maintenance in Gujarat.`,
       ],
     },
@@ -276,7 +276,7 @@ const content: FreelanceContent = {
       id: "example",
       heading: "Worked example: a hypothetical solvent trader near Shrawan Chokdi",
       paragraphs: [
-        `This scenario is invented to show how a complete build flows. It is not a client story and no results are attached to it.`,
+        `This scenario is invented to show how a complete build flows. It is not the story of a real client, and no results come attached to it.`,
         `Say a family-run solvent and chemical trading firm near Shrawan Chokdi supplies drums and IBC totes to units in Ankleshwar, Panoli and Jhagadia. A new buyer at a Dahej plant asks for the company website before adding them to the vendor list. Today there is a single-page site from years ago and a free email address.`,
         `On the first video call we list twelve product pages by chemical family, a documentation page for the safety data sheets they already hold, an industries-served page, a Gujarati home and contact page, a Hindi careers page and an RFQ form asking for grade, quantity and delivery estate. Their staff take product and warehouse photos from a shot list we share.`,
         `The scope fits the static plan starting at ${P.site}, with separate lines for drafting product copy, setting up email on their own domain and building the Gujarati pages from text their accountant's office translates. The build runs about two weeks after photos arrive. In the two free months we add two products and a revised price note. If they later want hundreds of grade pages, that becomes an SEO website upgrade on the same codebase.`,
@@ -297,7 +297,7 @@ const content: FreelanceContent = {
       id: "cost-table",
       eyebrow: "Costs",
       heading: "Website development cost in Bharuch by type of build",
-      note: `Starting prices in INR with approximate USD. Your quote depends on pages, features, languages and content work. All plans are on the <a href='/pricing/'>pricing page</a>.`,
+      note: `Prices shown are INR starting points, each with an approximate USD figure. What a Bharuch quote comes to depends on the pages, features, languages and content work involved. All plans are on the <a href='/pricing/'>pricing page</a>.`,
       columns: ["Build", "Starts at", "Approx. USD", "Typical time", "Good for"],
       rows: [
         ["Business or capability site, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Traders, contractors, clinics, schools"],
@@ -369,36 +369,36 @@ const content: FreelanceContent = {
   process: {
     heading: "How a Bharuch website project runs with us",
     steps: [
-      ["Message on WhatsApp", "Tell us what you sell, who buys it and what the site must do. A voice note in English or Hindi is enough; attach an old brochure if you have one."],
+      ["Message on WhatsApp", "Say what you sell, who your buyers are and what job the website has to do. A voice note in English or Hindi is enough; attach an old brochure if you have one."],
       ["Video call and page plan", "A short call, with screen-share if useful, to agree pages, enquiry routes, languages and what you will supply in photos and text."],
       ["Itemised quote in two working days", "Every page, feature and content task is priced separately. Trim it until it fits your budget; nothing is billed before your written approval."],
-      ["Accounts and design on staging", "Domain, hosting and email are created in your business name. The home page design appears on a private link for review on your phone."],
+      ["Accounts and design on staging", "We set up the domain, hosting and email under your business name. Next, the home page design goes onto a private link, ready for you to review on your phone."],
       ["Build, test and launch", "Inner pages, forms, speed and schema work, one combined change round, then DNS, SSL and Search Console on launch day."],
       ["Handover and free care", `You receive every login, the repository and a renewals sheet. Edits and fixes are free for two months, then optional care from ${P.care}.`],
     ],
   },
   faqHeading: "Website development services in Bharuch: common questions",
   faqs: [
-    { question: "How much do website development services in Bharuch cost?", answer: `With BtechWaleTech, a complete business website of up to 100 pages starts at ${P.site}, an SEO website of 299+ pages at ${P.seoSite}, an online store at ${P.shop} and a portal at ${P.software}. The final figure depends on unique layouts, features, languages, content work and integrations. You receive an itemised quote in about two working days and nothing is billed before written approval.` },
-    { question: "Do you have an office in Bharuch?", answer: "No. BtechWaleTech is three freelance developers working remotely from India. We run every Bharuch project over WhatsApp, phone and video calls, with screen-share reviews and a private staging link you open on your own phone. This keeps overheads out of your price and gives you direct access to the people who build your site, seven days a week." },
-    { question: "How long does it take to build a business website in Bharuch?", answer: "A static business website usually goes live in 1–2 weeks after the scope is approved. SEO websites take 3–5 weeks, online stores 4–8 weeks and portals 6–12 weeks. Most delays come from waiting for photos, product data or approvals, so sharing everything in one folder at the start is the quickest route to launch." },
+    { question: "How much do website development services in Bharuch cost?", answer: `BtechWaleTech starts a complete business website of up to 100 pages at ${P.site}. An SEO website of 299+ pages starts at ${P.seoSite}, an online store at ${P.shop} and a portal at ${P.software}. Unique layouts, features, languages, content work and integrations decide where your figure lands. Within about two working days you get a quote broken into line items, and no bill is raised before you approve it in writing.` },
+    { question: "Do you have an office in Bharuch?", answer: "No. BtechWaleTech is three freelance developers working remotely from India. Each Bharuch project is handled through WhatsApp, phone and video calls, with reviews done over screen-share and a private staging link that opens on your own phone. This keeps overheads out of your price and gives you direct access to the people who build your site, seven days a week." },
+    { question: "How long does it take to build a business website in Bharuch?", answer: "After you approve the scope, a static business website is normally live within 1–2 weeks. An SEO website needs 3–5 weeks, an online store 4–8 and a portal 6–12. Waiting for photos, product data or approvals causes most delays, which is why one shared folder with everything in it, sent at the start, gets a Bharuch site launched soonest." },
     { question: "Is a remote developer as good as a local Bharuch agency?", answer: "Quality depends on skill, process and ownership terms, not postcode. A remote team with a clear routine of video calls, staging links and quick WhatsApp replies can match or beat a local provider on most website projects. Where a remote team is weaker is daily on-site presence; if you need that, choose a local agency instead." },
     { question: "What should a chemical company website in Bharuch include?", answer: "Most chemical firms need product pages organised by family, with grades, pack sizes and CAS numbers, a documentation section for data sheets you already hold, an industries-served page, an RFQ form with quantity and delivery location, contact details with GIDC plot information, and English pages suited to export buyers. Your own team confirms any regulatory wording before publishing." },
-    { question: "Can you build our website in Gujarati?", answer: "Yes, technically. We build Gujarati pages with Unicode text, Gujarati web fonts, a language switcher, separate URLs and correct language tags. Our team writes English and Hindi, so you or your translator supply or approve the Gujarati copy. Many Bharuch businesses keep product pages in English and add Gujarati home and contact pages for local customers." },
-    { question: "Who owns the website and domain after it is built?", answer: "You do. The domain, hosting and business email are registered in your business name and paid by you directly to the providers. The code sits in a repository you can access. At handover you receive every login, DNS details and a renewals list, so you can change developers later without asking anyone for permission." },
-    { question: "What does the free maintenance cover?", answer: `For two months after launch we handle small text and photo changes, bug fixes, updates, backups and checks that your forms still deliver. From the third month, care is optional and starts at ${P.care}. You may also edit the site yourself or move it to another developer, because every login and the code are already yours.` },
-    { question: "How do we pay for the website?", answer: "Payments are in INR by UPI or bank transfer, in stages tied to work you can see: an advance to start, a payment after design approval and the balance before launch. The exact split is written into your quote. Domain, hosting and email are paid by you straight to the providers, so nothing is marked up." },
-    { question: "Will our Bharuch website rank on Google?", answer: "It will be built to be found: unique titles, clean URLs, fast pages, schema, a sitemap and Search Console from launch. Rankings themselves depend on competition, content and time, and nobody can guarantee them. Specific product or service pages and a well-maintained Google Business Profile usually bring the earliest enquiries for Bharuch businesses." },
-    { question: "Do you write the content for our pages?", answer: "We can draft English and Hindi copy from your brochures, data sheets and a voice note, and you approve every line. Writing appears as its own line in the quote so you can choose. If you already have final text, send it and that line drops out. Gujarati copy comes from you or your translator." },
-    { question: "Can you redesign our old website without losing enquiries?", answer: "Yes. We list every existing URL, keep pages that already bring visitors, and redirect old addresses to new ones so Google listings and saved links keep working. Business email is moved or kept carefully so no messages are lost. The new site is tested on staging before the old one is switched off." },
+    { question: "Can you build our website in Gujarati?", answer: "Yes, technically. Gujarati pages are built with Unicode text, Gujarati web fonts, a language switcher, separate URLs and the correct language tags. The Gujarati copy itself has to be supplied or approved by you or your translator, because our team writes only English and Hindi. Many Bharuch businesses keep product pages in English and add Gujarati home and contact pages for local customers." },
+    { question: "Who owns the website and domain after it is built?", answer: "You do. The domain, hosting and business email all carry your business name, and their bills are paid by you to the providers. The code is held in a repository open to you. When we hand over, you get all the logins, DNS details and a renewals list, so switching developers later requires no one's permission." },
+    { question: "What does the free maintenance cover?", answer: `In the two months that follow launch, small text and photo changes, bug fixes, updates, backups and checks that forms still deliver are on us. Care after that is optional and priced from ${P.care}. Because the code and every login already belong to you, you can also edit the site yourself or take it to another developer.` },
+    { question: "How do we pay for the website?", answer: "We take payment in INR, by UPI or bank transfer, split into stages that match work you can inspect: an advance at the start, a payment once the design is approved and the balance before launch. Your quote states the exact split. Domain, hosting and email charges are paid by you to the providers themselves, which leaves no room for a markup." },
+    { question: "Will our Bharuch website rank on Google?", answer: "The build is made to be found: every page gets a unique title and a clean URL, loads quickly and carries schema, and a sitemap and Search Console are live from launch. Rankings themselves depend on competition, content and time, and nobody can guarantee them. Specific product or service pages and a well-maintained Google Business Profile usually bring the earliest enquiries for Bharuch businesses." },
+    { question: "Do you write the content for our pages?", answer: "From your brochures, data sheets and a voice note we can draft the English and Hindi copy, and each line waits for your approval. The quote shows writing as a separate line, so taking it is your choice. Already have final text? Send it, and the writing line comes off. Gujarati copy comes from you or your translator." },
+    { question: "Can you redesign our old website without losing enquiries?", answer: "Yes. We start from a full list of your current URLs, hold on to the pages that already bring visitors, and point each old address at its replacement, which keeps Google listings and bookmarked links alive. Business email is moved or kept carefully so no messages are lost. Only after the new site has passed testing on staging do we switch the old one off." },
     { question: "Do you visit plants in Dahej or Ankleshwar for photos?", answer: "No, we do not make site visits. We send a shot list covering the gate, yard, lab, equipment and team, and someone at your unit takes photos on a recent phone, or you hire a local photographer for half a day. We then crop, compress and place every image. Plant safety rules on photography are yours to apply." },
     { question: "What technology will you use for our website?", answer: "For most Bharuch business sites we use a static build, which is fast, secure and cheap to host. If your staff want to post updates themselves we use WordPress, and if dealers or vendors must log in we build a custom web app. We recommend the stack after the first call, based on who edits and how often." },
     { question: "Can you also build an online store for our Bharuch business?", answer: `Yes. Online stores with UPI and card checkout, GST-ready invoices and courier tracking start at ${P.shop} and usually take 4–8 weeks. Many businesses start with a profile site and add a store later on the same domain. Our ecommerce page for Bharuch explains catalogue, payments and shipping in detail.` },
-    { question: "What should we prepare before contacting you?", answer: "Have your domain and email login details ready, or the name of whoever registered them, plus any brochure or product list, your logo files, a few photos and two or three websites you like. If a buyer or plant has asked for specific information, forward that email too, so the new site answers it directly." },
+    { question: "What should we prepare before contacting you?", answer: "Keep the login details for your domain and email at hand, or at least the name of the person who registered them. Add any brochure or product list, your logo files, a few photos and two or three websites you like. If a buyer or plant has asked for specific information, forward that email too, so the new site answers it directly." },
     { question: "Do you handle social media or printing too?", answer: "No. We build and maintain websites, online stores, portals, apps and automation. We do not run social media accounts, print brochures or install hardware. We can add social links, a feed or sharing buttons to the site, and give your designer or printer web-ready logo files if they need them." },
-    { question: "Can three freelance developers handle a big Bharuch project?", answer: "They can handle most business websites, catalogues, stores and portals, and every project is known by all three, so work continues if one person is away. What we do not suit is a programme needing twenty developers at once or staff stationed at your premises. We will tell you on the first call if your project is that size." },
-    { question: "Bharuch me website banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath business website ${P.site} se shuru hoti hai aur aam taur par 1–2 hafte mein live ho jaati hai. Kaam WhatsApp, phone aur video call par hota hai, staging link aap apne phone par dekhte hain. Domain, hosting aur code aapke naam par rehte hain, aur launch ke baad 2 mahine maintenance free hai.` },
-    { question: "Are website development services in Bharuch sold as fixed packages?", answer: `Some providers sell bundles; we price by scope instead. Every figure is a starting point, such as ${P.site} for a business website, and your quote is built line by line from the pages and features agreed on the first call. You see what each part costs and can drop or postpone items before approving anything.` },
+    { question: "Can three freelance developers handle a big Bharuch project?", answer: "Most business websites, catalogues, stores and portals are well within reach, and since all three of us know each project, work carries on when one person is away. A programme that needs twenty developers at the same time, or staff stationed at your premises, is not something we suit. We will tell you on the first call if your project is that size." },
+    { question: "Bharuch me website banwane ka kharcha kitna hai?", answer: `Bharuch ke business ke liye BtechWaleTech ki website ${P.site} se shuru hoti hai, aur zyadatar 1–2 hafte mein live kar di jaati hai. Baat-cheet WhatsApp, phone aur video call par hoti hai, aur staging link aap apne hi phone par khol kar dekhte hain. Domain, hosting aur code teeno aapke naam par rahenge, saath mein launch ke baad 2 mahine ka free maintenance milega.` },
+    { question: "Are website development services in Bharuch sold as fixed packages?", answer: `Some providers sell bundles; we price by scope instead. Each figure is where pricing begins, for example ${P.site} for a business website; the quote itself is put together one line at a time from the pages and features we agree on the first call. You see what each part costs and can drop or postpone items before approving anything.` },
   ],
   related: {
     heading: "More for Bharuch and Gujarat",
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready for a Bharuch website that buyers and plants take seriously?",
-    note: `Send a WhatsApp message with what you sell and who buys it. We book a video call, send an itemised quote in about two working days, and build business sites from ${P.site}, with every account in your name and two months of free maintenance after launch.`,
+    note: `Send a WhatsApp message with what you sell and who buys it. After a video call you get an itemised quote within about two working days. Business sites are built from ${P.site}, all accounts are opened in your name, and the two months after launch include free maintenance.`,
   },
 };
 
