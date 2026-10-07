@@ -11,7 +11,7 @@ const P = {
 const content: FreelanceContent = {
   path: "/website-developer-jaipur/",
   crumb: "Website developer in Jaipur",
-  updated: "2026-10-02",
+  updated: "2026-10-07",
   meta: {
     title: `Website Developer in Jaipur: Sites from ${P.site}`,
     description: `Website developer in Jaipur for gem traders, hotels, institutes and factories: complete business sites from ${P.site}, built remotely, quote in 2 working days.`,
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does a website developer in Jaipur cost, and what do you get for it?",
-    text: `A website developer in Jaipur should hand over a working site, not only a design: planned pages, a mobile-first build, hosting in your name, Search Console and enquiries routed to WhatsApp. With BtechWaleTech, business sites start at ${P.site} and take 1–2 weeks; SEO sites of 299+ pages start at ${P.seoSite} and online stores at ${P.shop}. The first two months of care are free.`,
+    text: `A website developer in Jaipur should hand over a working site, not only a design: planned pages, a mobile-first build, hosting in your name, Search Console and enquiries routed to WhatsApp. For Jaipur owners the BtechWaleTech team quotes from ${P.site} for a business site, usually live in 1–2 weeks, from ${P.seoSite} for a 299+ page SEO site and from ${P.shop} for a store. Care costs nothing for two months after launch.`,
     more: `If the look matters most to you, read our <a href='/website-designer-jaipur/'>website designer in Jaipur</a> guide; if you plan to sell online, start with <a href='/ecommerce-website-development-jaipur/'>ecommerce website development in Jaipur</a>.`,
   },
   snapshot: {
@@ -66,7 +66,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "What we build in Jaipur",
     heading: "Website development work Jaipur businesses ask us for",
-    note: "Each card is a different kind of build with its own scope. On the first call we work out which one you actually need, and sometimes it turns out smaller than you expected.",
+    note: "Each card is a different kind of build with its own scope. Which of them fits your Jaipur business gets settled on the opening call, and the answer is often a smaller build than owners arrive expecting.",
     cards: [
       { name: "Business websites", note: `Pages for what you do, who you serve, price ranges, location and an enquiry form that lands on WhatsApp and email, from ${P.site}.`, href: "/website-developer-for-small-business/", size: "lg" },
       { name: "Gem and jewellery trade sites", note: "Stone and design galleries with lot or design codes, certificate details where you want them shown, and enquiry routes for buyers in other cities and abroad.", href: "/jewellery-website-design/", size: "lg" },
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Website developer prices in Jaipur with us",
-    note: `Prices do not change by locality: a jeweller in Johari Bazaar and a consultant in C-Scheme start from the same figures. A business website of up to 100 pages starts at ${P.site}, an SEO website of 299+ pages at ${P.seoSite}, an online store at ${P.shop}, a portal or custom web app at ${P.software} and an Android or iOS app at ${P.app}. After a short call you get an itemised quote, usually within two working days, showing each page, feature, third-party cost and date. You approve it in writing before any invoice is raised.`,
+    note: `Locality does not move the price: a Johari Bazaar jeweller and a C-Scheme consultant are quoted from one list. On that list, ${P.site} is where a business website of up to 100 pages begins, ${P.seoSite} where a 299+ page SEO website begins and ${P.shop} where a Jaipur online store begins; portals and custom web apps open at ${P.software}, Android or iOS apps at ${P.app}. One short call later, usually inside two working days, an itemised quote reaches you with every page, feature, third-party cost and date on it. No invoice is raised until you have approved that quote in writing.`,
   },
   guideLabel: "Website developer in Jaipur: a practical guide for business owners",
   guide: [
@@ -132,7 +132,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a website developer in Jaipur charge?",
       paragraphs: [
-        `With us, a Jaipur business website starts at ${P.site}, an SEO website of 299+ pages at ${P.seoSite}, an online store at ${P.shop} and a portal or custom web app at ${P.software}. Other developers in the city quote across a wide range, and the spread is rarely about Jaipur itself: it comes from scope, from who actually does the work and from whether anything is included after launch.`,
+        `Our own Jaipur figures are short to state: ${P.site} is the starting point for a business website, ${P.seoSite} for an SEO website of 299+ pages, ${P.shop} for an online store and ${P.software} for a portal or custom web app. Other developers in the city quote across a wide range, and the spread is rarely about Jaipur itself: it comes from scope, from who actually does the work and from whether anything is included after launch.`,
         `These are the questions that push a quote up or down:`,
       ],
       list: [
@@ -143,15 +143,15 @@ const content: FreelanceContent = {
         "Is there an old site whose URLs and Google traffic must be carried over?",
       ],
       after: [
-        `Running costs sit outside the build and you pay them straight to the providers: the yearly domain renewal, hosting and business email. We list them in the quote so the annual total is clear before you commit. A cheap quote that leaves these out, or that registers the domain in the developer's own name, often costs more over three years than an honest one.`,
+        `Three running costs sit outside the build, and each is paid by you straight to its provider: hosting, business email and the domain's yearly renewal. All three are written into the Jaipur quote, which lets you see the annual total before you commit. A cheap quote that leaves these out, or that registers the domain in the developer's own name, often costs more over three years than an honest one.`,
         `For budgets across the country, line by line, see <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
       ],
     },
     {
       id: "process",
-      heading: "How long does it take to build a website, and how does the remote process work?",
+      heading: "How long does a Jaipur website take, and how does building it remotely work?",
       paragraphs: [
-        `Most business sites go live in one to two weeks after your content arrives; stores take four to eight weeks and portals six to twelve. The BtechWaleTech team has no office or staff in Jaipur, so every stage runs over WhatsApp, phone, video calls and a private staging link you can open from the shop, the factory or home.`,
+        `Once your content arrives, a business site is usually live within one to two weeks; an online store needs four to eight weeks and a portal six to twelve. Nobody from the BtechWaleTech team is stationed in Jaipur and there is no office there, so every stage runs over WhatsApp, phone, video calls and a private staging link you can open from the shop, the factory or home.`,
       ],
       subs: [
         { heading: "Days 1–2: the call", text: "You tell us what you sell, who buys and how enquiries come in today. We may share a screen to look at sites you like. A written summary follows on WhatsApp the same day." },
@@ -187,7 +187,7 @@ const content: FreelanceContent = {
       id: "tech",
       heading: "Which platform should a Jaipur business website use?",
       paragraphs: [
-        `Pick the platform by who will edit the site and how often. We recommend one after the first call and write the reason into the quote.`,
+        `Two questions decide the platform: which person at your Jaipur business will edit the site, and how often they will do it. Our recommendation follows the first call, and the quote states the reason for it in writing.`,
       ],
       subs: [
         { heading: "Static site", text: "Fastest and cheapest to host, with very little that can break. Good for clinics, consultants, CAs and manufacturers whose content changes a few times a month, with edits sent to us on WhatsApp." },
@@ -196,7 +196,7 @@ const content: FreelanceContent = {
         { heading: "Next.js or a custom web app", text: `For dealer logins, stock lookups, booking dashboards or anything that stores records. These start at ${P.software}.` },
       ],
       after: [
-        `Hosting follows from the platform and is always in your account. For large ranges, such as a stone dealer with hundreds of lots or a block printer with a thousand prints, we often generate pages from a spreadsheet you already keep, so updating stock means editing rows rather than rebuilding pages. We avoid platforms with heavy yearly licences unless there is a clear reason, and we will say so if your current setup is already fine.`,
+        `Hosting follows from the platform and is always in your account. For large ranges, such as a stone dealer with hundreds of lots or a block printer with a thousand prints, we often generate pages from a spreadsheet you already keep, so updating stock means editing rows rather than rebuilding pages. Platforms that carry heavy yearly licence fees stay off our list unless your case clearly calls for one, and if the setup you run today is already fine we will tell you that too.`,
       ],
     },
     {
@@ -225,8 +225,8 @@ const content: FreelanceContent = {
       id: "languages",
       heading: "Can my Jaipur website be in Hindi as well as English?",
       paragraphs: [
-        `Yes. The BtechWaleTech team writes English and Hindi, so we draft, edit and proofread both versions ourselves. For most Jaipur businesses that covers the people who matter: Hindi for local customers and parents, English for exporters, tourists, corporate buyers and professionals.`,
-        `A bilingual site is more than a translated page. Each language gets its own URLs, for example a /hi/ folder for Hindi, with hreflang tags so Google shows the right version. Menus, buttons, form labels and error messages are translated as well, and Devanagari text is set in a web font such as Noto Sans Devanagari or Mukta from <a href='https://fonts.google.com/' rel='noopener'>Google Fonts</a>, with line height adjusted so matras do not clip.`,
+        `Yes. English and Hindi are both languages the BtechWaleTech team writes in, which means drafting, editing and proofreading of the two versions stays with us. For most Jaipur businesses that covers the people who matter: Hindi for local customers and parents, English for exporters, tourists, corporate buyers and professionals.`,
+        `A bilingual site is more than a translated page. Each language gets its own URLs, for example a /hi/ folder for Hindi, and hreflang tags tell Google which version to show a searcher. Translation also reaches the menus, buttons, form labels and error messages. For the Devanagari text we pick a web font from <a href='https://fonts.google.com/' rel='noopener'>Google Fonts</a>, Mukta or Noto Sans Devanagari for instance, and set the line height so matras do not clip.`,
         `Some Jaipur businesses want more than Hindi and English: a few lines in Rajasthani for a craft brand's story, or French and German pages for a heritage hotel's foreign guests. We build the structure, fonts and SEO for those languages, while you or your translator supply or approve the copy, because we do not write in them.`,
         `Not every site needs two languages. A gem exporter selling abroad may only need English; a coaching institute in Mansarovar probably needs Hindi from the first day.`,
       ],
@@ -235,7 +235,7 @@ const content: FreelanceContent = {
       id: "mobile-whatsapp-upi",
       heading: "Mobile, WhatsApp and UPI: what Jaipur customers expect from a site",
       paragraphs: [
-        `Most visitors to a Jaipur business site arrive on a phone, often from a Google Maps listing or a link forwarded on WhatsApp, and they decide within seconds whether to stay. We design for that phone first and check the desktop afterwards.`,
+        `A phone is where most people first open a Jaipur business site, usually after tapping a Google Maps listing or a link someone forwarded on WhatsApp, and within seconds they have decided whether to stay. We design for that phone first and check the desktop afterwards.`,
       ],
       list: [
         "Pages tried on low-cost Android handsets and slow mobile data, not only on a developer's laptop",
@@ -253,7 +253,7 @@ const content: FreelanceContent = {
       heading: "How do I get my Jaipur business website on Google and in AI answers?",
       paragraphs: [
         `Build the basics in from the first page. Nobody can promise a ranking, but a site without the basics rarely gets a chance to compete. Every site we hand over has unique titles and descriptions, clean URLs, a sitemap, structured data, fast mobile pages tuned for Core Web Vitals, and Search Console set up in your name.`,
-        `For “near me” searches in Jaipur, your Google Business Profile carries much of the load. We match the business name, address and phone between the profile and the site, add LocalBusiness schema and link the two. Google's <a href='https://support.google.com/business/' rel='noopener'>Business Profile help</a> explains verification and categories if you are setting a profile up for the first time.`,
+        `For “near me” searches in Jaipur, your Google Business Profile carries much of the load. We make the business name, address and phone identical on the profile and on the site, link the two and add LocalBusiness schema. Setting a profile up for the first time? Verification and categories are explained in Google's <a href='https://support.google.com/business/' rel='noopener'>Business Profile help</a>.`,
         `After that, depth wins. A jeweller with a page per stone type, a hotel with a page per room and directions from the airport, an institute with a page per course and batch: each gives Google and AI assistants specific text to match. If you serve several Jaipur localities or Rajasthan cities, an SEO website of 299+ pages, from ${P.seoSite}, builds those pages from your own data, and monthly SEO from ${P.seo} keeps them growing. Our <a href='/seo-website-developer/'>SEO website developer</a> page explains the method.`,
         `AI answers quote plain facts: what you do, where in Jaipur, for whom and from what price. We write those sentences clearly on the page.`,
       ],
@@ -262,7 +262,7 @@ const content: FreelanceContent = {
       id: "ownership",
       heading: "Who owns the website after a Jaipur developer finishes it?",
       paragraphs: [
-        `You should own it completely, and with us you do. The domain, hosting, code, content, images and business email are registered to you or your business from the start, and you keep the passwords.`,
+        `Complete ownership should sit with you, and on our Jaipur projects it does. From the first day the domain, hosting, code, content, images and business email are registered under your name or your business's, and the passwords stay with you.`,
         `This matters because websites outlive working relationships. A partner leaves the family business, the relative who registered the domain moves to another city, a developer stops answering calls. Whoever controls the domain controls your email and your site, and owners in that position often end up rebuilding from scratch simply because nobody can log in.`,
         `What you receive at handover:`,
       ],
@@ -281,7 +281,7 @@ const content: FreelanceContent = {
       id: "red-flags",
       heading: "Red flags when hiring a website developer in Jaipur",
       paragraphs: [
-        `Most bad website projects show warning signs before any money changes hands. Walk away, or at least ask harder questions, when you notice these:`,
+        `A website project that will go badly usually gives itself away before a rupee is paid. If a Jaipur developer shows any of the signs below, ask harder questions or simply walk away:`,
       ],
       list: [
         "A single total with no list of pages, features or third-party costs",
@@ -294,7 +294,7 @@ const content: FreelanceContent = {
         "Hosting tied into a yearly bundle you cannot move elsewhere",
       ],
       after: [
-        `Protect yourself with payments in stages linked to work you can see, a written scope, accounts in your name from day one and a clear answer to “what happens after launch?” If an earlier developer disappeared halfway, our note on <a href='/developer-left-project-midway/'>what to do when a developer leaves a project midway</a> explains how to recover access first.`,
+        `Four things protect you: a written scope, stage payments released only against work you can open and see, every account in your name from the first day, and a straight answer when you ask what happens once the site is live. Did an earlier developer vanish halfway? Start with <a href='/developer-left-project-midway/'>our guide for owners whose developer left midway</a>, which covers getting your access back first.`,
         `Remote projects carry one extra risk, drifting communication, which we handle with a single WhatsApp group and a written summary after every call.`,
       ],
     },
@@ -312,8 +312,8 @@ const content: FreelanceContent = {
       id: "after-launch",
       heading: "Website developer in Jaipur: what happens after launch?",
       paragraphs: [
-        `The first two months after launch are covered free: bug fixes, small text and photo changes, tested updates, backups and a look at Search Console once Google starts crawling. This is when real visitors show you what to fix, so it is the most useful time to have help on hand.`,
-        `From the third month, care is optional and starts at ${P.care}. It usually means updates tried on staging before going live, off-site backups in an account you own, uptime and SSL checks, a monthly test of forms and a small allowance of edits sent on WhatsApp. A five-page consultant site may need very little; a hotel changing rates through the tourist season, or an institute posting new batches every month, benefits from regular attention.`,
+        `For two months after your Jaipur site goes live we charge nothing for care. That covers bug fixes, small changes to text and photos, updates tested before release, backups, and a check of Search Console once Google has begun crawling. This is when real visitors show you what to fix, so it is the most useful time to have help on hand.`,
+        `From the third month, care is optional and starts at ${P.care}. It usually means every update is tried on staging first, backups are kept off-site in an account that belongs to you, uptime and SSL are watched, forms get a monthly test and a few WhatsApp edits are included. Very little of that may be needed by a five-page consultant site; a hotel changing rates through the tourist season, or an institute posting new batches every month, benefits from regular attention.`,
         `You can also run the site yourself. Every login and backup is already in your hands, so there is nothing to release. Some owners make small edits in-house and message us only for bigger jobs. Planning a push around Diwali, Teej or the winter tourist months? Tell us early and we will hold risky updates and prepare pages ahead. More detail sits on our <a href='/website-maintenance-freelancer/'>website maintenance</a> page.`,
       ],
     },
@@ -341,7 +341,7 @@ const content: FreelanceContent = {
       id: "cost-by-scope",
       eyebrow: "Starting prices",
       heading: "Website developer in Jaipur: cost by type of site",
-      note: "Starting prices from the BtechWaleTech team. Your quote is itemised after one call and depends on pages, content and integrations.",
+      note: "These are the BtechWaleTech team's starting figures for Jaipur work. After one call you receive an itemised quote shaped by page count, content readiness and integrations.",
       columns: ["Type of site", "Typical Jaipur buyer", "Starts at", "Usual time"],
       rows: [
         ["Business or profile site", "Clinics, consultants, shops, institutes", `From ${P.site}`, "1–2 weeks"],
@@ -414,34 +414,34 @@ const content: FreelanceContent = {
     steps: [
       ["Message us on WhatsApp", "Send your business name, your Jaipur locality and what you want the site to do. Voice notes are fine. We reply with a few questions, usually the same day."],
       ["Have a short call", "A video or phone call to understand your customers, products and how enquiries arrive now. A written summary follows so nothing said on the call gets lost."],
-      ["Get an itemised quote", "A line-by-line list of pages, features, third-party costs and dates, normally within two working days. You approve it in writing before any payment is asked for."],
-      ["Review on staging", "The first pages appear on a private link. Comment from your phone by text or voice note until the direction is right, then we build the rest."],
+      ["Get an itemised quote", "Within about two working days you receive pages, features, third-party costs and dates set out line by line. No payment is requested until you have approved it in writing."],
+      ["Review on staging", "A private link shows you the first pages. Send text or voice-note comments from your phone, and once the direction feels right we build everything else."],
       ["Launch", "We connect your domain, enable SSL, test every page on budget phones and slow data, submit the sitemap and hand over every login with a recorded walkthrough."],
-      ["Two free months", "Fixes, small edits, updates and backups are covered for the first two months after launch. After that, choose optional care or look after the site yourself with the logins you hold."],
+      ["Two free months", "During the two months that follow launch, backups, updates, fixes and small edits cost you nothing. After that, choose optional care or look after the site yourself with the logins you hold."],
     ],
   },
   faqHeading: "Website developer in Jaipur: questions owners ask",
   faqs: [
-    { question: "How much does a website developer in Jaipur charge for a business website?", answer: `With BtechWaleTech, a business website of up to 100 pages starts at ${P.site}, an SEO website of 299+ pages at ${P.seoSite}, an online store at ${P.shop} and a portal at ${P.software}. These are starting prices; the final quote depends on pages, content readiness, languages and features such as bookings or logins. Domain, hosting and email are paid by you directly to the providers.` },
-    { question: "How long does a website developer in Jaipur take to finish a site?", answer: "A business site usually takes one to two weeks once your text and photos are ready. SEO websites take three to five weeks, online stores four to eight and portals six to twelve. The most common delay is waiting for content, so we agree dates for photos and text in the first week and chase them gently on WhatsApp." },
-    { question: "Do you have an office in Jaipur?", answer: "No. BtechWaleTech is three freelance developers working remotely from India, with no office, branch or staff in Jaipur and no site visits. Projects run over WhatsApp, phone and video calls, with a staging link where you see every page before launch. This tends to suit owners who cannot leave the shop during business hours, because calls and reviews fit around customers." },
+    { question: "How much does a website developer in Jaipur charge for a business website?", answer: `For Jaipur businesses our starting prices are ${P.site} for a business website of up to 100 pages, ${P.seoSite} for a 299+ page SEO website, ${P.shop} for an online store and ${P.software} for a portal. Your final quote moves with the number of pages, how ready the content is, the languages needed and extras such as bookings or logins. Domain, hosting and email are paid by you directly to the providers.` },
+    { question: "How long does a website developer in Jaipur take to finish a site?", answer: "Count on one to two weeks for a Jaipur business site, starting from the day your text and photos reach us. An SEO website needs three to five weeks, an online store four to eight and a portal six to twelve. Content that arrives late is the usual cause of delay, so we agree dates for photos and text in the first week and chase them gently on WhatsApp." },
+    { question: "Do you have an office in Jaipur?", answer: "No. The BtechWaleTech team is three freelance developers who work remotely from within India; we keep no office, branch or staff in Jaipur and make no site visits. Projects run over WhatsApp, phone and video calls, with a staging link where you see every page before launch. This tends to suit owners who cannot leave the shop during business hours, because calls and reviews fit around customers." },
     { question: "Can you build a website for a jewellery or gemstone business in Jaipur?", answer: "Yes. Gem and jewellery sites usually need galleries organised by stone, design or collection, lot or design codes so enquiries are precise, certificate details where you are happy to show them, and enquiry routes for trade buyers. Some dealers prefer private pages for verified buyers. We plan what to show publicly with you before any page is built." },
     { question: "Do you make websites for hotels and guesthouses in Jaipur?", answer: "Yes. Hotel and haveli sites need room pages, fast photo galleries, directions from the airport and railway station, and either a booking enquiry form or a link to the booking engine you already use. We write the main pages in English, add Hindi where useful, and build foreign-language pages from copy your translator supplies or approves." },
     { question: "Can you build a coaching institute website in Jaipur?", answer: "Yes. Coaching sites usually need course and batch pages, fee enquiry forms, faculty roles, a notice board for schedules and results shown only with student consent. WordPress often suits institutes because staff can post updates themselves. Hindi pages matter for parents, and we write those ourselves since the team works in Hindi and English. Admission enquiries can go straight to the counsellor's WhatsApp." },
-    { question: "Will my Jaipur website be in Hindi?", answer: "It can be. The team writes English and Hindi, so we can draft both. Hindi pages get their own URLs, hreflang tags, translated menus and forms, and a Devanagari web font that renders cleanly on cheap phones. For Rajasthani or foreign-language pages, you or your translator supply or approve the text and we handle the build." },
-    { question: "Who owns the domain, hosting and code?", answer: "You do. The domain, hosting, code, content and business email are registered in your name or your business name from the start. At handover you receive every login, a sheet listing renewal dates, the code or a full backup and a recorded walkthrough. If you later move to another developer, nothing needs transferring except passwords." },
-    { question: "How do I pay for website development?", answer: "In INR by UPI or bank transfer, in stages set out in your written quote and linked to work you can see on the staging site. Nothing is billed before you approve the quote in writing. Third-party costs such as domain, hosting and business email are paid by you directly to those providers, so they stay in your name." },
-    { question: "Will my website rank on Google in Jaipur?", answer: "We build it to be found, with unique titles, clean URLs, fast mobile pages, structured data, a sitemap and Search Console, plus a Business Profile that matches the site. Rankings depend on competition, content and time, and nobody can honestly guarantee them. Specific pages for each product, room or course usually bring the first useful local enquiries." },
+    { question: "Will my Jaipur website be in Hindi?", answer: "It can be. The team writes English and Hindi, so we can draft both. Each Hindi page is given its own URL and hreflang tag, its menus and forms are translated, and the Devanagari web font is chosen to render cleanly on cheap phones. Pages in Rajasthani or a foreign language are built by us from text that you or your translator supply or approve." },
+    { question: "Who owns the domain, hosting and code?", answer: "You do. From the start, your name or your Jaipur business's name is on the domain, the hosting, the code, the content and the business email. Handover brings you all the logins, a sheet of renewal dates, a recorded walkthrough and either the code or a full backup. Should you move to another developer later, passwords are the only thing that changes hands." },
+    { question: "How do I pay for website development?", answer: "By UPI or bank transfer in INR. The written quote splits the amount into stages, and each stage falls due only when the matching work is visible on your staging link. We bill nothing until the quote has your written approval. Domain, hosting and business email are third-party costs that you pay to the providers yourself, which keeps all three in your name." },
+    { question: "Will my website rank on Google in Jaipur?", answer: "We build it to be found: every page gets its own title, URLs stay clean, mobile pages load fast, structured data and a sitemap are in place, Search Console is connected and your Business Profile matches the site. Where a Jaipur site ranks then depends on competition, content and time, so no honest developer can promise a position. Specific pages for each product, room or course usually bring the first useful local enquiries." },
     { question: "Can I update the website myself after launch?", answer: "Yes, if you choose WordPress or another CMS-based build. We keep the admin simple, record a training video and give staff logins with only the access they need. On static sites you send edits to us on WhatsApp instead, which is often quicker for businesses that change content only a few times a month and would rather not learn an admin panel." },
     { question: "Do I need a website if I already have a Google Business Profile?", answer: "Usually yes. A Business Profile gets you onto Maps and local results, but it holds limited text, you do not control its layout, and it cannot show a full catalogue, room list or course schedule. A website gives Google and AI assistants detailed pages to match, and the profile can then link straight to it." },
-    { question: "What should I prepare before talking to a website developer in Jaipur?", answer: "Have your domain and email login details ready, or the name of whoever registered them, your logo, some product or premises photos, any brochure or catalogue PDF and two or three websites you like. A list of the questions customers ask you most often is especially useful, because those answers usually become your strongest pages." },
-    { question: "Can you redesign my existing Jaipur website without losing Google traffic?", answer: "Yes. We list every current URL, keep the pages that already bring visitors, and set up redirects from old addresses to new ones so Google traffic and saved links keep working. Business email is protected during the switch, and the new site is reviewed on staging before it replaces the old one on your domain." },
-    { question: "Is a freelance website developer in Jaipur reliable enough for a business site?", answer: "Reliability comes from process more than headcount. All three of us know each project, so work continues if one person is away; scope, payments and approvals are written down; and every account is in your name. That suits business sites, catalogues, stores and portals. Very large programmes needing many developers suit a big agency better." },
-    { question: "Can you take photos of my shop or products?", answer: "No, we do not visit premises. Most owners take usable photos on a recent phone after we share a short guide on light, background and angles. For jewellery, gemstones or a heritage hotel, a professional photographer often pays off; you hire one locally and share the files, and we crop, compress and organise them for the site." },
-    { question: "What happens after the two free months of maintenance?", answer: `You choose. Optional care starts at ${P.care} and covers tested updates, backups, monitoring and an allowance of small edits. You can also handle edits yourself or hand the site to another developer, because every login and backup is already yours. Nothing renews or changes automatically when the free period ends, and you can start care later if the site grows busier.` },
-    { question: "Do you also build apps and software for Jaipur businesses?", answer: `Yes, as separate projects. Android and iOS apps start at ${P.app}, portals and custom web apps at ${P.software}, and AI automation at ${P.ai}. Many owners start with a website, then add a dealer portal, a student app or a booking dashboard once enquiries grow, built by the same three developers who already know their products, data and customers.` },
-    { question: "Do you work with businesses outside Jaipur city?", answer: "Yes. Because the work is remote, businesses in Chomu, Bagru, Kotputli, Ajmer, Kishangarh, Sikar, Alwar, Tonk and the rest of Rajasthan get the same process, starting prices and ownership terms. We also build for businesses across India and abroad, quoting in INR within India and in USD for international clients. Nobody needs to travel at any stage, wherever you are." },
-    { question: "Jaipur mein website banwane ka kharcha kitna aata hai?", answer: `BtechWaleTech ke saath business website ${P.site} se shuru hoti hai aur text aur photos milne ke baad aam taur par 1–2 hafte mein live ho jaati hai. Online store ${P.shop} se shuru hota hai. Ek chhoti call ke baad do working days mein itemised quote milta hai, domain aur hosting aapke naam par rehte hain, aur launch ke baad 2 mahine maintenance free hai.` },
+    { question: "What should I prepare before talking to a website developer in Jaipur?", answer: "Bring the login details for your domain and email, or at least the name of the person who registered them. Add your logo, a few photos of products or premises, a brochure or catalogue PDF if one exists, and links to two or three sites you like. Most useful of all is a list of the questions Jaipur customers keep asking you, because those answers usually become your strongest pages." },
+    { question: "Can you redesign my existing Jaipur website without losing Google traffic?", answer: "Yes. Every URL on the current site is listed first, pages that already bring visitors are kept, and each old address is redirected to its new one, so saved links and Google traffic carry on working. Your business email is left untouched through the switch, and you review the new Jaipur site on staging before it takes the old one's place on your domain." },
+    { question: "Is a freelance website developer in Jaipur reliable enough for a business site?", answer: "Process makes a developer reliable far more than headcount does. Each project is known to all three of us, so one person being away does not stop the work; scope, payments and approvals exist in writing; and you hold every account in your own name. That suits business sites, catalogues, stores and portals. Very large programmes needing many developers suit a big agency better." },
+    { question: "Can you take photos of my shop or products?", answer: "No, we do not visit premises. A recent phone is enough for most owners once we have sent a short guide covering light, background and angles. For jewellery, gemstones or a heritage hotel, a professional photographer often pays off; you hire one locally and share the files, and we crop, compress and organise them for the site." },
+    { question: "What happens after the two free months of maintenance?", answer: `That is your decision. Paid care is optional, begins at ${P.care} and includes monitoring, backups, updates tested before release and a set number of small edits. Doing the edits yourself, or passing the Jaipur site to a different developer, is just as easy because the logins and backups already belong to you. The end of the free period triggers no automatic renewal or change, and care can begin later if the site grows busier.` },
+    { question: "Do you also build apps and software for Jaipur businesses?", answer: `Yes, each as its own project. Starting prices are ${P.app} for an Android or iOS app, ${P.software} for a portal or custom web app and ${P.ai} for AI automation. Many Jaipur owners begin with a website and, once enquiries grow, add a dealer portal, a student app or a booking dashboard, with the same three developers building it because they already know the products, data and customers.` },
+    { question: "Do you work with businesses outside Jaipur city?", answer: "Yes. Because the work is remote, businesses in Chomu, Bagru, Kotputli, Ajmer, Kishangarh, Sikar, Alwar, Tonk and the rest of Rajasthan get the same process, starting prices and ownership terms. Clients elsewhere in India and overseas work with us too; Indian quotes are in INR and international ones in USD. At no stage does anyone have to travel, wherever you are." },
+    { question: "Jaipur mein website banwane ka kharcha kitna aata hai?", answer: `Jaipur ke business ke liye BtechWaleTech team website ${P.site} se banana shuru karti hai; aapka text aur photos aa jaayein to site aksar 1–2 hafte mein live ho jaati hai. Online store ka shuruaati kharcha ${P.shop} hai. Pehle ek chhoti si call hoti hai, phir kareeb do working days mein itemised quote aapke paas pahunchta hai. Domain aur hosting shuru se aapke hi naam par register hote hain, aur launch ke baad pehle 2 mahine ki maintenance ka koi charge nahin lagta.` },
   ],
   related: {
     heading: "More Jaipur and Rajasthan website guides",
@@ -464,7 +464,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Looking for a website developer in Jaipur? Start with a WhatsApp message",
-    note: `Tell us what your business does, where in Jaipur you are and what the site should achieve. We reply quickly, hold a short call and send an itemised quote within about two working days. Business sites start at ${P.site}, every account is registered in your name, and the first two months after launch are maintained free.`,
+    note: `Tell us what your business does, where in Jaipur you are and what the site should achieve. A quick reply comes first, then a short call, and an itemised quote follows in roughly two working days. A business site starts at ${P.site}; the accounts all sit in your name, and maintenance for the two months after launch is on us.`,
   },
 };
 

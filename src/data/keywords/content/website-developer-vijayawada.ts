@@ -11,7 +11,7 @@ const P = {
 const content: FreelanceContent = {
   path: "/website-developer-vijayawada/",
   crumb: "Website developer in Vijayawada",
-  updated: "2026-10-02",
+  updated: "2026-10-07",
   meta: {
     title: `Website Developer in Vijayawada, Websites from ${P.site}`,
     description: `Website developer in Vijayawada for business sites from ${P.site}: Telugu-ready pages, built remotely on a staging link, accounts in your name, 2 months free care.`,
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does a website developer in Vijayawada cost, and what do you get?",
-    text: `A website developer in Vijayawada should deliver a complete site: a page plan, mobile design, Telugu and English pages, hosting in your name, launch and fixes afterwards. With the BtechWaleTech team, business websites start at ${P.site} and go live in 1–2 weeks; SEO websites of 299+ pages start at ${P.seoSite} and online stores at ${P.shop}. Two months of maintenance are free.`,
+    text: `A website developer in Vijayawada should hand over a finished site: page plan, phone-first design, Telugu and English pages, hosting registered to you, the launch and repairs after it. The BtechWaleTech team builds business websites from ${P.site}, live within 1–2 weeks. A 299+ page SEO site for a large Auto Nagar catalogue starts at ${P.seoSite}, an online store at ${P.shop}, and the first two months of maintenance cost nothing.`,
     more: `Businesses on the north coast can read <a href='/website-developer-visakhapatnam/'>website developer in Visakhapatnam</a>; firms with branches in Telangana can see <a href='/website-developer-hyderabad/'>website developer in Hyderabad</a>.`,
   },
   snapshot: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a website developer in Vijayawada costs with us",
-    note: `Prices are the same for a shop on Besant Road, a unit in Auto Nagar or a clinic in Moghalrajpuram. A business website of up to 100 pages starts at ${P.site}; an SEO website of 299+ pages at ${P.seoSite}; an online store at ${P.shop}; a portal or custom web app at ${P.software}; an Android or iOS app at ${P.app}. After one call you receive an itemised quote, usually within two working days, listing pages, features, third-party costs and dates. Domain and hosting are paid by you to the providers, and nothing is billed before your written approval.`,
+    note: `Prices are the same for a shop on Besant Road, a unit in Auto Nagar or a clinic in Moghalrajpuram. For Vijayawada buyers the starting figures are ${P.site} for a business website of up to 100 pages, ${P.seoSite} when a Governorpet wholesaler or a college needs an SEO website of 299+ pages, ${P.shop} for an online store, ${P.software} for a dealer portal or other custom web app, and ${P.app} for an Android or iOS app. One call is enough for us to prepare your quote; it normally reaches you inside two working days and sets out each page, feature, date and third-party cost line by line. You pay the domain registrar and the hosting provider yourself, and we raise no bill until you have approved the quote in writing.`,
   },
   guideLabel: "Website developer in Vijayawada: the complete guide",
   guide: [
@@ -138,9 +138,9 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a website developer in Vijayawada charge?",
       paragraphs: [
-        `With us, a business website of up to 100 pages starts at ${P.site} (about ${P.siteUsd}). Larger builds follow the same logic: an SEO website of 299+ pages from ${P.seoSite}, an online store from ${P.shop}, and a portal or custom web app, such as a dealer ordering system for an Auto Nagar distributor, from ${P.software}.`,
+        `Our starting price for a Vijayawada business website of up to 100 pages is ${P.site}, roughly ${P.siteUsd}. Bigger jobs are priced the same way, from a published starting figure: an SEO website of 299+ pages begins at ${P.seoSite}, a store that sells online at ${P.shop}, and a portal or custom web app, such as a dealer ordering system for an Auto Nagar distributor, at ${P.software}.`,
         `Other quotes in Vijayawada vary widely, and comparing totals alone is misleading. Line up what each quote includes and the differences usually come from four places: how many pages and products the site carries; whether your text and photos are ready or need sorting; whether Telugu pages are included; and what happens after launch. A quote that leaves out hosting setup, Search Console or fixes after launch only looks cheaper.`,
-        `Running costs are separate and small but real: domain renewal, hosting and business email, paid by you directly to the providers so they stay in your name. We list them in the quote so the yearly total is visible before you approve.`,
+        `Running costs are separate and small but real: domain renewal, hosting and business email, paid by you directly to the providers so they stay in your name. Each of these appears as its own line in our quote, which means a Vijayawada owner knows the full yearly bill well ahead of approval.`,
         `For worked budgets across India, our guide to <a href='/website-making-cost-in-india/'>website making cost in India</a> breaks down typical scopes, and the <a href='/pricing/'>pricing page</a> lists every starting plan. Your own figure comes as an itemised quote, normally within two working days of a call.`,
       ],
     },
@@ -148,11 +148,11 @@ const content: FreelanceContent = {
       id: "process",
       heading: "How long does a website take, and how does a remote build run step by step?",
       paragraphs: [
-        `A business website usually takes one to two weeks once your content is ready; SEO websites three to five weeks, stores four to eight and web apps six to twelve. The BtechWaleTech team works remotely from India, with no office or staff in Vijayawada, so every step runs on your phone:`,
+        `With content in hand, a Vijayawada business website normally needs one to two weeks; an SEO website needs three to five, a store four to eight and a web app six to twelve. The BtechWaleTech team works remotely from India, with no office or staff in Vijayawada, so every step runs on your phone:`,
       ],
       list: [
         "<strong>Call:</strong> a phone or video call in English or Hindi about your customers, products and how enquiries arrive today",
-        "<strong>Quote:</strong> an itemised quote with pages, features, third-party costs and dates, usually within two working days",
+        "<strong>Quote:</strong> normally inside two working days you get a line-by-line quote covering pages, features, dates and what third parties will charge",
         "<strong>First pages:</strong> after your written approval, the home page and one inner page appear on a private staging link",
         "<strong>Feedback:</strong> you reply on WhatsApp by text or voice note, or we change things live on a screen-share",
         "<strong>Build:</strong> remaining pages, forms, maps and catalogue; Telugu pages go in once you approve the text",
@@ -180,7 +180,7 @@ const content: FreelanceContent = {
         `Choose by who will change the content and how often. We recommend a platform after the first call and write the reason into the quote.`,
       ],
       list: [
-        "<strong>Static site:</strong> fastest and cheapest to host; ideal for profile sites that change a few times a month, with edits sent to us on WhatsApp",
+        "<strong>Static site:</strong> the quickest to load and the least costly to host; a good fit for a profile site that changes only now and then, where you WhatsApp the edits to us",
         "<strong>WordPress:</strong> right when your staff will post admission notices, results, offers or doctor updates themselves; we keep plugins few and record a training video",
         "<strong>Shopify or WooCommerce:</strong> for stores selling online with UPI, card and COD checkout",
         `<strong>Custom web app:</strong> for dealer ordering, student portals or appointment systems that store records, from ${P.software}`,
@@ -212,8 +212,8 @@ const content: FreelanceContent = {
       heading: "Telugu and English websites for Vijayawada customers",
       paragraphs: [
         `Most Vijayawada businesses benefit from Telugu pages, because most of their customers think and search in Telugu, even if they read English comfortably. A hospital, a school, a retail shop or a coaching centre usually needs both languages; a manufacturer selling to other states may lead with English and keep Telugu for a few key pages.`,
-        `The BtechWaleTech team writes English and Hindi. Telugu copy is supplied or approved by you or your translator, and we take care of everything technical: Unicode text instead of images, readable fonts such as Noto Sans Telugu, Hind Guntur or Ramabhadra from <a href='https://fonts.google.com/' rel='noopener'>Google Fonts</a>, extra line height so vowel signs and conjuncts never clip, and testing on low-cost phones.`,
-        `Structure matters for search. Each language gets its own URLs, such as a /te/ folder, with hreflang tags so Google shows the right version to the right searcher. Menus, buttons, form labels and error messages are translated too; a Telugu page with an English-only form looks unfinished.`,
+        `The BtechWaleTech team writes English and Hindi. The Telugu wording comes from you or your translator, or is approved by you before it goes live, while the technical side is ours: Unicode text instead of images, readable fonts such as Noto Sans Telugu, Hind Guntur or Ramabhadra from <a href='https://fonts.google.com/' rel='noopener'>Google Fonts</a>, extra line height so vowel signs and conjuncts never clip, and testing on low-cost phones.`,
+        `Structure matters for search. Telugu and English each live at their own addresses, for example under a /te/ folder, and hreflang tags tell Google which version suits which searcher. We translate the small things as well, including menus, buttons, form labels and error messages, because an English-only enquiry form at the bottom of a Telugu page makes the whole site feel half done.`,
         `A practical tip: many people search in English words even when they prefer Telugu pages, for example the name of a course, a medical department or a vehicle part. We keep those terms visible on Telugu pages where your translator agrees, so the page matches how people actually search.`,
       ],
     },
@@ -241,10 +241,10 @@ const content: FreelanceContent = {
       id: "ownership",
       heading: "Who owns the website when a website developer in Vijayawada finishes?",
       paragraphs: [
-        `You should own all of it, and with us you do from day one: the domain, hosting, code, content, images, business email, Search Console and analytics are registered to you or your business, and you hold the passwords.`,
+        `Everything should belong to you, and on our Vijayawada projects it does from the first day: domain, hosting, code, content and images, along with business email, Search Console and analytics, are registered to you or your business, and the passwords stay with you.`,
         `This protects you from the most common local horror story: a developer registered the domain years ago, stopped answering, and the business cannot change its own website or email. Family businesses in particular change hands between generations and partners; the website should never depend on one outsider.`,
-        `At handover you receive admin logins for domain, hosting and site with two-step verification on; the code in a repository you own, or a full WordPress backup; a sheet listing every service, login location and renewal date; a recorded video on editing pages and reading enquiries; and Search Console access under your Google account.`,
-        `If a previous developer still controls your domain, we help you request a transfer before building anything new. Our guide on what to do when a <a href='/developer-left-project-midway/'>developer left the project midway</a> walks through the recovery steps. Once everything sits in your name, you are free to keep us for care, manage the site yourselves or hire anyone else.`,
+        `Handover gives you admin logins for the domain, hosting and site, each protected by two-step verification; the code in a repository under your control, or a complete WordPress backup; a sheet that lists each service with where to log in and when it renews; a recorded video on editing pages and reading enquiries; and Search Console access under your Google account.`,
+        `If a previous developer still controls your domain, we first help you ask for it to be transferred, and only then start a new build. The recovery steps are set out in our guide for owners whose <a href='/developer-left-project-midway/'>developer left the project midway</a>. Once everything sits in your name, you are free to keep us for care, manage the site yourselves or hire anyone else.`,
       ],
     },
     {
@@ -264,15 +264,15 @@ const content: FreelanceContent = {
         "Hosting bundled into a yearly package you cannot inspect or move",
       ],
       after: [
-        `Protect yourself with a written scope, staged payments tied to work you can see, accounts in your name and a clear answer to “who fixes problems after launch?” Remote work has one extra risk, communication drift, and we manage it with a single WhatsApp group, a written summary after each call and a staging link that always shows the latest version.`,
-        `A bought theme is not a red flag in itself, as long as the quote says so and the price reflects it; our comparison of a <a href='/custom-website-vs-template/'>custom website versus a template</a> explains when a theme is the sensible choice. What matters is honesty about what you are paying for.`,
+        `Four things protect a Vijayawada buyer: a scope in writing, payments released in stages against work you have actually seen, every account under your own name, and a plain answer to “who fixes problems after launch?” Remote work has one extra risk, communication drift; our answer is one WhatsApp group for the project, a written note after every call and a staging link where the newest version is always visible.`,
+        `A bought theme is not a red flag in itself, provided the quote says so and the price reflects it; when a theme is the sensible route is covered in our comparison of a <a href='/custom-website-vs-template/'>custom website versus a template</a>. What matters is honesty about what you are paying for.`,
       ],
     },
     {
       id: "worked-example",
       heading: "Worked example: an auto spares dealer in Auto Nagar",
       paragraphs: [
-        `This is a hypothetical scenario to show how a project runs, not a past client and not a promised result. Say a spares dealer in Auto Nagar supplies mechanics and fleet owners across Krishna and Guntur districts. Orders come by phone and WhatsApp, and customers often send a photo of a worn part asking “do you have this?”`,
+        `What follows is an invented Auto Nagar scenario that shows how a project would run; it is neither a past client nor a promise of results. Say a spares dealer in Auto Nagar supplies mechanics and fleet owners across Krishna and Guntur districts. Orders come by phone and WhatsApp, and customers often send a photo of a worn part asking “do you have this?”`,
         `On the first call we would agree the site's job: list the parts the dealer actually stocks by vehicle make, model and part number, show brands carried, and make enquiring as quick as possible. Each part page would carry a WhatsApp button with the part number pre-filled. English would lead for part names, with Telugu pages for the home page, about page and how-to-order instructions, using text the owner approves.`,
         `The quote would start from ${P.site}, with the catalogue generated from the dealer's existing stock spreadsheet. If the list ran into thousands of parts, the SEO website plan from ${P.seoSite} would fit better, and we would explain the difference before anything was approved. The home page and one category page would appear on staging in the first week, the full catalogue in the second.`,
         `At launch we would connect Search Console, add the dealer's Google Business Profile details and structured data, and hand over every login. During the two free maintenance months we would update prices and add parts as stock changed. No visit to Auto Nagar would be needed at any stage.`,
@@ -282,8 +282,8 @@ const content: FreelanceContent = {
       id: "maintenance",
       heading: "What happens after launch? Website maintenance in Vijayawada",
       paragraphs: [
-        `The first two months after launch are free: bug fixes, small text, photo and price changes, tested updates, backups and a look at Search Console once Google starts crawling. Real visitors find issues no test catches, such as a form field people misread, and this window exists to fix them.`,
-        `From the third month, care is optional and starts at ${P.care}. A care plan typically includes updates tested on staging first, backups in an account you own, uptime and SSL monitoring, monthly form checks and a small allowance of edits sent on WhatsApp. A simple profile site may need little; a college posting notices during admissions, or a dealer whose prices change weekly, benefits from regular care.`,
+        `For two months after launch we charge nothing for bug fixes, small changes to text, photos and prices, updates tested before they go live, backups, and a check of Search Console once Google starts crawling. Real visitors find issues no test catches, such as a form field people misread, and this window exists to fix them.`,
+        `Care becomes optional from month three, with plans starting at ${P.care}. Such a plan usually covers updates tried on staging before they go live, backups kept in an account that belongs to you, monitoring of uptime and SSL, a monthly test of your forms and a small quota of edits you send over WhatsApp. A simple profile site may need little; a college posting notices during admissions, or a dealer whose prices change weekly, benefits from regular care.`,
         `Plan for busy seasons. Admissions, Sankranti and Dasara, when the Kanaka Durga temple draws large crowds, are moments when schools, shops, hotels and travel operators need fresh pages. Tell us a few weeks ahead and we will prepare banners and pages and hold risky updates until the rush passes.`,
         `You can also manage the site yourselves. Because the code, logins and backups are already yours, nothing needs to be released. Many owners make small edits in-house and call us for bigger changes. Details are on our <a href='/website-maintenance-freelancer/'>website maintenance freelancer</a> page.`,
       ],
@@ -313,7 +313,7 @@ const content: FreelanceContent = {
       id: "cost-by-scope",
       eyebrow: "Starting prices",
       heading: "Website developer in Vijayawada: cost by scope",
-      note: "Starting prices from the BtechWaleTech team. The final quote is itemised after one call and depends on pages, content, languages and integrations.",
+      note: "These are the BtechWaleTech team's starting prices for Vijayawada work. After one call you get an itemised quote whose total depends on page count, content, languages and integrations.",
       columns: ["What you need", "Typical Vijayawada buyer", "Starts at", "Time to launch"],
       rows: [
         ["Business or profile website (up to 100 pages)", "Clinics, consultants, institutes, small manufacturers", `From ${P.site}`, "1–2 weeks"],
@@ -345,7 +345,7 @@ const content: FreelanceContent = {
       id: "timeline",
       eyebrow: "Timeline",
       heading: "Business website timeline, from first call to launch",
-      note: "Timelines start after your written approval and assume content arrives on the agreed dates.",
+      note: "The clock starts once you approve the quote in writing, and these Vijayawada timelines hold only if text, photos and Telugu copy reach us on the dates we agreed.",
       columns: ["Stage", "What happens", "Your part"],
       rows: [
         ["Days 1–3", "Call and itemised quote", "Explain your business; approve the quote"],
@@ -360,7 +360,7 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Across Vijayawada",
     heading: "Vijayawada areas and the websites businesses there need",
-    note: "We work remotely, so every part of the city and the region gets the same process and prices. These notes describe what businesses in each area most often ask a website developer to build.",
+    note: "Our work is remote, so a shop in One Town, a unit in Auto Nagar and a college in Guntur all get identical prices and the same way of working. The notes below describe the site a website developer is most often asked to build in each area.",
     cards: [
       { name: "Benz Circle", note: "Showrooms, clinics, offices and institutes around one of the city's busiest junctions need polished sites, clear directions and fast enquiry buttons." },
       { name: "Governorpet and Besant Road", note: "Textile, jewellery and retail shops need catalogue pages, festival offers and WhatsApp ordering for customers who shop by phone before visiting." },
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
       { name: "Tadepalli and Mangalagiri", note: "Capital-region builders, consultants and IT units need credible English and Telugu sites, project pages, approvals they hold and clear contact routes." },
       { name: "Gannavaram", note: "Businesses near the airport and the IT campus area need professional sites, from hotels and logistics firms to suppliers serving larger employers." },
       { name: "Nunna", note: "Mango traders and agro businesses around the market need simple sites, seasonal price or availability updates and enquiry forms for bulk buyers." },
-      { name: "Guntur", note: "Chilli and cotton traders, hospitals and colleges in the neighbouring city get the same remote build, starting prices and two months of free care.", href: "/guntur/" },
+      { name: "Guntur", note: "Chilli and cotton traders, hospitals and colleges in neighbouring Guntur are built for remotely on Vijayawada's starting prices, with the same two free months of care.", href: "/guntur/" },
       { name: "Tenali", note: "Traders, schools and small manufacturers in Tenali need straightforward Telugu and English sites with maps, timings and enquiry buttons that work on any phone.", href: "/tenali/" },
       { name: "Machilipatnam", note: "Port-town businesses, schools and shops on the coast need simple, fast sites that match their Google Business Profiles and reach customers along the coast.", href: "/machilipatnam/" },
     ],
@@ -383,36 +383,36 @@ const content: FreelanceContent = {
   process: {
     heading: "How to start with a website developer in Vijayawada from our team",
     steps: [
-      ["Send a WhatsApp message", "Tell us your business, your area of Vijayawada and what the website should do. A few lines are enough; we usually reply the same day with a couple of questions."],
+      ["Send a WhatsApp message", "Tell us your business, your area of Vijayawada and the job you want the website to do. Three or four lines will do; a reply with a few questions normally comes back the same day."],
       ["Have a short call", "A phone or video call about your customers, products or courses, and how enquiries reach you now. A written summary of what we agreed follows on WhatsApp."],
       ["Get an itemised quote", "Pages, features, Telugu pages, third-party costs and dates, normally within two working days. Nothing is billed before your written approval of the quote."],
-      ["Review on staging", "The first pages appear on a private link. You check them on your phone and reply by text or voice note until the design feels right."],
-      ["Launch in your name", "The full site is tested on budget phones and slow networks, connected to your domain with SSL and submitted to Google Search Console under your own account."],
-      ["Two months of free care", "Every login and a training video are handed over, and fixes, small edits, updates and backups are covered for two months after launch."],
+      ["Review on staging", "We put the first pages on a private staging link. Open it on your own phone, then send text or voice-note comments until the design feels right for your Vijayawada customers."],
+      ["Launch in your name", "We test the finished site on low-cost Android phones and slow mobile data, connect it to your domain with SSL, and submit it to Google Search Console under your own account."],
+      ["Two months of free care", "You receive every login plus a recorded training video, and for two months after launch we cover fixes, small edits, updates and backups at no charge."],
     ],
   },
   faqHeading: "Website developer in Vijayawada: frequently asked questions",
   faqs: [
-    { question: "How much does a website developer in Vijayawada charge?", answer: `With the BtechWaleTech team, a business website of up to 100 pages starts at ${P.site}, an SEO website of 299+ pages at ${P.seoSite}, an online store at ${P.shop} and a portal or custom web app at ${P.software}. These are starting prices; your itemised quote depends on pages, Telugu content, catalogue size and integrations. Domain and hosting are paid directly to the providers.` },
-    { question: "How long does it take to build a website in Vijayawada?", answer: "A business website usually goes live in one to two weeks once your text and photos are ready. SEO websites take three to five weeks, online stores four to eight and custom web apps six to twelve. Content is the usual delay, so we agree dates for photos, price lists and Telugu text in the first week." },
-    { question: "Do you have an office in Vijayawada?", answer: "No. BtechWaleTech is three freelance developers working remotely from India, with no office, branch or staff in Vijayawada and no site visits. Calls, screen-share reviews, WhatsApp and a staging link cover every stage, and you approve each step from your phone, whether you are at your shop, college or clinic, and nobody spends time travelling to meetings." },
+    { question: "How much does a website developer in Vijayawada charge?", answer: `In Vijayawada the BtechWaleTech team quotes from these starting points: ${P.site} for a business website of up to 100 pages, ${P.seoSite} for a 299+ page SEO website such as a full spares catalogue, ${P.shop} for an online store, and ${P.software} for a portal or custom web app. Treat each as a floor, not a final bill: the itemised quote moves with page count, Telugu content, catalogue size and integrations. Domain and hosting are paid directly to the providers.` },
+    { question: "How long does it take to build a website in Vijayawada?", answer: "Once text and photos are in hand, a Vijayawada business website is normally live within one to two weeks. Allow three to five weeks for an SEO website, four to eight for an online store and six to twelve for a custom web app. Late content causes most delays, which is why dates for photos, price lists and Telugu text are agreed in the first week." },
+    { question: "Do you have an office in Vijayawada?", answer: "No. The BtechWaleTech team is three freelance developers who work remotely from elsewhere in India; we keep no office, branch or staff in Vijayawada and make no site visits. Every stage happens over calls, screen-share reviews, WhatsApp and a staging link, so you approve each step from your phone, whether you are at your shop, college or clinic, and nobody spends time travelling to meetings." },
     { question: "Can you build a Telugu website?", answer: "Yes. Telugu pages are built with Unicode text, readable Telugu web fonts, comfortable line height, a language switcher, separate URLs and hreflang tags, and tested on budget phones. Our team writes English and Hindi, so the Telugu copy is supplied or approved by you or your translator before it goes live, and we place it exactly as approved." },
     { question: "Can you make a parts catalogue for my Auto Nagar business?", answer: "Yes. Parts can be listed by vehicle make, model, part number and brand, with photos of real stock and a WhatsApp button that pre-fills the part number. For large stock lists we generate pages from your spreadsheet, so price and stock updates mean editing rows rather than rebuilding pages. Searchable part numbers also help mechanics find you on Google." },
     { question: "Do you build websites for colleges and coaching centres?", answer: "Yes. Education sites usually need course pages, batch calendars, fee enquiry and admission forms, faculty roles and results presented as your management approves. Enquiries can land in a sheet your front office checks daily, and WordPress lets your staff post notices themselves during admission season without waiting for a developer or paying for each small change." },
     { question: "Can you build a hospital or clinic website?", answer: "Yes. We build department pages, doctor profiles, OPD timings, appointment requests and clear directions for patients travelling from nearby districts, in English and Telugu if you supply the Telugu text. Medical wording stays exactly as your doctors approve, while we handle the structure, speed, branch pages and search setup. Enquiries can go to the front desk on WhatsApp or into a shared sheet." },
     { question: "Can wholesale traders take orders through the website?", answer: "Yes, in two ways. A catalogue website from the starting plan lets retailers see products with codes and minimum quantities and order on WhatsApp. A full B2B store or dealer portal adds logins, trade prices and online ordering; that is quoted from the store or custom web app plans, depending on what you need. We help you decide on the first call." },
     { question: "Can customers pay by UPI on my website?", answer: `Yes. A UPI payment link or simple payment page suits fees, advances and part payments. A full online store, from ${P.shop}, adds UPI, card and COD checkout through a payment provider registered in your business name, so money settles directly into your own account. We test each payment flow on real phones before launch, including failed payments.` },
-    { question: "Will I own my website and domain?", answer: "Yes. The domain, hosting, code, content and business email are registered to you from the start. At handover you receive every login, a renewal sheet, the code or a full backup and a training video. If you ever change developers, there is nothing to transfer except passwords, and nobody can hold your site back." },
+    { question: "Will I own my website and domain?", answer: "Yes. The domain, hosting, code, content and business email are registered to you from the start. Handover in Vijayawada means you are given all the logins, a sheet of renewal dates, a training video and either the code or a complete backup. Should you move to a different developer later, only the passwords change hands, and nobody can hold your site back." },
     { question: "How will my business show up on Google Maps?", answer: "Through an accurate, verified Google Business Profile whose name, address, phone and timings match your website exactly, with real photos and the right categories. We set up the website side, including structured data and a map, and give you a checklist for the profile. Rankings depend on competition and reviews, and nobody can guarantee them, but an accurate profile is the best start." },
-    { question: "How do I pay for the website?", answer: "In INR by UPI or bank transfer, in stages agreed in your written quote and tied to work you can see on the staging site. Nothing is billed before you approve the quote. Domain, hosting and other third-party costs are paid by you directly to those providers, so the accounts stay in your name and renew under your control." },
-    { question: "What should I prepare before the first call?", answer: "Your logo, a list of products, services or courses, a few photos, any brochure or price list, and the login details for your domain or the name of whoever registered it. Two or three websites you like are helpful, and so is a list of questions customers ask most, since those usually become your best pages and FAQ answers." },
-    { question: "Can you redesign my old Vijayawada website?", answer: "Yes. We list your current pages, keep the ones that bring visitors, and redirect old addresses to new ones so Google traffic and saved links keep working. Your business email is protected during the switch, and the new site is tested on staging before it replaces the old one, usually late in the evening when traffic is lowest." },
-    { question: "Can my staff update the website after launch?", answer: "Yes, if you choose WordPress. We set up separate staff logins with only the access each person needs and record a short training video in English or Hindi. For static sites, you send changes to us on WhatsApp, which many owners prefer when updates happen only a few times a month and nobody wants another password." },
-    { question: "What happens after the two months of free maintenance?", answer: `You decide. Optional care starts at ${P.care} and covers tested updates, backups, monitoring and an allowance of small edits. You can also manage the site yourselves or hire another developer, since every login and backup is already yours. Nothing renews automatically when the free period ends, and no fee applies for leaving.` },
-    { question: "Do you build websites in Guntur, Mangalagiri and the Amaravati region?", answer: "Yes. Businesses in Guntur, Tenali, Tadepalli, Mangalagiri and across the Andhra Pradesh Capital Region get the same remote process, starting prices and ownership terms as clients in Vijayawada. Builders and consultants in the capital region often need project pages and bilingual sites, which we plan on the first call and list separately in the quote." },
-    { question: "Do you also build apps and software for Vijayawada businesses?", answer: `Yes, as separate projects. Android and iOS apps start at ${P.app}, custom web apps such as dealer ordering or student portals at ${P.software}, and AI automation at ${P.ai}. Most clients begin with the website and add an app or system once enquiries grow, with the same team that already knows their business and customers.` },
-    { question: "Is a remote freelance team reliable for a Vijayawada business?", answer: "Reliability comes from process. All three of us know each project, so work continues if one person is away; scope, payments and approvals are written down; and every account is in your name. For very large programmes, or if you need someone at your premises weekly, a local agency with an office suits you better." },
-    { question: "Vijayawada me website banwane ka kharcha kitna aata hai?", answer: `BtechWaleTech team ke saath business website ${P.site} se shuru hoti hai, aur content ready hone ke baad 1–2 hafte mein live ho jaati hai. Telugu pages aapki di hui copy se bante hain. Online store ${P.shop} se shuru hota hai. Domain aur hosting aapke naam par rehte hain, aur launch ke baad 2 mahine maintenance free hai.` },
+    { question: "How do I pay for the website?", answer: "You pay in rupees, by UPI or bank transfer, in the stages written into your quote, and each stage falls due only when the matching work is visible on the staging site. We bill nothing until the quote has your approval. The domain, hosting and any other third-party charges go straight from you to those providers, so the accounts stay in your name and renew under your control." },
+    { question: "What should I prepare before the first call?", answer: "Your logo, a list of products, services or courses, a few photos, any brochure or price list, and your domain login, or at least the name of the person who registered it. It also helps to bring two or three websites you admire and the questions Vijayawada customers ask you most often, since those usually become your best pages and FAQ answers." },
+    { question: "Can you redesign my old Vijayawada website?", answer: "Yes. We start by listing your current pages and noting which ones bring visitors; those stay, and each old address is redirected to its new one, which keeps Google traffic and saved links alive. Business email is kept safe while the switch happens. The new site is checked on staging first and then swapped in for the old one, normally late in the evening, when few Vijayawada customers are browsing." },
+    { question: "Can my staff update the website after launch?", answer: "Yes, if you choose WordPress. Each staff member gets a separate login limited to what that person needs, and we record a short training video in English or Hindi. With a static site you simply WhatsApp the changes to us, an arrangement many Vijayawada owners like when updates happen only a few times a month and nobody wants another password." },
+    { question: "What happens after the two months of free maintenance?", answer: `That is your choice. A paid care plan is optional and begins at ${P.care}; it includes tested updates, backups, monitoring and a set number of small edits. Because all the logins and backups already belong to you, you are equally free to run the site in-house or hand it to a different developer. When the two free months finish nothing renews by itself, and leaving costs nothing.` },
+    { question: "Do you build websites in Guntur, Mangalagiri and the Amaravati region?", answer: "Yes. Businesses in Guntur, Tenali, Tadepalli, Mangalagiri and the rest of the Andhra Pradesh Capital Region work with us exactly as Vijayawada clients do: the build is remote, the starting prices match and the ownership terms are identical. Builders and consultants in the capital region often need project pages and bilingual sites, which we plan on the first call and list separately in the quote." },
+    { question: "Do you also build apps and software for Vijayawada businesses?", answer: `Yes, each as its own project. An Android or iOS app starts at ${P.app}, a custom web app such as dealer ordering or a student portal at ${P.software}, and AI automation at ${P.ai}. Most clients begin with the website and add an app or system once enquiries grow, with the same team that already knows their business and customers.` },
+    { question: "Is a remote freelance team reliable for a Vijayawada business?", answer: "It is reliable when the process is sound. Each Vijayawada project is known to all three of us, so one person being away does not stop the work; scope, payments and approvals are put in writing; and you hold every account in your own name. For very large programmes, or if you need someone at your premises weekly, a local agency with an office suits you better." },
+    { question: "Vijayawada me website banwane ka kharcha kitna aata hai?", answer: `Vijayawada ke business ke liye BtechWaleTech team ${P.site} se website banana shuru karti hai, aur aapka content mil jaane par site 1–2 hafte mein live ho jaati hai. Telugu pages aapki di hui copy se bante hain. Auto Nagar ki dukaan ho ya Governorpet ka showroom, online store ki shuruaati keemat ${P.shop} hai. Domain aur hosting aapke hi naam par register hote hain, aur launch ke baad pehle 2 mahine ka maintenance free rehta hai.` },
   ],
   related: {
     heading: "More Vijayawada and Andhra Pradesh website guides",
@@ -434,7 +434,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Looking for a website developer in Vijayawada? Start on WhatsApp",
-    note: `Message us with your business, your area of Vijayawada and what the website should achieve. We usually reply the same day, run a short call and send an itemised quote within about two working days. Business websites start at ${P.site}, every account is registered to you, and the first two months after launch are maintained free.`,
+    note: `Message us with your business, your area of Vijayawada and the result you want from the website. A reply normally arrives the same day; a short call follows, and your itemised quote is ready roughly two working days later. A Vijayawada business website starts at ${P.site}, each account is opened in your name, and we maintain the site free for two months after it goes live.`,
   },
 };
 

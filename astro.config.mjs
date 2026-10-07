@@ -1,11 +1,29 @@
 import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
-import { statSync } from "fs";
+import { readdirSync, readFileSync } from "fs";
 import { join } from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = fileURLToPath(new URL(".", import.meta.url));
+
+// Sitemap lastmod = each page's own `updated` date (the one shown on the page and in its schema).
+// Pages without one get no lastmod: stamping every URL with the build time teaches Google to ignore the field.
+const contentSets = [
+  ["src/data/keywords/content", (slug) => `/${slug}/`],
+  ["src/data/cities/content", (slug) => `/${slug}/`],
+  ["src/data/gujarat/content", (slug) => `/gujarat/${slug}/`],
+  ["src/data/bhiwadi/content", (slug) => `/bhiwadi-rajasthan/${slug}/`],
+  ["src/data/locations/content", (slug) => `/${slug.replaceAll("--", "/")}/`],
+  ...readdirSync(join(__dirname, "src/data/keywords/countries")).map((country) => [`src/data/keywords/countries/${country}`, (slug) => `/${country}/${slug}/`]),
+];
+const updatedByPath = new Map();
+for (const [dir, toPath] of contentSets) {
+  for (const file of readdirSync(join(__dirname, dir)).filter((f) => f.endsWith(".ts"))) {
+    const updated = readFileSync(join(__dirname, dir, file), "utf8").match(/\bupdated: "(\d{4}-\d{2}-\d{2})"/)?.[1];
+    if (updated) updatedByPath.set(toPath(file.slice(0, -3)), updated);
+  }
+}
 
 export default defineConfig({
   site: "https://btechwaletech.in",
@@ -20,20 +38,8 @@ export default defineConfig({
       serialize(item) {
         const pathname = new URL(item.url).pathname;
 
-        // Try to get file modification time for lastmod
-        try {
-          // Convert URL path to file path
-          let filePath = pathname;
-          if (filePath.endsWith("/")) filePath = filePath + "index";
-          if (!filePath.endsWith(".astro")) filePath = filePath + ".astro";
-
-          const fullPath = join(__dirname, "src", "pages", filePath);
-          const stats = statSync(fullPath);
-          item.lastmod = stats.mtime.toISOString();
-        } catch (e) {
-          // Fallback to current date if file not found
-          item.lastmod = new Date().toISOString();
-        }
+        const updated = updatedByPath.get(pathname);
+        if (updated) item.lastmod = updated;
 
         // Homepage - highest priority
         if (pathname === "/") {

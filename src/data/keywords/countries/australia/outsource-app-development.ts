@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "Outsource app development",
   updated: "2026-09-25",
   meta: {
-    title: `Outsource App Development Safely: Apps from ${P.app}`,
+    title: `Outsource App Development Australia: Apps from ${P.app}`,
     description: `Outsource app development from Australia safely: a clear spec, milestone payments, IP assignment in writing and a steady AEST/IST call rhythm. Apps from ${P.app}.`,
     keywords: [
       "outsource app development", "outsource app development australia", "outsourcing app development", "how to outsource app development",

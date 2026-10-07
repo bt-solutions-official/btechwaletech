@@ -9,3 +9,6 @@
 /bhiwadi-rajasthan/software-development-company/ /bhiwadi-rajasthan/software-development-services/ 301
 /bhiwadi-rajasthan/it-company /bhiwadi-rajasthan/it-solutions/ 301
 /bhiwadi-rajasthan/it-company/ /bhiwadi-rajasthan/it-solutions/ 301
+
+# Common sitemap URL crawlers try
+/sitemap.xml /sitemap-index.xml 301

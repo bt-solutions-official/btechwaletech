@@ -2,11 +2,38 @@
 import CityPage from "@components/city/CityPage.astro";
 import cities from "@data/cities/cities.json";
 import type { CityContent, CityListing } from "@data/cities/types";
+import keywordPlan from "@data/keywords/keywords.json";
+import gujaratPlan from "@data/gujarat/pages.json";
+import { existsSync } from "node:fs";
+
+type Link = { name: string; href: string };
+
+// Website-development pages written for one city (batch-3 keyword pages and /gujarat/ pages), by that city's slug,
+// so the city page links to them. Place names that differ from the slugs in cities.json are mapped here.
+const citySlugOf: Record<string, string> = {
+  bangalore: "bengaluru", trivandrum: "thiruvananthapuram", mangalore: "mangaluru", trichy: "tiruchirappalli",
+  hubli: "hubli-dharwad", prayagraj: "allahabad", goa: "panaji", morbi: "morvi", mehsana: "mahesana",
+};
+function cityGuides() {
+  const guides = new Map<string, Link[]>();
+  const add = (place: string | undefined, keyword: string, href: string, file: string) => {
+    if (!place || !existsSync(file)) return;
+    const key = place.toLowerCase().replace(/\s+/g, "-");
+    const slug = citySlugOf[key] ?? key;
+    guides.set(slug, [...(guides.get(slug) ?? []), { name: keyword[0].toUpperCase() + keyword.slice(1), href }]);
+  };
+  for (const k of keywordPlan as { slug: string; keyword?: string; place?: string; batch?: number }[]) {
+    if (k.batch === 3 && k.keyword) add(k.place, k.keyword, `/${k.slug}/`, `src/data/keywords/content/${k.slug}.ts`);
+  }
+  for (const p of gujaratPlan) add(p.place, p.keyword, `/gujarat/${p.slug}/`, `src/data/gujarat/content/${p.slug}.ts`);
+  return guides;
+}
 
 // A page is only generated once its hand-written content file exists, so no thin pages ship.
 export function getStaticPaths() {
   const modules = import.meta.glob<{ default: CityContent }>("../data/cities/content/*.ts", { eager: true });
   const list = cities as CityListing[];
+  const guides = cityGuides();
   return Object.values(modules).map(({ default: content }) => {
     const city = list.find((c) => c.slug === content.slug);
     if (!city) throw new Error(`City content "${content.slug}" has no entry in cities.json`);
@@ -16,17 +43,18 @@ export function getStaticPaths() {
       .filter((c): c is CityListing => Boolean(c && built.has(c.slug)));
     const sameState = list.filter((c) => c.state === city.state && c.slug !== city.slug && built.has(c.slug)).slice(0, 12);
     const links = [...new Map([...nearby, ...sameState].map((c) => [c.slug, { name: c.name, href: `/${c.slug}/` }])).values()];
-    return { params: { city: city.slug }, props: { city, content, links } };
+    return { params: { city: city.slug }, props: { city, content, links, guides: (guides.get(city.slug) ?? []).slice(0, 16) } };
   });
 }
 
 interface Props {
   city: CityListing;
   content: CityContent;
-  links: { name: string; href: string }[];
+  links: Link[];
+  guides: Link[];
 }
 
-const { city, content, links } = Astro.props;
+const { city, content, links, guides } = Astro.props;
 const path = `/${city.slug}/`;
 ---
 
@@ -37,4 +65,5 @@ const path = `/${city.slug}/`;
   crumbs={[{ label: "India", href: "/india/" }, { label: city.name, href: path }]}
   content={content}
   links={links}
+  guides={guides}
 />

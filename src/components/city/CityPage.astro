@@ -21,9 +21,11 @@ interface Props {
   crumbs: BreadcrumbItem[];
   content: CityContent;
   links: { name: string; href: string }[];
+  /** Website-development pages written for this place, linked by their own titles. */
+  guides?: { name: string; href: string }[];
 }
 
-const { name, state, areaType = "City", path, crumbs, content, links } = Astro.props;
+const { name, state, areaType = "City", path, crumbs, content, links, guides = [] } = Astro.props;
 const city = { name, state };
 const url = canonicalUrl(path);
 
@@ -410,6 +412,21 @@ const webPageSchema = {
       </div>
     </div>
   </section>
+
+  <!-- ===================== WEBSITE GUIDES ===================== -->
+  {guides.length > 0 && (
+    <section class="locations" aria-labelledby="guides-heading">
+      <div class="section-wrap">
+        <div class="section-head">
+          <p class="eyebrow">Website development</p>
+          <h2 id="guides-heading">Website guides for {city.name} businesses</h2>
+        </div>
+        <div class="city-cloud">
+          {guides.map((g) => <a class="city-chip" href={g.href}>{g.name}</a>)}
+        </div>
+      </div>
+    </section>
+  )}
 
   <!-- ===================== NEARBY ===================== -->
   {links.length > 0 && (
