@@ -8,32 +8,30 @@ import { existsSync } from "node:fs";
 
 type Link = { name: string; href: string };
 
-// Website-development pages written for one city (batch-3 keyword pages and /gujarat/ pages), by that city's slug,
-// so the city page links to them. Place names that differ from the slugs in cities.json are mapped here.
-const citySlugOf: Record<string, string> = {
-  bangalore: "bengaluru", trivandrum: "thiruvananthapuram", mangalore: "mangaluru", trichy: "tiruchirappalli",
-  hubli: "hubli-dharwad", prayagraj: "allahabad", goa: "panaji", morbi: "morvi", mehsana: "mahesana",
-};
-function cityGuides() {
+// A page is only generated once its hand-written content file exists, so no thin pages ship.
+// Astro runs getStaticPaths in its own scope: only imports are visible, so its helpers live inside it.
+export function getStaticPaths() {
+  const modules = import.meta.glob<{ default: CityContent }>("../data/cities/content/*.ts", { eager: true });
+  const list = cities as CityListing[];
+
+  // Website-development pages written for one city (batch-3 keyword pages and /gujarat/ pages), by that city's slug,
+  // so the city page links to them. Place names that differ from the slugs in cities.json are mapped here.
+  const citySlugOf: Record<string, string> = {
+    bangalore: "bengaluru", trivandrum: "thiruvananthapuram", mangalore: "mangaluru", trichy: "tiruchirappalli",
+    hubli: "hubli-dharwad", prayagraj: "allahabad", goa: "panaji", morbi: "morvi", mehsana: "mahesana",
+  };
   const guides = new Map<string, Link[]>();
-  const add = (place: string | undefined, keyword: string, href: string, file: string) => {
+  const addGuide = (place: string | undefined, keyword: string, href: string, file: string) => {
     if (!place || !existsSync(file)) return;
     const key = place.toLowerCase().replace(/\s+/g, "-");
     const slug = citySlugOf[key] ?? key;
     guides.set(slug, [...(guides.get(slug) ?? []), { name: keyword[0].toUpperCase() + keyword.slice(1), href }]);
   };
   for (const k of keywordPlan as { slug: string; keyword?: string; place?: string; batch?: number }[]) {
-    if (k.batch === 3 && k.keyword) add(k.place, k.keyword, `/${k.slug}/`, `src/data/keywords/content/${k.slug}.ts`);
+    if (k.batch === 3 && k.keyword) addGuide(k.place, k.keyword, `/${k.slug}/`, `src/data/keywords/content/${k.slug}.ts`);
   }
-  for (const p of gujaratPlan) add(p.place, p.keyword, `/gujarat/${p.slug}/`, `src/data/gujarat/content/${p.slug}.ts`);
-  return guides;
-}
+  for (const p of gujaratPlan) addGuide(p.place, p.keyword, `/gujarat/${p.slug}/`, `src/data/gujarat/content/${p.slug}.ts`);
 
-// A page is only generated once its hand-written content file exists, so no thin pages ship.
-export function getStaticPaths() {
-  const modules = import.meta.glob<{ default: CityContent }>("../data/cities/content/*.ts", { eager: true });
-  const list = cities as CityListing[];
-  const guides = cityGuides();
   return Object.values(modules).map(({ default: content }) => {
     const city = list.find((c) => c.slug === content.slug);
     if (!city) throw new Error(`City content "${content.slug}" has no entry in cities.json`);
