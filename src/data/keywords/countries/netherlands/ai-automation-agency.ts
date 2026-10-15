@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "eu ai act chatbot transparency", "how much does ai automation cost netherlands", "ai automation agency amsterdam",
       "ai automation agency rotterdam", "ai automation utrecht", "ai automation eindhoven", "ai automation agency near me netherlands",
       "offshore ai automation team", "what can ai automate for a small business", "ai workflow automation dutch sme",
+      "hire ai automation in the Netherlands", "freelance ai automation Netherlands",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const kanhangad: CityContent = {
   meta: {
     title: "IT Services in Kanhangad | Web, Apps & AI from ₹10,000",
     description:
-      "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Kanhangad traders, Gulf-family businesses, Bekal homestays, clinics and colleges.",
+      "Kanhangad Malayalam websites, mobile apps, local SEO and WhatsApp bots for traders, Gulf-family businesses, Bekal homestays and clinics. Stores from ₹50,000.",
     keywords: [
       "IT services in Kanhangad",
       "IT services team in Kanhangad",
@@ -29,6 +29,10 @@ const kanhangad: CityContent = {
       "Kanhangad website cheyyan",
       "കാഞ്ഞങ്ങാട് വെബ്സൈറ്റ് ഡിസൈൻ",
       "Nileshwar Kanhangad app developer",
+      "Kanhangad website designer",
+      "web development company Kanhangad",
+      "hire freelance developer Kanhangad",
+      "Kerala SEO",
     ],
   },
   hero: {

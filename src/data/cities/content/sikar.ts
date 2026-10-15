@@ -7,7 +7,7 @@ const sikar: CityContent = {
   meta: {
     title: "IT Services in Sikar: Websites, Apps, SEO & AI",
     description:
-      "Websites, Hindi SEO and WhatsApp automation for Sikar coaching institutes, hostels, onion traders, hospitals and Khatu Shyam hotels. Sites from ₹10,000 onwards.",
+      "Websites, Hindi SEO and WhatsApp automation for Sikar coaching institutes, hostels, onion traders, hospitals and Khatu Shyam hotels. Websites from ₹10,000.",
     keywords: [
       "website development team in Sikar",
       "website designer Sikar",
@@ -24,6 +24,17 @@ const sikar: CityContent = {
       "website design Shekhawati",
       "freelance web developer Sikar",
       "सीकर वेबसाइट डिजाइन",
+      "web development company Sikar",
+      "hire freelance web developer Sikar",
+      "Rajasthan SEO services",
+      "Sikar me website kaise banwaye",
+      "Sikar website banwane ka kharcha",
+      "coaching institutes website design Sikar",
+      "Sikar schools website",
+      "schools website design Sikar",
+      "website design Piprali Road Sikar",
+      "website design Nawalgarh Road Sikar",
+      "website design Jaipur Road Sikar",
     ],
   },
   hero: {

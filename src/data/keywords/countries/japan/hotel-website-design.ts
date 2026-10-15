@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Hotel Website Design Japan: Booking Sites from ${P.site}`,
-    description: `Hotel website design Japan: fast multilingual sites for hotels, ryokan and guesthouses that win direct bookings from foreign guests, from ${P.site}. Quote in 2 days.`,
+    description: `Hotel website design Japan: fast multilingual sites for hotels, ryokan and guesthouses that win direct bookings from foreign guests, from ${P.site}.`,
     keywords: [
       "hotel website design japan", "ryokan website design", "guesthouse website japan", "hotel website japan english",
       "multilingual hotel website", "direct booking website hotel japan", "how to get more direct bookings hotel", "reduce ota commission japan",
@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "tl-lincoln website", "google hotel free booking links", "hotel schema markup", "multi currency hotel website",
       "hotel website cost japan", "onsen ryokan website", "hotel web design kyoto", "hotel web design tokyo",
       "hotel website osaka", "ryokan website hakone", "inn website design near me", "japan", "旅館 ホームページ 制作", "ホテル ホームページ 多言語",
+      "hire hotel website design in Japan", "freelance hotel website design Japan",
     ],
   },
   hero: {

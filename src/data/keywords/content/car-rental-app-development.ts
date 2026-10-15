@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "self drive car rental software India", "car rental app Flutter", "hourly car rental app", "car rental app development near me",
       "car rental app development Goa", "car rental app development Bangalore", "car rental app development Jaipur", "self drive car app banwana hai",
       "car rental admin panel development", "car rental app with immobiliser", "how much does it cost to make a car rental app",
+      "best car rental app development in India",
+      "car rental app development services",
     ],
   },
   hero: {
@@ -60,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Hardware", value: "Works with GPS trackers you buy; we integrate their API, we do not fit devices" },
       { label: "Timeline", value: "6–10 weeks for the app; tracker work can add 2–3 weeks" },
       { label: "Payments to us", value: "UPI or bank transfer, staged against approved milestones" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -222,7 +224,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The source code sits in a repository under your account, the backend runs in a cloud account billed to you, and the apps are published under your developer accounts.`,
         `This matters more for rental than for most apps, because the database holds licence scans, trip histories and payment records. If a developer hosts that on their own server, you cannot move without their cooperation. With our builds, the admin credentials, database access and deployment steps are written down and handed over at launch, and two teammates besides the lead developer already know the code.`,
-        `Two months of free maintenance follow launch: bug fixes, OS updates, small changes to rules. After that, maintenance continues from ${P.care} a month if you want it, or your own developer can take over with the handover notes.`,
+        `Two months of free maintenance follow launch: bug fixes, OS updates, small changes to rules. After that, maintenance continues from ${P.care} if you want it, or your own developer can take over with the handover notes.`,
       ],
     },
     {
@@ -258,7 +260,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `An app does not find customers on its own; most first bookings start from a Google search such as “self drive car rental near me” or “car rental Goa”, and increasingly from answers in AI assistants. You need a fast website that feeds the same booking engine.`,
         `We build city pages, pickup-point pages and car-model pages with clear prices from your tariff engine, LocalBusiness and FAQ schema, and a verified Google Business Profile for each pickup point you actually operate from. AI search tools tend to quote pages that answer questions directly, such as the deposit amount, the documents needed, fuel policy and the kilometre allowance, so we put those answers in plain sentences on each page.`,
-        `Nobody can guarantee rankings. What you can control is speed, clarity and honest, specific information. A matching <a href='/car-rental-website-design/'>car rental website</a> starts from ${P.seoSite} for 299+ SEO pages, and ongoing <a href='/services/seo-services/'>SEO work</a> starts from ${P.seo} a month.`,
+        `Nobody can guarantee rankings. What you can control is speed, clarity and honest, specific information. A matching <a href='/car-rental-website-design/'>car rental website</a> starts from ${P.seoSite} for 299+ SEO pages, and ongoing <a href='/services/seo-services/'>SEO work</a> starts from ${P.seo}.`,
       ],
     },
     {
@@ -306,7 +308,7 @@ const content: FreelanceContent = {
         ["Established, 20+ cars", "Above plus staff inspection app and tracker map", `${P.software} upwards`, "8–12 weeks"],
         ["Multi-city or franchise", "City-level pricing, branch logins, consolidated reports", `${P.software} upwards`, "10–14 weeks"],
         ["Host marketplace", "Owner onboarding, earnings, payouts, service reminders", "Quoted after scoping", "Second phase"],
-        ["After launch", "Fixes, OS updates, rule changes", `2 months free, then ${P.care}/month`, "Ongoing"],
+        ["After launch", "Fixes, OS updates, rule changes", `2 months free, then ${P.care}`, "Ongoing"],
       ],
       hideSm: [3],
     },
@@ -373,7 +375,7 @@ const content: FreelanceContent = {
       ["Lock tariff and deposit rules", "In the first week we write down every pricing and deposit rule with you, because the booking engine, bills and refunds all depend on them."],
       ["Test builds on your phone", "You install test versions of the customer and staff apps and try them with a real car. Feedback goes straight to the developers on WhatsApp."],
       ["Pilot, then publish", "A handful of real rentals run through the app with your staff. After fixes, we publish to Google Play and the App Store in your own accounts."],
-      ["Hand over and support", "You receive code, logins and deployment notes. Two months of free maintenance follow; later care starts from " + P.care + " a month if you want it."],
+      ["Hand over and support", "You receive code, logins and deployment notes. Two months of free maintenance follow; later care starts from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Car rental app development: questions fleet owners ask",
@@ -391,7 +393,7 @@ const content: FreelanceContent = {
     { question: "Will the app work for bike and scooter rentals too?", answer: "Yes. The same modules apply, with different licence classes, smaller deposits, helmet add-ons and shorter tariff blocks. Mixed fleets are common in tourist towns, so the tariff engine and inspection checklist can differ by vehicle category within one app." },
     { question: "Who owns the car rental app and customer data?", answer: "You do. The code sits in your repository, the backend runs in your cloud account, and the apps are listed under your own Google Play and App Store developer accounts. Customer documents and trip histories stay in your database. We hand over logins and deployment notes at launch." },
     { question: "Do I need both Android and iOS apps?", answer: "Most renters in India use Android, but corporate and premium customers often use iPhones. A single Flutter or React Native codebase covers both for little extra effort. If budget is tight, launch on Android and as a web app first, then publish on iOS once bookings grow." },
-    { question: "What ongoing costs should I budget for after launch?", answer: `Cloud hosting, map usage, SMS or WhatsApp messages, any KYC service fees, your tracker vendor’s subscription, the one-time US$25 Google Play fee and Apple’s US$99 yearly membership. These are paid directly by you. Maintenance from us is free for two months after launch and then starts at ${P.care} a month if you want it.` },
+    { question: "What ongoing costs should I budget for after launch?", answer: `Cloud hosting, map usage, SMS or WhatsApp messages, any KYC service fees, your tracker vendor’s subscription, the one-time US$25 Google Play fee and Apple’s US$99 yearly membership. These are paid directly by you. Maintenance from us is free for two months after launch and then starts at ${P.care} if you want it.` },
     { question: "How do you handle traffic challans that arrive after a trip?", answer: "The admin panel lets you search bookings by car number and date and time, showing who had the vehicle, their documents and tracker history for that window. You can then raise a charge against the customer’s deposit or send a payment link, with the challan image attached to the booking record." },
     { question: "Can customers extend a booking from the app?", answer: "Yes. The app checks whether the car is free for the extra period, shows the added fare under your tariff rules, and takes payment before confirming. If the car is already booked after the current trip, it can offer an alternative car or ask the customer to return on time." },
     { question: "Can private car owners list vehicles in my app?", answer: "A host module lets owners register cars, upload documents, see bookings and track earnings. You decide the revenue share and payout schedule. It adds scope and responsibility, including checking vehicle papers and insurance, so most fleets add it as a second phase once their own cars run smoothly." },

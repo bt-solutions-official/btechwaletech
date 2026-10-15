@@ -21,6 +21,8 @@ const content: FreelanceContent = {
       "off-licence online wine sales nz", "remote sales alcohol nz", "wine shipping nz website",
       "how much does a winery website cost", "marlborough winery website", "hawke's bay winery website",
       "central otago winery website", "winery seo nz", "wine trade portal", "winery website examples",
+      "hire winery website design in New Zealand", "freelance winery website design New Zealand", "winery website design Auckland",
+      "winery website design Wellington", "winery website design New Zealand",
     ],
   },
   hero: {

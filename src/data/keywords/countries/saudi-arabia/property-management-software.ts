@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "vat on commercial rent saudi arabia software", "rent reminder whatsapp saudi", "arabic property management system",
       "compound management software", "commercial leasing software saudi arabia", "property management app for tenants",
       "property management software developer near me",
+      "hire property management software in Saudi Arabia", "freelance property management software Saudi Arabia",
     ],
   },
   hero: {

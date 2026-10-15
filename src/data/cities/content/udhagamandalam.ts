@@ -7,7 +7,7 @@ const udhagamandalam: CityContent = {
   meta: {
     title: "IT Services in Ooty | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp booking automation for Ooty hotels, homestays, tea and chocolate sellers, schools and Nilgiris growers.",
+      "Websites, apps, local SEO and WhatsApp booking for Ooty hotels, homestays, tea and chocolate sellers, schools and Nilgiris growers. Websites from ₹10,000.",
     keywords: [
       "IT services in Ooty",
       "IT services team in Ooty",
@@ -29,6 +29,12 @@ const udhagamandalam: CityContent = {
       "Ooty me website banwana",
       "Ooty-la website seiya",
       "ஊட்டி வெப்சைட் டிசைன்",
+      "Udhagamandalam website designer",
+      "website cost in Udhagamandalam",
+      "web development company Udhagamandalam",
+      "hire freelance web developer Udhagamandalam",
+      "The Nilgiris SEO services",
+      "website designer The Nilgiris",
     ],
   },
   hero: {

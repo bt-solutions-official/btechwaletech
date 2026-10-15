@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.7041, lng: 77.1025 },
   meta: {
-    title: "Freelance IT Services & Software Developers in Delhi",
+    title: "Delhi IT Services: Wholesale Trade, Clinics & Exporters",
     description:
-      "Freelance IT services in Delhi across all 11 districts: custom software, apps, AI automation, dashboards, SEO and support. Starting prices listed, quote in 2 days.",
+      "Freelance IT services in Delhi across all 11 districts: custom software, apps, AI automation and dashboards. Starting prices listed, quote in 2 days.",
     keywords: [
       "iOS app development Delhi",
       "iPhone app developers Delhi",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "software for Chandni Chowk traders",
       "दिल्ली में आईटी सेवाएं",
       "Delhi mein software developer",
+      "Delhi website designer",
+      "website cost in Delhi",
+      "IT company in Delhi",
+      "Delhi SEO services",
+      "hire developer Delhi",
+      "wholesale trade software in Delhi",
     ],
   },
   hero: {

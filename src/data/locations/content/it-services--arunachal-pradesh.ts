@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.218, lng: 94.7278 },
   meta: {
-    title: "Freelance IT Services in Arunachal Pradesh: Apps & AI",
+    title: "Arunachal Pradesh IT Services: Apps & AI",
     description:
-      "Freelance IT services in Arunachal Pradesh: tourism booking systems, software, Android and iOS apps, AI automation and SEO for Itanagar, Tawang, Pasighat and beyond.",
+      "Freelance IT services in Arunachal Pradesh: tourism booking systems, software, plus Android and iOS apps. Websites from ₹10,000, quote in two working days.",
     keywords: [
       "IT services in Arunachal Pradesh",
       "software development team in Arunachal Pradesh",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT support Pasighat Tawang Ziro",
       "अरुणाचल प्रदेश में वेबसाइट डिजाइन",
       "अरुणाचल प्रदेश सॉफ्टवेयर डेवलपर",
+      "Arunachal Pradesh website designer",
+      "website cost in Arunachal Pradesh",
+      "IT company in Arunachal Pradesh",
+      "Arunachal Pradesh SEO services",
+      "hire developer Arunachal Pradesh",
+      "homestays software in Arunachal Pradesh",
+      "tour software in Arunachal Pradesh",
+      "civil contractors software in Arunachal Pradesh",
+      "schools software in Arunachal Pradesh",
+      "website developer Itanagar Arunachal Pradesh",
     ],
   },
   hero: {

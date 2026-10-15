@@ -7,7 +7,7 @@ const bhavnagar: CityContent = {
   meta: {
     title: "Bhavnagar Website Design & SEO | From ₹10,000",
     description:
-      "Websites, SEO and WhatsApp automation for Bhavnagar diamond units, rolling mills, Alang traders and shops. Starting prices published, domain and code in your name.",
+      "Bhavnagar websites, SEO and WhatsApp bots for diamond units, rolling mills, Alang traders and shops. Starting prices published, domain and code in your name.",
     keywords: [
       "website development team in Bhavnagar",
       "web design Bhavnagar",
@@ -24,6 +24,15 @@ const bhavnagar: CityContent = {
       "website maintenance Bhavnagar",
       "Bhavnagar ma website banavvi",
       "ભાવનગર વેબસાઇટ ડિઝાઇન",
+      "Bhavnagar website designer",
+      "website cost in Bhavnagar",
+      "web development company Bhavnagar",
+      "hire freelance developer Bhavnagar",
+      "Gujarat SEO",
+      "website for ship recycling and recovered goods in Bhavnagar",
+      "web designer in Waghawadi Road, Bhavnagar",
+      "website for re-rolling mills and steel in Bhavnagar",
+      "mobile app developer in Bhavnagar",
     ],
   },
   hero: {

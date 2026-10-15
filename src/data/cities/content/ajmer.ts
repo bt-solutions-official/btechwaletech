@@ -7,7 +7,7 @@ const ajmer: CityContent = {
   meta: {
     title: "IT Services in Ajmer: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, stores and WhatsApp automation for Ajmer, Pushkar and Kishangarh businesses. Sites from ₹10,000, itemised quotes, 2 months free maintenance.",
+      "Ajmer, Pushkar and Kishangarh websites, local SEO, stores and WhatsApp automation. Sites from ₹10,000, itemised quotes, 2 months of free upkeep.",
     keywords: [
       "website development team in Ajmer",
       "website designer Ajmer",
@@ -24,6 +24,15 @@ const ajmer: CityContent = {
       "website maintenance Ajmer",
       "Ajmer me website kaise banwaye",
       "अजमेर में वेबसाइट डिजाइन",
+      "Ajmer website designer",
+      "website cost in Ajmer",
+      "web development company Ajmer",
+      "hire freelance developer Ajmer",
+      "Rajasthan SEO",
+      "website for hotels and guest houses in Ajmer",
+      "web designer in Naya Bazaar, Ajmer",
+      "website for marble and granite in Ajmer",
+      "mobile app developer in Ajmer",
     ],
   },
   hero: {

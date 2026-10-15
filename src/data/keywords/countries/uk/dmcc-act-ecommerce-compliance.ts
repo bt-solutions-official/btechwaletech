@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "What does DMCC Act ecommerce compliance mean for a UK online shop?",
     text: `DMCC Act ecommerce compliance means your store shows every mandatory fee in the first price customers see, publishes only genuine reviews with incentives disclosed, avoids false urgency such as misleading countdown timers, and gets ready for the subscription rules expected in spring 2027. The CMA can now fine up to 10% of global turnover directly. BtechWaleTech audits and fixes stores, and builds new ones from ${P.shop}.`,
-    more: `Checkout changes often touch payments too, covered on our <a href='/uk/payment-gateway-integration/'>payment gateway integration</a> page; for the shop's cookie consent see the <a href='/uk/gdpr-cookie-banner-setup/'>UK GDPR cookie banner setup</a> guide.`,
+    more: `Checkout changes often touch payments too, covered on our <a href='/uk/ecommerce-website-design/'>ecommerce website design</a> page; for the shop's cookie consent see the <a href='/uk/gdpr-cookie-banner-setup/'>UK GDPR cookie banner setup</a> guide.`,
   },
   snapshot: {
     caption: "DMCC Act ecommerce compliance: key points for store owners",
@@ -261,7 +261,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `DMCC Act ecommerce compliance is one layer. While we are in your templates and checkout, it is efficient to check the neighbouring obligations too, each with its own regulator and guidance.`,
         `The Consumer Contracts Regulations still govern pre-contract information and cancellation rights for most online sales, so your terms, returns page and order confirmation emails should be consistent with the changes. Cookie consent is regulated separately under PECR and UK GDPR; our <a href='/uk/gdpr-cookie-banner-setup/'>cookie banner setup</a> page explains that work. Accessibility of the checkout matters under the Equality Act, and an inaccessible fee breakdown or review widget is a problem on two fronts; see the <a href='/uk/website-accessibility-audit/'>website accessibility audit</a> page.`,
-        `Payments are the other common neighbour. Changing how fees and totals work often means touching the payment step, surcharge logic, or how refunds are recorded. The <a href='/uk/payment-gateway-integration/'>payment gateway integration</a> guide covers strong customer authentication, wallets and reconciliation for UK stores.`,
+        `Payments are the other common neighbour. Changing how fees and totals work often means touching the payment step, surcharge logic, or how refunds are recorded. The <a href='/uk/ecommerce-website-design/'>ecommerce website design</a> guide covers strong customer authentication, wallets and reconciliation for UK stores.`,
         `Doing these together means one round of testing and one set of evidence, rather than four separate projects each disturbing the same templates.`,
       ],
     },
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
       { name: "UK services hub", href: "/uk/" },
       { name: "UK GDPR cookie banner setup", href: "/uk/gdpr-cookie-banner-setup/" },
       { name: "Website accessibility audit UK", href: "/uk/website-accessibility-audit/" },
-      { name: "Payment gateway integration UK", href: "/uk/payment-gateway-integration/" },
+      { name: "Magento to Shopify migration", href: "/uk/magento-to-shopify-migration/" },
       { name: "Ecommerce website design UK", href: "/uk/ecommerce-website-design/" },
       { name: "Shopify developer UK", href: "/uk/shopify-developer/" },
       { name: "WooCommerce developer UK", href: "/uk/woocommerce-developer/" },

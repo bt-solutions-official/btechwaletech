@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Ecommerce Website Kaise Banaye: Khud ya ${P.shop} se`,
-    description: `Ecommerce website kaise banaye? Platform, catalogue, UPI aur COD, shipping, legal pages aur GST, khud banane vs banwane ka samay aur kharcha. Store ${P.shop} se.`,
+    description: `Ecommerce website kaise banaye? Platform, catalogue, UPI aur COD, shipping, legal pages aur GST, khud banane vs banwane ka kharcha. Store ${P.shop} se.`,
     keywords: [
       "ecommerce website kaise banaye", "ecommerce website kaise banate hai", "online store website kaise banaye", "apni ecommerce website kaise banaye",
       "ecommerce website khud kaise banaye", "ecommerce website banane me kitna kharcha", "ecommerce website banane me kitna time lagta hai",

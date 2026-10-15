@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: "Hire Software Developer in India: You Own the Code",
-    description: `Hire a software developer for custom software from ${P.software}: write requirements, secure source code and IP in your name, and avoid common hiring traps.`,
+    description: `Hire a software developer for custom software: write requirements, secure source code and IP in your name, avoid hiring traps. From ${P.software}.`,
     keywords: [
       "hire software developer", "hire software developer in India", "hire software developer near me", "software developer for hire",
       "hire software developer cost", "custom software developer price", "best software developer to hire", "software developer chahiye",

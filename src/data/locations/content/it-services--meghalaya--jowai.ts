@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 25.4509, lng: 92.2089 },
   meta: {
-    title: "Hire Freelance Software Developers in Jowai",
+    title: "Jowai Software Developers: Lakadong Turmeric & Transport",
     description:
-      "Freelance software developers for Jowai and Jaintia Hills: custom software, apps, AI and WhatsApp automation, dashboards, SEO and IT support. From ₹10,000.",
+      "Jowai software developers for Lakadong turmeric aggregators, Iawmusiang traders, truckers and Dawki homestays. Websites from ₹10,000, apps from ₹40,000.",
     keywords: [
       "Android app development Jowai",
       "iOS app development Jowai",
@@ -33,13 +33,19 @@ const content: CityContent = {
       "cloud hosting Jowai",
       "Jowai software developer Pnar",
       "Jowai mein software banane wala",
+      "Jowai website designer",
+      "website cost in Jowai",
+      "IT company in Jowai",
+      "Meghalaya SEO services",
+      "hire developer Jowai",
+      "turmeric software in Jowai",
     ],
   },
   hero: {
     eyebrow: "Jowai · West Jaintia Hills · Meghalaya",
     h1: "Hire freelance software developers in Jowai for apps, AI and automation",
     lede:
-      "Looking for software developers in Jowai? BtechWaleTech is a freelance group of three engineers who build custom software, web apps, Android and iOS apps, AI assistants, WhatsApp automations, dashboards and websites for traders, schools, homestays and societies across the Jaintia Hills, working remotely from India with direct access to the people writing your code.",
+      "Looking for software developers in Jowai? BtechWaleTech is a freelance group of three engineers who build custom software, web apps, Android and iOS apps, AI assistants, WhatsApp automations, dashboards and websites for Lakadong turmeric aggregators, Iawmusiang market traders, NH-6 transporters, schools, Dawki homestays and community bodies across the Jaintia Hills, working remotely from India with direct access to the people writing your code.",
     pills: ["Software from ₹60,000", "Automation from ₹40,000", "Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Pay by UPI QR or bank transfer"],
   },
   quickAnswer:
@@ -239,7 +245,7 @@ const content: CityContent = {
     {
       question: "Which payment methods do you accept?",
       answer:
-        "Only two: UPI, by scanning our QR code, and direct bank transfer to our bank account. All payments are in INR and follow agreed milestones, each released after you have seen the related work. We do not collect cash through intermediaries and never send payment links through third-party apps or gateways for our own invoices.",
+        "Only two: UPI, by scanning our QR code, and direct bank transfer to our bank account. All payments are in INR and follow agreed milestones, each released after you have seen the related work. We do not collect cash through intermediaries and never send payment links through third-party apps or gateways for our own invoices, whether we are billing a turmeric aggregator, a transporter or a school.",
     },
     {
       question: "How much does a turmeric purchase register cost?",
@@ -269,7 +275,7 @@ const content: CityContent = {
     {
       question: "What happens after the free maintenance ends?",
       answer:
-        "After two free months you choose. Continue on a monthly plan from ₹8,000 covering updates, backups, fixes and checks, or contact us only when something needs changing and pay for that job. We send a health report before the free period ends so you know what needs attention and which renewals are coming.",
+        "After two free months you choose. Continue on a monthly plan from ₹8,000 covering updates, backups, fixes and checks, or contact us only when something needs changing and pay for that job. We send a health report before the free period ends so you know what needs attention and which renewals are coming. Seasonal updates, such as new Lakadong turmeric rates or homestay tariffs before Behdienkhlam in July, suit either option.",
     },
     {
       question: "Do you build Android and iOS apps for Jowai businesses?",

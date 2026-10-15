@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "commercial solar website", "solar installer website near me", "solar company website Jaipur", "solar company website Ahmedabad",
       "solar company website Pune", "solar installer website Coimbatore", "solar company ki website kaise banaye", "solar dealer website",
       "solar vendor website for subsidy customers", "solar project gallery website",
+      "solar company website design cost", "solar company website design price", "solar company website design company", "best solar company website design in India",
+      "solar company website design cost in India", "solar company website design near me",
     ],
   },
   hero: {

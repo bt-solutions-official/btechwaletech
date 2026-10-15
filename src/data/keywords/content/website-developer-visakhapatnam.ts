@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "Telugu website developer Visakhapatnam", "website developer Dwaraka Nagar", "website developer Gajuwaka", "website developer MVP Colony",
       "website developer Madhurawada", "website developer Anakapalli", "website developer Vizianagaram", "WordPress developer Vizag",
       "ecommerce website Visakhapatnam", "best website developer in Visakhapatnam", "Vizag website banwana hai",
+      "website developer in Visakhapatnam cost", "website developer in Visakhapatnam price", "hire website developer in Visakhapatnam", "freelance website developer in Visakhapatnam",
+      "website developer in Visakhapatnam charges", "website developer near me Visakhapatnam",
     ],
   },
   hero: {

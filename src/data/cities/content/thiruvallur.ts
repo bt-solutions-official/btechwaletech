@@ -7,7 +7,7 @@ const thiruvallur: CityContent = {
   meta: {
     title: "IT Services in Thiruvallur | Web, Apps, SEO & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Thiruvallur SIDCO units, suppliers, plot promoters, colleges and temple-town shops.",
+      "Tamil websites, apps, local SEO and WhatsApp automation for Thiruvallur SIDCO units, suppliers, plot promoters, colleges and temple-town shops. From ₹10,000.",
     keywords: [
       "IT services in Thiruvallur",
       "IT services team in Thiruvallur",
@@ -29,6 +29,12 @@ const thiruvallur: CityContent = {
       "Thiruvallur-la website panna",
       "திருவள்ளூர் வெப்சைட் டிசைன்",
       "Tiruvallur web design team",
+      "Thiruvallur website designer",
+      "web development company Thiruvallur",
+      "hire freelance web developer Thiruvallur",
+      "Tamil Nadu SEO services",
+      "Thiruvallur agri-input dealers website",
+      "agri-input dealers website design Thiruvallur",
     ],
   },
   hero: {

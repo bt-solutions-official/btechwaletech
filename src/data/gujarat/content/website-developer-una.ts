@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Una, Gujarat from ${P.site}`,
-    description: `Website developer in Una for traders, clinics, Diu-side hotels and taxi operators. Mobile sites from ${P.site}, Gujarati pages with your copy, 2 months free care.`,
+    description: `Website developer in Una for traders, clinics, Diu-side hotels and taxi operators. Mobile sites from ${P.site}, Gujarati pages with your copy, 2 free months.`,
     keywords: [
       "website developer in Una", "website developer Una Gujarat", "web developer Una", "website designer in Una",
       "website development Una Gir Somnath", "website developer near me Una", "Una Gujarat website", "website banane wala Una",
@@ -383,6 +383,7 @@ const content: FreelanceContent = {
     heading: "More website guides for Una and the Gir Somnath coast",
     links: [
       { name: "All Gujarat website guides", href: "/gujarat/" },
+      { name: "Website developer in Jafrabad", href: "/gujarat/website-developer-jafrabad/" },
       { name: "Website developer in Kodinar", href: "/gujarat/website-developer-kodinar/" },
       { name: "Website developer in Talala", href: "/gujarat/website-developer-talala/" },
       { name: "Website developer in Amreli", href: "/gujarat/website-developer-amreli/" },

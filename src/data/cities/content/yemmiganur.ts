@@ -7,7 +7,7 @@ const yemmiganur: CityContent = {
   meta: {
     title: "IT Services in Yemmiganur: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, handloom stores, custom software and WhatsApp automation for Yemmiganur weavers, cotton traders and shops. Static sites start from ₹10,000.",
+      "Websites, SEO, handloom stores and custom software for Yemmiganur weavers, cotton traders and shops. Sites from ₹10,000, stores from ₹50,000.",
     keywords: [
       "IT services Yemmiganur",
       "website development team in Yemmiganur",
@@ -25,6 +25,16 @@ const yemmiganur: CityContent = {
       "Yemmiganur lo website",
       "ఎమ్మిగనూరు వెబ్‌సైట్",
       "website maintenance Yemmiganur",
+      "Yemmiganur website designer",
+      "web development company Yemmiganur",
+      "hire freelance web developer Yemmiganur",
+      "Kurnool district SEO",
+      "website designer Kurnool district",
+      "Andhra Pradesh SEO services",
+      "Yemmiganur handloom weaving website",
+      "handloom weaving website design Yemmiganur",
+      "Yemmiganur weavers' cooperatives website",
+      "weavers' cooperatives website design Yemmiganur",
     ],
   },
   hero: {

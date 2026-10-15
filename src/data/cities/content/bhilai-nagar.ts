@@ -7,7 +7,7 @@ const bhilai: CityContent = {
   meta: {
     title: "IT Services in Bhilai Nagar: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, job trackers and WhatsApp automation for Bhilai steel ancillaries in Hathkhoj, coaching institutes, clinics and Supela shops. From ₹10,000.",
+      "Bhilai websites, SEO, job trackers and WhatsApp automation for steel ancillaries in Hathkhoj, coaching institutes, clinics and Supela shops. From ₹10,000.",
     keywords: [
       "website development team in Bhilai",
       "web designer Bhilai",
@@ -24,6 +24,15 @@ const bhilai: CityContent = {
       "website maintenance Bhilai",
       "Bhilai me website banwani hai",
       "भिलाई वेबसाइट डेवलपर",
+      "Bhilai Nagar website designer",
+      "website cost in Bhilai Nagar",
+      "web development company Bhilai Nagar",
+      "hire freelance developer Bhilai Nagar",
+      "Chhattisgarh SEO",
+      "Bhilai Nagar me website kaise banwaye",
+      "website for fabrication and machining in Bhilai Nagar",
+      "web designer in Civic Centre, Bhilai Nagar",
+      "website for plant contractors in Bhilai Nagar",
     ],
   },
   hero: {

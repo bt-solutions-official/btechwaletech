@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Temple Website Development: Donations & Seva, ${P.site}+`,
-    description: `Temple website development for mandirs and trusts: online donations with 80G receipts, pooja and seva booking, live darshan and festival calendars. From ${P.site}.`,
+    description: `Temple website development for mandirs and trusts: online donations with 80G receipts, seva booking, live darshan and festival calendars. From ${P.site}.`,
     keywords: [
       "temple website development", "temple website", "mandir website", "temple website design", "temple website development India",
       "website for temple trust", "religious trust website", "temple donation website", "online donation for temple with 80G receipt",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "how to make a website for a temple", "mandir ki website kaise banaye", "gurudwara website design", "jain temple website",
       "temple website developer near me", "temple website Tamil Nadu", "temple website Andhra Pradesh", "temple website with payment gateway",
       "devotee portal development",
+      "temple website development price", "temple website development company", "best temple website development in India", "temple website development near me",
     ],
   },
   hero: {
@@ -413,7 +414,7 @@ const content: FreelanceContent = {
     { question: "What is the difference between a temple website and temple management software?", answer: "The website is public: information, donations, seva booking and streams. Management software is internal: counter billing, hundi counts, staff, inventory and accounts. Larger temples benefit from both sharing one database, so online bookings appear at the counter without re-entry." },
     { question: "Can we sell prasad and books online?", answer: `Yes. A shop for postal prasad, books, calendars and photos with delivery addresses, order tracking and receipts starts at ${P.shop}. For a few items, postal prasad can simply be an option inside seva booking, which costs less.` },
     { question: "Do you provide cameras or on-site setup?", answer: "No. We are three freelance developers working remotely from India and do not install cameras, cabling, counters or kiosks. We build the website, booking and donation systems and help your local vendor with the streaming embed. Training for office staff happens over video calls." },
-    { question: "What support do we get after launch?", answer: `Two months of free maintenance cover fixes, timing and festival updates and help before the first major festival. After that, maintenance starts at ${P.care} a month and is optional; any developer can take over because the trust holds all access. We reply on WhatsApp seven days a week.` },
+    { question: "What support do we get after launch?", answer: `Two months of free maintenance cover fixes, timing and festival updates and help before the first major festival. After that, maintenance starts at ${P.care} and is optional; any developer can take over because the trust holds all access. We reply on WhatsApp seven days a week.` },
     { question: "How does the trust pay for the website?", answer: "Trusts in India pay by UPI or bank transfer in stages tied to visible progress, and nothing is billed until the committee approves the written quote. Trusts or temple associations abroad pay in USD by Wise, wire or PayPal. Refund terms are on our refund policy page." },
     { question: "Can volunteers sign up for festival duties on the site?", answer: "Yes. A volunteer area can list festival duty slots, annadanam serving shifts and cleaning drives, with sign-up forms and reminders. Coordinators see who is on each shift. This sits behind a simple login so it stays separate from public devotee pages." },
     { question: "Mandir ki website banwane mein kitna kharcha aata hai?", answer: `Mandir ki simple website, jisme darshan timings, itihaas, tyohar aur rasta ho, ${P.site} se shuru hoti hai. Online daan ke saath automatic 80G receipt, pooja aur seva booking aur annadanam sponsorship wala system ${P.software} se shuru hota hai. Trust ko itemised quote milta hai, approval ke baad hi kaam shuru hota hai.` },

@@ -7,7 +7,7 @@ const balangir: CityContent = {
   meta: {
     title: "IT Services in Balangir: Websites, Apps, SEO & AI",
     description:
-      "Websites, Bandha saree stores, local SEO and WhatsApp automation for Balangir, Patnagarh, Titlagarh and Kantabanji businesses. Sites from ₹10,000 onwards.",
+      "Balangir, Patnagarh, Titlagarh and Kantabanji websites, Bandha saree stores, local SEO and WhatsApp automation. Sites from ₹10,000, code and domain yours.",
     keywords: [
       "website development team in Balangir",
       "web designer Bolangir",
@@ -25,6 +25,14 @@ const balangir: CityContent = {
       "school website Balangir",
       "website maintenance Balangir",
       "Balangir re website kete tanka",
+      "Balangir website designer",
+      "website cost in Balangir",
+      "web development company Balangir",
+      "hire freelance developer Balangir",
+      "Western Odisha SEO",
+      "website for bandha saree dealers and weavers in Balangir",
+      "web designer in Marwari Bazar, Balangir",
+      "website for clinics and diagnostic centres in Balangir",
     ],
   },
   hero: {

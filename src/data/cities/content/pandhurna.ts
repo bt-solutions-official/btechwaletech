@@ -7,7 +7,7 @@ const pandhurna: CityContent = {
   meta: {
     title: "IT Services in Pandhurna: Websites, Apps, SEO & AI",
     description:
-      "Marathi and Hindi websites, Android and iOS apps, local SEO and WhatsApp tools for Pandhurna's orange growers, cotton ginners, mandi agents, schools and clinics.",
+      "Marathi and Hindi websites, apps and SEO for Pandhurna's orange growers, cotton ginners, mandi agents, schools and clinics. Sites from ₹10,000, yours to keep.",
     keywords: [
       "IT services in Pandhurna",
       "IT services team in Pandhurna",
@@ -29,6 +29,12 @@ const pandhurna: CityContent = {
       "Pandhurna madhe website banvaychi",
       "पांढुर्णा वेबसाइट डिजाइन",
       "पांढुर्णा ॲप डेव्हलपमेंट",
+      "Pandhurna website designer",
+      "web development company Pandhurna",
+      "hire freelance web developer Pandhurna",
+      "Pandhurna district SEO",
+      "website designer Pandhurna district",
+      "Madhya Pradesh SEO services",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const bankura: CityContent = {
   meta: {
     title: "IT Services in Bankura: Websites, Apps, SEO & AI",
     description:
-      "Websites, Bengali SEO, craft stores and WhatsApp automation for Bankura terracotta and Baluchari sellers, rice mills, clinics, schools and homestays. Code is yours.",
+      "Bankura websites, Bengali SEO, craft stores and WhatsApp bots for terracotta and Baluchari sellers, rice mills, clinics, schools and homestays. Code is yours.",
     keywords: [
       "website development team in Bankura",
       "web designer Bankura",
@@ -25,6 +25,14 @@ const bankura: CityContent = {
       "website maintenance Bankura",
       "Google Maps listing Bankura",
       "বাঁকুড়া ওয়েবসাইট তৈরি",
+      "Bankura website designer",
+      "website cost in Bankura",
+      "web development company Bankura",
+      "hire freelance developer Bankura",
+      "West Bengal SEO",
+      "website for terracotta artisans and craft sellers in Bankura",
+      "web designer in Machantala, Bankura",
+      "website for baluchari and tussar weavers in Bankura",
     ],
   },
   hero: {

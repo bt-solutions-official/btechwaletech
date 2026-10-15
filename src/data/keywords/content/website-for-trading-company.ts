@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Trading company website design",
   updated: "2026-09-25",
   meta: {
-    title: `Trading Company Website Design: From ${P.seoSite}`,
+    title: `Trading Company Website Design: Cost from ${P.seoSite}`,
     description: `Trading company website design for multi-brand dealers: SKU catalogue, brand pages, RFQ-to-quotation flow and buyer trust. Catalogue sites from ${P.seoSite}.`,
     keywords: [
       "trading company website design", "website for trading company", "trading company website", "trading business website design",
@@ -242,7 +242,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own the domain, hosting account, source code and the product database, including the cleaned version of your sheet. We hand over all of it, plus the import script, so your team or any other developer can update the catalogue without us.`,
         `For traders the product database is often the most valuable asset from the whole project, because cleaning and structuring thousands of SKUs takes real effort. Make sure any developer you hire gives you the cleaned data in a format you can open (a spreadsheet or CSV), not just a live site. Repository access, admin logins and hosting credentials should all sit with an email address your business controls.`,
-        `After launch you get two months of free maintenance for fixes and small changes. Beyond that, maintenance starts at ${P.care} a month and covers updates, backups and help with imports. Specific terms go in your written quote.`,
+        `After launch you get two months of free maintenance for fixes and small changes. Beyond that, maintenance starts at ${P.care} and covers updates, backups and help with imports. Specific terms go in your written quote.`,
       ],
     },
     {
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
     { question: "Can AI search tools like ChatGPT find my products?", answer: "They can find and quote pages that state clear facts: what you stock, which brands, which regions you supply and how to order. We build brand and category pages with plain, specific statements and structured data, which also helps normal search. No one can promise AI tools will mention a particular trader." },
     { question: "Can AI read incoming enquiry emails and drawings for us?", answer: `Yes, as a separate AI automation project starting at ${P.ai}. It can read RFQ emails and attached PDFs, extract item names, part numbers and quantities, and create a draft enquiry record for your sales team to check. It works best when it assists staff rather than sending quotations without review.` },
     { question: "Do you visit our office or warehouse?", answer: "No. We are three freelance developers working remotely from India, so we do not make site visits or take product photos in person. We work over WhatsApp, calls and screen sharing, and guide your team on photographing products consistently if new images are needed." },
-    { question: "How do we pay and what happens after launch?", answer: `Payment is by UPI or bank transfer in India, following the schedule in your written quote; nothing is billed before your approval. After launch you get two months of free maintenance, then optional maintenance from ${P.care} a month. Details are set out in the quote and our terms page.` },
+    { question: "How do we pay and what happens after launch?", answer: `Payment is by UPI or bank transfer in India, following the schedule in your written quote; nothing is billed before your approval. After launch you get two months of free maintenance, then optional maintenance from ${P.care}. Details are set out in the quote and our terms page.` },
   ],
   related: {
     heading: "Related guides for traders, distributors and B2B sellers",

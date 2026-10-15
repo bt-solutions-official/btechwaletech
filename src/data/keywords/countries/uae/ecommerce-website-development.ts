@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "Ecommerce website development company in Dubai",
   updated: "2026-09-25",
   meta: {
-    title: "Ecommerce Website Development Company in Dubai Guide",
+    title: "Ecommerce Website Development in Dubai: Full Guide",
     description: `Choosing an ecommerce website development company in Dubai? Platform matrix, bilingual catalogues, COD and delivery, launch checklist. Stores from ${P.shop}.`,
     keywords: [
       "ecommerce website development company in dubai", "ecommerce website development dubai", "ecommerce development company uae",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "custom ecommerce development uae", "b2b ecommerce website dubai", "ecommerce website near me dubai",
       "ecommerce platform for uae business", "ecommerce launch checklist", "ecommerce development partner uae",
       "remote ecommerce developers india", "online shop website uae", "multi vendor ecommerce website dubai",
+      "hire ecommerce website development in the UAE", "freelance ecommerce website development UAE",
     ],
   },
   hero: {

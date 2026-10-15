@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "power bi consultant hamilton", "power bi training nz", "remote power bi consultant",
       "power bi financial year april to march", "gst report power bi", "power bi consultant near me",
       "do i need a data analyst or a power bi consultant", "freelance power bi consultant", "business intelligence consultant nz",
+      "hire power bi consultant in New Zealand",
     ],
   },
   hero: {

@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "tally shopify integration Surat", "tally shopify integration Jaipur", "tally shopify integration Delhi",
       "shopify ke orders tally me kaise daale", "shopify hsn code tally", "shopify accounting india tally",
       "tallyprime shopify sync",
+      "Tally Shopify integration company", "best Tally Shopify integration in India", "Tally Shopify integration cost in India", "Tally Shopify integration service",
     ],
   },
   hero: {

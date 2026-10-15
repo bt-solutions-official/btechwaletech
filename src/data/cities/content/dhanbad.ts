@@ -7,7 +7,7 @@ const dhanbad: CityContent = {
   meta: {
     title: "Web Design & SEO Team in Dhanbad | From ₹10,000",
     description:
-      "Websites, SEO, dashboards and WhatsApp automation for Dhanbad mining suppliers, coke units, transporters, clinics and coaching centres. Sites from ₹10,000.",
+      "Dhanbad websites, SEO, dashboards and WhatsApp automation for mining suppliers, coke units, transporters, clinics and coaching centres. Sites from ₹10,000.",
     keywords: [
       "website development team in Dhanbad",
       "web design team Dhanbad",
@@ -25,6 +25,14 @@ const dhanbad: CityContent = {
       "website maintenance Dhanbad",
       "Dhanbad me website banwana",
       "धनबाद वेबसाइट डिज़ाइन",
+      "Dhanbad website designer",
+      "website cost in Dhanbad",
+      "web development company Dhanbad",
+      "hire freelance developer Dhanbad",
+      "Jharkhand SEO",
+      "Dhanbad me website kaise banwaye",
+      "website for mining contractors in Dhanbad",
+      "web designer in Bank More, Dhanbad",
     ],
   },
   hero: {

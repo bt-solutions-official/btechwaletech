@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "payment gateway api integration", "woocommerce payment gateway uae", "payment gateway for mobile app uae", "payment links uae",
       "payment gateway integration abu dhabi", "payment gateway integration sharjah", "payment gateway developer dubai",
       "refund handling payment gateway", "payment gateway integration cost uae", "payment gateway integration near me",
+      "hire payment gateway integration in the UAE", "freelance payment gateway integration UAE",
     ],
   },
   hero: {

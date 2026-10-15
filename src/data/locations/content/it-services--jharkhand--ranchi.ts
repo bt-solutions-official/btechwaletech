@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.3441, lng: 85.3096 },
   meta: {
-    title: "Freelance Software Developers in Ranchi: Apps, AI, CRM",
+    title: "Ranchi Software Developers: CRMs, Web Apps & AI Agents",
     description:
       "Comparing a software development team in Ranchi? Hire our freelance group for CRMs, web apps, AI agents, dashboards and apps. Starting prices in INR.",
     keywords: [
@@ -33,6 +33,12 @@ const content: CityContent = {
       "cloud hosting and DevOps Ranchi",
       "Ranchi mein software developer",
       "रांची में सॉफ्टवेयर डेवलपर",
+      "Ranchi website designer",
+      "website cost in Ranchi",
+      "IT company in Ranchi",
+      "Jharkhand SEO services",
+      "hire developer Ranchi",
+      "real software in Ranchi",
     ],
   },
   hero: {

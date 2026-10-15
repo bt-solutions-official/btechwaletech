@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Clinic website design in Vadodara from ${P.site}`,
-    description: `Clinic website design in Vadodara for doctors: appointment requests, Google review flow, timings and content kept within medical advertising rules. From ${P.site}.`,
+    description: `Clinic website design in Vadodara: appointment requests, Google review flow, timings and content within medical advertising rules. From ${P.site}, 2-day quote.`,
     keywords: [
       "clinic website design in Vadodara", "clinic website design Vadodara", "doctor website Vadodara", "clinic website Baroda",
       "clinic website designer near me", "doctor website developer Vadodara Gujarat", "clinic website cost Vadodara", "doctor website price Baroda",

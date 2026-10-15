@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Freelance developer near me",
   updated: "2026-09-24",
   meta: {
-    title: "Freelance Developer Near Me: Web, App and AI in One",
+    title: `Freelance Developer Near Me: Sites from ${P.site}`,
     description: `Looking for a freelance developer near me? Three developers build your website, app and automation together. Sites from ${P.site}, quotes in 2 days.`,
     keywords: [
       "freelance developer near me", "freelance developer near me India", "freelance developer for hire near me", "freelance developer near me cost",
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a freelance developer in India?", answer: "Clients in India pay by UPI or bank transfer. International clients pay by Wise, bank wire or PayPal. Billing starts only after you approve the itemised quote in writing, and the payment schedule for each phase is set out in that quote. Terms are on the terms page." },
     { question: "Do you sign an NDA or contract?", answer: "Every project runs on a written quote you approve, which sets scope, phases and payments. If you need an NDA or specific contract terms, ask us when you share the brief and they will be agreed in writing before work starts. Our standard terms are published on the terms page." },
     { question: "Can you build apps for both Android and iPhone?", answer: `Yes. We use Flutter or React Native to ship one codebase to Google Play and the App Store, starting from ${P.app}. The developer accounts are opened in your name, and the app can share its backend with your website so customers use the same login in both places.` },
-    { question: "What maintenance do I get after launch?", answer: `Every piece we launch gets two months of free maintenance covering fixes, small edits and updates. After that, one maintenance plan can cover your website, app and automations together, starting from ${P.care} a month, only if you choose to continue.` },
+    { question: "What maintenance do I get after launch?", answer: `Every piece we launch gets two months of free maintenance covering fixes, small edits and updates. After that, one maintenance plan can cover your website, app and automations together, starting from ${P.care}, only if you choose to continue.` },
     { question: "Can a freelance developer near me work on a website someone else built?", answer: "Often, yes. We first review the code and account access. If the site is sound, we add the app or automation on top of it. If it is fragile or the accounts are not in your name, we explain the risk and quote either repairs or a rebuild so you can decide." },
     { question: "Freelance developer near me chahiye, kitna kharcha aayega?", answer: `Website ${P.site} se, app ${P.app} se aur AI ya WhatsApp automation ${P.ai} se shuru hota hai. Final quote aapke kaam par depend karta hai aur lagbhag do working days mein line by line milta hai. Likhit manzoori ke bina koi payment nahi hota.` },
     { question: "Do you work with businesses outside India?", answer: `Yes. The same team works with clients in other countries, billed in USD and paid by Wise, bank wire or PayPal. A website starts from ${P.siteUsd} and an app from ${P.appUsd}. We work in IST and plan call times to overlap with your working hours.` },

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Computer institute website",
   updated: "2026-09-25",
   meta: {
-    title: `Computer Institute Website with Certificate Check`,
+    title: `Computer Institute Website: Certificates, ${P.site}+`,
     description: `Computer institute website with course fees, online registration, certificate verification, results, admit cards and franchise centre logins. From ${P.site}.`,
     keywords: [
       "computer institute website", "computer institute website design", "computer training institute website", "computer centre website development",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "computer course website", "DCA ADCA institute website", "Tally institute website", "computer education franchise portal",
       "computer institute website near me", "computer institute website Kanpur", "computer centre website Varanasi",
       "computer institute ki website kaise banaye", "institute management portal", "certificate QR code verification", "IT training institute website",
+      "computer institute website company in India",
+      "best computer institute website in India",
+      "computer institute website services",
     ],
   },
   hero: {

@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Google penalty recovery services",
   updated: "2026-09-25",
   meta: {
-    title: "Google Penalty Recovery Services: Manual Action Fixes",
-    description: `Google penalty recovery services: read the Manual Actions report, clean links, disavow, fix thin or spam pages and file a reconsideration request. From ${P.seo}.`,
+    title: `Google Penalty Recovery Services from ${P.seo}`,
+    description: `Google penalty recovery services: read the Manual Actions report, clean links, disavow, fix thin pages and file a reconsideration request. From ${P.seo}.`,
     keywords: [
       "google penalty recovery services", "google penalty recovery", "manual action removal", "google manual action recovery",
       "reconsideration request google", "how to write a reconsideration request", "unnatural links manual action", "disavow links service",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "how to check google penalty", "google penalty recovery India", "google penalty recovery cost", "link penalty recovery",
       "site reputation abuse manual action", "user generated spam manual action", "structured data manual action", "google penalty hat gaya kaise pata kare",
       "google penalty recovery expert", "how long does google penalty recovery take", "backlink cleanup service", "google penalty recovery consultant",
+      "google penalty recovery services company in India",
+      "best google penalty recovery services in India",
     ],
   },
   hero: {
@@ -35,7 +37,7 @@ const content: FreelanceContent = {
     ["Where penalties show", "Search Console › Manual actions"],
     ["Who issues them", "Human reviewers at Google"],
     ["Review time", "Days or weeks; link cases can take longer"],
-    ["Cleanup work from", `${P.seo} · ${P.seoUsd} per month`],
+    ["Cleanup work from", `${P.seo} · ${P.seoUsd}`],
     ["Quote", "Itemised, in about 2 working days"],
     ["What we never do", "Buy, sell or rent links"],
   ],

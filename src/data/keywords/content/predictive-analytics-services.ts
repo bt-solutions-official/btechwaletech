@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "how accurate is predictive analytics", "how much data do you need for predictive analytics", "predictive analytics ROI",
       "predictive analytics freelancer", "predictive analytics Bengaluru", "predictive analytics Mumbai", "predictive analytics Pune",
       "data se future predict kaise kare", "predictive modelling services",
+      "predictive analytics services cost", "predictive analytics services company", "best predictive analytics services in India", "predictive analytics services cost in India",
+      "predictive analytics services near me",
     ],
   },
   hero: {

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "PHP to Laravel migration",
   updated: "2026-09-25",
   meta: {
-    title: `PHP to Laravel Migration, Module by Module`,
+    title: `PHP to Laravel Migration: Cost from ${P.software}`,
     description: `PHP to Laravel migration without a risky big-bang rewrite: same database, safer logins, tests before each cutover. Projects start at ${P.software}.`,
     keywords: [
       "php to laravel migration", "core php to laravel migration", "migrate php to laravel", "convert php project to laravel",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "laravel migration existing database", "migrate md5 passwords to laravel", "php 5 to laravel", "plain php to laravel",
       "php to laravel migration timeline", "is it worth migrating php to laravel", "php to laravel migration India",
       "laravel developer Pune", "laravel developer Hyderabad", "custom php to laravel conversion", "php to laravel migration checklist",
+      "PHP to Laravel migration price", "PHP to Laravel migration company", "best PHP to Laravel migration in India",
     ],
   },
   hero: {

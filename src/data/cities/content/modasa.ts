@@ -7,7 +7,7 @@ const modasa: CityContent = {
   meta: {
     title: "IT Services in Modasa: Websites, Apps, SEO & AI",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Modasa traders, market yard agents, GIDC units, colleges and clinics in Aravalli.",
+      "Gujarati websites, apps, local SEO and WhatsApp tools for Modasa traders, market yard agents, GIDC units, colleges and clinics in Aravalli. From ₹10,000.",
     keywords: [
       "IT services in Modasa",
       "IT services team in Modasa",
@@ -29,6 +29,12 @@ const modasa: CityContent = {
       "Modasa me website banwana",
       "Modasa ma website banavvi",
       "મોડાસા વેબસાઇટ ડિઝાઇન",
+      "Modasa website designer",
+      "web development company Modasa",
+      "hire freelance web developer Modasa",
+      "Aravalli district SEO",
+      "website designer Aravalli district",
+      "Gujarat SEO services",
     ],
   },
   hero: {

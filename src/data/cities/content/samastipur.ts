@@ -7,7 +7,7 @@ const samastipur: CityContent = {
   meta: {
     title: "IT Services in Samastipur: Web, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp bots for Samastipur dairy units, maize and litchi traders, coaching centres, hospitals and shops.",
+      "Hindi websites, apps, local SEO and WhatsApp bots for Samastipur dairy units, maize and litchi traders, coaching centres, hospitals and shops. From ₹10,000.",
     keywords: [
       "IT services in Samastipur",
       "IT services team in Samastipur",
@@ -30,6 +30,11 @@ const samastipur: CityContent = {
       "Samastipur me website banwana",
       "Samastipur me app kaise banwaye",
       "समस्तीपुर वेबसाइट डिज़ाइन",
+      "Samastipur website designer",
+      "web development company Samastipur",
+      "hire freelance web developer Samastipur",
+      "North Bihar SEO services",
+      "website designer North Bihar",
     ],
   },
   hero: {

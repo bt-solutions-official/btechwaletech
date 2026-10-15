@@ -7,7 +7,7 @@ const unnao: CityContent = {
   meta: {
     title: "IT Services in Unnao: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, online stores and WhatsApp automation for Unnao, Shuklaganj and Magarwara businesses. Static sites start at ₹10,000, with two months of free upkeep.",
+      "Websites, SEO, online stores and WhatsApp automation for Unnao, Shuklaganj and Magarwara businesses. Sites from ₹10,000, SEO sites from ₹20,000.",
     keywords: [
       "website development team in Unnao",
       "web design Unnao",
@@ -25,6 +25,16 @@ const unnao: CityContent = {
       "website maintenance Unnao",
       "Unnao me website kaise banwaye",
       "उन्नाव वेबसाइट डिज़ाइन",
+      "web development company Unnao",
+      "hire freelance web developer Unnao",
+      "Uttar Pradesh SEO services",
+      "Unnao website banwane ka kharcha",
+      "Unnao zari-zardozi workshops website",
+      "zari-zardozi workshops website design Unnao",
+      "website design Civil Lines Unnao",
+      "website design Kalyani Devi area Unnao",
+      "website design Bada Chauraha Unnao",
+      "website design Akrampur Unnao",
     ],
   },
   hero: {

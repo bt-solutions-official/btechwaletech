@@ -196,7 +196,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Short-lived campaign pages usually should not; evergreen pages often should. Decide this at the start, because it changes how the page is written.`,
         `A Diwali offer page or an A/B variant is normally kept out of search results with a noindex tag, so it does not compete with your main site or leave expired offers in Google. An evergreen page, such as a project page for a tower that will sell for two years or a course page that runs every year, can be built to rank: fuller content, a descriptive title naming the area, schema, FAQs and internal links from your main website.`,
-        `For Ahmedabad property and education searches, pages that answer specific questions, like distance to a landmark, configuration sizes or batch timings, tend to be the ones Google and AI answers quote. Nobody can guarantee rankings, but writing the evergreen version properly gives organic traffic a chance to support your paid campaign. Ongoing SEO is optional from ${P.seo} a month.`,
+        `For Ahmedabad property and education searches, pages that answer specific questions, like distance to a landmark, configuration sizes or batch timings, tend to be the ones Google and AI answers quote. Nobody can guarantee rankings, but writing the evergreen version properly gives organic traffic a chance to support your paid campaign. Ongoing SEO is optional from ${P.seo}.`,
       ],
     },
     {
@@ -256,7 +256,7 @@ const content: FreelanceContent = {
       heading: "After the campaign: ownership, care and pages across Gujarat",
       paragraphs: [
         `Your landing page lives on your domain and hosting, in your name, and all lead data stays in your sheet, inbox or CRM. When the campaign ends, decide its future: redirect to your main site, convert it into an evergreen page, or keep it as a template for the next campaign.`,
-        `Edits and fixes are free for two months after launch, covering most campaign lifecycles. After that, optional care starts at ${P.care} a month, useful if you run campaigns continuously. Many repeat advertisers simply message us before each new campaign with a fresh brief.`,
+        `Edits and fixes are free for two months after launch, covering most campaign lifecycles. After that, optional care starts at ${P.care}, useful if you run campaigns continuously. Many repeat advertisers simply message us before each new campaign with a fresh brief.`,
         `The same process serves campaigns anywhere in the region: projects in Gandhinagar, offices in GIFT City or businesses along SG Highway. The state-wide view is on landing page design across Gujarat. For other IT services in the city, see the <a href='/ahmedabad/'>Ahmedabad services page</a>.`,
       ],
     },
@@ -339,7 +339,7 @@ const content: FreelanceContent = {
       ["Design on your phone", "After written approval, the page appears on a private staging link. You review on your phone and send one combined list of changes."],
       ["Tracking and routing tests", "GA4 events, ad conversions and lead routing are tested with real submissions, so your sales team sees test leads arrive."],
       ["Launch with your ads", "The page goes live on your domain, ads switch on, and we check the first real leads together."],
-      ["Edits through the campaign", `Changes to prices, dates and offers are free for two months after launch. After that, care is optional from ${P.care} a month.`],
+      ["Edits through the campaign", `Changes to prices, dates and offers are free for two months after launch. After that, care is optional from ${P.care}.`],
     ],
   },
   faqHeading: "Landing page design in Ahmedabad: questions people ask",

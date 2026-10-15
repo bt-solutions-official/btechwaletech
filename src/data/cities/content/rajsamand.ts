@@ -7,7 +7,7 @@ const rajsamand: CityContent = {
   meta: {
     title: "IT Services in Rajsamand | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Rajsamand marble units, tyre-belt suppliers, hotels, pilgrims and shops.",
+      "Hindi and English websites, apps and SEO for Rajsamand marble units, tyre-belt suppliers, hotels, pilgrims and shops. Sites from ₹10,000, yours to keep.",
     keywords: [
       "IT services in Rajsamand",
       "IT services team in Rajsamand",
@@ -29,6 +29,12 @@ const rajsamand: CityContent = {
       "Rajsamand me website banwana",
       "राजसमंद वेबसाइट डिजाइन",
       "कांकरोली वेबसाइट बनवाना",
+      "Rajsamand website designer",
+      "web development company Rajsamand",
+      "hire freelance web developer Rajsamand",
+      "Rajasthan SEO services",
+      "Rajsamand me website kaise banwaye",
+      "Rajsamand website banwane ka kharcha",
     ],
   },
   hero: {

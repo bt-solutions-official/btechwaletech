@@ -7,7 +7,7 @@ const vita: CityContent = {
   meta: {
     title: "IT Services in Vita | Web, Apps & AI from ₹10,000",
     description:
-      "Marathi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Vita gold refiners, jewellers, textile units, clinics, colleges and shops.",
+      "Marathi websites, apps, Maps SEO and WhatsApp tools for Vita gold refiners, jewellers, textile units, clinics, colleges and shops. From ₹10,000.",
     keywords: [
       "IT services in Vita",
       "IT services team in Vita Sangli",
@@ -29,6 +29,12 @@ const vita: CityContent = {
       "Vita madhye website banvayla",
       "विटा वेबसाइट डिझाइन",
       "website designer Sangli Vita",
+      "Vita website designer",
+      "web development company Vita",
+      "hire freelance web developer Vita",
+      "Khanapur taluka SEO services",
+      "website designer Khanapur taluka",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

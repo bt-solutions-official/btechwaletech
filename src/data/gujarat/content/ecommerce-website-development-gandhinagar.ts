@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Ecommerce Website Development in Gandhinagar ${P.shop}+`,
-    description: `Ecommerce website development in Gandhinagar from ${P.shop}: catalogue, UPI and card checkout, GST invoice fields and shipping rules, built by a remote freelance team.`,
+    description: `Ecommerce website development in Gandhinagar from ${P.shop}: catalogue, UPI and card checkout, GST invoice fields & shipping rules, by a remote freelance team.`,
     keywords: [
       "ecommerce website development in Gandhinagar", "ecommerce website Gandhinagar", "online store development Gandhinagar Gujarat", "ecommerce developer near me",
       "ecommerce website design Gandhinagar", "online shop website Gandhinagar", "Shopify developer Gandhinagar", "WooCommerce developer Gandhinagar",

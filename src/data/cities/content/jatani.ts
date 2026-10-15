@@ -7,7 +7,7 @@ const jatani: CityContent = {
   meta: {
     title: "IT Services in Jatani | Web, Apps & AI from ₹10,000",
     description:
-      "Odia and English websites, Android and iOS apps, local SEO and WhatsApp automation for Jatani railway suppliers, student housing, coaching centres and shops.",
+      "Jatani Odia and English websites, Android and iOS apps, local SEO and WhatsApp automation for railway suppliers, student housing, coaching centres and shops.",
     keywords: [
       "IT services in Jatani",
       "IT services team in Jatni",
@@ -28,6 +28,11 @@ const jatani: CityContent = {
       "Jatani me website banwana",
       "Jatani re website tiari",
       "ଜଟଣୀ ୱେବସାଇଟ ଡିଜାଇନ",
+      "Jatani website designer",
+      "website cost in Jatani",
+      "web development company Jatani",
+      "hire freelance developer Jatani",
+      "Odisha SEO",
     ],
   },
   hero: {

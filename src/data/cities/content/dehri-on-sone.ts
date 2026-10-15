@@ -7,7 +7,7 @@ const dehriOnSone: CityContent = {
   meta: {
     title: "Dehri-on-Sone Websites, SEO and WhatsApp Tools",
     description:
-      "Website design, Google Maps listings and WhatsApp automation for Dehri-on-Sone traders, transporters, sand suppliers, clinics and coaching centres. From ₹10,000.",
+      "Dehri-on-Sone web design, Google Maps listings and WhatsApp automation for traders, transporters, sand suppliers, clinics and coaching centres. From ₹10,000.",
     keywords: [
       "website development team in Dehri",
       "web designer Dehri-on-Sone",
@@ -25,6 +25,14 @@ const dehriOnSone: CityContent = {
       "ecommerce website Dehri",
       "website maintenance Rohtas",
       "डेहरी ऑन सोन वेबसाइट",
+      "Dehri-on-Sone website designer",
+      "web development company Dehri-on-Sone",
+      "hire freelance developer Dehri-on-Sone",
+      "Bihar SEO",
+      "Dehri-on-Sone me website kaise banwaye",
+      "website for transport and logistics in Dehri-on-Sone",
+      "web designer in Station Road, Dehri-on-Sone",
+      "website for sand and building material in Dehri-on-Sone",
     ],
   },
   hero: {

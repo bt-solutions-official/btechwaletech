@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 27.4728, lng: 94.912 },
   meta: {
-    title: "Freelance Software & App Developers in Dibrugarh",
+    title: "Dibrugarh App & Software Developers: Tea & Pharmacies",
     description:
       "Freelance software developers in Dibrugarh for vendor compliance tools, pharmacy stock, tea traceability, AI and apps. Three remote engineers, from ₹10,000.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "web developer near me Chowkidinghee",
       "ডিব্ৰুগড়ত ছফ্টৱেৰ ডেভেলপাৰ",
       "Dibrugarh mein software aur app banwana",
+      "Dibrugarh website designer",
+      "website cost in Dibrugarh",
+      "IT company in Dibrugarh",
+      "Assam SEO services",
+      "hire developer Dibrugarh",
+      "industrial software in Dibrugarh",
+      "pharmacies software in Dibrugarh",
+      "tea software in Dibrugarh",
+      "builders software in Dibrugarh",
+      "website developer Chowkidinghee Dibrugarh",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const samalkot: CityContent = {
   meta: {
     title: "IT Services in Samalkot | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Samalkot oil and food units, rail-junction traders, temple visitors, clinics and shops.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Samalkot oil and food units, rail-junction traders, temple visitors, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Samalkot",
       "IT services team in Samalkot",
@@ -29,6 +29,12 @@ const samalkot: CityContent = {
       "Samalkot me website banwana",
       "Samalkot lo website cheyinchali",
       "సామర్లకోట వెబ్‌సైట్ డిజైన్",
+      "Samalkot website designer",
+      "web development company Samalkot",
+      "hire freelance web developer Samalkot",
+      "Kakinada district SEO",
+      "website designer Kakinada district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

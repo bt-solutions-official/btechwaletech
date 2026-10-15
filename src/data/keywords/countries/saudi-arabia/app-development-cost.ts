@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `App Development Cost in Saudi Arabia: from ${P.app}`,
-    description: `App development cost in Saudi Arabia, broken down: Android and iOS apps from ${P.app}, backend, admin panel, store fees and yearly running costs, itemised in USD.`,
+    description: `App development cost in Saudi Arabia: Android and iOS apps from ${P.app}, backend, admin panel, store fees and yearly running costs, itemised in USD.`,
     keywords: [
       "app development cost in saudi arabia", "app development cost saudi arabia", "mobile app development cost saudi arabia",
       "how much does an app cost in saudi arabia", "how much does it cost to build an app in ksa", "app development price riyadh",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "apple developer program fee saudi arabia", "google play developer account fee", "offshore app development cost india",
       "app development quote in usd", "cheap app development saudi arabia", "app development cost in sar",
       "how long does it take to build an app", "hidden costs of app development", "app budget for small business ksa",
+      "hire app development in Saudi Arabia", "freelance app development Saudi Arabia",
     ],
   },
   hero: {

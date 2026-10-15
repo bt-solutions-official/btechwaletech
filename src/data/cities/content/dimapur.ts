@@ -7,7 +7,7 @@ const dimapur: CityContent = {
   meta: {
     title: "IT Services in Dimapur: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Dimapur and Chümoukedima traders, wholesalers and schools. Static sites from ₹10,000.",
+      "Dimapur and Chümoukedima websites, local SEO, online stores and WhatsApp automation for traders, wholesalers and schools. Static sites from ₹10,000.",
     keywords: [
       "website development team in Dimapur",
       "web design Dimapur",
@@ -24,6 +24,15 @@ const dimapur: CityContent = {
       "website maintenance Dimapur",
       "Naga products online store",
       "Dimapur me website kaise banwaye",
+      "Dimapur website designer",
+      "website cost in Dimapur",
+      "web development company Dimapur",
+      "hire freelance developer Dimapur",
+      "Nagaland SEO",
+      "website for wholesale and distribution in Dimapur",
+      "web designer in Hong Kong Market, Dimapur",
+      "website for retail stores in Dimapur",
+      "mobile app developer in Dimapur",
     ],
   },
   hero: {

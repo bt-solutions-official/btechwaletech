@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 24.3319, lng: 92.0072 },
   meta: {
-    title: "Freelance App & Software Developers in Kailashahar",
+    title: "Kailashahar App & Software Developers: Tea Estates",
     description:
       "Hire freelance developers for Kailashahar and Unakoti: tea estate software, apps, AI automation, heritage tourism sites and SEO. Websites from ₹10,000.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "mobile app developers Kailashahar",
       "Android app development Kailashahar",
       "iOS app development Unakoti",
+      "Kailashahar website designer",
+      "website cost in Kailashahar",
+      "IT company in Kailashahar",
+      "Tripura SEO services",
+      "hire developer Kailashahar",
+      "tea estates software in Kailashahar",
+      "heritage tourism software in Kailashahar",
+      "retail software in Kailashahar",
+      "schools software in Kailashahar",
+      "website developer Kailashahar town centre Kailashahar",
     ],
   },
   hero: {

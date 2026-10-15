@@ -7,7 +7,7 @@ const gudur: CityContent = {
   meta: {
     title: "IT Services in Gudur | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Gudur lemon traders, mica and mineral firms, prawn farmers, colleges and clinics.",
+      "Gudur Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for lemon traders, mica and mineral firms, prawn farmers, colleges and clinics.",
     keywords: [
       "IT services in Gudur",
       "IT services team in Gudur",
@@ -29,6 +29,10 @@ const gudur: CityContent = {
       "Gudur me website banwana",
       "Gudur lo website cheyinchali",
       "గూడూరు వెబ్‌సైట్ డిజైన్",
+      "Gudur website designer",
+      "web development company Gudur",
+      "hire freelance developer Gudur",
+      "Andhra Pradesh SEO",
     ],
   },
   hero: {

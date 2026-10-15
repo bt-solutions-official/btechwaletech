@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "online ordering system for restaurants amsterdam", "online ordering system for restaurants rotterdam", "online ordering system for restaurants utrecht",
       "online ordering system for restaurants eindhoven", "pizza ordering website netherlands", "snackbar online bestellen systeem",
       "restaurant ordering system developer india",
+      "hire online ordering system for restaurants in the Netherlands", "freelance online ordering system for restaurants Netherlands",
     ],
   },
   hero: {
@@ -74,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Kitchen and POS hand-off", note: "Orders print on a network receipt printer or show on a kitchen tablet; where your POS has an open API we push orders into it.", size: "md" },
       { name: "WhatsApp order updates and reorder", note: "Opt-in confirmations, ‘driver on the way’ messages and a reorder link sent through the WhatsApp Business Platform.", href: "/netherlands/whatsapp-chatbot-for-business/", size: "md" },
       { name: "Loyalty and vouchers", note: "Points per order, a free item after a set number of orders, or voucher codes for quiet weekday evenings.", size: "sm" },
-      { name: "Local SEO for the ordering site", note: `Menu pages, opening hours, schema and Google Business Profile links, from ${P.seo} a month. Nobody can promise positions.`, href: "/netherlands/technical-seo-services/", size: "sm" },
+      { name: "Local SEO for the ordering site", note: `Menu pages, opening hours, schema and Google Business Profile links, from ${P.seo}. Nobody can promise positions.`, href: "/netherlands/technical-seo-services/", size: "sm" },
       { name: "Care after launch", note: `Menu changes, payment updates and hosting checks; two months free, then from ${P.care}.`, size: "sm" },
     ],
   },
@@ -293,7 +294,7 @@ const content: FreelanceContent = {
         `Then the ordering link goes everywhere guests already are: the Google Business Profile, your Instagram bio, the menu card QR code and the WhatsApp business profile. Reviews stay on Google, where you control the replies, instead of inside a marketplace app.`,
       ],
       after: [
-        `If you want ongoing help, local SEO starts from ${P.seo} a month; the <a href='/netherlands/technical-seo-services/'>technical SEO page</a> explains what that covers for Dutch sites.`,
+        `If you want ongoing help, local SEO starts from ${P.seo}; the <a href='/netherlands/technical-seo-services/'>technical SEO page</a> explains what that covers for Dutch sites.`,
       ],
     },
     {

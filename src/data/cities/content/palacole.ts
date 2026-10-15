@@ -7,7 +7,7 @@ const palacole: CityContent = {
   meta: {
     title: "IT Services in Palacole | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Palacole (Palakollu) rice mills, aqua farms, coconut traders, clinics and shops.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Palacole (Palakollu) rice mills, aqua farms, coconut traders, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Palacole",
       "IT services team in Palacole",
@@ -29,6 +29,12 @@ const palacole: CityContent = {
       "Palacole me website banwana",
       "Palakollu lo website cheyinchali",
       "పాలకొల్లు వెబ్‌సైట్ డిజైన్",
+      "Palacole website designer",
+      "web development company Palacole",
+      "hire freelance web developer Palacole",
+      "West Godavari SEO services",
+      "website designer West Godavari",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

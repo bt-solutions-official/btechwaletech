@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 31.7087, lng: 76.932 },
   meta: {
-    title: "Freelance Software Developers in Mandi, Himachal",
+    title: "Mandi, Himachal Software Developers: Wholesale & Transport",
     description:
       "Comparing software development companies in Mandi? Hire our freelance group for custom software, AI automation, apps and SEO, with starting prices in INR.",
     keywords: [
@@ -33,6 +33,12 @@ const content: CityContent = {
       "website maintenance Mandi",
       "Mandi mein software team",
       "मंडी में सॉफ्टवेयर कंपनी",
+      "Mandi website designer",
+      "website cost in Mandi",
+      "IT company in Mandi",
+      "Himachal Pradesh SEO services",
+      "hire developer Mandi",
+      "wholesale software in Mandi",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const bahraich: CityContent = {
   meta: {
     title: "IT Services in Bahraich: Websites, Apps, SEO & AI",
     description:
-      "Websites, Hindi local SEO and WhatsApp automation for Bahraich traders, sugar belt suppliers, clinics, schools and Rupaidiha border businesses. From ₹10,000.",
+      "Bahraich websites, Hindi local SEO and WhatsApp automation for traders, sugar belt suppliers, clinics, schools and Rupaidiha border businesses. From ₹10,000.",
     keywords: [
       "website development team in Bahraich",
       "website designer Bahraich",
@@ -24,6 +24,15 @@ const bahraich: CityContent = {
       "website design Rupaidiha",
       "freelance web developer Bahraich",
       "बहराइच वेबसाइट डिजाइन",
+      "Bahraich website designer",
+      "website cost in Bahraich",
+      "web development company Bahraich",
+      "hire freelance developer Bahraich",
+      "Uttar Pradesh SEO",
+      "Bahraich me website kaise banwaye",
+      "website for wholesale and retail traders in Bahraich",
+      "web designer in Chittaura Jheel, Bahraich",
+      "website for hospitals, clinics and labs in Bahraich",
     ],
   },
   hero: {

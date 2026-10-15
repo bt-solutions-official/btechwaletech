@@ -5,9 +5,9 @@ const vapi: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 20.372, lng: 72.917 },
   meta: {
-    title: "Vapi Website & Software Developers | GIDC Suppliers",
+    title: "Vapi Website Design for GIDC Chemical & Pharma Units",
     description:
-      "Websites, SEO, B2B catalogues and WhatsApp automation for Vapi GIDC manufacturers, traders, schools and clinics. Sites from ₹10,000, apps from ₹60,000.",
+      "Vapi websites, B2B catalogues and plant software for GIDC chemical and dye makers, pharma and API units and packaging suppliers. From ₹10,000.",
     keywords: [
       "website development team in Vapi",
       "web design Vapi",
@@ -24,6 +24,21 @@ const vapi: CityContent = {
       "website maintenance Vapi",
       "Vapi ma website banavvi",
       "वापी वेबसाइट डिज़ाइन",
+      "Vapi website designer",
+      "web development company Vapi",
+      "hire freelance web developer Vapi",
+      "Gujarat SEO services",
+      "Vapi me website kaise banwaye",
+      "Vapi website banwane ka kharcha",
+      "website design Vapi GIDC phases",
+      "website design Chala Vapi",
+      "website design Koparli Road Vapi",
+      "website design Chharwada Vapi",
+      "website design Balitha Vapi",
+      "website design price in Vapi",
+      "app development company Vapi",
+      "Vapi SEO company",
+      "Google Maps listing Vapi",
     ],
   },
   hero: {

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Custom WordPress plugin development",
   updated: "2026-09-25",
   meta: {
-    title: `Custom WordPress Plugin Development: One Lean Plugin`,
+    title: "Custom WordPress Plugin Development: Cost & Timeline",
     description: `Custom WordPress plugin development for CRM, payment and SMS integrations, admin screens and custom post types. Itemised quote in 2 days; care from ${P.care}.`,
     keywords: [
       "custom wordpress plugin development", "custom wordpress plugin developer", "wordpress plugin development services", "wordpress plugin development cost",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "woocommerce custom plugin development", "wordpress plugin security audit", "wordpress plugin maintenance", "custom wordpress functionality",
       "wordpress plugin banwana hai", "freelance wordpress plugin developer", "wordpress plugin development for business", "wordpress hooks developer",
       "custom wordpress plugin development near me", "wordpress plugin for lead management",
+      "custom wordpress plugin development company in India",
+      "best custom wordpress plugin development in India",
     ],
   },
   hero: {
@@ -397,7 +399,7 @@ const content: FreelanceContent = {
     { question: "Can you audit the plugins we already have?", answer: "Yes. We list every active plugin, what it does, when it last updated, what it loads on each page and where features overlap. You get a plan: keep, replace with a better-maintained plugin, merge into a custom plugin, or remove. The audit appears as its own line in your quote, and you decide what to act on." },
     { question: "Do you publish our plugin on WordPress.org?", answer: "No. Client plugins stay private in your repository. Publishing is your decision. If you want to release a plugin publicly, it would need a GPL-compatible licence and must follow the directory guidelines, and we can help prepare it, but we never publish your code under our name." },
     { question: "How do payments work for custom WordPress plugin development?", answer: "Payments follow milestones in your approved quote. Clients in India pay by UPI or bank transfer and receive GST invoices where applicable. International clients are quoted in USD and pay by Wise, bank wire or PayPal. Nothing is billed before you approve the itemised quote in writing." },
-    { question: "What happens after the plugin goes live?", answer: `Two months of free maintenance cover bug fixes and small adjustments. After that, plans start at ${P.care} a month and include compatibility checks for new WordPress and PHP versions, dependency updates and minor changes. New features are quoted separately so the monthly cost stays predictable.` },
+    { question: "What happens after the plugin goes live?", answer: `Two months of free maintenance cover bug fixes and small adjustments. After that, plans start at ${P.care} and include compatibility checks for new WordPress and PHP versions, dependency updates and minor changes. New features are quoted separately so the monthly cost stays predictable.` },
     { question: "Can a plugin add AI features to WordPress?", answer: `Yes. Common examples are classifying enquiries by course or product, drafting replies for staff to approve, summarising long form submissions and extracting details from uploaded documents. We agree what data may be sent to an AI provider before building. AI automation starts at ${P.ai} and usually takes 2–4 weeks.` },
     { question: "Do you offer custom WordPress plugin development to clients outside India?", answer: `Yes. International clients receive USD quotes, with standalone plugins priced as custom software from ${P.softwareUsd}, and pay by Wise, bank wire or PayPal. We work in IST and schedule calls in overlapping hours. Code ownership and the security checklist are the same for every client.` },
   ],

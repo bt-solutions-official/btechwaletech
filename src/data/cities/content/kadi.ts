@@ -7,7 +7,7 @@ const kadi: CityContent = {
   meta: {
     title: "IT Services in Kadi | Web, Apps & AI from ₹10,000",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Kadi ginning units, oil mills, GIDC factories, schools, clinics and traders.",
+      "Kadi Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for ginning units, oil mills, GIDC factories, schools, clinics and traders.",
     keywords: [
       "IT services in Kadi",
       "IT services team in Kadi",
@@ -29,6 +29,10 @@ const kadi: CityContent = {
       "Kadi ma website banavvi",
       "કડી વેબસાઇટ ડિઝાઇન",
       "Thol Kadi Kalol web developer",
+      "Kadi website designer",
+      "web development company Kadi",
+      "hire freelance developer Kadi",
+      "Gujarat SEO",
     ],
   },
   hero: {

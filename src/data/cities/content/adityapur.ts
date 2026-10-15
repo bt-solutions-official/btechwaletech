@@ -7,7 +7,7 @@ const adityapur: CityContent = {
   meta: {
     title: "IT Services in Adityapur: Websites, Apps, SEO & AI",
     description:
-      "Websites, vendor profiles, RFQ forms, ERP-style tools and WhatsApp automation for Adityapur's auto-component MSMEs, suppliers, schools, clinics and shops.",
+      "Adityapur's websites, vendor profiles, RFQ forms, ERP-style tools and WhatsApp automation for auto-component MSMEs, suppliers, schools, clinics and shops.",
     keywords: [
       "website development team in Adityapur",
       "web designer Adityapur",
@@ -25,6 +25,14 @@ const adityapur: CityContent = {
       "आदित्यपुर वेबसाइट डिज़ाइन",
       "Gamharia industrial website",
       "website maintenance Jamshedpur",
+      "Adityapur website designer",
+      "website cost in Adityapur",
+      "web development company Adityapur",
+      "hire freelance developer Adityapur",
+      "Jharkhand SEO",
+      "Adityapur me website kaise banwaye",
+      "website for auto-component manufacturers in Adityapur",
+      "web designer in Gamharia, Adityapur",
     ],
   },
   hero: {

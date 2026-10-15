@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 29.2183, lng: 79.513 },
   meta: {
-    title: "Hire Freelance Software Developers in Haldwani",
+    title: "Haldwani Software Developers: FMCG & Mandi Traders",
     description:
-      "Searching for a software development team in Haldwani? Our freelance team builds distributor, mandi, fleet and hospital software, apps and AI automation.",
+      "Searching for a software development team in Haldwani? Our freelance team builds distributor, mandi and fleet software. From ₹10,000, quote in 2 days.",
     keywords: [
       "software development team in Haldwani",
       "IT services team in Haldwani",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "iPhone app developers Haldwani",
       "हल्द्वानी में सॉफ्टवेयर डेवलपर",
       "Haldwani mein app banwana",
+      "Haldwani website designer",
+      "website cost in Haldwani",
+      "IT company in Haldwani",
+      "Uttarakhand SEO services",
+      "hire developer Haldwani",
+      "fmcg software in Haldwani",
     ],
   },
   hero: {

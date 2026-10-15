@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Rapar, Kutch: From ${P.site}`,
-    description: `Website developer in Rapar for agri dealers, traders, clinics, schools and Dholavira stays. Gujarati-first sites from ${P.site}, WhatsApp enquiries, built remotely.`,
+    description: `Website developer in Rapar for agri dealers, traders, clinics, schools & Dholavira stays. Gujarati-first sites from ${P.site}, WhatsApp enquiries, remote build.`,
     keywords: [
       "website developer in Rapar", "website developer Rapar", "Rapar website developer", "website developer near me Rapar",
       "Rapar Kutch website", "Rapar Gujarat web developer", "Vagad website developer", "website designer Rapar",

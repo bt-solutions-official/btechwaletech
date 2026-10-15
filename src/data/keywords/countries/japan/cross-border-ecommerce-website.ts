@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "own store vs amazon for japanese brand", "cross border ecommerce tokyo", "cross border ecommerce osaka", "cross border ecommerce kyoto",
       "cross border ecommerce fukuoka", "japanese craft online store english", "cross border ecommerce developer near me",
       "direct to consumer export japan",
+      "hire cross border e commerce in Japan", "freelance cross border e commerce Japan",
     ],
   },
   hero: {

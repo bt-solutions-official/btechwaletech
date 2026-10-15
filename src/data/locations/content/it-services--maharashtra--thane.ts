@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 19.2183, lng: 72.9781 },
   meta: {
-    title: "Freelance Software Developers in Thane | IT Solutions",
+    title: "Thane Software Developers: Society, CRM & Web Apps",
     description:
       "Freelance software developers for Thane: web apps, society and CRM software, AI agents, dashboards and SEO. Custom software from ₹60,000, UPI or bank payment.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "Android app development Thane",
       "mobile app developers Thane",
       "iPhone app developers Thane",
+      "Thane website designer",
+      "website cost in Thane",
+      "IT company in Thane",
+      "Maharashtra SEO services",
+      "hire developer Thane",
+      "real software in Thane",
+      "housing software in Thane",
     ],
   },
   hero: {

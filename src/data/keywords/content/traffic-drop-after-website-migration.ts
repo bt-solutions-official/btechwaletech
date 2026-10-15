@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Traffic drop after website migration",
   updated: "2026-09-25",
   meta: {
-    title: "Traffic Drop After Website Migration: How to Recover",
+    title: `Traffic Drop After Website Migration: Recover (2026)`,
     description: `Traffic drop after website migration? Find the missing redirects, staging noindex and lost pages, then recover. Monthly SEO from ${P.seo}, itemised quote.`,
     keywords: [
       "traffic drop after website migration", "traffic drop after site migration", "seo traffic drop after migration", "organic traffic drop after redesign",

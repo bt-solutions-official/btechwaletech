@@ -7,7 +7,7 @@ const yevla: CityContent = {
   meta: {
     title: "IT Services in Yeola | Web, Apps & AI from ₹10,000",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Yeola Paithani weavers, saree showrooms, onion traders, schools and clinics.",
+      "Marathi websites, apps, local SEO and WhatsApp tools for Yeola Paithani weavers, saree showrooms, onion traders, schools and clinics. Websites from ₹10,000.",
     keywords: [
       "IT services in Yeola",
       "IT services team in Yevla",
@@ -29,6 +29,12 @@ const yevla: CityContent = {
       "Yeola me website banwana",
       "Yeolyat website banvaychi aahe",
       "येवला वेबसाइट डिझाइन",
+      "Yeola website designer",
+      "web development company Yeola",
+      "hire freelance web developer Yeola",
+      "Nashik district SEO",
+      "website designer Nashik district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

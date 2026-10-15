@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Shopify Developer in Surat: Stores from ${P.shop}`,
-    description: `Shopify developer in Surat for fashion, jewellery and food brands: theme setup, apps, Indian payment providers, shipping and GST invoices. Stores from ${P.shop}.`,
+    description: `Shopify developer in Surat for fashion, jewellery and food brands: theme setup, apps, Indian payment providers, shipping & GST invoices. Stores from ${P.shop}.`,
     keywords: [
       "Shopify developer in Surat", "Shopify developer Surat", "Shopify developer near me", "Shopify expert Surat Gujarat",
       "Shopify store setup Surat", "Shopify website development Surat", "Shopify store designer Surat", "freelance Shopify developer Surat",

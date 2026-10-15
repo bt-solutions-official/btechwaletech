@@ -26,7 +26,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "AI search visibility for UK businesses",
     h1: "AI search optimisation services for UK businesses that want to be cited, not skipped",
-    lede: `AI search optimisation services help your business get named and linked when people ask Google AI Overviews, ChatGPT or Perplexity who to hire, what something costs or how a problem gets solved. BtechWaleTech is three freelance developers in India who handle the technical side (crawler access, schema, entity signals, answer-first pages) and measure the results in GA4 and Search Console, from ${P.seo} a month. It builds on normal SEO rather than replacing it, which is why many clients start with a <a href='/uk/technical-seo-audit/'>technical SEO audit</a>.`,
+    lede: `AI search optimisation services help your business get named and linked when people ask Google AI Overviews, ChatGPT or Perplexity who to hire, what something costs or how a problem gets solved. BtechWaleTech is three freelance developers in India who handle the technical side (crawler access, schema, entity signals, answer-first pages) and measure the results in GA4 and Search Console, from ${P.seo}. It builds on normal SEO rather than replacing it, which is why many clients start with a <a href='/uk/technical-seo-audit/'>technical SEO audit</a>.`,
     pills: ["Google AI Overviews and AI Mode", "ChatGPT search and Perplexity", "Entity and schema work", "robots.txt and llms.txt reviewed", "Answer-first page rewrites", "AI referrals tracked in GA4", "Local SEO joined up"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · UK late mornings overlap our day",
   },
@@ -46,7 +46,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What do AI search optimisation services involve for a UK business?",
-    text: `AI search optimisation services make your site easy for AI systems to crawl, understand and quote: allowing the right AI crawlers, consistent entity and brand signals, schema, answer-first pages and GA4 tracking of AI referrals. It sits on top of solid SEO, not instead of it. BtechWaleTech offers this for UK businesses from ${P.seo} a month.`,
+    text: `AI search optimisation services make your site easy for AI systems to crawl, understand and quote: allowing the right AI crawlers, consistent entity and brand signals, schema, answer-first pages and GA4 tracking of AI referrals. It sits on top of solid SEO, not instead of it. BtechWaleTech offers this for UK businesses from ${P.seo}.`,
     more: `If your business depends on local customers, pair this with <a href='/uk/local-seo-services/'>local SEO services in the UK</a>; if the site itself is slow or hard to crawl, a <a href='/uk/website-redesign-services/'>redesign that protects rankings</a> may come first.`,
   },
   snapshot: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Technical work", value: "robots.txt for AI crawlers, schema, entity consistency, optional llms.txt" },
       { label: "Content work", value: "Answer-first rewrites of service, pricing and FAQ pages" },
       { label: "Measurement", value: "GA4 custom channel for AI assistants, Search Console for Google" },
-      { label: "Starting price", value: `From ${P.seo} a month` },
+      { label: "Starting price", value: `From ${P.seo}` },
       { label: "What we will not promise", value: "Guaranteed citations, positions or traffic numbers" },
     ],
   },
@@ -88,13 +88,13 @@ const content: FreelanceContent = {
       ["Joins up with local SEO", "Often separate", "No", "Planned together"],
       ["Rewrites pages answer-first", "Depends on the provider", "No", "Yes, with your approval"],
       ["Promises citations or positions", "Should not", "Should not", "Never"],
-      ["Pricing basis", "Quotes vary widely", "Subscription", `From ${P.seo} a month`],
+      ["Pricing basis", "Quotes vary widely", "Subscription", `From ${P.seo}`],
     ],
     fine: "Tracking tools can be useful alongside our work; they measure, but someone still has to change the website, and that is the part we do.",
   },
   pricing: {
     heading: "What AI search optimisation services cost with us",
-    note: `AI search optimisation services start from ${P.seo} a month and usually run inside a normal SEO retainer, because the same pages serve both classic results and AI answers. The first month is heavier: the audit, robots.txt review, schema build, GA4 channel set-up and the first answer-first rewrites. Later months focus on new and improved pages, entity consistency across listings and monthly prompt testing. Sites that are too slow or badly structured for either kind of search may need a rebuild first; an SEO-focused site starts from ${P.seoSite}. Every figure is a starting price, confirmed in an itemised quote before any work.`,
+    note: `AI search optimisation services start from ${P.seo} and usually run inside a normal SEO retainer, because the same pages serve both classic results and AI answers. The first month is heavier: the audit, robots.txt review, schema build, GA4 channel set-up and the first answer-first rewrites. Later months focus on new and improved pages, entity consistency across listings and monthly prompt testing. Sites that are too slow or badly structured for either kind of search may need a rebuild first; an SEO-focused site starts from ${P.seoSite}. Every figure is a starting price, confirmed in an itemised quote before any work.`,
   },
   guideLabel: "AI search optimisation services: the UK guide",
   guide: [
@@ -248,7 +248,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do AI search optimisation services cost in the UK?",
       paragraphs: [
-        `Quotes vary widely, because “AI search optimisation” can mean a one-page report or months of implemented changes. With us, AI search optimisation services start from ${P.seo} a month, usually as part of an SEO retainer, with the first month weighted towards audit and set-up.`,
+        `Quotes vary widely, because “AI search optimisation” can mean a one-page report or months of implemented changes. With us, AI search optimisation services start from ${P.seo}, usually as part of an SEO retainer, with the first month weighted towards audit and set-up.`,
         `What moves the price is the amount of implementation, not the label. A ten-page local business site with sound foundations needs mostly schema, entity tidying, a robots.txt review, GA4 set-up and a few rewrites. A 400-page ecommerce or professional services site with duplicate content, slow templates and inconsistent listings needs far more.`,
       ],
       list: [
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
       id: "first-90-days",
       eyebrow: "Plan",
       heading: "A typical first 90 days of AI search optimisation",
-      note: `Retainers start from ${P.seo} a month. Sites with serious technical problems spend longer in month one.`,
+      note: `Retainers start from ${P.seo}. Sites with serious technical problems spend longer in month one.`,
       columns: ["Period", "Work", "What you receive"],
       rows: [
         ["Weeks 1–2", "Access, baseline prompts, crawl and robots.txt review", "Baseline log and priority list"],
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
   faqHeading: "AI search optimisation services: questions UK businesses ask",
   faqs: [
     { question: "What are AI search optimisation services?", answer: "AI search optimisation services make a website easy for AI-powered search tools such as Google AI Overviews, ChatGPT search and Perplexity to crawl, understand and cite. The work covers AI crawler access, entity consistency, schema, answer-first page structure and measuring AI referrals. It builds on normal SEO; a site that struggles in ordinary search rarely gets cited in AI answers." },
-    { question: "How much do AI search optimisation services cost in the UK?", answer: `Quotes vary widely depending on how much implementation is included. With BtechWaleTech, AI search optimisation starts from ${P.seo} a month, usually within an SEO retainer. The first month is heavier, covering the audit, robots.txt review, schema and GA4 set-up. Larger sites, many locations or major technical problems increase the scope, and every quote is itemised.` },
+    { question: "How much do AI search optimisation services cost in the UK?", answer: `Quotes vary widely depending on how much implementation is included. With BtechWaleTech, AI search optimisation starts from ${P.seo}, usually within an SEO retainer. The first month is heavier, covering the audit, robots.txt review, schema and GA4 set-up. Larger sites, many locations or major technical problems increase the scope, and every quote is itemised.` },
     { question: "What is the difference between GEO and SEO?", answer: "SEO aims to rank pages in search results; GEO, or generative engine optimisation, aims to have your pages cited in AI-written answers. Most of the work overlaps: indexable pages, strong content and trust signals. GEO adds decisions about AI crawlers, answer-first passages that stand alone, entity consistency across the web and measuring AI assistant referrals separately." },
     { question: "Do I need special files or markup to appear in Google AI Overviews?", answer: "No. Google's guidance says there are no additional requirements to appear in AI Overviews or AI Mode, and that you do not need new machine-readable files, AI text files or markup. Pages need to be indexed and eligible for a snippet in Google Search. Clear, helpful, well-structured content does the rest." },
     { question: "How do I get my business mentioned by ChatGPT?", answer: "Make sure OpenAI's OAI-SearchBot can crawl your site, because OpenAI says sites opted out of it will not appear in ChatGPT search answers. Then give it clear, specific pages that answer buyer questions, keep your business details consistent across the web, and earn genuine mentions on reputable sites. Nobody can guarantee a mention." },
@@ -459,7 +459,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Find out whether AI assistants can see you",
-    note: `Send your domain and the questions you want to be the answer to. We will test a baseline, check your crawler access and reply with an itemised quote in about two working days. AI search optimisation starts from ${P.seo} a month.`,
+    note: `Send your domain and the questions you want to be the answer to. We will test a baseline, check your crawler access and reply with an itemised quote in about two working days. AI search optimisation starts from ${P.seo}.`,
   },
 };
 

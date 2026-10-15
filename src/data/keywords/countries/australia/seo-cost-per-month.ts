@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "seo contract red flags", "is seo worth it for small business", "how long does seo take", "seo cost sydney",
       "seo cost melbourne", "seo cost brisbane", "seo cost perth", "seo cost adelaide", "what does an seo retainer include",
       "seo monthly report what to expect", "seo agency vs freelancer australia", "measuring seo leads",
+      "hire an seo consultant in Australia",
     ],
   },
   hero: {

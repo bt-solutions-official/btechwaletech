@@ -7,7 +7,7 @@ const neyyattinkara: CityContent = {
   meta: {
     title: "IT Services in Neyyattinkara: Web, Apps, SEO & AI",
     description:
-      "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Neyyattinkara handloom sellers, Poovar resorts, clinics, colleges and shops.",
+      "Malayalam websites, apps, local SEO and WhatsApp tools for Neyyattinkara handloom sellers, Poovar resorts, clinics, colleges and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Neyyattinkara",
       "IT services team in Neyyattinkara",
@@ -29,6 +29,12 @@ const neyyattinkara: CityContent = {
       "Neyyattinkarayil website cheyyan",
       "നെയ്യാറ്റിൻകര വെബ്സൈറ്റ്",
       "Aralummoodu software team",
+      "Neyyattinkara website designer",
+      "web development company Neyyattinkara",
+      "hire freelance web developer Neyyattinkara",
+      "Thiruvananthapuram district SEO",
+      "website designer Thiruvananthapuram district",
+      "Kerala SEO services",
     ],
   },
   hero: {

@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `How Much Does a Website Cost NZ? Prices from ${P.site}`,
-    description: `How much does a website cost NZ businesses in 2026? Brochure sites from ${P.site}, SEO sites, stores and custom builds, plus GST and yearly running costs explained.`,
+    description: `How much does a website cost NZ businesses in 2026? Brochure sites from ${P.site}, SEO sites, stores and custom builds, plus GST and yearly running costs.`,
     keywords: [
       "how much does a website cost nz", "website cost nz", "website design cost nz", "how much is a website in new zealand",
       "website price nz", "small business website cost nz", "web design prices nz", "ecommerce website cost nz",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "gst on overseas web developer nz", "nz agency vs freelancer website cost", "cheap website nz",
       "website cost auckland", "website cost wellington", "website cost christchurch", "website cost hamilton",
       "how much should i pay for a website", "website quote nz", "custom website cost nz", "yearly website costs nz",
+      "hire website in New Zealand",
     ],
   },
   hero: {

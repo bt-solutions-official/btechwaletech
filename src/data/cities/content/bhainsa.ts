@@ -7,7 +7,7 @@ const bhainsa: CityContent = {
   meta: {
     title: "IT Services in Bhainsa | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu, Urdu and Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Bhainsa cotton traders, ginning units, dealers, clinics and schools.",
+      "Bhainsa Telugu, Urdu and Marathi websites, mobile apps, local SEO and WhatsApp bots for cotton traders, ginning units, dealers and clinics. ₹10,000 onwards.",
     keywords: [
       "IT services in Bhainsa",
       "IT services team in Bhainsa",
@@ -29,6 +29,10 @@ const bhainsa: CityContent = {
       "Bhainsa me website banwana",
       "Bhainsa lo website cheyinchali",
       "భైంసా వెబ్‌సైట్ డిజైన్",
+      "Bhainsa website designer",
+      "web development company Bhainsa",
+      "hire freelance developer Bhainsa",
+      "Telangana SEO",
     ],
   },
   hero: {

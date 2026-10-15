@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Grocery Delivery App Development Dubai: from ${P.app}`,
-    description: `Grocery delivery app development company in Dubai for supermarkets: POS/ERP stock sync, weighed items, substitutions, picker app. Apps from ${P.app}. Read the plan.`,
+    description: `Grocery delivery app development company in Dubai for supermarkets: POS/ERP stock sync, weighed items, substitutions, picker app. Apps from ${P.app}.`,
     keywords: [
       "grocery delivery app development company in dubai", "grocery delivery app development dubai", "grocery app development uae",
       "supermarket app development dubai", "hypermarket app development uae", "grocery delivery app developers dubai",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "grocery delivery app abu dhabi", "grocery delivery app sharjah", "supermarket online ordering system uae",
       "grocery app developers near me dubai", "flutter grocery app development", "grocery delivery app for supermarket chain",
       "own grocery app vs marketplace",
+      "hire grocery delivery app development in the UAE", "freelance grocery delivery app development UAE",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const chaibasa: CityContent = {
   meta: {
     title: "IT Services in Chaibasa: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Chaibasa mining contractors, transporters, Sadar Bazar shops, colleges and clinics.",
+      "Chaibasa websites, Android and iOS apps, local SEO and WhatsApp automation for mining contractors, transporters, Sadar Bazar shops, colleges and clinics.",
     keywords: [
       "IT services in Chaibasa",
       "IT services team in Chaibasa",
@@ -30,6 +30,9 @@ const chaibasa: CityContent = {
       "Chaibasa me website banwana",
       "Chaibasa me app banwana",
       "चाईबासा वेबसाइट डिज़ाइन",
+      "Chaibasa website designer",
+      "web development company Chaibasa",
+      "hire freelance developer Chaibasa",
     ],
   },
   hero: {

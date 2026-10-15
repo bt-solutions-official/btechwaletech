@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Google Merchant Center misrepresentation fix",
   updated: "2026-09-25",
   meta: {
-    title: "Google Merchant Center Misrepresentation Fix",
-    description: `Google Merchant Center misrepresentation fix for Indian Shopify and WooCommerce stores: trust pages, feed, checkout, review request. Store rebuilds from ${P.shop}.`,
+    title: `Merchant Center Misrepresentation Fix: 2026 Steps`,
+    description: `Merchant Center misrepresentation fix for Indian stores: the trust pages, feed and checkout mismatches, and review request. Store rebuilds from ${P.shop}.`,
     keywords: [
       "google merchant center misrepresentation fix", "merchant center misrepresentation fix", "google merchant center misrepresentation",
       "merchant center suspended misrepresentation", "misrepresentation suspension google shopping", "how to fix misrepresentation in google merchant center",
@@ -36,7 +36,7 @@ const content: FreelanceContent = {
   },
   facts: [
     ["Store rebuild", `From ${P.shop} · ${P.shopUsd}`],
-    ["Ongoing store SEO", `From ${P.seo} a month`],
+    ["Ongoing store SEO", `From ${P.seo}`],
     ["Google review time", "Up to 7 days, per Google help"],
     ["Platforms we fix", "Shopify, WooCommerce, custom stores"],
     ["Quote", "Itemised in about 2 working days"],
@@ -99,7 +99,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a Merchant Center misrepresentation fix costs",
-    note: `Most suspended stores need a quoted fix, not a new website. The quote depends on how many trust pages need rewriting, whether the theme or plugins create price mismatches, how large the catalogue is, and whether the product feed comes from an app, a plugin or a custom script. If the store is on an abandoned theme, has thousands of copied product descriptions or a checkout that cannot show all charges up front, a rebuild starting at ${P.shop} can be the cheaper route. Ongoing store SEO and feed checks start at ${P.seo} a month. You get an itemised quote in about two working days and nothing is billed before written approval.`,
+    note: `Most suspended stores need a quoted fix, not a new website. The quote depends on how many trust pages need rewriting, whether the theme or plugins create price mismatches, how large the catalogue is, and whether the product feed comes from an app, a plugin or a custom script. If the store is on an abandoned theme, has thousands of copied product descriptions or a checkout that cannot show all charges up front, a rebuild starting at ${P.shop} can be the cheaper route. Ongoing store SEO and feed checks start at ${P.seo}. You get an itemised quote in about two working days and nothing is billed before written approval.`,
   },
   guideLabel: "Google Merchant Center misrepresentation fix guide",
   guide: [
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
         ["Pirated or abandoned theme", "Rebuild", "4–8 weeks", `From ${P.shop}`],
         ["Catalogue of copied descriptions and images", "Rebuild or phased rewrite", "4–8 weeks", `From ${P.shop}`],
         ["Several failed reviews on the same store", "Deep audit, then decide", "About 2 working days to decide", "Quoted per job"],
-        ["Store healthy, needs ongoing checks", "Monthly SEO and feed monitoring", "Ongoing", `From ${P.seo} a month`],
+        ["Store healthy, needs ongoing checks", "Monthly SEO and feed monitoring", "Ongoing", `From ${P.seo}`],
       ],
     },
     {
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
     { question: "Does dropshipping cause Merchant Center misrepresentation?", answer: "Dropshipping is not banned, but hiding it is risky. Google's policy treats misrepresenting where products ship from, or promising delivery times you cannot meet, as a problem. Say where items ship from, give honest delivery estimates, use your own product photos where possible, and make returns practical. Anonymous dropshipping stores with copied content are the ones that struggle." },
     { question: "Should I create a new Merchant Center account after suspension?", answer: "No. Google's policy on abusing the Shopping network lists creating new accounts to re-enter the system after a suspension, and new sites or accounts built to show listings that were already disapproved, as egregious violations that lead to suspension without warning. Fix the store and use the review process on the original account instead; a genuinely separate business with its own site is a different matter." },
     { question: "Can you guarantee my Merchant Center account will be reinstated?", answer: "No. Only Google approves or reinstates Merchant Center accounts, and anyone promising approval cannot back it up. We make sure the store is honest and consistent in every detail Google checks, the feed matches the pages, and the review request is timed well. If your account falls into an egregious category, we tell you before you spend money." },
-    { question: "How much does a Merchant Center misrepresentation fix cost?", answer: `Fixes on an existing store are quoted per job after a diagnosis, based on how many pages, templates, plugins and feed settings need work, and the quote arrives in about two working days. If a rebuild is the better route, ecommerce stores start at ${P.shop}. Ongoing store SEO and feed checks start at ${P.seo} a month.` },
+    { question: "How much does a Merchant Center misrepresentation fix cost?", answer: `Fixes on an existing store are quoted per job after a diagnosis, based on how many pages, templates, plugins and feed settings need work, and the quote arrives in about two working days. If a rebuild is the better route, ecommerce stores start at ${P.shop}. Ongoing store SEO and feed checks start at ${P.seo}.` },
     { question: "Is it faster to rebuild my store than to fix it?", answer: `Sometimes. Rebuild when the theme is pirated or abandoned, product content was copied wholesale, the checkout cannot show all charges up front, or several reviews have already failed. Otherwise, fixing the existing store in three to ten working days is usually quicker than a four to eight week rebuild, which starts at ${P.shop}.` },
     { question: "Will fixing misrepresentation affect my store's SEO?", answer: "Usually positively. Clear business details, honest policies, one clean source of product structured data and accurate prices are also signals that help organic search and AI-generated shopping answers describe your store correctly. We avoid changing URLs during a fix, so rankings are not disturbed. If URLs must change in a rebuild, we map redirects first." },
     { question: "Does a Merchant Center suspension affect Google Ads?", answer: "Google's help says a suspended account's products are disabled from appearing across Google, which covers Shopping ads and free product listings alike. Your Google Ads account is a separate account with its own policies, but misleading landing pages can cause problems there too. Fixing the website helps both, because the same pages are reviewed." },

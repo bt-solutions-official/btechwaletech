@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Dealer or distributor portal", note: `Logins, dealer price lists, order history and stock visibility for repeat B2B buyers, from ${P.software}.`, href: "/gujarat/web-application-development-rajkot/", size: "md" },
       { name: "School, hospital or institute site", note: `Admissions, departments, doctors or courses, often on WordPress for weekly updates, from ${P.site}.`, size: "md" },
       { name: "Rebuild of an old site", note: "Priced like a new build, plus redirect mapping so existing Google traffic survives.", href: "/gujarat/website-redesign-rajkot/", size: "sm" },
-      { name: "Monthly SEO", note: `Optional, from ${P.seo} a month, for steady work on visibility.`, size: "sm" },
+      { name: "Monthly SEO", note: `Optional, from ${P.seo}, for steady work on visibility.`, size: "sm" },
       { name: "Care plan", note: `From ${P.care}, starting in the third month after launch.`, size: "sm" },
     ],
   },

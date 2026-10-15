@@ -7,7 +7,7 @@ const sangareddy: CityContent = {
   meta: {
     title: "IT Services in Sangareddy: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, SEO and AI automation for Sangareddy pharma and engineering suppliers, student housing near IIT Hyderabad, builders and clinics.",
+      "Websites, apps, SEO and AI automation for Sangareddy pharma and engineering suppliers, student housing near IIT Hyderabad, builders and clinics. From ₹10,000.",
     keywords: [
       "IT services in Sangareddy",
       "IT services team in Sangareddy",
@@ -30,6 +30,11 @@ const sangareddy: CityContent = {
       "Sangareddy me website banwana",
       "Sangareddy lo app cheyinchukovadam",
       "సంగారెడ్డి వెబ్‌సైట్ డిజైన్",
+      "Sangareddy website designer",
+      "web development company Sangareddy",
+      "hire freelance web developer Sangareddy",
+      "Telangana SEO services",
+      "Sangareddy me website kaise banwaye",
     ],
   },
   hero: {

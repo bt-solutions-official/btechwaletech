@@ -5,9 +5,9 @@ const mandi: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 31.7069, lng: 76.9317 },
   meta: {
-    title: "IT Services in Mandi | Web, Apps & AI from ₹10,000",
+    title: "Mandi Himachal Website Design: Hotels & Bazaar",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Mandi hotels, temple-town shops, orchard traders, clinics and coaching centres in Himachal.",
+      "Mandi websites, local SEO and booking pages for Himachal hotels and homestays, bazaar shawl and silver sellers and fruit agents. From ₹10,000.",
     keywords: [
       "IT services in Mandi",
       "IT services team in Mandi",
@@ -29,6 +29,16 @@ const mandi: CityContent = {
       "Mandi Shivratri fair homestay booking",
       "Mandi me website banwana",
       "Mandi Himachal app developer",
+      "Mandi website designer",
+      "web development company Mandi",
+      "hire freelance web developer Mandi",
+      "Mandi district SEO",
+      "website designer Mandi district",
+      "Himachal Pradesh SEO services",
+      "Mandi me website kaise banwaye",
+      "Mandi website banwane ka kharcha",
+      "Mandi bazaar retailers website",
+      "bazaar retailers website design Mandi",
     ],
   },
   hero: {

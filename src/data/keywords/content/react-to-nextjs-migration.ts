@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "next js migration freelancer", "preserve urls during migration", "next js redirects migration", "move auth to next js",
       "react to next js migration Bengaluru", "react to next js migration Hyderabad", "next js ssr for react app",
       "react app slow first load fix", "react se next js migrate karna", "hire next js migration developer",
+      "React to Next.js migration cost", "React to Next.js migration price", "React to Next.js migration company", "best React to Next.js migration in India",
+      "React to Next.js migration cost in India", "React to Next.js migration service",
     ],
   },
   hero: {
@@ -320,8 +322,8 @@ const content: FreelanceContent = {
         ["App with logins and APIs", "Auth migration, dashboards, API wiring, staged releases", `${P.software} · ${P.softwareUsd}`, "6–12 weeks"],
         ["New SEO pages added during migration", "299+ pages generated from data with schema", `${P.seoSite} · ${P.seoSiteUsd}`, "3–5 weeks"],
         ["React storefront migration", "Product and category pages rendered, checkout kept working", `${P.shop} · ${P.shopUsd}`, "4–8 weeks"],
-        ["Monthly SEO after launch", "Search Console monitoring, fixes, content", `${P.seo}/month`, "Ongoing"],
-        ["Care after 2 free months", "Next.js and dependency updates, small changes", `${P.care}/month`, "Ongoing"],
+        ["Monthly SEO after launch", "Search Console monitoring, fixes, content", `${P.seo}`, "Ongoing"],
+        ["Care after 2 free months", "Next.js and dependency updates, small changes", `${P.care}`, "Ongoing"],
       ],
       hideSm: [1],
     },
@@ -380,7 +382,7 @@ const content: FreelanceContent = {
     { question: "Do you convert the code to TypeScript at the same time?", answer: "If you want, yes. We can convert the files we touch to TypeScript as they move, with strict checks on new code, leaving untouched files in JavaScript until later. It adds some time to each stage but makes the migrated code safer to change. We list it as a separate line in the quote so you can decide." },
     { question: "Who owns the code and hosting during the migration?", answer: "You do. The repository, hosting account, domain and any third-party services stay in your name, and we work as collaborators. At the end you receive documentation covering the route plan, rendering choices, environment variables, deployment and redirects, so your team or another developer can maintain the Next.js app." },
     { question: "React se Next.js migrate karna hai, shuru kaise karein?", answer: "WhatsApp par live URL aur repository ka read access bhejiye, aur batayein kaunse pages Google par rank hone chahiye. Hum code aur URLs check karke lagbhag do working days mein route plan aur itemised quote dete hain. Written approval se pehle koi payment nahi hota, aur code aur hosting aapke naam par hi rehte hain." },
-    { question: "What support do we get after the migration goes live?", answer: `Two months of free maintenance: bug fixes, redirect corrections, Next.js and dependency updates, and help reading Search Console as the new pages are indexed. After that, care plans start at ${P.care} a month, or your own team can take over using the handover documents. Support scope is written into the quote.` },
+    { question: "What support do we get after the migration goes live?", answer: `Two months of free maintenance: bug fixes, redirect corrections, Next.js and dependency updates, and help reading Search Console as the new pages are indexed. After that, care plans start at ${P.care}, or your own team can take over using the handover documents. Support scope is written into the quote.` },
     { question: "How do payments work for a migration project?", answer: "Indian clients pay by UPI or bank transfer, and international clients in USD by Wise, bank wire or PayPal. Payments are staged against releases you can see, such as the app running on Next.js or public pages migrated. Terms such as confidentiality are agreed in your written quote before work starts." },
   ],
   related: {

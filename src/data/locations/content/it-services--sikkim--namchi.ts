@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 27.1667, lng: 88.3639 },
   meta: {
-    title: "Freelance IT & Software Developers in Namchi",
+    title: "Namchi Software Developers: Pilgrim Hotels, Taxi & Tea",
     description:
-      "Searching for an IT services team in Namchi? Hire freelancers for pilgrim booking systems, tour pages, tea and cardamom stores, AI replies and apps. From ₹10,000.",
+      "Searching for an IT services team in Namchi? Hire freelancers for pilgrim booking systems, tour pages, plus tea and cardamom stores. From ₹10,000.",
     keywords: [
       "Android app development Namchi",
       "iOS app development Namchi",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "school software Namchi",
       "नामची में वेबसाइट डेवलपर",
       "Namchi ma website ra app banaune",
+      "Namchi website designer",
+      "website cost in Namchi",
+      "IT company in Namchi",
+      "Sikkim SEO services",
+      "hire developer Namchi",
+      "pilgrim hotels software in Namchi",
+      "taxi software in Namchi",
     ],
   },
   hero: {

@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "seo audit checklist for small business", "website seo check India", "free seo audit Delhi", "free seo audit Mumbai",
       "free seo audit Bengaluru", "website ka free seo audit", "why is my website not ranking free check",
       "seo audit cost", "what does a free seo audit include", "google search console page indexing report",
+      "free website seo audit company in India",
+      "best free website seo audit in India",
+      "free website seo audit services",
     ],
   },
   hero: {

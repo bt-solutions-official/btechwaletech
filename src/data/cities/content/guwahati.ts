@@ -7,7 +7,7 @@ const guwahati: CityContent = {
   meta: {
     title: "IT Services in Guwahati: Websites, Apps, SEO & AI",
     description:
-      "Website design, SEO, ecommerce and WhatsApp automation for Guwahati firms and Northeast suppliers. Sites from ₹10,000 with two months of free maintenance.",
+      "Guwahati website design, SEO, ecommerce and WhatsApp automation for firms and Northeast suppliers. Sites from ₹10,000 with two months of free maintenance.",
     keywords: [
       "website development team in Guwahati",
       "web design team Guwahati",
@@ -25,6 +25,14 @@ const guwahati: CityContent = {
       "website maintenance Guwahati",
       "Guwahati me website banwana",
       "গুৱাহাটী ৱেবছাইট ডিজাইন",
+      "Guwahati website designer",
+      "website cost in Guwahati",
+      "web development company Guwahati",
+      "hire freelance developer Guwahati",
+      "Assam SEO",
+      "Guwahati me website kaise banwaye",
+      "website for wholesale and distribution in Guwahati",
+      "web designer in Fancy Bazar, Guwahati",
     ],
   },
   hero: {

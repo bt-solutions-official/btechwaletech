@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "cvor on trucking website", "nsc safety rating website", "trucking seo canada", "trucking company website mississauga",
       "trucking website brampton", "trucking website calgary", "trucking website winnipeg", "trucking website montreal",
       "what should a trucking company website include", "how do trucking companies recruit drivers online",
+      "hire trucking company website design in Canada", "freelance trucking company website design Canada", "trucking company website design Toronto",
+      "trucking company website design Vancouver",
     ],
   },
   hero: {

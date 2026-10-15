@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 30.0869, lng: 78.2676 },
   meta: {
-    title: "Freelance App & AI Developers in Rishikesh",
+    title: "Rishikesh App & AI Developers: Yoga, Retreats & Rafting",
     description:
-      "Comparing a software development team in Rishikesh? Our freelance team builds YTT course systems, rafting bookings, retreat software and AI automation.",
+      "Comparing a software development team in Rishikesh? Our freelance team builds YTT course systems, rafting bookings and retreat software. From ₹10,000.",
     keywords: [
       "software development team in Rishikesh",
       "IT services team in Rishikesh",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "iPhone app developers Rishikesh",
       "ऋषिकेश में सॉफ्टवेयर डेवलपर",
       "Rishikesh mein website aur app banwana",
+      "Rishikesh website designer",
+      "website cost in Rishikesh",
+      "IT company in Rishikesh",
+      "Uttarakhand SEO services",
+      "hire developer Rishikesh",
+      "yoga software in Rishikesh",
     ],
   },
   hero: {

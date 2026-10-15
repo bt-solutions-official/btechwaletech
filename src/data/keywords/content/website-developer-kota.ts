@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Developer in Kota – Websites from ${P.site}`,
-    description: `Website developer in Kota for coaching institutes, hostels, PGs and Kota stone or Doria sellers: sites from ${P.site}, admission forms, WhatsApp. Quote in 2 days.`,
+    description: `Website developer in Kota for coaching institutes, hostels, PGs and Kota stone sellers: sites from ${P.site} with admission forms. Quote in 2 days.`,
     keywords: [
       "website developer in Kota", "website developer Kota", "website developer near me Kota", "web developer in Kota",
       "website designer in Kota", "website development in Kota", "website development services Kota", "website developer for hostel in Kota",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "Kota Doria saree website", "website developer Talwandi", "website developer Landmark City Kota", "website developer Rajeev Gandhi Nagar",
       "website developer Bundi", "website developer Baran", "WordPress developer Kota", "SEO for coaching Kota",
       "Kota me website kaise banwaye", "hostel ki website kaise banaye",
+      "website developer in Kota cost", "website developer in Kota price", "hire website developer in Kota", "freelance website developer in Kota",
+      "best website developer in Kota", "website developer in Kota charges",
     ],
   },
   hero: {

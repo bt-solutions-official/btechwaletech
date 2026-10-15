@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Figma to Webflow: CMS, Interactions from ${P.site}`,
-    description: `Figma to Webflow builds with clean Client-First classes, CMS collections and interactions, from ${P.site}. Plugin vs manual build, per-page cost and timeline.`,
+    description: `Figma to Webflow builds with clean Client-First classes, CMS collections and interactions, from ${P.site}. Plugin vs manual build; quote in 2 days.`,
     keywords: [
       "figma to webflow", "convert figma to webflow", "figma to webflow conversion", "figma to webflow plugin",
       "figma to webflow developer", "figma to webflow service", "figma to webflow cost", "figma to webflow price per page",
@@ -217,7 +217,7 @@ const content: FreelanceContent = {
         `Yes, Webflow gives you the essentials: editable titles and meta descriptions per page and per CMS item, clean URLs, automatic sitemap, 301 redirects in site settings, alt text on images and custom code for structured data. What decides SEO quality is how the developer uses them.`,
         `In a Figma to Webflow build we set the heading outline by meaning, not size: designers often style a small eyebrow label larger than a real heading, and the HTML must still read correctly. CMS templates get meta fields bound to item content so no post is published with a blank description. Images are uploaded at sensible sizes, and Webflow’s responsive image handling does the rest.`,
         `Speed is part of search visibility. Google’s web.dev guidance defines good Core Web Vitals as Largest Contentful Paint within 2.5 seconds, Interaction to Next Paint of 200 milliseconds or less and Cumulative Layout Shift of 0.1 or less at the 75th percentile of page loads. Heavy interactions, background videos and custom fonts are the usual threats on Webflow sites, so we keep an eye on all three.`,
-        `For AI search tools, the rules are the same as for people: plain answers under clear headings, live text rather than text in images, and one topic per page. Nobody can guarantee rankings; if you want ongoing help after launch, <a href='/services/seo-services/'>our SEO services</a> start at ${P.seo} a month.`,
+        `For AI search tools, the rules are the same as for people: plain answers under clear headings, live text rather than text in images, and one topic per page. Nobody can guarantee rankings; if you want ongoing help after launch, <a href='/services/seo-services/'>our SEO services</a> start at ${P.seo}.`,
       ],
     },
     {

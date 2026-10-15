@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Banquet Hall Website in Ahmedabad from ${P.site}`,
-    description: `Banquet hall website in Ahmedabad with date-check enquiries, package pages and venue photos for party plots. Venue sites from ${P.site}; itemised quote in 2 days.`,
+    description: `Banquet hall website in Ahmedabad with date-check enquiries, package pages and venue photos for party plots. Venue sites from ${P.site}; quote in 2 days.`,
     keywords: [
       "banquet hall website in Ahmedabad", "banquet hall website Ahmedabad", "party plot website Ahmedabad", "wedding venue website Ahmedabad",
       "banquet hall website design Ahmedabad", "banquet hall website near me", "party plot website design Gujarat", "banquet hall website Ahmedabad Gujarat",
@@ -380,6 +380,7 @@ const content: FreelanceContent = {
     heading: "Related Ahmedabad and Gujarat pages",
     links: [
       { name: "Gujarat website development hub", href: "/gujarat/" },
+      { name: "Restaurant website in Surat", href: "/gujarat/restaurant-website-surat/" },
       { name: "Ecommerce website development in Ahmedabad", href: "/gujarat/ecommerce-website-development-ahmedabad/" },
       { name: "Jewellery showroom website in Ahmedabad", href: "/gujarat/jewellery-showroom-website-ahmedabad/" },
       { name: "Garba and Navratri event website", href: "/gujarat/garba-navratri-event-website-gujarat/" },

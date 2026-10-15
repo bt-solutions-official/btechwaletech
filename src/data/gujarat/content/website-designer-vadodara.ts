@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Designer in Vadodara · Layouts from ${P.site}`,
-    description: `Website designer in Vadodara (Baroda): page layouts, photo direction and Gujarati-English design, coded and launched from ${P.site}. Approve each screen on your phone.`,
+    description: `Website designer in Vadodara (Baroda): page layouts, photo direction and Gujarati-English design, coded and live from ${P.site}. Approve each screen on a phone.`,
     keywords: [
       "website designer in Vadodara", "website designer Vadodara", "web designer Baroda", "website designer near me Vadodara",
       "website design Vadodara Gujarat", "web designing Vadodara", "freelance website designer Vadodara", "website design services Baroda",
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
         `Yes, indirectly. Google does not reward a colour scheme, but it does measure how fast a page loads and settles, whether it works on phones, and whether visitors find what they came for. Design decides all three.`,
         `Heavy sliders, autoplay videos and huge uncompressed photos hurt Core Web Vitals; a disciplined layout helps them. Clear headings tell search engines and AI assistants what each section covers. Spec tables and short question-and-answer blocks are the kind of content Google’s AI Overviews and chat assistants tend to quote. And a page that says “Vadodara” and “Baroda” naturally, with a real address landmark, helps local searches connect to your business.`,
         `Each site we design launches with unique titles, structured data for your organisation and services, a sitemap and a verified Search Console property. Your Google Business Profile should carry the same name, address and phone as the site; Google’s <a href='https://support.google.com/business/' rel='noopener'>Business Profile help</a> explains verification.`,
-        `What design cannot do is guarantee a position. Nobody can promise rankings, and anyone who does is guessing. Ongoing SEO is optional and starts at ${P.seo} a month if you want it after launch.`,
+        `What design cannot do is guarantee a position. Nobody can promise rankings, and anyone who does is guessing. Ongoing SEO is optional and starts at ${P.seo} if you want it after launch.`,
       ],
     },
     {

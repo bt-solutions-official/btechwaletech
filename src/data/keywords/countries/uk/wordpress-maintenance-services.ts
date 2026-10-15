@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `WordPress Maintenance Services UK from ${P.care}`,
-    description: `WordPress maintenance services UK businesses can check: staged updates, daily off-site backups, restore drills, malware clean-up and breach logs, from ${P.care}.`,
+    description: `WordPress maintenance services UK: staged updates, daily off-site backups, restore drills, malware clean-up and breach logs, from ${P.care}.`,
     keywords: [
       "wordpress maintenance services uk", "wordpress maintenance uk", "wordpress care plan uk", "wordpress support uk",
       "monthly wordpress maintenance", "wordpress maintenance package", "wordpress website maintenance cost uk",
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What WordPress maintenance costs with us",
-    note: `Our WordPress care plans start at ${P.care} a month. The price for your site depends on how many plugins it runs, whether it takes payments or memberships, how often content changes and how much editing time you want included. A simple brochure site sits near the starting point; a WooCommerce store or a site with bookings and logins needs more testing per update, so the quote rises. Sites we build get two months of care free after launch. Hacked-site recovery on a site not already on a plan is quoted as a one-off job. Invoices are in USD from India, paid from GBP by Wise, bank wire or PayPal, and nothing is billed before you approve in writing.`,
+    note: `Our WordPress care plans start at ${P.care}. The price for your site depends on how many plugins it runs, whether it takes payments or memberships, how often content changes and how much editing time you want included. A simple brochure site sits near the starting point; a WooCommerce store or a site with bookings and logins needs more testing per update, so the quote rises. Sites we build get two months of care free after launch. Hacked-site recovery on a site not already on a plan is quoted as a one-off job. Invoices are in USD from India, paid from GBP by Wise, bank wire or PayPal, and nothing is billed before you approve in writing.`,
   },
   guideLabel: "WordPress maintenance services UK guide",
   guide: [
@@ -107,7 +107,7 @@ const content: FreelanceContent = {
         `WordPress maintenance services are the regular technical upkeep that keeps a WordPress site secure, working and restorable: updates, backups, monitoring, security checks and small fixes. A UK business needs them once the site brings in enquiries, bookings or sales, because a broken or hacked site then costs money every hour it stays down.`,
         `WordPress itself is free and open source, but it is also a moving target. Core releases arrive through the year, each plugin has its own release schedule, and PHP versions on your hosting reach end of life. Every one of those changes can interact with the others. Maintenance is the discipline of absorbing that change without your visitors noticing.`,
         `You can do it yourself. Plenty of owners do, especially on small sites with few plugins. The trouble is that the tasks are dull until the day they are urgent, and by then it is too late to discover the backups were never set up or the admin email goes to someone who left three years ago.`,
-        `A care plan moves that responsibility to someone whose job it is. With us it starts at ${P.care} a month, and the work is done during our morning in India, which is before the UK office day begins.`,
+        `A care plan moves that responsibility to someone whose job it is. With us it starts at ${P.care}, and the work is done during our morning in India, which is before the UK office day begins.`,
       ],
     },
     {
@@ -245,7 +245,7 @@ const content: FreelanceContent = {
       heading: "How much do WordPress maintenance services cost in the UK?",
       paragraphs: [
         `WordPress maintenance services in the UK are priced very differently from one provider to the next, so compare what each plan does rather than the monthly figure alone. A cheap plan that auto-updates live and stores backups on the same server is doing much less work than one with staging and restore drills.`,
-        `With us, care plans start at ${P.care} a month. Four things move the price: the number and complexity of plugins, whether the site takes payments, bookings or member logins (each adds test cases to every update), how much content editing you want included, and how often the database needs backing up.`,
+        `With us, care plans start at ${P.care}. Four things move the price: the number and complexity of plugins, whether the site takes payments, bookings or member logins (each adds test cases to every update), how much content editing you want included, and how often the database needs backing up.`,
         `Sites we build get two months of care free after launch, which covers the period when most early fixes and tweaks happen. After that you choose whether to continue on a plan or pay for fixes as they arise.`,
         `Hacked-site recovery for a site not already on a plan is quoted as a separate job, because the effort depends on how deep the infection goes. Hosting, premium plugin licences and security service subscriptions are paid directly by you, so you always see those costs separately from our fee.`,
       ],
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
   faqHeading: "WordPress maintenance services UK: questions answered",
   faqs: [
     { question: "What do WordPress maintenance services include?", answer: "Good WordPress maintenance services include core, plugin and theme updates tested on staging, daily off-site backups, periodic restore tests, malware scanning, login security, uptime and form monitoring, performance checks and a monthly report. Some plans add a small allowance for content edits. Ask any provider to describe how each task is done, because the word maintenance covers very different levels of work." },
-    { question: "How much do WordPress maintenance services cost in the UK?", answer: `Prices vary widely between providers, so compare what each plan actually does. With BtechWaleTech, care plans start at ${P.care} a month. The final price depends on plugin count, whether the site takes payments, bookings or logins, content editing time and backup frequency. Sites we build get two months of care free after launch.` },
+    { question: "How much do WordPress maintenance services cost in the UK?", answer: `Prices vary widely between providers, so compare what each plan actually does. With BtechWaleTech, care plans start at ${P.care}. The final price depends on plugin count, whether the site takes payments, bookings or logins, content editing time and backup frequency. Sites we build get two months of care free after launch.` },
     { question: "Is WordPress maintenance really necessary for a small business?", answer: "If the site brings in enquiries or sales, yes. WordPress core, plugins and PHP all change regularly, and outdated plugins are a common way sites get hacked. A small site with few plugins can be maintained by a careful owner, but most owners find the tasks get skipped until something breaks, which is the expensive moment to start." },
     { question: "Can I just turn on automatic updates instead?", answer: "Automatic updates, available for plugins and themes since WordPress 5.5, suit simple sites with a few well-maintained plugins. On sites with bookings, shops, page builders or custom code they are riskier, because updates land on live with nobody checking the result. Testing on staging first catches conflicts before visitors see them." },
     { question: "How often should a WordPress site be backed up?", answer: "A brochure site that changes rarely is usually fine with daily backups. A shop, booking or membership site that takes data all day needs the database backed up several times a day, or you lose recent orders when restoring. Backups should be stored off the web server, and a restore should be tested at least every quarter." },

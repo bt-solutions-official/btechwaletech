@@ -7,7 +7,7 @@ const perinthalmanna: CityContent = {
   meta: {
     title: "IT Services in Perinthalmanna | Web, Apps & AI",
     description:
-      "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Perinthalmanna hospitals, nursing colleges, NH 966 shops and Gulf-linked firms.",
+      "Malayalam websites, apps, local SEO and WhatsApp tools for Perinthalmanna hospitals, nursing colleges, NH 966 shops and Gulf-linked firms. Sites from ₹10,000.",
     keywords: [
       "IT services in Perinthalmanna",
       "IT services team in Perinthalmanna",
@@ -29,6 +29,12 @@ const perinthalmanna: CityContent = {
       "Perinthalmanna me website banwana",
       "Perinthalmannayil website cheyyan",
       "പെരിന്തൽമണ്ണ വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Perinthalmanna website designer",
+      "web development company Perinthalmanna",
+      "hire freelance web developer Perinthalmanna",
+      "Malappuram district SEO",
+      "website designer Malappuram district",
+      "Kerala SEO services",
     ],
   },
   hero: {

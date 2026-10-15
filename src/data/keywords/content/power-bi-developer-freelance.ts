@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Power BI Developer Freelance",
   updated: "2026-09-24",
   meta: {
-    title: "Power BI Developer Freelance: Dashboards That Refresh",
+    title: `Power BI Developer Freelance: Hire from ${P.ai}`,
     description: `Power BI developer freelance in India: data models, scheduled refresh, secure sharing and DAX. Data automation from ${P.ai}. Quote in about 2 working days.`,
     keywords: [
       "power bi developer freelance", "freelance power bi developer", "power bi developer freelance India", "power bi developer near me",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Security", value: "Row-level security so each user sees only their rows" },
       { label: "Data automation", value: `From ${P.ai} (${P.aiUsd}), 2–4 weeks` },
       { label: "Ownership", value: "PBIX files, workspace and credentials stay in your tenant" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Data automation feeding Power BI", note: `Python or workflow jobs that pull from APIs, clean files and load a database so Power BI has something reliable to read, from ${P.ai}.`, href: "/python-automation-freelancer/", size: "md" },
       { name: "Custom web dashboard instead", note: `When licences or public sharing make Power BI awkward, a dashboard inside your own web app, from ${P.software}.`, href: "/web-application-developer/", size: "sm" },
       { name: "Analysis and forecasting", note: "Questions that need statistics or forecasts before they become a chart.", href: "/freelance-data-scientist/", size: "sm" },
-      { name: "Ongoing report care", note: `Two months of free fixes, then from ${P.care} a month for new measures, pages and source changes.`, size: "sm" },
+      { name: "Ongoing report care", note: `Two months of free fixes, then from ${P.care} for new measures, pages and source changes.`, size: "sm" },
     ],
   },
   comparison: {
@@ -265,7 +265,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Everything should sit in your tenant: the workspace, the published dataset and reports, the gateway registration, and the source PBIX files. We work as guest or member users you add, and you can remove us at any time.`,
         `At handover you receive the PBIX files, a measure list with plain-English definitions, a diagram of the model, the refresh schedule and gateway notes, security roles and who is mapped to them, and a short guide for adding a new branch, product category or month of targets.`,
-        `Two months of free maintenance follow, covering broken refreshes, measure fixes and small report changes. After that, ongoing care starts at ${P.care} a month if you want it, or your own analyst can take over using the documentation.`,
+        `Two months of free maintenance follow, covering broken refreshes, measure fixes and small report changes. After that, ongoing care starts at ${P.care} if you want it, or your own analyst can take over using the documentation.`,
       ],
     },
     {
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       ["Build the model first", "We connect and clean the sources, build the star schema and measures, then check key totals against your own books with you."],
       ["Design the pages", "Report pages go to a test workspace in your tenant. Your team uses them for a few days and we adjust based on what they actually click."],
       ["Publish, secure, schedule", "Row-level security, gateway, refresh schedule and failure alerts are set up and each role is tested before wider sharing."],
-      ["Hand over and support", `PBIX files, measure list and guides are handed over, followed by two months of free maintenance. Ongoing care from ${P.care} a month is optional.`],
+      ["Hand over and support", `PBIX files, measure list and guides are handed over, followed by two months of free maintenance. Ongoing care from ${P.care} is optional.`],
     ],
   },
   faqHeading: "Power BI developer freelance: frequently asked questions",

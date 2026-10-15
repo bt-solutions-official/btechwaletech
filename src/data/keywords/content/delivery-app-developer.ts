@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "delivery boy app", "courier app developer", "logistics app developer", "last mile delivery app",
       "proof of delivery app", "delivery tracking app", "dispatch management software", "hyperlocal delivery app developer",
       "delivery app for small business", "freelance delivery app developer",
+      "hire delivery app developer",
     ],
   },
   hero: {

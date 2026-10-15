@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 25.1967, lng: 90.6358 },
   meta: {
-    title: "Freelance IT & Software Developers in Baghmara",
+    title: "Baghmara Software Developers: Garo Hills Retail & Trade",
     description:
-      "Freelance IT and software developers for Baghmara and South Garo Hills: light websites, records software, WhatsApp and AI automation, SEO and upkeep. From ₹10,000.",
+      "Freelance IT and software developers for Baghmara and South Garo Hills: light websites, records software, plus WhatsApp and AI automation. From ₹10,000.",
     keywords: [
       "Android app development Baghmara",
       "iOS app development Baghmara",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "IT support near me Baghmara",
       "Baghmara mein website banana",
       "Baghmara-ni website A·chik",
+      "Baghmara website designer",
+      "website cost in Baghmara",
+      "IT company in Baghmara",
+      "Meghalaya SEO services",
+      "hire developer Baghmara",
+      "retail software in Baghmara",
+      "contractors software in Baghmara",
     ],
   },
   hero: {

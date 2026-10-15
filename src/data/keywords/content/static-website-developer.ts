@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Static Website Developer in India: Sites from ${P.site}`,
-    description: `Static website developer in India: fast, secure sites of up to 100 pages from ${P.site}, on low-cost hosting in your name. Live in 1–2 weeks.`,
+    description: `Static website developer in India: fast, secure sites of up to 100 pages from ${P.site}, CDN hosting in your name, live in 1-2 weeks. Quote in 2 days.`,
     keywords: [
       "static website developer", "static website developer India", "static website developer near me", "static website developer for hire",
       "static website cost", "static website price India", "best static website developer", "static website banwana hai",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "static site generator developer", "Astro developer", "HTML CSS website developer", "fast website developer",
       "secure website for small business", "cheap website hosting India", "Jamstack developer", "static vs dynamic website",
       "brochure website developer", "static website with contact form",
+      "hire static website developer", "freelance static website developer", "static website developer cost", "best static website developer in India",
+      "static website developer price", "static website developer charges",
     ],
   },
   hero: {

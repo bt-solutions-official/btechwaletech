@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.1445, lng: 91.7362 },
   meta: {
-    title: "Freelance Software Developers in Guwahati",
+    title: "Guwahati Software Developers: Distributors & Transporters",
     description:
-      "Freelance software developers in Guwahati for distributor portals, dashboards, AI agents, apps and SEO. Three remote engineers, web apps from ₹60,000, sites ₹10,000.",
+      "Freelance software developers in Guwahati for distributor portals, dashboards and AI agents. Three remote engineers, web apps from ₹60,000, sites ₹10,000.",
     keywords: [
       "Android app development Guwahati",
       "mobile app developers Guwahati",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "IT support Amingaon Bamunimaidam",
       "গুৱাহাটীত ছফ্টৱেৰ ডেভেলপাৰ",
       "Guwahati mein software banwana",
+      "Guwahati website designer",
+      "website cost in Guwahati",
+      "IT company in Guwahati",
+      "Assam SEO services",
+      "hire developer Guwahati",
+      "distributors software in Guwahati",
+      "transporters software in Guwahati",
     ],
   },
   hero: {

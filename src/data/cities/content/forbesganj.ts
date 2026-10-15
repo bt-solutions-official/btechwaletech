@@ -7,7 +7,7 @@ const forbesganj: CityContent = {
   meta: {
     title: "IT Services in Forbesganj: Websites, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Forbesganj wholesalers, makhana and rice traders, border firms, clinics and colleges.",
+      "Forbesganj Hindi websites, mobile apps, local SEO and WhatsApp automation for wholesalers, makhana and rice traders, border firms and clinics. From ₹10,000.",
     keywords: [
       "IT services in Forbesganj",
       "IT services team in Forbesganj",
@@ -29,6 +29,10 @@ const forbesganj: CityContent = {
       "Forbesganj me website banwana",
       "Farbisganj mein app kaise banwaye",
       "फारबिसगंज वेबसाइट डिजाइन",
+      "Forbesganj website designer",
+      "web development company Forbesganj",
+      "hire freelance developer Forbesganj",
+      "Bihar SEO",
     ],
   },
   hero: {

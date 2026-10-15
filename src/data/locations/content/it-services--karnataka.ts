@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 15.3173, lng: 75.7139 },
   meta: {
-    title: "Freelance IT Services in Karnataka: Software, Apps, AI",
+    title: "Karnataka IT Services: Software, Apps & AI",
     description:
-      "Freelance IT services in Karnataka: MVPs, custom software, Android and iOS apps, AI agents, SEO and stores for Bengaluru, Mysuru, Mangaluru and Hubballi.",
+      "Freelance IT services in Karnataka: MVPs, custom software, Android and iOS apps, AI agents, plus SEO and stores for Bengaluru. Starting prices in INR, by UPI.",
     keywords: [
       "IT services in Karnataka",
       "software development team in Karnataka",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "website maintenance Karnataka",
       "Karnataka mein software developer",
       "ಕರ್ನಾಟಕದಲ್ಲಿ ಐಟಿ ಸೇವೆಗಳು",
+      "Karnataka website designer",
+      "website cost in Karnataka",
+      "IT company in Karnataka",
+      "Karnataka SEO services",
+      "hire developer Karnataka",
+      "startups software in Karnataka",
+      "manufacturing software in Karnataka",
+      "coffee estates software in Karnataka",
     ],
   },
   hero: {

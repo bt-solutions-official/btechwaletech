@@ -156,7 +156,7 @@ const content: FreelanceContent = {
         { heading: "When a plain form is better", text: "If your dispatcher prefers to call every lead back, a short request form with problem type, address and best time can outperform a full scheduler, because it asks for less up front." },
       ],
       after: [
-        `Thinking about replacing the subscription tool altogether? That is a bigger conversation, covered on our page about <a href='/usa/field-service-app-development/'>custom field service app development</a>.`,
+        `Thinking about replacing the subscription tool altogether? That is a bigger conversation, covered on our page about <a href='/usa/custom-software-development/'>custom software development</a>.`,
       ],
     },
     {
@@ -432,7 +432,7 @@ const content: FreelanceContent = {
       { name: "Contractor website design", href: "/usa/contractor-website-design/" },
       { name: "Electrician website design", href: "/usa/electrician-website-design/" },
       { name: "Roofing website design", href: "/usa/roofing-website-design/" },
-      { name: "Field service app development", href: "/usa/field-service-app-development/" },
+      { name: "Custom software development", href: "/usa/custom-software-development/" },
       { name: "Local SEO services", href: "/usa/local-seo-services/" },
       { name: "Small business website design", href: "/usa/small-business-website-design/" },
       { name: "Website maintenance services", href: "/usa/website-maintenance-services/" },

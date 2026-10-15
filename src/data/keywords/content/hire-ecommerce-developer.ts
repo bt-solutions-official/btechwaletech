@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Hire Ecommerce Developer India | Stores from ${P.shop}`,
-    description: `Hire an ecommerce developer for your online store: requirement template, Shopify vs WooCommerce vs custom, real costs from ${P.shop} and the questions to ask first.`,
+    description: `Hire an ecommerce developer for your online store: requirement template, Shopify vs WooCommerce vs custom, real costs from ${P.shop} and the questions to ask.`,
     keywords: [
       "hire ecommerce developer", "hire ecommerce developer in India", "ecommerce developer near me", "ecommerce developer for hire",
       "ecommerce website development cost", "ecommerce developer price India", "best ecommerce developer to hire", "online store banwana hai",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "What you prepare", value: "Product sheet, photos, policies, shipping rates" },
       { label: "Contract basics", value: "Scope list, milestones, ownership clause, NDA if wanted" },
       { label: "Payment to us", value: "UPI or bank transfer; Wise, wire or PayPal from abroad" },
-      { label: "After launch", value: `2 months free, then from ${P.care} a month` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -358,8 +358,8 @@ const content: FreelanceContent = {
     { question: "Can you move my store from one platform to another?", answer: "Yes. We migrate products, customers and past orders where the platforms allow it, keep product URLs or set redirects so search traffic is not lost, and test checkout before switching the domain. Migration effort depends mostly on how clean your current data is, so we review an export before quoting." },
     { question: "Do you build multi-vendor marketplaces?", answer: "Yes, scoped carefully. A marketplace needs vendor sign-up, product approval, commission rules, payouts and vendor dashboards, and it is a much bigger job than a single-seller store. We usually suggest launching with a small number of hand-picked vendors and a simpler model before building full self-service onboarding." },
     { question: "Can you also build a shopping app for my store?", answer: `Yes. A shopping app for Android and iOS can share the store's catalogue, cart and orders, and it starts at ${P.app}. We generally suggest launching the website first, proving demand, and then adding an app for repeat buyers who order often enough to keep it installed.` },
-    { question: "Will my online store rank on Google?", answer: `We build stores so search engines can read them: clean product URLs, product schema, canonical tags and fast mobile pages. Rankings then depend on content, competition and time, and nobody can honestly guarantee a position. Ongoing SEO for categories and content is a separate service starting at ${P.seo} a month.` },
-    { question: "What is included in maintenance after the store goes live?", answer: `The first two months after launch are free: bug fixes, small changes and help with questions. After that, maintenance starts at ${P.care} a month and covers platform, theme and plugin updates, backups, uptime checks and a set number of small edits. New features are quoted separately.` },
+    { question: "Will my online store rank on Google?", answer: `We build stores so search engines can read them: clean product URLs, product schema, canonical tags and fast mobile pages. Rankings then depend on content, competition and time, and nobody can honestly guarantee a position. Ongoing SEO for categories and content is a separate service starting at ${P.seo}.` },
+    { question: "What is included in maintenance after the store goes live?", answer: `The first two months after launch are free: bug fixes, small changes and help with questions. After that, maintenance starts at ${P.care} and covers platform, theme and plugin updates, backups, uptime checks and a set number of small edits. New features are quoted separately.` },
     { question: "How do I pay when I hire you?", answer: "Payments are split into milestones tied to visible progress, starting only after you approve the written estimate. In India you can pay by UPI or bank transfer. Clients abroad pay by Wise, bank wire or PayPal. We do not ask for the full amount upfront, and we never bill before written approval." },
     { question: "Can I hire an ecommerce developer only for small fixes?", answer: "Yes. Short jobs such as checkout errors, slow pages, broken filters, shipping rule changes or theme edits are quoted per task after we look at the store. For ongoing small work, a monthly maintenance arrangement is usually cheaper than paying for each fix separately." },
     { question: "Do I need a developer if I sell on marketplaces already?", answer: "Not always, but your own store adds things marketplaces cannot: customer relationships with consent, control over branding, no per-order marketplace commission and a destination for repeat buyers. If you run both, the developer should plan stock sync so a single unit does not sell on two channels." },

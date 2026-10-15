@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Website developer in Jamshedpur",
   updated: "2026-10-02",
   meta: {
-    title: "Website Developer in Jamshedpur: Quote in 2 Days",
+    title: `Website Developer in Jamshedpur: Sites from ${P.site}`,
     description: `Website developer in Jamshedpur for Adityapur manufacturers, schools, clinics and shops. Sites from ${P.site}, RFQ forms, Hindi and English pages.`,
     keywords: [
       "website developer in Jamshedpur", "website developer Jamshedpur", "website developer near me Jamshedpur", "web developer in Jamshedpur",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Bistupur", "website developer Sakchi", "school website Jamshedpur", "clinic website Jamshedpur",
       "Bengali website developer Jamshedpur", "website developer Tatanagar", "website developer Gamharia", "website developer Chaibasa",
       "best website developer in Jamshedpur", "business website Jamshedpur",
+      "website developer in Jamshedpur cost", "website developer in Jamshedpur price", "hire website developer in Jamshedpur", "freelance website developer in Jamshedpur",
+      "website developer in Jamshedpur charges",
     ],
   },
   hero: {

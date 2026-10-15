@@ -7,7 +7,7 @@ const sambalpur: CityContent = {
   meta: {
     title: "IT Services in Sambalpur: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, handloom stores and WhatsApp automation for Sambalpur, Burla and Hirakud businesses. Static sites from ₹10,000, with two months of free upkeep.",
+      "Websites, local SEO, handloom stores and WhatsApp tools for Sambalpur, Burla and Hirakud businesses. Sites from ₹10,000, stores from ₹50,000.",
     keywords: [
       "website development team in Sambalpur",
       "web design Sambalpur",
@@ -25,6 +25,16 @@ const sambalpur: CityContent = {
       "website maintenance Sambalpur",
       "Sambalpur re website kete kharcha",
       "ସମ୍ବଲପୁର ୱେବସାଇଟ",
+      "web development company Sambalpur",
+      "hire freelance web developer Sambalpur",
+      "Western Odisha SEO services",
+      "website designer Western Odisha",
+      "Odisha SEO services",
+      "Sambalpur schools website",
+      "schools website design Sambalpur",
+      "website design Golebazar Sambalpur",
+      "website design Budharaja Sambalpur",
+      "website design Ainthapali Sambalpur",
     ],
   },
   hero: {

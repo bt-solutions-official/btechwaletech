@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 25.9063, lng: 93.7276 },
   meta: {
-    title: "Freelance Software Developers in Dimapur, Nagaland",
+    title: "Dimapur Software Developers: Wholesale & Distribution",
     description:
       "Comparing software development companies in Dimapur? Hire freelance developers for custom software, AI agents, apps and SEO. Software from ₹60,000.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "SEO services Dimapur",
       "IT services team Nagaland",
       "Dimapur mein software team",
+      "Dimapur website designer",
+      "website cost in Dimapur",
+      "IT company in Dimapur",
+      "Nagaland SEO services",
+      "hire developer Dimapur",
+      "wholesale software in Dimapur",
+      "transport software in Dimapur",
     ],
   },
   hero: {

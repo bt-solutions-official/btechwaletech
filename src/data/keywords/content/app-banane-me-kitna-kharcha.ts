@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `App Banane me Kitna Kharcha Aata Hai? ${P.app} se Shuru`,
-    description: `App banane me kitna kharcha aata hai? Android aur iPhone app ${P.app} se. Screens, features, Play Store fees, server aur maintenance ka seedha hisaab.`,
+    description: `App banane me kitna kharcha aata hai? Android aur iPhone app ${P.app} se. Screens, features, Play Store fees aur maintenance ka hisaab. Quote 2 din me.`,
     keywords: [
       "app banane me kitna kharcha aata hai", "app banane me kitna kharcha", "app banane ka kharcha", "app banwane me kitna paisa lagta hai",
       "mobile app banane ka kharcha", "android app banane me kitna kharcha aata hai", "iphone app banane ka kharcha", "app kitne ka banta hai",

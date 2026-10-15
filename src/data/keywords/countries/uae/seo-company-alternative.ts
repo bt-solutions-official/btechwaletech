@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "seo freelancer vs seo agency dubai", "seo company near me dubai", "seo for small business dubai",
       "affordable seo company in dubai", "seo for real estate dubai", "seo for clinics dubai",
       "offshore seo services uae", "is seo worth it in dubai",
+      "hire seo in the UAE",
     ],
   },
   hero: {

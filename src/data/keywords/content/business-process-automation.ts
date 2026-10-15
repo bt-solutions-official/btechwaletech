@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "business process automation consultant", "business process automation company near me", "office work automation",
       "business process automation Pune", "business process automation Ahmedabad", "business process automation Bengaluru",
       "kaam automate kaise kare", "approval matrix software",
+      "best business process automation in India",
     ],
   },
   hero: {
@@ -61,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Where people act", value: "WhatsApp, email, a web form or a phone-friendly dashboard" },
       { label: "Records kept", value: "Who did what, when, and what changed, for every request" },
       { label: "Proof it worked", value: "Before-and-after time log per process" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -233,7 +234,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a single automated workflow built on a workflow tool or with scripts starts at ${P.ai} (${P.aiUsd}) and usually takes 2–4 weeks. A custom workflow application with its own screens, roles and database starts at ${P.software} and takes 6–12 weeks. These are starting prices; the itemised quote reflects your process.`,
         `The biggest cost drivers are branches and systems. A request that goes to one approver and then to accounts is simple. One that routes by five amount bands, three departments and two locations, with deputies and escalations, needs more building and much more testing. Each system we connect, such as Tally, Zoho, an ERP or Google Sheets, adds integration and error handling.`,
-        `Across the market, quotes for “automation” vary widely, largely because some include mapping, testing and training while others only build what you describe. Compare scope first. Tool subscriptions are separate and paid by you to the vendor. After the free two months, maintenance starts at ${P.care} a month if you want it. The detailed breakdown for small businesses is on <a href='/ai-automation-cost-for-small-business/'>AI automation cost for small business</a>.`,
+        `Across the market, quotes for “automation” vary widely, largely because some include mapping, testing and training while others only build what you describe. Compare scope first. Tool subscriptions are separate and paid by you to the vendor. After the free two months, maintenance starts at ${P.care} if you want it. The detailed breakdown for small businesses is on <a href='/ai-automation-cost-for-small-business/'>AI automation cost for small business</a>.`,
       ],
     },
     {
@@ -401,7 +402,7 @@ const content: FreelanceContent = {
     { question: "Can you connect workflows to Tally, Zoho or our ERP?", answer: "Often, yes. Tally can exchange data through its XML interface or TDL-based approaches, Zoho apps have APIs, and many ERPs offer APIs or file imports. We check what your version supports during mapping and include the integration as a separate line in the quote, with error handling so a failed sync is reported rather than silently lost." },
     { question: "Is business process automation useful for a business with 10 to 20 staff?", answer: "It can be, if one or two processes cause regular delays or mistakes. A small team often gains most from automating purchase approvals, expense claims or a complaint queue. The key is choosing a process that runs often enough to matter; automating something that happens twice a month may not justify the effort." },
     { question: "Who owns the workflows and data after the project?", answer: "You do. Workflows are built in your own tool account, Microsoft 365 tenant, Zoho organisation or cloud server, and the data stays there. We hand over admin access, documentation of each flow and the approval matrix, and any custom code. If you later change developers, the new person can pick up from the documentation." },
-    { question: "What happens when the process changes after go-live?", answer: `Processes change: a new approver, a new band, a new branch. For two months after launch, BtechWaleTech makes such changes free as part of maintenance. After that, maintenance starts at ${P.care} a month if you want it, or your own admin can make simple changes using the documentation we hand over.` },
+    { question: "What happens when the process changes after go-live?", answer: `Processes change: a new approver, a new band, a new branch. For two months after launch, BtechWaleTech makes such changes free as part of maintenance. After that, maintenance starts at ${P.care} if you want it, or your own admin can make simple changes using the documentation we hand over.` },
     { question: "Do you sign an NDA before we share process details?", answer: "Many clients share internal documents and vendor data during mapping, so confidentiality is a fair question. Ask us before the mapping call and we will discuss it; the terms that apply to your project are recorded in your written quote. Our general terms are on the terms page, and you can share only anonymised sample requests until you are comfortable." },
     { question: "Can AI make approval decisions automatically?", answer: "We do not recommend letting AI approve requests that involve money or customers. AI is useful for reading bills, classifying emails and summarising long requests, with a person confirming. Approval logic should stay as clear rules and named approvers, so your auditor and staff can always see why something was approved or rejected." },
     { question: "How is business process automation different from RPA?", answer: "Business process automation redesigns and routes a whole process between people and systems, usually through APIs, forms and workflow rules. RPA, robotic process automation, uses software bots that mimic clicks and typing on screens, which helps when an old system has no API. Many projects use workflow automation first and add RPA only for a screen that cannot be reached any other way." },

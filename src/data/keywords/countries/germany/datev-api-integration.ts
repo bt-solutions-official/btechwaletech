@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "datev api integration cost", "how much does a datev interface cost", "datev integration for crm",
       "lexoffice api integration", "sevdesk api integration", "skr03 skr04 mapping", "datev integration munich",
       "datev integration berlin", "datev integration nuremberg", "datev developer germany remote",
+      "hire datev api integration in Germany", "freelance datev api integration Germany",
     ],
   },
   hero: {

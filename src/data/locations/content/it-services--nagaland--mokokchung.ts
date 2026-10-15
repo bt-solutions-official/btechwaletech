@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.322, lng: 94.513 },
   meta: {
-    title: "Freelance Software & IT Developers in Mokokchung",
+    title: "Mokokchung Software Developers: Education & Retail",
     description:
-      "Need a software development team in Mokokchung? Hire three freelance engineers for school portals, billing software, AI tools, apps and local SEO.",
+      "Need a software development team in Mokokchung? Hire three freelance engineers for school portals, billing software and apps. From ₹10,000 upwards.",
     keywords: [
       "software development team in Mokokchung",
       "IT services team in Mokokchung",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "IT services Mokokchung district",
       "software developer near me Mokokchung",
       "Mokokchung mein software developer",
+      "Mokokchung website designer",
+      "website cost in Mokokchung",
+      "IT company in Mokokchung",
+      "Nagaland SEO services",
+      "hire developer Mokokchung",
+      "education software in Mokokchung",
+      "retail software in Mokokchung",
     ],
   },
   hero: {

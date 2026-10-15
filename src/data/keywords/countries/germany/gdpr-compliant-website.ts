@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `GDPR Compliant Website for Germany, from ${P.site}`,
-    description: `GDPR compliant website for Germany: Impressum, real cookie reject, Consent Mode v2, self-hosted fonts and maps, EU hosting. Built in from day one, from ${P.site}.`,
+    description: `GDPR compliant website for Germany: Impressum, real cookie reject, Consent Mode v2, self-hosted fonts and maps, EU hosting, built in from ${P.site}.`,
     keywords: [
       "gdpr compliant website", "dsgvo konforme website", "gdpr compliant website germany", "gdpr website checklist germany",
       "impressum requirements germany", "section 5 ddg impressum", "datenschutzerklaerung website", "cookie consent germany",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "eu hosting gdpr website", "avv hosting provider", "eu-us data privacy framework website", "how to make a website gdpr compliant",
       "gdpr compliant website cost", "gdpr website audit germany", "gdpr compliant website berlin", "gdpr compliant website munich",
       "gdpr compliant website hamburg", "is my website gdpr compliant", "gdpr compliant wordpress germany", "dsgvo website check",
+      "hire gdpr compliant website in Germany", "freelance gdpr compliant website Germany",
     ],
   },
   hero: {

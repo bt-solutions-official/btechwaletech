@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "Hindi website developer Patna", "ecommerce website Patna", "website developer Boring Road", "website developer Kankarbagh",
       "website developer Bihar", "website developer Hajipur", "website developer Danapur", "GeM supplier website Patna",
       "best website developer in Patna", "business website Patna",
+      "website developer in Patna cost", "website developer in Patna price", "hire website developer in Patna", "freelance website developer in Patna",
+      "website developer in Patna charges",
     ],
   },
   hero: {

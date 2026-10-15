@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "responsive website design Pune", "mobile-first website design Pune", "Marathi website design Pune", "UI UX designer for website Pune",
       "website designer Koregaon Park", "website designer Baner", "website designer Kothrud", "website designer Hinjewadi",
       "website designer Pimpri-Chinchwad", "landing page designer Pune", "website design karwana hai Pune", "Pune mein website design kaise karwaye",
+      "website designer in Pune cost", "website designer in Pune price", "hire website designer in Pune", "freelance website designer in Pune",
+      "website designer in Pune charges",
     ],
   },
   hero: {

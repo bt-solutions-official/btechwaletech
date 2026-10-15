@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Bank Statement to Tally: PDF to Vouchers, ${P.ai}+`,
-    description: `Bank statement to Tally conversion for CA firms: PDF or Excel statements parsed, ledgers mapped by narration rules and AI, posted and reconciled. From ${P.ai}.`,
+    description: `Bank statement to Tally conversion for CA firms: PDF or Excel statements parsed, ledgers mapped by narration rules, posted and reconciled. From ${P.ai}.`,
     keywords: [
       "bank statement to tally", "convert bank statement to tally", "pdf bank statement to tally", "bank statement pdf to tally xml",
       "excel bank statement to tally", "import bank statement in tally prime", "bank statement to tally converter",

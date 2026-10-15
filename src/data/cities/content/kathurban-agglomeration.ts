@@ -7,7 +7,7 @@ const kathua: CityContent = {
   meta: {
     title: "IT Services in Kathua | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Kathua factories at Govindsar and Ghatti, traders, clinics, schools and Basohli artists.",
+      "Kathua websites, Android and iOS apps, local SEO and WhatsApp automation for factories at Govindsar and Ghatti, traders, clinics, schools and Basohli artists.",
     keywords: [
       "IT services in Kathua",
       "IT services team in Kathua",
@@ -29,6 +29,10 @@ const kathua: CityContent = {
       "Kathua me website banwana",
       "Kathua ch website banwana",
       "कठुआ वेबसाइट डिजाइन",
+      "Kathua website designer",
+      "web development company Kathua",
+      "hire freelance developer Kathua",
+      "Jammu and Kashmir SEO",
     ],
   },
   hero: {

@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "AI consultant for small business",
   updated: "2026-09-25",
   meta: {
-    title: `AI Consultant for Small Business: Roadmap, Not Hype`,
-    description: `AI consultant for small business: process audit, opportunity scoring, build vs buy, a scoped pilot, DPDP-aware data handling and ROI tracking. Builds from ${P.ai}.`,
+    title: `AI Consultant for Small Business: Builds from ${P.ai}`,
+    description: `AI consultant for small business: process audit, opportunity scoring, build vs buy, a pilot, DPDP-aware data handling and ROI tracking. Builds from ${P.ai}.`,
     keywords: [
       "ai consultant for small business", "ai consultant", "ai consultant india", "ai consulting for small business",
       "ai consultant for smes", "ai consultant near me", "small business ai strategy", "ai roadmap for small business",

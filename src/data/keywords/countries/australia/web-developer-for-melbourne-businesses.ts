@@ -183,7 +183,7 @@ const content: FreelanceContent = {
         `Shopify or WooCommerce store: from ${P.shop}`,
         `Suburb-targeted SEO website: from ${P.seoSite}`,
         `Booking or ordering tool built for you: from ${P.software}`,
-        `Ongoing SEO: from ${P.seo} a month; maintenance from ${P.care} after two free months`,
+        `Ongoing SEO: from ${P.seo}; maintenance from ${P.care} after two free months`,
       ],
     },
     {
@@ -254,7 +254,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Local SEO for a Melbourne business means helping Google, and AI-driven answers built on search results, understand what you do, where you do it and why you are credible. It rests on accurate business details, useful location and service pages, and a well-maintained Google Business Profile.`,
         `Greater Melbourne is spread out, and searchers often include a suburb in the query. A builder in the south-east, a café group in the inner north and a mobile dog groomer covering the eastern suburbs each need a different page structure. We only create suburb pages where you genuinely serve customers and have something specific to say: typical jobs, travel time, parking, nearby landmarks. Thin copies of one page with the suburb name swapped are a waste of your money and can hurt rankings.`,
-        `For AI search visibility, the same fundamentals apply. Clear headings phrased as the questions customers ask, short direct answers under them, structured data describing your business, opening hours and menu or services, and consistent details across your site and profiles. Nobody can guarantee rankings or a mention in an AI answer, and anyone who promises one is guessing. Ongoing work is covered on our <a href='/australia/local-seo-services/'>local SEO services</a> page, with plans from ${P.seo} a month.`,
+        `For AI search visibility, the same fundamentals apply. Clear headings phrased as the questions customers ask, short direct answers under them, structured data describing your business, opening hours and menu or services, and consistent details across your site and profiles. Nobody can guarantee rankings or a mention in an AI answer, and anyone who promises one is guessing. Ongoing work is covered on our <a href='/australia/local-seo-services/'>local SEO services</a> page, with plans from ${P.seo}.`,
       ],
     },
     {
@@ -325,7 +325,7 @@ const content: FreelanceContent = {
         ["Builder or trade", "Service pages, gallery, quote form, registration details", `From ${P.site}`, "1–2 weeks"],
         ["Multi-suburb service business", "Suburb and service pages, Search Console setup", `From ${P.seoSite}`, "3–5 weeks"],
         ["Venue group with ordering", "Custom pickup ordering or booking tool", `From ${P.software}`, "6–12 weeks"],
-        ["Ongoing search visibility", "Monthly content, technical fixes, reporting", `From ${P.seo} a month`, "Ongoing"],
+        ["Ongoing search visibility", "Monthly content, technical fixes, reporting", `From ${P.seo}`, "Ongoing"],
       ],
       hideSm: [3],
     },
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a web developer in India from Australia?", answer: "Quotes are in USD and you can pay by Wise, bank wire or PayPal. Invoices are issued from India. Payment stages are set out in your written quote, and nothing is billed before you approve that quote in writing. For how to treat overseas invoices in your own accounts, ask your accountant, since we do not give tax advice." },
     { question: "Is it safe to hire an offshore web developer?", answer: "It is safe when you keep control of your accounts and agree scope in writing. Register the domain and hosting in your own name, insist on an itemised quote, avoid paying everything upfront before seeing design work, and keep communication records. Those rules protect you with any developer, local or offshore. Our terms and refund policy pages set out how we handle disputes." },
     { question: "Do you show builder or plumber registration numbers on trade websites?", answer: "Yes. We place your registration or licence details in an editable field that feeds the footer, contact page and quote form, so an update in one place changes every page. The exact wording your regulator expects is for you to confirm with the regulator or your association, since we are developers rather than compliance advisers." },
-    { question: "Can you help my Melbourne business rank in Google?", answer: `We build every site with clean structure, fast loading, sensible headings, structured data and Search Console setup, and we write location and service pages around real customer searches. Ongoing SEO starts from ${P.seo} a month. Nobody can honestly guarantee a ranking position, and we will not promise one; we can show you what we changed and how the numbers moved.` },
+    { question: "Can you help my Melbourne business rank in Google?", answer: `We build every site with clean structure, fast loading, sensible headings, structured data and Search Console setup, and we write location and service pages around real customer searches. Ongoing SEO starts from ${P.seo}. Nobody can honestly guarantee a ranking position, and we will not promise one; we can show you what we changed and how the numbers moved.` },
     { question: "Will my website show up in AI search answers?", answer: "No one can guarantee that, but you can make it more likely. Clear question-style headings, short direct answers, accurate business details, structured data and consistent information across your site and Google Business Profile all help AI-driven search features understand and cite your business. We build pages with those patterns by default." },
     { question: "Is a freelancer or an agency better for a Melbourne small business?", answer: "An agency suits you if you want workshops in person, branding, photography and a single provider for everything. A freelancer or small freelance team suits you if you already know what the site should say and want the budget spent on the build. The best choice depends on which of those services you actually need." },
     { question: "Can you redesign my existing Melbourne business website without losing rankings?", answer: "Yes. Before rebuilding we list every existing URL, note which pages bring search traffic, and plan redirects from old addresses to new ones. We keep page titles and content that already rank unless there is a good reason to change them, then check Search Console after launch for errors. Most ranking losses after redesigns come from skipped redirects." },

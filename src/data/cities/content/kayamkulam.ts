@@ -7,7 +7,7 @@ const kayamkulam: CityContent = {
   meta: {
     title: "IT Services in Kayamkulam: Websites, Apps, SEO & AI",
     description:
-      "Malayalam and English websites, Android and iOS apps, local SEO and WhatsApp automation for Kayamkulam traders, coir and coconut firms, clinics and colleges.",
+      "Kayamkulam Malayalam and English websites, Android and iOS apps, local SEO and WhatsApp automation for traders, coir and coconut firms, clinics and colleges.",
     keywords: [
       "IT services in Kayamkulam",
       "IT services team in Kayamkulam",
@@ -29,6 +29,10 @@ const kayamkulam: CityContent = {
       "Kayamkulam me website banwana",
       "Kayamkulathu website cheyyan",
       "കായംകുളം വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Kayamkulam website designer",
+      "web development company Kayamkulam",
+      "hire freelance developer Kayamkulam",
+      "Kerala SEO",
     ],
   },
   hero: {

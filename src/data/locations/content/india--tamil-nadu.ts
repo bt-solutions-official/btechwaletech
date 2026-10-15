@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 11.1271, lng: 78.6569 },
   meta: {
-    title: "Freelance IT Consulting & Solutions in Tamil Nadu",
+    title: "Tamil Nadu IT Consulting: Automotive, Knitwear & Pumps",
     description:
-      "Freelance IT solutions and IT consulting in Tamil Nadu: digital transformation for auto suppliers, knitwear exporters, dealers and clinics, with apps, AI and SEO.",
+      "Freelance IT consulting in Tamil Nadu for auto suppliers, knitwear exporters, dealers and clinics: apps, AI and SEO. From ₹10,000, quote in 2 days.",
     keywords: [
       "IT solutions team in Tamil Nadu",
       "IT consulting Tamil Nadu",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "IT solutions near me Madurai",
       "தமிழ்நாட்டில் ஐடி சேவைகள்",
       "தமிழ்நாடு மென்பொருள் ஆலோசனை",
+      "Tamil Nadu website designer",
+      "website cost in Tamil Nadu",
+      "IT company in Tamil Nadu",
+      "Tamil Nadu SEO services",
+      "hire developer Tamil Nadu",
+      "automotive software in Tamil Nadu",
+      "knitwear software in Tamil Nadu",
+      "pumps software in Tamil Nadu",
     ],
   },
   hero: {

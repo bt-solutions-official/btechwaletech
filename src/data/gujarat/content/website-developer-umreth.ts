@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Umreth · Sites from ${P.site}`,
-    description: `Website developer in Umreth for Dakor-visitor guest houses, caterers, shops, schools and clinics. Sites from ${P.site}, Hindi and English, Gujarati with your copy.`,
+    description: `Website developer in Umreth for Dakor-visitor guest houses, caterers, shops, schools & clinics. Sites from ${P.site}, Hindi & English, Gujarati with your copy.`,
     keywords: [
       "website developer in Umreth", "website developer Umreth", "website developer near me Umreth", "Umreth Anand website developer",
       "Umreth Gujarat website design", "website designer Umreth", "web developer Umreth", "website development services Umreth",

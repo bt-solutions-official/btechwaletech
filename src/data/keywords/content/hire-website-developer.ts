@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: "Hire a Website Developer: Scope, Quotes, Milestones",
-    description: `Hire a website developer the project way: a one-page scope, quotes you can compare line by line, paid milestones. Websites from ${P.site}.`,
+    description: `Hire a website developer the project way: a one-page scope, quotes you can compare line by line, paid milestones. Websites from ${P.site}, quote in 2 days.`,
     keywords: [
       "hire website developer", "hire website developer in India", "hire website developer near me", "website developer for hire",
       "hire website developer cost", "website developer hiring price", "best website developer to hire", "website developer hire karna hai",

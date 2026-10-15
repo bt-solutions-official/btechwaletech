@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Website redesign freelancer",
   updated: "2026-09-24",
   meta: {
-    title: "Website Redesign Freelancer: Keep Your SEO & Traffic",
+    title: `Website Redesign Freelancer: Keep SEO, from ${P.site}`,
     description: `Website redesign freelancer in India: URL map, 301 redirects, content migration and post-launch checks so rankings survive. Redesigns from ${P.site}.`,
     keywords: [
       "website redesign freelancer", "website redesign freelancer India", "website redesign freelancer near me", "website redesign for hire",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "301 redirect mapping", "website content migration", "old website to new website", "website revamp freelancer",
       "website makeover", "redesign WordPress site", "website redesign traffic drop", "rebuild old website",
       "website redesign services", "modernise old website",
+      "hire website redesign freelancer", "freelance website redesign freelancer", "website redesign freelancer cost", "best website redesign freelancer in India",
+      "website redesign freelancer price", "website redesign freelancer charges",
     ],
   },
   hero: {

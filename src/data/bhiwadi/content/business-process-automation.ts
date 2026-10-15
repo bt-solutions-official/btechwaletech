@@ -62,7 +62,7 @@ const content: FreelanceContent = {
       { label: "How we scope it", value: "Face to face in Bhiwadi, watching the real chore, then WhatsApp and calls" },
       { label: "Language", value: "Hindi or English for meetings, alerts and screens" },
       { label: "Ownership", value: "Workflows, scripts and accounts in your company's name" },
-      { label: "After go-live", value: `2 months free care, then from ${P.care} a month if you want it` },
+      { label: "After go-live", value: `2 months free care, then from ${P.care} if you want it` },
     ],
   },
   services: {
@@ -182,7 +182,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A first workflow starts at ${P.ai} (about ${P.aiUsd}) and usually covers one chore end to end: for example, indent approval with WhatsApp reminders and a log, or a daily report pulled from three sheets and Tally. When the job needs its own screens, user logins and a database, it becomes a small web app starting at ${P.software}.`,
         `What moves the figure is not the tool name. It is the number of approval branches, the count of systems connected, the state of the source data, and how many exceptions must be handled gracefully. Clean Google Sheets are cheap to read; five differently formatted Excel files from five supervisors take longer.`,
-        `Running costs are separate and paid to the provider in your name: cloud hosting if you self-host n8n or scripts, WhatsApp Business API conversation charges set by Meta, and any SaaS plan you choose. After go-live you get two months of free maintenance; after that, care continues from ${P.care} a month only if you want it. For comparison with a full build, see <a href='/bhiwadi-rajasthan/custom-software-development/'>custom software in Bhiwadi</a>.`,
+        `Running costs are separate and paid to the provider in your name: cloud hosting if you self-host n8n or scripts, WhatsApp Business API conversation charges set by Meta, and any SaaS plan you choose. After go-live you get two months of free maintenance; after that, care continues from ${P.care} only if you want it. For comparison with a full build, see <a href='/bhiwadi-rajasthan/custom-software-development/'>custom software in Bhiwadi</a>.`,
       ],
     },
     {
@@ -250,7 +250,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The workflow engine, the scripts, the server, the WhatsApp Business account and any SaaS subscriptions are registered to your company and paid from your account. We work inside them as invited users.`,
         `At handover you receive the repository with all code and workflow exports, a list of every credential and where it lives, a diagram of each flow in plain language, and a short guide on how to pause, restart or edit the common settings (approver names, thresholds, report times). If you later hire an in-house person or another developer, they can pick up from that pack.`,
-        `For the first two months after go-live, maintenance is free: fixes, small rule changes and adjustments when a vendor changes an email format. After that you can continue with care from ${P.care} a month or manage it yourselves. There is no lock-in built into the setup. If you would rather have the process inside an ERP, see <a href='/bhiwadi-rajasthan/erp-software-for-manufacturing/'>ERP for manufacturing in Bhiwadi</a>.`,
+        `For the first two months after go-live, maintenance is free: fixes, small rule changes and adjustments when a vendor changes an email format. After that you can continue with care from ${P.care} or manage it yourselves. There is no lock-in built into the setup. If you would rather have the process inside an ERP, see <a href='/bhiwadi-rajasthan/erp-software-for-manufacturing/'>ERP for manufacturing in Bhiwadi</a>.`,
       ],
     },
     {
@@ -301,7 +301,7 @@ const content: FreelanceContent = {
         ["Email attachment filing and logging", `From ${P.ai}`, "2–3 weeks", "Customer POs and schedules saved and listed"],
         ["Data hand-off into Tally or ERP with checks", `From ${P.ai}`, "3–4 weeks", "Approved lines posted as draft vouchers"],
         ["Multi-step workflow with its own web screens", `From ${P.software}`, "6–12 weeks", "Purchase, receiving and payment approvals in one app"],
-        ["Care after the 2 free months", `From ${P.care} a month`, "Monthly", "Rule changes, format fixes, monitoring"],
+        ["Care after the 2 free months", `From ${P.care}`, "Monthly", "Rule changes, format fixes, monitoring"],
       ],
       hideSm: [3],
     },
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Receive the process map and quote", "In about two working days you get a one-page map, the rule sheet and an itemised quote. Nothing is billed until you approve it in writing."],
       ["Build and demo on test data", "We build in accounts registered to you, share demo videos on WhatsApp and adjust rules until the outputs match what your team expects."],
       ["Parallel run and switch-over", "The workflow runs beside the manual method for a few days; once outputs match, we switch over and can train staff in person at your unit."],
-      ["Handover and free care", `You get the repository, credentials list and plain-language guide. Two months of fixes are free; care continues from ${P.care} a month if you choose.`],
+      ["Handover and free care", `You get the repository, credentials list and plain-language guide. Two months of fixes are free; care continues from ${P.care} if you choose.`],
     ],
   },
   faqHeading: "Business process automation in Bhiwadi: common questions",
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
     { question: "Can approvals and alerts be in Hindi?", answer: "Yes. Each message template can be in Hindi, English or both, so the stores in-charge reads Hindi while the purchase head gets English. Phone forms use large buttons and dropdowns, which helps workers from other states whose first language differs. WhatsApp Business API templates need Meta's approval, so we draft them with you early." },
     { question: "Do you use AI in business process automation?", answer: "Only where rules are not enough, such as sorting incoming emails by intent or reading scanned bills. Most approvals, reminders and reports need plain rules, which are cheaper and easier to audit. When we add an AI step, a rule or a person still checks its output before anything is posted or sent to a customer." },
     { question: "Can you automate work across two plants?", answer: "Yes. A workflow can route approvals between a unit in Bhiwadi and another in Tapukara, Neemrana, Dharuhera or Gurugram, and combine their daily figures into one report. We usually meet in person at the main plant, then handle the second site over video calls unless you want us there too." },
-    { question: "What does maintenance cover after go-live?", answer: `For two months after go-live we fix failures, adjust rules, update message templates and handle format changes from vendors, free of charge. After that, maintenance continues from ${P.care} a month if you want it, or your own team can take over using the handover pack. Larger new features are quoted separately.` },
+    { question: "What does maintenance cover after go-live?", answer: `For two months after go-live we fix failures, adjust rules, update message templates and handle format changes from vendors, free of charge. After that, maintenance continues from ${P.care} if you want it, or your own team can take over using the handover pack. Larger new features are quoted separately.` },
     { question: "Office ka roz ka kaam automatic kaise karein?", answer: `Pehle woh kaam chuniye jo roz hota hai aur jiske rules saaf hain, jaise indent approval ya shaam ki production report. Hum Bhiwadi mein aapki unit par aakar aamne-saamne dekhte hain ki kaam kaise hota hai, phir workflow banate hain. Pehla workflow ${P.ai} se shuru hota hai aur 2–4 hafte mein chalu ho jaata hai.` },
     { question: "Do you also build the dashboard where we see the numbers?", answer: "Yes. Automation often feeds a dashboard: the workflow collects production, dispatch and dues figures, and a dashboard shows trends by day, line or customer. For small needs, a WhatsApp summary is enough. For more, we build an MIS dashboard as a separate, itemised line so you can decide whether it is worth it." },
     { question: "Do you install hardware like biometric machines or scanners?", answer: "No. We build software only. If a workflow needs data from an attendance device, barcode scanner or weighbridge, we work with the device you choose and integrate where it exposes data through a file export or API. Buying, installing and servicing the hardware stays with your vendor, and we coordinate with them on data formats." },

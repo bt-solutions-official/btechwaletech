@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Coaching Ki Website Kaise Banaye: Leads ${P.site} se`,
-    description: `Coaching ki website kaise banaye? Course aur batch pages, results section, demo class booking, local SEO aur LMS add-on ka kharcha. Website ${P.site} se.`,
+    description: `Coaching ki website kaise banaye? Course aur batch pages, results, demo class booking, local SEO aur LMS ka kharcha. Website ${P.site} se, quote 2 din me.`,
     keywords: [
       "coaching ki website kaise banaye", "coaching website kaise banaye", "coaching institute ki website kaise banaye",
       "tuition ki website kaise banaye", "coaching website banane me kitna kharcha", "coaching institute website cost india",

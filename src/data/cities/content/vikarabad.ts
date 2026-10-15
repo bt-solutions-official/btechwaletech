@@ -7,7 +7,7 @@ const vikarabad: CityContent = {
   meta: {
     title: "IT Services in Vikarabad: Websites, Apps, SEO & AI",
     description:
-      "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Vikarabad resorts, colleges, crop traders, clinics and plot ventures.",
+      "Telugu websites, apps, Maps SEO and WhatsApp automation for Vikarabad resorts, colleges, crop traders, clinics and plot ventures. Websites from ₹10,000.",
     keywords: [
       "IT services in Vikarabad",
       "IT services team in Vikarabad",
@@ -29,6 +29,12 @@ const vikarabad: CityContent = {
       "Vikarabad me website banwana",
       "Vikarabad lo website kavali",
       "వికారాబాద్ వెబ్‌సైట్ డిజైన్",
+      "Vikarabad website designer",
+      "web development company Vikarabad",
+      "hire freelance web developer Vikarabad",
+      "Telangana SEO services",
+      "Vikarabad me website kaise banwaye",
+      "Vikarabad website banwane ka kharcha",
     ],
   },
   hero: {

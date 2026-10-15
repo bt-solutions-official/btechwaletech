@@ -7,7 +7,7 @@ const ponnani: CityContent = {
   meta: {
     title: "IT Services in Ponnani | Web, Apps & AI from ₹10,000",
     description:
-      "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Ponnani fish traders, boat owners, Gulf-linked shops, madrasas and clinics.",
+      "Malayalam websites, apps, local SEO and WhatsApp tools for Ponnani fish traders, boat owners, Gulf-linked shops, madrasas and clinics. Websites from ₹10,000.",
     keywords: [
       "IT services in Ponnani",
       "IT services team in Ponnani",
@@ -29,6 +29,12 @@ const ponnani: CityContent = {
       "Ponnani me website banwana",
       "Ponnaniyil website undakkan",
       "പൊന്നാനി വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Ponnani website designer",
+      "web development company Ponnani",
+      "hire freelance web developer Ponnani",
+      "Malappuram district SEO",
+      "website designer Malappuram district",
+      "Kerala SEO services",
     ],
   },
   hero: {

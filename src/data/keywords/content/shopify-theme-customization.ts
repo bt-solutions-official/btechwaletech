@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Shopify theme customization",
   updated: "2026-09-25",
   meta: {
-    title: "Shopify Theme Customization That Survives Updates",
+    title: `Shopify Theme Customization: Cost & Update-Safe Work`,
     description: `Shopify theme customization for Dawn or premium themes: Liquid sections, custom templates, metafields and app fixes, done update-safe. Stores from ${P.shop}.`,
     keywords: [
       "shopify theme customization", "shopify theme customisation", "customize shopify theme", "shopify theme developer", "shopify dawn theme customization",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "shopify theme speed", "shopify theme customization cost", "shopify theme customization price india", "how to customize shopify theme",
       "shopify theme expert india", "shopify theme editor vs code", "shopify theme customization near me", "shopify store design changes",
       "shopify theme customization for clothing store", "shopify theme me changes karwane hai", "shopify theme fix", "shopify horizon theme customization",
+      "shopify theme customization company", "best shopify theme customization in India", "shopify theme customization cost in India", "shopify theme customization service",
     ],
   },
   hero: {
@@ -37,7 +38,7 @@ const content: FreelanceContent = {
     ["Quote turnaround", "About 2 working days"],
     ["Where we work", "A duplicate theme, never your live one"],
     ["After a store build", "2 months of free maintenance"],
-    ["Ongoing care", `From ${P.care} a month`],
+    ["Ongoing care", `From ${P.care}`],
   ],
   stats: [
     { value: "25", label: "Sections a Shopify JSON template can hold" },
@@ -95,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "How Shopify theme customization is priced with us",
-    note: `Theme customisation is priced per task, because a new size-chart section and a full product-page redesign are very different jobs. Before quoting, we look at your theme, its version and your installed apps, then list each task with the files it will add or change. Small tasks such as a new announcement section are quick; custom templates driven by metafields take longer; reworking a heavily edited theme onto its latest version is the largest job. Complete Shopify store builds start at ${P.shop} (${P.shopUsd}), and ongoing theme care starts at ${P.care} a month.`,
+    note: `Theme customisation is priced per task, because a new size-chart section and a full product-page redesign are very different jobs. Before quoting, we look at your theme, its version and your installed apps, then list each task with the files it will add or change. Small tasks such as a new announcement section are quick; custom templates driven by metafields take longer; reworking a heavily edited theme onto its latest version is the largest job. Complete Shopify store builds start at ${P.shop} (${P.shopUsd}), and ongoing theme care starts at ${P.care}.`,
   },
   guideLabel: "Shopify theme customisation guide",
   guide: [

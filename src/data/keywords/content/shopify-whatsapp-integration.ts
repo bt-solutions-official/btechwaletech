@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "shopify order confirmation whatsapp message", "shopify whatsapp automation", "shopify whatsapp integration developer", "shopify whatsapp business api setup",
       "shopify store whatsapp notifications hindi", "shopify whatsapp integration for d2c brand", "shopify whatsapp integration Delhi", "shopify whatsapp integration Bangalore",
       "shopify whatsapp integration Jaipur", "shopify whatsapp kaise connect kare", "is shopify whatsapp integration free",
+      "Shopify WhatsApp integration price", "Shopify WhatsApp integration company", "best Shopify WhatsApp integration in India", "Shopify WhatsApp integration cost in India",
+      "Shopify WhatsApp integration service",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const shahade: CityContent = {
   meta: {
     title: "IT Services in Shahade | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Shahade (Shahada) growers, traders, hospitals, colleges and market shops. From ₹10,000.",
+      "Websites, apps, local SEO and WhatsApp automation for Shahade (Shahada) growers, traders, hospitals, colleges and market shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Shahade",
       "IT services team in Shahade",
@@ -30,6 +30,11 @@ const shahade: CityContent = {
       "Shahade me website banwana",
       "Shahadyat website banvaychi aahe",
       "शहादा वेबसाइट डिझाइन",
+      "Shahade website designer",
+      "web development company Shahade",
+      "hire freelance web developer Shahade",
+      "Nandurbar district SEO",
+      "website designer Nandurbar district",
     ],
   },
   hero: {

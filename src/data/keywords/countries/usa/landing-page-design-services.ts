@@ -270,8 +270,8 @@ const content: FreelanceContent = {
       heading: "Accessibility and privacy on landing pages",
       paragraphs: [
         `Landing pages should be usable by everyone and honest about data. Accessible forms and clear privacy links also tend to convert better, because they remove friction and doubt.`,
-        `We follow WCAG basics: proper labels on every field, visible focus states, enough color contrast, error messages that explain what to fix, buttons reachable by keyboard and images with meaningful alt text. For a full accessibility review of an existing site, see <a href='/usa/website-accessibility-remediation/'>website accessibility remediation</a>.`,
-        `On privacy, the page links to your privacy policy, collects only the data you need and passes it only to the tools you name. If you serve California residents and fall under state privacy law, the tracking and consent setup should reflect it; our <a href='/usa/ccpa-compliant-website/'>CCPA-ready website page</a> explains how we build for that. We do not give legal advice, and your counsel should confirm your obligations. Landing page design services should never trade user trust for a few extra leads.`,
+        `We follow WCAG basics: proper labels on every field, visible focus states, enough color contrast, error messages that explain what to fix, buttons reachable by keyboard and images with meaningful alt text. For a full accessibility review of an existing site, see <a href='/usa/ada-compliant-website-design/'>ADA compliant website design</a>.`,
+        `On privacy, the page links to your privacy policy, collects only the data you need and passes it only to the tools you name. If you serve California residents and fall under state privacy law, the tracking and consent setup should reflect it; our <a href='/usa/hipaa-compliant-website-design/'>HIPAA compliant website design</a> page explains how we build consent and tracking controls. We do not give legal advice, and your counsel should confirm your obligations. Landing page design services should never trade user trust for a few extra leads.`,
       ],
     },
     {
@@ -431,8 +431,8 @@ const content: FreelanceContent = {
       { name: "Local SEO services", href: "/usa/local-seo-services/" },
       { name: "Technical SEO services", href: "/usa/technical-seo-services/" },
       { name: "AI automation for US businesses", href: "/usa/ai-automation-agency/" },
-      { name: "Website accessibility remediation", href: "/usa/website-accessibility-remediation/" },
-      { name: "CCPA-ready website", href: "/usa/ccpa-compliant-website/" },
+      { name: "ADA compliant website design", href: "/usa/ada-compliant-website-design/" },
+      { name: "HIPAA compliant website design", href: "/usa/hipaa-compliant-website-design/" },
       { name: "Cost to hire a web developer", href: "/usa/cost-to-hire-web-developer/" },
       { name: "Shopify Plus developer", href: "/usa/shopify-plus-developer/" },
       { name: "WooCommerce developer for hire", href: "/usa/woocommerce-developer/" },

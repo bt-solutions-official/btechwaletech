@@ -7,7 +7,7 @@ const batala: CityContent = {
   meta: {
     title: "IT Services in Batala: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and WhatsApp automation for Batala foundries, machine tool makers, shops and schools. Static sites from ₹10,000, remote team, 2 months free upkeep.",
+      "Batala websites, SEO and WhatsApp bots for foundries, machine tool makers, shops and schools. Static sites from ₹10,000, remote team, 2 months free upkeep.",
     keywords: [
       "website development team in Batala",
       "web design Batala",
@@ -25,6 +25,14 @@ const batala: CityContent = {
       "website maintenance Batala",
       "Batala vich website kiven banwaiye",
       "ਬਟਾਲਾ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Batala website designer",
+      "website cost in Batala",
+      "web development company Batala",
+      "hire freelance developer Batala",
+      "Punjab SEO",
+      "website for cast iron foundries in Batala",
+      "web designer in Focal Point, Batala, Batala",
+      "website for farm implement makers in Batala",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const jaggaiahpet: CityContent = {
   meta: {
     title: "IT Services in Jaggaiahpet: Web, Apps, SEO & AI",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Jaggaiahpet cement suppliers, mango exporters, gold shops, schools and clinics.",
+      "Jaggaiahpet Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for cement suppliers, mango exporters, gold shops, schools and clinics.",
     keywords: [
       "IT services in Jaggaiahpet",
       "IT services team in Jaggaiahpet",
@@ -28,6 +28,11 @@ const jaggaiahpet: CityContent = {
       "Jaggaiahpet me website banwana",
       "Jaggayyapeta lo website cheyinchali",
       "జగ్గయ్యపేట వెబ్‌సైట్ డిజైన్",
+      "Jaggaiahpet website designer",
+      "web development company Jaggaiahpet",
+      "hire freelance developer Jaggaiahpet",
+      "Andhra Pradesh SEO",
+      "Jaggayyapeta website designer",
     ],
   },
   hero: {

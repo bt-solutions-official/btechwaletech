@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Ecommerce Website Development in India from ${P.shop}`,
-    description: `Ecommerce website development in India: Shopify, WooCommerce or custom stores with UPI, COD and GST invoices, from ${P.shop}. Store and data in your name.`,
+    description: `Ecommerce website development in India: Shopify, WooCommerce or custom stores with UPI, COD and GST invoices, in your name, from ${P.shop}. Quote in 2 days.`,
     keywords: [
       "ecommerce website development in India", "ecommerce website development India", "ecommerce website developer India", "online store development India",
       "ecommerce website development near me", "Shopify store development India", "WooCommerce development India",

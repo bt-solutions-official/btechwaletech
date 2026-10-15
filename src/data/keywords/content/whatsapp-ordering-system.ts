@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "whatsapp order dashboard", "whatsapp delivery slot booking", "whatsapp ordering system for cloud kitchen", "whatsapp par order kaise le",
       "whatsapp se order lene ka system", "whatsapp ordering system Mysuru", "whatsapp ordering system Vadodara", "whatsapp order taking app for shops",
       "commission free ordering system India",
+      "WhatsApp ordering system company", "best WhatsApp ordering system in India", "WhatsApp ordering system cost in India", "WhatsApp ordering system near me",
     ],
   },
   hero: {

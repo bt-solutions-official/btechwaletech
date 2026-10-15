@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 27.0238, lng: 74.2179 },
   meta: {
-    title: "Freelance IT Services in Rajasthan: Software & Apps",
+    title: "Rajasthan IT Services: Software & Apps",
     description:
       "Freelance IT services in Rajasthan: software, Android and iOS apps, AI automation, SEO and stores for Jaipur, Jodhpur, Kota, Udaipur and Ajmer. From ₹10,000.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT services near me Rajasthan",
       "Rajasthan mein software banane wale",
       "राजस्थान में आईटी सेवाएं",
+      "Rajasthan website designer",
+      "website cost in Rajasthan",
+      "IT company in Rajasthan",
+      "Rajasthan SEO services",
+      "hire developer Rajasthan",
+      "gems software in Rajasthan",
+      "handicrafts software in Rajasthan",
+      "textiles software in Rajasthan",
+      "heritage hotels software in Rajasthan",
+      "website developer Jaipur Rajasthan",
     ],
   },
   hero: {

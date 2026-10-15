@@ -7,7 +7,7 @@ const sirsi: CityContent = {
   meta: {
     title: "IT Services in Sirsi | Web, Apps & AI from ₹10,000",
     description:
-      "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Sirsi areca and spice traders, homestays, cooperatives, clinics and colleges.",
+      "Kannada websites, apps, local SEO and WhatsApp tools for Sirsi areca and spice traders, homestays, cooperatives, clinics and colleges. From ₹10,000.",
     keywords: [
       "IT services in Sirsi",
       "IT services team in Sirsi",
@@ -29,6 +29,12 @@ const sirsi: CityContent = {
       "Sirsi me website banwana",
       "Sirsiyalli website maadisalu",
       "ಶಿರಸಿ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Sirsi website designer",
+      "web development company Sirsi",
+      "hire freelance web developer Sirsi",
+      "Uttara Kannada district SEO",
+      "website designer Uttara Kannada district",
+      "Karnataka SEO services",
     ],
   },
   hero: {

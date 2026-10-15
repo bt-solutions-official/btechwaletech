@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Freelance Node.js developer",
   updated: "2026-09-24",
   meta: {
-    title: `Freelance Node.js Developer India | APIs & Backends`,
+    title: `Freelance Node.js Developer: APIs from ${P.software}`,
     description: `Freelance Node.js developer in India for APIs, real-time apps, job queues and integrations. Backends from ${P.software}, itemised quote in 2 working days.`,
     keywords: [
       "freelance nodejs developer", "freelance node.js developer", "freelance nodejs developer in India", "nodejs developer near me",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "node.js API developer", "express.js developer freelance", "nestjs developer freelance", "socket.io developer",
       "real-time app developer node.js", "node.js webhook integration", "bullmq queue developer", "typescript backend developer freelance",
       "node.js developer for startup", "remote nodejs developer India",
+      "hire freelance nodejs developer",
     ],
   },
   hero: {

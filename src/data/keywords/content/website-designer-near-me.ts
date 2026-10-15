@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Website designer near me",
   updated: "2026-09-24",
   meta: {
-    title: "Website Designer Near Me for Shops, Clinics & Schools",
-    description: `Looking for a website designer near me? Compare designers for a shop, clinic or school, see mockups before you pay, and start from ${P.site}.`,
+    title: `Website Designer Near Me: Mockup First, from ${P.site}`,
+    description: `Looking for a website designer near me? Compare designers for a shop, clinic or school, see a clickable mockup before you pay, and start from ${P.site}.`,
     keywords: [
       "website designer near me", "website designer near me in India", "best website designer near me", "website designer for hire near me",
       "website designer near me cost", "website design price near me", "website designer for shop", "website designer for clinic",

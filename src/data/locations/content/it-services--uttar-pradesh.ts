@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 27.1303, lng: 80.8597 },
   meta: {
-    title: "Freelance IT Services in Uttar Pradesh: Software & AI",
+    title: "Uttar Pradesh IT Services: Software & AI",
     description:
-      "Freelance IT team for Uttar Pradesh: custom software, web apps, AI automation, SEO and ecommerce from Noida to Varanasi. Websites from ₹10,000, quotes in 2 days.",
+      "Freelance IT team for Uttar Pradesh: custom software, web apps, AI automation, plus SEO and ecommerce from Noida to Varanasi. From ₹10,000, quote in two days.",
     keywords: [
       "IT services in Uttar Pradesh",
       "software development team in Uttar Pradesh",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "Android app development Uttar Pradesh",
       "iOS app development Uttar Pradesh",
       "iPhone app developers Lucknow",
+      "Uttar Pradesh website designer",
+      "website cost in Uttar Pradesh",
+      "IT company in Uttar Pradesh",
+      "Uttar Pradesh SEO services",
+      "hire developer Uttar Pradesh",
+      "odop artisans software in Uttar Pradesh",
     ],
   },
   hero: {

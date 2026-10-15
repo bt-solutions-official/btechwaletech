@@ -7,7 +7,7 @@ const tumsar: CityContent = {
   meta: {
     title: "IT Services in Tumsar: Websites, Apps, SEO & AI",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Tumsar rice mills, grain traders, MOIL mine contractors, colleges and clinics.",
+      "Marathi websites, apps, local SEO and WhatsApp tools for Tumsar rice mills, grain traders, MOIL mine contractors, colleges and clinics. Websites from ₹10,000.",
     keywords: [
       "IT services in Tumsar",
       "IT services team in Tumsar",
@@ -29,6 +29,12 @@ const tumsar: CityContent = {
       "Tumsar madhye website banvaycha",
       "तुमसर वेबसाइट डिझाइन",
       "Bhandara website development",
+      "Tumsar website designer",
+      "web development company Tumsar",
+      "hire freelance web developer Tumsar",
+      "Bhandara district SEO",
+      "website designer Bhandara district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

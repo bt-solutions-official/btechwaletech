@@ -420,18 +420,18 @@ Email ${siteContact.email}, message ${siteContact.phone} on WhatsApp, or use ${c
 
 - ${link("Homepage", "/")}: services, starting prices, process, FAQs and contact
 - ${link("Services directory", "/services/")}: every service and topic page
-- ${link("Web development", "/services/web-development/")} and ${link("SEO services", "/services/seo-services/")}
-- ${link("Android and iOS app development", "/it-services/android-ios-app/")}
-- ${link("Website development in Gujarat", "/gujarat/")} and ${link("IT services in Bhiwadi", "/bhiwadi-rajasthan/")}
-- ${link("Pricing", "/pricing/")}
-- ${link("Industries", "/industries/")}
-- ${link("Portfolio", "/portfolio/")} and ${link("Case studies", "/case-studies/")}
-- ${link("About the team", "/about/")}
+- ${link("Web development", "/services/web-development/")} and ${link("SEO services", "/services/seo-services/")}: the two core services, with scope, timelines and starting prices
+- ${link("Android and iOS app development", "/it-services/android-ios-app/")}: native and cross-platform apps from ${plan("Android").price}
+- ${link("Website development in Gujarat", "/gujarat/")} and ${link("IT services in Bhiwadi", "/bhiwadi-rajasthan/")}: the two place hubs, 300 Gujarat guides and 100 Bhiwadi guides (Bhiwadi also gets in-person meetings)
+- ${link("Pricing", "/pricing/")}: starting price, timeline and inclusions for every service, in INR and USD
+- ${link("Industries", "/industries/")}: what each industry typically needs, from manufacturing to clinics and coaching institutes
+- ${link("Portfolio", "/portfolio/")} and ${link("Case studies", "/case-studies/")}: work delivered and the results behind it
+- ${link("About the team", "/about/")}: the three engineers who do the work, and how they split it
 - ${link("Blog", "/blog/")}: guides on websites, SEO and AI automation
-- ${link("Hire IT freelancers", "/freelancers/")} and ${link("Freelancing IT services", "/freelancing/")}
-- ${link("India hub", "/india/")} and ${link("IT services in India by state", "/it-services/")}
-- ${link("Countries hub", "/countries/")}
-- ${link("Contact", "/contact/")}
+- ${link("Hire IT freelancers", "/freelancers/")} and ${link("Freelancing IT services", "/freelancing/")}: how to engage the team, what is handed over and who owns the code
+- ${link("India hub", "/india/")} and ${link("IT services in India by state", "/it-services/")}: coverage across every Indian state and union territory
+- ${link("Countries hub", "/countries/")}: the international markets served and how remote delivery and billing work
+- ${link("Contact", "/contact/")}: email, phone, WhatsApp and what to include in a first message
 
 ## Gujarat Guides Directory
 

@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "apple developer fee nz", "google play developer fee nz", "app development cost auckland", "app development cost wellington",
       "app development cost christchurch", "app development cost tauranga", "cheap app development nz",
       "app budget for small business nz", "is it cheaper to build an app offshore",
+      "hire app development in New Zealand", "freelance app development New Zealand",
     ],
   },
   hero: {

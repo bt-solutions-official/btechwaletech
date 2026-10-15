@@ -7,7 +7,7 @@ const thoubal: CityContent = {
   meta: {
     title: "IT Services in Thoubal | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Thoubal handloom weavers, kouna crafts, rice traders, colleges and bazaar shops.",
+      "Websites, apps, Google Maps SEO and WhatsApp automation for Thoubal handloom weavers, kouna crafts, rice traders, colleges and bazaar shops. From ₹10,000.",
     keywords: [
       "IT services in Thoubal",
       "IT services team in Thoubal",
@@ -29,6 +29,12 @@ const thoubal: CityContent = {
       "website design Wangjing Yairipok Lilong",
       "Thoubal me website banwana",
       "Thoubal app banwana kitne ka",
+      "Thoubal website designer",
+      "web development company Thoubal",
+      "hire freelance web developer Thoubal",
+      "Thoubal district SEO",
+      "website designer Thoubal district",
+      "Manipur SEO services",
     ],
   },
   hero: {

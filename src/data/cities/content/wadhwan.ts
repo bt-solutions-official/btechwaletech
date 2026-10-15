@@ -7,7 +7,7 @@ const wadhwan: CityContent = {
   meta: {
     title: "IT Services in Wadhwan: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, Gujarati local SEO and WhatsApp automation for Wadhwan and Surendranagar ginners, ceramic units, salt traders and shops.",
+      "Websites, apps, Gujarati local SEO and WhatsApp tools for Wadhwan and Surendranagar ginners, ceramic units, salt traders and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Wadhwan",
       "IT services team in Surendranagar",
@@ -30,6 +30,11 @@ const wadhwan: CityContent = {
       "Wadhwan ma website banavvi che",
       "Surendranagar me website banwana",
       "સુરેન્દ્રનગર વેબસાઇટ ડિઝાઇન",
+      "Wadhwan website designer",
+      "website cost in Wadhwan",
+      "web development company Wadhwan",
+      "hire freelance web developer Wadhwan",
+      "website designer Surendranagar",
     ],
   },
   hero: {

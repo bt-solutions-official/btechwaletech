@@ -7,7 +7,7 @@ const allahabad: CityContent = {
   meta: {
     title: "IT Services in Allahabad: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO and WhatsApp automation for Prayagraj coaching institutes, lawyers, hotels and traders. Sites from ₹10,000, prices published, you own the code.",
+      "Prayagraj websites, local SEO and WhatsApp bots for coaching institutes, lawyers, hotels and traders. Sites from ₹10,000, prices published, you own the code.",
     keywords: [
       "website development team in Prayagraj",
       "website designer in Allahabad",
@@ -25,6 +25,14 @@ const allahabad: CityContent = {
       "website banwana hai Prayagraj",
       "प्रयागराज में वेबसाइट बनाने वाले",
       "इलाहाबाद वेबसाइट डिजाइनर",
+      "Prayagraj website designer",
+      "web development company Prayagraj",
+      "hire freelance developer Prayagraj",
+      "Uttar Pradesh SEO",
+      "Prayagraj me website kaise banwaye",
+      "Allahabad website designer",
+      "website for competitive exam coaching in Prayagraj",
+      "web designer in Civil Lines, Prayagraj",
     ],
   },
   hero: {

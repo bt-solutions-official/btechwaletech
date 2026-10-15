@@ -7,7 +7,7 @@ const wankaner: CityContent = {
   meta: {
     title: "IT Services in Wankaner: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, SEO and WhatsApp automation for Wankaner tile plants, exporters, dealers, heritage stays and town shops. Sites from ₹10,000.",
+      "Websites, apps, SEO and WhatsApp automation for Wankaner tile plants, exporters, dealers, heritage stays and town shops. Websites from ₹10,000.",
     keywords: [
       "IT services in Wankaner",
       "IT services team in Wankaner",
@@ -29,6 +29,12 @@ const wankaner: CityContent = {
       "Wankaner me website banwana",
       "Wankaner ma website banavvi",
       "વાંકાનેર વેબસાઇટ ડિઝાઇન",
+      "Wankaner website designer",
+      "web development company Wankaner",
+      "hire freelance web developer Wankaner",
+      "Morbi district SEO",
+      "website designer Morbi district",
+      "Gujarat SEO services",
     ],
   },
   hero: {

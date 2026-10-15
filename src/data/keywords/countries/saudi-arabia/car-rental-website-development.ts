@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Car Rental Website Development in KSA from ${P.shop}`,
-    description: `Car rental website development for Saudi rental firms: live fleet calendar, deposits by mada and Apple Pay, licence upload and airport pickup. Builds from ${P.shop}.`,
+    description: `Car rental website development for Saudi rental firms: live fleet calendar, deposits by mada and Apple Pay, licence upload. Builds from ${P.shop}.`,
     keywords: [
       "car rental website development", "car rental website development saudi arabia", "car rental booking website",
       "car rental website design ksa", "rent a car website development", "car rental booking system saudi arabia",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "car rental website riyadh", "car rental website jeddah", "car rental website dammam", "car hire website arabic english",
       "reduce phone bookings car rental", "car rental website features", "monthly car rental booking website",
       "car rental website developer near me", "custom car rental website vs template",
+      "freelance car rental website development Saudi Arabia",
     ],
   },
   hero: {

@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Lead capture", value: "Two-step trial form, text-back to the prospect, alert to the front desk" },
       { label: "Search setup", value: "Google Business Profile tie-in, ExerciseGym schema, class and neighborhood pages" },
       { label: "Starting price", value: `From ${P.site}; multi-location from ${P.seoSite}; monthly SEO from ${P.seo}` },
-      { label: "After launch", value: `2 months free maintenance, then care from ${P.care} a month` },
+      { label: "After launch", value: `2 months free maintenance, then care from ${P.care}` },
     ],
   },
   services: {
@@ -161,7 +161,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Yes. Personal training is usually bought from a person, not a brand, so a profile page for each coach with their real credentials, specialties and a booking button is one of the highest-value parts of any gym website design.`,
         `A strong coach page includes a candid photo (not a stock pose), the certifications they actually hold, the populations they enjoy working with (new lifters, older adults, post-rehab clients referred by a physical therapist, athletes), the classes they teach, and a short statement in their own words. We interview coaches by WhatsApp voice note or a short call and turn their answers into readable copy that they approve. Nobody gets credentials they do not hold.`,
-        `Coach pages also answer searches like “female personal trainer near me” or “strength coach for seniors” in a way a single team grid cannot. For clubs that work closely with clinicians, linking to a trusted clinic can make sense; our <a href='/usa/physical-therapy-website-design/'>physical therapy website design</a> page covers what those practices publish on their side. When a coach leaves, the page can be redirected to the personal-training overview so you do not collect broken links.`,
+        `Coach pages also answer searches like “female personal trainer near me” or “strength coach for seniors” in a way a single team grid cannot. For clubs that work closely with clinicians, linking to a trusted clinic can make sense; our <a href='/usa/chiropractor-website-design/'>chiropractor website design</a> page covers what those clinics publish on their side. When a coach leaves, the page can be redirected to the personal-training overview so you do not collect broken links.`,
       ],
     },
     {
@@ -177,7 +177,7 @@ const content: FreelanceContent = {
         { heading: "Martial arts and kids' programs", text: "Parents want safety, schedule and cost. Separate kids and adult programs, explain belt progression, post instructor backgrounds, and make a trial class request very simple." },
       ],
       after: [
-        `Yoga and wellness studios sit between these groups; they often share booking tools with salons and spas, so the structure on our <a href='/usa/hair-salon-website-design/'>hair salon website design</a> page (service menus, provider profiles, gift cards) can be useful for retail and workshop sales.`,
+        `Yoga and wellness studios sit between these groups; they often share booking tools with salons and spas, so the structure on our <a href='/usa/med-spa-website-design/'>med spa website design</a> page (service menus, provider profiles, gift cards) can be useful for retail and workshop sales.`,
       ],
     },
     {
@@ -186,7 +186,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, gym website design starts from ${P.site} for a single-location site of up to 100 pages and from ${P.seoSite} for large multi-location or program-heavy builds. Quotes from other designers vary widely, and the difference is usually explained by a few specific drivers rather than by design talent alone.`,
         `The things that move a gym quote are: the number of locations and class formats that each need their own page; how your booking software connects (a simple widget is quick, an API sync takes longer); whether you need custom features such as a membership calculator, corporate wellness enquiry form or a member-only content area; how much copywriting and photo editing is needed; and whether the site is bilingual. A branded member app or a custom portal sits in a different price range, from ${P.app} or ${P.software}.`,
-        `Running costs are separate from the build. You pay your booking platform directly, your domain registrar directly and your host directly, so there is no markup hiding in those bills. After the two free months of maintenance, ongoing care starts from ${P.care} a month, and monthly search work starts from ${P.seo}. The full price list lives on our <a href='/pricing/'>pricing page</a>.`,
+        `Running costs are separate from the build. You pay your booking platform directly, your domain registrar directly and your host directly, so there is no markup hiding in those bills. After the two free months of maintenance, ongoing care starts from ${P.care}, and monthly search work starts from ${P.seo}. The full price list lives on our <a href='/pricing/'>pricing page</a>.`,
       ],
     },
     {
@@ -369,7 +369,7 @@ const content: FreelanceContent = {
     { question: "How do trial leads from my website reach my front desk?", answer: "Each trial or consultation request can go to your CRM or booking platform, your front desk email and a text alert to whoever is on shift, with the prospect's name, phone and preferred class time. The prospect gets an instant confirmation. We test the alerts before launch so weekend leads are not missed." },
     { question: "Will my gym website work well on phones?", answer: "Yes. Most gym visitors browse on phones, so we design for small screens first, keep pages light, compress photos and video, and load booking scripts only where needed. We test on real iPhone and Android devices and check Core Web Vitals in Search Console after launch." },
     { question: "Can you build an English and Spanish gym website?", answer: "Yes. We build bilingual gym sites with a language switcher and separate, properly tagged pages for each language. We write in English, so you or your translator provide or approve the Spanish text. Bilingual pages help gyms in Miami, Houston, Los Angeles and other markets with many Spanish-speaking residents." },
-    { question: "How much does gym website maintenance cost?", answer: `The first two months after launch include free maintenance: updates, backups, security checks and small edits. After that, care plans start from ${P.care} a month. Adding new class pages, locations or monthly SEO work is quoted separately, with monthly SEO starting from ${P.seo}.` },
+    { question: "How much does gym website maintenance cost?", answer: `The first two months after launch include free maintenance: updates, backups, security checks and small edits. After that, care plans start from ${P.care}. Adding new class pages, locations or monthly SEO work is quoted separately, with monthly SEO starting from ${P.seo}.` },
     { question: "Can you add an AI chat assistant to my gym website?", answer: "Yes, if it helps. An assistant trained on your schedule, prices and FAQ can answer common questions after hours and collect trial requests, with a hand-off to staff. We test its answers before launch and make it clear visitors are chatting with an AI. For many small gyms, a clear FAQ page does the same job at lower cost." },
     { question: "What do you not do for gym websites?", answer: "We do not visit gyms for photo shoots, run social media accounts, manage paid ads day to day, give legal advice on membership contracts, or rebuild billing that your booking platform already handles. We design, build, integrate, optimize for search and maintain the website, and we can connect you with the pages your ads and social posts need." },
     { question: "How do I pay for a gym website from the US?", answer: "You receive an itemized quote in USD, approve it in writing, and pay by bank wire, Wise or PayPal against the milestones in the quote. Invoices are issued from India. Your booking software, domain and hosting are paid directly to those providers, so there is no hidden markup on running costs." },
@@ -377,13 +377,13 @@ const content: FreelanceContent = {
   related: {
     heading: "Related website pages for US businesses",
     links: [
-      { name: "Hair salon website design", href: "/usa/hair-salon-website-design/" },
+      { name: "Small business website design", href: "/usa/small-business-website-design/" },
       { name: "Med spa website design", href: "/usa/med-spa-website-design/" },
-      { name: "Physical therapy website design", href: "/usa/physical-therapy-website-design/" },
+      { name: "Medical practice website design", href: "/usa/medical-practice-website-design/" },
       { name: "Chiropractor website design", href: "/usa/chiropractor-website-design/" },
       { name: "Auto repair shop website design", href: "/usa/auto-repair-shop-website-design/" },
-      { name: "Vacation rental website design", href: "/usa/vacation-rental-website-design/" },
-      { name: "Trucking company website design", href: "/usa/trucking-company-website-design/" },
+      { name: "Real estate agent website design", href: "/usa/real-estate-agent-website-design/" },
+      { name: "Moving company website design", href: "/usa/moving-company-website-design/" },
       { name: "Local SEO services", href: "/usa/local-seo-services/" },
       { name: "Landing page design services", href: "/usa/landing-page-design-services/" },
       { name: "Flutter app development company", href: "/usa/flutter-app-development-company/" },

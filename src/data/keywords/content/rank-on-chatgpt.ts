@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "How to rank on ChatGPT",
   updated: "2026-09-25",
   meta: {
-    title: "How to Rank on ChatGPT: Get Your Business Recommended",
+    title: `How to Rank on ChatGPT: Get Recommended in 2026`,
     description: `How to rank on ChatGPT: why it recommends some businesses, the Bing connection, reviews, answer pages and GA4 tracking. Hands-on help from ${P.seo}.`,
     keywords: [
       "how to rank on chatgpt", "rank on chatgpt", "how to rank in chatgpt", "how to get recommended by chatgpt",

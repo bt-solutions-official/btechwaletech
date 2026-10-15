@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `SEO for Manufacturers: Direct B2B RFQs, ${P.seo}`,
-    description: `SEO for manufacturers from ${P.seo}: spec-based product pages, export-ready structure and RFQ forms that bring B2B enquiries to your site, not only marketplaces.`,
+    description: `SEO for manufacturers from ${P.seo}: spec-based product pages, datasheets, export-ready structure and RFQ forms that bring B2B enquiries to your own site.`,
     keywords: [
       "seo for manufacturers", "manufacturing seo", "seo for manufacturing companies", "industrial seo", "b2b seo for manufacturers",
       "seo for manufacturers India", "manufacturer seo services", "seo for factory", "seo for msme manufacturers",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "seo for exporters", "seo for engineering companies", "seo for industrial products", "seo for chemical manufacturers",
       "seo for manufacturers cost", "manufacturing company seo price", "seo for manufacturers Ahmedabad", "seo for manufacturers Pune",
       "seo for manufacturers Ludhiana", "seo for manufacturers Coimbatore", "factory ki website google par kaise laye",
+      "SEO for manufacturers price", "SEO for manufacturers services", "SEO for manufacturers packages", "best SEO for manufacturers in India",
+      "SEO for manufacturers agency",
     ],
   },
   hero: {

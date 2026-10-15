@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 20.5937, lng: 78.9629 },
   meta: {
-    title: "Freelance IT Services in India: Software, Apps & AI",
+    title: "India IT Services: Software, Apps & AI",
     description:
       "IT services in India: custom software, web and mobile apps, AI automation, SEO and ecommerce. Starting prices published, quotes in 2 days, every state served.",
     keywords: [
@@ -34,6 +34,11 @@ const content: CityContent = {
       "iOS app development India",
       "mobile app developers India",
       "iPhone app developers India",
+      "India website designer",
+      "website cost in India",
+      "IT company in India",
+      "India SEO services",
+      "hire developer India",
     ],
   },
   hero: {

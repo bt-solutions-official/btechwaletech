@@ -7,7 +7,7 @@ const alirajpur: CityContent = {
   meta: {
     title: "IT Services in Alirajpur | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Alirajpur mango traders, dolomite units, dealers, clinics, schools and shops.",
+      "Alirajpur Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for mango traders, dolomite units, dealers, clinics, schools and shops.",
     keywords: [
       "IT services in Alirajpur",
       "IT services team in Alirajpur",
@@ -29,6 +29,10 @@ const alirajpur: CityContent = {
       "Alirajpur me website banwana",
       "Alirajpur me app kaise banwaye",
       "अलीराजपुर वेबसाइट डिज़ाइन",
+      "Alirajpur website designer",
+      "web development company Alirajpur",
+      "hire freelance developer Alirajpur",
+      "western Madhya Pradesh SEO",
     ],
   },
   hero: {

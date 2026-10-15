@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Bilingual Website Design: JP/EN Sites from ${P.site}`,
-    description: `Bilingual website design for Japan: Japanese and English sites that rank in both languages, with hreflang, proper Japanese type and a clear switcher, from ${P.site}.`,
+    description: `Bilingual website design for Japan: Japanese and English sites that rank in both languages, with hreflang, Japanese type and a switcher, from ${P.site}.`,
     keywords: [
       "bilingual website design", "bilingual website design japan", "japanese english bilingual website", "bilingual website japanese english",
       "how to make a bilingual website", "bilingual website cost", "bilingual web design tokyo", "bilingual web design osaka",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "japanese line breaking css", "bilingual wordpress site japan", "bilingual cms japan", "bilingual website for foreign company in japan",
       "english website for japanese company", "bilingual website designer near me", "does google rank bilingual websites", "japan",
       "二か国語 ウェブサイト 制作", "英語 日本語 ホームページ 制作",
+      "hire bilingual website design in Japan", "freelance bilingual website design Japan",
     ],
   },
   hero: {

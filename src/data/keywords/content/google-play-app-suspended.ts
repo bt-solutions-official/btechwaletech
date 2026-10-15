@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "Google Play App Suspended? Appeal, Fix, Republish",
-    description: `Google Play app suspended or developer account terminated? Know what happened, fix the policy issue, write the appeal and decide on republishing. Apps from ${P.app}.`,
+    description: `Google Play app suspended or developer account terminated? Know what happened, fix the policy issue, write the appeal and republish. Apps from ${P.app}.`,
     keywords: [
       "google play app suspended", "app suspended from google play", "google play suspended my app", "google play app suspension appeal",
       "google play developer account terminated", "play console app suspended", "app removed from play store", "google play app removed vs suspended",

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Salon Website Design with Slot Booking from ${P.site}`,
-    description: `Salon website design in India from ${P.site}: priced service menu, stylist-wise slot booking, WhatsApp reminders, packages and Google reviews that cut phone bookings.`,
+    description: `Salon website design from ${P.site}: priced service menu, stylist-wise slot booking, WhatsApp reminders, packages and Google reviews. Live in 1-2 weeks.`,
     keywords: [
       "salon website design", "salon website design India", "beauty parlour website design", "salon website", "website for salon",
       "salon website with online booking", "salon appointment booking website", "hair salon website design", "unisex salon website",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "salon WhatsApp booking", "salon membership package website", "salon Google reviews on website", "salon website Mumbai",
       "salon website Chennai", "parlour ki website kaise banaye", "beauty parlour online booking", "salon service menu with prices",
       "salon website for multiple branches",
+      "salon website design cost", "salon website design price", "salon website design company", "best salon website design in India",
+      "salon website design cost in India", "salon website design near me",
     ],
   },
   hero: {
@@ -60,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Booking logic", value: "Service length plus stylist availability plus buffer" },
       { label: "Client messages", value: `Confirm, remind, rebook on WhatsApp, from ${P.ai}` },
       { label: "Selling packages", value: "UPI or card checkout for prepaid packages and memberships" },
-      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -271,7 +273,7 @@ const content: FreelanceContent = {
       heading: "Who owns the salon website and client list?",
       paragraphs: [
         `Your salon does. Salon website design with us puts the domain, hosting, code, booking data, client list, WhatsApp Business number and payment merchant account in the salon’s name, or you create them and add us as users.`,
-        `At handover you receive the repository, admin logins, a list of paid services and their renewal dates, and a short guide for updating prices, stylists and hours. Two months of free maintenance follows launch. After that, care is optional from ${P.care} a month, or any developer can take over.`,
+        `At handover you receive the repository, admin logins, a list of paid services and their renewal dates, and a short guide for updating prices, stylists and hours. Two months of free maintenance follows launch. After that, care is optional from ${P.care}, or any developer can take over.`,
         `Salons often see stylists move on and partners change. When the client list lives in the salon’s own system, not in a senior stylist’s phone, a staff change does not walk out of the door with half your regulars.`,
       ],
     },
@@ -391,8 +393,8 @@ const content: FreelanceContent = {
     { question: "Should I hire a freelancer or an agency for my salon website?", answer: "A small freelance team works well when you want to speak directly with the people building the booking system and your scope is clear: menu, booking, packages, reminders. A larger agency suits brands that also want photo shoots, ad campaigns and brand identity at once. Most single salons and small chains are well served by a focused freelance build." },
     { question: "Can a remote team build a salon website without visiting?", answer: "Yes. What a salon website needs is an accurate menu, clear booking rules and good photos of your work, all of which travel well over WhatsApp. We run calls on Google Meet, test on staging links your receptionist can use, and guide you on shooting service photos in good light on a phone." },
     { question: "Who owns the salon website and the client data?", answer: "The salon owns everything: domain, hosting, code, the booking database, client list, WhatsApp number and payment merchant account. At launch you get the repository, admin logins and a list of paid services with renewal dates. If you ever switch developers, the new person can take over without needing anything from us." },
-    { question: "What happens after the salon website goes live?", answer: `For two months after launch, small changes are free: new prices, a new stylist, updated hours. After that, maintenance is optional from ${P.care} a month. Your staff can also change prices, services, staff hours and leave from the admin screen without waiting for us.` },
-    { question: "Will my salon appear first for “salon near me”?", answer: `No honest developer can promise that. Map results depend on your Business Profile, distance from the searcher, reviews and competition nearby. We build fast pages, add HairSalon or BeautySalon structured data, link your profile’s booking button to your site and set up Search Console. Ongoing local SEO starts at ${P.seo} a month.` },
+    { question: "What happens after the salon website goes live?", answer: `For two months after launch, small changes are free: new prices, a new stylist, updated hours. After that, maintenance is optional from ${P.care}. Your staff can also change prices, services, staff hours and leave from the admin screen without waiting for us.` },
+    { question: "Will my salon appear first for “salon near me”?", answer: `No honest developer can promise that. Map results depend on your Business Profile, distance from the searcher, reviews and competition nearby. We build fast pages, add HairSalon or BeautySalon structured data, link your profile’s booking button to your site and set up Search Console. Ongoing local SEO starts at ${P.seo}.` },
     { question: "Can the salon website connect to my salon billing software?", answer: `If your software offers an API or import, we can push online bookings and package sales into it. If it cannot, bookings can sit in the website’s own system with a daily export. When your current tool is holding you back, custom salon software starts at ${P.software}, though most salons do not need it on day one.` },
     { question: "Does my salon need a mobile app?", answer: `Usually not at first. A fast website with booking and WhatsApp confirmations covers what most clients want without an install. An app makes sense for chains with loyalty points, package balances and frequent repeat clients. We build Android and iOS apps from ${P.app}, published in the salon’s own store accounts.` },
     { question: "How do I pay for the salon website?", answer: "Salons in India pay by UPI or bank transfer, in stages linked to work you can see, as set out in the written quote. Invoice and GST details for your case are discussed at quote stage. Nothing is billed before you approve the itemised quote, and our terms and refund policy pages explain the general position." },

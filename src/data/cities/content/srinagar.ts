@@ -7,7 +7,7 @@ const srinagar: CityContent = {
   meta: {
     title: "IT Services in Srinagar: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, online stores and WhatsApp automation for Srinagar crafts, hotels, houseboats and clinics. Sites from ₹10,000 with 2 months of free maintenance.",
+      "Websites, SEO, online stores and WhatsApp automation for Srinagar crafts, hotels, houseboats and clinics. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "website development team in Srinagar",
       "web designer Srinagar",
@@ -25,6 +25,16 @@ const srinagar: CityContent = {
       "website maintenance Srinagar",
       "Srinagar mein website kaise banwayein",
       "श्रीनगर वेबसाइट डिज़ाइन",
+      "Srinagar website designer",
+      "web development company Srinagar",
+      "hire freelance web developer Srinagar",
+      "Jammu and Kashmir SEO services",
+      "Srinagar me website kaise banwaye",
+      "Srinagar website banwane ka kharcha",
+      "website design price in Srinagar",
+      "app development company Srinagar",
+      "ecommerce website Srinagar",
+      "Srinagar SEO company",
     ],
   },
   hero: {

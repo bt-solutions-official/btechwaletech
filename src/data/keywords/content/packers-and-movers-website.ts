@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "office relocation website", "packers and movers website template vs custom", "packers and movers website designer near me", "packers and movers website Bangalore",
       "packers and movers website Pune", "packers and movers website Gurgaon", "packers and movers website Hyderabad", "packers and movers ki website kaise banaye",
       "IBA approved packers website", "packers and movers WhatsApp leads", "packers and movers route pages SEO",
+      "packers and movers website design cost", "packers and movers website design price", "packers and movers website design company", "best packers and movers website design in India",
+      "packers and movers website design cost in India", "packers and movers website design near me",
     ],
   },
   hero: {

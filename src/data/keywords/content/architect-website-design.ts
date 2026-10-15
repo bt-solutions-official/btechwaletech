@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "architect website Ahmedabad", "architect website Bengaluru", "architect website Pune", "residential architect website",
       "commercial architect website", "fast image portfolio website", "architect website designer", "architect ki website",
       "landscape architect website",
+      "best architect website design in India",
+      "architect website design services",
     ],
   },
   hero: {
@@ -203,7 +205,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A studio portfolio with ten to fifteen projects fits our static plan, which starts at ${P.site} (${P.siteUsd} for practices abroad) and takes one to two weeks. Larger practices with thirty or more projects, several typologies and a CMS for staff to add work take longer and cost more, mostly because of image and caption preparation.`,
         `Quotes for architect website design across the market vary a great deal for similar-sounding briefs. The gap usually sits in four places: how many projects the designer will lay out, whether they prepare images or expect ready files, whether copy for each project is written or just pasted, and whether anything happens after launch. Ask every designer to price those separately.`,
-        `Our quote lists the site structure, project count, image preparation, drawing clean-up, any 3D or video work, languages and integrations as individual lines. Maintenance is free for two months after launch, then optional from ${P.care} a month. Monthly SEO, if you want ongoing visibility work, starts at ${P.seo}. Domain and hosting are paid by you directly.`,
+        `Our quote lists the site structure, project count, image preparation, drawing clean-up, any 3D or video work, languages and integrations as individual lines. Maintenance is free for two months after launch, then optional from ${P.care}. Monthly SEO, if you want ongoing visibility work, starts at ${P.seo}. Domain and hosting are paid by you directly.`,
       ],
     },
     {
@@ -372,7 +374,7 @@ const content: FreelanceContent = {
     { question: "How long does it take to design an architect website?", answer: "One to two weeks for a studio with a dozen projects and ready photographs, around three weeks for larger practices or when many drawings need cleaning up. The slowest part is usually gathering photographs, client permissions and project facts, so starting that collection early shortens the whole project." },
     { question: "Is Instagram enough for an architecture practice?", answer: "Instagram is good for discovery but weak for detail and search. Captions are short, drawings get lost in carousels and profiles rarely rank for local service searches. A website holds full case studies, answers process and fee questions and filters enquiries. Most practices use both, with posts linking to the relevant project page." },
     { question: "Can my team add new projects to the website themselves?", answer: "Yes, if we build with a headless CMS or WordPress. Your team fills in project fields and uploads photographs, and the image pipeline resizes them automatically. With a static build, you send new projects to us and we add them; that is included in the two months of free maintenance after launch." },
-    { question: "Does an architect website need SEO?", answer: `It needs the basics built in: descriptive project titles, captions, alt text, schema markup, a sitemap and Google Search Console. Ongoing SEO, such as explainer pages and project page improvements, is optional and starts at ${P.seo} a month. Nobody can guarantee rankings; clear, specific pages simply give Google more to match.` },
+    { question: "Does an architect website need SEO?", answer: `It needs the basics built in: descriptive project titles, captions, alt text, schema markup, a sitemap and Google Search Console. Ongoing SEO, such as explainer pages and project page improvements, is optional and starts at ${P.seo}. Nobody can guarantee rankings; clear, specific pages simply give Google more to match.` },
     { question: "How can an architecture firm appear in AI search answers?", answer: "AI tools quote pages that state facts clearly. Project pages with plain descriptions of type, city, area and approach, process pages that answer common questions in the first sentence, consistent practice details across your site and Google Business Profile, and schema markup all help. There is no way to guarantee inclusion, but clarity improves the odds." },
     { question: "What should an architect’s enquiry form ask?", answer: "Project type, city or locality, plot or floor area, whether the land is owned, the current stage and expected start date, with an optional budget band. Mostly dropdowns, five or six fields. These answers let you judge fit before a call, and submissions can arrive as a WhatsApp alert with everything in one message." },
     { question: "Who owns the architect website and the photographs on it?", answer: "The practice owns the domain, hosting and code; we set them up in your name and hand over every login at launch. Photograph rights depend on your agreement with the photographer, so check the licence covers web use and credit them on each project. We only use images you have the right to publish." },

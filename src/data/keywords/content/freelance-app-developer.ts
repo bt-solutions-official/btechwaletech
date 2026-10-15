@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance App Developer in India | Apps from ${P.app}`,
-    description: `Freelance app developer for Android and iOS: one Flutter or React Native build from ${P.app}, published to Google Play and the App Store in your own accounts.`,
+    description: `Freelance app developer for Android and iOS: one Flutter or React Native build, published to Google Play and the App Store. Apps from ${P.app}.`,
     keywords: [
       "freelance app developer", "freelance app developer in India", "freelance app developer near me", "freelance app developer for hire",
       "freelance app developer cost", "freelance app developer price", "best freelance app developer", "app developer freelancer India",
@@ -249,7 +249,7 @@ const content: FreelanceContent = {
       heading: "After launch: updates, OS changes and maintenance",
       paragraphs: [
         `An app is never finished, because Android and iOS change every year. New OS versions, new store policy deadlines and new phone sizes all require updates, even if you add no features.`,
-        `Our apps include two months of free maintenance after release. That covers bug fixes, small copy changes, dependency updates and store policy responses. After that, maintenance continues from ${P.care} a month if you want it, or you can take the code to another developer; everything is documented for exactly that reason.`,
+        `Our apps include two months of free maintenance after release. That covers bug fixes, small copy changes, dependency updates and store policy responses. After that, maintenance continues from ${P.care} if you want it, or you can take the code to another developer; everything is documented for exactly that reason.`,
         `Plan a small budget for version 1.1 about six to eight weeks after launch. Real users always reveal one or two flows that need tightening, and fixing them early improves ratings far more than adding new features.`,
       ],
     },
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "You create the Google Play and Apple developer accounts plus hosting, with our guidance, and add us as users with limited permissions."],
       ["Test builds every week", "Installable builds reach your phone through internal testing and TestFlight, so you judge the real app rather than slides."],
       ["Store submission and release", "We prepare listings, privacy forms and review notes, submit to both stores and fix any rejection until both apps are live."],
-      ["Two months of free fixes", "Bug fixes, small changes and policy updates are free for two months after release, then optional maintenance from " + P.care + " a month."],
+      ["Two months of free fixes", "Bug fixes, small changes and policy updates are free for two months after release, then optional maintenance from " + P.care + "."],
     ],
   },
   faqHeading: "Freelance app developer: common questions",
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
     { question: "Why do apps get rejected by the App Store or Google Play?", answer: "Common reasons include missing or unclear privacy policies, incomplete data safety or privacy declarations, crashes during review, login-protected apps with no demo account, placeholder content and permissions that are not explained. A developer who writes clear review notes and tests carefully before submission avoids most rejections, and fixes the rest quickly." },
     { question: "Can a freelance app developer also build the admin panel and backend?", answer: `A full-stack freelance app developer can, and it should be in the quote. BtechWaleTech includes a backend API, database and basic web admin panel in app projects starting from ${P.app}. Larger portals for customers, vendors or staff are scoped as a web application starting from ${P.software}.` },
     { question: "How do I protect my app idea when working with a freelancer?", answer: "Sign a simple NDA before sharing detailed plans, keep the source code in a repository you own, and get a written agreement that intellectual property transfers to you on payment. In practice, execution matters far more than the idea, but these steps give you legal clarity. BtechWaleTech signs reasonable NDAs on request." },
-    { question: "What happens after my app is launched?", answer: `Apps need regular updates for new Android and iOS versions, store policy changes and bug reports from real users. BtechWaleTech includes two months of free maintenance after release. After that, maintenance is optional from ${P.care} a month, or you can hand the documented code to any other developer.` },
+    { question: "What happens after my app is launched?", answer: `Apps need regular updates for new Android and iOS versions, store policy changes and bug reports from real users. BtechWaleTech includes two months of free maintenance after release. After that, maintenance is optional from ${P.care}, or you can hand the documented code to any other developer.` },
     { question: "Can a freelance app developer near me be better than a remote one?", answer: "Meeting locally can feel reassuring, but app quality depends on skill, process and testing. Remote developers send weekly test builds to your phone, meet on video and reply on WhatsApp, so you judge the real app every week. Choose on evidence such as live apps and ownership terms, then decide whether distance still matters." },
     { question: "Will my app work on cheap Android phones?", answer: "It should, if the developer tests for it. Most Indian users are on Android, many on entry-level devices with limited memory and storage. A careful developer keeps the app small, caches data for weak networks and tests on at least one older phone before release, not only on emulators or new flagship devices." },
     { question: "Can you add UPI payments to my app?", answer: "Yes. Apps we build can accept UPI and card payments at checkout, with order confirmation, refunds and receipts handled on the backend. Note that apps selling digital content or subscriptions may have to use Google Play or Apple billing under store rules, while physical goods and in-person services can use your own checkout." },

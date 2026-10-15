@@ -7,7 +7,7 @@ const kotKapura: CityContent = {
   meta: {
     title: "IT Services in Kot Kapura: Websites, Apps, SEO & AI",
     description:
-      "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Kot Kapura cotton traders, arhtiyas, dhodha makers, workshops and clinics.",
+      "Kot Kapura Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for cotton traders, arhtiyas, dhodha makers, workshops and clinics.",
     keywords: [
       "IT services in Kot Kapura",
       "IT services team in Kotkapura",
@@ -29,6 +29,10 @@ const kotKapura: CityContent = {
       "Kotkapura me website banwana",
       "Kotkapura vich website banwauni",
       "ਕੋਟਕਪੂਰਾ ਵੈੱਬਸਾਈਟ",
+      "Kot Kapura website designer",
+      "web development company Kot Kapura",
+      "hire freelance developer Kot Kapura",
+      "Punjab SEO",
     ],
   },
   hero: {

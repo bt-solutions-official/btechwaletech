@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.9124, lng: 75.7873 },
   meta: {
-    title: "IT Consulting in Jaipur: Freelance IT Solutions Team",
+    title: "Jaipur IT Consulting: Gems, Engineering & Textiles",
     description:
       "IT consulting and digital transformation in Jaipur from a freelance team of three engineers: software, apps, AI, cloud, data and SEO. Itemised quotes.",
     keywords: [
@@ -31,6 +31,14 @@ const content: CityContent = {
       "SEO and AI search Jaipur",
       "जयपुर में आईटी कंसल्टिंग",
       "जयपुर सॉफ्टवेयर समाधान",
+      "Jaipur website designer",
+      "website cost in Jaipur",
+      "IT company in Jaipur",
+      "Rajasthan SEO services",
+      "hire developer Jaipur",
+      "gems software in Jaipur",
+      "engineering software in Jaipur",
+      "textiles software in Jaipur",
     ],
   },
   hero: {

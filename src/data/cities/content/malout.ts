@@ -7,7 +7,7 @@ const malout: CityContent = {
   meta: {
     title: "IT Services in Malout | Web, Apps & AI from ₹10,000",
     description:
-      "Punjabi-English websites, Android and iOS apps, local SEO and WhatsApp automation for Malout cotton traders, ginning units, machinery dealers, arhtiyas and shops.",
+      "Punjabi-English websites, apps, SEO and WhatsApp tools for Malout cotton traders, ginning units, machinery dealers, arhtiyas and shops. From ₹10,000.",
     keywords: [
       "IT services in Malout",
       "IT services team in Malout",
@@ -29,6 +29,12 @@ const malout: CityContent = {
       "Malout me website banwana",
       "Malout vich website banwao",
       "ਮਲੋਟ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Malout website designer",
+      "web development company Malout",
+      "hire freelance web developer Malout",
+      "Sri Muktsar Sahib district SEO",
+      "website designer Sri Muktsar Sahib district",
+      "Punjab SEO services",
     ],
   },
   hero: {

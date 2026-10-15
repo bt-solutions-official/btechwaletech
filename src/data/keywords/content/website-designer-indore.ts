@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Designer in Indore, Mobile-First from ${P.site}`,
-    description: `Website designer in Indore for brands, shops and institutes: mobile-first layouts, Hindi and English pages, live screen-share reviews. Designed sites from ${P.site}.`,
+    description: `Website designer in Indore for brands, shops and institutes: mobile-first layouts, Hindi and English pages, live screen-share reviews. From ${P.site}.`,
     keywords: [
       "website designer in Indore", "website designer Indore", "web designer in Indore", "website designer near me Indore",
       "website design Indore", "website designing in Indore", "website design services Indore", "freelance website designer Indore",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "UI UX designer Indore", "website designer Vijay Nagar", "website designer Palasia Indore", "namkeen brand website design",
       "coaching institute website design Indore", "website design Ujjain", "Indore me website design kaise karwaye", "website designer vs developer",
       "best website designer in Indore", "website designer Madhya Pradesh",
+      "website designer in Indore cost", "website designer in Indore price", "hire website designer in Indore", "freelance website designer in Indore",
+      "website designer in Indore charges",
     ],
   },
   hero: {

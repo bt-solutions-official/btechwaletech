@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "vendor commission system", "seller dashboard development", "vendor payout marketplace", "B2B marketplace developer",
       "service marketplace website", "rental marketplace website", "multi vendor platform development", "marketplace MVP",
       "marketplace app developer", "freelance marketplace developer",
+      "hire marketplace website developer", "freelance marketplace website developer", "marketplace website developer cost", "best marketplace website developer in India",
+      "marketplace website developer price", "marketplace website developer charges",
     ],
   },
   hero: {

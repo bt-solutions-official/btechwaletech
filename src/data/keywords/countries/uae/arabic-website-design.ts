@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "hreflang arabic english", "arabic website design abu dhabi", "arabic website design sharjah", "arabic website design near me",
       "arabic website for small business", "arabic website design for restaurants", "arabic wordpress website", "mirrored layout arabic",
       "arabic seo website", "multilingual website uae", "arabic ecommerce website design", "arabic landing page design",
+      "hire arabic website design in the UAE", "freelance arabic website design UAE",
     ],
   },
   hero: {

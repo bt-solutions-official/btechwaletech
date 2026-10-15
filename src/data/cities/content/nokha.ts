@@ -7,7 +7,7 @@ const nokha: CityContent = {
   meta: {
     title: "IT Services in Nokha | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Nokha bhujia and papad units, mandi traders, oil mills, guar processors and shops.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Nokha bhujia and papad units, mandi traders, oil mills, guar processors and shops. From ₹10,000.",
     keywords: [
       "IT services in Nokha",
       "IT services team in Nokha",
@@ -29,6 +29,12 @@ const nokha: CityContent = {
       "Nokha me website banwana",
       "Nokha me app banwana",
       "नोखा वेबसाइट डिज़ाइन",
+      "Nokha website designer",
+      "web development company Nokha",
+      "hire freelance web developer Nokha",
+      "Bikaner district SEO",
+      "website designer Bikaner district",
+      "Rajasthan SEO services",
     ],
   },
   hero: {

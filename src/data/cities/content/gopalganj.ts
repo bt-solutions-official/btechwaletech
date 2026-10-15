@@ -7,7 +7,7 @@ const gopalganj: CityContent = {
   meta: {
     title: "IT Services in Gopalganj | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi and Bhojpuri-friendly websites, Android and iOS apps, local SEO and WhatsApp automation for Gopalganj sugar, rice mill, retail, clinic and coaching businesses.",
+      "Gopalganj Hindi and Bhojpuri websites, apps, local SEO and WhatsApp bots for sugar units, rice mills, shops, clinics and coaching centres. From ₹10,000.",
     keywords: [
       "IT services in Gopalganj",
       "IT services team in Gopalganj",
@@ -29,6 +29,10 @@ const gopalganj: CityContent = {
       "Gopalganj me website banwana",
       "Gopalganj me app banwana",
       "गोपालगंज वेबसाइट डिज़ाइन",
+      "Gopalganj website designer",
+      "web development company Gopalganj",
+      "hire freelance developer Gopalganj",
+      "Bihar SEO",
     ],
   },
   hero: {

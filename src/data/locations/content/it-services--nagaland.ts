@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.1584, lng: 94.5624 },
   meta: {
-    title: "Freelance IT Services in Nagaland: Software & Apps",
+    title: "Nagaland IT Services: Software & Apps",
     description:
-      "Freelance IT services in Nagaland, from Dimapur and Kohima to Mokokchung: custom software, Android and iOS apps, AI automation, dashboards and SEO. From ₹10,000.",
+      "Freelance IT services in Nagaland, from Dimapur and Kohima to Mokokchung: custom software, Android and iOS apps, plus AI automation. From ₹10,000.",
     keywords: [
       "IT services in Nagaland",
       "software development team in Nagaland",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "school software Mokokchung",
       "Nagaland te software banai diya manu",
       "Nagaland mein software team",
+      "Nagaland website designer",
+      "website cost in Nagaland",
+      "IT company in Nagaland",
+      "Nagaland SEO services",
+      "hire developer Nagaland",
+      "wholesale software in Nagaland",
+      "tourism software in Nagaland",
+      "education software in Nagaland",
+      "churches software in Nagaland",
+      "website developer Dimapur Nagaland",
     ],
   },
   hero: {

@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Outsource App Development UK Safely, from ${P.app}`,
-    description: `Outsource app development UK-safe: spec, contract, IP assignment and milestone payments explained. iOS and Android apps from ${P.app}, by three developers in India.`,
+    description: `Outsource app development UK-safe: spec, contract, IP assignment and milestone payments explained. iOS and Android apps from ${P.app}, by developers in India.`,
     keywords: [
       "outsource app development uk", "outsource app development", "outsourcing app development uk", "outsource mobile app development",
       "outsource app development to india", "how to outsource app development", "offshore app development uk", "app development outsourcing company",

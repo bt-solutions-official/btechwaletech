@@ -7,7 +7,7 @@ const nagaon: CityContent = {
   meta: {
     title: "Nagaon Website Developer, SEO & Online Stores",
     description:
-      "Websites, Assamese and English SEO, UPI stores and WhatsApp bots for Nagaon shops, clinics, colleges and rice traders. Sites from ₹10,000, 2 months upkeep free.",
+      "Websites, UPI stores and WhatsApp bots for Nagaon shops, clinics, colleges and rice traders. Websites from ₹10,000, and the code stays yours.",
     keywords: [
       "website development team in Nagaon",
       "web designer Nagaon Assam",
@@ -25,6 +25,16 @@ const nagaon: CityContent = {
       "website maintenance Nagaon",
       "Nagaon me website banwana hai",
       "নগাঁও ৱেবছাইট ডিজাইন",
+      "Nagaon website designer",
+      "web development company Nagaon",
+      "hire freelance web developer Nagaon",
+      "Central Assam SEO services",
+      "website designer Central Assam",
+      "Assam SEO services",
+      "Nagaon me website kaise banwaye",
+      "Nagaon website banwane ka kharcha",
+      "website design Bara Bazar Nagaon",
+      "website design Natun Bazar Nagaon",
     ],
   },
   hero: {

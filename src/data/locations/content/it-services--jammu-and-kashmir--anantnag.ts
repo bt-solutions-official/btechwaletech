@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 33.7311, lng: 75.1487 },
   meta: {
-    title: "Freelance Software & App Developers in Anantnag",
+    title: "Anantnag App Developers: Apple Traders & Bat Makers",
     description:
-      "Freelance developers for Anantnag and south Kashmir: orchard and cold-store software, bat-maker order tools, Pahalgam booking, Android and iOS apps, AI and SEO.",
+      "Freelance developers for Anantnag and south Kashmir: orchard and cold-store software, plus bat-maker order tools. Software from ₹60,000, quote in two days.",
     keywords: [
       "software development team in Anantnag",
       "IT services team in Anantnag",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "software developer near me Islamabad Kashmir",
       "Anantnag mein app developer",
       "اننت ناگ سافٹ ویئر کمپنی",
+      "Anantnag website designer",
+      "website cost in Anantnag",
+      "IT company in Anantnag",
+      "Jammu and Kashmir SEO services",
+      "hire developer Anantnag",
+      "apple traders software in Anantnag",
+      "willow software in Anantnag",
+      "hotels software in Anantnag",
+      "trout farms software in Anantnag",
+      "website developer Lal Chowk Anantnag",
     ],
   },
   hero: {

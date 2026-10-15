@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "wordpress security hardening", "wordpress hosting uae", "wordpress website maintenance dubai", "custom wordpress theme dubai",
       "wordpress website redesign dubai", "wordpress designer near me", "bilingual wordpress website", "wordpress training for staff",
       "wordpress freelancer dubai", "woocommerce website dubai",
+      "hire wordpress website design in the UAE",
     ],
   },
   hero: {

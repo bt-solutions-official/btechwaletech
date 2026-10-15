@@ -7,7 +7,7 @@ const sitamarhi: CityContent = {
   meta: {
     title: "IT Services in Sitamarhi: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Sitamarhi rice traders, Punaura Dham hotels, clinics and coaching. Sites from ₹10,000.",
+      "Websites, apps, local SEO and WhatsApp automation for Sitamarhi rice traders, Punaura Dham hotels, clinics and coaching. Sites from ₹10,000.",
     keywords: [
       "IT services in Sitamarhi",
       "IT services team in Sitamarhi",
@@ -29,6 +29,12 @@ const sitamarhi: CityContent = {
       "Sitamarhi me website banwana",
       "Sitamarhi me app banwana",
       "सीतामढ़ी वेबसाइट डिज़ाइन",
+      "Sitamarhi website designer",
+      "web development company Sitamarhi",
+      "hire freelance web developer Sitamarhi",
+      "Bihar SEO services",
+      "Sitamarhi me website kaise banwaye",
+      "Sitamarhi website banwane ka kharcha",
     ],
   },
   hero: {

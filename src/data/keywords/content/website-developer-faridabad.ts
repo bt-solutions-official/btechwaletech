@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Website developer in Faridabad",
   updated: "2026-10-02",
   meta: {
-    title: "Website Developer in Faridabad: Live in 1–2 Weeks",
+    title: `Website Developer in Faridabad: Sites from ${P.site}`,
     description: `Website developer in Faridabad for factories, schools, clinics and shops: business sites from ${P.site}, built remotely by three freelancers, all in your name.`,
     keywords: [
       "website developer in Faridabad", "website developer Faridabad", "web developer in Faridabad", "website development Faridabad",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "auto component website Faridabad", "school website developer Faridabad", "hospital website Faridabad", "website developer Ballabgarh",
       "website developer NIT Faridabad", "website developer Greater Faridabad", "website developer Sector 58 Faridabad", "website developer IMT Faridabad",
       "website developer Palwal", "Faridabad me website kaise banwaye", "website banwana hai Faridabad", "business website Faridabad Haryana",
+      "website developer in Faridabad cost", "website developer in Faridabad price", "hire website developer in Faridabad", "freelance website developer in Faridabad",
+      "best website developer in Faridabad", "website developer in Faridabad charges",
     ],
   },
   hero: {
@@ -59,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Delivery", value: "1–2 weeks for a business site after content arrives" },
       { label: "Working style", value: "Remote, with calls, WhatsApp, screen-share and a staging link" },
       { label: "Ownership", value: "Domain, hosting, code and Google accounts in your name" },
-      { label: "After launch", value: `Free for 2 months, then optional care from ${P.care} a month` },
+      { label: "After launch", value: `Free for 2 months, then optional care from ${P.care}` },
     ],
   },
   services: {
@@ -300,7 +302,7 @@ const content: FreelanceContent = {
       heading: "Does a website need maintenance after launch?",
       paragraphs: [
         `Yes, though less than people fear. Software needs updates, forms need checking, contact details change, and new products or notices need adding. Every site we build includes two months of maintenance free, covering fixes, small edits, updates, backups and a look at Search Console once Google starts indexing.`,
-        `After that, care is optional and starts at ${P.care} a month: tested updates, backups to an account you own, uptime and SSL monitoring, monthly form tests and an allowance of small edits. A static factory site might need care only occasionally; a school's WordPress site with weekly notices benefits from regular attention, especially before admission season.`,
+        `After that, care is optional and starts at ${P.care}: tested updates, backups to an account you own, uptime and SSL monitoring, monthly form tests and an allowance of small edits. A static factory site might need care only occasionally; a school's WordPress site with weekly notices benefits from regular attention, especially before admission season.`,
         `You can also run the site in-house. Since all logins and backups are already yours, switching to self-management or to another developer needs nobody's permission. Whoever you hire, ask what the third month after launch costs before you sign; a clear answer is a good sign. Details are on <a href='/website-maintenance-freelancer/'>website maintenance by a freelancer</a>.`,
       ],
     },
@@ -425,7 +427,7 @@ const content: FreelanceContent = {
     { question: "Can you redesign a website a local IT shop built years ago?", answer: "Yes. We first recover access to the domain and hosting, list the existing pages and any that bring visitors, then rebuild with redirects from old addresses so search visibility carries over. Email is protected during the switch. If the old developer still controls the domain, we help you request the transfer before starting any new work." },
     { question: "Can you add WhatsApp chat and UPI payments to my site?", answer: "Yes. A WhatsApp button can open a chat with the page name filled in, so you know what the visitor was looking at. UPI payment links or a simple payment page can collect fees, advances or deposits through a payment provider you sign up with, with money settling into your account. Automated WhatsApp replies are a separate automation project." },
     { question: "Can the website help us get export enquiries?", answer: "It can help by giving overseas buyers what they check first: product ranges with specifications, materials and standards you meet, capacity, packing details, certifications you hold and an enquiry form asking for country and quantity. We write these pages in English and can generate one page per product. Export orders still depend on your follow-up, pricing and quality." },
-    { question: "What happens after the two free months of maintenance?", answer: `It is your choice. Optional care starts at ${P.care} a month and covers tested updates, backups, uptime monitoring, form checks and an allowance of small edits. Many factory sites need little; school sites with weekly notices benefit more. You can also manage edits yourself or move to another developer, because every login and backup is already yours.` },
+    { question: "What happens after the two free months of maintenance?", answer: `It is your choice. Optional care starts at ${P.care} and covers tested updates, backups, uptime monitoring, form checks and an allowance of small edits. Many factory sites need little; school sites with weekly notices benefit more. You can also manage edits yourself or move to another developer, because every login and backup is already yours.` },
     { question: "Do you also build portals, apps or ERP-like software?", answer: `Yes, as separate projects. Vendor, dealer or parent portals and custom web apps start at ${P.software}, Android and iOS apps at ${P.app}, and AI or WhatsApp automation at ${P.ai}. Many Faridabad businesses start with the website and add a dealer portal or automation later, built by the same three developers who already know their products.` },
     { question: "Is a freelance team reliable for an important business website?", answer: "Reliability comes from how the work is organised. All three of us know your project, so it continues if one person is unavailable; scope, payments and approvals are written down; and every account is in your name, so you never depend on us. Very large programmes needing many developers, or someone on site daily, suit a bigger agency." },
     { question: "Do you build websites for businesses in Ballabgarh and Greater Faridabad?", answer: "Yes, on exactly the same terms. Units in Ballabgarh and IMT Faridabad, schools and hospitals in Greater Faridabad, and shops in NIT and Old Faridabad all get the same remote process, starting prices and ownership rules. We also work with businesses in Palwal, Gurgaon, Delhi and Noida, and anywhere else in India. Distance never changes the price." },

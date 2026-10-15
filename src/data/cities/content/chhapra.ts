@@ -7,7 +7,7 @@ const chhapra: CityContent = {
   meta: {
     title: "Chhapra Website Designer, Local SEO and WhatsApp",
     description:
-      "Websites, Hindi and Bhojpuri-friendly SEO and WhatsApp tools for Chhapra and Saran shops, clinics, schools and traders. From ₹10,000, domain and code in your name.",
+      "Chhapra and Saran websites, Hindi and Bhojpuri SEO and WhatsApp tools for shops, clinics, schools and traders. From ₹10,000, domain and code in your name.",
     keywords: [
       "website designer in Chhapra",
       "website development team Chhapra",
@@ -24,6 +24,15 @@ const chhapra: CityContent = {
       "website maintenance Chhapra",
       "छपरा वेबसाइट डिजाइनर",
       "Marhaura website developer",
+      "Chhapra website designer",
+      "website cost in Chhapra",
+      "web development company Chhapra",
+      "hire freelance developer Chhapra",
+      "Bihar SEO",
+      "Chhapra me website kaise banwaye",
+      "website for schools, colleges and coaching in Chhapra",
+      "web designer in Nagar Palika Chowk, Chhapra",
+      "website for hospitals, clinics and labs in Chhapra",
     ],
   },
   hero: {

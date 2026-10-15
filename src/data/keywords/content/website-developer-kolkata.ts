@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website cost in Kolkata", "website developer charges Kolkata", "small business website Kolkata", "Bengali website developer",
       "website for clinic Kolkata", "website for wholesaler Kolkata", "website developer West Bengal", "Kolkata me website kaun banata hai",
       "Kolkata website banwana hai", "best website developer in Kolkata",
+      "website developer in Kolkata cost", "website developer in Kolkata price", "hire website developer in Kolkata", "freelance website developer in Kolkata",
+      "website developer in Kolkata charges",
     ],
   },
   hero: {

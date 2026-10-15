@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "Developer Left Project Midway? Recover and Finish",
-    description: `Developer left project midway? Recover your domain, hosting, code and app store accounts, audit the half-built work, then finish or rebuild. Sites from ${P.site}.`,
+    description: `Developer left project midway? Recover your domain, hosting, code and store accounts, audit the half-built work, then finish or rebuild. Sites from ${P.site}.`,
     keywords: [
       "developer left project midway", "developer left project in the middle", "website developer disappeared", "app developer stopped responding",
       "developer abandoned my project", "freelancer left project unfinished", "what to do if developer leaves project", "take over unfinished website",
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Finish custom software", note: `Portals, dashboards and internal tools left halfway, audited and completed with proper deployment, from ${P.software}.`, href: "/web-application-developer/", size: "md" },
       { name: "Migrate off their hosting", note: "Move the site, database and email from a server the old developer controls to an account you own, keeping URLs and search traffic.", href: "/website-migration-freelancer/", size: "sm" },
       { name: "Store transfers and rejections", note: "Help with moving apps to your developer account and fixing policy issues that blocked a release.", href: "/app-rejected-by-google-play/", size: "sm" },
-      { name: "Ongoing maintenance", note: `Once relaunched, two months of free maintenance, then from ${P.care} a month so it never stalls again.`, href: "/mobile-app-maintenance-services/", size: "sm" },
+      { name: "Ongoing maintenance", note: `Once relaunched, two months of free maintenance, then from ${P.care} so it never stalls again.`, href: "/mobile-app-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -346,7 +346,7 @@ const content: FreelanceContent = {
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
         ["Custom web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["AI automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
-        ["Maintenance after relaunch", `From ${P.care} a month`, `From ${P.careUsd} a month`, "After 2 free months"],
+        ["Maintenance after relaunch", `From ${P.care}`, `From ${P.careUsd}`, "After 2 free months"],
       ],
       hideSm: [2],
     },

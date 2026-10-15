@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "laundry app for multiple stores", "laundry franchise app", "ironing and steam press app", "laundry app like uber for laundry",
       "laundry app India", "laundry app Mumbai", "laundry app Delhi NCR", "laundry app Bengaluru",
       "laundry app banwana hai", "custom laundry app vs readymade laundry software", "laundry app developer near me", "wash and fold app development",
+      "best laundry app development in India",
+      "laundry app development services",
     ],
   },
   hero: {

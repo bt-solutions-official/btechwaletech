@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Headless WordPress development",
   updated: "2026-09-25",
   meta: {
-    title: `Headless WordPress Development: Next.js or Astro`,
-    description: `Headless WordPress development in India: keep the WP editor, serve pages with Next.js or Astro. Builds from ${P.site}, honest advice on when it is overkill.`,
+    title: `Headless WordPress Development, Next.js, ${P.site}+`,
+    description: `Headless WordPress development in India: keep the WP editor, serve pages with Next.js or Astro, honest advice on overkill. Builds from ${P.site}.`,
     keywords: [
       "headless wordpress development", "headless wordpress developer", "headless wordpress India", "headless wordpress with next js",
       "headless wordpress astro", "wpgraphql vs rest api", "decoupled wordpress", "headless wordpress cost",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "hire headless wordpress developer", "wordpress next js developer", "faster wordpress site with next js", "headless wordpress for news site",
       "headless wordpress Mumbai", "headless wordpress Bengaluru", "headless wordpress kya hai", "wordpress api front end developer",
       "headless wordpress vs traditional wordpress", "when not to use headless wordpress",
+      "best headless wordpress development in India",
+      "headless wordpress development services",
     ],
   },
   hero: {
@@ -391,7 +393,7 @@ const content: FreelanceContent = {
     { question: "How do payments and contracts work?", answer: "You receive an itemised written quote with stages tied to visible work, such as the content model, staging front end and launch. Clients in India pay by UPI or bank transfer; international clients pay in USD via Wise, bank wire or PayPal. Specific terms are set out in your written quote, and our terms page covers the general conditions." },
     { question: "Does headless WordPress help with AI search visibility?", answer: "It can remove technical barriers. When pages are rendered as full HTML with clean headings and consistent schema, crawlers for Google and AI answer engines can read them without running JavaScript. Visibility in AI Overviews still depends on content quality and authority, and no developer can guarantee citations or rankings." },
     { question: "Can the same WordPress content feed a mobile app?", answer: `Yes. That is one of the strongest reasons to go headless. The same REST API or WPGraphQL endpoint can serve a Flutter or React Native app, so editors publish once and the article appears on the website and in the app. We build Android and iOS apps from ${P.app} and publish them in your store accounts.` },
-    { question: "What maintenance does a headless WordPress site need?", answer: `Both layers need care: WordPress core, plugin and PHP updates with backups, and front-end framework and dependency updates with hosting checks. Our builds include two months of free maintenance after launch. After that, maintenance starts at ${P.care} per month for both layers, or you can hand the documented setup to another developer.` },
+    { question: "What maintenance does a headless WordPress site need?", answer: `Both layers need care: WordPress core, plugin and PHP updates with backups, and front-end framework and dependency updates with hosting checks. Our builds include two months of free maintenance after launch. After that, maintenance starts at ${P.care} for both layers, or you can hand the documented setup to another developer.` },
     { question: "Headless WordPress kya hai, aur kya mujhe iski zaroorat hai?", answer: `Headless WordPress mein content WordPress dashboard mein hi likha jaata hai, lekin website Next.js ya Astro jaisa alag front end banata hai, jo zyada fast hota hai. Chhoti business website ke liye aksar zaroorat nahi hoti. Bade content ya news sites ke liye faydemand hai. Hamare yahan chhoti headless site ${P.site} se shuru hoti hai.` },
   ],
   related: {

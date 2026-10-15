@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 24.817, lng: 93.9368 },
   meta: {
-    title: "Freelance Software Developers in Imphal | IT Solutions",
+    title: "Imphal Software Developers: Wholesalers & Clinics",
     description:
-      "Freelance software developers for Imphal: business software, hospital and college systems, AI agents, apps and SEO. Custom software from ₹60,000, quotes in 2 days.",
+      "Freelance software developers for Imphal: business software, hospital and college systems, plus AI agents. Custom software from ₹60,000, quotes in 2 days.",
     keywords: [
       "software development team in Imphal",
       "IT services team in Imphal",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "Android app development Imphal",
       "mobile app developers Imphal",
       "iPhone app developers Imphal",
+      "Imphal website designer",
+      "website cost in Imphal",
+      "IT company in Imphal",
+      "Manipur SEO services",
+      "hire developer Imphal",
+      "wholesalers software in Imphal",
+      "clinics software in Imphal",
     ],
   },
   hero: {

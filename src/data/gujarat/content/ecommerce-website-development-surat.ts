@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Ecommerce Website Development in Surat from ${P.shop}`,
-    description: `Ecommerce website development in Surat for saree, fabric and jewellery sellers: UPI checkout, GST invoices, courier shipping. Stores from ${P.shop}, itemised quote.`,
+    description: `Ecommerce website development in Surat for saree, fabric & jewellery sellers: UPI checkout, GST invoices, courier shipping. Stores from ${P.shop}, 2-day quote.`,
     keywords: [
       "ecommerce website development in Surat", "ecommerce website development Surat", "ecommerce website developer near me", "ecommerce website Surat Gujarat",
       "online store development Surat", "ecommerce website services Surat", "ecommerce website design Surat", "ecommerce developer Surat",

@@ -7,7 +7,7 @@ const aizawl: CityContent = {
   meta: {
     title: "Web Design & SEO in Aizawl, Mizoram | From ₹10,000",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Aizawl shops, weavers, homestays and clinics. Sites from ₹10,000, two months of free maintenance.",
+      "Aizawl websites, local SEO, online stores and WhatsApp automation for shops, weavers, homestays and clinics. Sites from ₹10,000, 2 months of free maintenance.",
     keywords: [
       "website development team in Aizawl",
       "web design Aizawl",
@@ -25,6 +25,14 @@ const aizawl: CityContent = {
       "website maintenance Aizawl",
       "Mizo language website",
       "affordable website design Mizoram",
+      "Aizawl website designer",
+      "web development company Aizawl",
+      "hire freelance developer Aizawl",
+      "Mizoram SEO",
+      "Aizawl me website kaise banwaye",
+      "website for handloom and puan in Aizawl",
+      "web designer in Bara Bazar, Aizawl",
+      "website for homestays and tourism in Aizawl",
     ],
   },
   hero: {

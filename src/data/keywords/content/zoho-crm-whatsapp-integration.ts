@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "how to integrate whatsapp with zoho crm", "zoho crm whatsapp two way chat", "zoho crm lead whatsapp message", "zoho crm whatsapp for real estate",
       "zoho crm whatsapp integration India", "zoho crm whatsapp developer", "zoho crm whatsapp integration Ahmedabad", "zoho crm whatsapp integration Chennai",
       "zoho crm me whatsapp kaise jode", "zoho bigin whatsapp",
+      "Zoho CRM WhatsApp integration cost", "Zoho CRM WhatsApp integration company", "best Zoho CRM WhatsApp integration in India", "Zoho CRM WhatsApp integration cost in India",
+      "Zoho CRM WhatsApp integration service",
     ],
   },
   hero: {

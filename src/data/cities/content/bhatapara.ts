@@ -7,7 +7,7 @@ const bhatapara: CityContent = {
   meta: {
     title: "IT Services in Bhatapara | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Bhatapara rice, poha and dal mills, mandi traders, cement-belt suppliers and shops.",
+      "Bhatapara Hindi websites, mobile apps, local SEO and WhatsApp bots for rice, poha and dal mills, mandi traders, cement-belt suppliers and shops. From ₹10,000.",
     keywords: [
       "IT services in Bhatapara",
       "IT services team in Bhatapara",
@@ -30,6 +30,9 @@ const bhatapara: CityContent = {
       "Bhatapara me website banwana",
       "Bhatapara me app banwana",
       "भाटापारा वेबसाइट डिज़ाइन",
+      "Bhatapara website designer",
+      "web development company Bhatapara",
+      "hire freelance developer Bhatapara",
     ],
   },
   hero: {

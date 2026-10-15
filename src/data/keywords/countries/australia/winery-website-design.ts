@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "wet inclusive pricing online", "interstate wine shipping website", "winery website barossa",
       "winery website margaret river", "winery website hunter valley", "winery website yarra valley",
       "winery website designer near me", "direct to consumer wine website",
+      "hire winery website design in Australia", "freelance winery website design Australia", "winery website design Sydney",
+      "winery website design Melbourne",
     ],
   },
   hero: {

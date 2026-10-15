@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "is it legal to record phone calls in canada", "call recording consent canada", "ai receptionist bilingual english french",
       "ai receptionist toronto", "ai receptionist vancouver", "ai receptionist calgary", "ai receptionist montreal", "ai receptionist ottawa",
       "missed calls small business solution", "can ai answer my business phone", "ai voice agent for small business",
+      "hire ai receptionist for small business in Canada", "freelance ai receptionist for small business Canada",
     ],
   },
   hero: {
@@ -73,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Trades dispatch triage", note: "Asks the questions your dispatcher would, flags no-heat or active-leak calls, and rings the on-call tech straight away.", href: "/canada/contractor-website-design/", size: "md" },
       { name: "Website chat that shares the same brain", note: "One set of answers for phone and chat, so a caller and a site visitor hear the same hours, prices and policies.", href: "/canada/ai-chatbot-development/", size: "sm" },
       { name: "Call logs and simple dashboards", note: `Every call summarised in a sheet or dashboard: reason, outcome, missed bookings. Custom reporting builds from ${P.software}.`, href: "/canada/custom-software-development/", size: "sm" },
-      { name: "Script tuning and care", note: `Two free months of fixes after launch, then ongoing care from ${P.care} a month if you want us to keep tuning prompts.`, href: "/canada/website-maintenance-services/", size: "sm" },
+      { name: "Script tuning and care", note: `Two free months of fixes after launch, then ongoing care from ${P.care} if you want us to keep tuning prompts.`, href: "/canada/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -383,7 +384,7 @@ const content: FreelanceContent = {
         ["Trades triage with on-call transfer", "Urgency questions, live transfer, priority alerts", `${P.ai}`, "3–4 weeks"],
         ["Phone plus website chat", "One knowledge base for calls and site chat", `${P.ai}`, "3–4 weeks"],
         ["Call log dashboard or CRM sync", "Outcomes, reasons, trends, CRM records", `${P.software}`, "6–12 weeks for a full custom app"],
-        ["Care after 2 free months", "Prompt tuning, knowledge updates, fixes", `${P.care} per month`, "Ongoing"],
+        ["Care after 2 free months", "Prompt tuning, knowledge updates, fixes", `${P.care}`, "Ongoing"],
       ],
       hideSm: [1],
     },

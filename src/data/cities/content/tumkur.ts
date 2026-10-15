@@ -7,7 +7,7 @@ const tumkur: CityContent = {
   meta: {
     title: "IT Services in Tumkur: Websites, Apps, SEO & AI",
     description:
-      "Websites, Kannada and English SEO, online stores and WhatsApp automation for Tumakuru factories, coconut traders, colleges and clinics. Prices listed, code yours.",
+      "Websites, online stores and WhatsApp tools for Tumakuru factories, coconut traders, colleges and clinics. Sites from ₹10,000, live in 1-2 weeks.",
     keywords: [
       "website development team in Tumkur",
       "website development Tumakuru",
@@ -25,6 +25,16 @@ const tumkur: CityContent = {
       "website maintenance Tumkur",
       "Tumakuru website design Kannada",
       "ತುಮಕೂರು ವೆಬ್‌ಸೈಟ್ ವಿನ್ಯಾಸ",
+      "Tumakuru website designer",
+      "website cost in Tumakuru",
+      "web development company Tumakuru",
+      "hire freelance web developer Tumakuru",
+      "Karnataka SEO services",
+      "Tumakuru KIADB-estate manufacturers website",
+      "KIADB-estate manufacturers website design Tumakuru",
+      "Tumakuru food processors website",
+      "food processors website design Tumakuru",
+      "website design BH Road Tumakuru",
     ],
   },
   hero: {

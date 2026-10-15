@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.267, lng: 94.824 },
   meta: {
-    title: "Freelance IT & Software Developers for Tuensang",
+    title: "Tuensang Software Developers: Education & NGOs",
     description:
       "Looking for a software development team in Tuensang? Hire freelance engineers for offline-ready apps, info portals, AI tools and SEO. From ₹10,000.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "iPhone app developers Tuensang",
       "IT services Tuensang district",
       "Tuensang mein website aur software",
+      "Tuensang website designer",
+      "website cost in Tuensang",
+      "IT company in Tuensang",
+      "Nagaland SEO services",
+      "hire developer Tuensang",
+      "education software in Tuensang",
+      "ngos software in Tuensang",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const mysore: CityContent = {
   meta: {
     title: "Mysuru Web Development, SEO & AI Automation Team",
     description:
-      "Websites, SEO and automation for Mysuru hotels, silk and sandalwood sellers, clinics and IT firms. Sites from ₹10,000, stores from ₹50,000, 2 months free support.",
+      "Websites, SEO and automation for Mysuru hotels, silk and sandalwood sellers, clinics and IT firms. Sites from ₹10,000, free upkeep for 2 months.",
     keywords: [
       "website development team in Mysore",
       "web design team Mysuru",
@@ -24,6 +24,17 @@ const mysore: CityContent = {
       "website maintenance Mysore",
       "Mysuru alli website design",
       "ಮೈಸೂರು ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Mysuru website designer",
+      "website cost in Mysuru",
+      "web development company Mysuru",
+      "hire freelance web developer Mysuru",
+      "Karnataka SEO services",
+      "website design Vijayanagar Mysuru",
+      "website design Kuvempunagar Mysuru",
+      "website design Saraswathipuram Mysuru",
+      "Mysore website design",
+      "website developer Mysore",
+      "website design price in Mysuru",
     ],
   },
   hero: {

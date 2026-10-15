@@ -7,7 +7,7 @@ const uravakonda: CityContent = {
   meta: {
     title: "IT Services in Uravakonda: Websites, Apps & AI",
     description:
-      "Telugu websites, Android and iOS apps, Google Maps listings and WhatsApp automation for Uravakonda groundnut traders, input dealers, schools and clinics.",
+      "Telugu websites, apps, Maps listings and WhatsApp tools for Uravakonda groundnut traders, input dealers, schools and clinics. Websites from ₹10,000.",
     keywords: [
       "IT services in Uravakonda",
       "IT company in Uravakonda",
@@ -30,6 +30,11 @@ const uravakonda: CityContent = {
       "Uravakonda website tayaru cheyyandi",
       "అనంతపురం వెబ్‌సైట్ డిజైన్",
       "Guntakal Uravakonda IT support",
+      "Uravakonda website designer",
+      "web development company Uravakonda",
+      "hire freelance web developer Uravakonda",
+      "Anantapur district SEO",
+      "website designer Anantapur district",
     ],
   },
   hero: {

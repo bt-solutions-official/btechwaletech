@@ -7,7 +7,7 @@ const viramgam: CityContent = {
   meta: {
     title: "IT Services in Viramgam | Web, Apps & AI from ₹10,000",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Viramgam cotton traders, auto-belt suppliers, transporters, clinics and shops.",
+      "Gujarati websites, apps, local SEO and WhatsApp tools for Viramgam cotton traders, auto-belt suppliers, transporters, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Viramgam",
       "IT services team in Viramgam",
@@ -28,6 +28,13 @@ const viramgam: CityContent = {
       "Viramgam me website banwana",
       "Viramgam ma website banavvi",
       "વિરમગામ વેબસાઇટ ડિઝાઇન",
+      "Viramgam website designer",
+      "web development company Viramgam",
+      "hire freelance web developer Viramgam",
+      "Ahmedabad district SEO",
+      "website designer Ahmedabad district",
+      "Gujarat SEO services",
+      "Viramgam farm input dealers website",
     ],
   },
   hero: {

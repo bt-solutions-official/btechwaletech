@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 15.4909, lng: 73.8278 },
   meta: {
-    title: "Freelance Software Developers in Panaji (Panjim)",
+    title: "Panaji Software Developers: Patto Plaza Offices & CA Firms",
     description:
-      "Freelance software developers in Panaji for billing systems, web apps, AI agents, dashboards and cloud hosting. Starting prices, three remote engineers, UPI or bank.",
+      "Panaji software developers for Patto Plaza offices, CA and legal firms, Fontainhas stays and IFFI events. Billing systems and web apps from ₹60,000.",
     keywords: [
       "Android app development Panaji",
       "iOS app development Panaji",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "event ticketing app Panaji",
       "Ponnje software team",
       "पणजीत सॉफ्टवेअर कंपनी",
+      "Panaji website designer",
+      "website cost in Panaji",
+      "IT company in Panaji",
+      "Goa SEO services",
+      "hire developer Panaji",
+      "professional (ca software in Panaji",
+      "hotels software in Panaji",
     ],
   },
   hero: {
@@ -274,7 +281,7 @@ const content: CityContent = {
     {
       question: "How long does it take to build software for a Panaji firm?",
       answer:
-        "Six to twelve weeks is typical for custom software, two to four weeks for an AI or WhatsApp automation, and one to two weeks for a business website. The timeline depends mostly on how quickly decisions and data arrive from your side. We share a working preview early, usually within the first two weeks, so you can correct direction before too much is built.",
+        "Six to twelve weeks is typical for custom software, two to four weeks for an AI or WhatsApp automation, and one to two weeks for a business website. The timeline depends mostly on how quickly decisions and data arrive from your side. We share a working preview early, usually within the first two weeks, so you can correct direction before too much is built. Where a Patto Plaza or EDC complex office is working to a filing or audit deadline, we plan the launch date backwards from it.",
     },
     {
       question: "Who owns the source code and the data?",
@@ -284,7 +291,7 @@ const content: CityContent = {
     {
       question: "What is included in maintenance and IT support?",
       answer:
-        "Two months of maintenance is free after launch. It covers bug fixes, security and dependency updates, backups, uptime and speed checks, and small content or configuration changes. After that, plans start from ₹8,000 a month, or you can pay only when you need something. We support software and hosting remotely; we do not repair office hardware or networks on site.",
+        "Two months of maintenance is free after launch. It covers bug fixes, security and dependency updates, backups, uptime and speed checks, and small content or configuration changes, such as revised tariffs for a Miramar hotel group or an updated event schedule during IFFI. After that, plans start from ₹8,000 a month, or you can pay only when you need something. We support software and hosting remotely; we do not repair office hardware or networks on site.",
     },
     {
       question: "Can your software work in Konkani or Marathi?",

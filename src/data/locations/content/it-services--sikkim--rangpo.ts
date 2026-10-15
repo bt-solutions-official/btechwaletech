@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 27.1766, lng: 88.5314 },
   meta: {
-    title: "Freelance IT & Software Developers in Rangpo",
+    title: "Rangpo Software Developers: Pharma Contractors & Manpower",
     description:
-      "Comparing IT companies in Rangpo? Hire a freelance group for pharma vendor portals, logistics trackers, transit hotel booking, service pages and SEO basics.",
+      "Comparing IT companies in Rangpo? Hire a freelance group for pharma vendor portals, logistics trackers and transit hotel booking. From ₹10,000.",
     keywords: [
       "Android app development Rangpo",
       "iOS app development Rangpo",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "website maintenance Rangpo",
       "रंगपो में सॉफ्टवेयर डेवलपर",
       "Rangpo ma business website",
+      "Rangpo website designer",
+      "website cost in Rangpo",
+      "IT company in Rangpo",
+      "Sikkim SEO services",
+      "hire developer Rangpo",
+      "pharma contractors software in Rangpo",
     ],
   },
   hero: {

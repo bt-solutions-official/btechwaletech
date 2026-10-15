@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "ecommerce app cost singapore", "food delivery app cost singapore", "marketplace app development cost", "offshore app development cost",
       "app development cost sgd", "cheap app development singapore", "app developer quote singapore", "app development cost for sme singapore",
       "app development cost jurong", "app development cost one-north",
+      "hire app development in Singapore", "freelance app development Singapore",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const faridabad: CityContent = {
   meta: {
     title: "IT Services in Faridabad: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and automation for Faridabad manufacturers, auto-part suppliers, clinics and builders. From ₹10,000, remote team, two months of free maintenance.",
+      "Faridabad websites, SEO and automation for manufacturers, auto-part suppliers, clinics and builders. From ₹10,000, remote team, 2 months of free maintenance.",
     keywords: [
       "website development team in Faridabad",
       "web design team Faridabad",
@@ -26,6 +26,13 @@ const faridabad: CityContent = {
       "website maintenance Faridabad",
       "Faridabad me website banwani hai",
       "फरीदाबाद वेबसाइट डिज़ाइन",
+      "Faridabad website designer",
+      "web development company Faridabad",
+      "hire freelance developer Faridabad",
+      "Haryana SEO",
+      "Faridabad me website kaise banwaye",
+      "website for auto component suppliers in Faridabad",
+      "web designer in Ballabgarh, Faridabad",
     ],
   },
   hero: {

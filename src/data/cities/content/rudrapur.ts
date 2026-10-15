@@ -7,7 +7,7 @@ const rudrapur: CityContent = {
   meta: {
     title: "IT Services in Rudrapur: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android & iOS apps, SEO, vendor portals and WhatsApp automation for Rudrapur's SIDCUL suppliers, Gol Market traders, schools and clinics.",
+      "Websites, apps, SEO, vendor portals and WhatsApp tools for Rudrapur's SIDCUL suppliers, Gol Market traders, schools and clinics. From ₹10,000.",
     keywords: [
       "IT services in Rudrapur",
       "IT services team in Rudrapur",
@@ -29,6 +29,12 @@ const rudrapur: CityContent = {
       "Rudrapur me website banwana",
       "Rudrapur me app banwana",
       "रुद्रपुर वेबसाइट डिजाइन",
+      "Rudrapur website designer",
+      "web development company Rudrapur",
+      "hire freelance web developer Rudrapur",
+      "Udham Singh Nagar SEO services",
+      "Uttarakhand SEO services",
+      "Rudrapur me website kaise banwaye",
     ],
   },
   hero: {

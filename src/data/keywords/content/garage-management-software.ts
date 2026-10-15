@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "garage estimate with photos", "denting painting workshop software", "multi-branch garage software", "custom garage management software",
       "garage software near me", "garage management app for mechanics", "garage ka software", "garage management software Pune",
       "garage management software Delhi NCR", "garage management software Chennai", "garage software vs SaaS", "service reminder software for garages",
+      "garage management software company in India",
     ],
   },
   hero: {

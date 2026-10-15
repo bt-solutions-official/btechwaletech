@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Development Services in Vadodara from ${P.site}`,
-    description: `Website development services in Vadodara (Baroda) for manufacturers, clinics, schools and shops: full builds, itemised quotes, sites from ${P.site}, 2 months free.`,
+    description: `Website development services in Vadodara (Baroda) for manufacturers, clinics, schools and shops: full builds, 2-day quotes, sites from ${P.site}, 2 months free.`,
     keywords: [
       "website development services in Vadodara", "website development services Vadodara", "website development near me", "website development Vadodara Gujarat",
       "website development Baroda", "web development services Vadodara", "website developer Vadodara", "website design and development Vadodara",

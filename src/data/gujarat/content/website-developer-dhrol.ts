@@ -225,7 +225,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `It can be found, but nobody can guarantee rankings. Visibility comes from a well-built site, an accurate maps listing and time.`,
         `For schools, specific pages help: “English medium school in Dhrol admissions” or “PTC college near Jamnagar” as page topics, each answering the real questions. Those are also the pages Google's AI Overviews and assistants tend to quote. Your <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> should match the website's name, address and phone exactly, with the right category and real photos.`,
-        `Every launch includes unique titles and descriptions, clean URLs, schema markup such as School or LocalBusiness, an XML sitemap and Search Console. Ongoing SEO is optional from ${P.seo} a month; <a href='/seo-for-schools/'>SEO for schools</a> explains what that involves.`,
+        `Every launch includes unique titles and descriptions, clean URLs, schema markup such as School or LocalBusiness, an XML sitemap and Search Console. Ongoing SEO is optional from ${P.seo}; <a href='/seo-for-schools/'>SEO for schools</a> explains what that involves.`,
       ],
     },
     {

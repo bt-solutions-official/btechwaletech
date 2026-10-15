@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "cheap website design saudi arabia", "affordable website design ksa", "website design quotation saudi arabia",
       "freelancer vs agency website cost saudi", "offshore website design cost", "vat on website design services saudi",
       "withholding tax foreign web developer saudi", "website redesign cost saudi arabia", "website design packages saudi arabia",
+      "hire website design in Saudi Arabia",
     ],
   },
   hero: {

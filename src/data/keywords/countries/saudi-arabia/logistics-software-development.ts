@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Logistics Software Development Saudi Arabia: ${P.software}+`,
-    description: `Logistics software development in Saudi Arabia: TMS, fleet, tracking portals and driver POD apps with courier APIs. Custom builds from ${P.software}, you own the code.`,
+    description: `Logistics software development in Saudi Arabia: TMS, fleet, tracking portals and driver POD apps with courier APIs. Builds from ${P.software}, you own the code.`,
     keywords: [
       "logistics software development saudi arabia", "logistics software development ksa", "logistics software saudi arabia",
       "transport management system saudi arabia", "custom tms development", "fleet management software saudi arabia",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "logistics software developer riyadh", "logistics software jeddah", "logistics software dammam",
       "last mile delivery software saudi arabia", "distribution software for saudi fmcg", "offshore logistics software team india",
       "logistics app developers near me saudi arabia",
+      "hire logistics software development in Saudi Arabia", "freelance logistics software development Saudi Arabia",
     ],
   },
   hero: {

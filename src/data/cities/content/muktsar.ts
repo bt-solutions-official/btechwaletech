@@ -7,7 +7,7 @@ const muktsar: CityContent = {
   meta: {
     title: "IT Services in Sri Muktsar Sahib | Web, Apps & AI",
     description:
-      "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Muktsar arhtiyas, jutti makers, cotton traders, clinics and IELTS centres.",
+      "Punjabi websites, apps, local SEO and WhatsApp tools for Muktsar arhtiyas, jutti makers, cotton traders, clinics and IELTS centres. Sites from ₹10,000.",
     keywords: [
       "IT services in Muktsar",
       "IT services team in Sri Muktsar Sahib",
@@ -30,6 +30,11 @@ const muktsar: CityContent = {
       "Muktsar me website banwana",
       "Muktsar vich website banvao",
       "ਮੁਕਤਸਰ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Sri Muktsar Sahib website designer",
+      "website cost in Sri Muktsar Sahib",
+      "web development company Sri Muktsar Sahib",
+      "hire freelance web developer Sri Muktsar Sahib",
+      "Punjab SEO services",
     ],
   },
   hero: {

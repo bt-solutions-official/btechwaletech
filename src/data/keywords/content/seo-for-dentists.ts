@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "dental seo expert near me", "dental seo for orthodontist", "dental clinic marketing without ads", "dci advertising rules website",
       "before and after photos dental website", "dental clinic ko google par rank kaise karein", "seo for dentists pune", "seo for dentists bengaluru",
       "seo for dentists hyderabad", "is seo worth it for dentists",
+      "SEO for dentists cost", "SEO for dentists price", "SEO for dentists services", "SEO for dentists packages",
+      "best SEO for dentists in India", "SEO for dentists agency",
     ],
   },
   hero: {

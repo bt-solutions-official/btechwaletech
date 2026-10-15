@@ -7,7 +7,7 @@ const panvel: CityContent = {
   meta: {
     title: "Panvel Website Developers, SEO & Apps from ₹10,000",
     description:
-      "Websites, Marathi and English local SEO, UPI stores and WhatsApp automation for Panvel, Kharghar, Kamothe, Kalamboli and Taloja businesses. From ₹10,000.",
+      "Websites, UPI stores and WhatsApp tools for Panvel, Kharghar, Kamothe, Kalamboli and Taloja businesses. Websites from ₹10,000, and the code stays yours.",
     keywords: [
       "website development team in Panvel",
       "web design Panvel",
@@ -25,6 +25,16 @@ const panvel: CityContent = {
       "website maintenance Panvel",
       "Panvel madhe website banvaychi",
       "पनवेल वेबसाइट डिझाइन",
+      "web development company Panvel",
+      "hire freelance web developer Panvel",
+      "Raigad district SEO",
+      "website designer Raigad district",
+      "Panvel me website kaise banwaye",
+      "Panvel website banwane ka kharcha",
+      "Panvel steel traders website",
+      "steel traders website design Panvel",
+      "real estate website design Panvel",
+      "website design Old Panvel",
     ],
   },
   hero: {

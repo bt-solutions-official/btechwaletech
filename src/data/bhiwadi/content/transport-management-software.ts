@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-27",
   meta: {
     title: `Transport Management Software in Bhiwadi, from ${P.software}`,
-    description: `Transport management software in Bhiwadi for trips, LRs, diesel, driver advances, POD and freight bills, from ${P.software}. We meet you face to face at your office.`,
+    description: `Transport management software in Bhiwadi for trips, LRs, diesel, driver advances, POD & freight bills, from ${P.software}. We meet you face to face at your office.`,
     keywords: [
       "transport management software in Bhiwadi", "transport management software", "transport management software near me",
       "fleet management software Bhiwadi", "transport management software in Bhiwadi Rajasthan", "transport software Bhiwadi Alwar",

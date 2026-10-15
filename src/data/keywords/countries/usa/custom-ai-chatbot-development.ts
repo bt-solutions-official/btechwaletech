@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Custom AI Chatbot Development for US Sites from ${P.ai}`,
-    description: `Custom AI chatbot development for US businesses: a bot trained on your own content that books, captures leads into your CRM and hands off to staff, from ${P.ai}.`,
+    description: `Custom AI chatbot development for US businesses: a bot trained on your content that books, captures leads into your CRM and hands off to staff, from ${P.ai}.`,
     keywords: [
       "custom ai chatbot development", "custom ai chatbot", "ai chatbot development services", "custom chatbot for website",
       "ai chatbot trained on my website", "chatbot trained on company documents", "how much does a custom ai chatbot cost", "ai chatbot development cost",
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Escalation", value: "Complaints, pricing exceptions and low-confidence answers go to a person" },
       { label: "Disclosure", value: "Clear “you are chatting with an AI assistant” label at the start and on request" },
       { label: "Starting price", value: `From ${P.ai}; bots inside a customer portal from ${P.software}` },
-      { label: "After launch", value: `2 months of free maintenance, then care plans from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free maintenance, then care plans from ${P.care}` },
     ],
   },
   services: {
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What custom AI chatbot development costs with BtechWaleTech",
-    note: `A website or support chatbot trained on your content, with lead capture into one CRM, a booking hand-off and escalation to your inbox, starts from ${P.ai} and usually takes 2 to 4 weeks. Bots that live inside a logged-in portal and read a customer's own records start from ${P.software}. If your site itself needs rebuilding so the bot has good content to learn from, a new site starts from ${P.site}. Model usage and hosting are billed by the providers to your own accounts, and we estimate the monthly figure from your chat volume before you approve anything. Care after the two free months starts from ${P.care} a month.`,
+    note: `A website or support chatbot trained on your content, with lead capture into one CRM, a booking hand-off and escalation to your inbox, starts from ${P.ai} and usually takes 2 to 4 weeks. Bots that live inside a logged-in portal and read a customer's own records start from ${P.software}. If your site itself needs rebuilding so the bot has good content to learn from, a new site starts from ${P.site}. Model usage and hosting are billed by the providers to your own accounts, and we estimate the monthly figure from your chat volume before you approve anything. Care after the two free months starts from ${P.care}.`,
   },
   guideLabel: "Custom AI chatbot development guide for US businesses",
   guide: [
@@ -348,7 +348,7 @@ const content: FreelanceContent = {
         ["Booking bot", "Calendar slot lookup, service rules, reminders via your tools", `From ${P.ai}`, "3–4 weeks"],
         ["Portal assistant", "Logged-in account lookups, roles, audit log", `From ${P.software}`, "6–10 weeks"],
         ["New site plus chatbot", "Rebuilt pages the bot learns from, then the bot", `Site from ${P.site}, bot from ${P.ai}`, "4–6 weeks"],
-        ["Care after launch", "Content refresh, test re-runs, model updates", `From ${P.care}/month after 2 free months`, "Ongoing"],
+        ["Care after launch", "Content refresh, test re-runs, model updates", `From ${P.care} after 2 free months`, "Ongoing"],
       ],
     },
   ],
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
       { name: "Small business website design", href: "/usa/small-business-website-design/" },
       { name: "Website redesign services", href: "/usa/website-redesign-services/" },
       { name: "ADA compliant website design", href: "/usa/ada-compliant-website-design/" },
-      { name: "CCPA compliant website", href: "/usa/ccpa-compliant-website/" },
+      { name: "HIPAA compliant website design", href: "/usa/hipaa-compliant-website-design/" },
       { name: "SEO services for small business", href: "/usa/seo-services-for-small-business/" },
       { name: "Web development for US businesses", href: "/usa/" },
       { name: "Outsource web development to India", href: "/outsource-web-development-to-india/" },

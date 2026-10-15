@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Talaja · Stock Sites ${P.site}`,
-    description: `Website developer in Talaja for ship-goods traders, Alang contractors, transporters, farm traders and Gopnath stays. Sites from ${P.site}, quote in 2 working days.`,
+    description: `Website developer in Talaja for ship-goods traders, Alang contractors, transporters, farm traders and Gopnath stays. Sites from ${P.site}, quote in 2 days.`,
     keywords: [
       "website developer in Talaja", "website developer Talaja Bhavnagar", "website developer Talaja Gujarat", "web developer Talaja",
       "website designer Talaja", "ship goods trader website", "second hand marine items website", "Alang contractor website Talaja",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "What should a website developer in Talaja build for a trader of salvaged goods or a yard contractor?",
     text: `For a trader of salvaged ship goods, a website developer in Talaja should build a stock catalogue where each item has photos, size, condition and a WhatsApp enquiry button, and sold items disappear quickly. Contractors need service, equipment and safety pages. With BtechWaleTech both start at ${P.site} and go live in 1–2 weeks.`,
-    more: `Yard-specific needs are covered in websites for Alang; for the district city, see <a href='/gujarat/website-development-services-bhavnagar/'>website development services in Bhavnagar</a>.`,
+    more: `Yard-specific needs are covered in <a href='/gujarat/website-developer-alang/'>websites for Alang</a>; for the district city, see <a href='/gujarat/website-development-services-bhavnagar/'>website development services in Bhavnagar</a>.`,
   },
   snapshot: {
     caption: "Talaja, Gujarat: websites in brief",
@@ -264,7 +264,7 @@ const content: FreelanceContent = {
       heading: "Website developer in Talaja and the towns around it",
       paragraphs: [
         `The same remote process works throughout this part of Bhavnagar district; what changes is the trade.`,
-        `The yards themselves are covered on websites for Alang, and the mills that buy their plate on <a href='/gujarat/website-developer-sihor/'>Sihor</a>. South along the coast, Mahuva's onion dehydration exporters need English product pages, explained in the guide for a <a href='/gujarat/website-developer-mahuva/'>website developer in Mahuva</a>. Inland, Palitana's dharamshalas and pilgrim trade need booking pages, covered on <a href='/gujarat/website-developer-palitana/'>Palitana</a>, and Gariadhar's diamond workshops on Gariadhar.`,
+        `The yards themselves are covered on <a href='/gujarat/website-developer-alang/'>websites for Alang</a>, and the mills that buy their plate on <a href='/gujarat/website-developer-sihor/'>Sihor</a>. South along the coast, Mahuva's onion dehydration exporters need English product pages, explained in the guide for a <a href='/gujarat/website-developer-mahuva/'>website developer in Mahuva</a>. Inland, Palitana's dharamshalas and pilgrim trade need booking pages, covered on <a href='/gujarat/website-developer-palitana/'>Palitana</a>, and Gariadhar's diamond workshops on <a href='/gujarat/website-developer-gariadhar/'>Gariadhar</a>.`,
         `The district city is covered on <a href='/gujarat/website-development-services-bhavnagar/'>website development services in Bhavnagar</a>, and broader IT services on our <a href='/bhavnagar/'>Bhavnagar IT page</a>. Wherever you are, the steps stay the same: WhatsApp brief, itemised quote, preview link, launch and two free months.`,
       ],
     },
@@ -326,7 +326,7 @@ const content: FreelanceContent = {
     cards: [
       { name: "Talaja town", note: "Shops, traders, clinics and coaching classes serving the taluka need fast Gujarati-first pages with timings, stock and tap-to-call." },
       { name: "Roads towards the Alang yards", note: "Traders of recovered furniture, fittings and equipment need stock catalogues that show what is available today and drop sold items quickly." },
-      { name: "Alang yards", note: "Recycling yards, contractors and material buyers need capability and inventory pages." },
+      { name: "Alang yards", note: "Recycling yards, contractors and material buyers need capability and inventory pages.", href: "/gujarat/website-developer-alang/" },
       { name: "Talaja hill and caves", note: "Services for visitors to the caves and the Jain temples on the hill need directions, timings and nearby facilities on a short page." },
       { name: "Gopnath beach", note: "Stays and eateries near the beach and temple need room or menu pages, photos and a WhatsApp booking button." },
       { name: "Farming villages of the taluka", note: "Cotton and groundnut traders and input dealers need Gujarati pages with commodities, seasons and contact." },

@@ -29,6 +29,12 @@ const rajpura: CityContent = {
       "Rajpura me website banwana",
       "Rajpura vich website banwaoni",
       "ਰਾਜਪੁਰਾ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Rajpura website designer",
+      "web development company Rajpura",
+      "hire freelance web developer Rajpura",
+      "Patiala district SEO",
+      "website designer Patiala district",
+      "Punjab SEO services",
     ],
   },
   hero: {

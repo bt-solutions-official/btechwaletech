@@ -7,7 +7,7 @@ const ichalkaranji: CityContent = {
   meta: {
     title: "IT Services in Ichalkaranji: Websites, Apps, SEO & AI",
     description:
-      "Websites, fabric catalogues, SEO and WhatsApp automation for Ichalkaranji powerloom units, yarn traders, clinics and shops. From ₹10,000 with 2 months free upkeep.",
+      "Ichalkaranji websites, fabric catalogues, SEO and WhatsApp bots for powerloom units, yarn traders, clinics and shops. From ₹10,000 with 2 months free upkeep.",
     keywords: [
       "website development team in Ichalkaranji",
       "web designer Ichalkaranji",
@@ -25,6 +25,14 @@ const ichalkaranji: CityContent = {
       "ecommerce website Ichalkaranji",
       "Ichalkaranji website banvaychi aahe",
       "इचलकरंजी वेबसाइट डिझाइन",
+      "Ichalkaranji website designer",
+      "website cost in Ichalkaranji",
+      "web development company Ichalkaranji",
+      "hire freelance developer Ichalkaranji",
+      "Maharashtra SEO",
+      "Ichalkaranji me website kaise banwaye",
+      "website for powerloom weaving in Ichalkaranji",
+      "web designer in Rajwada, Ichalkaranji",
     ],
   },
   hero: {

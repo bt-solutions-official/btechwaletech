@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "banquet hall app", "how to manage banquet hall bookings", "best software for banquet hall", "custom banquet hall software",
       "banquet hall software for multiple halls", "marriage hall booking software lucknow", "banquet hall software jaipur",
       "shaadi hall booking software", "banquet hall management software developer", "venue booking software india",
+      "banquet hall management software company in India",
+      "banquet hall management software services",
     ],
   },
   hero: {
@@ -227,7 +229,7 @@ const content: FreelanceContent = {
         `Web system for one venue: from ${P.software}`,
         `Manager and staff app: from ${P.app}`,
         `WhatsApp or AI enquiry assistant: from ${P.ai}`,
-        `Maintenance after the free period: from ${P.care} per month`,
+        `Maintenance after the free period: from ${P.care}`,
       ],
       after: [
         `For a wider view of pricing, read our breakdown of <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a>.`,
@@ -267,7 +269,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The banquet hall management software we build runs in a cloud account opened in your business name, the source code is handed over at launch, and every family’s contact and booking history belongs to your hall.`,
         `This matters more than it first seems. Your enquiry register becomes one of the hall’s most valuable assets: years of families, dates and budgets that feed repeat bookings for anniversaries, birthdays and the next wedding in the family. On a subscription tool that data sits with the provider, and exporting it can be hard.`,
-        `We also hand over the admin logins, a short written guide for staff, and notes on how the system is deployed, so another developer could maintain it if you ever chose to. Two months of free maintenance follow launch, after which care plans start from ${P.care} a month. Exact support terms are written into your quote, and our <a href='/terms/'>terms</a> page explains the general basis.`,
+        `We also hand over the admin logins, a short written guide for staff, and notes on how the system is deployed, so another developer could maintain it if you ever chose to. Two months of free maintenance follow launch, after which care plans start from ${P.care}. Exact support terms are written into your quote, and our <a href='/terms/'>terms</a> page explains the general basis.`,
       ],
     },
     {
@@ -436,7 +438,7 @@ const content: FreelanceContent = {
     { question: "Can it send WhatsApp confirmations and payment reminders?", answer: "Yes, through the official WhatsApp Business Platform. Families receive booking confirmations, instalment reminders with a payment link and event-day details. Meta charges per delivered template message, with utility templates free inside an open customer service window according to its pricing documentation, so running costs are usually modest for a hall’s volume." },
     { question: "Can you move my old diary and Excel bookings into the new system?", answer: "Yes. We import future bookings, advances received and recent enquiries from your Excel files or typed-up diary pages, then check them with you date by date. Past years’ records can be imported for reference if they are reasonably clean. Migration effort depends on the state of the data and is listed separately in the quote." },
     { question: "Should I hire a freelancer or an agency for banquet hall software?", answer: "Either can work; what matters is whether they understand hall operations and hand you ownership. A small freelance team like ours means you talk directly to the people building it, in English or Hindi. We do not visit sites or supply hardware, and we are not a large team for very large enterprise projects, so judge by your needs." },
-    { question: "What support do I get after the software goes live?", answer: `Two months of free maintenance after launch cover bug fixes, security updates and small adjustments. After that, maintenance plans start from ${P.care} a month, and new modules are quoted separately. Exact support terms are written into your approved quote, so there are no surprises later about what is included.` },
+    { question: "What support do I get after the software goes live?", answer: `Two months of free maintenance after launch cover bug fixes, security updates and small adjustments. After that, maintenance plans start from ${P.care}, and new modules are quoted separately. Exact support terms are written into your approved quote, so there are no surprises later about what is included.` },
     { question: "Can the software help with my hall’s Google ranking?", answer: "The software itself does not rank, but the website that feeds it enquiries can be built for search, with fast pages, real photos, capacity details and structured data, plus a well-kept Google Business Profile. No honest developer can promise where a page will rank. Monthly local SEO support is available if you compete in a crowded area." },
     { question: "Is family data safe in banquet hall software?", answer: "We build with role-based logins, encrypted connections, daily backups and an audit log of changes to bookings and payments. India’s Digital Personal Data Protection Act, 2023 expects businesses to keep reasonable security safeguards and use personal data for a stated purpose. Your own lawyer should review your privacy notice; we handle the technical side." },
     { question: "How do I pay for the software project?", answer: "Payments follow milestones set in your approved quote, by UPI or bank transfer within India. Owners abroad pay in USD through Wise, bank wire or PayPal. Nothing is billed before you approve the itemised quote in writing, and the milestone list shows exactly which phase each payment covers. Our refund policy page explains the general approach." },

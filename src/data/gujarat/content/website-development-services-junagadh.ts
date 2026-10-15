@@ -232,7 +232,7 @@ const content: FreelanceContent = {
         `Through a mix of a well-built site, a complete Google Business Profile and pages that match what people actually search. Nobody can guarantee rankings, and any provider who promises page one is guessing.`,
         `Local searches such as “hotel near Girnar ropeway”, “child specialist Junagadh” or “Kesar mango wholesale” are usually decided by the Business Profile and a strong page on the site. We set up clean titles and descriptions, local business schema, a page per main service, compressed images, fast loading that passes Core Web Vitals, a sitemap submitted to Google Search Console, and consistent name, address and phone everywhere.`,
         `Your Business Profile needs care too: correct category, opening hours, photos and replies to reviews. Google's own <a href='https://support.google.com/business/' rel='noopener'>Business Profile help</a> explains the basics, and we link your profile and site so each supports the other.`,
-        `AI assistants and Google's AI Overviews quote pages that answer questions directly. A short FAQ with plain, factual answers about timings, prices and directions helps here. If you want ongoing work after launch, <a href='/services/seo-services/'>SEO services</a> start from ${P.seo} a month, entirely optional.`,
+        `AI assistants and Google's AI Overviews quote pages that answer questions directly. A short FAQ with plain, factual answers about timings, prices and directions helps here. If you want ongoing work after launch, <a href='/services/seo-services/'>SEO services</a> start from ${P.seo}, entirely optional.`,
       ],
     },
     {

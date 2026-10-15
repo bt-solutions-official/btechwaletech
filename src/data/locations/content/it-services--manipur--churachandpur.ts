@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 24.3333, lng: 93.6833 },
   meta: {
-    title: "Freelance Software Developers in Churachandpur",
+    title: "Churachandpur Software Developers: NGOs, Schools & Shops",
     description:
-      "Freelance software developers for Churachandpur (Lamka): information and update sites, offline apps, NGO and school software, WhatsApp automation and local SEO.",
+      "Freelance software developers for Churachandpur (Lamka): information and update sites, plus offline apps. Websites from ₹10,000, quote in two working days.",
     keywords: [
       "software development team in Churachandpur",
       "IT services team in Churachandpur",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "Android app development Churachandpur",
       "mobile app developers Churachandpur",
       "iPhone app developers Churachandpur",
+      "Churachandpur website designer",
+      "website cost in Churachandpur",
+      "IT company in Churachandpur",
+      "Manipur SEO services",
+      "hire developer Churachandpur",
+      "churches software in Churachandpur",
+      "ngos software in Churachandpur",
     ],
   },
   hero: {

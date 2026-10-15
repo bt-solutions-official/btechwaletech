@@ -7,7 +7,7 @@ const mathura: CityContent = {
   meta: {
     title: "IT Services in Mathura: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and AI automation for Mathura's tap makers, refinery suppliers, peda shops, bazaar traders, hotels and colleges.",
+      "Websites, apps, local SEO and AI automation for Mathura's tap makers, refinery suppliers, peda shops, bazaar traders, hotels and colleges. Sites from ₹10,000.",
     keywords: [
       "IT services in Mathura",
       "IT services team in Mathura",
@@ -31,6 +31,10 @@ const mathura: CityContent = {
       "Mathura me website banwana",
       "Mathura me app banwana",
       "मथुरा में वेबसाइट बनवाना",
+      "Mathura website designer",
+      "web development company Mathura",
+      "hire freelance web developer Mathura",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

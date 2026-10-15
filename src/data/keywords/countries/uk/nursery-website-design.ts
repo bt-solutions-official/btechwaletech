@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Nursery website design prices",
-    note: `A nursery website of up to 100 pages starts at ${P.site}. That covers rooms and age groups, a day-in-the-life page, food and allergies, your Ofsted outcome and report link, a funded-hours explainer, a fees page with chargeable extras, team profiles, show-round booking and a waiting-list form. Nursery groups with many settings start at ${P.seoSite}. A custom registration portal with document upload and staff review starts at ${P.software}. Local search help starts at ${P.seo} a month, and care plans start at ${P.care} after two free months. All starting prices, itemised in your quote.`,
+    note: `A nursery website of up to 100 pages starts at ${P.site}. That covers rooms and age groups, a day-in-the-life page, food and allergies, your Ofsted outcome and report link, a funded-hours explainer, a fees page with chargeable extras, team profiles, show-round booking and a waiting-list form. Nursery groups with many settings start at ${P.seoSite}. A custom registration portal with document upload and staff review starts at ${P.software}. Local search help starts at ${P.seo}, and care plans start at ${P.care} after two free months. All starting prices, itemised in your quote.`,
   },
   guideLabel: "Nursery website design guide",
   guide: [
@@ -271,7 +271,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Imagine a 60-place day nursery in Stockport with baby, toddler and preschool rooms, a waiting list kept in a spreadsheet and a parent app for daily updates. This is an illustration of how we would plan the site, not a real client.`,
         `The home page would show ages, hours, the Ofsted outcome with a report link and a show-round button. Room pages would describe each space and routine. A funded-hours page would explain which entitlements the nursery accepts and which sessions they apply to, with an example in hours. The fees page would list sessions and every chargeable extra. Tour booking would offer three slots a week, and the waiting-list form would replace the spreadsheet with a sortable list by start date and room.`,
-        `A “Current parents” page would link to the app. Photos would show rooms, garden and activities, with faces only where consent is recorded. The build would sit in the ${P.site} tier, with local search help from ${P.seo} a month if the owner wanted it.`,
+        `A “Current parents” page would link to the app. Photos would show rooms, garden and activities, with faces only where consent is recorded. The build would sit in the ${P.site} tier, with local search help from ${P.seo} if the owner wanted it.`,
       ],
     },
     {

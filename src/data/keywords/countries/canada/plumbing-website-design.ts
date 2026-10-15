@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "plumber website vancouver", "plumber website winnipeg", "plumbing seo canada", "google local services ads plumbers",
       "what should a plumbing website include", "how do plumbers get more calls", "plumbing website design near me",
       "drain cleaning website design",
+      "hire plumbing website design in Canada", "freelance plumbing website design Canada",
     ],
   },
   hero: {

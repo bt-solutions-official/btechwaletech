@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `AI Automation Cost for Small Business: From ${P.ai}`,
-    description: `AI automation cost for small business in India: per-workflow builds from ${P.ai}, running costs, n8n vs subscriptions and a payback formula you can check.`,
+    description: `AI automation cost for small business in India: per-workflow builds from ${P.ai}, running costs, n8n vs subscriptions and a payback formula. Ask for a quote.`,
     keywords: [
       "ai automation cost for small business", "ai automation cost", "ai automation cost in India", "how much does ai automation cost",
       "ai automation price for small business", "ai automation for small business India", "business automation cost", "workflow automation cost",

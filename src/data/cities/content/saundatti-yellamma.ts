@@ -7,7 +7,7 @@ const saundattiYellamma: CityContent = {
   meta: {
     title: "IT Services in Saundatti-Yellamma: Web, Apps & AI",
     description:
-      "Websites, Android and iOS apps, Google Maps SEO and WhatsApp bots for Saundatti lodges, pilgrim services, cane growers, input dealers, clinics and schools.",
+      "Websites, apps, Google Maps SEO and WhatsApp bots for Saundatti lodges, pilgrim services, cane growers, input dealers, clinics and schools. From ₹10,000.",
     keywords: [
       "IT services in Saundatti",
       "IT services team in Saundatti",
@@ -29,6 +29,12 @@ const saundattiYellamma: CityContent = {
       "Saundatti me website banwana",
       "Saundattiyalli website beku",
       "ಸವದತ್ತಿ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Saundatti-Yellamma website designer",
+      "website cost in Saundatti-Yellamma",
+      "web development company Saundatti-Yellamma",
+      "hire freelance web developer Saundatti-Yellamma",
+      "Belagavi district SEO",
+      "website designer Belagavi district",
     ],
   },
   hero: {

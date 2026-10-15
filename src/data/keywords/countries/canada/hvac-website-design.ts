@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "hvac website edmonton", "heat pump website halifax", "hvac website vancouver", "hvac company website montreal",
       "hvac seo canada", "how do hvac companies get more leads", "what should an hvac website include",
       "hvac website design near me", "seasonal hvac marketing", "hvac financing page",
+      "hire hvac website design in Canada", "freelance hvac website design Canada",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const jamshedpur: CityContent = {
   meta: {
     title: "Jamshedpur Website Company | Vendor Sites, SEO, Apps",
     description:
-      "Websites, SEO, vendor portals and WhatsApp automation for Jamshedpur ancillaries, Adityapur auto-parts units, Jugsalai traders, clinics and coaching.",
+      "Jamshedpur websites, SEO, vendor portals and WhatsApp automation for ancillaries, Adityapur auto-parts units, Jugsalai traders, clinics and coaching.",
     keywords: [
       "website development team in Jamshedpur",
       "web designer Jamshedpur",
@@ -24,6 +24,15 @@ const jamshedpur: CityContent = {
       "website maintenance Jamshedpur",
       "Jamshedpur me website banwana hai",
       "Tatanagar web design",
+      "Jamshedpur website designer",
+      "web development company Jamshedpur",
+      "hire freelance developer Jamshedpur",
+      "Jharkhand SEO",
+      "Jamshedpur me website kaise banwaye",
+      "website for auto components and forgings in Jamshedpur",
+      "web designer in Bistupur, Jamshedpur",
+      "website for plant contractors in Jamshedpur",
+      "mobile app developer in Jamshedpur",
     ],
   },
   hero: {

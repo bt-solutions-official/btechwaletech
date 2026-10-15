@@ -7,7 +7,7 @@ const rampuraPhul: CityContent = {
   meta: {
     title: "IT Services in Rampura Phul: Websites, Apps, SEO & AI",
     description:
-      "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Rampura Phul arhtiyas, rice shellers, vet clinics, colleges and farm supply dealers.",
+      "Punjabi websites, apps, local SEO and WhatsApp tools for Rampura Phul arhtiyas, rice shellers, vet clinics, colleges and farm supply dealers. From ₹10,000.",
     keywords: [
       "IT services in Rampura Phul",
       "IT services team in Rampura Phul",
@@ -29,6 +29,12 @@ const rampuraPhul: CityContent = {
       "Rampura Phul me website banwana",
       "Rampura Phul vich website banwauni",
       "ਰਾਮਪੁਰਾ ਫੂਲ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Rampura Phul website designer",
+      "web development company Rampura Phul",
+      "hire freelance web developer Rampura Phul",
+      "Bathinda district SEO",
+      "website designer Bathinda district",
+      "Punjab SEO services",
     ],
   },
   hero: {

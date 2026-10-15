@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 25.2138, lng: 75.8648 },
   meta: {
-    title: "Freelance Software Developers in Kota, Rajasthan",
+    title: "Kota, Rajasthan Software Developers: Coaching & Hostels",
     description:
       "Comparing software development companies in Kota? Hire our freelance group for coaching CRMs, hostel apps, AI automation and SEO. Web apps from ₹60,000.",
     keywords: [
@@ -20,7 +20,7 @@ const content: CityContent = {
       "hostel management software Kota",
       "student lead management system Kota",
       "web application development Kota Rajasthan",
-            "AI automation for coaching institutes",
+      "AI automation for coaching institutes",
       "WhatsApp automation Kota",
       "SEO services Kota",
       "local SEO Talwandi",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "freelance software developer Kota",
       "कोटा में सॉफ्टवेयर कंपनी",
       "Kota mein website aur app banwana",
+      "Kota website designer",
+      "website cost in Kota",
+      "IT company in Kota",
+      "Rajasthan SEO services",
+      "hire developer Kota",
+      "coaching software in Kota",
+      "hostels software in Kota",
     ],
   },
   hero: {

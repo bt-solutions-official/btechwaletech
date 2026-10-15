@@ -7,7 +7,7 @@ const dumka: CityContent = {
   meta: {
     title: "IT Services in Dumka: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, Google Maps SEO and WhatsApp bots for Dumka colleges, clinics, Basukinath lodges, tussar groups and stone chip suppliers.",
+      "Dumka websites, Android and iOS apps, Google Maps SEO and WhatsApp bots for colleges, clinics, Basukinath lodges, tussar groups and stone chip suppliers.",
     keywords: [
       "IT services in Dumka",
       "IT services team in Dumka",
@@ -29,6 +29,10 @@ const dumka: CityContent = {
       "Dumka me website banwana",
       "Dumka me app banwana",
       "दुमका वेबसाइट डिजाइन",
+      "Dumka website designer",
+      "web development company Dumka",
+      "hire freelance developer Dumka",
+      "Jharkhand SEO",
     ],
   },
   hero: {

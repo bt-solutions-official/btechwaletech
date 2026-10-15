@@ -7,7 +7,7 @@ const sahibganj: CityContent = {
   meta: {
     title: "IT Services in Sahibganj: Web, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Sahibganj stone traders, transporters, port users, clinics, schools and shops.",
+      "Websites, apps, local SEO and WhatsApp automation for Sahibganj stone traders, transporters, port users, clinics, schools and shops. From ₹10,000.",
     keywords: [
       "IT services in Sahibganj",
       "IT services team in Sahibganj",
@@ -29,6 +29,12 @@ const sahibganj: CityContent = {
       "Sahibganj me website banwana",
       "Sahebganj me app banwana",
       "साहिबगंज वेबसाइट डिज़ाइन",
+      "Sahibganj website designer",
+      "web development company Sahibganj",
+      "hire freelance web developer Sahibganj",
+      "Ganga riverfront SEO services",
+      "website designer Ganga riverfront",
+      "Jharkhand SEO services",
     ],
   },
   hero: {

@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Custom CRM", note: "Built around your sales stages rather than a generic pipeline. Data migration from the old tool is usually the swing item.", href: "/usa/custom-crm-development/", size: "md" },
       { name: "Reporting dashboard", note: "Pulls numbers from accounting, sales and operations into one view. Priced by data sources and refresh frequency.", href: "/usa/custom-dashboard-development/", size: "md" },
       { name: "AI automation layer", note: `Document reading, email triage or an internal AI agent on top of existing systems. From ${P.ai}.`, href: "/usa/ai-automation-agency/", size: "md" },
-      { name: "Field or staff mobile app", note: `Cross-platform app for technicians or drivers, sharing the web app's backend. From ${P.app}.`, href: "/usa/field-service-app-development/", size: "sm" },
+      { name: "Field or staff mobile app", note: `Cross-platform app for technicians or drivers, sharing the web app's backend. From ${P.app}.`, href: "/usa/react-native-app-development/", size: "sm" },
       { name: "Legacy system replacement", note: "Rebuilding an old Access database or desktop program as a web app; the data clean-up often costs more than the screens.", size: "sm" },
       { name: "Cloud hosting setup", note: "Your AWS account configured with backups, alerts and access roles so running costs stay predictable.", href: "/usa/aws-consulting-for-small-business/", size: "sm" },
     ],
@@ -149,7 +149,7 @@ const content: FreelanceContent = {
       paragraphs: [
         "Compare the full three-year cost of each option, not the first-year cost. SaaS is cheap to start and grows with headcount; custom software costs more up front and then mostly costs hosting and upkeep.",
         "For the subscription side, add up per-seat fees for everyone who needs access, multiplied across 36 months, plus the add-on modules you will need, integration tools that glue it to your other systems, and a realistic allowance for renewal price changes. Then add the hidden line: staff hours spent on workarounds, duplicate data entry and exporting to spreadsheets because the product does not fit.",
-        `For the custom side, add the build (from ${P.software} with us, plus modules), hosting on your own cloud account for 36 months, paid APIs, and maintenance from ${P.care} a month once the 2 free months end. Add a modest budget for improvements each year, because you will want them.`,
+        `For the custom side, add the build (from ${P.software} with us, plus modules), hosting on your own cloud account for 36 months, paid APIs, and maintenance from ${P.care} once the 2 free months end. Add a modest budget for improvements each year, because you will want them.`,
       ],
       list: [
         "<strong>Build wins</strong> when you pay for many seats, the workflow is specific to your trade, or you are stitching together several tools with automation glue.",

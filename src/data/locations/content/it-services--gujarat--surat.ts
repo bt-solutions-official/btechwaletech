@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 21.1702, lng: 72.8311 },
   meta: {
-    title: "Freelance Software Developers in Surat, Gujarat",
+    title: "Surat, Gujarat Software Developers: Textile Wholesale",
     description:
-      "Freelance software developers in Surat for textile trade software, diamond lot tracking, reseller apps, Android and iOS apps and AI automation. Starting prices.",
+      "Freelance software developers in Surat for textile trade software, diamond lot tracking and reseller apps. Websites from ₹10,000, quote in two working days.",
     keywords: [
       "software development team in Surat",
       "IT services team in Surat",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "software developer near me Adajan Vesu",
       "Surat ma software developer",
       "સુરતમાં સોફ્ટવેર ડેવલપર",
+      "Surat website designer",
+      "website cost in Surat",
+      "IT company in Surat",
+      "Gujarat SEO services",
+      "hire developer Surat",
+      "textile wholesale software in Surat",
+      "dyeing software in Surat",
+      "weaving software in Surat",
+      "diamond software in Surat",
+      "website developer Varachha Surat",
     ],
   },
   hero: {

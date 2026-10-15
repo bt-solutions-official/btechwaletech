@@ -7,7 +7,7 @@ const nandyal: CityContent = {
   meta: {
     title: "Nandyal Web Design, Telugu SEO & Stores from ₹10,000",
     description:
-      "Websites, Telugu SEO, mango and rice stores and WhatsApp automation for Nandyal mills, pilgrim hotels, hospitals, colleges and shops. Starting from ₹10,000.",
+      "Nandyal websites, Telugu SEO and mango and rice stores for rice mills, agri-input dealers, pilgrim hotels and taxi operators. Sites from ₹10,000.",
     keywords: [
       "website development team in Nandyal",
       "web design Nandyal",
@@ -25,6 +25,16 @@ const nandyal: CityContent = {
       "website maintenance Nandyal",
       "Nandyala lo website cheyinchali",
       "నంద్యాల వెబ్‌సైట్ డిజైన్",
+      "web development company Nandyal",
+      "hire freelance web developer Nandyal",
+      "Rayalaseema SEO services",
+      "website designer Rayalaseema",
+      "rice mills website design Nandyal",
+      "website design Srinivasa Nagar Nandyal",
+      "website design Gandhi Chowk Nandyal",
+      "website design Sanjeeva Nagar Nandyal",
+      "website design Bommalasatram Nandyal",
+      "website design Noonepalle Nandyal",
     ],
   },
   hero: {

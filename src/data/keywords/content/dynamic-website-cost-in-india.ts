@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Dynamic Website Cost in India: Static vs CMS vs Custom`,
-    description: `Dynamic website cost in India explained: static sites from ${P.site}, CMS and admin panel options, listings, hosting, and when a static site is enough.`,
+    description: `Dynamic website cost in India explained: static sites from ${P.site}, CMS and admin panel options, listings and hosting. Get an itemised quote in 2 days.`,
     keywords: [
       "dynamic website cost in india", "dynamic website cost", "dynamic website price in India", "dynamic website development cost",
       "static vs dynamic website cost", "dynamic website with admin panel cost", "website with admin panel price", "CMS website cost India",
@@ -218,7 +218,7 @@ const content: FreelanceContent = {
         "Rules that keep thin filter combinations and internal search pages out of the index.",
       ],
       after: [
-        `Nobody can honestly guarantee rankings, but these basics remove technical obstacles. Ongoing <a href='/services/seo-services/'>SEO services</a> start from ${P.seo} per month if you want help with content and growth.`,
+        `Nobody can honestly guarantee rankings, but these basics remove technical obstacles. Ongoing <a href='/services/seo-services/'>SEO services</a> start from ${P.seo} if you want help with content and growth.`,
       ],
     },
     {

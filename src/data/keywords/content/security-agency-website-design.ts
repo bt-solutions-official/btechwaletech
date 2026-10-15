@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "manpower security agency website", "security agency website developer", "security agency web design near me", "security agency SEO",
       "security agency website Gurgaon", "security agency website Pune", "security agency website Hyderabad", "bouncer services website",
       "facility and security services website", "what should a security agency website include",
+      "security agency website design cost", "security agency website design price", "security agency website design company", "best security agency website design in India",
+      "security agency website design cost in India", "security agency website design near me",
     ],
   },
   hero: {
@@ -60,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Quote form asks", value: "Site type, posts, shifts, guard category, start date, location" },
       { label: "Recruitment", value: "Job listings, eligibility, mobile apply, WhatsApp alerts to HR" },
       { label: "Lead follow-up", value: `Automated WhatsApp and email, from ${P.ai}` },
-      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -252,7 +254,7 @@ const content: FreelanceContent = {
         `Mostly through service-plus-place searches such as “security guard services in Noida” or “lady security guards for hospital Hyderabad”, supported by your Google Business Profile for each real branch. Nobody can honestly promise a top ranking for those searches.`,
         `At build time we create crawlable service, industry and branch pages with titles written the way buyers search, add structured data for your organisation and branches, set up an XML sitemap, verify Google Search Console, and link service pages to industry pages so the site reads as one coherent body of expertise.`,
         `Branch pages must be real: a genuine office or operating base, local contact, and the kinds of sites you cover there. Google’s spam policies warn against doorway pages created only to rank for many place names, and a buyer who calls a “branch” that does not exist will not call again.`,
-        `AI assistants and Google’s AI Overviews answer questions like “how do I check if a security agency is licensed?” or “what should a security guard contract include?”. Short, factual sections on your site that answer these, with your licence details stated in text, make you quotable. If you want ongoing help, our <a href='/local-seo-expert/'>local SEO</a> work starts at ${P.seo} a month.`,
+        `AI assistants and Google’s AI Overviews answer questions like “how do I check if a security agency is licensed?” or “what should a security guard contract include?”. Short, factual sections on your site that answer these, with your licence details stated in text, make you quotable. If you want ongoing help, our <a href='/local-seo-expert/'>local SEO</a> work starts at ${P.seo}.`,
       ],
     },
     {
@@ -271,7 +273,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your agency owns the domain, hosting, code, content and every enquiry and application the site receives. We work as invited users on your accounts during the build.`,
         `At handover you receive admin logins, domain and hosting access, the code repository, and a short recorded walkthrough showing office staff how to post a job, update licence dates, add a branch and upload a new profile PDF. Candidate applications go to your HR team, and buyer enquiries to your sales team; neither passes through our systems.`,
-        `The first two months after launch come with free maintenance: fixes, small changes and checks that forms still deliver. After that, maintenance is optional from ${P.care} a month. Longer-term terms are agreed in your written quote, and our <a href='/terms/'>terms page</a> explains the general position.`,
+        `The first two months after launch come with free maintenance: fixes, small changes and checks that forms still deliver. After that, maintenance is optional from ${P.care}. Longer-term terms are agreed in your written quote, and our <a href='/terms/'>terms page</a> explains the general position.`,
       ],
     },
     {
@@ -417,7 +419,7 @@ const content: FreelanceContent = {
     { question: "How do AI search tools choose which security agency to mention?", answer: "They draw on text they can read and check: licence details, services, industries, branches and consistent business information across the web. A site that states these facts plainly, with question-style headings and short answers, is easier to quote than one built on slogans and stock photos." },
     { question: "Who owns the website and the enquiries it collects?", answer: "Your agency does. Domain, hosting, code, content, buyer enquiries and job applications all sit in accounts registered in your agency’s name. At launch you receive the code repository and every admin login, so any future developer can take over without needing anything from us." },
     { question: "Can the website show our client list?", answer: "Only with each client’s written permission. Many corporate clients restrict vendors from naming them. Where you cannot name a client, describe the deployment instead, such as a round-the-clock warehouse security team with several posts, which still demonstrates experience honestly. Never display logos or names you have not been allowed to use." },
-    { question: "What happens after the security agency website goes live?", answer: `Maintenance is free for two months after launch: fixes, small changes and checks that forms still deliver. After that it is optional from ${P.care} a month. Office staff can post jobs, update licence dates and upload a new company profile from the admin panel without waiting for a developer.` },
+    { question: "What happens after the security agency website goes live?", answer: `Maintenance is free for two months after launch: fixes, small changes and checks that forms still deliver. After that it is optional from ${P.care}. Office staff can post jobs, update licence dates and upload a new company profile from the admin panel without waiting for a developer.` },
     { question: "How do I pay for the website?", answer: "Agencies in India pay by UPI or bank transfer, in stages tied to visible progress as set out in the written quote. Nothing is billed before you approve the itemised quote. Invoice details are agreed at quote stage, and our refund policy page explains the general position." },
     { question: "Can you sign an NDA before we share client and site details?", answer: "Ask us, and confidentiality terms can be discussed and written into your quote. For most security agency websites we do not need sensitive site details at all: service descriptions, permitted client names and photos that avoid layouts are enough. Anything sensitive you share is used only for the build." },
     { question: "Can the website connect to our guard management software?", answer: `If your software has an API, the site can show live figures you choose to share, such as active sites, or pass job applicants into your HR system. If you have no such software yet, custom guard management with rosters, patrol checks and billing starts at ${P.software}, built as a separate system.` },

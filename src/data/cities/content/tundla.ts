@@ -7,7 +7,7 @@ const tundla: CityContent = {
   meta: {
     title: "IT Services in Tundla | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Tundla cold stores, glass traders, highway businesses, coaching centres and shops.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Tundla cold stores, glass traders, highway businesses, coaching centres and shops. From ₹10,000.",
     keywords: [
       "IT services in Tundla",
       "IT services team in Tundla",
@@ -29,6 +29,12 @@ const tundla: CityContent = {
       "Tundla me website banwana",
       "Tundla mein app banwane ka kharcha",
       "टूंडला वेबसाइट डिजाइन",
+      "Tundla website designer",
+      "web development company Tundla",
+      "hire freelance web developer Tundla",
+      "Firozabad district SEO",
+      "website designer Firozabad district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

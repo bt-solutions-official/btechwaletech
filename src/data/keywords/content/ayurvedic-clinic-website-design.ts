@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Ayurvedic Clinic Website Design from ${P.site}`,
-    description: `Ayurvedic clinic website design from ${P.site}: panchakarma package pages, stay-plus-treatment booking, BAMS profiles, careful claims and pages for foreign guests.`,
+    description: `Ayurvedic clinic website design from ${P.site}: panchakarma package pages, stay + treatment booking, BAMS profiles and careful claims. Quote in 2 days.`,
     keywords: [
       "ayurvedic clinic website design", "ayurveda website design", "panchakarma centre website", "ayurvedic hospital website",
       "ayurveda resort website design", "ayurvedic wellness centre website", "website for ayurvedic doctor",
@@ -24,6 +24,9 @@ const content: FreelanceContent = {
       "ayurveda centre Kerala website", "ayurveda centre Rishikesh website", "ayurvedic clinic website Kochi",
       "ayurvedic clinic ki website", "how to promote ayurvedic clinic online", "wellness tourism website India",
       "ayurvedic clinic website designer near me", "shirodhara abhyanga treatment pages",
+      "ayurvedic clinic website design company in India",
+      "best ayurvedic clinic website design in India",
+      "ayurvedic clinic website design services",
     ],
   },
   hero: {
@@ -61,7 +64,7 @@ const content: FreelanceContent = {
       { label: "Booking", value: "OPD slots, or packages with room and dates" },
       { label: "Guest follow-up", value: `Pre-arrival emails and WhatsApp from ${P.ai}` },
       { label: "Wording to watch", value: "Drugs and Magic Remedies Act, practitioner ethics rules" },
-      { label: "After launch", value: `2 months free, then from ${P.care} a month` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -317,7 +320,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Once ayurvedic clinic website design work is done, your centre owns the domain, hosting, code, content and guest data, as it has from the first day, and receives every login at launch. We stay involved only for as long as you want.`,
         `Handover includes a short guide for updating packages, seasons, rooms, practitioners and translations, plus a list of every outside service the site depends on. A future developer can pick it up without us.`,
-        `For two months after launch, fixes and small changes are free. After that, care is optional and starts at ${P.care} a month; centres that change packages each season usually keep it. General rules are on our <a href='/terms/'>terms page</a>, and refund rules on the <a href='/refund-policy/'>refund policy</a> page.`,
+        `For two months after launch, fixes and small changes are free. After that, care is optional and starts at ${P.care}; centres that change packages each season usually keep it. General rules are on our <a href='/terms/'>terms page</a>, and refund rules on the <a href='/refund-policy/'>refund policy</a> page.`,
       ],
     },
     {
@@ -374,7 +377,7 @@ const content: FreelanceContent = {
         ["Pre-arrival automation", "Health forms, packing lists, transfer messages", P.ai, "2–4 weeks"],
         ["Oil and product shop", "Catalogue, UPI and card checkout", P.shop, "4–8 weeks"],
         ["Centre software", "Rooms, therapist rosters, records, billing", P.software, "6–12 weeks"],
-        ["Monthly SEO", "Content, listings, reports", `${P.seo} a month`, "Ongoing"],
+        ["Monthly SEO", "Content, listings, reports", `${P.seo}`, "Ongoing"],
       ],
       hideSm: [1],
     },
@@ -431,7 +434,7 @@ const content: FreelanceContent = {
     { question: "Freelancer or agency for ayurvedic clinic website design?", answer: "Either can work. Judge them on whether they understand combined room and therapy booking, multilingual structure and claims risk, and whether you will own the domain, hosting and code. With a small freelance team you talk directly to the people building it. Ask everyone about upkeep costs after launch." },
     { question: "Who owns the website and guest data?", answer: "Your centre does. The domain, hosting, code, content and guest data are registered to you from day one, and every login is handed over at launch. Nothing depends on our accounts, so you can change developers at any time without needing anything released by us." },
     { question: "Does GDPR apply to our Ayurveda website?", answer: "It may, if you collect personal data from guests in the European Union, alongside India’s Digital Personal Data Protection Act, 2023. The build supports consent capture, clear notices, secure storage and deletion requests. Whether and how these laws apply to your centre is for your own legal adviser to confirm." },
-    { question: "What happens after the two free months?", answer: `Care becomes optional and starts at ${P.care} a month. It covers updates, security patches, backups and small changes such as new seasons, packages or practitioners. Centres that adjust packages each season tend to keep it. The scope is written into your quote.` },
+    { question: "What happens after the two free months?", answer: `Care becomes optional and starts at ${P.care}. It covers updates, security patches, backups and small changes such as new seasons, packages or practitioners. Centres that adjust packages each season tend to keep it. The scope is written into your quote.` },
     { question: "How do we pay for the website?", answer: "Centres in India pay by UPI or bank transfer, and owners abroad can pay by Wise, bank wire or PayPal in US dollars. The quote is itemised with milestones, and nothing is billed before your written approval. Our refund policy page explains the general rules." },
     { question: "Can you redo the ayurvedic clinic website design of our existing site?", answer: "Yes. We review which pages already bring enquiries, keep good URLs, redirect the rest, and rebuild weak areas such as vague package pages, cure claims, slow galleries and room-only booking. Planning redirects carefully keeps the search visibility your old site has earned." },
     { question: "Do you visit our centre for photos or setup?", answer: "No. We work remotely and do not make site visits, so photography and video are arranged by your centre, ideally with a local photographer. We give a shot list covering rooms, therapy spaces, the kitchen, practitioners and the grounds, and we handle compression and placement." },

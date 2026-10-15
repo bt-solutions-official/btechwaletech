@@ -224,7 +224,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `They search by colour, class and use: “reactive red for cotton supplier”, “pigment blue 15:3 manufacturer India”, “disperse dyes Ankleshwar”. Pages that match those searches with real data win more often than a homepage list.`,
         `Each build includes product-level URLs with Colour Index references in titles, Product and Organization schema, image alt text describing shade and substrate, an XML sitemap, fast pages and Google Search Console from launch. A Google Business Profile with details matching the site supports local searches around Ankleshwar and Bharuch.`,
-        `AI assistants answering “who makes this pigment in Gujarat” prefer sources that state facts plainly. Short paragraphs on class, end use, fastness, packing and export markets give them something precise to cite. Nobody can guarantee a ranking or an AI mention, and we say so in every proposal. What we can control is that every shade and figure is readable by machines and specific enough to stand out. Ongoing SEO is available from ${P.seo} a month; our <a href='/seo-for-manufacturers/'>SEO for manufacturers page</a> explains it.`,
+        `AI assistants answering “who makes this pigment in Gujarat” prefer sources that state facts plainly. Short paragraphs on class, end use, fastness, packing and export markets give them something precise to cite. Nobody can guarantee a ranking or an AI mention, and we say so in every proposal. What we can control is that every shade and figure is readable by machines and specific enough to stand out. Ongoing SEO is available from ${P.seo}; our <a href='/seo-for-manufacturers/'>SEO for manufacturers page</a> explains it.`,
       ],
     },
     {

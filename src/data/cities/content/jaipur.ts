@@ -7,7 +7,7 @@ const jaipur: CityContent = {
   meta: {
     title: "IT Services in Jaipur: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and AI automation for Jaipur jewellers, hotels, exporters and shops. Sites from ₹10,000, online stores from ₹50,000, two months' free maintenance.",
+      "Jaipur websites, SEO and AI automation for jewellers, hotels, exporters and shops. Sites from ₹10,000, online stores from ₹50,000, 2 months' free maintenance.",
     keywords: [
       "website development team in Jaipur",
       "web design team Jaipur",
@@ -25,6 +25,14 @@ const jaipur: CityContent = {
       "website maintenance Jaipur",
       "Jaipur mein website banwane ka kharcha",
       "जयपुर में वेबसाइट डिजाइन",
+      "Jaipur website designer",
+      "website cost in Jaipur",
+      "web development company Jaipur",
+      "hire freelance developer Jaipur",
+      "Rajasthan SEO",
+      "Jaipur me website kaise banwaye",
+      "website for gems and jewellery in Jaipur",
+      "web designer in Johari Bazaar, Jaipur",
     ],
   },
   hero: {

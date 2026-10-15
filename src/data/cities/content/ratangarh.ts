@@ -7,7 +7,7 @@ const ratangarh: CityContent = {
   meta: {
     title: "IT Services in Ratangarh: Websites, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Ratangarh traders, guar and grain units, haveli stays, schools and clinics.",
+      "Hindi websites, apps, Maps SEO and WhatsApp automation for Ratangarh traders, guar and grain units, haveli stays, schools and clinics. From ₹10,000.",
     keywords: [
       "IT services in Ratangarh",
       "IT services team in Ratangarh",
@@ -29,6 +29,12 @@ const ratangarh: CityContent = {
       "Ratangarh me website banwana",
       "Ratangarh mein app kaise banwaye",
       "रतनगढ़ वेबसाइट डिजाइन",
+      "Ratangarh website designer",
+      "web development company Ratangarh",
+      "hire freelance web developer Ratangarh",
+      "Churu district SEO",
+      "website designer Churu district",
+      "Rajasthan SEO services",
     ],
   },
   hero: {

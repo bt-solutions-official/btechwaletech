@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Cloud Kitchen Website for Direct Orders from ${P.shop}`,
-    description: `Cloud kitchen website for direct, commission-free orders: ordering sites from ${P.shop}, WhatsApp menus from ${P.site}. Multi-brand menus, UPI, delivery partners.`,
+    description: `Cloud kitchen website for direct, commission-free orders: ordering sites from ${P.shop}, WhatsApp menus from ${P.site}. Multi-brand menus, UPI, quote in 2 days.`,
     keywords: [
       "cloud kitchen website", "cloud kitchen website development", "cloud kitchen ordering website", "zero commission ordering website",
       "direct ordering website for restaurants", "cloud kitchen website cost", "cloud kitchen website price India", "ghost kitchen website",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "cloud kitchen website near me", "cloud kitchen website Bengaluru", "cloud kitchen website Gurgaon", "cloud kitchen website Mumbai",
       "cloud kitchen ki website kaise banaye", "own food ordering website", "cloud kitchen customer data", "cloud kitchen delivery partner integration",
       "cloud kitchen website design", "commission free food ordering India",
+      "cloud kitchen website company in India",
+      "best cloud kitchen website in India",
+      "cloud kitchen website services",
     ],
   },
   hero: {

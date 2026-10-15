@@ -5,9 +5,9 @@ const tanda: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.55, lng: 82.65 },
   meta: {
-    title: "IT Services in Tanda: Websites, Apps, SEO & AI",
+    title: "Tanda Website Design for Powerloom & Cloth Traders",
     description:
-      "Websites, Hindi SEO, B2B catalogues and WhatsApp automation for Tanda powerloom units, cloth traders, schools and clinics in Ambedkar Nagar. From ₹10,000.",
+      "Tanda websites, Hindi SEO and WhatsApp catalogues for powerloom units weaving gamchha, lungi and terrycot, cloth traders and schools. From ₹10,000.",
     keywords: [
       "website development team in Tanda",
       "web design Tanda Ambedkar Nagar",
@@ -25,6 +25,20 @@ const tanda: CityContent = {
       "website maintenance Tanda",
       "Tanda me website kaise banwaye",
       "टांडा वेबसाइट डिज़ाइन",
+      "web development company Tanda",
+      "hire freelance web developer Tanda",
+      "website designer Ambedkar Nagar",
+      "Uttar Pradesh SEO services",
+      "Tanda website banwane ka kharcha",
+      "Tanda powerloom website",
+      "powerloom website design Tanda",
+      "Tanda direct-selling weavers website",
+      "direct-selling weavers website design Tanda",
+      "Tanda NTPC-area contractors website",
+      "NTPC-area contractors website design Tanda",
+      "website design Hayatganj Tanda",
+      "website design Nehru Nagar Tanda",
+      "website design Chhajjapur Tanda",
     ],
   },
   hero: {

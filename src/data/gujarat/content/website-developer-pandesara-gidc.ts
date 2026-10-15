@@ -203,7 +203,7 @@ const content: FreelanceContent = {
         `A new mill site can appear in searches for its processes and location, but nobody can promise rankings, and anyone who does is guessing. What we control is building the site so search engines understand it.`,
         `That means one page per process with a clear title such as viscose digital printing in Surat or polyester dyeing in Pandesara GIDC, clean URLs, schema markup for your business and FAQs, an XML sitemap and Google Search Console set up before launch. Images carry descriptive names and alt text, which helps them show in image search where many textile buyers browse.`,
         `A Google Business Profile with your exact mill name, address and phone (matching the website footer) helps traders find the gate and see your hours. Google explains the setup on its <a href='https://support.google.com/business/' rel='noopener'>Business Profile help pages</a>.`,
-        `AI assistants increasingly answer questions such as which mills in Surat do digital printing on rayon. They tend to quote pages that state facts directly in short paragraphs and tables, which is exactly how we write process pages. Ongoing SEO is optional, from ${P.seo} a month.`,
+        `AI assistants increasingly answer questions such as which mills in Surat do digital printing on rayon. They tend to quote pages that state facts directly in short paragraphs and tables, which is exactly how we write process pages. Ongoing SEO is optional, from ${P.seo}.`,
       ],
     },
     {

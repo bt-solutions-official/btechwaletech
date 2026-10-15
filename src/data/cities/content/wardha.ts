@@ -7,7 +7,7 @@ const wardha: CityContent = {
   meta: {
     title: "Wardha Website Design, Local SEO and Automation",
     description:
-      "Websites from ₹10,000 for Wardha cotton traders, MIDC units, hospitals, colleges, khadi sellers and shops, with Marathi pages, Google Maps work and WhatsApp bots.",
+      "Websites for Wardha cotton traders, MIDC units, hospitals, colleges, khadi sellers and shops, with Marathi pages, Maps work and WhatsApp bots. From ₹10,000.",
     keywords: [
       "website development team in Wardha",
       "web designer Wardha",
@@ -25,6 +25,16 @@ const wardha: CityContent = {
       "website cost Wardha",
       "Wardha madhe website kashi banvaychi",
       "वर्धा वेबसाइट डिझाइन",
+      "Wardha website designer",
+      "web development company Wardha",
+      "hire freelance web developer Wardha",
+      "Maharashtra SEO services",
+      "Wardha me website kaise banwaye",
+      "Wardha website banwane ka kharcha",
+      "website design Bajaj Chowk Wardha",
+      "website design Arvi Naka Wardha",
+      "website design Sawangi Meghe Wardha",
+      "website design Sevagram Wardha",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const jamui: CityContent = {
   meta: {
     title: "IT Services in Jamui | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Jamui traders, coaching centres, clinics, Jain pilgrimage services and Jhajha shops.",
+      "Jamui Hindi websites, mobile apps, local SEO and WhatsApp automation for traders, coaching centres, clinics and Jain pilgrimage services. Apps from ₹40,000.",
     keywords: [
       "IT services in Jamui",
       "IT services team in Jamui",
@@ -29,6 +29,10 @@ const jamui: CityContent = {
       "Jamui me website banwana",
       "Jamui me app kaise banwaye",
       "जमुई वेबसाइट डिजाइन",
+      "Jamui website designer",
+      "web development company Jamui",
+      "hire freelance developer Jamui",
+      "Bihar SEO",
     ],
   },
   hero: {

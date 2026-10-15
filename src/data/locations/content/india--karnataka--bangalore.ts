@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 12.9716, lng: 77.5946 },
   meta: {
-    title: "Freelance IT Consultants in Bangalore: Software & AI",
+    title: "Bangalore IT Consultants: SaaS, D2C & Engineering",
     description:
-      "Hire freelance IT consultants and developers in Bangalore for software, web apps, Android and iOS apps, AI agents, cloud and data. Itemised quote in 2 working days.",
+      "Hire freelance IT consultants and developers in Bangalore for software, web apps, Android and iOS apps, plus AI agents. Itemised quote in 2 working days.",
     keywords: [
       "IT solutions team in Bangalore",
       "best IT services team in Bangalore",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT support for startups Whitefield",
       "ಬೆಂಗಳೂರಿನಲ್ಲಿ ಐಟಿ ಸೇವೆಗಳು",
       "बेंगलुरु में आईटी कंसल्टिंग",
+      "Bangalore website designer",
+      "website cost in Bangalore",
+      "IT company in Bangalore",
+      "Karnataka SEO services",
+      "hire developer Bangalore",
+      "saas software in Bangalore",
+      "d2c software in Bangalore",
+      "engineering software in Bangalore",
+      "healthcare software in Bangalore",
+      "website developer Koramangala Bangalore",
     ],
   },
   hero: {

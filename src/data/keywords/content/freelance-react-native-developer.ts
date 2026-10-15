@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance React Native Developer | Apps from ${P.app}`,
-    description: `Freelance React Native developer in India for Android and iOS apps from ${P.app}. Expo vs bare, native modules, store publishing and honest costs explained.`,
+    description: `Freelance React Native developer in India for Android and iOS apps: Expo vs bare, native modules and store publishing. Apps from ${P.app}, quote in 2 days.`,
     keywords: [
       "freelance React Native developer", "freelance React Native developer India", "React Native developer near me", "React Native developer for hire",
       "React Native app development cost", "React Native developer price India", "best freelance React Native developer", "React Native app banwana hai",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "cross-platform app developer", "React Native Android and iOS app", "React Native native modules developer", "React Native vs Flutter",
       "React Native app upgrade", "React Native developer for startup", "hire React Native freelancer", "JavaScript mobile app developer",
       "TypeScript React Native developer", "React Native app maintenance",
+      "hire freelance react native developer",
     ],
   },
   hero: {

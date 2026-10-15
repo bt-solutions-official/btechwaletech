@@ -7,7 +7,7 @@ const gokak: CityContent = {
   meta: {
     title: "IT Services in Gokak | Web, Apps & AI from ₹10,000",
     description:
-      "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Gokak sugar-belt suppliers, karadantu makers, textile units, clinics and shops.",
+      "Gokak Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for sugar-belt suppliers, karadantu makers, textile units, clinics and shops.",
     keywords: [
       "IT services in Gokak",
       "IT services team in Gokak",
@@ -29,6 +29,10 @@ const gokak: CityContent = {
       "Gokak me website banwana",
       "Gokakdalli website beku",
       "ಗೋಕಾಕ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Gokak website designer",
+      "web development company Gokak",
+      "hire freelance developer Gokak",
+      "Karnataka SEO",
     ],
   },
   hero: {

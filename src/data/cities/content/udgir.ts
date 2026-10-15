@@ -7,7 +7,7 @@ const udgir: CityContent = {
   meta: {
     title: "Udgir Website Development & SEO | From ₹10,000",
     description:
-      "Marathi and English websites, SEO, online stores and WhatsApp tools for Udgir dal mills, market-yard traders, colleges, clinics and shops. Prices from ₹10,000.",
+      "Marathi and English websites, SEO and online stores for Udgir dal mills, market-yard traders, colleges, clinics and shops. Sites from ₹10,000.",
     keywords: [
       "website development team in Udgir",
       "web designer Udgir",
@@ -24,6 +24,17 @@ const udgir: CityContent = {
       "ecommerce website Udgir",
       "Udgir madhye website",
       "website maintenance Udgir",
+      "Udgir website designer",
+      "web development company Udgir",
+      "hire freelance web developer Udgir",
+      "Latur district SEO",
+      "website designer Latur district",
+      "Maharashtra SEO services",
+      "website design Shivaji Chowk Udgir",
+      "website design Bidar Road Udgir",
+      "website design Nanded Road Udgir",
+      "website design Deglur Road Udgir",
+      "website design price in Udgir",
     ],
   },
   hero: {

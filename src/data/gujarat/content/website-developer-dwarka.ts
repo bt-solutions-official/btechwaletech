@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Dwarka, Gujarat: Pilgrim Sites`,
-    description: `Website developer in Dwarka, Gujarat for hotels, travel desks, taxi operators and shops serving pilgrims. Mobile sites from ${P.site}, WhatsApp and UPI built in.`,
+    description: `Website developer in Dwarka, Gujarat for hotels, travel desks, taxi operators and shops serving pilgrims. Mobile sites from ${P.site}, WhatsApp & UPI built in.`,
     keywords: [
       "website developer in Dwarka", "website developer Dwarka Gujarat", "website developer near me Dwarka", "Dwarka Gujarat website",
       "Devbhumi Dwarka website developer", "website designer Dwarka", "web developer Dwarka Gujarat", "hotel website Dwarka",

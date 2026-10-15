@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "website developer Assam", "website developer Fancy Bazar", "website developer GS Road", "website developer Dispur",
       "hospital website Guwahati", "coaching institute website Guwahati", "tour operator website Guwahati", "website developer North East India",
       "website developer Shillong", "Guwahati me website kaun banata hai", "best website developer in Guwahati", "website developer Gauhati",
+      "website developer in Guwahati cost", "website developer in Guwahati price", "hire website developer in Guwahati", "freelance website developer in Guwahati",
+      "website developer in Guwahati charges",
     ],
   },
   hero: {

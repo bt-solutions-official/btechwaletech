@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Azure consultant",
   updated: "2026-09-25",
   meta: {
-    title: `Azure Consultant: .NET Apps on Azure from ${P.software}`,
-    description: `Azure consultant for setups and migrations: App Service vs VMs vs containers, Azure SQL, .NET hosting and cost cuts. Web apps from ${P.software}; itemised plans.`,
+    title: `Azure Cloud Consultant: .NET Apps from ${P.software}`,
+    description: `Azure cloud consultant for setups and migrations: App Service vs VMs vs containers, Azure SQL, .NET hosting and cost cuts. Web apps from ${P.software}.`,
     keywords: [
       "azure consultant", "azure cloud consultant", "microsoft azure consultant", "azure consultant India", "freelance azure consultant",
       "azure consulting services", "azure migration consultant", "azure cost optimisation", "reduce azure bill", "azure app service vs vm",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "microsoft for startups azure credits", "azure free account credits", "azure devops consultant", "azure architect freelance",
       "move on-premises server to azure", "azure consultant cost", "azure consultant hourly rate India", "azure expert near me",
       "azure consultant Delhi", "azure consultant Pune", "azure consultant Hyderabad", "azure par app kaise host kare",
+      "hire azure cloud consultant",
+      "best azure cloud consultant in India",
     ],
   },
   hero: {
@@ -59,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Cost controls", value: "Budgets, right-sizing, auto-shutdown, reservations when steady" },
       { label: "Custom web app on Azure", value: `From ${P.software}, 6–12 weeks` },
       { label: "Migration", value: "On-premises, shared hosting or another cloud, with rollback" },
-      { label: "After go-live", value: `2 months free, then from ${P.care} a month` },
+      { label: "After go-live", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What an Azure consultant from our team costs",
-    note: `When we build the software, a custom web app or portal designed for Azure starts at ${P.software}, with App Service deployment, Azure SQL, access control and budgets included. For existing systems, migrations, cost reviews and setup work are quoted after we look at your subscription, your Cost Management reports and the code, with each task and its expected effect listed. Microsoft bills Azure usage directly to your subscription; we neither resell licences nor add a margin. After go-live you get two months of free maintenance, then care from ${P.care} a month if you want it.`,
+    note: `When we build the software, a custom web app or portal designed for Azure starts at ${P.software}, with App Service deployment, Azure SQL, access control and budgets included. For existing systems, migrations, cost reviews and setup work are quoted after we look at your subscription, your Cost Management reports and the code, with each task and its expected effect listed. Microsoft bills Azure usage directly to your subscription; we neither resell licences nor add a margin. After go-live you get two months of free maintenance, then care from ${P.care} if you want it.`,
   },
   guideLabel: "Azure consultant guide",
   guide: [
@@ -440,7 +442,7 @@ const content: FreelanceContent = {
     { question: "Freelance Azure consultant or agency?", answer: "For small and mid-sized businesses, a freelance team often means direct contact with the people changing both the code and the cloud, and a leaner setup. Larger firms bring more people and formal designations. Whichever you choose, insist on your own tenant, a written architecture, budgets and a tested database restore." },
     { question: "How do payments and contracts work?", answer: "Clients in India pay by UPI or bank transfer; international clients pay in USD by Wise, bank wire or PayPal. The itemised quote you approve lists scope and milestones, and nothing is billed before that approval. Specific terms such as confidentiality are agreed in the written quote alongside the general conditions on our terms page." },
     { question: "Can you add automation or AI on Azure?", answer: `Yes. We build scheduled jobs and event handlers with Azure Functions, connect Power Automate flows where they fit, and add AI features using Azure-hosted models behind your own API so keys and usage limits stay under your control. AI automation work starts at ${P.ai}.` },
-    { question: "What support do I get after moving to Azure?", answer: `Two months of maintenance are included after go-live, covering fixes, small changes, right-sizing once real usage is known and a monthly cost check. After that, ongoing care starts at ${P.care} a month if you want us to stay involved, or you can run it yourself using the runbook we hand over.` },
+    { question: "What support do I get after moving to Azure?", answer: `Two months of maintenance are included after go-live, covering fixes, small changes, right-sizing once real usage is known and a monthly cost check. After that, ongoing care starts at ${P.care} if you want us to stay involved, or you can run it yourself using the runbook we hand over.` },
     { question: "Azure par app kaise host kare, kya aap madad kar sakte hain?", answer: "Haan. Hum Hindi aur English dono mein baat karte hain. WhatsApp par batayein ki aapki app kis technology mein hai aur abhi kahan chal rahi hai. Hum sahi Azure service chunkar, anumaanit monthly kharcha aur itemised quote lagbhag do working days mein bhejte hain; approval se pehle kuch bill nahi hota." },
   ],
   related: {

@@ -7,7 +7,7 @@ const keshod: CityContent = {
   meta: {
     title: "IT Services in Keshod | Web, Apps & AI from ₹10,000",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Keshod groundnut oil mills, chhakda and furniture makers, traders and clinics.",
+      "Keshod Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for groundnut oil mills, chhakda and furniture makers, traders and clinics.",
     keywords: [
       "IT services in Keshod",
       "IT services team in Keshod",
@@ -29,6 +29,10 @@ const keshod: CityContent = {
       "Keshod ma website banavvi che",
       "કેશોદ વેબસાઇટ ડિઝાઇન",
       "Keshod app banavva mate",
+      "Keshod website designer",
+      "web development company Keshod",
+      "hire freelance developer Keshod",
+      "Gujarat SEO",
     ],
   },
   hero: {

@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Website Redesign Services Canada: from ${P.site}`,
-    description: `Website redesign services in Canada that protect Google traffic and leads: SEO audit, redirect plan, AODA upgrades, French version, staged launch. From ${P.site}.`,
+    description: `Website redesign services in Canada that protect Google traffic and leads: SEO audit, redirect plan, AODA upgrades, French version. From ${P.site}.`,
     keywords: [
       "website redesign services canada", "website redesign canada", "website redesign company canada", "redesign my website",
       "website redesign toronto", "website redesign vancouver", "website redesign ottawa", "website redesign calgary", "website redesign montreal",
@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "website redesign checklist", "website redesign seo audit", "redirect plan for website redesign", "aoda website redesign",
       "add french version to website", "bilingual website redesign", "website relaunch plan", "how long does a website redesign take",
       "outdated website redesign", "website refresh vs redesign", "website redesign for small business canada", "website redesign near me",
+      "hire website redesign services in Canada", "freelance website redesign services Canada",
     ],
   },
   hero: {
@@ -72,7 +73,7 @@ const content: FreelanceContent = {
       { name: "French version during the rebuild", note: "Page templates ready for two languages, French URLs and hreflang in place. Your translator supplies the French text.", href: "/canada/bilingual-website-development/", size: "md" },
       { name: "Lead capture rebuilt", note: "Forms, click-to-call, booking links and CRM connections tested end to end before launch.", size: "sm" },
       { name: "Platform change if needed", note: "WordPress, Shopify or a fast static build, chosen by what your team must edit.", href: "/canada/wordpress-website-design/", size: "sm" },
-      { name: "Post-launch monitoring", note: `Search Console and lead volume watched for weeks, then SEO from ${P.seo} a month if you want it.`, href: "/canada/technical-seo-services/", size: "sm" },
+      { name: "Post-launch monitoring", note: `Search Console and lead volume watched for weeks, then SEO from ${P.seo} if you want it.`, href: "/canada/technical-seo-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -320,7 +321,7 @@ const content: FreelanceContent = {
         ["Online store redesign", "Catalogue, checkout, tax and shipping", `From ${P.shop}`, "4–8 weeks"],
         ["Site with portal or custom tools", "Logins, dashboards, custom logic", `From ${P.software}`, "6–12 weeks"],
         ["AI assistant added to the new site", "Answers from your content, lead capture", `From ${P.ai}`, "2–4 weeks"],
-        ["Ongoing SEO after relaunch", "Monitoring, content, technical fixes", `From ${P.seo} a month`, "Ongoing"],
+        ["Ongoing SEO after relaunch", "Monitoring, content, technical fixes", `From ${P.seo}`, "Ongoing"],
       ],
     },
     {
@@ -408,7 +409,7 @@ const content: FreelanceContent = {
     { question: "What happens to our blog and old news posts?", answer: "They are assessed in the content inventory. Posts that bring traffic or links keep their URLs or get redirects, overlapping posts are merged into stronger ones, and outdated posts with no traffic are retired with a redirect to the most relevant page. Nothing valuable is deleted without a plan." },
     { question: "Does a redesign help with AI search results?", answer: "It can. AI search features tend to quote pages that answer questions clearly, so service pages with plain explanations, question headings, FAQs and accurate structured data give them better material. We build templates that make that kind of content easy to publish. No one can guarantee how any AI system cites a site." },
     { question: "What do you need from us to start a redesign?", answer: "Read-only access to Search Console and analytics, access to the current site or its hosting, your brand assets, a list of how leads reach you, the people who approve decisions, and any accessibility or French requirements. Photos and translated copy can come later, on dates we agree." },
-    { question: "What support is there after the relaunch?", answer: `Two months of free maintenance follow launch, covering fixes, small changes and post-launch monitoring. After that, maintenance starts at ${P.care} a month, and ongoing SEO from ${P.seo} a month if you want continued growth. Larger new features are quoted separately before any work starts.` },
+    { question: "What support is there after the relaunch?", answer: `Two months of free maintenance follow launch, covering fixes, small changes and post-launch monitoring. After that, maintenance starts at ${P.care}, and ongoing SEO from ${P.seo} if you want continued growth. Larger new features are quoted separately before any work starts.` },
   ],
   related: {
     heading: "More for Canadian company websites",

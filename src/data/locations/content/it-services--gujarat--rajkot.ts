@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 22.3039, lng: 70.8022 },
   meta: {
-    title: "Freelance Software Development in Rajkot: Apps & AI",
+    title: "Rajkot Software Developers: Apps & AI",
     description:
-      "Freelance software development in Rajkot: web apps, AI agents, dashboards and hosting. Software from ₹60,000, apps and automation from ₹40,000, quotes in 2 days.",
+      "Freelance software development in Rajkot: web apps, AI agents, dashboards and hosting. Software from ₹60,000, apps from ₹40,000, quotes in 2 days.",
     keywords: [
       "software development team in Rajkot",
       "IT services team in Rajkot",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "Metoda GIDC ERP developer",
       "Rajkot ma software banavva mate company",
       "રાજકોટ સોફ્ટવેર કંપની",
+      "Rajkot website designer",
+      "website cost in Rajkot",
+      "IT company in Rajkot",
+      "Gujarat SEO services",
+      "hire developer Rajkot",
+      "pumps software in Rajkot",
     ],
   },
   hero: {

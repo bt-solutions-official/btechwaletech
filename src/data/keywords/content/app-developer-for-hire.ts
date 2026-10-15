@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `App Developer for Hire: 6–10 Week MVP from ${P.app}`,
-    description: `App developer for hire in India: book an Android and iOS MVP from ${P.app}, a 6–10 week plan, and a clear list of what ships in version one.`,
+    description: `App developer for hire in India: book an Android and iOS MVP from ${P.app}, a 6–10 week plan and a clear list of what ships in version one. Quote in 2 days.`,
     keywords: [
       "app developer for hire", "app developer for hire in India", "app developer for hire near me", "freelance app developer for hire",
       "app developer for hire cost", "app developer for hire price", "best app developer for hire", "app developer chahiye",

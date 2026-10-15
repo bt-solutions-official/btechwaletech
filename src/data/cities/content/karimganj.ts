@@ -7,7 +7,7 @@ const karimganj: CityContent = {
   meta: {
     title: "IT Services in Sribhumi (Karimganj): Web, Apps & AI",
     description:
-      "Bengali and English websites, Android and iOS apps, local SEO and WhatsApp automation for Sribhumi (Karimganj) traders, border exporters, tea suppliers and clinics.",
+      "Sribhumi (Karimganj) Bengali and English websites, mobile apps, local SEO and WhatsApp bots for traders, border exporters and tea suppliers. ₹10,000 onwards.",
     keywords: [
       "IT services in Karimganj",
       "IT services in Sribhumi",
@@ -29,6 +29,10 @@ const karimganj: CityContent = {
       "Karimganj me website banwana",
       "Karimganje website banano",
       "করিমগঞ্জ ওয়েবসাইট ডিজাইন",
+      "Sribhumi website designer",
+      "website cost in Sribhumi",
+      "web development company Sribhumi",
+      "hire freelance developer Sribhumi",
     ],
   },
   hero: {

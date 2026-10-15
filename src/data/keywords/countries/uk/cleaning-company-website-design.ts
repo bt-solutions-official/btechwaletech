@@ -47,7 +47,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "What should cleaning company website design include in the UK?",
     text: `Cleaning company website design should include an instant quote calculator, online booking for one-off and recurring cleans, a way to take payment by saved card or Direct Debit, a separate enquiry form for commercial contracts, a cleaner recruitment page and a page for each town you serve. BtechWaleTech builds cleaning sites from ${P.site} and booking-with-payments builds from ${P.shop}.`,
-    more: `Taking payments online? See <a href='/uk/payment-gateway-integration/'>payment gateway integration</a>. For software you own outright, read <a href='/uk/bespoke-software-development/'>bespoke software development</a>.`,
+    more: `Taking payments online? See <a href='/uk/ecommerce-website-design/'>ecommerce website design</a>. For software you own outright, read <a href='/uk/bespoke-software-development/'>bespoke software development</a>.`,
   },
   snapshot: {
     caption: "Cleaning company website design at a glance",
@@ -285,7 +285,7 @@ const content: FreelanceContent = {
       id: "payment-options",
       eyebrow: "Getting paid",
       heading: "Saved card, Direct Debit or invoice: which suits which customer",
-      note: `Provider fees are charged by your chosen provider. See <a href='/uk/payment-gateway-integration/'>payment gateway integration</a> for set-up.`,
+      note: `Provider fees are charged by your chosen provider. See <a href='/uk/ecommerce-website-design/'>ecommerce website design</a> for checkout set-up.`,
       columns: ["Method", "Best for", "How it works", "Watch out for"],
       rows: [
         ["Saved card", "Domestic regulars with varying visits", "Card saved at booking, charged after each clean", "Expired cards; set up failed-payment alerts"],
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
     links: [
       { name: "UK hub", href: "/uk/" },
       { name: "Booking system development", href: "/uk/booking-system-development/" },
-      { name: "Payment gateway integration", href: "/uk/payment-gateway-integration/" },
+      { name: "Ecommerce website design UK", href: "/uk/ecommerce-website-design/" },
       { name: "Roofing website design", href: "/uk/roofing-website-design/" },
       { name: "Plumber website design", href: "/uk/plumber-website-design/" },
       { name: "Small business website design UK", href: "/uk/small-business-website-design/" },

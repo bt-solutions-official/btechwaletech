@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-27",
   meta: {
     title: `Employee Attendance App in Bhiwadi from ${P.app}`,
-    description: `Employee attendance app in Bhiwadi for factories and sites: geofence and selfie punches, shifts, payroll export, from ${P.app}. We meet you one to one at your unit.`,
+    description: `Employee attendance app in Bhiwadi for factories and sites: geofence and selfie punches, shifts and payroll export, from ${P.app}. We meet you at your unit.`,
     keywords: [
       "employee attendance app in Bhiwadi", "employee attendance app near me", "employee attendance app in Bhiwadi Rajasthan",
       "attendance app for factory Bhiwadi Alwar", "geofence attendance app Bhiwadi", "selfie attendance app for workers",

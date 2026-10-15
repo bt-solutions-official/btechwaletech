@@ -7,7 +7,7 @@ const tuensang: CityContent = {
   meta: {
     title: "IT Services in Tuensang: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Tuensang weavers, schools, churches, clinics, homestays and shops. Starting prices.",
+      "Websites, apps, Google Maps SEO and WhatsApp automation for Tuensang weavers, schools, churches, clinics, homestays and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Tuensang",
       "IT services team in Tuensang",
@@ -29,6 +29,12 @@ const tuensang: CityContent = {
       "homestay website Tuensang",
       "school app Tuensang district",
       "Tuensang me website banwana",
+      "Tuensang website designer",
+      "web development company Tuensang",
+      "hire freelance web developer Tuensang",
+      "Eastern Nagaland SEO services",
+      "website designer Eastern Nagaland",
+      "Nagaland SEO services",
     ],
   },
   hero: {

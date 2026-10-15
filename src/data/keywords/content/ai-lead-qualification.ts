@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "real estate lead qualification ai", "ai lead qualification for coaching institutes", "ai sdr India", "lead qualification automation freelancer",
       "ai lead qualification Mumbai", "ai lead qualification Bengaluru", "ai lead qualification Delhi", "leads ko qualify kaise kare",
       "ai lead qualification near me",
+      "ai lead qualification company in India",
+      "best ai lead qualification in India",
+      "ai lead qualification services",
     ],
   },
   hero: {
@@ -341,7 +344,7 @@ const content: FreelanceContent = {
         ["Multi-source intake", "Website, WhatsApp, IndiaMART, portals and Meta lead ads into one scorer", `From ${P.ai}, quoted by source count`, "3–4 weeks"],
         ["New lead pipeline", "Custom CRM or portal with scoring built in", `From ${P.software} (${P.softwareUsd})`, "6–12 weeks"],
         ["Website plus qualification", "Lead-focused website, then scoring on its forms", `Website from ${P.site}, AI from ${P.ai}`, "3–6 weeks"],
-        ["Ongoing tuning", "Rubric reviews, new sources, reports after free period", `From ${P.care} a month`, "Monthly"],
+        ["Ongoing tuning", "Rubric reviews, new sources, reports after free period", `From ${P.care}`, "Monthly"],
       ],
     },
     {

@@ -7,7 +7,7 @@ const mandya: CityContent = {
   meta: {
     title: "Mandya Web Design and Local SEO | From ₹10,000",
     description:
-      "Websites, Kannada SEO, jaggery and produce stores and WhatsApp tools for Mandya sugar and jaggery units, rice mills, colleges, clinics and highway businesses.",
+      "Websites, Kannada SEO and jaggery and produce stores for Mandya sugar and jaggery units, rice mills, colleges, clinics and highway businesses. From ₹10,000.",
     keywords: [
       "website development team in Mandya",
       "web designer Mandya",
@@ -25,6 +25,16 @@ const mandya: CityContent = {
       "website maintenance Mandya",
       "Google Maps listing Mandya",
       "ಮಂಡ್ಯ ವೆಬ್‌ಸೈಟ್ ತಯಾರಿಕೆ",
+      "Mandya website designer",
+      "web development company Mandya",
+      "hire freelance web developer Mandya",
+      "Karnataka SEO services",
+      "Mandya jaggery website",
+      "jaggery website design Mandya",
+      "website design V V Nagar Mandya",
+      "website design Subhash Nagar Mandya",
+      "website design Ashok Nagar Mandya",
+      "website design Chamundeshwari Nagar Mandya",
     ],
   },
   hero: {

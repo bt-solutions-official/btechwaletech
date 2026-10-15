@@ -7,7 +7,7 @@ const chennai: CityContent = {
   meta: {
     title: "IT Services in Chennai: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, online stores and AI automation for Chennai businesses. Sites from ₹10,000, SEO sites from ₹20,000, with two months of free maintenance.",
+      "Chennai websites, local SEO, online stores and AI automation for businesses. Sites from ₹10,000, SEO sites from ₹20,000, with two months of free maintenance.",
     keywords: [
       "website development team in Chennai",
       "web design team Chennai",
@@ -25,6 +25,14 @@ const chennai: CityContent = {
       "website maintenance Chennai",
       "Chennai la website panna evlo aagum",
       "சென்னை வெப்சைட் டிசைன்",
+      "Chennai website designer",
+      "web development company Chennai",
+      "hire freelance developer Chennai",
+      "Tamil Nadu SEO",
+      "website for auto components in Chennai",
+      "web designer in Guindy, Chennai",
+      "website for electronics manufacturing in Chennai",
+      "mobile app developer in Chennai",
     ],
   },
   hero: {

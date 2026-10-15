@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 24.2242, lng: 92.6787 },
   meta: {
-    title: "Freelance IT Solutions & Software in Kolasib",
+    title: "Kolasib IT Services: Transport, Wholesale & Logistics",
     description:
-      "Freelance IT solutions for Kolasib, Vairengte and Bairabi: lead forms, enquiry automation, logistics software, Android and iOS apps, SEO and support. From ₹10,000.",
+      "Freelance IT solutions for Kolasib, Vairengte and Bairabi: lead forms, enquiry automation, logistics software, plus Android and iOS apps. From ₹10,000.",
     keywords: [
       "IT solutions Kolasib",
       "software development team in Kolasib",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "school software Kolasib",
       "Kolasib-ah website siamtu",
       "Kolasib mein IT solutions",
+      "Kolasib website designer",
+      "website cost in Kolasib",
+      "IT company in Kolasib",
+      "Mizoram SEO services",
+      "hire developer Kolasib",
+      "transport software in Kolasib",
+      "wholesale software in Kolasib",
+      "highway software in Kolasib",
+      "workshops software in Kolasib",
+      "website developer Diakkawn Kolasib",
     ],
   },
   hero: {

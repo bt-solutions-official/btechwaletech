@@ -164,7 +164,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does real estate website design in Surat cost?",
       paragraphs: [
-        `A builder or broker website in Surat starts at ${P.site} (about ${P.siteUsd}) for up to 100 pages, which comfortably covers a builder with several projects. A property portal with hundreds of listing, locality and budget pages starts at ${P.seoSite}. A custom sales CRM with tower-wise inventory and follow-ups starts at ${P.software}. Ongoing search work starts at ${P.seo} a month.`,
+        `A builder or broker website in Surat starts at ${P.site} (about ${P.siteUsd}) for up to 100 pages, which comfortably covers a builder with several projects. A property portal with hundreds of listing, locality and budget pages starts at ${P.seoSite}. A custom sales CRM with tower-wise inventory and follow-ups starts at ${P.software}. Ongoing search work starts at ${P.seo}.`,
         `Within those ranges, the cost follows content and logic. Each project page with plans, unit types, progress galleries and walkthrough video takes more work than a simple listing. Lead routing into a CRM, call tracking or ad conversion tracking adds lines. Gujarati or Hindi versions add layout and checking time. If we draft project copy from your brochure, that is priced separately from the build.`,
         `What does not change the price is the RERA block; it is part of every project template. Domain, hosting and email are paid by you to the providers directly, and ad spend is always yours to control.`,
         `For a wider view of Surat project pricing, see website development cost in Surat; for India-wide context, <a href='/real-estate-website-developer/'>real estate website developer</a> explains common scopes.`,
@@ -239,7 +239,7 @@ const content: FreelanceContent = {
         `A well-built project site can be found for its own name almost immediately and, over time, for specific locality searches, but nobody can guarantee rankings for broad phrases dominated by large portals.`,
         `Buyers search the project name, the builder name, and phrases like “3 BHK in Vesu under construction” or “new projects near Dumas Road”. A page per project, locality pages that describe areas honestly, clear titles, schema for the organisation and each project, and a sitemap submitted to Google Search Console give those searches somewhere exact to land. Your site office should have a Google Business Profile with the same name, address and phone as the site; Google's <a href='https://support.google.com/business/' rel='noopener'>Business Profile help</a> explains verification.`,
         `AI assistants are increasingly asked “which projects in Pal are RERA registered?” or “what is the carpet area of 2 BHK flats in project X?”. They quote pages that state facts plainly and consistently. Clear spec tables, a visible RERA number and an honest FAQ on each project page make your site the source they cite.`,
-        `Speed matters for both: compressed renders, light scripts and fast hosting. Ongoing search work starts at ${P.seo} a month; India-wide advice is on <a href='/real-estate-seo-services/'>real estate SEO services</a>.`,
+        `Speed matters for both: compressed renders, light scripts and fast hosting. Ongoing search work starts at ${P.seo}; India-wide advice is on <a href='/real-estate-seo-services/'>real estate SEO services</a>.`,
       ],
     },
     {
@@ -381,6 +381,7 @@ const content: FreelanceContent = {
     heading: "More real estate and Surat guides",
     links: [
       { name: "Gujarat website services", href: "/gujarat/" },
+      { name: "Real estate website in Rajkot", href: "/gujarat/real-estate-website-rajkot/" },
       { name: "Coaching institute website in Surat", href: "/gujarat/coaching-institute-website-surat/" },
       { name: "Real estate website in Vadodara", href: "/gujarat/real-estate-website-vadodara/" },
       { name: "Diamond company website in Surat", href: "/gujarat/diamond-company-website-surat/" },

@@ -7,7 +7,7 @@ const bargarh: CityContent = {
   meta: {
     title: "IT Services in Bargarh | Web, Apps & AI from ₹10,000",
     description:
-      "Odia and English websites, Android and iOS apps, local SEO and WhatsApp automation for Bargarh rice mills, Sambalpuri weavers, traders, clinics and colleges.",
+      "Bargarh Odia and English websites, Android and iOS apps, local SEO and WhatsApp automation for rice mills, Sambalpuri weavers, traders, clinics and colleges.",
     keywords: [
       "IT services in Bargarh",
       "IT services team in Bargarh",
@@ -29,6 +29,10 @@ const bargarh: CityContent = {
       "Bargarh me website banwana",
       "Bargarh re website tiari",
       "ବରଗଡ଼ ୱେବସାଇଟ ଡିଜାଇନ",
+      "Bargarh website designer",
+      "web development company Bargarh",
+      "hire freelance developer Bargarh",
+      "western Odisha SEO",
     ],
   },
   hero: {

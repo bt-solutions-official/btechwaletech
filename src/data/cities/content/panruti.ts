@@ -7,7 +7,7 @@ const panruti: CityContent = {
   meta: {
     title: "IT Services in Panruti | Web, Apps & AI from ₹10,000",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Panruti jackfruit traders, cashew processors, shops, clinics and schools.",
+      "Tamil websites, apps, local SEO and WhatsApp automation for Panruti jackfruit traders, cashew processors, shops, clinics and schools. Websites from ₹10,000.",
     keywords: [
       "IT services in Panruti",
       "IT services team in Panruti",
@@ -29,6 +29,12 @@ const panruti: CityContent = {
       "Panruti website seiya",
       "பண்ருட்டி இணையதளம் வடிவமைப்பு",
       "Neyveli Panruti web designer",
+      "Panruti website designer",
+      "web development company Panruti",
+      "hire freelance web developer Panruti",
+      "Cuddalore district SEO",
+      "website designer Cuddalore district",
+      "Tamil Nadu SEO services",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const newDelhi: CityContent = {
   meta: {
     title: "IT Services in New Delhi: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and automation for New Delhi NGOs, consultancies, hotels and Connaught Place or Khan Market businesses. From ₹10,000, with every login in your name.",
+      "Websites, SEO and automation for New Delhi NGOs, consultancies, hotels and Connaught Place or Khan Market businesses. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "website development team New Delhi",
       "web design Connaught Place",
@@ -25,6 +25,16 @@ const newDelhi: CityContent = {
       "website maintenance New Delhi",
       "CP me website designer",
       "नई दिल्ली वेबसाइट डेवलपमेंट",
+      "New Delhi website designer",
+      "website cost in New Delhi",
+      "web development company New Delhi",
+      "hire freelance web developer New Delhi",
+      "NDMC area SEO services",
+      "website designer NDMC area",
+      "Delhi SEO services",
+      "New Delhi me website kaise banwaye",
+      "New Delhi website banwane ka kharcha",
+      "New Delhi hotels website",
     ],
   },
   hero: {

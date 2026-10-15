@@ -7,7 +7,7 @@ const bobbili: CityContent = {
   meta: {
     title: "IT Services in Bobbili | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Bobbili veena makers, growth centre suppliers, rice and mango traders, and clinics.",
+      "Bobbili Telugu websites, Android and iOS apps, local SEO and WhatsApp bots for veena makers and growth centre suppliers. From ₹10,000, two months free upkeep.",
     keywords: [
       "IT services in Bobbili",
       "IT services team in Bobbili",
@@ -28,6 +28,11 @@ const bobbili: CityContent = {
       "Bobbili me website banwana",
       "Bobbili lo website cheyinchali",
       "బొబ్బిలి వెబ్‌సైట్ డిజైన్",
+      "Bobbili website designer",
+      "web development company Bobbili",
+      "hire freelance developer Bobbili",
+      "Andhra Pradesh SEO",
+      "website for bobbili veena makers in Bobbili",
     ],
   },
   hero: {

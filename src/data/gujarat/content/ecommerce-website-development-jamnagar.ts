@@ -256,7 +256,7 @@ const content: FreelanceContent = {
         `It can, if product and category pages are built for search from day one. Nobody can promise a ranking, so plan WhatsApp, Instagram and dealer outreach alongside.`,
         `For trade stores, the opportunity is long specific searches: part type, size and material. Each product gets a unique title, a spec table in plain HTML, clean URLs, compressed photos with alt text and product schema with price and availability. Category pages get a short, useful introduction instead of a wall of keywords. For bandhani, search is driven by colour, fabric and occasion, so collections are named that way.`,
         `At launch we submit sitemaps to Google Search Console and, where you want shopping visibility, connect products to Google Merchant Center. If you have a shop or unit in Jamnagar, your Google Business Profile should link to the store and show the same name, address and phone as the site.`,
-        `AI assistants and Google's AI Overviews tend to quote clear, factual answers, such as a size chart or a care note, so a short FAQ on key products helps there too. Ongoing work is optional through <a href='/services/seo-services/'>SEO services</a> from ${P.seo} a month, and store-specific tactics are on <a href='/ecommerce-seo-freelancer/'>ecommerce SEO</a>.`,
+        `AI assistants and Google's AI Overviews tend to quote clear, factual answers, such as a size chart or a care note, so a short FAQ on key products helps there too. Ongoing work is optional through <a href='/services/seo-services/'>SEO services</a> from ${P.seo}, and store-specific tactics are on <a href='/ecommerce-seo-freelancer/'>ecommerce SEO</a>.`,
       ],
     },
     {

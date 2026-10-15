@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Website Redesign Services: SEO-safe, from ${P.site}`,
-    description: `Website redesign services for Australian businesses: URL mapping, 301 redirects, Core Web Vitals, WCAG 2.2 AA and Search Console checks. Redesigns from ${P.site}.`,
+    description: `Website redesign services for Australian businesses: URL mapping, 301 redirects, Core Web Vitals, WCAG 2.2 AA and Search Console checks. From ${P.site}.`,
     keywords: [
       "website redesign services", "website redesign services australia", "website redesign australia", "redesign website without losing seo",
       "website redesign seo checklist", "will a website redesign affect seo", "how much does a website redesign cost",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "shopify store redesign", "website redesign company alternative", "website redesign sydney", "website redesign melbourne",
       "website redesign brisbane", "website redesign perth", "wcag 2.2 redesign", "core web vitals redesign",
       "search console after redesign", "when to redesign a website", "website redesign for small business",
+      "hire website redesign services in Australia", "freelance website redesign services Australia",
     ],
   },
   hero: {

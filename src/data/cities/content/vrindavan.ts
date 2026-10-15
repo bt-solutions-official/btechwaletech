@@ -7,7 +7,7 @@ const vrindavan: CityContent = {
   meta: {
     title: "IT Services in Vrindavan | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Vrindavan guest houses, poshak makers, ashrams, tour operators and shops.",
+      "Hindi and English websites, apps and SEO for Vrindavan guest houses, poshak makers, ashrams, tour operators and shops. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "IT services in Vrindavan",
       "IT services team in Vrindavan",
@@ -29,6 +29,12 @@ const vrindavan: CityContent = {
       "Vrindavan me website banwana",
       "Vrindavan me app banwana",
       "वृंदावन वेबसाइट डिज़ाइन",
+      "Vrindavan website designer",
+      "web development company Vrindavan",
+      "hire freelance web developer Vrindavan",
+      "Mathura district SEO",
+      "website designer Mathura district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

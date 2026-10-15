@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Intelligent Document Processing from ${P.ai}`,
-    description: `Intelligent document processing for forms, contracts, claims, KYC files and challans: classify, extract and review, from ${P.ai}. Platform vs custom explained.`,
+    description: `Intelligent document processing for forms, contracts, claims, KYC files and challans: classify, extract and review, from ${P.ai}. Platform vs custom inside.`,
     keywords: [
       "intelligent document processing", "intelligent document processing India", "IDP solution", "IDP software development",
       "what is intelligent document processing", "intelligent document processing cost", "intelligent document processing price",
@@ -24,6 +24,9 @@ const content: FreelanceContent = {
       "IDP platform vs custom", "intelligent document processing for NBFC", "intelligent document processing for logistics",
       "intelligent document processing Mumbai", "intelligent document processing Bangalore", "document automation developer",
       "documents se data nikalne ka software", "how does intelligent document processing work",
+      "intelligent document processing company in India",
+      "best intelligent document processing in India",
+      "intelligent document processing services",
     ],
   },
   hero: {
@@ -414,7 +417,7 @@ const content: FreelanceContent = {
     { question: "Who owns the IDP code and prompts?", answer: "You do. Code, prompts, rule files, test sets and infrastructure scripts live in your repository and cloud account from the start. If you later move to another developer or bring the work in-house, everything they need is already in your hands." },
     { question: "How do payments and contracts work?", answer: "You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing. Payments in India are by UPI or bank transfer; international clients pay in USD by Wise, bank wire or PayPal. Confidentiality and other terms are set out in your written quote; see our terms page for the general conditions." },
     { question: "Can documents arrive on WhatsApp?", answer: "Yes. A WhatsApp Business Platform number can receive photos and PDFs from drivers, agents or customers and feed them into the same queue as email and uploads. The pipeline can reply automatically when a photo is too blurred, so the sender retakes it immediately rather than days later." },
-    { question: "What ongoing costs should we expect after launch?", answer: `Two kinds. Cloud usage for OCR, model calls and storage is billed by the provider to your account and grows with volume. Maintenance for rule changes, model updates and monitoring is free for two months after launch and then starts at ${P.care} per month if you want us to keep looking after it.` },
+    { question: "What ongoing costs should we expect after launch?", answer: `Two kinds. Cloud usage for OCR, model calls and storage is billed by the provider to your account and grows with volume. Maintenance for rule changes, model updates and monitoring is free for two months after launch and then starts at ${P.care} if you want us to keep looking after it.` },
     { question: "Documents se data automatically nikalna possible hai kya?", answer: "Haan, bilkul possible hai. Intelligent document processing mein software pehle document ka type pehchanta hai, phir OCR aur AI model se zaroori fields nikalta hai, rules se check karta hai aur doubt wale cases aapki team ko review ke liye bhejta hai. Ek document type ke liye kaam 2–4 hafton mein live ho jaata hai, aur quote lagbhag do working days mein milta hai." },
   ],
   related: {

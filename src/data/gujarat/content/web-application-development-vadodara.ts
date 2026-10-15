@@ -252,7 +252,7 @@ const content: FreelanceContent = {
         `The logged-in part of your app should not be found by search engines, and we make sure it is not. What should be found is the public side: your website, product pages and the login page that tells a dealer they are in the right place.`,
         `For a Vadodara firm, that means a fast public site with clear titles, structured data describing your organisation, and a Google Business Profile that matches your name, address and phone exactly. If you serve buyers across Gujarat or abroad, product and application pages written around what they search for do more than any app feature.`,
         `AI assistants such as ChatGPT, Gemini and Google's AI Overviews answer questions by reading public pages. Short, factual descriptions of what you make, where you supply and how buyers reach you give them something accurate to quote. Your portal's existence can be part of that story: “dealers can track orders online” is a reason to choose you.`,
-        `Nobody can promise a ranking or an AI mention, and you should be wary of anyone who does. We can promise clean technical foundations, from sitemaps to page speed, and an honest explanation of what moves results. Ongoing work is available from ${P.seo} a month if you want it.`,
+        `Nobody can promise a ranking or an AI mention, and you should be wary of anyone who does. We can promise clean technical foundations, from sitemaps to page speed, and an honest explanation of what moves results. Ongoing work is available from ${P.seo} if you want it.`,
       ],
     },
     {

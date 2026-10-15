@@ -7,7 +7,7 @@ const lakhimpur: CityContent = {
   meta: {
     title: "Lakhimpur Kheri Website Design & SEO | From ₹10,000",
     description:
-      "Hindi and English websites, local SEO, stores and WhatsApp automation for Lakhimpur Kheri sugar-belt traders, Dudhwa resorts, schools and clinics. From ₹10,000.",
+      "Lakhimpur Kheri Hindi and English websites, local SEO, stores and WhatsApp bots for sugar-belt traders, Dudhwa resorts, schools and clinics. From ₹10,000.",
     keywords: [
       "website development team in Lakhimpur",
       "web designer Lakhimpur Kheri",
@@ -25,6 +25,14 @@ const lakhimpur: CityContent = {
       "ecommerce website Lakhimpur",
       "Lakhimpur me website kaise banwaye",
       "website maintenance Lakhimpur",
+      "Lakhimpur Kheri website designer",
+      "website cost in Lakhimpur Kheri",
+      "web development company Lakhimpur Kheri",
+      "hire freelance developer Lakhimpur Kheri",
+      "Uttar Pradesh SEO",
+      "Lakhimpur Kheri me website kaise banwaye",
+      "website for sugar mill suppliers and contractors in Lakhimpur Kheri",
+      "web designer in Mela Road, Lakhimpur Kheri",
     ],
   },
   hero: {

@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "how much does a xero integration cost", "hire xero developer", "xero consultant developer",
       "xero app store alternative", "xero integration auckland", "xero integration wellington",
       "xero integration christchurch", "xero bills automation", "xero webhooks developer", "xero api new zealand",
+      "freelance xero integration developer New Zealand",
     ],
   },
   hero: {

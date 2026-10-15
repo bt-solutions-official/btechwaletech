@@ -7,7 +7,7 @@ const bagaha: CityContent = {
   meta: {
     title: "Bagaha Website Design & SEO | From ₹10,000",
     description:
-      "Websites, Hindi SEO, safari and eco-stay pages, trader catalogues and WhatsApp automation for Bagaha shops, sugarcane and banana traders, clinics and schools.",
+      "Bagaha websites, Hindi SEO, safari and eco-stay pages, trader catalogues and WhatsApp automation for shops, sugarcane and banana traders, clinics and schools.",
     keywords: [
       "website development team in Bagaha",
       "web designer Bagaha",
@@ -25,6 +25,14 @@ const bagaha: CityContent = {
       "website maintenance Bagaha",
       "Google Maps listing Bagaha",
       "बगहा वेबसाइट बनवाना",
+      "Bagaha website designer",
+      "website cost in Bagaha",
+      "web development company Bagaha",
+      "hire freelance developer Bagaha",
+      "Bihar SEO",
+      "Bagaha me website kaise banwaye",
+      "website for sugarcane and grain traders in Bagaha",
+      "web designer in Chautarwa, Bagaha",
     ],
   },
   hero: {

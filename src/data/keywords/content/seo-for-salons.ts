@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `SEO for Salons: More Local Bookings from ${P.seo}`,
-    description: `SEO for salons and beauty parlours from ${P.seo}/month: Google Business Profile booking, service-plus-locality pages, bridal keywords and honest review growth.`,
+    description: `SEO for salons and beauty parlours from ${P.seo}: Google Business Profile booking, service-plus-locality pages, bridal keywords, honest review growth.`,
     keywords: [
       "seo for salons", "salon seo", "seo for beauty salons", "seo for beauty parlour", "salon seo services",
       "local seo for salons", "hair salon seo", "salon seo India", "how to get more salon bookings from Google",
@@ -23,12 +23,14 @@ const content: FreelanceContent = {
       "salon seo cost", "salon seo price in India", "salon marketing on Google", "google reviews for salon",
       "instagram vs website for salon", "salon seo Pune", "salon seo Bangalore", "salon seo Delhi",
       "parlour ko Google par kaise laaye", "seo for salons near me", "beauty parlour google ranking",
+      "SEO for salons cost", "SEO for salons price", "SEO for salons services", "SEO for salons packages",
+      "best SEO for salons in India", "SEO for salons agency",
     ],
   },
   hero: {
     eyebrow: "SEO for salons · beauty parlours, unisex salons, nail and bridal studios",
     h1: "SEO for salons that turns “near me” searches into booked chairs",
-    lede: `SEO for salons is the work of making your parlour the one Google shows when someone nearby types “keratin treatment near me” or “bridal makeup in Kothrud” and is ready to book. BtechWaleTech is three freelance developers in India who set up your Google Business Profile booking, build service-plus-locality pages, plan bridal and festival keywords and grow reviews within Google’s rules. <a href='/local-seo-expert/'>Local SEO</a> starts at ${P.seo} a month, and nobody can honestly promise you the top spot.`,
+    lede: `SEO for salons is the work of making your parlour the one Google shows when someone nearby types “keratin treatment near me” or “bridal makeup in Kothrud” and is ready to book. BtechWaleTech is three freelance developers in India who set up your Google Business Profile booking, build service-plus-locality pages, plan bridal and festival keywords and grow reviews within Google’s rules. <a href='/local-seo-expert/'>Local SEO</a> starts at ${P.seo}, and nobody can honestly promise you the top spot.`,
     pills: ["Google Business Profile booking", "Service + locality pages", "Bridal season keywords", "Review growth by the rules", "Instagram linked to Google", "WhatsApp enquiries", "Hindi and English pages"],
     origin: "Three freelance developers in India · salon SEO handled by another of us · WhatsApp replies 7 days a week",
   },
@@ -48,7 +50,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How does SEO for salons bring in bookings?",
-    text: `SEO for salons gets your parlour shown when nearby people search for a service, then makes booking easy. It combines a complete Google Business Profile with a Book button, one page per service and locality, bridal and festival pages published early, steady honest reviews and fast mobile pages with WhatsApp. BtechWaleTech runs it from ${P.seo} a month; a new site starts at ${P.site}.`,
+    text: `SEO for salons gets your parlour shown when nearby people search for a service, then makes booking easy. It combines a complete Google Business Profile with a Book button, one page per service and locality, bridal and festival pages published early, steady honest reviews and fast mobile pages with WhatsApp. BtechWaleTech runs it from ${P.seo}; a new site starts at ${P.site}.`,
     more: `If you still need the website itself, see <a href='/salon-website-design/'>salon website design</a>; for the booking back office, read about <a href='/salon-management-software/'>salon management software</a>.`,
   },
   snapshot: {
@@ -90,7 +92,7 @@ const content: FreelanceContent = {
       ["Bridal enquiries from Google", "Rare", "Some, mixed with rivals", "Dedicated bridal pages built for those searches"],
       ["Reviews", "Comments only", "Reviews stay inside the app", "Google reviews on your own profile"],
       ["Effort from you", "Daily posting", "Keeping slots updated", "Photos, approvals and answering enquiries"],
-      ["Starting cost", "Free, plus your time", "Commission or subscription, varies", `From ${P.seo} a month`],
+      ["Starting cost", "Free, plus your time", "Commission or subscription, varies", `From ${P.seo}`],
     ],
     fine: "If your salon is fully booked through repeat clients and Instagram already, you may not need paid SEO at all; start with a free profile clean-up and see whether the calls grow.",
   },
@@ -213,7 +215,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does SEO for salons cost in India?",
       paragraphs: [
-        `With BtechWaleTech, SEO for salons starts at ${P.seo} a month, and a new website, if you need one, starts at ${P.site}. Quotes from others vary widely, so compare what is actually done each month rather than the headline number.`,
+        `With BtechWaleTech, SEO for salons starts at ${P.seo}, and a new website, if you need one, starts at ${P.site}. Quotes from others vary widely, so compare what is actually done each month rather than the headline number.`,
         `The price of salon SEO moves with a few honest drivers. Branch count is the biggest: each staffed location needs its own profile, photos, reviews and locality pages. The number of service families matters next, because a full-service unisex salon with hair, skin, nails, makeup and grooming needs more pages than a nail-only studio. The state of your existing site matters too; a slow template site with no editable pages may cost more to fix than to replace. Finally, bridal work adds seasonal pages and galleries that need planning.`,
         `Things that should not raise your price: “premium” packages that add fake reviews or bulk directory submissions. Those are risks, not features. Our <a href='/local-seo-packages-india/'>local SEO packages</a> page shows how monthly scope is usually structured if you want to compare line by line.`,
       ],
@@ -335,8 +337,8 @@ const content: FreelanceContent = {
       note: "All figures are starting prices. The written quote itemises what your salon needs and nothing is billed before you approve it.",
       columns: ["Salon situation", "What is included", "Starts at", "Typical timeline"],
       rows: [
-        ["Single salon, site already fine", "Profile clean-up, reviews routine, pages each month", `${P.seo} a month`, "Ongoing, reviewed monthly"],
-        ["Single salon, no usable site", "Static site up to 100 pages plus monthly SEO", `${P.site} + ${P.seo}/month`, "1–2 weeks to launch"],
+        ["Single salon, site already fine", "Profile clean-up, reviews routine, pages each month", `${P.seo}`, "Ongoing, reviewed monthly"],
+        ["Single salon, no usable site", "Static site up to 100 pages plus monthly SEO", `${P.site} + ${P.seo}`, "1–2 weeks to launch"],
         ["Multi-branch salon group", "Location pages, service-plus-locality pages at scale", `${P.seoSite}`, "3–5 weeks to launch"],
         ["WhatsApp booking automation", "Confirmations, reminders, review requests", `${P.ai}`, "2–4 weeks"],
         ["Salon booking app", "Android and iOS app with slots and profiles", `${P.app}`, "6–10 weeks"],

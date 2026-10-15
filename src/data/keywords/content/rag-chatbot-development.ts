@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "rag evaluation", "knowledge base chatbot", "internal knowledge chatbot for employees", "pdf chatbot development",
       "rag chatbot developer india", "rag chatbot for customer support", "rag vs fine tuning", "hindi rag chatbot",
       "rag chatbot developer near me", "rag chatbot bangalore",
+      "RAG chatbot development price", "RAG chatbot development company", "best RAG chatbot development in India", "RAG chatbot development cost in India",
+      "RAG chatbot development near me",
     ],
   },
   hero: {

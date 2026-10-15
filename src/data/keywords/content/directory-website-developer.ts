@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "listing website developer", "niche directory website", "B2B supplier directory website", "vendor directory portal",
       "directory website with paid listings", "directory website SEO", "custom directory website vs plugin", "yellow pages style website",
       "city guide website developer", "classified listing website developer",
+      "hire directory website developer",
+      "freelance directory website developer",
     ],
   },
   hero: {

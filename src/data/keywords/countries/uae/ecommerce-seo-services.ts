@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "white friday seo", "dubai shopping festival ecommerce", "faceted navigation seo ecommerce",
       "ecommerce seo cost dubai", "ecommerce seo abu dhabi", "ecommerce seo sharjah",
       "how long does ecommerce seo take", "ecommerce seo consultant uae", "ecommerce seo for small stores",
+      "hire ecommerce seo services in the UAE", "freelance ecommerce seo services UAE",
     ],
   },
   hero: {

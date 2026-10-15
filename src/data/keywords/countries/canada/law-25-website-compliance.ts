@@ -15,7 +15,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Law 25 Website Compliance: Consent Setup from ${P.site}`,
-    description: `Law 25 website compliance for Quebec: opt-in cookie consent, consent logs, privacy officer details and a vendor PIA checklist. Builds from ${P.site}, quoted in USD.`,
+    description: `Law 25 website compliance for Quebec: opt-in cookie consent, consent logs, privacy officer details and a vendor PIA checklist. Builds from ${P.site}.`,
     keywords: [
       "law 25 website compliance", "quebec law 25 website", "law 25 cookie consent", "law 25 cookie banner", "bill 64 website compliance",
       "law 25 consent management platform", "law 25 privacy policy website", "law 25 privacy officer contact website",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "law 25 privacy impact assessment vendor", "law 25 compliance checklist website", "law 25 website cost", "law 25 shopify",
       "law 25 wordpress cookie plugin", "quebec privacy law website requirements", "law 25 montreal website", "law 25 quebec city website",
       "law 25 laval business website", "law 25 gatineau website", "law 25 fines", "law 25 website developer", "law 25 data outside quebec",
+      "hire law 25 website compliance in Canada", "freelance law 25 website compliance Canada", "law 25 website compliance Toronto",
+      "law 25 website compliance Vancouver", "law 25 website compliance Canada",
     ],
   },
   hero: {

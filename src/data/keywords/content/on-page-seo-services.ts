@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "On-page SEO services",
   updated: "2026-09-25",
   meta: {
-    title: "On-Page SEO Services: Per-Page Work, Measured in GSC",
-    description: `On-page SEO services for existing sites: titles rewritten for clicks, headings, links and images fixed, tracked in Search Console. From ${P.seo}/month.`,
+    title: `On-Page SEO Services: Per-Page Work from ${P.seo}`,
+    description: `On-page SEO services for existing sites: titles rewritten for clicks, headings, links and images fixed, tracked in Search Console. From ${P.seo}.`,
     keywords: [
       "on-page seo services", "on page seo services India", "on-page seo optimization services", "on page seo service price",
       "on-page seo cost per page", "on page optimization services", "on-page seo for existing website", "what is included in on-page seo",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "on-page seo for ecommerce", "on-page seo checklist", "how to measure on-page seo", "on page seo Delhi",
       "on page seo Hyderabad", "on page seo Chennai", "on-page seo vs technical seo", "on page seo kaise kare",
       "page optimisation for google", "improve click through rate seo",
+      "On-page SEO services cost", "On-page SEO services price", "On-page SEO services company", "best On-page SEO services in India",
+      "On-page SEO services cost in India", "On-page SEO services near me",
     ],
   },
   hero: {

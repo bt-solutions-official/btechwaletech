@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Nadiad · Sites from ${P.site}`,
-    description: `Website developer in Nadiad for manufacturers, clinics, CAs, coaching classes and shops in Kheda. Sites from ${P.site}, SEO websites, Gujarati pages, quote in 2 days.`,
+    description: `Website developer in Nadiad for manufacturers, clinics, CAs, coaching classes and shops in Kheda. Sites from ${P.site}, Gujarati pages, quote in 2 days.`,
     keywords: [
       "website developer in Nadiad", "website developer Nadiad", "website developer near me Nadiad", "Nadiad Gujarat website developer",
       "website designer Nadiad", "web developer Nadiad Kheda", "website development services Nadiad", "website design Nadiad",
@@ -405,6 +405,7 @@ const content: FreelanceContent = {
     heading: "Related pages for Kheda, Charotar and Gujarat",
     links: [
       { name: "Gujarat services hub", href: "/gujarat/" },
+      { name: "CA firm website in Ahmedabad", href: "/gujarat/ca-firm-website-ahmedabad/" },
       { name: "IT services in Nadiad", href: "/nadiad/" },
       { name: "Website developer in Dahod", href: "/gujarat/website-developer-dahod/" },
       { name: "Website developer in Devgadh Baria", href: "/gujarat/website-developer-devgadh-baria/" },

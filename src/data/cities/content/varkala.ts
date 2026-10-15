@@ -7,7 +7,7 @@ const varkala: CityContent = {
   meta: {
     title: "IT Services in Varkala: Websites, Apps, SEO & AI",
     description:
-      "Booking websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Varkala cliff homestays, Ayurveda centres, yoga schools, cafés and traders.",
+      "Booking websites, apps, Maps SEO and WhatsApp tools for Varkala cliff homestays, Ayurveda centres, yoga schools, cafés and traders. From ₹10,000.",
     keywords: [
       "IT services in Varkala",
       "IT services team in Varkala",
@@ -30,6 +30,11 @@ const varkala: CityContent = {
       "Varkala me website banwana",
       "Varkalayil website undakkan",
       "വർക്കല വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Varkala website designer",
+      "web development company Varkala",
+      "hire freelance web developer Varkala",
+      "Thiruvananthapuram district SEO",
+      "website designer Thiruvananthapuram district",
     ],
   },
   hero: {

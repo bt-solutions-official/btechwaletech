@@ -7,7 +7,7 @@ const raigarh: CityContent = {
   meta: {
     title: "IT Services in Raigarh: Websites, Apps, SEO & AI",
     description:
-      "Web design, local SEO, UPI stores and WhatsApp automation in Raigarh for steel and power vendors, Kosa silk weavers, clinics and Gandhi Ganj shops. ₹10,000 onwards.",
+      "Web design, local SEO, UPI stores and WhatsApp tools in Raigarh for steel and power vendors, Kosa silk weavers, clinics and Gandhi Ganj shops. From ₹10,000.",
     keywords: [
       "website development team in Raigarh",
       "web designer Raigarh Chhattisgarh",
@@ -25,6 +25,16 @@ const raigarh: CityContent = {
       "website maintenance Raigarh",
       "Raigarh me website kaise banwaye",
       "रायगढ़ वेबसाइट डिज़ाइन",
+      "Raigarh website designer",
+      "website cost in Raigarh",
+      "web development company Raigarh",
+      "hire freelance web developer Raigarh",
+      "Northern Chhattisgarh SEO services",
+      "website designer Northern Chhattisgarh",
+      "Chhattisgarh SEO services",
+      "Raigarh website banwane ka kharcha",
+      "website design Gandhi Ganj Raigarh",
+      "website design Sadar Bazar Raigarh",
     ],
   },
   hero: {

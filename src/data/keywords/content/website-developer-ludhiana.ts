@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Developer in Ludhiana: Catalogues from ${P.site}`,
-    description: `Website developer in Ludhiana for knitwear, cycle-part, auto-part and machine-tool makers: catalogue sites from ${P.site}, dealer portals, stores. Quote in 2 days.`,
+    description: `Website developer in Ludhiana for knitwear, cycle-part and machine-tool makers: catalogue sites from ${P.site}, dealer portals. Quote in 2 days.`,
     keywords: [
       "website developer in Ludhiana", "website developer Ludhiana", "web developer in Ludhiana", "website developer near me Ludhiana",
       "website development Ludhiana", "website development services Ludhiana", "freelance website developer Ludhiana", "website designer Ludhiana",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "machine tools website Ludhiana", "product catalogue website Ludhiana", "dealer portal Ludhiana", "export website developer Ludhiana",
       "website developer Focal Point Ludhiana", "website developer Model Town Ludhiana", "website developer Khanna", "website developer Mandi Gobindgarh",
       "Ludhiana mein website kaise banwaye", "factory ki website banwani hai Ludhiana",
+      "website developer in Ludhiana cost", "website developer in Ludhiana price", "hire website developer in Ludhiana", "freelance website developer in Ludhiana",
+      "website developer in Ludhiana charges",
     ],
   },
   hero: {

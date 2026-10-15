@@ -7,7 +7,7 @@ const ambikapur: CityContent = {
   meta: {
     title: "IT Services in Ambikapur: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Ambikapur shops, clinics, colleges, Mainpat stays and Surguja traders. From ₹10,000.",
+      "Ambikapur websites, local SEO, online stores and WhatsApp automation for shops, clinics, colleges, Mainpat stays and Surguja traders. From ₹10,000.",
     keywords: [
       "website development team in Ambikapur",
       "web design Ambikapur",
@@ -24,6 +24,15 @@ const ambikapur: CityContent = {
       "website maintenance Ambikapur",
       "Ambikapur me website kaise banaye",
       "अंबिकापुर वेबसाइट डिज़ाइन",
+      "Ambikapur website designer",
+      "website cost in Ambikapur",
+      "web development company Ambikapur",
+      "hire freelance developer Ambikapur",
+      "Chhattisgarh SEO",
+      "Ambikapur me website kaise banwaye",
+      "website for hospitals and diagnostic centres in Ambikapur",
+      "web designer in Gandhi Chowk, Ambikapur",
+      "website for colleges, schools and coaching in Ambikapur",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const amravati: CityContent = {
   meta: {
     title: "IT Services in Amravati: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, online stores and WhatsApp automation for Amravati textile units, cotton traders, clinics and coaching classes. Static sites from ₹10,000.",
+      "Amravati websites, SEO, online stores and WhatsApp automation for textile units, cotton traders, clinics and coaching classes. Static sites from ₹10,000.",
     keywords: [
       "website development team in Amravati",
       "web designer Amravati",
@@ -24,6 +24,15 @@ const amravati: CityContent = {
       "website maintenance Amravati",
       "Amravati madhe website banvaychi aahe",
       "Amravati me website banwana hai",
+      "Amravati website designer",
+      "web development company Amravati",
+      "hire freelance developer Amravati",
+      "Maharashtra SEO",
+      "website for textiles and garments in Amravati",
+      "web designer in Rajkamal Chowk, Amravati",
+      "website for cotton ginning and pressing in Amravati",
+      "mobile app developer in Amravati",
+      "ecommerce website development in Amravati",
     ],
   },
   hero: {

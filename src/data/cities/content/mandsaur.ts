@@ -7,7 +7,7 @@ const mandsaur: CityContent = {
   meta: {
     title: "IT Services in Mandsaur: Websites, Apps, SEO & AI",
     description:
-      "Websites, Hindi SEO, WhatsApp rate lists and online stores for Mandsaur garlic traders, slate pencil units, colleges and clinics. Starting prices, code yours.",
+      "Websites, Hindi SEO and online stores for Mandsaur garlic traders, slate pencil units, colleges and clinics. Sites from ₹10,000, live in 1-2 weeks.",
     keywords: [
       "website development team in Mandsaur",
       "web designer Mandsaur",
@@ -25,6 +25,16 @@ const mandsaur: CityContent = {
       "website maintenance Mandsaur",
       "Google Maps listing Mandsaur",
       "मंदसौर वेबसाइट डिज़ाइन",
+      "Mandsaur website designer",
+      "web development company Mandsaur",
+      "hire freelance web developer Mandsaur",
+      "Madhya Pradesh SEO services",
+      "Mandsaur me website kaise banwaye",
+      "Mandsaur website banwane ka kharcha",
+      "Mandsaur slate pencil manufacturers website",
+      "slate pencil manufacturers website design Mandsaur",
+      "website design Nai Abadi Mandsaur",
+      "website design Gandhi Chouraha Mandsaur",
     ],
   },
   hero: {

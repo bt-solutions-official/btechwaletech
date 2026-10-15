@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "How to rank app on Play Store",
   updated: "2026-09-25",
   meta: {
-    title: "How to Rank App on Play Store: Factors You Control",
+    title: `How to Rank App on Play Store: 2026 Factors Guide`,
     description: `How to rank app on Play Store: listing keywords, install velocity, crash and ANR limits, reviews and listing experiments. Developer-led help from ${P.seo}.`,
     keywords: [
       "how to rank app on play store", "rank app on play store", "how to rank app on google play", "play store ranking factors",

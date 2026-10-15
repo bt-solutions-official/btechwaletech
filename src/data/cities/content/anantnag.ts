@@ -7,7 +7,7 @@ const anantnag: CityContent = {
   meta: {
     title: "IT Services in Anantnag: Websites, Apps, SEO & AI",
     description:
-      "Web design, local SEO, dry fruit and craft stores, and WhatsApp booking tools for Anantnag apple growers, bat makers, Pahalgam hotels and clinics. From ₹10,000.",
+      "Anantnag web design, local SEO, dry fruit and craft stores, and WhatsApp booking for apple growers, bat makers, Pahalgam hotels and clinics. From ₹10,000.",
     keywords: [
       "website development team in Anantnag",
       "web designer Anantnag",
@@ -24,6 +24,15 @@ const anantnag: CityContent = {
       "South Kashmir web development",
       "Anantnag mein website banwani hai",
       "software team Anantnag",
+      "Anantnag website designer",
+      "website cost in Anantnag",
+      "web development company Anantnag",
+      "hire freelance developer Anantnag",
+      "Jammu and Kashmir SEO",
+      "Anantnag me website kaise banwaye",
+      "website for apple growers and fruit traders in Anantnag",
+      "web designer in Lal Chowk, Anantnag",
+      "website for walnut and dry fruit sellers in Anantnag",
     ],
   },
   hero: {

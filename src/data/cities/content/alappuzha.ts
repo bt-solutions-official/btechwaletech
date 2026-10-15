@@ -7,7 +7,7 @@ const alappuzha: CityContent = {
   meta: {
     title: "IT Services in Alappuzha: Websites, Apps, SEO & AI",
     description:
-      "Direct-booking sites for houseboats and homestays, coir exporter catalogues, Google Maps work and WhatsApp tools for Alappuzha businesses. Itemised quotes.",
+      "Alappuzha websites for houseboats and homestays, coir exporter catalogues, local SEO, Maps work and WhatsApp tools. Itemised quotes, from ₹10,000.",
     keywords: [
       "website development team in Alappuzha",
       "web designer Alleppey",
@@ -25,6 +25,14 @@ const alappuzha: CityContent = {
       "Alappuzhayil website undakkan",
       "ആലപ്പുഴ വെബ്സൈറ്റ് ഡിസൈൻ",
       "website maintenance Alleppey",
+      "Alappuzha website designer",
+      "website cost in Alappuzha",
+      "web development company Alappuzha",
+      "hire freelance developer Alappuzha",
+      "Kerala SEO",
+      "website for houseboat and shikara operators in Alappuzha",
+      "web designer in Mullakkal, Alappuzha",
+      "website for homestays and resorts in Alappuzha",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Restaurant Website Design in Surat · From ${P.site}`,
-    description: `Restaurant website design in Surat: live menus with Jain filters, direct WhatsApp or UPI ordering and Google Maps setup, from ${P.site}. Your domain, no commission.`,
+    description: `Restaurant website design in Surat: live menus with Jain filters, direct WhatsApp or UPI ordering and Google Maps, from ${P.site}. Your domain, no commission.`,
     keywords: [
       "restaurant website design in Surat", "restaurant website Surat", "restaurant website designer Surat", "restaurant website near me Surat",
       "Surat Gujarat restaurant website", "cafe website design Surat", "online food ordering website Surat", "restaurant website with online ordering",

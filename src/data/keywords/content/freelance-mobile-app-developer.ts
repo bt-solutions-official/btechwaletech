@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "Flutter mobile app freelancer", "React Native mobile app freelancer", "cross-platform mobile app developer", "Play Store app publishing help",
       "App Store review help developer", "mobile app UX developer", "Android and iOS app freelancer", "hire mobile app developer India",
       "freelance mobile developer", "mobile app developer for small business",
+      "hire freelance mobile app developer",
     ],
   },
   hero: {

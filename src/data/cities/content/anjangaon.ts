@@ -7,7 +7,7 @@ const anjangaon: CityContent = {
   meta: {
     title: "IT Services in Anjangaon | Web, Apps & AI from ₹10,000",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Anjangaon Surji banana traders, pimpli growers, ginners, clinics, colleges and shops.",
+      "Anjangaon Surji Marathi websites, mobile apps, local SEO and WhatsApp bots for banana traders, pimpli growers, ginners, clinics and colleges. From ₹10,000.",
     keywords: [
       "IT services in Anjangaon",
       "IT services team in Anjangaon",
@@ -29,6 +29,10 @@ const anjangaon: CityContent = {
       "Anjangaon madhe website banvaychi aahe",
       "अंजनगाव सुर्जी वेबसाइट",
       "Vidarbha banana supplier software",
+      "Anjangaon Surji website designer",
+      "website cost in Anjangaon Surji",
+      "web development company Anjangaon Surji",
+      "hire freelance developer Anjangaon Surji",
     ],
   },
   hero: {

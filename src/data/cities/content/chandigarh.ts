@@ -7,7 +7,7 @@ const chandigarh: CityContent = {
   meta: {
     title: "IT Services in Chandigarh: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, online stores and AI automation for Chandigarh, Mohali and Panchkula businesses. Sites from ₹10,000, SEO sites from ₹20,000, free upkeep.",
+      "Chandigarh, Mohali and Panchkula websites, SEO, online stores and AI automation. Sites from ₹10,000, SEO sites from ₹20,000, free upkeep for 2 months.",
     keywords: [
       "website development team in Chandigarh",
       "web design team Chandigarh",
@@ -26,6 +26,13 @@ const chandigarh: CityContent = {
       "website maintenance Chandigarh",
       "Chandigarh vich website banwani",
       "ਚੰਡੀਗੜ੍ਹ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Chandigarh website designer",
+      "website cost in Chandigarh",
+      "web development company Chandigarh",
+      "hire freelance developer Chandigarh",
+      "Tricity SEO",
+      "website for immigration and study abroad in Chandigarh",
+      "web designer in Mohali, Chandigarh",
     ],
   },
   hero: {

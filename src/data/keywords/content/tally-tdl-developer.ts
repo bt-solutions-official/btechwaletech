@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Tally TDL developer",
   updated: "2026-09-25",
   meta: {
-    title: `Tally TDL Developer: Invoices, Fields, Reports`,
+    title: `Tally TDL Developer: Invoices & Reports from ${P.ai}`,
     description: `Tally TDL developer for TallyPrime: custom invoice formats, extra fields, reports, voucher checks and approvals. Itemised quotes; add-on bundles from ${P.ai}.`,
     keywords: [
       "tally tdl developer", "tdl developer", "tally customisation", "tally customization", "tallyprime tdl customisation",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "tally voucher approval tdl", "tally validation tdl", "tally erp 9 tdl to tallyprime", "tdl tcp file",
       "tally add on development", "tally tdl developer near me", "tally tdl developer Rajkot", "tally tdl developer Delhi",
       "tally tdl developer Ahmedabad", "tally mein custom field kaise banaye", "freelance tdl developer", "tallyprime developer", "tally customization services",
+      "hire Tally TDL developer", "freelance Tally TDL developer", "best Tally TDL developer in India", "Tally TDL developer price",
+      "Tally TDL developer charges",
     ],
   },
   hero: {

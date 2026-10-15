@@ -7,7 +7,7 @@ const sopore: CityContent = {
   meta: {
     title: "IT Services in Sopore | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Sopore fruit mandi traders, apple growers, Wular fish sellers, clinics, colleges and shops.",
+      "Websites, apps, local SEO and WhatsApp tools for Sopore fruit mandi traders, apple growers, Wular fish sellers, clinics, colleges and shops. From ₹10,000.",
     keywords: [
       "IT services in Sopore",
       "IT services team in Sopore",
@@ -29,6 +29,12 @@ const sopore: CityContent = {
       "Sopore me website banwana",
       "Sopore mein app banwana",
       "website developer north Kashmir",
+      "Sopore website designer",
+      "web development company Sopore",
+      "hire freelance web developer Sopore",
+      "Baramulla district SEO",
+      "website designer Baramulla district",
+      "Jammu and Kashmir SEO services",
     ],
   },
   hero: {

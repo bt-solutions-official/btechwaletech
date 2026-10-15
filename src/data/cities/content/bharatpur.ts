@@ -7,7 +7,7 @@ const bharatpur: CityContent = {
   meta: {
     title: "IT Services in Bharatpur: Websites, Apps, SEO & AI",
     description:
-      "Websites, Hindi local SEO and WhatsApp automation for Bharatpur mustard oil mills, Keoladeo hotels and guides, hospitals, schools and shops. From ₹10,000.",
+      "Bharatpur websites, Hindi local SEO and WhatsApp automation for mustard oil mills, Keoladeo hotels and guides, hospitals, schools and shops. From ₹10,000.",
     keywords: [
       "website development team in Bharatpur",
       "web designer Bharatpur",
@@ -25,6 +25,14 @@ const bharatpur: CityContent = {
       "website design Nadbai",
       "website design Bayana",
       "भरतपुर वेबसाइट डिज़ाइन",
+      "Bharatpur website designer",
+      "website cost in Bharatpur",
+      "web development company Bharatpur",
+      "hire freelance developer Bharatpur",
+      "Rajasthan SEO",
+      "Bharatpur me website kaise banwaye",
+      "website for mustard oil mills in Bharatpur",
+      "web designer in Kumher Gate, Bharatpur",
     ],
   },
   hero: {

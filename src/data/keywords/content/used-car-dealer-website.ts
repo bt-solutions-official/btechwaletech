@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "used car dealer website Delhi", "used car dealer website Jaipur", "second hand car website Mumbai", "car bazaar website design",
       "multi-brand used car website", "used car dealer SEO", "purani gaadi dealer ki website", "used bike dealer website",
       "car consultant website design", "used car stock feed integration",
+      "used car dealer website price", "used car dealer website company", "best used car dealer website in India", "used car dealer website cost in India",
     ],
   },
   hero: {

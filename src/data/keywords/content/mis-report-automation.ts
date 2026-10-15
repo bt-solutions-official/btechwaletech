@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `MIS Report Automation from Tally, ERP & CRM`,
-    description: `MIS report automation that pulls Tally, ERP, CRM and bank data on a schedule and sends sales, collections and stock reports by email or WhatsApp. From ${P.ai}.`,
+    description: `MIS report automation pulls Tally, ERP, CRM and bank data on a schedule, then sends sales, collections and stock packs by WhatsApp. Projects from ${P.ai}.`,
     keywords: [
       "mis report automation", "automate mis reports", "automated mis reporting", "mis reporting automation india",
       "daily mis report automation", "weekly mis report", "mis report from tally", "tally mis report automation",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "mis report automation cost", "how to automate mis report in excel", "mis report format for business",
       "exception alerts for business", "mis automation freelancer", "mis report automation near me",
       "mis report automation Surat", "mis report automation Kanpur", "mis report automatic kaise banaye", "owner daily report automation",
+      "MIS report automation price", "MIS report automation company", "best MIS report automation in India", "MIS report automation cost in India",
     ],
   },
   hero: {

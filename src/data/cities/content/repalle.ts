@@ -7,7 +7,7 @@ const repalle: CityContent = {
   meta: {
     title: "IT Services in Repalle: Websites, Apps, SEO & AI",
     description:
-      "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Repalle aqua farmers, rice mills, shops, clinics and colleges.",
+      "Telugu websites, apps, Maps SEO and WhatsApp automation for Repalle aqua farmers, rice mills, shops, clinics and colleges. Sites from ₹10,000.",
     keywords: [
       "IT services in Repalle",
       "IT company in Repalle",
@@ -29,6 +29,12 @@ const repalle: CityContent = {
       "Repalle lo website design",
       "Repalle me website banwana",
       "రేపల్లె వెబ్‌సైట్ డిజైన్",
+      "Repalle website designer",
+      "web development company Repalle",
+      "hire freelance web developer Repalle",
+      "Bapatla district SEO",
+      "website designer Bapatla district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `SEO for Doctors: More Appointments, from ${P.seo}`,
-    description: `SEO for doctors and clinics in India: Google Business Profile, patient pages within NMC rules, physician schema and appointment tracking. From ${P.seo}/month.`,
+    description: `SEO for doctors and clinics in India: Google Business Profile, NMC-safe patient pages, physician schema and appointment tracking. Monthly SEO from ${P.seo}.`,
     keywords: [
       "seo for doctors", "seo for doctors in India", "seo for clinics", "medical seo India",
       "doctor seo services", "seo for hospitals and clinics", "healthcare seo India", "how can doctors get more patients online",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "seo for doctors cost", "seo for doctors price India", "seo for doctors near me", "seo for gynecologist",
       "seo for orthopedic doctor", "seo for dermatologist", "clinic seo Delhi", "doctor seo Mumbai", "doctor ke liye seo",
       "appointment booking seo",
+      "SEO for doctors services", "SEO for doctors packages", "best SEO for doctors in India", "SEO for doctors agency",
     ],
   },
   hero: {
@@ -424,7 +425,7 @@ const content: FreelanceContent = {
     { question: "Can my clinic website be in Hindi or a regional language?", answer: "Yes. Key pages can be built in Hindi or another regional language alongside English, with correct language tags so Google shows the right version. The doctor or a trusted translator should approve translated medical content, and we set up each version so both can rank independently." },
     { question: "How does AI search affect SEO for doctors?", answer: "AI answers often summarise general health information, so clinics win by being the clear, trustworthy source for specific, local questions: which conditions they treat, how to book, timings and what to expect. Doctor-reviewed pages with authorship, schema and consistent business details are the kind AI systems can understand and cite." },
     { question: "Do you need access to my patient records?", answer: "No. SEO work needs access to your website, Google Business Profile, Search Console and GA4, not patient data. If we build booking or clinic software for you, data handling is agreed in writing in the quote, with access limited and the system hosted in your own account." },
-    { question: "Who owns the website and Google profile?", answer: `You do. The domain, hosting, website code, Google Business Profile, Search Console and GA4 stay in the clinic’s or doctor’s own accounts, with us added as users. A new website includes two months of free maintenance, and ongoing care starts at ${P.care} a month after that.` },
+    { question: "Who owns the website and Google profile?", answer: `You do. The domain, hosting, website code, Google Business Profile, Search Console and GA4 stay in the clinic’s or doctor’s own accounts, with us added as users. A new website includes two months of free maintenance, and ongoing care starts at ${P.care} after that.` },
     { question: "Doctor ke liye SEO kaise kaam karta hai?", answer: `Jab mareez Google par apni bimari, specialist ya “doctor near me” search karta hai, toh SEO se aapki clinic Google Maps aur results mein dikhti hai. Iske liye sahi Google Business Profile, doctor dwara check kiye gaye jaankari wale pages aur appointment tracking chahiye. Monthly SEO ${P.seo} se shuru hota hai.` },
   ],
   related: {

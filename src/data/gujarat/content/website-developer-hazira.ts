@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Hazira Surat · Sites from ${P.site}`,
-    description: `Website developer in Hazira Surat for contractors, suppliers and port service firms: vendor-ready sites from ${P.site}, built remotely, every login in your name.`,
+    description: `Website developer in Hazira Surat for contractors, suppliers and port service firms: vendor-ready sites from ${P.site}, built remotely, logins in your name.`,
     keywords: [
       "website developer in Hazira Surat", "website developer Hazira", "Hazira website design", "website developer near me Hazira",
       "contractor website Hazira", "industrial contractor website Surat", "vendor registration website contractor", "company profile website contractor Gujarat",
@@ -201,7 +201,7 @@ const content: FreelanceContent = {
         `Yes, though nobody can guarantee rankings. What a well-built site can do is give search engines and AI assistants clear, specific pages to show when someone searches for a service in Hazira or Surat.`,
         `That means one page per service, with titles such as scaffolding contractor in Hazira or crane hire in Surat, clean URLs, schema markup describing your business and services, an XML sitemap and Google Search Console verified before launch. Photos carry descriptive file names and alt text.`,
         `A <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> with the same name, address and phone as your website footer helps visiting engineers and job seekers find your yard or office. Guest houses and restaurants on the Hazira road gain the most from this.`,
-        `AI assistants and Google's AI Overviews tend to quote pages that answer a single question directly, list facts in tables and name the place. Our service pages follow that pattern. Ongoing SEO work is optional and starts at ${P.seo} a month; the <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> guide explains what it involves for industrial businesses.`,
+        `AI assistants and Google's AI Overviews tend to quote pages that answer a single question directly, list facts in tables and name the place. Our service pages follow that pattern. Ongoing SEO work is optional and starts at ${P.seo}; the <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> guide explains what it involves for industrial businesses.`,
       ],
     },
     {

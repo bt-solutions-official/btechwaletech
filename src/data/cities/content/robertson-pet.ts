@@ -7,7 +7,7 @@ const robertsonPet: CityContent = {
   meta: {
     title: "KGF and Robertsonpet Website Design and Local SEO",
     description:
-      "Websites, Tamil and Kannada local SEO and WhatsApp automation for Robertsonpet and KGF shops, schools, clinics and suppliers. From ₹10,000, 2 months free upkeep.",
+      "Websites, Tamil and Kannada local SEO and WhatsApp automation for Robertsonpet and KGF shops, schools, clinics and suppliers. Sites from ₹10,000.",
     keywords: [
       "website development team in KGF",
       "website designer Robertsonpet",
@@ -24,6 +24,17 @@ const robertsonPet: CityContent = {
       "website cost Bangarapet",
       "KGF la website",
       "ಕೆಜಿಎಫ್ ವೆಬ್‌ಸೈಟ್",
+      "website cost in Robertsonpet",
+      "web development company Robertsonpet",
+      "hire freelance web developer Robertsonpet",
+      "Kolar Gold Fields SEO services",
+      "website designer Kolar Gold Fields",
+      "Karnataka SEO services",
+      "Robertsonpet healthcare website",
+      "healthcare website design Robertsonpet",
+      "Robertsonpet home services website",
+      "home services website design Robertsonpet",
+      "website design Robertsonpet",
     ],
   },
   hero: {

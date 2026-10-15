@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Vijapur · Sites from ${P.site}`,
-    description: `Website developer in Vijapur, Mehsana for potato traders, dharmshalas, schools, clinics and shops. Sites from ${P.site}, Gujarati with your copy, quote in 2 days.`,
+    description: `Website developer in Vijapur, Mehsana for potato traders, dharmshalas, schools, clinics & shops. Sites from ${P.site}, Gujarati with your copy, quote in 2 days.`,
     keywords: [
       "website developer in Vijapur", "website developer Vijapur", "website developer near me Vijapur", "Vijapur Mehsana website developer",
       "Vijapur Gujarat website design", "website designer Vijapur", "web developer Vijapur", "website development services Vijapur",
@@ -204,7 +204,7 @@ const content: FreelanceContent = {
         `Start with a complete <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a>, then build a website that matches it exactly. Together they cover most local searches.`,
         `The profile needs the right category, real photos, accurate timings and the same name, address and phone number that appear in your website footer. Ask satisfied customers for honest reviews; never buy them. Searches like “dharmshala near Mahudi” or “clinic in Vijapur” are largely decided on the map.`,
         `The website then handles searches the map cannot: a buyer in Ahmedabad typing “potato supplier Mehsana district”, a parent comparing schools, a pilgrim checking meal timings. Each important topic deserves its own page with a clear title and heading. Technical groundwork comes as standard: fast pages, clean URLs, a sitemap, structured data for your business and FAQs, and Search Console verified before launch.`,
-        `AI assistants and Google's AI Overviews tend to quote pages that answer a single question in a short, direct paragraph. FAQ sections written that way help. Nobody can promise a ranking, and you should be wary of anyone who does. Ongoing SEO is optional from ${P.seo} a month.`,
+        `AI assistants and Google's AI Overviews tend to quote pages that answer a single question in a short, direct paragraph. FAQ sections written that way help. Nobody can promise a ranking, and you should be wary of anyone who does. Ongoing SEO is optional from ${P.seo}.`,
       ],
     },
     {

@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "dutch app store listing", "avg compliant app analytics", "app support after launch netherlands",
       "offshore app development netherlands", "outsource app development india from netherlands",
       "app development company vs freelancer", "cross-platform vs native app netherlands", "app development company near me netherlands",
+      "hire app development in the Netherlands",
     ],
   },
   hero: {

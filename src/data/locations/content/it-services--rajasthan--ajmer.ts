@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.4499, lng: 74.6399 },
   meta: {
-    title: "Freelance Software & IT Developers in Ajmer",
+    title: "Ajmer Software Developers: Exam Coaching & Pilgrim Stays",
     description:
       "Comparing IT companies in Ajmer? Hire three freelance engineers for school ERPs, exam test portals, booking systems, AI automation and apps. From ₹10,000.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "IT support Pushkar Beawar",
       "अजमेर में सॉफ्टवेयर डेवलपर",
       "Ajmer me software banwana hai",
+      "Ajmer website designer",
+      "website cost in Ajmer",
+      "IT company in Ajmer",
+      "Rajasthan SEO services",
+      "hire developer Ajmer",
+      "competitive software in Ajmer",
+      "schools software in Ajmer",
     ],
   },
   hero: {

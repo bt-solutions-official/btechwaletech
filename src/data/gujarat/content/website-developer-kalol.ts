@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Kalol · Sites from ${P.site}`,
-    description: `Website developer in Kalol, Gandhinagar for plastic, chemical and engineering units, traders and shops. Sites from ${P.site}, quote in 2 days, code in your name.`,
+    description: `Website developer in Kalol, Gandhinagar for plastic, chemical and engineering units, traders & shops. Sites from ${P.site}, quote in 2 days, code in your name.`,
     keywords: [
       "website developer in Kalol", "website developer Kalol", "website developer near me Kalol", "Kalol Gandhinagar website developer",
       "Kalol Gujarat website design", "website designer in Kalol", "web developer Kalol", "website development services Kalol",
@@ -222,7 +222,7 @@ const content: FreelanceContent = {
         `They can, if the site is built for search from day one, but nobody can honestly guarantee a ranking. What we control is the groundwork.`,
         `Every page gets its own title and description, one clear heading, a readable URL, compressed images, an XML sitemap and structured data for your organisation, products and FAQs. Google Search Console is verified before launch, so within weeks you can see which searches show your pages.`,
         `Local searches such as “clinic in Kalol” or “hardware shop near Kalol” are mostly decided on Google Maps. Your <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> should carry the same name, address and phone number as your website footer, with the right category and genuine photos. Industrial searches work differently: a buyer types “PP moulded fittings manufacturer Gujarat” or “industrial chemical supplier Gandhinagar”. Each product family therefore deserves its own page that uses the words buyers type.`,
-        `AI assistants and Google's AI Overviews tend to quote pages that answer one question clearly, show specifications in tables and name the place. We write product and FAQ blocks with that in mind. Ongoing SEO work is optional and starts at ${P.seo} a month; our <a href='/gujarat/seo-friendly-website-gujarat/'>SEO-friendly website guide for Gujarat</a> explains what is built in.`,
+        `AI assistants and Google's AI Overviews tend to quote pages that answer one question clearly, show specifications in tables and name the place. We write product and FAQ blocks with that in mind. Ongoing SEO work is optional and starts at ${P.seo}; our <a href='/gujarat/seo-friendly-website-gujarat/'>SEO-friendly website guide for Gujarat</a> explains what is built in.`,
       ],
     },
     {

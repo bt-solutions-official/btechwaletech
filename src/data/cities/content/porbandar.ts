@@ -7,7 +7,7 @@ const porbandar: CityContent = {
   meta: {
     title: "IT Services in Porbandar: Websites, Apps, SEO & AI",
     description:
-      "Websites, Google Maps and WhatsApp automation for Porbandar seafood exporters, hotels, tour operators, clinics and shops. Sites from ₹10,000, owned fully by you.",
+      "Websites, Google Maps and WhatsApp automation for Porbandar seafood exporters, hotels, tour operators, clinics and shops. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "website development team in Porbandar",
       "web designer Porbandar",
@@ -24,6 +24,17 @@ const porbandar: CityContent = {
       "Porbandar ma website banavvi",
       "પોરબંદર વેબસાઇટ",
       "website for fishing business Gujarat",
+      "Porbandar website designer",
+      "website cost in Porbandar",
+      "web development company Porbandar",
+      "hire freelance web developer Porbandar",
+      "Gujarat SEO services",
+      "website design Chhaya Porbandar",
+      "website design Fishing harbour Porbandar",
+      "website design price in Porbandar",
+      "app development company Porbandar",
+      "Porbandar SEO company",
+      "local SEO Porbandar",
     ],
   },
   hero: {

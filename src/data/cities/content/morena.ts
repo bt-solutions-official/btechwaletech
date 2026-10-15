@@ -7,7 +7,7 @@ const morena: CityContent = {
   meta: {
     title: "IT Services in Morena: Websites, Apps, SEO & AI",
     description:
-      "Websites, Google Maps work and WhatsApp automation for Morena oil mills, gajak makers, Banmore units, clinics and coaching. Sites from ₹10,000, code owned by you.",
+      "Websites, Google Maps work and WhatsApp automation for Morena oil mills, gajak makers, Banmore units, clinics and coaching. Websites from ₹10,000.",
     keywords: [
       "website development team in Morena",
       "web designer Morena",
@@ -24,6 +24,17 @@ const morena: CityContent = {
       "website for coaching Morena",
       "Morena me website kaise banaye",
       "मुरैना वेबसाइट डिजाइन",
+      "Morena website designer",
+      "website cost in Morena",
+      "web development company Morena",
+      "hire freelance web developer Morena",
+      "Madhya Pradesh SEO services",
+      "Morena me website kaise banwaye",
+      "Morena website banwane ka kharcha",
+      "Morena mustard oil mills website",
+      "mustard oil mills website design Morena",
+      "Morena gajak makers website",
+      "gajak makers website design Morena",
     ],
   },
   hero: {

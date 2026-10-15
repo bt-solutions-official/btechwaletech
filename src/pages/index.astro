@@ -351,6 +351,9 @@ const professionalServiceSchema = {
 
 <BaseLayout meta={page} schema={[professionalServiceSchema, faqSchema(faqs)]}>
 
+  <!-- The Material Symbols icon font is only used by the plan cards on this page, so only this page loads it. -->
+  <link slot="head" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&display=swap" rel="stylesheet" />
+
   <!-- ===================== HERO ===================== -->
   <section class="hero" aria-labelledby="home-heading">
     <div class="hero-inner">

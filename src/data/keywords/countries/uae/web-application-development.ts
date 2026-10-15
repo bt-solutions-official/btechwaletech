@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "web app vs website", "web app vs mobile app", "web application development abu dhabi", "web application development sharjah",
       "web application scoping document", "web app requirements template", "role based access control web app",
       "web application development company near me", "hire web app developer dubai",
+      "freelance web application development UAE",
     ],
   },
   hero: {

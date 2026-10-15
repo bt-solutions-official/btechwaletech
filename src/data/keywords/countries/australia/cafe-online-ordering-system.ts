@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Cafe Online Ordering System, No Commission, ${P.shop}`,
-    description: `A cafe online ordering system for Australian venues: commission-free pickup, QR table ordering, Square or Lightspeed POS links, correct surcharges. From ${P.shop}.`,
+    description: `Cafe online ordering system for Australian venues: commission-free pickup, QR table ordering, Square or Lightspeed POS links, surcharges. From ${P.shop}.`,
     keywords: [
       "cafe online ordering system", "cafe online ordering system australia", "online ordering system for cafe", "commission free online ordering",
       "restaurant online ordering system australia", "direct online ordering for restaurants", "qr code table ordering australia",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "uber eats alternative for restaurants", "menulog alternative", "doordash alternative australia", "avoid delivery app commission",
       "public holiday surcharge online menu", "weekend surcharge display cafe", "cafe ordering app", "how much does an online ordering system cost",
       "cafe online ordering sydney", "cafe online ordering melbourne", "cafe online ordering brisbane", "online ordering for cafes near me",
+      "hire cafe online ordering system in Australia", "freelance cafe online ordering system Australia",
     ],
   },
   hero: {
@@ -209,7 +210,7 @@ const content: FreelanceContent = {
       id: "costs",
       heading: "How much does a cafe online ordering system cost?",
       paragraphs: [
-        `With us, direct ordering starts from ${P.shop}, a menu-only website from ${P.site}, and a custom multi-venue platform from ${P.software}. After launch, your running costs are card processing, hosting and optional maintenance from ${P.care} a month once the two free months end.`,
+        `With us, direct ordering starts from ${P.shop}, a menu-only website from ${P.site}, and a custom multi-venue platform from ${P.software}. After launch, your running costs are card processing, hosting and optional maintenance from ${P.care} once the two free months end.`,
         `What moves the build cost:`,
       ],
       list: [
@@ -414,7 +415,7 @@ const content: FreelanceContent = {
   },
   faqHeading: "Cafe online ordering system: common questions",
   faqs: [
-    { question: "How much does a cafe online ordering system cost?", answer: `BtechWaleTech builds direct ordering from ${P.shop}, a menu website linking to existing ordering from ${P.site}, and multi-venue platforms from ${P.software}. After launch you pay card processing to your provider, hosting, and optional maintenance from ${P.care} a month once two free months end. There is no per-order commission to us.` },
+    { question: "How much does a cafe online ordering system cost?", answer: `BtechWaleTech builds direct ordering from ${P.shop}, a menu website linking to existing ordering from ${P.site}, and multi-venue platforms from ${P.software}. After launch you pay card processing to your provider, hosting, and optional maintenance from ${P.care} once two free months end. There is no per-order commission to us.` },
     { question: "Is there really no commission on orders?", answer: "We charge for the build and, if you choose, monthly maintenance. We take nothing per order. You still pay card processing fees to your payment provider and hosting costs, which are usually small compared with a marketplace commission. The money from each sale settles into your business account directly." },
     { question: "Should we leave Uber Eats, DoorDash or Menulog?", answer: "Not necessarily. Marketplaces bring delivery drivers and new customers who browse the app. Many venues keep them for reach and steer regulars and pickup orders to their own system, which has no commission. Check your marketplace agreement for any terms about pricing across channels with your adviser before changing anything." },
     { question: "Can online orders go straight into our Square POS?", answer: "Usually, yes. Square's Orders API documentation says fully paid orders with a fulfilment are pushed to Square Point of Sale and the Dashboard Order Manager, and it supports pickup, delivery and in-store fulfilment. We confirm what your Square plan and setup support during discovery before including the integration in your quote." },
@@ -432,7 +433,7 @@ const content: FreelanceContent = {
     { question: "Why hire developers in India for an Australian café system?", answer: "You get a custom cafe online ordering system with no per-order commission, built by experienced developers at a clear starting price, with everything in your name. The trade-offs are remote support only and no hardware installation. Our morning is your post-lunch lull, which suits quick calls, and we reply on WhatsApp seven days a week." },
     { question: "How do we pay for the build from Australia?", answer: "Quotes and invoices are in USD and come from India. Payment is by Wise, bank wire or PayPal, following the schedule in your quote. Nothing is billed until you approve the quote in writing. For how the cost is treated in your books, ask your accountant or bookkeeper." },
     { question: "What happens if the cafe online ordering system goes down on a Saturday?", answer: "Uptime monitoring alerts us, and staff can pause online ordering with one button while customers order at the counter. During the two free months, fixes are covered. Afterwards, support terms are agreed in your written maintenance quote, and our terms page explains how agreements work." },
-    { question: "Will our café show up on Google for “order coffee near me”?", answer: `Map pack results decide most of those searches, so your Google Business Profile matters as much as the website. We add the order link, structured data and a fast menu page. Nobody can guarantee rankings; ongoing local search help starts at ${P.seo} a month if you want it.` },
+    { question: "Will our café show up on Google for “order coffee near me”?", answer: `Map pack results decide most of those searches, so your Google Business Profile matters as much as the website. We add the order link, structured data and a fast menu page. Nobody can guarantee rankings; ongoing local search help starts at ${P.seo} if you want it.` },
     { question: "Can you also build our café website?", answer: `Yes. A café website with home, menu, hours, location, catering and an order button starts from ${P.site}. If you already have a site you like, we add ordering to it instead. Either way, the domain and hosting stay in your business's name.` },
     { question: "Do you work with wineries and tour operators too?", answer: "Yes. Venues with bookings, tastings and tickets have similar needs around capacity and pickup times. We have separate Australian guides for winery and tour operator websites, and some venues combine a cafe online ordering system with tasting or tour bookings on one site." },
   ],

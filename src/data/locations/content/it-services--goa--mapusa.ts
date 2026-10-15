@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 15.5937, lng: 73.8142 },
   meta: {
-    title: "Freelance Software Developers in Mapusa, Goa",
+    title: "Mapusa Software Developers: Market Traders & Villa Rentals",
     description:
-      "Freelance software developers in Mapusa for POS and stock software, catalogue apps, online stores, villa systems and AI automation across Bardez. Starting prices.",
+      "Freelance software developers in Mapusa for POS and stock software, catalogue apps, plus online stores. Apps from ₹40,000, with an itemised quote in two days.",
     keywords: [
       "software development team in Mapusa",
       "IT services team in Mapusa",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "dashboard software for retailers Goa",
       "Mapusa software developer Konkani",
       "म्हापशात सॉफ्टवेअर डेव्हलपर",
+      "Mapusa website designer",
+      "website cost in Mapusa",
+      "IT company in Mapusa",
+      "Goa SEO services",
+      "hire developer Mapusa",
+      "market traders software in Mapusa",
+      "hotel software in Mapusa",
+      "villa software in Mapusa",
     ],
   },
   hero: {

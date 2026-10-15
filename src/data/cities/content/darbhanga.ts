@@ -7,7 +7,7 @@ const darbhanga: CityContent = {
   meta: {
     title: "IT Services in Darbhanga: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and WhatsApp automation for Darbhanga makhana traders, Mithila art sellers, hospitals and coaching centres. From ₹10,000, with 2 free months of upkeep.",
+      "Darbhanga websites, SEO and WhatsApp automation for makhana traders, Mithila art sellers, hospitals and coaching centres. From ₹10,000, with 2 free months.",
     keywords: [
       "website development team in Darbhanga",
       "website designer Darbhanga",
@@ -25,6 +25,14 @@ const darbhanga: CityContent = {
       "website maintenance Darbhanga",
       "Darbhanga me website banana hai",
       "दरभंगा वेबसाइट बनाने वाले",
+      "Darbhanga website designer",
+      "website cost in Darbhanga",
+      "web development company Darbhanga",
+      "hire freelance developer Darbhanga",
+      "Bihar SEO",
+      "Darbhanga me website kaise banwaye",
+      "website for makhana processing and trade in Darbhanga",
+      "web designer in Bela, Darbhanga",
     ],
   },
   hero: {

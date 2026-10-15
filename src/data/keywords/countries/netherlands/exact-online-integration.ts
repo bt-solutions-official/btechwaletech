@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Exact Online Integration, Custom Builds from ${P.software}`,
-    description: `Exact Online integration when ready-made connectors fall short: orders, invoices, stock and relations synced with monitoring and rate-limit handling. From ${P.ai}.`,
+    description: `Exact Online integration for Dutch companies: orders, invoices, stock and relations synced, with monitoring and rate-limit handling. From ${P.ai}.`,
     keywords: [
       "exact online integration", "exact online koppeling", "exact online api integration", "exact online koppeling laten maken",
       "exact online webshop koppeling", "exact online shopify integration", "exact online woocommerce koppeling", "custom exact online connector",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "exact online app store connector vs custom", "how much does an exact online integration cost", "exact online integration netherlands",
       "exact online koppeling amsterdam", "exact online koppeling rotterdam", "exact online koppeling utrecht", "moneybird api koppeling",
       "twinfield integration", "afas koppeling", "exact online developer india",
+      "hire exact online integration in the Netherlands", "freelance exact online integration Netherlands",
     ],
   },
   hero: {

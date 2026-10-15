@@ -7,7 +7,7 @@ const sivaganga: CityContent = {
   meta: {
     title: "IT Services in Sivaganga: Websites, Apps, SEO & AI",
     description:
-      "Tamil websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sivaganga traders, metal and graphite units, hospitals, colleges and shops.",
+      "Tamil websites, apps, Maps SEO and WhatsApp automation for Sivaganga traders, metal and graphite units, hospitals, colleges and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Sivaganga",
       "IT company in Sivaganga",
@@ -29,6 +29,12 @@ const sivaganga: CityContent = {
       "Sivaganga me website banwana",
       "Sivaganga website design Tamil",
       "Manamadurai Karaikudi website design",
+      "Sivaganga website designer",
+      "web development company Sivaganga",
+      "hire freelance web developer Sivaganga",
+      "Tamil Nadu SEO services",
+      "website design Manamadurai Road Sivaganga",
+      "website design Melur Road Sivaganga",
     ],
   },
   hero: {

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "SEO vs Google Ads for small business",
   updated: "2026-09-25",
   meta: {
-    title: `SEO vs Google Ads for Small Business: Where to Start`,
+    title: `SEO vs Google Ads for Small Business: Cost in 2026`,
     description: `SEO vs Google Ads for small business in India: cost per lead over 6–24 months, what stops when ads stop, a budget split, and monthly SEO from ${P.seo}.`,
     keywords: [
       "seo vs google ads for small business", "seo vs google ads", "seo or google ads", "seo vs ppc for small business",

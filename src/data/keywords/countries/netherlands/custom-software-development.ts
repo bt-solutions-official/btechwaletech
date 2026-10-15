@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "Custom software development company Netherlands",
   updated: "2026-09-25",
   meta: {
-    title: `Custom Software Development Company NL: From ${P.software}`,
+    title: `Custom Software Development Netherlands from ${P.software}`,
     description: `Custom software development company alternative for Dutch SMEs: portals, dashboards, AFAS/Exact links, code you own. From ${P.software}, quote in 2 days.`,
     keywords: [
       "custom software development company netherlands", "custom software development netherlands", "maatwerk software laten maken",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "outsource software development india from netherlands", "how much does custom software cost in the netherlands",
       "custom software vs saas", "custom software amsterdam", "custom software rotterdam", "custom software utrecht",
       "custom software eindhoven", "software development company near me netherlands", "milestone based software development",
+      "hire custom software development in the Netherlands", "freelance custom software development Netherlands",
     ],
   },
   hero: {

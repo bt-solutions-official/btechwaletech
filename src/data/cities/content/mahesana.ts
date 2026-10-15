@@ -7,7 +7,7 @@ const mahesana: CityContent = {
   meta: {
     title: "IT Services in Mahesana: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, online stores and WhatsApp automation for Mehsana, Unjha, Kadi and Visnagar firms. Static sites start at ₹10,000, with two months of free upkeep.",
+      "Websites, SEO, online stores and WhatsApp automation for Mehsana, Unjha, Kadi and Visnagar firms. Sites from ₹10,000, free upkeep for 2 months.",
     keywords: [
       "website development team in Mehsana",
       "web design Mehsana",
@@ -25,6 +25,16 @@ const mahesana: CityContent = {
       "website maintenance Mehsana",
       "Mehsana ma website kevi rite banavvi",
       "મહેસાણા વેબસાઇટ ડિઝાઇન",
+      "Mehsana website designer",
+      "web development company Mehsana",
+      "hire freelance web developer Mehsana",
+      "Gujarat SEO services",
+      "website design Radhanpur Road Mehsana",
+      "website design Mehsana GIDC",
+      "website design Dediyasan GIDC Mehsana",
+      "website design Panchot Mehsana",
+      "Mahesana website design",
+      "website developer Mahesana",
     ],
   },
   hero: {

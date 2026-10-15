@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "website redesign checklist", "website redesign for small business uae", "website redesign near me dubai",
       "mobile friendly website redesign uae", "website refresh vs redesign", "website redesign timeline",
       "remote website redesign team india", "website redesign for conversions",
+      "hire website redesign services in the UAE", "freelance website redesign services UAE",
     ],
   },
   hero: {

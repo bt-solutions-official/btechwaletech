@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Affordable App Development Company: Apps from ${P.app}`,
-    description: `Affordable app development company alternative for US founders: Flutter or React Native iOS and Android apps from ${P.app}, published under your own store accounts.`,
+    description: `Affordable app development company for US founders: Flutter or React Native iOS and Android apps from ${P.app}, published under your own store accounts.`,
     keywords: [
       "affordable app development company", "affordable app development", "affordable app developers", "cheap app development company",
       "low cost app development company", "affordable mobile app development company", "affordable app development company usa", "budget app development",
@@ -319,7 +319,7 @@ const content: FreelanceContent = {
         ["App plus web dashboard", "Several roles, reports, admin tools on the web", P.software, "6–12 weeks"],
         ["Store companion site", "Landing page, support page, privacy policy, store badges", P.site, "1–2 weeks"],
         ["AI feature inside the app", "Chat assistant, document reading or smart search", P.ai, "2–4 weeks"],
-        ["Care after the free months", "OS updates, SDK upgrades, fixes, store policy changes", `${P.care} a month`, "Ongoing"],
+        ["Care after the free months", "OS updates, SDK upgrades, fixes, store policy changes", `${P.care}`, "Ongoing"],
       ],
       hideSm: [1],
     },
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
       { name: "Flutter app development company", href: "/usa/flutter-app-development-company/" },
       { name: "React Native app development", href: "/usa/react-native-app-development/" },
       { name: "Cost to outsource app development", href: "/usa/cost-to-outsource-app-development/" },
-      { name: "Field service app development", href: "/usa/field-service-app-development/" },
+      { name: "Custom CRM development", href: "/usa/custom-crm-development/" },
       { name: "Custom software development", href: "/usa/custom-software-development/" },
       { name: "All services for US businesses", href: "/usa/" },
       { name: "Hire Indian developers", href: "/hire-indian-developers/" },

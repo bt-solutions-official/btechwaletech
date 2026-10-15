@@ -7,7 +7,7 @@ const siddipet: CityContent = {
   meta: {
     title: "IT Services in Siddipet | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Siddipet handloom weavers, hospitals, colleges, traders and new startups.",
+      "Telugu websites, apps, Maps SEO and WhatsApp automation for Siddipet handloom weavers, hospitals, colleges, traders and new startups. Websites from ₹10,000.",
     keywords: [
       "IT services in Siddipet",
       "IT services team in Siddipet",
@@ -29,6 +29,12 @@ const siddipet: CityContent = {
       "Siddipet lo website cheyinchali",
       "సిద్దిపేట వెబ్‌సైట్ డిజైన్",
       "Siddipet hospital digital marketing",
+      "Siddipet website designer",
+      "web development company Siddipet",
+      "hire freelance web developer Siddipet",
+      "Siddipet district SEO",
+      "website designer Siddipet district",
+      "Telangana SEO services",
     ],
   },
   hero: {

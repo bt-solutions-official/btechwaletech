@@ -7,7 +7,7 @@ const sunabeda: CityContent = {
   meta: {
     title: "IT Services in Sunabeda | Web, Apps & AI from ₹10,000",
     description:
-      "Odia and English websites, Android and iOS apps, local SEO and WhatsApp automation for Sunabeda contractors, schools, coaching centres, clinics and Semiliguda shops.",
+      "Odia and English websites, apps, SEO and WhatsApp tools for Sunabeda contractors, schools, coaching, clinics and Semiliguda shops. From ₹10,000.",
     keywords: [
       "IT services in Sunabeda",
       "IT services team in Sunabeda",
@@ -29,6 +29,12 @@ const sunabeda: CityContent = {
       "Sunabeda me website banwana",
       "Sunabeda re website banaiba",
       "ସୁନାବେଡା ୱେବସାଇଟ୍ ଡିଜାଇନ୍",
+      "Sunabeda website designer",
+      "web development company Sunabeda",
+      "hire freelance web developer Sunabeda",
+      "Koraput district SEO",
+      "website designer Koraput district",
+      "Odisha SEO services",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const chittoor: CityContent = {
   meta: {
     title: "Chittoor Web Design, SEO & Apps | From ₹10,000",
     description:
-      "Telugu and Tamil websites, local SEO, online stores and WhatsApp automation for Chittoor mango pulp units, dairies, colleges and clinics. Sites from ₹10,000.",
+      "Chittoor Telugu and Tamil websites, local SEO, online stores and WhatsApp automation for mango pulp units, dairies, colleges and clinics. Sites from ₹10,000.",
     keywords: [
       "website development team in Chittoor",
       "web designer Chittoor",
@@ -25,6 +25,14 @@ const chittoor: CityContent = {
       "ecommerce website Chittoor",
       "Chittoor lo website design",
       "website maintenance Chittoor",
+      "Chittoor website designer",
+      "website cost in Chittoor",
+      "web development company Chittoor",
+      "hire freelance developer Chittoor",
+      "Andhra Pradesh SEO",
+      "website for mango pulp processing in Chittoor",
+      "web designer in Greamspet, Chittoor",
+      "website for mango and produce trade in Chittoor",
     ],
   },
   hero: {

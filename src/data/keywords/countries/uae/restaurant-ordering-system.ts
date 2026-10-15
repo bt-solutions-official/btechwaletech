@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "restaurant ordering system abu dhabi", "restaurant ordering system sharjah", "cafe ordering website dubai",
       "restaurant web developer near me dubai", "pickup and delivery ordering system", "multi brand cloud kitchen website uae",
       "restaurant reorder campaign whatsapp",
+      "hire restaurant ordering system in the UAE", "freelance restaurant ordering system UAE",
     ],
   },
   hero: {

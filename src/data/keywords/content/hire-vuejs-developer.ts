@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Hire Vue JS Developer: Vue 3 Apps from ${P.software}`,
-    description: `Hire Vue JS developer help for a dashboard, SPA or customer portal. Vue 3, Pinia and TypeScript builds from ${P.software}, with a clear code-review checklist.`,
+    description: `Hire Vue JS developer help for a dashboard, SPA or customer portal: Vue 3, Pinia and TypeScript, with a code-review checklist. From ${P.software}.`,
     keywords: [
       "hire vue js developer", "hire vue.js developer", "hire vuejs developer India", "vue js developer for hire",
       "hire vue developer freelance", "vue js developer cost India", "vue js developer hourly rate", "hire vue 3 developer",

@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "ai voice agent nz", "how much does an ai receptionist cost nz", "ai receptionist vs part time receptionist",
       "is it legal to record calls nz", "ai receptionist te reo maori place names", "custom ai receptionist nz",
       "ai receptionist near me nz",
+      "hire ai receptionist in New Zealand", "freelance ai receptionist New Zealand",
     ],
   },
   hero: {

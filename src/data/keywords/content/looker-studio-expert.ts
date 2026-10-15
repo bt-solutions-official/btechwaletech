@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Looker Studio expert",
   updated: "2026-09-25",
   meta: {
-    title: "Looker Studio Expert: Free, Fast, Shareable Reports",
+    title: `Looker Studio Expert: Reports, Feeds from ${P.ai}`,
     description: `Hire a Looker Studio expert for GA4, Google Ads, Search Console and Sheets dashboards: blends, extracts, client templates. Data feeds from ${P.ai}.`,
     keywords: [
       "looker studio expert", "looker studio expert India", "hire looker studio expert", "looker studio freelancer",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "looker studio for agencies", "looker studio vs power bi", "looker studio pro", "looker studio developer cost",
       "looker studio report cost in India", "white label looker studio reports", "how to hire a looker studio expert", "looker studio expert near me",
       "looker studio dashboard banwana hai", "marketing dashboard looker studio",
+      "best looker studio expert in India",
     ],
   },
   hero: {

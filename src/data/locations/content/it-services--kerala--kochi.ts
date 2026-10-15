@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 9.9312, lng: 76.2673 },
   meta: {
-    title: "Hire Freelance Software & App Developers in Kochi",
+    title: "Kochi App & Software Developers: Seafood & Logistics",
     description:
-      "Freelance software, Android and iOS app and AI developers for Kochi, a lean alternative to a software development team in Kochi. Apps from ₹40,000.",
+      "Kochi software, Android and iOS app and AI developers: a lean freelance alternative to a software development team in Kochi. Apps from ₹40,000, sites ₹10,000.",
     keywords: [
       "software development team in Kochi",
       "IT services team in Kochi",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "IT services near me Edappally",
       "കൊച്ചിയിലെ സോഫ്റ്റ്‌വെയർ ഡെവലപ്പർമാർ",
       "Kochi mein software developer",
+      "Kochi website designer",
+      "website cost in Kochi",
+      "IT company in Kochi",
+      "Kerala SEO services",
+      "hire developer Kochi",
+      "seafood software in Kochi",
+      "logistics software in Kochi",
+      "wholesale software in Kochi",
+      "startups software in Kochi",
     ],
   },
   hero: {

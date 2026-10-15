@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "booking app development cost", "marketplace app development cost", "iot app development cost", "app maintenance cost per year",
       "fixed price vs time and materials app", "app store fees germany", "cost to build an app for a german startup",
       "cheap app development germany", "app development quote germany", "how is app development cost calculated",
+      "hire app development in Germany", "freelance app development Germany",
     ],
   },
   hero: {

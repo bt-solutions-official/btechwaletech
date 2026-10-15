@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Sihor · Mill Sites from ${P.site}`,
-    description: `Website developer in Sihor for steel re-rolling mills, brass and copper ware makers and town businesses. Sites from ${P.site}, stores from ${P.shop}, 2 months free care.`,
+    description: `Website developer in Sihor for steel re-rolling mills, brass and copper ware makers & town businesses. Sites from ${P.site}, stores from ${P.shop}, 2 free months.`,
     keywords: [
       "website developer in Sihor", "website developer Sihor Bhavnagar", "website developer Sihor Gujarat", "web developer Sihor",
       "website designer Sihor", "rolling mill website", "steel re-rolling mill website Sihor", "GIDC Sihor website",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "What does a website developer in Sihor build for a rolling mill or metalware maker?",
     text: `A website developer in Sihor should give a re-rolling mill clear product pages with sections, sizes, lengths and grades, plus capacity, delivery area and a rate enquiry form. A brass or copper maker needs a product catalogue or an online store. With BtechWaleTech, catalogue sites start at ${P.site} and stores with UPI checkout at ${P.shop}.`,
-    more: `Steel buyers often look at the nearby yards too; see websites for Alang. For the district city, read <a href='/gujarat/website-development-services-bhavnagar/'>website development services in Bhavnagar</a>.`,
+    more: `Steel buyers often look at the nearby yards too; see <a href='/gujarat/website-developer-alang/'>websites for Alang</a>. For the district city, read <a href='/gujarat/website-development-services-bhavnagar/'>website development services in Bhavnagar</a>.`,
   },
   snapshot: {
     caption: "Sihor, Gujarat: website projects at a glance",
@@ -269,8 +269,8 @@ const content: FreelanceContent = {
       heading: "Website developer in Sihor and the Bhavnagar belt",
       paragraphs: [
         `The same process serves every town in this part of Bhavnagar district; what changes is the trade.`,
-        `Bhavnagar city, a short drive away, has manufacturers, traders and institutions of every size, covered on <a href='/gujarat/website-development-services-bhavnagar/'>website development services in Bhavnagar</a>. Alang's ship-recycling yards, which feed Sihor's mills, have their own guide on websites for Alang, and nearby Talaja on <a href='/gujarat/website-developer-talaja/'>Talaja</a>.`,
-        `South-west, Palitana's dharamshalas and pilgrim trade need very different sites, explained on the guide for a <a href='/gujarat/website-developer-palitana/'>website developer in Palitana</a>, and Gariadhar's diamond workshops on Gariadhar. Engineering buyers in Rajkot, many of whom buy steel from this belt, are covered on <a href='/gujarat/website-development-services-rajkot/'>website development services in Rajkot</a>. Broader IT help in the town itself is on our <a href='/sihor/'>Sihor services page</a>.`,
+        `Bhavnagar city, a short drive away, has manufacturers, traders and institutions of every size, covered on <a href='/gujarat/website-development-services-bhavnagar/'>website development services in Bhavnagar</a>. Alang's ship-recycling yards, which feed Sihor's mills, have their own guide on <a href='/gujarat/website-developer-alang/'>websites for Alang</a>, and nearby Talaja on <a href='/gujarat/website-developer-talaja/'>Talaja</a>.`,
+        `South-west, Palitana's dharamshalas and pilgrim trade need very different sites, explained on the guide for a <a href='/gujarat/website-developer-palitana/'>website developer in Palitana</a>, and Gariadhar's diamond workshops on <a href='/gujarat/website-developer-gariadhar/'>Gariadhar</a>. Engineering buyers in Rajkot, many of whom buy steel from this belt, are covered on <a href='/gujarat/website-development-services-rajkot/'>website development services in Rajkot</a>. Broader IT help in the town itself is on our <a href='/sihor/'>Sihor services page</a>.`,
         `Wherever you are, the steps are the same: WhatsApp brief, itemised quote, preview link, launch and two free months.`,
       ],
     },
@@ -336,9 +336,9 @@ const content: FreelanceContent = {
       { name: "Sihor town bazaar", note: "Shops, traders and service businesses need short Gujarati-first sites with timings, stock and WhatsApp buttons." },
       { name: "Schools and clinics in Sihor", note: "Institutions serving the town and villages need admissions, timings, doctors and tap-to-call on fast pages." },
       { name: "Bhavnagar", note: "The district city's manufacturers and traders need larger sites; many buy from or sell to Sihor units.", href: "/gujarat/website-development-services-bhavnagar/" },
-      { name: "Alang", note: "Ship-recycling yards and material traders that supply Sihor's mills need inventory and enquiry pages." },
+      { name: "Alang", note: "Ship-recycling yards and material traders that supply Sihor's mills need inventory and enquiry pages.", href: "/gujarat/website-developer-alang/" },
       { name: "Palitana", note: "Dharamshalas, bhojanshalas and shops serving Jain pilgrims need booking and information pages.", href: "/gujarat/website-developer-palitana/" },
-      { name: "Gariadhar", note: "Diamond-polishing workshops and farm traders need profile and hiring pages." },
+      { name: "Gariadhar", note: "Diamond-polishing workshops and farm traders need profile and hiring pages.", href: "/gujarat/website-developer-gariadhar/" },
       { name: "Talaja", note: "Traders and services near the coast need sites that outside buyers can check quickly.", href: "/gujarat/website-developer-talaja/" },
       { name: "Botad", note: "Ginning and trading businesses in Botad need bilingual sites with WhatsApp enquiries." },
       { name: "Rajkot", note: "Engineering firms and fabricators that buy steel judge suppliers by their websites.", href: "/gujarat/website-development-services-rajkot/" },

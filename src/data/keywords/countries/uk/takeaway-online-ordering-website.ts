@@ -70,7 +70,7 @@ const content: FreelanceContent = {
     cards: [
       { name: "Ordering website", note: `Menu with options and extras, basket, checkout, delivery or collection choice, order tracking page and an admin panel for prices and sold-out items, from ${P.shop}.`, href: "/uk/ecommerce-website-design/", size: "lg" },
       { name: "Branded ordering app", note: `Android and iOS app published under your own developer accounts, with saved addresses, one-tap re-order and push offers, from ${P.app}.`, href: "/uk/flutter-app-development/", size: "lg" },
-      { name: "Card and wallet checkout", note: "Your own processor account connected, Apple Pay and Google Pay switched on where it supports them, refunds from the admin panel.", href: "/uk/payment-gateway-integration/", size: "md" },
+      { name: "Card and wallet checkout", note: "Your own processor account connected, Apple Pay and Google Pay switched on where it supports them, refunds from the admin panel.", href: "/uk/ecommerce-website-design/", size: "md" },
       { name: "Postcode delivery zones", note: "Zones by postcode district or radius, a minimum order and delivery charge per zone, and a clear message for addresses you do not cover.", size: "md" },
       { name: "Kitchen tickets and alerts", note: "New orders ring on a tablet, print on a thermal printer and appear on an order screen, with estimated ready times sent to the customer.", size: "md" },
       { name: "WhatsApp and SMS updates", note: `Order confirmations and “out for delivery” messages, plus consented re-order offers, automated from ${P.ai}.`, href: "/uk/whatsapp-business-api-integration/", size: "sm" },
@@ -173,7 +173,7 @@ const content: FreelanceContent = {
         `Take cards and phone wallets through a processor account in your takeaway's own name, so money lands in your bank on your processor's schedule, and keep cash on delivery as an option only if your drivers handle it well. We connect the processor you choose; we never hold or route your takings.`,
         `Most customers ordering on a phone at 8pm want to pay with Apple Pay or Google Pay rather than type a card number. Most major processors support both wallets on the web once your domain is set up with them. We enable the wallets your processor offers, test a real order and a refund, and make sure the checkout works on older iPhones and budget Android handsets.`,
         `Cash on delivery still matters for some areas and older customers. If you offer it, set limits: maybe cash only for known customers, or only below a certain order total, or not at all after 10pm. The ordering site can enforce those rules automatically. For collection orders, “pay in shop” is another option, although prepaid collection reduces no-shows.`,
-        `Refunds and partial refunds (a missing drink, a cold pizza) should be two taps in your admin panel, not a login to a separate dashboard. For more on connecting card payments to UK sites generally, see our <a href='/uk/payment-gateway-integration/'>payment gateway integration guide</a>.`,
+        `Refunds and partial refunds (a missing drink, a cold pizza) should be two taps in your admin panel, not a login to a separate dashboard. For more on connecting card payments to UK sites generally, see our <a href='/uk/ecommerce-website-design/'>ecommerce website design guide</a>.`,
       ],
     },
     {
@@ -428,7 +428,7 @@ const content: FreelanceContent = {
     links: [
       { name: "UK services hub", href: "/uk/" },
       { name: "Restaurant website design UK", href: "/uk/restaurant-website-design/" },
-      { name: "Payment gateway integration UK", href: "/uk/payment-gateway-integration/" },
+      { name: "WooCommerce developer UK", href: "/uk/woocommerce-developer/" },
       { name: "WhatsApp Business API integration", href: "/uk/whatsapp-business-api-integration/" },
       { name: "Local SEO services UK", href: "/uk/local-seo-services/" },
       { name: "App development cost UK", href: "/uk/app-development-cost/" },

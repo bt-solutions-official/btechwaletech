@@ -7,7 +7,7 @@ const nanpara: CityContent = {
   meta: {
     title: "IT Services in Nanpara | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Nanpara traders, border transporters, rice millers, clinics and schools.",
+      "Hindi websites, apps, Maps SEO and WhatsApp automation for Nanpara traders, border transporters, rice millers, clinics and schools. Websites from ₹10,000.",
     keywords: [
       "IT services in Nanpara",
       "IT services team in Nanpara",
@@ -29,6 +29,12 @@ const nanpara: CityContent = {
       "Nanpara me app kaise banwaye",
       "नानपारा वेबसाइट डिजाइन",
       "website designer Bahraich Nanpara",
+      "Nanpara website designer",
+      "web development company Nanpara",
+      "hire freelance web developer Nanpara",
+      "Bahraich district SEO",
+      "website designer Bahraich district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

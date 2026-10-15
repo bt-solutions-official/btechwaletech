@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "local seo auckland", "suburb pages for auckland business", "remote web designer for auckland business",
       "auckland agency alternative", "web design new zealand", "web design near me auckland",
       "who builds websites for auckland small businesses", "website redesign auckland", "auckland ecommerce website",
+      "hire web design in New Zealand", "freelance web design New Zealand",
     ],
   },
   hero: {

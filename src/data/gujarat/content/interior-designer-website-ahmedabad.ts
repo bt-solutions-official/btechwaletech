@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Interior Designer Website in Ahmedabad from ${P.site}`,
-    description: `Interior designer website in Ahmedabad: project galleries that load fast, room-wise portfolios and WhatsApp enquiries. Studio sites from ${P.site}, quote in 2 days.`,
+    description: `Interior designer website in Ahmedabad: project galleries that load fast, room-wise portfolios and WhatsApp enquiries. Studio sites from ${P.site}, 2-day quote.`,
     keywords: [
       "interior designer website in Ahmedabad", "interior designer website Ahmedabad", "interior design website development Ahmedabad", "interior designer website near me",
       "interior designer portfolio website Ahmedabad", "architect website design Ahmedabad", "interior design studio website Gujarat", "interior designer website Ahmedabad Gujarat",

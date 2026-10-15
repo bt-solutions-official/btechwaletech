@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 21.1458, lng: 79.0882 },
   meta: {
-    title: "Freelance Software & App Developers in Nagpur",
+    title: "Nagpur App & Software Developers: Transport & Mining",
     description:
       "Hire freelance software developers for Nagpur: fleet and trip software, lead CRMs, contractor tools, AI agents and Android and iOS apps. Apps from ₹40,000.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT support near me Nagpur",
       "नागपूर सॉफ्टवेअर डेव्हलपर",
       "Nagpur mein software banwana",
+      "Nagpur website designer",
+      "website cost in Nagpur",
+      "IT company in Nagpur",
+      "Maharashtra SEO services",
+      "hire developer Nagpur",
+      "transport software in Nagpur",
+      "mining software in Nagpur",
+      "wholesale software in Nagpur",
+      "orange software in Nagpur",
+      "website developer Sitabuldi Nagpur",
     ],
   },
   hero: {

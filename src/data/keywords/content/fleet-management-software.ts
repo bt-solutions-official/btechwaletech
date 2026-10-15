@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "how much does fleet management software cost", "best fleet management software for small fleet", "fleet software for bus operators",
       "fleet management software Nagpur", "fleet management software Ludhiana", "fleet management software Surat",
       "gaadi management software", "truck ka hisaab rakhne ka software", "fleet management software developer",
+      "fleet management software company in India",
+      "fleet management software services",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer for Aji GIDC Rajkot · From ${P.site}`,
-    description: `Website developer for Aji GIDC Rajkot small engineering and job-work units: lean, fast first websites from ${P.site}, live in 1–2 weeks, with every login in your name.`,
+    description: `Website developer for Aji GIDC Rajkot small engineering & job-work units: lean, fast first websites from ${P.site}, live in 1–2 weeks, with logins in your name.`,
     keywords: [
       "website developer for Aji GIDC Rajkot", "website developer Aji GIDC", "Aji industrial estate website design", "website developer near me Aji",
       "Aji Vasahat Rajkot web developer", "small factory website Rajkot", "job work website Rajkot", "CNC job shop website",

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Coaching Institute Website in Surat from ${P.site}`,
-    description: `Coaching institute website in Surat with course and batch pages, honestly presented results and online fee payment by UPI. Sites from ${P.site}, quote in 2 days.`,
+    description: `Coaching institute website in Surat with course and batch pages, honestly presented results & online fee payment by UPI. Sites from ${P.site}, quote in 2 days.`,
     keywords: [
       "coaching institute website in Surat", "coaching classes website Surat", "coaching institute website near me", "coaching website design Surat Gujarat",
       "tuition classes website Surat", "JEE NEET coaching website Surat", "GPSC coaching website", "IELTS coaching website Surat",
@@ -222,7 +222,7 @@ const content: FreelanceContent = {
         `It can be found for specific searches, but nobody can guarantee rankings, and the broadest phrases are crowded with large national brands and directories. Aim for the searches local families actually type.`,
         `Parents and students search by exam, standard and area: “NEET coaching in Adajan”, “Std 10 tuition Varachha Gujarati medium”, “IELTS classes near Vesu weekend batch”. A page per course, branch pages with full address and map, clear titles and schema markup for your organisation and courses answer those directly. A sitemap goes to Google Search Console at launch so you can see which searches already bring impressions.`,
         `Your Google Business Profile matters greatly. Each branch should have its own listing with the same name, address and phone as its branch page, real photos of classrooms and correct hours. Reviews from genuine students help; never buy or script them.`,
-        `AI assistants are often asked “which coaching classes in Surat have Gujarati medium batches?” or “what are the fees for X course?”. They quote pages that state facts plainly. A batch table in text, a fee page and a clear refund policy make your site quotable. Ongoing search work starts at ${P.seo} a month; see <a href='/seo-for-coaching-institute/'>SEO for coaching institutes</a>.`,
+        `AI assistants are often asked “which coaching classes in Surat have Gujarati medium batches?” or “what are the fees for X course?”. They quote pages that state facts plainly. A batch table in text, a fee page and a clear refund policy make your site quotable. Ongoing search work starts at ${P.seo}; see <a href='/seo-for-coaching-institute/'>SEO for coaching institutes</a>.`,
       ],
     },
     {
@@ -382,6 +382,7 @@ const content: FreelanceContent = {
     heading: "More education and Surat guides",
     links: [
       { name: "Gujarat website services", href: "/gujarat/" },
+      { name: "School website in Ahmedabad", href: "/gujarat/school-website-ahmedabad/" },
       { name: "Diamond company website in Surat", href: "/gujarat/diamond-company-website-surat/" },
       { name: "Hospital website design in Surat", href: "/gujarat/hospital-website-surat/" },
       { name: "Lab grown diamond company website in Surat", href: "/gujarat/lab-grown-diamond-website-surat/" },

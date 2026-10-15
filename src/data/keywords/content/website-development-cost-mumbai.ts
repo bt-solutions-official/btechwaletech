@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer charges near me Mumbai", "website cost Andheri", "website cost Thane Navi Mumbai", "website rates Bombay",
       "Mumbai me website banane ka kharcha", "website banwane ka kharcha Mumbai", "website kitne ka banta hai Mumbai", "cheap website Mumbai",
       "website development price list Mumbai", "web app development cost Mumbai",
+      "website development cost in Mumbai cost", "website development cost in Mumbai price", "hire website development cost in Mumbai", "freelance website development cost in Mumbai",
+      "best website development cost in Mumbai", "website development cost in Mumbai charges", "website development cost near me Mumbai",
     ],
   },
   hero: {

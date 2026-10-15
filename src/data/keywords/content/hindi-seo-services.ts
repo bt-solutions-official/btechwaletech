@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "hindi content seo", "hindi blog seo", "hindi seo near me", "hindi seo for small business", "hindi url or english url",
       "hindi fonts website speed", "hindi seo in Lucknow", "hindi seo in Jaipur", "hindi seo in Patna", "hindi website ranking kaise badhaye",
       "hindi me seo services", "hindi local seo",
+      "best hindi seo services in India",
     ],
   },
   hero: {
@@ -47,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How do you rank a Hindi or bilingual website on Google?",
-    text: `Research what your customers type in Devanagari and in Hinglish, write real Hindi pages for those queries instead of auto-translating, publish each language on its own URL, link the versions with hi-IN and en-IN hreflang, and keep Hindi fonts light so pages load fast on budget phones. Hindi SEO services from BtechWaleTech start at ${P.seo} a month.`,
+    text: `Research what your customers type in Devanagari and in Hinglish, write real Hindi pages for those queries instead of auto-translating, publish each language on its own URL, link the versions with hi-IN and en-IN hreflang, and keep Hindi fonts light so pages load fast on budget phones. Hindi SEO services from BtechWaleTech start at ${P.seo}.`,
     more: `Serving customers in several countries as well? See <a href='/international-seo-services/'>international SEO services</a>. Need a Hindi chatbot to answer the enquiries these pages bring? Read about our <a href='/hindi-ai-chatbot/'>Hindi AI chatbot</a> work.`,
   },
   snapshot: {
@@ -252,7 +253,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do Hindi SEO services cost in India?",
       paragraphs: [
-        `Hindi SEO services from BtechWaleTech start at ${P.seo} a month (${P.seoUsd}). A new bilingual SEO website with 299+ pages starts at ${P.seoSite} (${P.seoSiteUsd}) and takes 3–5 weeks; a smaller Hindi-English site up to 100 pages starts at ${P.site}.`,
+        `Hindi SEO services from BtechWaleTech start at ${P.seo} (${P.seoUsd}). A new bilingual SEO website with 299+ pages starts at ${P.seoSite} (${P.seoSiteUsd}) and takes 3–5 weeks; a smaller Hindi-English site up to 100 pages starts at ${P.site}.`,
         `What moves the monthly figure: how many Hindi pages you want written or rewritten each month, how technical the subject is (medical and legal Hindi takes longer to get right), whether you want a Hindi blog or only service pages, the number of branches, and whether your current site can support a second language cleanly or needs structural fixes first.`,
         `Other providers' quotes for Hindi SEO vary widely, and the price differences usually come from three things: whether the Hindi is machine-translated or written, whether hreflang and URL structure are part of the job or ignored, and whether reporting separates Hindi and English performance. Ask each provider to show you one Hindi page they wrote and the hreflang tags on it. That single check separates real Hindi SEO services from translated filler.`,
         `Because a bilingual setup touches the whole site, we quote in two parts: a one-time setup (structure, hreflang, fonts, first batch of pages) and the ongoing monthly work. Nothing is billed until you approve the written quote. Full plan details are on our <a href='/pricing/'>pricing page</a>.`,
@@ -369,12 +370,12 @@ const content: FreelanceContent = {
       note: `Starting prices only. The written quote lists every item so you can drop or add pages. See the <a href='/pricing/'>full pricing</a> for plan details.`,
       columns: ["Your situation", "Work involved", "Starts at", "Time"],
       rows: [
-        ["Good English site, no Hindi", "Monthly Hindi SEO: research, pages, hreflang, reports", `${P.seo} per month`, "Ongoing"],
+        ["Good English site, no Hindi", "Monthly Hindi SEO: research, pages, hreflang, reports", `${P.seo}`, "Ongoing"],
         ["Site cannot host a second language", "New bilingual site up to 100 pages", `${P.site}`, "1–2 weeks"],
         ["Many services, both languages", "Bilingual SEO website, 299+ pages", `${P.seoSite}`, "3–5 weeks"],
         ["Hindi enquiries flooding WhatsApp", "Hindi auto-replies and lead sorting", `${P.ai}`, "2–4 weeks"],
         ["Hindi customers want an app", "Android and iOS app with Hindi interface", `${P.app}`, "6–10 weeks"],
-        ["After launch", "Maintenance after 2 free months", `${P.care} per month`, "Ongoing"],
+        ["After launch", "Maintenance after 2 free months", `${P.care}`, "Ongoing"],
       ],
       hideSm: [1],
     },
@@ -416,7 +417,7 @@ const content: FreelanceContent = {
   faqHeading: "Hindi SEO services: common questions",
   faqs: [
     { question: "What are Hindi SEO services?", answer: "Hindi SEO services are the keyword research, writing, technical setup and reporting that help Hindi-language pages rank for people who search in Hindi or Hinglish. They include Devanagari and Romanised keyword research, separate URLs for each language, hi-IN hreflang, Hindi titles and descriptions, fast Devanagari fonts and a Google Business Profile that works for Hindi-speaking customers." },
-    { question: "How much do Hindi SEO services cost?", answer: `With BtechWaleTech, Hindi SEO starts at ${P.seo} a month. A new bilingual SEO website with 299+ pages starts at ${P.seoSite} and takes 3–5 weeks, and a smaller Hindi-English site up to 100 pages starts at ${P.site}. The monthly figure depends on how many Hindi pages you need, how technical the subject is and how many branches you have.` },
+    { question: "How much do Hindi SEO services cost?", answer: `With BtechWaleTech, Hindi SEO starts at ${P.seo}. A new bilingual SEO website with 299+ pages starts at ${P.seoSite} and takes 3–5 weeks, and a smaller Hindi-English site up to 100 pages starts at ${P.site}. The monthly figure depends on how many Hindi pages you need, how technical the subject is and how many branches you have.` },
     { question: "Should my website be in Hindi, English or both?", answer: "Both, if a real share of your customers prefer Hindi and another share prefer English. Check Search Console for Devanagari and Hinglish queries and ask your staff which language callers use. If Hindi demand is small, strengthen English pages first. If it is large, a bilingual site with separate URLs and hreflang lets each customer land on the version they are comfortable reading." },
     { question: "Is it better to target Devanagari or Hinglish keywords?", answer: "Target both, but write the page body in the script your readers prefer, which is usually Devanagari for a Hindi page. Let common Hinglish spellings appear naturally in headings, FAQs and alt text. Mixed queries that keep an English word, such as a test name or a product, are very common, so keep that English term rather than replacing it with formal Hindi." },
     { question: "What hreflang code should I use for Hindi pages in India?", answer: "Use hi-IN for Hindi pages aimed at India and en-IN for the English versions, plus x-default for the fallback. Google's documentation says language codes follow ISO 639-1 and region codes ISO 3166-1 Alpha 2, and a country code on its own is not valid. Every version must list itself and all others, and both pages must point to each other or Google ignores the tags." },

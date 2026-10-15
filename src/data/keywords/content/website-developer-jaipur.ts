@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Vaishali Nagar", "website developer Mansarovar Jaipur", "website developer C-Scheme Jaipur", "website developer Sitapura",
       "website developer VKI Jaipur", "jewellery business website Jaipur", "hotel website developer Jaipur", "coaching institute website Jaipur",
       "WordPress developer Jaipur", "Pink City website developer",
+      "website developer in Jaipur cost", "website developer in Jaipur price", "hire website developer in Jaipur", "freelance website developer in Jaipur",
+      "best website developer in Jaipur", "website developer in Jaipur charges",
     ],
   },
   hero: {

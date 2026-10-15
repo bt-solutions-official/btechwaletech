@@ -11,8 +11,8 @@ const content: FreelanceContent = {
   crumb: "SEO for accountants UK",
   updated: "2026-09-25",
   meta: {
-    title: `SEO for Accountants UK: Niche Leads from ${P.seo}/mo`,
-    description: `SEO for accountants UK: niche pages for contractors, landlords and MTD, local search for your towns and a tax-deadline content plan. From ${P.seo} a month.`,
+    title: `SEO for Accountants UK: Niche Leads from ${P.seo}`,
+    description: `SEO for accountants UK: niche pages for contractors, landlords and MTD, local search for your towns and a tax-deadline content plan. From ${P.seo}.`,
     keywords: [
       "seo for accountants uk", "seo for accountants", "accountant seo", "accountancy seo uk", "seo for accounting firms uk",
       "local seo for accountants", "seo for bookkeepers uk", "seo for chartered accountants", "how can accountants get more clients online",
@@ -27,11 +27,11 @@ const content: FreelanceContent = {
     eyebrow: "Search work for UK practices · niche services, local towns, tax-year timing",
     h1: "SEO for accountants in the UK: win the niche and local searches your best clients make",
     lede: `SEO for accountants UK practices can rely on starts with choosing which clients you want, not which keywords look busy. Contractors, landlords facing Making Tax Digital, e-commerce sellers and owner-managed companies all search differently, and so do people typing “accountant near me” in Reading or Swansea. BtechWaleTech is three freelance developers in India who plan niche service pages, tune your Google Business Profile, publish around HMRC deadlines and track which searches turn into engagements. Monthly SEO starts at ${P.seo}. Need the site rebuilt first? See our <a href='/uk/accountant-website-design/'>accountant website design</a> page.`,
-    pills: ["Niche pages: contractors, landlords, MTD", "Local SEO for each town you serve", "31 January content calendar", "Review requests done by the rules", "Enquiry tracking by service", "No lock-in wording from us", "From " + P.seo + " a month"],
+    pills: ["Niche pages: contractors, landlords, MTD", "Local SEO for each town you serve", "31 January content calendar", "Review requests done by the rules", "Enquiry tracking by service", "No lock-in wording from us", "From " + P.seo + ""],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week, including the weeks before 31 January",
   },
   facts: [
-    ["Monthly SEO from", `${P.seo} a month`],
+    ["Monthly SEO from", `${P.seo}`],
     ["Site rebuild if needed", `From ${P.site}`],
     ["Large niche-and-town builds", `From ${P.seoSite} for 299+ pages`],
     ["Lead-tracking dashboard", `Included in setup; custom apps from ${P.software}`],
@@ -46,7 +46,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How do UK accountants win clients from Google?",
-    text: `UK accountants win clients from Google by owning a few niche searches (contractor accounts, landlord tax, MTD for Income Tax), ranking in the local map pack for each town they serve, publishing ahead of HMRC deadlines such as 31 January, collecting genuine reviews and tracking which pages produce engagements. BtechWaleTech runs SEO for accountants from ${P.seo} a month.`,
+    text: `UK accountants win clients from Google by owning a few niche searches (contractor accounts, landlord tax, MTD for Income Tax), ranking in the local map pack for each town they serve, publishing ahead of HMRC deadlines such as 31 January, collecting genuine reviews and tracking which pages produce engagements. BtechWaleTech runs SEO for accountants from ${P.seo}.`,
     more: `If your pages are thin or slow, fix the base first with a <a href='/uk/technical-seo-audit/'>technical SEO audit</a>, or read how <a href='/uk/local-seo-services/'>local SEO services</a> work for any UK business.`,
   },
   snapshot: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Who owns the work", "Content sometimes stays on their platform", "Usually yours", "Yours: pages, profile access, analytics, code"],
       ["Contract", "Often a minimum term", "Per gig", "Monthly work agreed in your written quote"],
       ["In-person meetings", "Sometimes", "No", "No; video calls, shared documents and WhatsApp"],
-      ["Starting cost", "Quotes vary widely", "Quotes vary widely", `From ${P.seo} a month`],
+      ["Starting cost", "Quotes vary widely", "Quotes vary widely", `From ${P.seo}`],
     ],
     fine: "If you want someone to write tax commentary without your partners reviewing it, a specialist accountancy content provider will suit you better; we need a qualified person at your practice to check tax facts before pages go live.",
   },
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
       note: "Starting prices in USD, confirmed in your itemised written quote before any work starts.",
       columns: ["Scope", "What it covers", "Starting price", "Typical time"],
       rows: [
-        ["Monthly SEO", "Niche or deadline pages, profile upkeep, review flow, Search Console checks, report", `From ${P.seo} a month`, "Ongoing"],
+        ["Monthly SEO", "Niche or deadline pages, profile upkeep, review flow, Search Console checks, report", `From ${P.seo}`, "Ongoing"],
         ["Site rebuild first", "Up to 100 pages with niche structure, fast mobile pages, tracking built in", `From ${P.site}`, "1–2 weeks"],
         ["Large niche-and-town build", "299+ pages, each with specific content, internal linking and schema", `From ${P.seoSite}`, "3–5 weeks"],
         ["Lead dashboard or calculator app", "Enquiries by service, won/lost tagging, partner logins, CRM writes", `From ${P.software}`, "6–12 weeks"],

@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `NDIS Software for Small Providers: Custom from ${P.software}`,
-    description: `NDIS software for small providers: buy or build? Rostering, shift notes, incident records, bulk payment files and Australian hosting. Custom tools from ${P.software}.`,
+    description: `NDIS software for small providers: buy or build? Rostering, shift notes, incident records, bulk payment files and Australian hosting. Tools from ${P.software}.`,
     keywords: [
       "ndis software for small providers", "ndis software", "ndis provider software", "ndis management software",
       "custom ndis software", "ndis software australia", "best ndis software for small providers", "ndis software cost",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "ndis invoicing software for plan managed participants", "ndis software hosted in australia", "ndis crm for small providers",
       "off the shelf vs custom ndis software", "ndis software sydney", "ndis software melbourne", "ndis software brisbane",
       "ndis software perth", "support worker shift notes app", "ndis software for sole traders",
+      "hire ndis software for small providers in Australia", "freelance ndis software for small providers Australia",
     ],
   },
   hero: {

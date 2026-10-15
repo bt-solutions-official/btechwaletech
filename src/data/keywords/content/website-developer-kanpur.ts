@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Kakadeo", "website developer Swaroop Nagar", "website developer Panki", "website developer Jajmau",
       "catalogue website Kanpur", "Kanpur me website kaise banwaye", "website banwana hai Kanpur", "website developer Unnao",
       "website developer Kanpur Dehat", "best website developer in Kanpur",
+      "website developer in Kanpur cost", "website developer in Kanpur price", "hire website developer in Kanpur", "freelance website developer in Kanpur",
+      "website developer in Kanpur charges",
     ],
   },
   hero: {

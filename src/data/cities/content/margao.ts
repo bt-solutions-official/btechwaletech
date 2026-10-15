@@ -7,7 +7,7 @@ const margao: CityContent = {
   meta: {
     title: "IT Services in Margao: Websites, Apps, SEO & AI",
     description:
-      "Websites, apps, SEO, ecommerce and AI automation for Margao shops, hotels, clinics, Verna suppliers and Salcete homestays. Sites from ₹10,000, 2 months free upkeep.",
+      "Websites, apps, SEO, ecommerce and AI automation for Margao shops, hotels, clinics, Verna suppliers and Salcete homestays. Websites from ₹10,000.",
     keywords: [
       "IT services Margao",
       "website development team in Margao",
@@ -25,6 +25,16 @@ const margao: CityContent = {
       "website maintenance Margao",
       "Konkani website Goa",
       "Margao me website kaise banwaye",
+      "Margao website designer",
+      "website cost in Margao",
+      "web development company Margao",
+      "hire freelance web developer Margao",
+      "Salcete SEO services",
+      "website designer Salcete",
+      "Goa SEO services",
+      "Margao website banwane ka kharcha",
+      "website design Fatorda Margao",
+      "website design Station Road Margao",
     ],
   },
   hero: {

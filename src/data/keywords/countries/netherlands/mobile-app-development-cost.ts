@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "app maintenance cost per year", "app store fees netherlands", "cost to build an app with ideal payments",
       "app bureau vs offshore app developer", "app development cost for small business netherlands", "app backend cost",
       "gdpr app development cost", "app development cost near me", "cheap app development netherlands", "booking app cost netherlands",
+      "hire mobile app development in the Netherlands", "freelance mobile app development Netherlands",
     ],
   },
   hero: {

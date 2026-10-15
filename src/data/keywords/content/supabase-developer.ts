@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "supabase backend developer", "supabase flutter developer", "supabase react developer", "supabase nextjs developer",
       "supabase developer near me", "supabase migration from firebase", "how to hire a supabase developer", "supabase developer for mvp",
       "supabase security audit", "supabase developer chahiye",
+      "best supabase developer in India", "supabase developer price", "supabase developer charges",
     ],
   },
   hero: {
@@ -401,7 +402,7 @@ const content: FreelanceContent = {
     { question: "Can I hire a Supabase developer just to review my prototype?", answer: "Yes. Many founders build a first version themselves, often with AI coding tools, and want a Supabase developer to check it before launch. A review covers the schema, every policy, storage buckets, key usage, migrations and backups, and ends with a prioritised fix list. You can then fix items yourself or ask us to, with each fix priced separately." },
     { question: "Why is my Supabase app slow?", answer: "Usually because of missing indexes on columns used in filters and policies, policies that run expensive sub-queries for every row, or screens that fetch whole tables. Checking EXPLAIN plans, adding indexes on user and organisation ID columns, paginating results and moving dashboard totals into views typically fixes most of it." },
     { question: "How do I pay a Supabase developer at BtechWaleTech?", answer: "Indian clients pay by UPI or bank transfer and international clients pay in USD by Wise, bank wire or PayPal. Payments are split into milestones written into the quote. You receive an itemised estimate first, and nothing is billed until you approve it in writing." },
-    { question: "What happens after my Supabase app launches?", answer: `You get two months of free maintenance covering bug fixes, advisor warnings, small changes and policy adjustments. After that, maintenance continues from ${P.care} a month if you want it. Contract details such as notice or NDA terms are agreed in writing in your quote; see our terms page.` },
+    { question: "What happens after my Supabase app launches?", answer: `You get two months of free maintenance covering bug fixes, advisor warnings, small changes and policy adjustments. After that, maintenance continues from ${P.care} if you want it. Contract details such as notice or NDA terms are agreed in writing in your quote; see our terms page.` },
     { question: "Supabase developer chahiye, pehle kya taiyaar karun?", answer: "Ek simple list banaiye: app kaun use karega, har user kya dekh ya badal sakta hai, aur kaunse screens pehle chahiye. Figma ya prototype ho toh bhej dijiye. WhatsApp par yeh bhejne ke baad lagbhag do working days mein table list aur itemised quote mil jaata hai, approval ke baad hi kaam shuru hota hai." },
   ],
   related: {

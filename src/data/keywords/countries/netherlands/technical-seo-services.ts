@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "Technical SEO services Netherlands",
   updated: "2026-09-25",
   meta: {
-    title: `Technical SEO Services Netherlands, from ${P.seo}/mo`,
+    title: `Technical SEO Services Netherlands from ${P.seo}`,
     description: `Technical SEO services for Dutch sites and webshops: hreflang nl-NL/nl-BE/en, Core Web Vitals, faceted crawl fixes, schema. Monthly from ${P.seo}.`,
     keywords: [
       "technical seo services netherlands", "technical seo netherlands", "technische seo", "technical seo audit netherlands",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "organization schema", "seo for google.nl", "ai overviews seo", "technical seo cost netherlands",
       "monthly technical seo", "search console audit", "seo migration netherlands", "remote technical seo india",
       "technical seo freelancer", "inp optimisation",
+      "hire technical seo services in the Netherlands",
     ],
   },
   hero: {
@@ -46,7 +47,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What technical SEO does a Dutch website or webshop need to rank on google.nl and in AI Overviews?",
-    text: `A Dutch site needs pages Google can crawl, index and understand: correct hreflang across nl-NL, nl-BE and English, fast templates that pass Core Web Vitals, faceted filters kept out of the crawl, and schema that matches visible content. Technical SEO services from BtechWaleTech start from ${P.seo} a month, with fixes shipped in your code.`,
+    text: `A Dutch site needs pages Google can crawl, index and understand: correct hreflang across nl-NL, nl-BE and English, fast templates that pass Core Web Vitals, faceted filters kept out of the crawl, and schema that matches visible content. Technical SEO services from BtechWaleTech start from ${P.seo}, with fixes shipped in your code.`,
     more: `Building fresh rather than fixing? Start with <a href='/netherlands/wordpress-website-development/'>WordPress website development</a> or, for shops, our <a href='/netherlands/magento-to-shopify-migration/'>Magento to Shopify migration</a> guide.`,
   },
   snapshot: {
@@ -87,7 +88,7 @@ const content: FreelanceContent = {
       ["hreflang across nl-NL, nl-BE, en", "Advice", "Partial checks", "Implemented and validated"],
       ["Core Web Vitals work", "Recommendations", "Scores only", "Template-level fixes"],
       ["Link building", "Often offered", "No", "Not offered"],
-      ["Cost pattern", "Monthly retainer", "Tool subscription", `From ${P.seo} a month`],
+      ["Cost pattern", "Monthly retainer", "Tool subscription", `From ${P.seo}`],
       ["Language of reports", "Dutch or English", "Tool's language", "English"],
     ],
     fine: "If your main gap is Dutch content, keyword strategy or digital PR, a Dutch content bureau is the better first hire; we work well alongside one on the technical side.",
@@ -407,7 +408,7 @@ const content: FreelanceContent = {
       note: "Starting prices in USD for technical SEO services. The monthly scope is agreed in your quote; larger changes are quoted separately.",
       columns: ["Engagement", "Includes", "Starts from", "Duration"],
       rows: [
-        ["Monthly technical SEO", "Monitoring, fixes, monthly report", `${P.seo} a month`, "Ongoing"],
+        ["Monthly technical SEO", "Monitoring, fixes, monthly report", `${P.seo}`, "Ongoing"],
         ["First-month audit", "Crawl, Search Console, field data, ranked fix list", "Scoped in your quote", "Weeks 1–2"],
         ["Migration protection", "Redirect map, staging crawl, launch monitoring", "Quoted per project", "2–6 weeks"],
         ["SEO-first site build", "299+ page site with templates and schema", P.seoSite, "3–5 weeks"],

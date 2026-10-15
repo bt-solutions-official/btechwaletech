@@ -7,7 +7,7 @@ const deesa: CityContent = {
   meta: {
     title: "Deesa Web Design, SEO & Software from ₹10,000",
     description:
-      "Websites, Gujarati local SEO, cold storage and potato trade software and WhatsApp automation for Deesa businesses in Banaskantha. Prices from ₹10,000.",
+      "Deesa websites, Gujarati local SEO, cold storage and potato trade software and WhatsApp automation for businesses in Banaskantha. Prices from ₹10,000.",
     keywords: [
       "website development team in Deesa",
       "website designer Deesa",
@@ -25,6 +25,14 @@ const deesa: CityContent = {
       "ડીસા વેબસાઇટ ડિઝાઇન",
       "hospital website Deesa",
       "website banane wala Deesa",
+      "Deesa website designer",
+      "website cost in Deesa",
+      "web development company Deesa",
+      "hire freelance developer Deesa",
+      "north Gujarat SEO",
+      "website for potato traders and exporters in Deesa",
+      "web designer in Juna Deesa, Deesa",
+      "website for cold storages in Deesa",
     ],
   },
   hero: {

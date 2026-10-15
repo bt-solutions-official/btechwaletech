@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `PDPA Compliant Website Singapore, from ${P.site}`,
-    description: `PDPA compliant website Singapore: consent-ready forms, cookie choices, NRIC-free fields, DPO contact page and breach logs, built in from ${P.site}. Not legal advice`,
+    description: `PDPA compliant website Singapore: consent-ready forms, cookie choices, NRIC-free fields, a DPO contact page and breach logs, built in from ${P.site}.`,
     keywords: [
       "pdpa compliant website singapore", "pdpa compliant website", "pdpa website requirements", "pdpa website checklist",
       "is my website pdpa compliant", "how to make website pdpa compliant", "pdpa cookie consent singapore", "pdpa cookie banner",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "pdpa compliant contact form", "pdpa compliant ecommerce website singapore", "pdpa website developer singapore", "pdpa web design cost",
       "pdpa google analytics singapore", "pdpa compliant website near me", "personal data protection act website", "pdpa website for sme",
       "pdpa compliant website for clinics", "pdpa marketing consent checkbox",
+      "hire pdpa compliant website in Singapore", "freelance pdpa compliant website Singapore",
     ],
   },
   hero: {

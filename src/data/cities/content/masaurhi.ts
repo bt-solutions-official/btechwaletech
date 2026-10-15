@@ -7,7 +7,7 @@ const masaurhi: CityContent = {
   meta: {
     title: "IT Services in Masaurhi | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Masaurhi traders, coaching centres, clinics and farm dealers near Patna.",
+      "Hindi websites, apps, Maps SEO and WhatsApp automation for Masaurhi traders, coaching centres, clinics and farm dealers near Patna. Sites from ₹10,000.",
     keywords: [
       "IT services in Masaurhi",
       "IT services team in Masaurhi",
@@ -29,6 +29,12 @@ const masaurhi: CityContent = {
       "Masaurhi me website banwana",
       "Masaurhi me app banwana",
       "मसौढ़ी वेबसाइट डिज़ाइन",
+      "Masaurhi website designer",
+      "web development company Masaurhi",
+      "hire freelance web developer Masaurhi",
+      "Patna district SEO",
+      "website designer Patna district",
+      "Bihar SEO services",
     ],
   },
   hero: {

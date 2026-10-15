@@ -7,7 +7,7 @@ const nidadavole: CityContent = {
   meta: {
     title: "IT Services in Nidadavole | Web, Apps, SEO & AI",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Nidadavole rice millers, traders, temple-town lodges, clinics and coaching centres.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Nidadavole rice millers, traders, temple-town lodges, clinics and coaching centres. From ₹10,000.",
     keywords: [
       "IT services in Nidadavole",
       "IT company in Nidadavole",
@@ -31,6 +31,10 @@ const nidadavole: CityContent = {
       "Telugu website design Godavari delta",
       "Nidadavolu Junction transport website",
       "నిడదవోలు వెబ్‌సైట్ డిజైన్",
+      "Nidadavole website designer",
+      "web development company Nidadavole",
+      "hire freelance web developer Nidadavole",
+      "East Godavari district SEO",
     ],
   },
   hero: {

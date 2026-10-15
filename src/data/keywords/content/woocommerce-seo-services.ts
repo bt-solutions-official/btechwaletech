@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "WooCommerce SEO",
   updated: "2026-09-25",
   meta: {
-    title: `WooCommerce SEO: Rank Products & Categories`,
+    title: `WooCommerce SEO: Rank Products, from ${P.seo}`,
     description: `WooCommerce SEO for product and category pages: filters, faceted URLs, product schema, speed for big catalogues and GST-ready store pages. From ${P.seo}.`,
     keywords: [
       "woocommerce seo", "woocommerce seo services", "woocommerce seo expert", "woocommerce seo India",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "woocommerce permalink structure seo", "woocommerce out of stock seo", "woocommerce seo checklist", "woocommerce store ranking on google",
       "woocommerce seo freelancer", "woocommerce seo for large catalogue", "woocommerce seo Jaipur", "woocommerce seo Delhi",
       "woocommerce store ki seo kaise kare", "ecommerce seo for woocommerce",
+      "WooCommerce SEO company", "best WooCommerce SEO in India", "WooCommerce SEO cost in India", "WooCommerce SEO near me",
     ],
   },
   hero: {

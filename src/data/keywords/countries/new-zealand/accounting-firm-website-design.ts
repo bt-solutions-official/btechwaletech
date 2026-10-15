@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "Accounting Firm Website Design NZ: Win Xero Clients",
-    description: `Accounting firm website design for NZ chartered accountants and bookkeepers: package pages, secure client portals, IRD deadline content that ranks. From ${P.site}.`,
+    description: `Accounting firm website design for NZ chartered accountants and bookkeepers: package pages, secure client portals, IRD deadline content. From ${P.site}.`,
     keywords: [
       "accounting firm website design", "accounting firm website design nz", "accountant website design", "website for accountants nz",
       "chartered accountant website", "bookkeeper website design", "accounting practice website", "xero accountant website",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "gst deadline content for accountants", "provisional tax page for accounting website", "lead magnets for accountants",
       "accountant seo nz", "accounting website designer near me", "accountant website auckland", "accountant website wellington",
       "accountant website christchurch", "accountant website hamilton", "small business accountant website", "bookkeeping website nz",
+      "hire accounting firm website design in New Zealand", "freelance accounting firm website design New Zealand", "accounting firm website design New Zealand",
     ],
   },
   hero: {

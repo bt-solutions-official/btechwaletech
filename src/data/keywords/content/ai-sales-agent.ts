@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `AI Sales Agent for Indian Businesses from ${P.ai}`,
-    description: `An AI sales agent that replies in seconds, quotes from your real price list, books meetings and updates your CRM. Custom builds from ${P.ai}, live in 2–4 weeks.`,
+    description: `An AI sales agent that replies in seconds, quotes from your real price list, books meetings and updates your CRM. Builds from ${P.ai}, live in 2–4 weeks.`,
     keywords: [
       "ai sales agent", "ai sales agent India", "ai sales agent for small business", "ai sales assistant", "ai sdr", "ai sales rep",
       "whatsapp ai sales agent", "ai agent for sales follow up", "ai sales agent cost", "ai sales agent price in India", "what is an ai sales agent",
@@ -22,6 +22,9 @@ const content: FreelanceContent = {
       "ai sales agent with crm integration", "ai sales agent for b2b", "ai sales agent for manufacturers", "ai sales agent Hindi",
       "custom ai sales agent development", "ai sales agent vs chatbot", "ai sales agent Pune", "ai sales agent Gurgaon", "ai sales agent Hyderabad",
       "sales ke liye ai agent", "ai sales agent near me", "autonomous sales agent",
+      "ai sales agent company in India",
+      "best ai sales agent in India",
+      "ai sales agent services",
     ],
   },
   hero: {

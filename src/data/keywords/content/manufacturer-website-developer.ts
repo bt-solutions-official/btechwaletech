@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Manufacturer website developer",
   updated: "2026-09-24",
   meta: {
-    title: `Manufacturer Website Developer: Catalogue Sites`,
-    description: `Manufacturer website developer for Indian factories: product catalogues, spec sheets and dealer enquiry forms. Sites from ${P.site}, large catalogues from ${P.seoSite}.`,
+    title: `Manufacturer Website Developer: Sites from ${P.site}`,
+    description: `Manufacturer website developer for Indian factories: searchable catalogues, spec sheets and dealer enquiry forms. Sites from ${P.site}, quote in 2 days.`,
     keywords: [
       "manufacturer website developer", "manufacturer website developer India", "manufacturer website developer near me", "manufacturing website design",
       "manufacturer website cost", "factory website price India", "best manufacturer website developer", "factory ki website banwani hai",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "dealer enquiry website", "distributor portal development", "engineering company website", "b2b manufacturer website",
       "industrial product catalogue website", "machinery manufacturer website", "chemical manufacturer website", "manufacturer website for hire",
       "OEM supplier website India",
+      "hire manufacturer website developer", "freelance manufacturer website developer", "manufacturer website developer cost", "best manufacturer website developer in India",
+      "manufacturer website developer price", "manufacturer website developer charges",
     ],
   },
   hero: {
@@ -187,7 +189,7 @@ const content: FreelanceContent = {
       heading: "How much does a manufacturer website developer charge in India?",
       paragraphs: [
         `The honest answer is that it depends on your catalogue. Quotes for “a manufacturer website” vary widely because one factory has twelve products and another has four thousand SKUs, and the effort is not comparable.`,
-        `With us, a catalogue website of up to 100 pages starts from ${P.site} (${P.siteUsd}) and takes 1–2 weeks once product data is ready. A large catalogue of 299+ pages generated from structured data starts from ${P.seoSite} (${P.seoSiteUsd}) and takes 3–5 weeks. Dealer portals start from ${P.software}. Ongoing SEO starts from ${P.seo} a month if you want steady work on product visibility.`,
+        `With us, a catalogue website of up to 100 pages starts from ${P.site} (${P.siteUsd}) and takes 1–2 weeks once product data is ready. A large catalogue of 299+ pages generated from structured data starts from ${P.seoSite} (${P.seoSiteUsd}) and takes 3–5 weeks. Dealer portals start from ${P.software}. Ongoing SEO starts from ${P.seo} if you want steady work on product visibility.`,
         `The lines that change the price most are product data work (cleaning spreadsheets, writing descriptions, editing photos), the number of distinct page layouts, languages, and links to your ERP or inventory. Every line is listed separately in the quote, so you can drop or postpone items. Maintenance is free for two months after launch, then optional from ${P.care}.`,
       ],
     },

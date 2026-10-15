@@ -7,7 +7,7 @@ const amalner: CityContent = {
   meta: {
     title: "Amalner Website Designer | Sites & SEO from ₹10,000",
     description:
-      "Websites, Marathi and English SEO, online stores and WhatsApp automation for Amalner, Parola and Chopda businesses. Static sites start at ₹10,000.",
+      "Amalner, Parola and Chopda websites, Marathi and English SEO, online stores and WhatsApp automation. Static sites start at ₹10,000, code yours.",
     keywords: [
       "website development team in Amalner",
       "website designer Amalner",
@@ -25,6 +25,14 @@ const amalner: CityContent = {
       "website maintenance Amalner",
       "Amalner madhye website",
       "अमळनेर वेबसाइट डिझाइन",
+      "Amalner website designer",
+      "website cost in Amalner",
+      "web development company Amalner",
+      "hire freelance developer Amalner",
+      "Maharashtra SEO",
+      "Amalner me website kaise banwaye",
+      "website for cotton traders and ginning units in Amalner",
+      "web designer in Parola, Amalner",
     ],
   },
   hero: {

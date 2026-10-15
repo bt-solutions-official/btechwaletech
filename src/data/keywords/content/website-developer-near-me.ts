@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Customer actions", value: "Call, WhatsApp, directions, booking request" },
       { label: "Local SEO setup", value: "LocalBusiness schema, NAP match, Search Console" },
       { label: "Language", value: "English, Hindi or a regional language" },
-      { label: "Ongoing SEO", value: `Optional, from ${P.seo} a month` },
+      { label: "Ongoing SEO", value: `Optional, from ${P.seo}` },
     ],
   },
   services: {
@@ -179,7 +179,7 @@ const content: FreelanceContent = {
         `On the site, each page gets a title that includes the service and the area, such as “Physiotherapy clinic in Kothrud, Pune”, a single H1, a helpful description and clean URLs. The structured data carries your address, hours and geo coordinates. We verify Google Search Console and submit the sitemap before launch so you can watch indexing and queries from the first week.`,
         `Off the site, the work is steadier: consistent listings on Maps and a few relevant directories, a habit of asking happy customers for reviews, and replying to reviews politely. Nobody can guarantee rankings in the map pack, because distance from the searcher, competition and reviews all play a part. What a developer can do is remove every technical reason for Google to skip you.`,
       ],
-      after: [`For ongoing work beyond launch, see <a href='/seo-expert-near-me/'>SEO expert near me</a> and our <a href='/services/seo-services/'>SEO services</a>, starting at ${P.seo} a month.`],
+      after: [`For ongoing work beyond launch, see <a href='/seo-expert-near-me/'>SEO expert near me</a> and our <a href='/services/seo-services/'>SEO services</a>, starting at ${P.seo}.`],
     },
     {
       id: "cost",
@@ -359,7 +359,7 @@ const content: FreelanceContent = {
     { question: "What should a clinic website include?", answer: "A clinic website should show each doctor’s qualifications and registration details, OPD timings by day, services in plain language, location with a map pin, fees range if you are comfortable sharing it, and an appointment request option by form or WhatsApp. Avoid cure claims and guarantee-style testimonials, which conflict with medical advertising and conduct rules." },
     { question: "Can you add a WhatsApp button to my website?", answer: "Yes. We add a click-to-chat button with a prefilled message that names the page or service, so you know what the customer wants before replying. On phones it sits in a bottom bar next to Call and Directions. We also track how many people tap it, so you can see which pages bring enquiries." },
     { question: "Who owns the domain and website?", answer: "You do. The domain and hosting are registered in your name and paid from your account, and you receive the admin login and code at handover. That way you can change developers later without losing your website or the link on your Google Maps listing. Never let a developer book your domain in their own name." },
-    { question: "Is local SEO included in the website price?", answer: `The basics are included in every local site: page titles with service and area, LocalBusiness schema, a sitemap, Search Console setup and a consistent name, address and phone. Ongoing local SEO, such as new area pages, review routines and monthly checks, is a separate service starting at ${P.seo} a month. It is optional.` },
+    { question: "Is local SEO included in the website price?", answer: `The basics are included in every local site: page titles with service and area, LocalBusiness schema, a sitemap, Search Console setup and a consistent name, address and phone. Ongoing local SEO, such as new area pages, review routines and monthly checks, is a separate service starting at ${P.seo}. It is optional.` },
     { question: "Can my shop take orders online through the website?", answer: `Yes. A simple option is a catalogue with a WhatsApp order button, which fits the static plan from ${P.site}. If you want a cart with UPI and card checkout, stock tracking and order emails, that is an online store, starting at ${P.shop}. Many local shops start with WhatsApp orders and move to a cart later.` },
     { question: "Can the website be in Hindi or my regional language?", answer: "Yes. We can build the site in English plus Hindi, Marathi, Tamil, Telugu, Kannada, Bengali, Gujarati or another language, with proper language tags so Google shows the right version. You or a trusted person should supply or check the regional text, since good translation matters more for trust than design." },
     { question: "What happens after the website is live?", answer: `You get two months of free maintenance: timing changes, new services, price edits, offer banners and small fixes. After that, maintenance is optional and starts at ${P.care}. You can also manage simple edits yourself or hand the site to another developer, since all logins and code are already yours.` },

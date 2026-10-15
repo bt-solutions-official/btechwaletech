@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "resort management software", "dharamshala management software", "hotel room inventory software", "hotel management system development",
       "hotel software for foreign guests form c", "best hotel management software for small hotel", "hotel management software Rishikesh", "hotel management software Goa",
       "hotel ka software kaise banwaye", "cloud pms vs custom pms",
+      "hotel management software company in India",
+      "hotel management software services",
     ],
   },
   hero: {

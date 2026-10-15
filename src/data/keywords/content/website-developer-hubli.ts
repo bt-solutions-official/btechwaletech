@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Gokul Road", "website developer Vidyanagar Hubli", "website developer Keshwapur", "trader website Hubli",
       "college website Dharwad", "website developer Belagavi", "website developer Gadag", "WordPress developer Hubli",
       "ecommerce website Hubli", "best website developer in Hubli", "Hubli me website banwana hai",
+      "website developer in Hubli cost", "website developer in Hubli price", "hire website developer in Hubli", "freelance website developer in Hubli",
+      "website developer in Hubli charges",
     ],
   },
   hero: {

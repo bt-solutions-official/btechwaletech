@@ -7,7 +7,7 @@ const venkatagiri: CityContent = {
   meta: {
     title: "IT Services in Venkatagiri: Websites, Apps, SEO & AI",
     description:
-      "Telugu websites, Android and iOS apps, saree stores, local SEO and WhatsApp automation for Venkatagiri handloom weavers, master weavers, shops and schools.",
+      "Telugu websites, apps, saree stores and SEO for Venkatagiri handloom weavers, master weavers, shops and schools. Sites from ₹10,000 with an itemised quote.",
     keywords: [
       "IT services in Venkatagiri",
       "IT services team in Venkatagiri",
@@ -29,6 +29,12 @@ const venkatagiri: CityContent = {
       "Venkatagiri me website banwana",
       "Venkatagiri lo website design",
       "వెంకటగిరి వెబ్‌సైట్ డిజైన్",
+      "Venkatagiri website designer",
+      "web development company Venkatagiri",
+      "hire freelance web developer Venkatagiri",
+      "Tirupati district SEO",
+      "website designer Tirupati district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

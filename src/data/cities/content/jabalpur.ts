@@ -7,7 +7,7 @@ const jabalpur: CityContent = {
   meta: {
     title: "Jabalpur Website Design & SEO | Sites From ₹10,000",
     description:
-      "Websites, SEO and WhatsApp automation for Jabalpur garment units, defence suppliers, clinics, lawyers and tour operators. From ₹10,000, you own the domain and code.",
+      "Jabalpur websites, SEO and WhatsApp bots for garment units, defence suppliers, clinics, lawyers and tour operators. From ₹10,000, you own the domain and code.",
     keywords: [
       "website development team in Jabalpur",
       "website designer Jabalpur",
@@ -25,6 +25,14 @@ const jabalpur: CityContent = {
       "Jabalpur me website kaise banwaye",
       "जबलपुर वेबसाइट डिजाइन",
       "जबलपुर में वेबसाइट बनाने वाले",
+      "Jabalpur website designer",
+      "web development company Jabalpur",
+      "hire freelance developer Jabalpur",
+      "Madhya Pradesh SEO",
+      "website for readymade garments in Jabalpur",
+      "web designer in Wright Town, Jabalpur",
+      "website for defence and railway suppliers in Jabalpur",
+      "mobile app developer in Jabalpur",
     ],
   },
   hero: {

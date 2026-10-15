@@ -264,7 +264,7 @@ const content: FreelanceContent = {
         `Diaspora buyers search from their own country, so your pages must answer searches like “Gujarati sweets delivery UK from India” or “chaniya choli online USA shipping”. That calls for pages written around products plus destination, not just your shop name. Nobody can guarantee rankings abroad, but specific pages give you a fair chance.`,
         `Technical basics come with every build: clean URLs, descriptive titles, product and organisation schema, a sitemap and Google Search Console, which shows the countries your impressions come from. Pages are served through a content delivery network so they load quickly in London or New Jersey, not only in Gujarat. If you add country-specific pages, hreflang tags tell search engines which page suits which market.`,
         `AI assistants increasingly answer questions such as “can I order farsan from Gujarat to Canada?”. They tend to cite pages that state shipping countries, times and rules plainly, so we write those answers into short sections and an FAQ.`,
-        `Ongoing SEO is optional, from ${P.seo} a month; our <a href='/international-seo-services/'>international SEO page</a> explains what it covers.`,
+        `Ongoing SEO is optional, from ${P.seo}; our <a href='/international-seo-services/'>international SEO page</a> explains what it covers.`,
       ],
     },
     {

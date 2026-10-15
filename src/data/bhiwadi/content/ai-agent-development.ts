@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-27",
   meta: {
     title: `AI Agent Development in Bhiwadi, from ${P.ai}`,
-    description: `AI agent development in Bhiwadi from ${P.ai}: agents that triage email, draft orders and send follow-ups, with approvals built in. We meet you one to one first.`,
+    description: `AI agent development in Bhiwadi from ${P.ai}: agents that triage email, draft orders & send follow-ups, with approvals built in. We meet you one to one first.`,
     keywords: [
       "AI agent development in Bhiwadi", "AI agent development Bhiwadi", "AI agent developer near me", "AI agent development in Bhiwadi Rajasthan",
       "AI agent Bhiwadi Alwar", "AI agent developer Bhiwadi", "AI agent company Bhiwadi", "AI agent services Bhiwadi",
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
       ["Approve the itemised quote", "In about two working days you get the register, a running-cost estimate and the price by line. Nothing is billed before written approval."],
       ["Shadow mode on your samples", "The agent decides without acting, your staff mark each decision, and we tune it until the results satisfy the person who does the job today."],
       ["Supervised pilot, then agreed autonomy", "Live input with every action approved; routine, reversible steps may later run alone. Training happens at your premises if you prefer."],
-      ["Two months of included care", `Monitoring, prompt tuning and fixes for new formats are covered for two months; care then continues from ${P.care} a month if you want it.`],
+      ["Two months of included care", `Monitoring, prompt tuning and fixes for new formats are covered for two months; care then continues from ${P.care} if you want it.`],
     ],
   },
   faqHeading: "AI agent development in Bhiwadi: questions businesses ask",
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
     { question: "Can the agent read purchase orders in different formats?", answer: "Yes. Language models handle PDFs, Excel sheets and plain email text in layouts they have not seen before, and the agent maps lines to your item codes using your masters. Accuracy varies by buyer and document quality, so we measure it in shadow mode on your real POs, and anything uncertain goes to review rather than into your ERP." },
     { question: "Which email systems does the agent work with?", answer: "Gmail and Google Workspace, Microsoft 365 and Outlook through their official APIs, and most other business mail through standard IMAP and SMTP. The agent uses its own account or a delegated mailbox with limited rights, not a staff member’s personal login, so its access can be removed instantly without affecting anyone else." },
     { question: "Who owns the AI agent and its logs?", answer: "Your business does. The code, prompts, action register, logs, AI provider account, server and database are all set up in your name, and usage is billed to you. We work through access you can revoke at any time. At handover you receive every credential, the repository, pilot results and a runbook for pausing or adjusting the agent." },
-    { question: "What maintenance is included after go-live?", answer: `Two months of maintenance come free: monitoring, prompt tuning, handling new PO or email formats, and fixes when an AI model version changes. After that, care plans start at ${P.care} a month and are optional. New tools or additional agents are quoted separately and in writing before any work starts on them.` },
+    { question: "What maintenance is included after go-live?", answer: `Two months of maintenance come free: monitoring, prompt tuning, handling new PO or email formats, and fixes when an AI model version changes. After that, care plans start at ${P.care} and are optional. New tools or additional agents are quoted separately and in writing before any work starts on them.` },
     { question: "How do we pay for AI agent development?", answer: "You pay us in rupees by UPI or bank transfer, in stages set out in the itemised quote, and nothing is billed until you approve that quote in writing. AI usage, hosting and any WhatsApp message charges go directly from your accounts to those providers, so our invoice covers only the build and any care plan you choose." },
     { question: "Is our email and order data safe with an AI agent?", answer: "The agent’s access is narrower than any employee’s, credentials sit in a secrets manager, the database is encrypted and backed up daily in your cloud account, and personal identifiers can be masked before text reaches a hosted model. We show you the provider’s API data terms. Your lawyer should confirm any data-protection obligations that apply." },
     { question: "Can the AI agent work in Hindi?", answer: "Yes. It reads emails and WhatsApp messages in Hindi, English or Hinglish, can summarise for supervisors in Hindi and draft formal English for buyers. Approval requests arrive as short WhatsApp messages with buttons, which suits managers who work from their phones. We include Hindi samples in shadow-mode testing so quality is checked on your real messages." },

@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "hotel website ministry of tourism requirements", "google hotel free booking links saudi",
       "hotel booking website developer near me", "umrah hotel booking website", "hotel website for pilgrims",
       "hotel seo saudi arabia", "hotel booking app saudi arabia",
+      "hire hotel booking website development in Saudi Arabia", "freelance hotel booking website development Saudi Arabia",
     ],
   },
   hero: {

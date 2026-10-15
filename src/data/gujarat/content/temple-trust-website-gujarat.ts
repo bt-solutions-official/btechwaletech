@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Temple Trust Website in Gujarat from ${P.site}`,
-    description: `Temple trust website in Gujarat: darshan timings, festival calendar, online donations with receipts, live aarti streams. Trust sites from ${P.site}, quote in 2 days.`,
+    description: `Temple trust website in Gujarat: darshan timings, festival calendar, donations with receipts and live aarti streams. Trust sites from ${P.site}, 2-day quote.`,
     keywords: [
       "temple trust website in Gujarat", "temple website Gujarat", "mandir trust website", "temple website development Gujarat", "temple donation website",
       "online donation website for temple", "temple live darshan website", "temple trust website near me", "Gujarat temple website developer", "jain derasar website",
@@ -328,7 +328,7 @@ const content: FreelanceContent = {
       { name: "Dakor", note: "Temple-linked trusts and guest houses in Dakor need festival calendars, timings and simple donation pages." },
       { name: "Palitana", note: "Jain dharamshalas and trusts in Palitana need tithi-aware calendars, bhojanshala information and room booking for pilgrims from Gujarat and beyond.", href: "/gujarat/website-developer-palitana/" },
       { name: "Chotila", note: "Trusts and pilgrim services in Chotila need timings, directions and festival pages for visitors from across Saurashtra.", href: "/gujarat/website-developer-chotila/" },
-      { name: "Gadhada", note: "Swaminarayan-linked institutions and samaj bodies in Gadhada need event pages, live streams and donation records." },
+      { name: "Gadhada", note: "Swaminarayan-linked institutions and samaj bodies in Gadhada need event pages, live streams and donation records.", href: "/gujarat/website-developer-gadhada/" },
       { name: "Botad and Sarangpur", note: "Trusts and pilgrim businesses in Botad district serve large weekend crowds and need clear timings and booking." },
       { name: "Unjha", note: "Community temple trusts and samaj organisations around Unjha need event, membership and donation pages.", href: "/unjha/" },
       { name: "Modasa and Shamlaji side", note: "Trusts and guest houses near Shamlaji and in Modasa need bilingual information pages and donation options.", href: "/gujarat/website-developer-modasa/" },

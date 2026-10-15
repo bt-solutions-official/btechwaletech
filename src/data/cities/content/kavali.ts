@@ -7,7 +7,7 @@ const kavali: CityContent = {
   meta: {
     title: "IT Services in Kavali | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Kavali shrimp farmers, feed dealers, colleges, hospitals and NH16 businesses.",
+      "Kavali Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for shrimp farmers, feed dealers, colleges, hospitals and NH16 businesses.",
     keywords: [
       "IT services in Kavali",
       "IT services team in Kavali",
@@ -29,6 +29,10 @@ const kavali: CityContent = {
       "Kavali me website banwana",
       "Kavali lo website cheyinchali",
       "కావలి వెబ్‌సైట్ డిజైన్",
+      "Kavali website designer",
+      "web development company Kavali",
+      "hire freelance developer Kavali",
+      "Andhra Pradesh SEO",
     ],
   },
   hero: {

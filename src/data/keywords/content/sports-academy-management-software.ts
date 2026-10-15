@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "sports academy management software cost", "sports academy app price in India", "best sports academy management software", "how to manage a sports academy",
       "custom sports academy app", "multi centre sports academy software", "sports academy software Hyderabad", "cricket academy app Bengaluru", "sports academy ke liye app",
       "summer camp registration software", "academy batch management software",
+      "sports academy management software price", "sports academy management software company", "best sports academy management software in India", "sports academy management software cost in India",
+      "sports academy management software near me",
     ],
   },
   hero: {
@@ -360,7 +362,7 @@ const content: FreelanceContent = {
         ["2. Coach and parent apps", "Attendance, schedules, fees, progress, notifications", `${P.app} (${P.appUsd})`, "6–10 weeks, can overlap"],
         ["3. Automation", "WhatsApp receipts, reminders, cancellation alerts", `${P.ai} (${P.aiUsd})`, "2–4 weeks"],
         ["4. Academy website", "Sports, batches, camp page, enquiry form", `${P.site} (${P.siteUsd})`, "1–2 weeks"],
-        ["5. Local SEO", "Google Business Profile, camp and sport pages", `${P.seo} per month`, "Ongoing"],
+        ["5. Local SEO", "Google Business Profile, camp and sport pages", `${P.seo}`, "Ongoing"],
         ["Upkeep", "Fixes, updates, backups", `${P.care} (${P.careUsd})`, "After 2 free months"],
       ],
       hideSm: [3],

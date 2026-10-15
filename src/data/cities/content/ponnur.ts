@@ -7,7 +7,7 @@ const ponnur: CityContent = {
   meta: {
     title: "IT Services in Ponnur | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Ponnur rice mills, farm traders, weavers, brick kilns, clinics and schools.",
+      "Telugu and English websites, apps and SEO for Ponnur rice mills, farm traders, weavers, brick kilns, clinics and schools. Websites from ₹10,000.",
     keywords: [
       "IT services in Ponnur",
       "IT services team in Ponnur",
@@ -29,6 +29,12 @@ const ponnur: CityContent = {
       "Ponnur lo website cheyinchali",
       "Ponnur website tayaru cheyadam",
       "పొన్నూరు వెబ్‌సైట్ డిజైన్",
+      "Ponnur website designer",
+      "web development company Ponnur",
+      "hire freelance web developer Ponnur",
+      "Guntur district SEO",
+      "website designer Guntur district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

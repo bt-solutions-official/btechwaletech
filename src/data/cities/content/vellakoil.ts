@@ -7,7 +7,7 @@ const vellakoil: CityContent = {
   meta: {
     title: "IT Services in Vellakoil | Web, Apps & AI from ₹10,000",
     description:
-      "Tamil websites, Android and iOS apps, SEO and WhatsApp automation for Vellakoil power looms, spinning mills, coconut oil units, poultry farms and shops.",
+      "Tamil websites, apps, SEO and WhatsApp automation for Vellakoil power looms, spinning mills, coconut oil units, poultry farms and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Vellakoil",
       "IT services team in Vellakoil",
@@ -29,6 +29,12 @@ const vellakoil: CityContent = {
       "Vellakoil me website banwana",
       "Vellakoil-la website seiya",
       "வெள்ளகோவில் வெப்சைட் டிசைன்",
+      "Vellakoil website designer",
+      "web development company Vellakoil",
+      "hire freelance web developer Vellakoil",
+      "Kangeyam taluk SEO services",
+      "website designer Kangeyam taluk",
+      "Tamil Nadu SEO services",
     ],
   },
   hero: {

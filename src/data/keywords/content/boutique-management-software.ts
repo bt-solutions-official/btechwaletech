@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "ladies tailor software", "bridal boutique software", "designer boutique software", "boutique management software price",
       "boutique management software cost", "custom boutique software", "boutique ke liye software", "tailor ke liye app",
       "boutique software Surat", "boutique software Jaipur", "how to manage boutique orders",
+      "boutique management software company in India",
+      "best boutique management software in India",
+      "boutique management software services",
     ],
   },
   hero: {
@@ -60,7 +63,7 @@ const content: FreelanceContent = {
       { label: "Phone app for staff", value: `From ${P.app}, Android first` },
       { label: "Customer updates", value: "WhatsApp: order confirmed, trial reminder, ready for pickup" },
       { label: "Paying us", value: "UPI or bank transfer; USD by Wise, wire or PayPal abroad" },
-      { label: "Aftercare", value: `2 free months, then from ${P.care} a month` },
+      { label: "Aftercare", value: `2 free months, then from ${P.care}` },
     ],
   },
   services: {
@@ -336,7 +339,7 @@ const content: FreelanceContent = {
         ["Full workshop system (web)", "Core plus stage board, trial calendar, karigar ledger, reports", P.software, "8–12 weeks"],
         ["Karigar and staff app", "Assigned pieces, measurement sheets, stage updates", P.app, "6–10 weeks"],
         ["Online store for ready pieces", "Catalogue, cart, UPI and card checkout", P.shop, "4–8 weeks"],
-        ["Monthly support", "After 2 free months: fixes, backups, small changes", `${P.care} a month`, "Ongoing"],
+        ["Monthly support", "After 2 free months: fixes, backups, small changes", `${P.care}`, "Ongoing"],
       ],
       hideSm: [1],
     },

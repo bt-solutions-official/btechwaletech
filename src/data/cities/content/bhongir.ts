@@ -7,7 +7,7 @@ const bhongir: CityContent = {
   meta: {
     title: "IT Services in Bhongir | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Bhongir traders, factories, hospitals, colleges and Yadadri pilgrim services.",
+      "Bhongir Telugu websites, mobile apps, Maps SEO and WhatsApp automation for traders, factories, hospitals, colleges and Yadadri pilgrim services. From ₹10,000.",
     keywords: [
       "IT services in Bhongir",
       "IT services team in Bhongir",
@@ -29,6 +29,10 @@ const bhongir: CityContent = {
       "Bhongir lo website cheyinchali",
       "భువనగిరి వెబ్‌సైట్ డిజైన్",
       "Bibinagar clinic local SEO",
+      "Bhongir website designer",
+      "web development company Bhongir",
+      "hire freelance developer Bhongir",
+      "Telangana SEO",
     ],
   },
   hero: {

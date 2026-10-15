@@ -7,7 +7,7 @@ const sihor: CityContent = {
   meta: {
     title: "IT Services in Sihor | Web, Apps & AI from ₹10,000",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Sihor re-rolling mills, brass utensil makers, potters, shops and clinics.",
+      "Gujarati websites, apps, local SEO and WhatsApp tools for Sihor re-rolling mills, brass utensil makers, potters, shops and clinics. Sites from ₹10,000.",
     keywords: [
       "IT services in Sihor",
       "IT company in Sihor",
@@ -29,6 +29,12 @@ const sihor: CityContent = {
       "Sihor ma website banavvi",
       "Sihor me website banwana",
       "સિહોર વેબસાઇટ ડિઝાઇન",
+      "Sihor website designer",
+      "web development company Sihor",
+      "hire freelance web developer Sihor",
+      "Bhavnagar district SEO",
+      "website designer Bhavnagar district",
+      "Gujarat SEO services",
     ],
   },
   hero: {

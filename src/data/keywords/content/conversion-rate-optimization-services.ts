@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Conversion rate optimization services",
   updated: "2026-09-25",
   meta: {
-    title: "Conversion Rate Optimization Services: More Leads",
+    title: `Conversion Rate Optimization Services from ${P.site}`,
     description: `Conversion rate optimization services in India: CRO audit, heatmaps, form fixes, mobile UX and honest A/B testing. Pages from ${P.site}; SEO from ${P.seo}.`,
     keywords: [
       "conversion rate optimization services", "CRO services", "conversion rate optimization services India", "CRO agency alternative",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "conversion rate optimization cost", "CRO for small business", "CRO for ecommerce", "conversion rate optimization for low traffic",
       "how to improve website conversion rate", "CRO services Bengaluru", "CRO services Mumbai", "CRO services Pune",
       "conversion rate optimisation services",
+      "best conversion rate optimization services in India",
     ],
   },
   hero: {

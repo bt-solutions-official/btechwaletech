@@ -7,7 +7,7 @@ const sibsagar: CityContent = {
   meta: {
     title: "IT Services in Sivasagar | Web, Apps & AI from ₹10,000",
     description:
-      "Assamese websites, Android and iOS apps, local SEO and WhatsApp automation for Sivasagar heritage tourism, oilfield vendors, tea estates, colleges and shops.",
+      "Assamese websites, apps, local SEO and WhatsApp tools for Sivasagar heritage tourism, oilfield vendors, tea estates, colleges and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Sivasagar",
       "IT services team in Sibsagar",
@@ -28,6 +28,13 @@ const sibsagar: CityContent = {
       "Sivasagar me website banwana",
       "Sivasagarot website bonabo",
       "শিৱসাগৰ ৱেবছাইট ডিজাইন",
+      "Sivasagar website designer",
+      "web development company Sivasagar",
+      "hire freelance web developer Sivasagar",
+      "Upper Assam SEO services",
+      "website designer Upper Assam",
+      "Assam SEO services",
+      "Sivasagar me website kaise banwaye",
     ],
   },
   hero: {

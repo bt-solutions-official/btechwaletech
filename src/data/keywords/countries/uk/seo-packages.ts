@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `SEO Packages UK: What's Included, Plans from ${P.seo}`,
-    description: `SEO packages UK buyers can compare: local, national and ecommerce tiers, monthly deliverables, contracts and red flags. Our monthly plan starts from ${P.seo}.`,
+    description: `SEO packages UK buyers can compare: local, national and ecommerce tiers, monthly deliverables, contracts and red flags. Monthly plans start from ${P.seo}.`,
     keywords: [
       "seo packages uk", "seo packages", "monthly seo packages uk", "seo packages for small business uk", "affordable seo packages uk",
       "seo pricing uk", "how much does seo cost uk", "seo retainer uk", "what should an seo package include",
@@ -52,7 +52,7 @@ const content: FreelanceContent = {
   snapshot: {
     caption: "Our monthly SEO plan, summarised",
     rows: [
-      { label: "Starting price", value: `From ${P.seo} a month` },
+      { label: "Starting price", value: `From ${P.seo}` },
       { label: "Tier", value: "Local, national or ecommerce, set by your goals" },
       { label: "Each month", value: "Agreed task plan, fixes live, content, report" },
       { label: "Proof of work", value: "Task log with every URL changed and the date" },
@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["Reporting", "Automated rank sheet", "Dashboards and account calls", "GA4 enquiries, Search Console, task log"],
       ["Who you speak to", "Support desk", "Account manager", "The three people doing the work"],
       ["Best for", "Very small sites testing SEO", "Large brands with big targets", "Small and mid-sized UK firms and shops"],
-      ["Starting cost", "Low, varies widely", "High, varies widely", `From ${P.seo} a month`],
+      ["Starting cost", "Low, varies widely", "High, varies widely", `From ${P.seo}`],
     ],
     fine: "If you need national PR campaigns, a large in-house style team or someone at your office each week, a bigger retainer is the better fit than three freelance developers.",
   },
@@ -324,7 +324,7 @@ const content: FreelanceContent = {
         ["Technical depth", "Moderate", "Moderate to high", "High"],
         ["Content each month", "Service and town pages", "Guides, comparisons, use-case pages", "Category copy and buying guides"],
         ["Key result measured", "Calls, forms, directions", "Leads, demos, sign-ups", "Organic revenue and transactions"],
-        ["Our starting price", `From ${P.seo} a month`, `From ${P.seo} a month`, `From ${P.seo} a month`],
+        ["Our starting price", `From ${P.seo}`, `From ${P.seo}`, `From ${P.seo}`],
       ],
       hideSm: [3],
     },
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
     { question: "Can any SEO package guarantee first-page rankings?", answer: "No. Google's guidance on hiring an SEO says no one can guarantee a #1 ranking on Google, and treats such promises as a warning sign. A trustworthy provider commits to specific work and honest reporting instead. We never put ranking promises in our proposals." },
     { question: "What should a monthly SEO report include?", answer: "Organic enquiries or sales from GA4 key events, Search Console clicks, impressions and queries, a log of the work done with URLs and dates, technical health notes and a short plain-English summary of what changed and what comes next. Rankings for a few key searches are useful context but not the headline." },
     { question: "What is the difference between local and national SEO packages?", answer: "Local packages target customers in specific towns through the Google Business Profile, reviews, citations and area pages, and measure calls and forms. National packages target topics across the whole country through content and authority, and measure leads or sign-ups. Many businesses need a blend weighted to one side." },
-    { question: "Do I need an ecommerce SEO package for my online shop?", answer: `If most of your organic revenue comes from category and product pages, yes. Shops need work on filter URLs, product schema, category copy, stock handling and Merchant Center feeds that service-business plans do not cover. Our plans for shops start from ${P.seo} a month, depending on catalogue size and platform.` },
+    { question: "Do I need an ecommerce SEO package for my online shop?", answer: `If most of your organic revenue comes from category and product pages, yes. Shops need work on filter URLs, product schema, category copy, stock handling and Merchant Center feeds that service-business plans do not cover. Our plans for shops start from ${P.seo}, depending on catalogue size and platform.` },
     { question: "How soon will I see results from an SEO package?", answer: "Technical fixes and profile corrections can show in Search Console within weeks. Meaningful gains in enquiries or sales for competitive searches usually take several months. A good package shows early signs, such as more impressions and better-indexed pages, while longer-term results build." },
     { question: "Do SEO packages include link building?", answer: "Most include something. Look for links a business could explain publicly, such as trade bodies, suppliers, partners and useful resources others cite. Be wary of packages counting links in dozens, since Google's spam policies treat buying links for ranking as link spam and cleaning up afterwards is slow." },
     { question: "Will an SEO package fix my website's technical problems?", answer: "Only if the provider implements changes. Many packages list problems for your own developer to fix. Ours is run by developers, so redirects, speed issues, structured data, indexing problems and internal links are changed in your CMS or code, tested and logged." },

@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "makani number google maps", "uae business directory citations", "google reviews strategy dubai",
       "service area business google maps uae", "location pages for each emirate", "near me seo dubai",
       "local seo expert dubai", "remote local seo team uae", "how long does local seo take",
+      "hire local seo in the UAE", "freelance local seo UAE",
     ],
   },
   hero: {
@@ -90,7 +91,7 @@ const content: FreelanceContent = {
       ["Tracking calls and WhatsApp", "Varies", "Rarely set up", "GA4 events and Search Console from day one"],
       ["Who owns the profile", "Check it is you", "You", "You, always as primary owner"],
       ["Time you spend each month", "Low", "High", "Low: photos, approvals, review asks"],
-      ["Cost shape", "Retainer; terms vary", "Your hours", `From ${P.seo} a month, agreed in writing`],
+      ["Cost shape", "Retainer; terms vary", "Your hours", `From ${P.seo}, agreed in writing`],
     ],
     fine: "If you need someone to walk into your showroom every month for photography or run in-person events, a local SEO agency in Dubai with a field team suits you better than a remote team, and we will say so plainly.",
   },
@@ -348,8 +349,8 @@ const content: FreelanceContent = {
       note: `All figures are starting prices in USD. Your quote is itemised after we look at your profile and site.`,
       columns: ["Scope", "Typical business", "Starting price", "Main work"],
       rows: [
-        ["Profile clean-up plus monthly care", "Single shop, salon or café", `From ${P.seo} a month`, "Categories, pin, reviews, posts, citations, report"],
-        ["Service-area set-up", "AC, pest control, movers, cleaning", `From ${P.seo} a month`, "Hidden address, service areas, area pages, tracking"],
+        ["Profile clean-up plus monthly care", "Single shop, salon or café", `From ${P.seo}`, "Categories, pin, reviews, posts, citations, report"],
+        ["Service-area set-up", "AC, pest control, movers, cleaning", `From ${P.seo}`, "Hidden address, service areas, area pages, tracking"],
         ["Multi-branch local SEO", "Clinic group or restaurant chain", "Quoted per branch", "One profile and one branch page per location"],
         ["New site with area pages", "Business outgrowing a one-page site", `From ${P.seoSite}`, "299+ page SEO website in 3–5 weeks"],
         ["Small static site", "New business needing a first site", `From ${P.site}`, "Up to 100 pages in 1–2 weeks"],

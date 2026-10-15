@@ -16,7 +16,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Moneris Payment Gateway Integration from ${P.shop}`,
-    description: `Moneris payment gateway integration for Canadian sites, apps and WooCommerce: Moneris Checkout or API, recurring billing, smaller PCI scope. Stores from ${P.shop}.`,
+    description: `Moneris payment gateway integration for Canadian sites, apps and WooCommerce: Checkout or API, recurring billing, smaller PCI scope. From ${P.shop}.`,
     keywords: [
       "moneris payment gateway integration", "moneris integration", "moneris checkout integration", "moneris api integration",
       "moneris woocommerce integration", "moneris woocommerce plugin setup", "moneris hosted tokenization", "moneris vault recurring billing",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "moneris custom app integration", "moneris react integration", "moneris laravel integration", "moneris node js integration",
       "moneris integration toronto", "moneris integration vancouver", "moneris integration calgary", "moneris integration montreal",
       "moneris gateway developer near me", "moneris pre-authorization and completion",
+      "hire moneris payment gateway integration in Canada", "freelance moneris payment gateway integration Canada",
     ],
   },
   hero: {

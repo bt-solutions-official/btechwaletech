@@ -7,7 +7,7 @@ const kapadvanj: CityContent = {
   meta: {
     title: "IT Services in Kapadvanj | Web, Apps & AI",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Kapadvanj traders, GIDC units, dairy suppliers, clinics and schools.",
+      "Kapadvanj Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for traders, GIDC units, dairy suppliers, clinics and schools.",
     keywords: [
       "IT services in Kapadvanj",
       "IT services team in Kapadvanj",
@@ -29,6 +29,10 @@ const kapadvanj: CityContent = {
       "Kapadvanj ma website banavvi",
       "કપડવંજ વેબસાઇટ ડિઝાઇન",
       "કપડવંજ એપ ડેવલપમેન્ટ",
+      "Kapadvanj website designer",
+      "web development company Kapadvanj",
+      "hire freelance developer Kapadvanj",
+      "Gujarat SEO",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const sidhi: CityContent = {
   meta: {
     title: "IT Services in Sidhi | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sidhi shops, dari weavers, coal-belt contractors, clinics and coaching centres.",
+      "Hindi websites, apps, Maps SEO and WhatsApp automation for Sidhi shops, dari weavers, coal-belt contractors, clinics and coaching centres. From ₹10,000.",
     keywords: [
       "IT services in Sidhi",
       "IT services team in Sidhi",
@@ -29,6 +29,12 @@ const sidhi: CityContent = {
       "Sidhi me website banwana",
       "Sidhi me app banwane ka kharcha",
       "सीधी वेबसाइट डिजाइन",
+      "Sidhi website designer",
+      "web development company Sidhi",
+      "hire freelance web developer Sidhi",
+      "Madhya Pradesh SEO services",
+      "Sidhi me website kaise banwaye",
+      "Sidhi website banwane ka kharcha",
     ],
   },
   hero: {

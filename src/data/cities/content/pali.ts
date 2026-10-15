@@ -7,7 +7,7 @@ const pali: CityContent = {
   meta: {
     title: "IT Services in Pali | Web, Apps, SEO & AI from ₹10,000",
     description:
-      "Websites, catalogues, SEO and WhatsApp automation for Pali's textile processors, Sojat mehndi sellers, marble traders and shops. Fixed starting prices, remote team.",
+      "Websites, catalogues, SEO and WhatsApp automation for Pali's textile processors, Sojat mehndi sellers, marble traders and shops. Sites from ₹10,000.",
     keywords: [
       "website development team in Pali",
       "web designer Pali Marwar",
@@ -25,6 +25,16 @@ const pali: CityContent = {
       "Pali me website kaise banaye",
       "पाली वेबसाइट डिज़ाइन",
       "website maintenance Pali",
+      "Pali Marwar website designer",
+      "website cost in Pali Marwar",
+      "web development company Pali Marwar",
+      "hire freelance web developer Pali Marwar",
+      "Rajasthan SEO services",
+      "Pali Marwar me website kaise banwaye",
+      "Pali Marwar website banwane ka kharcha",
+      "website design Suraj Pole Pali Marwar",
+      "website design Somnath temple area Pali Marwar",
+      "website design price in Pali Marwar",
     ],
   },
   hero: {

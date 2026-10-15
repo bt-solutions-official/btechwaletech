@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "english seo for manufacturers", "monozukuri company website english", "factory website design", "manufacturing web design near me",
       "manufacturing website osaka", "manufacturing website aichi", "manufacturing website tokyo", "japan",
       "製造業 ホームページ 英語", "海外向け ホームページ 製造業", "グローバルサイト 制作",
+      "hire manufacturing website design in Japan", "freelance manufacturing website design Japan",
     ],
   },
   hero: {
@@ -35,7 +36,7 @@ const content: FreelanceContent = {
     ["Large product catalogue site", `From ${P.seoSite} · 3–5 weeks`],
     ["RFQ or distributor portal", `From ${P.software} · 6–12 weeks`],
     ["Online parts ordering", `From ${P.shop} · 4–8 weeks`],
-    ["English search visibility", `From ${P.seo} per month`],
+    ["English search visibility", `From ${P.seo}`],
     ["After launch", `2 months free maintenance, then from ${P.care}`],
   ],
   stats: [
@@ -369,7 +370,7 @@ const content: FreelanceContent = {
         ["Distributor portal or RFQ routing", "Growing partner network", `${P.software}`, "6–12 weeks"],
         ["Spare-parts ordering for customers", "Consumables and spares abroad", `${P.shop}`, "4–8 weeks"],
         ["RFQ triage assistant", "High inquiry volume", `${P.ai}`, "2–4 weeks"],
-        ["Ongoing English SEO", "Competitive component markets", `${P.seo} per month`, "Ongoing"],
+        ["Ongoing English SEO", "Competitive component markets", `${P.seo}`, "Ongoing"],
       ],
       hideSm: [1],
     },

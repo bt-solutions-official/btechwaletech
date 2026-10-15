@@ -7,7 +7,7 @@ const phusro: CityContent = {
   meta: {
     title: "Phusro and Bermo Websites, SEO and WhatsApp Tools",
     description:
-      "Websites, Google Maps listings, contractor profiles and WhatsApp tools for Phusro, Bermo, Dhori and Kathara shops, clinics, schools and coalfield suppliers.",
+      "Websites, Maps listings and contractor profiles for Phusro, Bermo, Dhori and Kathara shops, clinics, schools and coalfield suppliers. From ₹10,000.",
     keywords: [
       "website development team in Phusro",
       "web designer Phusro",
@@ -25,6 +25,16 @@ const phusro: CityContent = {
       "फुसरो वेबसाइट डिज़ाइन",
       "ecommerce website Bokaro",
       "website maintenance Phusro",
+      "Phusro website designer",
+      "web development company Phusro",
+      "hire freelance web developer Phusro",
+      "Bokaro district SEO",
+      "website designer Bokaro district",
+      "Jharkhand SEO services",
+      "Phusro website banwane ka kharcha",
+      "Phusro transporters website",
+      "transporters website design Phusro",
+      "website design Phusro bazar",
     ],
   },
   hero: {

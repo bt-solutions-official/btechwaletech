@@ -7,7 +7,7 @@ const thirumangalam: CityContent = {
   meta: {
     title: "IT Services in Thirumangalam: Websites, Apps & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Thirumangalam's Kappalur factories, jasmine traders, schools, clinics and shops.",
+      "Tamil websites, apps, local SEO and WhatsApp automation for Thirumangalam's Kappalur factories, jasmine traders, schools, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Thirumangalam",
       "IT services team in Thirumangalam",
@@ -28,6 +28,13 @@ const thirumangalam: CityContent = {
       "Thirumangalam me website banwana",
       "Thirumangalam la website panna",
       "திருமங்கலம் வெப்சைட் டிசைன்",
+      "Thirumangalam website designer",
+      "web development company Thirumangalam",
+      "hire freelance web developer Thirumangalam",
+      "Madurai district SEO",
+      "website designer Madurai district",
+      "Tamil Nadu SEO services",
+      "Thirumangalam me website kaise banwaye",
     ],
   },
   hero: {

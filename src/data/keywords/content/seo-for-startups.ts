@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `SEO for Startups: Stage-Wise Plan, from ${P.seo}`,
-    description: `SEO for startups in India: when to start, what to build first on a thin budget, SaaS vs D2C playbooks, and monthly SEO from ${P.seo}. Honest, stage-wise plan.`,
+    description: `SEO for startups in India: when to start, what to build first on a thin budget, and SaaS or D2C playbooks, stage by stage. Monthly SEO from ${P.seo}.`,
     keywords: [
       "seo for startups", "startup seo", "seo for startups in India", "seo strategy for startups", "seo for early stage startups",
       "when should a startup start seo", "is seo worth it for startups", "seo budget for startups", "startup seo cost", "seo for saas startups",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "startup seo checklist", "seo for pre seed startup", "programmatic seo for startups", "founder led content seo", "seo vs paid ads for startups",
       "seo for startups Bengaluru", "seo for startups Gurgaon", "seo for startups Pune", "startup ke liye seo", "seo for startups near me",
       "how to do seo for a startup", "startup seo agency vs freelancer",
+      "SEO for startups cost", "SEO for startups price", "SEO for startups services", "SEO for startups packages",
+      "best SEO for startups in India", "SEO for startups agency",
     ],
   },
   hero: {

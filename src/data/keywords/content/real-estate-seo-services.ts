@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Real estate SEO services",
   updated: "2026-09-25",
   meta: {
-    title: `Real Estate SEO Services: Own Leads from ${P.seo}/mo`,
-    description: `Real estate SEO services for builders and brokers: RERA-correct project pages, locality and 2 BHK pages, and lead forms that cut portal spend. From ${P.seo}/month.`,
+    title: `Real Estate SEO Services: Own Your Leads, ${P.seo}`,
+    description: `Real estate SEO services for builders and brokers: RERA-correct project pages, locality and 2 BHK pages, lead forms that cut portal spend. From ${P.seo}.`,
     keywords: [
       "real estate seo services", "real estate seo", "seo for real estate", "seo for builders", "seo for real estate agents",
       "seo for property dealers", "real estate seo company india", "real estate seo expert", "property website seo",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "real estate seo cost", "real estate seo packages india", "real estate local seo", "real estate seo pune",
       "real estate seo mumbai", "real estate seo bangalore", "real estate seo hyderabad", "builder website ranking google",
       "property dealer website google par kaise laye", "real estate lead generation seo", "broker website seo", "real estate seo near me",
+      "Real estate SEO services cost", "Real estate SEO services price", "Real estate SEO services company", "best Real estate SEO services in India",
+      "Real estate SEO services cost in India", "Real estate SEO services near me",
     ],
   },
   hero: {
@@ -278,7 +280,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do real estate SEO services cost?",
       paragraphs: [
-        `With us, real estate SEO services start at ${P.seo} per month for ongoing technical, on-page and local work with lead reporting, while new pages or a new site are quoted separately. Quotes across the market vary widely, and what drives the difference is mainly the number of pages built and how much content is written.`,
+        `With us, real estate SEO services start at ${P.seo} for ongoing technical, on-page and local work with lead reporting, while new pages or a new site are quoted separately. Quotes across the market vary widely, and what drives the difference is mainly the number of pages built and how much content is written.`,
         `Cost drivers specific to property businesses:`,
       ],
       list: [
@@ -406,7 +408,7 @@ const content: FreelanceContent = {
       rows: [
         ["Project microsite", "One registered project", "Hub, floor plans, RERA details, visit form", P.site],
         ["Locality SEO website", "Builders with several projects, brokerages", "299+ project, locality, configuration and guide pages", P.seoSite],
-        ["Monthly SEO", "Any property site that already exists", "Technical fixes, page improvements, profiles, lead report", `${P.seo} per month`],
+        ["Monthly SEO", "Any property site that already exists", "Technical fixes, page improvements, profiles, lead report", `${P.seo}`],
         ["Lead management tool", "Sales teams handling many enquiries", "Lead inbox, assignment, follow-up status, source reports", P.software],
         ["WhatsApp follow-up automation", "Fast first response to every enquiry", "Instant replies with brochure, visit slot reminders", P.ai],
         ["Site care", "Keeping pages and listings current", "Updates, backups, fixes after 2 free months", P.care],

@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "turf booking app developer", "custom turf booking app", "turf booking app like marketplace", "turf booking app for owners",
       "turf booking app ahmedabad", "turf booking app pune", "turf booking app hyderabad", "turf booking app banwana hai",
       "pickleball court booking app", "futsal booking app",
+      "turf booking app development price", "turf booking app development company", "best turf booking app development in India", "turf booking app development cost in India",
+      "turf booking app development near me",
     ],
   },
   hero: {
@@ -210,7 +212,7 @@ const content: FreelanceContent = {
       heading: "Turf booking app development cost in India, line by line",
       paragraphs: [
         `Turf booking app development with BtechWaleTech starts at ${P.app} for one venue with a branded player app, slot booking, UPI advance, pricing rules and a basic owner panel. Multi-branch platforms with split pay, tournaments and staff roles start at ${P.software}.`,
-        `Running costs are separate and small compared with the build: cloud hosting in your account, gateway charges on each payment, WhatsApp Business API message charges if you use it, and the store fees. After two months of free maintenance, ongoing upkeep plans start at ${P.care} a month.`,
+        `Running costs are separate and small compared with the build: cloud hosting in your account, gateway charges on each payment, WhatsApp Business API message charges if you use it, and the store fees. After two months of free maintenance, ongoing upkeep plans start at ${P.care}.`,
       ],
       list: [
         `Branded player app for one venue: from ${P.app}`,
@@ -392,7 +394,7 @@ const content: FreelanceContent = {
     { question: "Can the app sell monthly memberships or prepaid packs?", answer: "Yes. Memberships can give fixed weekly slots, discounted rates or priority booking, and prepaid packs let teams buy hours in advance and draw them down. These are added modules in the quote. Recurring bookings for teams that play the same slot every week are available even without formal memberships." },
     { question: "Which technology do you use for turf booking apps?", answer: "We use Flutter for one Android and iOS codebase, a Node.js or Python backend, PostgreSQL for bookings and a React web panel. Slot holds use database locking so two players cannot book the same hour. Everything runs in your own cloud account with backups and monitoring." },
     { question: "Can you add pickleball, badminton or other sports?", answer: "Yes. The slot engine is sport-agnostic: each court or ground has its own slot length, rates and capacity. Multi-sport venues often mix a football turf, box cricket cages and pickleball courts. Coaching batches for any sport can block slots automatically, and an academy module can be added for fees and attendance." },
-    { question: "What support do I get after launch?", answer: `Two months of free maintenance cover bug fixes, OS and store updates and small tweaks. After that, maintenance plans start at ${P.care} a month, and larger new features are quoted separately. Exact support terms are written into your quote; our terms and refund policy pages explain the general conditions.` },
+    { question: "What support do I get after launch?", answer: `Two months of free maintenance cover bug fixes, OS and store updates and small tweaks. After that, maintenance plans start at ${P.care}, and larger new features are quoted separately. Exact support terms are written into your quote; our terms and refund policy pages explain the general conditions.` },
     { question: "How do I pay for turf booking app development?", answer: "Payment is in milestones set out in your approved quote, by UPI or bank transfer, with GST invoices where applicable. Owners abroad can pay in USD by Wise, bank wire or PayPal. We start only after you approve the itemised estimate in writing." },
     { question: "Do players need to install the app to book a slot?", answer: "Not necessarily. Alongside the Android and iOS apps, we can give your turf a mobile booking page that opens from a link in your Instagram bio, Google Business Profile or WhatsApp status. It uses the same slot engine, so a slot booked on the web vanishes from the app at once. Regulars usually install the app later for reminders and faster repeat booking." },
     { question: "Turf booking app banwana hai, shuru kaise karein?", answer: `WhatsApp par apne grounds ki photos, timing aur abhi ka rate card bhejiye. Hum do working days mein itemised quote bhejenge. Ek venue ka branded app ${P.app} se shuru hota hai, jisme hourly slots, UPI advance aur owner panel hota hai. Multi-branch platform ${P.software} se start hota hai.` },

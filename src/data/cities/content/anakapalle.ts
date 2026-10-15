@@ -7,7 +7,7 @@ const anakapalle: CityContent = {
   meta: {
     title: "IT Services in Anakapalle | Web, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Anakapalle jaggery traders, SEZ suppliers, clinics and colleges. Starting from ₹10,000.",
+      "Anakapalle websites, Android and iOS apps, local SEO and WhatsApp automation for jaggery traders, SEZ suppliers, clinics and colleges. Starting from ₹10,000.",
     keywords: [
       "IT services in Anakapalle",
       "IT services team in Anakapalle",
@@ -29,6 +29,10 @@ const anakapalle: CityContent = {
       "Anakapalle lo website cheyinchukovali",
       "Anakapalle me website banwana",
       "అనకాపల్లి వెబ్‌సైట్ డిజైన్",
+      "Anakapalle website designer",
+      "web development company Anakapalle",
+      "hire freelance developer Anakapalle",
+      "Andhra Pradesh SEO",
     ],
   },
   hero: {

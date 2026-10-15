@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "meta business verification for whatsapp api", "whatsapp display name approval", "migrate number from whatsapp business app to api",
       "whatsapp template approval", "whatsapp api integration near me", "whatsapp business api integration Delhi", "whatsapp business api integration Mumbai",
       "whatsapp business api integration Bangalore", "whatsapp api kaise connect kare", "whatsapp api integration freelancer",
+      "WhatsApp Business API integration price", "WhatsApp Business API integration company", "best WhatsApp Business API integration in India", "WhatsApp Business API integration cost in India",
+      "WhatsApp Business API integration service",
     ],
   },
   hero: {

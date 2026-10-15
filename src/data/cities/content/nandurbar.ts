@@ -7,7 +7,7 @@ const nandurbar: CityContent = {
   meta: {
     title: "Nandurbar Websites, SEO & Automation from ₹10,000",
     description:
-      "Websites, Marathi and Hindi local SEO, chilli trade tools and WhatsApp automation for Nandurbar traders, clinics, schools and Satpuda tourism. From ₹10,000.",
+      "Websites, chilli trade tools and WhatsApp tools for Nandurbar traders, clinics, schools and Satpuda tourism. Sites from ₹10,000, free upkeep for 2 months.",
     keywords: [
       "website development team in Nandurbar",
       "website designer Nandurbar",
@@ -25,6 +25,16 @@ const nandurbar: CityContent = {
       "नंदुरबार वेबसाइट",
       "NGO website Nandurbar",
       "school website Nandurbar",
+      "website cost in Nandurbar",
+      "web development company Nandurbar",
+      "hire freelance web developer Nandurbar",
+      "Maharashtra SEO services",
+      "Nandurbar me website kaise banwaye",
+      "Nandurbar website banwane ka kharcha",
+      "chilli traders website design Nandurbar",
+      "Nandurbar agri-input dealers website",
+      "agri-input dealers website design Nandurbar",
+      "website design Dhule Road Nandurbar",
     ],
   },
   hero: {

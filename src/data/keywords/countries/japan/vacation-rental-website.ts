@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "guesty booking website", "short term rental website design", "vacation rental website deposit payments",
       "multi currency vacation rental booking", "180 day rule minpaku website", "private lodging business act website",
       "vacation rental website developer", "direct booking site for property managers japan", "japan", "niseko", "tokyo", "osaka", "kyoto",
+      "hire vacation rental direct booking website in Japan", "freelance vacation rental direct booking website Japan",
     ],
   },
   hero: {

@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "AI automation vs hiring employees",
   updated: "2026-09-25",
   meta: {
-    title: `AI Automation vs Hiring Employees: Setup from ${P.ai}`,
-    description: `AI automation vs hiring employees: which repetitive tasks a bot handles, the one-time vs monthly cost maths, and AI setups from ${P.ai}. Decide before you hire.`,
+    title: `AI Automation vs Hiring Staff: Setup from ${P.ai}`,
+    description: `AI automation vs hiring staff: which repetitive tasks a bot handles, the one-time vs monthly cost maths, and AI setups from ${P.ai}. Decide before you hire.`,
     keywords: [
       "ai automation vs hiring employees", "ai automation vs hiring staff", "ai vs hiring employees", "automation vs hiring",
       "should I hire or automate", "hire or automate small business", "ai automation vs new employee cost", "automate data entry instead of hiring",

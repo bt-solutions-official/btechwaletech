@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer for Surat Ring Road Textile Market`,
-    description: `Website developer for Surat Ring Road textile market traders: catalogue sites with reseller prices and WhatsApp orders from ${P.site}. Remote build, your logins.`,
+    description: `Website developer for Surat Ring Road textile market traders: catalogue sites with reseller prices & WhatsApp orders from ${P.site}. Remote build, your logins.`,
     keywords: [
       "website developer for Surat Ring Road textile market", "Ring Road Surat website developer", "textile market website Surat", "website developer near me Ring Road Surat",
       "saree wholesaler website Surat", "dress material catalogue website", "kurti wholesale website Surat", "textile trader website Gujarat",
@@ -213,7 +213,7 @@ const content: FreelanceContent = {
         `Yes, though nobody can guarantee rankings, and the market is crowded. A well-built site gives search engines specific pages to show for specific searches, such as a wholesale georgette saree catalogue from Surat or kurti sets wholesale on Ring Road.`,
         `We give each catalogue and category its own URL and title, add schema markup for products and your business, generate an XML sitemap and set up Google Search Console before launch. Image file names and alt text describe fabric and style, which matters because many buyers search images first.`,
         `A <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> with your exact shop name, market, floor and shop number helps visiting buyers find you in a building with hundreds of shops. Keep it identical to your website footer.`,
-        `AI assistants increasingly answer questions like where to buy wholesale dress materials in Surat. They quote pages that answer clearly in short paragraphs, which is how we write category and FAQ blocks. Ongoing SEO is optional, from ${P.seo} a month.`,
+        `AI assistants increasingly answer questions like where to buy wholesale dress materials in Surat. They quote pages that answer clearly in short paragraphs, which is how we write category and FAQ blocks. Ongoing SEO is optional, from ${P.seo}.`,
       ],
     },
     {

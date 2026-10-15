@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.4733, lng: 77.947 },
   meta: {
-    title: "Freelance IT Services in Madhya Pradesh: Apps & AI",
+    title: "Madhya Pradesh IT Services: Apps & AI",
     description:
       "Freelance IT services in Madhya Pradesh: custom software, web and mobile apps, AI automation, dashboards, SEO and ecommerce for MP firms. Sites from ₹10,000.",
     keywords: [
@@ -33,6 +33,12 @@ const content: CityContent = {
       "mobile app developers Madhya Pradesh",
       "iOS app development Madhya Pradesh",
       "iPhone app developers MP",
+      "Madhya Pradesh website designer",
+      "website cost in Madhya Pradesh",
+      "IT company in Madhya Pradesh",
+      "Madhya Pradesh SEO services",
+      "hire developer Madhya Pradesh",
+      "auto components software in Madhya Pradesh",
     ],
   },
   hero: {

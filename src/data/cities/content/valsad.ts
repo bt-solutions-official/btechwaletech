@@ -7,7 +7,7 @@ const valsad: CityContent = {
   meta: {
     title: "Valsad Website Design, SEO and Stores | From ₹10,000",
     description:
-      "Websites, SEO, mango and chikoo stores and WhatsApp automation for Valsad traders, Gundlav units and Atul suppliers. Static sites start at ₹10,000.",
+      "Valsad websites, SEO and UPI stores for mango and chikoo growers, chemical makers, Gundlav engineering units and Atul suppliers. From ₹10,000.",
     keywords: [
       "website development team in Valsad",
       "web design Valsad",
@@ -24,6 +24,17 @@ const valsad: CityContent = {
       "website maintenance Valsad",
       "Valsad ma website banavvi",
       "વલસાડ વેબસાઇટ ડિઝાઇન",
+      "web development company Valsad",
+      "hire freelance web developer Valsad",
+      "Gujarat SEO services",
+      "website design Halar Road Valsad",
+      "website design Tithal Road Valsad",
+      "website design Tithal Valsad",
+      "website design Abrama Valsad",
+      "website design price in Valsad",
+      "app development company Valsad",
+      "Valsad SEO company",
+      "Google Maps listing Valsad",
     ],
   },
   hero: {

@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What it costs to hire a Flutter developer for Saudi Arabia",
-    note: `A complete Flutter app for Android and iOS starts from ${P.app} and usually takes 6 to 10 weeks. That figure assumes one customer app, an admin panel, Arabic and English, and a single payment provider. Work on an existing app is quoted per milestone after we read the repository, because a clean codebase and a tangled one cost very different amounts to extend. Every quote is itemised in USD, you approve it in writing before any billing starts, and you pay by Wise, bank wire or PayPal. Two months of maintenance come free after launch; after that, care plans start from ${P.care} a month.`,
+    note: `A complete Flutter app for Android and iOS starts from ${P.app} and usually takes 6 to 10 weeks. That figure assumes one customer app, an admin panel, Arabic and English, and a single payment provider. Work on an existing app is quoted per milestone after we read the repository, because a clean codebase and a tangled one cost very different amounts to extend. Every quote is itemised in USD, you approve it in writing before any billing starts, and you pay by Wise, bank wire or PayPal. Two months of maintenance come free after launch; after that, care plans start from ${P.care}.`,
   },
   guideLabel: "Guide to hiring a Flutter developer for Saudi Arabia",
   guide: [
@@ -320,7 +320,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This scenario is hypothetical, to show how the numbers and steps fit together. Say a laundry business with four branches in Riyadh wants customers to book pickups, pay by card or Apple Pay, and track orders in Arabic or English, while drivers see a route list.`,
         `In week one we would map two roles — customer and driver — plus a web admin for branch staff, and recommend a hybrid backend: Firebase for login and push notifications, a small custom API for orders, pricing per item and branch reports. The owner would open a Moyasar merchant account, since its official Flutter SDK covers Apple Pay and cards, and start Apple enrolment with the company's D-U-N-S number.`,
-        `Sprints would deliver booking and payment first, then driver screens, then reports. Arabic would appear in the first build, with Western digits for prices because the owner prefers them on receipts. The quote would start from ${P.app} for the apps and be itemised for the admin and API, with a first store release in the 6–10 week window if accounts are approved in time. After launch, two months of fixes are included; a care plan from ${P.care} a month would be optional after that.`,
+        `Sprints would deliver booking and payment first, then driver screens, then reports. Arabic would appear in the first build, with Western digits for prices because the owner prefers them on receipts. The quote would start from ${P.app} for the apps and be itemised for the admin and API, with a first store release in the 6–10 week window if accounts are approved in time. After launch, two months of fixes are included; a care plan from ${P.care} would be optional after that.`,
       ],
     },
     {
@@ -343,7 +343,7 @@ const content: FreelanceContent = {
         ["Full app, fixed milestones", "New app with clear screens", `From ${P.app}, per approved milestone`, "Scope creep if flows keep changing", "Default choice for first builds"],
         ["Milestones on an existing app", "Adding Arabic, payments or a feature", "Quoted after code review", "Hidden problems in old code", "Always start with the review"],
         ["Agreed monthly hours", "Steady small changes on a live app", "Hours agreed in writing, logged per ticket", "Hours used on unclear requests", "Keep a prioritised backlog"],
-        ["Maintenance plan", "Store updates, SDK upgrades, fixes", `From ${P.care} a month after 2 free months`, "Paying for idle time", "Review usage every quarter"],
+        ["Maintenance plan", "Store updates, SDK upgrades, fixes", `From ${P.care} after 2 free months`, "Paying for idle time", "Review usage every quarter"],
         ["Rescue project", "Unfinished app from another developer", "Paid audit, then milestones", "Missing accounts or keys", "Recover accounts first"],
         ["Code review only", "Checking another team's work", "Quoted as a small fixed task", "Findings without fixes", "Useful before a big payment"],
       ],
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
         ["Two-role app", "Customer and driver or staff apps", "Quoted after flows are mapped", "8–12 weeks"],
         ["Custom backend and integrations", "API, reports, accounting or ERP links", `From ${P.software} for the backend`, "6–12 weeks"],
         ["AI assistant inside the app", "Answers from your FAQs or catalogue", `From ${P.ai}`, "2–4 weeks"],
-        ["Care after free period", "Upgrades, fixes, store policy changes", `From ${P.care} a month`, "Ongoing"],
+        ["Care after free period", "Upgrades, fixes, store policy changes", `From ${P.care}`, "Ongoing"],
       ],
       hideSm: [3],
     },
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
     { question: "Is it better to hire a local Flutter developer in Riyadh or a remote team?", answer: "A local hire can attend meetings in person and may already know your sector. A remote team in India usually costs less for the same scope and gives you more than one developer on the project. If you need face-to-face work daily, hire locally; if you need a delivered app with clear ownership, remote works well." },
     { question: "How do I pay a Flutter developer in India from Saudi Arabia?", answer: "BtechWaleTech invoices in USD from India and accepts Wise, international bank wire or PayPal. You pay per approved milestone rather than everything upfront. We do not quote in riyals or advise on your tax treatment; your accountant can confirm how to book the invoices." },
     { question: "Will you sign an NDA before seeing my app idea?", answer: "Confidentiality can be agreed as part of your written quote, and many clients send their own NDA for review. We do not publish client work or names without permission. For the general terms that apply to every project, see the terms page on our site, and raise any special requirement before you approve the quote." },
-    { question: "What happens after my Flutter app launches?", answer: `You receive two months of free maintenance covering bug fixes, small adjustments and store policy updates. After that, an optional care plan starts from ${P.care} a month for Flutter upgrades, new store requirements and minor changes. Larger new features are quoted separately so you always know what you are paying for.` },
+    { question: "What happens after my Flutter app launches?", answer: `You receive two months of free maintenance covering bug fixes, small adjustments and store policy updates. After that, an optional care plan starts from ${P.care} for Flutter upgrades, new store requirements and minor changes. Larger new features are quoted separately so you always know what you are paying for.` },
     { question: "Can your Flutter developers write the Arabic content for my app?", answer: "We write and edit English. For Arabic, you supply the copy or approve a translation from your own translator, and we handle placement, right-to-left layout, fonts and testing. We can structure all strings in one file so your translator sees every piece of text with context." },
     { question: "How do I check a Flutter developer's skill before hiring?", answer: "Ask for an installable build of past work, a screen recording in Arabic, and a short walk through a project's folder structure. Then ask how payments are verified on the server and whose name the store accounts use. Clear, specific answers on those points tell you more than years of experience listed on a profile." },
     { question: "Do you build Flutter apps that also run on the web?", answer: "Flutter can compile to the web, and it is useful for admin panels or internal tools that share code with the app. For public, search-dependent websites we usually recommend a regular web build instead, because it loads faster and is easier for search engines to read. We will suggest the split during scoping." },

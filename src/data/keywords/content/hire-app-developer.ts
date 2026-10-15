@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Hire App Developer in India: Brief, Features, Budget`,
-    description: `Hire app developer help: a free brief template, a feature list with effort levels and budget bands. Android and iOS apps from ${P.app}, itemised quote in 2 days.`,
+    description: `Hire app developer help: a free brief template, a feature list with effort levels and budget bands. Android and iOS apps from ${P.app}, quote in 2 days.`,
     keywords: [
       "hire app developer", "hire app developer in India", "hire app developer near me", "app developer for hire",
       "hire app developer cost", "app developer price India", "best app developer to hire", "app developer chahiye",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "App plus web dashboard", value: `App from ${P.app}; custom web app from ${P.software}` },
       { label: "Test the idea first", value: `Mobile website from ${P.site}` },
       { label: "Accounts", value: "Play Console, Apple developer account and code in your name" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
     { question: "Can I test my app idea without building a full app?", answer: `Yes. A mobile-first website or progressive web app can prove demand before you commit to an app. BtechWaleTech builds static websites from ${P.site} in 1–2 weeks, with enquiry forms and WhatsApp buttons. If usage is strong, what you learn becomes the brief for the full Android and iOS app.` },
     { question: "How do payments work when I hire BtechWaleTech for an app?", answer: "Payments are split into stages tied to visible work, such as approved designs, a working test build and store release. Clients in India pay by UPI or bank transfer; clients abroad use Wise, bank wire or PayPal. Nothing is billed until you approve the written, itemised quote, and GST details can be added to invoices." },
     { question: "Do I need an NDA before sharing my app idea?", answer: "If your idea depends on an unreleased business model, customer data or pricing logic, an NDA is sensible and BtechWaleTech will sign a reasonable one. For most app ideas, though, execution matters far more than secrecy, and a clear written scope with ownership terms protects you more than an NDA alone." },
-    { question: "What happens after the app is launched?", answer: `Phones and operating systems update constantly, so apps need care. BtechWaleTech fixes bugs, handles OS compatibility updates and makes small changes free for two months after release. After that, maintenance is optional and starts at ${P.care} a month. You can also move the app to any other developer using the handover package.` },
+    { question: "What happens after the app is launched?", answer: `Phones and operating systems update constantly, so apps need care. BtechWaleTech fixes bugs, handles OS compatibility updates and makes small changes free for two months after release. After that, maintenance is optional and starts at ${P.care}. You can also move the app to any other developer using the handover package.` },
     { question: "Does the app developer also build the backend and admin panel?", answer: `Ask, because many quotes cover only the phone app. BtechWaleTech's app plan includes the API connection and a basic admin panel for managing users and content. A larger web portal with reports, approvals and exports for staff or vendors is scoped separately as a custom web app from ${P.software}.` },
     { question: "How do I check if an app developer is genuine?", answer: "Install at least two apps they built from Google Play or the App Store and use them on your phone. Ask whose developer account published them and who built the backend. Check that the quote follows your brief line by line, that payments are staged, and that nobody promises download numbers or store rankings." },
     { question: "Can I hire an app developer for a startup MVP?", answer: "Yes, and a small team is often the best fit for a first version. The key is ruthless scope: one main task, the fewest screens that deliver it, and a backend that can grow. BtechWaleTech helps you move nice-to-have features into a later release so the MVP ships within the 6–10 week range." },

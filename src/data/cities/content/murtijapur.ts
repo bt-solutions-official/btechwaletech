@@ -7,7 +7,7 @@ const murtijapur: CityContent = {
   meta: {
     title: "IT Services in Murtijapur: Web, Apps, SEO & AI",
     description:
-      "Marathi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Murtijapur cotton traders, oil mills, farm dealers, clinics and coaching classes.",
+      "Marathi websites, apps, Maps SEO and WhatsApp tools for Murtijapur cotton traders, oil mills, farm dealers, clinics and coaching classes. Sites from ₹10,000.",
     keywords: [
       "IT services in Murtijapur",
       "IT company in Murtijapur",
@@ -29,6 +29,12 @@ const murtijapur: CityContent = {
       "Murtijapur me website banwana",
       "Murtijapur madhe website banvaychi",
       "मुर्तिजापूर वेबसाईट डिझाईन",
+      "Murtijapur website designer",
+      "web development company Murtijapur",
+      "hire freelance web developer Murtijapur",
+      "Akola district SEO",
+      "website designer Akola district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

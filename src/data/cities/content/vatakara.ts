@@ -7,7 +7,7 @@ const vatakara: CityContent = {
   meta: {
     title: "IT Services in Vatakara | Web, Apps & AI from ₹10,000",
     description:
-      "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Vatakara halwa makers, fish and copra traders, clinics, colleges and shops.",
+      "Malayalam websites, apps, local SEO and WhatsApp tools for Vatakara halwa makers, fish and copra traders, clinics, colleges and shops. Websites from ₹10,000.",
     keywords: [
       "IT services in Vatakara",
       "IT services team in Vatakara",
@@ -29,6 +29,12 @@ const vatakara: CityContent = {
       "Vatakara me website banwana",
       "Vadakarayil website undakkan",
       "വടകര വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Vatakara website designer",
+      "web development company Vatakara",
+      "hire freelance web developer Vatakara",
+      "Kozhikode district SEO",
+      "website designer Kozhikode district",
+      "Kerala SEO services",
     ],
   },
   hero: {

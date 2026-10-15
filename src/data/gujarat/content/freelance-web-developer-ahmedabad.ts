@@ -245,7 +245,7 @@ const content: FreelanceContent = {
         `Every website handover should include the technical basics of search, even if you never buy ongoing SEO. Nobody can guarantee rankings, but missing basics can certainly hold a site back.`,
         `The basics: unique page titles and descriptions, one main heading per page, clean URLs, compressed images, fast loading on phones, a sitemap, schema markup for your business and FAQs, and Google Search Console verified in your account. For local businesses, the website and Google Business Profile should show the same name, address and phone.`,
         `AI assistants and Google's AI Overviews increasingly answer questions directly. Pages with clear, short answers and specific details about your services and location are more likely to be cited. A developer who understands this will structure pages accordingly.`,
-        `Ask candidates how they handle these. If they talk only about keywords and backlinks, they are thinking about SEO from ten years ago. Ongoing SEO from us is optional from ${P.seo} a month; our <a href='/gujarat/seo-friendly-website-gujarat/'>SEO-friendly website page</a> lists what every build should include.`,
+        `Ask candidates how they handle these. If they talk only about keywords and backlinks, they are thinking about SEO from ten years ago. Ongoing SEO from us is optional from ${P.seo}; our <a href='/gujarat/seo-friendly-website-gujarat/'>SEO-friendly website page</a> lists what every build should include.`,
       ],
     },
     {
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
     { question: "How long will a freelance web developer take to build my site?", answer: "With us, a business website usually takes 1–2 weeks after scope approval, an SEO website 3–5 weeks, a store 4–8 weeks and a web app 6–12 weeks. Most delays come from waiting for content and decisions, so having photos and text ready early keeps the timeline." },
     { question: "Are marketplace freelancers on Upwork or Fiverr a good option?", answer: "They can be, especially for small, well-defined tasks. Marketplaces offer reviews and escrow payment protection, but they add fees and often push bids lower. Apply the same checks: live work, itemised scope, accounts in your name and staged releases of payment." },
     { question: "What support should I expect after launch?", answer: `With BtechWaleTech, two months of maintenance are free after launch, covering fixes, small changes, updates and backups. After that, care is optional from ${P.care}. You can also manage the site yourself or hand it to another developer using the handover pack.` },
-    { question: "Can a freelance developer also do SEO?", answer: `A good one delivers technical SEO basics with every build: titles, headings, clean URLs, speed, schema, a sitemap and Search Console in your account. Ongoing SEO is separate work; ours is optional from ${P.seo} a month. Nobody can honestly guarantee rankings.` },
+    { question: "Can a freelance developer also do SEO?", answer: `A good one delivers technical SEO basics with every build: titles, headings, clean URLs, speed, schema, a sitemap and Search Console in your account. Ongoing SEO is separate work; ours is optional from ${P.seo}. Nobody can honestly guarantee rankings.` },
     { question: "Is a part-time developer enough for my business?", answer: "For occasional updates after launch, often yes. For building a new site or portal, part-time work stretches timelines and makes continuity harder. A freelance team that builds the project fully, then offers optional care, usually gives a better result than a part-timer working evenings." },
     { question: "Do you offer GST invoices and staged billing?", answer: "Billing is in INR by UPI or bank transfer, in stages written into your quote. Ask about invoice details when you request the quote, and they will be confirmed in writing before any payment. Running costs like domain and hosting are billed to you directly by the providers." },
     { question: "Ahmedabad me freelance web developer hire karna safe hai kya?", answer: `Haan, agar scope likha hua ho, payment stages mein ho, aur domain, hosting aur code aapke naam par ho. BtechWaleTech teen freelance developers ki team hai, isliye ek vyakti na ho to bhi kaam nahi rukta. Website ${P.site} se shuru hoti hai aur launch ke baad 2 mahine maintenance free hai.` },
@@ -406,6 +406,7 @@ const content: FreelanceContent = {
     heading: "More Ahmedabad and Gujarat hiring guides",
     links: [
       { name: "All website services in Gujarat", href: "/gujarat/" },
+      { name: "CA firm website in Ahmedabad", href: "/gujarat/ca-firm-website-ahmedabad/" },
       { name: "Website development services in Ahmedabad", href: "/gujarat/website-development-services-ahmedabad/" },
       { name: "Website designer in Ahmedabad", href: "/gujarat/website-designer-ahmedabad/" },
       { name: "Web developer near me in Ahmedabad", href: "/gujarat/web-developer-near-me-ahmedabad/" },

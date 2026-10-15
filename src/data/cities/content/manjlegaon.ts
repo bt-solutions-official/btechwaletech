@@ -7,7 +7,7 @@ const manjlegaon: CityContent = {
   meta: {
     title: "IT Services in Majalgaon: Websites, Apps, SEO & AI",
     description:
-      "Marathi websites, Android and iOS apps, Google Maps listings and WhatsApp automation for Majalgaon canal-belt traders, cane contractors, mills, clinics and schools.",
+      "Marathi websites, apps and Maps listings for Majalgaon canal-belt traders, cane contractors, mills, clinics and schools. Sites from ₹10,000, yours to keep.",
     keywords: [
       "IT services in Majalgaon",
       "IT company in Majalgaon",
@@ -31,6 +31,10 @@ const manjlegaon: CityContent = {
       "custard apple online store Beed",
       "Marathi website design Marathwada",
       "माजलगाव वेबसाईट डिझाईन",
+      "Majalgaon website designer",
+      "web development company Majalgaon",
+      "hire freelance web developer Majalgaon",
+      "Beed district SEO",
     ],
   },
   hero: {

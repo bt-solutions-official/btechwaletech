@@ -7,7 +7,7 @@ const tezpur: CityContent = {
   meta: {
     title: "IT Services in Tezpur | Web, Apps & AI from ₹10,000",
     description:
-      "Assamese and English websites, Android and iOS apps, local SEO and WhatsApp automation for Tezpur tea estates, litchi growers, hospitals, colleges and shops.",
+      "Assamese and English websites, apps and SEO for Tezpur tea estates, litchi growers, hospitals, colleges and shops. Sites from ₹10,000, live in 1-2 weeks.",
     keywords: [
       "IT services in Tezpur",
       "IT services team in Tezpur",
@@ -30,6 +30,11 @@ const tezpur: CityContent = {
       "Tezpur me website banwana",
       "Tezpurot website banabo",
       "তেজপুৰ ৱেবছাইট ডিজাইন",
+      "Tezpur website designer",
+      "web development company Tezpur",
+      "hire freelance web developer Tezpur",
+      "Sonitpur district SEO",
+      "website designer Sonitpur district",
     ],
   },
   hero: {

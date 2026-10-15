@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.1815, lng: 79.9864 },
   meta: {
-    title: "Freelance Software Developers in Jabalpur, MP",
+    title: "Jabalpur Software Developers: Defence Vendors & Garments",
     description:
-      "Freelance software developers for Jabalpur: vendor and garment software, legal case tools, AI agents, apps and dashboards. Mobile apps from ₹40,000, quote in 2 days.",
+      "Freelance software developers for Jabalpur: vendor and garment software, legal case tools, plus AI agents. Mobile apps from ₹40,000, quote in 2 days.",
     keywords: [
       "software development team in Jabalpur",
       "IT services team in Jabalpur",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "mobile app developers Jabalpur",
       "iOS app development Jabalpur",
       "iPhone app developers Jabalpur",
+      "Jabalpur website designer",
+      "website cost in Jabalpur",
+      "IT company in Jabalpur",
+      "Madhya Pradesh SEO services",
+      "hire developer Jabalpur",
+      "defence software in Jabalpur",
+      "readymade garments software in Jabalpur",
     ],
   },
   hero: {

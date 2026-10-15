@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Freelance PHP developer",
   updated: "2026-09-24",
   meta: {
-    title: "Freelance PHP Developer: Laravel, CodeIgniter & Legacy",
+    title: `Freelance PHP Developer: Laravel Apps from ${P.software}`,
     description: `Freelance PHP developer for legacy fixes, PHP 8 upgrades, Laravel and CodeIgniter builds. Web apps from ${P.software}, upkeep from ${P.care}. Audit-first quotes.`,
     keywords: [
       "freelance php developer", "freelance php developer in India", "freelance php developer near me", "php developer for hire",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "php 8 migration", "codeigniter developer freelance", "codeigniter 3 to 4 migration", "laravel freelancer",
       "core php developer", "php mysql developer", "php website bug fixing", "php developer for old website",
       "remote php developer India", "php backend developer freelance",
+      "hire freelance php developer",
     ],
   },
   hero: {
@@ -35,7 +36,7 @@ const content: FreelanceContent = {
   facts: [
     ["First step", "Code and server audit before any quote"],
     ["New PHP web app", `From ${P.software} · ${P.softwareUsd}`],
-    ["Ongoing upkeep", `From ${P.care} per month`],
+    ["Ongoing upkeep", `From ${P.care}`],
     ["Quote turnaround", "About 2 working days after access"],
     ["Where code lives", "A Git repository you own"],
     ["Talk to", "The developers directly, on WhatsApp"],
@@ -58,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Frameworks", value: "Laravel, CodeIgniter 3 and 4, Symfony components, core PHP" },
       { label: "Databases", value: "MySQL, MariaDB, PostgreSQL" },
       { label: "New web app", value: `From ${P.software}, 6–12 weeks` },
-      { label: "Maintenance", value: `From ${P.care} per month` },
+      { label: "Maintenance", value: `From ${P.care}` },
       { label: "Hosting we handle", value: "Shared cPanel, VPS, AWS" },
       { label: "Ownership", value: "Code in your Git repository, server in your account" },
     ],
@@ -202,7 +203,7 @@ const content: FreelanceContent = {
       heading: "How much does a freelance PHP developer cost in India?",
       paragraphs: [
         `Rates vary widely, and comparing hourly figures is less useful than comparing plans. A lower hourly rate on a codebase the developer does not understand can easily cost more than a higher one from someone who has done five similar upgrades.`,
-        `With BtechWaleTech, a brand-new custom web app in PHP starts at ${P.software} (${P.softwareUsd}) and takes 6–12 weeks. A PHP-backed website starts at ${P.site}, an online store at ${P.shop}. Ongoing maintenance, which covers patches, dependency updates, backups and small changes, starts at ${P.care} per month. Legacy fixes, upgrades and migrations are priced after an audit, as separate lines you can accept one by one.`,
+        `With BtechWaleTech, a brand-new custom web app in PHP starts at ${P.software} (${P.softwareUsd}) and takes 6–12 weeks. A PHP-backed website starts at ${P.site}, an online store at ${P.shop}. Ongoing maintenance, which covers patches, dependency updates, backups and small changes, starts at ${P.care}. Legacy fixes, upgrades and migrations are priced after an audit, as separate lines you can accept one by one.`,
         `What pushes a PHP quote up: code size, no version control, no tests, very old PHP versions, custom frameworks written in-house, unclear database relationships and integrations with partners who are slow to respond. What pulls it down: clean access, a staging server, one decision-maker and staff available to test. For market context see <a href='/freelance-web-developer-rates/'>freelance developer rates</a>.`,
       ],
     },

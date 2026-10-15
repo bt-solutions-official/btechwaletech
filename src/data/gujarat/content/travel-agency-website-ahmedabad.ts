@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Travel Agency Website in Ahmedabad from ${P.site}`,
-    description: `Travel agency website in Ahmedabad with package pages, day-wise itineraries, trip enquiries and UPI deposits. Tour sites from ${P.site}; quote in about 2 working days.`,
+    description: `Travel agency website in Ahmedabad with package pages, day-wise itineraries, trip enquiries and UPI deposits. Tour sites from ${P.site}; quote in 2 days.`,
     keywords: [
       "travel agency website in Ahmedabad", "travel agency website Ahmedabad", "tour operator website Ahmedabad", "travel website development Ahmedabad",
       "travel agency website design Ahmedabad", "travel agency website near me", "tour package website Gujarat", "travel agency website Ahmedabad Gujarat",

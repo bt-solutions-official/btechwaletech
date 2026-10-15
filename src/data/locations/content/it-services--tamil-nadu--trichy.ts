@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 10.7905, lng: 78.7047 },
   meta: {
-    title: "Freelance Software Developers in Tiruchirappalli",
+    title: "Tiruchirappalli Software Developers: Boiler & Defence",
     description:
       "Freelance software developers for Tiruchirappalli (Trichy): vendor portals, institution ERPs, AI agents, apps and SEO. Web apps from ₹60,000, quote in 2 days.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "ecommerce website Trichy",
       "website maintenance Tiruchirappalli",
       "திருச்சி மென்பொருள் நிறுவனம்",
+      "Tiruchirappalli website designer",
+      "website cost in Tiruchirappalli",
+      "IT company in Tiruchirappalli",
+      "Tamil Nadu SEO services",
+      "hire developer Tiruchirappalli",
+      "boiler software in Tiruchirappalli",
+      "defence software in Tiruchirappalli",
     ],
   },
   hero: {

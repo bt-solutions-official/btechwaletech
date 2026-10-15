@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Hire Svelte Developer: SvelteKit Sites from ${P.site}`,
-    description: `Hire a Svelte developer for SvelteKit websites and web apps from ${P.site}. When Svelte beats React, hiring and maintenance risks, costs and how to vet.`,
+    description: `Hire a Svelte developer for SvelteKit websites and web apps: when Svelte beats React, hiring and maintenance risks, how to vet. From ${P.site}.`,
     keywords: [
       "hire svelte developer", "hire sveltekit developer", "svelte developer India", "sveltekit developer for hire",
       "freelance svelte developer", "svelte developer cost", "svelte developer rates India", "hire svelte js developer",

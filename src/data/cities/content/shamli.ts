@@ -7,7 +7,7 @@ const shamli: CityContent = {
   meta: {
     title: "IT Services in Shamli | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android & iOS apps, Hindi SEO and WhatsApp automation for Shamli rim-axle makers, sugar belt suppliers, gur traders and shops. Starting prices only.",
+      "Websites, apps, Hindi SEO and WhatsApp automation for Shamli rim-axle makers, sugar belt suppliers, gur traders and shops. Sites from ₹10,000, yours to keep.",
     keywords: [
       "IT services in Shamli",
       "IT services team in Shamli",
@@ -29,6 +29,12 @@ const shamli: CityContent = {
       "शामली वेबसाइट डिजाइन",
       "Thana Bhawan Kandhla digital marketing",
       "Shamli app banwana",
+      "Shamli website designer",
+      "web development company Shamli",
+      "hire freelance web developer Shamli",
+      "Uttar Pradesh SEO services",
+      "Shamli me website kaise banwaye",
+      "Shamli website banwane ka kharcha",
     ],
   },
   hero: {

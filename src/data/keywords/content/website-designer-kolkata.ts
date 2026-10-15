@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "Bengali website design", "bilingual website design Kolkata", "website designer Salt Lake", "website designer New Town",
       "website designer Howrah", "website designer Gariahat", "UI designer Kolkata", "website designer for small business Kolkata",
       "website designer Calcutta", "best website designer in Kolkata", "website designer West Bengal", "website design services Kolkata",
+      "website designer in Kolkata cost", "website designer in Kolkata price", "hire website designer in Kolkata", "freelance website designer in Kolkata",
+      "website designer in Kolkata charges",
     ],
   },
   hero: {

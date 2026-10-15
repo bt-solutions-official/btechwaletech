@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `iOS App Development Cost in India: From ${P.app}`,
-    description: `iOS app development cost in India starts at ${P.app} with Android included. See Apple’s US$99 fee, App Review prep, iPhone testing and if you need iOS at all.`,
+    description: `iOS app development cost in India starts at ${P.app} with Android included: Apple’s US$99 fee, App Review prep and iPhone testing. Get an itemised quote.`,
     keywords: [
       "ios app development cost in india", "ios app development cost", "iphone app development cost in india", "iphone app cost in india",
       "ios app development price in india", "how much does an ios app cost in india", "cost to make an iphone app in india", "ios app developer cost india",

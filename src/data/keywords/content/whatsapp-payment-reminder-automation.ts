@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "whatsapp payment reminder automation cost", "payment follow up automation India", "accounts receivable automation whatsapp", "whatsapp business api payment reminder",
       "payment reminder kaise bheje whatsapp par", "udhaar reminder whatsapp", "whatsapp payment reminder for distributors", "school fee reminder whatsapp automation",
       "whatsapp payment reminder automation Delhi", "whatsapp payment reminder automation Ahmedabad",
+      "WhatsApp payment reminder automation price", "WhatsApp payment reminder automation company", "best WhatsApp payment reminder automation in India", "WhatsApp payment reminder automation cost in India",
+      "WhatsApp payment reminder automation near me",
     ],
   },
   hero: {
@@ -204,7 +206,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Expect two kinds of cost: a one-time build, from ${P.ai} with us, and running costs that are mostly Meta’s per-message charges plus a small hosting bill, all paid directly by you.`,
         `The build cost moves with complexity, not with the number of customers. One clean data source and one reminder ladder sit at the starting figure. Several sources, separate ladders for dealers and retail, two-way sync of promise dates, invoice attachments and a dashboard each add lines to the quote. Messy data, such as phone numbers missing from half the ledgers, may need a cleanup step first.`,
-        `Meta charges for template messages vary by category and recipient country and are published by Meta; our <a href='/whatsapp-business-api-cost-in-india/'>WhatsApp Business API cost</a> guide explains the model. Hosting is usually a small cloud function or instance under your own account. After two months of free maintenance, ongoing care is optional and starts from ${P.care} a month.`,
+        `Meta charges for template messages vary by category and recipient country and are published by Meta; our <a href='/whatsapp-business-api-cost-in-india/'>WhatsApp Business API cost</a> guide explains the model. Hosting is usually a small cloud function or instance under your own account. After two months of free maintenance, ongoing care is optional and starts from ${P.care}.`,
       ],
     },
     {

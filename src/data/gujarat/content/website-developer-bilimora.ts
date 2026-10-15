@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Bilimora from ${P.site}`,
-    description: `Website developer in Bilimora for mango and chikoo traders, hospitals, boat workshops and shops: mobile sites from ${P.site}, Gujarati-ready, quote in 2 working days.`,
+    description: `Website developer in Bilimora for mango and chikoo traders, hospitals, boat workshops and shops: mobile sites from ${P.site}, Gujarati-ready, quote in 2 days.`,
     keywords: [
       "website developer in Bilimora", "website developer Bilimora", "Bilimora website developer near me", "Bilimora Gujarat website",
       "web developer Bilimora Navsari", "website designer Bilimora", "website development services Bilimora", "website design Bilimora",

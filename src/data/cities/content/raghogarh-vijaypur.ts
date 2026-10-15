@@ -7,7 +7,7 @@ const raghogarhVijaypur: CityContent = {
   meta: {
     title: "IT Services in Raghogarh-Vijaypur: Web, Apps & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Raghogarh-Vijaypur plant contractors, township shops, clinics, colleges and farmers.",
+      "Websites, apps, local SEO and WhatsApp automation for Raghogarh-Vijaypur plant contractors, township shops, clinics, colleges and farmers. From ₹10,000.",
     keywords: [
       "IT services in Raghogarh-Vijaypur",
       "IT services team in Raghogarh",
@@ -28,6 +28,13 @@ const raghogarhVijaypur: CityContent = {
       "Raghogarh me website banwana",
       "Vijaypur me app banwana",
       "राघौगढ़ वेबसाइट डिज़ाइन",
+      "Raghogarh-Vijaypur website designer",
+      "web development company Raghogarh-Vijaypur",
+      "hire freelance web developer Raghogarh-Vijaypur",
+      "Guna district SEO",
+      "Madhya Pradesh SEO services",
+      "Raghogarh-Vijaypur me website kaise banwaye",
+      "Raghogarh-Vijaypur website banwane ka kharcha",
     ],
   },
   hero: {

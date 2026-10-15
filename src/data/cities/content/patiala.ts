@@ -7,7 +7,7 @@ const patiala: CityContent = {
   meta: {
     title: "IT Services in Patiala: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO and WhatsApp automation for Patiala shops, clinics, institutes and Focal Point units. Sites from ₹10,000, itemised quotes, you own everything.",
+      "Websites, local SEO and WhatsApp automation for Patiala shops, clinics, institutes and Focal Point units. Sites from ₹10,000, SEO sites from ₹20,000.",
     keywords: [
       "website design team in Patiala",
       "website development Patiala",
@@ -25,6 +25,16 @@ const patiala: CityContent = {
       "website maintenance Patiala",
       "website banwani hai Patiala",
       "ਪਟਿਆਲਾ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Patiala website designer",
+      "web development company Patiala",
+      "hire freelance web developer Patiala",
+      "Punjab SEO services",
+      "Patiala agricultural equipment website",
+      "agricultural equipment website design Patiala",
+      "Patiala real estate website",
+      "real estate website design Patiala",
+      "Patiala wedding services website",
+      "wedding services website design Patiala",
     ],
   },
   hero: {

@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `AI Automation Services Singapore, from ${P.ai}`,
-    description: `AI automation services in Singapore for SME admin: invoices into Xero, email triage, WhatsApp and CRM workflows from ${P.ai}, PDPA-aware, with hours saved measured.`,
+    description: `AI automation services in Singapore for SMEs: invoices into Xero, email triage, WhatsApp and CRM workflows from ${P.ai}, PDPA-aware, hours saved measured.`,
     keywords: [
       "ai automation services singapore", "ai automation singapore", "business process automation singapore", "ai automation agency singapore",
       "workflow automation singapore", "n8n developer singapore", "make.com automation singapore", "ai invoice extraction xero", "automate data entry singapore sme",
@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "how much does ai automation cost in singapore", "ai automation without grant", "psg grant ai automation", "pdpa ai personal data",
       "what can ai automate for small business", "measure time saved automation", "ai automation consultant singapore", "ai automation near me singapore",
       "ai automation for accounting firms singapore", "automation freelancer singapore", "ai automation cecil street", "ai automation tai seng",
+      "hire ai automation services in Singapore",
     ],
   },
   hero: {

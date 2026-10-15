@@ -7,7 +7,7 @@ const kharagpur: CityContent = {
   meta: {
     title: "Kharagpur Web Development, SEO and Automation",
     description:
-      "Websites, SEO and automation for Kharagpur's railway and industrial vendors, IIT-area startups, clinics, tutors and shops. Sites from ₹10,000; you own everything.",
+      "Kharagpur's websites, SEO and automation for railway and industrial vendors, IIT-area startups, clinics and tutors. Sites from ₹10,000, you own it all.",
     keywords: [
       "website development team in Kharagpur",
       "web designer Kharagpur",
@@ -25,6 +25,14 @@ const kharagpur: CityContent = {
       "website maintenance Kharagpur",
       "Kharagpur-e website banano",
       "খড়গপুর ওয়েবসাইট ডিজাইন",
+      "Kharagpur website designer",
+      "website cost in Kharagpur",
+      "web development company Kharagpur",
+      "hire freelance developer Kharagpur",
+      "West Bengal SEO",
+      "website for industrial suppliers and contractors in Kharagpur",
+      "web designer in Gole Bazar, Kharagpur",
+      "website for railway contractors and suppliers in Kharagpur",
     ],
   },
   hero: {

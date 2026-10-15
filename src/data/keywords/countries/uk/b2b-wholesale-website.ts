@@ -224,7 +224,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Keep product and category pages public and indexable, and hide only the prices and ordering buttons for visitors who are not logged in. That way new trade buyers can find your range on Google while your pricing stays private.`,
         `Each public page should carry a proper description, specifications, pack sizes and a clear “Apply for a trade account” button in place of the price. Category pages describe the range in genuinely useful terms. We add product structured data where appropriate, XML sitemaps and Google Search Console, and make sure the login wall does not accidentally block search engines from the whole catalogue.`,
-        `Honest limits: nobody can guarantee rankings, and B2B searches are lower in volume than consumer ones, so progress is measured in trade applications rather than traffic spikes. Ongoing work runs from ${P.seo} a month, and our <a href='/uk/ecommerce-seo-services/'>ecommerce SEO page</a> covers catalogue structure in more detail.`,
+        `Honest limits: nobody can guarantee rankings, and B2B searches are lower in volume than consumer ones, so progress is measured in trade applications rather than traffic spikes. Ongoing work runs from ${P.seo}, and our <a href='/uk/ecommerce-seo-services/'>ecommerce SEO page</a> covers catalogue structure in more detail.`,
       ],
     },
     {
@@ -326,7 +326,7 @@ const content: FreelanceContent = {
         ["Custom trade portal", "Manufacturer with complex rules", "Buyer approvals, multi-warehouse, deep ERP logic", P.software],
         ["Purchase-order automation", "Order desks drowning in PDFs", "Emailed orders read into drafts for checking", P.ai],
         ["Rep ordering app", "Wholesalers with field sales", "Offline tablet ordering at customer prices", P.app],
-        ["Catalogue SEO", "Wholesalers seeking new trade accounts", "Public product pages, Search Console, fixes", `${P.seo} a month`],
+        ["Catalogue SEO", "Wholesalers seeking new trade accounts", "Public product pages, Search Console, fixes", `${P.seo}`],
       ],
       hideSm: [2],
     },

@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "nz business directory citations", "finda listing", "nocowboys and builderscrack reviews",
       "google business profile nz", "ai overviews seo nz", "seo reporting nz", "remote seo team for nz business",
       "seo services near me nz",
+      "hire seo services in New Zealand", "freelance seo services New Zealand",
     ],
   },
   hero: {

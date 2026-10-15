@@ -7,7 +7,7 @@ const vadodara: CityContent = {
   meta: {
     title: "IT Services in Vadodara: Websites, Apps, SEO & AI",
     description:
-      "Website development, Gujarati and English SEO, online stores and automation for Vadodara firms. From ₹10,000, itemised quotes, 2 months of free maintenance.",
+      "Vadodara web development, Gujarati SEO and automation for process-equipment makers, chemical and plant suppliers and old-city retail. From ₹10,000.",
     keywords: [
       "website development team in Vadodara",
       "web design team Baroda",
@@ -25,6 +25,16 @@ const vadodara: CityContent = {
       "web developer Gotri",
       "Vadodara ma website banavvi",
       "વડોદરા વેબસાઇટ ડિઝાઇન",
+      "website cost in Vadodara",
+      "web development company Vadodara",
+      "hire freelance web developer Vadodara",
+      "Gujarat SEO services",
+      "Vadodara real estate website",
+      "real estate website design Vadodara",
+      "website design Makarpura GIDC Vadodara",
+      "website design Nandesari Vadodara",
+      "website design price in Vadodara",
+      "app development company Vadodara",
     ],
   },
   hero: {

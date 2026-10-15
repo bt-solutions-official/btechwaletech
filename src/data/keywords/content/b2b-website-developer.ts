@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `B2B Website Developer in India: Sites from ${P.site}`,
-    description: `B2B website developer for product catalogues, RFQ forms and lead qualification, from ${P.site}. Build plans, costs and a buyer-journey checklist for Indian suppliers.`,
+    description: `B2B website developer for product catalogues, RFQ forms and lead qualification, from ${P.site}. Build plans, costs and a buyer-journey checklist inside.`,
     keywords: [
       "B2B website developer", "B2B website developer in India", "B2B website developer near me", "B2B website developer for hire",
       "B2B website cost", "B2B website development price India", "best B2B website developer", "B2B website banwana hai",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "B2B website developer Chennai", "B2B website developer Coimbatore", "B2B website design", "B2B product catalogue website",
       "RFQ website development", "request for quote form website", "B2B lead generation website", "industrial supplier website",
       "distributor website development", "wholesale website developer", "B2B ordering portal", "dealer portal development",
+      "hire b2b website developer",
+      "freelance b2b website developer",
     ],
   },
   hero: {

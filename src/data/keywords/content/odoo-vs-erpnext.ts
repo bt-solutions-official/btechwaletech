@@ -310,7 +310,7 @@ const content: FreelanceContent = {
         ["Setup and integrations with us", `From ${P.ai}`, `From ${P.ai}`, `From ${P.ai}`],
         ["Custom modules or apps with us", `From ${P.software}`, `From ${P.software}, often less needed`, `From ${P.software}`],
         ["GST e-invoice API provider", "Via the GSP used by the module", "Via the GSP used by the module", "India Compliance account for API features"],
-        ["Ongoing care after free period", `From ${P.care} a month`, `From ${P.care} a month`, `From ${P.care} a month`],
+        ["Ongoing care after free period", `From ${P.care}`, `From ${P.care}`, `From ${P.care}`],
         ["Major upgrade in 3 years", "Migrate custom and third-party modules", "Migrate custom modules; Odoo handles standard", "Test custom app on staging"],
       ],
       hideSm: [1],

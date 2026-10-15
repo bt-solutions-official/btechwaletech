@@ -237,7 +237,7 @@ const content: FreelanceContent = {
         `A store can be found through search if it is built for it from the start, but nobody can guarantee rankings. Plan WhatsApp, Instagram and repeat-buyer messages alongside.`,
         `Each product gets a clear title naming the item and its pack size, an honest description, product schema with price and availability, compressed photos with alt text and clean URLs. Category pages such as “Diwali sweets delivery in Anand” or “gift hampers for family in Charotar” get short, useful introductions.`,
         `At launch we submit sitemaps to Google Search Console and, if you want shopping visibility, connect products to Google Merchant Center, where eligibility follows Google's policies. Your Google Business Profile should link to the store with matching name, address and phone, which helps local searches across Anand, VV Nagar and Karamsad.`,
-        `AI assistants and Google's AI Overviews tend to quote clear answers, such as how long ghee keeps or whether you deliver to a given town. A short FAQ on key pages helps there. Ongoing work is optional through <a href='/services/seo-services/'>SEO services</a> from ${P.seo} a month; store-specific tactics are on <a href='/ecommerce-seo-freelancer/'>ecommerce SEO</a>.`,
+        `AI assistants and Google's AI Overviews tend to quote clear answers, such as how long ghee keeps or whether you deliver to a given town. A short FAQ on key pages helps there. Ongoing work is optional through <a href='/services/seo-services/'>SEO services</a> from ${P.seo}; store-specific tactics are on <a href='/ecommerce-seo-freelancer/'>ecommerce SEO</a>.`,
       ],
     },
     {

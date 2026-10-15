@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "casl compliant newsletter signup", "google business profile website", "small business website package canada",
       "small business website for contractors", "small business website without agency fees", "remote web designer for canadian small business",
       "who owns my small business website", "do i need a website if i have a google business profile",
+      "hire small business website design in Canada", "freelance small business website design Canada",
     ],
   },
   hero: {

@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Ulwe", "APMC trader website Vashi", "logistics website Navi Mumbai", "MIDC factory website Navi Mumbai",
       "freelance website developer Navi Mumbai", "business website Navi Mumbai", "Navi Mumbai me website kaise banaye", "website banwana hai Navi Mumbai",
       "best website developer in Navi Mumbai",
+      "website developer in Navi Mumbai cost", "website developer in Navi Mumbai price", "hire website developer in Navi Mumbai", "freelance website developer in Navi Mumbai",
+      "website developer in Navi Mumbai charges",
     ],
   },
   hero: {

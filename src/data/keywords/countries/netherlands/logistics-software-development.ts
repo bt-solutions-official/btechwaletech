@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "dock scheduling software", "warehouse time slot booking system", "3pl software development", "freight forwarder software netherlands",
       "logistics software rotterdam", "logistics software venlo", "logistics software schiphol", "logistics software tilburg",
       "how much does custom logistics software cost", "efti regulation software", "logistics software developer near me netherlands",
+      "hire logistics software development in the Netherlands", "freelance logistics software development Netherlands",
     ],
   },
   hero: {

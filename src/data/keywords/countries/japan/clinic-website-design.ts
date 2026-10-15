@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "how much does a clinic website cost", "dental website design", "clinic web design tokyo", "clinic website osaka",
       "international clinic website yokohama", "medicalclinic schema", "clinic google business profile", "clinic website near me",
       "clinic website developer", "japan", "クリニック ホームページ 制作", "歯科 ホームページ 英語", "医院 ホームページ 多言語",
+      "hire clinic website design in Japan", "freelance clinic website design Japan",
     ],
   },
   hero: {
@@ -34,7 +35,7 @@ const content: FreelanceContent = {
     ["Multi-department or multi-branch site", `From ${P.seoSite} · 3–5 weeks`],
     ["Booking and web questionnaire system", `From ${P.software} · 6–12 weeks`],
     ["Patient FAQ assistant (AI)", `From ${P.ai}`],
-    ["Local search work", `From ${P.seo} per month`],
+    ["Local search work", `From ${P.seo}`],
     ["After launch", `2 months free maintenance, then from ${P.care}`],
   ],
   stats: [
@@ -351,7 +352,7 @@ const content: FreelanceContent = {
         ["Booking and web questionnaire app", "Clinics with many foreign patients", `${P.software}`, "6–12 weeks"],
         ["Patient FAQ assistant", "Reception handles many routine calls", `${P.ai}`, "2–4 weeks"],
         ["Patient app with reminders", "Practices with regular recall visits", `${P.app}`, "6–10 weeks"],
-        ["Ongoing local SEO", "Clinics in competitive areas", `${P.seo} per month`, "Ongoing"],
+        ["Ongoing local SEO", "Clinics in competitive areas", `${P.seo}`, "Ongoing"],
       ],
       hideSm: [1],
     },

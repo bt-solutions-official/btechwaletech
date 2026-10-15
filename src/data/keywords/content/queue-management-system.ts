@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Queue management system",
   updated: "2026-09-25",
   meta: {
-    title: `Queue Management System: Tokens, TV & Voice Calls`,
+    title: `Queue Management System: Tokens & TV, ${P.software}+`,
     description: `Queue management system for clinics, banks, service centres and offices: kiosk, QR or WhatsApp tokens, TV display with Hindi/English voice. From ${P.software}.`,
     keywords: [
       "queue management system", "queue management system India", "token management system", "token system for clinic",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "queue management system cost", "token system price in India", "what is a queue management system",
       "how does a token system work", "software only queue system", "virtual queue system", "wait time analytics",
       "queue management system Lucknow", "queue management system Rajkot", "token system banwana hai", "custom queue management system developer",
+      "queue management system price", "queue management system company", "best queue management system in India", "queue management system cost in India",
+      "queue management system near me",
     ],
   },
   hero: {

@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.6139, lng: 77.209 },
   meta: {
-    title: "Freelance Software Developers in New Delhi",
+    title: "New Delhi Software Developers: CA, Law & Policy Firms",
     description:
       "Freelance software developers for New Delhi consultancies, law and CA firms, NGOs and suppliers: client portals, AI document automation, CRMs. From ₹10,000.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "SEO for professional services New Delhi",
       "नई दिल्ली में सॉफ्टवेयर डेवलपर",
       "New Delhi mein software team",
+      "New Delhi website designer",
+      "website cost in New Delhi",
+      "IT company in New Delhi",
+      "Delhi SEO services",
+      "hire developer New Delhi",
+      "chartered software in New Delhi",
+      "law software in New Delhi",
     ],
   },
   hero: {

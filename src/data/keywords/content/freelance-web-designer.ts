@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "mobile-first web design", "web design typography", "brand-consistent website design", "Figma website design freelancer",
       "responsive web designer India", "web designer for small business", "freelance web designer charges", "website design with Hindi fonts",
       "web designer who also codes", "freelance homepage designer",
+      "hire freelance web designer",
     ],
   },
   hero: {

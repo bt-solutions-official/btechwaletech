@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Magento to Shopware Migration from ${P.shop}`,
-    description: `Magento to Shopware migration for German shops: products, customers, passwords, orders and rankings moved to Shopware 6. Projects from ${P.shop}, quote in 2 days.`,
+    description: `Magento to Shopware migration for German shops: products, customers, passwords, orders and rankings moved to Shopware 6. Projects from ${P.shop}.`,
     keywords: [
       "magento to shopware migration", "magento 2 to shopware 6 migration", "magento 1 to shopware 6", "migrate magento to shopware", "magento shopware migration",
       "switch from magento to shopware", "magento to shopware 6", "shopware migration assistant magento", "magento end of life", "adobe commerce 2.4 end of support",
@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "magento customer password migration", "magento attributes to shopware properties", "magento configurable products shopware variants",
       "magento tier prices shopware", "magento url rewrites 301 redirects", "magento b2b to shopware evolve", "magento alternative germany",
       "magento migration munich", "magento migration hamburg", "magento migration stuttgart", "magento migration berlin", "magento vs shopware",
+      "hire magento to shopware migration in Germany", "freelance magento to shopware migration Germany",
     ],
   },
   hero: {

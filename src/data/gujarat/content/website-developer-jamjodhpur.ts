@@ -240,7 +240,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Yes, it can be found, but no one can guarantee a ranking. Search engines reward clear, specific, fast pages and businesses that earn trust over time.`,
         `Specific product pages do the heavy lifting: “cold-pressed groundnut oil 15 kg tin Saurashtra” or “groundnut kernels supplier Jamnagar district” as page topics, with real details, photos and a FAQ block. Those are the pages Google's AI Overviews and assistants tend to quote when they answer buying questions. For local visibility, your <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> should match the website's name, address and phone.`,
-        `Every site we launch has unique titles and descriptions, product and organisation schema, an XML sitemap and Search Console. Ongoing SEO is optional from ${P.seo} a month. Reviews from real customers and links from community sites build trust that no technical setup can replace.`,
+        `Every site we launch has unique titles and descriptions, product and organisation schema, an XML sitemap and Search Console. Ongoing SEO is optional from ${P.seo}. Reviews from real customers and links from community sites build trust that no technical setup can replace.`,
       ],
     },
     {

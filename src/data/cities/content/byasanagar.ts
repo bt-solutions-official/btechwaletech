@@ -7,7 +7,7 @@ const byasanagar: CityContent = {
   meta: {
     title: "IT Services in Byasanagar: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, SEO and WhatsApp automation for Byasanagar and Jajpur Road steel-belt vendors, contractors, hotels, clinics and colleges.",
+      "Byasanagar and Jajpur Road websites, Android and iOS apps, SEO and WhatsApp automation for steel-belt vendors, contractors, hotels, clinics and colleges.",
     keywords: [
       "IT services in Byasanagar",
       "IT services team in Byasanagar",
@@ -29,6 +29,10 @@ const byasanagar: CityContent = {
       "Byasanagar me website banwana",
       "Jajpur Road me app banwana",
       "ବ୍ୟାସନଗର ୱେବସାଇଟ",
+      "Byasanagar website designer",
+      "web development company Byasanagar",
+      "hire freelance developer Byasanagar",
+      "Odisha SEO",
     ],
   },
   hero: {

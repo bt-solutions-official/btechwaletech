@@ -7,7 +7,7 @@ const ramagundam: CityContent = {
   meta: {
     title: "Ramagundam and Godavarikhani Websites and SEO",
     description:
-      "Websites, Telugu SEO and WhatsApp tools for Ramagundam and Godavarikhani contractors, clinics, schools and shops near NTPC and Singareni. From ₹10,000, yours to own.",
+      "Websites, Telugu SEO and WhatsApp tools for Ramagundam and Godavarikhani contractors, clinics, schools and shops near NTPC and Singareni. From ₹10,000.",
     keywords: [
       "website development team Ramagundam",
       "website designer Godavarikhani",
@@ -24,6 +24,17 @@ const ramagundam: CityContent = {
       "website maintenance Godavarikhani",
       "రామగుండం వెబ్‌సైట్ డిజైన్",
       "Telugu website Peddapalli district",
+      "Ramagundam website designer",
+      "website cost in Ramagundam",
+      "web development company Ramagundam",
+      "hire freelance web developer Ramagundam",
+      "Peddapalli SEO services",
+      "website designer Peddapalli",
+      "Telangana SEO services",
+      "Ramagundam contract labour agencies website",
+      "contract labour agencies website design Ramagundam",
+      "website design Jyothi Nagar Ramagundam",
+      "website design RFCL area Ramagundam",
     ],
   },
   hero: {

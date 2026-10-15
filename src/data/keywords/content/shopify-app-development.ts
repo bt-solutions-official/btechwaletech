@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "shopify app development company alternative", "shopify app development freelancer", "shopify app development price", "shopify app for my store",
       "shopify app banwana hai", "shopify app development Bengaluru", "shopify app development Mumbai", "shopify app development Delhi",
       "custom app vs public app shopify", "shopify app review process",
+      "best shopify app development in India", "shopify app development cost in India", "shopify app development near me",
     ],
   },
   hero: {

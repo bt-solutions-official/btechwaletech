@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Changodar from ${P.site}`,
-    description: `Website developer in Changodar, Ahmedabad: sites for manufacturers, warehouses and distributors on the Sarkhej–Bavla road, from ${P.site}. Quote in 2 working days.`,
+    description: `Website developer in Changodar, Ahmedabad: sites for manufacturers, warehouses and distributors on the Sarkhej–Bavla road, from ${P.site}. Quote in 2 days.`,
     keywords: [
       "website developer in Changodar", "website developer Changodar Ahmedabad", "Changodar industrial area website", "website developer near me Changodar",
       "Changodar Ahmedabad Gujarat website", "website designer Changodar", "website development services Changodar", "website cost Changodar",

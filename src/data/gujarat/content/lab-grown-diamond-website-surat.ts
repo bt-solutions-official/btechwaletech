@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Lab Grown Diamond Website in Surat from ${P.site}`,
-    description: `Lab grown diamond company website in Surat with clear disclosure, report links and export-ready stock pages. Sites from ${P.site}, jewellery stores from ${P.shop}.`,
+    description: `Lab grown diamond company website in Surat with clear disclosure, report links & export-ready stock pages. Sites from ${P.site}, jewellery stores from ${P.shop}.`,
     keywords: [
       "lab grown diamond company website in Surat", "lab grown diamond website Surat", "lab grown diamond website near me", "laboratory-grown diamond website design",
       "lab grown diamond website Surat Gujarat", "CVD diamond manufacturer website", "HPHT diamond website", "lab grown diamond exporter website",
@@ -227,7 +227,7 @@ const content: FreelanceContent = {
         `It can be found for specific searches if the pages are clear, honest and well structured, but nobody can guarantee rankings, especially for broad terms where large brands and marketplaces compete.`,
         `People search for “lab grown diamond” plus a shape, size, metal or city, and trade buyers search for supplier phrases such as “CVD diamond manufacturer Surat” or “laboratory-grown diamond exporter India”. Category pages for shapes and jewellery types, a clear capability page, Product and Organization schema, and a sitemap verified in Google Search Console give those searches somewhere precise to land. Google's <a href='https://developers.google.com/search/docs' rel='noopener'>Search Central documentation</a> explains how product information is understood.`,
         `AI assistants and AI Overviews are increasingly asked questions such as “how are laboratory-grown diamonds graded?” or “who makes CVD diamonds in Surat?”. They quote pages that answer plainly and consistently. A short explainer on grading and origin, written in neutral language, serves visitors and AI systems alike, and reinforces your honesty.`,
-        `Keep private B2B prices off public pages entirely, so stale stock is never indexed. Ongoing search work starts at ${P.seo} a month if you want it.`,
+        `Keep private B2B prices off public pages entirely, so stale stock is never indexed. Ongoing search work starts at ${P.seo} if you want it.`,
       ],
     },
     {

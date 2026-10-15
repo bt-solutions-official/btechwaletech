@@ -11,8 +11,8 @@ const content: FreelanceContent = {
   crumb: "White label SEO Australia",
   updated: "2026-09-25",
   meta: {
-    title: `White Label SEO Australia: Resell from ${P.seo}/mo`,
-    description: `White label SEO for Australian agencies: unbranded reports, on-page, technical and content briefs, turned around across AEST/IST. From ${P.seo}/client a month.`,
+    title: `White Label SEO Australia: Resell from ${P.seo}`,
+    description: `White label SEO for Australian agencies: unbranded reports, on-page, technical and content briefs, turned around across AEST/IST. From ${P.seo} per client.`,
     keywords: [
       "white label seo australia", "white label seo", "white label seo services australia", "seo reseller australia",
       "white label seo agency australia", "private label seo australia", "outsourced seo for agencies",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "is white label seo legit", "white label seo sydney", "white label seo melbourne", "white label seo brisbane",
       "white label seo perth", "seo fulfilment partner", "offshore seo team for agencies", "resell seo under your brand",
       "white label seo nda", "white label link building policy",
+      "hire white label seo in Australia", "freelance white label seo Australia",
     ],
   },
   hero: {
@@ -82,7 +83,7 @@ const content: FreelanceContent = {
     note: "Agencies usually choose between hiring, using a large volume reseller, or working with a small partner team. Each has a different effect on quality control and margin.",
     columns: ["Consideration", "Hire an in-house SEO", "Volume reseller platform", "BtechWaleTech white label"],
     rows: [
-      ["Cost shape", "Salary, super and tools, even in quiet months", "Per-order packages", `Per client, from ${P.seo} a month`],
+      ["Cost shape", "Salary, super and tools, even in quiet months", "Per-order packages", `Per client, from ${P.seo}`],
       ["Scales down when a client leaves", "No", "Yes", "Yes"],
       ["Who does the work", "Your employee", "Often unknown to you", "Three named developers"],
       ["Technical changes on the site", "Depends on the hire", "Frequently recommendations only", "Applied directly with your approval"],
@@ -252,7 +253,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This scenario is hypothetical. Picture a four-person web design studio in Collingwood that builds WordPress and Shopify sites. Five recent clients have asked about SEO: two cafés, a physio clinic, an online homewares store and a builder.`,
         `The studio sends us access and a short brief for each. We audit all five in the first fortnight and return one page per client, in the studio's template, ranking problems by likely impact. The homewares store needs technical work on duplicate collections; the builder needs a Business Profile rebuilt and suburb pages; the cafés need little beyond profile hygiene and a menu page with proper headings.`,
-        `The studio decides to sell SEO to three of them at retainers it sets itself, and tells the cafés honestly that a few hours of one-off setup is enough for now. We quote each of the three separately, from ${P.seo} a month per client, and deliver reports into the studio's own Data Studio account. The clients only ever deal with the studio.`,
+        `The studio decides to sell SEO to three of them at retainers it sets itself, and tells the cafés honestly that a few hours of one-off setup is enough for now. We quote each of the three separately, from ${P.seo} per client, and deliver reports into the studio's own Data Studio account. The clients only ever deal with the studio.`,
       ],
     },
     {
@@ -303,7 +304,7 @@ const content: FreelanceContent = {
       id: "deliverables-by-client",
       eyebrow: "Scope by client type",
       heading: "Typical white label SEO scope for common Australian client types",
-      note: `Starting points for planning. Every client is quoted individually, from ${P.seo} a month.`,
+      note: `Starting points for planning. Every client is quoted individually, from ${P.seo}.`,
       columns: ["End client", "First-month focus", "Ongoing monthly work"],
       rows: [
         ["Trade or home service", "Business Profile, citations, service-area plan", "Suburb pages, reviews routine, call reporting"],

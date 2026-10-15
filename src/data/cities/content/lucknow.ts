@@ -7,7 +7,7 @@ const lucknow: CityContent = {
   meta: {
     title: "IT Services in Lucknow: Websites, Apps, SEO & AI",
     description:
-      "Website design, local SEO and WhatsApp automation for Lucknow shops, chikan sellers, clinics and institutes. Sites from ₹10,000, you own the domain and code.",
+      "Lucknow website design, local SEO and WhatsApp automation for shops, chikan sellers, clinics and institutes. Sites from ₹10,000, you own the domain and code.",
     keywords: [
       "website development team in Lucknow",
       "website designer in Lucknow",
@@ -25,6 +25,14 @@ const lucknow: CityContent = {
       "Hazratganj website designer",
       "Lucknow me website kaise banwaye",
       "लखनऊ में वेबसाइट डिज़ाइन",
+      "Lucknow website designer",
+      "website cost in Lucknow",
+      "web development company Lucknow",
+      "hire freelance developer Lucknow",
+      "Uttar Pradesh SEO",
+      "website for chikankari and textiles in Lucknow",
+      "web designer in Hazratganj, Lucknow",
+      "website for coaching and education in Lucknow",
     ],
   },
   hero: {

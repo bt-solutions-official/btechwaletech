@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Construction management software",
   updated: "2026-09-25",
   meta: {
-    title: `Construction Management Software: DPR to RA Bills`,
+    title: `Construction Management Software: RA Bills, ${P.software}+`,
     description: `Construction management software for Indian builders: site DPRs, labour attendance, material indents, RA bills and subcontractor payments. Built from ${P.software}.`,
     keywords: [
       "construction management software", "construction management software India", "construction project management software",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "construction management software cost", "construction software price in India", "what is construction management software",
       "best construction management software for small builders", "construction management software Pune", "construction management software Hyderabad",
       "construction management software Gurgaon", "builder ke liye software", "site ka hisaab software", "custom construction software developer",
+      "construction management software company in India",
+      "construction management software services",
     ],
   },
   hero: {

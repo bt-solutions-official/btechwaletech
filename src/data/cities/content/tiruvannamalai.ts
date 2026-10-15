@@ -7,7 +7,7 @@ const tiruvannamalai: CityContent = {
   meta: {
     title: "Tiruvannamalai Web Design & SEO | Sites ₹10,000 Onward",
     description:
-      "Websites, local SEO, stores and WhatsApp automation for Tiruvannamalai lodges, ashram-area cafés, pilgrim services, clinics, colleges and Arani silk sellers.",
+      "Websites, SEO and stores for Tiruvannamalai lodges, ashram-area cafés, pilgrim services, clinics, colleges and Arani silk sellers. Websites from ₹10,000.",
     keywords: [
       "website development team in Tiruvannamalai",
       "web designer Tiruvannamalai",
@@ -25,6 +25,16 @@ const tiruvannamalai: CityContent = {
       "website maintenance Tiruvannamalai",
       "Tiruvannamalai website design Tamil",
       "திருவண்ணாமலை வெப்சைட் டிசைன்",
+      "Tiruvannamalai website designer",
+      "web development company Tiruvannamalai",
+      "hire freelance web developer Tiruvannamalai",
+      "Tamil Nadu SEO services",
+      "website design Temple streets Tiruvannamalai",
+      "website design Girivalam path Tiruvannamalai",
+      "website design Ramana Ashram area Tiruvannamalai",
+      "website design Chengam Road Tiruvannamalai",
+      "website design Vettavalam Road Tiruvannamalai",
+      "website design price in Tiruvannamalai",
     ],
   },
   hero: {

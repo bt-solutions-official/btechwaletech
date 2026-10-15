@@ -7,7 +7,7 @@ const pusad: CityContent = {
   meta: {
     title: "IT Services in Pusad | Web, Apps & AI from ₹10,000",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Pusad cotton traders, ginning units, agri dealers, clinics, colleges and shops.",
+      "Marathi websites, apps, local SEO and WhatsApp tools for Pusad cotton traders, ginning units, agri dealers, clinics, colleges and shops. From ₹10,000.",
     keywords: [
       "IT services in Pusad",
       "IT services team in Pusad",
@@ -29,6 +29,12 @@ const pusad: CityContent = {
       "Pusad me website banwana",
       "Pusad madhye website banva",
       "पुसद वेबसाइट डिझाइन",
+      "Pusad website designer",
+      "web development company Pusad",
+      "hire freelance web developer Pusad",
+      "Yavatmal district SEO",
+      "website designer Yavatmal district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

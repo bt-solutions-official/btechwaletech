@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Designer in Gandhinagar: Sites from ${P.site}`,
-    description: `Website designer in Gandhinagar for layouts, photo direction and Gujarati-English typography, designed and coded together from ${P.site}. Remote, quote in 2 days.`,
+    description: `Website designer in Gandhinagar for layouts, photo direction and Gujarati-English typography, designed & coded together from ${P.site}. Remote, quote in 2 days.`,
     keywords: [
       "website designer in Gandhinagar", "website designer Gandhinagar", "web designer Gandhinagar", "website design Gandhinagar",
       "website designer near me Gandhinagar", "website designer Gandhinagar Gujarat", "website designing Gandhinagar", "website design cost Gandhinagar",

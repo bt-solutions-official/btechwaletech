@@ -7,7 +7,7 @@ const pithoragarh: CityContent = {
   meta: {
     title: "IT Services in Pithoragarh: Websites, Apps & AI",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and AI automation for Pithoragarh hotels, trek operators, woollen weavers, traders and colleges. From ₹10,000.",
+      "Hindi websites, apps, Google Maps SEO and AI automation for Pithoragarh hotels, trek operators, woollen weavers, traders and colleges. From ₹10,000.",
     keywords: [
       "IT services in Pithoragarh",
       "IT company in Pithoragarh",
@@ -30,6 +30,11 @@ const pithoragarh: CityContent = {
       "rajma trading software Pithoragarh",
       "पिथौरागढ़ वेबसाइट डिजाइन",
       "Dharchula Didihat website design",
+      "Pithoragarh website designer",
+      "web development company Pithoragarh",
+      "hire freelance web developer Pithoragarh",
+      "Kumaon SEO services",
+      "website designer Kumaon",
     ],
   },
   hero: {

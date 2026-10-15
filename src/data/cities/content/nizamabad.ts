@@ -7,7 +7,7 @@ const nizamabad: CityContent = {
   meta: {
     title: "Nizamabad Website & SEO Services | ₹10,000+",
     description:
-      "Websites, local SEO, trade catalogues and WhatsApp automation for Nizamabad turmeric traders, rice millers, hospitals and schools. Clear prices, domain in your name.",
+      "Websites, SEO, trade catalogues and WhatsApp tools for Nizamabad turmeric traders, rice millers, hospitals and schools. Websites from ₹10,000.",
     keywords: [
       "website development team in Nizamabad",
       "web designer Nizamabad",
@@ -25,6 +25,16 @@ const nizamabad: CityContent = {
       "website maintenance Nizamabad",
       "Nizamabad lo website",
       "నిజామాబాద్ వెబ్‌సైట్ డిజైన్",
+      "Nizamabad website designer",
+      "web development company Nizamabad",
+      "hire freelance web developer Nizamabad",
+      "Telangana SEO services",
+      "Nizamabad rice mills website",
+      "rice mills website design Nizamabad",
+      "Nizamabad agri-input dealers website",
+      "agri-input dealers website design Nizamabad",
+      "website design Vinayak Nagar Nizamabad",
+      "website design Subhash Nagar Nizamabad",
     ],
   },
   hero: {

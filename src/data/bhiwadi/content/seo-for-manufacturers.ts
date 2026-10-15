@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-27",
   meta: {
     title: `SEO for Manufacturers in Bhiwadi from ${P.seo}`,
-    description: `SEO for manufacturers in Bhiwadi from ${P.seo}: product keyword pages, RFQ forms and buyer reach across India, planned after a one-to-one walk of your shop floor.`,
+    description: `SEO for manufacturers in Bhiwadi from ${P.seo}: product keyword pages, RFQ forms and buyer reach across India, planned after a walk of your shop floor.`,
     keywords: [
       "SEO for manufacturers in Bhiwadi", "industrial SEO Bhiwadi", "B2B SEO Bhiwadi", "manufacturer SEO near me Bhiwadi",
       "SEO for manufacturers in Bhiwadi Rajasthan", "SEO for factories Bhiwadi Alwar", "SEO for manufacturing company Chopanki",
@@ -28,7 +28,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Industrial B2B SEO · Bhiwadi, Rajasthan",
     h1: "SEO for manufacturers in Bhiwadi: product pages and RFQ paths that reach buyers across India",
-    lede: `SEO for manufacturers in Bhiwadi is about one outcome: a purchase or engineering team somewhere in India searches for the part, process or material you supply, finds a page that answers their questions, and sends an RFQ. BtechWaleTech is three freelance developers who build and grow those pages, from ${P.seo} a month or as a 299+ page catalogue site. We start face to face on your shop floor. More on our <a href='/bhiwadi-rajasthan/'>work in Bhiwadi</a>.`,
+    lede: `SEO for manufacturers in Bhiwadi is about one outcome: a purchase or engineering team somewhere in India searches for the part, process or material you supply, finds a page that answers their questions, and sends an RFQ. BtechWaleTech is three freelance developers who build and grow those pages, from ${P.seo} or as a 299+ page catalogue site. We start face to face on your shop floor. More on our <a href='/bhiwadi-rajasthan/'>work in Bhiwadi</a>.`,
     pills: ["Product keyword pages", "RFQ forms and routing", "Capability and machine pages", "Buyers across India", "Export-ready English", "Product schema", "Shop-floor meeting"],
     origin: "Three freelance developers · we walk your shop floor one to one in Bhiwadi · WhatsApp seven days a week",
   },

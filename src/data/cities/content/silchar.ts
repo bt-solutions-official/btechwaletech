@@ -7,7 +7,7 @@ const silchar: CityContent = {
   meta: {
     title: "Silchar Web Design and SEO | Websites from ₹10,000",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Silchar and Barak Valley businesses. Static sites start at ₹10,000 with two months free upkeep.",
+      "Websites, local SEO, online stores and WhatsApp tools for Silchar and Barak Valley businesses. Websites from ₹10,000, and the code stays yours.",
     keywords: [
       "website development team in Silchar",
       "web design Silchar",
@@ -25,6 +25,16 @@ const silchar: CityContent = {
       "website maintenance Silchar",
       "Silchar e website banate koto khoroch",
       "শিলচর ওয়েবসাইট ডিজাইন",
+      "web development company Silchar",
+      "hire freelance web developer Silchar",
+      "Cachar SEO services",
+      "website designer Cachar",
+      "Assam SEO services",
+      "Silchar tea estate suppliers website",
+      "tea estate suppliers website design Silchar",
+      "website design Fatak Bazar Silchar",
+      "website design Janiganj Silchar",
+      "website design Tarapur Silchar",
     ],
   },
   hero: {

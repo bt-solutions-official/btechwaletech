@@ -7,7 +7,7 @@ const shikohabad: CityContent = {
   meta: {
     title: "IT Services in Shikohabad: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Shikohabad glass units, colleges, Katra Bazar traders and clinics. From ₹10,000.",
+      "Websites, apps, local SEO and WhatsApp automation for Shikohabad glass units, colleges, Katra Bazar traders and clinics. Sites from ₹10,000.",
     keywords: [
       "IT services in Shikohabad",
       "IT services team in Shikohabad",
@@ -30,6 +30,11 @@ const shikohabad: CityContent = {
       "Shikohabad me website banwana",
       "Shikohabad me app kaise banwaye",
       "शिकोहाबाद वेबसाइट डिज़ाइन",
+      "Shikohabad website designer",
+      "web development company Shikohabad",
+      "hire freelance web developer Shikohabad",
+      "Uttar Pradesh SEO services",
+      "Shikohabad me website kaise banwaye",
     ],
   },
   hero: {

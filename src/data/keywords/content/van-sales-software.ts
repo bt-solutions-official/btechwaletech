@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Van Sales Software: Offline App from ${P.app}`,
-    description: `Van sales software for route sales and direct store delivery: on-van stock, spot GST invoices on Bluetooth printers, cash and UPI, settlement. App from ${P.app}.`,
+    description: `Van sales software for route sales: on-van stock, spot GST invoices on Bluetooth printers, cash and UPI collection, day-end settlement. App from ${P.app}.`,
     keywords: [
       "van sales software", "van sales app", "van sales software India", "route sales software",
       "direct store delivery software", "DSD software", "van sales management system", "mobile van sales app",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "van sales software for distributors", "van sales software price", "van sales app development cost", "how does van sales software work",
       "ready stock selling app", "van sales app for bakery", "van sales app for dairy", "gaadi se maal bechne ka app",
       "van sales software Indore", "van sales software Kolkata",
+      "van sales software cost", "van sales software company", "best van sales software in India", "van sales software cost in India",
+      "van sales software near me",
     ],
   },
   hero: {

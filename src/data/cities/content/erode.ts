@@ -7,7 +7,7 @@ const erode: CityContent = {
   meta: {
     title: "IT Services in Erode: Websites, Apps, SEO & AI",
     description:
-      "Websites, Tamil local SEO and WhatsApp order automation for Erode textile wholesalers, turmeric traders, SIPCOT units and clinics. From ₹10,000, 2 months free care.",
+      "Erode websites, Tamil local SEO and WhatsApp order bots for textile wholesalers, turmeric traders, SIPCOT units and clinics. From ₹10,000, 2 months free care.",
     keywords: [
       "website development team in Erode",
       "website designer Erode",
@@ -24,6 +24,15 @@ const erode: CityContent = {
       "website maintenance Erode",
       "Erode la website",
       "ஈரோடு வெப்சைட்",
+      "Erode website designer",
+      "website cost in Erode",
+      "web development company Erode",
+      "hire freelance developer Erode",
+      "Tamil Nadu SEO",
+      "website for textile wholesale in Erode",
+      "web designer in Texvalley, Erode",
+      "website for turmeric trade and processing in Erode",
+      "mobile app developer in Erode",
     ],
   },
   hero: {

@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "shopify seo freelancer", "woocommerce seo freelancer", "category page seo", "product schema markup",
       "product page seo", "faceted navigation seo", "google merchant center free listings", "ecommerce technical seo",
       "ecommerce seo consultant India", "d2c brand seo",
+      "hire ecommerce seo freelancer",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const marmagao: CityContent = {
   meta: {
     title: "Vasco & Marmagao Websites and SEO | From ₹10,000",
     description:
-      "Websites, SEO, online stores and WhatsApp automation for Vasco da Gama and Mormugao port agents, shipyard suppliers, hotels, Verna units and shops. From ₹10,000.",
+      "Websites, SEO, online stores and WhatsApp tools for Vasco da Gama and Mormugao port agents, shipyard suppliers, hotels, Verna units and shops. From ₹10,000.",
     keywords: [
       "website development team in Vasco da Gama",
       "web designer Vasco Goa",
@@ -25,6 +25,16 @@ const marmagao: CityContent = {
       "freelance web developer Goa",
       "website maintenance Vasco",
       "Marmagao web development",
+      "Vasco da Gama website designer",
+      "web development company Vasco da Gama",
+      "hire freelance web developer Vasco da Gama",
+      "Mormugao taluka SEO services",
+      "website designer Mormugao taluka",
+      "Goa SEO services",
+      "Vasco da Gama me website kaise banwaye",
+      "Vasco da Gama website banwane ka kharcha",
+      "website design Swatantra Path Vasco da Gama",
+      "website design Vasco municipal market",
     ],
   },
   hero: {

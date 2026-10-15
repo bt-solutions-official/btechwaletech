@@ -7,7 +7,7 @@ const dhubri: CityContent = {
   meta: {
     title: "IT Services in Dhubri | Web, Apps & AI from ₹10,000",
     description:
-      "Bengali, Assamese and English websites, Android and iOS apps, local SEO and WhatsApp automation for Dhubri traders, clinics, colleges and river businesses.",
+      "Dhubri Bengali, Assamese and English websites, Android and iOS apps, local SEO and WhatsApp automation for traders, clinics, colleges and river businesses.",
     keywords: [
       "IT services in Dhubri",
       "IT services team in Dhubri",
@@ -29,6 +29,10 @@ const dhubri: CityContent = {
       "Dhubri me website banwana",
       "Dhubri te website banate koto taka",
       "ধুবড়ী ওয়েবসাইট ডিজাইন",
+      "Dhubri website designer",
+      "web development company Dhubri",
+      "hire freelance developer Dhubri",
+      "Lower Assam SEO",
     ],
   },
   hero: {

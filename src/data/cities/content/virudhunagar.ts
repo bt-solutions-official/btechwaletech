@@ -7,7 +7,7 @@ const virudhunagar: CityContent = {
   meta: {
     title: "IT Services in Virudhunagar: Websites, Apps, SEO & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Virudhunagar oil mills, chilli and pulse traders, SIDCO units, colleges and clinics.",
+      "Tamil websites, apps, local SEO and WhatsApp automation for Virudhunagar oil mills, chilli and pulse traders, SIDCO units, colleges and clinics. From ₹10,000.",
     keywords: [
       "IT services in Virudhunagar",
       "IT services team in Virudhunagar",
@@ -29,6 +29,12 @@ const virudhunagar: CityContent = {
       "Virudhunagar me website banwana",
       "Virudhunagar-la website seiya",
       "விருதுநகர் வெப்சைட் டிசைன்",
+      "Virudhunagar website designer",
+      "web development company Virudhunagar",
+      "hire freelance web developer Virudhunagar",
+      "Tamil Nadu SEO services",
+      "Virudhunagar edible oil mills website",
+      "edible oil mills website design Virudhunagar",
     ],
   },
   hero: {

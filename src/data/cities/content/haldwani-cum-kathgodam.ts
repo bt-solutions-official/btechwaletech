@@ -7,7 +7,7 @@ const haldwani: CityContent = {
   meta: {
     title: "IT Services in Haldwani-cum-Kathgodam | Web, SEO & AI",
     description:
-      "Websites, local SEO and WhatsApp automation for Haldwani and Kathgodam traders, hotels, clinics and coaching centres. Sites from ₹10,000, 2 months free upkeep.",
+      "Haldwani and Kathgodam websites, local SEO and WhatsApp automation for traders, hotels, clinics and coaching centres. Sites from ₹10,000, 2 months free care.",
     keywords: [
       "website development team in Haldwani",
       "web design Haldwani",
@@ -24,6 +24,15 @@ const haldwani: CityContent = {
       "website maintenance Haldwani",
       "Haldwani me website kaise banwaye",
       "हल्द्वानी वेबसाइट डिज़ाइन",
+      "Haldwani website designer",
+      "website cost in Haldwani",
+      "web development company Haldwani",
+      "hire freelance developer Haldwani",
+      "Uttarakhand SEO",
+      "Kathgodam website designer",
+      "website for wholesalers and distributors in Haldwani",
+      "web designer in Bhotia Parao, Haldwani",
+      "website for mandi traders and cold storage in Haldwani",
     ],
   },
   hero: {

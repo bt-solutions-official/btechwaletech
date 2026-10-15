@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "milestone payments software development", "how to check a developer's progress", "IP assignment developer contract India",
       "non technical founder MVP", "hire developer for app idea", "developer near me for startup", "hire developer Bengaluru startup",
       "startup developer Pune", "app banwana hai developer kaise dhundhe", "how to avoid getting scammed by developers",
+      "best hire developer as non technical founder in India",
+      "hire developer as non technical founder services",
     ],
   },
   hero: {

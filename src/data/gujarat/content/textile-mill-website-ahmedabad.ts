@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Textile Mill Website in Ahmedabad from ${P.site}`,
-    description: `Textile mill website in Ahmedabad: fabric catalogues by article, GSM and width, sample requests and export RFQ forms. Mill sites from ${P.site}, quote in 2 days.`,
+    description: `Textile mill website in Ahmedabad: fabric catalogues by article, GSM and width, sample requests & export RFQ forms. Mill sites from ${P.site}, quote in 2 days.`,
     keywords: [
       "textile mill website in Ahmedabad", "textile mill website Ahmedabad", "textile company website Ahmedabad", "fabric manufacturer website Ahmedabad",
       "denim mill website Gujarat", "textile mill website design", "textile website developer Ahmedabad", "textile mill website Ahmedabad Gujarat",

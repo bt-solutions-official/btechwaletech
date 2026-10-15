@@ -7,7 +7,7 @@ const fatehabad: CityContent = {
   meta: {
     title: "IT Services in Fatehabad: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Fatehabad arhtiyas, dealers, clinics and schools. Websites from ₹10,000, apps from ₹40,000.",
+      "Fatehabad websites, Android and iOS apps, local SEO and WhatsApp bots for arhtiyas, dealers, clinics and schools. Websites from ₹10,000, apps from ₹40,000.",
     keywords: [
       "IT services in Fatehabad",
       "IT services team in Fatehabad",
@@ -30,6 +30,9 @@ const fatehabad: CityContent = {
       "Bhuna Bhattu Kalan business website",
       "school website Fatehabad Haryana",
       "फतेहाबाद वेबसाइट डिजाइन",
+      "Fatehabad website designer",
+      "web development company Fatehabad",
+      "hire freelance developer Fatehabad",
     ],
   },
   hero: {

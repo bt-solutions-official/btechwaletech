@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-27",
   meta: {
     title: `Dealer Ordering App in Bhiwadi from ${P.app}`,
-    description: `Dealer ordering app in Bhiwadi for manufacturers: dealer price lists, schemes, credit checks and Tally ledgers, from ${P.app}. We meet you one to one at your plant.`,
+    description: `Dealer ordering app in Bhiwadi for manufacturers: dealer price lists, schemes, credit checks and Tally ledgers, from ${P.app}. We meet you at your plant.`,
     keywords: [
       "dealer ordering app in Bhiwadi", "dealer ordering app near me", "dealer ordering app in Bhiwadi Rajasthan",
       "dealer app for manufacturer Bhiwadi Alwar", "distributor ordering app Bhiwadi", "B2B ordering app for dealers",

@@ -7,7 +7,7 @@ const nawanshahr: CityContent = {
   meta: {
     title: "IT Services in Nawanshahr: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Nawanshahr IELTS centres, marriage palaces, arhtiyas, clinics and NRI families. From ₹10,000.",
+      "Websites, apps, local SEO and WhatsApp automation for Nawanshahr IELTS centres, marriage palaces, arhtiyas, clinics and NRI families. Websites from ₹10,000.",
     keywords: [
       "IT services in Nawanshahr",
       "IT services team in Nawanshahr",
@@ -29,6 +29,12 @@ const nawanshahr: CityContent = {
       "Nawanshahr me website banwana",
       "Nawanshahr vich website banwauni",
       "ਨਵਾਂਸ਼ਹਿਰ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Nawanshahr website designer",
+      "web development company Nawanshahr",
+      "hire freelance web developer Nawanshahr",
+      "Shaheed Bhagat Singh Nagar SEO services",
+      "website designer Shaheed Bhagat Singh Nagar",
+      "Punjab SEO services",
     ],
   },
   hero: {

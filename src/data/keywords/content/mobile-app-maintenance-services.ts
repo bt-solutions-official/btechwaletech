@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Mobile App Maintenance Services from ${P.care}`,
-    description: `Mobile app maintenance services from ${P.care}: Android and iOS updates, SDK upgrades, crash monitoring, server costs explained, and takeovers from other developers.`,
+    description: `Mobile app maintenance services from ${P.care}: Android and iOS SDK upgrades, crash monitoring, store compliance, takeovers. 2 months free after launch.`,
     keywords: [
       "mobile app maintenance services", "app maintenance services", "mobile app maintenance", "mobile app maintenance company India",
       "android app maintenance services", "ios app maintenance services", "flutter app maintenance", "react native app maintenance",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "app crash monitoring service", "target API level update service", "iOS SDK update service", "mobile app maintenance services near me",
       "mobile app maintenance services Delhi", "mobile app maintenance services Jaipur", "mobile app maintenance services Kochi", "app maintenance freelancer",
       "app ka maintenance kaun karega", "monthly app maintenance plan", "mobile app AMC",
+      "mobile app maintenance services cost", "mobile app maintenance services price", "mobile app maintenance services company", "best mobile app maintenance services in India",
+      "mobile app maintenance services cost in India",
     ],
   },
   hero: {

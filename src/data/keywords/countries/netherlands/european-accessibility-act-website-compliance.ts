@@ -27,6 +27,7 @@ const content: FreelanceContent = {
       "woocommerce accessibility netherlands", "website accessibility amsterdam", "website accessibility rotterdam",
       "website accessibility utrecht", "accessibility audit the hague", "eaa remediation developer", "eaa fix or rebuild",
       "european accessibility act deadline 28 june 2025",
+      "hire european accessibility act website compliance in the Netherlands", "freelance european accessibility act website compliance Netherlands",
     ],
   },
   hero: {

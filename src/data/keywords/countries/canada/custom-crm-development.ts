@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "custom crm vs per seat pricing", "crm developers toronto", "crm development vancouver", "crm development calgary",
       "crm development montreal", "crm development edmonton", "custom crm developer near me", "custom crm for small business",
       "how long does it take to build a crm", "crm data migration from spreadsheets",
+      "hire custom crm development in Canada", "freelance custom crm development Canada",
     ],
   },
   hero: {

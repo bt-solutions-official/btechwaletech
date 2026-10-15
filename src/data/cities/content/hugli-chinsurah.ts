@@ -7,7 +7,7 @@ const hugliChinsurah: CityContent = {
   meta: {
     title: "Chinsurah Web Design, SEO and Apps from ₹10,000",
     description:
-      "Websites, Google Maps work, online stores and WhatsApp tools for Hugli-Chinsurah shops, clinics, lawyers, tutors and Bandel businesses. Itemised quotes.",
+      "Hugli-Chinsurah websites, Google Maps work, online stores and WhatsApp tools for shops, clinics, lawyers, tutors and Bandel businesses. Itemised quotes.",
     keywords: [
       "website development team in Chinsurah",
       "web designer Hooghly",
@@ -25,6 +25,14 @@ const hugliChinsurah: CityContent = {
       "চুঁচুড়া ওয়েবসাইট ডিজাইন",
       "website maintenance Hooghly",
       "web app developer Hooghly",
+      "Hugli-Chinsurah website designer",
+      "website cost in Hugli-Chinsurah",
+      "web development company Hugli-Chinsurah",
+      "hire freelance developer Hugli-Chinsurah",
+      "West Bengal SEO",
+      "website for advocates and tax practitioners in Hugli-Chinsurah",
+      "web designer in Chawk Bazar, Hugli-Chinsurah",
+      "website for clinics and diagnostic labs in Hugli-Chinsurah",
     ],
   },
   hero: {

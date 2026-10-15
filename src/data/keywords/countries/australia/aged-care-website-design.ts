@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "aged care website design sydney", "aged care website design melbourne", "aged care website design brisbane",
       "aged care website design adelaide", "aged care website design perth", "aged care web developer near me",
       "retirement village website design",
+      "hire aged care website design in Australia", "freelance aged care website design Australia",
     ],
   },
   hero: {

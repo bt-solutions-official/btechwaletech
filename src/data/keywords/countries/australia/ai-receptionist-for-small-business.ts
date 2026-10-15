@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `AI Receptionist for Small Business Australia: ${P.ai}+`,
-    description: `AI receptionist for small business in Australia: catch missed calls, book into ServiceM8, Cliniko or Google Calendar, triage after hours. Custom builds from ${P.ai}.`,
+    description: `AI receptionist for small business in Australia: catch missed calls, book into ServiceM8, Cliniko or Google Calendar, triage after hours. From ${P.ai}.`,
     keywords: [
       "ai receptionist for small business australia", "ai receptionist australia", "ai receptionist for small business",
       "ai phone answering service australia", "ai virtual receptionist", "ai receptionist for tradies",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "does ai understand australian accents", "call recording laws australia ai", "is it legal to record calls with ai nsw",
       "ai receptionist sydney", "ai receptionist melbourne", "ai receptionist brisbane", "ai receptionist perth",
       "voice ai agent small business", "ai call answering for trades", "ai receptionist privacy australia",
+      "hire ai receptionist for small business in Australia", "freelance ai receptionist for small business Australia",
     ],
   },
   hero: {

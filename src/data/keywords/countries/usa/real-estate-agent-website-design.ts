@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "What should real estate agent website design include?",
     text: `Real estate agent website design should include a live IDX home search approved by your MLS, neighborhood pages with real local detail, a home valuation page for sellers, agent bios with license details, and forms that push every lead into your CRM, all worded to respect fair housing rules. BtechWaleTech builds this from ${P.site}; large team sites start at ${P.seoSite}.`,
-    more: `Managing rentals as well? Read <a href='/usa/property-management-website-design/'>property management website design</a>. Building your own CRM instead of renting seats is covered on <a href='/usa/custom-crm-development/'>custom CRM development</a>.`,
+    more: `Managing rentals as well? A tenant portal is covered on <a href='/usa/customer-portal-development/'>customer portal development</a>. Building your own CRM instead of renting seats is covered on <a href='/usa/custom-crm-development/'>custom CRM development</a>.`,
   },
   snapshot: {
     caption: "Agent website build at a glance",
@@ -192,7 +192,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A team site needs lead routing and profile pages that a solo agent site does not: each agent gets a page, leads go to the right person automatically, and the team lead can see everything.`,
         `We map routing rules with the team lead before designing. Should a lead from the Lakeside neighborhood page go to the agent who farms Lakeside? Should Spanish-speaking leads go to a bilingual agent? Should seller leads go straight to the listing specialist? Most CRMs can apply these rules if the website sends the right tags, so the site passes the source page, language preference and lead type on every submission.`,
-        `Profiles list each agent’s license number where your state requires it, areas and languages, a short honest bio and their reviews. When an agent leaves, we remove the profile and redirect it to the team page, so no link breaks. Brokerages with several offices can add office pages and recruiting pages for new agents. Teams across a large metro usually fit the ${P.seoSite} plan; see <a href='/usa/web-developer-for-dallas-businesses/'>web development for Dallas-Fort Worth teams</a> for a multi-office example.`,
+        `Profiles list each agent’s license number where your state requires it, areas and languages, a short honest bio and their reviews. When an agent leaves, we remove the profile and redirect it to the team page, so no link breaks. Brokerages with several offices can add office pages and recruiting pages for new agents. Teams across a large metro usually fit the ${P.seoSite} plan; see <a href='/usa/web-developer-for-houston-businesses/'>web development for Houston businesses</a> for a multi-office example.`,
       ],
     },
     {
@@ -244,7 +244,7 @@ const content: FreelanceContent = {
         "Red flag: promises of a guaranteed number of leads or page-one rankings.",
       ],
       after: [
-        `Selling new construction too? <a href='/usa/home-builder-website-design/'>Home builder website design</a> covers community and floor-plan pages. Agents who also run short-term rentals can compare <a href='/usa/vacation-rental-website-design/'>vacation rental website design</a>.`,
+        `Selling new construction too? <a href='/usa/contractor-website-design/'>Contractor website design</a> covers builder and floor-plan pages. Agents who also run short-term rentals get an extra listings section on the same build.`,
       ],
     },
     {
@@ -316,8 +316,8 @@ const content: FreelanceContent = {
         ["Large team or boutique brokerage", P.seoSite, "3–5 weeks", "Many agents, dozens of area and property-type pages"],
         ["Speed-to-lead automation", P.ai, "2–4 weeks", "Instant replies, CRM tasks, lead scoring by source"],
         ["Buyer or seller client portal", P.software, "6–12 weeks", "Document sharing, milestones, private logins"],
-        ["Monthly local SEO", `${P.seo} a month`, "Ongoing", "New guides, market notes, profile posts"],
-        ["Care after 2 free months", `${P.care} a month`, "Ongoing", "Updates, backups, agent roster changes"],
+        ["Monthly local SEO", `${P.seo}`, "Ongoing", "New guides, market notes, profile posts"],
+        ["Care after 2 free months", `${P.care}`, "Ongoing", "Updates, backups, agent roster changes"],
       ],
       hideSm: [2],
     },
@@ -375,22 +375,22 @@ const content: FreelanceContent = {
     { question: "Do you run Facebook or Google ads for real estate agents?", answer: `We build the landing pages and tracking that ads send traffic to, but we do not manage ad budgets or buy leads. Focused landing pages for new construction, first-time buyers or a single listing are part of the site or a separate page project, and monthly search work starts at ${P.seo}.` },
     { question: "Who owns the real estate website after it is built?", answer: "You do. The domain, hosting, code, IDX account, CRM and analytics are registered in your name and you hold the admin logins. We work as added users you can remove after launch, and a new developer can take over with everything in hand." },
     { question: "How can a real estate agent show up in AI search answers?", answer: "AI tools like Google AI Overviews, ChatGPT search and Perplexity tend to cite pages that answer a local question directly and consistently. Neighborhood guides that open with a clear summary, market notes with dates, and agent bios with verifiable license details give them something reliable to quote about your area." },
-    { question: "What happens after my real estate website launches?", answer: `The first two months of fixes and small changes are free: new guides, agent roster updates, disclaimer changes or form tweaks. After that, care starts at ${P.care} a month, and you can also edit guides and bios yourself using the short guide we hand over at launch.` },
+    { question: "What happens after my real estate website launches?", answer: `The first two months of fixes and small changes are free: new guides, agent roster updates, disclaimer changes or form tweaks. After that, care starts at ${P.care}, and you can also edit guides and bios yourself using the short guide we hand over at launch.` },
     { question: "Can my agent website be accessible to people with disabilities?", answer: "Yes. We build with keyboard access, readable contrast, labeled form fields and descriptive alt text for your own photos. IDX widgets come from the vendor, so we test them and raise issues with the vendor where needed. Our ADA-compliant website design page explains the standards in more depth." },
   ],
   related: {
     heading: "More US pages for real estate and property businesses",
     links: [
-      { name: "Property management website design", href: "/usa/property-management-website-design/" },
-      { name: "Home builder website design", href: "/usa/home-builder-website-design/" },
-      { name: "Vacation rental website design", href: "/usa/vacation-rental-website-design/" },
+      { name: "Customer portal development", href: "/usa/customer-portal-development/" },
+      { name: "Contractor website design", href: "/usa/contractor-website-design/" },
+      { name: "Small business website design", href: "/usa/small-business-website-design/" },
       { name: "Custom CRM development", href: "/usa/custom-crm-development/" },
       { name: "Landing page design services", href: "/usa/landing-page-design-services/" },
       { name: "Local SEO services", href: "/usa/local-seo-services/" },
       { name: "ADA-compliant website design", href: "/usa/ada-compliant-website-design/" },
       { name: "WordPress website design services", href: "/usa/wordpress-website-design/" },
       { name: "Web developer for Miami businesses", href: "/usa/web-developer-for-miami-businesses/" },
-      { name: "Web developer for Dallas businesses", href: "/usa/web-developer-for-dallas-businesses/" },
+      { name: "Web developer for Houston businesses", href: "/usa/web-developer-for-houston-businesses/" },
       { name: "Websites for US businesses", href: "/usa/" },
       { name: "Hire Indian developers", href: "/hire-indian-developers/" },
       { name: "Pricing", href: "/pricing/" },

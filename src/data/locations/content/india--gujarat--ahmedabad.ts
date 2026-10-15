@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 23.0225, lng: 72.5714 },
   meta: {
-    title: "Freelance IT Consultants in Ahmedabad: Software & AI",
+    title: "Ahmedabad IT Consultants: Textiles, Pharma & Chemicals",
     description:
-      "Freelance IT consulting in Ahmedabad: process audits, custom software, Android and iOS apps, AI agents, MIS dashboards, cloud and SEO for traders, pharma and makers.",
+      "Freelance IT consulting in Ahmedabad: process audits, custom software, Android and iOS apps, AI agents, plus MIS dashboards. From ₹10,000, quote in two days.",
     keywords: [
       "IT solutions team in Ahmedabad",
       "IT consulting Ahmedabad",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT consultant near me Prahlad Nagar",
       "Amdavad ma IT consultant",
       "અમદાવાદ આઈટી કન્સલ્ટિંગ",
+      "Ahmedabad website designer",
+      "website cost in Ahmedabad",
+      "IT company in Ahmedabad",
+      "Gujarat SEO services",
+      "hire developer Ahmedabad",
+      "textile trading software in Ahmedabad",
+      "pharmaceuticals software in Ahmedabad",
+      "chemicals software in Ahmedabad",
+      "automobile software in Ahmedabad",
+      "website developer SG Highway Ahmedabad",
     ],
   },
   hero: {

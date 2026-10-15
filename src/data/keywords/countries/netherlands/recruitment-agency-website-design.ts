@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "multilingual vacancy pages", "vacancies in polish and english", "employer lead form recruitment",
       "recruitment agency website amsterdam", "recruitment agency website rotterdam", "uitzendbureau website eindhoven",
       "staffing website venlo", "best recruitment agency website features", "recruitment website freelance developer",
+      "hire recruitment agency website design in the Netherlands",
     ],
   },
   hero: {
@@ -441,7 +442,7 @@ const content: FreelanceContent = {
     { question: "Where are candidate CVs stored?", answer: "Outside the public web folder, on EU hosting registered to your agency, with access limited by role and downloads logged. Where your ATS is the system of record, the site passes the CV straight through and keeps only what it needs briefly. Deletion runs on the schedule you set." },
     { question: "Who owns the recruitment website and its data?", answer: "Your agency. The domain, hosting, code repository, Search Console and analytics accounts are registered to you. Candidate data belongs to your processes and systems. At handover you receive every login and a short document explaining the feed, the templates and how to change routing rules." },
     { question: "How do we pay a developer team in India?", answer: "Quotes are in USD, invoices come from India, and you pay by Wise, bank wire or PayPal. Payments are tied to milestones such as a staging site with a working feed, and nothing is billed before you approve the quote in writing. Your accountant advises on the VAT treatment of a non-EU invoice." },
-    { question: "What support do we get after launch?", answer: `Two months of free maintenance covering updates, feed monitoring, backups and small fixes. After that, maintenance starts from ${P.care} a month if you want us to continue. If your ATS vendor changes its feed format, we adapt the import under the maintenance plan or a separate quote.` },
+    { question: "What support do we get after launch?", answer: `Two months of free maintenance covering updates, feed monitoring, backups and small fixes. After that, maintenance starts from ${P.care} if you want us to continue. If your ATS vendor changes its feed format, we adapt the import under the maintenance plan or a separate quote.` },
     { question: "Can we see progress during the build?", answer: "Yes. Everything is built on a staging site you can open at any time, and each week ends with a video demo during your late morning or early afternoon. Comments go into a shared tracker so decisions are written down, and WhatsApp handles quick questions seven days a week." },
   ],
   related: {

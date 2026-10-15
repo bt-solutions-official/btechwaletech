@@ -85,7 +85,7 @@ const content: FreelanceContent = {
     rows: [
       ["When do visitors arrive?", "As soon as ads go live", "Promised fast; rarely lasting", "Gradually, building over months"],
       ["What happens if you stop?", "Traffic stops the same day", "Rankings often fall away", "Rankings usually decay slowly"],
-      ["Cost pattern", "Pay for every click", "Low upfront, high risk", `From ${P.seo} a month, work you own`],
+      ["Cost pattern", "Pay for every click", "Low upfront, high risk", `From ${P.seo}, work you own`],
       ["Honesty about time", "Clear: immediate", "Unrealistic guarantees", "Ranges based on your site and market"],
       ["Risk to your domain", "None", "Link schemes can bring penalties", "Only methods within Google’s guidelines"],
       ["Proof of progress", "Ad dashboard", "Screenshots of vanity keywords", "Search Console data for buying queries"],

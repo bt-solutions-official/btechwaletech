@@ -7,7 +7,7 @@ const tadpatri: CityContent = {
   meta: {
     title: "IT Services in Tadpatri: Websites, Apps, SEO & AI",
     description:
-      "Website design, Telugu local SEO, granite catalogues, fleet and order software, and WhatsApp automation for Tadpatri stone polishers, transporters and shops.",
+      "Tadpatri websites, Telugu SEO and granite catalogues for black stone polishers, cement plant vendors, lorry owners and Gandhi Katta shops. From ₹10,000.",
     keywords: [
       "website development team in Tadpatri",
       "web designer Tadipatri",
@@ -24,6 +24,17 @@ const tadpatri: CityContent = {
       "Tadipatri lo website kavali",
       "తాడిపత్రి వెబ్‌సైట్ డిజైన్",
       "software team Tadipatri",
+      "Tadpatri website designer",
+      "website cost in Tadpatri",
+      "web development company Tadpatri",
+      "hire freelance web developer Tadpatri",
+      "Andhra Pradesh SEO services",
+      "Tadpatri cement plant vendors website",
+      "cement plant vendors website design Tadpatri",
+      "website design Gandhi Katta Tadpatri",
+      "website design Bugga Tadpatri",
+      "website design Putlur Road Tadpatri",
+      "website design price in Tadpatri",
     ],
   },
   hero: {

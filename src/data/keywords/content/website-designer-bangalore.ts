@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Designer in Bangalore, Designs from ${P.site}`,
-    description: `Website designer in Bangalore for brands, clinics and startups: mobile-first layouts reviewed live on screen-share, designed and built from ${P.site}. Quote in 2 days.`,
+    description: `Website designer in Bangalore for brands, clinics and startups: mobile-first layouts reviewed live on screen-share. Designed and built from ${P.site}.`,
     keywords: [
       "website designer in Bangalore", "website designer Bangalore", "website designer in Bengaluru", "website designers in Bangalore",
       "web designer in Bangalore", "web designer Bangalore", "website design Bangalore", "website designing in Bangalore",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "Kannada English bilingual website design", "website designer Koramangala", "website designer Indiranagar", "website designer HSR Layout",
       "website designer Whitefield", "startup website designer Bangalore", "restaurant website design Bangalore", "best website designer in Bangalore",
       "Bangalore me website design karwana hai",
+      "website designer in Bangalore cost", "website designer in Bangalore price", "hire website designer in Bangalore", "freelance website designer in Bangalore",
+      "website designer in Bangalore charges",
     ],
   },
   hero: {

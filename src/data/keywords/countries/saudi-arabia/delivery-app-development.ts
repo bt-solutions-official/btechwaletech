@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Delivery App Development Saudi Arabia from ${P.app}`,
-    description: `Delivery app development in Saudi Arabia: customer, driver and admin apps with live tracking, dispatch, cash on delivery and national address. Apps from ${P.app}.`,
+    description: `Delivery app development in Saudi Arabia: customer, driver and admin apps with live tracking, cash on delivery and national address. Apps from ${P.app}.`,
     keywords: [
       "delivery app development saudi arabia", "delivery app development in saudi arabia", "delivery app developer ksa",
       "on demand delivery app saudi arabia", "food delivery app development saudi arabia", "grocery delivery app ksa",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "tga delivery app licence", "delivery app development riyadh", "delivery app development jeddah",
       "delivery app development dammam", "flutter delivery app", "last mile delivery app ksa",
       "delivery app development company saudi arabia", "customer driver admin app",
+      "hire delivery app development in Saudi Arabia", "freelance delivery app development Saudi Arabia",
     ],
   },
   hero: {

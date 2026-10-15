@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 29.8543, lng: 77.888 },
   meta: {
-    title: "Freelance Software & Automation Team in Roorkee",
+    title: "Roorkee Software & Automation: Survey, Testing & Hostels",
     description:
-      "Instead of a software development team in Roorkee, hire our freelance team for quotation, lab, hostel and project software, apps and AI automation.",
+      "Instead of a software development team in Roorkee, hire our freelance team for quotation, lab and hostel software. From ₹10,000, quote in 2 days.",
     keywords: [
       "software development team in Roorkee",
       "IT services team in Roorkee",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "iPhone app developers Roorkee",
       "रुड़की में सॉफ्टवेयर डेवलपर",
       "Roorkee mein software banwana",
+      "Roorkee website designer",
+      "website cost in Roorkee",
+      "IT company in Roorkee",
+      "Uttarakhand SEO services",
+      "hire developer Roorkee",
+      "survey software in Roorkee",
     ],
   },
   hero: {

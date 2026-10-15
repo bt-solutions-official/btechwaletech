@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Yoga Studio Website for Batches & TTC from ${P.site}`,
-    description: `Yoga studio website from ${P.site}: batch schedules, class booking, live online class links, teacher training pages, memberships and pages for students from abroad.`,
+    description: `Yoga studio website from ${P.site}: batch schedules, class booking, live online class links, teacher training pages, memberships and overseas pages.`,
     keywords: [
       "yoga studio website", "yoga studio website design", "yoga website design India", "website for yoga studio", "yoga teacher website",
       "yoga class website", "yoga studio booking website", "yoga class booking online", "online yoga class website", "yoga membership website",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "what should a yoga website include", "yoga instructor website", "yoga ashram website", "yoga website for international students",
       "yoga website Mysore", "yoga studio website Bangalore", "yoga classes near me website", "live yoga class Zoom link website",
       "yoga batch timing website",
+      "yoga studio website cost", "yoga studio website company", "best yoga studio website in India", "yoga studio website cost in India",
+      "yoga studio website near me",
     ],
   },
   hero: {

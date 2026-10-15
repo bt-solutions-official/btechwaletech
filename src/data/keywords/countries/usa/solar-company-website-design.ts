@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Solar Company Website Design: Savings Tools, ${P.site}+`,
-    description: `Solar company website design for US installers: savings calculators, current incentive pages, cash vs loan vs lease guides and consented lead forms. From ${P.site}.`,
+    description: `Solar company website design for US installers: savings calculators, incentive pages, cash vs loan vs lease guides and consented lead forms. From ${P.site}.`,
     keywords: [
       "solar company website design", "solar website design", "solar installer website design", "solar contractor website",
       "solar energy company website", "solar website designer", "solar savings calculator for website", "solar lead generation website",
@@ -47,7 +47,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "What should solar company website design include to produce qualified leads?",
     text: `Solar company website design should include a savings estimate based on the homeowner's bill and roof, incentive pages dated and linked to official sources, a plain comparison of cash, loan, lease and power purchase agreements, a short form that checks ownership, roof and utility, and consent wording for calls and texts. BtechWaleTech builds this from ${P.site}; multi-market sites start from ${P.seoSite}.`,
-    more: `Installers who also sell roofing should read our <a href='/usa/roofing-website-design/'>roofing website design</a> page, and builders adding solar to new homes can see <a href='/usa/home-builder-website-design/'>home builder website design</a>.`,
+    more: `Installers who also sell roofing should read our <a href='/usa/roofing-website-design/'>roofing website design</a> page, and builders adding solar to new homes can see <a href='/usa/contractor-website-design/'>contractor website design</a>.`,
   },
   snapshot: {
     caption: "A solar installer website that sends your team better leads, at a glance",
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Accuracy safeguards", value: "Dated incentive copy, labeled estimates, lender-approved financing wording" },
       { label: "Consent", value: "Clear call-and-text authorization naming your business, stored with each lead" },
       { label: "Starting price", value: `From ${P.site}; multi-market builds from ${P.seoSite}; custom calculators from ${P.software}` },
-      { label: "After launch", value: `2 months of free maintenance, then care from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free maintenance, then care from ${P.care}` },
     ],
   },
   services: {
@@ -232,7 +232,7 @@ const content: FreelanceContent = {
         "Solar searches mix local intent (“solar installers near me”) and research intent (“is solar worth it with my utility”). A strong site answers both, with market pages and deep educational pages linked together.",
         "Utility pages are an underused opportunity. Homeowners search by utility name because rates, net metering or net billing rules, and interconnection processes depend on it. A page per utility you serve, explaining in plain words what the homeowner should know and linking to the utility's official page, meets that intent better than a generic city page. Keep the facts sourced and dated.",
         "Town pages still help when they carry real local detail: installs in that area, common roof types, HOA considerations where you have experience, local permit notes you supply, and reviews from nearby customers. Your Google Business Profile, citations and reviews carry much of the local ranking weight; the site supports them with consistent details and useful pages.",
-        `Nobody can honestly promise first-page rankings in competitive solar markets. We build the structure, connect Search Console and report progress. Ongoing work sits under our <a href='/usa/local-seo-services/'>local SEO services</a>, starting from ${P.seo} a month.`,
+        `Nobody can honestly promise first-page rankings in competitive solar markets. We build the structure, connect Search Console and report progress. Ongoing work sits under our <a href='/usa/local-seo-services/'>local SEO services</a>, starting from ${P.seo}.`,
       ],
     },
     {
@@ -342,7 +342,7 @@ const content: FreelanceContent = {
         ["Roof-data calculator", "Address lookup, roof segments, shade-aware estimate", `From ${P.software}`, "6–12 weeks"],
         ["Customer portal app", "Project status, documents, monitoring links on iOS and Android", `From ${P.app}`, "6–10 weeks"],
         ["Lead follow-up automation", "Instant texts, reminders, CRM routing, AI replies", `From ${P.ai}`, "2–4 weeks"],
-        ["Monthly SEO", "Utility and town content, profile work, reports", `From ${P.seo}/month`, "Ongoing"],
+        ["Monthly SEO", "Utility and town content, profile work, reports", `From ${P.seo}`, "Ongoing"],
       ],
     },
   ],
@@ -400,12 +400,12 @@ const content: FreelanceContent = {
     { question: "How is homeowner data protected on a solar website?", answer: "We collect only what the sales process needs, use encrypted connections, route bill uploads to secure storage in your own account, and limit CRM access by role. Your attorney writes or approves the privacy policy, which we link from every form. Your counsel can also assess which state privacy laws apply to you." },
     { question: "Do you design solar systems or do site surveys?", answer: "No. We are web developers working remotely. We build the website, calculators, forms and integrations; your team or engineering partner designs systems, surveys roofs and handles permits. If you use design or proposal software, we can link to it or pass lead data into it where it offers an API." },
     { question: "Does my solar website need to be ADA accessible?", answer: "The Department of Justice says the ADA applies to what businesses open to the public offer online and points to WCAG as helpful guidance. We build with readable contrast, labeled form fields, keyboard-friendly calculators and alt text on install photos. Your attorney can advise on your specific obligations." },
-    { question: "What does solar website maintenance cost after launch?", answer: `The first two months after launch include free maintenance: updates, backups, security checks and small edits, including incentive changes. After that, care starts from ${P.care} a month. Your team can edit incentive blocks, galleries and calculator assumptions yourselves, and we show you how at handover.` },
+    { question: "What does solar website maintenance cost after launch?", answer: `The first two months after launch include free maintenance: updates, backups, security checks and small edits, including incentive changes. After that, care starts from ${P.care}. Your team can edit incentive blocks, galleries and calculator assumptions yourselves, and we show you how at handover.` },
   ],
   related: {
     heading: "Related website pages for US installers and contractors",
     links: [
-      { name: "Home builder website design", href: "/usa/home-builder-website-design/" },
+      { name: "Real estate agent website design", href: "/usa/real-estate-agent-website-design/" },
       { name: "Roofing website design", href: "/usa/roofing-website-design/" },
       { name: "Electrician website design", href: "/usa/electrician-website-design/" },
       { name: "HVAC website design", href: "/usa/hvac-website-design/" },

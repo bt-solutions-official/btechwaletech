@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 32.219, lng: 76.3234 },
   meta: {
-    title: "Freelance Software Developers in Dharamshala",
+    title: "Dharamshala Software Developers: Guesthouses & Meditation",
     description:
       "Searching for a software development team in Dharamshala? Hire our freelance group of 3 engineers for booking software, AI agents, apps and SEO.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "yoga retreat website developer Dharamkot",
       "Dharamshala mein software team",
       "धर्मशाला में सॉफ्टवेयर कंपनी",
+      "Dharamshala website designer",
+      "website cost in Dharamshala",
+      "IT company in Dharamshala",
+      "Himachal Pradesh SEO services",
+      "hire developer Dharamshala",
+      "guesthouses software in Dharamshala",
+      "meditation software in Dharamshala",
     ],
   },
   hero: {

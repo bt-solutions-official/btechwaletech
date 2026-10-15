@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance AI Developer in India: Builds from ${P.ai}`,
-    description: `Freelance AI developer in India for chatbots, RAG search, document AI and automation from ${P.ai}. Honest limits, running costs and a pilot-first plan.`,
+    description: `Freelance AI developer in India for chatbots, RAG search, document AI and automation from ${P.ai}. Honest limits, running costs, quote in 2 working days.`,
     keywords: [
       "freelance AI developer", "freelance AI developer in India", "freelance AI developer near me", "freelance AI developer for hire",
       "freelance AI developer cost", "AI developer price India", "best freelance AI developer", "AI developer chahiye",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "freelance AI developer Mumbai", "freelance AI developer Chennai", "freelance generative AI developer", "freelance LLM developer",
       "RAG chatbot developer", "document AI developer", "AI chatbot freelancer", "AI automation developer freelance",
       "custom GPT developer India", "AI integration freelancer", "freelance AI engineer India", "AI project cost India",
+      "hire freelance ai developer",
     ],
   },
   hero: {

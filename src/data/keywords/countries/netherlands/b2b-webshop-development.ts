@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "woocommerce b2b plugin", "custom b2b portal development", "how much does a b2b webshop cost", "b2b vs b2c webshop difference",
       "b2b webshop amsterdam", "b2b webshop rotterdam", "b2b webshop eindhoven", "b2b webshop utrecht",
       "b2b ecommerce for manufacturers", "b2b webshop developer india",
+      "hire b2b webshop development in the Netherlands", "freelance b2b webshop development Netherlands",
     ],
   },
   hero: {
@@ -273,7 +274,7 @@ const content: FreelanceContent = {
         `We handle the technical side: crawlable categories, canonical URLs for product variants, sitemaps, Google Search Console setup and Core Web Vitals. Nobody can guarantee rankings; what you can do is make sure every article is described well enough to answer a buyer's question.`,
       ],
       after: [
-        `Ongoing work starts from ${P.seo} a month; details on the <a href='/netherlands/technical-seo-services/'>technical SEO services page</a>.`,
+        `Ongoing work starts from ${P.seo}; details on the <a href='/netherlands/technical-seo-services/'>technical SEO services page</a>.`,
       ],
     },
     {

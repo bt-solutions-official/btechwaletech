@@ -7,7 +7,7 @@ const tirupati: CityContent = {
   meta: {
     title: "Tirupati Web Design, SEO & Automation | ₹10,000+",
     description:
-      "Websites, Telugu and English SEO, booking sites and WhatsApp automation for Tirupati hotels, travel operators, clinics, colleges and suppliers. Sites from ₹10,000.",
+      "Websites, booking sites and WhatsApp tools for Tirupati hotels, travel operators, clinics, colleges and suppliers. Sites from ₹10,000 with an itemised quote.",
     keywords: [
       "website development team in Tirupati",
       "web design team Tirupati",
@@ -25,6 +25,16 @@ const tirupati: CityContent = {
       "website maintenance Tirupati",
       "Tirupati lo website design",
       "తిరుపతి వెబ్‌సైట్ డిజైన్",
+      "web development company Tirupati",
+      "hire freelance web developer Tirupati",
+      "Andhra Pradesh SEO services",
+      "website design Alipiri Tirupati",
+      "website design Tiruchanur Tirupati",
+      "website design Kapilatheertham Road Tirupati",
+      "website design price in Tirupati",
+      "app development company Tirupati",
+      "Tirupati SEO company",
+      "Google Maps listing Tirupati",
     ],
   },
   hero: {

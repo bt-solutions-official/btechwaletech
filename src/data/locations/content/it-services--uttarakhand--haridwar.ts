@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 29.9457, lng: 78.1642 },
   meta: {
-    title: "Freelance Software & AI Developers in Haridwar",
+    title: "Haridwar Software & AI Developers: FMCG & Engineering",
     description:
       "Need a software development team in Haridwar? Hire our freelance team for SIDCUL factory software, trust systems, apps and AI automation. From ₹40,000.",
     keywords: [
@@ -33,6 +33,12 @@ const content: CityContent = {
       "iPhone app developers Haridwar",
       "हरिद्वार में सॉफ्टवेयर डेवलपर",
       "Haridwar mein software kaun banata hai",
+      "Haridwar website designer",
+      "website cost in Haridwar",
+      "IT company in Haridwar",
+      "Uttarakhand SEO services",
+      "hire developer Haridwar",
+      "fmcg software in Haridwar",
     ],
   },
   hero: {

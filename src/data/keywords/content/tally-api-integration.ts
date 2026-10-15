@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Tally API integration",
   updated: "2026-09-25",
   meta: {
-    title: `Tally API Integration with Web, CRM & Apps`,
+    title: `Tally API Integration: Web, CRM & Apps from ${P.ai}`,
     description: `Tally API integration that syncs TallyPrime with your website, CRM, store or app over XML, JSON or ODBC, with error logs and no re-typing. From ${P.ai}.`,
     keywords: [
       "tally api integration", "tallyprime api integration", "tally integration with website", "tally integration with crm",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "tally api integration cost", "tally api integration developer", "push vouchers to tally", "tally masters sync",
       "tally integration middleware", "tally cloud sync", "tally api integration near me", "tally api integration Pune",
       "tally api integration Bengaluru", "tally api integration Ahmedabad", "tally ko website se kaise jode", "tally integration freelancer", "tally reports api",
+      "Tally API integration price", "Tally API integration company", "best Tally API integration in India", "Tally API integration cost in India",
+      "Tally API integration service",
     ],
   },
   hero: {

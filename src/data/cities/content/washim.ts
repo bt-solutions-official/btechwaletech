@@ -7,7 +7,7 @@ const washim: CityContent = {
   meta: {
     title: "IT Services in Washim | Web, Apps & AI from ₹10,000",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Washim soybean traders, ginning units, agri dealers, clinics, schools and shops.",
+      "Marathi websites, apps, local SEO and WhatsApp tools for Washim soybean traders, ginning units, agri dealers, clinics, schools and shops. From ₹10,000.",
     keywords: [
       "IT services in Washim",
       "IT services team in Washim",
@@ -29,6 +29,12 @@ const washim: CityContent = {
       "Washim me website banwana",
       "Washim madhe website banvaychi",
       "वाशिम वेबसाइट डिझाइन",
+      "Washim website designer",
+      "web development company Washim",
+      "hire freelance web developer Washim",
+      "Maharashtra SEO services",
+      "Washim me website kaise banwaye",
+      "Washim website banwane ka kharcha",
     ],
   },
   hero: {

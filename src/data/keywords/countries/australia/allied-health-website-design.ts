@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Allied Health Website Design: Bookings from ${P.site}`,
-    description: `Allied health website design for Australian clinics: Cliniko, Halaxy or Nookal booking, AHPRA-aware copy, Medicare and NDIS pages, multi-site SEO. From ${P.site}.`,
+    description: `Allied health website design for Australian clinics: Cliniko, Halaxy or Nookal booking, AHPRA-aware copy, Medicare and NDIS pages. Sites from ${P.site}.`,
     keywords: [
       "allied health website design", "allied health web design australia", "website design for allied health clinics",
       "allied health clinic website", "allied health website cost", "how much does an allied health website cost",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "speech pathology website design", "exercise physiology website design", "allied health seo",
       "allied health website design sydney", "allied health website design melbourne", "allied health website design brisbane",
       "allied health website design perth", "medicare allied health page", "allied health website near me",
+      "hire allied health website design in Australia", "freelance allied health website design Australia",
     ],
   },
   hero: {
@@ -175,7 +176,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Give every clinic location its own page, its own Google Business Profile, and consistent name, address and phone details everywhere. Then connect each location page to the services and practitioners genuinely available there.`,
         `Multi-site clinics often make one of two mistakes: a single contact page listing six addresses, which gives Google little to rank, or dozens of near-identical suburb pages for places where the clinic has no presence, which risks being treated as doorway pages. The right structure sits between them. Each real location page includes directions, parking, accessibility of the building, hours, the practitioners working there, services offered at that site, and a location-filtered booking link.`,
-        `Service pages then link to the locations that offer them, and location pages link back to services. That internal linking helps both patients and search engines understand your network. Google reviews are fine to request from patients as long as you ask fairly and never offer incentives; just do not republish clinical praise from them on your own site. Ongoing local SEO for clinic networks is available from ${P.seo} per month, and nobody can honestly promise a map-pack position.`,
+        `Service pages then link to the locations that offer them, and location pages link back to services. That internal linking helps both patients and search engines understand your network. Google reviews are fine to request from patients as long as you ask fairly and never offer incentives; just do not republish clinical praise from them on your own site. Ongoing local SEO for clinic networks is available from ${P.seo}, and nobody can honestly promise a map-pack position.`,
       ],
     },
     {
@@ -184,7 +185,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, allied health website design starts from ${P.site} for a single-location clinic site of up to 100 pages, and from ${P.seoSite} for multi-site networks with distinct content per location. Quotes elsewhere vary widely, mostly because of copywriting, photography and ongoing marketing bundled into the price.`,
         `What moves the quote: the number of practitioners and services, whether you supply finished copy or want it drafted from notes, how many locations need their own pages, and extras such as a patient resources library or a secure intake form. Integration with your booking system is usually straightforward because we use its own booking pages.`,
-        `Running costs are separate and paid by you directly: domain, hosting and email. Your practice management subscription stays as it is. After launch, maintenance is free for two months, then optional from ${P.care} per month. For a wider view of what websites cost in Australia, the <a href='/australia/website-design-cost/'>website design cost guide</a> breaks it down by project type.`,
+        `Running costs are separate and paid by you directly: domain, hosting and email. Your practice management subscription stays as it is. After launch, maintenance is free for two months, then optional from ${P.care}. For a wider view of what websites cost in Australia, the <a href='/australia/website-design-cost/'>website design cost guide</a> breaks it down by project type.`,
       ],
     },
     {
@@ -307,7 +308,7 @@ const content: FreelanceContent = {
         ["Multidisciplinary group", "Discipline hubs, many profiles, 2–4 locations", `From ${P.site}`, "About 2 weeks"],
         ["Clinic network", "Many locations with distinct content, resources library", `From ${P.seoSite}`, "3–5 weeks"],
         ["Patient app", "Exercise programs, reminders, secure messaging", `From ${P.app}`, "6–10 weeks"],
-        ["Ongoing local SEO", "Location content, profiles, technical checks", `From ${P.seo} per month`, "Monthly"],
+        ["Ongoing local SEO", "Location content, profiles, technical checks", `From ${P.seo}`, "Monthly"],
       ],
     },
   ],
@@ -363,7 +364,7 @@ const content: FreelanceContent = {
     { question: "How do Australian clinics pay you?", answer: "Quotes and invoices are in USD and issued from India. You can pay by Wise, bank wire or PayPal. The payment schedule is written into your quote, and nothing is billed until you approve that quote in writing. For questions about how the expense is treated for tax, please speak with your accountant." },
     { question: "Who owns the clinic website?", answer: "Your clinic does. The domain, hosting, analytics, Google Business Profiles and the website code are set up in your clinic's name, and all logins are handed over at launch. Your practice management system stays under your own account. If you ever change developers, the new one can take over without needing anything from us." },
     { question: "Can reception update the website without a developer?", answer: "Yes. We set up simple editing for fees, hours, practitioner days, holiday closures and news, and record a short walkthrough video. Larger changes such as new page types are easier for us to handle, and small edits are included during the two free months of maintenance after launch." },
-    { question: "What happens after the free maintenance period?", answer: `After two free months you can manage the site yourself, move it to another developer, or keep us on from ${P.care} per month for updates, backups, security checks and small edits. Ongoing terms are agreed in writing, and our terms and refund policy pages explain how agreements work.` },
+    { question: "What happens after the free maintenance period?", answer: `After two free months you can manage the site yourself, move it to another developer, or keep us on from ${P.care} for updates, backups, security checks and small edits. Ongoing terms are agreed in writing, and our terms and refund policy pages explain how agreements work.` },
     { question: "Do you build patient apps for allied health clinics?", answer: `Yes. We build Android and iOS apps from ${P.app} for things like home exercise programs, reminders or group class bookings, published under your own developer accounts. Many clinics find their practice software's existing patient features are enough, so we check that first before recommending a custom app.` },
     { question: "Do you visit the clinic to take photos?", answer: "No, we work remotely from India and do not provide photography or site visits. We can advise on the photos that work best, such as practitioner portraits, treatment rooms and the entrance, and optimise whatever you supply so it loads quickly. Many clinics use a local photographer for a single half-day shoot." },
   ],

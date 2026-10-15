@@ -11,8 +11,8 @@ const content: FreelanceContent = {
   crumb: "Local SEO Saudi Arabia",
   updated: "2026-09-25",
   meta: {
-    title: `Local SEO Saudi Arabia: Google Maps, from ${P.seo}/mo`,
-    description: `Local SEO in Saudi Arabia from ${P.seo} a month: bilingual Google Business Profile, national address consistency, Arabic review requests and call tracking.`,
+    title: `Local SEO Saudi Arabia: Google Maps from ${P.seo}`,
+    description: `Local SEO in Saudi Arabia from ${P.seo}: bilingual Google Business Profile, national address consistency, Arabic review requests and call tracking.`,
     keywords: [
       "local seo saudi arabia", "local seo services saudi arabia", "local seo riyadh", "local seo jeddah", "local seo dammam",
       "google maps ranking saudi arabia", "google business profile saudi arabia", "google my business optimization ksa",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "how to get more google reviews in arabic", "service area business google maps saudi arabia",
       "multi branch local seo saudi", "track whatsapp clicks from google maps", "local seo expert saudi arabia",
       "why is my business not showing on google maps", "district landing pages seo", "local seo khobar",
+      "hire local seo in Saudi Arabia", "freelance local seo Saudi Arabia",
     ],
   },
   hero: {
@@ -32,7 +33,7 @@ const content: FreelanceContent = {
     origin: "Three freelance developers in India · 2.5 hours ahead of Saudi time · WhatsApp answered every day",
   },
   facts: [
-    ["Monthly local SEO from", `${P.seo} a month`],
+    ["Monthly local SEO from", `${P.seo}`],
     ["Main surface", "Google Maps and the local pack"],
     ["Languages", "Arabic and English, copy approved by you"],
     ["Profile ownership", "Your Google account, we are managers"],
@@ -47,14 +48,14 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does local SEO in Saudi Arabia involve, and what does it cost?",
-    text: `Local SEO in Saudi Arabia means optimising your Google Business Profile in Arabic and English, matching your national address across the web, asking customers for honest reviews, and publishing pages only for districts you serve. BtechWaleTech runs this from ${P.seo} a month, tracks calls and WhatsApp clicks, and never promises a guaranteed map position.`,
+    text: `Local SEO in Saudi Arabia means optimising your Google Business Profile in Arabic and English, matching your national address across the web, asking customers for honest reviews, and publishing pages only for districts you serve. BtechWaleTech runs this from ${P.seo}, tracks calls and WhatsApp clicks, and never promises a guaranteed map position.`,
     more: `Need the website first? A fast bilingual site starts from ${P.site}; see <a href='/saudi-arabia/website-design-cost/'>website design cost in Saudi Arabia</a> or our <a href='/saudi-arabia/arabic-english-website-development/'>Arabic-English website builds</a>.`,
   },
   snapshot: {
     caption: "Saudi local SEO engagement in brief",
     rows: [
       { label: "Goal", value: "More calls, WhatsApp chats and direction requests from nearby searchers" },
-      { label: "Starting price", value: `From ${P.seo} a month, quoted in USD` },
+      { label: "Starting price", value: `From ${P.seo}, quoted in USD` },
       { label: "Profiles", value: "One Google Business Profile per real location" },
       { label: "Address", value: "Matched to your SPL national address everywhere" },
       { label: "Reviews", value: "Ask every customer, never pay or filter" },
@@ -87,7 +88,7 @@ const content: FreelanceContent = {
       ["Website changes", "Depends on your developer", "Sometimes outsourced", "Done by the same team that writes the pages"],
       ["Arabic content", "Your own", "Often in-house writers", "You supply or approve; we place and structure it"],
       ["Tracking calls and WhatsApp", "Rarely set up", "Varies", "Events and tagged links from the first month"],
-      ["Cost", "Your time", "Quotes vary widely by scope", `From ${P.seo} a month`],
+      ["Cost", "Your time", "Quotes vary widely by scope", `From ${P.seo}`],
       ["Site visits and photo shoots", "Yes, you are there", "Often available", "No; you send photos, we guide what to shoot"],
       ["Ownership of the profile", "Yours", "Check the contract", "Always yours; we are added as managers"],
     ],
@@ -95,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Local SEO pricing for Saudi businesses",
-    note: `Ongoing local SEO starts from ${P.seo} a month for a single location and covers profile management, review systems, listing consistency, page updates and a monthly report. Multi-branch businesses are quoted per location group, because each branch needs its own profile work and page. If your website is slow, English-only or missing branch pages, a fix is quoted once: a new static site starts from ${P.site}, and a larger SEO site with many service and district pages from ${P.seoSite}. All prices are starting points in USD and itemised before anything is billed. Duration and any pause or stop arrangements are set out in your written quote.`,
+    note: `Ongoing local SEO starts from ${P.seo} for a single location and covers profile management, review systems, listing consistency, page updates and a monthly report. Multi-branch businesses are quoted per location group, because each branch needs its own profile work and page. If your website is slow, English-only or missing branch pages, a fix is quoted once: a new static site starts from ${P.site}, and a larger SEO site with many service and district pages from ${P.seoSite}. All prices are starting points in USD and itemised before anything is billed. Duration and any pause or stop arrangements are set out in your written quote.`,
   },
   guideLabel: "Local SEO in Saudi Arabia, explained",
   guide: [
@@ -390,7 +391,7 @@ const content: FreelanceContent = {
   },
   faqHeading: "Local SEO in Saudi Arabia: common questions",
   faqs: [
-    { question: "How much does local SEO cost in Saudi Arabia?", answer: `BtechWaleTech's local SEO starts from ${P.seo} a month for a single location, quoted in USD. Multi-branch businesses are quoted per group of locations. If your website needs branch pages or a rebuild, that is quoted once, with static sites from ${P.site}. Market quotes vary widely, so compare the task list, not only the monthly figure.` },
+    { question: "How much does local SEO cost in Saudi Arabia?", answer: `BtechWaleTech's local SEO starts from ${P.seo} for a single location, quoted in USD. Multi-branch businesses are quoted per group of locations. If your website needs branch pages or a rebuild, that is quoted once, with static sites from ${P.site}. Market quotes vary widely, so compare the task list, not only the monthly figure.` },
     { question: "How do I get my business to show on Google Maps in Saudi Arabia?", answer: "Create or claim a Google Business Profile, verify it, and complete every field accurately: name as on your signage, national address, category, hours, phone, website and photos. Then collect genuine reviews and link the profile to a matching page on your website. Google ranks by relevance, distance and prominence, so accuracy and reviews matter most." },
     { question: "Why is my business not showing in the local pack?", answer: "Common reasons are an unverified or suspended profile, a primary category that does not match the search, a pin in the wrong place, few reviews compared with nearby competitors, or searching from too far away. Duplicate profiles for the same location can also split visibility. An audit usually finds the cause within the first week." },
     { question: "Can I put both Arabic and English names in my Google Business Profile?", answer: "Google's guidelines discourage repeating the same business name in two languages or scripts in the name field, even if your sign shows both. Use the name customers know best. Arabic and English searchers can still find you through categories, services, reviews and a bilingual website linked from the profile." },

@@ -7,7 +7,7 @@ const neemuch: CityContent = {
   meta: {
     title: "Neemuch Website & SEO for Herb and Spice Traders",
     description:
-      "Websites, export catalogues, SEO and WhatsApp automation for Neemuch mandi traders, herb exporters, processors and clinics. Sites from ₹10,000, free upkeep 2 months.",
+      "Websites, export catalogues, SEO and WhatsApp tools for Neemuch mandi traders, herb exporters, processors and clinics. Websites from ₹10,000.",
     keywords: [
       "website development team in Neemuch",
       "web designer Neemuch",
@@ -25,6 +25,16 @@ const neemuch: CityContent = {
       "website maintenance Neemuch",
       "Neemuch me website kaise banwaye",
       "नीमच वेबसाइट डिजाइन",
+      "Neemuch website designer",
+      "web development company Neemuch",
+      "hire freelance web developer Neemuch",
+      "Malwa SEO services",
+      "website designer Malwa",
+      "Madhya Pradesh SEO services",
+      "Neemuch website banwane ka kharcha",
+      "Neemuch agri-equipment dealers website",
+      "agri-equipment dealers website design Neemuch",
+      "website design Krishi Upaj Mandi area Neemuch",
     ],
   },
   hero: {

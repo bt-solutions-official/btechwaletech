@@ -7,7 +7,7 @@ const sultanganj: CityContent = {
   meta: {
     title: "IT Services in Sultanganj: Web, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sultanganj dharamshalas, kanwar shops, traders, clinics and schools.",
+      "Hindi websites, apps, Maps SEO and WhatsApp automation for Sultanganj dharamshalas, kanwar shops, traders, clinics and schools. Sites from ₹10,000.",
     keywords: [
       "IT services in Sultanganj",
       "IT services team in Sultanganj",
@@ -29,6 +29,12 @@ const sultanganj: CityContent = {
       "Sultanganj me website banwana",
       "Sultanganj me app kaise banwaye",
       "सुल्तानगंज वेबसाइट डिजाइन",
+      "Sultanganj website designer",
+      "web development company Sultanganj",
+      "hire freelance web developer Sultanganj",
+      "Bhagalpur district SEO",
+      "website designer Bhagalpur district",
+      "Bihar SEO services",
     ],
   },
   hero: {

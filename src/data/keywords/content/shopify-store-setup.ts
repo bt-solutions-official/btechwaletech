@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "shopify launch checklist", "shopify store setup expert", "shopify store setup freelancer", "shopify store banwana hai",
       "shopify store setup near me", "shopify store setup Delhi", "shopify store setup Jaipur", "shopify store setup Lucknow",
       "shopify store setup for clothing brand", "shopify store setup for home business",
+      "shopify store setup service cost", "shopify store setup service price", "shopify store setup service company", "best shopify store setup service in India",
+      "shopify store setup service cost in India", "shopify store setup service service",
     ],
   },
   hero: {

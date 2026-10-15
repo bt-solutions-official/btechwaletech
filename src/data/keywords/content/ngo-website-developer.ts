@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "NGO website developer",
   updated: "2026-09-24",
   meta: {
-    title: "NGO Website Developer: UPI Donations, 80G & Reports",
-    description: `NGO website developer for trusts and societies: UPI donations, automatic 80G receipts, annual reports and transparency pages. Sites from ${P.site}, you own it all.`,
+    title: `NGO Website Developer: 80G Donations from ${P.site}`,
+    description: `NGO website developer for trusts and societies: UPI donations, automatic 80G receipts, annual reports and transparency pages. Sites from ${P.site}, you own it.`,
     keywords: [
       "ngo website developer", "ngo website developer in India", "ngo website developer near me", "ngo website design",
       "ngo website development cost", "ngo website price", "best ngo website developer", "ngo ki website banwani hai",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "nonprofit website India", "donation website with UPI", "80G receipt online", "ngo donation page",
       "society website design", "foundation website developer", "csr ready ngo website", "freelance ngo website developer",
       "ngo website with annual report", "volunteer registration website",
+      "hire NGO website developer", "NGO website developer cost", "best NGO website developer in India", "NGO website developer price",
+      "NGO website developer charges",
     ],
   },
   hero: {

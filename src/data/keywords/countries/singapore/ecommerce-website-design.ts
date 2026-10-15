@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "ecommerce website design near me singapore", "ecommerce design tampines", "ecommerce design jurong", "ecommerce design orchard",
       "custom ecommerce website singapore", "ecommerce website with same day delivery singapore", "gst inclusive price display online store",
       "ecommerce ux design singapore", "remote ecommerce designer singapore",
+      "hire ecommerce website design in Singapore", "freelance ecommerce website design Singapore",
     ],
   },
   hero: {

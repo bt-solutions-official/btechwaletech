@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Conversion tracking setup",
   updated: "2026-09-25",
   meta: {
-    title: "Conversion Tracking Setup: Count Every Lead and Sale",
-    description: `Conversion tracking setup for forms, WhatsApp, calls, purchases and offline sales, checked against real enquiries. Monthly SEO from ${P.seo}; quote in 2 days.`,
+    title: "Conversion Tracking Setup: Count Every Lead (2026)",
+    description: `Conversion tracking setup for forms, WhatsApp, calls, purchases and offline sales, checked against real enquiries. SEO from ${P.seo}; quote in 2 days.`,
     keywords: [
       "conversion tracking setup", "conversion tracking setup service", "conversion tracking setup India", "website conversion tracking",
       "lead tracking setup", "Google Ads conversion tracking setup", "Meta pixel conversion tracking setup", "WhatsApp click tracking",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "conversion tracking cost", "conversion tracking expert", "conversion tracking freelancer India", "conversion tracking for small business",
       "conversion tracking audit", "tracked conversions vs actual leads", "conversion tracking Mumbai", "conversion tracking Hyderabad",
       "conversion tracking Delhi", "lead tracking kaise kare", "Meta Conversions API deduplication", "GCLID capture form",
+      "conversion tracking setup company in India",
+      "best conversion tracking setup in India",
     ],
   },
   hero: {

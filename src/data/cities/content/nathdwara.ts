@@ -7,7 +7,7 @@ const nathdwara: CityContent = {
   meta: {
     title: "IT Services in Nathdwara: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Nathdwara hotels, Pichwai artists, prasad shops, meenakari jewellers and marble units.",
+      "Websites, apps, local SEO and WhatsApp automation for Nathdwara hotels, Pichwai artists, prasad shops, meenakari jewellers and marble units. From ₹10,000.",
     keywords: [
       "IT services in Nathdwara",
       "IT services team in Nathdwara",
@@ -29,6 +29,12 @@ const nathdwara: CityContent = {
       "Nathdwara me website banwana",
       "Nathdwara me app banwana",
       "नाथद्वारा वेबसाइट डिजाइन",
+      "Nathdwara website designer",
+      "web development company Nathdwara",
+      "hire freelance web developer Nathdwara",
+      "Rajsamand district SEO",
+      "website designer Rajsamand district",
+      "Rajasthan SEO services",
     ],
   },
   hero: {

@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 18.5204, lng: 73.8567 },
   meta: {
-    title: "Freelance Software & AI Developers in Pune",
+    title: "Pune Software & AI Developers: SaaS & Auto Parts",
     description:
-      "Hire freelance software developers in Pune for SaaS MVPs, supplier systems, AI agents, dashboards and Android and iOS apps. Apps from ₹40,000, quote in 2 days.",
+      "Freelance software developers in Pune for SaaS MVPs, supplier systems, AI agents, plus dashboards and Android and iOS apps. From ₹10,000, quote in two days.",
     keywords: [
       "software development team in Pune",
       "IT services team in Pune",
@@ -28,6 +28,17 @@ const content: CityContent = {
       "IT support near me Pune",
       "पुणे सॉफ्टवेअर डेव्हलपर",
       "Pune mein app banwana",
+      "Pune website designer",
+      "website cost in Pune",
+      "IT company in Pune",
+      "Maharashtra SEO services",
+      "hire developer Pune",
+      "saas software in Pune",
+      "auto component software in Pune",
+      "website developer Hinjewadi Pune",
+      "website developer Baner Pune",
+      "website developer Kharadi Pune",
+      "website development cost in Pune",
     ],
   },
   hero: {

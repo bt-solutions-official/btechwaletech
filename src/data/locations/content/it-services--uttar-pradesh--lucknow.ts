@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.8467, lng: 80.9462 },
   meta: {
-    title: "Freelance Software & AI Developers in Lucknow",
+    title: "Lucknow Software & AI Developers: Govt & Hospital Tools",
     description:
-      "Hire freelance software developers in Lucknow: custom software, AI agents, Android and iOS apps, hospital and institute systems, dashboards and SEO. From ₹10,000.",
+      "Hire freelance software developers in Lucknow: custom software, AI agents, Android and iOS apps, plus hospital and institute systems. From ₹10,000.",
     keywords: [
       "software development team in Lucknow",
       "IT services team in Lucknow",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "IT services near Hazratganj",
       "लखनऊ में सॉफ्टवेयर डेवलपर",
       "लखनऊ में ऐप बनवाना",
+      "Lucknow website designer",
+      "website cost in Lucknow",
+      "IT company in Lucknow",
+      "Uttar Pradesh SEO services",
+      "hire developer Lucknow",
+      "government software in Lucknow",
+      "hospitals software in Lucknow",
+      "coaching software in Lucknow",
+      "distributors software in Lucknow",
     ],
   },
   hero: {

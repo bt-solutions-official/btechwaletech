@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Web development for agencies",
   updated: "2026-09-24",
   meta: {
-    title: `Web Development for Agencies | Overflow Partner`,
-    description: `Web development for agencies that need overflow capacity: builds from Figma, SEO sites and stores from ${P.site}, delivered by three freelance developers in India.`,
+    title: `Web Development for Agencies: Overflow from ${P.site}`,
+    description: `Web development for agencies needing overflow capacity: builds from Figma, SEO sites and stores from ${P.site}, white-label. Estimate in 2 working days.`,
     keywords: [
       "web development for agencies", "web development for agencies in India", "web development partner for agencies near me", "overflow web developer for hire",
       "agency web development cost", "outsourced web development price for agencies", "best web development partner for agencies", "agency ke liye web developer",

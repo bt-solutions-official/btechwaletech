@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Elementor Pro build", note: "Visual editing for your team; adds a yearly Elementor Pro licence to your running costs.", href: "/hire-elementor-expert/", size: "md" },
       { name: "Custom plugin features", note: "Booking, calculators or CRM links coded once instead of stacking paid plugins.", href: "/custom-wordpress-plugin-development/", size: "sm" },
       { name: "Maintenance plan", note: `Staged updates, backups, security checks and small edits, from ${P.care} after two free months.`, href: "/wordpress-maintenance-services/", size: "sm" },
-      { name: "Monthly WordPress SEO", note: `Technical fixes, content and local SEO, from ${P.seo} a month.`, href: "/wordpress-seo-services/", size: "sm" },
+      { name: "Monthly WordPress SEO", note: `Technical fixes, content and local SEO, from ${P.seo}.`, href: "/wordpress-seo-services/", size: "sm" },
     ],
   },
   comparison: {

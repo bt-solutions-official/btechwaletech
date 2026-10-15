@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-27",
   meta: {
     title: "Digital Marketing services in Bhiwadi: Meet One to One",
-    description: `Digital marketing services in Bhiwadi? Organic-led SEO, Google Business Profile, WhatsApp and tracking from ${P.seo} a month. We meet you one to one in Bhiwadi.`,
+    description: `Digital marketing services in Bhiwadi? Organic-led SEO, Google Business Profile, WhatsApp and tracking from ${P.seo}. We meet you one to one in Bhiwadi.`,
     keywords: [
       "digital marketing services in Bhiwadi", "digital marketing Bhiwadi", "digital marketing near me", "digital marketing in Bhiwadi Rajasthan",
       "digital marketing agency Bhiwadi", "digital marketing services Bhiwadi", "online marketing Bhiwadi", "digital marketing Bhiwadi Alwar",

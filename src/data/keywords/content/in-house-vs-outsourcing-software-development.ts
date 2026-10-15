@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "In house vs outsourcing software development",
   updated: "2026-09-25",
   meta: {
-    title: `In House vs Outsourcing Software Development for SMEs`,
+    title: "In House vs Outsourcing Software Development: Cost",
     description: `In house vs outsourcing software development for Indian SMEs: salary and overhead vs project cost, hiring time, IP control. Software from ${P.software}.`,
     keywords: [
       "in house vs outsourcing software development", "in-house vs outsourced software development", "in house developer vs outsourcing",

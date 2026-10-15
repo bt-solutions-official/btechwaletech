@@ -7,7 +7,7 @@ const arakkonam: CityContent = {
   meta: {
     title: "IT Services in Arakkonam: Web, Apps, SEO & AI",
     description:
-      "Tamil and English websites, Android and iOS apps, local SEO and WhatsApp automation for Arakkonam shops, schools, clinics, rental owners and railway-town trades.",
+      "Arakkonam Tamil and English websites, Android and iOS apps, local SEO and WhatsApp automation for shops, schools, clinics and rental owners. From ₹10,000.",
     keywords: [
       "IT services in Arakkonam",
       "IT services team in Arakkonam",
@@ -29,6 +29,10 @@ const arakkonam: CityContent = {
       "Arakkonam-la website design",
       "Arakkonam app development Tamil",
       "அரக்கோணம் வெப்சைட் டிசைன்",
+      "Arakkonam website designer",
+      "web development company Arakkonam",
+      "hire freelance developer Arakkonam",
+      "Tamil Nadu SEO",
     ],
   },
   hero: {

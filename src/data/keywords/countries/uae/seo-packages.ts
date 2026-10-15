@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "seo kpis leads", "seo hours per month", "small business seo package dubai", "seo packages for startups uae",
       "best seo packages dubai", "seo packages near me", "seo pricing tiers", "technical seo package dubai",
       "seo package with reporting",
+      "hire seo packages in the UAE", "freelance seo packages UAE",
     ],
   },
   hero: {

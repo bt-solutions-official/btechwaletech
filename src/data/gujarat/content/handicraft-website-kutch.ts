@@ -135,7 +135,7 @@ const content: FreelanceContent = {
         `Showcase with craft pages and WhatsApp: from ${P.site}`,
         `SEO site with hundreds of craft and product pages: from ${P.seoSite}`,
         `Online store with UPI and card checkout: from ${P.shop}`,
-        `Ongoing search work, if wanted later: from ${P.seo} a month`,
+        `Ongoing search work, if wanted later: from ${P.seo}`,
       ],
       after: [
         `Domain, hosting and payment provider charges are paid by you directly, so those accounts stay in your name. A wider breakdown is on <a href='/gujarat/website-development-cost-gujarat/'>website development cost in Gujarat</a>.`,

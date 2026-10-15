@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "OSH Code contract labour compliance", "contract labour register software", "how to manage contract labour", "contract labour management software price",
       "custom contract labour software development", "contract labour app", "thekedar labour management app", "contract labour management software Mumbai",
       "contract labour management software Pune", "contract labour management software Chennai",
+      "contract labour management software company in India",
+      "best contract labour management software in India",
+      "contract labour management software services",
     ],
   },
   hero: {

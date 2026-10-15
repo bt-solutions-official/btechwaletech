@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "tiffin app for students and PG", "tiffin service app like a food subscription", "custom tiffin app vs ready-made",
       "tiffin service app developer near me", "tiffin service app Pune", "tiffin service app Noida", "tiffin service app Bengaluru",
       "tiffin service ka app banwana hai", "dabba wala app development", "how to start tiffin service online",
+      "tiffin service app development price", "tiffin service app development company", "best tiffin service app development in India", "tiffin service app development cost in India",
+      "tiffin service app development near me",
     ],
   },
   hero: {
@@ -402,7 +404,7 @@ const content: FreelanceContent = {
     { question: "Can the app show Jain, no onion-garlic and other diet options?", answer: "Yes. Dishes carry diet tags in the menu planner, customers set their preference once, and the kitchen count lists each variant separately so the right meal reaches the right person. Labels printed per customer carry the variant too, which prevents the most common packing mistakes." },
     { question: "Can I run a trial plan for new tiffin customers?", answer: "Yes. Short trial plans of a few days can be offered in the app, with a reminder before the trial ends and an automatic move to a full plan if the customer agrees. Referral codes that give both the existing customer and a friend a wallet credit also work well in hostels and offices." },
     { question: "Tiffin service ka app banwane mein kitna kharcha aayega?", answer: `BtechWaleTech ke saath customer aur rider app ${P.app} se shuru hote hain, aur kitchen panel ${P.software} se. Chhoti kitchen pehle WhatsApp bot ${P.ai} se shuru kar sakti hai. Final kharcha plans, wallet, corporate accounts aur routes par depend karta hai, customers ki ginti par nahi. Itemised quote lagbhag do working days mein milta hai.` },
-    { question: "What happens after the tiffin app launches?", answer: `You get two months of free maintenance covering fixes, small rule changes and updates for new Android and iOS versions. After that, maintenance continues from ${P.care} a month if you want it. Menus, prices, cut-offs and holidays are managed by your team from the panel, so day-to-day changes rarely need a developer.` },
+    { question: "What happens after the tiffin app launches?", answer: `You get two months of free maintenance covering fixes, small rule changes and updates for new Android and iOS versions. After that, maintenance continues from ${P.care} if you want it. Menus, prices, cut-offs and holidays are managed by your team from the panel, so day-to-day changes rarely need a developer.` },
     { question: "How do payments to BtechWaleTech work?", answer: "Payments are staged against milestones in your written quote. In India you pay by UPI or bank transfer; clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed until you approve the itemised estimate in writing. Your customers' payments go to your own payment provider account and never pass through us." },
   ],
   related: {

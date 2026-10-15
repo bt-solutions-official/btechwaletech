@@ -263,7 +263,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `It helps, though design alone does not rank a site. Search engines reward pages that load quickly, are easy to use on phones and explain one topic clearly, and all three are design decisions as much as technical ones.`,
         `Core Web Vitals, Google's measures of loading, responsiveness and layout stability, are shaped by design choices: huge hero images, sliders and web fonts loaded carelessly all hurt them. We size every image for the space it fills, keep layouts stable while fonts load and avoid heavy effects on phone screens. Headings follow a logical order so both people and crawlers understand the page. Photos get descriptive file names and alt text, following <a href='https://developers.google.com/search/docs/appearance/google-images' rel='noopener'>Google's image guidance</a>, which also helps them appear in image search.`,
-        `AI assistants and Google's AI Overviews tend to quote short, self-contained answers, specification tables and clear FAQs. A design that gives those blocks room, rather than hiding them in accordions nobody opens, makes your content easier to cite. For ongoing search work, see <a href='/bhiwadi-rajasthan/seo-services/'>SEO services in Bhiwadi</a>, from ${P.seo} a month. Nobody can honestly promise a ranking position, and we will not.`,
+        `AI assistants and Google's AI Overviews tend to quote short, self-contained answers, specification tables and clear FAQs. A design that gives those blocks room, rather than hiding them in accordions nobody opens, makes your content easier to cite. For ongoing search work, see <a href='/bhiwadi-rajasthan/seo-services/'>SEO services in Bhiwadi</a>, from ${P.seo}. Nobody can honestly promise a ranking position, and we will not.`,
       ],
     },
     {
@@ -404,6 +404,8 @@ const content: FreelanceContent = {
     heading: "Related Bhiwadi pages",
     links: [
       { name: "Bhiwadi services hub", href: "/bhiwadi-rajasthan/" },
+      { name: "Hotel website design in Bhiwadi", href: "/bhiwadi-rajasthan/hotel-website-design/" },
+      { name: "Hospital website design in Bhiwadi", href: "/bhiwadi-rajasthan/hospital-website-design/" },
       { name: "Website development services in Bhiwadi", href: "/bhiwadi-rajasthan/website-development/" },
       { name: "UI UX design", href: "/bhiwadi-rajasthan/ui-ux-design/" },
       { name: "Landing page design", href: "/bhiwadi-rajasthan/landing-page-design/" },

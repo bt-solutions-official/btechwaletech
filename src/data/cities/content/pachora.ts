@@ -7,7 +7,7 @@ const pachora: CityContent = {
   meta: {
     title: "IT Services in Pachora | Web, Apps & AI from ₹10,000",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Pachora ginning units, banana traders, krishi kendras, clinics and colleges.",
+      "Marathi websites, apps, local SEO and WhatsApp tools for Pachora ginning units, banana traders, krishi kendras, clinics and colleges. From ₹10,000.",
     keywords: [
       "IT services in Pachora",
       "IT services team in Pachora",
@@ -29,6 +29,12 @@ const pachora: CityContent = {
       "Pachora me website banwana",
       "Pachora madhe website banvaychi aahe",
       "पाचोरा वेबसाइट डिझाइन",
+      "Pachora website designer",
+      "web development company Pachora",
+      "hire freelance web developer Pachora",
+      "Jalgaon district SEO",
+      "website designer Jalgaon district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

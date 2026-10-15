@@ -5,9 +5,9 @@ const shirpurWarwade: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 21.3503, lng: 74.8786 },
   meta: {
-    title: "IT Services in Shirpur: Websites, Apps, SEO & AI",
+    title: "Shirpur Website Design: Ginning, Banana & Campus",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Shirpur-Warwade ginning units, banana growers, colleges, hostels, clinics and shops.",
+      "Shirpur-Warwade websites, Marathi SEO and apps for cotton ginners, oil mills, banana growers, campus hostels and coaching. Sites from ₹10,000.",
     keywords: [
       "IT services in Shirpur",
       "IT services team in Shirpur",
@@ -29,6 +29,16 @@ const shirpurWarwade: CityContent = {
       "Shirpur madhye website banvane",
       "शिरपूर वेबसाइट डिझाईन",
       "Khandesh local SEO",
+      "Shirpur-Warwade website designer",
+      "website cost in Shirpur-Warwade",
+      "web development company Shirpur-Warwade",
+      "hire freelance web developer Shirpur-Warwade",
+      "Dhule district SEO",
+      "website designer Dhule district",
+      "Maharashtra SEO services",
+      "Shirpur-Warwade me website kaise banwaye",
+      "Shirpur-Warwade website banwane ka kharcha",
+      "Shirpur-Warwade coaching classes website",
     ],
   },
   hero: {

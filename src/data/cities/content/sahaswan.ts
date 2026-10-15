@@ -7,7 +7,7 @@ const sahaswan: CityContent = {
   meta: {
     title: "IT Services in Sahaswan | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sahaswan traders, mentha and cane growers, clinics, schools and music teachers.",
+      "Hindi websites, apps, Maps SEO and WhatsApp automation for Sahaswan traders, mentha and cane growers, clinics, schools and music teachers. Sites from ₹10,000.",
     keywords: [
       "IT services in Sahaswan",
       "IT services team in Sahaswan",
@@ -29,6 +29,12 @@ const sahaswan: CityContent = {
       "Sahaswan me website banwana",
       "Sahaswan me app banwane ka kharcha",
       "सहसवान वेबसाइट डिज़ाइन",
+      "Sahaswan website designer",
+      "web development company Sahaswan",
+      "hire freelance web developer Sahaswan",
+      "Budaun district SEO",
+      "Uttar Pradesh SEO services",
+      "Sahaswan me website kaise banwaye",
     ],
   },
   hero: {

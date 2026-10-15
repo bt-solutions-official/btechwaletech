@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Dashboard developer",
   updated: "2026-09-24",
   meta: {
-    title: "Dashboard Developer for Business KPIs, Data & Tools",
+    title: `Dashboard Developer: KPIs, Power BI, from ${P.software}`,
     description: `Hire a freelance dashboard developer in India: KPI planning, Tally, Excel and CRM data, Power BI, Looker Studio or custom web dashboards from ${P.software}.`,
     keywords: [
       "dashboard developer", "dashboard developer India", "dashboard developer near me", "dashboard developer for hire",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "business dashboard development", "sales dashboard developer", "custom dashboard development", "Looker Studio dashboard developer",
       "Power BI dashboard freelancer", "Tally dashboard", "Excel to dashboard", "admin dashboard developer",
       "real-time dashboard developer", "MIS dashboard developer",
+      "hire dashboard developer",
     ],
   },
   hero: {

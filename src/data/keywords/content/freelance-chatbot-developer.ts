@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Freelance chatbot developer",
   updated: "2026-09-24",
   meta: {
-    title: `Freelance Chatbot Developer: Website & WhatsApp Bots`,
-    description: `Freelance chatbot developer in India for website and WhatsApp bots, rule-based or LLM-powered. Chatbots from ${P.ai}, with human handover and honest running costs.`,
+    title: `Freelance Chatbot Developer: Bots from ${P.ai}`,
+    description: `Freelance chatbot developer in India for website and WhatsApp bots, rule-based or LLM, with human handover. Chatbots from ${P.ai}, quote in 2 days.`,
     keywords: [
       "freelance chatbot developer", "freelance chatbot developer India", "chatbot developer near me", "chatbot developer for hire",
       "chatbot development cost", "chatbot development price India", "best freelance chatbot developer", "chatbot banwana hai",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "WhatsApp chatbot freelancer", "LLM chatbot developer", "rule-based chatbot", "RAG chatbot developer",
       "customer support chatbot", "lead generation chatbot", "Hindi chatbot developer", "hire chatbot developer",
       "GPT chatbot for website", "chatbot freelancer India",
+      "hire freelance chatbot developer",
     ],
   },
   hero: {

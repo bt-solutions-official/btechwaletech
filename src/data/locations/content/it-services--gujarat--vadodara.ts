@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 22.3072, lng: 73.1812 },
   meta: {
-    title: "Freelance Software Developers in Vadodara (Baroda)",
+    title: "Vadodara (Baroda) Software Developers: Power & Chemicals",
     description:
-      "Freelance software developers in Vadodara for engineering project tools, EHS systems, dashboards, lead CRMs, Android and iOS apps and AI automation. From ₹10,000.",
+      "Freelance software developers in Vadodara for engineering project tools, EHS systems, dashboards and lead CRMs. Software from ₹60,000, quote in two days.",
     keywords: [
       "software development team in Vadodara",
       "IT services team in Vadodara",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "software developer near me Alkapuri",
       "Baroda ma software developer",
       "વડોદરામાં સોફ્ટવેર ડેવલપર",
+      "Vadodara website designer",
+      "website cost in Vadodara",
+      "IT company in Vadodara",
+      "Gujarat SEO services",
+      "hire developer Vadodara",
+      "power software in Vadodara",
+      "chemicals software in Vadodara",
+      "rail software in Vadodara",
+      "heavy fabrication software in Vadodara",
     ],
   },
   hero: {

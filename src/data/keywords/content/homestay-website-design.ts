@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "homestay website Kerala", "homestay website Goa", "homestay website Himachal", "homestay website Coorg",
       "homestay calendar sync Airbnb Booking.com", "homestay ki website kaise banaye", "homestay website price",
       "guest house website design", "homestay SEO", "direct booking vs OTA",
+      "homestay website design company in India",
+      "best homestay website design in India",
+      "homestay website design services",
     ],
   },
   hero: {
@@ -60,7 +63,7 @@ const content: FreelanceContent = {
       { label: "Platform sync", value: "iCal import and export; channel manager if you already use one" },
       { label: "Deposits", value: "UPI and card, paid into your own merchant account" },
       { label: "Ownership", value: "Domain, hosting, code and guest data in your name" },
-      { label: "Care after launch", value: `2 months free, then from ${P.care} a month` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {

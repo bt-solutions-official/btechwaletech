@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Website Maintenance Charges in India from ${P.care}`,
-    description: `Website maintenance charges in India explained: monthly plans from ${P.care}, yearly AMC vs monthly, cost by site type, and which renewals are billed separately.`,
+    description: `Website maintenance charges in India explained: monthly plans from ${P.care}, yearly AMC against monthly, cost by site type, renewals billed apart.`,
     keywords: [
       "website maintenance charges", "website maintenance charges in India", "website maintenance cost per month", "website maintenance cost per year",
       "website AMC charges", "annual maintenance contract for website", "website maintenance price list", "website maintenance package India",

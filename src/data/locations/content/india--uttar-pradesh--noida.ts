@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.5355, lng: 77.391 },
   meta: {
-    title: "IT Consulting in Noida: Freelance IT Solutions Team",
+    title: "Noida IT Consulting: Startups & Apparel Exporters",
     description:
-      "IT consulting and digital transformation in Noida by a freelance team of three engineers: product builds, apps, AI agents, cloud, data and SEO. Itemised quotes.",
+      "IT consulting and digital transformation in Noida by a freelance team of three engineers: product builds, apps, AI agents and cloud. Itemised quotes.",
     keywords: [
       "IT solutions team in Noida",
       "IT consulting Noida",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "SEO and AI search Noida",
       "नोएडा में आईटी कंसल्टिंग",
       "नोएडा आईटी सॉल्यूशंस",
+      "Noida website designer",
+      "website cost in Noida",
+      "IT company in Noida",
+      "Uttar Pradesh SEO services",
+      "hire developer Noida",
+      "startups software in Noida",
+      "apparel exporters software in Noida",
+      "electronics software in Noida",
     ],
   },
   hero: {

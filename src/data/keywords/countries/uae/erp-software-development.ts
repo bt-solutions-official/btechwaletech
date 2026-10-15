@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "erp for free zone company", "multi-company erp uae", "purchase approval software dubai", "erp software abu dhabi",
       "erp software sharjah", "erp development company near me", "lightweight erp for sme", "how long does erp implementation take",
       "which erp is best for small business in uae", "erp software development company in dubai",
+      "hire erp software development in the UAE", "freelance erp software development UAE",
     ],
   },
   hero: {

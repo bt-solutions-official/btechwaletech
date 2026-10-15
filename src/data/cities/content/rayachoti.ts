@@ -7,7 +7,7 @@ const rayachoti: CityContent = {
   meta: {
     title: "IT Services in Rayachoti | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu and Urdu websites, Android and iOS apps, local SEO and WhatsApp automation for Rayachoti traders, farm dealers, hospitals, colleges and highway businesses.",
+      "Telugu and Urdu websites, apps, SEO and WhatsApp tools for Rayachoti traders, farm dealers, hospitals, colleges and highway businesses. Sites from ₹10,000.",
     keywords: [
       "IT services in Rayachoti",
       "IT services team in Rayachoti",
@@ -29,6 +29,12 @@ const rayachoti: CityContent = {
       "Rayachoti me website banwana",
       "Rayachoti lo website cheyinchukovali",
       "రాయచోటి వెబ్‌సైట్ డిజైన్",
+      "Rayachoti website designer",
+      "web development company Rayachoti",
+      "hire freelance web developer Rayachoti",
+      "Annamayya district SEO",
+      "website designer Annamayya district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

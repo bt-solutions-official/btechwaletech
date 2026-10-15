@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "whatsapp opt in rules", "whatsapp marketing saudi arabia", "whatsapp automation riyadh", "whatsapp automation jeddah",
       "whatsapp automation dammam", "whatsapp business app vs api", "whatsapp cloud api developer", "whatsapp shared inbox for team",
       "abandoned cart whatsapp saudi", "whatsapp automation developer india",
+      "hire whatsapp automation in Saudi Arabia", "freelance whatsapp automation Saudi Arabia",
     ],
   },
   hero: {

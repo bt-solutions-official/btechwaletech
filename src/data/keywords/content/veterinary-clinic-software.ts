@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Veterinary Clinic Software for Pets & Farms, ${P.software}+`,
-    description: `Veterinary clinic software for Indian vets: pet and livestock records, vaccine reminders on WhatsApp, farm visits, boarding and drug stock. Own it from ${P.software}.`,
+    description: `Veterinary clinic software for Indian vets: pet and livestock records, WhatsApp vaccine reminders, farm visits, boarding, drug stock. From ${P.software}.`,
     keywords: [
       "veterinary clinic software", "veterinary clinic software India", "vet clinic software", "veterinary practice management software", "pet clinic software",
       "veterinary hospital management software", "vet software for dairy farmers", "livestock treatment record app", "pet vaccination reminder software", "veterinary billing software",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "veterinary clinic software cost", "vet software price in India", "best veterinary clinic software for small clinic", "how to choose veterinary clinic software",
       "custom veterinary software", "field vet app offline", "vet clinic software Bengaluru", "veterinary software Pune", "pashu clinic software",
       "janwar hospital software", "vet clinic software near me",
+      "veterinary clinic software price", "veterinary clinic software company", "best veterinary clinic software in India", "veterinary clinic software cost in India",
+      "veterinary clinic software near me",
     ],
   },
   hero: {
@@ -334,7 +336,7 @@ const content: FreelanceContent = {
         ["Field vet app", "Offline Android app, route list, vehicle stock, UPI request", `${P.app} (${P.appUsd})`, "6–10 weeks, alongside the core"],
         ["WhatsApp reminders", "Due-date nudges, bills, visit summaries on the official platform", `${P.ai} (${P.aiUsd})`, "2–4 weeks"],
         ["Clinic website", "Service pages, species list, booking form into the software", `${P.site} (${P.siteUsd})`, "1–2 weeks"],
-        ["Monthly local SEO", "Google Business Profile, service pages, citations", `${P.seo} per month`, "Ongoing"],
+        ["Monthly local SEO", "Google Business Profile, service pages, citations", `${P.seo}`, "Ongoing"],
         ["Maintenance", "Fixes, updates, backups after the free period", `${P.care} (${P.careUsd})`, "After 2 free months"],
       ],
       hideSm: [3],

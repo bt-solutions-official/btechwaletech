@@ -7,7 +7,7 @@ const barnala: CityContent = {
   meta: {
     title: "IT Services in Barnala: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, UPI stores and WhatsApp bots for Barnala harvester makers, grain market arhtiyas, clinics and Sadar Bazar shops. From ₹10,000, 2 months upkeep free.",
+      "Barnala websites, SEO, UPI stores and WhatsApp bots for harvester makers, grain market arhtiyas and Sadar Bazar shops. From ₹10,000, 2 months free upkeep.",
     keywords: [
       "website development team in Barnala",
       "web designer Barnala",
@@ -25,6 +25,14 @@ const barnala: CityContent = {
       "website maintenance Barnala",
       "Barnala vich website banvauni hai",
       "ਬਰਨਾਲਾ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Barnala website designer",
+      "website cost in Barnala",
+      "web development company Barnala",
+      "hire freelance developer Barnala",
+      "Punjab SEO",
+      "website for combine harvester and implement makers in Barnala",
+      "web designer in Sadar Bazar, Barnala",
+      "website for agri machinery spares and workshops in Barnala",
     ],
   },
   hero: {

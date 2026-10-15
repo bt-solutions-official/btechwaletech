@@ -7,7 +7,7 @@ const hindupur: CityContent = {
   meta: {
     title: "Hindupur Website & SEO Services | Sites from ₹10,000",
     description:
-      "Websites, Telugu and Urdu SEO, garment stores and WhatsApp workflows for Hindupur silk, tamarind and textile traders and industrial suppliers. From ₹10,000.",
+      "Hindupur websites, Telugu and Urdu SEO, garment stores and WhatsApp workflows for silk, tamarind and textile traders and industrial suppliers. From ₹10,000.",
     keywords: [
       "website development team in Hindupur",
       "web designer Hindupur",
@@ -25,6 +25,14 @@ const hindupur: CityContent = {
       "ecommerce website Hindupur",
       "Hindupur lo website",
       "website maintenance Hindupur",
+      "Hindupur website designer",
+      "website cost in Hindupur",
+      "web development company Hindupur",
+      "hire freelance developer Hindupur",
+      "Sri Sathya Sai district SEO",
+      "website for garments and sarees in Hindupur",
+      "web designer in Mukkidipeta, Hindupur",
+      "website for silk cocoon and reeling in Hindupur",
     ],
   },
   hero: {

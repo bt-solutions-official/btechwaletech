@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "salon staff calendar app", "custom salon booking system", "salon booking app developer near me",
       "salon booking app dammam", "salon booking app al khobar", "nail salon booking app",
       "bridal makeup booking app saudi", "flutter salon booking app",
+      "hire salon booking app development in Saudi Arabia", "freelance salon booking app development Saudi Arabia",
     ],
   },
   hero: {

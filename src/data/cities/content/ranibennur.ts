@@ -7,7 +7,7 @@ const ranibennur: CityContent = {
   meta: {
     title: "IT Services in Ranibennur: Web, Apps, SEO & AI",
     description:
-      "Websites, apps, SEO and AI automation for Ranibennur and Haveri district seed growers, cotton buyers, cloth wholesalers and livestock traders. Websites from ₹10,000.",
+      "Websites, apps, SEO and AI automation for Ranibennur and Haveri district seed growers, cotton buyers, cloth wholesalers and livestock traders. From ₹10,000.",
     keywords: [
       "IT services Ranibennur",
       "software team Ranibennur",
@@ -25,6 +25,16 @@ const ranibennur: CityContent = {
       "ecommerce with UPI Ranibennur",
       "Ranibennur software maadi kodtira",
       "ರಾಣಿಬೆನ್ನೂರು ಸಾಫ್ಟ್‌ವೇರ್ ಸೇವೆ",
+      "Ranibennur website designer",
+      "website cost in Ranibennur",
+      "web development company Ranibennur",
+      "hire freelance web developer Ranibennur",
+      "Haveri district SEO",
+      "website designer Haveri district",
+      "Karnataka SEO services",
+      "Ranibennur seed multiplication firms website",
+      "seed multiplication firms website design Ranibennur",
+      "Ranibennur cloth wholesalers website",
     ],
   },
   hero: {

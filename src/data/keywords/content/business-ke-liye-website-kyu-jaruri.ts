@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Business ke Liye Website Kyu Jaruri Hai? ${P.site} se`,
-    description: `Business ke liye website kyu jaruri hai jab Instagram aur Google profile already hai? Trust, Google leads aur WhatsApp enquiries ka hisaab. Website ${P.site} se.`,
+    description: `Business ke liye website kyu jaruri hai jab Instagram aur Google profile hai? Trust, Google leads aur WhatsApp enquiries ka hisaab. Website ${P.site} se.`,
     keywords: [
       "business ke liye website kyu jaruri hai", "business ke liye website kyu jaruri", "website kyu jaruri hai",
       "business ke liye website kyon zaroori hai", "website ke fayde business ke liye", "dukan ke liye website kyu chahiye",

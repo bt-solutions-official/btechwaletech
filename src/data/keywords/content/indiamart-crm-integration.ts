@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "IndiaMART CRM integration",
   updated: "2026-09-25",
   meta: {
-    title: `IndiaMART CRM Integration: Leads in Minutes`,
-    description: `IndiaMART CRM integration that pulls every enquiry into your CRM or Google Sheet, removes duplicates, assigns sales staff and sends a WhatsApp reply. From ${P.ai}.`,
+    title: `IndiaMART CRM Integration: Leads in Minutes, ${P.ai}+`,
+    description: `IndiaMART CRM integration pulls every enquiry into your CRM or Google Sheet, removes duplicates, assigns staff and sends a WhatsApp reply. From ${P.ai}.`,
     keywords: [
       "indiamart crm integration", "indiamart api integration", "indiamart lead manager api", "indiamart pull api",
       "indiamart crm key", "how to generate indiamart crm key", "indiamart leads to google sheet", "indiamart to zoho crm",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "indiamart buylead to crm", "indiamart lead tracking", "indiamart roi report", "indiamart integration developer",
       "indiamart crm integration near me", "indiamart leads excel me kaise laye", "indiamart integration Delhi",
       "indiamart integration Ahmedabad", "indiamart integration for manufacturers", "does indiamart have an api", "indiamart 429 error",
+      "indiamart crm integration company in India",
+      "best indiamart crm integration in India",
+      "indiamart crm integration services",
     ],
   },
   hero: {

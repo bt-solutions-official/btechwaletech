@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Crawled currently not indexed",
   updated: "2026-09-25",
   meta: {
-    title: "Crawled Currently Not Indexed: Causes and Real Fixes",
+    title: "Crawled Currently Not Indexed: Fixes That Work (2026)",
     description: `Crawled currently not indexed in Search Console? Find the cause by URL pattern, fix thin, duplicate and orphan pages, then validate. SEO help from ${P.seo}.`,
     keywords: [
       "crawled currently not indexed", "crawled - currently not indexed", "crawled currently not indexed fix", "how to fix crawled currently not indexed",

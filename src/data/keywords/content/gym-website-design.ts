@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Gym Website Design: Member-Winning Sites from ${P.site}`,
-    description: `Gym website design in India from ${P.site}: plan pages, free-trial booking, class timetables, UPI renewals and WhatsApp reminders that turn visitors into members.`,
+    description: `Gym website design from ${P.site}: plan pages, free-trial booking, class timetables and UPI renewals that turn visitors into members. Quote in 2 days.`,
     keywords: [
       "gym website design", "gym website design India", "fitness centre website design", "gym website", "website for gym",
       "gym website cost", "gym website design price India", "gym website with online payment", "gym free trial booking website",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "personal trainer website design", "gym membership renewal reminder", "gym website Bengaluru", "gym website Gurgaon",
       "gym website Hyderabad", "gym ki website kaise banaye", "gym website UPI payment", "gym transformation page",
       "women only gym website",
+      "gym website design company in India",
+      "best gym website design in India",
+      "gym website design services",
     ],
   },
   hero: {
@@ -60,7 +63,7 @@ const content: FreelanceContent = {
       { label: "Online joining", value: "Plan checkout by UPI or card, receipt by email and WhatsApp" },
       { label: "Renewals", value: `WhatsApp and SMS reminder flows from ${P.ai}` },
       { label: "Member app", value: `Optional, Android and iOS from ${P.app}` },
-      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -278,7 +281,7 @@ const content: FreelanceContent = {
       heading: "Who owns the gym website, member data and payment account?",
       paragraphs: [
         `The gym owns all of it: domain, hosting, code, member list, trial records, the WhatsApp number and the payment merchant account. We set these up in the gym’s name on a short screen-share, or you create them and add us as users.`,
-        `At handover you get the code repository, admin logins, a list of paid services with renewal dates and a one-page guide to editing plans, timings and trainers. For two months after launch, small edits and fixes are free. After that, maintenance is optional from ${P.care} a month, or your own staff or another developer can take over.`,
+        `At handover you get the code repository, admin logins, a list of paid services with renewal dates and a one-page guide to editing plans, timings and trainers. For two months after launch, small edits and fixes are free. After that, maintenance is optional from ${P.care}, or your own staff or another developer can take over.`,
         `This matters more for gyms than for most businesses, because gyms change hands, bring in partners and sign franchise deals. When the website and member data sit in the business’s own accounts, a sale or a partner exit does not turn into a fight over logins.`,
       ],
     },
@@ -405,7 +408,7 @@ const content: FreelanceContent = {
     { question: "Should I choose a freelancer or an agency for my gym website?", answer: "A small freelance team suits a gym owner who wants to talk directly with the people building the site and has a clear scope: plans, trials, timetable, payments. A large agency makes sense when you also want ad campaigns, video shoots and brand work at once. For most single gyms and small chains, a focused freelance build is enough." },
     { question: "Can a remote team build my gym website without visiting?", answer: "Yes. Gym website design needs good photos, accurate plans and a clear brief, not a designer in your gym. We work over Google Meet and WhatsApp, share staging links you check on your phone, and guide you or a local photographer on which shots to take. Payment tests are done with small real transactions." },
     { question: "Who owns my gym website and member data?", answer: "The gym does. Domain, hosting, code, member records, trial lists, the payment merchant account and the WhatsApp number are all set up in the gym’s name. At launch you receive the repository, logins and a list of paid services with renewal dates, so another developer could take over without asking us for anything." },
-    { question: "What happens after my gym website is live?", answer: `Small edits, fixes and updates are free for two months after launch: new batches, a new trainer, changed plan prices. After that, maintenance is optional from ${P.care} a month. Your staff can also update the timetable, plans and trainer profiles themselves through the admin screen we set up.` },
+    { question: "What happens after my gym website is live?", answer: `Small edits, fixes and updates are free for two months after launch: new batches, a new trainer, changed plan prices. After that, maintenance is optional from ${P.care}. Your staff can also update the timetable, plans and trainer profiles themselves through the admin screen we set up.` },
     { question: "Will my gym rank first for “gym near me”?", answer: `Nobody can honestly promise that. Map results depend on distance, your Business Profile, reviews and competition nearby. We build the technical base correctly, add ExerciseGym structured data, link your profile and set up Search Console so you can track progress. Monthly local SEO starts at ${P.seo} if you want steady work on it.` },
     { question: "Does my gym need a mobile app or is a website enough?", answer: `For most single gyms a fast website with trial booking, online renewal and WhatsApp reminders is enough. An Android and iOS app makes sense when you sell online coaching, diet plans or class credits and members open it several times a week. We build apps from ${P.app} and publish them in the gym’s own store accounts.` },
     { question: "Can you connect the website to my existing gym software?", answer: `Often, yes, if your software offers an API or data export. We can sync trial leads and online payments into it, or read plan expiry dates for reminders. If your current tool has no way in, a custom gym management build from ${P.software} is an option, but only when the old tool is truly holding you back.` },

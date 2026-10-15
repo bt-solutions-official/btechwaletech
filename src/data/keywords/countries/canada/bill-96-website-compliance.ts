@@ -25,6 +25,8 @@ const content: FreelanceContent = {
       "bill 96 shopify store", "bill 96 wordpress site", "bill 96 website montreal", "bill 96 website quebec city", "bill 96 website laval",
       "bill 96 website gatineau", "ontario business selling to quebec french website", "article 52 charter french language website",
       "bill 96 website developer canada", "bill 96 requirements for online stores",
+      "hire bill 96 website requirements in Canada", "freelance bill 96 website requirements Canada", "bill 96 website requirements Toronto",
+      "bill 96 website requirements Vancouver",
     ],
   },
   hero: {

@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "crm microsoft 365 integration", "crm telephony integration", "crm hosted in germany", "crm aws frankfurt", "field sales crm app",
       "internal sales tool development", "custom crm development berlin", "custom crm development munich", "custom crm development hamburg",
       "custom crm development stuttgart", "is a custom crm worth it",
+      "hire custom crm development in Germany", "freelance custom crm development Germany",
     ],
   },
   hero: {

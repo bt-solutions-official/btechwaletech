@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Outsource web development to India",
   updated: "2026-09-24",
   meta: {
-    title: "Outsource Web Development to India: Risks & Controls",
+    title: `Outsource Web Development to India: Costs & Risks`,
     description: `Planning to outsource web development to India? A risk-and-controls guide for US, UK and Australian buyers, with sites from ${P.siteUsd} and code in your name.`,
     keywords: [
       "outsource web development to India", "outsourcing web development to India", "outsource website development India",

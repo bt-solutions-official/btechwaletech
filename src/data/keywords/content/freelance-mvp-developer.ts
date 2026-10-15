@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "startup MVP development", "MVP app developer", "web app MVP freelancer", "no-code vs custom MVP",
       "MVP development timeline", "MVP for non-technical founder", "SaaS MVP developer", "prototype developer for startup",
       "freelance MVP developer for startups", "MVP scope planning",
+      "hire freelance mvp developer",
     ],
   },
   hero: {

@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.5355, lng: 77.391 },
   meta: {
-    title: "Freelance Software Developers in Noida: Apps & AI",
+    title: "Noida Software Developers: Apps & AI",
     description:
-      "Hire freelance software developers in Noida for web apps, SaaS MVPs, AI agents, Android and iOS apps, dashboards and SEO. Web apps from ₹60,000, quotes in 2 days.",
+      "Hire freelance software developers in Noida for web apps, SaaS MVPs, AI agents, plus Android and iOS apps. Web apps from ₹60,000, quotes in 2 days.",
     keywords: [
       "software development team in Noida",
       "IT services team in Noida",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT services team near me Greater Noida",
       "नोएडा में सॉफ्टवेयर डेवलपर",
       "नोएडा में ऐप बनवाना",
+      "Noida website designer",
+      "website cost in Noida",
+      "IT company in Noida",
+      "Uttar Pradesh SEO services",
+      "hire developer Noida",
+      "saas software in Noida",
+      "garment exporters software in Noida",
+      "electronics software in Noida",
+      "real estate software in Noida",
+      "website developer Sector 62 Noida",
     ],
   },
   hero: {

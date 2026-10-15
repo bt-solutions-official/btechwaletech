@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-27",
   meta: {
     title: "Google Business Profile Setup in Bhiwadi, Face to Face",
-    description: `Google Business Profile setup in Bhiwadi: creation, verification, categories, service areas and unit photos, inside monthly SEO from ${P.seo}. We meet one to one.`,
+    description: `Google Business Profile setup in Bhiwadi: creation, verification, categories, service areas and photos, inside monthly SEO from ${P.seo}. We meet you first.`,
     keywords: [
       "Google Business Profile setup in Bhiwadi", "Google Business Profile Bhiwadi", "Google My Business setup Bhiwadi", "GMB listing Bhiwadi",
       "Google Business Profile near me Bhiwadi", "Google Business Profile setup in Bhiwadi Rajasthan", "Google Maps listing Bhiwadi Alwar",
@@ -382,6 +382,8 @@ const content: FreelanceContent = {
     heading: "Related services in Bhiwadi",
     links: [
       { name: "All services in Bhiwadi", href: "/bhiwadi-rajasthan/" },
+      { name: "Hotel website design in Bhiwadi", href: "/bhiwadi-rajasthan/hotel-website-design/" },
+      { name: "Hospital website design in Bhiwadi", href: "/bhiwadi-rajasthan/hospital-website-design/" },
       { name: "Local SEO in Bhiwadi", href: "/bhiwadi-rajasthan/local-seo/" },
       { name: "SEO services in Bhiwadi", href: "/bhiwadi-rajasthan/seo-services/" },
       { name: "SEO for manufacturers in Bhiwadi", href: "/bhiwadi-rajasthan/seo-for-manufacturers/" },

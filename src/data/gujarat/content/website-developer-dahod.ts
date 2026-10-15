@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Dahod · Vendor Sites from ${P.site}`,
-    description: `Website developer in Dahod for engineering shops, traders and clinics: capability sites in English, Hindi and Gujarati from ${P.site}, built remotely, owned by you.`,
+    description: `Website developer in Dahod for engineering shops, traders and clinics: capability sites in English, Hindi & Gujarati from ${P.site}, remote build, owned by you.`,
     keywords: [
       "website developer in Dahod", "website developer Dahod", "Dahod website developer", "website developer near me Dahod",
       "Dahod Gujarat website", "web developer Dahod", "web designer Dahod", "website design services Dahod",
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Clinic, hospital or school site", note: "Timings, departments, admissions or results, kept light for mobile data and easy for staff to update.", size: "md" },
       { name: "Online store", note: `Catalogue, UPI and card checkout, order alerts and GST-ready invoices, from ${P.shop}.`, href: "/gujarat/ecommerce-website-development-gujarat/", size: "sm" },
       { name: "Vendor or dealer portal", note: `Logins for repeat buyers or dealers to see orders and documents, from ${P.software}.`, href: "/gujarat/web-application-development-gujarat/", size: "sm" },
-      { name: "Care after launch", note: `Two months free, then optional care from ${P.care} a month.`, size: "sm" },
+      { name: "Care after launch", note: `Two months free, then optional care from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     { question: "Can buyers upload drawings through the website?", answer: "Yes. The quote form can accept drawing files with quantity, material and target date, and send them to an inbox your team checks daily. We set sensible file-size limits and spam protection. If drawings are confidential, buyers can also be invited to send them by email or WhatsApp after first contact." },
     { question: "Is a B2B marketplace listing enough for a Dahod business?", answer: "Listings can bring enquiries, and you need not drop them. But on a marketplace you sit next to competitors, with limited space to show machines and processes, and the profile belongs to the platform. A website is your own address, with full detail, which buyers use to verify you after they find you anywhere else." },
     { question: "Who owns the website and domain?", answer: "You do. The domain is registered in your business name with an email you control, hosting is in your account, and at handover you receive the code, every login and a written list of renewal dates. If you change developers later, they can take over without rebuilding anything, because nothing is held in our accounts." },
-    { question: "What is included in the two free months after launch?", answer: `Fixes if anything breaks, small text and photo edits, uptime and backup checks, and help reading early Search Console data. After two months, care is optional and starts at ${P.care} a month. Capability sites that rarely change may need very little; WordPress sites benefit from regular updates and backups, which care covers.` },
+    { question: "What is included in the two free months after launch?", answer: `Fixes if anything breaks, small text and photo edits, uptime and backup checks, and help reading early Search Console data. After two months, care is optional and starts at ${P.care}. Capability sites that rarely change may need very little; WordPress sites benefit from regular updates and backups, which care covers.` },
     { question: "Can you guarantee my Dahod website ranks first on Google?", answer: "No one can honestly promise that. We build for the factors that matter: pages per process or product, accurate local details, schema, fast mobile loading and a linked Business Profile. Rankings then depend on competition, reviews and your own activity. Treat any promise of a fixed top position as a warning sign." },
     { question: "Can I take payments on my website?", answer: `Yes. A trader can confirm orders on WhatsApp and share a UPI QR. A store selling across Gujarat and neighbouring states needs UPI and card checkout through a payment provider you register with, from ${P.shop}. The provider handles card data; your website never stores it. Invoice formats follow what your CA approves.` },
     { question: "How do I pay for the project?", answer: "In INR, by UPI or bank transfer, in stages tied to visible progress such as design approval on staging and launch. The stages are listed in your itemised quote. Nothing is billed until you approve the quote in writing, and you always see the draft on staging before the final payment." },

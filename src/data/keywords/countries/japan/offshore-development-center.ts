@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "offshore development japan india", "offshore development tokyo", "offshore development osaka", "offshore development nagoya",
       "offshore development fukuoka", "nda ip assignment offshore development", "monthly offshore team india", "is india good for offshore development",
       "odc vs outsourcing", "offshore development center meaning",
+      "hire offshore development center in in Japan", "freelance offshore development center in Japan",
     ],
   },
   hero: {
@@ -70,7 +71,7 @@ const content: FreelanceContent = {
       { name: "Mobile apps", note: `Flutter or React Native apps for iPhone and Android, published under your accounts, from ${P.app}.`, href: "/japan/outsource-app-development/", size: "lg" },
       { name: "AI automation and agents", note: `Document processing, internal chatbots and workflow automation, from ${P.ai}.`, size: "md" },
       { name: "AWS and data work", note: "Cloud setup, data pipelines and dashboards handled by another of us, with your company as the account owner.", size: "md" },
-      { name: "Maintenance of existing systems", note: `Bug fixes, dependency updates and small features on code you already run, from ${P.care} per month.`, size: "md" },
+      { name: "Maintenance of existing systems", note: `Bug fixes, dependency updates and small features on code you already run, from ${P.care}.`, size: "md" },
       { name: "MVP and prototypes", note: "Short, focused builds to test an idea before a larger internal team takes over.", href: "/japan/mvp-development-for-startups/", size: "sm" },
       { name: "LINE integrations", note: "LINE Messaging API bots and LINE MINI Apps that connect to your back office.", href: "/japan/line-chatbot-development/", size: "sm" },
       { name: "Websites and CMS", note: `Corporate and product sites from ${P.site}, maintained alongside your applications.`, href: "/japan/wordpress-developer/", size: "sm" },
@@ -173,7 +174,7 @@ const content: FreelanceContent = {
       heading: "How much does an offshore development center in India cost?",
       paragraphs: [
         `Costs vary widely with team size, seniority, contract model and how much management the vendor adds. Large vendors price seats per month with management layers; small teams price the work itself.`,
-        `With us, project work starts at ${P.software} for custom web applications, ${P.app} for Android and iOS apps, ${P.ai} for AI automation and ${P.site} for websites. Maintenance of an existing system starts at ${P.care} per month. A continuing lab-type arrangement is quoted after scoping, with the monthly amount and what it covers written into the proposal.`,
+        `With us, project work starts at ${P.software} for custom web applications, ${P.app} for Android and iOS apps, ${P.ai} for AI automation and ${P.site} for websites. Maintenance of an existing system starts at ${P.care}. A continuing lab-type arrangement is quoted after scoping, with the monthly amount and what it covers written into the proposal.`,
         `Hidden costs matter as much as the headline. Count the time your team spends explaining requirements, the cost of rework when specifications are unclear, the management time of a bridge layer, and exchange-rate movement. Our <a href='/japan/offshore-development-rates/'>offshore development rates</a> page looks at these in more detail for Japanese buyers.`,
       ],
     },
@@ -283,7 +284,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Plan the exit on day one. A good offshore development center in India leaves you able to continue without it, whether you grow an in-house team, move to a bigger vendor or pause development.`,
         `Because code, tickets, documentation and cloud accounts are yours from the start, ending the arrangement is mostly a knowledge-transfer exercise: a final walkthrough, updated READMEs and a list of open issues with context. Notice periods and final-invoice arrangements are whatever your written agreement says; we do not add lock-ins beyond it.`,
-        `If you need to grow beyond three people, we can document the system for a larger team to join. If you need less, the work can move to a smaller maintenance arrangement from ${P.care} per month.`,
+        `If you need to grow beyond three people, we can document the system for a larger team to join. If you need less, the work can move to a smaller maintenance arrangement from ${P.care}.`,
       ],
     },
   ],
@@ -386,7 +387,7 @@ const content: FreelanceContent = {
     { question: "How do you ensure code quality in an offshore team?", answer: "Every change is reviewed by a second developer, business logic gets automated tests, critical flows get end-to-end tests, and deployments run through your CI pipeline. Short READMEs, decision notes and runbooks keep knowledge in your repositories rather than in our heads." },
     { question: "What happens if a developer on the offshore team is unavailable?", answer: "With three developers who share the codebase, work can continue while one person is away, though at reduced pace. We tell you in advance about planned leave and adjust sprint plans. For work that truly needs round-the-clock cover, a larger vendor is more suitable." },
     { question: "Can the offshore team work with our in-house engineers in Japan?", answer: "Yes, and that is often the best setup. We follow your coding standards, review rules and CI, take tickets from the same board, and join standups during the JST afternoon. Your engineers keep ownership of architecture decisions, and we document what we build for them." },
-    { question: "How do we end or scale down an offshore arrangement?", answer: `Because code, documents and accounts are yours from the start, ending is mainly a knowledge-transfer task: final walkthroughs, updated documentation and a list of open issues. Notice terms are whatever your written agreement states. Scaling down to maintenance starts at ${P.care} per month.` },
+    { question: "How do we end or scale down an offshore arrangement?", answer: `Because code, documents and accounts are yours from the start, ending is mainly a knowledge-transfer task: final walkthroughs, updated documentation and a list of open issues. Notice terms are whatever your written agreement states. Scaling down to maintenance starts at ${P.care}.` },
     { question: "Can an offshore team build our mobile app?", answer: `Yes. We build Android and iOS apps with Flutter or React Native, published under your Google Play and App Store accounts, starting from ${P.app}. For a clearly defined app, a fixed-scope project is often better than lab-type work; our app outsourcing page explains that route.` },
     { question: "What does BtechWaleTech not do as an offshore team?", answer: "We do not provide teams larger than three developers, Japanese-language meetings, on-site staff, hardware or embedded development, or legal and tax advice. Being clear about that keeps expectations realistic and lets you choose a better-suited partner if you need those things." },
   ],

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Sidhpur: Export & Local Sites`,
-    description: `Website developer in Sidhpur for isabgol exporters, pilgrimage services and local shops. Business sites from ${P.site}, English-first export pages, built remotely.`,
+    description: `Website developer in Sidhpur for isabgol exporters, pilgrimage services and local shops. Sites from ${P.site}, English-first export pages, built remotely.`,
     keywords: [
       "website developer in Sidhpur", "website developer Sidhpur", "Siddhpur website developer", "website developer near me Sidhpur",
       "Sidhpur Gujarat website", "web developer Sidhpur Patan", "website designer Sidhpur", "website development services Sidhpur",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "dharamshala website Sidhpur", "website cost Sidhpur", "website price in Sidhpur", "Gujarati website Sidhpur",
       "B2B website psyllium", "Sidhpur me website kaise banaye", "website banwani hai Sidhpur", "website developer Unjha Sidhpur",
       "freelance web developer Sidhpur", "business website Siddhpur Gujarat",
+      "Sidhpur website design charges", "export enquiry form website Sidhpur", "pilgrimage services website Sidhpur", "Google Maps listing Sidhpur",
     ],
   },
   hero: {

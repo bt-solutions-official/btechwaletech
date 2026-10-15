@@ -7,7 +7,7 @@ const muzaffarpur: CityContent = {
   meta: {
     title: "Muzaffarpur Website & SEO Services | From ₹10,000",
     description:
-      "Websites, local SEO and WhatsApp automation for Muzaffarpur traders, litchi growers, bag makers, clinics and coaching. From ₹10,000, 2 months free maintenance.",
+      "Websites, local SEO and WhatsApp automation for Muzaffarpur traders, litchi growers, bag makers, clinics and coaching. Sites from ₹10,000, live in 1-2 weeks.",
     keywords: [
       "website development team in Muzaffarpur",
       "website designer Muzaffarpur",
@@ -24,6 +24,17 @@ const muzaffarpur: CityContent = {
       "website maintenance Muzaffarpur",
       "Muzaffarpur me website banwana",
       "मुजफ्फरपुर वेबसाइट डिजाइन",
+      "website cost in Muzaffarpur",
+      "web development company Muzaffarpur",
+      "hire freelance web developer Muzaffarpur",
+      "Bihar SEO services",
+      "Muzaffarpur me website kaise banwaye",
+      "Muzaffarpur website banwane ka kharcha",
+      "Muzaffarpur cloth wholesale website",
+      "cloth wholesale website design Muzaffarpur",
+      "Muzaffarpur bag manufacturing website",
+      "bag manufacturing website design Muzaffarpur",
+      "website design Sutapatti Muzaffarpur",
     ],
   },
   hero: {

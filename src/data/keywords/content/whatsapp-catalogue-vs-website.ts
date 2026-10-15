@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "WhatsApp catalogue vs website",
   updated: "2026-09-25",
   meta: {
-    title: "WhatsApp Catalogue vs Website: When to Upgrade",
+    title: `WhatsApp Catalogue vs Website: When to Upgrade, 2026`,
     description: `WhatsApp catalogue vs website: the 500-item limit, no Google visibility, manual UPI checks, and when a store (from ${P.shop}) starts paying for itself.`,
     keywords: [
       "whatsapp catalogue vs website", "whatsapp catalog vs website", "whatsapp catalogue vs online store", "can whatsapp catalogue replace website",

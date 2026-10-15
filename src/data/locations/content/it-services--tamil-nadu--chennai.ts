@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 13.0827, lng: 80.2707 },
   meta: {
-    title: "Freelance Software Developers in Chennai",
+    title: "Chennai Software Developers: SaaS, Auto & Engineering",
     description:
-      "Comparing software development companies in Chennai? Hire three freelance engineers for web apps, SaaS MVPs, AI agents, Android and iOS apps and dashboards.",
+      "Comparing software development companies in Chennai? Hire three freelance engineers for web apps, SaaS MVPs and AI agents. Itemised quote in two working days.",
     keywords: [
       "software development team in Chennai",
       "IT services team in Chennai",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "software developer near me OMR",
       "சென்னையில் மென்பொருள் உருவாக்கம்",
       "Chennai la software develop panna",
+      "Chennai website designer",
+      "website cost in Chennai",
+      "IT company in Chennai",
+      "Tamil Nadu SEO services",
+      "hire developer Chennai",
+      "saas software in Chennai",
+      "auto software in Chennai",
+      "engineering software in Chennai",
+      "hospitals software in Chennai",
+      "website developer Guindy Chennai",
     ],
   },
   hero: {

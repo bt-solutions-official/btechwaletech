@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Manavadar · Ginning Sites ${P.site}`,
-    description: `Website developer in Manavadar for cotton ginners, groundnut and grain traders and town shops. Profile sites from ${P.site}, remote build, Gujarati with your text.`,
+    description: `Website developer in Manavadar for cotton ginners, groundnut & grain traders & town shops. Profile sites from ${P.site}, remote build, Gujarati with your text.`,
     keywords: [
       "website developer in Manavadar", "website developer Manavadar", "website developer Manavadar Gujarat", "web developer Manavadar",
       "website designer Manavadar", "cotton ginning website Manavadar", "ginning factory website", "cotton bale supplier website",
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
     { question: "Manavadar me ginning ki website kitne mein banti hai?", answer: `BtechWaleTech ke saath Manavadar ki ginning unit ya trader ki profile website ${P.site} se shuru hoti hai, aur online store ${P.shop} se. Quote do working days mein, har line alag. Kaam WhatsApp, call aur preview link par hota hai, aur launch ke baad 2 mahine maintenance free milti hai.` },
     { question: "Should we build an app for our buyers?", answer: `Not at first. Mills and wholesalers will open a website link far more readily than install an app. If you later have many regular buyers checking dispatch or contracts, a portal or app from ${P.software} or ${P.app} can be added on top of the website. We will say plainly if it is not worth the cost yet.` },
     { question: "Can you build for businesses in Bantva and nearby villages?", answer: "Yes. The same remote process works for Bantva, Sardargadh, Kutiyana, Vanthali, Keshod, Upleta and every other place in Gujarat. Each site is planned around its own trade and buyers, so a village input dealer and a Manavadar ginner end up with very different pages even though the steps are identical." },
-    { question: "Do you also offer SEO after launch?", answer: `Yes, optionally, from ${P.seo} a month. It covers content updates, technical checks, local listings and reporting through Search Console. Many Manavadar businesses do not need it immediately; a well-built site plus an accurate Google Business Profile is often enough to start. We will tell you honestly if it is worth paying for.` },
+    { question: "Do you also offer SEO after launch?", answer: `Yes, optionally, from ${P.seo}. It covers content updates, technical checks, local listings and reporting through Search Console. Many Manavadar businesses do not need it immediately; a well-built site plus an accurate Google Business Profile is often enough to start. We will tell you honestly if it is worth paying for.` },
   ],
   related: {
     heading: "More guides for Manavadar and nearby towns",

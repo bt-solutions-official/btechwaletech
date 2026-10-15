@@ -7,7 +7,7 @@ const munger: CityContent = {
   meta: {
     title: "Munger Website Design, Local SEO & Automation",
     description:
-      "Websites, Hindi and English SEO, online stores and WhatsApp automation for Munger and Jamalpur shops, clinics, coaching centres and yoga visitors. From ₹10,000.",
+      "Websites, online stores and WhatsApp tools for Munger and Jamalpur shops, clinics, coaching and yoga visitors. From ₹10,000, with the domain in your name.",
     keywords: [
       "website development team in Munger",
       "web designer Munger",
@@ -24,6 +24,17 @@ const munger: CityContent = {
       "freelance web developer Munger",
       "Munger mein website banwana",
       "मुंगेर वेबसाइट डिजाइन",
+      "Munger website designer",
+      "web development company Munger",
+      "hire freelance web developer Munger",
+      "Jamalpur SEO services",
+      "Bihar SEO services",
+      "Munger me website kaise banwaye",
+      "Munger website banwane ka kharcha",
+      "Munger wedding services website",
+      "wedding services website design Munger",
+      "website design Kashtaharni Ghat Munger",
+      "website design Chandika Sthan Munger",
     ],
   },
   hero: {

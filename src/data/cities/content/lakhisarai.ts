@@ -7,7 +7,7 @@ const lakhisarai: CityContent = {
   meta: {
     title: "Lakhisarai Website Design, SEO and WhatsApp Tools",
     description:
-      "Websites, Hindi local SEO and WhatsApp tools for Lakhisarai coaching centres, clinics, traders, builders and Ashok Dham area shops. Sites from ₹10,000, code yours.",
+      "Lakhisarai websites, Hindi local SEO and WhatsApp tools for coaching centres, clinics, traders and Ashok Dham shops. Sites from ₹10,000, code yours.",
     keywords: [
       "website development team in Lakhisarai",
       "website designer Lakhisarai",
@@ -24,6 +24,15 @@ const lakhisarai: CityContent = {
       "software developer Lakhisarai",
       "website maintenance Lakhisarai",
       "Kiul Barahiya website developer",
+      "Lakhisarai website designer",
+      "website cost in Lakhisarai",
+      "web development company Lakhisarai",
+      "hire freelance developer Lakhisarai",
+      "Bihar SEO",
+      "Lakhisarai me website kaise banwaye",
+      "website for coaching institutes and schools in Lakhisarai",
+      "web designer in Naya Bazar, Lakhisarai",
+      "website for clinics, labs and pharmacies in Lakhisarai",
     ],
   },
   hero: {

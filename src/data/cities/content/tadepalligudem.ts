@@ -7,7 +7,7 @@ const tadepalligudem: CityContent = {
   meta: {
     title: "Tadepalligudem Web Development & SEO | From ₹10,000",
     description:
-      "Telugu and English websites, SEO, stores and WhatsApp automation for Tadepalligudem rice mills, aqua dealers, colleges, transporters, clinics and shops.",
+      "Telugu and English websites, SEO and stores for Tadepalligudem rice mills, aqua dealers, colleges, transporters, clinics and shops. From ₹10,000.",
     keywords: [
       "website development team in Tadepalligudem",
       "web designer Tadepalligudem",
@@ -25,6 +25,16 @@ const tadepalligudem: CityContent = {
       "ecommerce website Tadepalligudem",
       "Tadepalligudem lo website",
       "website maintenance Tadepalligudem",
+      "Tadepalligudem website designer",
+      "web development company Tadepalligudem",
+      "hire freelance web developer Tadepalligudem",
+      "West Godavari SEO services",
+      "website designer West Godavari",
+      "Andhra Pradesh SEO services",
+      "Tadepalligudem lorry transport offices website",
+      "lorry transport offices website design Tadepalligudem",
+      "website design Pedatadepalli Tadepalligudem",
+      "website design Tadepalli village Tadepalligudem",
     ],
   },
   hero: {

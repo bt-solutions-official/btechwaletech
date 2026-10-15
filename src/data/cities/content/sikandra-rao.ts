@@ -7,7 +7,7 @@ const sikandraRao: CityContent = {
   meta: {
     title: "IT Services in Sikandra Rao: Web, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, Google listings and WhatsApp automation for Sikandra Rao cold stores, mandi traders, input dealers, shops, schools and clinics.",
+      "Hindi websites, apps and WhatsApp tools for Sikandra Rao cold stores, mandi traders, input dealers, shops, schools and clinics. Websites from ₹10,000.",
     keywords: [
       "IT services in Sikandra Rao",
       "IT company in Sikandra Rao",
@@ -29,6 +29,12 @@ const sikandraRao: CityContent = {
       "website banane wale Hathras",
       "aloo mandi billing software",
       "सिकंदराराऊ वेबसाइट डिजाइन",
+      "Sikandra Rao website designer",
+      "web development company Sikandra Rao",
+      "hire freelance web developer Sikandra Rao",
+      "Hathras district SEO",
+      "website designer Hathras district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

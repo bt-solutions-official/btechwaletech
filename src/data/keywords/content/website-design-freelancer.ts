@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Website design freelancer",
   updated: "2026-09-24",
   meta: {
-    title: "Website Design Freelancer vs Builder vs Agency",
+    title: `Website Design Freelancer vs Agency: Cost from ${P.site}`,
     description: `Website design freelancer, DIY builder or agency? Compare cost, ownership, speed and SEO side by side. Custom designed sites from ${P.site}, quoted in 2 days.`,
     keywords: [
       "website design freelancer", "website design freelancer in India", "website design freelancer near me", "website design freelancer for hire",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "Wix vs hiring a web designer", "website builder or web designer", "custom website design freelancer", "freelance website design India",
       "website design karwana hai", "independent website designer", "small business website design freelancer", "should I hire a web designer or use a builder",
       "website design outsourcing India", "affordable website design freelancer",
+      "hire website design freelancer", "freelance website design freelancer", "best website design freelancer in India", "website design freelancer charges",
     ],
   },
   hero: {
@@ -419,7 +420,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a website design freelancer?", answer: "With BtechWaleTech, clients in India pay by UPI or bank transfer, and clients abroad by Wise, bank wire or PayPal. Payments are staged against milestones you can see, such as approved designs and launch. Nothing is billed before you approve the itemised quote in writing." },
     { question: "Do freelancers design online stores as well as websites?", answer: `Yes. We design and build stores with category and product pages, a phone-friendly cart and UPI and card checkout, starting from ${P.shop} with 4–8 weeks of work. For smaller catalogues, a static site with WhatsApp ordering can be a good first step before a full store.` },
     { question: "What if I am not happy with the design?", answer: "Structure is agreed first on wireframes, so large surprises are rare. Revision rounds are written into the quote, and payments follow approved milestones. If the project still has to stop, cancellation and refund terms are set out in our refund policy page and in your written quote, so read them before starting with any freelancer." },
-    { question: "Does a website design freelancer also look after the site later?", answer: `Many do. Our team includes two months of free maintenance after launch for edits, fixes and updates. After that, maintenance starts from ${P.care} a month if you want it. Because you own the code and accounts, you can also hand upkeep to anyone else.` },
+    { question: "Does a website design freelancer also look after the site later?", answer: `Many do. Our team includes two months of free maintenance after launch for edits, fixes and updates. After that, maintenance starts from ${P.care} if you want it. Because you own the code and accounts, you can also hand upkeep to anyone else.` },
     { question: "Website design freelancer chahiye, kaise shuru karein?", answer: `WhatsApp par apna business, kaunse pages chahiye aur pasand ki 2–3 websites bhej dijiye. Humari team 2 working days mein itemised quote deti hai. Static website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Domain aur hosting aapke naam par rehte hain aur approval se pehle koi payment nahi.` },
     { question: "Can a freelancer design a site for a business outside India?", answer: `Yes. We design for clients in the USA, UK, UAE and elsewhere, working remotely with staging links and video calls. Prices are quoted in USD, for example a custom static site from ${P.siteUsd}, and paid by Wise, bank wire or PayPal. Ownership rules are the same: domain, hosting and code in your name.` },
     { question: "When should I choose an agency instead of a freelancer?", answer: "Choose an agency when you need many specialists at once, such as brand strategy, photography, copywriting and a large build team, or when your company has formal procurement and legal review. For a typical small or medium business website with a clear goal, a website design freelancer usually gives better value and faster contact." },

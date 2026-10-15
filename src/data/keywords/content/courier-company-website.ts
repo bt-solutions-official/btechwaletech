@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Courier company website",
   updated: "2026-09-25",
   meta: {
-    title: `Courier Company Website with Tracking & Booking`,
+    title: `Courier Company Website with Tracking, from ${P.site}`,
     description: `Courier company website with AWB tracking, pincode checker, rate calculator, pickup booking and franchise pages. From ${P.site}; itemised quote in 2 days.`,
     keywords: [
       "courier company website", "courier company website design", "courier website development", "parcel delivery website", "courier service website",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "courier website with tracking", "local courier website", "courier company website near me", "courier company website Delhi",
       "courier company website Mumbai", "courier company website Nagpur", "courier company website Kolkata", "domestic courier website design",
       "courier booking website", "courier company ki website kaise banaye", "last mile delivery website", "courier franchise enquiry page",
+      "best courier company website in India",
     ],
   },
   hero: {
@@ -338,7 +339,7 @@ const content: FreelanceContent = {
         ["Live booking and portal", "API links, business logins, bulk booking, COD reports", `${P.software} (${P.softwareUsd})`, "6–12 weeks"],
         ["Rider or customer app", "Android and iOS on Google Play and the App Store", `${P.app} (${P.appUsd})`, "6–10 weeks"],
         ["Messaging automation", "WhatsApp booking and delivery updates, enquiry triage", `${P.ai} (${P.aiUsd})`, "2–4 weeks"],
-        ["Monthly SEO", "New branch pages, fixes, reports", `${P.seo} per month`, "Ongoing"],
+        ["Monthly SEO", "New branch pages, fixes, reports", `${P.seo}`, "Ongoing"],
       ],
     },
   ],

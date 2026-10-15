@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "how much does a college website cost", "college website content management system", "college website features list", "university website redesign",
       "college website design Pune", "college website design Indore", "college website design Bhopal", "college ki website kaise banaye",
       "UGC public self-disclosure guidelines website", "college website accessibility",
+      "college website design company in India",
+      "college website design near me",
+      "best college website design in India",
     ],
   },
   hero: {

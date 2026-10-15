@@ -5,9 +5,9 @@ const yanam: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 16.7333, lng: 82.2167 },
   meta: {
-    title: "IT Services in Yanam | Web, Apps & AI from ₹10,000",
+    title: "Yanam Website Design: Aqua, Seafood & Riverfront",
     description:
-      "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Yanam traders, aqua farmers, clinics, lodges and colleges.",
+      "Yanam websites, Telugu SEO and UPI stores for aqua farmers and feed dealers, seafood and dry fish traders, lodges and pickle makers. From ₹10,000.",
     keywords: [
       "IT services in Yanam",
       "IT services team in Yanam",
@@ -29,6 +29,16 @@ const yanam: CityContent = {
       "Yanam me website banwana",
       "Yanam lo website cheyinchali",
       "యానాం వెబ్‌సైట్ డిజైన్",
+      "Yanam website designer",
+      "web development company Yanam",
+      "hire freelance web developer Yanam",
+      "Puducherry SEO services",
+      "Yanam me website kaise banwaye",
+      "Yanam website banwane ka kharcha",
+      "website design Riverside beach walk Yanam",
+      "website design Farampeta Yanam",
+      "website design Kanakalapeta Yanam",
+      "website design Guerempeta Yanam",
     ],
   },
   hero: {

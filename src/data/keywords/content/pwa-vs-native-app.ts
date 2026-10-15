@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "PWA vs native app",
   updated: "2026-09-25",
   meta: {
-    title: "PWA vs Native App: Which Fits Your Business in India?",
+    title: `PWA vs Native App: Costs Compared for India (2026)`,
     description: `PWA vs native app for an Indian business: install and push on Android vs iPhone, offline use, cost, launch time. Websites from ${P.site}, apps from ${P.app}.`,
     keywords: [
       "pwa vs native app", "progressive web app vs native app", "pwa vs native app India", "pwa or native app for business", "can a pwa replace a native app",
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "PWA published to Google Play", note: "If you want a Play Store listing without a second codebase, we can package the PWA for Google Play using a Trusted Web Activity.", href: "/freelance-android-app-developer/", size: "md" },
       { name: "Upgrade from PWA to native", note: "When the web app proves demand, a store app reuses the same backend, APIs and admin panel, so only the app screens are new work.", href: "/freelance-flutter-developer/", size: "sm" },
       { name: "WhatsApp updates and reminders", note: `For customers who never install anything, order updates and reminders on WhatsApp, from ${P.ai}.`, href: "/whatsapp-automation-expert/", size: "sm" },
-      { name: "SEO for the web app", note: `Because PWA pages are indexable, product and service pages can rank on Google, with SEO from ${P.seo} a month.`, href: "/services/seo-services/", size: "sm" },
+      { name: "SEO for the web app", note: `Because PWA pages are indexable, product and service pages can rank on Google, with SEO from ${P.seo}.`, href: "/services/seo-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -262,7 +262,7 @@ const content: FreelanceContent = {
         `<strong>A PWA can bring customers from Google and AI search because its pages are web pages; a native app’s screens cannot be indexed, so the app relies on its store listing and a separate website.</strong> For businesses that grow through search, that tilts the pwa vs native app choice towards the web.`,
         `Each product, service, location and article in a PWA has its own URL, title and description. With server-rendered or pre-rendered pages, Google can crawl them like any site, and structured data can describe products, FAQs and local business details. We check these in Google Search Console after launch.`,
         `AI-driven search tools summarise answers from web pages. Clear headings, direct answers and accurate business details make your pages easier for those tools to cite. A native app offers nothing for them to read beyond the store description.`,
-        `The caveat: a PWA built as a single-page app that renders everything in the browser can be hard for search engines to read. We render content on the server or at build time so every page is readable without running heavy scripts. Ongoing SEO for web apps starts from ${P.seo} a month.`,
+        `The caveat: a PWA built as a single-page app that renders everything in the browser can be hard for search engines to read. We render content on the server or at build time so every page is readable without running heavy scripts. Ongoing SEO for web apps starts from ${P.seo}.`,
       ],
     },
     {

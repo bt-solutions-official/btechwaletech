@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "shopify maintenance for small business", "shopify store support India", "who maintains my shopify store", "shopify maintenance checklist",
       "shopify thank you page upgrade", "shopify app subscription cleanup", "shopify store ka maintenance", "shopify maintenance Mumbai",
       "shopify maintenance Bangalore", "shopify maintenance Delhi", "shopify ongoing support freelancer",
+      "shopify maintenance services cost", "shopify maintenance services price", "shopify maintenance services company", "best shopify maintenance services in India",
+      "shopify maintenance services cost in India", "shopify maintenance services near me",
     ],
   },
   hero: {

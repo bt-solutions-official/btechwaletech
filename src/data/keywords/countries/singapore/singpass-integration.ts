@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "singpass myinfo scopes approval", "singpass pdpa nric handling", "singpass integration for fintech", "singpass login for property portal",
       "singpass integration near me", "who can integrate singpass", "singpass staging environment", "singpass integration timeline",
       "singpass dpop pkce par", "singpass integration raffles place",
+      "hire singpass integration in Singapore", "freelance singpass integration Singapore",
     ],
   },
   hero: {

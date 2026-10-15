@@ -7,7 +7,7 @@ const samana: CityContent = {
   meta: {
     title: "IT Services in Samana | Web, Apps & AI from ₹10,000",
     description:
-      "Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Samana rice millers, arhtiyas, schools, clinics and shops.",
+      "Punjabi and English websites, apps and SEO for Samana rice millers, arhtiyas, schools, clinics and shops. From ₹10,000, with 2 months of free upkeep.",
     keywords: [
       "IT services in Samana",
       "IT services team in Samana",
@@ -29,6 +29,12 @@ const samana: CityContent = {
       "Samana vich website banwauni",
       "ਸਮਾਣਾ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
       "website designer near Patiala Samana",
+      "Samana website designer",
+      "web development company Samana",
+      "hire freelance web developer Samana",
+      "Patiala district SEO",
+      "website designer Patiala district",
+      "Punjab SEO services",
     ],
   },
   hero: {

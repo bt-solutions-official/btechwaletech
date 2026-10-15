@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Website traffic drop recovery",
   updated: "2026-09-25",
   meta: {
-    title: "Website Traffic Drop Recovery: Find the Cause First",
-    description: `Website traffic drop recovery: rule out broken tracking, seasonality and Google updates, find the technical cause, then fix it step by step. SEO from ${P.seo}.`,
+    title: `Website Traffic Drop Recovery: Find the Cause, 2026`,
+    description: `Website traffic drop recovery: rule out broken tracking, seasonality and Google updates, find the technical cause, then fix in order. SEO from ${P.seo}.`,
     keywords: [
       "website traffic drop recovery", "website traffic dropped suddenly", "why did my website traffic drop", "organic traffic drop",
       "sudden drop in organic traffic", "seo traffic drop recovery", "how to recover lost website traffic", "google traffic drop fix",

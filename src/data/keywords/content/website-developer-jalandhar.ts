@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Model Town Jalandhar", "website developer Basti Nau", "website developer Phagwara", "website developer Hoshiarpur",
       "website developer Punjab", "business website Jalandhar", "ecommerce website Jalandhar", "Jalandhar me website kaise banaye",
       "website banwani hai Jalandhar", "Punjabi website design",
+      "website developer in Jalandhar cost", "website developer in Jalandhar price", "hire website developer in Jalandhar", "freelance website developer in Jalandhar",
+      "best website developer in Jalandhar", "website developer in Jalandhar charges",
     ],
   },
   hero: {

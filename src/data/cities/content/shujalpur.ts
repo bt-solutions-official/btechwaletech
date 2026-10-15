@@ -7,7 +7,7 @@ const shujalpur: CityContent = {
   meta: {
     title: "IT Services in Shujalpur | Websites, Apps, SEO & AI",
     description:
-      "Hindi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Shujalpur mandi traders, input dealers, colleges, clinics and shops.",
+      "Hindi and English websites, apps and SEO for Shujalpur mandi traders, input dealers, colleges, clinics and shops. Sites from ₹10,000, stores from ₹50,000.",
     keywords: [
       "IT services in Shujalpur",
       "IT services team in Shujalpur",
@@ -28,6 +28,13 @@ const shujalpur: CityContent = {
       "Shujalpur me website banwana",
       "शुजालपुर वेबसाइट डिजाइन",
       "शुजालपुर ऐप डेवलपमेंट",
+      "Shujalpur website designer",
+      "web development company Shujalpur",
+      "hire freelance web developer Shujalpur",
+      "Shajapur district SEO",
+      "website designer Shajapur district",
+      "Madhya Pradesh SEO services",
+      "Shujalpur me website kaise banwaye",
     ],
   },
   hero: {

@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "consultant website design Mumbai", "consultant website design Bangalore", "consultant website design Pune",
       "one-person consultancy website", "independent consultant website", "consultant ke liye website", "LinkedIn to website funnel",
       "case study page for consultants",
+      "best consultant website design in India",
+      "consultant website design services",
     ],
   },
   hero: {
@@ -61,7 +63,7 @@ const content: FreelanceContent = {
       { label: "Starting price", value: `From ${P.site} (${P.siteUsd})` },
       { label: "Large industry or city page network", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Client portal or assessment tool", value: `From ${P.software}, 6–12 weeks` },
-      { label: "Ongoing SEO", value: `From ${P.seo} a month, no ranking promises` },
+      { label: "Ongoing SEO", value: `From ${P.seo}, no ranking promises` },
     ],
   },
   services: {

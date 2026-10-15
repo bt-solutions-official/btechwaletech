@@ -7,7 +7,7 @@ const orai: CityContent = {
   meta: {
     title: "Orai Websites, Local SEO and WhatsApp Tools",
     description:
-      "Hindi and English websites, Google Maps setup, handmade paper stores and WhatsApp automation for Orai and Jalaun district traders, clinics, schools and shops.",
+      "Hindi and English websites and handmade paper stores for Orai and Jalaun district traders, clinics, schools and shops. Websites from ₹10,000.",
     keywords: [
       "website development team in Orai",
       "web designer Orai Jalaun",
@@ -25,6 +25,16 @@ const orai: CityContent = {
       "Orai me website kaise banaye",
       "उरई वेबसाइट डिज़ाइन",
       "website maintenance Orai",
+      "Orai website designer",
+      "web development company Orai",
+      "hire freelance web developer Orai",
+      "Jalaun SEO services",
+      "website designer Jalaun",
+      "Uttar Pradesh SEO services",
+      "Orai me website kaise banwaye",
+      "Orai website banwane ka kharcha",
+      "Orai kalpi handmade paper website",
+      "kalpi handmade paper website design Orai",
     ],
   },
   hero: {

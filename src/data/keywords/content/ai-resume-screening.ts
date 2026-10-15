@@ -22,6 +22,9 @@ const content: FreelanceContent = {
       "resume screening with ChatGPT", "ATS integration AI screening", "resume screening Google Sheets", "WhatsApp candidate follow up",
       "bulk resume screening", "volume hiring automation", "campus hiring resume screening", "how does ai resume screening work",
       "is ai resume screening fair", "ai resume screening Bangalore", "ai resume screening Gurgaon", "resume shortlist karne ka software",
+      "ai resume screening company in India",
+      "best ai resume screening in India",
+      "ai resume screening services",
     ],
   },
   hero: {
@@ -377,7 +380,7 @@ const content: FreelanceContent = {
     { question: "Freelance team or HR tech product for screening?", answer: "An HR tech product suits teams happy with its workflow and per-seat pricing. A custom build by a freelance team like ours suits those who want their own rubrics, integration with existing tools, WhatsApp follow-up and data in their own account. We are three developers, not a large vendor, and we say so when a product would fit better." },
     { question: "Who owns the screening system?", answer: "You do. Code, prompts, rubrics, dashboards and deployment scripts live in your repository and cloud account from the start. If you later change developers or bring the work in-house, nothing is withheld." },
     { question: "How do payments and terms work?", answer: "You get an itemised quote in about two working days, and nothing is billed until you approve it in writing. Payments in India are by UPI or bank transfer; international clients pay in USD by Wise, bank wire or PayPal. Confidentiality and other terms are written into your quote and our terms page." },
-    { question: "What maintenance does an AI screening pipeline need?", answer: `New roles need rubrics, models get updated, and bias monitoring needs someone to look at it. Maintenance is free for two months after launch, then starts at ${P.care} per month if you want us to keep handling updates, rubric support and monitoring.` },
+    { question: "What maintenance does an AI screening pipeline need?", answer: `New roles need rubrics, models get updated, and bias monitoring needs someone to look at it. Maintenance is free for two months after launch, then starts at ${P.care} if you want us to keep handling updates, rubric support and monitoring.` },
     { question: "Resume shortlist karne ke liye AI kaise kaam karta hai?", answer: "AI pehle har CV se skills, experience aur education nikalta hai, phir job description se bane rubric ke hisaab se har point par score deta hai aur saath mein reason bhi likhta hai. Naam, photo, umar jaisi personal details scoring se hata di jaati hain. Final shortlist hamesha aapka recruiter hi decide karta hai." },
   ],
   related: {

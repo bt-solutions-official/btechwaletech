@@ -128,7 +128,7 @@ const content: FreelanceContent = {
       heading: "How do you keep a healthy margin on white label SEO in the UK?",
       paragraphs: [
         `Price your retail plan on the value and scope you deliver, not on our cost plus a percentage, and make sure account management time is priced in. Margin disappears when agencies forget the hours their own team spends on calls, emails and report commentary.`,
-        `Start with your cost per client: our quote from ${P.seo} a month, plus any tools you pay for, plus your account manager's time. A client needing a thirty-minute call and a written summary each month costs you far less than one who wants weekly meetings. Tier your retail offer by that involvement, not only by deliverables.`,
+        `Start with your cost per client: our quote from ${P.seo}, plus any tools you pay for, plus your account manager's time. A client needing a thirty-minute call and a written summary each month costs you far less than one who wants weekly meetings. Tier your retail offer by that involvement, not only by deliverables.`,
         `Next, keep scope tight in your own contracts. If your proposal says “ongoing SEO”, the client will ask for everything. If it says “ten technical fixes, four optimised pages, citations for two locations and a monthly report”, both you and we know what the month contains. Our <a href='/uk/seo-packages/'>guide to UK SEO packages</a> shows how deliverables differ between local, national and ecommerce plans.`,
         `Finally, protect margin with retention. SEO compounds, and the agencies that do best with white label SEO keep clients for years by showing progress clearly. That is why reporting, covered below, deserves as much attention as the work itself.`,
       ],
@@ -272,7 +272,7 @@ const content: FreelanceContent = {
       heading: "Worked example: a hypothetical Leeds web studio adding white label SEO",
       paragraphs: [
         `A made-up scenario for illustration. Picture a five-person web studio in Leeds that builds WordPress sites for trades and professional services. Clients keep asking “can you get us on Google?”, and the studio has been referring them elsewhere.`,
-        `The studio starts with three clients on white label SEO: a roofing contractor covering Leeds and Wakefield, an accountancy practice and a physiotherapy clinic. Each gets a quote from ${P.seo} a month from us, adjusted for locations and content. The studio sets its own retail price with room for its account manager's time.`,
+        `The studio starts with three clients on white label SEO: a roofing contractor covering Leeds and Wakefield, an accountancy practice and a physiotherapy clinic. Each gets a quote from ${P.seo} from us, adjusted for locations and content. The studio sets its own retail price with room for its account manager's time.`,
         `Month one: Search Console and Business Profile access via delegated roles, a crawl, redirect fixes left over from the studio's own launches, and a Looker Studio template in the studio's colours. Month two: service pages rewritten with clearer answers, citations cleaned up on Yell and Thomson Local, schema added. Month three: location content for Wakefield where the roofer genuinely works, and review requests built into the clinic's booking emails in line with Google's review policy.`,
         `The studio's clients only ever hear from the studio. If the studio later hires an in-house SEO, the reports, logs and accounts are all already in its hands.`,
       ],

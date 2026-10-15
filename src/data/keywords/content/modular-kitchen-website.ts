@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "wardrobe manufacturer website", "modular furniture website design", "kitchen dealer website", "modular kitchen website near me",
       "modular kitchen website Bangalore", "modular kitchen website Pune", "modular kitchen website Hyderabad", "modular kitchen SEO",
       "modular kitchen ki website kaise banaye", "kitchen showroom booking website", "modular kitchen lead generation website",
+      "modular kitchen website design cost", "modular kitchen website design price", "modular kitchen website design company", "best modular kitchen website design in India",
+      "modular kitchen website design cost in India", "modular kitchen website design near me",
     ],
   },
   hero: {

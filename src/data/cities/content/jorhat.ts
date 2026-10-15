@@ -7,7 +7,7 @@ const jorhat: CityContent = {
   meta: {
     title: "IT Services in Jorhat | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Jorhat tea gardens, Gar-Ali traders, colleges, clinics and Majuli-bound tourism.",
+      "Jorhat websites, Android and iOS apps, local SEO and WhatsApp automation for tea gardens, Gar-Ali traders, colleges, clinics and Majuli-bound tourism.",
     keywords: [
       "IT services in Jorhat",
       "IT services team in Jorhat",
@@ -29,6 +29,10 @@ const jorhat: CityContent = {
       "coaching institute app Jorhat",
       "Jorhat me website banwana",
       "Jorhat me app banwana",
+      "Jorhat website designer",
+      "web development company Jorhat",
+      "hire freelance developer Jorhat",
+      "Upper Assam SEO",
     ],
   },
   hero: {

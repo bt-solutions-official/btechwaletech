@@ -7,7 +7,7 @@ const pune: CityContent = {
   meta: {
     title: "Pune Website Development & SEO | Sites from ₹10,000",
     description:
-      "Websites, SEO, web apps and AI automation for Pune businesses by a remote team of three engineers. From ₹10,000, with two months of free maintenance after launch.",
+      "Websites, SEO, web apps and AI automation for Pune businesses by a remote team of three engineers. Sites from ₹10,000, free upkeep for 2 months.",
     keywords: [
       "website development team in Pune",
       "web design team Pune",
@@ -25,6 +25,16 @@ const pune: CityContent = {
       "website maintenance Pune",
       "Pune madhye website banvayla kiti kharch",
       "पुणे वेबसाइट डिझाइन",
+      "website cost in Pune",
+      "web development company Pune",
+      "hire freelance web developer Pune",
+      "Maharashtra SEO services",
+      "Pune me website kaise banwaye",
+      "Pune website banwane ka kharcha",
+      "Pune auto components website",
+      "auto components website design Pune",
+      "Pune real estate website",
+      "real estate website design Pune",
     ],
   },
   hero: {

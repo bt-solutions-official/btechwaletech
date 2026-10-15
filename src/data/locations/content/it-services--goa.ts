@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 15.2993, lng: 74.124 },
   meta: {
-    title: "Freelance IT Services in Goa: Software, Apps & AI",
+    title: "Goa IT Services: Software, Apps & AI",
     description:
-      "Freelance IT services in Goa: custom software, web apps, AI automation, SEO and stores for North and South Goa. Starting prices, 3 remote engineers, free care.",
+      "Freelance IT services in Goa: custom software, web apps, AI automation, plus SEO and stores for North and South Goa. Software from ₹60,000, quote in two days.",
     keywords: [
       "Android app development Goa",
       "iOS app development Goa",
@@ -19,7 +19,7 @@ const content: CityContent = {
       "IT solutions Goa",
       "custom software development Goa",
       "web application development Goa",
-            "AI automation team Goa",
+      "AI automation team Goa",
       "WhatsApp automation for hotels Goa",
       "SEO team Goa",
       "ecommerce website development Goa",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "pharma dashboard developers Verna",
       "Goa madhe software team",
       "गोव्यात सॉफ्टवेअर कंपनी",
+      "Goa website designer",
+      "website cost in Goa",
+      "IT company in Goa",
+      "Goa SEO services",
+      "hire developer Goa",
+      "hotels software in Goa",
+      "pharmaceuticals software in Goa",
+      "tours software in Goa",
     ],
   },
   hero: {

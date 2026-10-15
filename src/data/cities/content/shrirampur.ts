@@ -7,7 +7,7 @@ const shrirampur: CityContent = {
   meta: {
     title: "IT Services in Shrirampur | Websites, Apps & AI",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Shrirampur sugar-belt firms, onion traders, patsansthas, MIDC units and clinics.",
+      "Marathi websites, apps, local SEO and WhatsApp tools for Shrirampur sugar-belt firms, onion traders, patsansthas, MIDC units and clinics. From ₹10,000.",
     keywords: [
       "IT services in Shrirampur",
       "IT services team in Shrirampur",
@@ -29,6 +29,12 @@ const shrirampur: CityContent = {
       "Shrirampur me website banwana",
       "Shrirampur madhye website banvaychi",
       "श्रीरामपूर वेबसाइट डिझाइन",
+      "Shrirampur website designer",
+      "web development company Shrirampur",
+      "hire freelance web developer Shrirampur",
+      "Ahilyanagar (Ahmednagar) district SEO",
+      "website designer Ahilyanagar (Ahmednagar) district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Hire Indian Developers for Remote Work from ${P.siteUsd}`,
-    description: `Hire Indian developers for websites, apps and AI from ${P.siteUsd}. Overlap hours by time zone, USD billing, contracts and IP explained for clients abroad.`,
+    description: `Hire Indian developers for websites, apps and AI: overlap hours by time zone, USD billing, contracts and IP explained for clients abroad. From ${P.siteUsd}.`,
     keywords: [
       "hire indian developers", "hire indian developers remotely", "hire developers from India", "hire indian developers for startup",
       "hire indian developers cost", "hire indian developers price", "best indian developers for hire", "indian developers for hire",

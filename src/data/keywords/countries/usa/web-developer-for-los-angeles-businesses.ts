@@ -70,7 +70,7 @@ const content: FreelanceContent = {
       { name: "Lead sites for local services", note: `Five to twenty pages for plumbers, contractors, cleaners and landscapers, with one page per service and honest service-area wording. From ${P.site}.`, href: "/usa/small-business-website-design/", size: "lg" },
       { name: "Creative and production portfolios", note: "Reels, stills and credits that load quickly on a phone, with captions on video and alt text on stills so the work reaches every visitor.", href: "/usa/custom-website-development/", size: "md" },
       { name: "Wellness and studio booking", note: "Class schedules, intro offers and booking widgets for yoga, pilates, acupuncture and aesthetics businesses, placed where people decide rather than buried in a menu.", href: "/usa/landing-page-design-services/", size: "md" },
-      { name: "Privacy-aware analytics", note: "Tags that respect consent choices and Global Privacy Control signals, so your data collection matches what your privacy policy says.", href: "/usa/ccpa-compliant-website/", size: "md" },
+      { name: "Privacy-aware analytics", note: "Tags that respect consent choices and Global Privacy Control signals, so your data collection matches what your privacy policy says.", href: "/usa/hipaa-compliant-website-design/", size: "md" },
       { name: "Accessibility fixes", note: "Keyboard paths, contrast, labeled forms and screen-reader checks on new builds, plus remediation for sites that already have a list of issues.", href: "/usa/ada-compliant-website-design/", size: "sm" },
       { name: "Local SEO for the LA map pack", note: `Google Business Profile alignment, service pages for the neighborhoods you truly serve, and monthly reporting from ${P.seo}.`, href: "/usa/local-seo-services/", size: "sm" },
       { name: "AI helpers and automations", note: `Lead follow-up, order-status replies and intake summaries wired into the tools you already pay for. From ${P.ai}.`, href: "/usa/ai-automation-agency/", size: "sm" },
@@ -214,7 +214,7 @@ const content: FreelanceContent = {
         `Many small businesses fall below the CCPA’s thresholds, but not all, and the site should be ready either way. The law applies to for-profit businesses that meet any one of three tests; if yours does, the website carries several visible obligations.`,
         `According to the <a href='https://cppa.ca.gov/faq.html' rel='noopener'>California Privacy Protection Agency</a>, the CCPA covers businesses with annual gross revenue of 26.625 million dollars or more (the inflation-adjusted figure effective January 1, 2025), businesses that buy, sell or share personal information of 100,000 or more California residents or households, and businesses that earn half or more of their annual revenue from selling or sharing California residents’ personal information. A DTC brand running heavy ad retargeting can reach the second test sooner than its revenue suggests, which is worth raising with your lawyer.`,
         `When the law applies, the agency says businesses must honor opt-out preference signals such as Global Privacy Control, and in most cases provide a clear link labeled “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” in the header or footer. The privacy policy must be linked with the word “privacy” from the homepage. The CPRA amendments, in effect since January 1, 2023, added rights to correct information and limit use of sensitive data.`,
-        `Our part is technical: we map which tags collect what, wire the consent tool so tags stay off until the right choice is made, detect Global Privacy Control, and build request forms. Deciding whether the law applies and what your policy says is for your own counsel. See <a href='/usa/ccpa-compliant-website/'>CCPA-compliant website setup</a> for the full build.`,
+        `Our part is technical: we map which tags collect what, wire the consent tool so tags stay off until the right choice is made, detect Global Privacy Control, and build request forms. Deciding whether the law applies and what your policy says is for your own counsel. See <a href='/usa/custom-website-development/'>custom website development</a> for the full build.`,
       ],
     },
     {
@@ -224,7 +224,7 @@ const content: FreelanceContent = {
         `They raise the cost of getting accessibility wrong. Besides federal ADA claims, California businesses can face claims under the state’s Unruh Civil Rights Act, and Civil Code section 52 sets statutory minimum damages for each violation plus attorney’s fees, so building accessibly from the start is far cheaper than fixing things under a deadline.`,
         `The US Department of Justice’s March 2022 web guidance states that the ADA’s requirements apply to all goods and services offered by public accommodations, “including those offered on the web,” and names common barriers: poor color contrast, missing alt text, videos without captions, mouse-only navigation, unlabeled forms and color used as the only signal. It points to the Web Content Accessibility Guidelines (WCAG) as helpful technical guidance.`,
         `On every LA build we test against WCAG 2.2 AA as a working target: keyboard-only walkthroughs of menus, forms and checkout; contrast checks on your brand palette (sometimes with a darker accent shade for text); visible focus states; labeled form fields with clear error messages; captions on video; and a screen-reader pass on the key pages. We document what was tested and publish an accessibility statement with a contact route if you want one.`,
-        `What we will not do is promise immunity from claims. No developer can, and overlay widgets that claim instant compliance do not replace real fixes in the code. If you already received a demand letter, speak with a lawyer first; our <a href='/usa/website-accessibility-remediation/'>accessibility remediation</a> page explains the technical side we can take on.`,
+        `What we will not do is promise immunity from claims. No developer can, and overlay widgets that claim instant compliance do not replace real fixes in the code. If you already received a demand letter, speak with a lawyer first; our <a href='/usa/ada-compliant-website-design/'>ADA compliant website design</a> page explains the technical side we can take on.`,
       ],
     },
     {
@@ -314,7 +314,7 @@ const content: FreelanceContent = {
       heading: "Working across Southern California and other US cities",
       paragraphs: [
         `The same remote setup works for businesses anywhere in the US; only the call window and a few state-specific details change. Pacific-time owners get the widest overnight relay, while Eastern and Central clients get slightly easier live call slots.`,
-        `Many LA businesses also sell or serve beyond the county: a brand shipping nationwide, a trade expanding into Orange County or the Inland Empire, a studio with clients in New York. The site structure should reflect where your customers actually are, not just where you are based. If you have operations in other cities, you might also look at how we approach <a href='/usa/web-developer-for-chicago-businesses/'>web development for Chicago businesses</a>, <a href='/usa/web-developer-for-houston-businesses/'>Houston businesses</a> and <a href='/usa/web-developer-for-dallas-businesses/'>Dallas businesses</a>, each of which deals with different local rules and industries.`,
+        `Many LA businesses also sell or serve beyond the county: a brand shipping nationwide, a trade expanding into Orange County or the Inland Empire, a studio with clients in New York. The site structure should reflect where your customers actually are, not just where you are based. If you have operations in other cities, you might also look at how we approach <a href='/usa/web-developer-for-chicago-businesses/'>web development for Chicago businesses</a>, <a href='/usa/web-developer-for-houston-businesses/'>Houston businesses</a> and <a href='/usa/web-developer-for-miami-businesses/'>Miami businesses</a>, each of which deals with different local rules and industries.`,
         `Whatever your location, the fundamentals do not change: you own the accounts, quotes are itemized in USD, and the site is built to be fast, accessible and honest about what it collects. For a broader look at outsourcing, our guide to <a href='/outsource-web-development-to-india/'>outsourcing web development to India</a> covers contracts and communication in more depth.`,
       ],
     },
@@ -428,9 +428,9 @@ const content: FreelanceContent = {
     links: [
       { name: "Web developer for Chicago businesses", href: "/usa/web-developer-for-chicago-businesses/" },
       { name: "Web developer for Houston businesses", href: "/usa/web-developer-for-houston-businesses/" },
-      { name: "Web developer for Dallas businesses", href: "/usa/web-developer-for-dallas-businesses/" },
+      { name: "Web developer for Miami businesses", href: "/usa/web-developer-for-miami-businesses/" },
       { name: "Web developer for New York businesses", href: "/usa/web-developer-for-new-york-businesses/" },
-      { name: "CCPA-compliant website setup", href: "/usa/ccpa-compliant-website/" },
+      { name: "Website maintenance services", href: "/usa/website-maintenance-services/" },
       { name: "ADA-compliant website design", href: "/usa/ada-compliant-website-design/" },
       { name: "Ecommerce website development", href: "/usa/ecommerce-website-development/" },
       { name: "Shopify developer for hire", href: "/usa/shopify-developer/" },

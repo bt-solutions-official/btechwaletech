@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "shopify e-invoicing saudi", "migrate salla to shopify", "migrate zid to shopify", "shopify vs salla",
       "shopify gcc shipping", "shopify store cost saudi arabia", "shopify developer from india",
       "arabic shopify store design", "shopify seo arabic", "shopify developer dammam",
+      "freelance shopify developer Saudi Arabia",
     ],
   },
   hero: {

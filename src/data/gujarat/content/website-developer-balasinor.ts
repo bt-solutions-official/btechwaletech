@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Balasinor from ${P.site}`,
-    description: `Website developer in Balasinor for heritage stays, fossil-park tour operators, schools, clinics and traders. Sites from ${P.site}, Gujarati-ready, quote in 2 days.`,
+    description: `Website developer in Balasinor for heritage stays, fossil-park tour operators, schools, clinics and traders. Sites from ${P.site}, Gujarati-ready, 2-day quote.`,
     keywords: [
       "website developer in Balasinor", "website developer Balasinor", "website developer near me Balasinor", "Balasinor Gujarat website",
       "website designer Balasinor", "website development services Balasinor", "web developer Mahisagar", "website developer Mahisagar district",

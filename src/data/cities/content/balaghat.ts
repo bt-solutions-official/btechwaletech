@@ -7,7 +7,7 @@ const balaghat: CityContent = {
   meta: {
     title: "IT Services in Balaghat: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, Hindi local SEO and WhatsApp automation for Balaghat rice mills, Chinnor rice sellers, mine vendors, clinics and Kanha stays.",
+      "Balaghat websites, Android and iOS apps, Hindi local SEO and WhatsApp automation for rice mills, Chinnor rice sellers, mine vendors, clinics and Kanha stays.",
     keywords: [
       "IT services in Balaghat",
       "IT services team in Balaghat",
@@ -29,6 +29,10 @@ const balaghat: CityContent = {
       "Balaghat me website banwana",
       "बालाघाट वेबसाइट डिज़ाइन",
       "बालाघाट ऐप डेवलपमेंट",
+      "Balaghat website designer",
+      "web development company Balaghat",
+      "hire freelance developer Balaghat",
+      "Madhya Pradesh SEO",
     ],
   },
   hero: {

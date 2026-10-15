@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Website Making Cost in India 2026: From ${P.site}`,
-    description: `Website making cost in India by type: static sites from ${P.site}, SEO sites from ${P.seoSite}, stores from ${P.shop}. See hidden yearly costs and what each price includes.`,
+    description: `Website making cost in India by type: static sites from ${P.site}, SEO sites from ${P.seoSite}, stores from ${P.shop}. See the hidden yearly costs too.`,
     keywords: [
       "website making cost in India", "website making cost", "website making cost near me", "website making cost for small business",
       "website making price in India", "best website making cost", "website banane ka kharcha", "website banwane mein kitna kharcha",

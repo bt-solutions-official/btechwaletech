@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Babra for Ginners, ${P.site}+`,
-    description: `Website developer in Babra for cotton ginning and pressing factories, seed and cake traders, polishing units and shops. Sites from ${P.site}, ready before the season.`,
+    description: `Website developer in Babra for cotton ginning factories, seed and cake traders, polishing units and shops. Sites from ${P.site}, live before the season.`,
     keywords: [
       "website developer in Babra", "website developer Babra", "Babra Gujarat website", "Babra Amreli website",
       "cotton ginning website", "ginning and pressing factory website", "cotton bales supplier website", "cotton seed cake website",
@@ -347,7 +347,7 @@ const content: FreelanceContent = {
       { name: "Lathi", note: "Agri dealers, small mills and town services in Lathi need compact Gujarati-first sites.", href: "/gujarat/website-developer-lathi/" },
       { name: "Jasdan", note: "Cotton traders and polishing units in Jasdan share many of Babra's needs.", href: "/gujarat/website-developer-jasdan/" },
       { name: "Botad", note: "Botad's large cotton trade and diamond units need trader and factory profiles." },
-      { name: "Gadhada", note: "Pilgrim-facing businesses and farm traders in Gadhada need simple sites." },
+      { name: "Gadhada", note: "Pilgrim-facing businesses and farm traders in Gadhada need simple sites.", href: "/gujarat/website-developer-gadhada/" },
       { name: "Chotila", note: "Highway and temple-route businesses in Chotila need quick local sites.", href: "/gujarat/website-developer-chotila/" },
       { name: "Rajkot", note: "Many Babra suppliers deal with Rajkot buyers and engineering firms who check websites first.", href: "/rajkot/" },
     ],

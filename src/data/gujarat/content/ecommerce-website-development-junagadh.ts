@@ -242,7 +242,7 @@ const content: FreelanceContent = {
         `It can, if the store is built for search from day one, but nobody can guarantee rankings or shopping placements. Plan WhatsApp and social traffic alongside.`,
         `Each product gets a unique title naming the product, origin and pack size, a description written for buyers rather than copied, product schema with price and availability, compressed photos with alt text and clean URLs. Category pages get a short, useful introduction. Seasonal products keep their pages year-round.`,
         `At launch, sitemaps go to Google Search Console. If you want shopping results, products can be submitted to Google Merchant Center, where eligibility depends on Google's policies. If you have a shop or mill in Junagadh, your Google Business Profile should link to the store with matching name, address and phone.`,
-        `AI assistants and Google's AI Overviews quote clear answers, such as how to ripen Kesar mangoes or how long cold-pressed oil keeps. A short FAQ on key products helps there. Optional ongoing work is available through <a href='/services/seo-services/'>SEO services</a> from ${P.seo} a month; store-specific tactics are on <a href='/ecommerce-seo-freelancer/'>ecommerce SEO</a>.`,
+        `AI assistants and Google's AI Overviews quote clear answers, such as how to ripen Kesar mangoes or how long cold-pressed oil keeps. A short FAQ on key products helps there. Optional ongoing work is available through <a href='/services/seo-services/'>SEO services</a> from ${P.seo}; store-specific tactics are on <a href='/ecommerce-seo-freelancer/'>ecommerce SEO</a>.`,
       ],
     },
     {

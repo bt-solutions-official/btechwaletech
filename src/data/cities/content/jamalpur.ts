@@ -7,7 +7,7 @@ const jamalpur: CityContent = {
   meta: {
     title: "Jamalpur Website Design & Local SEO | From ₹10,000",
     description:
-      "Hindi and English websites, SEO, stores and WhatsApp tools for Jamalpur railway vendors, coaching institutes, Sadar Bazar shops and clinics. Starts at ₹10,000.",
+      "Jamalpur Hindi and English websites, SEO, stores and WhatsApp bots for railway vendors, coaching institutes, Sadar Bazar shops and clinics. Starts at ₹10,000.",
     keywords: [
       "website development team in Jamalpur",
       "web designer Jamalpur Bihar",
@@ -24,6 +24,15 @@ const jamalpur: CityContent = {
       "clinic website Jamalpur",
       "Jamalpur me website kaise banaye",
       "website maintenance Jamalpur",
+      "Jamalpur website designer",
+      "website cost in Jamalpur",
+      "web development company Jamalpur",
+      "hire freelance developer Jamalpur",
+      "Bihar SEO",
+      "Jamalpur me website kaise banwaye",
+      "website for engineering and railway suppliers in Jamalpur",
+      "web designer in Sadar Bazar, Jamalpur",
+      "website for railway and competitive exam coaching in Jamalpur",
     ],
   },
   hero: {

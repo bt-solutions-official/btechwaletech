@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.2389, lng: 73.0243 },
   meta: {
-    title: "Freelance Software Developers in Jodhpur, Rajasthan",
+    title: "Jodhpur Software Developers: Furniture Export & Guar Trade",
     description:
-      "Freelance software developers in Jodhpur for furniture export tracking, guar and spice trade tools, law-office software, Android and iOS apps and AI automation.",
+      "Freelance software developers in Jodhpur for furniture export tracking, guar and spice trade tools, plus law-office software. From ₹10,000, quote in two days.",
     keywords: [
       "software development team in Jodhpur",
       "IT services team in Jodhpur",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "website maintenance Jodhpur",
       "Jodhpur mein software developer",
       "जोधपुर में सॉफ्टवेयर डेवलपर",
+      "Jodhpur website designer",
+      "website cost in Jodhpur",
+      "IT company in Jodhpur",
+      "Rajasthan SEO services",
+      "hire developer Jodhpur",
+      "furniture software in Jodhpur",
+      "handicrafts software in Jodhpur",
+      "guar software in Jodhpur",
+      "spice software in Jodhpur",
+      "website developer Basni Industrial Area Jodhpur",
     ],
   },
   hero: {

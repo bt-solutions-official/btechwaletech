@@ -7,7 +7,7 @@ const kagaznagar: CityContent = {
   meta: {
     title: "IT Services in Kagaznagar | Websites, Apps & AI",
     description:
-      "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Kagaznagar mill vendors, cotton and rice traders, clinics and schools.",
+      "Kagaznagar Telugu and English websites, mobile apps, local SEO and WhatsApp bots for mill vendors, cotton and rice traders, clinics and schools. From ₹10,000.",
     keywords: [
       "IT services in Kagaznagar",
       "IT services team in Kagaznagar",
@@ -29,6 +29,10 @@ const kagaznagar: CityContent = {
       "Kagaznagar lo website cheyinchukovali",
       "Sirpur T business website",
       "కాగజ్‌నగర్ వెబ్‌సైట్",
+      "Kagaznagar website designer",
+      "web development company Kagaznagar",
+      "hire freelance developer Kagaznagar",
+      "Telangana SEO",
     ],
   },
   hero: {

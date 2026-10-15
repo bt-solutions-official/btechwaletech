@@ -7,7 +7,7 @@ const kalpi: CityContent = {
   meta: {
     title: "IT Services in Kalpi | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Kalpi handmade paper units, grain traders, schools, clinics and shops on NH 27.",
+      "Kalpi Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for handmade paper units, grain traders, schools, clinics and shops on NH 27.",
     keywords: [
       "IT services in Kalpi",
       "IT services team in Kalpi",
@@ -29,6 +29,10 @@ const kalpi: CityContent = {
       "Kalpi me website banwana",
       "Kalpi me app banwana kitne ka",
       "कालपी वेबसाइट डिजाइन",
+      "Kalpi website designer",
+      "web development company Kalpi",
+      "hire freelance developer Kalpi",
+      "Uttar Pradesh SEO",
     ],
   },
   hero: {

@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 17.385, lng: 78.4867 },
   meta: {
-    title: "IT Consulting in Hyderabad: Freelance IT Solutions",
+    title: "Hyderabad IT Consulting: Pharma, GCC Vendors & Realty",
     description:
-      "IT consulting and digital transformation in Hyderabad by a freelance team of three engineers: web apps, AI assistants, Android and iOS apps, cloud, data and SEO.",
+      "IT consulting in Hyderabad by a freelance team of three engineers: web apps, AI assistants, Android and iOS apps, plus cloud. From ₹10,000, quote in two days.",
     keywords: [
       "IT solutions team in Hyderabad",
       "IT consulting Hyderabad",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "SEO and AI search Hyderabad",
       "హైదరాబాద్‌లో ఐటీ కన్సల్టింగ్",
       "हैदराबाद आईटी सॉल्यूशंस",
+      "Hyderabad website designer",
+      "website cost in Hyderabad",
+      "IT company in Hyderabad",
+      "Telangana SEO services",
+      "hire developer Hyderabad",
+      "vendors to gccs software in Hyderabad",
+      "manufacturing software in Hyderabad",
+      "real estate software in Hyderabad",
+      "restaurants software in Hyderabad",
     ],
   },
   hero: {

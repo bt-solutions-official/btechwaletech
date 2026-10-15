@@ -7,7 +7,7 @@ const puri: CityContent = {
   meta: {
     title: "IT Services in Puri | Web, Apps, SEO & AI from ₹10,000",
     description:
-      "Websites, local SEO and WhatsApp booking automation for Puri hotels, tour operators, handicraft sellers and clinics. From ₹10,000, with 2 free months of upkeep.",
+      "Websites, local SEO and WhatsApp booking automation for Puri hotels, tour operators, handicraft sellers and clinics. Sites from ₹10,000, stores from ₹50,000.",
     keywords: [
       "website development team in Puri",
       "hotel website design Puri",
@@ -24,6 +24,17 @@ const puri: CityContent = {
       "homestay website Puri",
       "Puri re website tiari",
       "ପୁରୀ ୱେବସାଇଟ",
+      "Puri website designer",
+      "website cost in Puri",
+      "web development company Puri",
+      "hire freelance web developer Puri",
+      "Odisha SEO services",
+      "Puri handicrafts website",
+      "handicrafts website design Puri",
+      "Puri healthcare website",
+      "healthcare website design Puri",
+      "Puri education website",
+      "education website design Puri",
     ],
   },
   hero: {

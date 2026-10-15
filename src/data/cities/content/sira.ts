@@ -7,7 +7,7 @@ const sira: CityContent = {
   meta: {
     title: "IT Services in Sira | Web, Apps & AI from ₹10,000",
     description:
-      "Kannada and Urdu-friendly websites, Android and iOS apps, local SEO and WhatsApp automation for Sira groundnut traders, NH48 businesses, suppliers and clinics.",
+      "Kannada and Urdu-friendly websites, apps and SEO for Sira groundnut traders, NH48 businesses, suppliers and clinics. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "IT services in Sira",
       "IT services team in Sira",
@@ -29,6 +29,12 @@ const sira: CityContent = {
       "Sira me website banwana",
       "Sirayalli website maadisuvudu",
       "ಶಿರಾ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Sira website designer",
+      "web development company Sira",
+      "hire freelance web developer Sira",
+      "Tumakuru district SEO",
+      "website designer Tumakuru district",
+      "Karnataka SEO services",
     ],
   },
   hero: {

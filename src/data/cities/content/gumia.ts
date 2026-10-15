@@ -7,7 +7,7 @@ const gumia: CityContent = {
   meta: {
     title: "IT Services in Gumia | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Gumia (Gomia) mining contractors, suppliers, schools, clinics and local shops.",
+      "Gumia (Gomia) websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for mining contractors, suppliers, schools, clinics and local shops.",
     keywords: [
       "IT services in Gumia",
       "IT services team in Gomia",
@@ -29,6 +29,10 @@ const gumia: CityContent = {
       "Gumia me app banwana",
       "गोमिया वेबसाइट डिजाइन",
       "website designer Bermo Gomia",
+      "Gumia website designer",
+      "web development company Gumia",
+      "hire freelance developer Gumia",
+      "Jharkhand SEO",
     ],
   },
   hero: {

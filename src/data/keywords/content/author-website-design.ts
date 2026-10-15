@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "novelist website design", "poet website design", "Hindi author website", "website for book promotion",
       "author website near me", "author website design Delhi", "author website design Mumbai", "author website design Bengaluru",
       "author website design Kolkata", "author ki website kaise banaye", "do authors need a website", "author portfolio website",
+      "author website design company in India",
+      "best author website design in India",
+      "author website design services",
     ],
   },
   hero: {

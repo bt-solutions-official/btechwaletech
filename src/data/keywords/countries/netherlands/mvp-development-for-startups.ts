@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "gdpr mvp eu hosting", "aws frankfurt ireland data residency", "mvp code handover documentation",
       "no-code vs custom mvp", "freelance mvp developer", "mvp app development flutter", "technical co-founder alternative",
       "startup software development netherlands", "prototype vs mvp", "remote mvp team india",
+      "hire mvp development for startups in the Netherlands",
     ],
   },
   hero: {

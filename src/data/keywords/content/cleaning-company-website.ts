@@ -211,7 +211,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Cleaning is searched locally, so ranking comes from area pages with real detail, an accurate Google Business Profile and steady reviews. Nobody can guarantee a position, but those three make a clear difference over a season.`,
         `If your teams travel to customers and nobody visits your office, Google's guidelines treat you as a service-area business: you remove the address from the profile, list up to 20 service areas, and keep the overall area within about two hours of driving time from your base. The website then carries the detail the profile cannot, with a page for each locality or town you serve saying which packages are popular there, typical home sizes, and how far ahead customers should book.`,
-        `Home and business searches need different pages. “Deep cleaning near me” and “bathroom cleaning service in Kothrud” map to your home path; “housekeeping services company in Pune” and “office cleaning contract” map to the facility path. Plan both. We set up Search Console to watch which queries bring visitors, and structured data so search engines read your services and areas correctly. For ongoing work, our <a href='/local-seo-expert/'>local SEO</a> support starts at ${P.seo} a month.`,
+        `Home and business searches need different pages. “Deep cleaning near me” and “bathroom cleaning service in Kothrud” map to your home path; “housekeeping services company in Pune” and “office cleaning contract” map to the facility path. Plan both. We set up Search Console to watch which queries bring visitors, and structured data so search engines read your services and areas correctly. For ongoing work, our <a href='/local-seo-expert/'>local SEO</a> support starts at ${P.seo}.`,
       ],
     },
     {
@@ -324,7 +324,7 @@ const content: FreelanceContent = {
         ["Customer accounts and online invoices", "Rebooking, history, GST invoices", `${P.software}`, "6–12 weeks"],
         ["Staff attendance and checklists", "Web app or phone app for teams", `${P.software}`, "6–12 weeks"],
         ["WhatsApp quote assistant", "Automated quotes and slot capture", `${P.ai}`, "2–4 weeks"],
-        ["Monthly SEO", "Area pages, reviews, reporting", `${P.seo} a month`, "Ongoing"],
+        ["Monthly SEO", "Area pages, reviews, reporting", `${P.seo}`, "Ongoing"],
       ],
       hideSm: [3],
     },

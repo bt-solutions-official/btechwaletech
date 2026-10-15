@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Online store", note: `Catalogue, cart, UPI and card checkout, GST-ready invoices and shipping rules, from ${P.shop}.`, href: "/gujarat/ecommerce-website-development-vadodara/", size: "md" },
       { name: "Custom web app or portal", note: `Dealer ordering, vendor registration, student or patient logins, from ${P.software}.`, href: "/gujarat/web-application-development-vadodara/", size: "md" },
       { name: "Redesign of an existing site", note: "Priced like a new build of the same scope, plus URL mapping and redirects to protect rankings.", href: "/gujarat/website-redesign-vadodara/", size: "md" },
-      { name: "Monthly SEO", note: `Optional ongoing work on content, local signals and technical health, from ${P.seo} a month.`, size: "sm" },
+      { name: "Monthly SEO", note: `Optional ongoing work on content, local signals and technical health, from ${P.seo}.`, size: "sm" },
       { name: "Android and iOS app", note: `When repeat customers or field staff need an app, from ${P.app}.`, size: "sm" },
       { name: "Care plan", note: `After two free months: updates, backups and edits from ${P.care}.`, size: "sm" },
     ],

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Skin Clinic Website Design: Book Consults, ${P.site}+`,
-    description: `Skin clinic website design from ${P.site}: treatment pages for laser, acne and hair fall, consent-led before-after galleries, packages and video consult booking.`,
+    description: `Skin clinic website design from ${P.site}: treatment pages for laser, acne and hair fall, consent-led before-after galleries, packages, video consults.`,
     keywords: [
       "skin clinic website design", "dermatologist website design", "dermatology clinic website", "aesthetic clinic website design",
       "cosmetology clinic website", "skin care clinic website development", "skin clinic website cost India",
@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "what should a dermatology website include", "skin clinic website designer near me", "skin clinic SEO India",
       "skin clinic website Pune", "skin clinic website Gurgaon", "skin clinic website Chandigarh",
       "skin clinic ki website", "cosmetic dermatologist website", "skin and hair clinic website",
+      "skin clinic website design cost", "skin clinic website design price", "skin clinic website design company", "best skin clinic website design in India",
+      "skin clinic website design cost in India", "skin clinic website design near me",
     ],
   },
   hero: {
@@ -61,7 +63,7 @@ const content: FreelanceContent = {
       { label: "Consult options", value: "In-clinic slot, video slot or WhatsApp question" },
       { label: "Reminders and follow-ups", value: `Session reminders on WhatsApp from ${P.ai}` },
       { label: "Rules to watch", value: "Doctor conduct rules, Drugs and Magic Remedies Act, DPDP Act" },
-      { label: "Care after launch", value: `2 months free, then from ${P.care} a month` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -307,7 +309,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `After skin clinic website design is finished, your clinic owns the domain, hosting, code and content, as it has from day one. We register everything in your name, hand over every login at launch, and remain available for as long as you choose.`,
         `Handover includes a short guide for your staff: how to add a treatment, update a package, swap a gallery image, and change doctor timings. We also list every outside service the site depends on, so nothing is a mystery if you change developers later.`,
-        `For two months after launch, fixes and small changes are free. After that, care is optional and starts at ${P.care} a month; it suits clinics that add treatments, run seasonal offers and refresh galleries often. General terms are on our <a href='/terms/'>terms page</a>.`,
+        `For two months after launch, fixes and small changes are free. After that, care is optional and starts at ${P.care}; it suits clinics that add treatments, run seasonal offers and refresh galleries often. General terms are on our <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -365,7 +367,7 @@ const content: FreelanceContent = {
         ["WhatsApp reminders and follow-ups", "Session nudges, review requests", P.ai, "2–4 weeks"],
         ["Aftercare product shop", "Catalogue, UPI and card checkout", P.shop, "4–8 weeks"],
         ["Clinic software", "Packages, consents, patient photo records", P.software, "6–12 weeks"],
-        ["Monthly SEO", "Content, listings, reporting", `${P.seo} a month`, "Ongoing"],
+        ["Monthly SEO", "Content, listings, reporting", `${P.seo}`, "Ongoing"],
       ],
       hideSm: [1],
     },
@@ -420,7 +422,7 @@ const content: FreelanceContent = {
     { question: "Freelancer or agency for skin clinic website design?", answer: "Either can do good work. Judge them on whether they understand treatments, consent, packages and booking, and whether you will own the domain, hosting and code. With a small freelance team you speak directly to the developers. Ask every provider about upkeep costs after launch before you decide." },
     { question: "Who owns the website and gallery images?", answer: "Your clinic does. The domain, hosting, code and content, including gallery images, are held in your accounts from the start, and we hand over all logins at launch. The consent records stay with you too, so you remain in control if you change developers." },
     { question: "Can we sell sunscreens and aftercare products online?", answer: `Yes. A small shop can sit on the same site with UPI and card checkout, from ${P.shop}. For a handful of products, a simpler order-on-WhatsApp catalogue may be enough. Check the rules on selling cosmetics or medicines online with your adviser before listing anything that needs a prescription.` },
-    { question: "What happens after the two free months?", answer: `Care becomes optional and starts at ${P.care} a month. It covers updates, security patches, backups and small changes such as new packages or doctor timings. Clinics that add treatments or refresh galleries often find it useful. The exact scope is written into your quote.` },
+    { question: "What happens after the two free months?", answer: `Care becomes optional and starts at ${P.care}. It covers updates, security patches, backups and small changes such as new packages or doctor timings. Clinics that add treatments or refresh galleries often find it useful. The exact scope is written into your quote.` },
     { question: "Can the site be in Hindi or regional languages?", answer: "Yes. Top treatment pages in Hindi, Marathi, Gujarati, Tamil, Kannada, Malayalam or Punjabi help reach patients from nearby towns. You supply or approve the translations, and we build proper language versions with correct tags. Common terms like laser or peel can stay in English where patients use them." },
     { question: "How are payments handled for the website project?", answer: "In India you pay by UPI or bank transfer against an itemised quote, and nothing is billed before your written approval. Clinics abroad or NRI-owned practices can pay by Wise, bank wire or PayPal in US dollars. Milestones are written into the quote, and our refund policy page covers the general rules." },
     { question: "Can you redo the skin clinic website design of our current site?", answer: "Yes. We review what already brings visitors, keep useful URLs, redirect changed ones, and rebuild weak areas such as vague treatment pages, slow galleries and clumsy booking. Mapping old addresses to new pages before launch protects the search visibility you have already earned." },

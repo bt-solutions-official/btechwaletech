@@ -46,7 +46,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How much does law firm website design cost compared with an agency?",
-    text: `Law firm website design from BtechWaleTech starts at ${P.site} for a site of up to 100 pages and ${P.seoSite} for multi-office or large practice-area sites, with optional SEO from ${P.seo} a month. Legal marketing agencies usually quote far more, often with retainers, because they bundle strategy, ads and account management. You get the site itself, owned outright.`,
+    text: `Law firm website design from BtechWaleTech starts at ${P.site} for a site of up to 100 pages and ${P.seoSite} for multi-office or large practice-area sites, with optional SEO from ${P.seo}. Legal marketing agencies usually quote far more, often with retainers, because they bundle strategy, ads and account management. You get the site itself, owned outright.`,
     more: `Injury practices with heavy intake volume should also read <a href='/usa/personal-injury-lawyer-website-design/'>personal injury lawyer website design</a>. For ongoing visibility, see <a href='/usa/local-seo-services/'>local SEO services</a>.`,
   },
   snapshot: {
@@ -220,7 +220,7 @@ const content: FreelanceContent = {
         "Can we see a live attorney site you built, loaded on a phone during the call?",
       ],
       after: [
-        `Vague answers about ownership or content sharing are the clearest warning signs. Related professional-services pages worth comparing include <a href='/usa/cpa-firm-website-design/'>CPA practice websites</a> and <a href='/usa/financial-advisor-website-design/'>financial advisor websites</a>, which face their own advertising rules.`,
+        `Vague answers about ownership or content sharing are the clearest warning signs. Related professional-services pages worth comparing include <a href='/usa/personal-injury-lawyer-website-design/'>personal injury lawyer websites</a> and <a href='/usa/customer-portal-development/'>secure client portals</a>, which face their own advertising and privacy rules.`,
       ],
     },
     {
@@ -278,7 +278,7 @@ const content: FreelanceContent = {
         ["Practice-area copy", "Usually included, sometimes library-based", "Drafted with your attorneys", "Included in the build"],
         ["Intake and CRM connection", "Often an add-on", "Conflict-check form into Clio Grow, Lawmatics or inbox", "Included in the build"],
         ["Intake follow-up automation", "Sometimes via their own tools", "Acknowledgments, reminders, consult scheduling", P.ai],
-        ["Monthly SEO", "Retainer, commonly with a minimum term", "Optional; terms set in your written quote", P.seo + " a month"],
+        ["Monthly SEO", "Retainer, commonly with a minimum term", "Optional; terms set in your written quote", P.seo],
         ["Paid ads, video, PR", "Commonly offered", "Not offered", "Not applicable"],
       ],
       hideSm: [1],
@@ -376,9 +376,9 @@ const content: FreelanceContent = {
     heading: "More US pages for law and professional practices",
     links: [
       { name: "Personal injury lawyer website design", href: "/usa/personal-injury-lawyer-website-design/" },
-      { name: "CPA firm website design", href: "/usa/cpa-firm-website-design/" },
-      { name: "Financial advisor website design", href: "/usa/financial-advisor-website-design/" },
-      { name: "Insurance agency website design", href: "/usa/insurance-agency-website-design/" },
+      { name: "Customer portal development", href: "/usa/customer-portal-development/" },
+      { name: "Small business website design", href: "/usa/small-business-website-design/" },
+      { name: "Real estate agent website design", href: "/usa/real-estate-agent-website-design/" },
       { name: "Medical practice website design", href: "/usa/medical-practice-website-design/" },
       { name: "Custom CRM development", href: "/usa/custom-crm-development/" },
       { name: "Landing page design services", href: "/usa/landing-page-design-services/" },

@@ -7,7 +7,7 @@ const dhenkanal: CityContent = {
   meta: {
     title: "IT Services in Dhenkanal | Web, Apps & AI from ₹10,000",
     description:
-      "Odia websites, Android and iOS apps, local SEO and WhatsApp automation for Dhenkanal's industrial suppliers, dokra and brass makers, colleges, clinics and shops.",
+      "Dhenkanal's Odia websites, mobile apps, local SEO and WhatsApp bots for industrial suppliers, dokra and brass makers, colleges and clinics. From ₹10,000.",
     keywords: [
       "IT services in Dhenkanal",
       "IT services team in Dhenkanal",
@@ -29,6 +29,10 @@ const dhenkanal: CityContent = {
       "Dhenkanal me website banwana",
       "Dhenkanal re website banaiba",
       "ଢେଙ୍କାନାଳ ୱେବସାଇଟ୍ ଡିଜାଇନ୍",
+      "Dhenkanal website designer",
+      "web development company Dhenkanal",
+      "hire freelance developer Dhenkanal",
+      "central Odisha SEO",
     ],
   },
   hero: {

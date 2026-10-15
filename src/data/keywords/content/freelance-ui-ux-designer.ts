@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Freelance UI/UX designer",
   updated: "2026-09-24",
   meta: {
-    title: "Freelance UI/UX Designer for Apps & SaaS in India",
+    title: `Freelance UI/UX Designer for Apps, from ${P.app}`,
     description: `Freelance UI/UX designer for apps and SaaS: wireframes, Figma prototypes and usability tests, then the build. Apps from ${P.app}, web apps from ${P.software}.`,
     keywords: [
       "freelance ui ux designer", "freelance ui ux designer in India", "freelance ui ux designer near me", "ui ux designer for hire",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "figma designer freelance", "wireframe and prototype designer", "usability testing freelancer", "dashboard ui designer",
       "product designer freelance India", "ux audit freelancer", "app design banwana hai", "ui ux designer for startup",
       "remote ui ux designer India", "hire ux designer India",
+      "hire freelance ui ux designer",
     ],
   },
   hero: {

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Payment gateway integration developer",
   updated: "2026-09-24",
   meta: {
-    title: "Payment Gateway Integration Developer: UPI & Cards",
+    title: `Payment Gateway Integration Developer: Cost & Scope`,
     description: `Payment gateway integration developer for UPI, cards and net banking: secure checkout, webhooks, refunds and reconciliation. Online stores from ${P.shop}.`,
     keywords: [
       "payment gateway integration developer", "payment gateway integration developer India", "payment gateway integration near me",
@@ -25,6 +25,8 @@ const content: FreelanceContent = {
       "payment gateway integration in app", "payment gateway integration WordPress", "payment webhook developer",
       "recurring payment integration", "UPI AutoPay integration", "payment reconciliation developer", "freelance payment integration developer",
       "online payment setup for website",
+      "hire payment gateway integration developer", "freelance payment gateway integration developer", "payment gateway integration developer cost", "payment gateway integration developer near me",
+      "best payment gateway integration developer in India", "payment gateway integration developer price", "payment gateway integration developer charges",
     ],
   },
   hero: {

@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `AI Automation for Real Estate Agents UAE, from ${P.ai}`,
-    description: `AI automation for real estate agents in the UAE: instant WhatsApp lead replies, lead scoring, CRM updates and listing drafts. Builds from ${P.ai}. Costs per agent.`,
+    description: `AI automation for real estate agents in the UAE: instant WhatsApp lead replies, lead scoring, CRM updates and listing drafts. Builds from ${P.ai}.`,
     keywords: [
       "ai automation for real estate agents", "ai automation for real estate", "ai for real estate agents dubai",
       "real estate ai automation uae", "ai lead follow up real estate", "whatsapp automation for real estate agents",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "ai assistant for real estate brokers uae", "real estate automation abu dhabi", "ai for property brokers dubai",
       "real estate chatbot whatsapp uae", "automate real estate lead response", "ai roi real estate brokerage",
       "real estate workflow automation sharjah", "ai automation developer near me dubai", "brokerage automation remote developers",
+      "hire ai automation for real estate agents in the UAE", "freelance ai automation for real estate agents UAE",
     ],
   },
   hero: {

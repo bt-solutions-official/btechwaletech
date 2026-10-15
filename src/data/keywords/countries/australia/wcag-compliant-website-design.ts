@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "how much does wcag compliance cost", "wcag compliance sydney", "wcag compliance melbourne", "wcag compliance brisbane",
       "wcag compliance perth", "as en 301 549", "accessibility overlay vs remediation", "ndis website accessibility",
       "wcag compliance for small business",
+      "hire wcag compliance in Australia", "freelance wcag compliance Australia",
     ],
   },
   hero: {

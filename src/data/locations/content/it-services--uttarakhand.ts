@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 30.0668, lng: 79.0193 },
   meta: {
-    title: "Freelance IT Services in Uttarakhand: Apps & AI",
+    title: "Uttarakhand IT Services: Apps & AI",
     description:
-      "Freelance IT services in Uttarakhand from three remote engineers: custom software, apps, AI automation, SEO and hosting across Garhwal and Kumaon. From ₹10,000.",
+      "Freelance IT services in Uttarakhand from three remote engineers: custom software, apps and AI automation. Websites from ₹10,000, quote in two working days.",
     keywords: [
       "IT services in Uttarakhand",
       "software development team in Uttarakhand",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "iPhone app developers Uttarakhand",
       "उत्तराखंड में आईटी कंपनी",
       "Uttarakhand mein software team",
+      "Uttarakhand website designer",
+      "website cost in Uttarakhand",
+      "IT company in Uttarakhand",
+      "Uttarakhand SEO services",
+      "hire developer Uttarakhand",
+      "hotels software in Uttarakhand",
     ],
   },
   hero: {

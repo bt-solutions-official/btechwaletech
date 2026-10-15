@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "woocommerce whatsapp developer", "woocommerce whatsapp integration India", "woocommerce order update on whatsapp", "whatsapp shipping update woocommerce",
       "woocommerce whatsapp integration kaise kare", "woocommerce whatsapp for small business", "woocommerce whatsapp integration Surat", "woocommerce whatsapp integration Jaipur",
       "best way to connect woocommerce and whatsapp", "woocommerce whatsapp support chat",
+      "WooCommerce WhatsApp integration company", "best WooCommerce WhatsApp integration in India", "WooCommerce WhatsApp integration cost in India", "WooCommerce WhatsApp integration service",
     ],
   },
   hero: {
@@ -60,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Starting price", value: `From ${P.ai} (${P.aiUsd})` },
       { label: "Timeline", value: "2–4 weeks, including Meta template review" },
       { label: "Meta’s charges", value: "Billed by Meta per message to your own account" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -212,7 +213,7 @@ const content: FreelanceContent = {
         `There are two separate costs: the one-time integration build, which starts from ${P.ai} with BtechWaleTech, and Meta’s per-message charges, which Meta bills to your own account. Keeping them separate is the most important thing to check in any quote.`,
         `The build cost depends on how many flows you want and how clean the store is. A store that only needs order and dispatch messages is at the starting end. Each extra flow, whether COD confirmation with write-back, OTP login, abandoned-cart reminders or a support bot, adds a line. Custom statuses, multi-warehouse stock and courier integrations add more. A store with conflicting plugins or no staging copy may need tidying first.`,
         `Meta’s charges vary by template category and the recipient’s country, and Meta publishes its current rate cards. Our <a href='/whatsapp-business-api-cost-in-india/'>WhatsApp Business API cost in India</a> page walks through how those charges work. We don’t resell messages or add a margin to them.`,
-        `Running costs for a custom build are usually small: a modest cloud instance or serverless function for the webhook service. We set it up in your cloud account so the bill is yours and transparent. After the two free months, maintenance starts from ${P.care} a month if you want us to keep watching it.`,
+        `Running costs for a custom build are usually small: a modest cloud instance or serverless function for the webhook service. We set it up in your cloud account so the bill is yours and transparent. After the two free months, maintenance starts from ${P.care} if you want us to keep watching it.`,
       ],
     },
     {

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Canteen management system",
   updated: "2026-09-25",
   meta: {
-    title: `Canteen Management System: Wallet, QR, Subsidy`,
+    title: `Canteen Management System: QR Wallet from ${P.software}`,
     description: `Canteen management system for offices, factories and colleges: prepaid wallet, RFID or QR coupons, subsidy rules, pre-orders, vendor settlement. From ${P.software}.`,
     keywords: [
       "canteen management system", "canteen management software", "corporate canteen management system", "college canteen management system",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "canteen management system price", "canteen management system cost in India", "how does a canteen management system work", "canteen app development",
       "industrial canteen software", "hostel mess management software", "canteen management system project", "canteen ke liye software",
       "canteen management system Bangalore", "canteen management system Hyderabad", "canteen management system Pune",
+      "canteen management system company in India",
+      "best canteen management system in India",
+      "canteen management system services",
     ],
   },
   hero: {

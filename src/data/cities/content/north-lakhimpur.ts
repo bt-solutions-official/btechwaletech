@@ -7,7 +7,7 @@ const northLakhimpur: CityContent = {
   meta: {
     title: "IT Services in North Lakhimpur | Web, Apps & AI",
     description:
-      "Assamese and English websites, Android and iOS apps, local SEO and WhatsApp automation for North Lakhimpur tea growers, traders, clinics, colleges and shops.",
+      "Assamese and English websites, apps and SEO for North Lakhimpur tea growers, traders, clinics, colleges and shops. Sites from ₹10,000, live in 1-2 weeks.",
     keywords: [
       "IT services in North Lakhimpur",
       "IT services team in North Lakhimpur",
@@ -29,6 +29,12 @@ const northLakhimpur: CityContent = {
       "North Lakhimpur me website banwana",
       "Lakhimpur website design Assam",
       "উত্তৰ লখিমপুৰ ৱেবছাইট",
+      "North Lakhimpur website designer",
+      "web development company North Lakhimpur",
+      "hire freelance web developer North Lakhimpur",
+      "Lakhimpur district SEO",
+      "website designer Lakhimpur district",
+      "Assam SEO services",
     ],
   },
   hero: {

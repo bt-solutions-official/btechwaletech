@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Python automation freelancer",
   updated: "2026-09-24",
   meta: {
-    title: "Python Automation Freelancer: Excel, Reports, Scraping",
+    title: `Python Automation Freelancer: Hire from ${P.ai}`,
     description: `Python automation freelancer for Excel work, scheduled reports, data pulls and scraping. Automation projects from ${P.ai}, with code and logs you own.`,
     keywords: [
       "python automation freelancer", "python automation freelancer India", "python automation freelancer near me", "python automation freelancer for hire",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "excel automation python freelancer", "python script for excel", "automate excel reports with python", "python report automation",
       "python web scraping freelancer", "python data entry automation", "python email automation", "google sheets automation python",
       "GST reconciliation python script", "python task automation expert", "hire python script developer",
+      "hire python automation freelancer", "freelance python automation freelancer", "python automation freelancer cost", "best python automation freelancer in India",
+      "python automation freelancer price", "python automation freelancer charges",
     ],
   },
   hero: {

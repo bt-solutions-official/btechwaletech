@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website with location pages", "schema markup website developer", "Core Web Vitals website", "SEO optimised website design",
       "website built for Google ranking", "service area pages website", "large website development", "SEO web developer freelance",
       "SEO website vs normal website", "technical SEO website build",
+      "hire SEO website developer", "freelance SEO website developer", "SEO website developer cost", "best SEO website developer in India",
+      "SEO website developer price", "SEO website developer charges",
     ],
   },
   hero: {

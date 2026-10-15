@@ -7,7 +7,7 @@ const kochi: CityContent = {
   meta: {
     title: "Kochi Website Developers, SEO & Automation",
     description:
-      "Remote web team for Kochi exporters, clinics, homestays and startups. Sites from ₹10,000, SEO sites from ₹20,000, stores from ₹50,000. You own the code and domain.",
+      "Kochi websites, SEO and apps for exporters, clinics, homestays and startups. Sites from ₹10,000, SEO sites from ₹20,000, stores from ₹50,000.",
     keywords: [
       "website development team in Kochi",
       "web design team Kochi",
@@ -25,6 +25,14 @@ const kochi: CityContent = {
       "website maintenance Kochi",
       "Kochiyil website undakkan",
       "കൊച്ചി വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Kochi website designer",
+      "website cost in Kochi",
+      "web development company Kochi",
+      "hire freelance developer Kochi",
+      "Kerala SEO",
+      "website for seafood export in Kochi",
+      "web designer in Marine Drive, Kochi",
+      "website for spices and plantation produce in Kochi",
     ],
   },
   hero: {

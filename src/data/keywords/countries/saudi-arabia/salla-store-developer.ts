@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Salla Store Developer: Themes, Apps, from ${P.shop}`,
-    description: `Salla store developer for Twilight theme work, custom Salla apps, migrations from WooCommerce or Shopify, and accounting or WhatsApp links. Stores from ${P.shop}.`,
+    description: `Salla store developer in Saudi Arabia: Twilight theme work, Salla apps, migrations from WooCommerce or Shopify, accounting and WhatsApp links. From ${P.shop}.`,
     keywords: [
       "salla store developer", "salla developer", "hire salla developer", "salla expert", "salla theme developer",
       "salla twilight theme customization", "custom salla theme", "salla app developer", "salla partners api developer",

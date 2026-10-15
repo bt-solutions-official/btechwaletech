@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Figma to WordPress: Editable Theme from ${P.site}`,
-    description: `Figma to WordPress done so your team can edit every page without code: custom block theme or Elementor/Bricks, from ${P.site}. See routes, cost and timeline.`,
+    description: `Figma to WordPress done so your team can edit every page without code: custom block theme or Elementor/Bricks, from ${P.site}. Quote in 2 working days.`,
     keywords: [
       "figma to wordpress", "convert figma to wordpress", "figma to wordpress conversion", "figma to wordpress theme",
       "figma to wordpress developer", "figma to wordpress service", "figma to wordpress cost", "figma to wordpress price India",

@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "magento extensions to shopify apps", "magento b2b to shopify", "magento multi store to shopify", "magento to shopify plus migration",
       "magento to shopify migration timeline", "magento to shopify migration checklist", "magento to shopify migration freelancer",
       "magento to shopify migration india", "magento se shopify migration", "replatform magento to shopify", "magento store migration expert",
+      "Magento to Shopify migration company", "best Magento to Shopify migration in India", "Magento to Shopify migration cost in India",
     ],
   },
   hero: {
@@ -223,7 +224,7 @@ const content: FreelanceContent = {
       heading: "How much does a Magento to Shopify migration cost in India?",
       paragraphs: [
         `With BtechWaleTech, ecommerce projects including a Magento to Shopify migration start at ${P.shop}, or ${P.shopUsd} for clients outside India. Quotes elsewhere vary widely, often because one quote includes B2B, integrations and redirects and another does not, so compare scope line by line.`,
-        `The build cost is only half the picture; the other half is what you stop and start paying. Stop: Magento hosting, patching, upgrade projects and a share of developer retainer time. Start: a Shopify plan, apps, possibly Plus if B2B or expansion stores are needed, and maintenance after the free period at ${P.care} a month onwards. The assessment lays both side by side across two or three years.`,
+        `The build cost is only half the picture; the other half is what you stop and start paying. Stop: Magento hosting, patching, upgrade projects and a share of developer retainer time. Start: a Shopify plan, apps, possibly Plus if B2B or expansion stores are needed, and maintenance after the free period at ${P.care} onwards. The assessment lays both side by side across two or three years.`,
         `Cost drivers we price separately: the number of extensions needing custom replacement, product type complexity, store views, order history depth, ERP or accounting integrations, and design work. A store that accepts a well-built theme with light changes costs much less than one recreating an old Magento design exactly. For a sense of wider Shopify budgets, see <a href='/shopify-store-cost-in-india/'>Shopify store cost in India</a>.`,
       ],
     },
@@ -401,7 +402,7 @@ const content: FreelanceContent = {
     { question: "Will my Magento store go offline during migration?", answer: "No downtime is planned. Magento keeps selling while Shopify is built and tested behind a password. On switch evening there is a short freeze, a final sync of recent orders and stock, redirect import and DNS change, followed by live test orders. Magento stays in read-only mode for a while as a safety net." },
     { question: "Should we stay on Magento and upgrade instead?", answer: "Stay if custom Magento code gives you a real edge, such as a configurator, quoting engine or deep ERP workflow, or if a peak season is close. A supported upgrade plus retiring unused extensions can lower upkeep while you plan. We say so honestly in the assessment and can suggest a Magento specialist if that fits better." },
     { question: "Who owns the Shopify store after migration?", answer: "You own the Shopify account, domain, apps, payment provider account and all exports, all billed in your name. We work through a staff or collaborator account with limited permissions that you can remove. Your Magento database backup and file exports also stay with you as a permanent archive." },
-    { question: "What support is included after launch?", answer: `Two months of free maintenance follow launch, covering fixes, small changes and post-migration checks in Search Console. After that, maintenance continues from ${P.care} a month if you want it. Monthly SEO from ${P.seo} is available separately for stores that want to grow rankings after the move.` },
+    { question: "What support is included after launch?", answer: `Two months of free maintenance follow launch, covering fixes, small changes and post-migration checks in Search Console. After that, maintenance continues from ${P.care} if you want it. Monthly SEO from ${P.seo} is available separately for stores that want to grow rankings after the move.` },
     { question: "Do you work with businesses outside India?", answer: `Yes. We work remotely with store owners abroad, quoting in USD with ecommerce projects from ${P.shopUsd}, and payment by Wise, bank wire or PayPal. Calls are scheduled in your working hours where they overlap with India time. Clients in India pay by UPI or bank transfer.` },
     { question: "How do we start and communicate?", answer: "Send your Magento store URL and version on WhatsApp, which we answer 7 days a week in English or Hindi. We arrange a call for B2B or multi-store setups, then send the assessment and an itemised quote. Contract terms are agreed in your written quote, and our terms page covers the general conditions." },
   ],

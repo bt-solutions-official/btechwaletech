@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 15.8497, lng: 74.4977 },
   meta: {
-    title: "Freelance Software Developers in Belagavi (Belgaum)",
+    title: "Belagavi (Belgaum) Software Developers: Foundries",
     description:
       "Freelance developers for Belagavi foundries, aerospace suppliers and colleges, not a software development team: B2B sites, ERP-lite, AI. From ₹10,000.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "IT services near me Udyambag",
       "ಬೆಳಗಾವಿಯಲ್ಲಿ ಸಾಫ್ಟ್‌ವೇರ್ ಕಂಪನಿ",
       "बेळगावमध्ये सॉफ्टवेअर डेव्हलपर",
+      "Belagavi website designer",
+      "website cost in Belagavi",
+      "IT company in Belagavi",
+      "Karnataka SEO services",
+      "hire developer Belagavi",
+      "foundries software in Belagavi",
+      "aerospace software in Belagavi",
     ],
   },
   hero: {

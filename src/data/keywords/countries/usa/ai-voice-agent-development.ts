@@ -185,7 +185,7 @@ const content: FreelanceContent = {
         "Callers hear two or three concrete options rather than a long list, pick one, and get a text confirmation with the time and address. If they need to reschedule later, the same agent can find the booking by phone number and move it. Every booking is written back to your CRM with the call summary, so staff see the full picture.",
       ],
       after: [
-        "Field teams that also need a technician app can combine this with <a href='/usa/field-service-app-development/'>field service app development</a>.",
+        "Field teams that also need a technician app can combine this with <a href='/usa/custom-software-development/'>custom software development</a>.",
       ],
     },
     {
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
       { name: "Custom CRM development", href: "/usa/custom-crm-development/" },
       { name: "HIPAA-compliant app development", href: "/usa/hipaa-compliant-app-development/" },
       { name: "Telehealth app development", href: "/usa/telehealth-app-development/" },
-      { name: "Field service app development", href: "/usa/field-service-app-development/" },
+      { name: "Custom software development", href: "/usa/custom-software-development/" },
       { name: "HVAC website design", href: "/usa/hvac-website-design/" },
       { name: "Dental website design", href: "/usa/dental-website-design/" },
       { name: "Law firm website design", href: "/usa/law-firm-website-design/" },

@@ -7,7 +7,7 @@ const firozabad: CityContent = {
   meta: {
     title: "IT Services in Firozabad: Websites, Apps, SEO & AI",
     description:
-      "Websites, online catalogues, SEO and WhatsApp ordering for Firozabad glass, bangle and local businesses. Sites from ₹10,000, 2 months free maintenance.",
+      "Firozabad websites, online catalogues, SEO and WhatsApp ordering for glass, bangle and local businesses. Sites from ₹10,000, 2 months free maintenance.",
     keywords: [
       "website development team in Firozabad",
       "website designer Firozabad",
@@ -25,6 +25,14 @@ const firozabad: CityContent = {
       "chudi wholesale Firozabad website",
       "Firozabad me website kaise banaye",
       "फिरोजाबाद वेबसाइट बनाने वाले",
+      "Firozabad website designer",
+      "website cost in Firozabad",
+      "web development company Firozabad",
+      "hire freelance developer Firozabad",
+      "Uttar Pradesh SEO",
+      "Firozabad me website kaise banwaye",
+      "website for bangle wholesale and trade in Firozabad",
+      "web designer in Suhag Nagar, Firozabad",
     ],
   },
   hero: {

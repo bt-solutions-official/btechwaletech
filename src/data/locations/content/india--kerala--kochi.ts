@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 9.9312, lng: 76.2673 },
   meta: {
-    title: "Freelance IT Consultants in Kochi: Software, Apps & AI",
+    title: "Kochi IT Consultants: Port Logistics & Seafood Export",
     description:
-      "Hire freelance IT consultants and developers in Kochi for custom software, Android and iOS apps, AI automation, cloud and SEO. Free scoping call, quote in 2 days.",
+      "Hire freelance IT consultants and developers in Kochi for custom software, Android and iOS apps, plus AI automation. Free scoping call, quote in 2 days.",
     keywords: [
       "IT solutions team in Kochi",
       "best IT services team in Kochi",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "software developers Edappally Palarivattom",
       "കൊച്ചിയിൽ ഐടി സേവനങ്ങൾ",
       "कोच्चि में आईटी कंसल्टिंग",
+      "Kochi website designer",
+      "website cost in Kochi",
+      "IT company in Kochi",
+      "Kerala SEO services",
+      "hire developer Kochi",
+      "port logistics software in Kochi",
+      "seafood software in Kochi",
+      "hospitals software in Kochi",
+      "wholesale software in Kochi",
+      "website developer Kakkanad Kochi",
     ],
   },
   hero: {

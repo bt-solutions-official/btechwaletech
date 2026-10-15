@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Mobile App Development Services Singapore, from ${P.app}`,
-    description: `Mobile app development services Singapore: Android and iOS apps from ${P.app}, published on your own store accounts, AWS Singapore backend, updates in SGT hours.`,
+    description: `Mobile app development services Singapore: Android and iOS apps from ${P.app}, on your own store accounts, AWS Singapore backend, updates in SGT hours.`,
     keywords: [
       "mobile app development services singapore", "mobile app development singapore", "app development services singapore", "mobile app developer singapore",
       "android app development singapore", "ios app development singapore", "flutter app development singapore", "react native developer singapore",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "paynow in app payment", "singpass login mobile app", "app backend aws singapore region", "mobile app development near me singapore",
       "booking app development singapore", "ecommerce app development singapore", "app developer jurong", "app developer tampines", "app developer one-north",
       "mobile app maintenance singapore",
+      "hire mobile app development services in Singapore", "freelance mobile app development services Singapore",
     ],
   },
   hero: {

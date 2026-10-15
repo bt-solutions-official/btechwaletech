@@ -7,7 +7,7 @@ const dharmavaram: CityContent = {
   meta: {
     title: "IT Services in Dharmavaram: Websites, Apps, SEO & AI",
     description:
-      "Websites, saree stores, Telugu SEO and WhatsApp order tools for Dharmavaram silk weavers, master weavers and saree shops. Sites start from ₹10,000.",
+      "Dharmavaram websites, saree stores, Telugu SEO and WhatsApp order tools for silk weavers, master weavers and saree shops. Sites start from ₹10,000.",
     keywords: [
       "website development team in Dharmavaram",
       "web designer Dharmavaram",
@@ -25,6 +25,14 @@ const dharmavaram: CityContent = {
       "ecommerce website Sri Sathya Sai district",
       "website maintenance Dharmavaram",
       "freelance web developer Dharmavaram",
+      "Dharmavaram website designer",
+      "website cost in Dharmavaram",
+      "web development company Dharmavaram",
+      "hire freelance developer Dharmavaram",
+      "Andhra Pradesh SEO",
+      "website for handloom pattu sarees in Dharmavaram",
+      "web designer in Dharmavaram Bazar, Dharmavaram",
+      "website for master weavers in Dharmavaram",
     ],
   },
   hero: {

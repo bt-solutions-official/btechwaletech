@@ -5,9 +5,9 @@ const pathankot: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 32.2697, lng: 75.6519 },
   meta: {
-    title: "Pathankot Website Design, SEO & Automation",
+    title: "Pathankot Website Design: Hotels, Taxis & Trade",
     description:
-      "Websites, Google Maps SEO and WhatsApp automation for Pathankot hotels, taxi operators, traders and clinics. Sites from ₹10,000, built by a remote team.",
+      "Pathankot websites, Maps SEO and WhatsApp tools for junction-town hotels, taxi and tour operators, garment wholesalers and clinics. From ₹10,000.",
     keywords: [
       "website development team in Pathankot",
       "web designer Pathankot",
@@ -24,6 +24,21 @@ const pathankot: CityContent = {
       "website maintenance Pathankot",
       "Pathankot vich website banwao",
       "पठानकोट वेबसाइट डिजाइन",
+      "Pathankot website designer",
+      "website cost in Pathankot",
+      "web development company Pathankot",
+      "hire freelance web developer Pathankot",
+      "Punjab SEO services",
+      "Pathankot me website kaise banwaye",
+      "Pathankot website banwane ka kharcha",
+      "website design Dalhousie Road Pathankot",
+      "website design Mission Road Pathankot",
+      "website design Gandhi Chowk Pathankot",
+      "app development company Pathankot",
+      "Pathankot SEO company",
+      "software company in Pathankot",
+      "business website design Pathankot",
+      "Pathankot digital marketing company",
     ],
   },
   hero: {

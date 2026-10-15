@@ -5,9 +5,9 @@ const nedumangad: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 8.6033, lng: 77.0028 },
   meta: {
-    title: "IT Services in Nedumangad | Web, Apps, SEO & AI",
+    title: "Nedumangad Website Design: Spice, Rubber & Market",
     description:
-      "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Nedumangad market traders, spice and rubber dealers, clinics, schools and shops.",
+      "Nedumangad websites, Malayalam SEO and UPI stores for produce commission agents, spice and rubber dealers, Ponmudi stays and tuition centres. From ₹10,000.",
     keywords: [
       "IT services in Nedumangad",
       "IT services team in Nedumangad",
@@ -29,6 +29,16 @@ const nedumangad: CityContent = {
       "Nedumangad website cheyyan",
       "Nedumangad me website banwana",
       "നെടുമങ്ങാട് വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Nedumangad website designer",
+      "web development company Nedumangad",
+      "hire freelance web developer Nedumangad",
+      "Thiruvananthapuram district SEO",
+      "website designer Thiruvananthapuram district",
+      "Kerala SEO services",
+      "Nedumangad produce commission agents website",
+      "produce commission agents website design Nedumangad",
+      "website design Koyikkal Palace area Nedumangad",
+      "website design Karakulam Nedumangad",
     ],
   },
   hero: {

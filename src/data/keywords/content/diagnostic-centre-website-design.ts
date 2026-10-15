@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Diagnostic Centre Website Design from ${P.site}`,
-    description: `Diagnostic centre website design from ${P.site}: searchable test menu with prices, home collection booking by pincode and secure online reports that cut report calls.`,
+    description: `Diagnostic centre website design from ${P.site}: test menu with prices, home collection booking by pincode and secure online reports that cut report calls.`,
     keywords: [
       "diagnostic centre website design", "diagnostic center website design", "pathology lab website design", "diagnostic lab website",
       "diagnostic centre website development", "pathology lab website development India", "home sample collection booking website",
@@ -24,6 +24,9 @@ const content: FreelanceContent = {
       "NABL lab website", "diagnostic centre SEO", "blood test near me website", "diagnostic centre website Jaipur",
       "diagnostic centre website Patna", "pathology lab ki website", "lab ki website kaise banaye",
       "collection centre franchise website", "diagnostic centre website designer near me",
+      "diagnostic centre website design company in India",
+      "best diagnostic centre website design in India",
+      "diagnostic centre website design services",
     ],
   },
   hero: {
@@ -61,7 +64,7 @@ const content: FreelanceContent = {
       { label: "Report portal / LIS link", value: `From ${P.software}, 6–12 weeks` },
       { label: "WhatsApp report alerts", value: `Automation from ${P.ai}` },
       { label: "Imaging content", value: "No sex-determination wording, per PCPNDT Act" },
-      { label: "Care after launch", value: `2 months free, then from ${P.care} a month` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -231,7 +234,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Diagnostic search is extremely specific. People search “HbA1c test price”, “vitamin D test at home in Indore” or “MRI brain cost near me”, so a lab with a real page for each test and centre has far more chances to be found than one with a PDF rate list.`,
         `Each test page gets a unique title with the test name and your city, a short answer on what the test checks, preparation, report time and price, plus MedicalTest structured data where it fits and breadcrumbs back to its category. Centre pages carry location schema and match each centre’s Google Business Profile exactly. The whole catalogue sits in an XML sitemap, and Google Search Console is verified before launch.`,
-        `AI answer engines lift short, factual passages: “Do I need to fast for a lipid profile?” answered in one clear sentence, reviewed by your pathologist and dated, is exactly what they quote. That is why each test page opens with direct answers. Ongoing SEO starts at ${P.seo} a month; no one can guarantee rankings, and aggregators compete hard for these searches, so expect steady rather than instant gains.`,
+        `AI answer engines lift short, factual passages: “Do I need to fast for a lipid profile?” answered in one clear sentence, reviewed by your pathologist and dated, is exactly what they quote. That is why each test page opens with direct answers. Ongoing SEO starts at ${P.seo}; no one can guarantee rankings, and aggregators compete hard for these searches, so expect steady rather than instant gains.`,
       ],
     },
     {
@@ -265,7 +268,7 @@ const content: FreelanceContent = {
       heading: "Who owns a diagnostic centre website design project after launch?",
       paragraphs: [
         `The lab owns everything: domain, hosting, code, the test data and every booking and report record. We set up accounts in the lab’s name, and at launch hand over the repository, admin access, the data templates and a list of paid services with renewal dates.`,
-        `For two months after launch, small changes are free: price updates the sheet cannot handle, new packages, new centres, fixes. After that, maintenance is optional from ${P.care} a month; your own IT person or another developer can take over with everything they need. Test prices and centres remain editable by your staff throughout, so you are never waiting on us for a routine change.`,
+        `For two months after launch, small changes are free: price updates the sheet cannot handle, new packages, new centres, fixes. After that, maintenance is optional from ${P.care}; your own IT person or another developer can take over with everything they need. Test prices and centres remain editable by your staff throughout, so you are never waiting on us for a routine change.`,
       ],
     },
     {
@@ -383,13 +386,13 @@ const content: FreelanceContent = {
     { question: "How should we display NABL accreditation online?", answer: "Show it for the scope it covers, with the certificate number and validity, and link to the scope document. NABL’s policy NABL 133 governs use of its symbol and accreditation claims. Avoid a site-wide logo implying every test and collection centre is accredited; a per-test “in scope” flag from your data is more accurate." },
     { question: "Do we still need aggregator listings if we have our own website?", answer: "Keeping them is usually wise, at least at first. Aggregators bring volume a new site cannot match immediately. Your own website builds direct, commission-free bookings, repeat patients and your own brand in search. Over time, the aim can be to move repeat patients to direct booking while aggregator listings keep providing reach." },
     { question: "Can the website send WhatsApp report alerts?", answer: `Yes. Through the WhatsApp Business Platform the lab can send booking confirmations, a phlebotomist-on-the-way message and a report-ready alert with a secure link from its registered business number. We build this from ${P.ai}. Avoid naming tests or results in message text, and keep critical values on your pathologist’s phone protocol.` },
-    { question: "How does SEO work for a diagnostic centre?", answer: `Test searches are specific, so each test and centre gets its own page with price, preparation, report time and location, plus structured data and a matching Google Business Profile for each centre. Ongoing SEO starts at ${P.seo} a month. Nobody can guarantee rankings, and aggregators compete strongly for test-price searches.` },
+    { question: "How does SEO work for a diagnostic centre?", answer: `Test searches are specific, so each test and centre gets its own page with price, preparation, report time and location, plus structured data and a matching Google Business Profile for each centre. Ongoing SEO starts at ${P.seo}. Nobody can guarantee rankings, and aggregators compete strongly for test-price searches.` },
     { question: "How do AI search tools use lab websites?", answer: "AI answer engines quote short, factual passages that answer a question directly, such as whether a lipid profile needs fasting. Test pages that open with one clear sentence, show that a pathologist reviewed them and carry a review date are easier for these tools to cite than a downloadable rate-list PDF." },
     { question: "Is patient data safe on a lab website?", answer: "It should be designed that way: OTP access to reports, expiring links, HTTPS, role-based admin access and viewing logs, with reports stored in your LIS or your own cloud. The DPDP Rules, 2025, notified in November 2025 and phasing in to May 2027, set notice and consent duties; your legal adviser should approve the privacy wording." },
     { question: "Should a lab hire a freelancer or an agency for its website?", answer: "A small freelance team suits labs that want direct contact with the developers building the data, booking and report features. An agency suits labs wanting ad campaigns, branding and video under one contract. For most independent labs the integration work matters more than campaigns, and that is where a focused freelance team fits." },
     { question: "Does a remote team work for a diagnostic centre website?", answer: "Yes. Nothing in the build needs someone at your lab: data comes as a spreadsheet or LIS export, reviews happen on staging links, and calls run on Google Meet or WhatsApp. For photos of your centre and equipment, your staff or a local photographer can follow a shot list we send." },
     { question: "Who owns the lab website and its data?", answer: "The lab. Domain, hosting, code, test data, bookings and any report records sit in the lab’s accounts from day one. At launch you receive the repository, admin access, data templates and a list of paid services with renewal dates, so your own IT person or another developer can take over." },
-    { question: "What happens after launch?", answer: `For two months, small changes are free: new packages, new centres, fixes and updates the data sheet cannot handle. After that, maintenance is optional and starts at ${P.care} a month. Your staff can update prices and centres themselves at any time through the data sheet or admin panel. Those edits appear across every page using that test.` },
+    { question: "What happens after launch?", answer: `For two months, small changes are free: new packages, new centres, fixes and updates the data sheet cannot handle. After that, maintenance is optional and starts at ${P.care}. Your staff can update prices and centres themselves at any time through the data sheet or admin panel. Those edits appear across every page using that test.` },
     { question: "How do payments for the project work?", answer: "Labs in India pay by UPI or bank transfer, on the terms set out in the itemised quote. Nothing is billed before you approve that quote in writing. If you need specific invoice details for your accounts team, tell us at quote stage and we will confirm what we can provide." },
     { question: "Can you build a patient app for our lab chain?", answer: `Yes. For chains with many repeat patients, an Android and iOS app can show report history, trends for values like HbA1c over time and quick rebooking. We build it with Flutter or React Native from ${P.app} and publish it in the lab’s own store accounts. Launching the website first is usually the better order.` },
   ],

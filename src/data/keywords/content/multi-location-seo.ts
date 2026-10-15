@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Multi location SEO",
   updated: "2026-09-25",
   meta: {
-    title: `Multi Location SEO: Rank Every Branch, from ${P.seo}`,
-    description: `Multi location SEO for chains and franchises in India: one Google Business Profile per branch, unique location pages, reviews and reports. From ${P.seo}/month.`,
+    title: `Multi Location SEO: Rank Every Branch from ${P.seo}`,
+    description: `Multi location SEO for chains and franchises: a Google Business Profile per branch, unique location pages, reviews and per-branch reports. From ${P.seo}.`,
     keywords: [
       "multi location seo", "multi-location seo", "local seo for multiple locations", "seo for multiple branches", "multi location local seo India",
       "how to rank multiple locations on Google Maps", "google business profile for multiple locations", "location pages seo", "multi location seo pricing",
@@ -22,12 +22,13 @@ const content: FreelanceContent = {
       "bulk verification google business profile", "nap consistency multiple locations", "location page duplicate content", "reviews for each branch",
       "local seo reporting by location", "store locator seo", "multi location seo agency vs freelancer", "multi location seo expert near me",
       "multi location seo Pune", "multi location seo Hyderabad", "har branch ko google map par kaise laye", "service area business multiple cities seo",
+      "Multi location SEO price", "Multi location SEO company", "best Multi location SEO in India", "Multi location SEO near me",
     ],
   },
   hero: {
     eyebrow: "For chains, franchises and businesses with two or more branches",
     h1: "Multi location SEO that gets every branch found on Google Maps and search",
-    lede: `Multi location SEO is the work of making each branch of your business rank for searches near it, not just the head office. That means one verified Google Business Profile per branch, a genuinely useful page for every location, reviews collected branch by branch, identical name-address-phone details everywhere, and reports that show which branch is winning. We are three freelance developers and SEO specialists in India who set this up from ${P.seo} a month, building on our <a href='/local-seo-expert/'>local SEO</a> work for single shops.`,
+    lede: `Multi location SEO is the work of making each branch of your business rank for searches near it, not just the head office. That means one verified Google Business Profile per branch, a genuinely useful page for every location, reviews collected branch by branch, identical name-address-phone details everywhere, and reports that show which branch is winning. We are three freelance developers and SEO specialists in India who set this up from ${P.seo}, building on our <a href='/local-seo-expert/'>local SEO</a> work for single shops.`,
     pills: ["One profile per branch", "Location page architecture", "No duplicate content", "Reviews per branch", "NAP clean-up", "Branch-level reports", "Store locator"],
     origin: "Three freelance developers in India · replies on WhatsApp, 7 days a week",
   },
@@ -47,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What is multi location SEO and how does it work?",
-    text: `Multi location SEO gets each branch of one business ranking in Google Maps and local search for customers near that branch. It works through one verified Google Business Profile per branch, a unique page per location, consistent name, address and phone data, reviews gathered per branch and reports split by location. With us it starts at ${P.seo} a month.`,
+    text: `Multi location SEO gets each branch of one business ranking in Google Maps and local search for customers near that branch. It works through one verified Google Business Profile per branch, a unique page per location, consistent name, address and phone data, reviews gathered per branch and reports split by location. With us it starts at ${P.seo}.`,
     more: `Still deciding whether profiles alone are enough? Compare <a href='/google-business-profile-vs-website/'>Google Business Profile vs a website</a>, or see <a href='/local-seo-packages-india/'>local SEO packages</a> for single-branch businesses.`,
   },
   snapshot: {
@@ -95,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What multi location SEO costs with us",
-    note: `Ongoing multi location SEO starts at ${P.seo} a month and covers profile management, reviews, citations, content and branch-level reports; the scope grows with the number of branches and how competitive each city is. If your website lacks proper location pages, a one-time build starts at ${P.site} for up to 100 pages, or ${P.seoSite} for large networks with 299+ city, branch and service pages. Review-request and lead-alert automation starts at ${P.ai}. Every figure is a starting price, itemised per branch in your quote.`,
+    note: `Ongoing multi location SEO starts at ${P.seo} and covers profile management, reviews, citations, content and branch-level reports; the scope grows with the number of branches and how competitive each city is. If your website lacks proper location pages, a one-time build starts at ${P.site} for up to 100 pages, or ${P.seoSite} for large networks with 299+ city, branch and service pages. Review-request and lead-alert automation starts at ${P.ai}. Every figure is a starting price, itemised per branch in your quote.`,
   },
   guideLabel: "Multi-location SEO guide",
   guide: [
@@ -258,7 +259,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does multi location SEO cost in India?",
       paragraphs: [
-        `With us, ongoing multi location SEO starts at ${P.seo} a month, and a location page build starts at ${P.site}, or ${P.seoSite} for large networks. The final figure depends mostly on branch count, city competition and how messy the existing profiles and citations are.`,
+        `With us, ongoing multi location SEO starts at ${P.seo}, and a location page build starts at ${P.site}, or ${P.seoSite} for large networks. The final figure depends mostly on branch count, city competition and how messy the existing profiles and citations are.`,
         `Other providers' quotes vary widely, and the difference usually comes down to what is actually included per branch. Before comparing, ask each provider these questions:`,
       ],
       list: [
@@ -418,7 +419,7 @@ const content: FreelanceContent = {
   faqHeading: "Multi location SEO questions, answered",
   faqs: [
     { question: "What is multi location SEO?", answer: "Multi location SEO is local search optimisation for a business with several physical branches. Each branch gets one verified Google Business Profile, a unique page on the website, consistent name, address and phone details across the web, its own stream of reviews, and its own line in the monthly report, so it can rank for customers searching near that branch." },
-    { question: "How much does multi location SEO cost in India?", answer: `With us, ongoing multi location SEO starts at ${P.seo} a month, and a location page build starts at ${P.site}, or ${P.seoSite} for large networks with 299+ pages. The final quote depends on the number of branches, the competition in each city and how much clean-up the existing profiles need. Every figure is a starting price and the quote is itemised per branch.` },
+    { question: "How much does multi location SEO cost in India?", answer: `With us, ongoing multi location SEO starts at ${P.seo}, and a location page build starts at ${P.site}, or ${P.seoSite} for large networks with 299+ pages. The final quote depends on the number of branches, the competition in each city and how much clean-up the existing profiles need. Every figure is a starting price and the quote is itemised per branch.` },
     { question: "Should every branch have its own Google Business Profile?", answer: "Yes, every real branch with staff, signage and customers during stated hours should have exactly one profile. Google's guidelines say not to create more than one page per location, and to use the same business name for all locations within a country. Offices without staff, virtual addresses and co-working desks used only for listings should not get profiles." },
     { question: "Can I have one website for all my branches?", answer: "Yes, and it is usually the better choice. One domain builds authority that every branch benefits from. Inside it, create a locations hub and a unique page for each branch, and point each Google Business Profile's website link to its branch page. Separate websites per branch split your authority and multiply maintenance for little gain." },
     { question: "How do I avoid duplicate content on location pages?", answer: "Fill each branch page with information that is true only of that branch: address, map, hours, photos of the premises, team, services offered there, parking and landmarks, local FAQs and reviews. Keep shared material such as policies and service explanations on shared pages and link to them. Pages that only swap the city name risk being treated as doorway pages." },
@@ -459,7 +460,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want every branch showing up, not just the flagship?",
-    note: `Send your branch list and website on WhatsApp. In about two working days you get an itemised plan and quote, with multi location SEO from ${P.seo} a month and every profile kept in your own account.`,
+    note: `Send your branch list and website on WhatsApp. In about two working days you get an itemised plan and quote, with multi location SEO from ${P.seo} and every profile kept in your own account.`,
   },
 };
 

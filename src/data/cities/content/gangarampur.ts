@@ -7,7 +7,7 @@ const gangarampur: CityContent = {
   meta: {
     title: "IT Services in Gangarampur | Web, Apps, SEO & AI",
     description:
-      "Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Gangarampur tant weavers, saree traders, colleges, clinics and shops on NH 512.",
+      "Gangarampur Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for tant weavers, saree traders, colleges, clinics and shops on NH 512.",
     keywords: [
       "IT services in Gangarampur",
       "IT services team in Gangarampur",
@@ -29,6 +29,10 @@ const gangarampur: CityContent = {
       "Gangarampur-e website banano",
       "গঙ্গারামপুর ওয়েবসাইট ডিজাইন",
       "Buniadpur Balurghat web developer",
+      "Gangarampur website designer",
+      "web development company Gangarampur",
+      "hire freelance developer Gangarampur",
+      "West Bengal SEO",
     ],
   },
   hero: {

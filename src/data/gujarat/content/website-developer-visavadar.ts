@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Visavadar · Gir Stays ${P.site}`,
-    description: `Website developer in Visavadar for Gir-route stays, Satadhar pilgrim services, produce traders and shops. Sites from ${P.site}, built remotely, 2 months free care.`,
+    description: `Website developer in Visavadar for Gir-route stays, Satadhar pilgrim services, produce traders and shops. Sites from ${P.site}, built remotely, 2 free months.`,
     keywords: [
       "website developer in Visavadar", "website developer Visavadar", "website developer Visavadar Gujarat", "web developer Visavadar",
       "website designer Visavadar", "Visavadar website cost", "website price Visavadar", "website developer near me Visavadar",

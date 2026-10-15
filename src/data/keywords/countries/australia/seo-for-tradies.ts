@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `SEO for Tradies: Stop Paying Per Lead, from ${P.seo}`,
-    description: `SEO for tradies in Australia: Google Business Profile, suburb pages, a review system and call tracking to booked jobs. Monthly SEO from ${P.seo}, measured in jobs.`,
+    description: `SEO for tradies in Australia: Google Business Profile, suburb pages, a review system and call tracking to booked jobs. SEO from ${P.seo}, measured in jobs.`,
     keywords: [
       "seo for tradies", "tradie seo", "seo for tradies australia", "local seo for tradies", "tradie seo services",
       "how do tradies get more leads without hipages", "hipages alternative for tradies", "oneflare vs seo", "airtasker vs own website",
@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "call tracking for tradies", "how much does seo cost for tradies", "is seo worth it for tradies", "how long does seo take for tradies",
       "seo for plumbers", "seo for electricians", "seo for builders", "seo for tradies sydney", "seo for tradies melbourne",
       "seo for tradies brisbane", "seo for tradies perth", "seo for tradies adelaide", "tradie marketing australia",
+      "hire seo for tradies in Australia", "freelance seo for tradies Australia",
     ],
   },
   hero: {
@@ -45,7 +46,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How can a tradie rank on Google without paying for every lead?",
-    text: `Tradies rank without paying per lead by owning four things: a Google Business Profile with accurate service areas and categories, suburb and service pages with genuinely local content, a review request sent to every customer, and tracking that ties calls to booked jobs. BtechWaleTech's SEO for tradies starts from ${P.seo} a month, and SEO-ready sites from ${P.seoSite}.`,
+    text: `Tradies rank without paying per lead by owning four things: a Google Business Profile with accurate service areas and categories, suburb and service pages with genuinely local content, a review request sent to every customer, and tracking that ties calls to booked jobs. BtechWaleTech's SEO for tradies starts from ${P.seo}, and SEO-ready sites from ${P.seoSite}.`,
     more: `Need the website first? See <a href='/australia/tradie-website-design/'>tradie website design</a>, or trade-specific builds for <a href='/australia/plumber-website-design/'>plumbers</a> and <a href='/australia/electrician-website-design/'>electricians</a>.`,
   },
   snapshot: {

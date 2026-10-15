@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "Tulu Kannada English website", "website developer Udupi", "website developer Surathkal", "website developer Kankanady",
       "business website Mangalore", "ecommerce website Mangalore", "best website developer in Mangalore", "website developer Dakshina Kannada",
       "website developer Hampankatta", "Mangalore me website kaise banwaye", "website banwana hai Mangalore",
+      "website developer in Mangalore cost", "website developer in Mangalore price", "hire website developer in Mangalore", "freelance website developer in Mangalore",
+      "website developer in Mangalore charges",
     ],
   },
   hero: {

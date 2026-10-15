@@ -7,7 +7,7 @@ const hyderabad: CityContent = {
   meta: {
     title: "IT Services in Hyderabad: Websites, Apps, SEO & AI",
     description:
-      "Websites, Telugu and English SEO, online stores, pharma catalogues and AI automation for Hyderabad businesses. From ₹10,000 with 2 months of free maintenance.",
+      "Hyderabad websites, Telugu and English SEO, online stores, pharma catalogues and AI automation for businesses. From ₹10,000 with 2 months of free maintenance.",
     keywords: [
       "website development team in Hyderabad",
       "web design team Hyderabad",
@@ -25,6 +25,14 @@ const hyderabad: CityContent = {
       "website maintenance Hyderabad",
       "Hyderabad lo website cheyinchadam",
       "హైదరాబాద్ వెబ్‌సైట్ డిజైన్",
+      "Hyderabad website designer",
+      "website cost in Hyderabad",
+      "web development company Hyderabad",
+      "hire freelance developer Hyderabad",
+      "Telangana SEO",
+      "website for pharma and bulk drugs in Hyderabad",
+      "web designer in Begum Bazar, Hyderabad",
+      "website for pearls and jewellery in Hyderabad",
     ],
   },
   hero: {

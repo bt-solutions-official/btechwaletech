@@ -7,7 +7,7 @@ const rampurhat: CityContent = {
   meta: {
     title: "IT Services in Rampurhat | Web, Apps & AI from ₹10,000",
     description:
-      "Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Rampurhat stone crushers, Tarapith hotels, clinics, colleges and traders.",
+      "Bengali websites, apps, local SEO and WhatsApp tools for Rampurhat stone crushers, Tarapith hotels, clinics, colleges and traders. From ₹10,000.",
     keywords: [
       "IT services in Rampurhat",
       "IT services team in Rampurhat",
@@ -29,6 +29,12 @@ const rampurhat: CityContent = {
       "Rampurhat me website banwana",
       "Rampurhat e website banano",
       "রামপুরহাট ওয়েবসাইট ডিজাইন",
+      "Rampurhat website designer",
+      "web development company Rampurhat",
+      "hire freelance web developer Rampurhat",
+      "Birbhum district SEO",
+      "website designer Birbhum district",
+      "West Bengal SEO services",
     ],
   },
   hero: {

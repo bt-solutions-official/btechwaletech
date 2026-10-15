@@ -7,7 +7,7 @@ const ramanathapuram: CityContent = {
   meta: {
     title: "IT Services in Ramanathapuram: Web, Apps, SEO & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Ramanathapuram chilli traders, seafood firms, pilgrim lodges, colleges and clinics.",
+      "Tamil websites, apps, local SEO and WhatsApp automation for Ramanathapuram chilli traders, seafood firms, pilgrim lodges, colleges and clinics. From ₹10,000.",
     keywords: [
       "IT services in Ramanathapuram",
       "IT services team in Ramanathapuram",
@@ -30,6 +30,11 @@ const ramanathapuram: CityContent = {
       "Ramanathapuram me website banwana",
       "Ramanathapuram-la website panna",
       "ராமநாதபுரம் இணையதள வடிவமைப்பு",
+      "Ramanathapuram website designer",
+      "web development company Ramanathapuram",
+      "hire freelance web developer Ramanathapuram",
+      "Tamil Nadu SEO services",
+      "website design Palace area Ramanathapuram",
     ],
   },
   hero: {

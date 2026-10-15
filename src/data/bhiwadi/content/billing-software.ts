@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-27",
   meta: {
     title: `GST Billing Software in Bhiwadi from ${P.software}`,
-    description: `GST billing software in Bhiwadi built around your dispatch: GST invoices, e-invoice and e-way bill data, Tally sync. From ${P.software}, planned face to face with you.`,
+    description: `GST billing software in Bhiwadi built around your dispatch: GST invoices, e-invoice and e-way bill data, Tally sync. From ${P.software}, planned face to face.`,
     keywords: [
       "GST billing software in Bhiwadi", "GST billing software", "billing software Bhiwadi", "GST billing software near me",
       "billing software in Bhiwadi Rajasthan", "invoice software Bhiwadi Alwar", "e-invoice software Bhiwadi", "e-way bill software Bhiwadi",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "First step", value: "An in-person meeting with your billing and accounts staff" },
       { label: "Languages", value: "Hindi or English screens, English invoice print" },
       { label: "Ownership", value: "Code, database and invoice history in your name" },
-      { label: "Aftercare", value: `Two months free, then from ${P.care} a month` },
+      { label: "Aftercare", value: `Two months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "GST billing software cost in Bhiwadi",
-    note: `Custom GST billing software starts at ${P.software}. The quote rises with the number of GSTINs and billing locations, whether invoices come from dispatch or rate contracts, e-invoice and e-way bill automation, and how deeply entries sync with Tally. Retail counters with barcode scanning add their own screens. A usual first release covers the invoice, credit notes, customer and item masters, e-invoice data and a Tally push. Every item is a separate line in the quote, so you can drop or postpone anything before you approve it. Maintenance is free for two months after launch; ongoing care starts at ${P.care} a month.`,
+    note: `Custom GST billing software starts at ${P.software}. The quote rises with the number of GSTINs and billing locations, whether invoices come from dispatch or rate contracts, e-invoice and e-way bill automation, and how deeply entries sync with Tally. Retail counters with barcode scanning add their own screens. A usual first release covers the invoice, credit notes, customer and item masters, e-invoice data and a Tally push. Every item is a separate line in the quote, so you can drop or postpone anything before you approve it. Maintenance is free for two months after launch; ongoing care starts at ${P.care}.`,
   },
   guideLabel: "GST billing software guide for Bhiwadi",
   guide: [
@@ -273,7 +273,7 @@ const content: FreelanceContent = {
         ["Multi-GSTIN, multi-branch billing", `From ${P.software}, quoted per module`, "10–12 weeks or phased", "Groups across Rajasthan and Haryana"],
         ["Salesman billing app for Android", `From ${P.app}`, "6–10 weeks", "Distributors billing shops on the route"],
         ["AI reading of purchase bills for accounts", `From ${P.ai}`, "2–4 weeks", "Heavy paper purchase invoices"],
-        ["Care after two free months", `From ${P.care} a month`, "Monthly", "Rule changes, fixes, new reports"],
+        ["Care after two free months", `From ${P.care}`, "Monthly", "Rule changes, fixes, new reports"],
       ],
       hideSm: [3],
     },

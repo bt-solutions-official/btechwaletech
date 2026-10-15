@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "dental seo singapore", "dental clinic google business profile", "dental website for clinic in tampines", "dental clinic website orchard",
       "dental website jurong east", "dental clinic website punggol", "dental web designer near me singapore", "pdpa dental patient data website",
       "dental group website design", "dentist web developer singapore",
+      "hire dental clinic website design in Singapore", "freelance dental clinic website design Singapore",
     ],
   },
   hero: {

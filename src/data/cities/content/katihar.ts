@@ -7,7 +7,7 @@ const katihar: CityContent = {
   meta: {
     title: "Katihar Website Design and SEO | Plans from ₹10,000",
     description:
-      "Websites, Google Maps setup, online stores and WhatsApp bots for Katihar's makhana processors, maize traders, clinics, coaching centres and shops. Written quotes.",
+      "Katihar's websites, Maps setup, online stores and WhatsApp bots for makhana processors, maize traders, clinics, coaching centres and shops. Written quotes.",
     keywords: [
       "website development team in Katihar",
       "web designer Katihar",
@@ -25,6 +25,14 @@ const katihar: CityContent = {
       "Katihar me website kaise banaye",
       "कटिहार वेबसाइट डिज़ाइन",
       "website maintenance Katihar",
+      "Katihar website designer",
+      "website cost in Katihar",
+      "web development company Katihar",
+      "hire freelance developer Katihar",
+      "Bihar SEO",
+      "Katihar me website kaise banwaye",
+      "website for makhana processors and traders in Katihar",
+      "web designer in Shaheed Chowk, Katihar",
     ],
   },
   hero: {

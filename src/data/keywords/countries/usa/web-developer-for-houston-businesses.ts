@@ -47,7 +47,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "What should web design for a Houston small business include?",
     text: `A Houston small business site should load fast on phones, offer English and Spanish where your customers need it, keep working through hurricane season with off-region hosting and backups, and handle data in line with Texas privacy law. BtechWaleTech builds these lead sites from ${P.site}, bilingual SEO sites from ${P.seoSite} and stores from ${P.shop}.`,
-    more: `If you operate in more than one Texas metro, see our <a href='/usa/web-developer-for-dallas-businesses/'>Dallas multi-location approach</a>; for trades, our <a href='/usa/hvac-website-design/'>HVAC website design</a> page goes deeper on booking service calls.`,
+    more: `If you operate in more than one metro, see our <a href='/usa/web-developer-for-chicago-businesses/'>Chicago multi-location approach</a>; for trades, our <a href='/usa/hvac-website-design/'>HVAC website design</a> page goes deeper on booking service calls.`,
   },
   snapshot: {
     caption: "Houston small business web design with a remote team, summarized",
@@ -71,7 +71,7 @@ const content: FreelanceContent = {
       { name: "Practice and clinic websites", note: "Provider bios, insurance information, appointment requests and patient-portal links, with health-related forms kept away from marketing tags.", href: "/usa/medical-practice-website-design/", size: "md" },
       { name: "Contractor and home-service sites", note: "Roofing, HVAC, plumbing and restoration pages with tap-to-call, photo-upload quote forms and storm-response content ready to switch on.", href: "/usa/contractor-website-design/", size: "md" },
       { name: "Storm-ready hosting setup", note: "Cloud hosting in a region away from the Gulf, a content delivery network, daily backups stored elsewhere and a restore you have seen tested.", href: "/usa/aws-consulting-for-small-business/", size: "md" },
-      { name: "Field and technician apps", note: `Job lists, photos, signatures and offline mode for crews working in areas with poor signal. From ${P.app}.`, href: "/usa/field-service-app-development/", size: "sm" },
+      { name: "Field and technician apps", note: `Job lists, photos, signatures and offline mode for crews working in areas with poor signal. From ${P.app}.`, href: "/usa/react-native-app-development/", size: "sm" },
       { name: "Local SEO in both languages", note: `Google Business Profile alignment, service pages in English and Spanish, and monthly reporting from ${P.seo}.`, href: "/usa/local-seo-services/", size: "sm" },
       { name: "Website care plans", note: `Updates, uptime checks, backups and quick content edits during storm season, from ${P.care} after the free period.`, href: "/usa/website-maintenance-services/", size: "sm" },
     ],
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
         "An itemized USD quote with milestones, exclusions and post-launch support spelled out",
       ],
       after: [
-        `Operating in several Texas cities? Compare our <a href='/usa/web-developer-for-dallas-businesses/'>Dallas page on multi-location sites</a>, or see how <a href='/usa/web-developer-for-chicago-businesses/'>Chicago B2B builds</a> handle catalogs and RFQs.`,
+        `Operating in several cities? Compare our <a href='/usa/web-developer-for-new-york-businesses/'>New York page on multi-location sites</a>, or see how <a href='/usa/web-developer-for-chicago-businesses/'>Chicago B2B builds</a> handle catalogs and RFQs.`,
       ],
     },
   ],
@@ -389,14 +389,14 @@ const content: FreelanceContent = {
   related: {
     heading: "More for US and Texas businesses",
     links: [
-      { name: "Web developer for Dallas businesses", href: "/usa/web-developer-for-dallas-businesses/" },
+      { name: "Web developer for New York businesses", href: "/usa/web-developer-for-new-york-businesses/" },
       { name: "Web developer for Los Angeles businesses", href: "/usa/web-developer-for-los-angeles-businesses/" },
       { name: "Web developer for Chicago businesses", href: "/usa/web-developer-for-chicago-businesses/" },
       { name: "Web developer for Miami businesses", href: "/usa/web-developer-for-miami-businesses/" },
       { name: "HVAC website design", href: "/usa/hvac-website-design/" },
       { name: "Roofing website design", href: "/usa/roofing-website-design/" },
       { name: "Medical practice website design", href: "/usa/medical-practice-website-design/" },
-      { name: "Field service app development", href: "/usa/field-service-app-development/" },
+      { name: "Custom software development", href: "/usa/custom-software-development/" },
       { name: "AWS consulting for small business", href: "/usa/aws-consulting-for-small-business/" },
       { name: "Website maintenance services", href: "/usa/website-maintenance-services/" },
       { name: "All services for US businesses", href: "/usa/" },

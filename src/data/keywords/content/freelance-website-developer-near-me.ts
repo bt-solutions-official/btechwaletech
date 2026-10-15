@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Freelance website developer near me",
   updated: "2026-09-24",
   meta: {
-    title: "Freelance Website Developer Near Me: Vetting Checklist",
+    title: `Freelance Website Developer Near Me, from ${P.site}`,
     description: `Freelance website developer near me? Use this meet-and-vet checklist: questions, portfolio tests, contract terms. Sites from ${P.site}, quote in 2 days.`,
     keywords: [
       "freelance website developer near me", "freelance website developer near me in India", "website freelancer near me", "freelance website developer for hire near me",

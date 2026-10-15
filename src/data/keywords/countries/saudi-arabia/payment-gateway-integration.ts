@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "react native apple pay mada", "woocommerce mada integration", "custom checkout saudi arabia", "payment integration developer saudi",
       "payment gateway integration riyadh", "payment gateway integration jeddah", "payment gateway integration dammam",
       "online payment integration ksa", "payment links whatsapp saudi",
+      "hire payment gateway integration in Saudi Arabia", "freelance payment gateway integration Saudi Arabia",
     ],
   },
   hero: {

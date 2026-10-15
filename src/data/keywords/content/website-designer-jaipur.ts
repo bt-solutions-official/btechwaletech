@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Designer in Jaipur, Mobile-First from ${P.site}`,
-    description: `Website designer in Jaipur for jewellers, hotels and craft brands: mobile-first layouts reviewed on screen-share, designed and built from ${P.site}. Quote in 2 days.`,
+    description: `Website designer in Jaipur for jewellers, hotels and craft brands: mobile-first layouts reviewed on screen-share, designed and built from ${P.site}.`,
     keywords: [
       "website designer in Jaipur", "website designer Jaipur", "web designer in Jaipur", "Jaipur website designer",
       "website designer near me Jaipur", "website design Jaipur", "website designing in Jaipur", "web design services Jaipur",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "Hindi website design Jaipur", "UI UX designer Jaipur", "website redesign Jaipur", "WordPress website designer Jaipur",
       "Shopify designer Jaipur", "website designer Vaishali Nagar", "website designer Malviya Nagar", "website designer Rajasthan",
       "Jaipur me website design", "Pink City web designer",
+      "website designer in Jaipur cost", "website designer in Jaipur price", "hire website designer in Jaipur", "freelance website designer in Jaipur",
+      "best website designer in Jaipur", "website designer in Jaipur charges",
     ],
   },
   hero: {

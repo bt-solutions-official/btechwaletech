@@ -7,7 +7,7 @@ const padrauna: CityContent = {
   meta: {
     title: "IT Services in Padrauna | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Padrauna traders, clinics, colleges, banana fibre makers and Kushinagar hotels.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Padrauna traders, clinics, colleges, banana fibre makers and Kushinagar hotels. From ₹10,000.",
     keywords: [
       "IT services in Padrauna",
       "IT services team in Padrauna",
@@ -29,6 +29,12 @@ const padrauna: CityContent = {
       "Padrauna me website banwana",
       "Padrauna me app banwana",
       "पडरौना वेबसाइट डिजाइन",
+      "Padrauna website designer",
+      "web development company Padrauna",
+      "hire freelance web developer Padrauna",
+      "Kushinagar district SEO",
+      "Uttar Pradesh SEO services",
+      "Padrauna me website kaise banwaye",
     ],
   },
   hero: {

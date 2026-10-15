@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 15.3173, lng: 75.7139 },
   meta: {
-    title: "Freelance IT Solutions in Karnataka: Apps, AI & Web",
+    title: "Karnataka IT Consulting: Foundries, Coffee & Silk",
     description:
-      "Freelance IT solutions across Karnataka: software, web apps, Android and iOS apps, AI automation and SEO for Bengaluru, Mysuru, Mangaluru and Hubballi. From ₹10,000.",
+      "Freelance IT solutions across Karnataka: software, web apps, Android and iOS apps, AI automation and SEO for Bengaluru and Mysuru. From ₹10,000.",
     keywords: [
       "IT solutions team in Karnataka",
       "freelance IT services Karnataka",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "cloud hosting and DevOps Karnataka",
       "ಕರ್ನಾಟಕದಲ್ಲಿ ವೆಬ್‌ಸೈಟ್ ಅಭಿವೃದ್ಧಿ",
       "कर्नाटक में आईटी सेवाएं",
+      "Karnataka website designer",
+      "website cost in Karnataka",
+      "IT company in Karnataka",
+      "Karnataka SEO services",
+      "hire developer Karnataka",
+      "manufacturing software in Karnataka",
+      "coffee software in Karnataka",
+      "silk software in Karnataka",
+      "education software in Karnataka",
+      "website developer Bengaluru Karnataka",
     ],
   },
   hero: {

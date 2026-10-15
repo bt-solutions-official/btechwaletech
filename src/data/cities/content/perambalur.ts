@@ -7,7 +7,7 @@ const perambalur: CityContent = {
   meta: {
     title: "IT Services in Perambalur: Web, Apps, SEO & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Perambalur onion traders, tyre-plant suppliers, colleges, hospitals and highway shops.",
+      "Tamil websites, apps, local SEO and WhatsApp tools for Perambalur onion traders, tyre-plant suppliers, colleges, hospitals and highway shops. From ₹10,000.",
     keywords: [
       "IT services in Perambalur",
       "IT company in Perambalur",
@@ -30,6 +30,11 @@ const perambalur: CityContent = {
       "Perambalur me website banwana",
       "Perambalur la website panna",
       "பெரம்பலூர் வலைத்தள வடிவமைப்பு",
+      "Perambalur website designer",
+      "web development company Perambalur",
+      "hire freelance web developer Perambalur",
+      "Perambalur district SEO",
+      "website designer Perambalur district",
     ],
   },
   hero: {

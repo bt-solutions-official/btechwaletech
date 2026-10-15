@@ -22,6 +22,9 @@ const content: FreelanceContent = {
       "gym management software cost", "gym software price in India", "best gym management software for small gym", "how to choose gym management software",
       "gym software vs fitness app", "gym owner software", "gym software Bengaluru", "gym software Mumbai", "gym ke liye software",
       "turnstile integration gym software", "gym attendance software",
+      "gym management software company in India",
+      "gym management software near me",
+      "gym management software services",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const sardhana: CityContent = {
   meta: {
     title: "IT Services in Sardhana | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sardhana cloth and handloom units, timber traders, clinics, schools and shops.",
+      "Websites, apps, Google Maps SEO and WhatsApp automation for Sardhana cloth and handloom units, timber traders, clinics, schools and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Sardhana",
       "IT services team in Sardhana",
@@ -29,6 +29,12 @@ const sardhana: CityContent = {
       "Sardhana me app banwana",
       "सरधना वेबसाइट डिजाइन",
       "website designer near Meerut Sardhana",
+      "Sardhana website designer",
+      "web development company Sardhana",
+      "hire freelance web developer Sardhana",
+      "Meerut district SEO",
+      "website designer Meerut district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

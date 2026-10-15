@@ -7,7 +7,7 @@ const kolar: CityContent = {
   meta: {
     title: "Kolar Website Design & SEO | From ₹10,000",
     description:
-      "Websites, Kannada and Telugu SEO, vendor pages and WhatsApp tools for Kolar tomato traders, Narasapura suppliers, silk and dairy firms, and clinics. You own it.",
+      "Kolar websites, Kannada and Telugu SEO, vendor pages and WhatsApp tools for tomato traders, Narasapura suppliers and dairy firms. From ₹10,000.",
     keywords: [
       "website development team in Kolar",
       "web designer Kolar",
@@ -25,6 +25,14 @@ const kolar: CityContent = {
       "website maintenance Kolar",
       "Google Maps listing Kolar",
       "ಕೋಲಾರ ವೆಬ್‌ಸೈಟ್ ಅಭಿವೃದ್ಧಿ",
+      "Kolar website designer",
+      "website cost in Kolar",
+      "web development company Kolar",
+      "hire freelance developer Kolar",
+      "Karnataka SEO",
+      "website for tomato and vegetable commission agents in Kolar",
+      "web designer in Doddapet, Kolar",
+      "website for mango growers and farmer groups in Kolar",
     ],
   },
   hero: {

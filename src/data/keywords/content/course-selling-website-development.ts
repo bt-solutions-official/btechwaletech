@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Course Selling Website Development from ${P.shop}`,
-    description: `Course selling website development in India from ${P.shop}: UPI checkout, protected video, drip lessons, certificates and zero commission on each sale.`,
+    description: `Course selling website development in India from ${P.shop}: UPI checkout, protected video, drip lessons, certificates and zero commission. Get a quote.`,
     keywords: [
       "course selling website development", "course selling website", "online course website development", "website to sell online courses",
       "course selling website cost in India", "course selling website price", "how to build a course selling website", "sell courses on own website",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "own course website vs teachable style platform", "course selling website for teachers", "course selling website for coaching institute",
       "course selling website developer near me", "course selling app and website", "course bechne ki website", "online course website Delhi",
       "online course website Jaipur", "online course website Bengaluru", "course selling website without commission",
+      "course selling website development company in India",
+      "best course selling website development in India",
+      "course selling website development services",
     ],
   },
   hero: {
@@ -60,7 +63,7 @@ const content: FreelanceContent = {
       { label: "Payments", value: "UPI, cards, net banking and GST invoices" },
       { label: "Video", value: "Private streaming with signed links and watermarks" },
       { label: "Who owns students and content", value: "You: domain, hosting, database and code" },
-      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -225,7 +228,7 @@ const content: FreelanceContent = {
         "Languages: one, or Hindi and English side by side",
         "Mobile app alongside the website",
       ],
-      after: [`Running costs you should budget for separately: domain renewal, hosting, video streaming minutes, gateway transaction fees and, after the free two months, maintenance from ${P.care} a month. See our full <a href='/pricing/'>pricing page</a> for every plan's starting point.`],
+      after: [`Running costs you should budget for separately: domain renewal, hosting, video streaming minutes, gateway transaction fees and, after the free two months, maintenance from ${P.care}. See our full <a href='/pricing/'>pricing page</a> for every plan's starting point.`],
     },
     {
       id: "tech-stack",
@@ -268,7 +271,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Course pages rank when each one answers a specific search, loads fast on a phone and carries structured data that tells Google what the course is. A single "All courses" page with thumbnails will not rank for anything.`,
         `We give every course its own URL with a descriptive title, a syllabus written as real text rather than an image, and clear instructor details. Google Search Central removed its Course info rich result in 2025, so we do not rely on special search features; the plain text on the page does the work. Free lessons and topic articles target the questions learners type before they are ready to buy, such as how to prepare for a particular exam section or how to start learning a skill. Pages are static or server-rendered so Core Web Vitals stay healthy, and Google Search Console is connected from launch so you can see which queries bring visitors.`,
-        `AI assistants and AI Overviews quote pages that answer questions plainly. Short, factual course descriptions, clear prerequisite lists and honest outcome statements are more likely to be cited than hype. Nobody can guarantee rankings or AI citations, but a well-structured course selling website gives you a fair chance. For ongoing work, our <a href='/services/seo-services/'>SEO services</a> start at ${P.seo} a month.`,
+        `AI assistants and AI Overviews quote pages that answer questions plainly. Short, factual course descriptions, clear prerequisite lists and honest outcome statements are more likely to be cited than hype. Nobody can guarantee rankings or AI citations, but a well-structured course selling website gives you a fair chance. For ongoing work, our <a href='/services/seo-services/'>SEO services</a> start at ${P.seo}.`,
       ],
     },
     {
@@ -426,7 +429,7 @@ const content: FreelanceContent = {
     { question: "Can my course site generate GST invoices?", answer: "Yes. If you have a GSTIN, the site emails a GST invoice with your details, the student's details and the tax breakdown after each purchase, and keeps a record you can export for your accountant. Which tax rate applies to your courses is a question for your CA; we configure the site to follow their advice." },
     { question: "Is my students' personal data safe on my own course website?", answer: "We build with limited admin roles, encrypted connections, secure password storage, regular backups and consent checkboxes, and we can delete a student's data on request. India's Digital Personal Data Protection Act, 2023 applies to businesses that collect personal data, so confirm your privacy notice and processes with your own legal adviser; the site gives you the controls to follow their guidance." },
     { question: "Who owns the course website and content after launch?", answer: "You own everything: the domain, hosting account, streaming account, payment gateway account, database and source code are set up in your name. We keep working access only while you want our help. At handover you receive repository access, admin logins and a short note explaining how the parts connect, so another developer could continue if needed." },
-    { question: "What happens after the course website launches?", answer: `Two months of free maintenance cover bug fixes, security updates and small changes. After that, maintenance starts at ${P.care} a month if you want us to keep looking after it, or you can manage it yourself. Growth work such as new features, an app or monthly SEO is quoted separately when you need it.` },
+    { question: "What happens after the course website launches?", answer: `Two months of free maintenance cover bug fixes, security updates and small changes. After that, maintenance starts at ${P.care} if you want us to keep looking after it, or you can manage it yourself. Growth work such as new features, an app or monthly SEO is quoted separately when you need it.` },
     { question: "Can you build a course selling website for clients outside India?", answer: `Yes. We work remotely with course creators abroad, quote in USD, and accept payment by Wise, bank wire or PayPal. A course site starts at ${P.shopUsd}. For your students, checkout can accept international cards and show local-friendly pricing, depending on what your payment gateway supports in your country.` },
     { question: "Do you create the course videos and content too?", answer: "No. We build and run the platform, and you or your team create the teaching content. We can advise on video formats, file sizes and how to structure modules so they upload and stream well, and we can write the course sales pages from your notes if you want help with website copy." },
     { question: "Course bechne ke liye apni website banwana sahi hai ya platform pe rehna?", answer: `Agar abhi pehla course test kar rahe hain aur students kam hain, toh hosted platform sasta aur fast hai. Jab har mahine regular sales aane lagein, apni course selling website better padti hai: commission nahi katta, students ke number aur email aapke paas rehte hain, aur UPI checkout apni marzi ka. Humare saath yeh ${P.shop} se shuru hota hai.` },

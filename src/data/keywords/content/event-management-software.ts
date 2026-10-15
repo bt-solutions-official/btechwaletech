@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "wedding guest RSVP on WhatsApp", "event task management software", "destination wedding planning software", "corporate event management software",
       "best event management software for planners", "how to manage events with software", "event management software Mumbai", "event management software Delhi",
       "event management software Bangalore", "shaadi planning software", "event management software near me",
+      "event management software services",
     ],
   },
   hero: {

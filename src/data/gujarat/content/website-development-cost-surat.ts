@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Development Cost in Surat: From ${P.site}`,
-    description: `Website development cost in Surat explained: what drives the price, sample budgets for textile, diamond and local businesses, yearly running costs. From ${P.site}.`,
+    description: `Website development cost in Surat explained: what drives the price, sample budgets for textile, diamond and local firms, yearly running costs. From ${P.site}.`,
     keywords: [
       "website development cost in Surat", "website development cost Surat", "website price in Surat", "website making cost Surat",
       "website design cost Surat", "how much does a website cost in Surat", "website development charges Surat", "website banane ka kharcha Surat",

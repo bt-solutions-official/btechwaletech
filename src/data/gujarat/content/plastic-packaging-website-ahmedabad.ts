@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Plastic Packaging Website in Ahmedabad from ${P.site}`,
-    description: `Plastic packaging company website in Ahmedabad with product spec pages, MOQ tables and custom order RFQs with artwork upload. Sites from ${P.site}; quote in 2 days.`,
+    description: `Plastic packaging company website in Ahmedabad with product spec pages, MOQ tables and custom order RFQs with artwork upload. Sites from ${P.site}, 2-day quote.`,
     keywords: [
       "plastic packaging company website in Ahmedabad", "plastic packaging website Ahmedabad", "packaging company website Ahmedabad", "plastic products manufacturer website Gujarat",
       "flexible packaging website design", "PET bottle manufacturer website", "pouch manufacturer website Ahmedabad", "plastic packaging company website Ahmedabad Gujarat",

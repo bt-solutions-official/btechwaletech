@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "GA4 setup for small business", "GA4 setup for ecommerce", "GA4 expert near me", "hire GA4 expert", "GA4 freelancer India",
       "GA4 setup Pune", "GA4 setup Bengaluru", "GA4 setup Delhi", "GA4 audit and fix", "GA4 not tracking leads",
       "GA4 setup karwana hai", "Google Analytics setup for website", "GA4 reports for business owners", "GA4 DPDP consent",
+      "ga4 setup service company in India",
+      "best ga4 setup service in India",
     ],
   },
   hero: {

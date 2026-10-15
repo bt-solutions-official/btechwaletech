@@ -7,7 +7,7 @@ const kakinada: CityContent = {
   meta: {
     title: "Kakinada Web Design & SEO | From ₹10,000",
     description:
-      "Websites, SEO, export catalogues and WhatsApp automation for Kakinada seafood exporters, port agents, Uppada weavers and clinics. Published prices, code yours.",
+      "Kakinada websites, SEO, export catalogues and WhatsApp bots for seafood exporters, port agents, Uppada weavers and clinics. Published prices, code yours.",
     keywords: [
       "website development team in Kakinada",
       "web designer Kakinada",
@@ -25,6 +25,14 @@ const kakinada: CityContent = {
       "website maintenance Kakinada",
       "Kakinada lo website design",
       "కాకినాడ వెబ్‌సైట్ డిజైన్",
+      "Kakinada website designer",
+      "website cost in Kakinada",
+      "web development company Kakinada",
+      "hire freelance developer Kakinada",
+      "Andhra Pradesh SEO",
+      "website for seafood processors and exporters in Kakinada",
+      "web designer in Bhanugudi Junction, Kakinada",
+      "website for hatcheries and farm-input dealers in Kakinada",
     ],
   },
   hero: {

@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "hire react js developer", "front end developer for hire australia", "react code review",
       "least privilege developer onboarding", "react developer aest hours", "staff augmentation react australia",
       "is it safe to hire a remote react developer", "dedicated react developer near me",
+      "freelance hire dedicated react developer Australia",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const jagraon: CityContent = {
   meta: {
     title: "IT Services in Jagraon | Web, Apps & AI from ₹10,000",
     description:
-      "Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Jagraon arhtiyas, dealers, clinics, schools and IELTS centres.",
+      "Jagraon Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for arhtiyas, dealers, clinics, schools and IELTS centres.",
     keywords: [
       "IT services in Jagraon",
       "IT services team in Jagraon",
@@ -29,6 +29,10 @@ const jagraon: CityContent = {
       "Jagraon me website banwana",
       "Jagraon vich website banvauni",
       "ਜਗਰਾਉਂ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Jagraon website designer",
+      "web development company Jagraon",
+      "hire freelance developer Jagraon",
+      "Punjab SEO",
     ],
   },
   hero: {

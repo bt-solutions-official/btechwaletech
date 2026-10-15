@@ -7,7 +7,7 @@ const habra: CityContent = {
   meta: {
     title: "Habra Web Developers | Sites & Maps SEO from ₹10,000",
     description:
-      "Websites, Google Maps listings and WhatsApp automation for Habra shops, tutors, clinics, fish farms and transporters on Jessore Road. Sites from ₹10,000.",
+      "Habra websites, Google Maps listings and WhatsApp automation for shops, tutors, clinics, fish farms and transporters on Jessore Road. Sites from ₹10,000.",
     keywords: [
       "website development team in Habra",
       "web designer Habra",
@@ -24,6 +24,15 @@ const habra: CityContent = {
       "freelance web developer Habra",
       "website maintenance Habra",
       "হাবড়া ওয়েবসাইট ডিজাইন",
+      "Habra website designer",
+      "web development company Habra",
+      "hire freelance developer Habra",
+      "West Bengal SEO",
+      "website for tuition and coaching in Habra",
+      "web designer in Banipur, Habra",
+      "website for clinics and labs in Habra",
+      "mobile app developer in Habra",
+      "ecommerce website development in Habra",
     ],
   },
   hero: {

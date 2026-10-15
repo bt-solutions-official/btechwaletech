@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Palitana · Dharamshala Sites`,
-    description: `Website developer in Palitana for dharamshalas, bhojanshalas, yatra operators and Taleti shops. Sites from ${P.site}, Hindi and English by us, Gujarati with your copy.`,
+    description: `Website developer in Palitana for dharamshalas, bhojanshalas, yatra operators and Taleti shops. Sites from ${P.site}, Hindi and English pages, 2 free months.`,
     keywords: [
       "website developer in Palitana", "website developer Palitana Gujarat", "website developer Palitana Bhavnagar", "web developer Palitana",
       "website designer Palitana", "dharamshala website Palitana", "dharamshala booking website", "Jain dharamshala website developer",
@@ -262,7 +262,7 @@ const content: FreelanceContent = {
       heading: "Website developer in Palitana and nearby towns",
       paragraphs: [
         `The same remote process works across the region; the local mix of businesses changes what each site says.`,
-        `Sihor, on the way to Bhavnagar, is an industrial town of steel re-rolling mills and brass and copper ware, covered on <a href='/gujarat/website-developer-sihor/'>websites for Sihor</a>. Gariadhar, close by, has diamond-polishing workshops and farm trade; see the guide for a website developer in Gariadhar. Towards the coast, Talaja and Mahuva have their own trades, explained on <a href='/gujarat/website-developer-talaja/'>Talaja</a> and <a href='/gujarat/website-developer-mahuva/'>Mahuva</a>.`,
+        `Sihor, on the way to Bhavnagar, is an industrial town of steel re-rolling mills and brass and copper ware, covered on <a href='/gujarat/website-developer-sihor/'>websites for Sihor</a>. Gariadhar, close by, has diamond-polishing workshops and farm trade; see the guide for a <a href='/gujarat/website-developer-gariadhar/'>website developer in Gariadhar</a>. Towards the coast, Talaja and Mahuva have their own trades, explained on <a href='/gujarat/website-developer-talaja/'>Talaja</a> and <a href='/gujarat/website-developer-mahuva/'>Mahuva</a>.`,
         `The district city is covered on <a href='/gujarat/website-development-services-bhavnagar/'>website development services in Bhavnagar</a>, and broader IT help for the town on our <a href='/palitana/'>Palitana services page</a>. Wherever you are, the steps are the same: WhatsApp brief, itemised quote, preview link, launch and two free months.`,
       ],
     },
@@ -326,7 +326,7 @@ const content: FreelanceContent = {
       { name: "Palitana town market", note: "Shops, clinics, schools and coaching classes serving residents need simple bilingual sites and accurate Maps listings." },
       { name: "Yatra operators", note: "Operators bringing groups from Mumbai, Ahmedabad and Rajasthan need package pages, transport details and group enquiry forms." },
       { name: "Sihor", note: "Steel re-rolling mills, brass ware makers and traders need capability and product pages for buyers.", href: "/gujarat/website-developer-sihor/" },
-      { name: "Gariadhar", note: "Diamond-polishing workshops and farm traders need profile pages and hiring pages in Gujarati." },
+      { name: "Gariadhar", note: "Diamond-polishing workshops and farm traders need profile pages and hiring pages in Gujarati.", href: "/gujarat/website-developer-gariadhar/" },
       { name: "Talaja", note: "Traders and services near the Alang belt need sites that buyers outside Saurashtra can check.", href: "/gujarat/website-developer-talaja/" },
       { name: "Mahuva", note: "Onion dehydration exporters and yard traders need English product pages and sample forms.", href: "/gujarat/website-developer-mahuva/" },
       { name: "Bhavnagar", note: "The district city's manufacturers, hospitals and institutions need larger sites; many Palitana suppliers are based there.", href: "/gujarat/website-development-services-bhavnagar/" },
@@ -374,6 +374,8 @@ const content: FreelanceContent = {
     heading: "More guides for Palitana and Bhavnagar district",
     links: [
       { name: "All Gujarat website guides", href: "/gujarat/" },
+      { name: "Website developer in Gadhada", href: "/gujarat/website-developer-gadhada/" },
+      { name: "Website developer in Alang", href: "/gujarat/website-developer-alang/" },
       { name: "Temple trust websites in Gujarat", href: "/gujarat/temple-trust-website-gujarat/" },
       { name: "Website developer in Amreli", href: "/gujarat/website-developer-amreli/" },
       { name: "Website developer in Sihor", href: "/gujarat/website-developer-sihor/" },

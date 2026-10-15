@@ -7,7 +7,7 @@ const manglaur: CityContent = {
   meta: {
     title: "IT Services in Manglaur: Websites, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Manglaur highway businesses, cane-belt suppliers, industrial vendors, schools and shops.",
+      "Hindi websites, apps, local SEO and WhatsApp tools for Manglaur highway businesses, cane-belt suppliers, industrial vendors, schools and shops. From ₹10,000.",
     keywords: [
       "IT services in Manglaur",
       "IT services team in Manglaur",
@@ -29,6 +29,12 @@ const manglaur: CityContent = {
       "Manglaur me app kaise banwaye",
       "मंगलौर वेबसाइट डिज़ाइन",
       "Narsan Landhaura web design",
+      "Manglaur website designer",
+      "web development company Manglaur",
+      "hire freelance web developer Manglaur",
+      "Haridwar district SEO",
+      "website designer Haridwar district",
+      "Uttarakhand SEO services",
     ],
   },
   hero: {

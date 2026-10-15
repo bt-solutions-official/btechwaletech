@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 18.5204, lng: 73.8567 },
   meta: {
-    title: "Hire Freelance IT Consultants in Pune: Software & AI",
+    title: "Pune IT Consultants: Auto Suppliers & Engineering",
     description:
-      "Freelance IT consultants in Pune for custom software, Android and iOS apps, AI automation, cloud, data and SEO, for Chakan suppliers, colleges and startups alike.",
+      "Freelance IT consultants in Pune for custom software, Android and iOS apps, AI automation, cloud, plus data and SEO. Software from ₹60,000, quote in two days.",
     keywords: [
       "IT solutions team in Pune",
       "best IT services team in Pune",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "software developers Hinjewadi Wakad",
       "पुण्यात आयटी सेवा",
       "पुणे में आईटी कंसल्टिंग",
+      "Pune website designer",
+      "website cost in Pune",
+      "IT company in Pune",
+      "Maharashtra SEO services",
+      "hire developer Pune",
+      "automotive software in Pune",
+      "engineering software in Pune",
+      "education software in Pune",
+      "healthcare software in Pune",
+      "website developer Hinjewadi Pune",
     ],
   },
   hero: {

@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "event management website Mumbai", "event management website Jaipur", "event management website Bengaluru", "destination event website",
       "how to get corporate event clients online", "event management website features", "event management ki website", "birthday party planner website",
       "conference organiser website", "event management website designer",
+      "best event management website design in India",
+      "event management website design services",
     ],
   },
   hero: {
@@ -188,7 +190,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A site with event-type pages, eight to twelve past-event case pages and a budget-based form fits our static plan starting at ${P.site} (${P.siteUsd} for companies abroad), and takes one to two weeks. Larger companies with dozens of case pages, several cities and a CMS for weekly updates cost more because of media preparation, not special technology.`,
         `Across the market, quotes for event management website design vary widely for similar briefs. The difference is usually in media: whether galleries are curated and compressed or dumped in full, whether videos are embedded properly or autoplayed, whether case pages are written or just titled. Ask each designer how they will handle a hundred photographs from one event; the answer tells you what the site will feel like on a phone.`,
-        `Our quote lists structure, number of event-type and case pages, media preparation, form and integrations separately. Maintenance is free for two months after launch, then optional from ${P.care} a month. Monthly SEO starts at ${P.seo}. If you later want a planning tool for tasks, vendors and budgets, custom software starts at ${P.software}.`,
+        `Our quote lists structure, number of event-type and case pages, media preparation, form and integrations separately. Maintenance is free for two months after launch, then optional from ${P.care}. Monthly SEO starts at ${P.seo}. If you later want a planning tool for tasks, vendors and budgets, custom software starts at ${P.software}.`,
       ],
     },
     {
@@ -382,7 +384,7 @@ const content: FreelanceContent = {
     { question: "Who owns the event website and its content?", answer: "You own the domain, hosting and code; we set them up in your name and hand over every login at launch. Photograph and video rights depend on your agreements with photographers, so confirm web use is covered. Get client permission before naming companies or showing guests." },
     { question: "Freelancer or agency for event management website design?", answer: "A small freelance team suits most event companies, because the work is structure, media handling, forms and speed, and you deal directly with the builders. A larger agency makes sense if you want branding, video production and paid campaigns in one contract. Ask any candidate how they would present a hundred photographs from one event." },
     { question: "How do payments work for an event website project?", answer: "Payments are staged against work you can see, and nothing is billed before you approve the itemised quote in writing. In India we accept UPI or bank transfer with an invoice; clients abroad pay in USD by Wise, bank wire or PayPal. Domain and hosting are billed to you directly by the providers." },
-    { question: "What maintenance does an event management website need?", answer: `Mostly new case pages after events, updated packages, seasonal banners, security updates and backups. The first two months after launch are free. After that, maintenance is optional from ${P.care} a month, or your team can post events through a CMS.` },
+    { question: "What maintenance does an event management website need?", answer: `Mostly new case pages after events, updated packages, seasonal banners, security updates and backups. The first two months after launch are free. After that, maintenance is optional from ${P.care}, or your team can post events through a CMS.` },
     { question: "Can you build software to manage events, vendors and budgets?", answer: `Yes, as a custom web app from ${P.software}, usually six to twelve weeks. It can hold run sheets, vendor schedules, budgets, guest lists and client approvals. Most companies launch the marketing site first and build the planning tool once they know which spreadsheets cause the most trouble.` },
     { question: "Event management ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath event company ki website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Isme event-type pages, past events ki galleries aur videos, budget wala enquiry form aur WhatsApp alert shaamil hote hain. Zyada events ya CMS alag line mein quote hote hain. Domain aur hosting aapke naam par rehte hain.` },
   ],

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Designer in Jamnagar: Built from ${P.site}`,
-    description: `Website designer in Jamnagar for brass makers, bandhani brands, clinics and hotels: layouts, photo direction and bilingual pages, designed and coded from ${P.site}.`,
+    description: `Website designer in Jamnagar for brass makers, bandhani brands, clinics and hotels: layouts, photo direction & bilingual pages, designed & coded from ${P.site}.`,
     keywords: [
       "website designer in Jamnagar", "website designer Jamnagar", "web designer Jamnagar Gujarat", "website designer near me",
       "website design Jamnagar", "web design services Jamnagar", "freelance website designer Jamnagar", "website design cost Jamnagar",

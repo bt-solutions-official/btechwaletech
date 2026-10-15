@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "best clinic management software for doctors", "how to choose clinic management software", "clinic EMR software India", "doctor appointment software",
       "clinic software Pune", "clinic software Lucknow", "clinic management software near me", "clinic ke liye software",
       "clinic management software development", "one-time cost clinic software",
+      "clinic management software company in India",
+      "clinic management software services",
     ],
   },
   hero: {

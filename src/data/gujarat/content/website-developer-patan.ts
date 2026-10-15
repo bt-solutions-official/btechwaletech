@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Patan, Gujarat from ${P.site}`,
-    description: `Website developer in Patan for heritage stays, student services, clinics, crafts and traders. Sites from ${P.site}, English, Hindi and Gujarati-ready, built remotely.`,
+    description: `Website developer in Patan for heritage stays, student services, clinics, crafts & traders. Sites from ${P.site}, English, Hindi & Gujarati-ready, remote build.`,
     keywords: [
       "website developer in Patan", "website developer Patan Gujarat", "website developer near me Patan", "Patan North Gujarat website",
       "web developer Patan", "website designer Patan", "website development services Patan", "website cost Patan",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "PG hostel website Patan", "tiffin service website Patan", "hospital website Patan", "school website Patan",
       "Gujarati website Patan", "Anhilwad Patan website", "Patan me website kaise banaye", "website banwani hai Patan",
       "website developer Chanasma", "website developer Sidhpur Patan", "freelance web developer Patan",
+      "Patan website design charges", "patola weaver website Patan", "Google Maps listing Patan",
     ],
   },
   hero: {

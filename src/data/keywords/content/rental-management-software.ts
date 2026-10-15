@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "best rental management software for small business", "shuttering rental software", "party rental software", "rental software for event equipment",
       "rental management software Lucknow", "rental management software Delhi", "tent house ka software", "rental management software near me",
       "rental software with deposit tracking", "rental delivery and pickup software", "rental software vs Excel",
+      "rental management software price", "rental management software company", "best rental management software in India", "rental management software cost in India",
     ],
   },
   hero: {
@@ -60,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Time to go live", value: "6–12 weeks, first module can run earlier" },
       { label: "Where it runs", value: "Your own cloud account, opened in any browser" },
       { label: "Paying us", value: "UPI or bank transfer in stages, after written approval" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -213,7 +214,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, custom rental management software starts at ${P.software} for the web app covering stock, calendar, orders, deposits and invoices. A crew or customer app starts at ${P.app}. The final quote depends on modules and data complexity.`,
         `What makes one rental system cost more than another? Kits with many parts and substitutions. Bulk pools with shortage billing. Several branches with stock transfers. Machine hire billed on engine hours with operator and fuel logs. Barcode or QR labelling across thousands of items. Importing years of old orders. Sync with Tally and a website booking page. None of these is exotic, but each is real work.`,
-        `Running costs are separate and paid by you: cloud hosting sized to your volume, a domain, WhatsApp or SMS message charges, and any e-invoice or payment provider fees. They are listed in the quote. Maintenance is free for two months after launch and then continues from ${P.care} a month if you want us to keep looking after it. Other developers’ quotes vary widely; the difference usually comes from which of the modules above are included, so compare line by line, not total by total.`,
+        `Running costs are separate and paid by you: cloud hosting sized to your volume, a domain, WhatsApp or SMS message charges, and any e-invoice or payment provider fees. They are listed in the quote. Maintenance is free for two months after launch and then continues from ${P.care} if you want us to keep looking after it. Other developers’ quotes vary widely; the difference usually comes from which of the modules above are included, so compare line by line, not total by total.`,
       ],
     },
     {
@@ -278,7 +279,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Rental management software handles the back office; customers still find you through Google Maps, search and, more and more, AI assistants answering “tent house near me” or “camera on rent in Mumbai”. A website connected to your stock data turns those searches into enquiries.`,
         `A simple approach is a catalogue site that reads item photos, descriptions and indicative rates from the rental system, with an enquiry or booking request that lands directly as a draft order. Customers see real items; you still confirm dates and deposits. A fuller approach shows live availability for chosen dates.`,
-        `Search visibility comes from clear, specific pages: each category, each service area you genuinely deliver to, and plain answers to common questions such as deposit, delivery charges and minimum hire. AI search tools tend to quote pages that answer those directly. Nobody can promise a ranking position. An SEO website with 299+ pages starts from ${P.seoSite}, and ongoing <a href='/services/seo-services/'>SEO services</a> start from ${P.seo} a month. Furniture hirers can also look at <a href='/furniture-website-design/'>furniture website design</a>, and event suppliers at <a href='/event-management-website-design/'>event website design</a>.`,
+        `Search visibility comes from clear, specific pages: each category, each service area you genuinely deliver to, and plain answers to common questions such as deposit, delivery charges and minimum hire. AI search tools tend to quote pages that answer those directly. Nobody can promise a ranking position. An SEO website with 299+ pages starts from ${P.seoSite}, and ongoing <a href='/services/seo-services/'>SEO services</a> start from ${P.seo}. Furniture hirers can also look at <a href='/furniture-website-design/'>furniture website design</a>, and event suppliers at <a href='/event-management-website-design/'>event website design</a>.`,
       ],
     },
     {
@@ -320,7 +321,7 @@ const content: FreelanceContent = {
         ["Several branches or yards", "Stock transfers, branch logins, consolidated reports", `${P.software} upwards`, "10–12 weeks"],
         ["Crew or customer app", "Route list, OTP handover, barcode scan, photos", `${P.app}`, "Adds 3–5 weeks"],
         ["Catalogue or booking website", "Items and rates pulled from the rental system", `${P.seoSite}`, "3–5 weeks"],
-        ["After launch", "Fixes, small rule changes, updates", `2 months free, then ${P.care}/month`, "Ongoing"],
+        ["After launch", "Fixes, small rule changes, updates", `2 months free, then ${P.care}`, "Ongoing"],
       ],
       hideSm: [3],
     },
@@ -372,7 +373,7 @@ const content: FreelanceContent = {
       ["Map items and rules together", "We agree codes for items, kit templates, bulk pools, turnaround times and charge rules. This short document becomes the backbone of the database."],
       ["Try the calendar early", "Around week four you enter real bookings in the test system beside your register. Mismatches show us which rules we misunderstood before billing is built."],
       ["Import data and run in parallel", "Open orders, deposits and masters are imported. For a week or two both systems run together until the numbers agree every evening."],
-      ["Go live and hand over", "You receive code, admin logins, backups and notes. Two months of free maintenance follow, then optional care from " + P.care + " a month."],
+      ["Go live and hand over", "You receive code, admin logins, backups and notes. Two months of free maintenance follow, then optional care from " + P.care + "."],
     ],
   },
   faqHeading: "Rental management software: common questions",
@@ -391,7 +392,7 @@ const content: FreelanceContent = {
     { question: "Does it support barcode or QR labels?", answer: "Yes. Each serial item or batch can get a barcode or QR label printed from the system. Scanning at dispatch and return speeds up counts and reduces mistakes, especially for costlier items like lights, cameras or machines. Labelling your existing stock is physical work on your side; we generate the label sheets and scanning screens." },
     { question: "Can I move my existing Excel and register data?", answer: "Yes. We clean and import item masters, customers, prices and all open bookings, plus deposits currently held as opening balances. Closed historical orders can be imported later or kept in your archive. A short period of running old and new methods side by side confirms the numbers match before you switch fully." },
     { question: "Who owns the software and data?", answer: "You do. The code sits in a repository under your account, the database runs in a cloud account opened in your name, and you hold all admin logins. At handover you receive deployment notes and a walkthrough recording, so another developer could take over if you ever wanted that." },
-    { question: "What happens after the software goes live?", answer: `Maintenance is free for two months after launch: bug fixes, small rule tweaks and updates. After that, ongoing care starts from ${P.care} a month if you want it, or your own developer can continue with the handover notes. New modules, such as a crew app or website, are quoted separately.` },
+    { question: "What happens after the software goes live?", answer: `Maintenance is free for two months after launch: bug fixes, small rule tweaks and updates. After that, ongoing care starts from ${P.care} if you want it, or your own developer can continue with the handover notes. New modules, such as a crew app or website, are quoted separately.` },
     { question: "Can the software bill construction equipment by hours?", answer: "Yes. For machines, the return or daily log can record engine hours or meter readings, and the rent is calculated from the difference at your hourly rate, with minimum billing if you use one. Operator charges and fuel can be separate lines. Site-wise running balances show what each project owes at any time." },
     { question: "Can customers book online?", answer: "They can send a booking request from your website, which arrives in the rental system as a draft order with the dates and items. Your staff confirm availability, deposit and delivery before it becomes a firm booking. A fuller setup shows live availability for chosen dates, which suits camera and furniture hire more than large weddings." },
     { question: "Do you visit our godown to set it up?", answer: "No. The team works remotely from India, so setup happens over WhatsApp calls, video calls and screen sharing. You or a staff member handle physical tasks such as labelling stock and printing test challans. In practice, most rental businesses find a recorded walkthrough and quick WhatsApp replies more useful than one visit." },

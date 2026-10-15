@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "zoho books webhook", "zoho books reconciliation automation", "zoho books integration for ecommerce", "zoho books custom app integration",
       "zoho books integration freelancer", "zoho books integration near me", "zoho books integration Bengaluru", "zoho books integration Mumbai",
       "zoho books integration Delhi", "zoho books connect karna hai", "zoho books automation expert", "zoho books whatsapp invoice",
+      "Zoho Books integration company", "best Zoho Books integration in India", "Zoho Books integration cost in India", "Zoho Books integration service",
     ],
   },
   hero: {
@@ -60,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Custom portal around Books", value: `From ${P.software}, 6–12 weeks` },
       { label: "India API endpoint", value: "zohoapis.in, with your organisation ID on every call" },
       { label: "Payment to us", value: "UPI or bank transfer; Wise, wire or PayPal from abroad" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -299,7 +300,7 @@ const content: FreelanceContent = {
       heading: "Who owns the integration, the tokens and the data?",
       paragraphs: [
         `You do. The API client is registered in your Zoho account, the server or function runs in your cloud account, the code sits in your repository, and the log database is yours. We work through access you grant and can revoke at any time.`,
-        `At handover you receive the source code, a runbook that explains how to restart the service and rotate the refresh token, the field-mapping sheet, the list of scopes, and a short video walkthrough. If you later move the work to another developer or bring it in-house, nothing needs our permission. Two months of maintenance are included after go-live; after that, support continues from ${P.care} a month if you want it, or not at all if you do not.`,
+        `At handover you receive the source code, a runbook that explains how to restart the service and rotate the refresh token, the field-mapping sheet, the list of scopes, and a short video walkthrough. If you later move the work to another developer or bring it in-house, nothing needs our permission. Two months of maintenance are included after go-live; after that, support continues from ${P.care} if you want it, or not at all if you do not.`,
       ],
     },
     {

@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "multi restaurant delivery app abu dhabi", "food delivery app development sharjah", "delivery app developers near me dubai",
       "flutter food delivery app", "food ordering app for cloud kitchens uae", "white label food delivery app uae",
       "remote app developers india for dubai", "food delivery admin panel development", "how to start a food delivery app in dubai",
+      "hire food delivery app development in the UAE", "freelance food delivery app development UAE",
     ],
   },
   hero: {

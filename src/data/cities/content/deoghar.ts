@@ -7,7 +7,7 @@ const deoghar: CityContent = {
   meta: {
     title: "Deoghar Website Design, Hindi SEO from ₹10,000",
     description:
-      "Websites, Hindi and English SEO, booking pages and WhatsApp automation for Deoghar hotels, peda makers, pandas, clinics and coaching centres. From ₹10,000.",
+      "Deoghar websites, Hindi and English SEO, booking pages and WhatsApp automation for hotels, peda makers, pandas, clinics and coaching centres. From ₹10,000.",
     keywords: [
       "website development team in Deoghar",
       "web design Deoghar",
@@ -25,6 +25,14 @@ const deoghar: CityContent = {
       "website maintenance Deoghar",
       "Deoghar me website kaise banwaye",
       "देवघर वेबसाइट डिज़ाइन",
+      "Deoghar website designer",
+      "web development company Deoghar",
+      "hire freelance developer Deoghar",
+      "Jharkhand SEO",
+      "website for hotels and dharamshalas in Deoghar",
+      "web designer in Tower Chowk, Deoghar",
+      "website for peda and sweet makers in Deoghar",
+      "mobile app developer in Deoghar",
     ],
   },
   hero: {

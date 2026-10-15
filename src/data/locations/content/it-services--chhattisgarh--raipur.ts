@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 21.2514, lng: 81.6296 },
   meta: {
-    title: "Freelance Software Developers in Raipur: ERP & AI",
+    title: "Raipur Software Developers: ERP & AI",
     description:
       "Freelance software developers for Raipur: ERP-style tools, transport and distribution apps, AI automation, dashboards, cloud and SEO. Starting at ₹10,000.",
     keywords: [
@@ -33,6 +33,12 @@ const content: CityContent = {
       "iPhone app developers Raipur",
       "रायपुर में सॉफ्टवेयर डेवलपर",
       "Raipur mein software banwana",
+      "Raipur website designer",
+      "website cost in Raipur",
+      "IT company in Raipur",
+      "Chhattisgarh SEO services",
+      "hire developer Raipur",
+      "steel software in Raipur",
     ],
   },
   hero: {

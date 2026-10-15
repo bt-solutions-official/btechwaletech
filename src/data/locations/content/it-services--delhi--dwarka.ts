@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.5921, lng: 77.046 },
   meta: {
-    title: "Freelance Software & App Developers in Dwarka",
+    title: "Dwarka App & Software Developers: Hospitals & Schools",
     description:
       "Hire freelance developers in Dwarka, Delhi instead of a software development team: clinic booking, school portals, society apps, AI bots and SEO from ₹10,000.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "Dwarka Expressway real estate CRM",
       "द्वारका में सॉफ्टवेयर डेवलपर",
       "Dwarka mein website aur app banane wale",
+      "Dwarka website designer",
+      "website cost in Dwarka",
+      "IT company in Dwarka",
+      "Delhi SEO services",
+      "hire developer Dwarka",
+      "hospitals software in Dwarka",
+      "schools software in Dwarka",
     ],
   },
   hero: {

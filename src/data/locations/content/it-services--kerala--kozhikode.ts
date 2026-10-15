@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 11.2588, lng: 75.7804 },
   meta: {
-    title: "Freelance Software & App Developers in Kozhikode",
+    title: "Kozhikode App Developers: Traders, Footwear & Clinics",
     description:
       "Freelance developers for Kozhikode traders, footwear makers and clinics, an alternative to a software development team: stores, apps, SEO. From ₹10,000.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT services near me Nadakkavu",
       "കോഴിക്കോട് സോഫ്റ്റ്‌വെയർ ഡെവലപ്പർ",
       "Calicut mein software developer",
+      "Kozhikode website designer",
+      "website cost in Kozhikode",
+      "IT company in Kozhikode",
+      "Kerala SEO services",
+      "hire developer Kozhikode",
+      "footwear software in Kozhikode",
+      "wholesale trade software in Kozhikode",
+      "timber software in Kozhikode",
+      "food software in Kozhikode",
+      "website developer SM Street Kozhikode",
     ],
   },
   hero: {

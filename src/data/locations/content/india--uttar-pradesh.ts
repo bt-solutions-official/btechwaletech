@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.8467, lng: 80.9462 },
   meta: {
-    title: "Freelance IT Consulting & Solutions in Uttar Pradesh",
+    title: "Uttar Pradesh IT Consulting: Brass, Carpets & Leather",
     description:
-      "IT consulting and digital transformation in Uttar Pradesh from a freelance team: software for ODOP clusters and exporters, Hindi AI agents, Android and iOS apps.",
+      "IT consulting in Uttar Pradesh from a freelance team: software for ODOP clusters and exporters, plus Hindi AI agents. Two months of free upkeep after launch.",
     keywords: [
       "IT solutions team in Uttar Pradesh",
       "IT consulting Uttar Pradesh",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "IT solutions near me Varanasi",
       "उत्तर प्रदेश में आईटी सॉल्यूशंस",
       "यूपी आईटी कंसल्टिंग",
+      "Uttar Pradesh website designer",
+      "website cost in Uttar Pradesh",
+      "IT company in Uttar Pradesh",
+      "Uttar Pradesh SEO services",
+      "hire developer Uttar Pradesh",
+      "brass software in Uttar Pradesh",
+      "carpets software in Uttar Pradesh",
+      "leather software in Uttar Pradesh",
     ],
   },
   hero: {

@@ -392,6 +392,7 @@ const content: FreelanceContent = {
     heading: "More business software pages for Bhiwadi",
     links: [
       { name: "All services in Bhiwadi", href: "/bhiwadi-rajasthan/" },
+      { name: "PHP Laravel developer in Bhiwadi", href: "/bhiwadi-rajasthan/laravel-developer/" },
       { name: "Custom software development in Bhiwadi", href: "/bhiwadi-rajasthan/custom-software-development/" },
       { name: "ERP software for manufacturing", href: "/bhiwadi-rajasthan/erp-software-for-manufacturing/" },
       { name: "CRM software development", href: "/bhiwadi-rajasthan/crm-software-development/" },

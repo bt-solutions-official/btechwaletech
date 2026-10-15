@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Hospital Website Design: OPD Booking from ${P.seoSite}`,
-    description: `Hospital website design for nursing homes and multi-speciality hospitals from ${P.seoSite}: department and doctor directory, OPD booking, cashless info and HIS links.`,
+    description: `Hospital website design for nursing homes and multi-speciality hospitals: doctor directory, OPD booking, cashless info and HIS links. From ${P.seoSite}.`,
     keywords: [
       "hospital website design", "hospital website design India", "hospital website development", "multi speciality hospital website",
       "nursing home website design", "hospital website with online appointment", "OPD booking website", "hospital website cost",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "NABH hospital website", "hospital website HIS integration", "hospital website designer near me", "hospital SEO India",
       "hospital website Delhi", "hospital website Hyderabad", "hospital website Lucknow", "hospital website Patna",
       "hospital ki website", "hospital website kaise banaye", "emergency button hospital website",
+      "hospital website design company in India",
+      "best hospital website design in India",
+      "hospital website design services",
     ],
   },
   hero: {
@@ -60,7 +63,7 @@ const content: FreelanceContent = {
       { label: "Patient portal or HIS sync", value: `Custom build from ${P.software}` },
       { label: "Teleconsult", value: "Booking plus video link, following Telemedicine Practice Guidelines" },
       { label: "Emergency", value: "Sticky call button, ambulance number, directions to casualty" },
-      { label: "Care after launch", value: `2 months free, then from ${P.care} a month` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -275,7 +278,7 @@ const content: FreelanceContent = {
       heading: "How to choose a hospital website design partner, and who owns the result?",
       paragraphs: [
         `Choose the builder who asks about your OPD flow, HIS and approval chain before showing designs. Ask for live links to data-heavy sites, ask how doctor schedules will be kept current, and ask what happens to the website if you change HIS vendor.`,
-        `Ownership should be explicit: the domain, hosting, code and all booking data belong to the hospital, in the hospital’s accounts. We set these up in your name, hand over the repository and admin access at launch, document every paid service with its renewal date and give your IT team what they need to run the site without us. Small edits and fixes are free for two months; after that care is optional from ${P.care} a month.`,
+        `Ownership should be explicit: the domain, hosting, code and all booking data belong to the hospital, in the hospital’s accounts. We set these up in your name, hand over the repository and admin access at launch, document every paid service with its renewal date and give your IT team what they need to run the site without us. Small edits and fixes are free for two months; after that care is optional from ${P.care}.`,
       ],
       list: [
         "Red flag: the website only works while you pay for a particular vendor’s software",
@@ -400,8 +403,8 @@ const content: FreelanceContent = {
     { question: "Should we use our HIS vendor’s website or build our own?", answer: "A vendor’s bundled website is convenient but often tied to that software; if you change HIS, the site may go with it. An independent site with an integration adapter keeps your web presence, content and SEO under your control, and only the adapter changes if you switch vendors. Check ownership terms carefully either way." },
     { question: "Do you visit the hospital during the project?", answer: "No. We are a remote freelance team and handle everything through video calls, WhatsApp and staging links. For photography of wards, OT and equipment, we suggest a local photographer or good phone photos taken by your staff following a shot list we provide. Hardware, networking and on-site IT are outside our scope." },
     { question: "Who owns the hospital website and its data?", answer: "The hospital. Domain, hosting, code repository and all booking data sit in the hospital’s accounts from day one. At launch you get admin access, the code, and a list of every paid service with renewal dates, so your IT team or another developer can take over without depending on us." },
-    { question: "What happens after the hospital website launches?", answer: `For two months we handle small edits, fixes and updates free: new doctors, changed OPD days, updated packages. After that, maintenance is optional and starts at ${P.care} a month. Your front office can also update doctors and schedules themselves through the admin or spreadsheet we set up. Changes they make appear on every related page.` },
-    { question: "How does SEO work for a hospital website?", answer: `Hospital SEO depends on having a precise page for each department, common procedure and doctor, correct Hospital and Physician schema, a Google Business Profile per branch and fast mobile pages. Ongoing work such as new procedure content and reporting starts at ${P.seo} a month. Nobody can guarantee rankings, particularly for competitive medical searches.` },
+    { question: "What happens after the hospital website launches?", answer: `For two months we handle small edits, fixes and updates free: new doctors, changed OPD days, updated packages. After that, maintenance is optional and starts at ${P.care}. Your front office can also update doctors and schedules themselves through the admin or spreadsheet we set up. Changes they make appear on every related page.` },
+    { question: "How does SEO work for a hospital website?", answer: `Hospital SEO depends on having a precise page for each department, common procedure and doctor, correct Hospital and Physician schema, a Google Business Profile per branch and fast mobile pages. Ongoing work such as new procedure content and reporting starts at ${P.seo}. Nobody can guarantee rankings, particularly for competitive medical searches.` },
     { question: "How do AI search engines choose which hospital pages to quote?", answer: "AI answer engines tend to quote pages that answer the question in the first sentence, show who reviewed the medical content and when, and are structured with clear headings. Procedure pages with a short answer, a “medically reviewed by” line naming the doctor and a review date are easier for them to cite than long marketing copy." },
     { question: "Can the website be in Hindi or regional languages?", answer: "Yes. We build multilingual hospital sites with proper language tags, usually starting with the emergency, OPD booking, visitor and cashless pages in the local language and expanding over time. You supply or approve the translations, especially for medical content, and we handle structure, layout and language switching. Each version gets its own URL." },
     { question: "Is patient data safe on a hospital website?", answer: "We collect only what booking needs, use HTTPS everywhere, store data in your own hosting or HIS, restrict admin access by role and keep backups. India’s DPDP Rules, 2025, notified in November 2025 and phasing in through May 2027, set out consent and notice duties; your legal adviser should approve the privacy notice we implement." },

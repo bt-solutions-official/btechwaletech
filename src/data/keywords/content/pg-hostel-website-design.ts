@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "PG near me website", "PG website Bengaluru", "PG hostel website Hyderabad", "hostel website Pune",
       "PG ki website kaise banaye", "working professionals PG website", "PG virtual tour website", "co-living booking website",
       "PG owner website with rent collection",
+      "PG hostel website design cost", "PG hostel website design price", "PG hostel website design company", "best PG hostel website design in India",
+      "PG hostel website design cost in India", "PG hostel website design near me",
     ],
   },
   hero: {

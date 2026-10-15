@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-07",
   meta: {
     title: `Website Developer in Viramgam from ${P.site}`,
-    description: `Website developer in Viramgam for transporters, auto-belt vendors, cotton traders and schools: fast sites from ${P.site}, Gujarati-ready, itemised quote in 2 days.`,
+    description: `Website developer in Viramgam for transporters, auto-belt vendors, cotton traders and schools: fast sites from ${P.site}, Gujarati-ready, quote in 2 days.`,
     keywords: [
       "website developer in Viramgam", "website developer Viramgam", "Viramgam website developer near me", "Viramgam Gujarat website",
       "web developer Viramgam", "website designer Viramgam", "website development services Viramgam", "website design Viramgam Ahmedabad",

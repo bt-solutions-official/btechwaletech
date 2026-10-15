@@ -7,7 +7,7 @@ const gobindgarh: CityContent = {
   meta: {
     title: "IT Services in Mandi Gobindgarh: Web, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, SEO, order software and WhatsApp automation for Mandi Gobindgarh rolling mills, steel traders, colleges and shops. From ₹10,000.",
+      "Mandi Gobindgarh websites, Android and iOS apps, SEO, order software and WhatsApp bots for rolling mills, steel traders, colleges and shops. From ₹10,000.",
     keywords: [
       "IT services in Mandi Gobindgarh",
       "IT services team in Gobindgarh",
@@ -30,6 +30,9 @@ const gobindgarh: CityContent = {
       "Gobindgarh vich website banwani",
       "Mandi Gobindgarh me website banwana",
       "ਮੰਡੀ ਗੋਬਿੰਦਗੜ੍ਹ ਵੈੱਬਸਾਈਟ",
+      "Mandi Gobindgarh website designer",
+      "web development company Mandi Gobindgarh",
+      "hire freelance developer Mandi Gobindgarh",
     ],
   },
   hero: {

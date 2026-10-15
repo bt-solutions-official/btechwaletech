@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "tax preparation website montreal", "t2 corporate tax accountant website", "gst hst accountant near me",
       "payroll service website design", "book a consultation accountant website", "tax season marketing for accountants",
       "accounting firm website design near me", "small accounting practice website", "bilingual accountant website quebec",
+      "hire accounting firm website design in Canada", "freelance accounting firm website design Canada",
     ],
   },
   hero: {

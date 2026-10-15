@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.6693, lng: 86.1511 },
   meta: {
-    title: "Freelance Software Developers in Bokaro Steel City",
+    title: "Bokaro Steel City Software Developers: School ERP",
     description:
       "Looking for a software development team in Bokaro? Hire our freelance group for school ERP, contractor tools, apps, AI automation and SEO. INR prices.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT services Balidih industrial area",
       "Bokaro mein software developer",
       "बोकारो में सॉफ्टवेयर डेवलपर",
+      "Bokaro website designer",
+      "website cost in Bokaro",
+      "IT company in Bokaro",
+      "Jharkhand SEO services",
+      "hire developer Bokaro",
+      "schools software in Bokaro",
+      "coaching centres software in Bokaro",
+      "steel software in Bokaro",
+      "balidih software in Bokaro",
+      "website developer City Centre Bokaro",
     ],
   },
   hero: {

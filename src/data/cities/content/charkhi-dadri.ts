@@ -7,7 +7,7 @@ const charkhiDadri: CityContent = {
   meta: {
     title: "IT Services in Charkhi Dadri: Web, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Charkhi Dadri traders, wrestling akharas, coaching centres, clinics and grain market firms.",
+      "Charkhi Dadri websites, Android and iOS apps, local SEO and WhatsApp automation for traders, wrestling akharas, coaching centres and clinics. ₹10,000 upwards.",
     keywords: [
       "IT services in Charkhi Dadri",
       "IT services team in Charkhi Dadri",
@@ -29,6 +29,10 @@ const charkhiDadri: CityContent = {
       "Charkhi Dadri me website banwana",
       "Dadri me app banwana",
       "चरखी दादरी वेबसाइट",
+      "Charkhi Dadri website designer",
+      "web development company Charkhi Dadri",
+      "hire freelance developer Charkhi Dadri",
+      "Haryana's district headquarters since 2016 SEO",
     ],
   },
   hero: {

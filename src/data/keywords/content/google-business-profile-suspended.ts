@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "Google Business Profile Suspended? How to Fix It",
-    description: `Google Business Profile suspended? Find the trigger, fix the listing, file the appeal with GST and shop proof, and stop it recurring. Local SEO from ${P.seo}.`,
+    description: `Google Business Profile suspended? Find the trigger, fix the listing, file the appeal with GST and shop proof, and stop repeats. Local SEO from ${P.seo}.`,
     keywords: [
       "google business profile suspended how to fix", "google business profile suspended", "google my business suspended",
       "gmb listing suspended", "google maps listing suspended", "google business profile reinstatement", "how to reinstate google business profile",
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What it costs to fix a suspended Google Business Profile",
-    note: `Recovering one suspended Google Business Profile is quoted as a small itemised job: diagnosis, fixes to the profile and website, and help with the appeal. The quote depends on how many listings are involved, whether duplicates need tracing, and whether your website's contact details and schema need correcting. Ongoing local SEO that keeps the profile healthy starts at ${P.seo} a month, and if you have no proper website, a static business site starts at ${P.site}. You get the itemised quote in about two working days and pay nothing before you approve it in writing.`,
+    note: `Recovering one suspended Google Business Profile is quoted as a small itemised job: diagnosis, fixes to the profile and website, and help with the appeal. The quote depends on how many listings are involved, whether duplicates need tracing, and whether your website's contact details and schema need correcting. Ongoing local SEO that keeps the profile healthy starts at ${P.seo}, and if you have no proper website, a static business site starts at ${P.site}. You get the itemised quote in about two working days and pay nothing before you approve it in writing.`,
   },
   guideLabel: "Suspended Google Business Profile recovery guide",
   guide: [
@@ -322,7 +322,7 @@ const content: FreelanceContent = {
       paragraphs: [
         "Get help if you cannot identify the trigger, if several listings or an agency's account are involved, if your documents do not match cleanly, or if an earlier appeal was already rejected. A fresh pair of eyes often spots a duplicate or a mismatch the owner has looked past.",
         "What we will not do: create a new listing to get round the suspension, invent a storefront, rent an address for you to show on Maps, buy reviews, or tell you reinstatement is certain. Only Google can reinstate a profile. What we can do is make sure the listing is compliant, the evidence is strong and the appeal is clear, and then keep the profile healthy.",
-        `Recovery is quoted as an itemised job; ongoing local SEO starts at ${P.seo} a month. Share your screenshots on WhatsApp and you get the quote in about two working days. See also our <a href='/google-penalty-recovery-services/'>penalty recovery</a> page if your website lost rankings at the same time.`,
+        `Recovery is quoted as an itemised job; ongoing local SEO starts at ${P.seo}. Share your screenshots on WhatsApp and you get the quote in about two working days. See also our <a href='/google-penalty-recovery-services/'>penalty recovery</a> page if your website lost rankings at the same time.`,
       ],
     },
   ],
@@ -425,7 +425,7 @@ const content: FreelanceContent = {
     { question: "Will I get my reviews back after reinstatement?", answer: "Usually the reviews, photos and listing history return with the reinstated profile, which is a major reason not to create a new listing. Rankings may take time to settle, especially if the previous position depended on a keyword-stuffed name. Check all details after reinstatement and resume normal review requests." },
     { question: "What if my appeal is rejected?", answer: "Read the stated reason, then look for what was not fixed: often a document that did not match, a duplicate still live, or an ineligible address. Correct it and use the next option Google offers in the appeals tool or support. If the business is not eligible at that address, change the setup instead of appealing repeatedly." },
     { question: "Can you guarantee my Google listing will be reinstated?", answer: "No. Only Google decides reinstatement, and anyone promising it cannot back that promise. We make sure the profile follows the guidelines, the evidence matches, the website agrees with the listing and the appeal is clear. If your business is not eligible at the current address, we tell you before you spend money." },
-    { question: "How much does it cost to fix a suspended Google Business Profile?", answer: `Recovery is quoted as an itemised job based on the number of listings, duplicates to trace and website changes needed, and the quote arrives in about two working days. Ongoing local SEO that keeps the profile healthy starts at ${P.seo} a month, and a basic business website starts at ${P.site}.` },
+    { question: "How much does it cost to fix a suspended Google Business Profile?", answer: `Recovery is quoted as an itemised job based on the number of listings, duplicates to trace and website changes needed, and the quote arrives in about two working days. Ongoing local SEO that keeps the profile healthy starts at ${P.seo}, and a basic business website starts at ${P.site}.` },
     { question: "Do I need to visit a Google office to fix a suspension?", answer: "No. Google Business Profile appeals and verification are done online, from the owner's Google account, with uploaded documents and, if requested, a video or live video call. We also work fully remotely over WhatsApp and video calls; we do not visit premises, and you capture photos and video using our checklist." },
     { question: "Can an agency or former employee cause my profile to be suspended?", answer: "Yes. Anyone with manager or owner access can edit the name, address or category, and some agencies keyword-stuff names or create duplicate listings. Keep ownership on a business account you control, review managers monthly and remove anyone who no longer works with you. Their edits count as yours." },
     { question: "Does a suspended profile affect my website's Google ranking?", answer: "A Business Profile suspension affects Maps and local pack visibility, not your website's organic ranking directly. However, you lose the calls, directions and clicks the listing sent, so traffic can drop. Keep your website's contact details prominent and consistent while the appeal is pending, and check Search Console separately." },

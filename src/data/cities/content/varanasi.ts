@@ -7,7 +7,7 @@ const varanasi: CityContent = {
   meta: {
     title: "IT Services in Varanasi: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and automation for Varanasi saree weavers, ghat-side hotels, clinics and institutes. Sites from ₹10,000, itemised quotes, full ownership for you.",
+      "Websites, SEO and automation for Varanasi saree weavers, ghat-side hotels, clinics and institutes. Websites from ₹10,000, and the code stays yours.",
     keywords: [
       "website development in Varanasi",
       "web design team Varanasi",
@@ -25,6 +25,16 @@ const varanasi: CityContent = {
       "website maintenance Varanasi",
       "Banaras me website banwana",
       "वाराणसी में वेबसाइट बनवाना",
+      "Varanasi website designer",
+      "web development company Varanasi",
+      "hire freelance web developer Varanasi",
+      "Uttar Pradesh SEO services",
+      "Varanasi me website kaise banwaye",
+      "Varanasi website banwane ka kharcha",
+      "Varanasi wholesale traders website",
+      "wholesale traders website design Varanasi",
+      "website design Madanpura Varanasi",
+      "website design Lohta Varanasi",
     ],
   },
   hero: {

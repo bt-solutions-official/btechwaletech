@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 17.6868, lng: 83.2185 },
   meta: {
-    title: "Freelance Software Developers in Visakhapatnam",
+    title: "Visakhapatnam Software Developers: Port, Steel & Pharma",
     description:
-      "Freelance software developers in Visakhapatnam for custom software, web and mobile apps, AI agents, dashboards and cloud. Starting prices published, quote in 2 days.",
+      "Freelance software developers in Visakhapatnam for custom software, web and mobile apps, plus AI agents. Starting prices published, quote in 2 days.",
     keywords: [
       "software development team in Visakhapatnam",
       "IT services team in Visakhapatnam",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "iOS app development Vizag",
       "mobile app developers Visakhapatnam",
       "iPhone app developers Vizag",
+      "Visakhapatnam website designer",
+      "website cost in Visakhapatnam",
+      "IT company in Visakhapatnam",
+      "Andhra Pradesh SEO services",
+      "hire developer Visakhapatnam",
+      "shipping software in Visakhapatnam",
     ],
   },
   hero: {

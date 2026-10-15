@@ -7,7 +7,7 @@ const sitapur: CityContent = {
   meta: {
     title: "Sitapur Web Developer, SEO & Stores | From ₹10,000",
     description:
-      "Hindi-first websites, local SEO, durrie stores and WhatsApp automation for Sitapur traders, Naimisharanya hosts, schools, eye and general clinics. From ₹10,000.",
+      "Hindi-first websites, SEO and durrie stores for Sitapur traders, Naimisharanya hosts, schools, eye and general clinics. From ₹10,000, 2 months free upkeep.",
     keywords: [
       "website development team in Sitapur",
       "web designer Sitapur",
@@ -25,6 +25,16 @@ const sitapur: CityContent = {
       "ecommerce website Sitapur",
       "Sitapur me website banwana",
       "website maintenance Sitapur",
+      "Sitapur website designer",
+      "website cost in Sitapur",
+      "web development company Sitapur",
+      "hire freelance web developer Sitapur",
+      "Uttar Pradesh SEO services",
+      "Sitapur wholesale trade website",
+      "wholesale trade website design Sitapur",
+      "Sitapur retail showrooms website",
+      "retail showrooms website design Sitapur",
+      "website design Ghanta Ghar Sitapur",
     ],
   },
   hero: {

@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 10.5276, lng: 76.2144 },
   meta: {
-    title: "Freelance Software & IT Developers in Thrissur",
+    title: "Thrissur Software Developers: Gold, Textile & Finance",
     description:
       "Freelance developers for Thrissur jewellers, showrooms and finance firms, an alternative to a software development team: apps, AI, SEO. From ₹10,000.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT services near me Punkunnam",
       "തൃശ്ശൂരിലെ സോഫ്റ്റ്‌വെയർ ഡെവലപ്പർ",
       "Thrissur mein software developer",
+      "Thrissur website designer",
+      "website cost in Thrissur",
+      "IT company in Thrissur",
+      "Kerala SEO services",
+      "hire developer Thrissur",
+      "gold software in Thrissur",
+      "textile software in Thrissur",
+      "finance software in Thrissur",
+      "temple-town software in Thrissur",
+      "website developer Swaraj Round Thrissur",
     ],
   },
   hero: {

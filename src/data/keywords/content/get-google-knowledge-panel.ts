@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "How to Get Google Knowledge Panel: Steps & Timeline",
-    description: `How to get Google knowledge panel for a business or founder: entity signals, Organization and Person schema with sameAs, Wikidata, claiming. From ${P.seo}/month.`,
+    description: `How to get Google knowledge panel for a business or founder: entity signals, Organization and Person schema with sameAs, Wikidata, claiming. From ${P.seo}.`,
     keywords: [
       "how to get google knowledge panel", "how to get a google knowledge panel", "google knowledge panel", "knowledge panel for business",
       "knowledge panel for personal brand", "how to create google knowledge panel", "google knowledge panel for founder",
@@ -49,7 +49,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How do you get a Google knowledge panel?",
-    text: `You cannot apply for a Google knowledge panel; Google creates one when its Knowledge Graph is confident about an entity. To get there, publish consistent facts about the business or person, add Organization or Person schema with sameAs links to official profiles, earn mentions on authoritative sites, and use Wikidata only if genuinely notable. Once it appears, claim it. BtechWaleTech helps from ${P.seo} a month.`,
+    text: `You cannot apply for a Google knowledge panel; Google creates one when its Knowledge Graph is confident about an entity. To get there, publish consistent facts about the business or person, add Organization or Person schema with sameAs links to official profiles, earn mentions on authoritative sites, and use Wikidata only if genuinely notable. Once it appears, claim it. BtechWaleTech helps from ${P.seo}.`,
     more: `Local shops and clinics usually need a <a href='/google-business-profile-expert/'>Google Business Profile</a> instead; for how entities affect AI answers, see <a href='/generative-engine-optimization-services/'>generative engine optimization services</a>.`,
   },
   snapshot: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "What it is", value: "An automatic information box about an entity in Google Search" },
       { label: "Who usually gets one", value: "Companies, founders, authors, public figures, organisations with a documented footprint" },
       { label: "Main levers", value: "Consistent facts, schema with sameAs, trusted mentions, Wikidata where eligible" },
-      { label: "Entity SEO work", value: `From ${P.seo} a month (${P.seoUsd} abroad)` },
+      { label: "Entity SEO work", value: `From ${P.seo} (${P.seoUsd} abroad)` },
       { label: "Personal or brand site", value: `From ${P.site} if you need an official home page` },
       { label: "Timeline", value: "Usually months; depends on how much the web already says about you" },
       { label: "Never included", value: "Paid Wikipedia articles, fake press, guaranteed panels" },
@@ -91,7 +91,7 @@ const content: FreelanceContent = {
       ["Promise made", "A panel by a date", "None", "Stronger signals, no guarantee"],
       ["Useful even if no panel appears", "Rarely", "Somewhat", "Yes: clearer brand search and AI answers"],
       ["Claiming help", "Varies", "Google’s help pages", "Step-by-step once the panel exists"],
-      ["Starting cost", "Varies widely", "Your time", `From ${P.seo} a month`],
+      ["Starting cost", "Varies widely", "Your time", `From ${P.seo}`],
     ],
     fine: "If you are already widely covered in national media and have a Wikipedia article, a panel may exist or arrive without any help; then you mainly need to claim it and fix facts.",
   },
@@ -333,10 +333,10 @@ const content: FreelanceContent = {
       note: "Starting prices for our work. Google charges nothing and no one can sell a panel; timelines depend on your existing footprint.",
       columns: ["Starting point", "Work needed", "Starts at", "Realistic timeline"],
       rows: [
-        ["Widely covered, messy profiles", "Audit, schema, profile alignment, claiming", `${P.seo}/month`, "Weeks to a few months"],
-        ["Some coverage, no official page", "Official site or about page plus schema", `${P.site} + ${P.seo}/month`, "Several months"],
-        ["Little coverage", "Entity foundations plus earning mentions", `${P.seo}/month (${P.seoUsd})`, "Many months; may not happen"],
-        ["Company plus founders", "Linked Organization and Person entities", `${P.seo}/month`, "Several months"],
+        ["Widely covered, messy profiles", "Audit, schema, profile alignment, claiming", `${P.seo}`, "Weeks to a few months"],
+        ["Some coverage, no official page", "Official site or about page plus schema", `${P.site} + ${P.seo}`, "Several months"],
+        ["Little coverage", "Entity foundations plus earning mentions", `${P.seo} (${P.seoUsd})`, "Many months; may not happen"],
+        ["Company plus founders", "Linked Organization and Person entities", `${P.seo}`, "Several months"],
         ["Brand site rebuild", "Larger site with author and team pages", `${P.seoSite}`, "3–5 weeks to launch"],
         ["After launch care", "Updates, fixes after free period", `${P.care}`, "After 2 free months"],
       ],

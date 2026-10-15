@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "desktop billing software", "desktop vs web application", "msix installer", "code signing windows app",
       "desktop application developer near me", "desktop software developer Ludhiana", "desktop software developer Rajkot", "desktop software banwana hai",
       "cross platform desktop app", "desktop application maintenance",
+      "desktop application development company in India",
+      "best desktop application development in India",
+      "desktop application development services",
     ],
   },
   hero: {

@@ -22,6 +22,9 @@ const content: FreelanceContent = {
       "how long does core update recovery take", "site hit by core update", "traffic dropped after google update", "core update se traffic gira",
       "google algorithm update recovery service", "core update recovery for blogs", "core update recovery ecommerce", "ymyl site recovery",
       "google core update recovery consultant", "author page seo", "core update recovery checklist", "google update recovery near me",
+      "google core update recovery company in India",
+      "google core update recovery cost in India",
+      "best google core update recovery in India",
     ],
   },
   hero: {

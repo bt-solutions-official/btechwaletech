@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Manesar", "website developer Dwarka Expressway", "corporate website developer Gurgaon", "startup website developer Gurugram",
       "real estate website developer Gurgaon", "WordPress developer Gurgaon", "Next.js developer Gurgaon", "website developer Haryana",
       "Gurgaon me website kaise banwaye", "website banwane ka kharcha Gurgaon",
+      "website developer in Gurgaon cost", "website developer in Gurgaon price", "hire website developer in Gurgaon", "freelance website developer in Gurgaon",
+      "best website developer in Gurgaon", "website developer in Gurgaon charges",
     ],
   },
   hero: {
@@ -60,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Timeline", value: "1–2 weeks for a business site; 3–5 weeks for an SEO site" },
       { label: "How we work", value: "Remote: video calls, WhatsApp, screen-share reviews and a staging link" },
       { label: "Ownership", value: "Domain, hosting, code and analytics registered to you" },
-      { label: "After launch", value: `2 months free, then optional care from ${P.care} a month` },
+      { label: "After launch", value: `2 months free, then optional care from ${P.care}` },
     ],
   },
   services: {
@@ -253,7 +255,7 @@ const content: FreelanceContent = {
         `A good developer lays the foundations; rankings then depend on competition, content and time, and nobody can promise them. Every site we build has unique titles and descriptions, clean URLs, fast mobile pages aimed at passing Core Web Vitals, structured data, a sitemap and Search Console in your name.`,
         `Gurgaon adds a twist: two names. People type “dentist Gurgaon” and “dentist Gurugram”, and Google understands both mean the same place, but your titles, Business Profile and copy should use the name your customers use, with the other appearing naturally. After launch we check Search Console to see which form brings impressions.`,
         `For local searches the Google Business Profile does much of the work. We match name, address and phone exactly between profile and site, add LocalBusiness schema and link the two; Google's <a href='https://support.google.com/business/' rel='noopener'>Business Profile help</a> explains verification. If you serve several sectors or nearby towns, a separate landing page for each, with genuinely different content, beats one page listing twenty localities.`,
-        `AI assistants such as ChatGPT and Google's AI Overviews tend to quote plain, specific statements, so we write facts clearly: what you do, where in Gurgaon, for whom, and how to enquire. Ongoing SEO starts at ${P.seo} a month, and the <a href='/seo-website-developer/'>SEO website developer</a> page explains the larger page-set approach.`,
+        `AI assistants such as ChatGPT and Google's AI Overviews tend to quote plain, specific statements, so we write facts clearly: what you do, where in Gurgaon, for whom, and how to enquire. Ongoing SEO starts at ${P.seo}, and the <a href='/seo-website-developer/'>SEO website developer</a> page explains the larger page-set approach.`,
       ],
     },
     {
@@ -311,7 +313,7 @@ const content: FreelanceContent = {
       heading: "What happens after launch? Two free months, then optional care",
       paragraphs: [
         `Every site we launch includes two months of maintenance free: bug fixes, small text and photo changes, tested updates, backups and a Search Console check once Google starts crawling. Those weeks are when real visitors reveal what the brief missed, such as a confusing menu label or a form field nobody fills in.`,
-        `From the third month, care is optional and starts at ${P.care} a month. It typically covers updates tried on staging first, backups to storage you own, uptime and SSL monitoring, form tests and an allowance of small edits sent on WhatsApp. A static consultancy site needs little; a WordPress site with weekly posts and several plugins benefits from regular attention.`,
+        `From the third month, care is optional and starts at ${P.care}. It typically covers updates tried on staging first, backups to storage you own, uptime and SSL monitoring, form tests and an allowance of small edits sent on WhatsApp. A static consultancy site needs little; a WordPress site with weekly posts and several plugins benefits from regular attention.`,
         `You can also run the site yourself or hand it to someone in-house. Because logins, code and backups are already yours, there is nothing to release. Plenty of Gurgaon teams keep a marketing executive on routine edits and call us for bigger changes, which is a sensible split.`,
         `Planning a product launch, a funding announcement or a new property project? Tell us two weeks ahead and we will hold back risky updates and prepare pages in advance. More detail is on <a href='/website-maintenance-freelancer/'>website maintenance by a freelancer</a>.`,
       ],
@@ -350,7 +352,7 @@ const content: FreelanceContent = {
         ["Real estate project microsite", "Builders and channel partners", `From ${P.site}`, "1–2 weeks"],
         ["SEO website of 299+ pages", "Multi-location services, large catalogues, directories", `From ${P.seoSite}`, "3–5 weeks"],
         ["Client portal or web app", "Firms needing logins, records or quote tools", `From ${P.software}`, "6–12 weeks"],
-        ["Care after the free period", "Any live site", `From ${P.care} a month`, "Ongoing, optional"],
+        ["Care after the free period", "Any live site", `From ${P.care}`, "Ongoing, optional"],
       ],
       hideSm: [1],
     },
@@ -435,7 +437,7 @@ const content: FreelanceContent = {
     { question: "Do you write the content for the website?", answer: "We write and edit English and Hindi copy from your notes, a call or your existing material, and keep claims to what you can stand behind. Prices, registrations, team details and technical facts come from you. For other languages your translator supplies or approves the text and we build the pages. Most clients find a call followed by our draft quicker than writing from scratch." },
     { question: "Can you rebuild our old website without losing Google traffic?", answer: "Yes. We list every current URL, keep pages that already bring visitors, set up redirects from old addresses to new ones, and carry over titles and descriptions that work. Business email is protected during the switch, and the new site is tested on staging before the domain points to it. Search Console is checked after launch so any errors surface early." },
     { question: "How do payments for a Gurgaon website work?", answer: "Payments are in INR by UPI or bank transfer, in stages set out in your written quote and linked to work you can see on staging. Nothing is billed before you approve the quote. Third-party costs such as domain, hosting and email are paid by you directly to those providers, so you can see exactly what each one charges and when it renews." },
-    { question: "What happens when the two free months of maintenance end?", answer: `You choose. Optional care starts at ${P.care} a month and covers tested updates, backups, monitoring and an allowance of small edits. You can also handle edits in-house or move to another developer, since every login, backup and line of code is already yours. Nothing renews automatically, and nothing is held back if you decide to stop.` },
+    { question: "What happens when the two free months of maintenance end?", answer: `You choose. Optional care starts at ${P.care} and covers tested updates, backups, monitoring and an allowance of small edits. You can also handle edits in-house or move to another developer, since every login, backup and line of code is already yours. Nothing renews automatically, and nothing is held back if you decide to stop.` },
     { question: "Do you also build apps and web portals for Gurgaon businesses?", answer: `Yes, as separate projects. Client portals and custom web apps start at ${P.software}, Android and iOS apps at ${P.app}, and AI or WhatsApp automation at ${P.ai}. Many clients begin with the website and add a portal or automation once enquiries grow, built by the same three developers who already know their business and their data.` },
     { question: "Is a freelance team reliable enough compared with an agency?", answer: "Reliability comes from process more than headcount. All three of us know each project, so work continues if one person is away; scope, payments and approvals are in writing; and every account is in your name. For business sites, supplier sites and portals that is enough. If you need many developers at once, or someone at your premises weekly, a large agency fits better." },
     { question: "Do you work with businesses outside Gurgaon city?", answer: "Yes, across the NCR and the rest of India on the same terms. Clients in Manesar, Sohna, Pataudi, Rewari, Faridabad, Delhi and Noida get the same remote process, starting prices and ownership rules. Separate guides cover website developers in Delhi, Noida and Faridabad, and our Haryana pages cover Panipat and Karnal further up the national highway." },

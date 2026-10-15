@@ -7,7 +7,7 @@ const nowgong: CityContent = {
   meta: {
     title: "IT Services in Nowgong | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Nowgong highway hotels, colleges, grain and dal traders, clinics and shops.",
+      "Hindi websites, apps, Maps SEO and WhatsApp automation for Nowgong highway hotels, colleges, grain and dal traders, clinics and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Nowgong",
       "IT services team in Nowgong",
@@ -29,6 +29,12 @@ const nowgong: CityContent = {
       "Nowgong me website banwana",
       "Nowgaon me app kaise banwaye",
       "नौगांव वेबसाइट डिजाइन",
+      "Nowgong website designer",
+      "web development company Nowgong",
+      "hire freelance web developer Nowgong",
+      "Chhatarpur district SEO",
+      "website designer Chhatarpur district",
+      "Madhya Pradesh SEO services",
     ],
   },
   hero: {

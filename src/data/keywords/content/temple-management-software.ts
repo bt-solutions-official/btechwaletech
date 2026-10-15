@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Temple Management Software for Trusts from ${P.software}`,
-    description: `Temple management software for temples and trusts: donations with 80G receipts, pooja and seva booking, prasad courier, guest rooms and accounts. From ${P.software}.`,
+    description: `Temple management software for trusts: donations with 80G receipts, pooja and seva booking, prasad courier, rooms and accounts. From ${P.software}.`,
     keywords: [
       "temple management software", "temple management software India", "temple trust software", "temple donation software",
       "temple management system", "mandir management software", "80G receipt software for trust", "donation receipt software",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "temple management software price", "temple management software cost", "temple app development", "gurudwara and mandir software",
       "temple software with UPI donation", "how to manage temple accounts", "temple management software Tamil Nadu", "temple management software Varanasi",
       "mandir ke liye software", "devasthanam management software", "temple management software near me",
+      "temple management software company", "best temple management software in India", "temple management software cost in India",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const sojat: CityContent = {
   meta: {
     title: "IT Services in Sojat: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, SEO and WhatsApp automation for Sojat mehndi processors, exporters, traders, temple trusts, schools and bazaar shops.",
+      "Websites, apps, SEO and WhatsApp automation for Sojat mehndi processors, exporters, traders, temple trusts, schools and bazaar shops. From ₹10,000.",
     keywords: [
       "IT services in Sojat",
       "IT services team in Sojat",
@@ -29,6 +29,12 @@ const sojat: CityContent = {
       "Sojat me website banwana",
       "Sojat mein app kaise banwaye",
       "Pali Sojat digital marketing",
+      "Sojat website designer",
+      "web development company Sojat",
+      "hire freelance web developer Sojat",
+      "Pali district SEO",
+      "website designer Pali district",
+      "Rajasthan SEO services",
     ],
   },
   hero: {

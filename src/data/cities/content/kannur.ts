@@ -7,7 +7,7 @@ const kannur: CityContent = {
   meta: {
     title: "IT Services in Kannur | Web, Apps & AI from ₹10,000",
     description:
-      "Malayalam and English websites, Android and iOS apps, local SEO and WhatsApp automation for Kannur handloom exporters, traders, hospitals, colleges and homestays.",
+      "Kannur Malayalam and English websites, mobile apps, local SEO and WhatsApp bots for handloom exporters, traders, hospitals and colleges. ₹10,000 onwards.",
     keywords: [
       "IT services in Kannur",
       "IT services team in Kannur",
@@ -29,6 +29,10 @@ const kannur: CityContent = {
       "Kannur me website banwana",
       "Kannuril website undakkan",
       "കണ്ണൂർ വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Kannur website designer",
+      "web development company Kannur",
+      "hire freelance developer Kannur",
+      "Kerala SEO",
     ],
   },
   hero: {

@@ -6,12 +6,24 @@ import type { FreelanceContent } from "@data/freelance/types";
 // /{country}/{service}/ keyword pages for the countries in markets.ts. Like [keyword].astro, a page is only generated once its content file exists.
 export function getStaticPaths() {
   const modules = import.meta.glob<{ default: FreelanceContent }>("../../data/keywords/countries/*/*.ts", { eager: true });
+
+  // A /{country}/{service}/ page only exists once its content file does, so a related link into that namespace
+  // can point at a page nobody has written yet. Drop those rather than ship 404s, the same way [city].astro
+  // filters its nearby links. Links anywhere else (/usa/, /pricing/, /{keyword}/) are left alone.
+  const built = new Set(Object.values(modules).map((m) => m.default.path));
+  const countrySlugs = new Set(markets.map((m) => m.slug));
+  const resolves = (href: string) => {
+    const [, country, service] = href.split("/");
+    return !(service && countrySlugs.has(country)) || built.has(href);
+  };
+
   return Object.entries(modules).map(([file, { default: content }]) => {
     const [country, service] = file.replace(/\.ts$/, "").split("/").slice(-2);
     const market = markets.find((m) => m.slug === country);
     if (!market) throw new Error(`${file}: "${country}" is not in src/data/keywords/markets.ts`);
     if (content.path !== `/${country}/${service}/`) throw new Error(`${file} has path "${content.path}", expected "/${country}/${service}/"`);
-    return { params: { country, service }, props: { content, market } };
+    const related = { ...content.related, links: content.related.links.filter((l) => resolves(l.href)) };
+    return { params: { country, service }, props: { content: { ...content, related }, market } };
   });
 }
 

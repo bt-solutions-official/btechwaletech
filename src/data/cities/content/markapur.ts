@@ -7,7 +7,7 @@ const markapur: CityContent = {
   meta: {
     title: "IT Services in Markapur | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Markapur slate units, Srisailam-route lodges, traders, clinics and colleges.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Markapur slate units, Srisailam-route lodges, traders, clinics and colleges. Websites from ₹10,000.",
     keywords: [
       "IT services in Markapur",
       "IT services team in Markapur",
@@ -30,6 +30,11 @@ const markapur: CityContent = {
       "Markapur me website banwana",
       "Markapuram lo website cheyinchali",
       "మార్కాపురం వెబ్‌సైట్ డిజైన్",
+      "Markapuram website designer",
+      "website cost in Markapuram",
+      "web development company Markapuram",
+      "hire freelance web developer Markapuram",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

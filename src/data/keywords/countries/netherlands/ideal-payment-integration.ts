@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "ideal payment integration cost", "ideal developer netherlands", "payment service provider netherlands integration",
       "ideal integration amsterdam", "ideal integration rotterdam", "ideal integration utrecht", "ideal integration eindhoven",
       "ideal for subscriptions", "ideal for platforms and marketplaces", "ideal payment integration near me",
+      "hire ideal payment integration in the Netherlands", "freelance ideal payment integration Netherlands",
     ],
   },
   hero: {

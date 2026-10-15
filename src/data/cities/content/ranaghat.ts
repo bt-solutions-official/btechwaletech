@@ -7,7 +7,7 @@ const ranaghat: CityContent = {
   meta: {
     title: "IT Services in Ranaghat: Websites, Apps, SEO & AI",
     description:
-      "Websites, Google Maps setup, saree stores and WhatsApp automation for Ranaghat shops, Phulia weavers, flower traders, clinics and tutors across Nadia.",
+      "Websites, Maps setup, saree stores and WhatsApp tools for Ranaghat shops, Phulia weavers, flower traders, clinics and tutors across Nadia. Sites from ₹10,000.",
     keywords: [
       "website development team in Ranaghat",
       "web designer Ranaghat Nadia",
@@ -25,6 +25,16 @@ const ranaghat: CityContent = {
       "website maintenance Ranaghat",
       "Ranaghat e website banate koto khoroch",
       "রানাঘাট ওয়েবসাইট ডিজাইন",
+      "Ranaghat website designer",
+      "web development company Ranaghat",
+      "hire freelance web developer Ranaghat",
+      "Nadia SEO services",
+      "website designer Nadia",
+      "West Bengal SEO services",
+      "website design Nasra Para Ranaghat",
+      "website design Court Para Ranaghat",
+      "website design Aistala Ranaghat",
+      "website design Nasra Ranaghat",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const dalliRajhara: CityContent = {
   meta: {
     title: "IT Services in Dalli-Rajhara | Web, Apps & AI",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Dalli-Rajhara mine contractors, transporters, workshops, clinics, schools and shops.",
+      "Dalli-Rajhara Hindi websites, mobile apps, local SEO and WhatsApp automation for mine contractors, transporters, workshops, clinics and schools. From ₹10,000.",
     keywords: [
       "IT services in Dalli-Rajhara",
       "IT services team in Dalli Rajhara",
@@ -28,6 +28,11 @@ const dalliRajhara: CityContent = {
       "Dalli Rajhara me website banwana",
       "Dalli Rajhara app banwana",
       "दल्ली राजहरा वेबसाइट डिजाइन",
+      "Dalli-Rajhara website designer",
+      "web development company Dalli-Rajhara",
+      "hire freelance developer Dalli-Rajhara",
+      "Chhattisgarh SEO",
+      "Dalli-Rajhara me website kaise banwaye",
     ],
   },
   hero: {

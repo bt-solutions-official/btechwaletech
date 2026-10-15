@@ -7,7 +7,7 @@ const mumbai: CityContent = {
   meta: {
     title: "IT Services in Mumbai: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Mumbai businesses. Sites from ₹10,000, published prices, 2 months of free maintenance after launch.",
+      "Mumbai websites, local SEO and UPI stores for wholesale and textile traders, jewellers, freight agents and coaching brands. Sites from ₹10,000.",
     keywords: [
       "website development team in Mumbai",
       "web design team Mumbai",
@@ -25,6 +25,16 @@ const mumbai: CityContent = {
       "website maintenance Mumbai",
       "Mumbai mein website banane wala",
       "मुंबईत वेबसाइट बनवणे",
+      "website cost in Mumbai",
+      "web development company Mumbai",
+      "hire freelance web developer Mumbai",
+      "Maharashtra SEO services",
+      "Mumbai me website kaise banwaye",
+      "Mumbai website banwane ka kharcha",
+      "Mumbai jewellery website",
+      "jewellery website design Mumbai",
+      "Mumbai healthcare website",
+      "healthcare website design Mumbai",
     ],
   },
   hero: {

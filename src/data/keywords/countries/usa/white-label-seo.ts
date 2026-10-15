@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `White Label SEO Services: ${P.seo} wholesale`,
-    description: `White label SEO services for US agencies: technical audits, on-page and local SEO fulfilled under your brand from ${P.seo} per client, with unbranded reports.`,
+    description: `White label SEO services for US agencies: technical audits, on-page and local SEO under your brand from ${P.seo} per client, with unbranded reports.`,
     keywords: [
       "white label seo services", "white label seo", "white label seo for agencies", "white label seo reseller",
       "seo reseller program", "private label seo", "wholesale seo services", "outsourced seo fulfillment",

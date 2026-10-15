@@ -7,7 +7,7 @@ const upleta: CityContent = {
   meta: {
     title: "IT Services in Upleta | Web, Apps & AI from ₹10,000",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Upleta groundnut oil mills, farm traders, schools, hospitals and bazaar shops.",
+      "Gujarati websites, apps, local SEO and WhatsApp tools for Upleta groundnut oil mills, farm traders, schools, hospitals and bazaar shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Upleta",
       "IT services team in Upleta",
@@ -29,6 +29,12 @@ const upleta: CityContent = {
       "Upleta me website banwana",
       "Upleta ma website banavvi",
       "ઉપલેટા વેબસાઇટ ડિઝાઇન",
+      "Upleta website designer",
+      "web development company Upleta",
+      "hire freelance web developer Upleta",
+      "Rajkot district SEO",
+      "website designer Rajkot district",
+      "Gujarat SEO services",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const vikramasingapuram: CityContent = {
   meta: {
     title: "IT Services in Vikramasingapuram: Web, Apps & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Vikramasingapuram mills, Papanasam pilgrim lodges, traders, clinics and schools.",
+      "Tamil websites, apps, local SEO and WhatsApp automation for Vikramasingapuram mills, Papanasam pilgrim lodges, traders, clinics and schools. From ₹10,000.",
     keywords: [
       "IT services in Vikramasingapuram",
       "IT services team in Vikramasingapuram",
@@ -29,6 +29,12 @@ const vikramasingapuram: CityContent = {
       "Vikramasingapuram me website banwana",
       "Vikramasingapuram website seyya evvalavu selavu",
       "விக்கிரமசிங்கபுரம் இணையதளம் வடிவமைப்பு",
+      "Vikramasingapuram website designer",
+      "web development company Vikramasingapuram",
+      "hire freelance web developer Vikramasingapuram",
+      "Ambasamudram taluk SEO services",
+      "website designer Ambasamudram taluk",
+      "Vikramasingapuram me website kaise banwaye",
     ],
   },
   hero: {

@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "Accommodation Website Design NZ: Book Direct, Pay Less",
-    description: `Accommodation website design for NZ motels, holiday parks, lodges and B&Bs: booking engine hookup, direct-booking perks, local SEO and quick checkout. From ${P.site}.`,
+    description: `Accommodation website design for NZ motels, holiday parks, lodges and B&Bs: booking engine hookup, direct-booking perks and local SEO. From ${P.site}.`,
     keywords: [
       "accommodation website design", "accommodation website design nz", "motel website design", "holiday park website design",
       "lodge website design", "b&b website design", "bed and breakfast website nz", "hotel website design nz",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "holiday park booking website", "how much does an accommodation website cost", "accommodation seo nz",
       "google free booking links hotels", "qualmark accommodation website", "motel website rotorua",
       "accommodation website queenstown", "mobile booking checkout accommodation",
+      "hire accommodation website design in New Zealand", "freelance accommodation website design New Zealand", "accommodation website design Auckland",
+      "accommodation website design Wellington", "accommodation website design New Zealand",
     ],
   },
   hero: {

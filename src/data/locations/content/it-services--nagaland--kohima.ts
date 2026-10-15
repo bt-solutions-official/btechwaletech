@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 25.6751, lng: 94.1086 },
   meta: {
-    title: "Hire Freelance Software Developers in Kohima",
+    title: "Kohima Software Developers: Tourism, Govt & Schools",
     description:
       "Skip the software development team in Kohima: hire three freelance engineers for booking systems, portals, AI agents and apps. Software from ₹60,000.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "online store for Naga products",
       "IT services Nagaland capital",
       "Kohima mein software developer",
+      "Kohima website designer",
+      "website cost in Kohima",
+      "IT company in Kohima",
+      "Nagaland SEO services",
+      "hire developer Kohima",
+      "tourism software in Kohima",
+      "government software in Kohima",
     ],
   },
   hero: {

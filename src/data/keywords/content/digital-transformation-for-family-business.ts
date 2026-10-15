@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Digital transformation for family business",
   updated: "2026-09-25",
   meta: {
-    title: "Digital Transformation for Family Business: Safe Steps",
+    title: "Digital Transformation for Family Business (2026)",
     description: `Digital transformation for family business owners: bring elders on board, digitise the ledger and stock first, roll out slowly. Software from ${P.software}.`,
     keywords: [
       "digital transformation for family business", "family business digital transformation India", "digitise family business",

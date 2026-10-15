@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `AI Automation Freelancer in India: from ${P.ai}`,
-    description: `Hire an AI automation freelancer to take emails, documents and spreadsheet work off your team. Workflows from ${P.ai}, built in 2–4 weeks, in your own accounts.`,
+    description: `Hire an AI automation freelancer to take emails, documents and spreadsheet work off your team. Workflows from ${P.ai}, built in 2–4 weeks, in your accounts.`,
     keywords: [
       "ai automation freelancer", "ai automation freelancer India", "ai automation freelancer near me", "ai automation freelancer for hire",
       "ai automation cost India", "ai automation price", "best ai automation freelancer", "ai automation wala freelancer",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "business process automation freelancer", "workflow automation freelancer", "email automation with ai", "document automation ai",
       "google sheets automation ai", "n8n ai automation", "ai data entry automation", "hire ai automation expert", "ai workflow developer",
       "automate reports with ai", "freelance automation engineer India", "ai automation for small business",
+      "hire ai automation freelancer",
     ],
   },
   hero: {

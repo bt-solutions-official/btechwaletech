@@ -7,7 +7,7 @@ const vedaranyam: CityContent = {
   meta: {
     title: "IT Services in Vedaranyam: Websites, Apps, SEO & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Vedaranyam salt firms, seafood traders, pilgrim lodges, clinics and shops.",
+      "Tamil websites, apps, local SEO and WhatsApp automation for Vedaranyam salt firms, seafood traders, pilgrim lodges, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Vedaranyam",
       "IT company in Vedaranyam",
@@ -30,6 +30,11 @@ const vedaranyam: CityContent = {
       "Vedaranyam me website banwana",
       "Vedaranyam website design seiya",
       "வேதாரண்யம் இணையதள வடிவமைப்பு",
+      "Vedaranyam website designer",
+      "web development company Vedaranyam",
+      "hire freelance web developer Vedaranyam",
+      "Nagapattinam district SEO",
+      "website designer Nagapattinam district",
     ],
   },
   hero: {

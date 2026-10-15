@@ -7,7 +7,7 @@ const malerkotla: CityContent = {
   meta: {
     title: "Malerkotla Website Design and Local SEO Services",
     description:
-      "Websites, Google Maps listings and WhatsApp automation for Malerkotla rolling mill makers, badge manufacturers, hosiery units, eateries and clinics. From ₹10,000.",
+      "Websites, Maps listings and WhatsApp automation for Malerkotla rolling mill makers, badge manufacturers, hosiery units, eateries and clinics. From ₹10,000.",
     keywords: [
       "website development team in Malerkotla",
       "web designer Malerkotla",
@@ -25,6 +25,16 @@ const malerkotla: CityContent = {
       "export website for manufacturers Punjab",
       "website maintenance Malerkotla",
       "ਮਲੇਰਕੋਟਲਾ ਵੈੱਬਸਾਈਟ",
+      "Malerkotla website designer",
+      "web development company Malerkotla",
+      "hire freelance web developer Malerkotla",
+      "Malerkotla district SEO",
+      "website designer Malerkotla district",
+      "Punjab SEO services",
+      "website design Sirhindi Gate Malerkotla",
+      "website design Delhi Gate Malerkotla",
+      "website design Jamalpura Malerkotla",
+      "website design Mohalla Baradri Malerkotla",
     ],
   },
   hero: {

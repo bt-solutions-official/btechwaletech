@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Domain, Hosting and Business Email Setup in Gujarat`,
-    description: `Domain hosting and business email setup in Gujarat, in your own name: DNS, SSL, SPF, DKIM and DMARC done right. Included in sites from ${P.site}; quote in 2 days.`,
+    description: `Domain hosting and business email setup in Gujarat, in your own name: DNS, SSL, SPF, DKIM & DMARC done right. Included in sites from ${P.site}; quote in 2 days.`,
     keywords: [
       "domain hosting and business email setup in Gujarat", "business email setup Gujarat", "domain registration Gujarat", "website hosting Gujarat",
       "business email setup near me", "company email id setup Gujarat", "domain and hosting Ahmedabad", "business email Surat",

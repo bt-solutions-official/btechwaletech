@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "franchise pathology lab software", "WhatsApp lab report software", "custom pathology lab software", "pathology lab software cost",
       "pathology lab software price", "how to choose pathology lab software", "best pathology lab software for small lab", "blood test lab software",
       "pathology lab software Patna", "pathology lab software Surat", "lab ke liye software", "diagnostic centre software development",
+      "pathology lab software company", "best pathology lab software in India", "pathology lab software cost in India", "pathology lab software near me",
     ],
   },
   hero: {

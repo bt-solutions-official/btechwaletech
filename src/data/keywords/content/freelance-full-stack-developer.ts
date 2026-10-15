@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance Full Stack Developer: Web Apps from ${P.software}`,
-    description: `Freelance full stack developer team in India: frontend, backend, database and deployment in one place. Web apps from ${P.software}. See costs and stack choices.`,
+    description: `Freelance full stack developer team in India: frontend, backend, database and deployment in one place. Web apps from ${P.software}, quote in 2 days.`,
     keywords: [
       "freelance full stack developer", "freelance full stack developer in India", "freelance full stack developer near me", "full stack developer for hire",
       "freelance full stack developer cost", "full stack developer price India", "best freelance full stack developer", "full stack developer chahiye",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "hire full stack developer freelance", "MERN stack freelancer", "Next.js and Node.js developer", "React and Python developer freelance",
       "full stack developer for startup", "full stack developer for web app", "frontend backend database deployment", "remote full stack developer India",
       "full stack developer hourly vs project", "full stack freelancer for SaaS",
+      "hire freelance full stack developer",
     ],
   },
   hero: {

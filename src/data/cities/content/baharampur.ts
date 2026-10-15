@@ -7,7 +7,7 @@ const baharampur: CityContent = {
   meta: {
     title: "Baharampur Website Design, Local SEO and Online Stores",
     description:
-      "Bengali and English websites, Google Maps work, silk and sweet shop stores and WhatsApp automation for Berhampore businesses. Remote team, prices from ₹10,000.",
+      "Berhampore websites, Bengali and English SEO, Google Maps work, silk and sweet-shop stores and WhatsApp bots. Remote team, prices from ₹10,000.",
     keywords: [
       "website development team in Baharampur",
       "website designer Berhampore",
@@ -25,6 +25,14 @@ const baharampur: CityContent = {
       "Berhampore e website banate koto taka",
       "বহরমপুর ওয়েবসাইট ডিজাইন",
       "website maintenance Baharampur",
+      "Baharampur website designer",
+      "website cost in Baharampur",
+      "web development company Baharampur",
+      "hire freelance developer Baharampur",
+      "West Bengal SEO",
+      "Berhampore website designer",
+      "website for silk sellers and dealers in Baharampur",
+      "web designer in Panchanantala, Baharampur",
     ],
   },
   hero: {

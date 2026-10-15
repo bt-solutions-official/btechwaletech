@@ -2,9 +2,12 @@ import type { PageSeoConfig, SeoMeta } from "@app-types/seo";
 import { siteDefaults } from "@data/site/site-config";
 import { withTrailingSlash } from "@lib/urls/url-utils";
 
+// Google truncates titles past ~60 characters, so the brand suffix is only worth the
+// space when the finished title still fits. Longer titles stay bare.
 export function applyTitleTemplate(title: string): string {
   if (title === siteDefaults.defaultTitle) return title;
-  return siteDefaults.titleTemplate.replace("%s", title);
+  const withBrand = siteDefaults.titleTemplate.replace("%s", title);
+  return withBrand.length <= 60 ? withBrand : title;
 }
 
 export function createPageSeo(config: PageSeoConfig): PageSeoConfig {

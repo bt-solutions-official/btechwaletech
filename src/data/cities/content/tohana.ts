@@ -7,7 +7,7 @@ const tohana: CityContent = {
   meta: {
     title: "IT Services in Tohana | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Tohana rice millers, grain mandi arhtiyas, dealers, schools and clinics.",
+      "Hindi and English websites, apps and SEO for Tohana rice millers, grain mandi arhtiyas, dealers, schools and clinics. Sites from ₹10,000, yours to keep.",
     keywords: [
       "IT services in Tohana",
       "IT services team in Tohana",
@@ -29,6 +29,12 @@ const tohana: CityContent = {
       "Tohana me website banwana",
       "Tohana mein app banwani hai",
       "टोहाना वेबसाइट डिजाइन",
+      "Tohana website designer",
+      "web development company Tohana",
+      "hire freelance web developer Tohana",
+      "Fatehabad district SEO",
+      "website designer Fatehabad district",
+      "Haryana SEO services",
     ],
   },
   hero: {

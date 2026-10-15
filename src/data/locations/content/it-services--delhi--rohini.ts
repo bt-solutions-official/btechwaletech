@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.7495, lng: 77.0565 },
   meta: {
-    title: "Freelance Software Developers in Rohini, Delhi",
+    title: "Rohini, Delhi Software Developers: Coaching & Schools",
     description:
-      "Freelance developers in Rohini as an alternative to a software development team: coaching LMS, test apps, lab and factory software, AI bots. Apps from ₹40,000.",
+      "Freelance developers in Rohini as an alternative to a software development team: coaching LMS, test apps, plus lab and factory software. Apps from ₹40,000.",
     keywords: [
       "software development team in Rohini",
       "IT services team in Rohini",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "IT services near me Rohini",
       "रोहिणी में सॉफ्टवेयर डेवलपर",
       "Rohini mein app aur software banane wale",
+      "Rohini website designer",
+      "website cost in Rohini",
+      "IT company in Rohini",
+      "Delhi SEO services",
+      "hire developer Rohini",
+      "coaching software in Rohini",
+      "schools software in Rohini",
+      "hospitals software in Rohini",
+      "diagnostic labs software in Rohini",
     ],
   },
   hero: {

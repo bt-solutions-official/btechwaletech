@@ -7,7 +7,7 @@ const thodupuzha: CityContent = {
   meta: {
     title: "IT Services in Thodupuzha: Web, Apps, SEO & AI",
     description:
-      "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Thodupuzha spice and rubber traders, pineapple growers, colleges and clinics.",
+      "Malayalam websites, apps, local SEO and WhatsApp tools for Thodupuzha spice and rubber traders, pineapple growers, colleges and clinics. Sites from ₹10,000.",
     keywords: [
       "IT services in Thodupuzha",
       "IT services team in Thodupuzha",
@@ -29,6 +29,12 @@ const thodupuzha: CityContent = {
       "Thodupuzha me website banwana",
       "Thodupuzhayil website cheyyan",
       "തൊടുപുഴ വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Thodupuzha website designer",
+      "web development company Thodupuzha",
+      "hire freelance web developer Thodupuzha",
+      "Idukki district SEO",
+      "website designer Idukki district",
+      "Kerala SEO services",
     ],
   },
   hero: {

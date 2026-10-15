@@ -7,7 +7,7 @@ const bodhan: CityContent = {
   meta: {
     title: "IT Services in Bodhan: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, Telugu and Urdu SEO, rice mill software and WhatsApp automation for Bodhan traders, clinics and schools. Websites from ₹10,000.",
+      "Bodhan websites, Android and iOS apps, Telugu and Urdu SEO, rice mill software and WhatsApp bots for traders, clinics and schools. Websites from ₹10,000.",
     keywords: [
       "IT services in Bodhan",
       "IT services team in Bodhan",
@@ -29,6 +29,10 @@ const bodhan: CityContent = {
       "బోధన్ వెబ్‌సైట్ డిజైన్",
       "Google Maps listing Bodhan",
       "school website Bodhan Nizamabad",
+      "Bodhan website designer",
+      "web development company Bodhan",
+      "hire freelance developer Bodhan",
+      "Telangana SEO",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const ujhani: CityContent = {
   meta: {
     title: "IT Services in Ujhani | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Ujhani mentha oil units, grain traders, schools, clinics and shops in Budaun district.",
+      "Websites, apps, local SEO and WhatsApp automation for Ujhani mentha oil units, grain traders, schools, clinics and shops in Budaun district. From ₹10,000.",
     keywords: [
       "IT services in Ujhani",
       "IT services team in Ujhani",
@@ -29,6 +29,12 @@ const ujhani: CityContent = {
       "Ujhani me website banwana",
       "Budaun me app banwana",
       "उझानी वेबसाइट डिज़ाइन",
+      "Ujhani website designer",
+      "web development company Ujhani",
+      "hire freelance web developer Ujhani",
+      "Budaun district SEO",
+      "website designer Budaun district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

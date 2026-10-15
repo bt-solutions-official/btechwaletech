@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Developer in Bangalore, Sites from ${P.site}`,
-    description: `Website developer in Bangalore for startups, clinics, schools and factories: business sites from ${P.site}, built remotely on a live staging link. Quote in 2 days.`,
+    description: `Website developer in Bangalore for startups, clinics, schools and factories: business sites from ${P.site}, built on a live staging link. Quote in 2 days.`,
     keywords: [
       "website developer in Bangalore", "website developer Bangalore", "website developer in Bengaluru", "website developers in Bangalore",
       "website developer near me Bangalore", "web developer in Bangalore", "website development Bangalore", "website development services in Bangalore",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Electronic City", "website developer Peenya", "website developer Jayanagar", "website developer price in Bangalore",
       "website cost Bangalore", "Kannada website developer", "best website developer in Bangalore", "website banane wala Bangalore",
       "Bangalore me website banwana hai",
+      "website developer in Bangalore cost", "website developer in Bangalore price", "hire website developer in Bangalore", "freelance website developer in Bangalore",
+      "website developer in Bangalore charges",
     ],
   },
   hero: {

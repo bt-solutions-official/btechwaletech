@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 10.8505, lng: 76.2711 },
   meta: {
-    title: "Freelance IT Solutions in Kerala: Apps, AI & Websites",
+    title: "Kerala IT Consulting: Tourism, Ayurveda & Exporters",
     description:
-      "Freelance IT solutions for Kerala: websites, custom software, Android and iOS apps, AI automation and Malayalam SEO for Kochi, Thiruvananthapuram and beyond.",
+      "Freelance IT solutions for Kerala: websites, custom software, plus Android and iOS apps. From ₹10,000, with two months of free upkeep after launch.",
     keywords: [
       "IT solutions team in Kerala",
       "freelance IT services Kerala",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT support near me Thrissur Kozhikode",
       "കേരളത്തിൽ വെബ്സൈറ്റ് നിർമ്മാണം",
       "केरल में आईटी सेवाएं",
+      "Kerala website designer",
+      "website cost in Kerala",
+      "IT company in Kerala",
+      "Kerala SEO services",
+      "hire developer Kerala",
+      "tourism software in Kerala",
+      "hospitals software in Kerala",
+      "spice software in Kerala",
+      "education software in Kerala",
+      "website developer Thiruvananthapuram Kerala",
     ],
   },
   hero: {

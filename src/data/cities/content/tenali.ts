@@ -7,7 +7,7 @@ const tenali: CityContent = {
   meta: {
     title: "IT Services in Tenali: Websites, Apps, SEO & AI",
     description:
-      "Telugu and English websites, local SEO, online stores and WhatsApp automation for Tenali shops, rice traders, clinics and colleges. Sites from ₹10,000.",
+      "Telugu and English websites, SEO and online stores for Tenali shops, rice traders, clinics and colleges. Sites from ₹10,000, free upkeep for 2 months.",
     keywords: [
       "website development team in Tenali",
       "web design Tenali",
@@ -25,6 +25,16 @@ const tenali: CityContent = {
       "website maintenance Tenali",
       "Tenali lo website cheyinchali",
       "తెనాలి వెబ్‌సైట్ డిజైన్",
+      "Tenali website designer",
+      "web development company Tenali",
+      "hire freelance web developer Tenali",
+      "Andhra Pradesh SEO services",
+      "Tenali jewellery showrooms website",
+      "jewellery showrooms website design Tenali",
+      "website design Kothapeta Tenali",
+      "website design Bose Road Tenali",
+      "website design Prakasam Road Tenali",
+      "website design Chenchupet Tenali",
     ],
   },
   hero: {

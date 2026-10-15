@@ -7,7 +7,7 @@ const phalodi: CityContent = {
   meta: {
     title: "IT Services in Phalodi | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi and English websites, Android and iOS apps, SEO and WhatsApp bots for Phalodi salt refiners, POP units, mandi traders, solar contractors and Khichan stays.",
+      "Hindi and English websites, apps and SEO for Phalodi salt refiners, POP units, mandi traders, solar contractors and Khichan stays. Sites from ₹10,000.",
     keywords: [
       "IT services in Phalodi",
       "IT services team in Phalodi",
@@ -29,6 +29,12 @@ const phalodi: CityContent = {
       "Phalodi me website banwana",
       "फलोदी वेबसाइट डिजाइन",
       "Lohawat website designer",
+      "Phalodi website designer",
+      "web development company Phalodi",
+      "hire freelance web developer Phalodi",
+      "Rajasthan SEO services",
+      "Phalodi me website kaise banwaye",
+      "Phalodi website banwane ka kharcha",
     ],
   },
   hero: {

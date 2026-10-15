@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "wholesale supplier website design", "trading company website examples", "what should a trading company website include",
       "trading company website design near me", "seo for trading companies", "b2b seo for exporters uae",
       "multilingual trading website arabic french russian", "remote web designer india for uae trading company",
+      "hire trading company website design in the UAE", "freelance trading company website design UAE",
     ],
   },
   hero: {

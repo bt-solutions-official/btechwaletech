@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "real estate website abu dhabi", "real estate website sharjah", "property developer website dubai",
       "real estate seo dubai", "idx website dubai", "best real estate website features",
       "real estate website near me dubai", "remote real estate web developer uae",
+      "hire real estate website design in the UAE", "freelance real estate website design UAE",
     ],
   },
   hero: {

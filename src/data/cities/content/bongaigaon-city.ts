@@ -7,7 +7,7 @@ const bongaigaon: CityContent = {
   meta: {
     title: "IT Services in Bongaigaon: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Bongaigaon traders, refinery and railway suppliers, colleges, hospitals and shops in Assam.",
+      "Bongaigaon websites, mobile apps, local SEO and WhatsApp automation for traders, refinery and railway suppliers, colleges and hospitals. Ask us on WhatsApp.",
     keywords: [
       "IT services in Bongaigaon",
       "IT services team in Bongaigaon",
@@ -29,6 +29,10 @@ const bongaigaon: CityContent = {
       "Bongaigaon me website banwana",
       "Bongaigaon ot website",
       "বঙাইগাঁও ৱেবছাইট ডিজাইন",
+      "Bongaigaon website designer",
+      "web development company Bongaigaon",
+      "hire freelance developer Bongaigaon",
+      "Lower Assam SEO",
     ],
   },
   hero: {

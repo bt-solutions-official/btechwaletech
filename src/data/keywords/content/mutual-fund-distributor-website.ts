@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Mutual fund distributor website",
   updated: "2026-09-25",
   meta: {
-    title: "Mutual Fund Distributor Website with SIP Calculators",
+    title: `Mutual Fund Distributor Website: SIP Tools, ${P.site}+`,
     description: `Mutual fund distributor website with ARN disclosures, SIP and goal calculators, client login and report access, built for AMFI-registered MFDs. From ${P.site}.`,
     keywords: [
       "mutual fund distributor website", "mutual fund distributor website design", "MFD website", "website for mutual fund distributor",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "mutual fund distributor lead generation", "mutual fund distributor near me", "MFD website Ahmedabad", "MFD website Mumbai",
       "mutual fund distributor website Kolkata", "mutual fund distributor ki website", "white label mutual fund website", "wealth distributor website India",
       "mutual fund distributor SEO",
+      "mutual fund distributor website price", "mutual fund distributor website company", "best mutual fund distributor website in India", "mutual fund distributor website cost in India",
+      "mutual fund distributor website near me",
     ],
   },
   hero: {
@@ -248,7 +250,7 @@ const content: FreelanceContent = {
         { heading: "Data pipeline", text: "Scheduled jobs that read platform or RTA exports you already receive, check them and update summaries." },
         { heading: "Ownership", text: "Domain, hosting, database, storage and code are in your name; we are removable users. You get logins, a renewal list and a data-flow note at handover." },
       ],
-      after: [`Two months of maintenance are free after launch. After that, care is optional from ${P.care} a month, or you can move the site to anyone else.`],
+      after: [`Two months of maintenance are free after launch. After that, care is optional from ${P.care}, or you can move the site to anyone else.`],
     },
     {
       id: "mistakes",
@@ -391,7 +393,7 @@ const content: FreelanceContent = {
     { question: "Do I need an investor app as well?", answer: `Most distributors do not at first; the transaction platform usually offers an investor app, and your site covers education and reports. A branded app makes sense when many clients want your dashboard on their phones. BtechWaleTech builds Android and iOS apps from ${P.app}.` },
     { question: "Can the site be in Hindi or a regional language?", answer: "Yes. Explainers, calculators and disclosure panels can be bilingual, with proper language tags for search. You supply or approve translations, and disclosure wording in each language should be checked with your compliance source." },
     { question: "How do I pay BtechWaleTech?", answer: "In India by UPI or bank transfer, in stages linked to visible work, after you approve the itemised written quote. Clients abroad pay in USD by Wise, bank wire or PayPal. Specific stages are agreed in your quote; general conditions are on our terms page." },
-    { question: "What happens after the two free months of maintenance?", answer: `You decide. Care can continue from ${P.care} a month for updates, backups, disclosure changes and new explainers, or you can manage the site yourself or move it to another developer, since every account is already yours.` },
+    { question: "What happens after the two free months of maintenance?", answer: `You decide. Care can continue from ${P.care} for updates, backups, disclosure changes and new explainers, or you can manage the site yourself or move it to another developer, since every account is already yours.` },
     { question: "Mutual fund distributor ki website mein kya hona chahiye?", answer: `ARN number, risk disclaimer, regular plan aur commission ka link, SIP aur goal calculator jisme return rate visitor khud daale, client login ka button aur aasaan bhasha mein explainers. BtechWaleTech ke saath aisi website ${P.site} se shuru hoti hai aur client dashboard ${P.software} se.` },
   ],
   related: {

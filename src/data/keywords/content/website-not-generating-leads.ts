@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Website not generating leads",
   updated: "2026-09-25",
   meta: {
-    title: "Website Not Generating Leads? Find the Leak, Fix It",
+    title: `Website Not Generating Leads? Find the Leak in 2026`,
     description: `Website not generating leads? Diagnose traffic vs conversion, fix CTAs, WhatsApp buttons and forms, then prove it with tracking. Rebuilds from ${P.site}.`,
     keywords: [
       "website not generating leads", "website not generating enquiries", "website getting traffic but no leads", "website visitors but no enquiries",
@@ -35,7 +35,7 @@ const content: FreelanceContent = {
   facts: [
     ["First step", "Traffic vs conversion check"],
     ["Rebuild, if needed", `From ${P.site} · ${P.siteUsd}`],
-    ["Ongoing SEO", `From ${P.seo} a month`],
+    ["Ongoing SEO", `From ${P.seo}`],
     ["Quote", "Itemised, in about 2 working days"],
     ["Proof", "GA4 key events you can read yourself"],
     ["After a rebuild", "2 months of free maintenance"],
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Proof it worked", value: "GA4 key events for form, WhatsApp and call clicks" },
       { label: "Fixes on current site", value: "Quoted line by line after the diagnosis" },
       { label: "Full rebuild", value: `From ${P.site}, 1–2 weeks` },
-      { label: "Ongoing SEO and testing", value: `From ${P.seo} a month` },
+      { label: "Ongoing SEO and testing", value: `From ${P.seo}` },
     ],
   },
   services: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "WhatsApp and call buttons", note: "Sticky mobile bar with click-to-chat and click-to-call, prefilled messages per service page, and working hours shown so people know when to expect a reply.", href: "/whatsapp-automation-expert/", size: "md" },
       { name: "Form repair", note: "We test delivery, move mail to authenticated sending, cut fields to what you actually need and add a clear thank-you page that can be tracked.", href: "/website-crm-integration/", size: "md" },
       { name: "Landing page rewrites", note: "Service pages rebuilt around one audience, one offer and one next step, with prices or price ranges where your business allows it.", href: "/landing-page-developer/", size: "md" },
-      { name: "Intent-led SEO", note: `Keywords re-mapped from “what is” searches to “near me”, “cost” and “hire” searches that buyers type, from ${P.seo} a month.`, href: "/services/seo-services/", size: "sm" },
+      { name: "Intent-led SEO", note: `Keywords re-mapped from “what is” searches to “near me”, “cost” and “hire” searches that buyers type, from ${P.seo}.`, href: "/services/seo-services/", size: "sm" },
       { name: "Speed and mobile fixes", note: "Heavy sliders, oversized images and render-blocking scripts removed so the page opens before a visitor on mobile data gives up.", href: "/website-speed-optimization-freelancer/", size: "sm" },
       { name: "Rebuild when patching fails", note: `If the site cannot be fixed economically, a new lead-focused build starts at ${P.site}, keeping your URLs and search history intact.`, href: "/website-redesign-freelancer/", size: "sm" },
     ],
@@ -426,7 +426,7 @@ const content: FreelanceContent = {
     { question: "Why is my website not generating leads?", answer: "Usually because the visitors have the wrong intent, the next step is hard to find, or the contact path is broken. Check Search Console for the queries bringing visitors, then test your form, WhatsApp link and phone number on a mobile phone. Most sites that get visits and no enquiries fail one of those three checks." },
     { question: "How do I know if it is a traffic problem or a conversion problem?", answer: "Look at monthly clicks and the queries behind them in Google Search Console. Very few clicks means people are not finding you, which is a visibility job. Plenty of clicks from buyer searches with no enquiries means the page is failing them, which is a conversion job. Plenty of clicks from general questions means the keywords need re-mapping." },
     { question: "Why does my website get traffic but no enquiries?", answer: "Traffic without enquiries often comes from blog posts or broad pages that attract readers rather than buyers. It can also mean visitors arrive on the right page but see no price, no service area, no real photos and no clear button. Fix the contact path first, then the message, then the keywords." },
-    { question: "How much does it cost to fix a website not generating leads?", answer: `It depends on the diagnosis. Fixes on your current site, such as a WhatsApp bar, a working form or GA4 key events, are quoted line by line. If a rebuild is justified, a lead-focused website starts at ${P.site} and takes 1–2 weeks. Ongoing SEO and testing starts at ${P.seo} a month.` },
+    { question: "How much does it cost to fix a website not generating leads?", answer: `It depends on the diagnosis. Fixes on your current site, such as a WhatsApp bar, a working form or GA4 key events, are quoted line by line. If a rebuild is justified, a lead-focused website starts at ${P.site} and takes 1–2 weeks. Ongoing SEO and testing starts at ${P.seo}.` },
     { question: "How long before I see more leads after the fixes?", answer: "Fixes to buttons, forms and calls to action start working as soon as they are live, because the same visitors now have a working path. Changes aimed at attracting different search traffic depend on Google recrawling your pages, which can take several weeks or longer. Nobody can guarantee a number of leads or rankings." },
     { question: "Should I add a WhatsApp button to my website?", answer: "For most Indian businesses, yes. Many customers prefer to start with a chat rather than a form. Use WhatsApp’s click-to-chat link with your full international number, add a prefilled message for each service page, place it where a thumb can reach it on mobile, and show when you usually reply." },
     { question: "How do I check if my contact form is working?", answer: "Submit it yourself from a phone on mobile data, then check the inbox it sends to, including spam and promotions. Repeat after any plugin, theme or hosting change. For safety, have submissions stored in a sheet or database as well as emailed, so a mail failure never loses a lead completely." },

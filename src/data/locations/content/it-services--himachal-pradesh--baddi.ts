@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 30.9578, lng: 76.7914 },
   meta: {
-    title: "Freelance Software Developers in Baddi for Pharma",
+    title: "Baddi Software Developers: Pharma Plant Workflows",
     description:
       "Looking for a software development team in Baddi? Hire our freelance group for pharma workflow tools, B2B sites, dashboards and AI automation, in INR.",
     keywords: [
@@ -33,6 +33,12 @@ const content: CityContent = {
       "website maintenance Baddi",
       "Baddi mein software developer",
       "बद्दी में सॉफ्टवेयर डेवलपर",
+      "Baddi website designer",
+      "website cost in Baddi",
+      "IT company in Baddi",
+      "Himachal Pradesh SEO services",
+      "hire developer Baddi",
+      "pharma formulation software in Baddi",
     ],
   },
   hero: {

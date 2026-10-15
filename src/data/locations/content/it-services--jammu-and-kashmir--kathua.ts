@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 32.3693, lng: 75.5254 },
   meta: {
-    title: "Freelance Software Developers in Kathua for MSMEs",
+    title: "Kathua Software Developers for MSMEs: Textiles & Steel",
     description:
-      "Freelance software developers for Kathua: workflow tools for Ghatti and SICOP units, B2B sites, Android and iOS apps, AI agents, dashboards and support.",
+      "Freelance software developers for Kathua: workflow tools for Ghatti and SICOP units, B2B sites, plus Android and iOS apps. Itemised quote in two working days.",
     keywords: [
       "software development team in Kathua",
       "IT services team in Kathua",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "software team near me Hiranagar",
       "Kathua mein software team",
       "कठुआ सॉफ्टवेयर डेवलपमेंट",
+      "Kathua website designer",
+      "website cost in Kathua",
+      "IT company in Kathua",
+      "Jammu and Kashmir SEO services",
+      "hire developer Kathua",
+      "textiles software in Kathua",
+      "steel software in Kathua",
+      "cement software in Kathua",
+      "packaging software in Kathua",
+      "website developer SIDCO Industrial Estate Kathua",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const shivamogga: CityContent = {
   meta: {
     title: "Shivamogga Web Design & Local SEO | Sites from ₹10,000",
     description:
-      "Websites, Kannada and English SEO, online stores and WhatsApp automation for Shivamogga areca traders, foundries, rice mills and shops. Clear prices, you own it.",
+      "Websites, online stores and WhatsApp tools for Shivamogga areca traders, foundries, rice mills and shops. Sites from ₹10,000 with an itemised quote.",
     keywords: [
       "website development team in Shivamogga",
       "web design Shimoga",
@@ -25,6 +25,16 @@ const shivamogga: CityContent = {
       "website maintenance Shivamogga",
       "Shivamogga website maadisalu",
       "ಶಿವಮೊಗ್ಗ ವೆಬ್‌ಸೈಟ್ ವಿನ್ಯಾಸ",
+      "web development company Shivamogga",
+      "hire freelance web developer Shivamogga",
+      "Karnataka SEO services",
+      "website design Gandhi Bazaar Shivamogga",
+      "website design B.H. Road Shivamogga",
+      "website design Kuvempu Road Shivamogga",
+      "website design price in Shivamogga",
+      "app development company Shivamogga",
+      "Shivamogga SEO company",
+      "local SEO Shivamogga",
     ],
   },
   hero: {

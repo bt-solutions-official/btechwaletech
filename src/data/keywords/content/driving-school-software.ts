@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "driving school software cost", "custom driving school software", "car driving school app development", "driving school student progress report",
       "driving school software for small school", "driving school software Hindi", "driving school software Lucknow", "driving school software Jaipur",
       "motor training school software", "how to manage a driving school", "driving school ke liye software",
+      "driving school software company in India",
+      "best driving school software in India",
+      "driving school software services",
     ],
   },
   hero: {
@@ -60,7 +63,7 @@ const content: FreelanceContent = {
       { label: "Instructor and learner app", value: `From ${P.app}` },
       { label: "Messages", value: "WhatsApp reminders for slots, dues and test dates" },
       { label: "How you pay us", value: "UPI or bank transfer, in stages set in your quote" },
-      { label: "After launch", value: `2 months free, then from ${P.care} a month` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -324,7 +327,7 @@ const content: FreelanceContent = {
         ["Complete system (web)", "Core plus licence tracker, progress reports, car log, reports", P.software, "8–12 weeks"],
         ["Instructor app", "Day view, OTP attendance, skill ticks, fuel and odometer", P.app, "6–10 weeks"],
         ["Automated reminders", "Slot, dues and test-day messages on WhatsApp", P.ai, "2–4 weeks"],
-        ["Ongoing support", "After 2 free months: fixes, backups, small changes", `${P.care} a month`, "Monthly"],
+        ["Ongoing support", "After 2 free months: fixes, backups, small changes", `${P.care}`, "Monthly"],
       ],
       hideSm: [1],
     },

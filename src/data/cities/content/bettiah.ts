@@ -7,7 +7,7 @@ const bettiah: CityContent = {
   meta: {
     title: "IT Services in Bettiah: Websites, Apps, SEO & AI",
     description:
-      "Websites, Google Maps listings and WhatsApp tools for Bettiah traders, sugarcane and rice businesses, clinics, schools and Valmiki Nagar stays. From ₹10,000.",
+      "Bettiah websites, Google Maps listings and WhatsApp tools for traders, sugarcane and rice businesses, clinics, schools and Valmiki Nagar stays. From ₹10,000.",
     keywords: [
       "website development team in Bettiah",
       "web designer Bettiah",
@@ -25,6 +25,14 @@ const bettiah: CityContent = {
       "ecommerce website Bettiah",
       "website maintenance Bettiah",
       "बेतिया वेबसाइट डिज़ाइन",
+      "Bettiah website designer",
+      "web development company Bettiah",
+      "hire freelance developer Bettiah",
+      "Bihar SEO",
+      "Bettiah me website kaise banwaye",
+      "website for marcha rice and chura in Bettiah",
+      "web designer in Meena Bazar, Bettiah",
+      "website for sugarcane and farm trade in Bettiah",
     ],
   },
   hero: {

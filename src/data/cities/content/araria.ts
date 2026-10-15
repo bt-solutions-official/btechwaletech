@@ -7,7 +7,7 @@ const araria: CityContent = {
   meta: {
     title: "IT Services in Araria | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Araria makhana and maize traders, clinics, coaching centres and Nepal-border shops.",
+      "Araria Hindi websites, mobile apps, local SEO and WhatsApp bots for makhana and maize traders, clinics, coaching centres and Nepal-border shops. From ₹10,000.",
     keywords: [
       "IT services in Araria",
       "IT services team in Araria",
@@ -29,6 +29,10 @@ const araria: CityContent = {
       "Araria me website banwana",
       "Araria me app banwana",
       "अररिया वेबसाइट डिजाइन",
+      "Araria website designer",
+      "web development company Araria",
+      "hire freelance developer Araria",
+      "north-east Bihar SEO",
     ],
   },
   hero: {

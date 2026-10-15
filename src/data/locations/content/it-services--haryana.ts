@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 29.0588, lng: 76.0856 },
   meta: {
-    title: "Freelance IT Services in Haryana: Software, AI & SEO",
+    title: "Haryana IT Services: Software, AI & SEO",
     description:
-      "Freelance IT services in Haryana: custom software, web apps, AI automation, SEO and stores from Gurugram to Hisar. Starting prices listed, 2 months free upkeep.",
+      "Freelance IT services in Haryana: custom software, web apps, AI automation, plus SEO and stores from Gurugram to Hisar. Apps from ₹40,000, sites from ₹10,000.",
     keywords: [
       "IT services in Haryana",
       "freelance IT services Haryana",
@@ -34,6 +34,11 @@ const content: CityContent = {
       "industrial website HSIIDC units",
       "हरियाणा में सॉफ्टवेयर कंपनी",
       "Haryana mein website aur software banwana",
+      "Haryana website designer",
+      "website cost in Haryana",
+      "IT company in Haryana",
+      "Haryana SEO services",
+      "hire developer Haryana",
     ],
   },
   hero: {

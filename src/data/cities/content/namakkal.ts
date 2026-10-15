@@ -7,7 +7,7 @@ const namakkal: CityContent = {
   meta: {
     title: "IT Services in Namakkal | Web, Apps & AI from ₹10,000",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Namakkal poultry farms, lorry body builders, transporters and schools.",
+      "Tamil websites, apps, local SEO and WhatsApp automation for Namakkal poultry farms, lorry body builders, transporters and schools. Sites from ₹10,000.",
     keywords: [
       "IT services in Namakkal",
       "IT services team in Namakkal",
@@ -29,6 +29,12 @@ const namakkal: CityContent = {
       "Namakkal website uruvakkam",
       "நாமக்கல் இணையதள வடிவமைப்பு",
       "school website Namakkal",
+      "Namakkal website designer",
+      "web development company Namakkal",
+      "hire freelance web developer Namakkal",
+      "Tamil Nadu SEO services",
+      "Namakkal me website kaise banwaye",
+      "Namakkal website banwane ka kharcha",
     ],
   },
   hero: {

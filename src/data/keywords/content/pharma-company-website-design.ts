@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "healthcare professional login pharma website", "pharma investor relations website", "CSR policy page pharma", "API manufacturer website design",
       "formulation manufacturer website", "pharma website design Ahmedabad", "pharma website design Hyderabad", "pharma website design near me",
       "pharma company ki website kaise banaye", "pharmaceutical website design agency alternative", "third party manufacturing pharma website",
+      "pharma company website design price", "pharma company website design company", "best pharma company website design in India", "pharma company website design cost in India",
+      "pharma company website design near me",
     ],
   },
   hero: {
@@ -263,7 +265,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Molecule-level pages with clean URLs, generic names in titles, product schema, fast loading and honest trade content are what help a pharma site show up for distributors and importers. Consumer-facing claims that a drug cures a disease are what to avoid.`,
         `India's Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 prohibits advertisements for drugs that claim to treat the diseases listed in its schedule, among other categories, so a pharma site should not chase patient-intent keywords with cure claims. The better targets are trade queries: molecule plus “manufacturer”, “supplier”, “exporter”, “third party manufacturing” and dosage form. Those searchers are the people who buy.`,
-        `For AI answer engines, the same structure helps. A page that states plainly which company makes a molecule, in which forms and strengths, at which certified site, is easy for an AI summary to quote. We set up Google Search Console, submit sitemaps, and write short factual answer blocks on key pages. Rankings are never guaranteed by anyone, including us. Ongoing work is covered by <a href='/pharma-seo-services/'>pharma SEO</a> from ${P.seo} a month, and <a href='/ai-overview-optimization/'>AI Overview optimisation</a> explains how summaries pick sources.`,
+        `For AI answer engines, the same structure helps. A page that states plainly which company makes a molecule, in which forms and strengths, at which certified site, is easy for an AI summary to quote. We set up Google Search Console, submit sitemaps, and write short factual answer blocks on key pages. Rankings are never guaranteed by anyone, including us. Ongoing work is covered by <a href='/pharma-seo-services/'>pharma SEO</a> from ${P.seo}, and <a href='/ai-overview-optimization/'>AI Overview optimisation</a> explains how summaries pick sources.`,
       ],
     },
     {

@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "e-learning app development saudi arabia", "corporate training lms saudi", "rtl video course player",
       "e-learning platform developer near me", "build your own lms vs saas", "quran academy online platform",
       "ielts academy website saudi arabia", "arabic english learning management system",
+      "hire e-learning platform development in Saudi Arabia", "freelance e-learning platform development Saudi Arabia",
     ],
   },
   hero: {
@@ -245,7 +246,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Give every course its own indexable page with a clear title, outcome, duration, price, schedule and instructor, marked up with course structured data. The lessons stay behind login; the course page is your sales page for search engines and AI tools.`,
         `People search for outcomes and exams: "IELTS preparation course online Riyadh", "PMP course in Arabic", "Excel training for accountants". Each deserves a landing page in Arabic and English with hreflang tags so Google shows the right language. Short FAQ blocks on each course page (who it is for, whether a certificate is issued, how live classes work) are exactly what AI assistants quote when recommending courses.`,
-        `Speed matters on course catalogues full of thumbnails, so images are compressed and lazy-loaded, and we check Core Web Vitals in Google Search Console after launch. Nobody can guarantee rankings; consistent pages, reviews collected with learners' consent and useful free lessons build visibility over time. An SEO-focused site starts from ${P.seoSite}, and ongoing <a href='/saudi-arabia/seo-services/'>SEO services for the Saudi market</a> from ${P.seo} a month.`,
+        `Speed matters on course catalogues full of thumbnails, so images are compressed and lazy-loaded, and we check Core Web Vitals in Google Search Console after launch. Nobody can guarantee rankings; consistent pages, reviews collected with learners' consent and useful free lessons build visibility over time. An SEO-focused site starts from ${P.seoSite}, and ongoing <a href='/saudi-arabia/seo-services/'>SEO services for the Saudi market</a> from ${P.seo}.`,
       ],
     },
     {

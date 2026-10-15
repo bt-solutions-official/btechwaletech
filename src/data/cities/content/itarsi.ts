@@ -7,7 +7,7 @@ const itarsi: CityContent = {
   meta: {
     title: "IT Services in Itarsi: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android & iOS apps, local SEO and WhatsApp automation for Itarsi traders, warehouses, transporters, clinics and coaching. Starting from ₹10,000.",
+      "Itarsi websites, Android & iOS apps, local SEO and WhatsApp automation for traders, warehouses, transporters, clinics and coaching. Starting from ₹10,000.",
     keywords: [
       "IT services in Itarsi",
       "IT services team in Itarsi",
@@ -29,6 +29,10 @@ const itarsi: CityContent = {
       "Itarsi me website banwana",
       "Itarsi me app banwana",
       "इटारसी वेबसाइट डिज़ाइन",
+      "Itarsi website designer",
+      "web development company Itarsi",
+      "hire freelance developer Itarsi",
+      "Madhya Pradesh SEO",
     ],
   },
   hero: {

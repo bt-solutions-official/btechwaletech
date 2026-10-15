@@ -7,7 +7,7 @@ const phagwara: CityContent = {
   meta: {
     title: "Phagwara Website Design, SEO & Automation",
     description:
-      "Websites, SEO and WhatsApp automation for Phagwara auto-parts makers, IELTS centres, PGs near LPU, banquet halls and NRI-run firms. Sites from ₹10,000, fully yours.",
+      "Websites, SEO and WhatsApp automation for Phagwara auto-parts makers, IELTS centres, PGs near LPU, banquet halls and NRI-run firms. Websites from ₹10,000.",
     keywords: [
       "website development team in Phagwara",
       "web designer Phagwara",
@@ -25,6 +25,16 @@ const phagwara: CityContent = {
       "freelance web developer Phagwara",
       "website maintenance Phagwara",
       "ਫਗਵਾੜਾ ਵੈੱਬਸਾਈਟ",
+      "Phagwara website designer",
+      "web development company Phagwara",
+      "hire freelance web developer Phagwara",
+      "Kapurthala district SEO",
+      "website designer Kapurthala district",
+      "Punjab SEO services",
+      "Phagwara auto-parts manufacturing website",
+      "auto-parts manufacturing website design Phagwara",
+      "Phagwara property dealers website",
+      "property dealers website design Phagwara",
     ],
   },
   hero: {

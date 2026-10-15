@@ -7,7 +7,7 @@ const mehkar: CityContent = {
   meta: {
     title: "IT Services in Mehkar: Websites, Apps, SEO & AI",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Mehkar cotton traders, Balaji temple lodges, Lonar homestays, colleges and clinics.",
+      "Marathi websites, apps, local SEO and WhatsApp tools for Mehkar cotton traders, Balaji temple lodges, Lonar homestays, colleges and clinics. From ₹10,000.",
     keywords: [
       "IT services in Mehkar",
       "IT services team in Mehkar",
@@ -30,6 +30,11 @@ const mehkar: CityContent = {
       "Mehkar me website banwana",
       "Mehkar madhye website banvaychi aahe",
       "मेहकर वेबसाइट डिझाइन",
+      "Mehkar website designer",
+      "web development company Mehkar",
+      "hire freelance web developer Mehkar",
+      "Buldhana district SEO",
+      "website designer Buldhana district",
     ],
   },
   hero: {

@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "freight forwarder website Mumbai", "freight forwarder website Chennai", "freight forwarder website Delhi", "freight forwarder website Kolkata",
       "HS code lookup on website", "Incoterms page for forwarder website", "freight forwarder SEO", "import export clearing agent website",
       "freight forwarding business ke liye website", "NVOCC website design", "shipping agent website",
+      "freight forwarder website near me",
+      "best freight forwarder website in India",
+      "freight forwarder website services",
     ],
   },
   hero: {

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Website security freelancer",
   updated: "2026-09-24",
   meta: {
-    title: "Website Security Freelancer: Hardening, Malware, SSL",
+    title: `Website Security Freelancer: Malware & SSL, ${P.care}`,
     description: `Website security freelancer for hardening, malware cleanup, SSL and backups. Clear scope, honest limits, and ongoing care from ${P.care} after a review.`,
     keywords: [
       "website security freelancer", "website security freelancer India", "website security freelancer near me", "website security expert for hire",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "website malware removal freelancer", "wordpress security freelancer", "SSL certificate installation freelancer", "website hardening service",
       "website vulnerability check", "security headers setup", "website backup setup", "secure my website", "website firewall setup",
       "HTTPS migration freelancer", "website security maintenance",
+      "hire website security freelancer", "freelance website security freelancer", "website security freelancer cost", "best website security freelancer in India",
+      "website security freelancer price", "website security freelancer charges",
     ],
   },
   hero: {
@@ -56,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Core jobs", value: "Review, hardening, malware cleanup, SSL, backups, monitoring" },
       { label: "Platforms", value: "WordPress, WooCommerce, PHP, Laravel, static and Node.js sites" },
       { label: "How pricing works", value: "Itemised quote after reviewing your site" },
-      { label: "Ongoing care", value: `From ${P.care} per month` },
+      { label: "Ongoing care", value: `From ${P.care}` },
       { label: "Built in on new sites", value: `HTTPS, headers, backups; static sites from ${P.site}` },
       { label: "Access model", value: "Your accounts, our user added, removed at the end" },
       { label: "Out of scope", value: "Certified audits, compliance certification, network hardware" },
@@ -365,13 +367,13 @@ const content: FreelanceContent = {
       ["Review and itemised quote", "We check the site from outside and inside, then send a ranked list of findings with an itemised quote in about two working days."],
       ["Fix in priority order", "Approved fixes are applied highest risk first, tested on staging where possible, with a backup taken before any change."],
       ["Written handover", "You receive a list of every change, account touched and setting added, plus backup and restore instructions. Remove our access whenever you like."],
-      ["Optional ongoing care", "Updates, backups, monitoring and small fixes continue from " + P.care + " a month if you want them. Sites we build get two months free."],
+      ["Optional ongoing care", "Updates, backups, monitoring and small fixes continue from " + P.care + " if you want them. Sites we build get two months free."],
     ],
   },
   faqHeading: "Website security freelancer: questions people ask",
   faqs: [
     { question: "What does a website security freelancer do?", answer: "A website security freelancer finds and fixes weak points in your website before attackers use them. That includes updating software, removing unused plugins, securing admin logins with two-factor authentication, configuring SSL and security headers, setting permissions on the server, setting up tested backups, cleaning malware if present and monitoring for new problems." },
-    { question: "How much does website security cost in India?", answer: `Costs depend on the platform, the number of plugins and features, and whether the site is already infected, so honest quotes follow a review. BtechWaleTech sends an itemised quote in about two working days after checking your site. Ongoing care with updates, backups and monitoring starts at ${P.care} per month.` },
+    { question: "How much does website security cost in India?", answer: `Costs depend on the platform, the number of plugins and features, and whether the site is already infected, so honest quotes follow a review. BtechWaleTech sends an itemised quote in about two working days after checking your site. Ongoing care with updates, backups and monitoring starts at ${P.care}.` },
     { question: "How do I know if my website has been hacked?", answer: "Common signs include visitors being redirected to spam or gambling sites, especially on phones, unfamiliar pages in Google results, a Security issues message in Google Search Console, a browser warning, a hosting provider’s malware notice, new admin users you did not create, or sudden spikes in server resource use." },
     { question: "Can a website security freelancer remove malware from my site?", answer: "Yes. Cleanup removes injected code, spam pages, rogue users and malicious scheduled tasks, replaces core files with clean copies and changes every password. Crucially, it also finds and closes the weakness the attacker used, such as an outdated plugin, so the site is not reinfected soon after. Google is then asked to review the site." },
     { question: "Is a security plugin enough to protect WordPress?", answer: "A well-configured security plugin is a useful first layer, but it cannot fix outdated or nulled plugins, shared passwords, weak server settings or missing backups. Those need someone to make changes. Running several overlapping security plugins can also slow the site and cause conflicts, so fewer, well-chosen tools work better." },

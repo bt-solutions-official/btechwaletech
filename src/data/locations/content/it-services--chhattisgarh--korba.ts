@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 22.3595, lng: 82.7501 },
   meta: {
-    title: "Freelance Software Developers in Korba: Apps & AI",
+    title: "Korba Software Developers: Apps & AI",
     description:
       "Freelance software developers for Korba: contractor document workflows, fleet and diesel logs, industrial websites, Android and iOS apps and AI. From ₹10,000.",
     keywords: [
@@ -30,6 +30,15 @@ const content: CityContent = {
       "IT support Korba",
       "कोरबा में सॉफ्टवेयर डेवलपर",
       "Korba mein software banwana",
+      "Korba website designer",
+      "website cost in Korba",
+      "IT company in Korba",
+      "Chhattisgarh SEO services",
+      "hire developer Korba",
+      "plant software in Korba",
+      "mining software in Korba",
+      "coal software in Korba",
+      "fly ash brick software in Korba",
     ],
   },
   hero: {

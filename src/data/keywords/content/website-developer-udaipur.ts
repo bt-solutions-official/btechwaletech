@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "handicraft website Udaipur", "website developer Hiran Magri", "website developer Fatehpura", "website developer Sukher",
       "website developer Nathdwara", "website developer Rajsamand", "website developer Mewar", "City of Lakes web developer",
       "Udaipur me website kaise banwaye", "website developer Rajasthan",
+      "website developer in Udaipur cost", "website developer in Udaipur price", "hire website developer in Udaipur", "freelance website developer in Udaipur",
+      "best website developer in Udaipur", "website developer in Udaipur charges",
     ],
   },
   hero: {

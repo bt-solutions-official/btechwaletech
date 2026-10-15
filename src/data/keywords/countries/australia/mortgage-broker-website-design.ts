@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "mortgage broker seo", "mortgage broker website sydney", "mortgage broker website melbourne",
       "mortgage broker website brisbane", "mortgage broker website perth", "aggregator compliance website approval",
       "mortgage broker website templates vs custom", "mortgage broker website designer near me",
+      "hire mortgage broker website design in Australia", "freelance mortgage broker website design Australia",
     ],
   },
   hero: {
@@ -97,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Mortgage broker website design pricing",
-    note: `A broker site with core pages, a credit guide page, calculators and a secure enquiry form starts from ${P.site} and covers up to 100 pages. Practices that want a page for each loan type in each suburb or region they serve usually suit the SEO website plan from ${P.seoSite}, which takes three to five weeks. A client portal where borrowers upload payslips and statements, or a fact-find that writes straight into your pipeline, is custom web app work from ${P.software}. Ongoing SEO starts from ${P.seo} a month. The quote arrives itemised in about two working days, and nothing is billed until you approve it in writing.`,
+    note: `A broker site with core pages, a credit guide page, calculators and a secure enquiry form starts from ${P.site} and covers up to 100 pages. Practices that want a page for each loan type in each suburb or region they serve usually suit the SEO website plan from ${P.seoSite}, which takes three to five weeks. A client portal where borrowers upload payslips and statements, or a fact-find that writes straight into your pipeline, is custom web app work from ${P.software}. Ongoing SEO starts from ${P.seo}. The quote arrives itemised in about two working days, and nothing is billed until you approve it in writing.`,
   },
   guideLabel: "Mortgage broker website design guide for Australia",
   guide: [

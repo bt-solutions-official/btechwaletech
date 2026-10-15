@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "how much does a website cost in sharjah", "arabic english website sharjah", "website maintenance sharjah",
       "website designer near me sharjah", "website design ajman", "website design dubai sharjah",
       "remote web developer for uae business", "small business website uae budget",
+      "hire website design in the UAE", "freelance website design UAE",
     ],
   },
   hero: {

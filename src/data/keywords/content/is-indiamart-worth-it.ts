@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "Is IndiaMART Worth It? Cost per Real Lead vs Own Site",
-    description: `Is IndiaMART worth it for manufacturers? Work out cost per genuine inquiry, compare it with your own B2B site from ${P.site}, and automate lead follow-up.`,
+    description: `Is IndiaMART worth it for manufacturers? Work out cost per genuine inquiry and compare it with your own B2B site, from ${P.site}. Quote in 2 days.`,
     keywords: [
       "is indiamart worth it", "is indiamart paid membership worth it", "indiamart paid plan worth it", "is indiamart good for business",
       "indiamart buyleads worth it", "indiamart leads quality", "indiamart fake leads", "indiamart vs own website",
@@ -228,7 +228,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Rarely all at once. The safer route is to keep the marketplace while your website and SEO are built, measure both for two or three quarters, then decide at renewal which plan level, if any, still earns its place.`,
         `A staged shift looks like this. In quarter one, keep your current plan, launch a proper catalogue website and route every lead from both sources into one sheet. In quarters two and three, run monthly SEO and compare cost per genuine inquiry and cost per order by source. At renewal, you have real numbers: some sellers downgrade the plan, some drop it, and some keep it because it clearly pays.`,
-        `Put simply, your costs from us for the own-channel side start at ${P.site} for the site (or ${P.seoSite} for a catalogue SEO site) plus ${P.seo} a month for SEO. Whether that is cheaper or dearer than your marketplace plan depends on your plan level; compare the two in your sheet, not in a sales pitch from either side.`,
+        `Put simply, your costs from us for the own-channel side start at ${P.site} for the site (or ${P.seoSite} for a catalogue SEO site) plus ${P.seo} for SEO. Whether that is cheaper or dearer than your marketplace plan depends on your plan level; compare the two in your sheet, not in a sales pitch from either side.`,
         `If you are also weighing big marketplaces for retail sales, <a href='/selling-on-amazon-vs-own-website/'>selling on Amazon vs your own website</a> applies the same thinking to consumer products.`,
       ],
     },

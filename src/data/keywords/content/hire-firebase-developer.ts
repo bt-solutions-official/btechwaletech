@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Hire Firebase Developer: App Backends from ${P.app}`,
-    description: `Hire a Firebase developer in India for Firestore design, security rules audits, Cloud Functions, Auth and push. Apps from ${P.app}, with billing kept in check.`,
+    description: `Hire a Firebase developer in India for Firestore design, security rules audits, Cloud Functions, Auth and push, billing in check. Apps from ${P.app}.`,
     keywords: [
       "hire firebase developer", "hire a firebase developer", "firebase developer", "firebase developer India", "freelance firebase developer",
       "firebase developer for hire", "firebase expert", "firebase consultant", "firestore developer", "firebase security rules audit",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Web app or portal", value: `From ${P.software}, 6–12 weeks` },
       { label: "Live project rescue", value: "Audit first, then an itemised fix quote" },
       { label: "Billing safety", value: "Budget alerts, query limits, App Check, emulator testing" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The Firebase project, the Google Cloud billing account, the app store accounts and the code repository should all sit in your name, with the developer added as a member you can remove. We work that way on every project, and it is the single most important thing to check before you hire any Firebase developer.`,
         `On day one, you create the Google account (or use your business Google Workspace account), create the Firebase project or let us create it and immediately transfer ownership, and add a billing account with your card. We join as editors. When the work ends, you can downgrade or remove our access in two clicks, and the app keeps running because nothing depends on our accounts.`,
-        `Handover includes a short document describing each collection, each function and what triggers it, the rules and their tests, how to deploy, and where the logs and alerts live. You get the full source code for the app, the functions and the admin panel. After launch, two months of maintenance are included; after that, ongoing care starts at ${P.care} a month if you want us to keep watching the project.`,
+        `Handover includes a short document describing each collection, each function and what triggers it, the rules and their tests, how to deploy, and where the logs and alerts live. You get the full source code for the app, the functions and the admin panel. After launch, two months of maintenance are included; after that, ongoing care starts at ${P.care} if you want us to keep watching the project.`,
       ],
     },
     {
@@ -445,7 +445,7 @@ const content: FreelanceContent = {
     { question: "Freelancer or agency: which is better for Firebase work?", answer: "It depends on the size and length of the work. A small freelance team gives you direct contact with the developers who write the rules and functions, with no account managers in between. Larger agencies can supply more people at once. For most apps, what matters more is tested rules, clear ownership and a named person watching costs." },
     { question: "How do I pay and what does the contract cover?", answer: "Clients in India pay by UPI or bank transfer; international clients pay in USD by Wise, bank wire or PayPal. Scope, milestones and deliverables are written in the itemised quote you approve before work starts. Specific contract terms such as confidentiality are agreed in that written quote; our terms page covers the general conditions." },
     { question: "Can you migrate my data into Firebase from Excel or another database?", answer: "Yes. We map your existing data to the new Firestore model, write an import script, run it against a test project first and check counts and samples with you before importing into production. Migration from an old Firebase project or from a SQL database is handled the same way, with a rollback plan." },
-    { question: "What happens after my Firebase app launches?", answer: `Two months of maintenance are included after launch: bug fixes, small changes, rules updates and keeping an eye on usage. After that, ongoing maintenance starts at ${P.care} a month if you want us to stay involved. You can also take the documented project to another developer at any time.` },
+    { question: "What happens after my Firebase app launches?", answer: `Two months of maintenance are included after launch: bug fixes, small changes, rules updates and keeping an eye on usage. After that, ongoing maintenance starts at ${P.care} if you want us to stay involved. You can also take the documented project to another developer at any time.` },
     { question: "Can you help my app show up in Google and AI search?", answer: "The app itself ranks in store search, but a web landing page, a help centre or a web version built on Firebase Hosting can be indexed by Google and cited by AI assistants. We build those pages with proper titles, structured data and fast loading, and can pair them with app store listing optimisation." },
     { question: "Can I hire a Firebase developer part-time or for a few hours?", answer: "We work by scoped tasks rather than selling blocks of hours. A small job, such as fixing one function or reviewing rules for one collection, can be quoted on its own. For regular small changes after launch, the maintenance plan covers ongoing work without a new quote each time." },
     { question: "Firebase developer chahiye, Hindi mein baat kar sakte hain?", answer: "Haan, bilkul. Hamari team English aur Hindi dono mein kaam karti hai. Aap WhatsApp par voice note bhej kar apni app ka idea ya Firebase project ki problem bata sakte hain. Hum project dekh kar likhit, itemised quote lagbhag do working days mein bhejte hain, aur approval se pehle kuch bhi bill nahi hota." },

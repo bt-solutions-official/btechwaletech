@@ -7,7 +7,7 @@ const ambejogai: CityContent = {
   meta: {
     title: "IT Services in Ambejogai | Web, Apps & AI from ₹10,000",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Ambejogai hospitals, colleges, temple-town lodges, traders and custard apple growers.",
+      "Ambejogai Marathi websites, mobile apps, local SEO and WhatsApp bots for hospitals, colleges, temple-town lodges and traders. From ₹10,000, you own the code.",
     keywords: [
       "IT services in Ambejogai",
       "IT services team in Ambajogai",
@@ -29,6 +29,10 @@ const ambejogai: CityContent = {
       "Ambejogai me website banwana",
       "Ambajogai madhye website banvaychi aahe",
       "अंबाजोगाई वेबसाइट डिझाइन",
+      "Ambejogai website designer",
+      "web development company Ambejogai",
+      "hire freelance developer Ambejogai",
+      "Maharashtra SEO",
     ],
   },
   hero: {

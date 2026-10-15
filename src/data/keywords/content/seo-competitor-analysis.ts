@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "SEO competitor analysis service",
   updated: "2026-09-25",
   meta: {
-    title: "SEO Competitor Analysis Service: Why They Outrank You",
+    title: `SEO Competitor Analysis: Why They Outrank You (2026)`,
     description: `SEO competitor analysis service that compares SERPs, content, backlinks and speed, then hands you a 90-day plan. Monthly SEO from ${P.seo}.`,
     keywords: [
       "seo competitor analysis service", "seo competitor analysis", "competitor analysis for seo", "seo competitor research",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "serp analysis service", "local seo competitor analysis", "competitor keyword research service", "seo competitor analysis for small business",
       "seo competitor analysis India", "competitor analysis seo Pune", "competitor analysis seo Hyderabad", "competitor ki ranking kaise check kare",
       "seo competitor analysis freelancer", "technical seo comparison with competitors", "competitor analysis 90 day seo plan", "how to do seo competitor analysis",
+      "SEO competitor analysis service cost", "SEO competitor analysis service price", "SEO competitor analysis service company", "best SEO competitor analysis service in India",
+      "SEO competitor analysis service cost in India", "SEO competitor analysis service service",
     ],
   },
   hero: {

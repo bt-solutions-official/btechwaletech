@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Freelance Web Developer in Bangalore from ${P.site}`,
-    description: `Freelance web developer in Bangalore? Compare a freelance team with agencies, in-house hires and marketplaces. Sites from ${P.site}, staged payments, quote in 2 days.`,
+    description: `Freelance web developer in Bangalore? Compare freelancers with agencies, in-house hires and marketplaces. Sites from ${P.site}, quote in 2 days.`,
     keywords: [
       "freelance web developer in Bangalore", "freelance web developer Bangalore", "freelance web developer in Bengaluru", "freelance web developers in Bangalore",
       "freelance website developer Bangalore", "hire freelance web developer Bangalore", "freelance developer Bangalore", "website freelancer Bangalore",

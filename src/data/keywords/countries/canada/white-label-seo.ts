@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "white label seo vancouver", "white label seo montreal", "white label seo calgary", "white label seo ottawa",
       "white label seo partner near me", "bilingual white label seo quebec", "resell seo under your brand", "seo fulfilment partner india",
       "white label seo margin",
+      "hire white label seo in Canada", "freelance white label seo Canada",
     ],
   },
   hero: {

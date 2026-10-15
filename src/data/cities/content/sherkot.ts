@@ -7,7 +7,7 @@ const sherkot: CityContent = {
   meta: {
     title: "IT Services in Sherkot | Web & Apps from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Sherkot brush makers, cane-belt traders, schools, clinics and shops in Bijnor district.",
+      "Websites, apps, local SEO and WhatsApp automation for Sherkot brush makers, cane-belt traders, schools, clinics and shops in Bijnor district. From ₹10,000.",
     keywords: [
       "IT services in Sherkot",
       "IT services team in Sherkot",
@@ -29,6 +29,12 @@ const sherkot: CityContent = {
       "Sherkot me website banwana",
       "Sherkot me app banwana",
       "शेरकोट वेबसाइट डिज़ाइन",
+      "Sherkot website designer",
+      "web development company Sherkot",
+      "hire freelance web developer Sherkot",
+      "Bijnor district SEO",
+      "website designer Bijnor district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

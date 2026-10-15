@@ -7,7 +7,7 @@ const tasgaon: CityContent = {
   meta: {
     title: "IT Services in Tasgaon: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, SEO and WhatsApp automation for Tasgaon grape growers, bedana traders, cold storages, temple-town shops and clinics.",
+      "Websites, apps, SEO and WhatsApp automation for Tasgaon grape growers, bedana traders, cold storages, temple-town shops and clinics. From ₹10,000.",
     keywords: [
       "IT services in Tasgaon",
       "IT services team in Tasgaon",
@@ -29,6 +29,12 @@ const tasgaon: CityContent = {
       "Tasgaon me website banwana",
       "Tasgaon madhye website banvane",
       "तासगाव वेबसाइट डिझाइन",
+      "Tasgaon website designer",
+      "web development company Tasgaon",
+      "hire freelance web developer Tasgaon",
+      "Sangli district SEO",
+      "website designer Sangli district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

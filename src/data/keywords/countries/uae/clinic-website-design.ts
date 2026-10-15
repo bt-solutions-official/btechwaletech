@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "clinic website design sharjah", "clinic website design near me", "arabic english clinic website",
       "local seo for clinics dubai", "multi branch clinic website", "physiotherapy clinic website dubai",
       "remote web developers india for dubai clinic", "patient form data protection uae",
+      "hire clinic website design in the UAE", "freelance clinic website design UAE",
     ],
   },
   hero: {

@@ -251,7 +251,7 @@ const content: FreelanceContent = {
         `It helps, because design controls page weight, structure and readability. But no designer can guarantee rankings, and we will not claim to.`,
         `Speed is designed, not added later. We keep font weights few, compress every image, avoid sliders and auto-playing video, and keep animation minimal, so pages stay within Core Web Vitals on mid-range phones. Structure follows a proper heading order, and all text, including Gujarati, stays as text that search engines can read.`,
         `Local signals come from design details too: your name, address and phone shown exactly as on your Google Business Profile, a map, and a dedicated page for each main service or room type. Schema markup tells search engines what kind of business you are, and the sitemap goes to Google Search Console at launch.`,
-        `AI assistants and Google's AI Overviews often quote short, self-contained answers. A tidy FAQ, such as “When is Hafus season?” or “How far is the stay from Tithal beach?”, serves readers and those systems. Optional ongoing search work is available via <a href='/services/seo-services/'>SEO services</a> from ${P.seo} a month.`,
+        `AI assistants and Google's AI Overviews often quote short, self-contained answers. A tidy FAQ, such as “When is Hafus season?” or “How far is the stay from Tithal beach?”, serves readers and those systems. Optional ongoing search work is available via <a href='/services/seo-services/'>SEO services</a> from ${P.seo}.`,
       ],
     },
     {

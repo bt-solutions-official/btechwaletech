@@ -7,7 +7,7 @@ const cuttack: CityContent = {
   meta: {
     title: "Web Design & SEO in Cuttack | Sites from ₹10,000",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Cuttack traders, clinics and filigree makers. Published prices from ₹10,000, code and domain yours.",
+      "Cuttack websites, local SEO, online stores and WhatsApp bots for traders, clinics and filigree makers. Published prices from ₹10,000, code and domain yours.",
     keywords: [
       "website development team in Cuttack",
       "web design Cuttack",
@@ -25,6 +25,14 @@ const cuttack: CityContent = {
       "website developer Cuttack Bhubaneswar",
       "Cuttack re website banaiba",
       "କଟକ ୱେବସାଇଟ ଡିଜାଇନ",
+      "Cuttack website designer",
+      "web development company Cuttack",
+      "hire freelance developer Cuttack",
+      "Odisha SEO",
+      "website for silver filigree and jewellery in Cuttack",
+      "web designer in Buxi Bazaar, Cuttack",
+      "website for legal practices in Cuttack",
+      "mobile app developer in Cuttack",
     ],
   },
   hero: {

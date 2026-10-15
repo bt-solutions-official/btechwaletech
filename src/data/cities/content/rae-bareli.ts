@@ -7,7 +7,7 @@ const raeBareli: CityContent = {
   meta: {
     title: "Rae Bareli Website Developer, SEO & WhatsApp Bots",
     description:
-      "Websites, local SEO and WhatsApp automation for Rae Bareli clinics near AIIMS, coaching centres, contractors, traders and shops. Static sites start at ₹10,000.",
+      "Websites, local SEO and WhatsApp automation for Rae Bareli clinics near AIIMS, coaching centres, contractors, traders and shops. Websites from ₹10,000.",
     keywords: [
       "website development team in Rae Bareli",
       "web designer Raebareli",
@@ -24,6 +24,17 @@ const raeBareli: CityContent = {
       "Raebareli me website kaise banwaye",
       "software development Rae Bareli",
       "website maintenance Raebareli",
+      "Rae Bareli website designer",
+      "web development company Rae Bareli",
+      "hire freelance web developer Rae Bareli",
+      "Uttar Pradesh SEO services",
+      "Rae Bareli me website kaise banwaye",
+      "Rae Bareli website banwane ka kharcha",
+      "coaching institutes website design Rae Bareli",
+      "website design Civil Lines Rae Bareli",
+      "website design Super Market Rae Bareli",
+      "website design Kutchery Road Rae Bareli",
+      "website design Indira Nagar Rae Bareli",
     ],
   },
   hero: {

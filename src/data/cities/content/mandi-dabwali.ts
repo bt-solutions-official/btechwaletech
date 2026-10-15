@@ -7,7 +7,7 @@ const mandiDabwali: CityContent = {
   meta: {
     title: "IT Services in Mandi Dabwali: Web, Apps, SEO & AI",
     description:
-      "Hindi and Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Mandi Dabwali jeep modifiers, grain traders, clinics and shops.",
+      "Hindi and Punjabi websites, apps and SEO for Mandi Dabwali jeep modifiers, grain traders, clinics and shops. Sites from ₹10,000, SEO sites from ₹20,000.",
     keywords: [
       "IT services in Mandi Dabwali",
       "IT services team in Dabwali",
@@ -28,6 +28,13 @@ const mandiDabwali: CityContent = {
       "Mandi Dabwali me website banwana",
       "Dabwali vich website banwao",
       "मंडी डबवाली वेबसाइट डिजाइन",
+      "Mandi Dabwali website designer",
+      "web development company Mandi Dabwali",
+      "hire freelance web developer Mandi Dabwali",
+      "Sirsa district SEO",
+      "website designer Sirsa district",
+      "Haryana SEO services",
+      "Mandi Dabwali me website kaise banwaye",
     ],
   },
   hero: {

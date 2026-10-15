@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "coworking space management software cost", "coworking software price in India", "best coworking space management software", "how to manage a coworking space",
       "custom coworking software", "coworking app development", "coworking software Bengaluru", "coworking software Gurgaon", "coworking software Pune",
       "virtual office management software", "desk booking app",
+      "coworking space management software company in India",
+      "coworking space management software services",
     ],
   },
   hero: {
@@ -356,7 +358,7 @@ const content: FreelanceContent = {
         ["Member app", "Bookings, invoices, tickets, guests, events", `${P.app} (${P.appUsd})`, "6–10 weeks, can overlap"],
         ["Automation", "WhatsApp invoices, reminders, visitor passes", `${P.ai} (${P.aiUsd})`, "2–4 weeks"],
         ["Centre website", "Plans, locations, tour booking form", `${P.site} (${P.siteUsd})`, "1–2 weeks"],
-        ["Monthly local SEO", "Google Business Profiles for each centre, location pages", `${P.seo} per month`, "Ongoing"],
+        ["Monthly local SEO", "Google Business Profiles for each centre, location pages", `${P.seo}`, "Ongoing"],
         ["Maintenance", "Fixes, updates, backups", `${P.care} (${P.careUsd})`, "After 2 free months"],
       ],
       hideSm: [3],

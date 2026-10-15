@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 22.9868, lng: 87.855 },
   meta: {
-    title: "Freelance IT Services in West Bengal: Apps & AI",
+    title: "West Bengal IT Services: Apps & AI",
     description:
-      "Freelance IT services in West Bengal: custom software, Android and iOS apps, AI automation, SEO and stores for Kolkata, Siliguri, Durgapur and beyond. From ₹10,000.",
+      "Freelance IT services in West Bengal: custom software, Android and iOS apps, AI automation, SEO and stores for Kolkata and Siliguri. From ₹10,000.",
     keywords: [
       "IT services in West Bengal",
       "software development team in West Bengal",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "software developer Salt Lake Sector V New Town",
       "পশ্চিমবঙ্গে সফটওয়্যার কোম্পানি",
       "पश्चिम बंगाल में आईटी सेवाएं",
+      "West Bengal website designer",
+      "website cost in West Bengal",
+      "IT company in West Bengal",
+      "West Bengal SEO services",
+      "hire developer West Bengal",
+      "steel software in West Bengal",
+      "tea estates software in West Bengal",
+      "distribution software in West Bengal",
+      "jute software in West Bengal",
     ],
   },
   hero: {

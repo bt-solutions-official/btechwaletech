@@ -7,7 +7,7 @@ const narwana: CityContent = {
   meta: {
     title: "IT Services in Narwana | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Narwana arhtiyas, rice shellers, IIDC units, coaching centres, clinics and shops.",
+      "Websites, apps, local SEO and WhatsApp automation for Narwana arhtiyas, rice shellers, IIDC units, coaching centres, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Narwana",
       "IT services team in Narwana",
@@ -29,6 +29,12 @@ const narwana: CityContent = {
       "Uchana website designer",
       "Narwana me website banwana",
       "Narwana mein app banwana hai",
+      "Narwana website designer",
+      "web development company Narwana",
+      "hire freelance web developer Narwana",
+      "Jind district SEO",
+      "website designer Jind district",
+      "Haryana SEO services",
     ],
   },
   hero: {

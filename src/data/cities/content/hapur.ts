@@ -7,7 +7,7 @@ const hapur: CityContent = {
   meta: {
     title: "Hapur Website & SEO for Traders | From ₹10,000",
     description:
-      "Websites, SEO, B2B catalogues and WhatsApp order automation for Hapur steel tube makers, papad units, grain traders and Pilkhuwa textile firms. From ₹10,000.",
+      "Hapur websites, SEO, B2B catalogues and WhatsApp order automation for steel tube makers, papad units, grain traders and Pilkhuwa textile firms. From ₹10,000.",
     keywords: [
       "website development team in Hapur",
       "web designer Hapur",
@@ -25,6 +25,14 @@ const hapur: CityContent = {
       "website maintenance Hapur",
       "Hapur me website kaise banwaye",
       "software development Hapur",
+      "Hapur website designer",
+      "website cost in Hapur",
+      "web development company Hapur",
+      "hire freelance developer Hapur",
+      "Uttar Pradesh SEO",
+      "website for steel pipes and tubes in Hapur",
+      "web designer in Delhi Road, Hapur",
+      "website for papad and food processing in Hapur",
     ],
   },
   hero: {

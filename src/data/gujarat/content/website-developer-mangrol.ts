@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Mangrol · Seafood Sites ${P.site}`,
-    description: `Website developer in Mangrol for seafood exporters, boat owners and harbour suppliers. Export-ready sites from ${P.site}, English for buyers, Gujarati with your copy.`,
+    description: `Website developer in Mangrol for seafood exporters, boat owners and harbour suppliers. Export sites from ${P.site}, English for buyers, Gujarati with your copy.`,
     keywords: [
       "website developer in Mangrol", "website developer Mangrol", "website developer Mangrol Gujarat", "web developer Mangrol Junagadh",
       "website designer Mangrol", "seafood exporter website Mangrol", "fish export website Gujarat", "fishing harbour business website",

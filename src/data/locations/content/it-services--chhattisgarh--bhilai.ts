@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 21.1938, lng: 81.3509 },
   meta: {
-    title: "Freelance Software Developers in Bhilai: B2B & AI",
+    title: "Bhilai Software Developers: B2B & AI",
     description:
-      "Freelance software developers for Bhilai: quotation and contractor software, B2B websites, Android and iOS apps, AI automation and dashboards. Starting at ₹10,000.",
+      "Freelance software developers for Bhilai: quotation and contractor software, B2B websites, plus Android and iOS apps. Two months of free upkeep after launch.",
     keywords: [
       "software development team in Bhilai",
       "IT services team in Bhilai",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "website maintenance Bhilai",
       "भिलाई में सॉफ्टवेयर डेवलपर",
       "Bhilai mein software banwana",
+      "Bhilai website designer",
+      "website cost in Bhilai",
+      "IT company in Bhilai",
+      "Chhattisgarh SEO services",
+      "hire developer Bhilai",
+      "fabrication software in Bhilai",
+      "machine shops software in Bhilai",
+      "plant software in Bhilai",
+      "industrial spares software in Bhilai",
     ],
   },
   hero: {

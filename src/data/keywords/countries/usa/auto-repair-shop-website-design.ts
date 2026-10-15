@@ -47,7 +47,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "What makes a good auto repair shop website?",
     text: `A good auto repair shop website lists every service you perform on its own page, lets drivers request an appointment with their vehicle details in under a minute, shows the ASE certifications your technicians actually hold and your written repair warranty, and displays hours, address and real reviews. BtechWaleTech builds this from ${P.site}, or from ${P.seoSite} for multi-location shops.`,
-    more: `Shops that also run commercial accounts can borrow ideas from our <a href='/usa/trucking-company-website-design/'>trucking company website design</a> page, and ongoing map-pack work is covered under <a href='/usa/local-seo-services/'>local SEO services</a>.`,
+    more: `Shops that also run commercial accounts can borrow ideas from our <a href='/usa/moving-company-website-design/'>moving company website design</a> page, and ongoing map-pack work is covered under <a href='/usa/local-seo-services/'>local SEO services</a>.`,
   },
   snapshot: {
     caption: "An auto repair shop website built to fill bays, at a glance",
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Trust signals", value: "ASE credentials held, written warranty terms, real bay and team photos, Google reviews" },
       { label: "Search setup", value: "Business Profile alignment, AutoRepair structured data, service and neighborhood pages" },
       { label: "Starting price", value: `From ${P.site}; multi-location from ${P.seoSite}; monthly SEO from ${P.seo}` },
-      { label: "Support", value: `2 months free maintenance, then care plans from ${P.care} a month` },
+      { label: "Support", value: `2 months free maintenance, then care plans from ${P.care}` },
     ],
   },
   services: {
@@ -167,7 +167,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Auto repair shop website design with us starts from ${P.site} for a single-location site of up to 100 pages and from ${P.seoSite} for multi-location groups or very large service libraries. Other designers' quotes vary widely; the spread comes from scope, content and who owns what, not from the homepage design.`,
         `What changes the number: how many service, make and specialty pages you need; whether the booking link comes from your shop software or we build a request form with conditional fields; how much writing we do versus what you provide; photo editing; bilingual pages; and extras like a fleet enquiry workflow, a tire or parts catalog, or a customer portal. A portal where drivers see past repair orders and inspection photos is custom software, starting from ${P.software}.`,
-        `Ongoing costs stay transparent. Your shop software subscription, domain and hosting are billed directly to you by those providers. After two free months of maintenance, care plans start from ${P.care} a month, and monthly local search work starts from ${P.seo}. Compare every plan on the <a href='/pricing/'>pricing page</a>, and remember any figure there is a starting point that your itemized quote refines.`,
+        `Ongoing costs stay transparent. Your shop software subscription, domain and hosting are billed directly to you by those providers. After two free months of maintenance, care plans start from ${P.care}, and monthly local search work starts from ${P.seo}. Compare every plan on the <a href='/pricing/'>pricing page</a>, and remember any figure there is a starting point that your itemized quote refines.`,
       ],
     },
     {
@@ -212,7 +212,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Yes, if you want fleet work. Local businesses with vans, pickups and service trucks look for a shop that will prioritize their vehicles, invoice monthly and keep maintenance records, and a dedicated page is how they find and qualify you.`,
         `A fleet page should describe the vehicle types you handle, how scheduling works for fleet customers, what reporting you provide (maintenance history, inspection notes, photos), your invoicing terms and a fleet enquiry form asking for fleet size, vehicle types and location. Keep any terms you publish consistent with what you actually offer; we write only what you confirm.`,
-        `Fleet buyers include landscapers, plumbers, delivery companies, property managers and small trucking outfits running box trucks. Some of them will look for DOT-inspection help for their commercial vehicles; if you perform those inspections, say which vehicle classes you handle. For a sense of what trucking companies publish on their own sites, and so the language on both sides matches, see our <a href='/usa/trucking-company-website-design/'>trucking company website design</a> page. A fleet portal showing each vehicle's history is a bigger project, quoted as custom software.`,
+        `Fleet buyers include landscapers, plumbers, delivery companies, property managers and small trucking outfits running box trucks. Some of them will look for DOT-inspection help for their commercial vehicles; if you perform those inspections, say which vehicle classes you handle. For a sense of what fleet operators publish on their own sites, and so the language on both sides matches, see our <a href='/usa/moving-company-website-design/'>moving company website design</a> page. A fleet portal showing each vehicle's history is a bigger project, quoted as custom software.`,
       ],
     },
     {
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
     { question: "Do you take photos of my shop?", answer: "No. We work remotely and do not visit shops. Your team sends phone photos of the bays, equipment, front counter and technicians, and we select, crop and compress them for the site. Real photos of your people and space build more trust with drivers than stock images of mechanics." },
     { question: "Can an AI assistant take calls for my repair shop?", answer: `Yes. An AI phone or chat agent can answer common questions, collect vehicle details and callback numbers after hours and pass urgent calls to a person. It should identify itself as automated. We build these from ${P.ai}. Recording consent rules vary by state, so confirm the setup with your attorney.` },
     { question: "Can you build an English and Spanish website for my shop?", answer: "Yes. We build bilingual repair shop sites with a language switch and separate pages for each language, tagged so search engines serve the right version. We write in English, so you or your translator supply or approve the Spanish text. This helps shops in Texas, Florida, California and many other markets." },
-    { question: "What does maintenance cost after my repair shop site launches?", answer: `The first two months are free: updates, backups, security monitoring and small text or photo changes. After that, care plans start from ${P.care} a month. New service pages or monthly local SEO work, starting from ${P.seo}, are quoted separately so you only pay for what you use.` },
+    { question: "What does maintenance cost after my repair shop site launches?", answer: `The first two months are free: updates, backups, security monitoring and small text or photo changes. After that, care plans start from ${P.care}. New service pages or monthly local SEO work, starting from ${P.seo}, are quoted separately so you only pay for what you use.` },
     { question: "Should my website have a page for fleet customers?", answer: "If you want fleet work, yes. A fleet page that explains vehicle types you handle, how scheduling and invoicing work, and what records you provide helps local businesses choose you. Include a fleet enquiry form asking for fleet size and vehicle types so your team can qualify leads quickly." },
     { question: "What don't you do for auto repair shops?", answer: "We do not visit shops, run Google Ads day to day, answer your phones, handle review responses for you or give legal advice. We design, build, write, connect booking, optimize for search and maintain the website, and we can build the pages and tracking your ad campaigns need." },
     { question: "How do I pay for my repair shop website from the US?", answer: "You get an itemized USD quote, approve it in writing, and pay by bank wire, Wise or PayPal on the milestones in the quote. Invoices are issued from India. Your hosting, domain and shop software are billed directly by those providers, so there is no markup hidden in running costs." },
@@ -390,14 +390,14 @@ const content: FreelanceContent = {
     heading: "More US website pages for local service businesses",
     links: [
       { name: "Gym website design", href: "/usa/gym-website-design/" },
-      { name: "Vacation rental website design", href: "/usa/vacation-rental-website-design/" },
-      { name: "Trucking company website design", href: "/usa/trucking-company-website-design/" },
+      { name: "Real estate agent website design", href: "/usa/real-estate-agent-website-design/" },
+      { name: "Moving company website design", href: "/usa/moving-company-website-design/" },
       { name: "Electrician website design", href: "/usa/electrician-website-design/" },
       { name: "Plumber website design", href: "/usa/plumber-website-design/" },
       { name: "Small business website design", href: "/usa/small-business-website-design/" },
       { name: "Local SEO services", href: "/usa/local-seo-services/" },
       { name: "AI voice agent development", href: "/usa/ai-voice-agent-development/" },
-      { name: "Field service app development", href: "/usa/field-service-app-development/" },
+      { name: "Custom software development", href: "/usa/custom-software-development/" },
       { name: "Website redesign services", href: "/usa/website-redesign-services/" },
       { name: "Web development for US businesses", href: "/usa/" },
       { name: "Pricing", href: "/pricing/" },

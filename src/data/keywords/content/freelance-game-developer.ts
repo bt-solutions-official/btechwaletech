@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "educational game developer", "quiz game app developer", "gamification developer", "HTML5 game developer",
       "Flutter game developer", "hyper casual game developer India", "kids learning game app", "hire game developer India",
       "browser game developer", "brand promotional game developer",
+      "hire freelance game developer",
     ],
   },
   hero: {
@@ -373,7 +374,7 @@ const content: FreelanceContent = {
     { question: "Is a freelance game developer better than a studio?", answer: "For a small 2D or learning game, a freelancer or small freelance team is usually faster to start and cheaper to run. For 3D, art-heavy or multiplayer games, a studio has the artists, designers and testers you need. The right choice depends on the size of the game, not on the label." },
     { question: "Can the game work offline?", answer: "Yes, for most single-player and learning games. Levels and question banks download once, progress saves on the phone and syncs when a connection returns. This matters for players in areas with patchy or costly mobile data, and we test the offline path before release." },
     { question: "Will the game run on cheap Android phones?", answer: "That is a design goal from day one. We keep install size small, limit heavy effects and test on low-memory Android devices. A simple 2D game should run smoothly on a budget phone; if a requested effect would stutter on common devices, we tell you and suggest a lighter option." },
-    { question: "What happens after the game is launched?", answer: `You get two months of free maintenance covering crash fixes, store policy updates and small changes. After that, new levels, seasonal content and upkeep can continue from ${P.care} a month if you choose. Store platforms update their rules regularly, so some ongoing care is sensible for any live game.` },
+    { question: "What happens after the game is launched?", answer: `You get two months of free maintenance covering crash fixes, store policy updates and small changes. After that, new levels, seasonal content and upkeep can continue from ${P.care} if you choose. Store platforms update their rules regularly, so some ongoing care is sensible for any live game.` },
     { question: "How do I pay, and when?", answer: "Nothing is billed until you approve the itemised quote in writing. Clients in India pay by UPI or bank transfer; international clients pay by Wise, bank wire or PayPal. The payment schedule is set out in the approved quote. Our terms and refund policy pages cover the details." },
     { question: "Game banwane mein kitna time aur kharcha lagta hai?", answer: `Chhota 2D mobile game aam taur par 6–10 hafte mein banta hai, aur quote app plan ke hisaab se ${P.app} se shuru hota hai. Website ke andar chhota quiz game ${P.site} se ho sakta hai. Final quote levels, art aur features par depend karta hai.` },
     { question: "Do you sign an NDA for my game idea?", answer: "If you want an NDA, tell us when you first share the idea and the terms will be agreed in writing before you send details. Most small game ideas are safe to describe in outline anyway, since execution matters more than the idea. See our terms page for standard project terms." },

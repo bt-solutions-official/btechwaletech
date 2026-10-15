@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Freelance web developer for UK clients",
   updated: "2026-09-24",
   meta: {
-    title: "Freelance Web Developer for UK Clients: GDPR, Hours",
+    title: `Freelance Web Developer for UK Clients, GDPR, ${P.siteUsd}+`,
     description: `Freelance web developer for UK clients, working from India: UK GDPR handled properly, overlap with UK hours, billing via Wise. Sites from ${P.siteUsd}.`,
     keywords: [
       "freelance web developer for UK clients", "freelance web developer UK", "hire web developer from India UK", "offshore web developer UK",
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Search-focused sites", note: `Service and location pages across UK towns, generated from structured data, from ${P.seoSiteUsd}.`, href: "/seo-website-developer/", size: "md" },
       { name: "Redesign and migration", note: "Move off an ageing site or builder while keeping URLs, redirects and search traffic intact.", href: "/website-migration-freelancer/", size: "sm" },
       { name: "AI and workflow automation", note: `Email triage, document reading and CRM updates, built with data protection in mind, from ${P.aiUsd}.`, href: "/ai-automation-freelancer/", size: "sm" },
-      { name: "Maintenance", note: `Updates, backups and small edits after two free months, from ${P.careUsd} a month.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance", note: `Updates, backups and small edits after two free months, from ${P.careUsd}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -219,7 +219,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Host close to your visitors and serve static content through a CDN. For UK audiences that usually means a London region with a provider such as AWS, or a static host with edge locations across Europe. For sites that handle personal data, a UK or EU region also makes the data protection story simpler.`,
         `For search, a UK site needs the basics done well: unique titles and descriptions written in UK English, clean URLs, schema for your organisation and services, an XML sitemap and Google Search Console set up for the UK property. If you serve customers locally, your Google Business Profile should match the name, address and phone on the site exactly. Location pages for the towns you serve should contain real, specific detail rather than swapped place names.`,
-        `No developer can guarantee rankings on google.co.uk, and anyone who says otherwise is guessing. What we can do is make sure the site is fast, crawlable and clearly structured. Ongoing search work starts at ${P.seoUsd} a month; see <a href='/freelance-seo-expert/'>freelance SEO expert</a>.`,
+        `No developer can guarantee rankings on google.co.uk, and anyone who says otherwise is guessing. What we can do is make sure the site is fast, crawlable and clearly structured. Ongoing search work starts at ${P.seoUsd}; see <a href='/freelance-seo-expert/'>freelance SEO expert</a>.`,
       ],
     },
     {
@@ -382,8 +382,8 @@ const content: FreelanceContent = {
     { question: "Do UK company websites need to show company details?", answer: "Yes. UK limited companies should display their registered name, company number, place of registration and registered office address on their website, commonly in the footer or on a legal page. We add these from the details you provide, along with a privacy notice template and cookie information." },
     { question: "Can you work as a white-label partner for a UK agency?", answer: "Yes. UK agencies send us builds to deliver under their own brand, with confidentiality terms agreed in writing and no contact with the end client unless the agency wants it. Process, pricing and handover follow the same itemised approach, and the agency keeps ownership of the relationship." },
     { question: "Will you meet me in person in the UK?", answer: "No. All our work is remote, over video calls, screen sharing and a shared message thread. For most website projects that covers everything an in-person meeting would. If on-site workshops or visits to your premises matter to you, a UK-based freelancer is the better choice." },
-    { question: "What happens after my UK website launches?", answer: `Two months of free maintenance follow launch, covering small edits, fixes, updates and backups. After that, maintenance is optional and starts from ${P.careUsd} a month. You can also take the site in-house or give it to another developer, since every account and all code are already in your name.` },
-    { question: "Can you help with SEO on google.co.uk?", answer: `Yes. Every build includes the basics: UK English titles and descriptions, clean URLs, schema, a sitemap and Google Search Console. Ongoing SEO, including content and local search work for the towns you serve, starts at ${P.seoUsd} a month. Nobody can honestly guarantee rankings, and we will not promise any.` },
+    { question: "What happens after my UK website launches?", answer: `Two months of free maintenance follow launch, covering small edits, fixes, updates and backups. After that, maintenance is optional and starts from ${P.careUsd}. You can also take the site in-house or give it to another developer, since every account and all code are already in your name.` },
+    { question: "Can you help with SEO on google.co.uk?", answer: `Yes. Every build includes the basics: UK English titles and descriptions, clean URLs, schema, a sitemap and Google Search Console. Ongoing SEO, including content and local search work for the towns you serve, starts at ${P.seoUsd}. Nobody can honestly guarantee rankings, and we will not promise any.` },
     { question: "What if a developer in India becomes unavailable mid-project?", answer: "With accounts and code already in your name, another developer can continue with little disruption. BtechWaleTech is a team of three who share each project’s code and notes, so one person being away does not stop the work or lock you out of anything." },
   ],
   related: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance Digital Marketing Expert: SEO ${P.seo}+`,
-    description: `Freelance digital marketing expert in India: SEO from ${P.seo} a month, Google Ads basics, social and email explained honestly, with tracking you can verify.`,
+    description: `Freelance digital marketing expert in India: Google Ads basics, social and email explained honestly, with tracking you can verify. SEO from ${P.seo}.`,
     keywords: [
       "freelance digital marketing expert", "freelance digital marketing expert in India", "digital marketing expert near me",
       "digital marketing freelancer for hire", "freelance digital marketing expert cost", "digital marketing charges per month India",
@@ -23,12 +23,13 @@ const content: FreelanceContent = {
       "freelance SEO and Google Ads", "Google Ads basics for small business", "social media marketing freelancer", "email marketing freelancer India",
       "digital marketing consultant freelance", "online marketing expert India", "digital marketing for small business", "GA4 conversion tracking setup",
       "local SEO and Google Business Profile", "WhatsApp marketing expert", "digital marketing freelancer vs agency",
+      "hire freelance digital marketing expert",
     ],
   },
   hero: {
     eyebrow: "Freelance digital marketing expert · SEO-led, measured",
     h1: "Freelance digital marketing expert: SEO, Google Ads basics, social and email, explained straight",
-    lede: `A freelance digital marketing expert helps customers find you online and turns that attention into calls, WhatsApp messages and sales, across search, ads, social media and email. BtechWaleTech is three freelance developers in India whose marketing work is built on the technical side: SEO and local SEO from ${P.seo} a month, landing pages, <strong>conversion tracking you can verify</strong>, and email and WhatsApp automation. This page explains each channel, what it costs, how long it takes to work, and which parts we handle versus where you need someone else.`,
+    lede: `A freelance digital marketing expert helps customers find you online and turns that attention into calls, WhatsApp messages and sales, across search, ads, social media and email. BtechWaleTech is three freelance developers in India whose marketing work is built on the technical side: SEO and local SEO from ${P.seo}, landing pages, <strong>conversion tracking you can verify</strong>, and email and WhatsApp automation. This page explains each channel, what it costs, how long it takes to work, and which parts we handle versus where you need someone else.`,
     pills: ["SEO & local SEO", "Google Business Profile", "Landing pages for ads", "GA4 & conversion tracking", "Email & WhatsApp automation", "Monthly reports", "No ranking guarantees"],
     origin: "Three freelance developers · Remote from India · Marketing work for businesses across India and abroad",
   },
@@ -96,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a freelance digital marketing expert charges, and what is extra",
-    note: `Our marketing work is priced in two parts. Setup work (tracking, landing pages, site fixes, Google Business Profile) is quoted once, usually starting with a website from ${P.site} or a fix list on the SEO plan. Ongoing SEO starts at ${P.seo} a month (${P.seoUsd} abroad) and covers technical upkeep, new pages, internal links and a monthly report. Advertising budgets, SMS and WhatsApp message charges and email-sending tools are always extra and paid by you directly to the provider, so you can see every rupee of spend in your own account. Quotes arrive itemised in about two working days.`,
+    note: `Our marketing work is priced in two parts. Setup work (tracking, landing pages, site fixes, Google Business Profile) is quoted once, usually starting with a website from ${P.site} or a fix list on the SEO plan. Ongoing SEO starts at ${P.seo} (${P.seoUsd} abroad) and covers technical upkeep, new pages, internal links and a monthly report. Advertising budgets, SMS and WhatsApp message charges and email-sending tools are always extra and paid by you directly to the provider, so you can see every rupee of spend in your own account. Quotes arrive itemised in about two working days.`,
   },
   guideLabel: "Digital marketing guide",
   guide: [

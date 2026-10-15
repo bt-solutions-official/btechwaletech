@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Freelance coder",
   updated: "2026-09-24",
   meta: {
-    title: "Freelance Coder for Fixes, Features and Code Review",
-    description: `Need a freelance coder? Bug fixes, new features and code review for small projects, quoted per task. Ongoing help from ${P.care}. Honest scoping, your repo.`,
+    title: `Freelance Coder for Fixes & Features from ${P.care}`,
+    description: `Need a freelance coder? Bug fixes, new features and code review for small projects, quoted per task. Ongoing help from ${P.care}. Ask for a quote.`,
     keywords: [
       "freelance coder", "freelance coder in India", "freelance coder near me", "freelance coder for hire",
       "freelance coder cost", "freelance coder price", "best freelance coder", "coder chahiye",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "code review freelancer", "bug fix developer", "freelance coder for website fix", "freelance JavaScript coder",
       "freelance Python coder", "freelance PHP coder", "add feature to existing website", "fix my code",
       "coding help for startup", "part-time coder India",
+      "hire freelance coder",
     ],
   },
   hero: {

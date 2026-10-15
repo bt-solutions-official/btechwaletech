@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "best software for catering business", "how to manage a catering business", "catering app for caterers", "catering management system project",
       "catering software Delhi", "catering software Jaipur", "catering software Lucknow", "catering ka hisab kitab software",
       "outdoor catering software", "catering inventory software", "catering management software near me",
+      "catering management software company in India",
+      "catering management software services",
     ],
   },
   hero: {

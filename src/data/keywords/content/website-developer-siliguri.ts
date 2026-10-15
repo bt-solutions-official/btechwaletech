@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "homestay website Darjeeling", "tea business website Siliguri", "website developer Sevoke Road", "website developer Hill Cart Road",
       "website developer Matigara", "website developer Jalpaiguri", "website developer Darjeeling", "website developer Gangtok",
       "website developer North Bengal", "Siliguri me website kaun banata hai", "Siliguri website banwana hai", "best website developer in Siliguri",
+      "website developer in Siliguri cost", "website developer in Siliguri price", "hire website developer in Siliguri", "freelance website developer in Siliguri",
+      "website developer in Siliguri charges",
     ],
   },
   hero: {

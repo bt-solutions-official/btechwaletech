@@ -7,7 +7,7 @@ const ashokNagar: CityContent = {
   meta: {
     title: "IT Services in Ashok Nagar: Web, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Ashok Nagar grain traders, Chanderi weavers, clinics, schools and shops.",
+      "Ashok Nagar Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for grain traders, Chanderi weavers, clinics, schools and shops.",
     keywords: [
       "IT services in Ashok Nagar",
       "IT services team in Ashok Nagar",
@@ -29,6 +29,10 @@ const ashokNagar: CityContent = {
       "Ashoknagar me website banwana",
       "Ashoknagar me app banwana",
       "अशोकनगर वेबसाइट डिज़ाइन",
+      "Ashok Nagar website designer",
+      "web development company Ashok Nagar",
+      "hire freelance developer Ashok Nagar",
+      "northern Madhya Pradesh SEO",
     ],
   },
   hero: {

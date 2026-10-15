@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "invoice approval workflow", "WhatsApp invoice to Tally", "invoice scanning software for small business",
       "invoice automation for CA firms", "invoice processing automation Ludhiana", "invoice processing automation Surat",
       "bill entry automation", "purchase bill ki entry automatic kaise kare", "invoice processing automation freelancer",
+      "best invoice processing automation in India",
+      "invoice processing automation services",
     ],
   },
   hero: {
@@ -61,7 +63,7 @@ const content: FreelanceContent = {
       { label: "Output", value: "Draft purchase voucher or bill in TallyPrime, Zoho Books or ERP" },
       { label: "Starting price", value: `From ${P.ai} (${P.aiUsd}), 2–4 weeks` },
       { label: "Bigger systems", value: `AP portal with vendor logins from ${P.software}` },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -76,7 +78,7 @@ const content: FreelanceContent = {
       { name: "Approval workflow", note: "Clean bills go to one approver, exceptions go to the right person with the reason shown next to the image. Approvals can happen on a phone.", size: "md" },
       { name: "Posting to your books", note: "Approved bills become purchase vouchers in TallyPrime or bills in Zoho Books with the ledger, cost centre and tax mapping you already use.", href: "/zoho-books-integration/", size: "md" },
       { name: "Dashboards and audit trail", note: "Who uploaded, who approved, what was changed, and how long each bill waited. Useful for month-end and for your auditor.", href: "/mis-report-automation/", size: "sm" },
-      { name: "Hosting and upkeep", note: `Runs on your cloud account or office machine. Two months of fixes are free; after that care starts at ${P.care} a month.`, size: "sm" },
+      { name: "Hosting and upkeep", note: `Runs on your cloud account or office machine. Two months of fixes are free; after that care starts at ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -235,7 +237,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own it. The code, the cloud or server account, the WhatsApp Business account, the AI provider account and the stored bills are all in your name, and we work with access you grant and can revoke.`,
         `Supplier bills contain commercial data: rates, margins, bank details. So we keep the design conservative. Files are stored in your own storage bucket or server with access restricted to named users. Extraction calls go to an AI provider account you control, with settings chosen so your data is not used for training where the provider offers that option. Staff logins are separate, with roles for uploader, approver and admin. The audit log records every view and change.`,
-        `At handover you receive the source code, deployment notes, the mapping tables and a short runbook covering what to do if a supplier changes their bill format. Two months of maintenance are included after launch; after that you can continue with us from ${P.care} a month or hand the system to your own team. Our <a href='/terms/'>terms</a> set out the general arrangement, and specifics are written into your quote.`,
+        `At handover you receive the source code, deployment notes, the mapping tables and a short runbook covering what to do if a supplier changes their bill format. Two months of maintenance are included after launch; after that you can continue with us from ${P.care} or hand the system to your own team. Our <a href='/terms/'>terms</a> set out the general arrangement, and specifics are written into your quote.`,
       ],
     },
     {
@@ -306,7 +308,7 @@ const content: FreelanceContent = {
         ["PO and GRN matching", "Two-way or three-way line matching with tolerances, exception routing", `From ${P.ai}`, "3–4 weeks"],
         ["GST reconciliation reports", "Monthly match of approved bills with the GST portal statement, mismatch lists", `From ${P.ai}`, "1–2 weeks as an add-on"],
         ["Accounts payable portal", "Vendor logins, bill upload, status tracking, multi-branch approvals, ERP posting", `From ${P.software}`, "6–12 weeks"],
-        ["Ongoing care", "Monitoring, supplier format fixes, mapping updates after the free period", `From ${P.care} a month`, "After 2 free months"],
+        ["Ongoing care", "Monitoring, supplier format fixes, mapping updates after the free period", `From ${P.care}`, "After 2 free months"],
       ],
     },
     {

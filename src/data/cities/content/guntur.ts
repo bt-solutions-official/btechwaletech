@@ -7,7 +7,7 @@ const guntur: CityContent = {
   meta: {
     title: "Guntur Web Development, SEO & Automation | ₹10,000+",
     description:
-      "Websites, trading software, SEO and WhatsApp automation for Guntur chilli and cotton traders, hospitals, colleges and shops. From ₹10,000, two months free upkeep.",
+      "Guntur websites, trading software, SEO and WhatsApp bots for chilli and cotton traders, hospitals, colleges and shops. From ₹10,000, two months free upkeep.",
     keywords: [
       "website development team in Guntur",
       "web designer Guntur",
@@ -25,6 +25,14 @@ const guntur: CityContent = {
       "website maintenance Guntur",
       "Guntur lo website design",
       "గుంటూరు వెబ్‌సైట్ డిజైన్",
+      "Guntur website designer",
+      "website cost in Guntur",
+      "web development company Guntur",
+      "hire freelance developer Guntur",
+      "Andhra Pradesh SEO",
+      "website for chilli trade and export in Guntur",
+      "web designer in Arundelpet, Guntur",
+      "website for commission agents in Guntur",
     ],
   },
   hero: {

@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `AI Automation Agency NZ? Pilot One Workflow from ${P.ai}`,
-    description: `AI automation agency NZ alternative: three engineers pilot one Xero, Gmail or Outlook workflow from ${P.ai}, measure hours saved, then scale. No retainer needed.`,
+    description: `AI automation agency NZ alternative: three engineers pilot one Xero or Outlook workflow from ${P.ai}, measure hours saved, then scale. No retainer needed.`,
     keywords: [
       "ai automation agency nz", "ai automation agency new zealand", "ai automation nz", "ai automation for small business nz",
       "business process automation nz", "workflow automation nz", "ai agency auckland", "ai automation wellington",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "privacy act ipp12 ai", "can nz businesses send data to chatgpt", "ai agents for nz business",
       "ai automation consultant nz", "ai automation near me nz", "remote ai automation team for nz",
       "pilot ai automation project",
+      "hire ai automation in New Zealand", "freelance ai automation New Zealand",
     ],
   },
   hero: {

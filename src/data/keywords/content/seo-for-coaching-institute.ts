@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "SEO for coaching institute",
   updated: "2026-09-25",
   meta: {
-    title: `SEO for Coaching Institute: Win Local Student Leads`,
+    title: `SEO for Coaching Institute: Student Leads, ${P.seo}`,
     description: `SEO for coaching institute owners: JEE, NEET, UPSC and SSC course pages, batch pages, honest results pages and YouTube, to beat aggregators. From ${P.seo}.`,
     keywords: [
       "seo for coaching institute", "coaching institute seo", "seo for coaching centre", "seo for coaching classes",
@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "youtube seo for coaching", "coaching institute seo Patna", "coaching institute seo Jaipur", "coaching institute seo Delhi",
       "coaching institute ko google par kaise laye", "local seo for coaching institute", "seo for bank exam coaching",
       "seo for ias academy",
+      "SEO for coaching institute price", "SEO for coaching institute services", "SEO for coaching institute packages", "best SEO for coaching institute in India",
+      "SEO for coaching institute agency",
     ],
   },
   hero: {
@@ -245,7 +247,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does SEO for a coaching institute cost?",
       paragraphs: [
-        `With BtechWaleTech, SEO for a coaching institute starts at ${P.seo} a month, and the final quote depends on how many exams you teach, how many centres you run and how much content we write versus what your faculty supplies. A single-centre SSC institute and a three-centre JEE/NEET institute with Hindi and English pages are different projects.`,
+        `With BtechWaleTech, SEO for a coaching institute starts at ${P.seo}, and the final quote depends on how many exams you teach, how many centres you run and how much content we write versus what your faculty supplies. A single-centre SSC institute and a three-centre JEE/NEET institute with Hindi and English pages are different projects.`,
         `Elsewhere, quotes vary widely. What usually explains the gap is scope: the number of new pages per month, whether video pages and YouTube optimisation are included, whether developer time is available for batch page automation and technical fixes, and how detailed the reporting is. Ask any provider to write down exactly what they will deliver each month.`,
       ],
       list: [
@@ -394,7 +396,7 @@ const content: FreelanceContent = {
   faqs: [
     { question: "What is SEO for a coaching institute?", answer: "SEO for a coaching institute means getting its exam, course, batch, results and centre pages to appear when students search for coaching in their exam and area, and turning those visits into demo classes and admissions. It includes keyword research, page building, Business Profiles, reviews, video, technical fixes and tracking." },
     { question: "Can a local coaching institute rank against big edtech companies?", answer: "Yes, on the right searches. National platforms usually win broad study queries, but local institutes can win exam-plus-city searches, batch and timing searches, faculty names, Hindi-medium searches and their own brand terms. Those searches are also closer to an admission decision." },
-    { question: "How much does SEO for a coaching institute cost?", answer: `At BtechWaleTech, SEO for coaching institutes starts at ${P.seo} a month, depending on the number of exams, centres and pages involved. If the site needs rebuilding to support exam hubs and batch pages, an SEO website starts at ${P.seoSite}. Quotes are itemised and nothing is billed before written approval.` },
+    { question: "How much does SEO for a coaching institute cost?", answer: `At BtechWaleTech, SEO for coaching institutes starts at ${P.seo}, depending on the number of exams, centres and pages involved. If the site needs rebuilding to support exam hubs and batch pages, an SEO website starts at ${P.seoSite}. Quotes are itemised and nothing is billed before written approval.` },
     { question: "How can a coaching institute get more students online?", answer: "Build a page for each exam and course format, keep a live upcoming-batches page, publish results honestly with disclosures, add faculty profiles, verify a Business Profile for every centre and ask all students for reviews without incentives. Link YouTube lessons to course pages and track enquiries by exam and batch." },
     { question: "Should each exam have its own page on a coaching website?", answer: "Yes. JEE, NEET, UPSC, SSC and banking aspirants search differently and care about different details, so a single courses page cannot rank for all of them. Give each exam a hub page and each course format its own child page with duration, schedule, mode, medium, tests and fee outline." },
     { question: "Why do batch pages matter for coaching SEO?", answer: "Students searching for new batches or specific timings have already decided to join somewhere and are choosing where and when. A permanent, regularly updated batch page with dates, timings, mode, medium and seat status answers that search directly and converts better than a general course page." },

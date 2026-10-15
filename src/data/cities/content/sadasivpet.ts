@@ -7,7 +7,7 @@ const sadasivpet: CityContent = {
   meta: {
     title: "IT Services in Sadasivpet | Web, Apps, SEO & AI",
     description:
-      "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sadasivpet tyre-plant vendors, transport firms and farm dealers.",
+      "Telugu websites, apps, Maps SEO and WhatsApp automation for Sadasivpet tyre-plant vendors, transport firms and farm dealers. Sites from ₹10,000.",
     keywords: [
       "IT services in Sadasivpet",
       "IT company in Sadasivpet",
@@ -30,6 +30,11 @@ const sadasivpet: CityContent = {
       "Ankenpally industrial vendor website",
       "సదాశివపేట వెబ్‌సైట్ డిజైన్",
       "Zaheerabad NIMZ supplier website",
+      "Sadasivpet website designer",
+      "web development company Sadasivpet",
+      "hire freelance web developer Sadasivpet",
+      "Sangareddy district SEO",
+      "website designer Sangareddy district",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const panna: CityContent = {
   meta: {
     title: "IT Services in Panna | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Panna tiger-reserve stays, safari operators, temples, diamond traders and shops.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Panna tiger-reserve stays, safari operators, temples, diamond traders and shops. From ₹10,000.",
     keywords: [
       "IT services in Panna",
       "IT services team in Panna",
@@ -29,6 +29,12 @@ const panna: CityContent = {
       "Panna me website banwana",
       "Panna mein app kaise banwaye",
       "पन्ना वेबसाइट डिजाइन",
+      "Panna website designer",
+      "web development company Panna",
+      "hire freelance web developer Panna",
+      "Madhya Pradesh SEO services",
+      "Panna me website kaise banwaye",
+      "Panna website banwane ka kharcha",
     ],
   },
   hero: {

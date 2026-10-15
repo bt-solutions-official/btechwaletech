@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.25, lng: 91.45 },
   meta: {
-    title: "Freelance Software & IT Team for Belonia, Tripura",
+    title: "Belonia, Tripura Software Developers: Transport",
     description:
       "Freelance developers for Belonia and South Tripura: custom software, border trade and logistics tools, apps, AI automation and SEO. Sites from ₹10,000.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "mobile app developers Belonia",
       "Android app development Belonia",
       "iOS app development South Tripura",
+      "Belonia website designer",
+      "website cost in Belonia",
+      "IT company in Belonia",
+      "Tripura SEO services",
+      "hire developer Belonia",
+      "transport software in Belonia",
+      "border trade software in Belonia",
+      "retail software in Belonia",
+      "rubber software in Belonia",
+      "website developer Belonia town centre Belonia",
     ],
   },
   hero: {

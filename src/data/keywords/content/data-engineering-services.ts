@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Data Engineering Services: Pipelines from ${P.ai}`,
-    description: `Data engineering services for growing Indian businesses: Tally, CRM, ads and store data in one warehouse. Pipelines from ${P.ai}, with honest cost guidance.`,
+    description: `Data engineering services for growing Indian businesses: Tally, CRM, ads and store data in one warehouse. Pipelines from ${P.ai}. Get an itemised quote.`,
     keywords: [
       "data engineering services", "data engineering services India", "data engineering consultant", "data pipeline development",
       "ETL services", "ELT pipeline setup", "data warehouse setup", "BigQuery consultant India",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "hire data engineer", "Postgres data warehouse", "Redshift vs BigQuery", "data quality checks",
       "Airflow scheduling setup", "data engineering for small business", "data engineering services Pune", "data engineering services Hyderabad",
       "data pipeline for ecommerce", "what are data engineering services",
+      "data engineering services company in India",
+      "best data engineering services in India",
     ],
   },
   hero: {

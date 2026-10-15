@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `MVP Development Singapore: 6–10 Weeks, from ${P.app}`,
-    description: `MVP development in Singapore for founders: an investor-ready web or mobile MVP in 6–10 weeks on a written scope, from ${P.app}, with code your first hire inherits.`,
+    description: `MVP development in Singapore for founders: an investor-ready web or mobile MVP in 6–10 weeks on a written scope, from ${P.app}, with code you keep.`,
     keywords: [
       "mvp development singapore", "mvp development", "mvp development company singapore", "mvp developer singapore", "startup mvp development singapore",
       "how much does an mvp cost in singapore", "mvp development cost", "how long does it take to build an mvp", "build mvp for startup",
@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "outsource mvp development", "mvp development india for singapore startup", "subscription billing mvp sgd", "mvp analytics traction metrics",
       "mvp scope prioritisation", "mvp tech stack", "mvp handover to in-house team", "mvp developer near me singapore",
       "mvp development one-north", "mvp development block 71", "mvp development raffles place", "mvp vs prototype",
+      "hire mvp development in Singapore", "freelance mvp development Singapore",
     ],
   },
   hero: {

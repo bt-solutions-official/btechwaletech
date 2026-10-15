@@ -7,7 +7,7 @@ const dhamtari: CityContent = {
   meta: {
     title: "IT Services in Dhamtari | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Dhamtari rice millers, timber traders, Gangrel resorts, schools, clinics and shops.",
+      "Dhamtari Hindi websites, mobile apps, local SEO and WhatsApp bots for rice millers, timber traders, Gangrel resorts, schools, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Dhamtari",
       "IT services team in Dhamtari",
@@ -29,6 +29,10 @@ const dhamtari: CityContent = {
       "timber traders website Chhattisgarh",
       "Dhamtari me website banwana",
       "Dhamtari me app banwana kitne ka",
+      "Dhamtari website designer",
+      "web development company Dhamtari",
+      "hire freelance developer Dhamtari",
+      "Chhattisgarh SEO",
     ],
   },
   hero: {

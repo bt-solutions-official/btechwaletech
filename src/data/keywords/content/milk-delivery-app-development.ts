@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "milkman app for doodhwala", "doodh delivery app banwana hai", "how to start online milk delivery business app",
       "custom milk delivery app vs ready made software", "milk delivery app Pune", "milk delivery app Bengaluru",
       "milk delivery app Hyderabad", "milk delivery app developer near me", "morning delivery subscription app",
+      "milk delivery app development price", "milk delivery app development company", "best milk delivery app development in India", "milk delivery app development cost in India",
+      "milk delivery app development near me",
     ],
   },
   hero: {
@@ -98,7 +100,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Milk delivery app development pricing",
-    note: `A milk delivery app is priced as three linked builds. The customer app and the delivery-boy app, for Android and iPhone from one Flutter codebase, start at ${P.app}. The dairy admin panel, which runs the night cut-off, route sheets, packing totals, wallet ledger and reports, starts at ${P.software}. WhatsApp statements, UPI AutoPay mandates or a Tally export are quoted as add-ons, with automation work starting at ${P.ai}. A simple website for the brand starts at ${P.site}. After two months of free maintenance, upkeep starts at ${P.care} a month. All of these are starting prices, and the written quote itemises each part.`,
+    note: `A milk delivery app is priced as three linked builds. The customer app and the delivery-boy app, for Android and iPhone from one Flutter codebase, start at ${P.app}. The dairy admin panel, which runs the night cut-off, route sheets, packing totals, wallet ledger and reports, starts at ${P.software}. WhatsApp statements, UPI AutoPay mandates or a Tally export are quoted as add-ons, with automation work starting at ${P.ai}. A simple website for the brand starts at ${P.site}. After two months of free maintenance, upkeep starts at ${P.care}. All of these are starting prices, and the written quote itemises each part.`,
   },
   guideLabel: "Milk delivery app guide",
   guide: [
@@ -240,7 +242,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The Google Play and App Store listings sit in developer accounts registered in your dairy’s name, the server and database run in your own cloud account, and the source code is handed over in your repository.`,
         `We ask clients to create the store accounts themselves: Google Play charges a one-time US$25 registration fee and the Apple Developer Program costs US$99 a year. We then get team access to publish. The payment gateway is also your merchant account, so money never passes through us.`,
-        `At handover you receive the code, a short admin manual, the list of every third-party service with its login owner, and a walkthrough recorded on a call. Two months of free maintenance follow, covering bug fixes and small adjustments; after that, upkeep starts at ${P.care} a month or you can take the code to anyone you like. Terms are set out in your written quote and on our <a href='/terms/'>terms page</a>.`,
+        `At handover you receive the code, a short admin manual, the list of every third-party service with its login owner, and a walkthrough recorded on a call. Two months of free maintenance follow, covering bug fixes and small adjustments; after that, upkeep starts at ${P.care} or you can take the code to anyone you like. Terms are set out in your written quote and on our <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -433,7 +435,7 @@ const content: FreelanceContent = {
     { question: "Does a milk delivery app need GST and FSSAI details?", answer: "Your food-safety licence or registration number and any GST details your accountant specifies can be shown in the app and on statements. Tax treatment varies by product, so we let your accountant set a tax rule per product rather than hard-coding one. We build the fields and documents; the legal and tax advice should come from your own consultants." },
     { question: "Can I move my existing customers from a register into the app?", answer: "Yes. We import customers from a sheet or another system with their address, route, sequence, product, quantity and opening balance. Each one receives an invitation with their subscription already set up. We usually run the app and the register side by side on one or two routes for a couple of weeks before moving everyone." },
     { question: "Should a freelancer or an agency build my milk delivery app?", answer: "Either can, if they understand subscription ledgers. A small freelance team like ours gives you direct contact with the three people writing the code and usually lower overheads. A larger agency offers more staff and formal processes. Whoever you pick, confirm the app is published in your name and ask them to explain pause and wallet logic before signing." },
-    { question: "What does maintenance of a milk delivery app include?", answer: `Two months of free maintenance after launch covers bug fixes, store updates and small adjustments. After that, upkeep starts at ${P.care} a month and typically includes Android and iOS version updates, security patches, server checks and minor changes. Larger features are quoted separately. The exact scope is written into your quote.` },
+    { question: "What does maintenance of a milk delivery app include?", answer: `Two months of free maintenance after launch covers bug fixes, store updates and small adjustments. After that, upkeep starts at ${P.care} and typically includes Android and iOS version updates, security patches, server checks and minor changes. Larger features are quoted separately. The exact scope is written into your quote.` },
     { question: "How do customers find my milk delivery app?", answer: "Mostly through word of mouth in housing societies, your riders, leaflets with a QR code, and search. A small website with pages for each area you deliver to, a Google Business Profile and a clear Play Store listing help people searching for milk delivery nearby. No one can guarantee rankings, but these basics give you a fair chance." },
     { question: "Doodh delivery app banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath customer app aur delivery boy app ${P.app} se shuru hote hain, aur dairy ka admin panel ${P.software} se. Final kharcha aapke rules par depend karta hai, jaise wallet, bottle tracking, kitne depot aur iPhone chahiye ya nahi. Pehle call par hum aapki subah ki routine samajhte hain, phir lagbhag do working days mein itemised quote bhejte hain.` },
   ],

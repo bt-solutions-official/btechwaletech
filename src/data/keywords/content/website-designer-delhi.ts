@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "bilingual website design Delhi", "jewellery website design Delhi", "boutique website design Delhi", "clinic website design Delhi",
       "website redesign Delhi", "website designer Karol Bagh", "website designer Lajpat Nagar", "website designer South Delhi",
       "website designer New Delhi", "website design karwana hai Delhi", "Delhi me website design kaise karwaye",
+      "website designer in Delhi cost", "website designer in Delhi price", "hire website designer in Delhi", "freelance website designer in Delhi",
+      "website designer in Delhi charges",
     ],
   },
   hero: {

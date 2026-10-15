@@ -7,7 +7,7 @@ const imphal: CityContent = {
   meta: {
     title: "IT Services in Imphal: Websites, Apps, SEO & AI",
     description:
-      "Website design, local SEO, UPI stores and WhatsApp automation for Imphal handloom sellers, clinics, institutes and Thangal Bazar traders. From ₹10,000.",
+      "Imphal website design, local SEO, UPI stores and WhatsApp automation for handloom sellers, clinics, institutes and Thangal Bazar traders. From ₹10,000.",
     keywords: [
       "website development team in Imphal",
       "web designer Imphal",
@@ -25,6 +25,14 @@ const imphal: CityContent = {
       "website maintenance Imphal",
       "Imphal me website banwana hai",
       "software developer Manipur",
+      "Imphal website designer",
+      "website cost in Imphal",
+      "web development company Imphal",
+      "hire freelance developer Imphal",
+      "Manipur SEO",
+      "Imphal me website kaise banwaye",
+      "website for handloom and textiles in Imphal",
+      "web designer in Thangal Bazar, Imphal",
     ],
   },
   hero: {

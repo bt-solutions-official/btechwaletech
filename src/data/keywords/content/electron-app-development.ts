@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "windows mac linux desktop app", "electron installer windows", "electron app development company india", "electron freelancer",
       "electron app maintenance", "upgrade electron version", "electron app developer near me", "electron app development bangalore",
       "desktop app for web app", "electron app for small business",
+      "best electron app development in India",
+      "electron app development services",
     ],
   },
   hero: {

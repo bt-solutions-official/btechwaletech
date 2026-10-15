@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Jafrabad: Sites from ${P.site}`,
-    description: `Website developer in Jafrabad for fish merchants, boat owners, transporters, port-belt suppliers and shops. Sites from ${P.site}, Gujarati-ready, built remotely.`,
+    description: `Website developer in Jafrabad for fish merchants, boat owners, transporters, port-belt suppliers and shops. Sites from ${P.site}, Gujarati-ready, remote build.`,
     keywords: [
       "website developer in Jafrabad", "website developer Jafrabad", "web developer near me Jafrabad", "Jafrabad Gujarat website",
       "Jafarabad website developer", "website designer Jafrabad", "website development services Jafrabad", "fish merchant website Jafrabad",

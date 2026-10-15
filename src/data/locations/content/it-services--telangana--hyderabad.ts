@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 17.385, lng: 78.4867 },
   meta: {
-    title: "Freelance Software Developers in Hyderabad",
+    title: "Hyderabad Software Developers: SaaS, Pharma & Healthcare",
     description:
-      "Hire freelance software developers in Hyderabad for MVPs, SaaS modules, AI agents, web apps, DevOps and dashboards. Custom software from ₹60,000, quote in 2 days.",
+      "Hire freelance software developers in Hyderabad for MVPs, SaaS modules, AI agents and web apps. Custom software from ₹60,000, quote in 2 days.",
     keywords: [
       "software development team in Hyderabad",
       "Android app development Hyderabad",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "Hyderabad software developer Telugu",
       "హైదరాబాద్ సాఫ్ట్‌వేర్ డెవలపర్లు",
       "Hyderabad mein software banane wale",
+      "Hyderabad website designer",
+      "website cost in Hyderabad",
+      "IT company in Hyderabad",
+      "Telangana SEO services",
+      "hire developer Hyderabad",
+      "saas software in Hyderabad",
     ],
   },
   hero: {

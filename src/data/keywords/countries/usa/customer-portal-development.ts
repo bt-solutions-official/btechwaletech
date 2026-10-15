@@ -381,7 +381,7 @@ const content: FreelanceContent = {
       { name: "Custom software development", href: "/usa/custom-software-development/" },
       { name: "Custom CRM development", href: "/usa/custom-crm-development/" },
       { name: "HIPAA compliant app development", href: "/usa/hipaa-compliant-app-development/" },
-      { name: "CPA firm website design", href: "/usa/cpa-firm-website-design/" },
+      { name: "Law firm website design", href: "/usa/law-firm-website-design/" },
       { name: "Custom dashboard development", href: "/usa/custom-dashboard-development/" },
       { name: "Hire a dedicated React developer", href: "/usa/dedicated-react-developer/" },
       { name: "React Native app development", href: "/usa/react-native-app-development/" },

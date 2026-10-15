@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "flutterflow app publish play store", "flutterflow to flutter migration", "flutterflow MVP developer", "is flutterflow good for production",
       "low code app developer India", "flutterflow developer near me", "flutterflow developer Noida", "flutterflow developer Chennai",
       "flutterflow developer for startup", "flutterflow app banwana hai",
+      "best flutterflow developer in India",
     ],
   },
   hero: {
@@ -60,7 +61,7 @@ const content: FreelanceContent = {
       { label: "App build with us", value: `From ${P.app}, 6–10 weeks` },
       { label: "Backend choices", value: "Firebase, Supabase, or your own REST API" },
       { label: "Escape hatch", value: "Custom code in the builder, or export to a full Flutter project" },
-      { label: "Care after launch", value: `2 months free, then from ${P.care} a month` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {

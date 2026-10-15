@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "does animation slow down a website", "do animations affect seo", "reduced motion website", "micro interactions web design",
       "animated website design india", "animated website design bangalore", "animated website design mumbai", "animated website design delhi",
       "animation wali website", "hire animated website designer", "awwwards style website india",
+      "animated website design company in India",
+      "animated website design near me",
+      "best animated website design in India",
     ],
   },
   hero: {

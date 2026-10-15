@@ -7,7 +7,7 @@ const manmad: CityContent = {
   meta: {
     title: "IT Services in Manmad | Web, Apps & AI from ₹10,000",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Manmad onion traders, transporters, railway-town shops, clinics and schools.",
+      "Marathi websites, apps, local SEO and WhatsApp tools for Manmad onion traders, transporters, railway-town shops, clinics and schools. Sites from ₹10,000.",
     keywords: [
       "IT services in Manmad",
       "IT services team in Manmad",
@@ -29,6 +29,12 @@ const manmad: CityContent = {
       "Manmad me website banwana",
       "Manmad madhye website banvaychi",
       "मनमाड वेबसाइट डिझाइन",
+      "Manmad website designer",
+      "web development company Manmad",
+      "hire freelance web developer Manmad",
+      "Nandgaon taluka SEO services",
+      "website designer Nandgaon taluka",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

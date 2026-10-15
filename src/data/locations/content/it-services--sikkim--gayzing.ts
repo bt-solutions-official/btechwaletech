@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 27.2891, lng: 88.2577 },
   meta: {
-    title: "Freelance Software Developers in Gyalshing, Sikkim",
+    title: "Gyalshing, Sikkim Software Developers: Hotels in Pelling",
     description:
-      "Looking for an IT services team in Gyalshing? Hire three freelance engineers for Pelling hotel bookings, trek operator software, apps, local SEO and maintenance.",
+      "Looking for an IT services team in Gyalshing? Hire three freelance engineers for Pelling hotel bookings and trek software. From ₹10,000 upwards.",
     keywords: [
       "software development team in Gyalshing",
       "IT services team in Gyalshing",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "web developer near me Pelling",
       "गेज़िंग में सॉफ्टवेयर डेवलपर",
       "Gyalshing ma website banaune",
+      "Gyalshing website designer",
+      "website cost in Gyalshing",
+      "IT company in Gyalshing",
+      "Sikkim SEO services",
+      "hire developer Gyalshing",
+      "hotels in pelling software in Gyalshing",
+      "homestays software in Gyalshing",
+      "trek in yuksom software in Gyalshing",
+      "taxi software in Gyalshing",
+      "website developer Gyalshing town Gyalshing",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const alipurduar: CityContent = {
   meta: {
     title: "IT Services in Alipurduar: Web, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Alipurduar homestays, tea suppliers, Jaigaon traders, clinics and Dooars schools.",
+      "Alipurduar websites, Android and iOS apps, local SEO and WhatsApp automation for homestays, tea suppliers, Jaigaon traders, clinics and Dooars schools.",
     keywords: [
       "IT services in Alipurduar",
       "IT services team in Alipurduar",
@@ -29,6 +29,10 @@ const alipurduar: CityContent = {
       "Alipurduar me website banwana",
       "Alipurduar-e website banano",
       "আলিপুরদুয়ার ওয়েবসাইট ডিজাইন",
+      "Alipurduar website designer",
+      "web development company Alipurduar",
+      "hire freelance developer Alipurduar",
+      "West Bengal SEO",
     ],
   },
   hero: {

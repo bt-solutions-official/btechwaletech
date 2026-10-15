@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.2183, lng: 78.1828 },
   meta: {
-    title: "Freelance Software & AI Developers in Gwalior",
+    title: "Gwalior Software & AI Developers: Schools & Coaching",
     description:
-      "Hire freelance software developers for Gwalior: school systems, banquet booking, factory apps, AI agents and dashboards. Mobile apps from ₹40,000, quote in 2 days.",
+      "Hire freelance software developers for Gwalior: school systems, banquet booking and factory apps. Mobile apps from ₹40,000, quote in 2 days.",
     keywords: [
       "software development team in Gwalior",
       "IT services team in Gwalior",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "mobile app developers Gwalior",
       "iOS app development Gwalior",
       "iPhone app developers Gwalior",
+      "Gwalior website designer",
+      "website cost in Gwalior",
+      "IT company in Gwalior",
+      "Madhya Pradesh SEO services",
+      "hire developer Gwalior",
+      "schools software in Gwalior",
+      "coaching software in Gwalior",
+      "banquet halls software in Gwalior",
     ],
   },
   hero: {

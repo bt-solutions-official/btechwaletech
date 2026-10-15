@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "uae e-invoicing mandatory fields", "five corner model uae", "e-invoicing developer dubai", "e-invoicing integration cost uae",
       "e-invoicing integration dubai", "e-invoicing integration abu dhabi", "e-invoicing integration sharjah", "how to integrate e-invoicing uae",
       "e-invoicing readiness uae", "e invoicing software integration near me",
+      "hire e invoicing integration in the UAE", "freelance e invoicing integration UAE",
     ],
   },
   hero: {

@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "mvp development melbourne", "mvp development brisbane", "mvp development perth", "mvp development adelaide",
       "outsource mvp development", "mvp for non-technical founder", "r&d tax incentive software records",
       "subscription billing aud mvp", "mvp scope checklist", "flutter mvp", "next.js mvp", "mvp development near me",
+      "hire mvp development for startups in Australia", "freelance mvp development for startups Australia",
     ],
   },
   hero: {

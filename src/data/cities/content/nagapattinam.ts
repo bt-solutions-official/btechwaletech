@@ -7,7 +7,7 @@ const nagapattinam: CityContent = {
   meta: {
     title: "Nagapattinam Web Design & SEO | Sites from ₹10,000",
     description:
-      "Websites, Tamil-English local SEO and WhatsApp automation for Nagapattinam fish traders, lodges, Velankanni and Nagore shops. Sites from ₹10,000, you own them.",
+      "Websites, Tamil-English local SEO and WhatsApp tools for Nagapattinam fish traders, lodges, Velankanni and Nagore shops. Sites from ₹10,000.",
     keywords: [
       "website development team in Nagapattinam",
       "web designer Nagapattinam",
@@ -25,6 +25,16 @@ const nagapattinam: CityContent = {
       "freelance web developer Nagapattinam",
       "website maintenance Nagapattinam",
       "நாகப்பட்டினம் வெப்சைட் டிசைன்",
+      "Nagapattinam website designer",
+      "web development company Nagapattinam",
+      "hire freelance web developer Nagapattinam",
+      "Tamil Nadu SEO services",
+      "Nagapattinam salt production website",
+      "salt production website design Nagapattinam",
+      "website design Nagore Nagapattinam",
+      "website developer Nagai",
+      "website design price in Nagapattinam",
+      "app development company Nagapattinam",
     ],
   },
   hero: {

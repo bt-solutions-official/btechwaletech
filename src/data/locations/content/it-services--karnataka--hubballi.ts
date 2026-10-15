@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 15.3647, lng: 75.124 },
   meta: {
-    title: "Freelance Software & IT Developers in Hubballi",
+    title: "Hubballi Software Developers: Wholesale & APMC",
     description:
       "Freelance IT team for Hubballi traders, factories and institutes, an alternative to a software development team: dashboards, automation, apps. From ₹10,000.",
     keywords: [
@@ -31,6 +31,14 @@ const content: CityContent = {
       "ecommerce website for Dharwad peda",
       "ಹುಬ್ಬಳ್ಳಿಯಲ್ಲಿ ಸಾಫ್ಟ್‌ವೇರ್ ಕಂಪನಿ",
       "Hubli mein software developer",
+      "Hubballi website designer",
+      "website cost in Hubballi",
+      "IT company in Hubballi",
+      "Karnataka SEO services",
+      "hire developer Hubballi",
+      "wholesale software in Hubballi",
+      "apmc software in Hubballi",
+      "manufacturing software in Hubballi",
     ],
   },
   hero: {

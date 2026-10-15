@@ -15,7 +15,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `How Much Does SEO Cost in Canada? From ${P.seo}`,
-    description: `How much does SEO cost in Canada? Pricing models, what each monthly budget buys for local, national and ecommerce SEO, contract red flags, and SEO from ${P.seo}.`,
+    description: `How much does SEO cost in Canada? Pricing models, what each budget buys for local, national and ecommerce SEO, contract red flags, and SEO from ${P.seo}.`,
     keywords: [
       "how much does seo cost in canada", "seo cost canada", "seo pricing canada", "seo prices canada", "monthly seo cost canada",
       "how much should i pay for seo", "how much does local seo cost", "seo packages canada", "seo retainer cost",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "is seo worth it for small business", "seo contract red flags", "seo pricing models", "project based seo pricing",
       "seo cost toronto", "seo cost vancouver", "seo cost montreal", "seo cost calgary", "seo cost ottawa",
       "how long does seo take to work", "seo company vs freelancer cost", "cheap seo services risks",
+      "hire seo in Canada",
     ],
   },
   hero: {

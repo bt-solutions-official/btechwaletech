@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website designer Greater Noida", "website designer Noida Extension", "website designer Sector 18 Noida", "website designer Sector 62 Noida",
       "portfolio website design Noida", "Hindi website design Noida", "best website designer in Noida", "Noida me website design kaise karwaye",
       "website design karwana hai Noida",
+      "website designer in Noida cost", "website designer in Noida price", "hire website designer in Noida", "freelance website designer in Noida",
+      "website designer in Noida charges",
     ],
   },
   hero: {

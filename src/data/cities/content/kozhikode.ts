@@ -7,7 +7,7 @@ const kozhikode: CityContent = {
   meta: {
     title: "Kozhikode Web Developers | Sites, Stores & SEO",
     description:
-      "Websites, online stores, Malayalam SEO and WhatsApp automation for Kozhikode traders, footwear makers, hospitals, restaurants and startups. From ₹10,000.",
+      "Kozhikode websites, online stores, Malayalam SEO and WhatsApp automation for traders, footwear makers, hospitals, restaurants and startups. From ₹10,000.",
     keywords: [
       "website development team in Kozhikode",
       "web design team Calicut",
@@ -24,6 +24,15 @@ const kozhikode: CityContent = {
       "Malayalam website design",
       "Kozhikode il website undakkan",
       "കോഴിക്കോട് വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Kozhikode website designer",
+      "website cost in Kozhikode",
+      "web development company Kozhikode",
+      "hire freelance developer Kozhikode",
+      "Kerala SEO",
+      "Calicut website designer",
+      "website for footwear manufacturers in Kozhikode",
+      "web designer in Valiyangadi, Kozhikode",
+      "website for bakeries and halwa makers in Kozhikode",
     ],
   },
   hero: {

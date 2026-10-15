@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Ecommerce Website Development in Mumbai from ${P.shop}`,
-    description: `Ecommerce website development in Mumbai: Shopify, WooCommerce or custom stores with UPI, cards, COD and GST-ready invoices, from ${P.shop}. Itemised quote in 2 days.`,
+    description: `Ecommerce website development in Mumbai: Shopify, WooCommerce or custom stores with UPI, cards, COD and GST-ready invoices, from ${P.shop}. Quote in 2 days.`,
     keywords: [
       "ecommerce website development in Mumbai", "ecommerce website development Mumbai", "ecommerce website developer Mumbai", "online store development Mumbai",
       "ecommerce website design Mumbai", "ecommerce website cost Mumbai", "ecommerce website price Mumbai", "Shopify developer Mumbai",

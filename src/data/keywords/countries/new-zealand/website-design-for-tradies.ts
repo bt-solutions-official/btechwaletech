@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "servicem8 website form", "fergus quote request form", "tradie seo nz", "google business profile for tradies",
       "service area pages for tradies", "tradie websites auckland", "tradie websites christchurch",
       "tradie websites wellington", "tradie websites hamilton", "do tradies need a website", "affordable tradie website nz",
+      "hire website design for tradies in New Zealand", "freelance website design for tradies New Zealand", "website design for tradies New Zealand",
     ],
   },
   hero: {

@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "hospital website design Mehsana", "cold storage website design", "supplier website design Mehsana GIDC", "website redesign Mehsana",
       "UI UX designer Mehsana", "website designer Visnagar", "website designer Unjha", "website designer Kadi",
       "best website designer in Mehsana", "Mehsana me website design", "website design karwana hai Mehsana",
+      "dairy supplier website design Mehsana", "coaching class website design Mehsana", "logo and website design Mehsana",
     ],
   },
   hero: {
@@ -375,7 +376,7 @@ const content: FreelanceContent = {
     { question: "How do design reviews work when you are remote?", answer: "Each stage is presented on a screen-share call, then shared as a link everyone can open on their own phone. Feedback from partners or family is gathered into one list in the WhatsApp group and confirmed by your nominated decision maker. PDF exports are available for anyone who prefers to review on paper." },
     { question: "Can you design screens for a student or dealer portal?", answer: `Yes. Portal screens such as login, dashboard, fee status or order history are designed one by one in Figma and reviewed with the people who will use them before coding begins. Portals are custom web app projects starting from ${P.software}, scoped separately from a website.` },
     { question: "Who owns the website after it is designed and built?", answer: "You do. The domain, hosting, email and code are registered to your business, and the design files are handed over at launch. You can change developers or designers later, or bring the site in-house, without our permission. The handover sheet lists every login and renewal date." },
-    { question: "What happens after launch?", answer: `Two months of free tweaks follow launch, covering small design and content changes, fixes and updates. After that, care is optional from ${P.care} per month. Many businesses use the free period to refine photos and wording once they see how real visitors from Mehsana and nearby towns use the site.` },
+    { question: "What happens after launch?", answer: `Two months of free tweaks follow launch, covering small design and content changes, fixes and updates. After that, care is optional from ${P.care}. Many businesses use the free period to refine photos and wording once they see how real visitors from Mehsana and nearby towns use the site.` },
     { question: "What should I prepare before the first call?", answer: "Your logo or brand files, any brochure or prospectus, your current website if you have one, two or three websites you like and one you dislike, and a sentence about your main readers. Existing photos help us judge whether a fresh shoot is needed. Gujarati text can follow once the page plan is agreed." },
     { question: "Mehsana me website design karwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath design aur coding saath mein hoti hai, aur business website ${P.site} se shuru hoti hai, aam taur par 1–2 hafte mein live. Hum English aur Hindi likhte hain, Gujarati content aap ya aapka translator dete hain. Figma file aur saare logins aapko milte hain, aur 2 mahine tweaks free hain.` },
   ],

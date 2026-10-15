@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "AI chatbot development company Canada",
   updated: "2026-09-25",
   meta: {
-    title: `AI Chatbot Development Company Canada from ${P.ai}`,
+    title: `AI Chatbot Development Canada from ${P.ai}`,
     description: `AI chatbot development company in Canada alternative: a bot trained on your own content, English/French answers, CRM lead capture and guardrails, from ${P.ai}.`,
     keywords: [
       "ai chatbot development company canada", "ai chatbot development canada", "custom ai chatbot canada", "ai chatbot for website",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "air canada chatbot ruling", "is a company liable for its chatbot", "ai chatbot developer toronto", "ai chatbot vancouver",
       "ai chatbot montreal", "ai chatbot ottawa", "ai chatbot calgary", "ai chatbot for small business canada",
       "chatbot development company near me", "customer service chatbot canada",
+      "hire ai chatbot development in Canada", "freelance ai chatbot development Canada",
     ],
   },
   hero: {

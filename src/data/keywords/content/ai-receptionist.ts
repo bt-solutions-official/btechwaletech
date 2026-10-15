@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "missed call recovery automation", "ai receptionist for doctors", "ai receptionist for dental clinic", "ai receptionist hindi",
       "what is an ai receptionist", "how does an ai receptionist work", "ai receptionist vs human receptionist", "ai receptionist near me",
       "ai receptionist Mumbai", "ai receptionist Hyderabad", "clinic ke liye ai receptionist",
+      "ai receptionist company in India",
+      "best ai receptionist in India",
     ],
   },
   hero: {
@@ -358,7 +360,7 @@ const content: FreelanceContent = {
         ["Voice plus WhatsApp", "Both channels, shared knowledge base and calendar", `From ${P.ai}, quoted by call types`, "3–4 weeks"],
         ["Multi-branch receptionist", "Several locations, staff and calendars", `From ${P.ai}, quoted by branches`, "4+ weeks"],
         ["Receptionist plus booking system", "Custom scheduling software built alongside", `From ${P.software} (${P.softwareUsd})`, "6–12 weeks"],
-        ["Ongoing changes", "New services, timings, flows after free period", `From ${P.care} a month`, "Monthly"],
+        ["Ongoing changes", "New services, timings, flows after free period", `From ${P.care}`, "Monthly"],
       ],
     },
   ],

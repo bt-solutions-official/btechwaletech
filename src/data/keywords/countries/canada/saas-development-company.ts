@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "saas development toronto", "saas development vancouver", "saas development montreal", "saas developers ottawa",
       "saas development calgary", "outsource saas development", "saas developers india for canadian startups",
       "saas product roadmap mvp to paying customers", "saas development company near me", "hire saas developers", "b2b saas development",
+      "freelance saas development Canada",
     ],
   },
   hero: {

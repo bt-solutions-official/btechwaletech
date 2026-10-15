@@ -7,7 +7,7 @@ const yadgir: CityContent = {
   meta: {
     title: "IT Services in Yadgir | Web, Apps & AI from ₹10,000",
     description:
-      "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Yadgir dal traders, Kadechur pharma suppliers, clinics, colleges and shops.",
+      "Kannada websites, apps, local SEO and WhatsApp tools for Yadgir dal traders, Kadechur pharma suppliers, clinics, colleges and shops. From ₹10,000.",
     keywords: [
       "IT services in Yadgir",
       "IT services team in Yadgir",
@@ -29,6 +29,12 @@ const yadgir: CityContent = {
       "Yadgir me website banwana",
       "Yadgiriyalli website beku",
       "ಯಾದಗಿರಿ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Yadgir website designer",
+      "web development company Yadgir",
+      "hire freelance web developer Yadgir",
+      "Kalyana Karnataka SEO services",
+      "website designer Kalyana Karnataka",
+      "Karnataka SEO services",
     ],
   },
   hero: {

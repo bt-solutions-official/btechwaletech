@@ -7,7 +7,7 @@ const pilibhit: CityContent = {
   meta: {
     title: "IT Services in Pilibhit: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Pilibhit, Puranpur and Bisalpur businesses. Static sites from ₹10,000, two months free upkeep.",
+      "Websites, local SEO, online stores and WhatsApp tools for Pilibhit, Puranpur and Bisalpur businesses. Sites from ₹10,000, live in 1-2 weeks.",
     keywords: [
       "website development team in Pilibhit",
       "web designer Pilibhit",
@@ -25,6 +25,16 @@ const pilibhit: CityContent = {
       "website maintenance Pilibhit",
       "Pilibhit me website kaise banwaye",
       "पीलीभीत वेबसाइट डिज़ाइन",
+      "Pilibhit website designer",
+      "website cost in Pilibhit",
+      "web development company Pilibhit",
+      "hire freelance web developer Pilibhit",
+      "Uttar Pradesh SEO services",
+      "Pilibhit website banwane ka kharcha",
+      "Pilibhit bansuri makers website",
+      "bansuri makers website design Pilibhit",
+      "Pilibhit sugar mill vendors website",
+      "sugar mill vendors website design Pilibhit",
     ],
   },
   hero: {

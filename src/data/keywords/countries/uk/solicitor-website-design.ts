@@ -317,7 +317,7 @@ const content: FreelanceContent = {
         ["Multi-office regional firm", "299+ pages: practice areas by office and town", `From ${P.seoSite}`, "3–5 weeks"],
         ["Enquiry triage automation", "Routing, acknowledgements and logging by practice area", `From ${P.ai}`, "2–4 weeks"],
         ["Client portal or intake app", "Secure document requests and matter updates", `From ${P.software}`, "6–12 weeks"],
-        ["Monthly SEO", "Guides by named solicitors, profile updates, reporting", `From ${P.seo} a month`, "Monthly"],
+        ["Monthly SEO", "Guides by named solicitors, profile updates, reporting", `From ${P.seo}`, "Monthly"],
       ],
       hideSm: [1],
     },

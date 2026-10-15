@@ -7,7 +7,7 @@ const puranpur: CityContent = {
   meta: {
     title: "IT Services in Puranpur | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Puranpur cane growers, rice mills, Chuka Beach homestays, shops and clinics.",
+      "Hindi websites, apps, Maps SEO and WhatsApp automation for Puranpur cane growers, rice mills, Chuka Beach homestays, shops and clinics. Sites from ₹10,000.",
     keywords: [
       "IT services in Puranpur",
       "IT company in Puranpur",
@@ -30,6 +30,11 @@ const puranpur: CityContent = {
       "Madhotanda tiger reserve safari website",
       "पुरनपुर वेबसाइट डिजाइन",
       "Pilibhit district website developer",
+      "Puranpur website designer",
+      "web development company Puranpur",
+      "hire freelance web developer Puranpur",
+      "Pilibhit district SEO",
+      "website designer Pilibhit district",
     ],
   },
   hero: {

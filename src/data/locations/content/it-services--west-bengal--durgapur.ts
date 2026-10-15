@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.5204, lng: 87.3119 },
   meta: {
-    title: "Freelance Software Developers in Durgapur",
+    title: "Durgapur Software Developers: Steel Ancillaries",
     description:
-      "Freelance software developers for Durgapur plant vendors, institutes and hospitals, compared with a software development team: dashboards, AI automation, SEO.",
+      "Freelance software developers for Durgapur plant vendors, institutes and hospitals: dashboards, AI automation and SEO. From ₹10,000, quote in 2 days.",
     keywords: [
       "iOS app development Durgapur",
       "iPhone app developers Durgapur",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "Asansol Durgapur software developers",
       "দুর্গাপুরে সফটওয়্যার ডেভেলপমেন্ট কোম্পানি",
       "Durgapur mein software team",
+      "Durgapur website designer",
+      "website cost in Durgapur",
+      "IT company in Durgapur",
+      "West Bengal SEO services",
+      "hire developer Durgapur",
+      "steel ancillaries software in Durgapur",
+      "engineering software in Durgapur",
     ],
   },
   hero: {

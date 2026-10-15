@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-27",
   meta: {
     title: `Vendor Portal Development in Bhiwadi, from ${P.software}`,
-    description: `Vendor portal development in Bhiwadi for POs, delivery schedules, ASNs, invoices and vendor ratings. From ${P.software}, scoped at a one-to-one meeting at your unit.`,
+    description: `Vendor portal development in Bhiwadi for POs, delivery schedules, ASNs, invoices & vendor ratings. From ${P.software}, scoped at a one-to-one meeting at your unit.`,
     keywords: [
       "vendor portal development in Bhiwadi", "vendor portal development", "vendor portal development near me",
       "supplier portal development Bhiwadi", "vendor portal in Bhiwadi Rajasthan", "vendor portal Bhiwadi Alwar",

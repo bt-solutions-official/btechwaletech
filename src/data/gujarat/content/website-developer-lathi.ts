@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Lathi: Small Sites ${P.site}+`,
-    description: `Website developer in Lathi for agri dealers, clinics, schools, traders and small mills. Honest advice on what you need, sites from ${P.site}, 2 months free care.`,
+    description: `Website developer in Lathi for agri dealers, clinics, schools, traders and small mills. Honest advice on what you need, sites from ${P.site}, 2 free months.`,
     keywords: [
       "website developer in Lathi", "website developer Lathi", "Lathi Gujarat website", "Lathi Amreli website",
       "web developer near me Lathi", "website designer Lathi", "website development services Lathi", "website cost Lathi",
@@ -343,10 +343,10 @@ const content: FreelanceContent = {
       { name: "Damnagar", note: "Shops, clinics and small units in Damnagar, within Lathi taluka, usually need compact Gujarati-first sites and correct Maps pins." },
       { name: "Amreli", note: "The district headquarters needs sites for hospitals, schools, professionals and traders.", href: "/gujarat/website-developer-amreli/" },
       { name: "Babra", note: "Ginning factories and polishing units in Babra need capacity-focused profiles.", href: "/gujarat/website-developer-babra/" },
-      { name: "Gadhada", note: "Temple-town guest houses, sweet shops and services in Gadhada need pilgrim-friendly pages." },
+      { name: "Gadhada", note: "Temple-town guest houses, sweet shops and services in Gadhada need pilgrim-friendly pages.", href: "/gujarat/website-developer-gadhada/" },
       { name: "Botad", note: "Cotton and diamond businesses in Botad need trader profiles and hiring pages." },
       { name: "Savarkundla", note: "Weighing-scale makers need model catalogues and dealer enquiry forms.", href: "/gujarat/website-developer-savarkundla/" },
-      { name: "Gariadhar", note: "Diamond units and traders in Gariadhar need discreet profiles and Gujarati pages." },
+      { name: "Gariadhar", note: "Diamond units and traders in Gariadhar need discreet profiles and Gujarati pages.", href: "/gujarat/website-developer-gariadhar/" },
     ],
   },
   process: {

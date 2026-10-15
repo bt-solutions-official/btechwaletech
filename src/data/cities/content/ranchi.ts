@@ -7,7 +7,7 @@ const ranchi: CityContent = {
   meta: {
     title: "IT Services in Ranchi: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Ranchi traders, clinics, institutes, contractors and tourism firms. From ₹10,000, owned by you.",
+      "Websites, local SEO, online stores and WhatsApp tools for Ranchi traders, clinics, institutes, contractors and tourism firms. Websites from ₹10,000.",
     keywords: [
       "website development team in Ranchi",
       "website designer Ranchi",
@@ -25,6 +25,16 @@ const ranchi: CityContent = {
       "tour operator website Jharkhand",
       "Ranchi me website kaise banwaye",
       "रांची वेबसाइट डिज़ाइन",
+      "website cost in Ranchi",
+      "web development company Ranchi",
+      "hire freelance web developer Ranchi",
+      "Jharkhand SEO services",
+      "Ranchi website banwane ka kharcha",
+      "Ranchi wholesale traders website",
+      "wholesale traders website design Ranchi",
+      "Ranchi retail showrooms website",
+      "retail showrooms website design Ranchi",
+      "website design Upper Bazar Ranchi",
     ],
   },
   hero: {

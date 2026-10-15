@@ -7,7 +7,7 @@ const ongole: CityContent = {
   meta: {
     title: "Ongole Web Developers: Sites & Telugu SEO from ₹10,000",
     description:
-      "Websites, Telugu and English SEO, export catalogues and WhatsApp automation for Ongole granite, seafood, tobacco, hospital and college businesses. From ₹10,000.",
+      "Websites, catalogues and WhatsApp tools for Ongole granite, seafood, tobacco, hospital and college businesses. Sites from ₹10,000, free upkeep for 2 months.",
     keywords: [
       "website development team in Ongole",
       "web design Ongole",
@@ -25,6 +25,16 @@ const ongole: CityContent = {
       "website maintenance Ongole",
       "Ongole lo website design",
       "ఒంగోలు వెబ్‌సైట్ డిజైన్",
+      "web development company Ongole",
+      "hire freelance web developer Ongole",
+      "Prakasam district SEO",
+      "website designer Prakasam district",
+      "Andhra Pradesh SEO services",
+      "website design Trunk Road Ongole",
+      "website design Gandhi Road Ongole",
+      "website design Bapuji Market area Ongole",
+      "website design Flower Bazar Ongole",
+      "website design Bhagyanagar Ongole",
     ],
   },
   hero: {

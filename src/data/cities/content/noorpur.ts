@@ -7,7 +7,7 @@ const noorpur: CityContent = {
   meta: {
     title: "IT Services in Noorpur: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Noorpur traders, cane suppliers, schools and clinics in Bijnor district. Sites from ₹10,000.",
+      "Websites, apps, local SEO and WhatsApp automation for Noorpur traders, cane suppliers, schools and clinics in Bijnor district. Websites from ₹10,000.",
     keywords: [
       "IT services in Noorpur",
       "IT services team in Noorpur",
@@ -29,6 +29,12 @@ const noorpur: CityContent = {
       "Noorpur me website banwana",
       "Noorpur me app banwana",
       "नूरपुर वेबसाइट डिज़ाइन",
+      "Noorpur website designer",
+      "web development company Noorpur",
+      "hire freelance web developer Noorpur",
+      "Bijnor district SEO",
+      "website designer Bijnor district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

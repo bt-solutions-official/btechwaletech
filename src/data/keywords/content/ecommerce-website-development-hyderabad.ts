@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Ecommerce website development in Hyderabad",
   updated: "2026-10-02",
   meta: {
-    title: "Ecommerce Website Development in Hyderabad: UPI + COD",
-    description: `Ecommerce website development in Hyderabad from ${P.shop}: stores with UPI, card and COD checkout, GST-ready invoices and shipping rules. Store and data stay yours.`,
+    title: `Ecommerce Website Development in Hyderabad, ${P.shop}+`,
+    description: `Ecommerce website development in Hyderabad from ${P.shop}: stores with UPI, card and COD checkout, GST-ready invoices and shipping. Quote in 2 days.`,
     keywords: [
       "ecommerce website development in Hyderabad", "ecommerce website development Hyderabad", "ecommerce website developer Hyderabad", "ecommerce website design Hyderabad",
       "online store development Hyderabad", "ecommerce developer near me Hyderabad", "ecommerce website cost Hyderabad", "online store price Hyderabad",
@@ -277,7 +277,7 @@ const content: FreelanceContent = {
         "<strong>Local signals:</strong> a Google Business Profile if you offer pickup or a shop in Hyderabad",
       ],
       after: [
-        `AI assistants and Google's AI Overviews tend to quote stores that state facts plainly: what a product is made of, sizes, delivery times from Hyderabad and return terms. We write those facts as clear text on every product template. Ongoing store SEO starts at ${P.seo} a month if you want it; the <a href='/ecommerce-seo-freelancer/'>ecommerce SEO freelancer</a> page explains what that work involves, and stores with very large ranges can add generated landing pages through an SEO website from ${P.seoSite}. Search Console then shows which product searches bring visitors, so the next pages you write follow real demand.`,
+        `AI assistants and Google's AI Overviews tend to quote stores that state facts plainly: what a product is made of, sizes, delivery times from Hyderabad and return terms. We write those facts as clear text on every product template. Ongoing store SEO starts at ${P.seo} if you want it; the <a href='/ecommerce-seo-freelancer/'>ecommerce SEO freelancer</a> page explains what that work involves, and stores with very large ranges can add generated landing pages through an SEO website from ${P.seoSite}. Search Console then shows which product searches bring visitors, so the next pages you write follow real demand.`,
       ],
     },
     {

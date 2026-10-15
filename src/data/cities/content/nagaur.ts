@@ -7,7 +7,7 @@ const nagaur: CityContent = {
   meta: {
     title: "Nagaur Website Design, SEO & Methi Trade Stores",
     description:
-      "Websites, Hindi SEO and WhatsApp automation for Nagaur methi and spice firms, marble and mineral traders, hotels, schools and clinics. From ₹10,000; you own it.",
+      "Websites, Hindi SEO and WhatsApp automation for Nagaur methi and spice firms, marble and mineral traders, hotels, schools and clinics. Websites from ₹10,000.",
     keywords: [
       "website development team in Nagaur",
       "web designer Nagaur",
@@ -25,6 +25,16 @@ const nagaur: CityContent = {
       "software development Nagaur",
       "Nagaur me website kaise banaye",
       "नागौर वेबसाइट",
+      "Nagaur website designer",
+      "web development company Nagaur",
+      "hire freelance web developer Nagaur",
+      "Rajasthan SEO services",
+      "Nagaur me website kaise banwaye",
+      "Nagaur website banwane ka kharcha",
+      "Nagaur kasuri methi processors website",
+      "kasuri methi processors website design Nagaur",
+      "Nagaur farm-input dealers website",
+      "farm-input dealers website design Nagaur",
     ],
   },
   hero: {

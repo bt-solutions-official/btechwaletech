@@ -7,7 +7,7 @@ const sangrur: CityContent = {
   meta: {
     title: "IT Services in Sangrur | Web, Apps & AI from ₹10,000",
     description:
-      "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Sangrur rice shellers, farm machinery makers, arhtiyas, hospitals and shops.",
+      "Punjabi websites, apps, local SEO and WhatsApp tools for Sangrur rice shellers, farm machinery makers, arhtiyas, hospitals and shops. Websites from ₹10,000.",
     keywords: [
       "IT services in Sangrur",
       "IT services team in Sangrur",
@@ -29,6 +29,12 @@ const sangrur: CityContent = {
       "Sangrur vich website banvao",
       "ਸੰਗਰੂਰ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
       "website designer Sunami Gate Sangrur",
+      "Sangrur website designer",
+      "web development company Sangrur",
+      "hire freelance web developer Sangrur",
+      "Punjab SEO services",
+      "Sangrur farm machinery makers website",
+      "farm machinery makers website design Sangrur",
     ],
   },
   hero: {

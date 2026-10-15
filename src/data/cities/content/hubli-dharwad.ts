@@ -7,7 +7,7 @@ const hubliDharwad: CityContent = {
   meta: {
     title: "IT Services in Hubli-Dharwad: Websites, Apps, SEO & AI",
     description:
-      "Website development, SEO, ecommerce and automation for Hubballi and Dharwad businesses. Sites from ₹10,000, SEO sites from ₹20,000, two months free maintenance.",
+      "Hubballi and Dharwad website development, SEO, ecommerce and automation. Sites from ₹10,000, SEO sites from ₹20,000, 2 months free maintenance.",
     keywords: [
       "website development team in Hubli",
       "website development team Dharwad",
@@ -25,6 +25,14 @@ const hubliDharwad: CityContent = {
       "website maintenance Dharwad",
       "Hubballi website maadisalu",
       "ಹುಬ್ಬಳ್ಳಿ ವೆಬ್‌ಸೈಟ್ ವಿನ್ಯಾಸ",
+      "Hubballi-Dharwad website designer",
+      "website cost in Hubballi-Dharwad",
+      "web development company Hubballi-Dharwad",
+      "hire freelance developer Hubballi-Dharwad",
+      "Karnataka SEO",
+      "website for engineering and fabrication in Hubballi-Dharwad",
+      "web designer in Keshwapur, Hubballi-Dharwad",
+      "website for steel furniture and consumer goods in Hubballi-Dharwad",
     ],
   },
   hero: {

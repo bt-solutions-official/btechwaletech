@@ -7,7 +7,7 @@ const sarni: CityContent = {
   meta: {
     title: "IT Services in Sarni | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android & iOS apps, Hindi local SEO and WhatsApp automation for Sarni and Pathakhera contractors, shops, clinics, schools and coaching classes.",
+      "Websites, apps, Hindi local SEO and WhatsApp automation for Sarni and Pathakhera contractors, shops, clinics, schools and coaching classes. From ₹10,000.",
     keywords: [
       "IT services in Sarni",
       "IT services team in Sarni",
@@ -29,6 +29,12 @@ const sarni: CityContent = {
       "Sarni me website banwana",
       "Pathakhera me app banwana",
       "सारणी वेबसाइट डिज़ाइन",
+      "Sarni website designer",
+      "web development company Sarni",
+      "hire freelance web developer Sarni",
+      "Betul district SEO",
+      "website designer Betul district",
+      "Madhya Pradesh SEO services",
     ],
   },
   hero: {

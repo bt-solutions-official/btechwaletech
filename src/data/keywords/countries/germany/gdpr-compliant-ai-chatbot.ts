@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "whatsapp chatbot handoff", "shopify ai chatbot gdpr", "shopware ai chatbot", "wordpress ai chatbot gdpr",
       "how much does an ai chatbot cost", "is chatgpt on my website gdpr compliant", "custom ai chatbot development", "ai chatbot berlin",
       "ai chatbot munich", "ai chatbot hamburg", "ai chatbot frankfurt", "ki chatbot fuer unternehmen",
+      "hire gdpr compliant ai chatbot in Germany", "freelance gdpr compliant ai chatbot Germany",
     ],
   },
   hero: {

@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "chrome web store rejected extension", "firefox add-on development", "edge extension development", "chrome extension with login",
       "ai chrome extension development", "chrome extension developer near me", "chrome extension developer Bangalore", "chrome extension developer Pune",
       "chrome extension banwana hai", "chrome extension development timeline", "enterprise chrome extension",
+      "chrome extension development company in India",
+      "best chrome extension development in India",
+      "chrome extension development services",
     ],
   },
   hero: {

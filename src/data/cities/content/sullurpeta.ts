@@ -7,7 +7,7 @@ const sullurpeta: CityContent = {
   meta: {
     title: "IT Services in Sullurpeta: Websites, Apps, SEO & AI",
     description:
-      "Telugu and Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Sullurpeta traders, Sri City suppliers, lodges, colleges and clinics.",
+      "Telugu and Tamil websites, apps, SEO and WhatsApp tools for Sullurpeta traders, Sri City suppliers, lodges, colleges and clinics. Websites from ₹10,000.",
     keywords: [
       "IT services in Sullurpeta",
       "IT services team in Sullurpeta",
@@ -29,6 +29,12 @@ const sullurpeta: CityContent = {
       "Sullurpeta me website banwana",
       "Sullurpeta lo website cheyinchali",
       "సూళ్లూరుపేట వెబ్‌సైట్ డిజైన్",
+      "Sullurpeta website designer",
+      "web development company Sullurpeta",
+      "hire freelance web developer Sullurpeta",
+      "Tirupati district SEO",
+      "website designer Tirupati district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

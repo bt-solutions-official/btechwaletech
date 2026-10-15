@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "real estate website riyadh", "real estate website jeddah", "property website dammam", "property website khobar",
       "real estate lead generation whatsapp", "idx style listings saudi", "real estate website developer india", "arabic real estate website template vs custom",
       "real estate seo saudi arabia", "wafi off plan marketing website",
+      "hire real estate website development in Saudi Arabia", "freelance real estate website development Saudi Arabia",
     ],
   },
   hero: {

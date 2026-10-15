@@ -7,7 +7,7 @@ const ramnagarBihar: CityContent = {
   meta: {
     title: "IT Services in Ramnagar, Bihar: Web, Apps & AI",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Ramnagar's cane growers, mill suppliers, border traders and coaching classes.",
+      "Hindi websites, apps, Maps SEO and WhatsApp automation for Ramnagar's cane growers, mill suppliers, border traders and coaching classes. Sites from ₹10,000.",
     keywords: [
       "IT services in Ramnagar",
       "IT company in Ramnagar Bihar",
@@ -29,6 +29,12 @@ const ramnagarBihar: CityContent = {
       "Ramnagar me website banwana",
       "Ramnagar me app banwana kharcha",
       "रामनगर वेबसाइट डिजाइन",
+      "Ramnagar website designer",
+      "website cost in Ramnagar",
+      "web development company Ramnagar",
+      "hire freelance web developer Ramnagar",
+      "West Champaran district SEO",
+      "website designer West Champaran district",
     ],
   },
   hero: {

@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Membership website developer",
   updated: "2026-09-24",
   meta: {
-    title: `Membership Website Developer in India | Paid Access`,
-    description: `Membership website developer in India: paid tiers, UPI AutoPay and card renewals, gated content, member dashboards. Custom builds from ${P.software}, code owned by you.`,
+    title: `Membership Website Developer: Paid Tiers ${P.software}+`,
+    description: `Membership website developer in India: paid tiers, UPI AutoPay renewals, gated content and member dashboards. Custom builds from ${P.software}, code yours.`,
     keywords: [
       "membership website developer", "membership website developer in India", "membership website developer near me", "membership website developer for hire",
       "membership website cost", "subscription website development price", "best membership website developer", "membership website banwana hai",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "membership portal development", "recurring payment website India", "UPI autopay website integration", "gated content website",
       "online course membership site", "association membership portal", "gym membership website", "custom membership platform",
       "wordpress membership site developer", "members only website",
+      "hire membership website developer", "freelance membership website developer", "membership website developer cost", "best membership website developer in India",
+      "membership website developer price", "membership website developer charges",
     ],
   },
   hero: {

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Website developer in Ranchi",
   updated: "2026-10-02",
   meta: {
-    title: "Website Developer in Ranchi: Live in 1–2 Weeks",
+    title: `Website Developer in Ranchi: Sites from ${P.site}`,
     description: `Website developer in Ranchi for institutes, hospitals, PSU vendors and tour operators. Business sites from ${P.site}, built remotely, accounts in your name.`,
     keywords: [
       "website developer in Ranchi", "website developer Ranchi", "website developer near me Ranchi", "web developer in Ranchi",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "tour operator website Ranchi", "vendor profile website Jharkhand", "website developer Lalpur Ranchi", "website developer Kanke Road",
       "website developer Jharkhand", "website developer Ramgarh", "website developer Hazaribagh", "Hindi website Ranchi",
       "best website developer in Ranchi", "business website Ranchi",
+      "website developer in Ranchi cost", "website developer in Ranchi price", "hire website developer in Ranchi", "freelance website developer in Ranchi",
+      "website developer in Ranchi charges",
     ],
   },
   hero: {

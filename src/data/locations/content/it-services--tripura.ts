@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.9408, lng: 91.9882 },
   meta: {
-    title: "Freelance IT Services in Tripura: Software, Apps & AI",
+    title: "Tripura IT Services: Software, Apps & AI",
     description:
       "Freelance IT team for Tripura: custom software, websites, apps, AI automation and SEO from Agartala to Belonia. Sites from ₹10,000, quotes in two days.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "iOS app development Tripura",
       "mobile app developers Tripura",
       "iPhone app developers Agartala",
+      "Tripura website designer",
+      "website cost in Tripura",
+      "IT company in Tripura",
+      "Tripura SEO services",
+      "hire developer Tripura",
+      "rubber software in Tripura",
+      "tea estates software in Tripura",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Export Business Website Developer | From ${P.site}`,
-    description: `Export business website developer for Indian exporters: international SEO, multilingual pages and buyer-trust signals. Sites from ${P.site}, SEO sites from ${P.seoSite}.`,
+    description: `Export business website developer for Indian exporters: international SEO, multilingual pages and buyer-trust signals. Sites from ${P.site}, quote in 2 days.`,
     keywords: [
       "export business website developer", "export business website developer India", "exporter website developer near me", "export website developer for hire",
       "export website development cost", "import export website price", "best website for exporters", "export business ki website",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "export website developer Surat", "export website developer Ahmedabad", "import export website design", "exporter website design India",
       "multilingual website for exporters", "international SEO for exporters", "B2B export website", "manufacturer exporter website",
       "hreflang website developer", "website for overseas buyers", "export catalogue website", "RFQ website for exporters",
+      "hire export business website developer",
+      "freelance export business website developer",
     ],
   },
   hero: {

@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.6692, lng: 77.4538 },
   meta: {
-    title: "Freelance Software Developers in Ghaziabad, NCR",
+    title: "Ghaziabad, NCR Software Developers: Engineering",
     description:
       "Freelance developers for Ghaziabad: B2B software, lead systems, AI automation, Android and iOS apps and SEO for Sahibabad and Meerut Road units. From ₹10,000.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "website maintenance Ghaziabad",
       "गाजियाबाद में सॉफ्टवेयर डेवलपर",
       "गाजियाबाद में वेबसाइट बनवाना",
+      "Ghaziabad website designer",
+      "website cost in Ghaziabad",
+      "IT company in Ghaziabad",
+      "Uttar Pradesh SEO services",
+      "hire developer Ghaziabad",
+      "engineering software in Ghaziabad",
+      "electrical software in Ghaziabad",
+      "plastics software in Ghaziabad",
+      "food processing software in Ghaziabad",
+      "website developer Sahibabad Site 4 Ghaziabad",
     ],
   },
   hero: {

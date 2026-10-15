@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Renovation Website Design Singapore: Leads from ${P.site}`,
-    description: `Renovation website design in Singapore for contractors and ID firms: HDB, BTO and condo galleries, quote forms and estate SEO that bring direct leads. From ${P.site}.`,
+    description: `Renovation website design in Singapore for contractors and ID firms: HDB, BTO and condo galleries, quote forms and estate SEO for direct leads. From ${P.site}.`,
     keywords: [
       "renovation website design singapore", "renovation contractor website singapore", "interior design website singapore", "interior design firm website design",
       "renovation company website cost singapore", "how much is a renovation website", "hdb renovation contractor website", "bto renovation leads website",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "directory of renovation contractors website", "casetrust renovation website", "renovation seo singapore", "interior design seo singapore",
       "renovation leads tengah bto", "renovation website punggol", "interior designer website sengkang", "renovation web designer near me singapore",
       "renovation website with reviews", "id firm website design singapore", "carpentry website singapore", "renovation website developer",
+      "hire renovation website design in Singapore", "freelance renovation website design Singapore",
     ],
   },
   hero: {

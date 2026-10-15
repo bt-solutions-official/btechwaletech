@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Bus ticket booking software",
   updated: "2026-09-25",
   meta: {
-    title: `Bus Ticket Booking Software for Operators`,
+    title: `Bus Ticket Booking Software for Operators, ${P.software}+`,
     description: `Bus ticket booking software for private operators: sleeper and seater layouts, agent commission, dynamic fares, boarding points, conductor app. From ${P.software}.`,
     keywords: [
       "bus ticket booking software", "bus booking software", "bus reservation software", "bus reservation system",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "bus passenger chart app", "online bus booking website for operators", "bus ticket booking app development", "travels booking software",
       "how to make bus booking website", "bus ticket booking software developer", "bus booking software pune", "bus booking software bengaluru",
       "bus ticket booking system with agents", "white label bus booking software",
+      "bus ticket booking software company in India",
+      "best bus ticket booking software in India",
+      "bus ticket booking software services",
     ],
   },
   hero: {
@@ -412,7 +415,7 @@ const content: FreelanceContent = {
     { question: "Should I choose custom software or a ready-made bus reservation system?", answer: "A ready-made system is quicker to start and suits operators with standard workflows. Custom software suits operators whose agent rules, segment fares, coach layouts or reports do not fit templates, and who want to avoid recurring per-seat fees. If a ready-made tool fits you well, we will say so rather than push a build." },
     { question: "Can staff and agents use the system in Hindi or a regional language?", answer: "Yes. The office and agent screens can be built in English plus Hindi or a regional language, and tickets can print in both. You supply or approve the translated labels and messages. Many agents in smaller towns are more comfortable in their own language, which reduces booking mistakes at the counter." },
     { question: "Is passenger data kept secure?", answer: "We use role-based logins so agents see only their own passengers, encrypted connections, daily backups and a full audit log of bookings, cancellations and fare changes. India’s Digital Personal Data Protection Act, 2023 expects reasonable security safeguards and a stated purpose for personal data. Your own lawyer should review your privacy notice." },
-    { question: "What happens after the software goes live?", answer: `Two months of free maintenance follow go-live, covering bug fixes, security updates and small changes. After that, maintenance plans start from ${P.care} a month, and new modules are quoted separately. We do not visit depots or manage your fleet; support is remote over WhatsApp, calls and screen sharing, in English or Hindi.` },
+    { question: "What happens after the software goes live?", answer: `Two months of free maintenance follow go-live, covering bug fixes, security updates and small changes. After that, maintenance plans start from ${P.care}, and new modules are quoted separately. We do not visit depots or manage your fleet; support is remote over WhatsApp, calls and screen sharing, in English or Hindi.` },
     { question: "How do payments for the project work?", answer: "Payments follow milestones in your approved quote, by UPI or bank transfer in India, and in USD by Wise, bank wire or PayPal for operators abroad. Nothing is billed before you approve the itemised quote in writing. Each milestone matches a phase you can test, and our refund policy page explains the general approach." },
     { question: "Bus booking software banwana hai, pehle kya bhejein?", answer: `WhatsApp par apni buses ki list, har coach ke seat layout ki photo, routes aur boarding points, fare chart aur agents ke commission rules bhejiye. Hum office team se baat karke do working days mein module-wise quote denge. Custom software ${P.software} se shuru hota hai, aur conductor app ${P.app} se.` },
   ],

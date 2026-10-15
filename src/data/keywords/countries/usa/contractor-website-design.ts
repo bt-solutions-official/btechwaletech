@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Contractor Website Design for Remodelers, from ${P.site}`,
-    description: `Contractor website design for US remodelers and GCs: project portfolios, kitchen and bath pages, budget-qualifying lead forms and license display, from ${P.site}.`,
+    description: `Contractor website design for US remodelers and GCs: project portfolios, kitchen and bath pages, budget-qualifying lead forms, license display, from ${P.site}.`,
     keywords: [
       "contractor website design", "general contractor website design", "remodeling contractor website", "construction company website design", "home remodeler website design",
       "contractor web design", "best contractor websites", "contractor website cost", "how much does a contractor website cost", "kitchen remodeling website design",
@@ -47,7 +47,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "What should contractor website design include for a remodeler or general contractor?",
     text: `Contractor website design for a remodeler should center on a project portfolio sorted by room and scope, separate kitchen, bath and addition pages, a lead form that asks budget and timeline, links to Google, Houzz and Angi reviews, and clear license, bonding and insurance details. BtechWaleTech builds that from ${P.site}; larger portfolio builds start at ${P.seoSite}.`,
-    more: `Building new homes rather than remodeling? See <a href='/usa/home-builder-website-design/'>home builder website design</a>. Trades that sell emergency calls are covered under <a href='/usa/plumber-website-design/'>plumber website design</a>.`,
+    more: `Building new homes rather than remodeling? Community and floor-plan pages fit the same build, and <a href='/usa/real-estate-agent-website-design/'>real estate agent website design</a> shows how we present them. Trades that sell emergency calls are covered under <a href='/usa/plumber-website-design/'>plumber website design</a>.`,
   },
   snapshot: {
     caption: "Contractor website design, summarized",
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
   related: {
     heading: "Related pages for US builders and trades",
     links: [
-      { name: "Home builder website design", href: "/usa/home-builder-website-design/" },
+      { name: "Real estate agent website design", href: "/usa/real-estate-agent-website-design/" },
       { name: "HVAC website design", href: "/usa/hvac-website-design/" },
       { name: "Plumber website design", href: "/usa/plumber-website-design/" },
       { name: "Roofing website design", href: "/usa/roofing-website-design/" },

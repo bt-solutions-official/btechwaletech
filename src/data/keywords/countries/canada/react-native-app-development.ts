@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "react native over the air updates", "react native maintenance", "is react native good for startups",
       "react native app for existing react web app", "remote react native team india", "react native developers near me",
       "bilingual react native app english french", "pipeda mobile app development",
+      "freelance react native app development Canada",
     ],
   },
   hero: {

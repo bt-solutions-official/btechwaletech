@@ -7,7 +7,7 @@ const srivilliputhur: CityContent = {
   meta: {
     title: "IT Services in Srivilliputhur: Websites, Apps & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Srivilliputhur palkova makers, handloom weavers, temple-town hotels and schools.",
+      "Tamil websites, apps, local SEO and WhatsApp automation for Srivilliputhur palkova makers, handloom weavers, temple-town hotels and schools. From ₹10,000.",
     keywords: [
       "IT services in Srivilliputhur",
       "IT services team in Srivilliputhur",
@@ -29,6 +29,12 @@ const srivilliputhur: CityContent = {
       "Srivilliputhur website panna",
       "ஸ்ரீவில்லிபுத்தூர் இணையதள வடிவமைப்பு",
       "Krishnankoil Watrap web developer",
+      "Srivilliputhur website designer",
+      "web development company Srivilliputhur",
+      "hire freelance web developer Srivilliputhur",
+      "Virudhunagar district SEO",
+      "website designer Virudhunagar district",
+      "Tamil Nadu SEO services",
     ],
   },
   hero: {

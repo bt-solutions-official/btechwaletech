@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `ChatGPT Integration Developer India: from ${P.ai}`,
-    description: `ChatGPT integration developer in India: add LLM APIs to your app, site or CRM with RAG, prompt testing and cost limits. Projects from ${P.ai}, keys in your name.`,
+    description: `ChatGPT integration developer in India: add LLM APIs to your app, site or CRM with RAG, prompt tests and cost caps. Projects from ${P.ai}, keys in your name.`,
     keywords: [
       "ChatGPT integration developer", "ChatGPT integration developer India", "ChatGPT developer near me", "ChatGPT integration developer for hire",
       "ChatGPT integration cost", "OpenAI API integration price", "best ChatGPT integration developer", "ChatGPT ko website mein kaise jode",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "GPT API integration", "RAG developer", "ChatGPT API for business", "integrate ChatGPT into app",
       "ChatGPT plugin for website", "LLM app developer India", "hire OpenAI developer", "AI API integration freelancer",
       "ChatGPT with company data", "custom GPT developer",
+      "hire chatgpt integration developer",
     ],
   },
   hero: {

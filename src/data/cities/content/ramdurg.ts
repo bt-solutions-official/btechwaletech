@@ -7,7 +7,7 @@ const ramdurg: CityContent = {
   meta: {
     title: "IT Services in Ramdurg | Websites, Apps, SEO & AI",
     description:
-      "Kannada websites, Android and iOS apps, local SEO and WhatsApp bots for Ramdurg traders, weavers, cane growers, colleges and the Shabari and Godachi temple trade.",
+      "Kannada websites, apps, SEO and WhatsApp bots for Ramdurg traders, weavers, cane growers, colleges and the Shabari and Godachi temple trade. From ₹10,000.",
     keywords: [
       "IT services in Ramdurg",
       "IT services team in Ramdurg",
@@ -30,6 +30,11 @@ const ramdurg: CityContent = {
       "Ramdurg app banwana",
       "Ramdurgadalli website maadisalu",
       "ರಾಮದುರ್ಗ ವೆಬ್‌ಸೈಟ್",
+      "Ramdurg website designer",
+      "web development company Ramdurg",
+      "hire freelance web developer Ramdurg",
+      "Belagavi district SEO",
+      "website designer Belagavi district",
     ],
   },
   hero: {

@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 25.5788, lng: 91.8933 },
   meta: {
-    title: "Freelance Software Developers in Shillong, Meghalaya",
+    title: "Shillong Software Developers: Tour Booking & Hostels",
     description:
-      "Freelance software developers for Shillong: tour and booking software, hostel, college and clinic systems, Android and iOS apps, AI automation, SEO and hosting.",
+      "Freelance software developers for Shillong: tour and booking software, hostel, college and clinic systems, plus AI automation. From ₹10,000 upwards.",
     keywords: [
       "software development team in Shillong",
       "IT services team in Shillong",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "website maintenance Shillong",
       "Shillong software developer leh website",
       "Shillong mein software team",
+      "Shillong website designer",
+      "website cost in Shillong",
+      "IT company in Shillong",
+      "Meghalaya SEO services",
+      "hire developer Shillong",
+      "tour software in Shillong",
+      "hostels software in Shillong",
+      "colleges software in Shillong",
     ],
   },
   hero: {

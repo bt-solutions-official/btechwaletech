@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "MVP development for startups", "investor demo app", "startup app developer for hire", "outsourced CTO for startup",
       "Flutter MVP for startup", "prototype app developer", "app for my startup idea", "startup mobile app development India",
       "pre-seed app build", "startup app developer freelance",
+      "hire startup app developer", "freelance startup app developer", "startup app developer cost", "best startup app developer in India",
+      "startup app developer price", "startup app developer charges",
     ],
   },
   hero: {

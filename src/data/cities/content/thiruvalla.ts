@@ -7,7 +7,7 @@ const thiruvalla: CityContent = {
   meta: {
     title: "IT Services in Thiruvalla | Web & Apps from ₹10,000",
     description:
-      "Malayalam and English websites, Android and iOS apps, local SEO and WhatsApp automation for Thiruvalla hospitals, colleges, NRI families, traders and builders.",
+      "Malayalam and English websites, apps and SEO for Thiruvalla hospitals, colleges, NRI families, traders and builders. Sites from ₹10,000, live in 1-2 weeks.",
     keywords: [
       "IT services in Thiruvalla",
       "IT services team in Thiruvalla",
@@ -30,6 +30,11 @@ const thiruvalla: CityContent = {
       "Thiruvalla me website banwana",
       "Thiruvallayil website cheyyan",
       "തിരുവല്ല വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Thiruvalla website designer",
+      "web development company Thiruvalla",
+      "hire freelance web developer Thiruvalla",
+      "Pathanamthitta district SEO",
+      "website designer Pathanamthitta district",
     ],
   },
   hero: {

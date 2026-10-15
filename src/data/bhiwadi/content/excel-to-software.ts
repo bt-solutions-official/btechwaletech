@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-27",
   meta: {
     title: "Convert Excel to Software in Bhiwadi, Meet in Person",
-    description: `Convert Excel to software in Bhiwadi: turn shared workbooks into a web app your team uses together, with forms, roles and reports. From ${P.software}; we meet one to one.`,
+    description: `Convert Excel to software in Bhiwadi: turn shared workbooks into a web app your team uses together, with forms, roles and reports. From ${P.software}, one to one.`,
     keywords: [
       "convert Excel to software in Bhiwadi", "convert Excel to software", "Excel to software Bhiwadi", "Excel to web app Bhiwadi",
       "convert Excel to web application near me", "Excel to software in Bhiwadi Rajasthan", "spreadsheet to software Bhiwadi Alwar", "replace Excel with software",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "First meeting", value: "One to one at your desk in Bhiwadi with the workbook open" },
       { label: "Languages", value: "Hindi and English forms" },
       { label: "Ownership", value: "Code, database and exports in your name" },
-      { label: "Support", value: `Two months free, then from ${P.care} a month` },
+      { label: "Support", value: `Two months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What it costs to convert Excel to software in Bhiwadi",
-    note: `Custom web apps that replace spreadsheets start at ${P.software}. The quote depends on how many workbooks and tabs become software, how tangled the formulas and macros are, how many user roles and approval steps you need, and how much history must be cleaned and migrated. A single workbook with clear columns sits near the starting figure; several linked files with VBA sit higher. Each part appears as its own line, so you can convert the most painful sheet first and leave the rest in Excel for now. Two months of maintenance come free after launch, then care from ${P.care} a month if you want it.`,
+    note: `Custom web apps that replace spreadsheets start at ${P.software}. The quote depends on how many workbooks and tabs become software, how tangled the formulas and macros are, how many user roles and approval steps you need, and how much history must be cleaned and migrated. A single workbook with clear columns sits near the starting figure; several linked files with VBA sit higher. Each part appears as its own line, so you can convert the most painful sheet first and leave the rest in Excel for now. Two months of maintenance come free after launch, then care from ${P.care} if you want it.`,
   },
   guideLabel: "Excel to software guide for Bhiwadi",
   guide: [
@@ -276,7 +276,7 @@ const content: FreelanceContent = {
         ["Workbooks with VBA macros and Tally or device links", `From ${P.software}, quoted per module`, "10–12 weeks or phased", "Plants with years of spreadsheet logic"],
         ["Installable Android app for offline entry", `From ${P.app}`, "6–10 weeks", "Shop floors with weak signal"],
         ["AI reading of paper forms into the new app", `From ${P.ai}`, "2–4 weeks", "Sites that still collect data on paper first"],
-        ["Care after the two free months", `From ${P.care} a month`, "Monthly", "Rule changes, fixes, new reports"],
+        ["Care after the two free months", `From ${P.care}`, "Monthly", "Rule changes, fixes, new reports"],
       ],
       hideSm: [3],
     },
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
     { question: "Should we use Google Sheets or a no-code tool instead?", answer: "Sometimes, yes. For a few users and simple rules, a tidy Excel file or Google Sheets with a little Apps Script may be all you need. No-code builders suit simple forms if per-user fees are acceptable. Custom software fits complex rules, many users, approvals and full ownership. We will say which fits after seeing your file." },
     { question: "Can we work with you without meeting face to face?", answer: "Yes. A screen share can replace the first meeting, and the build runs over WhatsApp, calls and email anyway. We still find that one face-to-face session in Bhiwadi with the workbook owner uncovers rules that never come up on a call, which saves several rounds of revisions later and keeps the first release closer to how you really work." },
     { question: "Who owns the software after the conversion?", answer: "You do. The source code is in a repository under your account, the database and server are in your name, and all passwords are handed over. You also receive a plain-language document of every rule translated from your workbook, which any future developer can use. Nothing about the app is locked to us, and you can move it to another developer whenever you choose." },
-    { question: "What support do we get after the switch?", answer: `Two months of maintenance are free after go-live, covering fixes, small changes and new report requests that fit the existing data. After that, optional care starts from ${P.care} a month. Larger additions, such as converting another workbook, are quoted separately and started only after your written approval, with a new itemised quote.` },
+    { question: "What support do we get after the switch?", answer: `Two months of maintenance are free after go-live, covering fixes, small changes and new report requests that fit the existing data. After that, optional care starts from ${P.care}. Larger additions, such as converting another workbook, are quoted separately and started only after your written approval, with a new itemised quote.` },
     { question: "How do we pay for the project?", answer: "In INR, by UPI or bank transfer, in stages tied to delivered work as written in your quote. Nothing is billed before you approve the quote. Hosting and any messaging charges are paid by you directly to those providers, so running costs remain visible and in your own name from the first day." },
     { question: "Can staff fill the forms in Hindi on their phones?", answer: "Yes. Forms can run in Hindi or English per user, with drop-downs, pictures and number pads that suit supervisors and helpers far better than a wide spreadsheet on a small screen. Forms work on ordinary Android phones and hold entries when the signal drops, sending them once it returns. Office users can keep English screens." },
     { question: "Is our data safer in software than in a shared Excel file?", answer: "Generally, yes. Each user sees only what their role allows, every change is logged with a name and time, history cannot be deleted, and nightly backups go to storage in your account with a tested restore. A shared workbook lets anyone with access copy, forward or accidentally scramble everything with one careless sort or paste." },

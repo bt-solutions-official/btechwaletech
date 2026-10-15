@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "custom matrimonial software", "matrimonial script vs custom website", "NRI matrimonial website", "regional matrimonial website",
       "matrimonial website Ahmedabad", "matrimonial website Chennai", "matrimonial website Jaipur", "shaadi website kaise banaye",
       "matrimonial website banwana hai", "matrimony site developer near me", "wedding bureau website", "marriage bureau website design",
+      "matrimonial website development cost", "matrimonial website development price", "matrimonial website development company", "best matrimonial website development in India",
+      "matrimonial website development cost in India", "matrimonial website development near me",
     ],
   },
   hero: {
@@ -238,7 +240,7 @@ const content: FreelanceContent = {
         `A matrimonial website gets found through public community and city pages, not through member profiles, which should stay private. Build pages for the searches families actually type, such as a community name plus “matrimony” plus a city, and keep every profile behind login.`,
         `Each public landing page explains who the portal serves, how verification works, what plans cost and how to join, with a count of members only if you can state it truthfully. We add Organization structured data, clean titles, a sitemap of public pages only and fast mobile loading measured against Core Web Vitals in Google Search Console.`,
         `AI assistants such as ChatGPT and Google’s AI Overviews answer questions like “which matrimony site is best for my community” by pulling clear, specific passages. Pages that state plainly how profiles are checked, what the fee includes and who runs the portal are easier to quote than pages full of slogans. We write your public pages in that direct style.`,
-        `Honest limits: nobody can guarantee rankings, and a new portal will not outrank national brands for generic terms. Community-specific searches are winnable. Ongoing work is available from ${P.seo} a month; our <a href='/seo-for-new-website/'>SEO for new websites</a> page explains the first ninety days.`,
+        `Honest limits: nobody can guarantee rankings, and a new portal will not outrank national brands for generic terms. Community-specific searches are winnable. Ongoing work is available from ${P.seo}; our <a href='/seo-for-new-website/'>SEO for new websites</a> page explains the first ninety days.`,
       ],
     },
     {
@@ -307,7 +309,7 @@ const content: FreelanceContent = {
         ["Custom matrimony portal", "Sign-up, profiles, verification, search, interests, plans, admin", `${P.software}`, "6–12 weeks"],
         ["Android and iOS apps", "Same members and plans, push alerts, published on both stores", `${P.app}`, "6–10 weeks"],
         ["WhatsApp alerts and AI screening", "Interest and expiry messages, sign-up risk flags for moderators", `${P.ai}`, "2–4 weeks"],
-        ["Monthly SEO", "Community pages, content, Search Console monitoring", `${P.seo} a month`, "Ongoing"],
+        ["Monthly SEO", "Community pages, content, Search Console monitoring", `${P.seo}`, "Ongoing"],
       ],
       hideSm: [1],
     },

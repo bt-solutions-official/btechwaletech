@@ -7,7 +7,7 @@ const belagavi: CityContent = {
   meta: {
     title: "Belagavi Web Design, SEO and Automation | ₹10,000 Up",
     description:
-      "Websites for Belagavi foundries, aerospace suppliers, Kunda shops, clinics and colleges. From ₹10,000, itemised quotes, 2 months free maintenance, you own the code.",
+      "Belagavi websites for foundries, aerospace suppliers, Kunda shops, clinics and colleges. From ₹10,000, written quotes, 2 months free upkeep, you own the code.",
     keywords: [
       "website development team in Belagavi",
       "web design Belgaum",
@@ -25,6 +25,14 @@ const belagavi: CityContent = {
       "freelance web developer Belgaum",
       "website banvnara Belgaum",
       "ಬೆಳಗಾವಿ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Belagavi website designer",
+      "website cost in Belagavi",
+      "web development company Belagavi",
+      "hire freelance developer Belagavi",
+      "Karnataka SEO",
+      "website for foundries in Belagavi",
+      "web designer in Shahapur, Belagavi",
+      "website for aerospace and precision machining in Belagavi",
     ],
   },
   hero: {

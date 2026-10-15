@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Telegram Bot Development: Custom Bots from ${P.ai}`,
-    description: `Telegram bot development for orders, bookings, support and group admin, plus Mini Apps and in-bot payments. Custom bots from ${P.ai}; you own the bot and code.`,
+    description: `Telegram bot development for orders, bookings, support and group admin, plus Mini Apps and in-bot payments. Custom bots from ${P.ai}; you own the code.`,
     keywords: [
       "telegram bot development", "telegram bot developer", "custom telegram bot development", "telegram bot development cost",
       "how much does it cost to make a telegram bot", "telegram bot developer India", "hire telegram bot developer",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "telegram payment bot", "telegram stars payments", "telegram ai bot", "telegram bot hosting",
       "telegram bot vs whatsapp chatbot", "telegram bot developer near me", "telegram bot developer Delhi", "telegram bot developer Mumbai",
       "telegram bot kaise banaye", "telegram bot banwana hai", "telegram bot for coaching institute",
+      "telegram bot development price", "telegram bot development company", "best telegram bot development in India", "telegram bot development cost in India",
+      "telegram bot development near me",
     ],
   },
   hero: {

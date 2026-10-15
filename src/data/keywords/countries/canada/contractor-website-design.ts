@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "estimate request form for contractors", "wsib clearance on website", "homestars reviews on website",
       "contractor service area pages", "contractor website near me", "what should a contractor website include",
       "how do contractors get more leads online", "contractor seo canada", "design build website canada",
+      "hire contractor website design in Canada", "freelance contractor website design Canada",
     ],
   },
   hero: {

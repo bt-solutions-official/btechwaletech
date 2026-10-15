@@ -240,7 +240,7 @@ const content: FreelanceContent = {
         `<strong>Google says crawling can take anywhere from a few days to a few weeks, so a new website may not appear in search immediately after launch.</strong> Being indexed and ranking well are different things: indexing means Google knows a page exists, ranking means it chooses to show it for a search.`,
         `We submit your sitemap in Google Search Console at launch and request indexing for key pages. Google’s <a href='https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl' rel='noopener'>recrawl documentation</a> notes there is a quota for individual URL submissions and that repeated requests for the same URL do not speed it up, so patience beats pressing the button daily.`,
         `Ranking for competitive searches usually takes months, depending on competition, content depth, links and local signals. Nobody can honestly guarantee a ranking or a date. What a good build does is remove technical obstacles so your content can compete from day one.`,
-        `For local businesses, a verified Google Business Profile often brings calls and map visibility sooner than the website’s organic rankings. The longer view is on <a href='/how-long-does-seo-take/'>how long SEO takes</a>, and ongoing work starts from ${P.seo} a month.`,
+        `For local businesses, a verified Google Business Profile often brings calls and map visibility sooner than the website’s organic rankings. The longer view is on <a href='/how-long-does-seo-take/'>how long SEO takes</a>, and ongoing work starts from ${P.seo}.`,
       ],
     },
     {

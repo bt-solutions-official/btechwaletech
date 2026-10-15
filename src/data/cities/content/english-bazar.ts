@@ -7,7 +7,7 @@ const englishBazar: CityContent = {
   meta: {
     title: "English Bazar (Malda) Web Design & Local SEO",
     description:
-      "Websites, Bengali and English SEO, mango and silk stores and WhatsApp automation for English Bazar and Malda traders, clinics and schools. Sites from ₹10,000.",
+      "English Bazar and Malda websites, Bengali and English SEO, mango and silk stores and WhatsApp automation for traders, clinics and schools. Sites from ₹10,000.",
     keywords: [
       "website development team in Malda",
       "web designer English Bazar",
@@ -24,6 +24,15 @@ const englishBazar: CityContent = {
       "freelance web developer English Bazar",
       "Malda te website banate koto khoroch",
       "মালদা ওয়েবসাইট ডিজাইন",
+      "English Bazar website designer",
+      "website cost in English Bazar",
+      "web development company English Bazar",
+      "hire freelance developer English Bazar",
+      "Malda · West Bengal SEO",
+      "website for mango growers and sellers in English Bazar",
+      "web designer in Rathbari, English Bazar",
+      "website for silk and handloom in English Bazar",
+      "mobile app developer in English Bazar",
     ],
   },
   hero: {

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Tableau developer",
   updated: "2026-09-25",
   meta: {
-    title: "Tableau Developer: Executive Dashboards, Excel Exit",
+    title: `Tableau Developer: Dashboards & Data from ${P.ai}`,
     description: `Hire a Tableau developer for executive dashboards, extracts, row-level security and Cloud or Server setup. Honest licence advice; data feeds from ${P.ai}.`,
     keywords: [
       "tableau developer", "tableau developer India", "hire tableau developer", "freelance tableau developer",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "is tableau worth it", "tableau vs power bi", "tableau licence cost India", "tableau developer for small business",
       "remote tableau developer", "tableau developer Bangalore", "tableau developer Mumbai", "tableau developer Pune",
       "tableau dashboard banwana hai", "how to hire a tableau developer",
+      "tableau developer near me", "best tableau developer in India", "tableau developer price", "tableau developer charges",
     ],
   },
   hero: {

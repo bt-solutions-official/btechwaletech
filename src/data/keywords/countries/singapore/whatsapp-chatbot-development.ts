@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "whatsapp chatbot for clinic singapore", "whatsapp chatbot for tuition centre", "whatsapp chatbot for f&b", "whatsapp chatbot hand over to staff",
       "whatsapp chatbot near me singapore", "whatsapp bot tampines", "whatsapp bot jurong", "whatsapp bot woodlands", "whatsapp business app vs api",
       "can i automate whatsapp for my business",
+      "hire whatsapp chatbot in Singapore", "freelance whatsapp chatbot Singapore",
     ],
   },
   hero: {

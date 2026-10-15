@@ -7,7 +7,7 @@ const amroha: CityContent = {
   meta: {
     title: "IT Services in Amroha: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, online stores and WhatsApp automation for Amroha, Gajraula and Hasanpur businesses. Static sites from ₹10,000 with two months free maintenance.",
+      "Amroha, Gajraula and Hasanpur websites, SEO, online stores and WhatsApp automation. Static sites from ₹10,000 with two months of free maintenance.",
     keywords: [
       "website development team in Amroha",
       "web design Amroha",
@@ -25,6 +25,14 @@ const amroha: CityContent = {
       "website maintenance Amroha",
       "Amroha me website kaise banwaye",
       "अमरोहा वेबसाइट डिज़ाइन",
+      "Amroha website designer",
+      "website cost in Amroha",
+      "web development company Amroha",
+      "hire freelance developer Amroha",
+      "Uttar Pradesh SEO",
+      "website for dholak and instrument makers in Amroha",
+      "web designer in Bazar Gujri, Amroha",
+      "website for gajraula vendors and contractors in Amroha",
     ],
   },
   hero: {

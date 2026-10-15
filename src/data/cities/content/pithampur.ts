@@ -5,9 +5,9 @@ const pithampur: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 22.6197, lng: 75.6933 },
   meta: {
-    title: "IT Services in Pithampur: Websites, Apps, SEO & AI",
+    title: "Pithampur Website Design: Auto, Pharma & SEZ",
     description:
-      "Websites, Android and iOS apps, supplier software, SEO and WhatsApp automation for Pithampur auto component makers, pharma units, transporters and local shops.",
+      "Pithampur websites, supplier portals and SEO for auto component makers, pharma packaging units, SEZ exporters and transporters. From ₹10,000.",
     keywords: [
       "IT services in Pithampur",
       "IT services team in Pithampur",
@@ -29,6 +29,16 @@ const pithampur: CityContent = {
       "Pithampur me website banwana",
       "Pithampur me app kaise banwaye",
       "पीथमपुर वेबसाइट डिजाइन",
+      "Pithampur website designer",
+      "web development company Pithampur",
+      "hire freelance web developer Pithampur",
+      "Dhar district SEO",
+      "website designer Dhar district",
+      "Madhya Pradesh SEO services",
+      "Pithampur me website kaise banwaye",
+      "Pithampur website banwane ka kharcha",
+      "Pithampur SEZ exporters website",
+      "SEZ exporters website design Pithampur",
     ],
   },
   hero: {

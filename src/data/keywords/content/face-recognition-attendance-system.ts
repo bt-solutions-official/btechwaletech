@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "face recognition attendance for schools", "is face attendance accurate", "face attendance DPDP Act consent", "custom face recognition attendance system",
       "face attendance app development", "face recognition attendance system Pune", "face recognition attendance system Chennai",
       "chehra pehchan attendance app", "face se attendance lagane wala app",
+      "face recognition attendance system company in India",
+      "best face recognition attendance system in India",
+      "face recognition attendance system services",
     ],
   },
   hero: {
@@ -60,7 +63,7 @@ const content: FreelanceContent = {
       { label: "Consent", value: "Notice and consent at enrolment, with a non-face fallback" },
       { label: "Hardware", value: "Android phones or tablets you buy; we do not supply devices" },
       { label: "Cost", value: `App from ${P.app}; full platform from ${P.software}` },
-      { label: "After launch", value: `2 months free, then maintenance from ${P.care} a month` },
+      { label: "After launch", value: `2 months free, then maintenance from ${P.care}` },
     ],
   },
   services: {
@@ -257,7 +260,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a custom face recognition attendance app starts at ${P.app} (about ${P.appUsd}), and a complete platform with HR panel, shifts, multi-site reports and payroll export starts at ${P.software} (about ${P.softwareUsd}). Devices are extra and bought by you.`,
         "The biggest cost drivers are the number of sites and lanes, whether you need both kiosk and personal-phone punching, how complex your shift and overtime rules are, and integrations with payroll or an HRMS. Liveness strength matters too: a commercially licensed liveness SDK adds its own fee, paid by you to its provider, while an in-house passive check keeps costs lower but is less proven.",
-        `Running costs are modest: cloud hosting in your account, any SDK licence, and maintenance from ${P.care} a month after two free months. Quotes from others vary widely; compare them on what is included, especially liveness testing, threshold tuning and data ownership.`,
+        `Running costs are modest: cloud hosting in your account, any SDK licence, and maintenance from ${P.care} after two free months. Quotes from others vary widely; compare them on what is included, especially liveness testing, threshold tuning and data ownership.`,
       ],
     },
     {
@@ -357,7 +360,7 @@ const content: FreelanceContent = {
         ["Face attendance app", "Enrolment, on-device match, liveness, offline sync, basic admin", `From ${P.app}`, `From ${P.appUsd}`],
         ["Full platform", "HR panel, shifts, multi-site, approvals, payroll export", `From ${P.software}`, `From ${P.softwareUsd}`],
         ["AI tuning and add-ons", "Threshold tuning on your staff, helmet or mask prompts", `From ${P.ai}`, `From ${P.aiUsd}`],
-        ["Maintenance after 2 free months", "OS updates, model updates, fixes", `From ${P.care}/month`, `From ${P.careUsd}/month`],
+        ["Maintenance after 2 free months", "OS updates, model updates, fixes", `From ${P.care}`, `From ${P.careUsd}`],
         ["Careers or company website", "Pages for hiring and company information", `From ${P.site}`, `From ${P.siteUsd}`],
       ],
       hideSm: [3],
@@ -418,7 +421,7 @@ const content: FreelanceContent = {
     { question: "Where are employees' face images stored?", answer: "In your own cloud account, encrypted, with access limited to named HR roles and every view logged. Kiosks hold encrypted templates for their site only; personal phones hold only their owner's template. When someone leaves, their templates and images are deleted on the schedule you choose." },
     { question: "Freelance team or large vendor for face attendance?", answer: "A large vendor suits you if you want terminals, installation and software from one supplier. A small freelance team suits custom rules, many small sites on phones and tablets, and data kept in your own account. Either way, insist on a pilot on your staff and a clear answer on liveness and data deletion." },
     { question: "Face se attendance lagane wala app banwane me kitna kharcha hai?", answer: `Custom face recognition attendance app ${P.app} se shuru hota hai, jo phone ya tablet par hi chehra match karta hai aur internet na ho tab bhi punch save karta hai. HR panel, shift rules aur payroll export wala pura system ${P.software} se shuru hota hai. Machines aap khud khareedte hain; quote pehle itemised milta hai.` },
-    { question: "What maintenance does a face attendance system need?", answer: `Keep lenses clean, re-enrol people whose appearance changes a lot, and update apps when Android changes. On our side, the first two months of maintenance after launch are free; after that it starts at ${P.care} a month and covers OS updates, model updates, fixes and small changes agreed in your quote.` },
+    { question: "What maintenance does a face attendance system need?", answer: `Keep lenses clean, re-enrol people whose appearance changes a lot, and update apps when Android changes. On our side, the first two months of maintenance after launch are free; after that it starts at ${P.care} and covers OS updates, model updates, fixes and small changes agreed in your quote.` },
     { question: "Who owns the face attendance software and data?", answer: "You do. The code, model documentation, cloud account, database and app listings are created in your company's name. We work with access you can revoke at any time. If you move to another developer later, everything they need is in your hands." },
   ],
   related: {

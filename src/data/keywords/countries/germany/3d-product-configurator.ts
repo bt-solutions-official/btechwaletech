@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "saas 3d configurator vs custom", "product configurator with price calculation", "cpq configurator 3d", "3d configurator rfq lead generation",
       "ar product viewer", "3d configurator developer", "3d konfigurator", "produktkonfigurator 3d", "3d configurator munich",
       "3d configurator stuttgart", "3d configurator hamburg", "3d configurator berlin", "build a 3d product configurator",
+      "hire 3d product configurator in Germany", "freelance 3d product configurator Germany",
     ],
   },
   hero: {

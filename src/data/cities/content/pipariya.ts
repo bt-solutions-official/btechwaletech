@@ -7,7 +7,7 @@ const pipariya: CityContent = {
   meta: {
     title: "IT Services in Pipariya: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, Google Maps SEO and WhatsApp bots for Pipariya grain traders, dal and rice mills, Pachmarhi taxi operators, clinics and schools.",
+      "Websites, apps, Google Maps SEO and WhatsApp bots for Pipariya grain traders, dal and rice mills, Pachmarhi taxi operators, clinics and schools. From ₹10,000.",
     keywords: [
       "IT services in Pipariya",
       "IT services team in Pipariya",
@@ -29,6 +29,12 @@ const pipariya: CityContent = {
       "Pipariya me website banwana",
       "Pipariya me app kaise banwaye",
       "पिपरिया वेबसाइट डिजाइन",
+      "Pipariya website designer",
+      "web development company Pipariya",
+      "hire freelance web developer Pipariya",
+      "Narmadapuram district SEO",
+      "website designer Narmadapuram district",
+      "Madhya Pradesh SEO services",
     ],
   },
   hero: {

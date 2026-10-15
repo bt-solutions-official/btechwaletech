@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "hotel website Tharad", "agri dealer website Tharad", "tractor dealer website", "Gujarati website Tharad",
       "Google Maps listing Tharad", "Tharad me website kaise banaye", "website banwani hai Tharad", "website developer Vav Suigam",
       "website developer Diyodar Bhabhar", "freelance web developer Tharad", "business website Vav-Tharad",
+      "Tharad website design charges", "transport website Tharad", "Gujarati aur Hindi website Tharad",
     ],
   },
   hero: {

@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Technopark", "website developer Kazhakkoottam", "website developer Pattom", "Malayalam website developer Trivandrum",
       "business website Trivandrum", "ecommerce website Trivandrum", "TVM website developer", "best website developer in Trivandrum",
       "Trivandrum me website kaise banwaye", "website banwana hai Trivandrum",
+      "website developer in Trivandrum cost", "website developer in Trivandrum price", "hire website developer in Trivandrum", "freelance website developer in Trivandrum",
+      "website developer in Trivandrum charges",
     ],
   },
   hero: {

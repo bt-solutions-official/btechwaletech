@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Digital Transformation for MSME: Roadmap from ${P.site}`,
-    description: `Digital transformation for MSME in stages: website from ${P.site}, then billing, CRM, WhatsApp and dashboards. Buy vs build advice and how to measure payback.`,
+    description: `Digital transformation for MSME in stages: website from ${P.site}, then billing, CRM, WhatsApp and dashboards. Buy vs build advice, quote in 2 days.`,
     keywords: [
       "digital transformation for msme", "msme digital transformation", "digital transformation for small business india", "digitisation of msme",
       "msme digitalization roadmap", "how to digitise small business", "digital transformation cost for msme", "digital msme",

@@ -7,7 +7,7 @@ const bhiwani: CityContent = {
   meta: {
     title: "Bhiwani Website Design, SEO & WhatsApp Automation",
     description:
-      "Websites and local SEO for Bhiwani textile traders, boxing academies, coaching centres, clinics and mandi dealers. Sites from ₹10,000; the domain and code are yours.",
+      "Bhiwani websites and local SEO for textile traders, boxing academies, coaching centres and mandi dealers. From ₹10,000, domain and code stay yours.",
     keywords: [
       "website development team in Bhiwani",
       "web designer Bhiwani",
@@ -24,6 +24,15 @@ const bhiwani: CityContent = {
       "website maintenance Bhiwani",
       "Bhiwani me website kaise banwaye",
       "भिवानी वेबसाइट",
+      "Bhiwani website designer",
+      "website cost in Bhiwani",
+      "web development company Bhiwani",
+      "hire freelance developer Bhiwani",
+      "Haryana SEO",
+      "website for boxing and sports academies in Bhiwani",
+      "web designer in Halu Bazar, Bhiwani",
+      "website for wholesale cloth in Bhiwani",
+      "mobile app developer in Bhiwani",
     ],
   },
   hero: {

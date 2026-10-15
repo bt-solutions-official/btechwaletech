@@ -437,6 +437,7 @@ const content: FreelanceContent = {
     heading: "More Rajkot and Gujarat pages",
     links: [
       { name: "Gujarat website services", href: "/gujarat/" },
+      { name: "Real estate website in Rajkot", href: "/gujarat/real-estate-website-rajkot/" },
       { name: "Website development services in Rajkot", href: "/gujarat/website-development-services-rajkot/" },
       { name: "Engineering company website in Rajkot", href: "/gujarat/engineering-company-website-rajkot/" },
       { name: "Casting and forging website in Rajkot", href: "/gujarat/casting-forging-website-rajkot/" },

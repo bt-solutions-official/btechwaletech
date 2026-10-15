@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "gdpr ai phone assistant", "ai appointment booking by phone", "ai voice agent calendar integration", "ai phone assistant vs receptionist",
       "virtual receptionist ai germany", "ai phone assistant berlin", "ai phone assistant munich", "ai phone assistant hamburg",
       "ai phone assistant cologne", "custom ai voice agent development", "what can an ai phone assistant do", "hire developers for ai voice assistant",
+      "freelance ai phone assistant for small business Germany",
     ],
   },
   hero: {

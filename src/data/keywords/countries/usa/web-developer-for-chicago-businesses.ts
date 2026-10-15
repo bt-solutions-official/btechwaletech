@@ -69,7 +69,7 @@ const content: FreelanceContent = {
       { name: "Capabilities and RFQ sites", note: `For machine shops, fabricators and contract manufacturers: processes, materials, tolerances and certifications stated plainly, plus an RFQ form that accepts drawings. From ${P.site}.`, href: "/usa/custom-website-development/", size: "lg" },
       { name: "Distributor product catalogs", note: `Thousands of SKUs with spec tables, downloadable data sheets and filters buyers actually use, built as a searchable catalog with quote lists. From ${P.seoSite}.`, href: "/usa/ecommerce-website-development/", size: "lg" },
       { name: "B2B customer portals", note: `Reorders, order history, pricing by account and document downloads behind a login, connected to the systems you already run. From ${P.software}.`, href: "/usa/customer-portal-development/", size: "md" },
-      { name: "Restaurant and hospitality sites", note: "Menus written as text so search engines and screen readers can read them, links to your ordering and reservation tools, and a catering enquiry form.", href: "/usa/restaurant-website-design/", size: "md" },
+      { name: "Restaurant and hospitality sites", note: "Menus written as text so search engines and screen readers can read them, links to your ordering and reservation tools, and a catering enquiry form.", href: "/usa/small-business-website-design/", size: "md" },
       { name: "Law, CPA and consulting sites", note: "Practice or service pages with real substance, attorney and partner bios, and intake forms that ask the right first questions.", href: "/usa/law-firm-website-design/", size: "md" },
       { name: "Sales dashboards", note: "Quote volume, win rates and web leads pulled into one view from your CRM, spreadsheets and analytics, refreshed on a schedule.", href: "/usa/custom-dashboard-development/", size: "sm" },
       { name: "Technical SEO for catalogs", note: `Crawl, indexing and duplicate-content fixes for large product sites, with monthly work from ${P.seo}.`, href: "/usa/technical-seo-services/", size: "sm" },
@@ -167,7 +167,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A restaurant site needs the menu as readable text, hours that are always correct, one-tap links to order and reserve, and a private-events or catering page that captures real enquiries. Everything else is secondary.`,
         `Chicago diners check menus on phones while deciding where to go, often in a hurry. A menu saved as a PDF or an image is slow, hard to read and invisible to search engines and screen readers. We build menus as structured text that is easy for your staff to update, and link to whichever ordering and reservation tools you already use rather than forcing a switch.`,
-        `Private events and catering are often where the margin is, especially for places in the Loop, River North and West Loop that host office groups. A dedicated page with capacity, sample menus, photos of the space and a form that asks for date, headcount and budget turns vague emails into quotable leads. Our <a href='/usa/restaurant-website-design/'>restaurant website design</a> page goes deeper.`,
+        `Private events and catering are often where the margin is, especially for places in the Loop, River North and West Loop that host office groups. A dedicated page with capacity, sample menus, photos of the space and a form that asks for date, headcount and budget turns vague emails into quotable leads. Our <a href='/usa/small-business-website-design/'>small business website design</a> page goes deeper.`,
       ],
     },
     {
@@ -176,7 +176,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Professional-service sites win consultations with specifics: what you handle, for whom, how the first conversation works and who will do the work. Generic “full service” language gives a prospect no reason to call you rather than the next name in the results.`,
         `We build practice or service pages that each answer the questions a prospective client would ask on a first call, bios that list real credentials and focus areas, and intake forms that collect enough to screen the enquiry without asking for sensitive details up front. For law practices, advertising and disclaimer rules come from the Illinois rules of professional conduct and your own review; we build the pages and the disclaimer placements you specify.`,
-        `Accounting and advisory firms often need a secure file-exchange link and seasonal appointment booking. We link to the portal or scheduling tool you already license and make sure it works well on phones. See <a href='/usa/law-firm-website-design/'>law firm website design</a> and <a href='/usa/cpa-firm-website-design/'>CPA firm website design</a> for industry-specific detail.`,
+        `Accounting and advisory firms often need a secure file-exchange link and seasonal appointment booking. We link to the portal or scheduling tool you already license and make sure it works well on phones. See <a href='/usa/law-firm-website-design/'>law firm website design</a> and <a href='/usa/customer-portal-development/'>secure client portals</a> for industry-specific detail.`,
       ],
     },
     {
@@ -195,7 +195,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Beyond BIPA, a Chicago site should be built for accessibility, honest about what it tracks, and ready for customers from states with broader privacy laws. None of that is expensive when it is designed in from the start.`,
         `Accessibility first. The US Department of Justice’s 2022 web guidance says the ADA’s requirements apply to goods and services offered by public accommodations, including those offered on the web, and cites the Web Content Accessibility Guidelines as helpful guidance. We build and test to WCAG 2.2 AA as a working target: labeled form fields, keyboard access through menus and RFQ forms, sufficient contrast and captions on video.`,
-        `Tracking second. Many B2B sites run several marketing and chat scripts that nobody has reviewed in years. We list what each script collects, remove what is not used and set up a consent tool where your counsel wants one. Chicago businesses that sell nationally may have customers in California, Texas or other states with their own privacy laws; our <a href='/usa/ccpa-compliant-website/'>CCPA-compliant website</a> page covers the California side and our <a href='/usa/web-developer-for-houston-businesses/'>Houston page</a> covers the Texas act. Your lawyer decides which laws apply; we make the site capable of meeting them.`,
+        `Tracking second. Many B2B sites run several marketing and chat scripts that nobody has reviewed in years. We list what each script collects, remove what is not used and set up a consent tool where your counsel wants one. Chicago businesses that sell nationally may have customers in California, Texas or other states with their own privacy laws; our <a href='/usa/web-developer-for-los-angeles-businesses/'>Los Angeles page</a> covers the California side and our <a href='/usa/web-developer-for-houston-businesses/'>Houston page</a> covers the Texas act. Your lawyer decides which laws apply; we make the site capable of meeting them.`,
       ],
     },
     {
@@ -229,7 +229,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `For B2B sites, search visibility comes from specific pages: one per process, product line or service, each with facts a buyer would search for. For local businesses, it also depends on a consistent Google Business Profile and reviews.`,
         `Buyers search in specifics: “aluminum anodizing Chicago,” “316 stainless flanges distributor,” “small business tax accountant Evanston.” Pages built around those terms, with the details stated as text rather than locked in images, are what search engines and AI assistants can match and quote. We add structured data for your organization, products and local business details, and connect Google Search Console at launch so you can see which queries bring impressions.`,
-        `Speed is part of it. We aim for Google’s Core Web Vitals thresholds on key templates, which web.dev defines as Largest Contentful Paint within 2.5 seconds, Interaction to Next Paint of 200 milliseconds or less and Cumulative Layout Shift of 0.1 or less at the 75th percentile. No one can promise a ranking; we can make the site easy to crawl, fast and specific. Ongoing SEO starts at ${P.seo} a month if you want help after launch.`,
+        `Speed is part of it. We aim for Google’s Core Web Vitals thresholds on key templates, which web.dev defines as Largest Contentful Paint within 2.5 seconds, Interaction to Next Paint of 200 milliseconds or less and Cumulative Layout Shift of 0.1 or less at the 75th percentile. No one can promise a ranking; we can make the site easy to crawl, fast and specific. Ongoing SEO starts at ${P.seo} if you want help after launch.`,
       ],
     },
     {
@@ -278,7 +278,7 @@ const content: FreelanceContent = {
       heading: "Serving Chicagoland, Illinois and other US cities",
       paragraphs: [
         `The same process works across Chicagoland and the rest of the US. Only the call window and a few state rules change, and the build adjusts to where your customers are, not only where you are based.`,
-        `Many Chicago businesses sell across the Midwest or nationwide, and some have plants or offices in Texas or California. We can structure one site with location pages that genuinely describe each facility, or separate sites where the businesses are distinct. For Texas operations, see how we handle <a href='/usa/web-developer-for-dallas-businesses/'>multi-location sites for Dallas businesses</a>; for coastal teams, our <a href='/usa/web-developer-for-new-york-businesses/'>New York page</a> covers Eastern-time work.`,
+        `Many Chicago businesses sell across the Midwest or nationwide, and some have plants or offices in Texas or California. We can structure one site with location pages that genuinely describe each facility, or separate sites where the businesses are distinct. For Texas operations, see how we handle <a href='/usa/web-developer-for-houston-businesses/'>multi-location sites for Houston businesses</a>; for coastal teams, our <a href='/usa/web-developer-for-new-york-businesses/'>New York page</a> covers Eastern-time work.`,
         `Wherever you are, you keep ownership, receive itemized USD quotes and get two months of free fixes after launch, then optional maintenance from ${P.care}.`,
       ],
     },
@@ -392,12 +392,12 @@ const content: FreelanceContent = {
     links: [
       { name: "Web developer for Los Angeles businesses", href: "/usa/web-developer-for-los-angeles-businesses/" },
       { name: "Web developer for Houston businesses", href: "/usa/web-developer-for-houston-businesses/" },
-      { name: "Web developer for Dallas businesses", href: "/usa/web-developer-for-dallas-businesses/" },
+      { name: "Web developer for Miami businesses", href: "/usa/web-developer-for-miami-businesses/" },
       { name: "Web developer for New York businesses", href: "/usa/web-developer-for-new-york-businesses/" },
       { name: "Customer portal development", href: "/usa/customer-portal-development/" },
       { name: "Custom software development", href: "/usa/custom-software-development/" },
       { name: "Technical SEO services", href: "/usa/technical-seo-services/" },
-      { name: "Restaurant website design", href: "/usa/restaurant-website-design/" },
+      { name: "Local SEO services", href: "/usa/local-seo-services/" },
       { name: "Law firm website design", href: "/usa/law-firm-website-design/" },
       { name: "Custom dashboard development", href: "/usa/custom-dashboard-development/" },
       { name: "All services for US businesses", href: "/usa/" },

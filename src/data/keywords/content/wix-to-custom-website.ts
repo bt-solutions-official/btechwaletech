@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Wix to custom website",
   updated: "2026-09-24",
   meta: {
-    title: `Wix to Custom Website: Move Without Losing Google`,
-    description: `Wix to custom website migration: keep your rankings, domain and content, and own the code. Rebuilds from ${P.site}. What moves, what costs and how redirects work.`,
+    title: `Wix to Custom Website 2026: Keep Your Google Rankings`,
+    description: `Wix to custom website migration: keep your rankings, domain and content, and own the code. Rebuilds from ${P.site}. What moves, and how redirects work.`,
     keywords: [
       "wix to custom website", "wix to custom website migration", "move from wix to custom website", "migrate wix website",
       "wix migration India", "wix to custom website cost", "leave wix without losing seo", "wix to wordpress alternative",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "wix blog export", "website builder to custom code", "wix migration Delhi", "wix migration Mumbai",
       "wix migration Bangalore", "wix migration Pune", "wix migration Hyderabad", "own your website code",
       "wix too slow", "custom website developer India",
+      "wix to custom website price", "wix to custom website company", "best wix to custom website in India", "wix to custom website cost in India",
+      "wix to custom website near me",
     ],
   },
   hero: {

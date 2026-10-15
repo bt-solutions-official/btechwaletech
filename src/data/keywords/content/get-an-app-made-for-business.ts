@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `How to Get an App Made for My Business (from ${P.app})`,
-    description: `How to get an app made for my business: test if you need one, write the feature list, pick a builder, own the store accounts. Android and iOS apps from ${P.app}.`,
+    description: `How to get an app made for my business: test if you need one, write the feature list, pick a builder, own the accounts. Android and iOS apps from ${P.app}.`,
     keywords: [
       "how to get an app made for my business", "get an app made for my business", "how to get an app made", "app for my business",
       "how to make an app for my business", "get a business app developed", "business app development India", "cost to get an app made in India",
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Step 4", value: "Open Play Console and Apple Developer accounts in your name" },
       { label: "Step 5", value: `Build and publish: from ${P.app}, 6–10 weeks` },
       { label: "Store fees", value: "Google Play US$25 once; Apple US$99 a year" },
-      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Who you talk to", "Support tickets", "Account manager", "The developers, directly on WhatsApp"],
       ["Speed to version one", "Days to weeks", "Months, with formal phases", "6–10 weeks"],
       ["Performance on budget Android phones", "Depends on the builder", "Usually good", "Tested on low-end devices"],
-      ["After launch", "Stays on the builder's platform", "Paid support contract", `2 months free, then from ${P.care} a month`],
+      ["After launch", "Stays on the builder's platform", "Paid support contract", `2 months free, then from ${P.care}`],
       ["Team size ceiling", "Just you", "Large teams", "Three people; not built for 20-developer programmes"],
     ],
     fine: "If your app is really a simple internal form or checklist used by five staff, a no-code builder may be all you need; pay for custom development when customers will use it or when you must own the code.",
@@ -208,7 +208,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech an Android and iOS business app starts at ${P.app} (${P.appUsd}) and takes 6–10 weeks. The quote rises with the number of user types, real-time features, integrations and custom back-end work, not with the number of screens alone.`,
         `Across the market, quotes for "an app" vary widely because the word covers everything from a catalogue viewer to a two-sided marketplace. Clone scripts look cheap but often come with code you cannot safely change; large company quotes include project management layers you may not need. Compare scope first, then price. Our comparison of <a href='/readymade-app-vs-custom-app/'>readymade vs custom apps</a> covers the clone-script question.`,
-        `Budget for running costs as well: cloud hosting for the back end, the Apple Developer Program at US$99 a year, Google Play's one-time US$25 registration, any SMS or WhatsApp messaging charges, and maintenance from ${P.care} a month after the two free months end.`,
+        `Budget for running costs as well: cloud hosting for the back end, the Apple Developer Program at US$99 a year, Google Play's one-time US$25 registration, any SMS or WhatsApp messaging charges, and maintenance from ${P.care} after the two free months end.`,
       ],
       list: [
         "User types: each new role adds screens, permissions and testing",
@@ -272,7 +272,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `An app needs regular updates for new Android and iOS versions, fixes for issues real users find, security patches for its libraries, and small improvements based on how people actually use it. An app nobody updates starts breaking within a year or two as phones and store rules move on.`,
         `Google Play also sets target API level requirements that rise over time, so apps must be rebuilt against newer Android versions to keep receiving updates on the store. Apple regularly updates its SDK requirements for new submissions. These are not optional extras; they are the cost of staying listed.`,
-        `We include two months of free maintenance after release. After that, maintenance starts at ${P.care} a month and covers updates, monitoring crash reports, backups of the back end and small changes. New features are quoted separately. If you prefer, we hand everything to your own developer with documentation; you own the code, so the choice is yours.`,
+        `We include two months of free maintenance after release. After that, maintenance starts at ${P.care} and covers updates, monitoring crash reports, backups of the back end and small changes. New features are quoted separately. If you prefer, we hand everything to your own developer with documentation; you own the code, so the choice is yours.`,
       ],
     },
     {
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
     { question: "Should my business app be built in Flutter, React Native or native code?", answer: "For most business apps, Flutter or React Native is the practical choice because one codebase serves both Android and iPhone, lowering cost and keeping versions in step. Separate native apps suit heavy graphics or deep hardware features. We build in Flutter or React Native and test on budget Android phones common in India." },
     { question: "How do I write a feature list for my app?", answer: "List each type of user, then describe their main tasks as short step-by-step journeys in plain language. Add your business rules, such as delivery zones or dealer prices, and the systems the app must connect to. Tag every journey as must-have, should-have or later. This lets developers price the same scope and keeps version one focused." },
     { question: "Will I get the source code of my app?", answer: "With us, yes. The code lives in a Git repository owned by your business from the start, and at handover you receive admin logins, hosting access and a short technical note. Always get code ownership confirmed in writing before paying any developer, because without the code another developer cannot safely continue the app." },
-    { question: "What happens after my app is published?", answer: `The app needs updates for new Android and iOS versions, fixes for issues users report, security patches and small improvements. Google Play raises its target API level requirements over time, so neglected apps eventually cannot be updated. We include two months of free maintenance, then maintenance from ${P.care} a month if you want us to continue.` },
+    { question: "What happens after my app is published?", answer: `The app needs updates for new Android and iOS versions, fixes for issues users report, security patches and small improvements. Google Play raises its target API level requirements over time, so neglected apps eventually cannot be updated. We include two months of free maintenance, then maintenance from ${P.care} if you want us to continue.` },
     { question: "Why do apps get rejected by the App Store or Google Play?", answer: "Common reasons include missing or unclear privacy policies, inaccurate data-collection declarations, broken test logins for reviewers, crashes, and apps that are only a website wrapped in an app. Apple's guidelines say apps should offer more than a repackaged website. We prepare listings, privacy details and reviewer access carefully to reduce the chance of rejection." },
     { question: "Can my app take payments by UPI?", answer: "Yes, for physical goods and real-world services, such as product orders, deliveries or appointments, the app can use your payment gateway for UPI, cards and net banking. Digital content sold inside an iOS app, such as premium features or subscriptions to content, falls under Apple's in-app purchase rules, so we plan payment flows with that in mind." },
     { question: "How do I get customers to download my business app?", answer: "Start with the customers you already have. Promote the app at your counter with a QR code, on bills, in WhatsApp messages, on your website and in delivery packaging, with a reason to install such as a first-order discount or loyalty points. Ask satisfied users for store reviews. For staff apps, make the app the official way to log work." },

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance Software Developer in India: From ${P.software}`,
-    description: `Freelance software developer for portals, billing tools and internal systems, from ${P.software}. Scope, source code ownership, costs and timelines explained.`,
+    description: `Freelance software developer for portals, billing tools and internal systems: scope, source code ownership and timelines explained. From ${P.software}.`,
     keywords: [
       "freelance software developer", "freelance software developer in India", "freelance software developer near me", "freelance software developer for hire",
       "freelance software developer cost", "custom software developer price", "best freelance software developer", "software banwana hai",

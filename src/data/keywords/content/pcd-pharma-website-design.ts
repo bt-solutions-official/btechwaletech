@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "PCD pharma franchise website",
   updated: "2026-09-25",
   meta: {
-    title: `PCD Pharma Franchise Website Design from ${P.site}`,
+    title: `PCD Pharma Website Design: Franchise Sites ${P.site}`,
     description: `PCD pharma franchise website with composition-wise product list, territory pages, visual aid downloads and enquiry routing. Sites from ${P.site}.`,
     keywords: [
       "PCD pharma franchise website", "PCD pharma website design", "pharma franchise website development", "PCD pharma company website",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "PCD pharma franchise website Baddi", "PCD pharma SEO", "PCD pharma franchise in Bihar website", "third party pharma manufacturing website",
       "pharma franchise enquiry form", "PCD pharma website kaise banaye", "derma PCD franchise website", "ayurvedic PCD franchise website",
       "pharma division website design", "PCD pharma franchise website near me",
+      "PCD pharma franchise website price", "PCD pharma franchise website company", "best PCD pharma franchise website in India", "PCD pharma franchise website cost in India",
     ],
   },
   hero: {
@@ -424,7 +425,7 @@ const content: FreelanceContent = {
       ["Clean and import products", "We send a template sheet, your team fills or corrects it, and we import the catalogue with consistent compositions, packing and division tags."],
       ["Review on a staging link", "You search the catalogue, check territory pages and submit test enquiries from different states to confirm each reaches the right manager."],
       ["Launch in your accounts", "The site goes live on your domain and hosting, the sitemap is submitted in Search Console, and your team gets admin logins and a short guide."],
-      ["Support for two months, free", `Fixes, updates and small changes cost nothing for two months. After that, maintenance from ${P.care} a month is optional, or you can move it in-house.`],
+      ["Support for two months, free", `Fixes, updates and small changes cost nothing for two months. After that, maintenance from ${P.care} is optional, or you can move it in-house.`],
     ],
   },
   faqHeading: "PCD pharma franchise website: questions franchise companies ask",
@@ -446,7 +447,7 @@ const content: FreelanceContent = {
     { question: "How should third-party manufacturing be shown on the website?", answer: "State it honestly. Name the manufacturing unit's location and the certificates it holds, with validity, and upload certificate images only with the manufacturer's permission. Partners understand the third-party model; what damages trust is implying ownership of a unit you do not own. A separate page can handle enquiries for third-party manufacturing if you offer it." },
     { question: "Will AI assistants recommend my franchise company?", answer: "They may cite your pages if facts are clear and consistent: divisions, product counts, packing options, states served and how territory allocation works. Short FAQ answers and structured data help. No one can force an assistant to mention you, and exaggerated claims can hurt when repeated, so accurate pages are the most dependable approach." },
     { question: "Is a freelance team suitable for a PCD pharma franchise website?", answer: "Yes, if the scope fits. A small freelance team like BtechWaleTech builds catalogues, territory pages, lead routing and partner portals directly, with you talking to the developers. It suits franchise companies that want to move in stages. Very large programmes needing big in-house teams or on-site work are better suited to larger providers." },
-    { question: "What maintenance does a franchise website need?", answer: `Adding new launches, updating territory status, uploading new visual aids, security updates, backups and checking that lead routing works. BtechWaleTech includes two months of free maintenance after launch. After that, maintenance is optional from ${P.care} a month, and your team can handle routine product and status updates through the admin panel.` },
+    { question: "What maintenance does a franchise website need?", answer: `Adding new launches, updating territory status, uploading new visual aids, security updates, backups and checking that lead routing works. BtechWaleTech includes two months of free maintenance after launch. After that, maintenance is optional from ${P.care}, and your team can handle routine product and status updates through the admin panel.` },
     { question: "How are payments and contracts handled?", answer: "You get a written, itemised quote with scope, stages and timeline in about two working days. Nothing is billed before you approve it in writing. Payments in India are by UPI or bank transfer. Confidentiality and other specific terms are agreed in the quote; our published terms and refund policy cover general conditions." },
     { question: "Can the website be in Hindi as well as English?", answer: "Yes. Many franchise seekers in north and central India are comfortable in Hindi, so a Hindi version of key pages such as the franchise opportunity, territory and contact pages can help. The team writes English and Hindi; other languages can be added with text you supply or approve." },
     { question: "PCD pharma franchise website banwane mein kitna time lagta hai?", answer: `Product sheet ready ho to basic PCD pharma franchise website 1 se 2 hafte mein ban jaati hai, jo ${P.site} se shuru hoti hai. State aur district pages wali 299+ page website 3 se 5 hafte leti hai. Pehle itemised quote milta hai aur aapke written approval ke baad hi billing hoti hai.` },

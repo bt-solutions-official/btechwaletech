@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Webflow Developer for Hire: Figma to Webflow, ${P.site}+`,
-    description: `Webflow developer for hire for US startups and agencies: Figma-to-Webflow builds from ${P.site}, CMS collections, Localization, schema and editor-friendly components.`,
+    description: `Webflow developer for hire for US startups and agencies: Figma-to-Webflow builds from ${P.site}, CMS collections, Localization and editor-friendly components.`,
     keywords: [
       "webflow developer for hire", "hire webflow developer", "webflow developer", "freelance webflow developer",
       "webflow expert for hire", "remote webflow developer", "figma to webflow developer", "figma to webflow service",

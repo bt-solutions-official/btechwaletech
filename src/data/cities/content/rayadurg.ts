@@ -5,9 +5,9 @@ const rayadurg: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 14.7, lng: 76.8667 },
   meta: {
-    title: "IT Services in Rayadurg | Web, Apps & AI from ₹10,000",
+    title: "Rayadurg Website Design for Jeans & Garment Units",
     description:
-      "Websites, Android and iOS apps, SEO and WhatsApp order tools for Rayadurg jeans units, garment traders, fort-town shops, clinics and schools. Sites from ₹10,000.",
+      "Rayadurg websites, SEO and WhatsApp order tools for jeans and garment units, job-work stitching families and fabric dealers. Sites from ₹10,000.",
     keywords: [
       "IT services in Rayadurg",
       "IT services team in Rayadurg",
@@ -29,6 +29,16 @@ const rayadurg: CityContent = {
       "Rayadurg me website banwana",
       "Rayadurgam lo website cheyinchali",
       "రాయదుర్గం వెబ్‌సైట్ డిజైన్",
+      "Rayadurg website designer",
+      "web development company Rayadurg",
+      "hire freelance web developer Rayadurg",
+      "Anantapur district SEO",
+      "website designer Anantapur district",
+      "Andhra Pradesh SEO services",
+      "Rayadurg me website kaise banwaye",
+      "Rayadurg website banwane ka kharcha",
+      "website design Fort area Rayadurg",
+      "website design Shanthinagar Rayadurg",
     ],
   },
   hero: {

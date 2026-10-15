@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 16.3067, lng: 80.4365 },
   meta: {
-    title: "Freelance IT & Software Developers in Guntur",
+    title: "Guntur Software Developers: Chilli Yard & Tobacco Trade",
     description:
-      "Freelance IT and software developers in Guntur: chilli trade software, hospital and college systems, apps, AI agents and SEO. From ₹10,000, itemised quote in 2 days.",
+      "Freelance IT and software developers in Guntur: chilli trade software, hospital and college systems, plus apps. From ₹10,000, itemised quote in 2 days.",
     keywords: [
       "software development team in Guntur",
       "IT services team in Guntur",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "iOS app development Guntur",
       "mobile app developers in Guntur",
       "iPhone app developers Guntur",
+      "Guntur website designer",
+      "website cost in Guntur",
+      "IT company in Guntur",
+      "Andhra Pradesh SEO services",
+      "hire developer Guntur",
+      "chilli commission software in Guntur",
     ],
   },
   hero: {

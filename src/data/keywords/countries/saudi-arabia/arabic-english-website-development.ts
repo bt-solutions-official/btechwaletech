@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "arabic website design riyadh", "arabic website design jeddah", "arabic website design dammam",
       "bilingual corporate website ksa", "arabic english wordpress website", "arabic english ecommerce website",
       "translate website to arabic", "arabic seo website",
+      "hire arabic english website design in Saudi Arabia", "freelance arabic english website design Saudi Arabia",
     ],
   },
   hero: {

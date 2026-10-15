@@ -7,7 +7,7 @@ const jammu: CityContent = {
   meta: {
     title: "IT Services in Jammu: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO and WhatsApp automation for Jammu traders, hotels, clinics and Bari Brahmana units. Sites from ₹10,000, itemised quotes, you own everything.",
+      "Jammu websites, local SEO and WhatsApp bots for traders, hotels, clinics and Bari Brahmana units. Sites from ₹10,000, itemised quotes, you own everything.",
     keywords: [
       "website development team in Jammu",
       "web designer Jammu",
@@ -25,6 +25,14 @@ const jammu: CityContent = {
       "freelance web developer Jammu",
       "Jammu website banane wala",
       "जम्मू में वेबसाइट डिज़ाइन",
+      "Jammu website designer",
+      "web development company Jammu",
+      "hire freelance developer Jammu",
+      "Jammu and Kashmir SEO",
+      "Jammu me website kaise banwaye",
+      "website for hotels and pilgrim travel in Jammu",
+      "web designer in Raghunath Bazaar, Jammu",
+      "website for dry fruits and local produce in Jammu",
     ],
   },
   hero: {

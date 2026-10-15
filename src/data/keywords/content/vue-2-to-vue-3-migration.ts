@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Vue 2 to Vue 3 migration",
   updated: "2026-09-25",
   meta: {
-    title: `Vue 2 to Vue 3 Migration: Safe Production Upgrade`,
+    title: `Vue 2 to Vue 3 Migration: Safe Upgrade Guide (2026)`,
     description: `Vue 2 to Vue 3 migration for production apps: @vue/compat, Vuex to Pinia, Vuetify and Nuxt upgrades, and honest estimates. Upkeep from ${P.care} after launch.`,
     keywords: [
       "vue 2 to vue 3 migration", "vue 2 to vue 3 upgrade", "migrate vue 2 to vue 3", "vue 3 migration guide",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "vue router 3 to 4 migration", "vue 2 security vulnerabilities after eol", "vue 3 breaking changes", "options api to composition api",
       "hire vue developer for migration", "vue 2 to vue 3 migration freelancer", "vue 2 se vue 3 upgrade", "vue upgrade Bangalore",
       "vue upgrade Pune", "vue 2 to vue 3 fixed price or hourly",
+      "Vue 2 to Vue 3 migration price", "Vue 2 to Vue 3 migration company", "best Vue 2 to Vue 3 migration in India", "Vue 2 to Vue 3 migration cost in India",
+      "Vue 2 to Vue 3 migration service",
     ],
   },
   hero: {

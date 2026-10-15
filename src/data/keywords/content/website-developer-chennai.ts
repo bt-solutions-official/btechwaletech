@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Ambattur", "website developer T Nagar", "website developer Tambaram", "website developer Porur",
       "Tamil website developer Chennai", "Tamil and English website Chennai", "website developer Madras", "manufacturer website Chennai",
       "Chennai me website kaise banwaye", "website banane wala Chennai", "best website developer in Chennai",
+      "website developer in Chennai cost", "website developer in Chennai price", "hire website developer in Chennai", "freelance website developer in Chennai",
+      "website developer in Chennai charges",
     ],
   },
   hero: {

@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 27.0844, lng: 93.6053 },
   meta: {
-    title: "Hire Freelance Software Developers in Itanagar",
+    title: "Itanagar Software Developers: Schools & Civil Contractors",
     description:
       "Hire freelance software developers in Itanagar for school and clinic systems, contractor apps, Android and iOS apps, AI automation and SEO. Quote in 2 days.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT support Naharlagun Nirjuli",
       "ईटानगर में सॉफ्टवेयर डेवलपर",
       "ईटानगर वेबसाइट बनवाना",
+      "Itanagar website designer",
+      "website cost in Itanagar",
+      "IT company in Itanagar",
+      "Arunachal Pradesh SEO services",
+      "hire developer Itanagar",
+      "schools software in Itanagar",
+      "civil contractors software in Itanagar",
+      "clinics software in Itanagar",
+      "hotels software in Itanagar",
+      "website developer Ganga Market Itanagar",
     ],
   },
   hero: {

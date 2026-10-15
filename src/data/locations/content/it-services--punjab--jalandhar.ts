@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 31.326, lng: 75.5762 },
   meta: {
-    title: "Freelance Software Developers in Jalandhar",
+    title: "Jalandhar Software Developers: Sports Goods & Tanneries",
     description:
       "Hire freelance software developers in Jalandhar for sports-goods export tools, leather and fittings ERPs, immigration CRMs, AI agents and apps. From ₹40,000.",
     keywords: [
@@ -22,7 +22,7 @@ const content: CityContent = {
       "IELTS institute software Jalandhar",
       "WhatsApp automation Jalandhar",
       "AI chatbot Jalandhar",
-            "custom web application Jalandhar",
+      "custom web application Jalandhar",
       "B2B catalogue for sports goods exporters",
       "software developer near Basti Sheikh",
       "IT services near Model Town Jalandhar",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "Doaba software developers",
       "ਜਲੰਧਰ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਰ",
       "जालंधर में सॉफ्टवेयर डेवलपर",
+      "Jalandhar website designer",
+      "website cost in Jalandhar",
+      "IT company in Jalandhar",
+      "Punjab SEO services",
+      "hire developer Jalandhar",
+      "sports software in Jalandhar",
+      "leather tanneries software in Jalandhar",
+      "hand tools software in Jalandhar",
     ],
   },
   hero: {

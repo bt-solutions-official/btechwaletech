@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "nonprofit website ottawa", "charity website montreal", "nonprofit website calgary", "nonprofit web designer near me",
       "wordpress website for nonprofit canada", "donation page best practices canada", "who owns a charity website",
       "free website for nonprofits canada",
+      "hire nonprofit website design in Canada", "freelance nonprofit website design Canada",
     ],
   },
   hero: {

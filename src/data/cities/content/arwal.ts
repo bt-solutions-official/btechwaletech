@@ -7,7 +7,7 @@ const arwal: CityContent = {
   meta: {
     title: "IT Services in Arwal | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Arwal coaching centres, clinics, grain and input traders and building material dealers.",
+      "Arwal Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for coaching centres and clinics. Sites from ₹10,000, apps from ₹40,000.",
     keywords: [
       "IT services in Arwal",
       "IT services team in Arwal",
@@ -29,6 +29,10 @@ const arwal: CityContent = {
       "Arwal me website banwana",
       "Arwal me app banwane ka kharcha",
       "अरवल वेबसाइट डिजाइन",
+      "Arwal website designer",
+      "web development company Arwal",
+      "hire freelance developer Arwal",
+      "Bihar SEO",
     ],
   },
   hero: {

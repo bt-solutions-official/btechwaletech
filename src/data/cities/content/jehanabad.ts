@@ -7,7 +7,7 @@ const jehanabad: CityContent = {
   meta: {
     title: "IT Services in Jehanabad: Websites, Apps, SEO & AI",
     description:
-      "Websites, Google Maps setup and WhatsApp automation for Jehanabad sattu and besan makers, grain traders, clinics, schools and coaching. From ₹10,000, fully yours.",
+      "Jehanabad websites, Google Maps setup and WhatsApp bots for sattu and besan makers, grain traders, clinics, schools and coaching. From ₹10,000, fully yours.",
     keywords: [
       "website development team in Jehanabad",
       "web designer Jehanabad",
@@ -25,6 +25,14 @@ const jehanabad: CityContent = {
       "freelance web developer Jehanabad",
       "website maintenance Jehanabad",
       "जहानाबाद वेबसाइट डिज़ाइन",
+      "Jehanabad website designer",
+      "website cost in Jehanabad",
+      "web development company Jehanabad",
+      "hire freelance developer Jehanabad",
+      "Bihar SEO",
+      "Jehanabad me website kaise banwaye",
+      "website for sattu and besan units in Jehanabad",
+      "web designer in Station Road, Jehanabad",
     ],
   },
   hero: {

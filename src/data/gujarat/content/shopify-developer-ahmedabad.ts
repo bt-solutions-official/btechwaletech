@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Shipping", value: "Rates by weight, zone or cart value; COD rules you set" },
       { label: "Apps", value: "Only those that earn their monthly fee" },
       { label: "Access", value: "You own the store; we work as collaborators" },
-      { label: "Care", value: `2 months free, then optional from ${P.care} a month` },
+      { label: "Care", value: `2 months free, then optional from ${P.care}` },
     ],
   },
   services: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Migration to Shopify", note: "Products, customers and order history moved from WooCommerce or another platform, with old URLs redirected.", href: "/gujarat/website-redesign-ahmedabad/", size: "md" },
       { name: "WhatsApp on Shopify", note: "Chat buttons, order updates through the WhatsApp Business API and abandoned-cart reminders, subject to WhatsApp's rules.", href: "/shopify-whatsapp-integration/", size: "sm" },
       { name: "Shopify SEO", note: "Collection copy, product schema checks, redirects and Search Console, so products can be found outside paid ads.", href: "/shopify-seo-expert/", size: "sm" },
-      { name: "Store care", note: `Free for two months after launch, then optional from ${P.care} a month.`, href: "/shopify-maintenance-services/", size: "sm" },
+      { name: "Store care", note: `Free for two months after launch, then optional from ${P.care}.`, href: "/shopify-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -193,7 +193,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Shopify stores are slowed mostly by apps, oversized images and heavy themes, and found mostly through good product and collection pages. Both problems are fixable without leaving Shopify.`,
         `For speed, we compress and correctly size images, limit app scripts to pages that need them, lazy-load below-the-fold media and avoid sliders on the home page. We test on budget Android phones over mobile data, since that is how many Indian buyers shop.`,
-        `For search, every collection gets a short written intro that answers what the buyer is looking for, products get unique descriptions rather than supplier text, and image alt text is filled. We check the theme's product schema, set up redirects for any changed URLs, verify Search Console and submit a product feed to Merchant Center. Nobody can guarantee rankings, but complete, honest product pages give you the best chance in search and in AI shopping answers. Ongoing work is available from ${P.seo} a month through our <a href='/shopify-seo-expert/'>Shopify SEO</a> service.`,
+        `For search, every collection gets a short written intro that answers what the buyer is looking for, products get unique descriptions rather than supplier text, and image alt text is filled. We check the theme's product schema, set up redirects for any changed URLs, verify Search Console and submit a product feed to Merchant Center. Nobody can guarantee rankings, but complete, honest product pages give you the best chance in search and in AI shopping answers. Ongoing work is available from ${P.seo} through our <a href='/shopify-seo-expert/'>Shopify SEO</a> service.`,
       ],
     },
     {
@@ -202,7 +202,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A full Shopify store with us starts at ${P.shop} (about ${P.shopUsd}). Smaller jobs are quoted individually after we look at the store.`,
         `The build figure moves with product count and how messy the data is, the depth of theme customisation, the number of collections and filters, and integrations with courier, accounting or WhatsApp tools. Writing product descriptions or editing photos is optional and priced separately.`,
-        `Running costs come from others: Shopify's monthly plan, any paid theme, app subscriptions, payment-provider fees and courier charges. Ask any developer to list these alongside the build price, because over two years they can exceed it. Store care is free for two months after launch and optional from ${P.care} a month after that.`,
+        `Running costs come from others: Shopify's monthly plan, any paid theme, app subscriptions, payment-provider fees and courier charges. Ask any developer to list these alongside the build price, because over two years they can exceed it. Store care is free for two months after launch and optional from ${P.care} after that.`,
         `For national figures read <a href='/shopify-store-cost-in-india/'>Shopify store cost in India</a>; for every kind of Ahmedabad build see the <a href='/gujarat/website-development-cost-ahmedabad/'>Ahmedabad website cost guide</a>.`,
       ],
     },
@@ -248,7 +248,7 @@ const content: FreelanceContent = {
       id: "after",
       heading: "After launch: store care, ownership and brands outside Ahmedabad",
       paragraphs: [
-        `For two months after launch, store care is free: fixing anything that misbehaves, small theme edits, help with the first busy weeks and app checks. After that, optional care starts at ${P.care} a month and focuses on payments, app updates, theme changes before seasonal sales and speed.`,
+        `For two months after launch, store care is free: fixing anything that misbehaves, small theme edits, help with the first busy weeks and app checks. After that, optional care starts at ${P.care} and focuses on payments, app updates, theme changes before seasonal sales and speed.`,
         `You remain the owner of the Shopify account, the domain, the payment-provider account and every app subscription. If you stop working with us, you remove collaborator access and nothing else changes. At handover your team receives a short video on adding products, processing orders and issuing refunds.`,
         `Brands in Gandhinagar, Surat and smaller towns across Gujarat use the same remote process. Surat labels can start with our <a href='/gujarat/shopify-developer-surat/'>Shopify developer page for Surat</a>, and the statewide view sits on Shopify developers in Gujarat. For apps, automation and other IT work in the city, see our <a href='/ahmedabad/'>Ahmedabad services page</a>.`,
       ],
@@ -342,7 +342,7 @@ const content: FreelanceContent = {
       ["Store in your name", "You open the Shopify account or receive a development store's ownership; we join through collaborator access you approve."],
       ["Theme and products", "Theme work on an unpublished copy you preview on your phone, plus a product import from one spreadsheet."],
       ["Payments, shipping, taxes, tests", "Provider connected, zones and COD rules set, tax settings confirmed with your CA, and real low-value orders placed and refunded."],
-      ["Launch and free care", `Domain connected, password removed, first orders watched together. Care is free for two months, then optional from ${P.care} a month.`],
+      ["Launch and free care", `Domain connected, password removed, first orders watched together. Care is free for two months, then optional from ${P.care}.`],
     ],
   },
   faqHeading: "Shopify developer in Ahmedabad: frequently asked questions",
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
     { question: "Can you connect Shopify to my courier account?", answer: "Yes. Most couriers and aggregators offer a Shopify app; we install and test it with your account so orders flow to the courier panel, labels are generated and tracking numbers return to Shopify. Accurate product weights and shipping zones make this work properly, so we collect them during product import." },
     { question: "Is Shopify suitable for wholesale or B2B selling?", answer: `For simple wholesale, such as a few price tiers and minimum quantities, Shopify can work with apps. For dealer-specific price lists, quotes, approvals or complex ordering rules, a custom B2B portal often costs less over time. Portals start at ${P.software}. We will recommend the option that fits after seeing your current price lists.` },
     { question: "Do you work with Shopify brands outside Ahmedabad?", answer: "Yes. The BtechWaleTech team works remotely, so brands in Gandhinagar, Surat, Vadodara, Rajkot and across India use the same process: scope over video, work on an unpublished theme, review on your own phone and launch together. Location never changes the starting price or how the work is organised." },
-    { question: "What does Shopify store care include after launch?", answer: `The first two months after launch are free and cover fixes, small theme edits, app checks and help during the first busy weeks. After that, optional care starts at ${P.care} a month and focuses on payments, app updates, theme changes before seasonal sales and speed. You can also run the store yourself.` },
+    { question: "What does Shopify store care include after launch?", answer: `The first two months after launch are free and cover fixes, small theme edits, app checks and help during the first busy weeks. After that, optional care starts at ${P.care} and focuses on payments, app updates, theme changes before seasonal sales and speed. You can also run the store yourself.` },
     { question: "Can you add WhatsApp to my Shopify store?", answer: "Yes. A chat button can sit on product pages so buyers ask questions before ordering. Order confirmations and dispatch updates can be sent through the WhatsApp Business API using an approved provider, quoted as its own line. Abandoned-cart reminders are possible when buyers have agreed to receive messages, within WhatsApp's own rules." },
     { question: "Should I build on Shopify or hire a developer for a custom store?", answer: "Choose Shopify when speed to launch and low upkeep matter most and your selling rules are standard. Choose a custom store when you need unusual pricing, dealer logins or deep integration with your own systems. A Shopify developer in Ahmedabad should explain both honestly before you commit to either platform." },
     { question: "Shopify store banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath poora Shopify store ${P.shop} se shuru hota hai, jismein theme, products, UPI aur card payments, shipping, tax settings aur launch testing shamil hain. Shopify plan aur apps ka kharcha aap seedha Shopify ko dete hain. Store aapke naam par rehta hai aur launch ke baad 2 mahine care free hai.` },

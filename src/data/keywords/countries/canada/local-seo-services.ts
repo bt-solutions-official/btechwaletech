@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "how to get more google reviews canada", "canadian business directories for seo", "yellowpages.ca listing",
       "homestars profile seo", "service area pages gta", "local seo near me", "local seo for contractors canada",
       "local seo for dentists canada", "remote local seo team",
+      "hire local seo services in Canada", "freelance local seo services Canada",
     ],
   },
   hero: {
@@ -47,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How does a Canadian service business get into the Google map pack in several cities?",
-    text: `Get the Google Business Profile accurate and complete, build matching listings on Canadian directories, publish a genuinely useful page for each city or suburb you serve, and collect real reviews steadily. Google ranks local results on relevance, distance and prominence, so no one can guarantee a spot. Our local SEO services start at ${P.seo} a month.`,
+    text: `Get the Google Business Profile accurate and complete, build matching listings on Canadian directories, publish a genuinely useful page for each city or suburb you serve, and collect real reviews steadily. Google ranks local results on relevance, distance and prominence, so no one can guarantee a spot. Our local SEO services start at ${P.seo}.`,
     more: `Need the site fixed first? See <a href='/canada/technical-seo-services/'>technical SEO for Canadian sites</a>, or check <a href='/canada/seo-pricing/'>what SEO costs in Canada</a> before you budget.`,
   },
   snapshot: {
@@ -82,7 +83,7 @@ const content: FreelanceContent = {
     note: "Local SEO is sold as retainers, as listing software, or as hands-on freelance work. Each carries a different mix of cost, effort and ownership.",
     columns: ["Aspect", "Canadian local SEO agency", "Listings software subscription", "BtechWaleTech"],
     rows: [
-      ["What you pay for", "Account managers, reporting and staff time", "Automatic directory syncing", `Hands-on work from ${P.seo} a month`],
+      ["What you pay for", "Account managers, reporting and staff time", "Automatic directory syncing", `Hands-on work from ${P.seo}`],
       ["Google Business Profile", "Usually managed, sometimes in their account", "Partly synced; strategy is yours", "Managed inside your account, you stay primary owner"],
       ["Area pages", "Often written, quality varies", "Not included", "Written per suburb with real local detail"],
       ["Citations", "Built manually or via tools", "Pushed to partner sites while subscribed", "Built manually on Canadian directories you keep"],
@@ -345,8 +346,8 @@ const content: FreelanceContent = {
       note: `Monthly work starts at ${P.seo}; multi-city site builds start at ${P.seoSite}. See <a href='/pricing/'>every starting price</a>.`,
       columns: ["Footprint", "Typical business", "Main work", "Starting point"],
       rows: [
-        ["One location, one town", "Clinic, salon, café", "Profile, citations, reviews", `From ${P.seo} a month`],
-        ["One base, several suburbs", "Trades, cleaners, movers", "Service areas, suburb pages, reviews", `From ${P.seo} a month plus pages`],
+        ["One location, one town", "Clinic, salon, café", "Profile, citations, reviews", `From ${P.seo}`],
+        ["One base, several suburbs", "Trades, cleaners, movers", "Service areas, suburb pages, reviews", `From ${P.seo} plus pages`],
         ["Region-wide service area", "Home services across the GTA or Lower Mainland", "Area-page network, citation cleanup", `Site from ${P.seoSite}, then monthly`],
         ["Several staffed locations", "Dental or physio group", "One profile and page per location", "Quoted per location"],
         ["English and French markets", "Business serving Ontario and Quebec", "fr-CA pages, French listings", "French pages quoted separately"],

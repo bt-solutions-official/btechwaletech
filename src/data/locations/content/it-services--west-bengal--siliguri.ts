@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.7271, lng: 88.3953 },
   meta: {
-    title: "Freelance Software Developers in Siliguri",
+    title: "Siliguri Software Developers: FMCG, Transport & Travel",
     description:
       "Freelance software developers for Siliguri, an alternative to a software development team: custom software, web apps, AI automation and SEO from ₹10,000.",
     keywords: [
@@ -33,6 +33,12 @@ const content: CityContent = {
       "IT services North Bengal",
       "শিলিগুড়িতে সফটওয়্যার কোম্পানি",
       "Siliguri mein software banane wali company",
+      "Siliguri website designer",
+      "website cost in Siliguri",
+      "IT company in Siliguri",
+      "West Bengal SEO services",
+      "hire developer Siliguri",
+      "fmcg software in Siliguri",
     ],
   },
   hero: {

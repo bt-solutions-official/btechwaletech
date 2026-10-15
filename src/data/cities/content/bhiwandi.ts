@@ -7,7 +7,7 @@ const bhiwandi: CityContent = {
   meta: {
     title: "Bhiwandi Website & Software Developers | From ₹10,000",
     description:
-      "Websites, warehouse software, SEO and WhatsApp automation for Bhiwandi powerloom units, godowns, transporters and traders. Sites from ₹10,000, fair quotes.",
+      "Bhiwandi websites, warehouse software, SEO and WhatsApp automation for powerloom units, godowns, transporters and traders. Sites from ₹10,000, fair quotes.",
     keywords: [
       "website development team in Bhiwandi",
       "web designer Bhiwandi",
@@ -24,6 +24,15 @@ const bhiwandi: CityContent = {
       "transport company software Bhiwandi",
       "website maintenance Bhiwandi",
       "Bhiwandi me website banane wala",
+      "Bhiwandi website designer",
+      "website cost in Bhiwandi",
+      "web development company Bhiwandi",
+      "hire freelance developer Bhiwandi",
+      "Maharashtra SEO",
+      "Bhiwandi me website kaise banwaye",
+      "website for powerloom weaving in Bhiwandi",
+      "web designer in Nizampura, Bhiwandi",
+      "website for fabric and yarn trading in Bhiwandi",
     ],
   },
   hero: {

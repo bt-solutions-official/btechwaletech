@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Zid Store Developer: Private Apps, ERP Sync, Vitrin`,
-    description: `Zid store developer for Vitrin theme changes, private Zid apps, shipping and ERP or accounting sync, and honest advice on leaving Zid. Integrations from ${P.ai}.`,
+    description: `Zid store developer in Saudi Arabia: Vitrin theme changes, private Zid apps, shipping and ERP or accounting sync, advice on leaving Zid. From ${P.ai}.`,
     keywords: [
       "zid store developer", "zid developer", "hire zid developer", "zid expert saudi arabia", "zid theme developer",
       "zid vitrin theme customization", "zid jinja theme", "zid private app development", "zid app market developer",
@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "zid store customization", "how much does a zid developer cost", "zid developer riyadh", "zid developer jeddah",
       "zid store design dammam", "zid vs salla developer", "migrate from zid", "zid to shopify migration", "zid seo",
       "zid developer near me", "مطور متجر زد", "برمجة تطبيق زد",
+      "freelance zid store developer Saudi Arabia",
     ],
   },
   hero: {
@@ -309,7 +310,7 @@ const content: FreelanceContent = {
       heading: "What you receive when the Zid project ends",
       paragraphs: [
         `You receive working code in your repository, the app running in your cloud account, a short runbook, and a recorded walkthrough. The runbook covers where logs are, how to re-run a failed sync, how tokens refresh, and whom to call if Zid changes something.`,
-        `Two months of free maintenance follow launch. After that, maintenance starts from ${P.care} a month if you want us to keep watching. Theme changes come with notes on which sections and settings were added, so another developer can pick them up without guessing.`,
+        `Two months of free maintenance follow launch. After that, maintenance starts from ${P.care} if you want us to keep watching. Theme changes come with notes on which sections and settings were added, so another developer can pick them up without guessing.`,
       ],
       list: [
         "Source code and deployment notes in your repository.",
@@ -421,7 +422,7 @@ const content: FreelanceContent = {
     { question: "Can you build a public app to sell on the Zid App Market?", answer: `Yes. A public app needs a Zid partnership agreement, a build on the Zid API, submission for Zid's review, and pricing and trial settings. You then support every merchant who installs it. Public apps start from ${P.software}, and we plan the support load with you before building, since that is the part most founders underestimate.` },
     { question: "How do I pay a Zid developer based in India?", answer: "Quotes and invoices are in US dollars and come from India. You pay by Wise or bank wire, and PayPal is also possible. Milestones are set in your written quote, and nothing is billed before you approve it. Since the Saudi riyal is pegged to the dollar, the riyal cost stays predictable from quote to final payment." },
     { question: "Who owns the code for my custom Zid app?", answer: "You do. The code sits in a repository you own and the app runs in your cloud account from the start. At handover you get the runbook and a recorded walkthrough, and you can hire anyone to maintain it later. For a public app you publish, the partner account is yours as well." },
-    { question: "What support do I get after the Zid project?", answer: `Two months of free maintenance follow launch, covering fixes, small adjustments and checks such as the first token refresh. After that, maintenance starts from ${P.care} a month if you want us to keep watching the integration. New features are quoted separately, and our terms and refund policy pages cover the general basis.` },
+    { question: "What support do I get after the Zid project?", answer: `Two months of free maintenance follow launch, covering fixes, small adjustments and checks such as the first token refresh. After that, maintenance starts from ${P.care} if you want us to keep watching the integration. New features are quoted separately, and our terms and refund policy pages cover the general basis.` },
   ],
   related: {
     heading: "More help for Saudi online stores",

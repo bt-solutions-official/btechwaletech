@@ -7,7 +7,7 @@ const shahabadHardoi: CityContent = {
   meta: {
     title: "IT Services in Shahabad (Hardoi): Web, Apps & AI",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Shahabad, Hardoi: carpet weavers, mandi traders, dairies, clinics, schools and shops.",
+      "Hindi websites, apps, local SEO and WhatsApp tools for Shahabad, Hardoi: carpet weavers, mandi traders, dairies, clinics, schools and shops. From ₹10,000.",
     keywords: [
       "IT services in Shahabad Hardoi",
       "IT services team in Shahabad",
@@ -29,6 +29,12 @@ const shahabadHardoi: CityContent = {
       "Shahabad me website banwana",
       "Shahabad Hardoi app banwana",
       "शाहाबाद हरदोई वेबसाइट",
+      "Shahabad website designer",
+      "web development company Shahabad",
+      "hire freelance web developer Shahabad",
+      "Hardoi district SEO",
+      "website designer Hardoi district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

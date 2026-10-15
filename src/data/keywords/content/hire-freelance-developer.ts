@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: "Hire Freelance Developer: Platform or Direct?",
-    description: `Hire a freelance developer on a marketplace or directly? Compare fees, vetting, protection and ownership. Websites from ${P.site}, apps from ${P.app}, quotes in 2 days.`,
+    description: `Hire a freelance developer on a marketplace or directly? Compare fees, vetting, protection and ownership. Websites from ${P.site}, apps from ${P.app}.`,
     keywords: [
       "hire freelance developer", "hire freelance developer India", "hire freelance developer near me", "freelance developer for hire",
       "hire a freelance developer cost", "hire freelance developer price", "best place to hire freelance developer", "freelance developer chahiye",

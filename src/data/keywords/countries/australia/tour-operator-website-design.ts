@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "day tour website design", "adventure tour website design", "tour operator web designer near me",
       "tour operator website cairns", "tour operator website sydney", "tour operator website melbourne",
       "tour operator website gold coast", "tour operator website perth", "tour operator website design australia remote team",
+      "hire tour operator website design in Australia", "freelance tour operator website design Australia",
     ],
   },
   hero: {
@@ -327,7 +328,7 @@ const content: FreelanceContent = {
         ["Shop for merchandise or hire add-ons", "Operators selling gear, apparel or vouchers outside the booking tool", `From ${P.shop}`, "4–8 weeks"],
         ["Custom booking flow or agent portal", "Operators with unusual inventory or reseller needs", `From ${P.software}`, "6–12 weeks"],
         ["After-hours enquiry assistant", "Operators fielding group and charter questions", `From ${P.ai}`, "2–4 weeks"],
-        ["Monthly SEO", "Operators competing on destination searches", `From ${P.seo} a month`, "Ongoing"],
+        ["Monthly SEO", "Operators competing on destination searches", `From ${P.seo}`, "Ongoing"],
       ],
       hideSm: [1],
     },

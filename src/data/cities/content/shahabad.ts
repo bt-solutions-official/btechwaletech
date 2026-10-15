@@ -7,7 +7,7 @@ const shahabad: CityContent = {
   meta: {
     title: "IT Services in Shahabad | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Shahabad stone quarries, polishing units, cement suppliers, dal traders, clinics and shops.",
+      "Websites, apps, local SEO and WhatsApp tools for Shahabad stone quarries, polishing units, cement suppliers, dal traders, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Shahabad",
       "IT services team in Shahabad",
@@ -29,6 +29,12 @@ const shahabad: CityContent = {
       "Shahabad me website banwana",
       "Shahabadnalli website beku",
       "Wadi Chittapur website design",
+      "Shahabad website designer",
+      "web development company Shahabad",
+      "hire freelance web developer Shahabad",
+      "Kalaburagi district SEO",
+      "website designer Kalaburagi district",
+      "Karnataka SEO services",
     ],
   },
   hero: {

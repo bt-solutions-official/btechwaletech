@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "Next.js App Router developer", "Next.js headless CMS developer", "React Next.js freelancer", "Next.js ecommerce developer",
       "Next.js hosting setup", "Next.js on AWS", "Vercel deployment freelancer", "Next.js web app developer",
       "WordPress to Next.js", "Next.js performance Core Web Vitals",
+      "hire freelance nextjs developer",
     ],
   },
   hero: {
@@ -60,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Programmatic SEO site", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Web app with logins", value: `From ${P.software}, 6–12 weeks` },
       { label: "Hosting accounts", value: "Opened in your name, billed to your card" },
-      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -395,7 +396,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a freelance Next.js developer?", answer: "Payment is staged against visible progress on preview links, starting after you approve an itemised written quote. Clients in India pay by UPI or bank transfer; clients abroad use Wise, bank wire or PayPal. There are no platform fees because you deal with the three developers directly rather than through a marketplace." },
     { question: "Can you build an online store in Next.js?", answer: `Yes. Product and category pages are rendered for search, often with incremental regeneration so stock and prices stay current, while the cart and checkout run on the server with UPI and card payments. Order emails, WhatsApp confirmations and GST-ready invoice data can be added. Next.js stores with us start at ${P.shop}.` },
     { question: "Can a Next.js developer also build my mobile app?", answer: `A Next.js site can work as an installable progressive web app for simple needs. For a full Android and iOS app with push notifications or device features, we build in Flutter or React Native from ${P.app}, and the app can share the same API and database as your Next.js site, so data and logins stay in one place.` },
-    { question: "What maintenance does a Next.js site need?", answer: `Regular dependency updates, including Next.js and React releases, security patches, checking Core Web Vitals and Search Console errors, renewing domains and reviewing hosting costs. BtechWaleTech includes two months of free maintenance after launch. After that, ongoing care starts at ${P.care} a month, or you can handle it in-house with our handover notes.` },
+    { question: "What maintenance does a Next.js site need?", answer: `Regular dependency updates, including Next.js and React releases, security patches, checking Core Web Vitals and Search Console errors, renewing domains and reviewing hosting costs. BtechWaleTech includes two months of free maintenance after launch. After that, ongoing care starts at ${P.care}, or you can handle it in-house with our handover notes.` },
     { question: "Is a freelance Next.js developer better than an agency?", answer: "A small freelance team suits projects with clear scope where you want to speak directly to the people writing the code, at lower overhead. An agency suits very large builds needing many specialists at once or on-site presence. Our three-person team is not the right fit for a project requiring twenty developers in parallel." },
     { question: "Next.js developer se website banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath Next.js website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Bahut saare SEO pages wali website ${P.seoSite} se, aur login wala web app ${P.software} se shuru hota hai. Hosting ka kharcha alag hai jo aap seedha provider ko dete hain. Code aur accounts aapke naam par rehte hain.` },
     { question: "Do you work with Next.js clients outside India?", answer: `Yes. We work with clients in the USA, UK, Canada, Australia, the UAE, Singapore and elsewhere, billing in USD with static builds from ${P.siteUsd} and web apps from ${P.softwareUsd}. Calls are scheduled to overlap your working hours, progress is shared on preview deployments, and payment goes through Wise, bank wire or PayPal.` },

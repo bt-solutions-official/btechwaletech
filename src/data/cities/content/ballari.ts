@@ -7,7 +7,7 @@ const ballari: CityContent = {
   meta: {
     title: "IT Services in Ballari: Websites, Apps, SEO & AI",
     description:
-      "Websites, Kannada and Telugu SEO, jeans catalogues and WhatsApp automation for Ballari garment units, steel and mining vendors, clinics and shops. From ₹10,000.",
+      "Ballari websites, Kannada and Telugu SEO, jeans catalogues and WhatsApp bots for garment units, steel and mining vendors, clinics and shops. From ₹10,000.",
     keywords: [
       "website development team in Ballari",
       "web design Bellary",
@@ -24,6 +24,15 @@ const ballari: CityContent = {
       "website maintenance Bellary",
       "Ballari website maadisuvudu",
       "ಬಳ್ಳಾರಿ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Ballari website designer",
+      "web development company Ballari",
+      "hire freelance developer Ballari",
+      "Karnataka SEO",
+      "website for denim garment units in Ballari",
+      "web designer in Cowl Bazaar, Ballari",
+      "website for washing and finishing plants in Ballari",
+      "mobile app developer in Ballari",
+      "ecommerce website development in Ballari",
     ],
   },
   hero: {

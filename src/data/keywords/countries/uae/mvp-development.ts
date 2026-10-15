@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "saas mvp development uae", "mobile app mvp dubai", "fintech mvp dubai", "technical co-founder alternative dubai",
       "mvp developer near me", "hire mvp developer uae", "minimum viable product development dubai", "mvp scope checklist",
       "mvp development for startups in dubai",
+      "freelance mvp development UAE",
     ],
   },
   hero: {

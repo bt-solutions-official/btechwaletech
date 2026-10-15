@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Figma to React: Reusable Components from ${P.site}`,
-    description: `Figma to React conversion into typed, reusable components with design tokens and Storybook, from ${P.site}. See cost drivers per screen and AI export limits.`,
+    description: `Figma to React conversion into typed, reusable components with design tokens and Storybook, from ${P.site}. Get a per-screen quote in 2 working days.`,
     keywords: [
       "figma to react", "figma to react conversion", "convert figma to react", "figma to react code", "figma to react components",
       "figma to react developer", "figma to react service", "figma design to react app", "figma to react tailwind", "figma to react typescript",
@@ -245,7 +245,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do, from the first commit. The repository, Storybook deployment, hosting and any package registry sit in accounts you control; we work inside them.`,
         `At handover you should receive the component library with typed props, the tokens file and the script that regenerates CSS from it, the deployed Storybook, the assembled screens, a README covering setup, scripts and deployment, and a short guide for adding a new component the same way. If your in-house developers will take over, we can walk them through the structure on a call and review their first few changes.`,
-        `After launch, two months of maintenance are free, covering fixes and small adjustments. After that, care starts at ${P.care} a month for dependency updates, React and framework upgrades, and small additions. We do not lock anything to our own accounts, so you are free to hand the codebase to anyone later.`,
+        `After launch, two months of maintenance are free, covering fixes and small adjustments. After that, care starts at ${P.care} for dependency updates, React and framework upgrades, and small additions. We do not lock anything to our own accounts, so you are free to hand the codebase to anyone later.`,
       ],
     },
     {

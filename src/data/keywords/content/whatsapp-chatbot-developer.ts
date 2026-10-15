@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "WhatsApp bot for business", "WhatsApp AI chatbot", "WhatsApp auto reply bot", "WhatsApp order bot",
       "WhatsApp appointment booking bot", "WhatsApp template message approval", "WhatsApp opt-in rules", "WhatsApp API pricing India",
       "freelance WhatsApp bot developer", "WhatsApp chatbot for small business",
+      "hire WhatsApp chatbot developer", "freelance WhatsApp chatbot developer", "WhatsApp chatbot developer cost", "best WhatsApp chatbot developer in India",
+      "WhatsApp chatbot developer price", "WhatsApp chatbot developer charges",
     ],
   },
   hero: {

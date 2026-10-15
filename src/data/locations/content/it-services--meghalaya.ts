@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 25.467, lng: 91.3662 },
   meta: {
-    title: "Freelance IT Services in Meghalaya | Software & Apps",
+    title: "Meghalaya IT Services: Software & Apps",
     description:
-      "Freelance IT services in Meghalaya: tourism booking sites, custom software, Android and iOS apps, AI automation and SEO for Shillong, Tura, Jowai and beyond.",
+      "Freelance IT services in Meghalaya: tourism booking sites, custom software, plus Android and iOS apps. Free scoping call, then an itemised quote in two days.",
     keywords: [
       "IT services in Meghalaya",
       "software development team in Meghalaya",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "IT support and maintenance Meghalaya",
       "Meghalaya website developer freelance",
       "Meghalaya mein website aur app developer",
+      "Meghalaya website designer",
+      "website cost in Meghalaya",
+      "IT company in Meghalaya",
+      "Meghalaya SEO services",
+      "hire developer Meghalaya",
+      "homestays software in Meghalaya",
+      "schools software in Meghalaya",
+      "clinics software in Meghalaya",
+      "turmeric software in Meghalaya",
     ],
   },
   hero: {

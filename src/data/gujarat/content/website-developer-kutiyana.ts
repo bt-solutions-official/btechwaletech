@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Kutiyana · Sites from ${P.site}`,
-    description: `Website developer in Kutiyana for agri dealers, pump and tractor sellers, crop traders, schools and clinics. Gujarati-first sites from ${P.site}, built remotely.`,
+    description: `Website developer in Kutiyana for agri dealers, pump and tractor sellers, crop traders, schools and clinics. Gujarati-first sites from ${P.site}, remote build.`,
     keywords: [
       "website developer in Kutiyana", "website developer Kutiyana", "website developer Kutiyana Gujarat", "web developer Kutiyana Porbandar",
       "website designer Kutiyana", "website developer near me Kutiyana", "Kutiyana website cost", "website price Kutiyana",

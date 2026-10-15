@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "SEO for chartered accountants",
   updated: "2026-09-25",
   meta: {
-    title: `SEO for Chartered Accountants: ICAI-Safe ${P.seo}/mo`,
-    description: `SEO for chartered accountants that respects ICAI rules: GST, ITR and company registration pages, local maps ranking and lead tracking. Monthly SEO from ${P.seo}.`,
+    title: `SEO for Chartered Accountants: ICAI-Safe ${P.seo}`,
+    description: `SEO for chartered accountants, kept inside ICAI rules: GST, ITR and registration pages, local maps ranking, lead tracking. Monthly SEO from ${P.seo}.`,
     keywords: [
       "seo for chartered accountants", "seo for ca firms", "chartered accountant seo", "ca firm seo services", "seo for accountants india",
       "is seo allowed for chartered accountants", "icai rules for seo", "icai guidelines online promotion", "how can a ca get clients online",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "seo cost for ca firm", "ca firm digital marketing icai", "seo for ca firm in mumbai", "seo for ca firm in delhi",
       "seo for ca in pune", "ca firm website ranking", "ca firm ki website google par kaise laye", "ca ke liye seo",
       "lead tracking for ca firm", "compliance calendar content seo", "seo for ca practice",
+      "SEO for chartered accountants cost", "SEO for chartered accountants price", "SEO for chartered accountants services", "SEO for chartered accountants packages",
+      "best SEO for chartered accountants in India", "SEO for chartered accountants agency",
     ],
   },
   hero: {
@@ -257,7 +259,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does SEO for chartered accountants cost in India?",
       paragraphs: [
-        `SEO for chartered accountants with our team starts at ${P.seo} per month for technical upkeep, on-page improvements, profile management and reporting, with new content quoted on top according to volume. Quotes elsewhere vary widely, and the difference usually comes down to how much writing and review is included.`,
+        `SEO for chartered accountants with our team starts at ${P.seo} for technical upkeep, on-page improvements, profile management and reporting, with new content quoted on top according to volume. Quotes elsewhere vary widely, and the difference usually comes down to how much writing and review is included.`,
         `What drives the monthly figure for a practice:`,
       ],
       list: [
@@ -393,7 +395,7 @@ const content: FreelanceContent = {
       note: `All prices are starting points; the quote depends on pages, articles, branches and languages. USD: monthly SEO from ${P.seoUsd}, informational site from ${P.siteUsd}.`,
       columns: ["Scope", "What it covers", "Starts at", "Time frame"],
       rows: [
-        ["Monthly SEO", "Technical upkeep, on-page work, GBP, GA4 and Search Console reporting", `${P.seo} per month`, "Ongoing"],
+        ["Monthly SEO", "Technical upkeep, on-page work, GBP, GA4 and Search Console reporting", `${P.seo}`, "Ongoing"],
         ["Informational CA site", "Up to 100 pages: partners, services, calendar, contact", P.site, "1–2 weeks"],
         ["Knowledge site", "299+ explainers, service and audience pages with schema", P.seoSite, "3–5 weeks"],
         ["Client document portal", "Secure login, uploads, status tracking", P.software, "6–12 weeks"],

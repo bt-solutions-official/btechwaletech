@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "excel vba developer Mumbai", "excel vba developer Delhi", "excel vba developer Pune", "excel vba developer Bengaluru",
       "excel macro banwana hai", "who can write excel macros for me", "vba to python migration", "excel to web app conversion",
       "excel vba freelancer for MIS reports", "office scripts vs vba",
+      "best excel vba developer in India",
     ],
   },
   hero: {

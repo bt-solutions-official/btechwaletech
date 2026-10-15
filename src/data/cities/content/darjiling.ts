@@ -7,7 +7,7 @@ const darjiling: CityContent = {
   meta: {
     title: "IT Services in Darjiling: Websites, Apps, SEO & AI",
     description:
-      "Websites, booking pages, tea stores and WhatsApp tools for Darjeeling homestays, hotels, tea gardens, tour operators and schools. Sites start from ₹10,000.",
+      "Darjeeling websites, booking pages, tea stores and WhatsApp tools for homestays, hotels, tea gardens, tour operators and schools. Sites start from ₹10,000.",
     keywords: [
       "website development team in Darjeeling",
       "web designer Darjeeling",
@@ -25,6 +25,14 @@ const darjiling: CityContent = {
       "ecommerce website Darjeeling",
       "website maintenance Darjeeling",
       "freelance web developer Darjeeling",
+      "Darjeeling website designer",
+      "website cost in Darjeeling",
+      "web development company Darjeeling",
+      "hire freelance developer Darjeeling",
+      "West Bengal hills SEO",
+      "website for homestays and hotels in Darjeeling",
+      "web designer in Nehru Road, Darjeeling",
+      "website for tea estates and sellers in Darjeeling",
     ],
   },
   hero: {

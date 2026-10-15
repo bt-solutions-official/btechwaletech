@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "invoicenow for in-house erp", "iras invoicenow api", "invoicenow testing", "gst category codes invoicenow",
       "invoicenow developer singapore", "invoicenow integration near me", "e-invoicing singapore integration", "invoicenow credit notes",
       "peppol access point integration", "invoicenow jurong east business",
+      "hire invoicenow integration in Singapore", "freelance invoicenow integration Singapore",
     ],
   },
   hero: {

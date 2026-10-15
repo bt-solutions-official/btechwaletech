@@ -7,7 +7,7 @@ const bheemunipatnam: CityContent = {
   meta: {
     title: "IT Services in Bheemunipatnam: Web, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Bheemili beach resorts, homestays, builders, clinics, schools and shops near Vizag.",
+      "Bheemili websites, Android and iOS apps, local SEO and WhatsApp automation for beach resorts, homestays, builders, clinics, schools and shops near Vizag.",
     keywords: [
       "IT services in Bheemunipatnam",
       "IT services team in Bheemunipatnam",
@@ -29,6 +29,10 @@ const bheemunipatnam: CityContent = {
       "Bheemunipatnam me website banwana",
       "Bheemili lo website design",
       "భీమునిపట్నం వెబ్‌సైట్ డిజైన్",
+      "Bheemunipatnam website designer",
+      "web development company Bheemunipatnam",
+      "hire freelance developer Bheemunipatnam",
+      "Andhra Pradesh SEO",
     ],
   },
   hero: {

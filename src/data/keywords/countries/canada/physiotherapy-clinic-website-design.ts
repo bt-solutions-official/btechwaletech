@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "physiotherapy seo canada", "physio seo toronto", "physiotherapy clinic website calgary", "physiotherapy website vancouver",
       "physiotherapy website ottawa", "aoda physiotherapy website", "physiotherapy advertising rules website",
       "what should a physiotherapy website include", "physiotherapy clinic website near me", "multi location clinic seo",
+      "hire physiotherapy clinic website design in Canada", "freelance physiotherapy clinic website design Canada",
     ],
   },
   hero: {

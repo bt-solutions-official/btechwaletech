@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Physiotherapy Clinic Website: Fill Slots, ${P.site}+`,
-    description: `Physiotherapy clinic website from ${P.site}: condition pages, home-visit booking by area, session packages, exercise videos and referral forms that fill your slots.`,
+    description: `Physiotherapy clinic website from ${P.site}: condition pages, home-visit booking by area, session packages and exercise videos. Live in 1-2 weeks.`,
     keywords: [
       "physiotherapy clinic website", "physiotherapy website design", "physio clinic website", "physiotherapist website",
       "website for physiotherapy clinic", "physiotherapy clinic website cost", "home visit physiotherapy website",
@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "sports physio clinic website", "rehab centre website design", "physiotherapy clinic website Nashik",
       "physiotherapy clinic website Thane", "physiotherapy clinic website Kanpur", "physio clinic ki website",
       "physiotherapy website developer India", "back pain clinic website", "knee pain physiotherapy page",
+      "physiotherapy clinic website price", "physiotherapy clinic website company", "best physiotherapy clinic website in India", "physiotherapy clinic website cost in India",
+      "physiotherapy clinic website near me",
     ],
   },
   hero: {
@@ -61,7 +63,7 @@ const content: FreelanceContent = {
       { label: "Booking", value: "Clinic slots, home-visit slots by area, WhatsApp request" },
       { label: "No-show control", value: `WhatsApp reminders and rebooking from ${P.ai}` },
       { label: "Patient extras", value: "Exercise video library with access control" },
-      { label: "After launch", value: `2 months free, then from ${P.care} a month` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -307,7 +309,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own the physiotherapy clinic website outright: domain, hosting, code and content, all registered to your clinic from day one, with every login handed over at launch.`,
         `We also leave a simple guide for your team: adding a condition page, changing package prices, updating therapist timings and home-visit zones, and adding exercise videos. Every outside service the site uses is listed, so a future developer can take over without our help.`,
-        `Maintenance is free for two months after launch. After that it is optional and starts at ${P.care} a month, covering updates, backups, security patches and small changes. General terms are on our <a href='/terms/'>terms page</a>.`,
+        `Maintenance is free for two months after launch. After that it is optional and starts at ${P.care}, covering updates, backups, security patches and small changes. General terms are on our <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -439,7 +441,7 @@ const content: FreelanceContent = {
     { question: "How do physio pages appear in AI search answers?", answer: "AI search tools tend to quote short, direct answers from trustworthy pages. Opening each condition page with a two-sentence answer, using question headings, and keeping therapist and clinic details accurate all help. There is no guaranteed method, but clear, honest structure gives your pages the best chance." },
     { question: "Is a freelancer or agency better for a physio website?", answer: "Either can do it well. What matters is understanding home-visit scheduling, packages and referrals, and making sure you own the domain, hosting and code. With a small freelance team you speak directly to the developers. Ask any provider what upkeep costs after launch." },
     { question: "Who owns the physiotherapy clinic website?", answer: "Your clinic does. Domain, hosting, code and content are registered in your name from the start, and all logins are handed over at launch with a short guide for your team. If you change developers later, nothing needs to be released by us." },
-    { question: "What happens after the free maintenance period?", answer: `Maintenance is free for two months after launch. After that it is optional and starts at ${P.care} a month, covering updates, backups, security patches and small edits such as new packages or therapist timings. The exact scope is written into your quote.` },
+    { question: "What happens after the free maintenance period?", answer: `Maintenance is free for two months after launch. After that it is optional and starts at ${P.care}, covering updates, backups, security patches and small edits such as new packages or therapist timings. The exact scope is written into your quote.` },
     { question: "Can the website be in Hindi or a regional language?", answer: "Yes. Condition and home-visit pages in Hindi, Marathi, Tamil, Telugu, Kannada, Punjabi or other languages help reach older patients and their families. You supply or approve the translations, and we build proper language versions with the right tags so search engines show the correct one." },
     { question: "Can the website connect to our clinic software?", answer: `If your software offers an API, bookings can flow straight into it. If not, bookings arrive in a simple dashboard and on WhatsApp. If you want one system for assessments, progress notes, package balances and billing, a custom build starts at ${P.software}.` },
     { question: "How do we pay for the project?", answer: "Clinics in India pay by UPI or bank transfer, and international clients by Wise, bank wire or PayPal in US dollars. Payment milestones are listed in the itemised quote, and nothing is billed before your written approval. Our refund policy page explains the general rules." },

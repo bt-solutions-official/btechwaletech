@@ -7,7 +7,7 @@ const chirala: CityContent = {
   meta: {
     title: "IT Services in Chirala | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, SEO and WhatsApp automation for Chirala handloom weavers, saree traders, beach resorts at Vodarevu, colleges and clinics.",
+      "Chirala Telugu websites, mobile apps, SEO and WhatsApp bots for handloom weavers, saree traders, beach resorts at Vodarevu and colleges. Code stays yours.",
     keywords: [
       "IT services in Chirala",
       "IT services team in Chirala",
@@ -29,6 +29,10 @@ const chirala: CityContent = {
       "Chirala me website banwana",
       "Chirala lo website cheyinchali",
       "చీరాల వెబ్‌సైట్ డిజైన్",
+      "Chirala website designer",
+      "web development company Chirala",
+      "hire freelance developer Chirala",
+      "Andhra Pradesh SEO",
     ],
   },
   hero: {

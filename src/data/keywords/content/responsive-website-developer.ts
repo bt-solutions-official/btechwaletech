@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "convert website to responsive", "make my website mobile friendly", "responsive web design services", "responsive redesign freelancer",
       "responsive HTML CSS developer", "website not mobile friendly fix", "tablet and mobile website", "freelance responsive web designer",
       "responsive website for small business", "mobile friendly website developer India",
+      "hire responsive website developer", "freelance responsive website developer", "responsive website developer cost", "best responsive website developer in India",
+      "responsive website developer price", "responsive website developer charges",
     ],
   },
   hero: {

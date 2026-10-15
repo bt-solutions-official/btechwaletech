@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Construction Company Website Design KSA from ${P.site}`,
-    description: `Construction company website design in Saudi Arabia from ${P.site}: project portfolios, bilingual profile, prequalification pack, HSE pages and tender enquiry routing.`,
+    description: `Construction company website design in Saudi Arabia from ${P.site}: project portfolios, bilingual profile, prequalification pack, HSE and tender enquiries.`,
     keywords: [
       "construction company website design saudi arabia", "construction company website saudi arabia", "contractor website design ksa",
       "contracting company website riyadh", "construction website design jeddah", "mep contractor website dammam",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "construction company website design near me", "best website for construction company", "construction seo saudi arabia",
       "engineering company website ksa", "fit-out contractor website riyadh", "civil contractor website al khobar",
       "construction website developer jubail", "how to get subcontract work saudi arabia online",
+      "hire construction company website design in Saudi Arabia", "freelance construction company website design Saudi Arabia",
     ],
   },
   hero: {

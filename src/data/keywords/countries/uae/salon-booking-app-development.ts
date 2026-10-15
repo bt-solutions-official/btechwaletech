@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "salon booking app sharjah", "white label salon app vs custom", "salon app developers near me",
       "ladies salon app dubai", "salon chain app development", "salon booking website and app",
       "remote app developers india for uae salons",
+      "hire salon booking app development in the UAE", "freelance salon booking app development UAE",
     ],
   },
   hero: {

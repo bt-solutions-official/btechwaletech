@@ -5,9 +5,9 @@ const sandila: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 27.0694, lng: 80.5142 },
   meta: {
-    title: "IT Services in Sandila | Web, Apps & AI from ₹10,000",
+    title: "Sandila Website Design: Laddoo, Zardozi & Industry",
     description:
-      "Websites, Android and iOS apps, SEO and WhatsApp automation for Sandila laddoo makers, industrial area suppliers, zardozi artisans, clinics, schools and shops.",
+      "Sandila websites, Hindi SEO and WhatsApp tools for laddoo and sweet makers, industrial area vendors and zardozi artisans. Sites from ₹10,000.",
     keywords: [
       "IT services in Sandila",
       "IT services team in Sandila",
@@ -29,6 +29,16 @@ const sandila: CityContent = {
       "Sandila me website banwana",
       "Sandila me app kaise banwaye",
       "संडीला वेबसाइट डिजाइन",
+      "Sandila website designer",
+      "web development company Sandila",
+      "hire freelance web developer Sandila",
+      "Hardoi district SEO",
+      "website designer Hardoi district",
+      "Uttar Pradesh SEO services",
+      "Sandila me website kaise banwaye",
+      "Sandila website banwane ka kharcha",
+      "industrial area vendors website design Sandila",
+      "Sandila transporters website",
     ],
   },
   hero: {

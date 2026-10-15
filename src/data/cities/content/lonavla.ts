@@ -7,7 +7,7 @@ const lonavla: CityContent = {
   meta: {
     title: "IT Services in Lonavla | Web, Apps & AI from ₹10,000",
     description:
-      "Booking websites, Android and iOS apps, local SEO and WhatsApp automation for Lonavla villas, resorts, chikki makers, trek operators, schools and local shops.",
+      "Lonavla Booking websites, Android and iOS apps, local SEO and WhatsApp automation for villas, resorts, chikki makers, trek operators, schools and local shops.",
     keywords: [
       "IT services in Lonavla",
       "IT services team in Lonavla",
@@ -29,6 +29,10 @@ const lonavla: CityContent = {
       "Lonavla me website banwana",
       "Lonavala madhe website banvaychi aahe",
       "लोणावळा वेबसाइट डिझाइन",
+      "Lonavla website designer",
+      "web development company Lonavla",
+      "hire freelance developer Lonavla",
+      "Maharashtra SEO",
     ],
   },
   hero: {

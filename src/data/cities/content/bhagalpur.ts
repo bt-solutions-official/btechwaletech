@@ -7,7 +7,7 @@ const bhagalpur: CityContent = {
   meta: {
     title: "Bhagalpur Web Design, SEO & Silk Stores | ₹10,000+",
     description:
-      "Websites, silk saree stores, local SEO and WhatsApp automation for Bhagalpur weavers, traders, clinics and coaching centres. Plans from ₹10,000 with full ownership.",
+      "Bhagalpur websites, silk saree stores, local SEO and WhatsApp bots for weavers, traders, clinics and coaching centres. Plans from ₹10,000 with full ownership.",
     keywords: [
       "website development team in Bhagalpur",
       "website designer Bhagalpur",
@@ -24,6 +24,15 @@ const bhagalpur: CityContent = {
       "Bhagalpur me website kaise banwaye",
       "भागलपुर वेबसाइट डिज़ाइन",
       "website banane wala Bhagalpur",
+      "Bhagalpur website designer",
+      "website cost in Bhagalpur",
+      "web development company Bhagalpur",
+      "hire freelance developer Bhagalpur",
+      "Bihar SEO",
+      "website for silk weavers and cooperatives in Bhagalpur",
+      "web designer in Nathnagar, Bhagalpur",
+      "website for saree and fabric wholesalers in Bhagalpur",
+      "mobile app developer in Bhagalpur",
     ],
   },
   hero: {

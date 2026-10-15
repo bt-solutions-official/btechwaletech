@@ -7,7 +7,7 @@ const tiruppur: CityContent = {
   meta: {
     title: "IT Services in Tiruppur: Websites, Apps, SEO & AI",
     description:
-      "Export-ready websites, B2B catalogues, SEO and WhatsApp automation for Tiruppur knitwear exporters, job workers, Khaderpet wholesalers and clinics. From ₹10,000.",
+      "Export-ready websites, catalogues and SEO for Tiruppur knitwear exporters, job workers, Khaderpet wholesalers and clinics. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "website development team in Tiruppur",
       "web design team Tirupur",
@@ -24,6 +24,17 @@ const tiruppur: CityContent = {
       "Khaderpet wholesale website",
       "Tiruppur la website venum",
       "திருப்பூர் இணையதள வடிவமைப்பு",
+      "website cost in Tiruppur",
+      "web development company Tiruppur",
+      "hire freelance web developer Tiruppur",
+      "Tamil Nadu SEO services",
+      "Tiruppur knitwear exporters website",
+      "knitwear exporters website design Tiruppur",
+      "Tiruppur domestic wholesalers website",
+      "domestic wholesalers website design Tiruppur",
+      "Tiruppur D2C apparel brands website",
+      "D2C apparel brands website design Tiruppur",
+      "Tiruppur job-work website",
     ],
   },
   hero: {

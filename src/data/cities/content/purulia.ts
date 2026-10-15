@@ -7,7 +7,7 @@ const purulia: CityContent = {
   meta: {
     title: "IT Services in Purulia: Websites, Apps, SEO & AI",
     description:
-      "Websites, Bengali and Hindi SEO, Chhau mask stores, lac trader pages and WhatsApp automation for Purulia shops, clinics, coaching centres and Ajodhya homestays.",
+      "Websites, Chhau mask stores and lac trader pages for Purulia shops, clinics, coaching and Ajodhya homestays. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "website development team in Purulia",
       "web designer Purulia",
@@ -25,6 +25,16 @@ const purulia: CityContent = {
       "Google Maps listing Purulia",
       "website maintenance Purulia",
       "পুরুলিয়া ওয়েবসাইট ডিজাইন",
+      "Purulia website designer",
+      "web development company Purulia",
+      "hire freelance web developer Purulia",
+      "West Bengal SEO services",
+      "Purulia chhau mask workshops website",
+      "chhau mask workshops website design Purulia",
+      "Purulia farm input dealers website",
+      "farm input dealers website design Purulia",
+      "website design Ranchi Road Purulia",
+      "website design B.T. Sarkar Road Purulia",
     ],
   },
   hero: {

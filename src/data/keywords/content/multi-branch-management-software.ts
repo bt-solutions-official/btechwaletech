@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "custom multi branch software", "how to manage multiple branches", "software to manage multiple stores", "multi outlet management software",
       "multi branch software Surat", "multi branch software Ahmedabad", "multi branch software Hyderabad", "multi branch software Ludhiana",
       "sab branch ek software me", "best multi branch management software", "multi branch ERP for small business",
+      "multi branch management software price", "multi branch management software company", "best multi branch management software in India", "multi branch management software cost in India",
+      "multi branch management software near me",
     ],
   },
   hero: {

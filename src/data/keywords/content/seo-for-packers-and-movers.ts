@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "packers and movers near me ranking", "route page seo packers movers", "packers and movers website seo", "car transport seo",
       "packers and movers reviews google", "seo for packers and movers in Delhi", "seo for packers and movers in Pune",
       "seo for packers and movers in Bangalore", "packers and movers ki website google par", "moving company seo India", "packers and movers enquiry form",
+      "SEO for packers and movers cost", "SEO for packers and movers price", "SEO for packers and movers services", "SEO for packers and movers packages",
+      "best SEO for packers and movers in India", "SEO for packers and movers agency",
     ],
   },
   hero: {
@@ -342,12 +344,12 @@ const content: FreelanceContent = {
       note: `Starting prices only. The written quote lists each item so you can cut or add.`,
       columns: ["Starting point", "Work involved", "Starts at", "Time"],
       rows: [
-        ["Decent site, weak Maps presence", "Monthly SEO: profile, reviews, pages, reporting", `${P.seo} per month`, "Monthly"],
+        ["Decent site, weak Maps presence", "Monthly SEO: profile, reviews, pages, reporting", `${P.seo}`, "Monthly"],
         ["One-page or copied-text site", "New website up to 100 pages", `${P.site}`, "1–2 weeks"],
         ["Many services and real routes", "SEO website with 299+ pages", `${P.seoSite}`, "3–5 weeks"],
         ["Survey, quote and tracking chaos", "Custom mover software", `${P.software}`, "6–12 weeks"],
         ["Too many enquiries to answer", "Automated WhatsApp first reply", `${P.ai}`, "2–4 weeks"],
-        ["After launch", "Maintenance after 2 free months", `${P.care} per month`, "Ongoing"],
+        ["After launch", "Maintenance after 2 free months", `${P.care}`, "Ongoing"],
       ],
       hideSm: [1],
     },

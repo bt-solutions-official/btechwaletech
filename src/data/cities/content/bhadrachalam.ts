@@ -7,7 +7,7 @@ const bhadrachalam: CityContent = {
   meta: {
     title: "IT Services in Bhadrachalam | Web, Apps & AI",
     description:
-      "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp booking for Bhadrachalam lodges, tour operators, Sarapaka suppliers, hospitals and schools.",
+      "Bhadrachalam Telugu websites, mobile apps, Maps SEO and WhatsApp booking for lodges, tour operators, Sarapaka suppliers, hospitals and schools. From ₹10,000.",
     keywords: [
       "IT services in Bhadrachalam",
       "IT services team in Bhadrachalam",
@@ -29,6 +29,10 @@ const bhadrachalam: CityContent = {
       "Bhadrachalam me website banwana",
       "Bhadrachalam lo website kavali",
       "భద్రాచలం వెబ్‌సైట్ డిజైన్",
+      "Bhadrachalam website designer",
+      "web development company Bhadrachalam",
+      "hire freelance developer Bhadrachalam",
+      "Telangana SEO",
     ],
   },
   hero: {

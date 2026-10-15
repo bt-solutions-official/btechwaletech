@@ -196,7 +196,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Sector and location pages rank when each one is genuinely useful: live jobs for that niche and area, a short explanation of the market, typical role types, and a way to register interest when nothing suitable is live. Hundreds of near-identical “jobs in [town]” pages with no roles on them do the opposite.`,
         `On a search-led recruitment website design, starting at ${P.seoSite}, we generate pages only for combinations where you actually recruit, and each shows real vacancies from the CRM. When a page has no live jobs, it still carries useful content and a job alert sign-up rather than an empty list. Internal links run between sectors, locations and consultant profiles so both candidates and search engines can move around sensibly.`,
-        `Technical basics come included: clean URLs, canonical tags on filtered job searches so you do not create thousands of duplicate pages, XML sitemaps, fast templates and Google Search Console. No one can promise rankings. Ongoing SEO for recruiters runs from ${P.seo} a month; a <a href='/uk/technical-seo-audit/'>technical SEO audit</a> is the right start if your current job board has indexing problems.`,
+        `Technical basics come included: clean URLs, canonical tags on filtered job searches so you do not create thousands of duplicate pages, XML sitemaps, fast templates and Google Search Console. No one can promise rankings. Ongoing SEO for recruiters runs from ${P.seo}; a <a href='/uk/technical-seo-audit/'>technical SEO audit</a> is the right start if your current job board has indexing problems.`,
       ],
     },
     {
@@ -300,7 +300,7 @@ const content: FreelanceContent = {
         ["Candidate or client portal", "Temp and contract agencies", "Logins, timesheets, shortlists, documents", P.software, "6–12 weeks"],
         ["Job alert automation", "Agencies with large candidate pools", "Matched alerts by email or WhatsApp", P.ai, "2–4 weeks"],
         ["Candidate app", "High-volume staffing", "Job search, shift offers, push alerts", P.app, "6–10 weeks"],
-        ["Ongoing recruitment SEO", "Agencies chasing organic applicants", "Content, technical fixes, reporting", `${P.seo} a month`, "Monthly"],
+        ["Ongoing recruitment SEO", "Agencies chasing organic applicants", "Content, technical fixes, reporting", `${P.seo}`, "Monthly"],
       ],
       hideSm: [2],
     },

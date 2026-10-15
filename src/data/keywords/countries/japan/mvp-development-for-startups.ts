@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "j-startup mvp development", "mvp developer osaka", "mvp development fukuoka", "mvp development kyoto", "mvp development yokohama",
       "no-code vs custom mvp", "mvp tech stack japan", "post-launch mvp iteration retainer", "minimum viable product development services",
       "mvp development team near me",
+      "hire mvp development for startups in Japan", "freelance mvp development for startups Japan",
     ],
   },
   hero: {

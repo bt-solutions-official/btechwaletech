@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `AI Automation Agency Australia Alternative: ${P.ai}+`,
-    description: `Comparing AI automation agency Australia quotes? Three freelance developers build lead intake, quoting and Xero invoice chasers from ${P.ai}, measured in hours saved.`,
+    description: `AI automation agency Australia alternative: three developers build lead intake, quoting and Xero invoice chasers from ${P.ai}, measured in hours saved.`,
     keywords: [
       "ai automation agency australia", "ai automation agency", "ai automation agency alternative", "ai automation services australia",
       "business process automation australia", "ai workflow automation small business", "n8n developer australia",

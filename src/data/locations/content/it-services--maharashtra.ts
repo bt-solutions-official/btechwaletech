@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 19.7515, lng: 75.7139 },
   meta: {
-    title: "Freelance IT Services in Maharashtra: Apps & AI",
+    title: "Maharashtra IT Services: Apps & AI",
     description:
       "Freelance IT services in Maharashtra: custom software, Android and iOS apps, AI automation, dashboards, SEO and ecommerce. Apps from ₹40,000, quote in 2 days.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "software developers Nashik Aurangabad Kolhapur",
       "महाराष्ट्रातील सॉफ्टवेअर डेव्हलपर",
       "Maharashtra mein software banwana",
+      "Maharashtra website designer",
+      "website cost in Maharashtra",
+      "IT company in Maharashtra",
+      "Maharashtra SEO services",
+      "hire developer Maharashtra",
+      "auto software in Maharashtra",
+      "trading software in Maharashtra",
+      "warehousing software in Maharashtra",
+      "sugar software in Maharashtra",
+      "website developer Mumbai Maharashtra",
     ],
   },
   hero: {

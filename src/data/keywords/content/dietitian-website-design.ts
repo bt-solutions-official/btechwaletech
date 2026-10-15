@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "dietitian website Hyderabad", "how to sell diet plans online", "how to get clients as a dietitian online", "dietitian blog SEO",
       "recipe blog for nutritionist", "dietitian ki website kaise banaye", "weight loss diet plan website", "clinical dietitian website",
       "dietitian website features",
+      "dietitian website design company in India",
+      "best dietitian website design in India",
+      "dietitian website design services",
     ],
   },
   hero: {
@@ -404,7 +407,7 @@ const content: FreelanceContent = {
     { question: "How do I show my qualifications on my website?", answer: "List your degree, specialisations and professional credentials on the About page and in the author box of every blog post. The Indian Dietetic Association conducts the Registered Dietitian (RD) examination; if you hold the RD credential, display it clearly. Describe your clinical experience honestly and simply." },
     { question: "Can the website send WhatsApp check-in reminders?", answer: `Yes. Weekly check-in prompts, renewal reminders and failed-payment links can go automatically from your own WhatsApp number through the Business API, with templates approved by Meta and opt-ins recorded. This automation starts at ${P.ai}. Meta's messaging charges are billed to you directly by the provider.` },
     { question: "Can I offer corporate wellness plans through my website?", answer: "Yes. A corporate page can explain group programmes, collect enquiries from HR teams and provide a group sign-up form for employees once a deal is agreed. Corporate payments usually happen by bank transfer against your invoice, while individual employees onboard through the same forms as regular clients." },
-    { question: "What happens after my dietitian website is launched?", answer: `Maintenance is free for 2 months after launch, covering fixes, updates and small changes such as new plan prices. After that, maintenance starts at ${P.care} per month, or you can hire anyone else since you hold the code. New features are quoted separately in writing.` },
+    { question: "What happens after my dietitian website is launched?", answer: `Maintenance is free for 2 months after launch, covering fixes, updates and small changes such as new plan prices. After that, maintenance starts at ${P.care}, or you can hire anyone else since you hold the code. New features are quoted separately in writing.` },
     { question: "How do I pay for my dietitian website?", answer: "Practices in India pay by UPI or bank transfer following the milestones in the approved quote. Dietitians abroad pay by Wise, bank wire or PayPal, quoted in USD. Nothing is billed before written approval. The refund policy page explains what happens if a project is cancelled midway." },
     { question: "Can my dietitian website be in Hindi or a regional language?", answer: "Yes. We build bilingual pages with a language switch and separate URLs for search engines. You write or approve the translated text; we handle the layout and fonts. Hindi plan pages and onboarding forms often help clients in smaller cities who are more comfortable reading in Hindi." },
     { question: "Can you redesign my existing nutritionist website without losing traffic?", answer: "Yes. We list your existing URLs, especially blog and recipe pages that already get visits, rebuild the site, and set permanent redirects so search engines carry over existing signals. Titles of pages that rank are kept. The migration steps are itemised in the quote like any other work." },

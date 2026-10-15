@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Website Maintenance Cost UK: Care Plans from ${P.care}`,
-    description: `Website maintenance cost UK explained: hosting, domain, SSL, licences, care-plan tiers, emergency fixes and agency lock-in. Care from ${P.care} after 2 free months.`,
+    description: `Website maintenance cost UK explained: hosting, domain, SSL, licences, care tiers, urgent fixes and agency lock-in. Care from ${P.care} after 2 free months.`,
     keywords: [
       "website maintenance cost uk", "website maintenance cost per month uk", "how much does website maintenance cost uk",
       "website maintenance cost per year", "website care plan uk", "website maintenance packages uk",
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "How our website maintenance cost is worked out",
-    note: `Care starts at ${P.care} a month and begins after the two free months that follow any site we build. The starting tier suits a brochure site: updates, backups, uptime monitoring, a monthly check and a small allowance of content edits. The price rises with the number of plugins or apps to manage, online shops where checkout must be tested, sites with custom functionality, heavier edit allowances and add-on SEO work from ${P.seo}. For sites built by someone else, we first review hosting, access and code, then quote a care tier. Hosting, domain and licences are paid by you to the providers.`,
+    note: `Care starts at ${P.care} and begins after the two free months that follow any site we build. The starting tier suits a brochure site: updates, backups, uptime monitoring, a monthly check and a small allowance of content edits. The price rises with the number of plugins or apps to manage, online shops where checkout must be tested, sites with custom functionality, heavier edit allowances and add-on SEO work from ${P.seo}. For sites built by someone else, we first review hosting, access and code, then quote a care tier. Hosting, domain and licences are paid by you to the providers.`,
   },
   guideLabel: "Website maintenance cost UK: complete guide",
   guide: [
@@ -296,7 +296,7 @@ const content: FreelanceContent = {
       id: "yearly-bill",
       eyebrow: "Yearly budget",
       heading: "What goes into a UK website's yearly maintenance bill",
-      note: `Provider prices change often, so check them directly. Our care starts at ${P.care} a month after two free months on sites we build.`,
+      note: `Provider prices change often, so check them directly. Our care starts at ${P.care} after two free months on sites we build.`,
       columns: ["Cost line", "Paid to", "How often", "Who should hold the account", "Ways to reduce it"],
       rows: [
         ["Domain (.co.uk / .uk / .com)", "Registrar", "Yearly or multi-year", "You", "Renew for several years; avoid resold domains"],
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
   },
   faqHeading: "Website maintenance cost UK: frequently asked questions",
   faqs: [
-    { question: "How much does website maintenance cost per month in the UK?", answer: `Monthly website maintenance in the UK combines fixed bills, such as hosting and licences, with labour for updates, backups, monitoring and edits. Care plans vary widely by tier and site type. With BtechWaleTech, sites we build get two months free, then care starts at ${P.care} a month, while you pay hosting and domain providers directly.` },
+    { question: "How much does website maintenance cost per month in the UK?", answer: `Monthly website maintenance in the UK combines fixed bills, such as hosting and licences, with labour for updates, backups, monitoring and edits. Care plans vary widely by tier and site type. With BtechWaleTech, sites we build get two months free, then care starts at ${P.care}, while you pay hosting and domain providers directly.` },
     { question: "How much does website maintenance cost per year?", answer: "Add up a year of domain renewal, hosting, business email, premium theme and plugin licences, and twelve months of care labour. Then allow something for occasional fixes or small projects. A static site keeps every line low; a WordPress shop with many plugins sits at the top. List each line separately so you can see what could be trimmed." },
     { question: "What does a website care plan include?", answer: "A proper care plan includes tested software updates, off-site backups with occasional restore tests, uptime and security monitoring, fixes when something breaks, a small allowance of content edits and a short monthly report. Redesigns, new features, copywriting and SEO campaigns are usually separate. Always ask for the task list in writing before comparing prices." },
     { question: "Is website maintenance cost in the UK really necessary to pay?", answer: "For sites running WordPress or another CMS, yes. Unpatched plugins and unsupported PHP versions stop receiving security fixes, and broken forms can go unnoticed for weeks. A static site needs far less, but someone should still watch the domain, hosting and contact forms. Think of maintenance as insurance against quiet failures that cost you enquiries." },

@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.5245, lng: 77.2066 },
   meta: {
-    title: "Freelance Software & App Developers in Saket",
+    title: "Saket App & Software Developers: Fashion, Wellness & Gyms",
     description:
-      "Freelance developers for Saket brands as an alternative to a software development team: D2C stores, booking and membership apps, AI concierge bots, SEO.",
+      "Freelance developers for Saket brands: D2C stores, booking and membership apps, AI concierge bots and SEO. Sites from ₹10,000, apps from ₹40,000.",
     keywords: [
       "software development team in Saket",
       "IT services team in Saket",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT services near me Saket District Centre",
       "साकेत में ऐप और सॉफ्टवेयर डेवलपर",
       "Saket mein website aur app developer",
+      "Saket website designer",
+      "website cost in Saket",
+      "IT company in Saket",
+      "Delhi SEO services",
+      "hire developer Saket",
+      "fashion software in Saket",
+      "wellness software in Saket",
+      "gyms software in Saket",
+      "restaurants software in Saket",
+      "website developer Saket District Centre Saket",
     ],
   },
   hero: {

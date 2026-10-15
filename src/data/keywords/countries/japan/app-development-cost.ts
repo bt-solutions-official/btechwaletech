@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `App Development Cost in Japan: Apps from ${P.app}`,
-    description: `App development cost in Japan by app type: man-month pricing vs fixed-scope quotes, store fees, maintenance and Flutter savings. iOS and Android apps from ${P.app}.`,
+    description: `App development cost in Japan by app type: man-month pricing vs fixed-scope quotes, store fees, maintenance and Flutter savings. Apps from ${P.app}.`,
     keywords: [
       "app development cost in japan", "app development cost japan", "how much does it cost to make an app in japan", "mobile app development price japan",
       "iphone app development cost japan", "android app development cost japan", "app kaihatsu hiyou", "man-month app development pricing",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "app store fees japan", "google play developer fee", "app maintenance cost per year", "outsource app development cost japan",
       "app development cost tokyo", "app development cost osaka", "app development cost fukuoka", "offshore app development cost india",
       "app development budget japan", "how long does it take to build an app",
+      "hire app development in Japan", "freelance app development Japan",
     ],
   },
   hero: {

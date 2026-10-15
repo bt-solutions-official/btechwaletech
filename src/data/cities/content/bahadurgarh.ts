@@ -7,7 +7,7 @@ const bahadurgarh: CityContent = {
   meta: {
     title: "IT Services in Bahadurgarh: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and WhatsApp automation for Bahadurgarh footwear makers, MIE and HSIIDC factories, warehouses and shops. Sites from ₹10,000, SEO sites from ₹20,000.",
+      "Bahadurgarh websites, SEO and WhatsApp bots for footwear makers, MIE and HSIIDC factories, warehouses and shops. Sites from ₹10,000, SEO sites from ₹20,000.",
     keywords: [
       "website development team in Bahadurgarh",
       "web designer Bahadurgarh",
@@ -25,6 +25,14 @@ const bahadurgarh: CityContent = {
       "Bahadurgarh me website kaise banaye",
       "software development Bahadurgarh",
       "website maintenance Jhajjar",
+      "Bahadurgarh website designer",
+      "website cost in Bahadurgarh",
+      "web development company Bahadurgarh",
+      "hire freelance developer Bahadurgarh",
+      "Haryana SEO",
+      "Bahadurgarh me website kaise banwaye",
+      "website for non-leather footwear in Bahadurgarh",
+      "web designer in Old Industrial Area, Bahadurgarh",
     ],
   },
   hero: {

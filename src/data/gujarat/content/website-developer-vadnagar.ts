@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Vadnagar: Sites from ${P.site}`,
-    description: `Website developer in Vadnagar for hotels, homestays, guides, tour operators and eateries serving museum visitors. Sites from ${P.site}, WhatsApp booking, yours to own.`,
+    description: `Website developer in Vadnagar for hotels, homestays, guides, tour operators and eateries serving museum visitors. Sites from ${P.site}, WhatsApp booking.`,
     keywords: [
       "website developer in Vadnagar", "website developer Vadnagar", "Vadnagar website developer", "website developer near me Vadnagar",
       "Vadnagar Mehsana website", "Vadnagar Gujarat web developer", "website designer Vadnagar", "website development services Vadnagar",

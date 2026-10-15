@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "real estate website Meerut", "website developer Partapur", "website developer Shastri Nagar Meerut", "website developer Modipuram",
       "website developer Modinagar", "website developer Sardhana", "Meerut me website kaise banwaye", "website banwana hai Meerut",
       "best website developer in Meerut", "website developer western UP",
+      "website developer in Meerut cost", "website developer in Meerut price", "hire website developer in Meerut", "freelance website developer in Meerut",
+      "website developer in Meerut charges",
     ],
   },
   hero: {

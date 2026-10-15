@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Kalavad · Sites from ${P.site}`,
-    description: `Website developer in Kalavad for GIDC units, agro traders, temple services and schools. Business sites from ${P.site}, product catalogues, remote build, 2 free months.`,
+    description: `Website developer in Kalavad for GIDC units, agro traders, temple services and schools. Sites from ${P.site}, product catalogues, remote build, 2 free months.`,
     keywords: [
       "website developer in Kalavad", "website developer Kalavad", "website developer near me Kalavad", "Kalavad Gujarat website",
       "web developer Kalavad", "website designer Kalavad", "website development services Kalavad", "Kalavad GIDC website",
@@ -231,7 +231,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `It can, but nobody can guarantee rankings. Visibility grows from specific, well-built pages and trust earned over months.`,
         `For GIDC units, specific product pages win: “brass hex nipple manufacturer Jamnagar district” or “CNC turned parts job work Kalavad” as page topics, each with specs, photos and a short FAQ. Those are the pages Google and AI assistants tend to quote when buyers ask for suppliers. For town businesses, the <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> matters most, with the same name, address and phone as the site.`,
-        `Every launch includes unique titles and descriptions, clean URLs, schema, an XML sitemap and Search Console. Ongoing SEO is optional from ${P.seo} a month; <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> explains what that work involves.`,
+        `Every launch includes unique titles and descriptions, clean URLs, schema, an XML sitemap and Search Console. Ongoing SEO is optional from ${P.seo}; <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> explains what that work involves.`,
       ],
     },
     {

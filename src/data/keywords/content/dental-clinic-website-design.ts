@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Dental Clinic Website Design: Sites from ${P.site}`,
-    description: `Dental clinic website design in India from ${P.site}: treatment pages, slot booking, WhatsApp recalls and DCI-aware wording that turn “dentist near me” into bookings.`,
+    description: `Dental clinic website design from ${P.site}: treatment pages, slot booking, WhatsApp recalls and DCI-aware wording that turn “dentist near me” into bookings.`,
     keywords: [
       "dental clinic website design", "dental clinic website design India", "dentist website design", "dental website design",
       "dental clinic website", "website for dental clinic", "dental clinic website cost", "dental website design price India",
@@ -24,6 +24,9 @@ const content: FreelanceContent = {
       "dental clinic website Delhi", "dental clinic website Bangalore", "dental clinic website Hyderabad",
       "dental clinic ki website", "dentist ki website kaise banaye", "dental website WhatsApp booking",
       "DCI advertising rules website", "dental website before after photos rules",
+      "dental clinic website design company in India",
+      "best dental clinic website design in India",
+      "dental clinic website design services",
     ],
   },
   hero: {
@@ -61,7 +64,7 @@ const content: FreelanceContent = {
       { label: "Booking", value: "WhatsApp prefilled message, or live slots per chair" },
       { label: "Reminders", value: `WhatsApp and SMS automation from ${P.ai}` },
       { label: "Rules to respect", value: "DCI code: factual info and fees allowed, no boasting of cases" },
-      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -274,7 +277,7 @@ const content: FreelanceContent = {
       heading: "Who owns a dental clinic website design project at handover?",
       paragraphs: [
         `The clinic owns everything: domain, hosting, code, booking data and WhatsApp number. We set up the domain and hosting in the clinic’s name on a short screen-share, or the practice owner creates them and adds us as users; payment for them goes from your card to the provider.`,
-        `At launch you receive the repository, admin logins, a list of every paid service with its renewal date, and a one-page note on updating timings, fees and dentist profiles. For two months after launch, small edits, fixes and updates are free. After that, maintenance is optional and starts at ${P.care} a month, or your own staff or another developer can take over with everything they need.`,
+        `At launch you receive the repository, admin logins, a list of every paid service with its renewal date, and a one-page note on updating timings, fees and dentist profiles. For two months after launch, small edits, fixes and updates are free. After that, maintenance is optional and starts at ${P.care}, or your own staff or another developer can take over with everything they need.`,
         `If the clinic changes hands or a partner leaves, this matters. A practice sale goes more smoothly when the website, domain and patient-facing number are clearly clinic assets rather than tied to one person’s personal accounts.`,
       ],
     },
@@ -396,10 +399,10 @@ const content: FreelanceContent = {
     { question: "Should I choose a freelancer or an agency for my dental website?", answer: "A small freelance team suits a clinic that wants to speak directly with the people building the site and has a clear scope. A large agency suits chains wanting advertising, video production and a big team at once. For most single and multi-chair clinics, a focused freelance build with ownership in the clinic’s name is enough." },
     { question: "Is a remote web designer fine, or should I hire someone local?", answer: "Dental clinic website design does not need anyone at your clinic. We work over Google Meet and WhatsApp, share staging links you open on your phone, and ask you to send clinic photos taken on a good phone or by a local photographer. What matters is how well the designer understands patients and treatments, not their distance from you." },
     { question: "Who owns the dental clinic website after it is built?", answer: "The clinic does. The domain and hosting are registered in the clinic’s name from day one, and at launch you get the code repository, admin logins, and a list of paid services with renewal dates. If you later want someone else to manage the site, they can take over without needing anything from us." },
-    { question: "What happens after the website goes live?", answer: `For two months after launch we handle small edits, fixes and updates for free: new timings, a new dentist, changed fees. After that, maintenance is optional and starts at ${P.care} a month. You can also let your own staff update fees and timings through the admin panel we set up.` },
+    { question: "What happens after the website goes live?", answer: `For two months after launch we handle small edits, fixes and updates for free: new timings, a new dentist, changed fees. After that, maintenance is optional and starts at ${P.care}. You can also let your own staff update fees and timings through the admin panel we set up.` },
     { question: "How do I pay, and is there a GST invoice?", answer: "Clinics in India pay by UPI or bank transfer, on the terms set out in your written quote. We share invoice details at quote stage; ask us about GST invoicing for your specific case. Nothing is billed before you approve the itemised quote. International clinics can pay in USD by Wise, bank wire or PayPal." },
     { question: "Can you sign an NDA before we share clinic data?", answer: "If you plan to share patient lists, pricing sheets or practice software access, ask us and we will discuss an NDA at quote stage. For most websites we need no patient data at all: treatment information, photos and timings are enough. Terms that apply to your project are agreed in the written quote; see our terms page for the general position." },
-    { question: "Will my dental website rank first on Google?", answer: `Nobody can honestly guarantee that. Rankings depend on competition in your area, your reviews, your content and time. We build the technical foundations correctly, write useful treatment pages and set up Search Console so you can watch progress. Ongoing local SEO starts at ${P.seo} a month if you want steady work on it.` },
+    { question: "Will my dental website rank first on Google?", answer: `Nobody can honestly guarantee that. Rankings depend on competition in your area, your reviews, your content and time. We build the technical foundations correctly, write useful treatment pages and set up Search Console so you can watch progress. Ongoing local SEO starts at ${P.seo} if you want steady work on it.` },
     { question: "How do AI search tools like Google’s AI Overviews pick dental answers?", answer: "They tend to quote pages that answer a question directly and clearly, from sources that look trustworthy. Treatment pages that open with a plain one- or two-sentence answer, list visit counts and cost drivers, show the dentist’s qualifications and use FAQ-style headings are easier for these systems to quote than long promotional text." },
     { question: "Does a dental clinic need a mobile app?", answer: `A single clinic almost never does; a fast website with WhatsApp booking covers the same needs without asking patients to install anything. A chain with aligner patients, memberships or loyalty programmes may benefit from an Android and iOS app, which we build from ${P.app} and publish in the clinic’s own store accounts.` },
     { question: "Can the site be in Hindi or a regional language?", answer: "Yes. We build bilingual or multilingual dental sites with proper language tags so Google shows the right version. You supply or approve the translated text, especially for clinical explanations. A practical start is to translate the most-read pages first, such as root canal, extraction and fees, and add the rest over time." },

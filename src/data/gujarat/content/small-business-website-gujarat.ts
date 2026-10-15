@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Small Business Website in Gujarat from ${P.site}`,
-    description: `Small business website in Gujarat for shops, traders and family firms: what the ${P.site} starting site includes, what never to cut, and how to launch in 1–2 weeks.`,
+    description: `Small business website in Gujarat for shops, traders & family firms: what the ${P.site} starting site includes, what never to cut, & how to launch in 1–2 weeks.`,
     keywords: [
       "small business website in Gujarat", "small business website Gujarat", "small business website near me", "website for shop Gujarat",
       "website for trader Gujarat", "family business website Gujarat", "affordable website Gujarat", "low cost website Gujarat",
@@ -446,6 +446,7 @@ const content: FreelanceContent = {
     heading: "More guides for small businesses in Gujarat",
     links: [
       { name: "All services in Gujarat", href: "/gujarat/" },
+      { name: "Solar company website in Gujarat", href: "/gujarat/solar-company-website-gujarat/" },
       { name: "Website development cost in Gujarat", href: "/gujarat/website-development-cost-gujarat/" },
       { name: "Website development services in Gujarat", href: "/gujarat/website-development-services-gujarat/" },
       { name: "Freelance web developer in Gujarat", href: "/gujarat/freelance-web-developer-gujarat/" },

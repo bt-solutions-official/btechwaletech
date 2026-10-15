@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "whatsapp chatbot shopify", "whatsapp chatbot woocommerce", "whatsapp chatbot amsterdam", "whatsapp chatbot rotterdam",
       "whatsapp chatbot utrecht", "how to build a whatsapp chatbot", "whatsapp business app vs api", "whatsapp chatbot developer",
       "whatsapp template messages", "remote whatsapp developer india",
+      "hire whatsapp chatbot for business in the Netherlands", "freelance whatsapp chatbot for business Netherlands",
     ],
   },
   hero: {

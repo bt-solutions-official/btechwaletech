@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `AI Calling Agent in Hindi & English from ${P.ai}`,
-    description: `AI calling agent for Indian businesses: Hindi, English and Hinglish calls for lead follow-up, reminders and feedback, TRAI-aware, logged to your CRM. From ${P.ai}.`,
+    description: `AI calling agent for Indian businesses: Hindi, English and Hinglish calls for lead follow-up, reminders and feedback, TRAI-aware, CRM-logged. From ${P.ai}.`,
     keywords: [
       "ai calling agent", "ai calling agent india", "ai calling agent in hindi", "ai voice calling agent", "ai phone calling agent",
       "ai calling bot", "ai calling software india", "hinglish ai calling agent", "ai calling agent for lead follow up",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "how does an ai calling agent work", "is ai calling legal in india", "ai calling agent trai dnd rules",
       "ai calling agent for real estate", "ai calling agent for clinics", "ai calling agent for coaching institute",
       "ai calling agent developer near me", "ai calling agent delhi", "ai calling agent bangalore", "ai se call kaise karwaye",
+      "ai calling agent company in India",
+      "best ai calling agent in India",
+      "ai calling agent services",
     ],
   },
   hero: {

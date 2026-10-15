@@ -7,7 +7,7 @@ const fazilka: CityContent = {
   meta: {
     title: "IT Services in Fazilka | Web, Apps & AI from ₹10,000",
     description:
-      "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Fazilka kinnow growers, cotton traders, jutti makers, clinics, schools and shops.",
+      "Fazilka Punjabi websites, mobile apps, local SEO and WhatsApp bots for kinnow growers, cotton traders, jutti makers, clinics, schools and shops. From ₹10,000.",
     keywords: [
       "IT services in Fazilka",
       "IT services team in Fazilka",
@@ -29,6 +29,10 @@ const fazilka: CityContent = {
       "Fazilka me website banwana",
       "Fazilka vich website banvao",
       "ਫ਼ਾਜ਼ਿਲਕਾ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Fazilka website designer",
+      "web development company Fazilka",
+      "hire freelance developer Fazilka",
+      "south-west Punjab SEO",
     ],
   },
   hero: {

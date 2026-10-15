@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 11.6643, lng: 78.146 },
   meta: {
-    title: "Freelance Software Developers in Salem, Tamil Nadu",
+    title: "Salem Software Developers: Sago, Silver & Steel Trade",
     description:
       "Hire freelance software developers for Salem: B2B catalogues, ecommerce, trade order portals, AI agents, dashboards and apps. Custom software from ₹60,000.",
     keywords: [
@@ -31,6 +31,14 @@ const content: CityContent = {
       "SEO services Salem",
       "website maintenance Salem",
       "சேலம் மென்பொருள் நிறுவனம்",
+      "Salem website designer",
+      "website cost in Salem",
+      "IT company in Salem",
+      "Tamil Nadu SEO services",
+      "hire developer Salem",
+      "sago software in Salem",
+      "silver anklets software in Salem",
+      "handloom software in Salem",
     ],
   },
   hero: {

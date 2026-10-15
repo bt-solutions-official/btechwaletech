@@ -386,7 +386,7 @@ const content: FreelanceContent = {
       ["Staging copy and inventory", "With access granted in your name, we clone the site to staging, add Git and list every extension with an update, replace or drop decision."],
       ["Upgrade in steps", "One major version at a time with Rector, Upgrade Wizards and manual fixes, reported in writing during your working day."],
       ["Editor testing and switch", "Your editors test on staging against a written list. We switch at an agreed time with a rollback ready and check redirects."],
-      ["Ongoing patching", `Security advisories tracked and applied from ${P.care} per month, with a short written summary each month.`],
+      ["Ongoing patching", `Security advisories tracked and applied from ${P.care}, with a short written summary each month.`],
     ],
   },
   faqHeading: "TYPO3 developer questions from German organisations",

@@ -26,12 +26,12 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Technical SEO for UK websites",
     h1: "Technical SEO audit services UK sites can act on, with the fixes actually built",
-    lede: `Technical SEO audit services UK businesses buy are only worth the changes that reach the live site. BtechWaleTech is three freelance developers in India who audit your Search Console exclusions, crawl waste, Core Web Vitals, en-GB hreflang, canonicals and redirects, then implement the fixes in WordPress, Shopify or your own code. Ongoing technical SEO starts from ${P.seo} a month, and the one-off audit is quoted once we have seen the site's size. If you are also thinking about AI answers, our <a href='/uk/ai-search-optimisation/'>AI search optimisation services</a> build on the same foundations.`,
+    lede: `Technical SEO audit services UK businesses buy are only worth the changes that reach the live site. BtechWaleTech is three freelance developers in India who audit your Search Console exclusions, crawl waste, Core Web Vitals, en-GB hreflang, canonicals and redirects, then implement the fixes in WordPress, Shopify or your own code. Ongoing technical SEO starts from ${P.seo}, and the one-off audit is quoted once we have seen the site's size. If you are also thinking about AI answers, our <a href='/uk/ai-search-optimisation/'>AI search optimisation services</a> build on the same foundations.`,
     pills: ["Search Console exclusions explained", "Crawl waste removed", "Core Web Vitals on real mobile data", "en-GB hreflang and canonicals", "Migration redirect maps", "Fixes built by developers", "Every change logged by URL"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · overlap with the UK day from late morning",
   },
   facts: [
-    ["Technical SEO work", `From ${P.seo} a month`],
+    ["Technical SEO work", `From ${P.seo}`],
     ["Audit report", "Findings ranked by impact and effort"],
     ["Fixes", "Implemented by our developers"],
     ["Platforms", "WordPress, Shopify, Next.js, custom"],
@@ -46,7 +46,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What do technical SEO audit services in the UK actually find and fix?",
-    text: `A technical SEO audit finds why Google cannot crawl, index or trust parts of your site: Search Console exclusions, crawl waste, slow Core Web Vitals, hreflang and canonical conflicts, and broken redirects. The value comes from implementing the fixes. BtechWaleTech audits UK sites and builds the fixes, with ongoing technical SEO from ${P.seo} a month.`,
+    text: `A technical SEO audit finds why Google cannot crawl, index or trust parts of your site: Search Console exclusions, crawl waste, slow Core Web Vitals, hreflang and canonical conflicts, and broken redirects. The value comes from implementing the fixes. BtechWaleTech audits UK sites and builds the fixes, with ongoing technical SEO from ${P.seo}.`,
     more: `Planning a rebuild? Our <a href='/uk/website-redesign-services/'>website redesign services</a> include redirect mapping, and <a href='/uk/seo-packages/'>UK SEO packages</a> explain how monthly work continues after the audit.`,
   },
   snapshot: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "International", value: "en-GB hreflang, x-default and canonical conflicts checked" },
       { label: "Migrations", value: "Old-to-new redirect maps built and tested before launch" },
       { label: "Output", value: "Ranked findings plus fixes deployed in your CMS or repository" },
-      { label: "Starting price", value: `Ongoing technical SEO from ${P.seo} a month` },
+      { label: "Starting price", value: `Ongoing technical SEO from ${P.seo}` },
     ],
   },
   services: {
@@ -88,13 +88,13 @@ const content: FreelanceContent = {
       ["Changes logged and re-tested", "No", "Sometimes", "Every change logged by URL"],
       ["Migration redirect testing", "No", "Advice", "Map built and tested pre-launch"],
       ["Follow-up after Google recrawls", "Re-run the tool", "Extra fee or none", "Checked in the next month's report"],
-      ["Pricing basis", "Subscription", "Quotes vary widely", `Audit quoted by size; ongoing from ${P.seo} a month`],
+      ["Pricing basis", "Subscription", "Quotes vary widely", `Audit quoted by size; ongoing from ${P.seo}`],
     ],
     fine: "If you already have a strong in-house developer team, a recommendations-only audit can work well; the key is that someone owns every fix.",
   },
   pricing: {
     heading: "What technical SEO audit services cost with us",
-    note: `The one-off audit is quoted by site size and platform, because a 40-page brochure site and a 40,000-URL shop are different jobs. Ongoing technical SEO, including implementing the audit's fixes in priority order, starts from ${P.seo} a month. Large fix batches, such as rebuilding slow templates or a full migration, are itemised separately so you can approve each one. If the audit shows the site cannot be repaired economically, we will say so and explain what a rebuild would involve; an SEO-focused site with us starts from ${P.seoSite}. Every figure is a starting price, confirmed in writing before any invoice.`,
+    note: `The one-off audit is quoted by site size and platform, because a 40-page brochure site and a 40,000-URL shop are different jobs. Ongoing technical SEO, including implementing the audit's fixes in priority order, starts from ${P.seo}. Large fix batches, such as rebuilding slow templates or a full migration, are itemised separately so you can approve each one. If the audit shows the site cannot be repaired economically, we will say so and explain what a rebuild would involve; an SEO-focused site with us starts from ${P.seoSite}. Every figure is a starting price, confirmed in writing before any invoice.`,
   },
   guideLabel: "Technical SEO audit services UK: what to expect",
   guide: [
@@ -264,7 +264,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do technical SEO audit services cost in the UK?",
       paragraphs: [
-        `Quotes for technical SEO audit services in the UK vary widely, mostly because some include implementation and many do not. With us, the one-off audit is quoted by site size and platform after a quick look, and ongoing technical SEO that works through the fixes starts from ${P.seo} a month.`,
+        `Quotes for technical SEO audit services in the UK vary widely, mostly because some include implementation and many do not. With us, the one-off audit is quoted by site size and platform after a quick look, and ongoing technical SEO that works through the fixes starts from ${P.seo}.`,
         `The main cost drivers are easy to predict. Number of URLs and templates, because each template needs its own performance and indexing review. Platform, since a custom or headless build takes longer to change than a standard WordPress theme. International versions, which add hreflang work. Migrations, which need a full redirect map. And the number and severity of fixes, which is only known after the audit.`,
         `What we do not do is bury a small site in a huge audit. A local business with a 25-page site needs a focused review and a short list of fixes, not a 90-page report. A 30,000-URL retailer needs log analysis, crawl segmentation and a phased plan. You get the audit your site needs, priced to match, with every line itemised before you approve it.`,
       ],
@@ -426,7 +426,7 @@ const content: FreelanceContent = {
   faqHeading: "Technical SEO audit services UK: frequently asked questions",
   faqs: [
     { question: "What is a technical SEO audit?", answer: "A technical SEO audit examines how well search engines can crawl, render, index and understand your website. It covers Search Console indexing exclusions, crawl waste, Core Web Vitals, canonicals, hreflang, redirects, JavaScript rendering, sitemaps, robots.txt and structured data. A useful audit ranks findings by business impact and leads to fixes on the live site." },
-    { question: "How much does a technical SEO audit cost in the UK?", answer: `Quotes vary widely, largely because some audits include implementation and many do not. With BtechWaleTech, the one-off audit is quoted by site size and platform, and ongoing technical SEO that implements the fixes starts from ${P.seo} a month. Large fix batches such as template rebuilds or migrations are itemised separately.` },
+    { question: "How much does a technical SEO audit cost in the UK?", answer: `Quotes vary widely, largely because some audits include implementation and many do not. With BtechWaleTech, the one-off audit is quoted by site size and platform, and ongoing technical SEO that implements the fixes starts from ${P.seo}. Large fix batches such as template rebuilds or migrations are itemised separately.` },
     { question: "What is included in your technical SEO audit services?", answer: "Search Console exclusions grouped by cause, a full crawl compared with sitemaps, crawl waste analysis, Core Web Vitals from field data by template, hreflang and canonical checks, redirect and migration review, JavaScript rendering tests, robots.txt and structured data validation, and a ranked fix list. Then our developers implement the fixes and log each change." },
     { question: "Do you implement the fixes or just recommend them?", answer: "We implement them. Our developers make the changes in WordPress, Shopify, Webflow, Next.js or custom code, on staging first where available, and log every change by URL and date. If you prefer your own developers to do the work, we hand over findings written for them and can review their pull requests." },
     { question: "What does “Crawled, currently not indexed” mean?", answer: "Google describes it as a page that was crawled but not indexed, which may or may not be indexed in the future. On UK sites it usually points to thin or near-duplicate content, often in location or service templates, or weak internal linking. The fix is normally in the template and internal links, not on individual pages." },
@@ -444,7 +444,7 @@ const content: FreelanceContent = {
     { question: "How do we pay you from the UK?", answer: "Quotes are in US dollars, and you can pay in USD or GBP by Wise, bank wire or PayPal. Nothing is billed before you approve the itemised quote in writing. Invoices are issued from India; for how to treat them in your accounts, ask your accountant." },
     { question: "Does a technical SEO audit cover AI search visibility?", answer: "It covers the foundations AI search relies on: indexability, rendering, structured data and robots.txt, including whether AI search crawlers are accidentally blocked. Deeper work on entity signals, answer-first content and AI referral tracking sits in our AI search optimisation service, which builds on the audit." },
     { question: "Can agencies resell your technical SEO audits?", answer: "Yes. Through our white label SEO arrangement, audits and fixes can be delivered in your agency's branding with no contact between us and your client. Confidentiality and non-contact terms are agreed in writing. Pricing is quoted to your agency, and you set your own retail price." },
-    { question: "What happens after the audit is finished?", answer: `Most clients move onto ongoing technical SEO from ${P.seo} a month, where we work through the remaining fixes, monitor Search Console and Core Web Vitals, and catch new problems after releases. You can also take the findings and implement them yourself; the audit remains yours either way.` },
+    { question: "What happens after the audit is finished?", answer: `Most clients move onto ongoing technical SEO from ${P.seo}, where we work through the remaining fixes, monitor Search Console and Core Web Vitals, and catch new problems after releases. You can also take the findings and implement them yourself; the audit remains yours either way.` },
     { question: "What should I send to get a quote?", answer: "Your domain, platform, main markets, any recent or planned migration, and what prompted the audit, such as a traffic drop or pages missing from Google. A screenshot of Search Console's Page indexing report helps. We reply with questions and an itemised quote in about two working days." },
   ],
   related: {
@@ -467,7 +467,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Get an audit that ends in fixes",
-    note: `Send your domain, platform and what prompted the audit. We will reply with questions and an itemised quote in about two working days. Ongoing technical SEO, including implemented fixes, starts from ${P.seo} a month.`,
+    note: `Send your domain, platform and what prompted the audit. We will reply with questions and an itemised quote in about two working days. Ongoing technical SEO, including implemented fixes, starts from ${P.seo}.`,
   },
 };
 

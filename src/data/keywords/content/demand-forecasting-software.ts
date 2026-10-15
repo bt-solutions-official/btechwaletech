@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "safety stock calculation", "festival season demand forecasting", "Diwali stock planning", "wedding season inventory planning",
       "dead stock reduction", "stockout prevention", "forecast accuracy MAPE", "demand planning software for SMEs",
       "demand forecasting Surat", "demand forecasting Ludhiana", "stock kitna mangana chahiye kaise pata kare", "demand forecasting tools",
+      "demand forecasting software company in India",
+      "best demand forecasting software in India",
+      "demand forecasting software services",
     ],
   },
   hero: {

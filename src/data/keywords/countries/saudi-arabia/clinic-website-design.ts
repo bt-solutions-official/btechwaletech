@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Clinic Website Design Saudi Arabia from ${P.site}`,
-    description: `Clinic website design in Saudi Arabia from ${P.site}: online booking, WhatsApp reminders, bilingual doctor profiles, insurance lists and PDPL-aware patient forms.`,
+    description: `Clinic website design in Saudi Arabia from ${P.site}: online booking, WhatsApp reminders, bilingual doctor profiles, insurance lists and PDPL-aware forms.`,
     keywords: [
       "clinic website design saudi arabia", "clinic website design in saudi arabia", "medical clinic website ksa",
       "dental clinic website design saudi arabia", "dermatology clinic website riyadh", "physiotherapy clinic website saudi",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "pdpl health data website", "medical website pdpl compliance", "clinic seo saudi arabia",
       "clinic website design near me", "best clinic website design for patients", "insurance accepted page clinic website",
       "how to get more patients from clinic website",
+      "hire clinic website design in Saudi Arabia", "freelance clinic website design Saudi Arabia",
     ],
   },
   hero: {

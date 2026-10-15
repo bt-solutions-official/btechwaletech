@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "AI agent development company in Dubai",
   updated: "2026-09-25",
   meta: {
-    title: `AI Agent Development Company in Dubai from ${P.ai}`,
+    title: `AI Agent Development in Dubai from ${P.ai}`,
     description: `AI agent development company in Dubai alternative: agents that book, update your CRM and draft quotes, with approval steps and audit logs. From ${P.ai}.`,
     keywords: [
       "ai agent development company in dubai", "ai agent development dubai", "ai agent developers uae",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "mcp server development uae", "ai agents abu dhabi", "ai agents sharjah", "ai agent pdpl uae",
       "hire ai agent developer remote", "ai agent development company near me", "ai workflow agents for smes uae",
       "how long does it take to build an ai agent",
+      "freelance ai agent development UAE",
     ],
   },
   hero: {

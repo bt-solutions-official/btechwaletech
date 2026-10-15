@@ -15,7 +15,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `QuickBooks Online Integration Developer, from ${P.ai}`,
-    description: `Hire a QuickBooks Online integration developer for Canada: invoice, payment and order sync with correct GST/HST/PST/QST codes. Builds from ${P.ai}, quoted in USD.`,
+    description: `Hire a QuickBooks Online integration developer for Canada: invoice, payment and order sync with correct GST/HST/PST/QST codes. Builds from ${P.ai}.`,
     keywords: [
       "quickbooks online integration developer", "quickbooks online integration canada", "quickbooks online api developer",
       "quickbooks integration developer", "hire quickbooks developer", "quickbooks online api integration", "quickbooks online sync",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "quickbooks developer near me", "quickbooks online integration toronto", "quickbooks online integration vancouver",
       "quickbooks online integration calgary", "quickbooks online integration montreal", "quickbooks online integration for small business",
       "quickbooks online webhooks developer", "intuit developer api consultant canada",
+      "freelance quickbooks online integration developer Canada",
     ],
   },
   hero: {

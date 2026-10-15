@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Spa Website Design: Bookings & Vouchers from ${P.site}`,
-    description: `Spa website design from ${P.site}: therapy menus that sell, booking by therapist, gift vouchers bought online, wellness packages and hotel spa pages that fill slots.`,
+    description: `Spa website design from ${P.site}: therapy menus that sell, booking by therapist, gift vouchers bought online, wellness packages and hotel spa pages.`,
     keywords: [
       "spa website design", "spa website design India", "spa website", "website for spa", "day spa website design", "wellness centre website design",
       "spa website with online booking", "spa booking website", "spa gift voucher website", "sell spa gift cards online", "spa gift card website India",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "spa website price in India", "how to design a spa website", "what should a spa website include", "spa website developer near me",
       "wellness retreat website", "spa package booking online", "spa website Goa", "spa website Bangalore", "spa website Mumbai",
       "thai spa website design", "spa therapist booking system",
+      "spa website design cost", "spa website design price", "spa website design company", "best spa website design in India",
+      "spa website design cost in India", "spa website design near me",
     ],
   },
   hero: {
@@ -294,7 +296,7 @@ const content: FreelanceContent = {
         ["Take bookings and sell vouchers online", "Calendar with rooms and therapists, UPI and card checkout, voucher shop", `${P.shop}`, "4–8 weeks"],
         ["Run several spas or a hotel group", "Multi-location booking, room charging, staff roles, reports", `${P.software}`, "6–12 weeks"],
         ["Automate reminders and follow-ups", "WhatsApp confirmations, reminders, review requests", `${P.ai}`, "2–4 weeks"],
-        ["Keep improving visibility", "Content, Google Business Profile, reporting", `${P.seo} a month`, "Ongoing"],
+        ["Keep improving visibility", "Content, Google Business Profile, reporting", `${P.seo}`, "Ongoing"],
       ],
       hideSm: [1],
     },
@@ -375,7 +377,7 @@ const content: FreelanceContent = {
     { question: "How does a hotel spa website link to room charges?", answer: "The simplest method asks resident guests for their room number and surname at booking. The booking is marked as charge to room, and your front office posts it to the guest folio in the hotel software. A direct connection to the property management system is possible only if the vendor offers an API, and we check that before quoting." },
     { question: "Can you build a spa website for a resort with rooms and wellness programmes?", answer: "Yes. Resort spas usually need treatment pages, multi-day wellness programme pages with daily schedules, and stay-and-spa bundles linked to the room booking engine. If the rooms themselves need a new site, we can build that too. Programmes should describe wellness care honestly and avoid medical claims unless a qualified practitioner stands behind them." },
     { question: "How long does it take to design a spa website?", answer: "A menu site is typically live in 1–2 weeks. A site with booking, therapist rota and a gift voucher shop takes 4–8 weeks, and hotel group builds take 6–12 weeks. Ready treatment copy and real photos are the biggest time savers. We share a staging link early so your team can test bookings before launch." },
-    { question: "Will my spa website show up in Google searches?", answer: `It can, especially for treatment and area searches, if the pages are useful and your Google Business Profile matches the site. We build treatment and location pages, DaySpa structured data, fast mobile pages and a sitemap. Nobody can honestly guarantee rankings. Ongoing SEO help is available from ${P.seo} a month if you want it after launch.` },
+    { question: "Will my spa website show up in Google searches?", answer: `It can, especially for treatment and area searches, if the pages are useful and your Google Business Profile matches the site. We build treatment and location pages, DaySpa structured data, fast mobile pages and a sitemap. Nobody can honestly guarantee rankings. Ongoing SEO help is available from ${P.seo} if you want it after launch.` },
     { question: "Can I show Google reviews on my spa website?", answer: "Yes, you can link to or display reviews with guests’ permission. However, Google’s review snippet guidelines say a business that controls reviews about itself is not eligible for star review rich results on pages marked up as a LocalBusiness or Organization, so we do not add self-serving review stars. Reviews still help guests decide, even without stars in search." },
     { question: "Do spa booking confirmations go out on WhatsApp?", answer: `They can. We send booking confirmations, a reminder the day before and a feedback request after the visit through the official WhatsApp Business API, using templates Meta approves. Guests must agree to receive messages. Message charges are billed by Meta and its partners. WhatsApp automation starts at ${P.ai}; email confirmations are included in every booking build.` },
     { question: "Can foreign tourists book and pay on my spa website?", answer: "Yes. Checkout accepts international cards and wallets as well as UPI for Indian guests. Prices remain in rupees, and you can show an approximate conversion for guidance. Pages can be offered in other languages if you supply or approve the translated text, which is useful for spas in Goa, Kerala and other tourist areas." },

@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "travel website Ajanta Ellora", "website developer Jalna Road", "website developer CIDCO Aurangabad", "freelance website developer Aurangabad",
       "Marathi website Aurangabad", "business website Marathwada", "Aurangabad me website kaise banaye", "Sambhajinagar website banwana hai",
       "best website developer in Aurangabad",
+      "website developer in Aurangabad cost", "website developer in Aurangabad price", "hire website developer in Aurangabad", "freelance website developer in Aurangabad",
+      "website developer in Aurangabad charges",
     ],
   },
   hero: {

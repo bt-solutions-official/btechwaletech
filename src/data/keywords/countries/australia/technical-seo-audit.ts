@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "site migration seo audit", "javascript seo audit", "shopify technical seo audit", "webflow seo audit", "react seo audit",
       "technical seo consultant australia", "technical seo audit near me", "technical seo audit for small business",
       "how long does a technical seo audit take", "seo audit and fixes",
+      "hire technical seo audit in Australia", "freelance technical seo audit Australia",
     ],
   },
   hero: {
@@ -279,7 +280,7 @@ const content: FreelanceContent = {
         "<strong>Markets</strong>: one site or separate AU, NZ and other versions",
         "<strong>Fix scope</strong>: report only, or report plus implementation",
       ],
-      after: [`Fixes are quoted separately and line by line. Ongoing monitoring and improvement afterwards start from ${P.seo} a month. For broader budgeting see <a href='/australia/website-design-cost/'>how much a website costs in Australia</a>.`],
+      after: [`Fixes are quoted separately and line by line. Ongoing monitoring and improvement afterwards start from ${P.seo}. For broader budgeting see <a href='/australia/website-design-cost/'>how much a website costs in Australia</a>.`],
     },
     {
       id: "timeline-deliverables",

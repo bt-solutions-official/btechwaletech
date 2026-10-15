@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Angular to React migration",
   updated: "2026-09-25",
   meta: {
-    title: `Angular to React Migration, Route by Route`,
+    title: `Angular to React Migration, Route by Route, ${P.software}+`,
     description: `Angular to React migration done incrementally, one route at a time, with the live app running throughout. Custom builds from ${P.software}. Honest go/no-go advice.`,
     keywords: [
       "angular to react migration", "migrate angular to react", "angular to react conversion", "convert angular app to react",
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
     { question: "Can you migrate an AngularJS 1.x app straight to React?", answer: "Yes. AngularJS apps must be rewritten whichever modern framework you choose, so going straight to React is a reasonable option. The same incremental approach applies: a proxy splits routes between the old app and the new one. If your team prefers Angular's structure, moving to modern Angular is the alternative, and we can price both." },
     { question: "Who owns the new React code?", answer: "You do, from the first commit. The React code goes into your repository, hosted on accounts you own, and we work as collaborators you can remove. At the end you receive documentation on architecture, state management, testing and deployment, so your own developers or another team can maintain it without depending on us." },
     { question: "Do you work with our in-house developers during the migration?", answer: "Yes, and it usually works better that way. Your developers know the business rules; we bring migration experience. A common split is that we set up the proxy, shared auth and first routes, then pair with your team on later routes so they learn the new patterns. We follow your branching, code review and release process." },
-    { question: "What maintenance do we get after the migration?", answer: `The first two months after the final cut-over include free maintenance for bug fixes and small adjustments. After that, care plans start at ${P.care} a month for dependency updates, monitoring and minor changes, with scope written into your quote. New features are estimated and approved separately before any work starts.` },
+    { question: "What maintenance do we get after the migration?", answer: `The first two months after the final cut-over include free maintenance for bug fixes and small adjustments. After that, care plans start at ${P.care} for dependency updates, monitoring and minor changes, with scope written into your quote. New features are estimated and approved separately before any work starts.` },
     { question: "How do payments and contracts work for a migration?", answer: "Each phase is a separate milestone with its own scope and estimate, and nothing is billed before you approve it in writing. Indian clients pay by UPI or bank transfer; international clients pay in USD via Wise, wire or PayPal. Confidentiality and access terms are agreed in the written quote, and our published terms and refund policy explain the general rules." },
     { question: "Why hire a small freelance team rather than a large vendor for this?", answer: "You talk directly to the three developers who review, migrate and support your app, which keeps decisions quick and context intact. A large vendor suits programmes needing many parallel squads or on-site staff, which we do not offer. For most business apps, a small experienced team moving route by route is enough and costs less to coordinate." },
   ],

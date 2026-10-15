@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Shopware 5 to 6 Migration, SEO Kept, from ${P.shop}`,
-    description: `Shopware 5 to 6 migration for German shops: data moved with the Migration Assistant, plugins rebuilt, 301 redirects kept. Projects from ${P.shop}, quote in 2 days.`,
+    description: `Shopware 5 to 6 migration for German shops: data moved with the Migration Assistant, plugins rebuilt, 301 redirects kept. Projects from ${P.shop}.`,
     keywords: [
       "shopware 5 to 6 migration", "shopware 5 to shopware 6 migration", "migrate shopware 5 to 6", "shopware 6 migration", "shopware migration assistant",
       "shopware 5 end of life", "shopware 5 eol", "shopware 5 security updates", "shopware 5 to 6 migration cost", "how long does shopware 5 to 6 migration take",
@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "shopware migration seo redirects", "shopware 5 to 6 seo urls", "shopware 5 to shopify", "shopware 5 to woocommerce", "shopware upgrade 5 to 6",
       "shopware 6 migration service", "shopware migration germany", "shopware migration berlin", "shopware migration munich", "shopware migration hamburg",
       "shopware 5 alternative", "shopware 5 to 6 migration checklist",
+      "hire shopware 5 to 6 migration in Germany", "freelance shopware 5 to 6 migration Germany",
     ],
   },
   hero: {

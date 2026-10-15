@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "salon management software cost", "salon software price in India", "best salon management software for small salon", "salon software vs booking app",
       "how to choose salon management software", "unisex salon software", "salon software Hyderabad", "salon software Ahmedabad",
       "parlour ke liye software", "salon management system", "salon GST billing software",
+      "salon management software price", "salon management software company", "best salon management software in India", "salon management software cost in India",
+      "salon management software near me",
     ],
   },
   hero: {

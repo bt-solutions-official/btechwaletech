@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "how to make a website for election campaign", "political party website developer", "corporator website design",
       "political campaign website developer near me", "election campaign website Uttar Pradesh", "election campaign website Bihar",
       "campaign landing page for candidate",
+      "political campaign website price", "political campaign website company", "best political campaign website in India", "political campaign website cost in India",
+      "political campaign website near me",
     ],
   },
   hero: {
@@ -403,7 +405,7 @@ const content: FreelanceContent = {
     { question: "Can we accept donations through the campaign website?", answer: "Political funding in India is governed by specific election and tax laws, so any donation or payment feature on a campaign site should wait for written advice from the campaign’s lawyer on how funds may be received and recorded. Once you have that advice, we can quote for building exactly what it allows." },
     { question: "Will you keep our campaign work confidential?", answer: "Discretion is expected in campaign work. Specific confidentiality terms, including a written NDA if you want one, are agreed in your written quote, and whether the work may ever be shown in a portfolio is your decision. All campaign data stays in your own accounts." },
     { question: "How do payments for the website work?", answer: "In India you pay by UPI or bank transfer in stages tied to visible progress, and nothing is billed before written approval of the quote. Invoices are itemised, which helps with expense records. Refund terms are on our refund policy page, and anything specific to your campaign is written into the quote." },
-    { question: "What support do we get during the campaign?", answer: `Two months of free maintenance cover fixes, content help and monitoring through most campaigns. We reply on WhatsApp seven days a week, Indian time. After that, maintenance starts at ${P.care} a month and is optional; any developer can take over because you hold all the access.` },
+    { question: "What support do we get during the campaign?", answer: `Two months of free maintenance cover fixes, content help and monitoring through most campaigns. We reply on WhatsApp seven days a week, Indian time. After that, maintenance starts at ${P.care} and is optional; any developer can take over because you hold all the access.` },
     { question: "Neta ki website banwane mein kitna kharcha aata hai?", answer: `Candidate ki profile, kaam ka report ya manifesto, events aur gallery wali Hindi-English website ${P.site} se shuru hoti hai. Booth-wise volunteer registration, shikayat tracking aur dashboard wala system ${P.software} se shuru hota hai. Quote itemised milta hai, jo chunav kharch ke record ke liye bhi kaam aata hai.` },
   ],
   related: {

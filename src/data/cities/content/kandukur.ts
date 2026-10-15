@@ -7,7 +7,7 @@ const kandukur: CityContent = {
   meta: {
     title: "IT Services in Kandukur | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Kandukur groundnut and tobacco traders, mango growers, colleges, clinics and shops.",
+      "Kandukur Telugu websites, mobile apps, local SEO and WhatsApp automation for groundnut and tobacco traders, mango growers, colleges and clinics. From ₹10,000.",
     keywords: [
       "IT services in Kandukur",
       "IT services team in Kandukur",
@@ -29,6 +29,10 @@ const kandukur: CityContent = {
       "Kandukur lo website cheyinchukovadam",
       "Kandukur app development Telugu",
       "కందుకూరు వెబ్‌సైట్ డిజైన్",
+      "Kandukur website designer",
+      "web development company Kandukur",
+      "hire freelance developer Kandukur",
+      "Andhra Pradesh SEO",
     ],
   },
   hero: {

@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Driver app", value: "Quoted as a separate app on top of the rider app" },
       { label: "Monthly running bills", value: "Maps API, server, OTP SMS, notifications" },
       { label: "Store fees", value: "Google Play US$25 once; Apple US$99 a year" },
-      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "WhatsApp booking flow", note: `Customers type pickup, drop and date on WhatsApp and get a confirmation back. Automation work starts from ${P.ai}.`, href: "/whatsapp-ordering-system/", size: "md" },
       { name: "Fleet and trip reports", note: "Kilometres per car, driver earnings, cancellations and fuel entries in a dashboard your manager checks each morning.", href: "/fleet-management-software/", size: "sm" },
       { name: "Store publishing", note: "Play Console and App Store Connect listings, screenshots and privacy forms filled in your own accounts.", href: "/rank-app-on-play-store/", size: "sm" },
-      { name: "Upkeep after launch", note: `Android and iOS updates, map key rotation and bug fixes: 2 months free, then from ${P.care} a month.`, href: "/app-maintenance-cost-in-india/", size: "sm" },
+      { name: "Upkeep after launch", note: `Android and iOS updates, map key rotation and bug fixes: 2 months free, then from ${P.care}.`, href: "/app-maintenance-cost-in-india/", size: "sm" },
     ],
   },
   comparison: {
@@ -114,7 +114,7 @@ const content: FreelanceContent = {
         `Web dispatch and admin panel: from ${P.software}`,
         `Booking website instead of an app: from ${P.site}`,
         "Driver app: priced as an additional app after we see your trip flow",
-        `Maintenance after the free 2 months: from ${P.care} a month`,
+        `Maintenance after the free 2 months: from ${P.care}`,
       ],
     },
     {
@@ -217,7 +217,7 @@ const content: FreelanceContent = {
         "OTP and alert SMS: charged per message by the SMS provider, with DLT template registration in India",
         "WhatsApp notifications: charged per delivered template message under Meta's per-message pricing",
         "Store fees: US$99 a year for Apple; Google Play's US$25 is paid once",
-        `Maintenance and updates: 2 months free from us, then from ${P.care} a month if you want us to continue`,
+        `Maintenance and updates: 2 months free from us, then from ${P.care} if you want us to continue`,
       ],
       after: [
         `Meta moved the WhatsApp Business Platform to per-message pricing from 1 July 2025, and its documentation says utility templates sent inside an open customer service window are free. That makes WhatsApp trip confirmations cheaper than many operators expect when the rider has just messaged you. More on this in <a href='/whatsapp-business-api-cost-in-india/'>WhatsApp Business API cost in India</a>.`,
@@ -325,7 +325,7 @@ const content: FreelanceContent = {
         ["Admin and dispatch panel", "Assignment, fares, drivers, reports, roles", `From ${P.software} (${P.softwareUsd})`, "6–12 weeks", "Any fleet above a few cars"],
         ["Driver app", "Trip alerts, navigation hand-off, OTP start, cash entry", "Quoted separately after trip flow review", "Runs alongside rider app", "Fleets with daily on-demand trips"],
         ["WhatsApp booking automation", "Booking by chat with confirmations", `From ${P.ai} (${P.aiUsd})`, "2–4 weeks", "Operators whose customers already WhatsApp"],
-        ["Maintenance", "OS updates, fixes, small changes", `From ${P.care} a month after 2 free months`, "Monthly", "Every live system"],
+        ["Maintenance", "OS updates, fixes, small changes", `From ${P.care} after 2 free months`, "Monthly", "Every live system"],
       ],
       hideSm: [1],
     },
@@ -403,7 +403,7 @@ const content: FreelanceContent = {
     { question: "Can I avoid Google Maps charges completely?", answer: "Partly. Outstation fares can come from a stored distance table, common routes can be cached, and open-source routing based on OpenStreetMap data can replace some requests if you host it on your own server. Some Google features remain simpler to use. We usually mix approaches so the monthly bill stays low without making the app harder for riders to use." },
     { question: "Which features keep taxi app development cost reasonable in version one?", answer: "Mobile OTP login, pickup and drop entry, trip type selection, fare estimate, booking confirmation, driver and vehicle details, ride history and an emergency contact option for riders. On the office side: trip list, assignment, fare tables and driver documents. Wallets, referral codes, surge pricing and in-app chat can usually wait until real riders ask for them." },
     { question: "Is it cheaper to buy a readymade taxi script?", answer: "A script is usually cheaper to start and often costlier later. You may not get editable source code, the apps might be published under the seller's account, and every change goes back to the seller. A custom build costs more upfront but only contains what you use, and you own the code and store accounts from the first day." },
-    { question: "Does taxi app development cost include the monthly running bills?", answer: `No, taxi app development cost covers the build. Expect separate bills for cloud hosting, maps usage beyond the free tier, OTP SMS, WhatsApp template messages and Apple's US$99 yearly developer fee. Google Play's US$25 is paid once. Maintenance from us is free for 2 months after launch, then continues from ${P.care} a month if you want it. We list estimated running costs in the quote so there are no surprises.` },
+    { question: "Does taxi app development cost include the monthly running bills?", answer: `No, taxi app development cost covers the build. Expect separate bills for cloud hosting, maps usage beyond the free tier, OTP SMS, WhatsApp template messages and Apple's US$99 yearly developer fee. Google Play's US$25 is paid once. Maintenance from us is free for 2 months after launch, then continues from ${P.care} if you want it. We list estimated running costs in the quote so there are no surprises.` },
     { question: "How are fares calculated in a cab booking app?", answer: "The app applies your tariff card as rules: base fare plus per-kilometre rate for local trips, hour-and-kilometre slabs for rentals, minimum daily kilometres and driver allowance for outstation, fixed zone fares for airports, and waiting, toll and parking charges. We test the engine against your real past trips so its answers match what your office would have charged." },
     { question: "Can the app handle cash and UPI paid to drivers?", answer: "Yes. The driver marks the amount and method at the end of each trip, and the admin panel keeps a ledger of cash collected per driver and money owed to the office. Online payments go through a gateway account in your business name straight to your bank. Your accountant approves invoice and statement formats before launch." },
     { question: "Do I own the taxi app source code?", answer: "Yes. The code sits in a repository in your name, the apps are published under your own Google Play and Apple developer accounts, and the server runs in your cloud account. If you ever change developers, the new team can pick up from the same code. Ownership is set up at the start, not handed over at the end." },

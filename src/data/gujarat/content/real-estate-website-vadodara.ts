@@ -374,6 +374,7 @@ const content: FreelanceContent = {
     heading: "Related property and Vadodara guides",
     links: [
       { name: "All Gujarat website guides", href: "/gujarat/" },
+      { name: "Real estate website in Rajkot", href: "/gujarat/real-estate-website-rajkot/" },
       { name: "Pharma company website in Vadodara", href: "/gujarat/pharma-company-website-vadodara/" },
       { name: "Real estate website in Surat", href: "/gujarat/real-estate-website-surat/" },
       { name: "Small business website in Vadodara", href: "/gujarat/small-business-website-vadodara/" },

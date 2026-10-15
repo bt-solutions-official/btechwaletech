@@ -7,7 +7,7 @@ const raiganj: CityContent = {
   meta: {
     title: "Raiganj Websites, Local SEO and Online Stores",
     description:
-      "Website design, Google Maps setup, Tulaipanji rice stores and WhatsApp tools for Raiganj traders, clinics, tutors and shops across Uttar Dinajpur. Written quotes.",
+      "Web design, Maps setup and Tulaipanji rice stores for Raiganj traders, clinics, tutors and shops across Uttar Dinajpur. Sites from ₹10,000, yours to keep.",
     keywords: [
       "website development team in Raiganj",
       "web designer Raiganj",
@@ -25,6 +25,16 @@ const raiganj: CityContent = {
       "রায়গঞ্জ ওয়েবসাইট ডিজাইন",
       "website design Kaliaganj Itahar",
       "website maintenance Raiganj",
+      "Raiganj website designer",
+      "web development company Raiganj",
+      "hire freelance web developer Raiganj",
+      "Uttar Dinajpur SEO services",
+      "website designer Uttar Dinajpur",
+      "Raiganj tulaipanji rice sellers website",
+      "tulaipanji rice sellers website design Raiganj",
+      "website design Mohanbati Raiganj",
+      "website design Bandar Raiganj",
+      "website design Sudarshanpur Raiganj",
     ],
   },
   hero: {

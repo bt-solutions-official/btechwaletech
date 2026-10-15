@@ -7,7 +7,7 @@ const veraval: CityContent = {
   meta: {
     title: "Veraval Website Development & SEO | From ₹10,000",
     description:
-      "Gujarati and English websites, SEO, stores and WhatsApp automation for Veraval seafood exporters, Somnath hotels, Kesar mango growers and shops. From ₹10,000.",
+      "Gujarati and English websites, SEO and stores for Veraval seafood exporters, Somnath hotels, Kesar mango growers and shops. Websites from ₹10,000.",
     keywords: [
       "website development team in Veraval",
       "web designer Veraval",
@@ -25,6 +25,16 @@ const veraval: CityContent = {
       "ecommerce website Veraval",
       "Veraval ma website",
       "website maintenance Veraval",
+      "Veraval website designer",
+      "web development company Veraval",
+      "hire freelance web developer Veraval",
+      "Gir Somnath SEO services",
+      "website designer Gir Somnath",
+      "Gujarat SEO services",
+      "Veraval kesar mango growers website",
+      "kesar mango growers website design Veraval",
+      "website design Satta Bazar Veraval",
+      "website design Tower Chowk Veraval",
     ],
   },
   hero: {

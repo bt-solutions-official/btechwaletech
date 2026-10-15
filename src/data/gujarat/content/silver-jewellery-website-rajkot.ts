@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Silver jewellery website in Rajkot from ${P.site}`,
-    description: `Silver jewellery website in Rajkot for makers and wholesalers: design-code catalogues, login-only weights, WhatsApp enquiry lists. From ${P.site}, itemised quote.`,
+    description: `Silver jewellery website in Rajkot for makers and wholesalers: design-code catalogues, login-only weights, WhatsApp enquiry lists. From ${P.site}, 2-day quote.`,
     keywords: [
       "silver jewellery website in Rajkot", "silver jewellery website Rajkot", "silver jewellery website design Rajkot Gujarat", "silver payal manufacturer website",
       "wholesale silver jewellery catalogue website", "B2B jewellery catalogue Rajkot", "jewellery website developer Rajkot", "jewellery website designer near me",

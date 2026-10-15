@@ -7,7 +7,7 @@ const koyilandy: CityContent = {
   meta: {
     title: "IT Services in Koyilandy | Web, Apps & AI from ₹10,000",
     description:
-      "Malayalam and English websites, Android and iOS apps, local SEO and WhatsApp automation for Koyilandy fish traders, Gulf-linked families, shops, clinics and schools.",
+      "Koyilandy Malayalam and English websites, mobile apps, local SEO and WhatsApp bots for fish traders, Gulf-linked families, shops and clinics. ₹10,000 upwards.",
     keywords: [
       "IT services in Koyilandy",
       "IT services team in Koyilandy",
@@ -29,6 +29,10 @@ const koyilandy: CityContent = {
       "Koyilandy me website banwana",
       "Koyilandyil website undakkan",
       "കൊയിലാണ്ടി വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Koyilandy website designer",
+      "web development company Koyilandy",
+      "hire freelance developer Koyilandy",
+      "Kerala SEO",
     ],
   },
   hero: {

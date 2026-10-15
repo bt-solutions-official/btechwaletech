@@ -7,7 +7,7 @@ const jalandhar: CityContent = {
   meta: {
     title: "IT Services in Jalandhar: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, export catalogues and WhatsApp automation for Jalandhar sports goods, leather and tool makers. Sites from ₹10,000, 2 months free maintenance.",
+      "Jalandhar websites, SEO, export catalogues and WhatsApp automation for sports goods, leather and tool makers. Sites from ₹10,000, 2 months free maintenance.",
     keywords: [
       "website development team in Jalandhar",
       "web designer Jalandhar",
@@ -25,6 +25,14 @@ const jalandhar: CityContent = {
       "software team Jalandhar",
       "website maintenance Jalandhar",
       "Jalandhar vich website banvauni",
+      "Jalandhar website designer",
+      "web development company Jalandhar",
+      "hire freelance developer Jalandhar",
+      "Punjab SEO",
+      "website for sports goods manufacturing in Jalandhar",
+      "web designer in Model Town, Jalandhar",
+      "website for leather and tanneries in Jalandhar",
+      "mobile app developer in Jalandhar",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Vanthali · Sites from ${P.site}`,
-    description: `Website developer in Vanthali for clinics, shops, schools and farm dealers near Junagadh. Gujarati-friendly sites from ${P.site}, remote build, 2 months free care.`,
+    description: `Website developer in Vanthali for clinics, shops, schools and farm dealers near Junagadh. Gujarati-friendly sites from ${P.site}, remote build, 2 free months.`,
     keywords: [
       "website developer in Vanthali", "website developer Vanthali", "website developer Vanthali Gujarat", "web developer Vanthali Junagadh",
       "website designer Vanthali", "website developer near me Vanthali", "Vanthali website cost", "website price Vanthali",

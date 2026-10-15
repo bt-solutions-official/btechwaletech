@@ -7,7 +7,7 @@ const bikaner: CityContent = {
   meta: {
     title: "Bikaner Web Design & SEO | Namkeen, Wool and Tourism",
     description:
-      "Websites, online stores, SEO and WhatsApp automation for Bikaner bhujia makers, wool and gypsum units, hotels and shops. Static sites start at ₹10,000.",
+      "Bikaner websites, online stores, SEO and WhatsApp automation for bhujia makers, wool and gypsum units, hotels and shops. Static sites start at ₹10,000.",
     keywords: [
       "website development team in Bikaner",
       "web designer Bikaner",
@@ -24,6 +24,15 @@ const bikaner: CityContent = {
       "website maintenance Bikaner",
       "Bikaner me website kaise banwaye",
       "बीकानेर वेबसाइट डिज़ाइन",
+      "Bikaner website designer",
+      "web development company Bikaner",
+      "hire freelance developer Bikaner",
+      "Rajasthan SEO",
+      "website for bhujia, papad and namkeen in Bikaner",
+      "web designer in Kote Gate, Bikaner",
+      "website for sweets and rasgulla in Bikaner",
+      "mobile app developer in Bikaner",
+      "ecommerce website development in Bikaner",
     ],
   },
   hero: {

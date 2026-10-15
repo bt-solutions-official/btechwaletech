@@ -7,7 +7,7 @@ const gohana: CityContent = {
   meta: {
     title: "IT Services in Gohana | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Gohana halwais, grain-mandi arhtiyas, coaching centres, clinics and Sonipat district shops.",
+      "Gohana websites, Android and iOS apps, local SEO and WhatsApp automation for halwais, grain-mandi arhtiyas, coaching centres and clinics. Starts at ₹10,000.",
     keywords: [
       "IT services in Gohana",
       "IT services team in Gohana",
@@ -29,6 +29,10 @@ const gohana: CityContent = {
       "Gohana me website banwana",
       "Gohana mein app banwana hai",
       "गोहाना वेबसाइट डिजाइन",
+      "Gohana website designer",
+      "web development company Gohana",
+      "hire freelance developer Gohana",
+      "Haryana SEO",
     ],
   },
   hero: {

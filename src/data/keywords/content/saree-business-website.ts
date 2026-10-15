@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "weaver website to sell sarees", "Banarasi saree website", "Kanjivaram saree online store", "saree business website Surat",
       "saree business website Varanasi", "saree shop website near me", "saree ki website kaise banaye", "saree Shopify store India",
       "saree website developer", "boutique saree website",
+      "saree business website price", "saree business website company", "best saree business website in India", "saree business website cost in India",
+      "saree business website near me",
     ],
   },
   hero: {

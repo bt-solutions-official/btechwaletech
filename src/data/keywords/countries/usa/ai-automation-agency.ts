@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `AI Automation Agency for US SMBs: from ${P.ai}`,
-    description: `AI automation agency alternative for US small businesses: lead follow-up, inbox and PDF automation on n8n, Make or Zapier from ${P.ai}, measured in hours saved.`,
+    description: `AI automation agency for US small businesses: lead follow-up, inbox and PDF automation on n8n, Make or Zapier from ${P.ai}, measured in hours saved.`,
     keywords: [
       "ai automation agency", "ai automation agency for small business", "ai automation services", "ai workflow automation",
       "business process automation with ai", "what should a small business automate first", "how much does an ai automation agency cost", "ai automation agency cost",
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Running costs", value: "Platform plan or small server, plus AI model usage billed to your card" },
       { label: "Where data goes", value: "Only the fields each step needs; API providers that do not train on your data by default" },
       { label: "How success is measured", value: "Hours saved per week and response time, logged from day one" },
-      { label: "After launch", value: `2 months of free maintenance, then support from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free maintenance, then support from ${P.care}` },
     ],
   },
   services: {
@@ -323,7 +323,7 @@ const content: FreelanceContent = {
         ["Workflow plus dashboard", "Automation with a weekly KPI view", `From ${P.ai} + dashboard scope`, "4–6 weeks"],
         ["Automation inside custom software", "Own database, admin screens, roles", `From ${P.software}`, "6–12 weeks"],
         ["Website plus lead automation", "New lead site wired to the CRM", `From ${P.site} + ${P.ai}`, "3–6 weeks"],
-        ["Ongoing support", "Monitoring, fixes, small changes", `From ${P.care} a month after 2 free months`, "Monthly"],
+        ["Ongoing support", "Monitoring, fixes, small changes", `From ${P.care} after 2 free months`, "Monthly"],
       ],
     },
   ],

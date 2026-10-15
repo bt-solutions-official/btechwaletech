@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "vet clinic website Pune", "pet hospital website Hyderabad", "vet clinic website Gurgaon", "how to get more clients for vet clinic",
       "veterinary clinic SEO", "emergency vet website", "vet clinic WhatsApp reminders", "pet clinic ki website", "animal hospital website design",
       "veterinary website features",
+      "veterinary clinic website price", "veterinary clinic website company", "best veterinary clinic website in India", "veterinary clinic website cost in India",
     ],
   },
   hero: {
@@ -211,7 +212,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The clinic owns everything: domain, hosting, source code, the WhatsApp Business account, the payment gateway account and every owner and pet record. We set these up in the clinic's name from the start and hand over all logins at launch.`,
         `This matters more than it sounds. Pet records and reminder histories become valuable over years. If a developer holds the hosting, or a platform holds the client list, moving away later means losing that history. With your own accounts, you can switch developers or bring work in-house without asking anyone's permission.`,
-        `After launch, 2 months of maintenance are free. After that, care plans start at ${P.care} a month, or you can take the code elsewhere. Terms on changes are set in your written quote and on our <a href='/terms/'>terms page</a>.`,
+        `After launch, 2 months of maintenance are free. After that, care plans start at ${P.care}, or you can take the code elsewhere. Terms on changes are set in your written quote and on our <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -394,7 +395,7 @@ const content: FreelanceContent = {
     { question: "Will a veterinary clinic website help me show up on Google Maps?", answer: "The website supports Maps visibility by matching your Google Business Profile details exactly, adding VeterinaryCare structured data and publishing service and locality pages that Google can connect to your listing. It helps, but no one can guarantee a Maps position. Reviews, distance and profile activity also play a large part." },
     { question: "Should I hire a freelancer or an agency for my vet clinic website?", answer: "A small freelance team works well for most clinics: you talk directly to the developers, costs carry fewer overheads and changes move quickly. An agency may suit a large hospital chain needing many specialists at once or formal procurement. Either way, insist on accounts in your name and a written, itemised quote." },
     { question: "Can you add an online pet food and accessories store?", answer: `Yes. A shop with a product catalogue, cart, UPI and card checkout, delivery options and GST invoices starts at ${P.shop}. It can share the clinic's owner accounts so a client sees food orders beside their pet's records. Stock and pricing remain the clinic's to manage through a simple admin panel.` },
-    { question: "What happens after my veterinary clinic website goes live?", answer: `You get 2 months of free maintenance for fixes, updates and small changes. After that, maintenance starts at ${P.care} per month, or you may hire anyone else since you hold the code. New features such as another service type or a branch page are quoted separately in writing.` },
+    { question: "What happens after my veterinary clinic website goes live?", answer: `You get 2 months of free maintenance for fixes, updates and small changes. After that, maintenance starts at ${P.care}, or you may hire anyone else since you hold the code. New features such as another service type or a branch page are quoted separately in writing.` },
     { question: "How do I pay for the website?", answer: "Clinics in India pay by UPI or bank transfer, following the schedule in the approved quote. Clinics abroad pay by Wise, bank wire or PayPal, quoted in USD. Nothing is billed before you approve the quote in writing. Our refund policy page explains what happens if a project is cancelled." },
     { question: "Can my vet clinic website be in Hindi or a regional language?", answer: "Yes. We build bilingual sites with a language switch and separate URLs for each language so search engines index both. You supply or approve the translated text. Fonts are chosen so Devanagari, Tamil, Telugu, Bengali and other scripts render properly on budget phones." },
     { question: "Do you show vets' registration details on the site?", answer: "We recommend it. Each vet profile can show qualification and registration, since the Veterinary Council of India keeps the Indian Veterinary Practitioners' Register under the Indian Veterinary Council Act, 1984. New owners use these details to judge a clinic they have never visited, and it costs nothing to display." },

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `App Banwana Hai? Kharcha, Time aur Play Store Steps`,
-    description: `App banwana hai? Android aur iPhone app ${P.app} se shuru, 6–10 hafte mein Play Store par. Steps, kharcha, time aur account ownership simple bhasha mein.`,
+    description: `App banwana hai? Android aur iPhone app ${P.app} se shuru, 6–10 hafte mein Play Store par. Steps, kharcha aur account ownership saaf. Quote 2 din me.`,
     keywords: [
       "app banwana hai", "mujhe app banwana hai", "app banwana hai kitna kharcha", "app banwane ka kharcha", "app kaise banwaye",
       "mobile app banwana hai", "android app banwana hai", "business ke liye app banwana hai", "app banwane wala near me", "app developer India",

@@ -7,7 +7,7 @@ const arsikere: CityContent = {
   meta: {
     title: "IT Services in Arsikere | Web, Apps & AI from ₹10,000",
     description:
-      "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Arsikere copra traders, coconut oil units, colleges, clinics, lodges and shops.",
+      "Arsikere Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for copra traders, coconut oil units, colleges, clinics, lodges and shops.",
     keywords: [
       "IT services in Arsikere",
       "IT services team in Arsikere",
@@ -29,6 +29,10 @@ const arsikere: CityContent = {
       "Arsikere me website banwana",
       "Arasikereyalli website beku",
       "ಅರಸೀಕೆರೆ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Arsikere website designer",
+      "web development company Arsikere",
+      "hire freelance developer Arsikere",
+      "Karnataka SEO",
     ],
   },
   hero: {

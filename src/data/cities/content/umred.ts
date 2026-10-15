@@ -7,7 +7,7 @@ const umred: CityContent = {
   meta: {
     title: "IT Services in Umred | Web, Apps & AI from ₹10,000",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Umred coal-belt contractors, chilli traders, safari stays, clinics and shops.",
+      "Marathi websites, apps, local SEO and WhatsApp tools for Umred coal-belt contractors, chilli traders, safari stays, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Umred",
       "IT services team in Umred",
@@ -29,6 +29,12 @@ const umred: CityContent = {
       "Umred madhe website banvane",
       "Umred app banwana",
       "उमरेड वेबसाइट डिझाईन",
+      "Umred website designer",
+      "web development company Umred",
+      "hire freelance web developer Umred",
+      "Nagpur district SEO",
+      "website designer Nagpur district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

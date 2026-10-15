@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "diy template vs professional wordpress site", "wordpress developer amsterdam", "wordpress developer rotterdam",
       "wordpress developer utrecht", "wordpress developer eindhoven", "wordpress website den haag",
       "remote wordpress developer india", "wordpress website onderhoud",
+      "hire wordpress website development in the Netherlands", "freelance wordpress website development Netherlands",
     ],
   },
   hero: {
@@ -73,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Privacy-minded forms", note: "Contact and quote forms ask only for what you use, store submissions for a period you choose, and record which consent text a visitor saw.", size: "md" },
       { name: "Consent banner wired correctly", note: "Analytics and marketing scripts load only after opt-in; the banner offers a refusal as easy as acceptance, with no wall blocking the page.", size: "md" },
       { name: "EU hosting and backups", note: "Managed WordPress hosting in an EU data centre on your account, daily off-site backups, and a restore test before handover.", href: "/cloud-hosting-setup-freelancer/", size: "md" },
-      { name: "SEO groundwork", note: `Titles, schema, sitemaps, Search Console, Core Web Vitals checks. Ongoing SEO from ${P.seo} a month if you want it.`, href: "/netherlands/technical-seo-services/", size: "sm" },
+      { name: "SEO groundwork", note: `Titles, schema, sitemaps, Search Console, Core Web Vitals checks. Ongoing SEO from ${P.seo} if you want it.`, href: "/netherlands/technical-seo-services/", size: "sm" },
       { name: "Custom plugins", note: `Booking rules, calculators or CRM hand-offs that no plugin covers, written as a small plugin you own. From ${P.software}.`, href: "/custom-wordpress-plugin-development/", size: "sm" },
       { name: "Care plan", note: `Staged updates, uptime checks, security scans and small edits, from ${P.care} after two free months.`, href: "/wordpress-maintenance-services/", size: "sm" },
     ],

@@ -7,7 +7,7 @@ const nilambur: CityContent = {
   meta: {
     title: "IT Services in Nilambur: Websites, Apps, SEO & AI",
     description:
-      "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Nilambur teak merchants, homestays, terracotta makers, colleges and shops.",
+      "Malayalam websites, apps, local SEO and WhatsApp tools for Nilambur teak merchants, homestays, terracotta makers, colleges and shops. Websites from ₹10,000.",
     keywords: [
       "IT services in Nilambur",
       "IT services team in Nilambur",
@@ -29,6 +29,12 @@ const nilambur: CityContent = {
       "Nilambur me website banwana",
       "Nilamburil website cheyyan",
       "നിലമ്പൂർ വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Nilambur website designer",
+      "web development company Nilambur",
+      "hire freelance web developer Nilambur",
+      "Malappuram district SEO",
+      "website designer Malappuram district",
+      "Kerala SEO services",
     ],
   },
   hero: {

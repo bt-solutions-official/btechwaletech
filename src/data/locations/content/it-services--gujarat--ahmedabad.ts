@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.0225, lng: 72.5714 },
   meta: {
-    title: "Freelance Software Developers in Ahmedabad",
+    title: "Ahmedabad Software Developers: Chemicals & Textiles",
     description:
       "Freelance software developers in Ahmedabad for custom ERP, startup MVPs, Android and iOS apps, AI agents and cloud. Starting prices, 3 engineers, UPI or bank.",
     keywords: [
@@ -30,6 +30,15 @@ const content: CityContent = {
       "software developers near Vatva GIDC",
       "Amdavad ma software developer",
       "અમદાવાદમાં સોફ્ટવેર ડેવલપર",
+      "Ahmedabad website designer",
+      "website cost in Ahmedabad",
+      "IT company in Ahmedabad",
+      "Gujarat SEO services",
+      "hire developer Ahmedabad",
+      "chemicals software in Ahmedabad",
+      "textiles software in Ahmedabad",
+      "engineering software in Ahmedabad",
+      "real estate software in Ahmedabad",
     ],
   },
   hero: {

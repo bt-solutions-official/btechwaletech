@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "pipeda secure hosting", "pipeda website checklist", "pipeda compliant contact form", "pipeda compliant website cost",
       "pipeda compliant website developer", "pipeda website toronto", "pipeda website ottawa", "pipeda website winnipeg", "pipeda website halifax",
       "pipeda vs law 25 website", "privacy compliant website canada", "canadian privacy law website requirements", "pipeda ecommerce website",
+      "hire pipeda compliant website in Canada", "freelance pipeda compliant website Canada",
     ],
   },
   hero: {

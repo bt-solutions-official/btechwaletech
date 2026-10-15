@@ -5,9 +5,9 @@ const malkapur: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 20.885, lng: 76.2 },
   meta: {
-    title: "IT Services in Malkapur | Web, Apps & AI from ₹10,000",
+    title: "Malkapur Website Design: Ginning, Grain & MIDC",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Malkapur cotton ginners, grain and cloth traders, MIDC units, colleges and clinics.",
+      "Malkapur websites, Marathi SEO and WhatsApp order tools for cotton ginning and pressing units, grain and saree traders and MIDC firms. From ₹10,000.",
     keywords: [
       "IT services in Malkapur",
       "IT services team in Malkapur",
@@ -29,6 +29,16 @@ const malkapur: CityContent = {
       "Malkapur me website banwana",
       "Malkapur madhe website banvaychi",
       "मलकापूर वेबसाइट डिझाइन",
+      "Malkapur website designer",
+      "web development company Malkapur",
+      "hire freelance web developer Malkapur",
+      "Buldhana district SEO",
+      "website designer Buldhana district",
+      "Maharashtra SEO services",
+      "Malkapur me website kaise banwaye",
+      "Malkapur website banwane ka kharcha",
+      "Malkapur MIDC manufacturing website",
+      "MIDC manufacturing website design Malkapur",
     ],
   },
   hero: {

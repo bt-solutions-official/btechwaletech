@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Keyword research services",
   updated: "2026-09-25",
   meta: {
-    title: "Keyword Research Services: Hinglish, Intent, Page Map",
-    description: `Keyword research services for Indian businesses: Hinglish and regional queries, buyer intent, competitor gaps and a keyword-to-page map. SEO from ${P.seo}/month.`,
+    title: `Keyword Research Services: Hinglish & Intent, ${P.seo}`,
+    description: `Keyword research services for Indian businesses: Hinglish and regional queries, buyer intent, competitor gaps and a keyword-to-page map. SEO from ${P.seo}.`,
     keywords: [
       "keyword research services", "keyword research services India", "seo keyword research service", "professional keyword research",
       "keyword research cost", "keyword research price India", "how much does keyword research cost", "keyword research for small business",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "keyword research for ecommerce", "keyword research deliverables", "keyword research spreadsheet", "keyword research freelancer",
       "keyword research Kanpur", "keyword research Bhopal", "keyword research kaise kare", "long tail keyword research",
       "keyword clustering service", "what is keyword research in seo",
+      "keyword research services company in India",
+      "best keyword research services in India",
     ],
   },
   hero: {

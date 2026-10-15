@@ -7,7 +7,7 @@ const korba: CityContent = {
   meta: {
     title: "Korba Website Design, SEO & Vendor Portals",
     description:
-      "Websites, local SEO, vendor profiles and WhatsApp automation for Korba contractors, suppliers, shops and clinics near NTPC, BALCO and SECL. Plans from ₹10,000.",
+      "Korba websites, local SEO, vendor profiles and WhatsApp bots for contractors, suppliers, shops and clinics near NTPC, BALCO and SECL. Plans from ₹10,000.",
     keywords: [
       "website development team in Korba",
       "website designer Korba",
@@ -24,6 +24,15 @@ const korba: CityContent = {
       "Korba me website kaise banwaye",
       "कोरबा वेबसाइट डिज़ाइन",
       "website banane wala Korba",
+      "Korba website designer",
+      "website cost in Korba",
+      "web development company Korba",
+      "hire freelance developer Korba",
+      "Chhattisgarh SEO",
+      "website for plant and mine contractors in Korba",
+      "web designer in Kosabadi, Korba",
+      "website for industrial suppliers in Korba",
+      "mobile app developer in Korba",
     ],
   },
   hero: {

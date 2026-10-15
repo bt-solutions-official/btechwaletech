@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 24.8333, lng: 92.7789 },
   meta: {
-    title: "Hire Freelance Software Developers in Silchar",
+    title: "Silchar Software Developers: Wholesale & Hospitals",
     description:
       "Hire freelance software developers in Silchar for billing, hospital, AI and app projects across the Barak Valley. Three remote engineers, prices from ₹10,000.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "IT support Hailakandi Karimganj",
       "শিলচরে সফটওয়্যার ডেভেলপার",
       "Silchar mein software banwana",
+      "Silchar website designer",
+      "website cost in Silchar",
+      "IT company in Silchar",
+      "Assam SEO services",
+      "hire developer Silchar",
+      "wholesale software in Silchar",
+      "hospitals software in Silchar",
     ],
   },
   hero: {

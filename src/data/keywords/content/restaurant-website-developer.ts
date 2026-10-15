@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Restaurant Website Developer | Menu Sites from ${P.site}`,
-    description: `Restaurant website developer for menus, direct online ordering and table bookings. Menu sites from ${P.site}, ordering from ${P.shop}. Costs and features explained.`,
+    description: `Restaurant website developer for menus, direct online ordering and table bookings. Menu sites from ${P.site}, ordering from ${P.shop}. Quote in 2 days.`,
     keywords: [
       "restaurant website developer", "restaurant website developer in India", "restaurant website developer near me", "restaurant website design",
       "restaurant website cost", "restaurant website price India", "best restaurant website developer", "restaurant ki website banwani hai",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "restaurant website Delhi", "restaurant website Bangalore", "restaurant website Hyderabad", "restaurant website Pune",
       "restaurant website Kolkata", "restaurant website for direct orders", "hire restaurant website developer", "catering website developer",
       "bakery website developer", "restaurant website with WhatsApp ordering",
+      "freelance restaurant website developer", "restaurant website developer cost", "best restaurant website developer in India", "restaurant website developer price",
+      "restaurant website developer charges",
     ],
   },
   hero: {
@@ -174,7 +176,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Mostly through Google Business Profile, supported by your website. When someone searches “south Indian restaurant near me”, Google leans on your profile’s category, distance, reviews and photos; your website adds weight and gives Google a clean menu to read.`,
         `We connect the two properly: the website link and menu link on your profile, the same name, address and phone on both, Restaurant schema with cuisine, price range and opening hours, and a sitemap in Google Search Console. Multi-outlet restaurants get one page per location with that outlet’s address, hours and map.`,
-        `Reviews matter as much as code. A QR code on the bill leading to your review link, and a polite message after delivery orders, produce steady reviews over time. Nobody can guarantee a map position, and we will not promise one. If you want ongoing help, <a href='/local-seo-expert/'>local SEO</a> starts at ${P.seo} per month.`,
+        `Reviews matter as much as code. A QR code on the bill leading to your review link, and a polite message after delivery orders, produce steady reviews over time. Nobody can guarantee a map position, and we will not promise one. If you want ongoing help, <a href='/local-seo-expert/'>local SEO</a> starts at ${P.seo}.`,
       ],
     },
     {

@@ -7,7 +7,7 @@ const akot: CityContent = {
   meta: {
     title: "IT Services in Akot | Web, Apps & AI from ₹10,000",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Akot cotton traders, ginning units, farm input dealers, clinics and colleges.",
+      "Akot Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for cotton traders, ginning units, farm input dealers, clinics and colleges.",
     keywords: [
       "IT services in Akot",
       "IT services team in Akot",
@@ -29,6 +29,10 @@ const akot: CityContent = {
       "Akot me website banwana",
       "Akot madhe website banvaychi aahe",
       "अकोट वेबसाइट डिझाइन",
+      "Akot website designer",
+      "web development company Akot",
+      "hire freelance developer Akot",
+      "Maharashtra SEO",
     ],
   },
   hero: {

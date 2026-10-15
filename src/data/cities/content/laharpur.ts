@@ -7,7 +7,7 @@ const laharpur: CityContent = {
   meta: {
     title: "IT Services in Laharpur | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Laharpur durrie weavers, timber and leather units, sugarcane traders, schools and clinics.",
+      "Laharpur websites, mobile apps, local SEO and WhatsApp bots for durrie weavers, timber and leather units, sugarcane traders and schools. Ask us on WhatsApp.",
     keywords: [
       "IT services in Laharpur",
       "IT services team in Laharpur",
@@ -29,6 +29,10 @@ const laharpur: CityContent = {
       "Laharpur me website banwana",
       "Sitapur me app banwana",
       "लहरपुर वेबसाइट डिज़ाइन",
+      "Laharpur website designer",
+      "web development company Laharpur",
+      "hire freelance developer Laharpur",
+      "Uttar Pradesh SEO",
     ],
   },
   hero: {

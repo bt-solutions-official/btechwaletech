@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance Ecommerce Developer | Stores from ${P.shop}`,
-    description: `Freelance ecommerce developer for Indian brands: platform choice, catalogue, UPI checkout, shipping and GST invoices. Online stores from ${P.shop}, you own it all.`,
+    description: `Freelance ecommerce developer for Indian brands: platform choice, catalogue, UPI checkout, shipping and GST invoices. Stores from ${P.shop}, you own it all.`,
     keywords: [
       "freelance ecommerce developer", "freelance ecommerce developer in India", "ecommerce developer near me", "ecommerce developer for hire",
       "freelance ecommerce developer cost", "ecommerce website price India", "best freelance ecommerce developer", "online store banwana hai",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "Shopify vs WooCommerce vs custom", "ecommerce website with UPI payment", "ecommerce website with COD", "ecommerce catalogue upload",
       "GST invoice ecommerce website", "D2C website developer", "custom ecommerce development India", "ecommerce store setup freelancer",
       "shipping integration ecommerce India",
+      "hire freelance ecommerce developer",
     ],
   },
   hero: {
@@ -373,7 +374,7 @@ const content: FreelanceContent = {
       ["Prepare the catalogue together", "We send a spreadsheet template; you fill products, variants, weights and tax codes while we design the storefront on a staging link."],
       ["Test with real orders", "We place and refund real UPI, card and COD orders, check invoices and shipping rates, and fix anything that looks wrong on a phone."],
       ["Launch and hand over", "The domain goes live, Search Console and merchant feed are set up, and you get an access list, staff guide and admin walkthrough on video."],
-      ["Run the first two months with us", `Fixes, small changes and platform updates are free for two months. After that, maintenance starts from ${P.care} a month if you want it.`],
+      ["Run the first two months with us", `Fixes, small changes and platform updates are free for two months. After that, maintenance starts from ${P.care} if you want it.`],
     ],
   },
   faqHeading: "Freelance ecommerce developer: questions sellers ask",
@@ -392,7 +393,7 @@ const content: FreelanceContent = {
     { question: "Will you do SEO for my online store?", answer: `Store SEO basics are part of every build: category structure, unique titles, product schema, sitemaps, fast images and Search Console set-up. Ongoing SEO with content, category improvements and monthly reports starts from ${P.seo}. Nobody can promise specific Google positions, and we never do.` },
     { question: "Is a freelance ecommerce developer better than an agency?", answer: "A freelancer or small freelance team suits stores with a clear product range, a founder who decides quickly and a budget below agency rates. You talk directly to the builders. An agency fits large marketplaces, many parallel workstreams or formal procurement. For most small and mid-sized Indian brands, the freelance route is enough." },
     { question: "Can I also get a shopping app for my store?", answer: `Yes. Once repeat buyers justify it, an Android and iOS app can run on the same catalogue, customers and orders, starting from ${P.app}. We usually suggest launching the website first and adding the app after you see how often customers return.` },
-    { question: "What happens after my store goes live?", answer: `The first two months of maintenance are free: fixes, small changes, platform and plugin updates, and help with sale setups. After that, maintenance starts from ${P.care} a month and is optional. You can also run the store yourself or hand it to another developer with the access list we provide.` },
+    { question: "What happens after my store goes live?", answer: `The first two months of maintenance are free: fixes, small changes, platform and plugin updates, and help with sale setups. After that, maintenance starts from ${P.care} and is optional. You can also run the store yourself or hand it to another developer with the access list we provide.` },
     { question: "How do I pay for an ecommerce project?", answer: "Payments are split into stages tied to visible work, such as approved designs, a working staging store and launch. Clients in India pay by UPI or bank transfer; international clients by Wise, bank wire or PayPal. Nothing is billed until you approve the written, itemised quote." },
     { question: "Can you build a store for selling abroad from India?", answer: `Yes. We set up USD or other currency pricing, international shipping zones and rates, and payment options suited to overseas buyers. Clients outside India are billed in USD, with stores starting from ${P.shopUsd}. Export paperwork and customs rules stay with you and your logistics partner.` },
     { question: "Can you sign an NDA before I share my product plans?", answer: "Yes. BtechWaleTech signs a reasonable NDA before you share unreleased products, supplier details or customer data. The written scope then covers price, timeline, payment stages, ownership of accounts and code, and what support looks like after launch, so both sides know exactly what is agreed." },

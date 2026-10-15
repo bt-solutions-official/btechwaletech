@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "revamp old company website", "website revamp for sme singapore", "website refresh vs rebuild", "core web vitals website revamp",
       "pdpa website update", "website revamp near me", "website revamp jurong", "website revamp paya lebar", "website revamp woodlands",
       "will a website redesign affect seo", "website makeover singapore",
+      "hire website revamp in Singapore", "freelance website revamp Singapore",
     ],
   },
   hero: {
@@ -72,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Slow WordPress themes replaced", note: "Heavy page-builder themes and unused plugins swapped for a lean theme or custom build, with your content and URLs kept where they work.", href: "/singapore/wordpress-website-design/", size: "md" },
       { name: "PDPA notice and forms refresh", note: "Enquiry forms trimmed, consent wording updated to your counsel's text, and analytics held behind a cookie preference panel.", href: "/singapore/pdpa-compliant-website/", size: "md" },
       { name: "Store revamps", note: `Product URLs, categories and checkout rebuilt with redirects for every product, from ${P.shop}.`, href: "/singapore/ecommerce-website-design/", size: "sm" },
-      { name: "SEO after relaunch", note: `Monitoring and growth once the new site is live, from ${P.seo} a month.`, href: "/singapore/seo-cost/", size: "sm" },
+      { name: "SEO after relaunch", note: `Monitoring and growth once the new site is live, from ${P.seo}.`, href: "/singapore/seo-cost/", size: "sm" },
       { name: "Care after launch", note: `Two free months of maintenance, then plans from ${P.care}.`, href: "/singapore/website-maintenance/", size: "sm" },
     ],
   },

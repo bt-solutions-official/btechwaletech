@@ -7,7 +7,7 @@ const makrana: CityContent = {
   meta: {
     title: "IT Services in Makrana | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, SEO and WhatsApp automation for Makrana marble mines, processing units, traders, handicraft workshops, schools and shops.",
+      "Websites, apps, SEO and WhatsApp automation for Makrana marble mines, processing units, traders, handicraft workshops, schools and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Makrana",
       "IT services team in Makrana",
@@ -30,6 +30,11 @@ const makrana: CityContent = {
       "Makrana me website banwana",
       "Makrana mein app kaise banwaye",
       "मकराना वेबसाइट डिज़ाइन",
+      "Makrana website designer",
+      "web development company Makrana",
+      "hire freelance web developer Makrana",
+      "Didwana-Kuchaman district SEO",
+      "website designer Didwana-Kuchaman district",
     ],
   },
   hero: {

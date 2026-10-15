@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "outsourced web development for agencies", "agency development partner", "white label WordPress development", "white label ecommerce development",
       "white label app development", "white label SEO website build", "unbranded web development", "white label developer India",
       "private label web development",
+      "white label web development price", "white label web development company", "best white label web development in India", "white label web development cost in India",
     ],
   },
   hero: {

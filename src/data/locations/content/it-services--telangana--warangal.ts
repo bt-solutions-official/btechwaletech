@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 17.9689, lng: 79.5941 },
   meta: {
-    title: "Freelance Software Developers in Warangal",
+    title: "Warangal Software Developers: Colleges & Agri Traders",
     description:
-      "Freelance software developers for Warangal, Hanamkonda and Kazipet: college CRMs, hospital booking, trader software, AI agents and apps. Web apps from ₹60,000.",
+      "Freelance software developers for Warangal, Hanamkonda and Kazipet: college CRMs, hospital booking and trader software. Web apps from ₹60,000.",
     keywords: [
       "software development team in Warangal",
       "Android app development Warangal",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "IT services near me Warangal",
       "website maintenance Warangal",
       "వరంగల్ సాఫ్ట్‌వేర్ డెవలపర్లు",
+      "Warangal website designer",
+      "website cost in Warangal",
+      "IT company in Warangal",
+      "Telangana SEO services",
+      "hire developer Warangal",
+      "engineering software in Warangal",
+      "coaching centres software in Warangal",
+      "hospitals software in Warangal",
     ],
   },
   hero: {

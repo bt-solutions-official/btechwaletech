@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "french menu website quebec", "restaurant website toronto", "restaurant website montreal", "restaurant website vancouver",
       "restaurant website calgary", "google business profile order online link", "direct ordering website for restaurants",
       "how to reduce delivery app commissions", "restaurant website near me", "takeout ordering website canada",
+      "hire restaurant website with online ordering in Canada", "freelance restaurant website with online ordering Canada",
     ],
   },
   hero: {

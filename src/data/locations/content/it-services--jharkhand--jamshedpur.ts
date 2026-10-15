@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 22.8046, lng: 86.2029 },
   meta: {
-    title: "Freelance Software Developers in Jamshedpur for MSMEs",
+    title: "Jamshedpur Software Developers: Job-work & Machine Shops",
     description:
-      "Searching for a software development team in Jamshedpur? Hire our freelance group for job-work tracking, quality records, AI automation and dashboards.",
+      "Searching for a software development team in Jamshedpur? Hire our freelance group for job-work tracking, quality records and AI. From ₹10,000 upwards.",
     keywords: [
       "software development team in Jamshedpur",
       "IT services team in Jamshedpur",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "website maintenance Jamshedpur",
       "Jamshedpur mein software developer",
       "जमशेदपुर में सॉफ्टवेयर डेवलपर",
+      "Jamshedpur website designer",
+      "website cost in Jamshedpur",
+      "IT company in Jamshedpur",
+      "Jharkhand SEO services",
+      "hire developer Jamshedpur",
+      "auto-component software in Jamshedpur",
     ],
   },
   hero: {

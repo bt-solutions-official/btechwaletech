@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Logistics Company Website Design Singapore, ${P.site}+`,
-    description: `Logistics company website design in Singapore: RFQ and instant-quote forms, shipment tracking, portal links and lane pages for regional B2B buyers. From ${P.site}.`,
+    description: `Logistics company website design in Singapore: RFQ and instant-quote forms, shipment tracking, portal links and lane pages for B2B buyers. From ${P.site}.`,
     keywords: [
       "logistics company website design singapore", "logistics website design singapore", "freight forwarder website design", "3pl website design singapore",
       "courier company website singapore", "logistics website cost singapore", "how much does a logistics website cost", "freight quote form website",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "trade lane pages freight forwarder", "warehouse company website singapore", "secure trade partnership stp website", "b2b seo logistics singapore",
       "logistics seo asia", "freight forwarder website tuas", "logistics website changi", "courier website builder singapore",
       "multilingual logistics website asean", "logistics web developer singapore", "cold chain logistics website", "logistics website near me singapore",
+      "hire logistics company website design in Singapore", "freelance logistics company website design Singapore",
     ],
   },
   hero: {

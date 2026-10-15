@@ -170,7 +170,7 @@ const content: FreelanceContent = {
         "Open Graph images for sharing on LinkedIn and WhatsApp",
       ],
       after: [
-        `AI search tools and Google’s AI features lift answers from clear, well-structured pages, so we also write question-style headings and short answer paragraphs into templates where it suits your content. For continuing work, our <a href='/services/seo-services/'>SEO services</a> start at ${P.seo} a month. Nobody can promise rankings; we can promise the technical groundwork is done.`,
+        `AI search tools and Google’s AI features lift answers from clear, well-structured pages, so we also write question-style headings and short answer paragraphs into templates where it suits your content. For continuing work, our <a href='/services/seo-services/'>SEO services</a> start at ${P.seo}. Nobody can promise rankings; we can promise the technical groundwork is done.`,
       ],
     },
     {

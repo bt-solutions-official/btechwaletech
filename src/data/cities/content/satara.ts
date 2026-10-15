@@ -7,7 +7,7 @@ const satara: CityContent = {
   meta: {
     title: "IT Services in Satara: Websites, Apps, SEO & AI",
     description:
-      "Websites, Marathi local SEO, vendor catalogues, pedha and strawberry stores, and WhatsApp automation for Satara MIDC units, shops, colleges and hotels.",
+      "Websites, Marathi SEO and pedha and strawberry stores for Satara MIDC units, shops, colleges and hotels. Sites from ₹10,000, live in 1-2 weeks.",
     keywords: [
       "website development team in Satara",
       "web designer Satara",
@@ -25,6 +25,16 @@ const satara: CityContent = {
       "Satara madhye website banvun milel ka",
       "सातारा वेबसाइट डिझाइन",
       "software team Satara",
+      "Satara website designer",
+      "website cost in Satara",
+      "web development company Satara",
+      "hire freelance web developer Satara",
+      "Maharashtra SEO services",
+      "Satara me website kaise banwaye",
+      "Satara website banwane ka kharcha",
+      "Satara strawberry farms website",
+      "strawberry farms website design Satara",
+      "website design Rajwada Satara",
     ],
   },
   hero: {

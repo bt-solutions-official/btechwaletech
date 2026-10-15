@@ -7,7 +7,7 @@ const suratgarh: CityContent = {
   meta: {
     title: "IT Services in Suratgarh | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Suratgarh cotton and grain traders, brick kilns, clinics, schools and dealers.",
+      "Hindi websites, apps, Maps SEO and WhatsApp automation for Suratgarh cotton and grain traders, brick kilns, clinics, schools and dealers. From ₹10,000.",
     keywords: [
       "IT services in Suratgarh",
       "IT services team in Suratgarh",
@@ -29,6 +29,12 @@ const suratgarh: CityContent = {
       "Suratgarh me website banwana",
       "Suratgarh me app banwana",
       "सूरतगढ़ वेबसाइट डिज़ाइन",
+      "Suratgarh website designer",
+      "web development company Suratgarh",
+      "hire freelance web developer Suratgarh",
+      "Sri Ganganagar district SEO",
+      "website designer Sri Ganganagar district",
+      "Rajasthan SEO services",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const karnal: CityContent = {
   meta: {
     title: "Karnal Website Design, SEO & Automation Team",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Karnal rice millers, dairy firms, clinics, IELTS centres and shops. From ₹10,000, 2 months free care.",
+      "Karnal websites, local SEO, online stores and WhatsApp bots for rice millers, dairy firms, clinics, IELTS centres and shops. From ₹10,000, 2 months free care.",
     keywords: [
       "website development team in Karnal",
       "web designer Karnal",
@@ -25,6 +25,14 @@ const karnal: CityContent = {
       "website maintenance Karnal",
       "Karnal mein website banwana",
       "करनाल वेबसाइट डिजाइन",
+      "Karnal website designer",
+      "web development company Karnal",
+      "hire freelance developer Karnal",
+      "Haryana SEO",
+      "Karnal me website kaise banwaye",
+      "website for rice mills and basmati exporters in Karnal",
+      "web designer in Kunjpura Road, Karnal",
+      "website for dairy and allied businesses in Karnal",
     ],
   },
   hero: {

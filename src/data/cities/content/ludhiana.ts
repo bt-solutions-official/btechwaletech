@@ -7,7 +7,7 @@ const ludhiana: CityContent = {
   meta: {
     title: "IT Services in Ludhiana: Websites, Apps, SEO & AI",
     description:
-      "Websites, B2B catalogues, SEO and WhatsApp automation for Ludhiana hosiery, cycle-parts and machine-tool firms. From ₹10,000, with 2 months free maintenance.",
+      "Ludhiana websites, B2B catalogues, SEO and WhatsApp automation for hosiery, cycle-parts and machine-tool firms. From ₹10,000, with 2 months free maintenance.",
     keywords: [
       "website development team in Ludhiana",
       "web design team Ludhiana",
@@ -25,6 +25,14 @@ const ludhiana: CityContent = {
       "web developer Focal Point Ludhiana",
       "Ludhiana vich website banvao",
       "ਲੁਧਿਆਣਾ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Ludhiana website designer",
+      "website cost in Ludhiana",
+      "web development company Ludhiana",
+      "hire freelance developer Ludhiana",
+      "Punjab SEO",
+      "website for hosiery and winter knitwear in Ludhiana",
+      "web designer in Focal Point, Ludhiana",
+      "website for bicycles and components in Ludhiana",
     ],
   },
   hero: {

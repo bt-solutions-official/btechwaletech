@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "freight dispatch software winnipeg", "trucking software developer montreal", "cross-border trucking dispatch software",
       "owner operator dispatch software", "proof of delivery app development", "trucking dispatch software developers near me",
       "fleet dispatch software canada",
+      "hire trucking dispatch software development in Canada", "freelance trucking dispatch software development Canada",
     ],
   },
   hero: {

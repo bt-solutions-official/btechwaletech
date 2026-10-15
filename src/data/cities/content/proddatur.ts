@@ -7,7 +7,7 @@ const proddatur: CityContent = {
   meta: {
     title: "IT Services in Proddatur: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, catalogue stores and WhatsApp automation for Proddatur jewellers, cloth merchants, cotton traders and clinics. Static sites from ₹10,000.",
+      "Websites, SEO, catalogue stores and WhatsApp tools for Proddatur jewellers, cloth merchants, cotton traders and clinics. Websites from ₹10,000.",
     keywords: [
       "website development team in Proddatur",
       "web design Proddatur",
@@ -25,6 +25,16 @@ const proddatur: CityContent = {
       "website maintenance Proddatur",
       "Proddatur lo website cheyinchukovadam",
       "ప్రొద్దుటూరు వెబ్‌సైట్ డిజైన్",
+      "web development company Proddatur",
+      "hire freelance web developer Proddatur",
+      "YSR Kadapa SEO services",
+      "website designer YSR Kadapa",
+      "Andhra Pradesh SEO services",
+      "Proddatur wholesale cloth merchants website",
+      "wholesale cloth merchants website design Proddatur",
+      "website design Old Market Proddatur",
+      "website design Gandhi Road Proddatur",
+      "website design Mydukur Road Proddatur",
     ],
   },
   hero: {

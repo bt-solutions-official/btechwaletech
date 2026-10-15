@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 27.3314, lng: 88.6138 },
   meta: {
-    title: "Freelance Software Developers in Gangtok, Sikkim",
+    title: "Gangtok Software Developers: Travel Desks & Hotel Booking",
     description:
-      "Looking for a software development team in Gangtok? Hire three freelance engineers for travel agency ERPs, hotel booking, AI chat, apps and SEO. From ₹10,000.",
+      "Gangtok software developers for MG Marg travel desks, hotels, taxi unions and Nathu La permit tours. Booking engines from ₹60,000, sites ₹10,000.",
     keywords: [
       "Android app development Gangtok",
       "iOS app development Gangtok",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "cloud hosting Gangtok business",
       "गंगटोक में सॉफ्टवेयर डेवलपर",
       "Gangtok ma software banaune manche",
+      "Gangtok website designer",
+      "website cost in Gangtok",
+      "IT company in Gangtok",
+      "Sikkim SEO services",
+      "hire developer Gangtok",
+      "travel agencies software in Gangtok",
+      "hotels software in Gangtok",
     ],
   },
   hero: {
@@ -256,13 +263,13 @@ const content: CityContent = {
   ],
   faqs: [
     { question: "Is BtechWaleTech located in Gangtok?", answer: "No. We are a freelance group of three engineers working remotely from India, and we have no office in Gangtok. Projects run on WhatsApp, phone and video calls, with weekly test links so you can check progress from your own phone. You speak directly with the engineers writing the code." },
-    { question: "How are payments made?", answer: "Payments are made only in INR, by scanning our UPI QR code or by direct bank transfer to our bank account. Work is split into milestones tied to working deliverables, and every payment gets an invoice. For your guests or customers, we set up a payment gateway account in your own name." },
+    { question: "How are payments made?", answer: "Payments are made only in INR, by scanning our UPI QR code or by direct bank transfer to our bank account. Work is split into milestones tied to working deliverables, and every payment gets an invoice, whether the client is a travel agency on MG Marg, a hotel in Development Area or a taxi operator at Deorali. For your guests or customers, we set up a payment gateway account in your own name." },
     { question: "How much does travel agency software cost?", answer: "Custom travel agency software starts at ₹60,000. Package costing with itinerary PDFs sits near that point; adding hotel vouchers, permit document tracking, driver apps and dashboards expands the scope. We send an itemised quote in about two working days and can split it into phases." },
     { question: "How long does it take?", answer: "Six to twelve weeks for custom software, two to four weeks for AI automation, four to eight for an online store, three to five for an SEO website and one to two for a static website. Tourism businesses should plan to launch before the spring or autumn season." },
     { question: "Can the chatbot reply in Nepali and Hindi?", answer: "Yes. The assistant can reply in Nepali, Hindi and English, following the traveller's language. It only uses information you approve, never invents road or weather status, and passes refunds, cancellations and safety questions to your staff." },
     { question: "Will the software handle permit documents for North Sikkim?", answer: "Yes, on the document side. It collects each traveller's ID and photos, flags anything missing and groups documents per trip, so staff can file permits quickly. We do not file permits or connect to government portals unless an official integration exists." },
     { question: "Who owns the code and customer data?", answer: "You do. The domain, hosting, source code, database and all accounts are in your name or transferred at handover. Customer data stays with you, and you can move to another developer whenever you wish without losing anything." },
-    { question: "What does the free maintenance include?", answer: "Two months after launch at no charge: bug fixes, content updates, security patches, backups, uptime checks and performance monitoring. After that, maintenance starts at ₹8,000 a month, or you can pay only for specific changes. We reply on WhatsApp seven days a week." },
+    { question: "What does the free maintenance include?", answer: "Two months after launch at no charge: bug fixes, content updates, security patches, backups, uptime checks and performance monitoring. After that, maintenance starts at ₹8,000 a month, or you can pay only for specific changes, such as new package rates before the Tsomgo Lake and Nathu La season or a changed permit note for Lachung and Lachen trips. We reply on WhatsApp seven days a week." },
     { question: "When will SEO start bringing enquiries?", answer: "Usually within three to six months for specific searches and map results, longer for broad terms. Big travel portals dominate generic searches, so we focus on routes, hotel features and local searches where a Gangtok business can win. We do not guarantee rankings." },
     { question: "How much does an Android and iOS app cost in Gangtok?", answer: "Android and iOS apps start from ₹40,000 and usually take six to ten weeks. We build in Flutter or React Native and publish on Google Play and the Apple App Store under your developer accounts. Login, forms, push notifications and an admin panel are included in the starting plan; links to travel or booking software are itemised separately." },
     { question: "Can you fix our office computers or network?", answer: "No. We are remote software engineers, so we do not repair hardware, install CCTV or set up office networks. A local technician in Gangtok is the right choice for that. We handle websites, software, apps, automation, hosting and online support." },

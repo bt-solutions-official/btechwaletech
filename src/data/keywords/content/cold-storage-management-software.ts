@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "cold storage inventory software", "multi-commodity cold storage software", "cold storage software price", "cold storage management software cost",
       "custom cold storage software", "cold storage software Agra", "cold storage software Hooghly", "cold storage software Hindi",
       "cold storage ke liye software", "how to manage a cold storage", "cold chain warehouse software",
+      "cold storage management software company in India",
+      "best cold storage management software in India",
+      "cold storage management software services",
     ],
   },
   hero: {
@@ -60,7 +63,7 @@ const content: FreelanceContent = {
       { label: "Gate and chamber app", value: `From ${P.app}, works on budget Android` },
       { label: "Farmer messages", value: "Receipt and balance on WhatsApp or SMS, in Hindi or English" },
       { label: "Payments to us", value: "UPI or bank transfer, in stages set in your quote" },
-      { label: "Support", value: `2 free months, then from ${P.care} a month` },
+      { label: "Support", value: `2 free months, then from ${P.care}` },
     ],
   },
   services: {
@@ -315,7 +318,7 @@ const content: FreelanceContent = {
         ["Complete system (web)", "Core plus gate passes, advances, temperature log, reports", P.software, "8–12 weeks"],
         ["Gate and chamber app", "Offline entries, placements, readings, QR lot lookup", P.app, "6–10 weeks"],
         ["Automated messages and alerts", "Receipts, balances, rent due, temperature alerts", P.ai, "2–4 weeks"],
-        ["Ongoing support", "After 2 free months: fixes, backups, season changes", `${P.care} a month`, "Monthly"],
+        ["Ongoing support", "After 2 free months: fixes, backups, season changes", `${P.care}`, "Monthly"],
       ],
       hideSm: [1],
     },

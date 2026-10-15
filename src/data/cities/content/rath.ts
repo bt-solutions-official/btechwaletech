@@ -7,7 +7,7 @@ const rath: CityContent = {
   meta: {
     title: "IT Services in Rath | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Rath mandi traders, farm input dealers, colleges, clinics and shops in Bundelkhand.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Rath mandi traders, farm input dealers, colleges, clinics and shops in Bundelkhand. From ₹10,000.",
     keywords: [
       "IT services in Rath",
       "IT services team in Rath",
@@ -29,6 +29,12 @@ const rath: CityContent = {
       "Rath me app banwana",
       "राठ वेबसाइट डिजाइन",
       "हमीरपुर राठ वेबसाइट बनवाना",
+      "Rath website designer",
+      "web development company Rath",
+      "hire freelance web developer Rath",
+      "Hamirpur district SEO",
+      "website designer Hamirpur district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

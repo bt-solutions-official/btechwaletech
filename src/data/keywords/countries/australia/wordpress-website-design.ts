@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "wordpress hosting sydney", "accessible wordpress website", "wcag wordpress australia", "wordpress training for business owners",
       "edit my own wordpress website", "wordpress designer near me", "freelance wordpress designer australia",
       "remote wordpress developer", "wordpress site with enquiry form", "is wordpress good for small business",
+      "hire wordpress website design in Australia",
     ],
   },
   hero: {

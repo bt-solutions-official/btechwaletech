@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.2156, lng: 72.6369 },
   meta: {
-    title: "Freelance Software Developers in Gandhinagar",
+    title: "Gandhinagar Software Developers: Universities & Coaching",
     description:
-      "Hire freelance software developers in Gandhinagar for portals, web apps, AI agents, dashboards and SEO. Software from ₹60,000, apps from ₹40,000, quotes in 2 days.",
+      "Hire freelance software developers in Gandhinagar for portals, web apps and AI agents. Software from ₹60,000, apps from ₹40,000, quotes in 2 days.",
     keywords: [
       "software development team in Gandhinagar",
       "IT services team in Gandhinagar",
@@ -34,6 +34,11 @@ const content: CityContent = {
       "IT services Sargasan Raysan",
       "Gandhinagar ma software team",
       "ગાંધીનગર સોફ્ટવેર ડેવલપમેન્ટ",
+      "Gandhinagar website designer",
+      "website cost in Gandhinagar",
+      "IT company in Gandhinagar",
+      "Gujarat SEO services",
+      "hire developer Gandhinagar",
     ],
   },
   hero: {

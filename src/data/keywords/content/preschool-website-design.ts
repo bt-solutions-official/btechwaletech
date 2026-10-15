@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Preschool website design",
   updated: "2026-09-25",
   meta: {
-    title: `Preschool Website Design that Parents Trust`,
+    title: `Preschool Website Design from ${P.site}: Admissions`,
     description: `Preschool website design for play schools and daycares: safety and curriculum pages, visit booking, fee details and franchise enquiries. From ${P.site}.`,
     keywords: [
       "preschool website design", "play school website design", "playschool website development", "daycare website design",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "how to get more preschool admissions", "play school near me SEO", "preschool website Noida", "play school website Pune",
       "daycare website Bengaluru", "play school ki website kaise banaye", "preschool marketing website", "early learning centre website",
       "preschool website template vs custom",
+      "preschool website design cost", "preschool website design price", "preschool website design company", "best preschool website design in India",
+      "preschool website design cost in India", "preschool website design near me",
     ],
   },
   hero: {

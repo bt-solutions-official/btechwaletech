@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.6102, lng: 85.2799 },
   meta: {
-    title: "Freelance IT Services in Jharkhand: Software, AI, Apps",
+    title: "Jharkhand IT Services: Software, Apps & AI",
     description:
       "Freelance IT services in Jharkhand: custom software, AI automation, apps, SEO and websites for Ranchi, Jamshedpur, Dhanbad, Bokaro and Deoghar. INR prices.",
     keywords: [
@@ -33,6 +33,12 @@ const content: CityContent = {
       "website maintenance Jharkhand",
       "Jharkhand mein software team",
       "झारखंड में आईटी सेवाएं",
+      "Jharkhand website designer",
+      "website cost in Jharkhand",
+      "IT company in Jharkhand",
+      "Jharkhand SEO services",
+      "hire developer Jharkhand",
+      "mining software in Jharkhand",
     ],
   },
   hero: {

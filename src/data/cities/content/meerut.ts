@@ -7,7 +7,7 @@ const meerut: CityContent = {
   meta: {
     title: "IT Services in Meerut: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and automation for Meerut's sports goods makers, scissor units, jewellers and clinics. From ₹10,000, itemised quote in two days, you own the code.",
+      "Websites, SEO and automation for Meerut's sports goods makers, scissor units, jewellers and clinics. Sites from ₹10,000, free upkeep for 2 months.",
     keywords: [
       "web development team in Meerut",
       "website designer Meerut",
@@ -25,6 +25,16 @@ const meerut: CityContent = {
       "website maintenance Meerut",
       "Meerut me website kaise banwaye",
       "मेरठ में वेबसाइट डिजाइन",
+      "web development company Meerut",
+      "hire freelance web developer Meerut",
+      "Uttar Pradesh SEO services",
+      "Meerut website banwane ka kharcha",
+      "sports goods website design Meerut",
+      "Meerut jewellery website",
+      "jewellery website design Meerut",
+      "Meerut healthcare website",
+      "healthcare website design Meerut",
+      "Meerut real estate website",
     ],
   },
   hero: {

@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "budget website developer", "cheapest website for small business", "inexpensive web developer", "cheap website design India",
       "minimum website cost", "cheap web developer risks", "kam budget mein website", "cheap freelance web developer",
       "website on a tight budget", "cheap business website",
+      "hire cheap web developer",
     ],
   },
   hero: {

@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Electrician Website Design: Two Lead Paths, ${P.site}+`,
-    description: `Electrician website design for US contractors: separate home and commercial leads, EV charger and panel pages, photo-upload quotes, license display. From ${P.site}.`,
+    description: `Electrician website design for US contractors: separate home and commercial leads, EV charger and panel pages, photo-upload quotes, licenses. From ${P.site}.`,
     keywords: [
       "electrician website design", "electrical contractor website design", "electrician web design", "website for electricians", "electrical company website",
       "electrician website designer", "electrician website cost", "how much does an electrician website cost", "best electrician websites", "electrician website examples",
@@ -207,7 +207,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Pick WordPress if your office will edit pages often and wants plugins, a static or headless build if speed and low maintenance matter most, and a DIY builder only if you'll truly maintain it yourself. All three can work; the wrong fit is what hurts.`,
         `For most electricians we recommend either WordPress with a lean custom theme or a static site with a simple content editor. Both load fast on phones, which matters when your visitors are standing in a dark kitchen with a flashlight app open. WordPress needs regular updates, which our care plan covers; a static site has less to update but needs a developer for structural changes.`,
-        `Integrations drive the choice as much as editing. Most field-service platforms offer booking widgets or web request forms that embed on any site, so the platform rarely blocks you. If you want a fully custom quote flow that writes straight into your job system, we build it as a small web app from ${P.software} or connect through the platform's API where one is available. The <a href='/usa/field-service-app-development/'>field service app development</a> page covers bigger custom tools.`,
+        `Integrations drive the choice as much as editing. Most field-service platforms offer booking widgets or web request forms that embed on any site, so the platform rarely blocks you. If you want a fully custom quote flow that writes straight into your job system, we build it as a small web app from ${P.software} or connect through the platform's API where one is available. The <a href='/usa/custom-software-development/'>custom software development</a> page covers bigger custom tools.`,
       ],
     },
     {
@@ -392,9 +392,9 @@ const content: FreelanceContent = {
       { name: "Contractor website design", href: "/usa/contractor-website-design/" },
       { name: "Solar company website design", href: "/usa/solar-company-website-design/" },
       { name: "Landscaping website design", href: "/usa/landscaping-website-design/" },
-      { name: "Pest control website design", href: "/usa/pest-control-website-design/" },
+      { name: "Cleaning company website design", href: "/usa/cleaning-company-website-design/" },
       { name: "Local SEO services", href: "/usa/local-seo-services/" },
-      { name: "Field service app development", href: "/usa/field-service-app-development/" },
+      { name: "Custom software development", href: "/usa/custom-software-development/" },
       { name: "Small business website cost", href: "/usa/small-business-website-cost/" },
       { name: "Website work for US businesses", href: "/usa/" },
       { name: "Hire Indian developers", href: "/hire-indian-developers/" },

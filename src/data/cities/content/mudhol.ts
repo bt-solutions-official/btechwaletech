@@ -7,7 +7,7 @@ const mudhol: CityContent = {
   meta: {
     title: "IT Services in Mudhol: Websites, Apps, SEO & AI",
     description:
-      "Kannada websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Mudhol cane contractors, hound breeders, weavers, clinics and shops.",
+      "Kannada websites, apps, Maps SEO and WhatsApp tools for Mudhol cane contractors, hound breeders, weavers, clinics and shops. Websites from ₹10,000.",
     keywords: [
       "IT services in Mudhol",
       "IT services team in Mudhol",
@@ -29,6 +29,12 @@ const mudhol: CityContent = {
       "Mudhol me website banwana",
       "Mudholdalli website maadisalu",
       "ಮುಧೋಳ ವೆಬ್‌ಸೈಟ್ ತಯಾರಿಕೆ",
+      "Mudhol website designer",
+      "web development company Mudhol",
+      "hire freelance web developer Mudhol",
+      "Bagalkot district SEO",
+      "website designer Bagalkot district",
+      "Karnataka SEO services",
     ],
   },
   hero: {

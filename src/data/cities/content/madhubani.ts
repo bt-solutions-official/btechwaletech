@@ -7,7 +7,7 @@ const madhubani: CityContent = {
   meta: {
     title: "IT Services in Madhubani | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Madhubani painting artists, makhana traders, fish farms, clinics, coaching and shops.",
+      "Websites, apps, local SEO and WhatsApp automation for Madhubani painting artists, makhana traders, fish farms, clinics, coaching and shops. From ₹10,000.",
     keywords: [
       "IT services in Madhubani",
       "IT services team in Madhubani",
@@ -29,6 +29,12 @@ const madhubani: CityContent = {
       "Madhubani me website banwana",
       "Madhubani me app banwane ka kharcha",
       "मधुबनी वेबसाइट डिजाइन",
+      "Madhubani website designer",
+      "web development company Madhubani",
+      "hire freelance web developer Madhubani",
+      "Mithila SEO services",
+      "website designer Mithila",
+      "Bihar SEO services",
     ],
   },
   hero: {

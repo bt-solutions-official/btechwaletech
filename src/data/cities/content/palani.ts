@@ -7,7 +7,7 @@ const palani: CityContent = {
   meta: {
     title: "IT Services in Palani | Web, Apps & AI from ₹10,000",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp booking for Palani lodges, panchamirtham sellers, travel operators, clinics, colleges and shops.",
+      "Tamil websites, apps, local SEO and WhatsApp booking for Palani lodges, panchamirtham sellers, travel operators, clinics, colleges and shops. From ₹10,000.",
     keywords: [
       "IT services in Palani",
       "IT services team in Palani",
@@ -29,6 +29,12 @@ const palani: CityContent = {
       "Palani me website banwana",
       "Palani website design Tamil",
       "பழனி வெப்சைட் டிசைன்",
+      "Palani website designer",
+      "web development company Palani",
+      "hire freelance web developer Palani",
+      "Dindigul district SEO",
+      "website designer Dindigul district",
+      "Tamil Nadu SEO services",
     ],
   },
   hero: {

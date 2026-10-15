@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "airtasker alternative app development", "marketplace app developers sydney", "marketplace app developers melbourne",
       "marketplace app developers brisbane", "flutter marketplace app", "build a hipages style app",
       "build a two-sided marketplace australia",
+      "hire app like airtasker in Australia", "freelance app like airtasker Australia",
     ],
   },
   hero: {
@@ -97,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What it costs to build an app like Airtasker",
-    note: `A niche marketplace usually needs two builds running side by side: the Android and iOS app from ${P.app}, over six to ten weeks, and the web platform with admin, payments and disputes from ${P.software}, over six to twelve weeks. Many founders begin with a demand-test landing page from ${P.site} so they can gather providers and job requests before committing. Support automation starts from ${P.ai}, and marketing SEO for category and suburb pages from ${P.seo} a month. Store fees are separate: US$25 once for Google Play and US$99 a year for Apple. Your quote is itemised by module within about two working days, and nothing is billed before you approve it in writing.`,
+    note: `A niche marketplace usually needs two builds running side by side: the Android and iOS app from ${P.app}, over six to ten weeks, and the web platform with admin, payments and disputes from ${P.software}, over six to twelve weeks. Many founders begin with a demand-test landing page from ${P.site} so they can gather providers and job requests before committing. Support automation starts from ${P.ai}, and marketing SEO for category and suburb pages from ${P.seo}. Store fees are separate: US$25 once for Google Play and US$99 a year for Apple. Your quote is itemised by module within about two working days, and nothing is billed before you approve it in writing.`,
   },
   guideLabel: "Guide: build an app like Airtasker",
   guide: [
@@ -317,7 +318,7 @@ const content: FreelanceContent = {
         ["Android and iOS app", "Customer and provider screens in Flutter", `From ${P.app}`, "6–10 weeks"],
         ["Web platform and admin", "Jobs, offers, payments, reviews, disputes", `From ${P.software}`, "6–12 weeks"],
         ["Support and matching automation", "Help-centre assistant, category suggestions", `From ${P.ai}`, "2–4 weeks"],
-        ["Category and suburb SEO", "Marketing pages that bring customers", `From ${P.seo} a month`, "Ongoing"],
+        ["Category and suburb SEO", "Marketing pages that bring customers", `From ${P.seo}`, "Ongoing"],
         ["Store accounts", "Google Play and Apple Developer Program", "US$25 once; US$99 a year", "Set up in week one"],
         ["Maintenance", "Fixes, updates, OS changes", `2 months free, then from ${P.care}`, "Ongoing"],
       ],

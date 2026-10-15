@@ -7,7 +7,7 @@ const warangal: CityContent = {
   meta: {
     title: "IT Services in Warangal: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO and WhatsApp automation for Warangal, Hanamkonda and Kazipet businesses, from chilli traders to clinics. From ₹10,000, two months free support.",
+      "Websites, local SEO and WhatsApp automation for Warangal, Hanamkonda and Kazipet businesses, from chilli traders to clinics. Websites from ₹10,000.",
     keywords: [
       "website development team in Warangal",
       "web design team Warangal",
@@ -24,6 +24,17 @@ const warangal: CityContent = {
       "website maintenance Warangal",
       "Warangal lo website design",
       "వరంగల్ వెబ్‌సైట్ డిజైన్",
+      "Warangal website designer",
+      "web development company Warangal",
+      "hire freelance web developer Warangal",
+      "Telangana SEO services",
+      "Warangal textile park suppliers website",
+      "textile park suppliers website design Warangal",
+      "website design Hanamkonda Chowrasta Warangal",
+      "website design Subedari Warangal",
+      "website design Nakkalagutta Warangal",
+      "website design Enumamula Warangal",
+      "website design price in Warangal",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Brass Parts Manufacturer Website in Jamnagar, ${P.site}+`,
-    description: `Brass parts manufacturer website in Jamnagar: part catalogue, drawing upload and export RFQ form that buyers trust. Built remotely from ${P.site}; quote in 2 days.`,
+    description: `Brass parts manufacturer website in Jamnagar: part catalogue, drawing upload and export RFQ form that buyers trust. Built remotely from ${P.site}, 2-day quote.`,
     keywords: [
       "brass parts manufacturer website in Jamnagar", "brass parts website Jamnagar", "brass components manufacturer website", "brass parts website design Jamnagar Gujarat",
       "brass manufacturer website near me", "Jamnagar brass industry website", "brass turned parts catalogue website", "brass fittings exporter website",
@@ -187,7 +187,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Buyers search by part and material first: “brass inserts manufacturer India”, “brass earthing accessories supplier”, “CNC turned brass components Jamnagar”. A page that matches each of those searches beats a single homepage listing everything.`,
         `Every build includes clean URLs per family, unique titles and descriptions, Product and Organization schema, an XML sitemap, compressed images and Search Console verification. A Google Business Profile for the unit, with the same name and address as the website, helps when buyers search with “Jamnagar” or “near me”. Google Search Central's documentation on structured data explains why consistent schema matters.`,
-        `AI assistants that answer “who makes brass inserts in Gujarat” draw on clear, factual statements. So the copy states what you make, the grades you work in, your minimum order and the countries you ship to, in short paragraphs that can be quoted. Rankings cannot be guaranteed by anyone; what we can promise is a site that machines can read completely and that says something more specific than a directory listing. Our <a href='/seo-for-manufacturers/'>SEO for manufacturers page</a> describes ongoing search work, available from ${P.seo} a month.`,
+        `AI assistants that answer “who makes brass inserts in Gujarat” draw on clear, factual statements. So the copy states what you make, the grades you work in, your minimum order and the countries you ship to, in short paragraphs that can be quoted. Rankings cannot be guaranteed by anyone; what we can promise is a site that machines can read completely and that says something more specific than a directory listing. Our <a href='/seo-for-manufacturers/'>SEO for manufacturers page</a> describes ongoing search work, available from ${P.seo}.`,
       ],
     },
     {

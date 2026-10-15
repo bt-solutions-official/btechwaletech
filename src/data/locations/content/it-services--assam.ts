@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.2006, lng: 92.9376 },
   meta: {
-    title: "Freelance IT Services in Assam: Software & AI",
+    title: "Assam IT Services: Software & AI",
     description:
       "Freelance IT services in Assam: custom software, apps, AI automation, dashboards and SEO for Guwahati, Silchar, Dibrugarh and beyond. Prices from ₹10,000.",
     keywords: [
@@ -33,6 +33,12 @@ const content: CityContent = {
       "IT support Upper Assam",
       "অসমত ৱেবছাইট আৰু ছফ্টৱেৰ",
       "Assam mein software aur website banwana",
+      "Assam website designer",
+      "website cost in Assam",
+      "IT company in Assam",
+      "Assam SEO services",
+      "hire developer Assam",
+      "tea estates software in Assam",
     ],
   },
   hero: {

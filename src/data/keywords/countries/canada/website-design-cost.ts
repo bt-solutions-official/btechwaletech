@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "web design agency cost toronto", "website cost vancouver", "website cost calgary", "website cost montreal", "website cost ottawa",
       "affordable website design canada", "cheap website design near me", "yearly cost of running a website", "website hosting cost canada",
       "how much does a shopify store cost to build", "website quote checklist",
+      "hire website in Canada",
     ],
   },
   hero: {

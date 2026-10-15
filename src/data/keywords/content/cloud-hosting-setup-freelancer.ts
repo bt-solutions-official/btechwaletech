@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Cloud hosting setup freelancer",
   updated: "2026-09-24",
   meta: {
-    title: "Cloud Hosting Setup Freelancer: VPS, SSL, Email",
+    title: `Cloud Hosting Setup Freelancer: VPS, SSL, Care ${P.care}`,
     description: `Cloud hosting setup freelancer for VPS, domains, DNS, SSL and business email, all in your name. Included in builds from ${P.site}; care from ${P.care}.`,
     keywords: [
       "cloud hosting setup freelancer", "cloud hosting setup freelancer India", "hosting setup freelancer near me", "cloud hosting expert for hire",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "business email setup Google Workspace", "Zoho Mail setup freelancer", "DNS setup SPF DKIM DMARC", "AWS Lightsail setup",
       "website hosting migration freelancer", "server backup setup", "Cloudflare DNS setup", "Nginx server setup freelancer",
       "cloud hosting for small business India", "managed VPS setup",
+      "hire cloud hosting setup freelancer",
     ],
   },
   hero: {

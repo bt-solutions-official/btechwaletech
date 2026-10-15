@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 34.198, lng: 74.3636 },
   meta: {
-    title: "Freelance IT & Software Developers in Baramulla",
+    title: "Baramulla Software Developers: Fruit Mandi & Gulmarg",
     description:
       "Freelance IT team for Baramulla, Sopore and Gulmarg: fruit mandi software, ski-season booking, Android and iOS apps, AI agents, dashboards, SEO and upkeep.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "Tangmarg hotel website",
       "Baramulla mein software developer",
       "بارہمولہ سافٹ ویئر ڈیولپر",
+      "Baramulla website designer",
+      "website cost in Baramulla",
+      "IT company in Baramulla",
+      "Jammu and Kashmir SEO services",
+      "hire developer Baramulla",
+      "fruit commission software in Baramulla",
+      "orchard growers software in Baramulla",
+      "hotels software in Baramulla",
+      "contractors software in Baramulla",
+      "website developer Baramulla Old Town Baramulla",
     ],
   },
   hero: {

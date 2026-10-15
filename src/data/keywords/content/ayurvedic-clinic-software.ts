@@ -22,6 +22,9 @@ const content: FreelanceContent = {
       "ayurveda retreat management software", "custom ayurvedic clinic software", "ayurvedic clinic software cost", "ayurvedic software price in India",
       "best software for ayurvedic clinic", "how to manage panchakarma bookings", "ayurvedic clinic software Kerala", "ayurveda software Kochi",
       "ayurvedic clinic ke liye software", "ayurveda wellness centre software",
+      "ayurvedic clinic software company in India",
+      "ayurvedic clinic software near me",
+      "ayurvedic clinic software services",
     ],
   },
   hero: {

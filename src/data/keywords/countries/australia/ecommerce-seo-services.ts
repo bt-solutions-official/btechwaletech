@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "google merchant center free listings australia", "product schema aud", "faceted navigation seo", "ecommerce seo near me",
       "ecommerce seo for small business", "collection page seo shopify", "ecommerce keyword research australia",
       "ecommerce seo freelancer", "is ecommerce seo worth it",
+      "hire ecommerce seo services in Australia",
     ],
   },
   hero: {

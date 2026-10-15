@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 30.3782, lng: 76.7767 },
   meta: {
-    title: "Freelance Software Developers in Ambala",
+    title: "Ambala Software Developers: Lab Instruments & Cloth Market",
     description:
-      "Freelance software developers for Ambala: custom software, web apps, Android and iOS apps, AI automation, dashboards and SEO. Starting prices, 2 months free upkeep.",
+      "Ambala software developers for Cantt lab-instrument exporters, cloth wholesalers, Mullana clinics and CBSE schools. Software from ₹60,000, quote in 2 days.",
     keywords: [
       "software development team in Ambala",
       "IT services team in Ambala",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "IT support and maintenance Ambala",
       "Ambala mein software team",
       "अंबाला सॉफ्टवेयर कंपनी",
+      "Ambala website designer",
+      "website cost in Ambala",
+      "IT company in Ambala",
+      "Haryana SEO services",
+      "hire developer Ambala",
+      "scientific software in Ambala",
+      "educational software in Ambala",
     ],
   },
   hero: {
@@ -263,7 +270,7 @@ const content: CityContent = {
     {
       question: "How long will our project take?",
       answer:
-        "A static site usually takes one to two weeks, an automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. The timeline depends heavily on how quickly content, product data and feedback arrive. We share a live preview throughout, so you always know where the project stands and can approve stages from your phone.",
+        "A static site usually takes one to two weeks, an automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. The timeline depends heavily on how quickly content, product data and feedback arrive. We share a live preview throughout, so you always know where the project stands and can approve stages from your phone. For Ambala instrument and teaching-aid makers the product catalogue is usually the long pole, so we start collecting item data and photos on day one.",
     },
     {
       question: "Who owns the code, domain and hosting after launch?",
@@ -273,7 +280,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get after launch?",
       answer:
-        "Two months of maintenance are included free after your system is hosted and live. That covers bug fixes, small content changes, security and dependency updates, backups, and uptime and speed checks. After that, monthly maintenance starts from ₹8,000, or you can contact us only when you need a change and pay for that work separately.",
+        "Two months of maintenance are included free after your system is hosted and live. That covers bug fixes, security and dependency updates, backups, uptime and speed checks, and small content changes such as a new instrument model in the catalogue, revised cloth-market rates in Ambala Cantt or changed clinic hours at Mullana. After that, monthly maintenance starts from ₹8,000, or you can contact us only when you need a change and pay for that work separately.",
     },
     {
       question: "Can your AI assistant reply to customers in Hindi and Punjabi?",

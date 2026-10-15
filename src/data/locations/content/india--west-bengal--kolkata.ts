@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 22.5726, lng: 88.3639 },
   meta: {
-    title: "IT Consulting in Kolkata: Freelance IT Solutions Team",
+    title: "Kolkata IT Consulting: Trading Houses, Tea & CA Firms",
     description:
-      "IT consulting and digital transformation in Kolkata by a freelance team of three engineers: legacy upgrades, group MIS, apps, AI agents, cloud and SEO.",
+      "IT consulting in Kolkata by three freelance engineers: legacy upgrades, group MIS, apps, AI agents, plus cloud and SEO. Apps from ₹40,000, sites from ₹10,000.",
     keywords: [
       "IT solutions team in Kolkata",
       "IT consulting Kolkata",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "SEO and AI search Kolkata",
       "কলকাতায় আইটি পরামর্শ",
       "কলকাতা সফটওয়্যার সমাধান",
+      "Kolkata website designer",
+      "website cost in Kolkata",
+      "IT company in Kolkata",
+      "West Bengal SEO services",
+      "hire developer Kolkata",
+      "trading software in Kolkata",
+      "family software in Kolkata",
+      "tea software in Kolkata",
     ],
   },
   hero: {

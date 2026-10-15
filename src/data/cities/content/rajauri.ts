@@ -7,7 +7,7 @@ const rajauri: CityContent = {
   meta: {
     title: "IT Services in Rajouri: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Rajouri traders, walnut and Kalari sellers, Mughal Road hotels, colleges and clinics.",
+      "Websites, apps, local SEO and WhatsApp automation for Rajouri traders, walnut and Kalari sellers, Mughal Road hotels, colleges and clinics. From ₹10,000.",
     keywords: [
       "IT services in Rajouri",
       "IT services team in Rajouri",
@@ -30,6 +30,11 @@ const rajauri: CityContent = {
       "Rajouri me website banwana",
       "Rajouri mein app kaise banwaye",
       "راجوری ویب سائٹ ڈیزائن",
+      "Rajouri website designer",
+      "web development company Rajouri",
+      "hire freelance web developer Rajouri",
+      "Jammu and Kashmir SEO services",
+      "Rajouri me website kaise banwaye",
     ],
   },
   hero: {

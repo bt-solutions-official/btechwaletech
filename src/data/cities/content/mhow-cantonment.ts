@@ -7,7 +7,7 @@ const mhowCantonment: CityContent = {
   meta: {
     title: "IT Services in Mhow: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Mhow (Dr. Ambedkar Nagar) shops, resorts, clinics and coaching. From ₹10,000.",
+      "Websites, apps, local SEO and WhatsApp automation for Mhow (Dr. Ambedkar Nagar) shops, resorts, clinics and coaching. Websites from ₹10,000.",
     keywords: [
       "IT services in Mhow",
       "IT services team in Mhow",
@@ -29,6 +29,12 @@ const mhowCantonment: CityContent = {
       "Mhow me website banwana",
       "Mhow me app kaise banwaye",
       "महू वेबसाइट डिजाइन",
+      "Mhow Cantonment website designer",
+      "website cost in Mhow Cantonment",
+      "web development company Mhow Cantonment",
+      "hire freelance web developer Mhow Cantonment",
+      "Madhya Pradesh SEO services",
+      "Mhow Cantonment me website kaise banwaye",
     ],
   },
   hero: {

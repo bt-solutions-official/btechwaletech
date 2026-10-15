@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 15.2832, lng: 73.9862 },
   meta: {
-    title: "Freelance Software Developers in Margao (Madgaon)",
+    title: "Margao Software Developers: Salcete Trade & Verna Units",
     description:
-      "Freelance software developers in Margao: ordering apps, estate software, AI agents, dashboards and cloud hosting for South Goa. Starting prices, UPI or bank payment.",
+      "Margao software developers for Salcete wholesalers, Verna and Cuncolim estate units, clinics and Colva resorts. Ordering apps from ₹40,000, quote in 2 days.",
     keywords: [
       "software development team in Margao",
       "IT services team in Margao",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "local SEO Margao",
       "Madgaon software developer Konkani",
       "मडगावात सॉफ्टवेअर डेव्हलपर",
+      "Margao website designer",
+      "website cost in Margao",
+      "IT company in Margao",
+      "Goa SEO services",
+      "hire developer Margao",
+      "wholesale software in Margao",
+      "clinics software in Margao",
+      "estate software in Margao",
     ],
   },
   hero: {
@@ -258,7 +266,7 @@ const content: CityContent = {
     {
       question: "How do Margao clients pay you?",
       answer:
-        "By UPI, scanning our QR code, or by direct bank transfer to our bank account, always in Indian rupees. Those are the only two methods we accept for our own invoices. Payments follow milestones agreed in the quote, such as an advance, a preview approval payment and a final payment at launch, and you receive an invoice for each.",
+        "By UPI, scanning our QR code, or by direct bank transfer to our bank account, always in Indian rupees. Those are the only two methods we accept for our own invoices, whether the client is a wholesaler near the old market, an estate unit in Verna or a guesthouse in Benaulim. Payments follow milestones agreed in the quote, such as an advance, a preview approval payment and a final payment at launch, and you receive an invoice for each.",
     },
     {
       question: "Can your AI agent read orders written in Konkani or mixed language?",
@@ -273,7 +281,7 @@ const content: CityContent = {
     {
       question: "How long does a software project for a Margao business take?",
       answer:
-        "Six to twelve weeks for custom software, two to four weeks for AI or WhatsApp automation, four to eight weeks for an online store and one to two weeks for a website. You see working screens within the first two weeks on a preview link. Delays usually come from waiting for product lists, price data or decisions, so we share a checklist on day one.",
+        "Six to twelve weeks for custom software, two to four weeks for AI or WhatsApp automation, four to eight weeks for an online store and one to two weeks for a website. You see working screens within the first two weeks on a preview link. Delays usually come from waiting for product lists, price data or decisions, so we share a checklist on day one. For a Margao distributor we normally launch retailer ordering first and add dashboards and WhatsApp follow-ups afterwards.",
     },
     {
       question: "Who owns the software and data after the project?",
@@ -283,7 +291,7 @@ const content: CityContent = {
     {
       question: "What does maintenance include after launch?",
       answer:
-        "Two months of maintenance is included free once the system is live. That covers bug fixes, security updates, backups, uptime and speed checks, and small changes. After that, plans start from ₹8,000 a month, or you can pay only when you need work done. We support software and hosting remotely, not office hardware.",
+        "Two months of maintenance is included free once the system is live. That covers bug fixes, security updates, backups, uptime and speed checks, and small changes such as a new rate list for a Verna or Cuncolim unit, fresh photos for a Colva guesthouse or changed clinic timings on Station Road. After that, plans start from ₹8,000 a month, or you can pay only when you need work done. We support software and hosting remotely, not office hardware.",
     },
     {
       question: "Can you move our old desktop billing program to the cloud?",

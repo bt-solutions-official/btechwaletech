@@ -7,7 +7,7 @@ const ganjbasoda: CityContent = {
   meta: {
     title: "IT Services in Ganjbasoda: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, stone export catalogues and WhatsApp automation for Ganjbasoda mandi traders, sandstone firms and local shops. Static sites from ₹10,000.",
+      "Ganjbasoda websites, SEO, stone export catalogues and WhatsApp automation for mandi traders, sandstone firms and local shops. Static sites from ₹10,000.",
     keywords: [
       "website development team in Ganjbasoda",
       "Ganj Basoda web design",
@@ -25,6 +25,14 @@ const ganjbasoda: CityContent = {
       "website maintenance Ganjbasoda",
       "Ganjbasoda me website kaise banwaye",
       "गंजबासौदा वेबसाइट डिज़ाइन",
+      "Ganjbasoda website designer",
+      "website cost in Ganjbasoda",
+      "web development company Ganjbasoda",
+      "hire freelance developer Ganjbasoda",
+      "Madhya Pradesh SEO",
+      "website for sandstone exporters and suppliers in Ganjbasoda",
+      "web designer in Udaipur, Ganjbasoda",
+      "website for grain traders and commission agents in Ganjbasoda",
     ],
   },
   hero: {

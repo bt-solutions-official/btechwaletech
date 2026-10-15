@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 20.9517, lng: 85.0985 },
   meta: {
-    title: "Freelance IT Services in Odisha: Software, AI & Apps",
+    title: "Odisha IT Services: Software, AI & Apps",
     description:
       "IT services in Odisha from a freelance group: custom software, AI automation, apps, dashboards, ecommerce and SEO for all 30 districts. Sites from ₹10,000.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "software developers for Bhubaneswar Cuttack Rourkela",
       "IT support for small business Odisha",
       "ଓଡ଼ିଶାରେ ସଫ୍ଟୱେର ଡେଭଲପମେଣ୍ଟ",
+      "Odisha website designer",
+      "website cost in Odisha",
+      "IT company in Odisha",
+      "Odisha SEO services",
+      "hire developer Odisha",
+      "mining software in Odisha",
+      "steel software in Odisha",
     ],
   },
   hero: {

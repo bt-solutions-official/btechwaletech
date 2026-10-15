@@ -7,7 +7,7 @@ const tinsukia: CityContent = {
   meta: {
     title: "IT Services in Tinsukia: Websites, Apps, SEO & AI",
     description:
-      "Websites, multilingual local SEO, dealer catalogues and WhatsApp order tools for Tinsukia wholesalers, tea factories, contractors and clinics. From ₹10,000.",
+      "Websites, multilingual SEO and dealer catalogues for Tinsukia wholesalers, tea factories, contractors and clinics. From ₹10,000, with 2 months of free upkeep.",
     keywords: [
       "website development team in Tinsukia",
       "web designer Tinsukia",
@@ -24,6 +24,17 @@ const tinsukia: CityContent = {
       "software team Tinsukia",
       "website maintenance Tinsukia",
       "Dibru-Saikhowa homestay website",
+      "Tinsukia website designer",
+      "web development company Tinsukia",
+      "hire freelance web developer Tinsukia",
+      "Upper Assam SEO services",
+      "website designer Upper Assam",
+      "Assam SEO services",
+      "Tinsukia me website kaise banwaye",
+      "Tinsukia website banwane ka kharcha",
+      "Tinsukia retail showrooms website",
+      "retail showrooms website design Tinsukia",
+      "website design Daily Bazar Tinsukia",
     ],
   },
   hero: {

@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "manufacturing careers page", "industrial website cost", "how much does a manufacturing website cost", "manufacturing website design stuttgart",
       "manufacturing website design munich", "manufacturing website design nrw", "manufacturing website examples", "what should a manufacturing website include",
       "seo for manufacturers germany", "digital instructions machinery regulation website", "export website for german manufacturer", "industrial web design india",
+      "hire manufacturing website design in Germany", "freelance manufacturing website design Germany",
     ],
   },
   hero: {

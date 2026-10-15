@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Invoices", value: "GSTIN, HSN or SAC codes and tax lines, wording checked by your CA" },
       { label: "Shipping", value: "Pin-code checks, weight slabs, COD on or off, local delivery zones" },
       { label: "Platforms", value: "Shopify, WooCommerce or a custom build, chosen by your needs" },
-      { label: "After launch", value: `2 months of care free, then optional from ${P.care} a month` },
+      { label: "After launch", value: `2 months of care free, then optional from ${P.care}` },
     ],
   },
   services: {
@@ -175,7 +175,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Our online stores start at ${P.shop} (about ${P.shopUsd}). A store with a modest catalogue, standard checkout and simple shipping rules sits close to that figure; large catalogues, wholesale logic and integrations move it up.`,
         `The main cost drivers for an Ahmedabad store are easy to list. Product count and variants decide how much import and checking work is needed. Design depth decides whether we customise a theme or build distinctive pages for collections and stories. Integrations with courier panels, accounting software or WhatsApp messaging each need setup and testing. Content work, such as writing product descriptions or editing photos, is optional and priced separately.`,
-        `Running costs come from outside us: platform fees if you choose Shopify, hosting if you choose WooCommerce or custom, the gateway's per-transaction charge, courier charges and any paid apps. You pay each provider directly. Store care is free for two months after launch and optional from ${P.care} a month after that.`,
+        `Running costs come from outside us: platform fees if you choose Shopify, hosting if you choose WooCommerce or custom, the gateway's per-transaction charge, courier charges and any paid apps. You pay each provider directly. Store care is free for two months after launch and optional from ${P.care} after that.`,
         `For India-wide benchmarks see <a href='/ecommerce-website-cost-in-india/'>ecommerce website cost in India</a>; for every kind of Ahmedabad build, our <a href='/gujarat/website-development-cost-ahmedabad/'>Ahmedabad cost guide</a> lists sample budgets.`,
       ],
     },
@@ -218,7 +218,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `It can, if product and category pages are built for search, but no developer can promise rankings. New stores usually win on specific, well-described products before they win on broad terms.`,
         `Each product page gets a unique title, a written description rather than a copied manufacturer blurb, Product schema with price and availability, and image alt text. Category pages carry a short intro so they answer a real query. A clean product feed can be submitted to Google Merchant Center so items can appear in free Shopping listings. Search Console is verified at launch so you can see which product searches bring impressions.`,
-        `AI assistants that answer shopping questions tend to cite pages with clear specs, size guides, care instructions and honest FAQs. We structure those blocks during the build. If you also sell from a shop in the city, a Google Business Profile linked to the store helps local buyers find both. Ongoing product SEO is optional from ${P.seo} a month, and our SEO-friendly website guide for Gujarat lists what is included at launch.`,
+        `AI assistants that answer shopping questions tend to cite pages with clear specs, size guides, care instructions and honest FAQs. We structure those blocks during the build. If you also sell from a shop in the city, a Google Business Profile linked to the store helps local buyers find both. Ongoing product SEO is optional from ${P.seo}, and our SEO-friendly website guide for Gujarat lists what is included at launch.`,
       ],
     },
     {
@@ -265,7 +265,7 @@ const content: FreelanceContent = {
       heading: "Ownership, store care and serving towns around Ahmedabad",
       paragraphs: [
         `Every account that touches money or customers is yours: the payment gateway, the platform or hosting, the domain and the business email. At handover you get admin access, a list of renewals and paid apps, and a short video showing your staff how to add products, mark orders shipped and issue refunds.`,
-        `For two months after launch, care is free: fixing bugs, small changes, plugin or app updates and help during the first busy weeks. After that, optional care starts at ${P.care} a month and focuses on what breaks stores: payment settings, plugin conflicts, expired API keys and backups. You can also manage the store yourself.`,
+        `For two months after launch, care is free: fixing bugs, small changes, plugin or app updates and help during the first busy weeks. After that, optional care starts at ${P.care} and focuses on what breaks stores: payment settings, plugin conflicts, expired API keys and backups. You can also manage the store yourself.`,
         `The same arrangement works for sellers outside the city, because the build never needed a visit. Wholesalers in Sanand and Changodar, brands in <a href='/gujarat/ecommerce-website-development-gandhinagar/'>Gandhinagar</a> and sellers in Surat can use the same process; textile sellers there can start with our <a href='/gujarat/ecommerce-website-development-surat/'>Surat ecommerce page</a>. For apps, automation and other IT work in the city, see our <a href='/ahmedabad/'>Ahmedabad services page</a>.`,
       ],
     },
@@ -349,7 +349,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "After written approval you open the gateway, platform and domain accounts with our guidance on a call, and add us as users."],
       ["Design and product import", "Templates appear on a private staging link and products are imported from one spreadsheet you can keep using later."],
       ["Checkout, tax and shipping tests", "Real small payments, sample invoices for your CA, orders to test pin codes and a mobile walkthrough with your packing staff."],
-      ["Launch and two free months", `The store goes live, your team gets a short training video, and care is free for two months, then optional from ${P.care} a month.`],
+      ["Launch and two free months", `The store goes live, your team gets a short training video, and care is free for two months, then optional from ${P.care}.`],
     ],
   },
   faqHeading: "Ecommerce website development in Ahmedabad: common questions",
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
     { question: "Will my store show up on Google Shopping?", answer: "Products can appear in Google's free Shopping listings once a clean product feed is submitted through Merchant Center and approved. We build the feed and product schema; approval and visibility are decided by Google. No developer can promise rankings, but complete product data, honest descriptions and fast pages give your listings the best chance." },
     { question: "Do I need a website if I already sell on Instagram and WhatsApp?", answer: "Not on day one, but it helps once orders grow. Chats get lost, UPI screenshots need checking by hand and customer details scatter across phones. A store records each order, payment and address automatically. A middle step is a catalogue site where buyers browse online and order on WhatsApp, which costs less than a full checkout." },
     { question: "Can I add products and manage orders myself?", answer: "Yes. Whichever platform you choose, your team gets an admin to add products, change prices, update stock, mark orders shipped and issue refunds. At handover we record a short training video showing these tasks on your own store, and the first two months of care include help with anything that feels unclear." },
-    { question: "What happens if my store breaks during a festival sale?", answer: `During the first two months after launch, fixes are free. After that, an optional care plan from ${P.care} a month covers monitoring, updates and urgent fixes, agreed in writing. Before big sales we also suggest a pre-sale check of payments, stock and speed, which is the cheapest way to avoid a broken checkout on the busiest day.` },
+    { question: "What happens if my store breaks during a festival sale?", answer: `During the first two months after launch, fixes are free. After that, an optional care plan from ${P.care} covers monitoring, updates and urgent fixes, agreed in writing. Before big sales we also suggest a pre-sale check of payments, stock and speed, which is the cheapest way to avoid a broken checkout on the busiest day.` },
     { question: "Who owns the store, products and customer data?", answer: "You do. The domain, platform or hosting account and payment gateway are registered in your business name, and customer and order data can be exported at any time. At handover you receive every login and a list of renewals, so you can manage the store yourself or move to another developer without anyone's permission." },
     { question: "Can you migrate my store from another platform?", answer: "Yes. We export products, customers and order history where the old platform allows, rebuild the store, and set redirects from old product URLs to new ones so search traffic and shared links keep working. The migration is listed as its own lines in the quote, and the new store is tested on staging before switching." },
     { question: "Do I need to meet you in Ahmedabad to start?", answer: "No. The BtechWaleTech team works remotely, and online stores suit that well because everything is on screen anyway. Scope happens on a video call with screen-share, product data moves through a shared folder, and you review the store on a staging link from your phone. Sellers across Gujarat and India work with us the same way." },

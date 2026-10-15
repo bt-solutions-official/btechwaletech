@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Peelamedu", "website developer Gandhipuram", "website developer Saravanampatti", "website developer RS Puram",
       "website developer Tiruppur", "website developer Pollachi", "WordPress developer Coimbatore", "ecommerce website Coimbatore",
       "Coimbatore me website kaise banwaye", "Coimbatore website banwana hai", "best website developer in Coimbatore",
+      "website developer in Coimbatore cost", "website developer in Coimbatore price", "hire website developer in Coimbatore", "freelance website developer in Coimbatore",
+      "website developer in Coimbatore charges",
     ],
   },
   hero: {

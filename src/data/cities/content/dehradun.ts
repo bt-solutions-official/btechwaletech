@@ -7,7 +7,7 @@ const dehradun: CityContent = {
   meta: {
     title: "Dehradun Web Development & Local SEO Team",
     description:
-      "Websites, SEO and automation for Dehradun schools, homestays, Selaqui pharma units and Rajpur Road shops. From ₹10,000, you own the code, 2 months free upkeep.",
+      "Dehradun websites, SEO and automation for schools, homestays, Selaqui pharma units and Rajpur Road shops. From ₹10,000, you own the code, 2 months free care.",
     keywords: [
       "website development team in Dehradun",
       "web design Dehradun",
@@ -25,6 +25,14 @@ const dehradun: CityContent = {
       "website maintenance Dehradun",
       "Dehradun me website kaise banwaye",
       "देहरादून वेबसाइट डिज़ाइन",
+      "Dehradun website designer",
+      "website cost in Dehradun",
+      "web development company Dehradun",
+      "hire freelance developer Dehradun",
+      "Uttarakhand SEO",
+      "website for boarding and day schools in Dehradun",
+      "web designer in Rajpur Road, Dehradun",
+      "website for coaching and entrance academies in Dehradun",
     ],
   },
   hero: {

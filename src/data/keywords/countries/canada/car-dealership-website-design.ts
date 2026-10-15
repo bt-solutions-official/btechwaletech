@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Car Dealership Website Design Canada from ${P.site}`,
-    description: `Car dealership website design in Canada from ${P.site}: live inventory, AutoTrader.ca and CarGurus feeds, OMVIC and AMVIC all-in pricing, finance and trade-in forms.`,
+    description: `Car dealership website design in Canada from ${P.site}: live inventory, AutoTrader.ca and CarGurus feeds, OMVIC and AMVIC all-in pricing, trade-in forms.`,
     keywords: [
       "car dealership website design canada", "used car dealer website canada", "independent dealership website design",
       "auto dealer website design", "car dealer website with inventory", "dealer inventory feed website",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "car dealer website montreal", "dealer website vs dealer platform", "best website for used car dealers canada",
       "car dealership website near me", "who owns my dealer website", "car dealership seo canada",
       "powersports and rv dealer website canada",
+      "hire car dealership website design in Canada", "freelance car dealership website design Canada",
     ],
   },
   hero: {

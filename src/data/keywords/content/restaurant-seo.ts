@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Restaurant SEO Services: Rank for Dishes, ${P.seo}`,
-    description: `Restaurant SEO services from ${P.seo}: rank for dish and “near me” searches beyond Zomato and Swiggy with a text menu, a sharp Google profile and honest reviews.`,
+    description: `Restaurant SEO services from ${P.seo}: rank for dish and near-me searches beyond Zomato and Swiggy with a text menu, sharp Google profile, real reviews.`,
     keywords: [
       "restaurant seo services", "restaurant seo", "seo for restaurants", "restaurant seo India", "restaurant seo company",
       "restaurant seo cost", "restaurant seo price in India", "cafe seo", "seo for cafes", "restaurant local seo",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "restaurant seo without zomato", "zomato vs own website", "restaurant website seo", "cloud kitchen seo",
       "restaurant ki google ranking kaise badhaye", "restaurant seo Bengaluru", "restaurant seo Mumbai", "restaurant seo Hyderabad",
       "restaurant seo Delhi", "restaurant reviews google more", "restaurant schema markup",
+      "Restaurant SEO services cost", "Restaurant SEO services price", "Restaurant SEO services company", "best Restaurant SEO services in India",
+      "Restaurant SEO services cost in India", "Restaurant SEO services near me",
     ],
   },
   hero: {

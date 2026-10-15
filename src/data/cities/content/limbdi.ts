@@ -7,7 +7,7 @@ const limbdi: CityContent = {
   meta: {
     title: "IT Services in Limbdi: Websites, Apps, SEO & AI",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Limbdi cotton ginners, GIDC units, highway hotels, colleges, clinics and shops.",
+      "Limbdi Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for cotton ginners, GIDC units, highway hotels, colleges, clinics and shops.",
     keywords: [
       "IT services in Limbdi",
       "IT services team in Limbdi",
@@ -29,6 +29,10 @@ const limbdi: CityContent = {
       "Limbdi me website banwana",
       "Limbdi ma website banavvi",
       "લીંબડી વેબસાઇટ ડિઝાઇન",
+      "Limbdi website designer",
+      "web development company Limbdi",
+      "hire freelance developer Limbdi",
+      "Gujarat SEO",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const adilabad: CityContent = {
   meta: {
     title: "Adilabad Websites, SEO & Apps for Cotton Businesses",
     description:
-      "Websites, Telugu and Marathi SEO, stores and WhatsApp tools for Adilabad ginning mills, agri dealers, NH 44 hotels, Dokra artisans, clinics and shops. From ₹10,000.",
+      "Adilabad websites, Telugu and Marathi SEO and WhatsApp tools for ginning mills, agri dealers, NH 44 hotels and Dokra artisans. Sites from ₹10,000.",
     keywords: [
       "website development team in Adilabad",
       "web designer Adilabad",
@@ -24,6 +24,15 @@ const adilabad: CityContent = {
       "freelance web developer Adilabad",
       "Adilabad mein website",
       "ఆదిలాబాద్ వెబ్‌సైట్",
+      "Adilabad website designer",
+      "website cost in Adilabad",
+      "web development company Adilabad",
+      "hire freelance developer Adilabad",
+      "Telangana SEO",
+      "Adilabad me website kaise banwaye",
+      "website for ginning and pressing mills in Adilabad",
+      "web designer in Vinayak Chowk, Adilabad",
+      "website for cotton traders and brokers in Adilabad",
     ],
   },
   hero: {

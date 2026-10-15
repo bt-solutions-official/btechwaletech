@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "client portal for builders", "construction website designer near me", "construction web design auckland",
       "construction web design christchurch", "construction web design wellington", "construction web design tauranga",
       "website for main contractors", "design and build website",
+      "hire construction website design in New Zealand", "freelance construction website design New Zealand", "construction website design New Zealand",
     ],
   },
   hero: {

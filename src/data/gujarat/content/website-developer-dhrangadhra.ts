@@ -231,7 +231,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `They can, if the site is built for search from the start, but nobody can guarantee rankings. Anyone who promises first place is guessing.`,
         `Specific pages beat general ones. “Sandstone temple shikhara carving” or “wild ass safari stay near Dhrangadhra” as page topics, each answering real questions with photos and details, give search engines something to match. For local services, your <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> should carry the same name, address and phone as the site.`,
-        `Every launch includes unique titles and descriptions, clean URLs, schema markup suited to your business, an XML sitemap and Search Console. Google's AI Overviews and assistants such as ChatGPT tend to cite pages that answer one question plainly and back it with specifics, so project pages and FAQs are written that way. Ongoing SEO is optional from ${P.seo} a month.`,
+        `Every launch includes unique titles and descriptions, clean URLs, schema markup suited to your business, an XML sitemap and Search Console. Google's AI Overviews and assistants such as ChatGPT tend to cite pages that answer one question plainly and back it with specifics, so project pages and FAQs are written that way. Ongoing SEO is optional from ${P.seo}.`,
       ],
     },
     {

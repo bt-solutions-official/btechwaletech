@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 31.1048, lng: 77.1734 },
   meta: {
-    title: "Freelance Software Developers in Shimla",
+    title: "Shimla Software Developers: Hotels & Restaurants",
     description:
-      "Freelance software developers in Shimla: hotel operations software, fruit-trade billing, AI agents, apps, dashboards, cloud hosting and SEO. Starting from ₹10,000.",
+      "Freelance software developers in Shimla: hotel operations software, fruit-trade billing, AI agents, apps and dashboards. Starting from ₹10,000.",
     keywords: [
       "software development team in Shimla",
       "IT services team in Shimla",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "ecommerce website for Shimla shops",
       "Shimla mein software developer",
       "शिमला सॉफ्टवेयर डेवलपर",
+      "Shimla website designer",
+      "website cost in Shimla",
+      "IT company in Shimla",
+      "Himachal Pradesh SEO services",
+      "hire developer Shimla",
+      "hotels software in Shimla",
+      "restaurants software in Shimla",
     ],
   },
   hero: {

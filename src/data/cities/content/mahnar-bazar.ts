@@ -7,7 +7,7 @@ const mahnarBazar: CityContent = {
   meta: {
     title: "IT Services in Mahnar Bazar: Web, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Mahnar Bazar wholesalers, clinics, coaching centres and produce traders.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Mahnar Bazar wholesalers, clinics, coaching centres and produce traders. Sites from ₹10,000.",
     keywords: [
       "IT services in Mahnar Bazar",
       "IT services team in Mahnar Bazar",
@@ -29,6 +29,12 @@ const mahnarBazar: CityContent = {
       "Mahnar me app banwana",
       "महनार वेबसाइट डिजाइन",
       "वैशाली में वेबसाइट बनवाना",
+      "Mahnar Bazar website designer",
+      "web development company Mahnar Bazar",
+      "hire freelance web developer Mahnar Bazar",
+      "Vaishali district SEO",
+      "website designer Vaishali district",
+      "Bihar SEO services",
     ],
   },
   hero: {

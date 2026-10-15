@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Bayad · First Site from ${P.site}`,
-    description: `Website developer in Bayad for shops, agri dealers, quarry suppliers and clinics. A first site from ${P.site}, Google Maps setup, Gujarati pages, quote in 2 days.`,
+    description: `Website developer in Bayad for shops, agri dealers, quarry suppliers and clinics. A first site from ${P.site}, Google Maps, Gujarati pages, quote in 2 days.`,
     keywords: [
       "website developer in Bayad", "website developer Bayad", "website developer near me Bayad", "Bayad Gujarat website developer",
       "website designer Bayad", "web developer Bayad Aravalli", "website development services Bayad", "website design Bayad",

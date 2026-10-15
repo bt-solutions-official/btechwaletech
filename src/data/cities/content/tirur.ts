@@ -7,7 +7,7 @@ const tirur: CityContent = {
   meta: {
     title: "IT Services in Tirur | Web, Apps & AI from ₹10,000",
     description:
-      "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Tirur electronics dealers, fish and betel traders, colleges and clinics.",
+      "Malayalam websites, apps, local SEO and WhatsApp tools for Tirur electronics dealers, fish and betel traders, colleges and clinics. Sites from ₹10,000.",
     keywords: [
       "IT services in Tirur",
       "IT services team in Tirur",
@@ -29,6 +29,12 @@ const tirur: CityContent = {
       "Tirur me website banwana",
       "Tirur website nirmanam",
       "തിരൂർ വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Tirur website designer",
+      "web development company Tirur",
+      "hire freelance web developer Tirur",
+      "Malappuram district SEO",
+      "website designer Malappuram district",
+      "Kerala SEO services",
     ],
   },
   hero: {

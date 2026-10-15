@@ -7,7 +7,7 @@ const savarkundla: CityContent = {
   meta: {
     title: "IT Services in Savarkundla: Web, Apps, SEO & AI",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Savarkundla weighing scale makers, market yard traders, clinics, schools and shops.",
+      "Gujarati websites, apps, local SEO and WhatsApp tools for Savarkundla weighing scale makers, market yard traders, clinics, schools and shops. From ₹10,000.",
     keywords: [
       "IT services in Savarkundla",
       "IT services team in Savarkundla",
@@ -29,6 +29,12 @@ const savarkundla: CityContent = {
       "Savarkundla me website banwana",
       "Savarkundla ma website banavvi che",
       "સાવરકુંડલા વેબસાઇટ ડિઝાઇન",
+      "Savarkundla website designer",
+      "web development company Savarkundla",
+      "hire freelance web developer Savarkundla",
+      "Amreli district SEO",
+      "website designer Amreli district",
+      "Gujarat SEO services",
     ],
   },
   hero: {

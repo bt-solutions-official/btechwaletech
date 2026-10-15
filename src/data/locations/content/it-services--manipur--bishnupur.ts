@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 24.6287, lng: 93.7616 },
   meta: {
-    title: "Freelance Software Developers in Bishnupur, Manipur",
+    title: "Bishnupur, Manipur Software Developers: Loktak Homestays",
     description:
-      "Freelance software developers for Bishnupur and Loktak: tour booking and enquiry systems, service websites, Android and iOS apps, AI automation and tourism SEO.",
+      "Freelance software developers for Bishnupur and Loktak: tour booking and enquiry systems, plus service websites. Software from ₹60,000, quote in two days.",
     keywords: [
       "software development team in Bishnupur Manipur",
       "IT services team in Bishnupur",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "website maintenance Bishnupur",
       "বিষ্ণুপুর ৱেবসাইট ডেভেলপার",
       "Bishnupur mein website aur app",
+      "Bishnupur website designer",
+      "website cost in Bishnupur",
+      "IT company in Bishnupur",
+      "Manipur SEO services",
+      "hire developer Bishnupur",
+      "homestays software in Bishnupur",
+      "boat software in Bishnupur",
+      "fishing households software in Bishnupur",
+      "weavers software in Bishnupur",
     ],
   },
   hero: {

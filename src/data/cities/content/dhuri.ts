@@ -7,7 +7,7 @@ const dhuri: CityContent = {
   meta: {
     title: "IT Services in Dhuri | Web, Apps & AI from ₹10,000",
     description:
-      "Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Dhuri arhtiyas, implement makers, shops, clinics and colleges.",
+      "Dhuri Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for arhtiyas, implement makers, shops, clinics and colleges.",
     keywords: [
       "IT services in Dhuri",
       "IT services team in Dhuri",
@@ -29,6 +29,10 @@ const dhuri: CityContent = {
       "Dhuri vich website banwao",
       "ਧੂਰੀ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
       "Sangrur Dhuri web designer",
+      "Dhuri website designer",
+      "web development company Dhuri",
+      "hire freelance developer Dhuri",
+      "Punjab SEO",
     ],
   },
   hero: {

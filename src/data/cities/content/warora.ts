@@ -7,7 +7,7 @@ const warora: CityContent = {
   meta: {
     title: "IT Services in Warora: Websites, Android Apps & SEO",
     description:
-      "Marathi and English websites, Android and iOS apps, SEO and WhatsApp bots for Warora power-plant contractors, coal transporters, cotton traders and colleges.",
+      "Marathi and English websites, apps and SEO for Warora power-plant contractors, coal transporters, cotton traders and colleges. Websites from ₹10,000.",
     keywords: [
       "IT services in Warora",
       "IT services team in Warora",
@@ -29,6 +29,12 @@ const warora: CityContent = {
       "Warora me website banwana",
       "Warora madhye website banvayla",
       "वरोरा वेबसाइट डिझाइन",
+      "Warora website designer",
+      "web development company Warora",
+      "hire freelance web developer Warora",
+      "Chandrapur district SEO",
+      "website designer Chandrapur district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

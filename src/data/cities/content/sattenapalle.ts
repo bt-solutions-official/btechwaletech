@@ -7,7 +7,7 @@ const sattenapalle: CityContent = {
   meta: {
     title: "IT Services in Sattenapalle: Web, Apps, SEO & AI",
     description:
-      "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sattenapalle chilli and cotton traders, input dealers, schools and hospitals.",
+      "Telugu websites, apps, Maps SEO and WhatsApp automation for Sattenapalle chilli and cotton traders, input dealers, schools and hospitals. From ₹10,000.",
     keywords: [
       "IT services in Sattenapalle",
       "IT services team in Sattenapalle",
@@ -29,6 +29,12 @@ const sattenapalle: CityContent = {
       "Sattenapalle me website banwana",
       "Sattenapalli lo website cheyinchali",
       "సత్తెనపల్లి వెబ్‌సైట్ డిజైన్",
+      "Sattenapalle website designer",
+      "web development company Sattenapalle",
+      "hire freelance web developer Sattenapalle",
+      "Palnadu district SEO",
+      "website designer Palnadu district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

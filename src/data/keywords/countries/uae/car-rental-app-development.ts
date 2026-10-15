@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "car rental app for monthly rentals", "telematics integration car rental app", "best car rental app developers dubai",
       "car rental app developers near me", "car rental mobile app ios android uae", "remote app developers india for dubai car rental",
       "car rental app mvp", "white label car rental app vs custom",
+      "hire car rental app development in the UAE", "freelance car rental app development UAE",
     ],
   },
   hero: {

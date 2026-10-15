@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "car rental seo dubai", "rent a car seo uae", "car rental website features", "direct bookings car rental",
       "car rental website vs aggregator", "luxury car rental website design dubai", "car rental website developers near me",
       "remote web developers india for uae car rental", "car rental fleet availability system",
+      "hire car rental website development in the UAE", "freelance car rental website development UAE",
     ],
   },
   hero: {

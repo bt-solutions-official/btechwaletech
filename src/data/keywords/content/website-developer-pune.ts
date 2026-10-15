@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Website developer in Pune",
   updated: "2026-10-02",
   meta: {
-    title: `Website Developer in Pune: Sites from ${P.site}`,
-    description: `Website developer in Pune for business sites from ${P.site}: a freelance team builds remotely on a staging link, in your name, with 2 months free care.`,
+    title: `Website Developer in Pune: Hire From ${P.site}`,
+    description: `Website developer in Pune: hire a three-person freelance team for Hinjewadi, Kharadi, Baner and PCMC businesses. Sites from ${P.site}, live in 1-2 weeks.`,
     keywords: [
       "website developer in Pune", "website developer Pune", "website developer near me Pune", "web developer in Pune",
       "website development in Pune", "website development services Pune", "website design and development Pune", "business website developer Pune",
@@ -22,6 +22,9 @@ const content: FreelanceContent = {
       "website developer Hinjewadi", "website developer Kharadi", "website developer Baner", "website developer Kothrud",
       "website developer Hadapsar", "website developer Pimpri-Chinchwad", "website developer PCMC", "manufacturer website developer Chakan",
       "Marathi website developer Pune", "website developer Poona", "Pune mein website kaise banwaye", "website banwana hai Pune",
+      "website developer in Pune cost", "website developer in Pune price", "hire website developer in Pune", "freelance web developer in Pune",
+      "best website developer in Pune 2026", "website development company in Pune", "website developer near me in Pune", "website banwane ka kharcha Pune",
+      "Pune website developer charges", "website maintenance Pune",
     ],
   },
   hero: {

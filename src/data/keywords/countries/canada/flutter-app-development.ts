@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "Flutter app development company Canada",
   updated: "2026-09-25",
   meta: {
-    title: `Flutter App Development Company Canada: from ${P.app}`,
+    title: `Flutter App Development Canada from ${P.app}`,
     description: `Flutter app development for Canada from ${P.app}: one codebase for iPhone and Android, English and French strings, Canadian backend regions, store launch.`,
     keywords: [
       "flutter app development company canada", "flutter app development canada", "flutter developers canada", "hire flutter developer canada",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "google play closed testing 12 testers", "flutter app development toronto", "flutter app development vancouver",
       "flutter app development montreal", "flutter app development calgary", "flutter app developer near me", "one codebase android ios app",
       "flutter app maintenance", "outsource flutter development india",
+      "freelance flutter app development Canada",
     ],
   },
   hero: {

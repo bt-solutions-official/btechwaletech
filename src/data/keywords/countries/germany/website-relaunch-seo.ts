@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "why did my rankings drop after a redesign", "how long does seo recovery take after migration", "website relaunch cost germany",
       "website relaunch seo berlin", "website relaunch seo munich", "website relaunch seo hamburg", "website relaunch seo stuttgart",
       "relaunch dsgvo bfsg", "cms migration seo", "google.de rankings after relaunch",
+      "hire website relaunch seo in Germany", "freelance website relaunch seo Germany",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const sagara: CityContent = {
   meta: {
     title: "IT Services in Sagara: Websites, Apps, SEO & AI",
     description:
-      "Kannada websites, Android and iOS apps, local SEO and WhatsApp tools for Sagara areca traders, spice growers, Jog Falls homestays, sandalwood carvers and clinics.",
+      "Kannada websites, apps, SEO and WhatsApp tools for Sagara areca traders, spice growers, Jog Falls homestays, sandalwood carvers and clinics. From ₹10,000.",
     keywords: [
       "IT services in Sagara",
       "IT services team in Sagara",
@@ -29,6 +29,12 @@ const sagara: CityContent = {
       "Sagara me website banwana",
       "Sagaradalli website maadisuvudu",
       "ಸಾಗರ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Sagara website designer",
+      "web development company Sagara",
+      "hire freelance web developer Sagara",
+      "Shivamogga district SEO",
+      "website designer Shivamogga district",
+      "Karnataka SEO services",
     ],
   },
   hero: {

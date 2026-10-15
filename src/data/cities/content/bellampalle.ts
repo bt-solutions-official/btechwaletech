@@ -7,7 +7,7 @@ const bellampalle: CityContent = {
   meta: {
     title: "IT Services in Bellampalle | Web, Apps, SEO & AI",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Bellampalle mine contractors, transporters, clinics, schools and shops.",
+      "Bellampalle Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for mine contractors, transporters, clinics, schools and shops.",
     keywords: [
       "IT services in Bellampalle",
       "IT services team in Bellampalli",
@@ -28,6 +28,11 @@ const bellampalle: CityContent = {
       "Bellampalli me website banwana",
       "Bellampalli lo website cheyinchadam",
       "బెల్లంపల్లి వెబ్‌సైట్ డిజైన్",
+      "Bellampalle website designer",
+      "web development company Bellampalle",
+      "hire freelance developer Bellampalle",
+      "Telangana SEO",
+      "Bellampalle me website kaise banwaye",
     ],
   },
   hero: {

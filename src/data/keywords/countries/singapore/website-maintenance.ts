@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Website Maintenance Singapore, Plans from ${P.care}`,
-    description: `Website maintenance Singapore: WordPress and plugin updates, off-site backups, uptime and security monitoring, content edits in SGT hours. Plans from ${P.care}.`,
+    description: `Website maintenance Singapore: WordPress and plugin updates, off-site backups, uptime and security monitoring, content edits in SGT. Plans from ${P.care}.`,
     keywords: [
       "website maintenance singapore", "website maintenance", "website maintenance services singapore", "wordpress maintenance singapore",
       "monthly website maintenance plan", "website maintenance package singapore", "website maintenance cost singapore", "how much is website maintenance",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "what does website maintenance include", "is website maintenance necessary", "website maintenance for sme singapore", "shopify store maintenance singapore",
       "website maintenance near me", "website maintenance checklist", "website care plan", "website maintenance tampines", "website maintenance jurong",
       "website maintenance bukit timah",
+      "hire website maintenance in Singapore", "freelance website maintenance Singapore",
     ],
   },
   hero: {

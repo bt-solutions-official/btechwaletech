@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Dental Clinic Software for India, from ${P.software}`,
-    description: `Dental clinic software with tooth charts, staged treatment payments, lab work orders, RVG image storage and recall reminders. Built for your practice from ${P.software}.`,
+    description: `Dental clinic software with tooth charts, staged treatment payments, lab work orders, RVG image storage and recall reminders. Custom built from ${P.software}.`,
     keywords: [
       "dental clinic software", "dental clinic software India", "dental practice management software", "dental software",
       "dental clinic management software", "software for dentists", "dental charting software", "tooth chart software",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "best dental clinic software for small clinic", "what is dental clinic software", "dental clinic billing software",
       "multi-chair dental clinic software", "dental software Delhi", "dental software Mumbai", "dental software Kolkata",
       "dentist ke liye software", "custom dental clinic software developer", "dental clinic app",
+      "dental clinic software company in India",
+      "dental clinic software near me",
+      "dental clinic software services",
     ],
   },
   hero: {

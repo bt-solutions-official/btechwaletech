@@ -7,7 +7,7 @@ const dibrugarh: CityContent = {
   meta: {
     title: "IT Services in Dibrugarh: Websites, Apps, SEO & AI",
     description:
-      "Websites, Assamese and English SEO, tea brand stores and WhatsApp automation for Dibrugarh tea growers, oil-belt contractors, hotels and clinics. Code stays yours.",
+      "Dibrugarh websites, Assamese and English SEO, tea brand stores and WhatsApp bots for tea growers, oil-belt contractors, hotels and clinics. Code stays yours.",
     keywords: [
       "website development team in Dibrugarh",
       "web designer Dibrugarh",
@@ -25,6 +25,14 @@ const dibrugarh: CityContent = {
       "website maintenance Dibrugarh",
       "Google Maps listing Dibrugarh",
       "ডিব্ৰুগড় ৱেবছাইট",
+      "Dibrugarh website designer",
+      "website cost in Dibrugarh",
+      "web development company Dibrugarh",
+      "hire freelance developer Dibrugarh",
+      "Assam SEO",
+      "Dibrugarh me website kaise banwaye",
+      "website for tea estates and bought-leaf factories in Dibrugarh",
+      "web designer in Chowkidinghee, Dibrugarh",
     ],
   },
   hero: {

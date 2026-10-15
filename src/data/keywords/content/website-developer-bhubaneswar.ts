@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Website developer in Bhubaneswar",
   updated: "2026-10-02",
   meta: {
-    title: "Website Developer in Bhubaneswar: Odia-English Sites",
+    title: `Website Developer in Bhubaneswar: Sites ${P.site}+`,
     description: `Website developer in Bhubaneswar for clinics, institutes, hotels, IT startups and shops. Odia and English sites from ${P.site}, built remotely.`,
     keywords: [
       "website developer in Bhubaneswar", "website developer Bhubaneswar", "website developer near me Bhubaneswar", "web developer in Bhubaneswar",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Patia", "website developer Saheed Nagar", "website developer Cuttack", "website developer Puri",
       "website developer Odisha", "Bhubaneswar me website kaise banaye", "website banane wala Bhubaneswar", "Next.js developer Bhubaneswar",
       "best website developer in Bhubaneswar", "business website Bhubaneswar",
+      "website developer in Bhubaneswar cost", "website developer in Bhubaneswar price", "hire website developer in Bhubaneswar", "freelance website developer in Bhubaneswar",
+      "website developer in Bhubaneswar charges",
     ],
   },
   hero: {

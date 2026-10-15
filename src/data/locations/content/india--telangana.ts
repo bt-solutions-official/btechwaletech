@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 18.1124, lng: 79.0193 },
   meta: {
-    title: "Freelance IT Consulting & Solutions in Telangana",
+    title: "Telangana IT Consulting: Pharma, Seeds & Commodity Trading",
     description:
-      "IT consulting and digital transformation in Telangana from a freelance team: software, Telugu AI agents, Android and iOS apps, dashboards and SEO for every district.",
+      "IT consulting in Telangana from a freelance team: software, Telugu AI agents, plus Android and iOS apps. Starting prices in INR, paid by UPI or bank transfer.",
     keywords: [
       "IT solutions team in Telangana",
       "IT consulting Telangana",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "IT solutions near me Karimnagar",
       "తెలంగాణలో ఐటీ సేవలు",
       "తెలంగాణ సాఫ్ట్‌వేర్ కన్సల్టింగ్",
+      "Telangana website designer",
+      "website cost in Telangana",
+      "IT company in Telangana",
+      "Telangana SEO services",
+      "hire developer Telangana",
+      "pharma software in Telangana",
+      "seeds software in Telangana",
+      "commodity trading software in Telangana",
     ],
   },
   hero: {

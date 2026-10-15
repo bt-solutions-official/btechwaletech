@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "landing page copywriting", "A/B testing landing page", "Google Ads landing page design", "Meta ads landing page",
       "lead generation landing page", "product launch landing page", "landing page redesign", "landing page Figma to code",
       "high converting landing page India", "landing page designer freelancer",
+      "hire freelance landing page designer",
     ],
   },
   hero: {

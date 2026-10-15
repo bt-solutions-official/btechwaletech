@@ -7,7 +7,7 @@ const dhule: CityContent = {
   meta: {
     title: "Dhule Website Development & Local SEO from ₹10,000",
     description:
-      "Websites, Marathi local SEO, transport and textile software and WhatsApp automation for Dhule businesses on Agra Road, Deopur and MIDC Avdhan. From ₹10,000.",
+      "Dhule websites, Marathi local SEO, transport and textile software and WhatsApp automation for businesses on Agra Road, Deopur and MIDC Avdhan. From ₹10,000.",
     keywords: [
       "website development team in Dhule",
       "website designer Dhule",
@@ -24,6 +24,15 @@ const dhule: CityContent = {
       "Dhule madhye website banvaychi aahe",
       "धुळे वेबसाइट डिझाइन",
       "website banane wala Dhule",
+      "Dhule website designer",
+      "website cost in Dhule",
+      "web development company Dhule",
+      "hire freelance developer Dhule",
+      "Maharashtra SEO",
+      "Dhule me website kaise banwaye",
+      "website for transporters and fleet owners in Dhule",
+      "web designer in Deopur, Dhule",
+      "website for warehousing and distribution in Dhule",
     ],
   },
   hero: {

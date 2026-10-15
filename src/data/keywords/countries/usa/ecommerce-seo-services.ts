@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Ecommerce SEO Services for US Stores: from ${P.seo}`,
-    description: `Ecommerce SEO services for US Shopify and WooCommerce stores: collections, product pages, filters, Product schema and free listings. Monthly SEO from ${P.seo}.`,
+    description: `Ecommerce SEO services for US Shopify and WooCommerce stores: collections, product pages, filters, Product schema and free listings. SEO from ${P.seo}.`,
     keywords: [
       "ecommerce seo services", "ecommerce seo agency", "ecommerce seo company", "ecommerce seo consultant",
       "shopify seo services", "woocommerce seo services", "shopify seo expert usa", "how much do ecommerce seo services cost",
@@ -87,7 +87,7 @@ const content: FreelanceContent = {
       ["Merchant Center feed", "Separate app", "Often out of scope", "Feed and site data kept consistent"],
       ["Theme and app speed", "Can add scripts itself", "Reports scores", "Removes, defers and rewrites code"],
       ["Buying-intent content", "No", "Blog posts, often generic", "Guides tied to specific collections"],
-      ["Starting cost", "App subscription", "Quotes vary widely", `From ${P.seo} per month`],
+      ["Starting cost", "App subscription", "Quotes vary widely", `From ${P.seo}`],
       ["Who can edit Liquid or PHP", "Nobody", "Usually your developer", "We do, on a duplicate theme or staging first"],
       ["Ranking promises", "None", "Some imply them", "None; clear reports instead"],
     ],
@@ -230,7 +230,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do ecommerce SEO services cost for a US store?",
       paragraphs: [
-        `From this team, ecommerce SEO services start from ${P.seo} per month. US providers price store SEO in very different ways, from hourly audits to large retainers, so quotes vary widely; the main drivers are catalog size, platform, the state of the theme and how much content you want produced.`,
+        `From this team, ecommerce SEO services start from ${P.seo}. US providers price store SEO in very different ways, from hourly audits to large retainers, so quotes vary widely; the main drivers are catalog size, platform, the state of the theme and how much content you want produced.`,
         "A store with 200 products on a clean Shopify theme needs far less work than a WooCommerce store with 15,000 SKUs, 40 plugins and indexable filters. The first month usually costs the same either way because it is a review and plan; the difference shows up in how long the fix backlog is and how many content pieces are needed.",
         `One practical guide: if your theme or plugin setup is so heavy that months of fixes would be spent working around it, a new store from ${P.shop} may cost less over a year. Our <a href='/usa/shopify-developer-cost/'>Shopify developer cost guide</a> explains what drives build prices.`,
       ],

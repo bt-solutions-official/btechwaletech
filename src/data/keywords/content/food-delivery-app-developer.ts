@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Food delivery app developer",
   updated: "2026-09-24",
   meta: {
-    title: "Food Delivery App Developer for Restaurants in India",
-    description: `Food delivery app developer for restaurants and cloud kitchens in India: your own ordering app with UPI checkout and a kitchen panel. Apps from ${P.app}.`,
+    title: `Food Delivery App Developer: Zero Commission, ${P.app}+`,
+    description: `Food delivery app developer for restaurants and cloud kitchens: your own ordering app, UPI checkout, kitchen panel and no commission. Apps from ${P.app}.`,
     keywords: [
       "food delivery app developer", "food delivery app developer in India", "food delivery app developer near me", "food delivery app developer for hire",
       "food delivery app development cost", "food ordering app price India", "best food delivery app developer", "restaurant ka app banwana hai",
@@ -23,6 +23,10 @@ const content: FreelanceContent = {
       "own food ordering app for restaurant", "restaurant app without commission", "food delivery app for single restaurant", "online food ordering system developer",
       "freelance food delivery app developer", "restaurant app Flutter developer", "food ordering website and app", "delivery boy app developer",
       "kitchen order display app", "tiffin service app developer",
+      "hire food delivery app developer",
+      "food delivery app developer cost",
+      "zero commission food delivery app",
+      "food delivery app development company India",
     ],
   },
   hero: {

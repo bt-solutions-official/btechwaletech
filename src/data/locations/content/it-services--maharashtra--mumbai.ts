@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 19.076, lng: 72.8777 },
   meta: {
-    title: "Freelance Software & App Developers in Mumbai",
+    title: "Mumbai App & Software Developers: CRMs, Apps & AI Agents",
     description:
-      "Hire freelance software developers in Mumbai for custom software, Android and iOS apps, AI agents, CRMs and dashboards. Apps from ₹40,000, itemised quote in 2 days.",
+      "Hire freelance software developers in Mumbai for custom software, Android and iOS apps, plus AI agents. Apps from ₹40,000, itemised quote in 2 days.",
     keywords: [
       "software development team in Mumbai",
       "IT services team in Mumbai",
@@ -28,6 +28,17 @@ const content: CityContent = {
       "IT support near me Mumbai",
       "मुंबई सॉफ्टवेअर डेव्हलपर",
       "Mumbai mein app banwana",
+      "Mumbai website designer",
+      "website cost in Mumbai",
+      "IT company in Mumbai",
+      "Maharashtra SEO services",
+      "hire developer Mumbai",
+      "insurance software in Mumbai",
+      "import software in Mumbai",
+      "real estate software in Mumbai",
+      "film software in Mumbai",
+      "website developer BKC Mumbai",
+      "website developer Fort Mumbai",
     ],
   },
   hero: {

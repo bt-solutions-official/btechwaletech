@@ -333,7 +333,7 @@ const content: FreelanceContent = {
         ["Valuation tool or vendor portal", "Estimate engine on open data, or logged-in vendor and landlord area", `From ${P.software}`, "6–12 weeks"],
         ["Enquiry automation", "Applicant and vendor enquiries sorted, first reply drafted, routed to staff", `From ${P.ai}`, "2–4 weeks"],
         ["Agency app", "Listings, alerts and viewing requests on Google Play and the App Store", `From ${P.app}`, "6–10 weeks"],
-        ["Monthly local search", "Area content, Google Business Profiles, Search Console", `From ${P.seo} per month`, "Ongoing"],
+        ["Monthly local search", "Area content, Google Business Profiles, Search Console", `From ${P.seo}`, "Ongoing"],
       ],
       hideSm: [3],
     },

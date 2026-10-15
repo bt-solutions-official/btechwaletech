@@ -5,9 +5,9 @@ const vinukonda: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 16.05, lng: 79.75 },
   meta: {
-    title: "IT Services in Vinukonda | Web, Apps & AI from ₹10,000",
+    title: "Vinukonda Website Design: Cotton, Chilli & Dealers",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Vinukonda cotton and chilli traders, input dealers, clinics, schools and shops.",
+      "Vinukonda websites, Telugu SEO and WhatsApp tools for cotton and chilli traders, seed and pesticide dealers and rice mills. Sites from ₹10,000.",
     keywords: [
       "IT services in Vinukonda",
       "IT services team in Vinukonda",
@@ -29,6 +29,16 @@ const vinukonda: CityContent = {
       "Vinukonda lo website cheyinchukovali",
       "Vinukonda me website banwana",
       "వినుకొండ వెబ్‌సైట్ డిజైన్",
+      "Vinukonda website designer",
+      "web development company Vinukonda",
+      "hire freelance web developer Vinukonda",
+      "Palnadu district SEO",
+      "website designer Palnadu district",
+      "Andhra Pradesh SEO services",
+      "website design price in Vinukonda",
+      "app development company Vinukonda",
+      "Vinukonda SEO company",
+      "local SEO Vinukonda",
     ],
   },
   hero: {

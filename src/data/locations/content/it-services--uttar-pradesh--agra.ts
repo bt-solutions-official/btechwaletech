@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 27.1767, lng: 78.0081 },
   meta: {
-    title: "Freelance Software Developers in Agra: Apps & AI",
+    title: "Agra Software Developers: Apps & AI",
     description:
       "Looking for a software development team in Agra? Hire our freelance team for custom software, apps, AI automation and SEO. From ₹60,000, quote in 2 days.",
     keywords: [
@@ -34,6 +34,11 @@ const content: CityContent = {
       "iPhone app developers Agra",
       "आगरा में सॉफ्टवेयर कंपनी",
       "Agra mein software banwana",
+      "Agra website designer",
+      "website cost in Agra",
+      "IT company in Agra",
+      "Uttar Pradesh SEO services",
+      "hire developer Agra",
     ],
   },
   hero: {

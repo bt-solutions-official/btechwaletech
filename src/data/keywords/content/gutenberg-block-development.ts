@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Custom Gutenberg block development",
   updated: "2026-09-25",
   meta: {
-    title: "Custom Gutenberg Block Development: Drop the Builder",
+    title: `Gutenberg Block Development: Sites from ${P.site}`,
     description: `Custom Gutenberg block development: block.json or ACF blocks, locked patterns and an Elementor exit plan. Block-based sites from ${P.site}, quoted per block.`,
     keywords: [
       "custom gutenberg block development", "custom gutenberg blocks", "gutenberg block developer", "wordpress block development",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "hire gutenberg developer", "gutenberg developer India", "how to create custom gutenberg block", "acf blocks vs native blocks",
       "is gutenberg better than elementor", "gutenberg block plugin development", "custom gutenberg block development Delhi", "custom gutenberg block development Mumbai",
       "wordpress page builder alternative", "gutenberg block kaise banaye",
+      "gutenberg block development company in India",
+      "best gutenberg block development in India",
+      "gutenberg block development services",
     ],
   },
   hero: {
@@ -253,7 +256,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your blocks are yours: custom Gutenberg block development with us never creates a dependency on us. They go into a Git repository and a custom plugin under your control, installed on hosting in your name. There is no licence from us and no lock-in; any competent WordPress developer can read the code later.`,
         `Three of us share the work. One of us builds the blocks, React and PHP. Another of us handles hosting, staging, speed checks and technical SEO. The third of us plans the block list with you, organises content migration and runs editor training. You reach all of us on WhatsApp, seven days a week, in English or Hindi.`,
-        `WordPress updates the block editor regularly, and occasionally a change affects custom blocks. The first two months after launch are covered by free maintenance; after that, care plans from ${P.care} a month keep WordPress, plugins and blocks tested together. Custom blocks also need the server on a supported PHP version; our <a href='/php-version-upgrade/'>PHP version upgrade service</a> covers that if your host is behind.`,
+        `WordPress updates the block editor regularly, and occasionally a change affects custom blocks. The first two months after launch are covered by free maintenance; after that, care plans from ${P.care} keep WordPress, plugins and blocks tested together. Custom blocks also need the server on a supported PHP version; our <a href='/php-version-upgrade/'>PHP version upgrade service</a> covers that if your host is behind.`,
       ],
     },
     {
@@ -396,7 +399,7 @@ const content: FreelanceContent = {
     { question: "Can custom blocks handle Hindi and regional languages?", answer: "Yes. Blocks store text like any WordPress content, so Hindi, Tamil, Marathi or other scripts work normally, and multilingual plugins can translate block content. You supply or approve the translated copy. We check fonts, line heights and button widths so longer translated text does not break the layout on mobile." },
     { question: "Should I hire a freelancer or agency for Gutenberg block development?", answer: "A small freelance team suits most block projects: you talk to the developer building the blocks, feedback is quick, and costs stay lower. A larger vendor fits when dozens of sites need a shared block system maintained by a big team. BtechWaleTech is three freelance developers covering blocks, hosting and planning." },
     { question: "Who owns the blocks after the project?", answer: "You do. Blocks sit in a custom plugin and Git repository in your name, installed on hosting you control. There is no licence from us and no dependency on our accounts. The code follows standard WordPress practices, so any competent WordPress developer can maintain or extend it later." },
-    { question: "What maintenance do custom blocks need?", answer: `WordPress updates the block editor regularly, so blocks should be tested after major updates. The first two months after launch are covered by free maintenance. After that, care plans start at ${P.care} a month and cover WordPress, plugin and block updates tested together on staging, plus backups and security checks.` },
+    { question: "What maintenance do custom blocks need?", answer: `WordPress updates the block editor regularly, so blocks should be tested after major updates. The first two months after launch are covered by free maintenance. After that, care plans start at ${P.care} and cover WordPress, plugin and block updates tested together on staging, plus backups and security checks.` },
     { question: "Gutenberg block kaise banaye, ya developer se banwana behtar hai?", answer: `Simple block aap @wordpress/create-block tool se khud bana sakte hain agar React aur PHP aati hai. Lekin business site ke liye poori block library, patterns, locked templates aur Elementor se shift karna developer se karwana behtar rehta hai. Block-based site ${P.site} se shuru hoti hai aur har block ki line quote mein alag hoti hai, taaki aap kharcha saaf samajh sakein.` },
   ],
   related: {

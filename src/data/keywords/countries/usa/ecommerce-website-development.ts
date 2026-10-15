@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Ecommerce Website Development Company: Stores ${P.shop}+`,
-    description: `Ecommerce website development company alternative for US stores: Shopify, WooCommerce or headless builds from ${P.shop}, with tax, shipping and migration planned.`,
+    description: `Ecommerce website development company for US stores: Shopify, WooCommerce or headless builds from ${P.shop}, with tax, shipping and migration planned.`,
     keywords: [
       "ecommerce website development company", "ecommerce website development", "ecommerce development company usa", "ecommerce website development services",
       "online store development", "ecommerce website developer for hire", "how much does an ecommerce website cost", "ecommerce website development cost",
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Tax and shipping", value: "Nexus states, tax app setup, carrier rates and zones configured" },
       { label: "Migration", value: "Products, variants, images, customers, order history and 301 redirects" },
       { label: "Ownership", value: "Store account, domain, apps and any custom code registered to you" },
-      { label: "After launch", value: `2 months of free fixes, then care from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free fixes, then care from ${P.care}` },
     ],
   },
   services: {
@@ -71,9 +71,9 @@ const content: FreelanceContent = {
       { name: "Tax and checkout setup", note: "Payment provider connected in your name, digital wallets switched on, and tax settings or a tax app configured for the states your accountant confirms.", size: "md" },
       { name: "Shipping and fulfilment", note: "Live USPS, UPS or FedEx rates, zones, free-shipping rules, label printing and hand-off to your warehouse or 3PL.", size: "md" },
       { name: "Headless storefront", note: `A fast Astro or Next.js front end over Shopify or WooCommerce for brands that need custom content and speed. Scoped with web apps, from ${P.software}.`, href: "/usa/custom-website-development/", size: "md" },
-      { name: "Store SEO", note: `Collection and product page structure, Product schema, Merchant Center feed and ongoing search work from ${P.seo} a month.`, href: "/usa/ecommerce-seo-services/", size: "sm" },
+      { name: "Store SEO", note: `Collection and product page structure, Product schema, Merchant Center feed and ongoing search work from ${P.seo}.`, href: "/usa/ecommerce-seo-services/", size: "sm" },
       { name: "Shopify Plus features", note: "Checkout extensions, B2B price lists and international markets for larger brands.", href: "/usa/shopify-plus-developer/", size: "sm" },
-      { name: "Store upkeep", note: `App and plugin updates, speed checks and small changes, free for two months then from ${P.care} a month.`, href: "/usa/website-maintenance-services/", size: "sm" },
+      { name: "Store upkeep", note: `App and plugin updates, speed checks and small changes, free for two months then from ${P.care}.`, href: "/usa/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Account ownership", "Yours", "Depends on the agreement", "Yours from day one; we are invited as staff"],
       ["Meetings", "None needed", "In person or video", "Video in US Eastern mornings; no site visits"],
       ["Team size", "Just you", "Large teams available", "Three developers; not for enterprise replatforms with many workstreams"],
-      ["After launch", "App updates on you", "Retainer", `2 free months, then from ${P.care} a month`],
+      ["After launch", "App updates on you", "Retainer", `2 free months, then from ${P.care}`],
     ],
     fine: "If you run a very large catalogue across many brands with an ERP, a warehouse system and a merchandising team, a bigger ecommerce agency with dedicated specialists will cover more ground than three developers can.",
   },
@@ -221,7 +221,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Store SEO starts in the build: clean collection URLs, unique product titles and descriptions, Product structured data, fast images and sensible handling of filters so they do not create thousands of duplicate pages. Rankings still depend on content and links, and nobody can promise them.`,
         `Google’s Merchant Center documentation says free listings can show products at no cost across Google Search, the Shopping tab, Images, YouTube, Maps and Lens, provided you follow its product policies and supply accurate product, shipping and return details. We set up the product feed and the return-policy information so the store is ready for that.`,
-        `AI shopping answers pull from the same structured product data, reviews and clear specification tables. Writing each product page with a plain one-paragraph description, a specs table and honest answers to common questions makes it easier for both shoppers and answer engines. Ongoing <a href='/usa/ecommerce-seo-services/'>ecommerce SEO</a> starts at ${P.seo} a month.`,
+        `AI shopping answers pull from the same structured product data, reviews and clear specification tables. Writing each product page with a plain one-paragraph description, a specs table and honest answers to common questions makes it easier for both shoppers and answer engines. Ongoing <a href='/usa/ecommerce-seo-services/'>ecommerce SEO</a> starts at ${P.seo}.`,
       ],
     },
     {
@@ -229,7 +229,7 @@ const content: FreelanceContent = {
       heading: "Privacy, consent and accessibility for a US online store",
       paragraphs: [
         `Stores collect more personal data than most websites, so privacy notices, marketing consent and cookie choices need real attention. We build the mechanics; your attorney confirms what your store is legally required to show.`,
-        `If you sell to California residents and meet the thresholds, the CCPA and CPRA require specific notices and opt-outs; several other states now have similar laws. We can add a consent banner that keeps non-essential tracking off until a shopper agrees, honour browser opt-out signals where required, and link the privacy policy you provide. Our <a href='/usa/ccpa-compliant-website/'>CCPA-compliant website</a> page explains that work.`,
+        `If you sell to California residents and meet the thresholds, the CCPA and CPRA require specific notices and opt-outs; several other states now have similar laws. We can add a consent banner that keeps non-essential tracking off until a shopper agrees, honour browser opt-out signals where required, and link the privacy policy you provide. Our <a href='/usa/hipaa-compliant-website-design/'>HIPAA compliant website design</a> page shows how we handle consent and tracking where data rules are strict.`,
         `Accessibility matters for stores too: product options must work with a keyboard, images need alt text, colour swatches need names and error messages at checkout must be readable by screen readers. We test these before launch and fix what the theme gets wrong.`,
       ],
     },
@@ -278,7 +278,7 @@ const content: FreelanceContent = {
         `Shopify store with bundles, gift notes and wholesale enquiry form: estimated from ${P.shop}`,
         "Carrier rates, zones and packaging weights tested with real addresses",
         "Merchant Center feed and Product schema ready at launch",
-        `Optional ongoing store SEO from ${P.seo} a month`,
+        `Optional ongoing store SEO from ${P.seo}`,
       ],
       after: [
         `This is an illustration, not a real client or a quote. The actual estimate would depend on product data quality, the bundle logic and which apps they already pay for.`,
@@ -308,7 +308,7 @@ const content: FreelanceContent = {
       heading: "After launch: keeping an ecommerce store healthy",
       paragraphs: [
         `The first month after launch is when small problems show up in real orders, so we watch errors, abandoned checkouts and Search Console closely and fix issues quickly. Fixes and small changes are included for two months.`,
-        `After that, stores need regular care: app and plugin updates, theme updates, checking that tax and shipping rules still match your business, seasonal banners and new product templates. You can take a care plan from ${P.care} a month, pay per change or run it yourselves. Our <a href='/usa/website-maintenance-services/'>website maintenance services</a> page explains what a plan includes.`,
+        `After that, stores need regular care: app and plugin updates, theme updates, checking that tax and shipping rules still match your business, seasonal banners and new product templates. You can take a care plan from ${P.care}, pay per change or run it yourselves. Our <a href='/usa/website-maintenance-services/'>website maintenance services</a> page explains what a plan includes.`,
         `Growth features often follow: subscriptions, wholesale portals, a mobile app from ${P.app} or AI tools that answer product questions from ${P.ai}. We plan the store’s data so those can be added without a rebuild.`,
       ],
     },
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
     { question: "How do I get my products into Google Shopping for free?", answer: "Google Merchant Center offers free listings that can show products across Search, the Shopping tab, Images, YouTube, Maps and Lens. You need a product feed with accurate prices, availability, shipping and return details, and products must follow Google’s policies. We set up the feed and structured data during the build so the store is ready to submit." },
     { question: "Do I need a cookie banner on my online store?", answer: "It depends on where your customers are and which state laws apply to your business, which your attorney should confirm. Technically, we can add a consent banner that keeps non-essential tracking off until a shopper agrees and honours browser opt-out signals where required. The privacy policy wording should come from you or your lawyer." },
     { question: "Do you write product descriptions?", answer: "We can, in US English, as a separate line on the estimate. We usually start from your supplier data and a short call about what customers ask, then write clear descriptions with a specs table for each product. You approve everything, particularly claims about health, safety or materials, since those claims are yours to stand behind." },
-    { question: "What happens after my store launches?", answer: `We watch orders, errors and Search Console closely for the first weeks, and fixes and small changes are included for two months. After that you can take a care plan from ${P.care} a month, pay per change, or run the store yourself using the written guide we hand over. App updates and seasonal changes are the usual ongoing work.` },
+    { question: "What happens after my store launches?", answer: `We watch orders, errors and Search Console closely for the first weeks, and fixes and small changes are included for two months. After that you can take a care plan from ${P.care}, pay per change, or run the store yourself using the written guide we hand over. App updates and seasonal changes are the usual ongoing work.` },
     { question: "Can you also build a mobile app for my store?", answer: `Yes. We build Android and iOS apps in Flutter or React Native from ${P.app}, published under your own Google Play and App Store developer accounts. For most stores, a fast mobile website comes first; an app makes sense once you have repeat customers who would use push notifications and saved carts.` },
   ],
   related: {
@@ -430,7 +430,7 @@ const content: FreelanceContent = {
       { name: "Custom website development", href: "/usa/custom-website-development/" },
       { name: "Website redesign services", href: "/usa/website-redesign-services/" },
       { name: "Website maintenance services", href: "/usa/website-maintenance-services/" },
-      { name: "CCPA compliant website", href: "/usa/ccpa-compliant-website/" },
+      { name: "HIPAA compliant website design", href: "/usa/hipaa-compliant-website-design/" },
       { name: "Landing page design services", href: "/usa/landing-page-design-services/" },
       { name: "All services for US businesses", href: "/usa/" },
       { name: "Hire Indian developers", href: "/hire-indian-developers/" },

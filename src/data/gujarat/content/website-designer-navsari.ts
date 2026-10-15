@@ -243,7 +243,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Design influences several signals search engines read, though no designer can guarantee a ranking. Speed, stable layouts, clear headings and real text all come from design decisions.`,
         `Practical design choices that help: one H1 per page that says what the page is about; headings in a logical order; text as text, never baked into banners; descriptive alt text; compressed modern image formats; reserved space for images so nothing jumps while loading; and at most two font families. These keep Core Web Vitals healthy on the budget phones common across the district.`,
-        `For local searches, consistency matters. Your Google Business Profile should share photos, name, address and hours with your website, and its photos should be real. AI assistants and Google's AI Overviews often quote short answers and tidy tables, so we design FAQ and specification blocks to be easy to scan. Ongoing optimisation is optional, through <a href='/services/seo-services/'>SEO services</a> from ${P.seo} a month.`,
+        `For local searches, consistency matters. Your Google Business Profile should share photos, name, address and hours with your website, and its photos should be real. AI assistants and Google's AI Overviews often quote short answers and tidy tables, so we design FAQ and specification blocks to be easy to scan. Ongoing optimisation is optional, through <a href='/services/seo-services/'>SEO services</a> from ${P.seo}.`,
       ],
     },
     {

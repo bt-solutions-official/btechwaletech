@@ -7,7 +7,7 @@ const durg: CityContent = {
   meta: {
     title: "IT Services in Durg | Web, Apps, SEO & AI from ₹10,000",
     description:
-      "Websites, local SEO, stores and WhatsApp automation for Durg and Bhilai suppliers, rice mills, clinics, colleges and Indira Market shops. Starting from ₹10,000.",
+      "Durg and Bhilai websites, local SEO, stores and WhatsApp bots for suppliers, rice mills, clinics, colleges and Indira Market shops. Starting from ₹10,000.",
     keywords: [
       "website development team in Durg",
       "web designer Durg",
@@ -25,6 +25,14 @@ const durg: CityContent = {
       "website maintenance Durg",
       "Durg mein website banwana",
       "दुर्ग वेबसाइट डिजाइन",
+      "Durg website designer",
+      "web development company Durg",
+      "hire freelance developer Durg",
+      "Chhattisgarh SEO",
+      "Durg me website kaise banwaye",
+      "website for fabrication and engineering units in Durg",
+      "web designer in Indira Market, Durg",
+      "website for rice mills and agro-processing in Durg",
     ],
   },
   hero: {

@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "aws cost optimisation freelancer", "aws serverless developer", "aws lambda developer freelance", "aws hosting setup freelancer",
       "aws cloud engineer freelance", "hire aws expert", "aws migration freelancer", "aws s3 cloudfront website hosting",
       "reduce aws bill", "aws consultant for startups", "aws developer for small business", "remote aws developer India",
+      "hire freelance aws developer",
     ],
   },
   hero: {

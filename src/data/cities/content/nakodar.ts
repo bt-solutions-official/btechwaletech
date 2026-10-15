@@ -7,7 +7,7 @@ const nakodar: CityContent = {
   meta: {
     title: "IT Services in Nakodar | Web, Apps & AI from ₹10,000",
     description:
-      "Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Nakodar visa offices, arhtiyas, colleges, clinics and NRI-facing firms.",
+      "Punjabi and English websites, apps and SEO for Nakodar visa offices, arhtiyas, colleges, clinics and NRI-facing firms. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "IT services in Nakodar",
       "IT services team in Nakodar",
@@ -30,6 +30,11 @@ const nakodar: CityContent = {
       "Nakodar me website banwana",
       "Nakodar vich website banwauni",
       "ਨਕੋਦਰ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Nakodar website designer",
+      "web development company Nakodar",
+      "hire freelance web developer Nakodar",
+      "Jalandhar district SEO",
+      "website designer Jalandhar district",
     ],
   },
   hero: {

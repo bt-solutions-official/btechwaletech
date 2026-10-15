@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Digital marketing freelancer near me",
   updated: "2026-09-24",
   meta: {
-    title: `Digital Marketing Freelancer Near Me: Local Growth`,
-    description: `Digital marketing freelancer near me for small businesses: Google Business Profile, local SEO, WhatsApp and websites. Monthly SEO from ${P.seo}, honest reporting.`,
+    title: `Digital Marketing Freelancer Near Me: SEO ${P.seo}`,
+    description: `Digital marketing freelancer near me for small businesses: Google Business Profile, local SEO, WhatsApp and websites. SEO from ${P.seo}, honest reporting.`,
     keywords: [
       "digital marketing freelancer near me", "digital marketing freelancer", "digital marketing freelancer in India", "local digital marketing freelancer",
       "digital marketing freelancer for small business", "digital marketing freelancer cost", "digital marketing freelancer charges per month", "best digital marketing freelancer near me",
@@ -69,7 +69,7 @@ const content: FreelanceContent = {
     note: "For a business that serves one town or a few neighbourhoods, these are the pieces that decide whether nearby customers find and contact you.",
     cards: [
       { name: "Google Business Profile setup and care", note: "Correct categories, services, hours, photos, products and weekly posts, plus replies to reviews and questions. Usually the fastest win for a local business.", href: "/google-business-profile-expert/", size: "lg" },
-      { name: "Local SEO", note: `Location pages, consistent name, address and phone across listings, schema and Search Console monitoring, from ${P.seo} a month.`, href: "/local-seo-expert/", size: "lg" },
+      { name: "Local SEO", note: `Location pages, consistent name, address and phone across listings, schema and Search Console monitoring, from ${P.seo}.`, href: "/local-seo-expert/", size: "lg" },
       { name: "Website that turns visits into calls", note: `Fast, mobile-first pages with tap-to-call, WhatsApp and directions buttons, from ${P.site}.`, href: "/website-for-local-business/", size: "md" },
       { name: "WhatsApp follow-up", note: `Instant replies, appointment reminders and opt-in broadcasts wired to your enquiries, from ${P.ai}.`, href: "/whatsapp-automation-expert/", size: "md" },
       { name: "Landing pages for ads", note: "If someone runs Google or Meta ads for you, we build the page and the conversion tracking they need to measure results.", href: "/landing-page-developer/", size: "md" },

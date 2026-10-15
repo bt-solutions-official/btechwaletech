@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 9.9252, lng: 78.1198 },
   meta: {
-    title: "Freelance Software Developers in Madurai",
+    title: "Madurai Software Developers: Hotels, Hospitals & Colleges",
     description:
       "Freelance software developers for Madurai: booking, hospital and college software, AI agents, apps and SEO. An alternative to a software team. From ₹60,000.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "IT support and maintenance Madurai",
       "Madurai software team Tamil",
       "மதுரை மென்பொருள் நிறுவனம்",
+      "Madurai website designer",
+      "website cost in Madurai",
+      "IT company in Madurai",
+      "Tamil Nadu SEO services",
+      "hire developer Madurai",
+      "hotels software in Madurai",
+      "hospitals software in Madurai",
     ],
   },
   hero: {

@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Freelance React developer",
   updated: "2026-09-24",
   meta: {
-    title: `Freelance React Developer: Dashboards & Next.js Apps`,
-    description: `Freelance React developer in India for SPAs, admin dashboards and Next.js sites. Web apps from ${P.software}, honest SEO caveats and speed work built in.`,
+    title: `Freelance React Developer: Apps from ${P.software}`,
+    description: `Freelance React developer in India for SPAs, admin dashboards and Next.js sites, with honest SEO caveats and speed work. Web apps from ${P.software}.`,
     keywords: [
       "freelance react developer", "freelance react developer in India", "freelance react developer near me", "freelance react developer for hire",
       "freelance react developer cost", "react developer price India", "best freelance react developer", "react developer chahiye",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "react dashboard developer", "react admin panel developer", "react single page application developer", "react performance optimisation freelancer",
       "react SEO developer", "hire react developer freelance", "react typescript freelancer", "remote react developer India",
       "react web app development India", "react to next.js migration",
+      "hire freelance react developer",
     ],
   },
   hero: {

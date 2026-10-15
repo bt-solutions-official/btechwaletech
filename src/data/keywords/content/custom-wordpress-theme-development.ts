@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Custom WordPress Theme Development from ${P.site}`,
-    description: `Custom WordPress theme development: block themes, theme.json and ACF layouts that pass Core Web Vitals. Sites from ${P.site}, with editor training included.`,
+    description: `Custom WordPress theme development: block themes, theme.json and ACF layouts that pass Core Web Vitals, with editor training. Sites from ${P.site}.`,
     keywords: [
       "custom wordpress theme development", "custom wordpress theme developer", "custom wordpress theme cost", "custom wordpress theme development cost india",
       "custom wordpress theme vs premium theme", "wordpress block theme development", "theme.json developer", "acf flexible content theme",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "replace bloated wordpress theme", "lightweight custom wordpress theme", "how much does a custom wordpress theme cost", "wordpress theme banwana hai",
       "custom wordpress theme for business", "full site editing theme development", "wordpress editor training", "custom wordpress theme development near me",
       "wordpress redesign with custom theme",
+      "custom wordpress theme development company in India",
+      "best custom wordpress theme development in India",
+      "custom wordpress theme development services",
     ],
   },
   hero: {
@@ -395,7 +398,7 @@ const content: FreelanceContent = {
     { question: "WordPress theme banwana hai, kitna kharcha aayega?", answer: `Custom theme ko hum website build ke saath quote karte hain. 100 pages tak ki website ${P.site} se shuru hoti hai, bade SEO sites ${P.seoSite} se. Templates, sections, design aur content migration se final price tay hota hai. WhatsApp par details bhejiye, lagbhag do working days mein itemised quote mil jaayega.` },
     { question: "Can you build a WooCommerce store on a custom theme?", answer: `Yes. We style shop, category, product, cart and checkout templates to your brand and keep them light for mobile shoppers, with UPI and card checkout supported in India. Ecommerce builds start at ${P.shop} and usually take 4–8 weeks, depending on catalogue size and integrations.` },
     { question: "Should business features go into the theme?", answer: "No. Bookings, forms, CRM connections and custom data types belong in a plugin, so they keep working if you redesign later. The theme should handle presentation only. We build features as separate custom plugins and style their output from the theme." },
-    { question: "What happens after the theme goes live?", answer: `You get two months of free maintenance for fixes and small template changes. After that, care plans start at ${P.care} a month and cover WordPress and plugin updates, compatibility checks, backups and minor edits. New templates or sections are quoted separately.` },
+    { question: "What happens after the theme goes live?", answer: `You get two months of free maintenance for fixes and small template changes. After that, care plans start at ${P.care} and cover WordPress and plugin updates, compatibility checks, backups and minor edits. New templates or sections are quoted separately.` },
     { question: "Do you design the theme or only code it?", answer: "Both are possible. If you have a designer or a Figma file, we build from it. If not, we design mobile-first from your brand colours, logo and reference sites, then show the home page on staging before building the rest. Photography and printed brand material are outside our scope." },
     { question: "How do payments work for a custom theme project?", answer: "You pay against milestones in your approved quote. Clients in India pay by UPI or bank transfer and receive GST invoices where applicable. International clients are quoted in USD and pay by Wise, bank wire or PayPal. Nothing is billed before you approve the itemised quote in writing." },
     { question: "Does a custom theme help with AI search visibility?", answer: "It helps AI and traditional search read your pages by producing clean, semantic HTML, sensible heading order, fast loading and structured data for your business type. Visibility still depends on the quality and usefulness of your content, and no developer can promise that AI tools will cite you." },

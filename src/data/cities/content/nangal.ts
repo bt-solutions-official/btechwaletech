@@ -7,7 +7,7 @@ const nangal: CityContent = {
   meta: {
     title: "IT Services in Nangal | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Nangal's plant vendors, township households, schools, clinics and market traders.",
+      "Websites, apps, local SEO and WhatsApp automation for Nangal's plant vendors, township households, schools, clinics and market traders. Sites from ₹10,000.",
     keywords: [
       "IT services in Nangal",
       "IT services team in Nangal",
@@ -29,6 +29,12 @@ const nangal: CityContent = {
       "Nangal me website banwana",
       "ਨੰਗਲ ਵੈੱਬਸਾਈਟ",
       "नंगल वेबसाइट डिजाइन",
+      "Nangal website designer",
+      "web development company Nangal",
+      "hire freelance web developer Nangal",
+      "Rupnagar district SEO",
+      "website designer Rupnagar district",
+      "Punjab SEO services",
     ],
   },
   hero: {

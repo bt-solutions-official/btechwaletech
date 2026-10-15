@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Website ka yearly kharcha kitna hota hai",
   updated: "2026-09-25",
   meta: {
-    title: "Website ka Yearly Kharcha Kitna Hota Hai? Poora Bill",
-    description: `Website ka yearly kharcha kitna hota hai? Domain, hosting, SSL, plugin licence, backup, maintenance ka saalana bill aur bachat ke tareeke. Maintenance ${P.care} se.`,
+    title: `Website ka Yearly Kharcha Kitna? Poora Bill 2026`,
+    description: `Website ka yearly kharcha kitna hota hai? Domain, hosting, SSL, plugin licence, backup aur maintenance ka saalana bill, bachat ke tareeke. Care ${P.care} se.`,
     keywords: [
       "website ka yearly kharcha kitna hota hai", "website ka yearly kharcha", "website ka saal ka kharcha", "website renewal cost",
       "website ka har saal kitna kharcha aata hai", "domain renewal kharcha", "hosting renewal kitna hota hai", "ssl certificate ka kharcha",

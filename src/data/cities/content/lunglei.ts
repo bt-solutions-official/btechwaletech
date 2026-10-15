@@ -7,7 +7,7 @@ const lunglei: CityContent = {
   meta: {
     title: "IT Services in Lunglei | Web, Apps & AI from ₹10,000",
     description:
-      "Mizo and English websites, Android and iOS apps, local SEO and WhatsApp automation for Lunglei colleges, hospitals, shops, homestays, traders and transporters.",
+      "Lunglei Mizo and English websites, mobile apps, local SEO and WhatsApp bots for colleges, hospitals, shops, homestays, traders and transporters. From ₹10,000.",
     keywords: [
       "IT services in Lunglei",
       "IT services team in Lunglei",
@@ -29,6 +29,10 @@ const lunglei: CityContent = {
       "Tlabung trader software",
       "Lunglei me website banwana",
       "south Mizoram app developer",
+      "Lunglei website designer",
+      "web development company Lunglei",
+      "hire freelance developer Lunglei",
+      "Mizoram SEO",
     ],
   },
   hero: {

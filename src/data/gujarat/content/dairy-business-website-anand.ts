@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Dairy business website in Anand from ${P.site}`,
-    description: `Dairy business website in Anand for milk-product makers, dairy equipment firms and allied trades: product pages, distributor forms, FSSAI details. From ${P.site}.`,
+    description: `Dairy business website in Anand for milk-product makers, dairy equipment firms & allied trades: product pages, distributor forms, FSSAI details. From ${P.site}.`,
     keywords: [
       "dairy business website in Anand", "dairy website Anand", "dairy business website design Anand Gujarat", "milk products company website",
       "ghee brand website Gujarat", "paneer manufacturer website", "dairy equipment manufacturer website Anand", "dairy website developer near me",

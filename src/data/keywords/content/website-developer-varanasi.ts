@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "coaching website Varanasi", "PG website near BHU", "temple website Varanasi", "website developer Sigra",
       "website developer Lanka BHU", "website developer Sarnath", "Varanasi me website kaise banwaye", "website banwana hai Banaras",
       "website developer Bhadohi", "best website developer in Varanasi",
+      "website developer in Varanasi cost", "website developer in Varanasi price", "hire website developer in Varanasi", "freelance website developer in Varanasi",
+      "website developer in Varanasi charges",
     ],
   },
   hero: {

@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "prometheus grafana setup kubernetes", "kubernetes cost optimization", "kubernetes migration services", "kubernetes cluster audit",
       "kubernetes upgrade service", "kubernetes consultant bangalore", "kubernetes consultant pune", "kubernetes consultant hyderabad",
       "kubernetes consultant near me", "kubernetes setup for startup", "kya mujhe kubernetes chahiye",
+      "best kubernetes consultant in India",
     ],
   },
   hero: {

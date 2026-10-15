@@ -7,7 +7,7 @@ const shajapur: CityContent = {
   meta: {
     title: "IT Services in Shajapur | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Shajapur onion and garlic traders, soybean dealers, Maksi units, clinics and colleges.",
+      "Hindi websites, apps, local SEO and WhatsApp tools for Shajapur onion and garlic traders, soybean dealers, Maksi units, clinics and colleges. From ₹10,000.",
     keywords: [
       "IT services in Shajapur",
       "IT services team in Shajapur",
@@ -29,6 +29,12 @@ const shajapur: CityContent = {
       "Shajapur me website banwana",
       "Shajapur me app banwana",
       "शाजापुर वेबसाइट डिज़ाइन",
+      "Shajapur website designer",
+      "web development company Shajapur",
+      "hire freelance web developer Shajapur",
+      "Malwa SEO services",
+      "website designer Malwa",
+      "Madhya Pradesh SEO services",
     ],
   },
   hero: {

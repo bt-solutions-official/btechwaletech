@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Outsource App Development Canada Safely, ${P.app}+`,
-    description: `Outsource app development from Canada without losing control: written scope, IP assignment, code and store accounts in your name, weekly demos. Apps from ${P.app}.`,
+    description: `Outsource app development from Canada without losing control: written scope, IP assignment, code and store accounts in your name. Apps from ${P.app}.`,
     keywords: [
       "outsource app development canada", "outsource app development", "outsourcing mobile app development", "app development outsourcing company",
       "outsource app development to india", "offshore app development canada", "how to outsource app development",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "outsource app development ottawa", "outsource app development calgary", "pipeda outsourcing personal information",
       "law 25 outsourcing outside quebec", "red flags app development company", "onshore vs offshore app development",
       "app development vendor selection", "how to choose an app development company", "outsourced app development team",
+      "hire app development in Canada", "freelance app development Canada",
     ],
   },
   hero: {

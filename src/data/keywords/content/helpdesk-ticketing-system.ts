@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Helpdesk Ticketing System, Custom Built from ${P.software}`,
-    description: `A helpdesk ticketing system for Indian businesses: email and WhatsApp tickets, SLAs, agent assignment and a knowledge base. Custom builds from ${P.software}, no seat fees.`,
+    description: `Helpdesk ticketing system for Indian businesses: email and WhatsApp tickets, SLAs, agent assignment and a knowledge base. Built from ${P.software}, no seat fees.`,
     keywords: [
       "helpdesk ticketing system", "helpdesk ticketing system india", "custom helpdesk ticketing system", "support ticketing system",
       "customer support ticketing software", "whatsapp ticketing system", "email ticketing system", "helpdesk software development",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "how does a helpdesk ticketing system work", "best helpdesk ticketing system for small business", "helpdesk ticketing system Mumbai", "helpdesk ticketing system Chennai",
       "helpdesk ticketing system Surat", "ticketing system for customer service", "complaint ticket software hindi", "helpdesk system kaise banaye",
       "ai helpdesk ticketing system", "it helpdesk ticketing system",
+      "helpdesk ticketing system company in India",
     ],
   },
   hero: {
@@ -60,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Intake channels", value: "Email, WhatsApp Business Platform, web and in-app forms, phone call logs" },
       { label: "Hosting", value: "Your cloud account; data stays with you" },
       { label: "Payments to us", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -232,7 +233,7 @@ const content: FreelanceContent = {
         "<strong>Agent mobile app:</strong> a responsive web app is included; native apps start from " + P.app + ".",
       ],
       after: [
-        `Running costs go straight to providers: cloud hosting, an email sending service, WhatsApp template charges and any AI model usage. After two free months, support from ${P.care} a month is optional. For a wider view of custom build budgets, see <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a>.`,
+        `Running costs go straight to providers: cloud hosting, an email sending service, WhatsApp template charges and any AI model usage. After two free months, support from ${P.care} is optional. For a wider view of custom build budgets, see <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a>.`,
       ],
     },
     {
@@ -333,7 +334,7 @@ const content: FreelanceContent = {
         ["AI triage and drafts", "Category and priority suggestions, summaries, grounded reply drafts", `${P.ai}`, "2–4 weeks"],
         ["Integrations", "Order, CRM, warranty or accounting lookups beside tickets", "Quoted per system", "Depends on the other system"],
         ["Agent mobile app", "Native Android and iOS app for field or on-call agents", `${P.app}`, "4–6 weeks"],
-        ["Support after launch", "Fixes, rule changes, small features", `${P.care} a month, after 2 free months`, "Monthly"],
+        ["Support after launch", "Fixes, rule changes, small features", `${P.care}, after 2 free months`, "Monthly"],
       ],
       hideSm: [3],
     },
@@ -419,7 +420,7 @@ const content: FreelanceContent = {
     { question: "Is customer data in the helpdesk secure?", answer: "The build includes role-based access, masking of sensitive fields, encryption in transit and at rest, audit logs of views and exports, two-step login for admins and retention rules. Customer details are personal data under the DPDP Act, 2023, and your business is responsible for its use; your own lawyer should confirm policies and notices." },
     { question: "Can an internal IT or HR helpdesk be built the same way?", answer: "Yes. Internal desks use the same ticket mechanics with different fields and channels: employees raise requests through a portal, email or Teams-style chat, tickets route to IT, HR or admin teams by category and branch, and assets such as laptops can be linked to tickets. SLAs and reports work the same way." },
     { question: "Why hire a freelance team to build a helpdesk?", answer: "You work directly with the three developers who build it, receive an itemised quote, and own a system with no per-seat fees. We are a small team, so we do not staff your support desk or run a call centre. For businesses that want a helpdesk shaped to their own rules and data, a focused freelance team is a good fit." },
-    { question: "What support do we get after launch?", answer: `Two months of maintenance after launch are free, covering fixes, rule changes and small improvements. After that, support starts from ${P.care} a month if you want it, or your own developer can maintain the system using the documentation and code we hand over. There is no lock-in to our support.` },
+    { question: "What support do we get after launch?", answer: `Two months of maintenance after launch are free, covering fixes, rule changes and small improvements. After that, support starts from ${P.care} if you want it, or your own developer can maintain the system using the documentation and code we hand over. There is no lock-in to our support.` },
     { question: "How do payments and contracts work?", answer: "You get an itemised quote with milestones, and nothing is billed before your written approval. Indian clients pay by UPI or bank transfer; international clients pay in USD by Wise, wire or PayPal. If you need an NDA or particular contract terms, ask us and they are agreed in writing before work begins; our general terms apply otherwise." },
     { question: "Helpdesk ticketing system banwane ka kharcha kitna hai?", answer: `Custom helpdesk ${P.software} se shuru hota hai, aur AI triage ya reply drafts ${P.ai} se. Har agent ka alag monthly fee hume nahi dena padta. WhatsApp, knowledge base aur integrations alag lines mein quote hote hain. Hosting, email aur WhatsApp template ka kharcha aap seedha provider ko dete hain.` },
     { question: "Can our help articles appear in Google and AI search answers?", answer: "Public help articles that answer one question clearly, with FAQ structured data and fast pages, are the kind of content search engines and AI assistants can quote. We build the help centre that way and connect it to Google Search Console. Nobody can guarantee rankings or AI citations, but clear articles give you the best chance." },

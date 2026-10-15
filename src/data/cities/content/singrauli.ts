@@ -7,7 +7,7 @@ const singrauli: CityContent = {
   meta: {
     title: "IT Services in Singrauli: Websites, Apps, SEO & AI",
     description:
-      "Websites, Hindi local SEO and WhatsApp automation for Singrauli mining contractors, PSU vendors, hotels, schools and clinics in Waidhan and Morwa. From ₹10,000.",
+      "Websites, Hindi local SEO and WhatsApp tools for Singrauli mining contractors, PSU vendors, hotels, schools and clinics in Waidhan and Morwa. From ₹10,000.",
     keywords: [
       "website development team in Singrauli",
       "website designer Singrauli",
@@ -24,6 +24,17 @@ const singrauli: CityContent = {
       "website design Morwa",
       "freelance web developer Singrauli",
       "सिंगरौली वेबसाइट डिजाइन",
+      "web development company Singrauli",
+      "hire freelance web developer Singrauli",
+      "Madhya Pradesh SEO services",
+      "Singrauli me website kaise banwaye",
+      "Singrauli website banwane ka kharcha",
+      "Singrauli transport contractors website",
+      "transport contractors website design Singrauli",
+      "website design Waidhan Singrauli",
+      "website design Morwa Singrauli",
+      "website design Vindhyanagar Singrauli",
+      "website design Jayant Singrauli",
     ],
   },
   hero: {

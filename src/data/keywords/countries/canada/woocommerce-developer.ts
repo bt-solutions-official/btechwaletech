@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `WooCommerce Developer Canada: Stores from ${P.shop}`,
-    description: `WooCommerce developer for Canadian retailers: CAD card payments, Canada Post live rates, provincial tax tables, wholesale pricing and speed fixes. From ${P.shop}.`,
+    description: `WooCommerce developer for Canadian retailers: CAD card payments, Canada Post live rates, provincial tax tables and wholesale pricing. From ${P.shop}.`,
     keywords: [
       "woocommerce developer canada", "hire woocommerce developer canada", "woocommerce expert canada", "freelance woocommerce developer",
       "woocommerce developer toronto", "woocommerce developer vancouver", "woocommerce developer montreal", "woocommerce developer calgary",
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Sales tax", value: "Province-by-province rate table, checked against CRA rates" },
       { label: "Wholesale", value: "Role-based price tiers, minimums and tax-exempt accounts" },
       { label: "Speed", value: "HPOS, caching, plugin audit, image and database clean-up" },
-      { label: "Cost", value: `New stores from ${P.shop}; care from ${P.care} a month` },
+      { label: "Cost", value: `New stores from ${P.shop}; care from ${P.care}` },
     ],
   },
   services: {
@@ -87,14 +87,14 @@ const content: FreelanceContent = {
       ["Canadian tax tables", "Shopify maintains rates", "Often left at defaults", "Every province row entered and tested"],
       ["Canada Post live rates", "Plan-dependent", "Sometimes", "Official extension, weights and boxes set"],
       ["Speed on large catalogues", "Generally fast out of the box", "Often more plugins added", "HPOS, caching, plugin cuts, measured"],
-      ["Updates and security", "Handled by Shopify", "Ad hoc", `Staging-tested updates from ${P.care} a month`],
+      ["Updates and security", "Handled by Shopify", "Ad hoc", `Staging-tested updates from ${P.care}`],
       ["Risk to SEO", "Needs a full redirect map", "Low", "Low; URLs stay where they are"],
     ],
     fine: "If nobody on your team wants to think about hosting, updates or plugins ever again, Shopify is likely the better long-term home, even after the cost of moving.",
   },
   pricing: {
     heading: "WooCommerce developer pricing for Canadian stores",
-    note: `A new WooCommerce store starts at ${P.shop}. Work on an existing store, such as a speed rescue, tax table rebuild, Canada Post setup or wholesale pricing, is scoped after a short audit and itemised in your quote, so you approve only the fixes you want. Custom integrations with an ERP, warehouse or accounting system start at ${P.software}, and ongoing care starts at ${P.care} a month after the two free months. Premium plugins, extensions, hosting and payment processing are paid by you directly and never resold at a markup. Everything is quoted in USD; your bank or Wise shows the CAD equivalent.`,
+    note: `A new WooCommerce store starts at ${P.shop}. Work on an existing store, such as a speed rescue, tax table rebuild, Canada Post setup or wholesale pricing, is scoped after a short audit and itemised in your quote, so you approve only the fixes you want. Custom integrations with an ERP, warehouse or accounting system start at ${P.software}, and ongoing care starts at ${P.care} after the two free months. Premium plugins, extensions, hosting and payment processing are paid by you directly and never resold at a markup. Everything is quoted in USD; your bank or Wise shows the CAD equivalent.`,
   },
   guideLabel: "WooCommerce developer Canada guide",
   guide: [
@@ -223,7 +223,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `WooCommerce gives you full control over URLs, category text, structured data and internal links, which is why content-led stores often rank well on it. The developer's part is to keep that control from turning into duplicate pages, slow templates and broken markup.`,
         `Common problems on Canadian WooCommerce stores are filter and tag pages indexed by the thousand, product structured data missing price or availability, category pages with no text above or below the grid, and old product URLs returning errors instead of redirecting. We fix these in the theme and SEO plugin settings, then watch Google Search Console on your own account.`,
-        `AI answers in search tend to quote pages that answer a question plainly. Buying guides, sizing charts, shipping and returns pages written for Canadian buyers, and product FAQs help both people and those systems. For ongoing work, our <a href='/canada/technical-seo-services/'>technical SEO services for Canada</a> start at ${P.seo} a month. Nobody can honestly guarantee rankings.`,
+        `AI answers in search tend to quote pages that answer a question plainly. Buying guides, sizing charts, shipping and returns pages written for Canadian buyers, and product FAQs help both people and those systems. For ongoing work, our <a href='/canada/technical-seo-services/'>technical SEO services for Canada</a> start at ${P.seo}. Nobody can honestly guarantee rankings.`,
       ],
     },
     {
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
   faqHeading: "WooCommerce developer Canada: questions store owners ask",
   faqs: [
     { question: "Should I stay on WooCommerce or move to Shopify?", answer: "Stay if your store relies on custom pricing, complex products, a content library that ranks, or full control of hosting and data, and your team knows WordPress. Move if plugin conflicts, updates and hosting problems take up your week and your catalogue is simple. Neither is better in general; it depends on where your problems actually come from." },
-    { question: "How much does a WooCommerce developer cost in Canada?", answer: `Rates vary widely between agencies, marketplace freelancers and remote teams. With BtechWaleTech, a new WooCommerce store starts at ${P.shop}, and work on an existing store is scoped after a short audit and itemised in USD, so you approve only the fixes you want. Care plans start at ${P.care} a month after two free months.` },
+    { question: "How much does a WooCommerce developer cost in Canada?", answer: `Rates vary widely between agencies, marketplace freelancers and remote teams. With BtechWaleTech, a new WooCommerce store starts at ${P.shop}, and work on an existing store is scoped after a short audit and itemised in USD, so you approve only the fixes you want. Care plans start at ${P.care} after two free months.` },
     { question: "Why is my WooCommerce store so slow?", answer: "Usually several reasons at once: too many plugins loading scripts on every page, underpowered hosting, legacy order storage in a large database, and heavy images. A developer audits each, switches to High-Performance Order Storage where safe, removes duplicate plugins, sets caching that bypasses cart and checkout, and measures pages before and after." },
     { question: "How do I add Canada Post shipping rates to WooCommerce?", answer: "Install Woo's official Canada Post Shipping Method extension and connect it to your own Canada Post account with API credentials. Then give every product a weight and dimensions, define the boxes you use and choose which services to offer. Compare checkout quotes with real Canada Post charges for a few addresses before going live." },
     { question: "How do I set up GST, HST and PST in WooCommerce?", answer: "Enable taxes, then add rows to the standard tax rate table with country code CA, the province code, the rate, the tax name and a priority. Provinces with a separate provincial tax get a second row at a different priority. Match rows to your actual registrations, which your accountant decides, and test orders to each province." },
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     { question: "How do Canadian clients pay you?", answer: "Quotes are in USD. You can pay in USD or CAD through Wise, bank wire or PayPal, following the schedule written into your quote, and invoices come from India. Nothing is billed before you approve the quote in writing. Your accountant can advise on recording an overseas supplier." },
     { question: "Who owns the custom code you write for our store?", answer: "You do. Custom plugins and theme changes are committed to a Git repository in your account, with notes on what each piece does. Premium extension licences are bought in your name. When we finish, you delete our administrator account and nothing stays tied to us." },
     { question: "Do you work on WooCommerce stores with many products?", answer: "Yes. Large catalogues are where database tuning, order storage, image handling and search matter most. We work on staging copies, use bulk tools and scripts for product changes rather than editing by hand, and test performance on your heaviest category pages before and after." },
-    { question: "Can you help my WooCommerce store rank better in Google?", answer: `We fix the technical side, including indexed filter pages, product structured data, category text, redirects for old URLs and page speed, then watch Search Console on your account. Ongoing technical SEO starts at ${P.seo} a month. Nobody can guarantee rankings, and we will not claim otherwise.` },
+    { question: "Can you help my WooCommerce store rank better in Google?", answer: `We fix the technical side, including indexed filter pages, product structured data, category text, redirects for old URLs and page speed, then watch Search Console on your account. Ongoing technical SEO starts at ${P.seo}. Nobody can guarantee rankings, and we will not claim otherwise.` },
     { question: "When would you tell us to leave WooCommerce?", answer: "When the store's problems come from the platform rather than its setup: nobody to maintain hosting, repeated security incidents, constant plugin conflicts, and a simple catalogue Shopify would handle out of the box. In that case we say so, and a migration with proper redirects is usually the better long-term spend." },
   ],
   related: {

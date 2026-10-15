@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 34.0837, lng: 74.7973 },
   meta: {
-    title: "Freelance Software Developers in Srinagar, Kashmir",
+    title: "Srinagar, Kashmir Software Developers: Hotels & Travel",
     description:
-      "Hire freelance software developers for Srinagar: booking software, custom web apps, AI agents, mobile apps, dashboards and SEO for Kashmir businesses. From ₹10,000.",
+      "Hire freelance software developers for Srinagar: booking software, custom web apps, AI agents and mobile apps. Software from ₹60,000, quote in two days.",
     keywords: [
       "software development team in Srinagar",
       "IT services team in Srinagar",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "IT support Rangreth and Bemina",
       "Srinagar mein software developer",
       "سرینگر سافٹ ویئر ڈیولپمنٹ",
+      "Srinagar website designer",
+      "website cost in Srinagar",
+      "IT company in Srinagar",
+      "Jammu and Kashmir SEO services",
+      "hire developer Srinagar",
+      "hotels software in Srinagar",
+      "travel software in Srinagar",
     ],
   },
   hero: {

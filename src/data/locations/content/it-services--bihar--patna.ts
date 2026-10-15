@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 25.5941, lng: 85.1376 },
   meta: {
-    title: "Freelance Software Developers in Patna: Apps & AI",
+    title: "Patna Software Developers: Apps & AI",
     description:
       "Freelance software developers for Patna: custom software, web and mobile apps, AI automation and SEO. Three remote engineers, 2 months free support.",
     keywords: [
@@ -33,6 +33,12 @@ const content: CityContent = {
       "iPhone app developers Patna",
       "पटना में सॉफ्टवेयर कंपनी",
       "Patna mein software banwana hai",
+      "Patna website designer",
+      "website cost in Patna",
+      "IT company in Patna",
+      "Bihar SEO services",
+      "hire developer Patna",
+      "coaching software in Patna",
     ],
   },
   hero: {

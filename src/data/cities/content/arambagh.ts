@@ -7,7 +7,7 @@ const arambagh: CityContent = {
   meta: {
     title: "IT Services in Arambagh | Web, Apps & AI from ₹10,000",
     description:
-      "Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Arambagh cold storages, rice mills, handloom weavers, clinics, tutors and shops.",
+      "Arambagh Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for cold storages, rice mills, handloom weavers, clinics, tutors and shops.",
     keywords: [
       "IT services in Arambagh",
       "IT services team in Arambagh",
@@ -29,6 +29,10 @@ const arambagh: CityContent = {
       "Arambagh me website banwana",
       "Arambagh e website banate koto khoroch",
       "আরামবাগ ওয়েবসাইট ডিজাইন",
+      "Arambagh website designer",
+      "web development company Arambagh",
+      "hire freelance developer Arambagh",
+      "West Bengal SEO",
     ],
   },
   hero: {

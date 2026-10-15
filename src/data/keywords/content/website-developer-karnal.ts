@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Website developer in Karnal",
   updated: "2026-10-02",
   meta: {
-    title: "Website Developer in Karnal for Mills, Shops & Schools",
+    title: `Website Developer in Karnal: Sites from ${P.site}`,
     description: `Website developer in Karnal for rice mills, agri businesses, hotels, schools and shops. Sites from ${P.site}, built remotely, live in 1–2 weeks, owned by you.`,
     keywords: [
       "website developer in Karnal", "website developer Karnal", "web developer in Karnal", "website development Karnal",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "agricultural implements website Karnal", "hotel website Karnal", "dhaba website NH 44", "school website developer Karnal",
       "website developer Taraori", "website developer Gharaunda", "website developer Nilokheri", "website developer Haryana",
       "Karnal me website kaise banwaye", "website banwana hai Karnal", "business website Karnal Haryana",
+      "website developer in Karnal cost", "website developer in Karnal price", "hire website developer in Karnal", "freelance website developer in Karnal",
+      "best website developer in Karnal", "website developer in Karnal charges",
     ],
   },
   hero: {
@@ -301,7 +303,7 @@ const content: FreelanceContent = {
       id: "karnal-care",
       heading: "Care after launch: what happens in month three and beyond",
       paragraphs: [
-        `Every site we launch includes two months of maintenance free: fixes, small text and price changes, tested updates, backups and a Search Console check as Google starts crawling. After that, care is optional and starts at ${P.care} a month, covering updates tried on staging first, backups to storage you own, uptime and SSL monitoring, form checks and a monthly allowance of small edits.`,
+        `Every site we launch includes two months of maintenance free: fixes, small text and price changes, tested updates, backups and a Search Console check as Google starts crawling. After that, care is optional and starts at ${P.care}, covering updates tried on staging first, backups to storage you own, uptime and SSL monitoring, form checks and a monthly allowance of small edits.`,
         `How much care you need depends on the trade. A static site for a rice mill may need only a handful of updates a year, timed around the paddy season or a new export price list. A school's WordPress site with weekly notices, or a hotel that changes its menu often, benefits from regular care. You can also manage edits yourself, since every login is already yours.`,
         `Planning something seasonal, such as harvest-time dealer schemes, an admissions campaign or a wedding-season offer? Tell us two weeks ahead so pages are ready on time. More detail: <a href='/website-maintenance-freelancer/'>website maintenance by a freelancer</a>.`,
       ],
@@ -427,7 +429,7 @@ const content: FreelanceContent = {
     { question: "Can you set up my Google Business Profile?", answer: "We help you set it up or correct it: the right category, accurate hours, photos, a map pin that matches your entrance, and the same name, address and phone as the website. Verification is completed by you through Google, using the methods Google offers. We then link the profile and the site and add LocalBusiness schema." },
     { question: "Can the website take bookings or payments?", answer: "Yes. Hotels and restaurants can take booking requests by form or WhatsApp, schools can collect fees, and businesses can take advances through UPI payment links or a simple payment page, using a payment provider you sign up with so the money reaches your account. Full online room booking with live availability is a larger project, quoted separately." },
     { question: "Can you redesign my old Karnal website?", answer: "Yes. We first secure access to your domain and hosting, list the pages that already bring visitors, then rebuild with redirects from old addresses so search visibility is kept. Email is protected during the switch. If someone else still holds your domain, we help you request the transfer before any new build begins. Nothing is switched over until you approve the staging site." },
-    { question: "What happens after the two free months?", answer: `You choose. Optional care starts at ${P.care} a month and covers tested updates, backups, monitoring, form checks and a monthly allowance of small edits. A mill's static site may need little; a school or hotel that changes notices or menus often benefits more. You can also manage the site yourself, since every login and backup is already yours.` },
+    { question: "What happens after the two free months?", answer: `You choose. Optional care starts at ${P.care} and covers tested updates, backups, monitoring, form checks and a monthly allowance of small edits. A mill's static site may need little; a school or hotel that changes notices or menus often benefits more. You can also manage the site yourself, since every login and backup is already yours.` },
     { question: "Do you build apps or dealer portals too?", answer: `Yes, as separate projects. Dealer portals and custom web apps start at ${P.software}, Android and iOS apps at ${P.app}, and AI or WhatsApp automation at ${P.ai}. Implement makers often begin with a catalogue website and then add a dealer portal for prices and orders, built by the same three developers who already know the product range.` },
     { question: "Is a remote freelance team safe to hire?", answer: "Safety comes from process. All three of us know your project, so work continues if one person is away; scope, payments and approvals are written down; and every account is in your name, so you never depend on us for access. If you need someone to sit with you at the mill or school every week, a local developer suits you better." },
     { question: "Do you work with businesses in Taraori, Gharaunda and Nilokheri?", answer: "Yes, on the same terms as Karnal city. Rice mills, traders, implement dealers, schools and shops in Taraori, Gharaunda, Nilokheri, Assandh, Indri and nearby villages get the same remote process, starting prices and ownership rules. We also work with businesses in Panipat, Kurukshetra, Kaithal, Yamunanagar and Chandigarh. Distance never changes the price, and calls fit around mandi hours." },

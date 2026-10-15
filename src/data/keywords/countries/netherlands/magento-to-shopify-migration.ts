@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "magento replatforming netherlands", "magento migration agency alternative", "magento to shopify amsterdam",
       "magento to shopify rotterdam", "magento to shopify eindhoven", "magento to shopify utrecht",
       "is shopify better than magento", "magento end of life what now",
+      "hire magento to shopify migration in the Netherlands", "freelance magento to shopify migration Netherlands",
     ],
   },
   hero: {

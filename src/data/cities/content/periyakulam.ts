@@ -7,7 +7,7 @@ const periyakulam: CityContent = {
   meta: {
     title: "IT Services in Periyakulam: Websites, Apps, SEO & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Periyakulam mango traders, nurseries, clinics, schools and shops. Sites from ₹10,000.",
+      "Tamil websites, apps, local SEO and WhatsApp automation for Periyakulam mango traders, nurseries, clinics, schools and shops. Websites from ₹10,000.",
     keywords: [
       "IT services in Periyakulam",
       "IT services team in Periyakulam",
@@ -29,6 +29,12 @@ const periyakulam: CityContent = {
       "Periyakulam me website banwana",
       "Periyakulam-la website panna",
       "பெரியகுளம் வெப்சைட் டிசைன்",
+      "Periyakulam website designer",
+      "web development company Periyakulam",
+      "hire freelance web developer Periyakulam",
+      "Theni district SEO",
+      "website designer Theni district",
+      "Tamil Nadu SEO services",
     ],
   },
   hero: {

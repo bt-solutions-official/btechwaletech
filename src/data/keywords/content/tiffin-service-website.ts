@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "tiffin service near me website", "tiffin service website Pune", "tiffin service website Bangalore", "tiffin service website Indore",
       "PG tiffin service website", "meal plan subscription website India", "tiffin service ki website kaise banaye", "tiffin service SEO",
       "healthy meal subscription website", "best website for tiffin service",
+      "tiffin service website price", "tiffin service website company", "best tiffin service website in India", "tiffin service website cost in India",
+      "tiffin service website near me",
     ],
   },
   hero: {
@@ -313,7 +315,7 @@ const content: FreelanceContent = {
         ["Customer accounts", "OTP login, meals left, one-tap skip, kitchen counts", `${P.software}`, "6–12 weeks"],
         ["Customer and rider apps", "Android and iOS apps on the same backend", `${P.app}`, "6–10 weeks"],
         ["WhatsApp assistant", "Menu replies, skip requests, plan questions", `${P.ai}`, "2–4 weeks"],
-        ["Monthly SEO", "Area pages, reviews, reporting", `${P.seo} a month`, "Ongoing"],
+        ["Monthly SEO", "Area pages, reviews, reporting", `${P.seo}`, "Ongoing"],
       ],
       hideSm: [3],
     },

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Garment manufacturer website",
   updated: "2026-09-25",
   meta: {
-    title: `Garment Manufacturer Website: Win Brand Orders`,
+    title: `Garment Manufacturer Website: Brand Orders, ${P.site}+`,
     description: `Garment manufacturer website with MOQ and capability pages, tech-pack upload, audit display and buyer SEO. Sites from ${P.site}; quote in 2 working days.`,
     keywords: [
       "garment manufacturer website", "garment manufacturer website design", "apparel manufacturer website", "clothing manufacturer website",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "knitwear manufacturer website", "garment manufacturer website Tiruppur", "garment manufacturer website Noida", "garment manufacturer website Ludhiana",
       "garment manufacturer website Bengaluru", "OEM clothing manufacturer website", "garment factory ki website", "compliance audit page for factory",
       "SEO for garment exporters", "MOQ page for clothing manufacturer", "B2B apparel website India",
+      "garment manufacturer website company in India",
+      "best garment manufacturer website in India",
+      "garment manufacturer website services",
     ],
   },
   hero: {

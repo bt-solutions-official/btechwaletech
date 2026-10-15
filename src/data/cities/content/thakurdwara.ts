@@ -7,7 +7,7 @@ const thakurdwara: CityContent = {
   meta: {
     title: "IT Services in Thakurdwara: Web, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Thakurdwara cane growers, mentha traders, weavers, dealers, clinics and colleges.",
+      "Hindi websites, apps, Maps SEO and WhatsApp automation for Thakurdwara cane growers, mentha traders, weavers, dealers, clinics and colleges. From ₹10,000.",
     keywords: [
       "IT services in Thakurdwara",
       "IT services team in Thakurdwara",
@@ -29,6 +29,12 @@ const thakurdwara: CityContent = {
       "Thakurdwara me website banwana",
       "Thakurdwara me app kaise banwaye",
       "ठाकुरद्वारा वेबसाइट डिज़ाइन",
+      "Thakurdwara website designer",
+      "web development company Thakurdwara",
+      "hire freelance web developer Thakurdwara",
+      "Moradabad district SEO",
+      "website designer Moradabad district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

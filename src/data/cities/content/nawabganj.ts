@@ -7,7 +7,7 @@ const nawabganj: CityContent = {
   meta: {
     title: "IT Services in Nawabganj: Websites, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Nawabganj (Bareilly) cane contractors, grain traders, clinics, schools and shops.",
+      "Hindi websites, apps, Maps SEO and WhatsApp automation for Nawabganj (Bareilly) cane contractors, grain traders, clinics, schools and shops. From ₹10,000.",
     keywords: [
       "IT services in Nawabganj",
       "IT services team in Nawabganj",
@@ -29,6 +29,12 @@ const nawabganj: CityContent = {
       "rice mill billing software Nawabganj",
       "zari zardozi online store Bareilly",
       "नवाबगंज बरेली वेबसाइट",
+      "Nawabganj website designer",
+      "web development company Nawabganj",
+      "hire freelance web developer Nawabganj",
+      "Bareilly district SEO",
+      "website designer Bareilly district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

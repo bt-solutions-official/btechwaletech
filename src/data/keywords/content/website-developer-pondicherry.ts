@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Developer in Pondicherry, Sites from ${P.site}`,
-    description: `Website developer in Pondicherry (Puducherry) for guesthouses, cafés, boutiques and clinics. Mobile-first sites from ${P.site}, direct enquiries, quote in 2 days.`,
+    description: `Website developer in Pondicherry for guesthouses, cafes, boutiques and clinics: mobile-first sites from ${P.site}, direct enquiries. Quote in 2 days.`,
     keywords: [
       "website developer in Pondicherry", "website developer Pondicherry", "website developer in Puducherry", "website developer Puducherry",
       "web developer in Pondicherry", "website designer Pondicherry", "website designer Puducherry", "website development services Pondicherry",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "restaurant website Pondicherry", "Auroville website developer", "Tamil website developer Pondicherry", "French website Pondicherry",
       "website developer Lawspet", "website developer Karaikal", "business website Pondicherry", "WordPress developer Pondicherry",
       "ecommerce website Pondicherry", "best website developer in Pondicherry", "Pondicherry website banwana hai",
+      "website developer in Pondicherry cost", "website developer in Pondicherry price", "hire website developer in Pondicherry", "freelance website developer in Pondicherry",
+      "website developer in Pondicherry charges",
     ],
   },
   hero: {

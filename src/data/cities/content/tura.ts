@@ -7,7 +7,7 @@ const tura: CityContent = {
   meta: {
     title: "IT Services in Tura | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Tura and Garo Hills schools, colleges, churches, homestays, traders and clinics.",
+      "Websites, apps, local SEO and WhatsApp automation for Tura and Garo Hills schools, colleges, churches, homestays, traders and clinics. From ₹10,000.",
     keywords: [
       "IT services in Tura",
       "IT services team in Tura",
@@ -29,6 +29,12 @@ const tura: CityContent = {
       "Tura me website banwana",
       "Araimile Chandmari Hawakhana business listing",
       "Meghalaya website developer Tura",
+      "Tura website designer",
+      "web development company Tura",
+      "hire freelance web developer Tura",
+      "West Garo Hills SEO services",
+      "website designer West Garo Hills",
+      "Meghalaya SEO services",
     ],
   },
   hero: {

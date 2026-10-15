@@ -7,7 +7,7 @@ const buxar: CityContent = {
   meta: {
     title: "Buxar Website Design & Local SEO | From ₹10,000",
     description:
-      "Websites, Google Maps listings and WhatsApp automation for Buxar and Dumraon traders, rice sellers, clinics, schools and ghat-side shops. From ₹10,000, you own it.",
+      "Buxar and Dumraon websites, Google Maps listings and WhatsApp bots for traders, rice sellers, clinics, schools and ghat-side shops. From ₹10,000, you own it.",
     keywords: [
       "website development team in Buxar",
       "web designer Buxar",
@@ -25,6 +25,14 @@ const buxar: CityContent = {
       "freelance web developer Buxar",
       "website maintenance Buxar",
       "बक्सर वेबसाइट डिज़ाइन",
+      "Buxar website designer",
+      "web development company Buxar",
+      "hire freelance developer Buxar",
+      "Bihar–UP border on the Ganga SEO",
+      "website for power project contractors and suppliers in Buxar",
+      "web designer in Station Road, Buxar",
+      "website for schools and coaching in Buxar",
+      "mobile app developer in Buxar",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance iOS Developer in India: Apps from ${P.app}`,
-    description: `Freelance iOS developer for iPhone apps from ${P.app}: Apple developer account in your name, TestFlight betas and App Store review handled step by step.`,
+    description: `Freelance iOS developer for iPhone apps: Apple developer account in your name, TestFlight betas and App Store review handled. Apps from ${P.app}.`,
     keywords: [
       "freelance iOS developer", "freelance iOS developer in India", "freelance iOS developer near me", "iOS developer for hire",
       "freelance iOS developer cost", "iPhone app development price", "best freelance iOS developer", "iPhone app banwana hai",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "TestFlight beta testing", "Apple developer account setup", "App Store review rejection help", "iOS app developer India",
       "Flutter iOS app developer", "React Native iOS developer", "freelance Swift developer", "publish app on App Store India",
       "iPad app developer freelance",
+      "hire freelance ios developer",
     ],
   },
   hero: {

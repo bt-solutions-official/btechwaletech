@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer for Sachin GIDC Surat from ${P.site}`,
-    description: `Website developer for Sachin GIDC Surat: sites for weaving, processing, chemical and engineering units from ${P.site}. Itemised quote in 2 days, code in your name.`,
+    description: `Website developer for Sachin GIDC Surat: sites for weaving, processing, chemical and engineering units from ${P.site}. Quote in 2 days, code in your name.`,
     keywords: [
       "website developer for Sachin GIDC Surat", "website developer Sachin GIDC", "website developer near me Sachin", "Sachin GIDC website design",
       "website developer Sachin Surat Gujarat", "web developer Sachin industrial estate", "website designer Sachin GIDC", "website development services Sachin Surat",
@@ -220,7 +220,7 @@ const content: FreelanceContent = {
         `For an industrial unit the wins come from specific pages. A buyer searching for a particular fabric quality, a printing process or an auxiliary for a named application should land on a page that answers exactly that, with the place mentioned naturally: Sachin GIDC, Surat, Gujarat. We add unique titles, clean URLs, schema for your organisation and products, an XML sitemap and Google Search Console before launch.`,
         `A <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> with the same name, address and phone as your footer helps traders find the gate. AI answer engines tend to quote pages that state facts plainly, show specs in tables and answer one question per section, so we write product blocks that way.`,
         `Speed is part of this. Google measures how fast pages load and respond on phones, so every Sachin build ships with compressed images, light scripts and no unnecessary plugins. When you compare quotes from any website developer for Sachin GIDC Surat, ask how they handle page speed; a vague answer is a warning.`,
-        `Ongoing search work is optional, from ${P.seo} a month; the <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> guide explains what it involves.`,
+        `Ongoing search work is optional, from ${P.seo}; the <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> guide explains what it involves.`,
       ],
     },
     {

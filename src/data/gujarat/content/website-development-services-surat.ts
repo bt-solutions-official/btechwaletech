@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Development Services in Surat from ${P.site}`,
-    description: `Website development services in Surat by a freelance team: catalogues, stores and business sites from ${P.site}, built remotely with a staging link. Quote in 2 days.`,
+    description: `Website development in Surat by a freelance team: catalogues, stores and business sites from ${P.site}, built remotely with a staging link. Quote in 2 days.`,
     keywords: [
       "website development services in Surat", "website development Surat", "website development services Surat Gujarat", "web development services Surat",
       "website developer Surat", "website design and development Surat", "freelance website development Surat", "website development near me Surat",
@@ -439,6 +439,7 @@ const content: FreelanceContent = {
     heading: "More Surat and Gujarat website guides",
     links: [
       { name: "Website development across Gujarat", href: "/gujarat/" },
+      { name: "Restaurant website in Surat", href: "/gujarat/restaurant-website-surat/" },
       { name: "Website development cost in Surat", href: "/gujarat/website-development-cost-surat/" },
       { name: "Website designer in Surat", href: "/gujarat/website-designer-surat/" },
       { name: "Freelance web developer in Surat", href: "/gujarat/freelance-web-developer-surat/" },

@@ -7,7 +7,7 @@ const firozpurCantt: CityContent = {
   meta: {
     title: "IT Services in Firozpur Cantt | Web, Apps & AI",
     description:
-      "Websites, Android and iOS apps, Maps SEO and WhatsApp tools for Firozpur Cantt shops on Mall Road and Sadar Bazar, and for services used by defence families.",
+      "Firozpur Cantt websites, Android and iOS apps, Maps SEO and WhatsApp tools for shops on Mall Road and Sadar Bazar, and services used by defence families.",
     keywords: [
       "IT services in Firozpur Cantt",
       "IT services team in Firozpur Cantt",
@@ -29,6 +29,10 @@ const firozpurCantt: CityContent = {
       "Firozpur Cantt me website banwana",
       "Ferozepur Cantt vich website banwauni",
       "ਫਿਰੋਜ਼ਪੁਰ ਛਾਉਣੀ ਵੈੱਬਸਾਈਟ",
+      "Firozpur Cantonment website designer",
+      "website cost in Firozpur Cantonment",
+      "web development company Firozpur Cantonment",
+      "hire freelance developer Firozpur Cantonment",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const jangaon: CityContent = {
   meta: {
     title: "IT Services in Jangaon | Web & Apps from ₹10,000",
     description:
-      "Telugu and English websites, Android and iOS apps, SEO and WhatsApp automation for Jangaon rice mills, cotton traders, Pembarthi brass artisans, schools and clinics.",
+      "Jangaon Telugu and English websites, mobile apps, SEO and WhatsApp bots for rice mills, cotton traders, Pembarthi brass artisans and schools. ₹10,000 upwards.",
     keywords: [
       "IT services in Jangaon",
       "IT services team in Jangaon",
@@ -29,6 +29,10 @@ const jangaon: CityContent = {
       "Jangaon me website banwana",
       "Jangaon lo website cheyinchali",
       "జనగామ వెబ్‌సైట్ డిజైన్",
+      "Jangaon website designer",
+      "web development company Jangaon",
+      "hire freelance developer Jangaon",
+      "Telangana SEO",
     ],
   },
   hero: {

@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "Magh Mela booking website", "website developer Civil Lines Prayagraj", "website developer Allahpur", "website developer Naini",
       "business website Prayagraj", "ecommerce website Prayagraj", "Prayagraj me website kaise banaye", "coaching ki website Prayagraj",
       "website banwani hai Allahabad", "website developer Uttar Pradesh",
+      "website developer in Prayagraj cost", "website developer in Prayagraj price", "hire website developer in Prayagraj", "freelance website developer in Prayagraj",
+      "best website developer in Prayagraj", "website developer in Prayagraj charges",
     ],
   },
   hero: {

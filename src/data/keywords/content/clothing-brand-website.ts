@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "clothing brand website developer", "apparel ecommerce website India", "clothing brand website near me", "clothing brand ki website kaise banaye",
       "sell clothes online beyond Instagram", "marketplace inventory sync Myntra Amazon", "clothing brand website Bangalore", "clothing brand website Mumbai",
       "clothing brand website Delhi", "clothing brand website Jaipur", "streetwear brand website", "ethnic wear brand website",
+      "clothing brand website company in India",
+      "best clothing brand website in India",
+      "clothing brand website services",
     ],
   },
   hero: {

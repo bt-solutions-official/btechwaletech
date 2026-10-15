@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "suburb market report page", "licensed reaa 2008 website", "real estate advertising rules nz", "real estate web designer near me",
       "real estate agent website auckland", "real estate agent website wellington", "real estate agent website christchurch",
       "real estate agent website tauranga", "real estate agent website hamilton", "independent real estate agent website", "real estate agent seo nz",
+      "hire real estate agent website design in New Zealand", "freelance real estate agent website design New Zealand", "real estate agent website design New Zealand",
     ],
   },
   hero: {

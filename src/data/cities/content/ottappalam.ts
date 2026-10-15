@@ -7,7 +7,7 @@ const ottappalam: CityContent = {
   meta: {
     title: "IT Services in Ottappalam: Web, Apps, SEO & AI",
     description:
-      "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Ottappalam KINFRA park units, film location stays, clinics, colleges and shops.",
+      "Malayalam websites, apps, local SEO and WhatsApp tools for Ottappalam KINFRA park units, film location stays, clinics, colleges and shops. From ₹10,000.",
     keywords: [
       "IT services in Ottappalam",
       "IT services team in Ottapalam",
@@ -28,6 +28,13 @@ const ottappalam: CityContent = {
       "Ottappalam me website banwana",
       "Ottappalathu website undakkan",
       "ഒറ്റപ്പാലം വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Ottappalam website designer",
+      "web development company Ottappalam",
+      "hire freelance web developer Ottappalam",
+      "Palakkad district SEO",
+      "website designer Palakkad district",
+      "Kerala SEO services",
+      "website design Palappuram Ottappalam",
     ],
   },
   hero: {

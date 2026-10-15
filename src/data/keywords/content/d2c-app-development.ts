@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "d2c app developer bangalore", "d2c app development mumbai", "d2c app development delhi", "brand app for repeat orders",
       "subscription app for d2c brand", "d2c app kaise banaye", "app for skincare brand", "app for coffee brand", "d2c app store launch",
       "d2c app development freelancer india",
+      "best d2c app development in India",
+      "d2c app development services",
     ],
   },
   hero: {

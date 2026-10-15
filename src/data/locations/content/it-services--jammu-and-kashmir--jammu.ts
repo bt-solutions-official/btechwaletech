@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 32.7266, lng: 74.857 },
   meta: {
-    title: "Freelance Software Developers in Jammu: Apps & AI",
+    title: "Jammu Software Developers: Apps & AI",
     description:
-      "Freelance software developers for Jammu: ERP-style tools for Bari Brahmana units, trader software, Android and iOS apps, AI agents and SEO. Prices from ₹10,000.",
+      "Freelance software developers for Jammu: ERP-style tools for Bari Brahmana units, trader software, plus Android and iOS apps. Prices from ₹10,000.",
     keywords: [
       "software development team in Jammu",
       "IT services team in Jammu",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "software developers near me Gandhi Nagar Jammu",
       "Jammu mein software team",
       "जम्मू सॉफ्टवेयर डेवलपर",
+      "Jammu website designer",
+      "website cost in Jammu",
+      "IT company in Jammu",
+      "Jammu and Kashmir SEO services",
+      "hire developer Jammu",
+      "wholesale software in Jammu",
+      "manufacturing software in Jammu",
+      "transport software in Jammu",
+      "hotels software in Jammu",
     ],
   },
   hero: {

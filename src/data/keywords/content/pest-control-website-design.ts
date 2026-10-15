@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "pest control website near me", "pest control website Mumbai", "pest control website Delhi", "pest control website Bangalore",
       "commercial pest control website", "pest management company website", "fumigation company website", "pest control ki website kaise banaye",
       "pest control lead generation website", "best website for pest control company",
+      "pest control website design cost", "pest control website design price", "pest control website design company", "best pest control website design in India",
+      "pest control website design cost in India", "pest control website design near me",
     ],
   },
   hero: {

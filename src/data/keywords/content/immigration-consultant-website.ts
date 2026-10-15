@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "migration agent website", "immigration consultant website Jalandhar", "immigration consultant website Ahmedabad", "immigration website Chandigarh",
       "visa consultant website Punjab", "immigration consultant SEO", "immigration consultant website near me", "immigration website ke liye kitna kharcha",
       "work permit consultant website", "PR visa consultant website",
+      "immigration consultant website company in India",
+      "best immigration consultant website in India",
+      "immigration consultant website services",
     ],
   },
   hero: {

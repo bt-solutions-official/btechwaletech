@@ -24,6 +24,9 @@ const content: FreelanceContent = {
       "building material ecommerce website", "credit account portal for contractors", "building material supplier website Raipur",
       "building material supplier website Hyderabad", "building material supplier website Pune", "cement dealer ki website",
       "building material ki dukan ki website", "construction material B2B website", "dealer website for builders",
+      "building material supplier website company in India",
+      "best building material supplier website in India",
+      "building material supplier website services",
     ],
   },
   hero: {
@@ -407,7 +410,7 @@ const content: FreelanceContent = {
     { question: "Can the website connect to my billing software?", answer: "Often, yes. If your billing or inventory software can export stock, invoices and balances, we can feed that data into the contractor portal so balances are real, not retyped. We check what your software supports during planning and include any connection work as a separate line in the quote." },
     { question: "Freelancers or a local agency for a dealer website?", answer: "A local agency may offer in-person meetings; a small freelance team offers direct contact with the developers and usually a leaner process. Quotes from both vary widely. What matters is that the site has a working rate board, bulk form and zones, and that you own the domain, hosting and code. Ask any provider to show how rates are updated." },
     { question: "Who owns the building material website?", answer: "You do. The domain, hosting account, code and all enquiry and customer data belong to your business. We hand over admin logins, the code repository and a staff guide. If you ever move to another developer, nothing in the build ties you to us." },
-    { question: "What support do I get after launch?", answer: `Two months of maintenance are included: fixes, updates, backups and small additions such as new brands or zones. After that, maintenance continues from ${P.care} a month if you choose. Your staff update rates, products and zones themselves, so daily changes never wait for us.` },
+    { question: "What support do I get after launch?", answer: `Two months of maintenance are included: fixes, updates, backups and small additions such as new brands or zones. After that, maintenance continues from ${P.care} if you choose. Your staff update rates, products and zones themselves, so daily changes never wait for us.` },
     { question: "How do I pay for the website?", answer: "Payments in India are by UPI or bank transfer against the milestones in your approved quote, with invoices for each. International clients pay in US dollars by Wise, bank wire or PayPal. Nothing is billed before you approve the written quote; our refund policy page explains cancellations." },
     { question: "Can the website send rate updates on WhatsApp?", answer: `Yes. Contractors who opt in can receive the morning rate list automatically from your business number through the WhatsApp Business Platform, and due-invoice reminders can follow the same route. That automation starts from ${P.ai}. Smaller dealers can begin with the free WhatsApp Business app’s broadcast and quick-reply features.` },
     { question: "Cement dealer ki website mein kya kya hona chahiye?", answer: `Aaj ka rate board jo roz subah update ho, brand aur grade ke saath catalogue, bulk order form jismein site ka location aur quantity ho, delivery area ki jaankari aur contractor credit ka enquiry form. Har page par call aur WhatsApp button. Aisi website ${P.site} se shuru hoti hai.` },

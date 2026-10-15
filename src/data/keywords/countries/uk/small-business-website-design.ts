@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Small Business Website Design UK: Sites from ${P.site}`,
-    description: `Small business website design UK: own your site from ${P.site}, with the company details footer, cookie banner and click-to-call built in. Costs and process explained.`,
+    description: `Small business website design UK: own your site from ${P.site}, with company details footer, cookie banner and click-to-call built in. Costs explained upfront.`,
     keywords: [
       "small business website design uk", "small business website design", "website design for small business uk", "small business web design uk",
       "cheap website design for small business uk", "affordable small business website uk", "small business website cost uk",

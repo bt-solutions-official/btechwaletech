@@ -7,7 +7,7 @@ const parvathipuram: CityContent = {
   meta: {
     title: "IT Services in Parvathipuram: Web, Apps, SEO & AI",
     description:
-      "Telugu-first websites, Android and iOS apps, Google Maps SEO and WhatsApp bots for Parvathipuram cashew buyers, rice millers, contractors, hospitals and schools.",
+      "Telugu-first websites, apps, Maps SEO and WhatsApp bots for Parvathipuram cashew buyers, rice millers, contractors, hospitals and schools. Sites from ₹10,000.",
     keywords: [
       "IT services in Parvathipuram",
       "IT services team in Parvathipuram",
@@ -29,6 +29,12 @@ const parvathipuram: CityContent = {
       "Parvathipuram me website banwana",
       "Parvathipuram lo website cheyinchukovali",
       "పార్వతీపురం వెబ్‌సైట్ డిజైన్",
+      "Parvathipuram website designer",
+      "web development company Parvathipuram",
+      "hire freelance web developer Parvathipuram",
+      "Parvathipuram Manyam district SEO",
+      "website designer Parvathipuram Manyam district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

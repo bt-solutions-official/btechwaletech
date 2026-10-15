@@ -7,7 +7,7 @@ const sankarankovil: CityContent = {
   meta: {
     title: "IT Services in Sankarankovil: Web, Apps, SEO & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Sankarankovil powerloom units, towel and lungi traders, temple-town shops and clinics.",
+      "Tamil websites, apps, local SEO and WhatsApp tools for Sankarankovil powerloom units, towel and lungi traders, temple-town shops and clinics. From ₹10,000.",
     keywords: [
       "IT services in Sankarankovil",
       "IT services team in Sankarankovil",
@@ -29,6 +29,12 @@ const sankarankovil: CityContent = {
       "Sankarankovil me website banwana",
       "Sankarankovil-la website seyya evvalavu",
       "சங்கரன்கோவில் இணையதள வடிவமைப்பு",
+      "Sankarankovil website designer",
+      "web development company Sankarankovil",
+      "hire freelance web developer Sankarankovil",
+      "Tenkasi district SEO",
+      "website designer Tenkasi district",
+      "Tamil Nadu SEO services",
     ],
   },
   hero: {

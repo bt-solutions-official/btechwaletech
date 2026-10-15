@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Developer in Agra, Business Sites from ${P.site}`,
-    description: `Website developer in Agra for hotels, tour operators, footwear and marble inlay makers. Business sites from ${P.site}, built remotely, 2 months free maintenance.`,
+    description: `Website developer in Agra for hotels, tour operators, footwear and marble inlay makers. Business sites from ${P.site}, built remotely. 2 months free care.`,
     keywords: [
       "website developer in Agra", "website developer Agra", "website developer near me Agra", "web developer in Agra",
       "website designer in Agra", "website design Agra", "website development services Agra", "freelance web developer Agra",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Fatehabad Road", "website developer Kamla Nagar Agra", "website developer Sanjay Place", "website developer Mathura",
       "website developer Firozabad", "business website Agra", "ecommerce website Agra", "Agra me website kaise banwaye",
       "hotel ki website banwani hai Agra", "website developer Uttar Pradesh",
+      "website developer in Agra cost", "website developer in Agra price", "hire website developer in Agra", "freelance website developer in Agra",
+      "best website developer in Agra", "website developer in Agra charges",
     ],
   },
   hero: {

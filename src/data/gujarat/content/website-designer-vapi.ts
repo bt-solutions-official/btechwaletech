@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "school website design Vapi", "Gujarati website design Vapi", "UI UX designer Vapi", "website redesign Vapi",
       "website designer Daman", "website designer Silvassa", "website designer Valsad Vapi", "best website designer in Vapi",
       "Vapi me website design kaun karega", "website design karwana hai Vapi", "web designer vs web developer Vapi",
+      "chemical company website design Vapi", "website designer Umbergaon Vapi", "pharma unit website design Vapi",
     ],
   },
   hero: {
@@ -372,7 +373,7 @@ const content: FreelanceContent = {
     { question: "Can you design the interface for our dealer or customer portal?", answer: `Yes. Portal and dashboard screens are designed one by one in Figma, reviewed with the people who will use them, and then built as a web app. Interface work for portals is part of custom web app projects, which start from ${P.software}. Simple customer logins for documents may fit a smaller scope.` },
     { question: "How do design reviews work if you are remote?", answer: "Every stage is reviewed on a video call with screen-share, and you also get links to open designs and built pages on your own phone. Directors or partners who cannot join can comment in writing on the staging link. Decisions are confirmed in the WhatsApp chat so nothing is lost between calls." },
     { question: "Who owns the website once it is designed and built?", answer: "You do. The domain, hosting, email and code are in your business name, and the design files are handed over at launch. You can change developers, bring the site in-house or hire another designer later without asking our permission. The handover sheet lists every login and renewal date." },
-    { question: "What happens after the site launches?", answer: `For two months after launch, small design and content tweaks, fixes and updates are free. After that, care is optional from ${P.care} per month, covering edits, updates and backups. Many Vapi businesses use those first weeks to adjust photos and wording once they see how real visitors use the site.` },
+    { question: "What happens after the site launches?", answer: `For two months after launch, small design and content tweaks, fixes and updates are free. After that, care is optional from ${P.care}, covering edits, updates and backups. Many Vapi businesses use those first weeks to adjust photos and wording once they see how real visitors use the site.` },
     { question: "What should I send before the first call?", answer: "Your logo or brand files, any brochure or catalogue, your current website address, two or three websites you like and one you dislike, and a sentence about who your buyers, parents or patients are. Real photos, if you have them, help us judge what can be used and what needs a fresh shoot." },
     { question: "Vapi me website design karwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath design aur development saath mein hota hai, aur business website ${P.site} se shuru hoti hai. Aam taur par 1–2 hafte lagte hain. Gujarati content aap ya aapka translator dete hain, hum English aur Hindi likhte hain. Figma file aur saare logins aapko milte hain, aur 2 mahine care free hai.` },
   ],

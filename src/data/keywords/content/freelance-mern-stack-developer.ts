@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance MERN Stack Developer | Apps from ${P.software}`,
-    description: `Hire a freelance MERN stack developer in India for MongoDB, Express, React and Node.js web apps from ${P.software}. When MERN fits, costs, vetting and handover.`,
+    description: `Hire a freelance MERN stack developer in India for MongoDB, Express, React and Node.js web apps. When MERN fits, vetting and handover. From ${P.software}.`,
     keywords: [
       "freelance MERN stack developer", "freelance MERN stack developer in India", "MERN stack developer near me", "MERN stack developer for hire",
       "hire MERN stack developer", "MERN stack development cost", "MERN developer price India", "best MERN stack developer",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "MERN stack web app development", "React Node.js freelancer", "MongoDB developer freelance", "MERN stack SaaS developer",
       "MERN vs MEAN stack", "remote MERN stack developer India", "MERN dashboard developer", "full stack JavaScript developer freelance",
       "MERN stack project cost", "Node.js and React developer for startup",
+      "hire freelance mern stack developer",
     ],
   },
   hero: {

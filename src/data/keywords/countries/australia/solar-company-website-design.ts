@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "commercial solar website design", "solar company website sydney", "solar company website melbourne",
       "solar company website brisbane", "solar company website perth", "solar company website adelaide",
       "solar website designer near me", "solar installer seo", "solar website australia", "solar lead qualification form",
+      "hire solar company website design in Australia", "freelance solar company website design Australia",
     ],
   },
   hero: {

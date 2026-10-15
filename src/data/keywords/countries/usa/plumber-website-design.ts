@@ -183,7 +183,7 @@ const content: FreelanceContent = {
         `Where the scheduler goes matters as much as having one. We place it on the water heater replacement, fixture and repiping pages, not on the emergency path, because nobody with a flooding basement wants to pick a two-hour window next Thursday. For emergencies the phone stays first. We also make the form short: job type, address, a photo upload if your tool supports it, and preferred time.`,
       ],
       after: [
-        `Outgrowing off-the-shelf scheduling? Our page on <a href='/usa/field-service-app-development/'>field service app development</a> covers when a custom dispatch and technician app starts to make sense.`,
+        `Outgrowing off-the-shelf scheduling? Our page on <a href='/usa/custom-software-development/'>custom software development</a> covers when a custom dispatch and technician app starts to make sense.`,
       ],
     },
     {
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
       { name: "Contractor website design", href: "/usa/contractor-website-design/" },
       { name: "Electrician website design", href: "/usa/electrician-website-design/" },
       { name: "Roofing website design", href: "/usa/roofing-website-design/" },
-      { name: "Field service app development", href: "/usa/field-service-app-development/" },
+      { name: "Custom software development", href: "/usa/custom-software-development/" },
       { name: "Local SEO services", href: "/usa/local-seo-services/" },
       { name: "SEO services for small business", href: "/usa/seo-services-for-small-business/" },
       { name: "Website redesign services", href: "/usa/website-redesign-services/" },

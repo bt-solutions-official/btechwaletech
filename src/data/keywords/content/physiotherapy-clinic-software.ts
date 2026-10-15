@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "physio clinic app", "physiotherapy EMR India", "custom physiotherapy clinic software", "physiotherapy clinic software cost", "physiotherapy software price in India",
       "best software for physiotherapy clinic", "how to manage physiotherapy packages", "physiotherapy software for multiple branches", "sports physiotherapy software",
       "physiotherapy clinic software Indore", "physiotherapy software Bengaluru", "physio clinic ke liye software", "physiotherapy billing software with GST",
+      "physiotherapy clinic software price", "physiotherapy clinic software company", "best physiotherapy clinic software in India", "physiotherapy clinic software cost in India",
+      "physiotherapy clinic software near me",
     ],
   },
   hero: {

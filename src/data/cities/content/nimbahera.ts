@@ -5,9 +5,9 @@ const nimbahera: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 24.6167, lng: 74.6833 },
   meta: {
-    title: "IT Services in Nimbahera | Web, Apps & AI from ₹10,000",
+    title: "Nimbahera Website Design: Cement, Stone & Mandi",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Nimbahera cement suppliers, stone traders, mandi merchants, clinics and schools.",
+      "Nimbahera websites, Hindi SEO and WhatsApp tools for cement plant contractors, bulker owners, stone quarries and mandi agents. From ₹10,000.",
     keywords: [
       "IT services in Nimbahera",
       "IT services team in Nimbahera",
@@ -29,6 +29,16 @@ const nimbahera: CityContent = {
       "Nimbahera mein app kaise banwayein",
       "निंबाहेड़ा वेबसाइट डिज़ाइन",
       "Sanwaliya ji dharamshala website",
+      "Nimbahera website designer",
+      "web development company Nimbahera",
+      "hire freelance web developer Nimbahera",
+      "Chittorgarh district SEO",
+      "website designer Chittorgarh district",
+      "Rajasthan SEO services",
+      "Nimbahera me website kaise banwaye",
+      "Nimbahera website banwane ka kharcha",
+      "Nimbahera cement plant contractors website",
+      "cement plant contractors website design Nimbahera",
     ],
   },
   hero: {

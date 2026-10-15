@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: "Freelance Programmer for Hire | Scripts, Fixes, Tools",
-    description: `Freelance programmer in India for scripts, bug fixes and small internal tools. Small jobs quoted per scope; automation from ${P.ai}. Code and accounts stay yours.`,
+    description: `Freelance programmer in India for scripts, bug fixes and small internal tools. Jobs quoted per scope; automation from ${P.ai}. Code and accounts stay yours.`,
     keywords: [
       "freelance programmer", "freelance programmer in India", "freelance programmer near me", "freelance programmer for hire",
       "hire a programmer", "freelance programmer cost", "programmer charges per project", "best freelance programmer",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "bug fixing programmer", "script writer programmer", "Python script freelancer", "Excel automation programmer",
       "Google Apps Script developer", "small software tool developer", "API integration programmer", "remote programmer India",
       "part-time programmer for business", "freelance coder for hire",
+      "hire freelance programmer",
     ],
   },
   hero: {
@@ -182,7 +183,7 @@ const content: FreelanceContent = {
       heading: "How much does a freelance programmer charge in India?",
       paragraphs: [
         `Small programming jobs are usually priced per task once the programmer has seen the problem. Asking for a price before sharing the file or error is like asking a mechanic for a repair cost over the phone: any number you get is a guess.`,
-        `With BtechWaleTech, short scripts and fixes are quoted per job after a look at your sample or code. When a job grows into proper automation, such as syncing orders between systems, reading documents with AI or running scheduled workflows, it moves into our automation plan starting at ${P.ai} (${P.aiUsd}). A browser-based tool with logins, roles and a database starts at ${P.software}. Ongoing support after the free period starts at ${P.care} a month.`,
+        `With BtechWaleTech, short scripts and fixes are quoted per job after a look at your sample or code. When a job grows into proper automation, such as syncing orders between systems, reading documents with AI or running scheduled workflows, it moves into our automation plan starting at ${P.ai} (${P.aiUsd}). A browser-based tool with logins, roles and a database starts at ${P.software}. Ongoing support after the free period starts at ${P.care}.`,
         `Across the market, freelance programmer quotes vary widely for what looks like the same job. The spread usually reflects testing effort, whether the code is documented, whether edge cases are handled, and whether support is included. A cheaper script that fails on the first odd file costs more in the end. See <a href='/pricing/'>all starting prices</a> for every plan.`,
       ],
     },
@@ -275,7 +276,7 @@ const content: FreelanceContent = {
       heading: "What happens after the freelance programmer delivers?",
       paragraphs: [
         `Code does not stay fixed forever. File formats change, APIs update, servers get upgraded. The question is not whether a script will need attention, but who will give it.`,
-        `On projects in our plans, the first two months after delivery include free maintenance: fixes, small adjustments and help if something stops working. After that, maintenance is optional from ${P.care} a month. For one-off small jobs, the follow-up terms are written into your quote so there is no confusion later.`,
+        `On projects in our plans, the first two months after delivery include free maintenance: fixes, small adjustments and help if something stops working. After that, maintenance is optional from ${P.care}. For one-off small jobs, the follow-up terms are written into your quote so there is no confusion later.`,
         `Because you hold the code and accounts, you are never locked in. Your own staff or another programmer can pick it up using the delivery note.`,
       ],
     },
@@ -387,7 +388,7 @@ const content: FreelanceContent = {
     { question: "What is the difference between a freelance programmer and a freelance developer?", answer: "In everyday use the terms overlap heavily. “Programmer” is often used for focused coding jobs such as scripts, fixes and integrations, while “developer” suggests building a whole website, app or product. Both write code; what matters is whether the person has done work like yours and can show it." },
     { question: "Can a programmer automate my Excel or Google Sheets work?", answer: "Yes, this is one of the most common requests. A Python script or Google Apps Script can merge files, clean data, generate reports, send reminders and export in the format your accounting software needs. Send a sample file and a description of the manual steps, and the programmer can say what can be automated." },
     { question: "Do freelance programmers sign NDAs?", answer: "Many do. BtechWaleTech is happy to sign a reasonable NDA before you share confidential code or data. Other terms, such as scope, delivery and follow-up support, are agreed in the written quote. For personal data, masking sensitive fields before sharing is a good habit regardless of any agreement." },
-    { question: "What if the script stops working later?", answer: `File formats, APIs and servers change, so scripts occasionally need updates. Project work with BtechWaleTech includes two months of free maintenance after delivery. For small one-off jobs, follow-up terms are written into the quote. Ongoing support is available from ${P.care} a month if you want someone on call.` },
+    { question: "What if the script stops working later?", answer: `File formats, APIs and servers change, so scripts occasionally need updates. Project work with BtechWaleTech includes two months of free maintenance after delivery. For small one-off jobs, follow-up terms are written into the quote. Ongoing support is available from ${P.care} if you want someone on call.` },
     { question: "Should I use a marketplace or hire a freelance programmer directly?", answer: "Marketplaces such as Upwork, Fiverr and Freelancer.com offer choice and payment protection but add platform fees and can make follow-up work awkward. Hiring directly gives you a continuing relationship and no middleman fee. Either way, check live examples, ask for an itemised quote and keep the code in your own accounts." },
     { question: "Can a freelance programmer build a small tool for my staff?", answer: `Yes. Simple tools such as a quotation calculator, a stock lookup or an approval form can run in a browser or inside Google Sheets. Once a tool needs logins, several user roles and a database, it becomes a small web app, which starts at ${P.software} with BtechWaleTech.` },
     { question: "Do you work with international clients?", answer: `Yes. Programming work is fully remote. We handle scripts, fixes and integrations for clients in the USA, UK, Canada, Australia, the UAE and elsewhere, billing in USD with automation projects from ${P.aiUsd}. Payments go through Wise, bank wire or PayPal, and replies come in IST with overlap hours for calls.` },

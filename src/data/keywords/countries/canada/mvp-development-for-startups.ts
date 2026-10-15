@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "mvp app development for startups", "no-code vs custom mvp", "outsource mvp development", "mvp developers india for canadian startups",
       "what should founders own mvp", "fundable mvp", "startup software development canada", "mvp development near me",
       "technical co-founder alternative", "mvp scope one core workflow",
+      "hire mvp development for startups in Canada", "freelance mvp development for startups Canada",
     ],
   },
   hero: {

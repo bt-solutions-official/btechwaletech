@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "arabic keyword research", "ecommerce seo saudi arabia", "technical seo saudi arabia", "seo consultant saudi arabia",
       "outsource seo to india", "seo for saudi business", "rank on google in saudi arabia", "ai search optimisation saudi arabia",
       "local seo riyadh",
+      "hire seo services in Saudi Arabia", "freelance seo services Saudi Arabia",
     ],
   },
   hero: {
@@ -45,13 +46,13 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What do SEO services in Saudi Arabia include, and how fast do results come?",
-    text: `SEO services in Saudi Arabia with BtechWaleTech start from ${P.seo} a month and cover Arabic and English keyword research, technical fixes, bilingual hreflang, on-page work, content briefs and a monthly report. Technical fixes can show within weeks; competitive terms on google.com.sa usually take several months. Progress depends on your site's history, competitors and how much Arabic content you publish.`,
+    text: `SEO services in Saudi Arabia with BtechWaleTech start from ${P.seo} and cover Arabic and English keyword research, technical fixes, bilingual hreflang, on-page work, content briefs and a monthly report. Technical fixes can show within weeks; competitive terms on google.com.sa usually take several months. Progress depends on your site's history, competitors and how much Arabic content you publish.`,
     more: `If you need visibility in Google Maps for one city, start with <a href='/saudi-arabia/local-seo-services/'>local SEO in Saudi Arabia</a>; if the site itself needs rebuilding, see <a href='/saudi-arabia/arabic-english-website-development/'>Arabic and English website development</a>.`,
   },
   snapshot: {
     caption: "Monthly SEO for a Saudi site, summarised",
     rows: [
-      { label: "Starting fee", value: `From ${P.seo} a month, in USD` },
+      { label: "Starting fee", value: `From ${P.seo}, in USD` },
       { label: "Month one", value: "Technical audit, keyword map in both languages, fixes started" },
       { label: "Every month", value: "Fixes, page improvements, content briefs, links, report" },
       { label: "Languages", value: "Arabic and English pages with correct hreflang" },
@@ -83,7 +84,7 @@ const content: FreelanceContent = {
       ["What you receive", "Strategy, content and reporting teams", "A report listing problems", "Monthly fixes, content briefs, links and a report"],
       ["Who implements technical fixes", "Often your developer", "Your developer", "We code them ourselves"],
       ["Native Arabic copywriting", "Usually in-house", "Rarely", "No; you supply or approve Arabic copy"],
-      ["Price basis", "Quotes vary widely", "One-off fee", `From ${P.seo} a month`],
+      ["Price basis", "Quotes vary widely", "One-off fee", `From ${P.seo}`],
       ["Commitment", "Often a fixed term", "None", "Agreed in your written quote"],
       ["Ranking promises", "Should be none", "Should be none", "None; we report work and results honestly"],
       ["Account ownership", "Check the contract", "Not applicable", "Search Console and analytics in your name"],
@@ -186,7 +187,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do SEO services in Saudi Arabia cost?",
       paragraphs: [
-        `With us, SEO services in Saudi Arabia start from ${P.seo} a month, quoted in US dollars. Fees from other providers vary widely; the differences usually come from how many languages and pages are covered, whether native Arabic content is included, whether technical fixes are done or only recommended, and how much link building is promised.`,
+        `With us, SEO services in Saudi Arabia start from ${P.seo}, quoted in US dollars. Fees from other providers vary widely; the differences usually come from how many languages and pages are covered, whether native Arabic content is included, whether technical fixes are done or only recommended, and how much link building is promised.`,
         `When comparing quotes, ask each provider to list monthly activities and hours by category. A cheap package that only produces a ranking report does nothing for your site; an expensive one that writes content but cannot touch your code may leave the biggest problems untouched.`,
         `A sensible budget rule: commit to at least a few months so the work has time to show, but make sure your written terms say how to stop. Ours are agreed in your quote, with nothing billed before written approval.`,
       ],

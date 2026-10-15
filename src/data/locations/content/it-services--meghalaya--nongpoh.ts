@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 25.9022, lng: 91.8753 },
   meta: {
-    title: "Freelance IT Services & Software in Nongpoh",
+    title: "Nongpoh IT Services: Ri-Bhoi Hotels & Highway Trade",
     description:
-      "Freelance IT services in Nongpoh and Ri-Bhoi: custom software, apps, AI and WhatsApp automation, hotel booking sites, dashboards, SEO and support. From ₹10,000.",
+      "Freelance IT services in Nongpoh and Ri-Bhoi: custom software, apps, AI and WhatsApp automation, hotel booking sites, plus dashboards. From ₹10,000.",
     keywords: [
       "Android app development Nongpoh",
       "iOS app development Nongpoh",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "mobile app development Ri-Bhoi",
       "Nongpoh mein website aur software",
       "Nongpoh software developer Khasi",
+      "Nongpoh website designer",
+      "website cost in Nongpoh",
+      "IT company in Nongpoh",
+      "Meghalaya SEO services",
+      "hire developer Nongpoh",
+      "hotels software in Nongpoh",
+      "highway dhabas software in Nongpoh",
     ],
   },
   hero: {

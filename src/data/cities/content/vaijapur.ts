@@ -7,7 +7,7 @@ const vaijapur: CityContent = {
   meta: {
     title: "IT Services in Vaijapur: Websites, Apps, SEO & AI",
     description:
-      "Marathi websites, Android and iOS apps, Google Maps SEO and WhatsApp bots for Vaijapur onion traders, transporters on the Samruddhi route, colleges and clinics.",
+      "Marathi websites, apps, Maps SEO and WhatsApp bots for Vaijapur onion traders, transporters on the Samruddhi route, colleges and clinics. From ₹10,000.",
     keywords: [
       "IT services in Vaijapur",
       "IT services team in Vaijapur",
@@ -29,6 +29,12 @@ const vaijapur: CityContent = {
       "Vaijapur me website banwana",
       "Vaijapur madhye website banvayla",
       "वैजापूर वेबसाइट डिझाइन",
+      "Vaijapur website designer",
+      "web development company Vaijapur",
+      "hire freelance web developer Vaijapur",
+      "Chhatrapati Sambhajinagar district SEO",
+      "website designer Chhatrapati Sambhajinagar district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

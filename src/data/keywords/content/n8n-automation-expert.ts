@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "n8n vs Zapier", "n8n vs Make", "n8n expert Bangalore", "n8n expert Mumbai",
       "n8n expert Pune", "n8n expert Hyderabad", "n8n expert Delhi", "n8n automation kaise kare",
       "workflow automation expert India", "n8n docker setup",
+      "hire n8n automation expert", "freelance n8n automation expert", "n8n automation expert cost", "n8n automation expert near me",
+      "best n8n automation expert in India", "n8n automation expert price", "n8n automation expert charges",
     ],
   },
   hero: {

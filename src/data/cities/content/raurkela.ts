@@ -7,7 +7,7 @@ const raurkela: CityContent = {
   meta: {
     title: "Rourkela Website Design and Local SEO | From ₹10,000",
     description:
-      "Websites, SEO and automation for Rourkela steel ancillaries, Kalunga units, shops, clinics and coaching centres. From ₹10,000, itemised quotes, you own everything.",
+      "Websites, SEO and automation for Rourkela steel ancillaries, Kalunga units, shops, clinics and coaching centres. Sites from ₹10,000, live in 1-2 weeks.",
     keywords: [
       "website development team in Rourkela",
       "web design Rourkela",
@@ -25,6 +25,16 @@ const raurkela: CityContent = {
       "freelance web developer Rourkela",
       "Rourkela re website banaiba",
       "ରାଉରକେଲା ୱେବସାଇଟ୍ ଡିଜାଇନ୍",
+      "Rourkela website designer",
+      "web development company Rourkela",
+      "hire freelance web developer Rourkela",
+      "Odisha SEO services",
+      "website design Steel Township sectors Rourkela",
+      "website design Civil Township Rourkela",
+      "website design Udit Nagar Rourkela",
+      "website design Chhend Colony Rourkela",
+      "website design Panposh Rourkela",
+      "website design price in Rourkela",
     ],
   },
   hero: {

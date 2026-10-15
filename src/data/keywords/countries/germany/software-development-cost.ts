@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "software maintenance cost per year", "risk buffer software project", "software development cost berlin", "software development cost munich",
       "software development cost stuttgart", "software development cost hamburg", "mittelstand custom software budget",
       "fixed price software project germany", "web application development cost germany", "software development india vs germany",
+      "hire software development in Germany", "freelance software development Germany",
     ],
   },
   hero: {

@@ -310,7 +310,7 @@ const content: FreelanceContent = {
         `The account that creates a custom GPT controls it, so the GPT should always be built inside your organisation's ChatGPT workspace, never in a developer's personal account. With API assistants, the code repository, cloud account and API keys should likewise sit under your name from day one.`,
         `At handover you receive a short document listing the GPT's name and purpose, the full instruction text, every knowledge file with its date, each action with the endpoint it calls, and the test sheet with results. For API assistants, add repository access, deployment notes, environment variables stored in your cloud's secret manager, and a list of monthly bills you will see.`,
         `We also write down what the assistant must not be used for. That line protects you when a new manager, six months later, decides to point customers at an internal GPT.`,
-        `Maintenance is included for two months after launch: file updates, instruction tweaks after model changes, and fixes to actions. After that, ongoing care starts at ${P.care} a month, and only if you want it. Nothing locks you in; another developer can pick up from the handover pack.`,
+        `Maintenance is included for two months after launch: file updates, instruction tweaks after model changes, and fixes to actions. After that, ongoing care starts at ${P.care}, and only if you want it. Nothing locks you in; another developer can pick up from the handover pack.`,
       ],
     },
     {
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
         ["API assistant on website with lead capture", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["API assistant on WhatsApp with human handover", `From ${P.ai}`, `From ${P.aiUsd}`, "3–4 weeks"],
         ["Internal assistant portal with logins and roles", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
-        ["Care after the 2 free months", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Monthly"],
+        ["Care after the 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },

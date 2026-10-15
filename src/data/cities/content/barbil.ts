@@ -7,7 +7,7 @@ const barbil: CityContent = {
   meta: {
     title: "IT Services in Barbil | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Barbil mining contractors, transporters, crushers, hotels, clinics and Main Road shops.",
+      "Barbil websites, Android and iOS apps, local SEO and WhatsApp automation for mining contractors, transporters, crushers, hotels, clinics and Main Road shops.",
     keywords: [
       "IT services in Barbil",
       "IT services team in Barbil",
@@ -29,6 +29,10 @@ const barbil: CityContent = {
       "Barbil me website banwana",
       "Barbil re website tiari",
       "Keonjhar website developer",
+      "Barbil website designer",
+      "web development company Barbil",
+      "hire freelance developer Barbil",
+      "Odisha SEO",
     ],
   },
   hero: {

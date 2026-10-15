@@ -300,7 +300,7 @@ const content: FreelanceContent = {
         ["EV-focused site", "Adds EV funnel with tenure and grant questions", `From ${P.site}`, "2–3 weeks"],
         ["County-wide area site", "299+ pages: jobs, towns and job-by-town pages", `From ${P.seoSite}`, "3–5 weeks"],
         ["Landlord reminder system", "Stored inspection dates and automatic rebooking messages", `From ${P.ai}`, "2–4 weeks"],
-        ["Ongoing local SEO", "New pages, profile updates, Search Console reviews", `From ${P.seo} a month`, "Monthly"],
+        ["Ongoing local SEO", "New pages, profile updates, Search Console reviews", `From ${P.seo}`, "Monthly"],
       ],
     },
     {

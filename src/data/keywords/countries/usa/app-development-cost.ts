@@ -16,7 +16,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `How Much Does It Cost to Build an App? From ${P.app}`,
-    description: `How much does it cost to build an app in the US? iOS and Android apps start at ${P.app}. See cost by feature, app type, store fees and yearly upkeep before you commit.`,
+    description: `How much does it cost to build an app in the US? iOS and Android apps start at ${P.app}. See cost by feature, app type, store fees and yearly upkeep.`,
     keywords: [
       "how much does it cost to build an app", "app development cost", "cost to build an app", "how much does it cost to make an app",
       "mobile app development cost", "app development cost usa", "how much does an app cost", "cost to develop an ios app",
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
       { name: "Flutter app development company", href: "/usa/flutter-app-development-company/" },
       { name: "React Native app development", href: "/usa/react-native-app-development/" },
       { name: "MVP development for startups", href: "/usa/mvp-development-for-startups/" },
-      { name: "Field service app development", href: "/usa/field-service-app-development/" },
+      { name: "Custom CRM development", href: "/usa/custom-crm-development/" },
       { name: "Telehealth app development", href: "/usa/telehealth-app-development/" },
       { name: "Small business website cost", href: "/usa/small-business-website-cost/" },
       { name: "All services for US businesses", href: "/usa/" },

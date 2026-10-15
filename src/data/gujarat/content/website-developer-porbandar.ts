@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-07",
   meta: {
     title: `Website Developer in Porbandar: Sites from ${P.site}`,
-    description: `Website developer in Porbandar for seafood traders, net makers, hotels and shops. Sites from ${P.site}, Gujarati-ready layouts, built remotely with a live preview.`,
+    description: `Website developer in Porbandar for seafood traders, net makers, hotels & shops. Sites from ${P.site}, Gujarati-ready layouts, remote build with a live preview.`,
     keywords: [
       "website developer in Porbandar", "website developer Porbandar", "web developer near me Porbandar", "Porbandar Gujarat website",
       "website designer in Porbandar", "website development services Porbandar", "web design Porbandar", "freelance web developer Porbandar",

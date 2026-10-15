@@ -7,7 +7,7 @@ const shimla: CityContent = {
   meta: {
     title: "IT Services in Shimla: Websites, Apps, SEO & AI",
     description:
-      "Websites, direct booking, apple-grower stores and WhatsApp automation for Shimla hotels, homestays, Mall Road shops, clinics and schools. You own the domain.",
+      "Websites, apple-grower stores and WhatsApp tools for Shimla hotels, homestays, Mall Road shops, clinics and schools. Sites from ₹10,000, yours to keep.",
     keywords: [
       "website development team in Shimla",
       "web designer Shimla",
@@ -25,6 +25,16 @@ const shimla: CityContent = {
       "website maintenance Shimla",
       "Shimla mein website kaise banwayein",
       "शिमला वेबसाइट डिज़ाइन",
+      "Shimla website designer",
+      "web development company Shimla",
+      "hire freelance web developer Shimla",
+      "Himachal Pradesh SEO services",
+      "Shimla me website kaise banwaye",
+      "Shimla website banwane ka kharcha",
+      "website design Lakkar Bazaar Shimla",
+      "website design Lower Bazaar Shimla",
+      "website design Sanjauli Shimla",
+      "website design Chotta Shimla",
     ],
   },
   hero: {

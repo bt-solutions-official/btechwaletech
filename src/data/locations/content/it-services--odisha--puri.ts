@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 19.8135, lng: 85.8312 },
   meta: {
-    title: "Freelance Software Developers in Puri, Odisha",
+    title: "Puri Software Developers: Hotel Booking & Rath Yatra Rush",
     description:
-      "Freelance software developers for Puri: booking engines, apps, AI automation and dashboards. A group of three engineers, starting prices, UPI or bank transfer.",
+      "Puri software developers for Grand Road hotels, dharamshalas, Raghurajpur pattachitra sellers and Chilika tour desks. Booking engines from ₹60,000.",
     keywords: [
       "Android app development Puri",
       "iOS app development Puri",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "SEO for hotels in Puri",
       "Puri re software team",
       "ପୁରୀ ସଫ୍ଟୱେର କମ୍ପାନୀ",
+      "Puri website designer",
+      "website cost in Puri",
+      "IT company in Puri",
+      "Odisha SEO services",
+      "hire developer Puri",
+      "hotels software in Puri",
+      "dharamshalas software in Puri",
     ],
   },
   hero: {
@@ -287,7 +294,7 @@ const content: CityContent = {
     {
       question: "Who owns the code, domain and hosting?",
       answer:
-        "You do. The domain, hosting account, payment gateway account and source code are registered in your name or handed over to you. We work through access you grant and we document the logins at launch. If you ever decide to move to another developer, you can do so without asking our permission or paying a release fee.",
+        "You do. The domain, hosting account, payment gateway account and source code are registered in your name or handed over to you. We work through access you grant and we document the logins at launch. If you ever decide to move to another developer, you can do so without asking our permission or paying a release fee. For a Grand Road hotel or a Raghurajpur craft cooperative, the booking records and customer list are the business, so they stay with you.",
     },
     {
       question: "What happens after launch? Is maintenance included?",

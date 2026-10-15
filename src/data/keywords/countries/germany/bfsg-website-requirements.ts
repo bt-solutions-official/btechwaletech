@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "en 301 549 website", "bfsg audit cost", "bfsg fines", "bfsg abmahnung", "bfsg shopify", "bfsg shopware", "bfsg woocommerce",
       "bfsg app requirements", "accessible website germany", "website accessibility germany 2025", "barrierefreie website erstellen",
       "bfsg berlin", "bfsg munich", "bfsg hamburg", "bfsg frankfurt", "how to make a website bfsg compliant",
+      "hire bfsg website requirements in Germany", "freelance bfsg website requirements Germany",
     ],
   },
   hero: {

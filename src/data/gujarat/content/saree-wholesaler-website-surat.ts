@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Saree Wholesaler Website in Surat from ${P.site}`,
-    description: `Saree wholesaler website in Surat with set-wise catalogues, MOQ rules, reseller rates and WhatsApp ordering. Catalogue sites from ${P.site}, stores from ${P.shop}.`,
+    description: `Saree wholesaler website in Surat with set-wise catalogues, MOQ rules, reseller rates & WhatsApp ordering. Catalogue sites from ${P.site}, stores from ${P.shop}.`,
     keywords: [
       "saree wholesaler website in Surat", "saree wholesale website Surat", "saree wholesaler website near me", "saree website design Surat Gujarat",
       "wholesale saree catalogue website", "saree reseller website", "saree catalogue website with MOQ", "saree B2B website Surat",
@@ -160,7 +160,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a saree wholesaler website in Surat cost?",
       paragraphs: [
-        `A catalogue site for a Surat saree wholesaler starts at ${P.site} (about ${P.siteUsd}). An ordering store with cart, MOQ rules, GST invoices and UPI starts at ${P.shop}. A reseller portal with logins, tiered rates and order history starts at ${P.software}. Ongoing search work, if you want it, starts at ${P.seo} a month.`,
+        `A catalogue site for a Surat saree wholesaler starts at ${P.site} (about ${P.siteUsd}). An ordering store with cart, MOQ rules, GST invoices and UPI starts at ${P.shop}. A reseller portal with logins, tiered rates and order history starts at ${P.software}. Ongoing search work, if you want it, starts at ${P.seo}.`,
         `The biggest cost driver is not design; it is logic. Showing catalogues is straightforward. Enforcing “full set only, except these designs, which allow singles above four pieces at a higher rate” takes careful building and testing. The second driver is your back catalogue: loading 300 old catalogues with photos and data is real work, so we either price it as a line or give your staff a bulk upload tool and let them do it.`,
         `Other lines include photography guidance, watermarking, transport-company selection at checkout, Hindi or Gujarati layouts and any connection to your accounting software. Domain, hosting and email are paid by you to the providers directly, and if you lean towards a hosted platform, <a href='/shopify-store-cost-in-india/'>Shopify store costs in India</a> explains its running fees. For the general picture of Surat pricing, see website development cost in Surat.`,
       ],

@@ -7,7 +7,7 @@ const rameshwaram: CityContent = {
   meta: {
     title: "IT Services in Rameswaram: Websites, Apps & AI",
     description:
-      "Tamil websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Rameswaram lodges, tour operators, boat owners, temple-side shops and clinics.",
+      "Tamil websites, apps, Maps SEO and WhatsApp automation for Rameswaram lodges, tour operators, boat owners, temple-side shops and clinics. Sites from ₹10,000.",
     keywords: [
       "IT services in Rameswaram",
       "IT company in Rameswaram",
@@ -29,6 +29,12 @@ const rameshwaram: CityContent = {
       "Rameswaram website design Tamil",
       "Mandapam fish trader website",
       "ராமேஸ்வரம் வலைத்தள வடிவமைப்பு",
+      "Rameswaram website designer",
+      "web development company Rameswaram",
+      "hire freelance web developer Rameswaram",
+      "Pamban Island SEO services",
+      "website designer Pamban Island",
+      "Tamil Nadu SEO services",
     ],
   },
   hero: {

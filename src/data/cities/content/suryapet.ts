@@ -7,7 +7,7 @@ const suryapet: CityContent = {
   meta: {
     title: "Suryapet Website Developers | SEO and WhatsApp Bots",
     description:
-      "Websites from ₹10,000 for Suryapet rice millers, cotton traders, hospitals, colleges and NH65 businesses, with Telugu pages, Google Maps work and WhatsApp tools.",
+      "Websites for Suryapet rice millers, cotton traders, hospitals, colleges and NH65 businesses, with Telugu pages, Maps work and WhatsApp tools. From ₹10,000.",
     keywords: [
       "website development team in Suryapet",
       "web designer Suryapet",
@@ -25,6 +25,16 @@ const suryapet: CityContent = {
       "website design Kodad Huzurnagar",
       "Suryapet lo website cheyinchali",
       "సూర్యాపేట వెబ్‌సైట్ డిజైన్",
+      "Suryapet website designer",
+      "web development company Suryapet",
+      "hire freelance web developer Suryapet",
+      "Telangana SEO services",
+      "rice mills website design Suryapet",
+      "Suryapet farm-input dealers website",
+      "farm-input dealers website design Suryapet",
+      "website design NH65 corridor Suryapet",
+      "website design Khammam Road Suryapet",
+      "website design price in Suryapet",
     ],
   },
   hero: {

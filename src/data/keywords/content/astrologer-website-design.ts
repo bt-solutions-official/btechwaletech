@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "paid consultation website for astrologer", "astrologer website in Hindi", "jyotish website design", "puja booking website",
       "astrologer website design near me", "astrologer website Delhi", "astrologer website Varanasi", "astrologer ki website kaise banaye",
       "online astrology consultation website", "astrologer website with WhatsApp booking", "best website for astrologers",
+      "astrologer website design company in India",
+      "astrologer website design services",
     ],
   },
   hero: {

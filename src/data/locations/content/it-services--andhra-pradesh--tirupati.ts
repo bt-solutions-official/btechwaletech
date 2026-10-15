@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 13.6288, lng: 79.4192 },
   meta: {
-    title: "Freelance App & Software Developers in Tirupati",
+    title: "Tirupati App & Software Developers: Hotels & Travel",
     description:
-      "Freelance app and software developers in Tirupati: booking systems, vendor tools for Sri City, AI agents, dashboards, cloud and SEO. From ₹10,000, quote in 2 days.",
+      "Freelance app and software developers in Tirupati: booking systems, vendor tools for Sri City, AI agents and dashboards. From ₹10,000, quote in 2 days.",
     keywords: [
       "software development team in Tirupati",
       "IT services team in Tirupati",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "iOS app development Tirupati",
       "mobile app developers Tirupati",
       "iPhone app developers Tirupati",
+      "Tirupati website designer",
+      "website cost in Tirupati",
+      "IT company in Tirupati",
+      "Andhra Pradesh SEO services",
+      "hire developer Tirupati",
+      "hotels software in Tirupati",
     ],
   },
   hero: {

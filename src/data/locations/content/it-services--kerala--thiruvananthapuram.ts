@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 8.5241, lng: 76.9366 },
   meta: {
-    title: "Freelance Software Developers in Thiruvananthapuram",
+    title: "Thiruvananthapuram Software Developers: Technopark",
     description:
-      "Freelance developers for Trivandrum institutions, clinics and coaching centres, not a software development team: custom tools, apps, AI. From ₹10,000.",
+      "Thiruvananthapuram developers for Technopark vendors, clinics, PSC coaching and institutions, not a software development team. Custom tools from ₹60,000.",
     keywords: [
       "software development team in Thiruvananthapuram",
       "IT services team in Thiruvananthapuram",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "IT services near me Pattom",
       "തിരുവനന്തപുരത്തെ സോഫ്റ്റ്‌വെയർ ഡെവലപ്പർമാർ",
       "Trivandrum mein software developer",
+      "Thiruvananthapuram website designer",
+      "website cost in Thiruvananthapuram",
+      "IT company in Thiruvananthapuram",
+      "Kerala SEO services",
+      "hire developer Thiruvananthapuram",
+      "associations software in Thiruvananthapuram",
+      "hospitals software in Thiruvananthapuram",
+      "psc software in Thiruvananthapuram",
+      "technopark vendors software in Thiruvananthapuram",
     ],
   },
   hero: {

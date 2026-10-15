@@ -7,7 +7,7 @@ const rajahmundry: CityContent = {
   meta: {
     title: "Rajahmundry Website Design, SEO & Online Stores",
     description:
-      "Websites, Telugu SEO, UPI stores and WhatsApp automation for Rajamahendravaram jewellers, Kadiyam nurseries, clinics and KG basin vendors. From ₹10,000.",
+      "Websites, Telugu SEO, UPI stores and WhatsApp tools for Rajamahendravaram jewellers, Kadiyam nurseries, clinics and KG basin vendors. Sites from ₹10,000.",
     keywords: [
       "website development team in Rajahmundry",
       "web design Rajamahendravaram",
@@ -25,6 +25,16 @@ const rajahmundry: CityContent = {
       "East Godavari web developer",
       "Rajahmundry lo website",
       "రాజమహేంద్రవరం వెబ్‌సైట్",
+      "Rajamahendravaram website designer",
+      "website cost in Rajamahendravaram",
+      "web development company Rajamahendravaram",
+      "hire freelance web developer Rajamahendravaram",
+      "East Godavari SEO services",
+      "website designer East Godavari",
+      "Andhra Pradesh SEO services",
+      "Rajamahendravaram KG basin contractors website",
+      "KG basin contractors website design Rajamahendravaram",
+      "website design Innespeta Rajamahendravaram",
     ],
   },
   hero: {

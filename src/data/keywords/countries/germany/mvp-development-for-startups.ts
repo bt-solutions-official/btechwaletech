@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "gdpr privacy by design startup", "eu hosting startup mvp", "tech due diligence mvp", "mvp handover to cto",
       "mvp development agency for startups", "outsource mvp development", "mvp app development for startups",
       "saas mvp development", "minimum viable product development germany", "mvp developer for non-technical founders",
+      "hire mvp development for startups in Germany", "freelance mvp development for startups Germany",
     ],
   },
   hero: {

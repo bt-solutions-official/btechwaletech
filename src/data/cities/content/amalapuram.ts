@@ -7,7 +7,7 @@ const amalapuram: CityContent = {
   meta: {
     title: "IT Services in Amalapuram | Web, Apps, SEO & AI",
     description:
-      "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Amalapuram coconut traders, aqua farms, hospitals, colleges and Konaseema shops.",
+      "Amalapuram Telugu websites, Android and iOS apps, Maps SEO and WhatsApp bots for coconut traders, aqua farms, hospitals and colleges. Code and domain yours.",
     keywords: [
       "IT services in Amalapuram",
       "IT services team in Amalapuram",
@@ -29,6 +29,10 @@ const amalapuram: CityContent = {
       "Amalapuram me website banwana",
       "అమలాపురం వెబ్‌సైట్ డిజైన్",
       "Mummidivaram Razole local SEO",
+      "Amalapuram website designer",
+      "web development company Amalapuram",
+      "hire freelance developer Amalapuram",
+      "Andhra Pradesh SEO",
     ],
   },
   hero: {

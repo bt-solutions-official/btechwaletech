@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "how much should a small business website cost singapore", "psg grant website", "website design cost near me singapore",
       "web design pricing singapore 2026", "website design cost raffles place", "website design cost jurong", "website design cost tampines",
       "remote web designer for singapore business", "website redesign cost singapore",
+      "hire website design in Singapore", "freelance website design Singapore",
     ],
   },
   hero: {

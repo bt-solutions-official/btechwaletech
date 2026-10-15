@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Framer Website Developer for Startups, from ${P.site}`,
-    description: `Hire a Framer website developer for your startup or SaaS site: builds from ${P.site}, Framer CMS, motion that stays fast, and honest Framer vs Webflow advice.`,
+    description: `Hire a Framer website developer for your startup or SaaS site: builds from ${P.site}, Framer CMS and motion that stays fast. Quote in 2 working days.`,
     keywords: [
       "framer website developer", "framer developer", "hire framer developer", "framer website developer India",
       "framer web designer", "framer expert", "framer freelancer", "framer website design", "framer website for startup",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "framer custom domain", "framer animations developer", "figma to framer", "is framer good for seo",
       "framer website developer near me", "framer developer Bengaluru", "framer developer Delhi",
       "framer website banwana hai", "framer agency alternative", "framer localization",
+      "hire framer website developer",
+      "best framer website developer in India",
     ],
   },
   hero: {
@@ -60,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Framer plan", value: "Basic, Pro or Enterprise, bought by you from Framer" },
       { label: "Editors", value: "Your team edits copy and CMS on the canvas" },
       { label: "Ownership", value: "Project and site plan in your Framer workspace" },
-      { label: "After launch", value: `2 months free, then from ${P.care} a month` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +77,7 @@ const content: FreelanceContent = {
       { name: "Motion and interactions", note: "Scroll-linked effects, appear animations and interactive product demos that respect performance and reduced-motion settings.", href: "/animated-website-design/", size: "md" },
       { name: "Framer SEO clean-up", note: "Titles, descriptions, headings, alt text, redirects and Search Console on an existing Framer site that is not getting found.", href: "/saas-seo-services/", size: "sm" },
       { name: "Framer to Webflow or code", note: "Outgrown Framer's plan limits? We plan the move with redirects so your traffic follows you.", href: "/wordpress-to-webflow-migration/", size: "sm" },
-      { name: "Monthly Framer care", note: `After 2 free months: new pages, CMS entries, fixes and checks from ${P.care} a month.`, href: "/website-maintenance-charges/", size: "sm" },
+      { name: "Monthly Framer care", note: `After 2 free months: new pages, CMS entries, fixes and checks from ${P.care}.`, href: "/website-maintenance-charges/", size: "sm" },
     ],
   },
   comparison: {
@@ -421,7 +423,7 @@ const content: FreelanceContent = {
     { question: "Should a SaaS startup choose Framer or a coded Next.js site?", answer: "Choose Framer when speed and design control matter most and the marketing team wants to edit without developers. Choose a coded site when the marketing site needs deep product integration, thousands of generated pages, or developers already own it. Many startups start on Framer and move later, with redirects." },
     { question: "Freelance Framer developer or a design studio?", answer: "A freelance developer or small freelance team suits most startup Framer sites, because they are modest in size and you benefit from talking to the builder directly. A studio makes sense when you also need brand identity, naming and copywriting from one team. Ask either for live sites you can test on your phone." },
     { question: "Do I need to be in the same city as my Framer website developer?", answer: "No. Framer is fully online, so the project runs on calls, WhatsApp and preview links. We work remotely with founders across India and abroad in English or Hindi. What matters is fast replies and clear feedback on the preview, not distance." },
-    { question: "What happens after my Framer site launches?", answer: `You get 2 months of free maintenance after launch: fixes, small changes and checks. After that, care starts from ${P.care} a month if you want us to keep adding pages and CMS entries. Monthly SEO is optional and starts from ${P.seo}.` },
+    { question: "What happens after my Framer site launches?", answer: `You get 2 months of free maintenance after launch: fixes, small changes and checks. After that, care starts from ${P.care} if you want us to keep adding pages and CMS entries. Monthly SEO is optional and starts from ${P.seo}.` },
     { question: "How do I pay a Framer website developer in India?", answer: "With us, Indian clients pay by UPI or bank transfer, and international clients pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the itemised written quote. The Framer plan is paid by you directly to Framer from your workspace." },
     { question: "Will you sign an NDA before seeing our unreleased product?", answer: "Ask us when you first get in touch. Confidentiality and other terms are agreed in your written quote, and our general terms are on the terms page. Pre-launch startups often share early product screens with us, and we are happy to settle confidentiality before you send anything sensitive." },
     { question: "Framer website banwana hai, kitna kharcha aayega?", answer: `Hamare saath Framer startup ya SaaS website ${P.site} se shuru hoti hai, aur aam taur par 1–2 hafte mein live ho jaati hai. Framer ka plan alag hai, jo aap seedha Framer ko apne workspace se pay karte hain. WhatsApp par apna page list bhejiye, lagbhag 2 working days mein itemised quote milega.` },

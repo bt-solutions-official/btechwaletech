@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "Dedicated Development Team for Germany · 3 developers",
-    description: `Dedicated development team for German companies: monthly retainer, CET-morning sprints, AÜG-aware contracts. Custom software from ${P.software}.`,
+    description: `Dedicated development team for German companies: a monthly retainer, CET-morning sprints, AÜG-aware contracts and code you own. Custom software from ${P.software}.`,
     keywords: [
       "dedicated development team", "dedicated development team germany", "dedicated software team", "dedizierte entwicklerteams",
       "remote development team germany", "hire dedicated developers germany", "dedicated team vs project outsourcing",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "dedicated development team berlin", "dedicated development team munich", "dedicated development team hamburg",
       "dedicated development team frankfurt", "how to manage a dedicated development team", "when to hire a dedicated development team",
       "small dedicated development team",
+      "freelance dedicated development team Germany",
     ],
   },
   hero: {

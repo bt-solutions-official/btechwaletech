@@ -417,7 +417,7 @@ const content: FreelanceContent = {
       { name: "Customer portal development", href: "/usa/customer-portal-development/" },
       { name: "AI automation agency", href: "/usa/ai-automation-agency/" },
       { name: "Web developer for NYC small businesses", href: "/usa/web-developer-for-new-york-businesses/" },
-      { name: "CPA firm website design", href: "/usa/cpa-firm-website-design/" },
+      { name: "Law firm website design", href: "/usa/law-firm-website-design/" },
       { name: "Custom software development cost", href: "/usa/custom-software-development-cost/" },
       { name: "All services for US businesses", href: "/usa/" },
       { name: "Hire Indian developers", href: "/hire-indian-developers/" },

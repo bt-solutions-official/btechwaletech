@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "vue seo website developer", "nuxt vs next js", "nuxt 3 to nuxt 4 upgrade", "nuxt js developer near me", "nuxt developer Bengaluru",
       "nuxt developer Pune", "nuxt developer Hyderabad", "how to hire a nuxt developer", "is nuxt good for seo", "nuxt js developer chahiye",
       "nuxt website for business", "remote nuxt js developer",
+      "freelance Nuxt JS developer", "best Nuxt JS developer in India", "Nuxt JS developer price", "Nuxt JS developer charges",
     ],
   },
   hero: {
@@ -58,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Backend", value: "Nitro server routes for forms, webhooks and light APIs; a separate API for heavy logic" },
       { label: "Content", value: "Nuxt Content for Markdown, or a headless CMS for non-technical editors" },
       { label: "Hosting", value: "Vercel, Netlify, Cloudflare or a VPS with Node, under your account" },
-      { label: "Starting prices", value: `Site from ${P.site}; app from ${P.software}; care from ${P.care}/month` },
+      { label: "Starting prices", value: `Site from ${P.site}; app from ${P.software}; care from ${P.care}` },
       { label: "Ownership", value: "Git repository, domain and hosting in your name from the first commit" },
     ],
   },
@@ -271,7 +272,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own everything: the Git repository, domain, hosting account, CMS account and any API keys, all opened in your name from day one. We work as invited collaborators, so removing us is a settings change, not a negotiation.`,
         `At handover you should receive more than a ZIP file. We provide a README that explains how to run the project locally, the Node version, environment variables (names only, values stay in your hosting dashboard), the route rules and why each exists, how to deploy, and which modules the project depends on. That document is what lets another Nuxt JS developer pick up the work if you ever switch.`,
-        `Maintenance for two months after launch is free: bug fixes, dependency updates and small changes. After that, care plans start at ${P.care} a month. Any terms beyond this, such as notice or scope of support hours, are written into your quote; see <a href='/terms/'>our terms</a> for the general rules.`,
+        `Maintenance for two months after launch is free: bug fixes, dependency updates and small changes. After that, care plans start at ${P.care}. Any terms beyond this, such as notice or scope of support hours, are written into your quote; see <a href='/terms/'>our terms</a> for the general rules.`,
       ],
     },
     {
@@ -329,7 +330,7 @@ const content: FreelanceContent = {
         ["Nuxt storefront", "Catalogue, cart, checkout, order emails, cached product pages", `${P.shop} · ${P.shopUsd}`, "4–8 weeks"],
         ["Nuxt web app or portal", "Logins, roles, dashboards, Nitro or external API", `${P.software} · ${P.softwareUsd}`, "6–12 weeks"],
         ["AI features in a Nuxt app", "Document Q&A, lead sorting, WhatsApp replies via server routes", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
-        ["Ongoing care", "Updates, patches, small changes after 2 free months", `${P.care}/month`, "Monthly"],
+        ["Ongoing care", "Updates, patches, small changes after 2 free months", `${P.care}`, "Monthly"],
       ],
       hideSm: [1],
     },

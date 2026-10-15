@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Hospital management software developer",
   updated: "2026-09-24",
   meta: {
-    title: "Hospital Management Software Developer for Clinics",
+    title: `Hospital Management Software Developer from ${P.software}`,
     description: `Hospital management software developer for clinics and small hospitals: appointments, patient records, billing and privacy controls, from ${P.software}.`,
     keywords: [
       "hospital management software developer", "hospital management software developer in India", "hospital management software developer near me", "hospital software developer for hire",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "hospital management software Hyderabad", "hospital management software Lucknow", "OPD management software", "patient record software developer",
       "clinic appointment software", "ABDM integration developer", "pharmacy and lab billing software", "nursing home software developer",
       "diagnostic centre software", "EMR software developer India",
+      "hire hospital management software developer",
+      "freelance hospital management software developer",
     ],
   },
   hero: {

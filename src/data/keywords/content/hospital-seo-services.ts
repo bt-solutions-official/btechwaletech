@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Hospital SEO services",
   updated: "2026-09-25",
   meta: {
-    title: `Hospital SEO Services: Departments, Doctors, Branches`,
+    title: `Hospital SEO Services: Doctors, Branches, ${P.seo}`,
     description: `Hospital SEO services for multi-specialty hospitals: department pages, doctor profiles, branch listings, hospital schema. Monthly SEO from ${P.seo}.`,
     keywords: [
       "hospital seo services", "hospital seo", "seo for hospitals", "seo for multi specialty hospital", "hospital seo company India",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "hospital seo price in India", "seo for hospitals near me", "hospital seo Delhi", "hospital seo Mumbai", "hospital seo Hyderabad",
       "hospital seo Chennai", "hospital ki website google par kaise laye", "medical seo for hospitals", "hospital local seo",
       "seo for nursing homes", "seo for super speciality hospital",
+      "best hospital seo services in India",
     ],
   },
   hero: {
@@ -97,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "How hospital SEO services are priced",
-    note: `Hospital SEO costs more than clinic SEO because there are more pages, more doctors and more Google listings to keep in step. Ongoing work starts at ${P.seo} a month and scales with the number of departments, branches and doctor profiles we maintain. If the current site cannot support department hubs or a doctor database, a rebuilt SEO website starts at ${P.seoSite}, and a custom doctor directory or appointment portal starts at ${P.software}. A WhatsApp appointment assistant starts at ${P.ai}. Every quote is itemised, arrives in about two working days, and nothing is billed until you approve it in writing.`,
+    note: `Hospital SEO costs more than clinic SEO because there are more pages, more doctors and more Google listings to keep in step. Ongoing work starts at ${P.seo} and scales with the number of departments, branches and doctor profiles we maintain. If the current site cannot support department hubs or a doctor database, a rebuilt SEO website starts at ${P.seoSite}, and a custom doctor directory or appointment portal starts at ${P.software}. A WhatsApp appointment assistant starts at ${P.ai}. Every quote is itemised, arrives in about two working days, and nothing is billed until you approve it in writing.`,
   },
   guideLabel: "Hospital SEO guide",
   guide: [
@@ -250,7 +251,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do hospital SEO services cost in India?",
       paragraphs: [
-        `With BtechWaleTech, hospital SEO services start at ${P.seo} a month for ongoing work, and the final figure depends on the number of departments, doctors and branches involved. A 60-bed single-site hospital and a four-campus chain are very different jobs, so we quote from your actual structure rather than a package list.`,
+        `With BtechWaleTech, hospital SEO services start at ${P.seo} for ongoing work, and the final figure depends on the number of departments, doctors and branches involved. A 60-bed single-site hospital and a four-campus chain are very different jobs, so we quote from your actual structure rather than a package list.`,
         `Across the market, quotes vary widely. The main drivers are the same wherever you ask: how many pages must be created or rewritten, whether content is written by the provider or supplied by your doctors, how many Business Profiles need fixing, whether the site needs development work, and how often you want reporting meetings.`,
         `There is also a one-time question. If your site is built on a template that cannot generate doctor profiles from data or nest procedures under departments, SEO will keep fighting the platform. A rebuilt SEO website starts at ${P.seoSite} (${P.seoSiteUsd}), and a custom doctor directory with OPD schedules and booking starts at ${P.software}. The cost table below shows how the pieces usually combine.`,
       ],
@@ -423,7 +424,7 @@ const content: FreelanceContent = {
   faqHeading: "Hospital SEO services: questions hospitals ask",
   faqs: [
     { question: "What are hospital SEO services?", answer: "Hospital SEO services help a hospital's departments, doctors and branches appear when patients search Google for a condition, procedure, specialist or nearby hospital. The work covers site structure, department and doctor pages, branch pages, Google Business Profiles, hospital schema, technical fixes, reviewed content and reporting by department. It differs from clinic SEO mainly in scale and structure." },
-    { question: "How much do hospital SEO services cost?", answer: `At BtechWaleTech, ongoing hospital SEO services start at ${P.seo} a month, with the final quote depending on the number of departments, doctors and branches. If the site must be rebuilt to support department hubs and doctor profiles, an SEO website starts at ${P.seoSite}. Every quote is itemised and nothing is billed before written approval.` },
+    { question: "How much do hospital SEO services cost?", answer: `At BtechWaleTech, ongoing hospital SEO services start at ${P.seo}, with the final quote depending on the number of departments, doctors and branches. If the site must be rebuilt to support department hubs and doctor profiles, an SEO website starts at ${P.seoSite}. Every quote is itemised and nothing is billed before written approval.` },
     { question: "How long does SEO take for a hospital?", answer: "Technical fixes and Business Profile corrections can show effects within weeks. New department and procedure pages usually start collecting impressions within one to three months. Competitive city-wide searches can take several months to a year, depending on your domain history, reviews and competitors. Nobody can honestly guarantee a ranking date." },
     { question: "Should each hospital department have its own page?", answer: "Yes, each clinical department should have its own hub page, because patients search by speciality and a single services page cannot rank for all of them. The hub should list conditions treated, procedures, doctors, facilities and a booking route, and link to separate pages for high-demand procedures." },
     { question: "Should each doctor have a separate page on the hospital website?", answer: "Yes. Doctor-name searches are high intent, and a dedicated profile with qualifications, registration, languages, OPD schedule per branch and procedures performed gives Google and patients a clear answer. Generate profiles from a database so they update when doctors join or leave, and link each practitioner's Business Profile to their own page." },

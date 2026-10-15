@@ -5,9 +5,9 @@ const mangrol: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 21.12, lng: 70.12 },
   meta: {
-    title: "IT Services in Mangrol | Web, Apps & AI from ₹10,000",
+    title: "Mangrol Website Design: Seafood, Boats & Orchards",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Mangrol fish exporters, boat owners, coconut and mango growers, clinics and shops.",
+      "Mangrol websites, Gujarati SEO and export catalogues for seafood processors, boat owners, ice plants, coconut and Kesar mango growers. From ₹10,000.",
     keywords: [
       "IT services in Mangrol",
       "IT services team in Mangrol",
@@ -29,6 +29,16 @@ const mangrol: CityContent = {
       "Mangrol ma website banavvi che",
       "માંગરોળ વેબસાઇટ ડિઝાઇન",
       "Chorwad Shil business website",
+      "Mangrol website designer",
+      "web development company Mangrol",
+      "hire freelance web developer Mangrol",
+      "Junagadh district SEO",
+      "website designer Junagadh district",
+      "Gujarat SEO services",
+      "Mangrol kesar mango growers website",
+      "kesar mango growers website design Mangrol",
+      "website design Mangrol Bandar",
+      "website design Mangrol beach",
     ],
   },
   hero: {

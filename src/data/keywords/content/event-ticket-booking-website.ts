@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Event ticket booking website",
   updated: "2026-09-25",
   meta: {
-    title: `Event Ticket Booking Website, Zero Commission`,
+    title: `Event Ticket Booking Website, Zero Commission, ${P.shop}+`,
     description: `Event ticket booking website for concerts, garba nights and workshops: seat maps, QR tickets, scanner app, early-bird tiers, UPI checkout. From ${P.shop}.`,
     keywords: [
       "event ticket booking website", "event ticketing website", "own ticketing website", "ticket booking website development",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "event ticket booking website for organisers", "navratri pass booking website", "comedy show ticket website", "college fest ticket booking website",
       "event ticket booking website developer", "ticket booking website like bookmyshow", "event ticketing website ahmedabad", "event ticketing website mumbai",
       "how to make a ticket booking website", "self hosted event ticketing india",
+      "event ticket booking website company in India",
+      "event ticket booking website near me",
+      "best event ticket booking website in India",
     ],
   },
   hero: {
@@ -412,7 +415,7 @@ const content: FreelanceContent = {
     { question: "Can multiple organisers sell through one platform?", answer: `Yes, as a larger build starting from ${P.software}. Each organiser gets their own events, reports and payout records, while you control the platform. Settlements to different organisers depend on what your payment gateway supports, and we plan that with you early. This suits venues, promoters and communities hosting many independent events.` },
     { question: "How long does it take to launch my own ticketing website?", answer: "Plan for 4–8 weeks for a general-admission site and 8–12 weeks for seat maps or multi-organiser platforms. Start the payment gateway account in week one, because approval can take time. We aim to finish testing, including real low-value purchases and a mock gate, at least a week before your first ticket release." },
     { question: "Can people find my event on Google?", answer: `Yes, if the event pages are built for it. We add structured event data, fast-loading pages, clear dates, venue and lineup, and connect Google Search Console. Your social posts and community still drive most early sales. Nobody can promise a specific search position, but well-built event pages give you a fair chance. Monthly SEO starts from ${P.seo}.` },
-    { question: "What does maintenance cost after the event season?", answer: `Two months of free maintenance follow launch, covering fixes, updates and small changes. After that, care plans start from ${P.care} a month. Many organisers keep a light plan between seasons and schedule new features before the next festival. The exact support terms are part of your written quote.` },
+    { question: "What does maintenance cost after the event season?", answer: `Two months of free maintenance follow launch, covering fixes, updates and small changes. After that, care plans start from ${P.care}. Many organisers keep a light plan between seasons and schedule new features before the next festival. The exact support terms are part of your written quote.` },
     { question: "How do I pay for the ticketing website build?", answer: "Payment is split into milestones listed in your approved quote. In India you pay by UPI or bank transfer; organisers abroad pay in USD through Wise, bank wire or PayPal. We begin only after you approve the itemised quote in writing. See our refund policy page for the general approach to project payments." },
     { question: "Can company buyers get GST invoices for group bookings?", answer: "Yes. At checkout, a buyer can choose a business purchase and enter the company name and GSTIN. The invoice then carries those details so the company can process it under the rules that apply to them. The organiser panel keeps these B2B invoices separate in exports, which makes your accountant’s filing work simpler." },
   ],

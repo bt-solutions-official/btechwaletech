@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "OpenCart developer",
   updated: "2026-09-25",
   meta: {
-    title: `OpenCart Developer: Fix, Customise, Upgrade to 4.x`,
-    description: `Hire an OpenCart developer in India to fix errors, build extensions, upgrade OpenCart 3 to 4 and add UPI checkout. Care from ${P.care}/month; stores from ${P.shop}.`,
+    title: `OpenCart Developer: Fix, Customise, Upgrade (2026)`,
+    description: `Hire an OpenCart developer in India to fix checkout errors, build extensions, upgrade OpenCart 3 to 4 and add UPI. Care ${P.care}, stores from ${P.shop}.`,
     keywords: [
       "opencart developer", "opencart developer India", "hire opencart developer", "freelance opencart developer", "opencart expert",
       "opencart customization", "opencart extension development", "opencart module development", "opencart 3 to 4 upgrade",
@@ -22,17 +22,18 @@ const content: FreelanceContent = {
       "opencart error fix", "opencart blank page fix", "opencart developer cost", "opencart developer rates", "opencart speed optimization",
       "opencart gst invoice", "opencart to woocommerce migration", "opencart to shopify migration", "opencart developer near me",
       "opencart developer Delhi", "opencart developer Ludhiana", "how to hire an opencart developer", "opencart store theek karwana hai",
+      "best OpenCart developer in India", "OpenCart developer price", "OpenCart developer charges",
     ],
   },
   hero: {
     eyebrow: "OpenCart developer · fixes, extensions, upgrades",
     h1: "OpenCart developer for hire: fix what is broken, customise what is missing, upgrade what is old",
-    lede: `An OpenCart developer keeps your OpenCart store earning: fixing checkout errors and blank pages, writing extensions and modules, customising themes, connecting Indian payment gateways with UPI, and carrying stores from OpenCart 3 to OpenCart 4. BtechWaleTech is three freelance developers in India who work on existing OpenCart stores for manufacturers, wholesalers and retailers. This page helps you decide whether to repair, upgrade or move platform, with honest starting prices: ongoing care from ${P.care} a month and new stores from ${P.shop}. For wider store work see our <a href='/freelance-ecommerce-developer/'>freelance ecommerce developer</a> page.`,
+    lede: `An OpenCart developer keeps your OpenCart store earning: fixing checkout errors and blank pages, writing extensions and modules, customising themes, connecting Indian payment gateways with UPI, and carrying stores from OpenCart 3 to OpenCart 4. BtechWaleTech is three freelance developers in India who work on existing OpenCart stores for manufacturers, wholesalers and retailers. This page helps you decide whether to repair, upgrade or move platform, with honest starting prices: ongoing care from ${P.care} and new stores from ${P.shop}. For wider store work see our <a href='/freelance-ecommerce-developer/'>freelance ecommerce developer</a> page.`,
     pills: ["Error and checkout fixes", "Extension and module development", "OpenCart 3 to 4 upgrade", "Theme customisation", "UPI and card payments", "GST-ready invoices", "Platform move advice"],
     origin: "Three freelance developers in India · replies on WhatsApp, 7 days a week",
   },
   facts: [
-    ["Store care and fixes", `From ${P.care}/month`],
+    ["Store care and fixes", `From ${P.care}`],
     ["Rebuild or new store", `From ${P.shop} · ${P.shopUsd}`],
     ["Large custom modules", `From ${P.software}`],
     ["OpenCart 4 needs", "PHP 8.0 or higher"],
@@ -47,14 +48,14 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does an OpenCart developer do, and what does it cost in India?",
-    text: `An OpenCart developer fixes errors, builds and repairs extensions, customises themes, integrates Indian payment gateways with UPI and upgrades stores from OpenCart 3 to 4. With BtechWaleTech ongoing OpenCart care starts at ${P.care} a month, a rebuilt or new store starts at ${P.shop} (${P.shopUsd}), and large custom modules start at ${P.software}. One-off fixes are quoted after a short audit.`,
+    text: `An OpenCart developer fixes errors, builds and repairs extensions, customises themes, integrates Indian payment gateways with UPI and upgrades stores from OpenCart 3 to 4. With BtechWaleTech ongoing OpenCart care starts at ${P.care}, a rebuilt or new store starts at ${P.shop} (${P.shopUsd}), and large custom modules start at ${P.software}. One-off fixes are quoted after a short audit.`,
     more: `Thinking about leaving OpenCart instead? Compare options on <a href='/shopify-vs-custom-ecommerce-website/'>Shopify vs a custom store</a> and read <a href='/ecommerce-website-cost-in-india/'>ecommerce website cost in India</a> before deciding.`,
   },
   snapshot: {
     caption: "OpenCart developer work at a glance",
     rows: [
       { label: "What OpenCart is", value: "Open-source PHP ecommerce platform, GPLv3, self-hosted" },
-      { label: "Fixes and ongoing care", value: `From ${P.care} a month; one-off fixes quoted after audit` },
+      { label: "Fixes and ongoing care", value: `From ${P.care}; one-off fixes quoted after audit` },
       { label: "3.x to 4.x upgrade", value: "Quoted after an extension and theme audit" },
       { label: "Rebuild or new store", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Payments", value: "UPI, cards, netbanking via Indian gateways; card and wallet abroad" },
@@ -96,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "OpenCart developer pricing: fix, upgrade, extend or rebuild",
-    note: `OpenCart work is priced by what the store needs, not by the hour. Ongoing care for an existing OpenCart store, covering updates, backups, small fixes and changes, starts at ${P.care} a month. One-off repairs and OpenCart 3 to 4 upgrades are quoted after a short audit, because the effort depends on how many extensions and theme edits the store carries. A rebuilt or brand-new store, on OpenCart or another platform, starts at ${P.shop}. Substantial custom modules such as ERP sync or B2B pricing engines start at ${P.software}. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing.`,
+    note: `OpenCart work is priced by what the store needs, not by the hour. Ongoing care for an existing OpenCart store, covering updates, backups, small fixes and changes, starts at ${P.care}. One-off repairs and OpenCart 3 to 4 upgrades are quoted after a short audit, because the effort depends on how many extensions and theme edits the store carries. A rebuilt or brand-new store, on OpenCart or another platform, starts at ${P.shop}. Substantial custom modules such as ERP sync or B2B pricing engines start at ${P.software}. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing.`,
   },
   guideLabel: "OpenCart developer guide",
   guide: [
@@ -236,7 +237,7 @@ const content: FreelanceContent = {
       heading: "OpenCart developer cost in India: what you actually pay for",
       paragraphs: [
         `OpenCart developer cost in India depends on four things: how many extensions and theme edits your store carries, whether the job is a fix, a feature, an upgrade or a rebuild, how much testing checkout needs, and whether the work is ongoing or one-off. The OpenCart core is free, so you pay for time and care.`,
-        `With BtechWaleTech, ongoing care for an existing OpenCart store starts at ${P.care} a month and covers updates, backups, small fixes and routine changes. One-off repairs and version upgrades are quoted after an audit of your extensions and theme. A rebuilt or new store starts at ${P.shop}. Large custom modules such as ERP sync or a B2B pricing engine start at ${P.software}. International clients see USD figures, for example ${P.shopUsd} for a new store.`,
+        `With BtechWaleTech, ongoing care for an existing OpenCart store starts at ${P.care} and covers updates, backups, small fixes and routine changes. One-off repairs and version upgrades are quoted after an audit of your extensions and theme. A rebuilt or new store starts at ${P.shop}. Large custom modules such as ERP sync or a B2B pricing engine start at ${P.software}. International clients see USD figures, for example ${P.shopUsd} for a new store.`,
         `Quotes from other OpenCart developers and agencies vary widely. The spread usually comes from whether staging, testing with real payments, extension replacement costs and rollback planning are included. Ours list each as a separate line so you can compare fairly.`,
       ],
     },
@@ -255,7 +256,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `OpenCart stores are usually slow for fixable reasons: too many extensions loading scripts on every page, unoptimised product images, no caching, outdated PHP and heavy themes. An OpenCart developer should measure first, then remove, compress and cache in that order.`,
         `For SEO, turn on SEO URLs so product pages have readable addresses, write unique titles and meta descriptions per product and category, add Product structured data with price and availability, generate an XML sitemap and submit it in Google Search Console, and fix duplicate content from filter and sort parameters with canonical tags. Many older stores have hundreds of near-identical product descriptions copied from suppliers; rewriting the top sellers first gives the best return.`,
-        `AI search tools read the same pages. Clear product specifications in tables, short answers to common questions on category pages and honest shipping and return details make it easier for them to describe your store correctly. Nobody can guarantee rankings. For ongoing work, our <a href='/ecommerce-seo-freelancer/'>ecommerce SEO</a> service starts at ${P.seo} a month.`,
+        `AI search tools read the same pages. Clear product specifications in tables, short answers to common questions on category pages and honest shipping and return details make it easier for them to describe your store correctly. Nobody can guarantee rankings. For ongoing work, our <a href='/ecommerce-seo-freelancer/'>ecommerce SEO</a> service starts at ${P.seo}.`,
       ],
       list: [
         "Remove or replace extensions that load on every page",
@@ -280,7 +281,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your hosting account, database, domain, OpenCart admin and gateway credentials should always be in your name. An OpenCart developer needs temporary access, not ownership. We ask for a separate admin user and an SFTP or control panel login created for us, and we ask you to remove them when the work ends.`,
         `Every job ends with a short note: what was changed, which files or extensions were added, where backups are, and anything to watch. Custom extensions come with their source code and a readme. If we worked on a staging copy, the staging site is removed or password-protected so it does not appear in search results.`,
-        `For new or rebuilt stores, the first two months after launch include free maintenance. For existing stores, ongoing care starts at ${P.care} a month if you want it; one-off fixes are billed per approved quote. Any further terms are agreed in writing, and our <a href='/refund-policy/'>refund policy</a> explains how changes are handled.`,
+        `For new or rebuilt stores, the first two months after launch include free maintenance. For existing stores, ongoing care starts at ${P.care} if you want it; one-off fixes are billed per approved quote. Any further terms are agreed in writing, and our <a href='/refund-policy/'>refund policy</a> explains how changes are handled.`,
       ],
     },
     {
@@ -324,12 +325,12 @@ const content: FreelanceContent = {
       note: `Starting prices; fixes and upgrades are quoted after an audit. See <a href='/pricing/'>all starting prices</a>.`,
       columns: ["Job", "Starts at (India)", "Starts at (abroad)", "Typical timeline", "Notes"],
       rows: [
-        ["Ongoing store care", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Monthly", "Updates, backups, small fixes and changes"],
+        ["Ongoing store care", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, small fixes and changes"],
         ["One-off fix or 3.x to 4.x upgrade", "Quoted after audit", "Quoted after audit", "Days to weeks", "Depends on extensions and theme edits"],
         ["Rebuilt or new store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "OpenCart or another platform"],
         ["Large custom module", `From ${P.software}`, `From ${P.softwareUsd}`, "3–8 weeks", "ERP sync, B2B pricing, custom reports"],
         ["WhatsApp order automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Confirmations, dispatch updates, cart nudges"],
-        ["Ecommerce SEO", `From ${P.seo}/month`, `From ${P.seoUsd}/month`, "Monthly", "Product pages, schema, content, reporting"],
+        ["Ecommerce SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Product pages, schema, content, reporting"],
       ],
     },
     {
@@ -400,7 +401,7 @@ const content: FreelanceContent = {
   faqHeading: "OpenCart developer: questions store owners ask",
   faqs: [
     { question: "What does an OpenCart developer do?", answer: "An OpenCart developer maintains and improves stores built on OpenCart. The work includes fixing errors such as blank pages and failed checkouts, writing custom extensions and modules, customising themes, integrating payment gateways, setting up tax and shipping rules, speeding up slow pages, upgrading between versions such as OpenCart 3 to 4, and moving stores to other platforms when that makes more sense." },
-    { question: "How much does an OpenCart developer cost in India?", answer: `With BtechWaleTech, ongoing care for an existing OpenCart store starts at ${P.care} a month, a rebuilt or new store starts at ${P.shop}, and large custom modules start at ${P.software}. One-off fixes and upgrades are quoted after an audit because the effort depends on your extensions and theme. Every quote is itemised and nothing is billed before your written approval.` },
+    { question: "How much does an OpenCart developer cost in India?", answer: `With BtechWaleTech, ongoing care for an existing OpenCart store starts at ${P.care}, a rebuilt or new store starts at ${P.shop}, and large custom modules start at ${P.software}. One-off fixes and upgrades are quoted after an audit because the effort depends on your extensions and theme. Every quote is itemised and nothing is billed before your written approval.` },
     { question: "Should I upgrade from OpenCart 3 to OpenCart 4?", answer: "Upgrade if your host is retiring older PHP versions, you need extensions that only exist for 4.x, or you are redesigning anyway. OpenCart 4 requires PHP 8.0 or higher. Most 3.x extensions and themes need 4.x versions, replacements or rewrites, so start with an audit. If most extensions are abandoned, compare the upgrade cost with moving platform." },
     { question: "How long does an OpenCart 3 to 4 upgrade take?", answer: "It depends on the number of extensions and theme customisations. A store with a maintained theme and a handful of extensions that already have 4.x versions can be done in about one to two weeks including testing. Stores with custom modules to rewrite and an abandoned theme can take several weeks. The audit gives you a realistic timeline before you commit." },
     { question: "Why is my OpenCart store showing a blank page?", answer: "The most common cause is a PHP version change on your hosting, which breaks older extension or theme code. Other causes include a conflicting new extension, a stale modification cache or a full disk. The error log usually names the failing file. We reproduce the problem on a copy, fix it, then apply the fix to the live store." },
@@ -416,7 +417,7 @@ const content: FreelanceContent = {
     { question: "Should I hire a freelance OpenCart developer or an agency?", answer: "For fixes, extensions, upgrades and ongoing care, a small freelance team is usually the better fit: you talk directly to the developers, costs stay lower and the same people learn your store. An agency fits projects needing many specialists at once. Our three developers cover PHP, hosting, SEO and project management, with backup cover if one is unavailable." },
     { question: "Is it safe to give an OpenCart developer access to my store?", answer: "It is safe when access is limited and temporary. Create a separate admin user and an SFTP or hosting login just for the developer, rather than sharing your own passwords, and remove them when the job ends. Insist on a full backup before changes and on work being done on a staging copy. Those habits protect you from any developer's mistakes." },
     { question: "Who owns the code for custom OpenCart extensions?", answer: "You receive the full source code of any custom extension we build for your store, along with a short readme. OpenCart itself is licensed under the GNU GPL version 3, and your hosting, database, domain and admin accounts remain in your name throughout. Specific terms for any project are confirmed in your written quote." },
-    { question: "Do you offer monthly maintenance for OpenCart stores?", answer: `Yes. Ongoing care starts at ${P.care} a month and covers backups, tested updates, small fixes and routine changes such as banners and product edits. New or rebuilt stores get two months of free maintenance after launch first. For existing stores, you can also book one-off fixes without a monthly plan.` },
+    { question: "Do you offer monthly maintenance for OpenCart stores?", answer: `Yes. Ongoing care starts at ${P.care} and covers backups, tested updates, small fixes and routine changes such as banners and product edits. New or rebuilt stores get two months of free maintenance after launch first. For existing stores, you can also book one-off fixes without a monthly plan.` },
     { question: "How do I pay for OpenCart work?", answer: "In India, pay by UPI or bank transfer; international clients pay by Wise, bank wire or PayPal, with quotes in USD. The itemised quote lists what each payment covers, and nothing is billed until you approve it in writing. Our terms and refund policy pages explain how scope changes are handled during a job." },
     { question: "Can you connect my OpenCart store to WhatsApp?", answer: `Yes. We can send order confirmations, dispatch updates with tracking links and abandoned-cart reminders on WhatsApp through the WhatsApp Business Platform, and add a WhatsApp enquiry button for bulk or custom orders. WhatsApp automation starts at ${P.ai}, and the messages are set up with templates you approve.` },
     { question: "OpenCart store theek karwana hai, kaise shuru karein?", answer: "WhatsApp par apna OpenCart version, PHP version, installed extensions ki list aur problem ka screenshot bhejiye. Hum error log dekh kar lagbhag 2 working days mein itemised quote bhejenge, jisme urgent fix aur upgrade alag-alag likhe honge. Kaam hamesha backup lekar staging copy par hota hai, live store par seedha nahi." },
@@ -441,7 +442,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need an OpenCart developer? Send us your store details",
-    note: `Message us on WhatsApp with your OpenCart version, PHP version, extension list and what needs doing. You will get an itemised quote in about two working days, with urgent fixes separated from bigger work. Store care starts at ${P.care} a month.`,
+    note: `Message us on WhatsApp with your OpenCart version, PHP version, extension list and what needs doing. You will get an itemised quote in about two working days, with urgent fixes separated from bigger work. Store care starts at ${P.care}.`,
   },
 };
 

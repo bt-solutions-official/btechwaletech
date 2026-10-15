@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.1765, lng: 75.7885 },
   meta: {
-    title: "Freelance Software Developers in Ujjain, MP",
+    title: "Ujjain Software Developers: Hotel & Puja Booking Systems",
     description:
-      "Freelance software developers for Ujjain: hotel and puja booking systems, Simhastha-ready apps, AI agents, factory software and dashboards. Mobile apps from ₹40,000.",
+      "Freelance software developers for Ujjain: hotel and puja booking systems, Simhastha-ready apps, plus AI agents. Software from ₹60,000, quote in two days.",
     keywords: [
       "software development team in Ujjain",
       "IT services team in Ujjain",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "mobile app developers Ujjain",
       "iOS app development Ujjain",
       "iPhone app developers Ujjain",
+      "Ujjain website designer",
+      "website cost in Ujjain",
+      "IT company in Ujjain",
+      "Madhya Pradesh SEO services",
+      "hire developer Ujjain",
+      "hotels software in Ujjain",
+      "dharamshalas software in Ujjain",
     ],
   },
   hero: {

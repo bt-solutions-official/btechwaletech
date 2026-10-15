@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Pump Manufacturer Website in Rajkot from ${P.site}`,
-    description: `Pump manufacturer website in Rajkot with model-wise specs, performance tables, catalogue downloads and a dealer locator. Pump sites from ${P.site}; quote in 2 days.`,
+    description: `Pump manufacturer website in Rajkot with model-wise specs, performance tables, catalogue downloads and a dealer locator. Pump sites from ${P.site}, 2-day quote.`,
     keywords: [
       "pump manufacturer website in Rajkot", "pump manufacturer website Rajkot", "submersible pump manufacturer website", "monoblock pump company website Rajkot",
       "pump website design Gujarat", "pump catalogue website", "pump dealer locator website", "pump manufacturer website Rajkot Gujarat",
@@ -372,6 +372,7 @@ const content: FreelanceContent = {
     heading: "Related Rajkot and manufacturing pages",
     links: [
       { name: "Gujarat website development hub", href: "/gujarat/" },
+      { name: "Solar company website in Gujarat", href: "/gujarat/solar-company-website-gujarat/" },
       { name: "Engineering company website in Rajkot", href: "/gujarat/engineering-company-website-rajkot/" },
       { name: "Freelance web developer in Rajkot", href: "/gujarat/freelance-web-developer-rajkot/" },
       { name: "Web developer near me in Rajkot", href: "/gujarat/web-developer-near-me-rajkot/" },

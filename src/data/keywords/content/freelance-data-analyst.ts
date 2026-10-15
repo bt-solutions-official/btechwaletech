@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Freelance data analyst",
   updated: "2026-09-24",
   meta: {
-    title: "Freelance Data Analyst: Excel, SQL & Python Reports",
-    description: `Hire a freelance data analyst for Excel clean-up, SQL queries, Python analysis and automated reports. Report automation from ${P.ai}. Scoped from your sample data.`,
+    title: `Freelance Data Analyst: Reports from ${P.ai}`,
+    description: `Hire a freelance data analyst for Excel clean-up, SQL queries, Python analysis and automated reports. Report automation from ${P.ai}. Scoped from your data.`,
     keywords: [
       "freelance data analyst", "freelance data analyst in India", "freelance data analyst near me", "freelance data analyst for hire",
       "freelance data analyst cost", "freelance data analyst price", "best freelance data analyst", "data analyst chahiye",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "SQL analyst freelance", "Python data analysis freelancer", "sales report automation", "data cleaning services",
       "MIS report freelancer", "Google Sheets expert", "freelance business analyst reports", "data analysis for startups",
       "GST sales data analysis", "remote data analyst India",
+      "hire freelance data analyst",
     ],
   },
   hero: {

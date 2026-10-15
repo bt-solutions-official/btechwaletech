@@ -7,7 +7,7 @@ const talcher: CityContent = {
   meta: {
     title: "IT Services in Talcher: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, Odia local SEO and WhatsApp automation for Talcher coal contractors, plant vendors, transporters, clinics, schools and shops.",
+      "Websites, apps, Odia local SEO and WhatsApp automation for Talcher coal contractors, plant vendors, transporters, clinics, schools and shops. From ₹10,000.",
     keywords: [
       "IT services in Talcher",
       "IT services team in Talcher",
@@ -29,6 +29,12 @@ const talcher: CityContent = {
       "Talcher me website banwana",
       "Talcher re website banaiba",
       "ତାଳଚେର ୱେବସାଇଟ ଡିଜାଇନ",
+      "Talcher website designer",
+      "web development company Talcher",
+      "hire freelance web developer Talcher",
+      "Angul district SEO",
+      "website designer Angul district",
+      "Odisha SEO services",
     ],
   },
   hero: {

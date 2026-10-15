@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "PostgreSQL consultant",
   updated: "2026-09-25",
   meta: {
-    title: `PostgreSQL Consultant: Tuning, Backups, Migrations`,
+    title: `PostgreSQL Consultant: Tuning, Backups, Cost (2026)`,
     description: `Hire a PostgreSQL consultant to tune slow queries with EXPLAIN, fix indexes, set up replication and backups, or migrate from MySQL. Care from ${P.care}.`,
     keywords: [
       "postgresql consultant", "postgres consultant", "postgresql consultant India", "postgresql expert",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "postgresql upgrade", "postgresql dba freelance", "hire postgresql developer", "postgresql consultant cost",
       "postgresql consulting services", "when to hire a postgresql consultant", "postgresql health check", "postgres consultant near me",
       "postgresql expert chahiye", "postgresql consultant Bangalore",
+      "hire PostgreSQL consultant", "freelance PostgreSQL consultant", "PostgreSQL consultant near me", "best PostgreSQL consultant in India",
+      "PostgreSQL consultant price", "PostgreSQL consultant charges",
     ],
   },
   hero: {

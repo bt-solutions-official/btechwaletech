@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "amc management software cost", "how to manage AMC contracts", "AMC software vs Excel", "custom AMC software development",
       "service contract management software", "complaint management software for service company", "AMC software near me", "AMC ka software",
       "AMC management software Mumbai", "AMC management software Delhi", "AMC management software Ahmedabad", "preventive maintenance scheduling software",
+      "best amc management software in India",
     ],
   },
   hero: {
@@ -348,7 +349,7 @@ const content: FreelanceContent = {
         ["Technician Android app", "Visits, checklists, photos, signatures, offline sync", `${P.app} · ${P.appUsd}`, "6–10 weeks"],
         ["Renewal and reminder automation", "WhatsApp templates, payment links, lapsed follow-ups", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
         ["AMC plan website", "Plan pages, starting prices, lead form into the system", `${P.site} · ${P.siteUsd}`, "1–2 weeks"],
-        ["Local search growth", "Google Business Profile, reviews, service pages", `${P.seo} · ${P.seoUsd} a month`, "Ongoing"],
+        ["Local search growth", "Google Business Profile, reviews, service pages", `${P.seo} · ${P.seoUsd}`, "Ongoing"],
         ["Support after launch", "Fixes and updates after the free period", `${P.care} · ${P.careUsd}`, "After 2 free months"],
       ],
       hideSm: [1],

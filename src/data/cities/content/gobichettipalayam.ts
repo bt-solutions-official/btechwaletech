@@ -7,7 +7,7 @@ const gobichettipalayam: CityContent = {
   meta: {
     title: "IT Services in Gobichettipalayam | Web, Apps & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Gobichettipalayam spinning mills, banana and turmeric traders, silk farmers and shops.",
+      "Gobichettipalayam Tamil websites, apps, local SEO and WhatsApp bots for spinning mills, banana and turmeric traders and silk farmers. Sites from ₹10,000.",
     keywords: [
       "IT services in Gobichettipalayam",
       "IT services team in Gobichettipalayam",
@@ -29,6 +29,10 @@ const gobichettipalayam: CityContent = {
       "Gobichettipalayam me website banwana",
       "Gobi-la website seyya",
       "கோபிசெட்டிபாளையம் வெப்சைட் டிசைன்",
+      "Gobichettipalayam website designer",
+      "web development company Gobichettipalayam",
+      "hire freelance developer Gobichettipalayam",
+      "Tamil Nadu SEO",
     ],
   },
   hero: {

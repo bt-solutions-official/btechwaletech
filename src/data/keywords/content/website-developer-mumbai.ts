@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Lower Parel", "website developer BKC", "website developer Bombay", "website developer Thane Navi Mumbai",
       "Mumbai website banane wala", "Mumbai me website kaise banwaye", "website banwana hai Mumbai", "best website developer in Mumbai",
       "freelance website developer Mumbai", "website developer for doctors Mumbai",
+      "website developer in Mumbai cost", "website developer in Mumbai price", "hire website developer in Mumbai", "freelance website developer in Mumbai",
+      "website developer in Mumbai charges",
     ],
   },
   hero: {

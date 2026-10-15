@@ -7,7 +7,7 @@ const cherthala: CityContent = {
   meta: {
     title: "IT Services in Cherthala | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Cherthala coir exporters, seafood units, Arthunkal stays, colleges and NH 66 shops.",
+      "Cherthala websites, Android and iOS apps, local SEO and WhatsApp automation for coir exporters, seafood units, Arthunkal stays, colleges and NH 66 shops.",
     keywords: [
       "IT services in Cherthala",
       "IT services team in Cherthala",
@@ -30,6 +30,9 @@ const cherthala: CityContent = {
       "Cherthala me website banwana",
       "Cherthalayil website undakkan",
       "ചേർത്തല വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Cherthala website designer",
+      "web development company Cherthala",
+      "hire freelance developer Cherthala",
     ],
   },
   hero: {

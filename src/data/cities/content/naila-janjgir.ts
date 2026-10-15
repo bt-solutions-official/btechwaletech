@@ -7,7 +7,7 @@ const nailaJanjgir: CityContent = {
   meta: {
     title: "IT Services in Naila Janjgir | Web, Apps, SEO & AI",
     description:
-      "Hindi-first websites, Android and iOS apps, local SEO and WhatsApp automation for Naila Janjgir rice mills, kosa weavers, plant suppliers, clinics and advocates.",
+      "Hindi-first websites, apps, SEO and WhatsApp tools for Naila Janjgir rice mills, kosa weavers, plant suppliers, clinics and advocates. Sites from ₹10,000.",
     keywords: [
       "IT services in Naila Janjgir",
       "IT services team in Janjgir",
@@ -29,6 +29,12 @@ const nailaJanjgir: CityContent = {
       "Janjgir me website banwana",
       "Janjgir me app banwana",
       "जांजगीर वेबसाइट डिज़ाइन",
+      "Naila Janjgir website designer",
+      "website cost in Naila Janjgir",
+      "web development company Naila Janjgir",
+      "hire freelance web developer Naila Janjgir",
+      "Janjgir-Champa district SEO",
+      "website designer Janjgir-Champa district",
     ],
   },
   hero: {

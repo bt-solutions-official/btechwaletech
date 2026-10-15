@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.8467, lng: 80.9462 },
   meta: {
-    title: "IT Consulting in Lucknow: Freelance IT Solutions Team",
+    title: "Lucknow IT Consulting: Govt Tenders & Pharma Trade",
     description:
-      "IT consulting and digital transformation in Lucknow by a freelance team of three engineers: software, Android and iOS apps, AI automation, cloud, dashboards and SEO.",
+      "IT consulting in Lucknow by a freelance team of three engineers: software, Android and iOS apps, AI automation, plus cloud. From ₹10,000, quote in two days.",
     keywords: [
       "IT solutions team in Lucknow",
       "IT consulting Lucknow",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "SEO and AI search Lucknow",
       "लखनऊ में आईटी कंसल्टिंग",
       "लखनऊ सॉफ्टवेयर सॉल्यूशंस",
+      "Lucknow website designer",
+      "website cost in Lucknow",
+      "IT company in Lucknow",
+      "Uttar Pradesh SEO services",
+      "hire developer Lucknow",
+      "government software in Lucknow",
+      "pharmacies software in Lucknow",
+      "diagnostic labs software in Lucknow",
+      "chikankari software in Lucknow",
     ],
   },
   hero: {

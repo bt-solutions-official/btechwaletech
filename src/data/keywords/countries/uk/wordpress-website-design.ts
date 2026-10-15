@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `WordPress Website Design UK: Lean Builds from ${P.site}`,
-    description: `WordPress website design UK: custom block themes, fast hosting, ICO-aligned cookies and every login in your name. Sites from ${P.site}, plus how to judge a quote.`,
+    description: `WordPress website design UK: custom block themes, fast hosting, ICO-aligned cookies and every login in your name. Sites from ${P.site}, with itemised quotes.`,
     keywords: [
       "wordpress website design uk", "wordpress website design", "wordpress web design uk", "wordpress designer uk", "wordpress developer uk",
       "custom wordpress website uk", "wordpress website cost uk", "how much does a wordpress website cost uk", "wordpress block theme developer",

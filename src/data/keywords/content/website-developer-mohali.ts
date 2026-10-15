@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Developer in Mohali, Websites from ${P.site}`,
-    description: `Website developer in Mohali for startups, hospitals, colleges and builders: business sites from ${P.site}, product sites and portals, built remotely. Quote in 2 days.`,
+    description: `Website developer in Mohali for startups, hospitals, colleges and builders: business sites from ${P.site}, product sites and portals. Quote in 2 days.`,
     keywords: [
       "website developer in Mohali", "website developer Mohali", "web developer in Mohali", "website developer near me Mohali",
       "website development Mohali", "website development services Mohali", "freelance website developer Mohali", "website designer Mohali",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "hospital website Mohali", "real estate website developer Mohali", "college website Mohali", "immigration consultant website Mohali",
       "website developer Kharar", "website developer Zirakpur", "website developer Landran", "website developer Aerocity Mohali",
       "Mohali mein website banwani hai", "website developer tricity Mohali",
+      "website developer in Mohali cost", "website developer in Mohali price", "hire website developer in Mohali", "freelance website developer in Mohali",
+      "website developer in Mohali charges",
     ],
   },
   hero: {

@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 17.8495, lng: 79.1151 },
   meta: {
-    title: "Freelance IT Services in Telangana | Software & AI",
+    title: "Telangana IT Services: Software & AI",
     description:
-      "Freelance IT services across Telangana: custom software, AI automation, apps, dashboards, SEO and ecommerce for Hyderabad and district towns. Sites from ₹10,000.",
+      "Freelance IT services across Telangana: custom software, AI automation, apps and dashboards. From ₹10,000, with two months of free upkeep after launch.",
     keywords: [
       "IT services in Telangana",
       "Android app development Telangana",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "IT support near me Telangana",
       "website maintenance Telangana",
       "తెలంగాణ సాఫ్ట్‌వేర్ డెవలపర్లు",
+      "Telangana website designer",
+      "website cost in Telangana",
+      "IT company in Telangana",
+      "Telangana SEO services",
+      "hire developer Telangana",
+      "pharma software in Telangana",
+      "agri software in Telangana",
     ],
   },
   hero: {

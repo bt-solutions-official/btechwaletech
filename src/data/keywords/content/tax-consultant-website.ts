@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Tax consultant website",
   updated: "2026-09-25",
   meta: {
-    title: "Tax Consultant Website: Get ITR & GST Clients Online",
+    title: `Tax Consultant Website: ITR & GST Clients, ${P.site}+`,
     description: `Tax consultant website that brings ITR and GST clients: service-plus-price pages, document upload, deadline reminders, WhatsApp enquiries. From ${P.site}.`,
     keywords: [
       "tax consultant website", "tax consultant website design", "website for tax consultant", "GST practitioner website",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "ITR filing near me website", "GST return filing near me", "tax consultant WhatsApp enquiry", "document upload portal for tax consultant",
       "tax consultant website Surat", "tax consultant website Ludhiana", "tax consultant website Indore", "tax consultant ki website",
       "GST practitioner digital marketing", "income tax return service website",
+      "tax consultant website company", "best tax consultant website in India", "tax consultant website cost in India", "tax consultant website near me",
     ],
   },
   hero: {
@@ -59,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Locality and service pages at scale", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Client login and document upload", value: `From ${P.software}` },
       { label: "Deadline reminders on WhatsApp", value: `From ${P.ai}` },
-      { label: "Ongoing local SEO", value: `From ${P.seo} a month` },
+      { label: "Ongoing local SEO", value: `From ${P.seo}` },
       { label: "Payments to us", value: "UPI or bank transfer, after written approval" },
     ],
   },
@@ -278,7 +279,7 @@ const content: FreelanceContent = {
       heading: "Handover, ownership and aftercare for your practice site",
       paragraphs: [
         `Everything is registered to you: domain, hosting, storage for client documents, WhatsApp Business account and code repository. We work as users you can remove at any time.`,
-        `At launch you get admin logins, a list of renewals, a short guide to changing fees and dates yourself, and notes on where uploads are stored and how backups work. The first two months of maintenance are free, which conveniently covers the first filing season: updating fees, adding a service page, fixing anything that breaks. After that, care continues from ${P.care} a month if you want it, or you can manage it yourselves.`,
+        `At launch you get admin logins, a list of renewals, a short guide to changing fees and dates yourself, and notes on where uploads are stored and how backups work. The first two months of maintenance are free, which conveniently covers the first filing season: updating fees, adding a service page, fixing anything that breaks. After that, care continues from ${P.care} if you want it, or you can manage it yourselves.`,
         `Ownership matters more for a tax practice than for most small businesses, because the website ends up holding years of client relationships: the reminder list, the enquiry log and, if you add the portal, uploaded documents. If a designer holds the hosting login, all of that is effectively theirs. We avoid the problem by never paying for your accounts on your behalf; renewals are charged to your card by the provider, and we only ever have user access you granted.`,
         `Before we step back, we run a short handover call with whoever in your office will manage the site. We walk through changing a fee, adding a deadline to the date table, removing a staff login and restoring a file from backup. It takes about half an hour, and it means your office is never stuck waiting for a developer during the week before 31 July.`,
       ],

@@ -7,7 +7,7 @@ const ramgarh: CityContent = {
   meta: {
     title: "Ramgarh Jharkhand Websites & SEO from ₹10,000",
     description:
-      "Websites, Hindi local SEO, contractor and plant-supplier software and WhatsApp automation for Ramgarh Cantt businesses, coal belt vendors and schools. From ₹10,000.",
+      "Ramgarh Cantt websites, Hindi SEO and contractor software for coal belt vendors, plant fabricators, transporters, lodges and hardware shops. From ₹10,000.",
     keywords: [
       "website development team in Ramgarh",
       "website designer Ramgarh Jharkhand",
@@ -24,6 +24,17 @@ const ramgarh: CityContent = {
       "Ramgarh me website banwana hai",
       "रामगढ़ वेबसाइट डिज़ाइन",
       "school website Ramgarh Cantt",
+      "Ramgarh Cantt website designer",
+      "website cost in Ramgarh Cantt",
+      "web development company Ramgarh Cantt",
+      "hire freelance web developer Ramgarh Cantt",
+      "Ramgarh district SEO",
+      "website designer Ramgarh district",
+      "Jharkhand SEO services",
+      "Ramgarh Cantt me website kaise banwaye",
+      "Ramgarh Cantt website banwane ka kharcha",
+      "Ramgarh Cantt mining contractors website",
+      "mining contractors website design Ramgarh Cantt",
     ],
   },
   hero: {

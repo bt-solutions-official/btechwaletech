@@ -7,7 +7,7 @@ const panaji: CityContent = {
   meta: {
     title: "IT Services in Panaji: Websites, Apps, SEO & AI",
     description:
-      "Websites, Konkani and English local SEO, booking pages and WhatsApp automation for Panaji guesthouses, restaurants, property firms and Patto offices. From ₹10,000.",
+      "Websites, bookings and WhatsApp tools for Panaji guesthouses, restaurants, property firms and Patto offices. From ₹10,000, 2 months free upkeep.",
     keywords: [
       "website development team in Panaji",
       "web designer Panjim",
@@ -25,6 +25,16 @@ const panaji: CityContent = {
       "website maintenance Goa",
       "Konkani website Goa",
       "Fontainhas homestay website",
+      "Panaji website designer",
+      "web development company Panaji",
+      "hire freelance web developer Panaji",
+      "North Goa SEO services",
+      "website designer North Goa",
+      "Goa SEO services",
+      "Panaji me website kaise banwaye",
+      "Panaji website banwane ka kharcha",
+      "website design Fontainhas Panaji",
+      "website design Altinho Panaji",
     ],
   },
   hero: {

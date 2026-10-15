@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "SEO for schools",
   updated: "2026-09-25",
   meta: {
-    title: `SEO for Schools: More Admission Enquiries`,
+    title: `SEO for Schools: Admission Enquiries from ${P.seo}`,
     description: `SEO for schools that want more admission enquiries: admission and fee pages, CBSE/ICSE board pages, Google Business Profile, reviews. From ${P.seo}.`,
     keywords: [
       "seo for schools", "school seo", "seo for school website", "school seo services India", "seo for cbse school",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "nursery admission seo", "school marketing seo", "seo for international schools", "seo for play school", "school seo cost",
       "seo for schools price", "school ranking on google", "school reviews google", "seo for schools in Delhi", "seo for schools in Pune",
       "seo for schools in Bengaluru", "school ki website google par kaise laye", "local seo for schools", "seo for boarding schools",
+      "SEO for schools cost", "SEO for schools services", "SEO for schools packages", "best SEO for schools in India",
+      "SEO for schools agency",
     ],
   },
   hero: {
@@ -95,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What SEO for schools costs",
-    note: `Ongoing SEO for schools starts at ${P.seo} a month. The quote depends on how many campuses and boards you have, whether you need new admission and fee pages written or only optimised, and how many locality or transport pages make sense. If the current website is a single page or a template that cannot hold board and admission pages, a new static school website of up to 100 pages starts at ${P.site}, and larger SEO sites start at ${P.seoSite}. Every quote is itemised, arrives in about two working days and is billed only after your written approval.`,
+    note: `Ongoing SEO for schools starts at ${P.seo}. The quote depends on how many campuses and boards you have, whether you need new admission and fee pages written or only optimised, and how many locality or transport pages make sense. If the current website is a single page or a template that cannot hold board and admission pages, a new static school website of up to 100 pages starts at ${P.site}, and larger SEO sites start at ${P.seoSite}. Every quote is itemised, arrives in about two working days and is billed only after your written approval.`,
   },
   guideLabel: "School SEO guide",
   guide: [
@@ -252,7 +254,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does SEO for schools cost in India?",
       paragraphs: [
-        `Our SEO for schools starts at ${P.seo} a month, and the quote depends on campuses, boards, the number of new pages and how much content the school supplies. A single-campus school with a workable website needs less than a group with five branches and a site that has to be rebuilt.`,
+        `Our SEO for schools starts at ${P.seo}, and the quote depends on campuses, boards, the number of new pages and how much content the school supplies. A single-campus school with a workable website needs less than a group with five branches and a site that has to be rebuilt.`,
         `Across the market, quotes vary widely, and the price difference usually reflects scope rather than quality: whether the provider writes pages or only edits them, whether Business Profile management is included, how many locality pages are planned, and whether developer time is available to fix technical problems. Ask any provider to list exactly what the monthly fee covers.`,
         `One-time build costs are separate. A static school website of up to 100 pages starts at ${P.site} (${P.siteUsd}), which covers most single-campus schools. Groups needing many branch and locality pages may need an SEO website from ${P.seoSite}. A parent app for notices and fee reminders starts at ${P.app}, and a WhatsApp admission assistant that answers common questions starts at ${P.ai}.`,
       ],
@@ -386,7 +388,7 @@ const content: FreelanceContent = {
   faqs: [
     { question: "What is SEO for schools?", answer: "SEO for schools is the work of getting a school's website and Google Business Profile to appear when parents search for schools, boards, fees and admissions nearby, and making those pages clear enough that parents enquire. It covers admission and fee pages, board pages, Maps listings, reviews, local pages, technical fixes and enquiry tracking." },
     { question: "How can a school get more admission enquiries from Google?", answer: "Publish a permanent admission page with current dates, age criteria and documents, a readable fee page, a page for each board you offer and an accurate Business Profile with real photos. Ask all parents for reviews without incentives, and track enquiries by page. Start three to six months before your admission window." },
-    { question: "How much does SEO for schools cost?", answer: `At BtechWaleTech, SEO for schools starts at ${P.seo} a month, depending on campuses, boards and the number of pages needed. A new static school website of up to 100 pages starts at ${P.site} if the current site cannot hold admission and board pages. Quotes are itemised and nothing is billed before written approval.` },
+    { question: "How much does SEO for schools cost?", answer: `At BtechWaleTech, SEO for schools starts at ${P.seo}, depending on campuses, boards and the number of pages needed. A new static school website of up to 100 pages starts at ${P.site} if the current site cannot hold admission and board pages. Quotes are itemised and nothing is billed before written approval.` },
     { question: "When should a school start SEO for admissions?", answer: "Ideally three to six months before admissions open. New pages need time to be crawled, indexed and trusted, so pages published in the week forms go live often rank properly only after the season. Starting early also leaves time to collect reviews and fix technical issues." },
     { question: "Should schools show their fees on the website?", answer: "Usually yes. Parents search for fees often, and a clear fee page helps the school rank, filters out families for whom the fees do not fit and prepares serious families before they call. CBSE-affiliated schools already include fee structure in their mandatory disclosure, so presenting it clearly mostly improves readability." },
     { question: "Do CBSE schools need to publish information on their website?", answer: "Yes. CBSE requires affiliated schools to maintain a website and upload a Mandatory Public Disclosure in the prescribed Appendix IX format, covering details such as affiliation, infrastructure, fees and staff. We build that page so it is crawlable and easy to read, but the school is responsible for its content." },

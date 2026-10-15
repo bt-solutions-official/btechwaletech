@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `AI Voice Agent Cost in India: Builds from ${P.ai}`,
-    description: `AI voice agent cost in India explained: per-minute parts, monthly bills, setup fees, regional-language premiums and telecaller ROI. Custom builds from ${P.ai}.`,
+    description: `AI voice agent cost in India explained: per-minute parts, monthly bills, setup fees, regional-language premiums and telecaller ROI. Builds from ${P.ai}.`,
     keywords: [
       "ai voice agent cost in india", "ai voice agent price in India", "ai voice agent cost per minute", "ai calling agent cost India",
       "voice ai cost per minute India", "ai voice bot price India", "ai voice agent monthly cost", "ai voice agent setup fee",
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "AI voice agent pricing from BtechWaleTech",
-    note: `A custom AI voice agent sits under our AI automation plan, starting at ${P.ai}. The build quote rises with the number of call flows (inbound, outbound, reminders), languages, integrations such as CRM or calendar, and how much testing each language needs. Usage is never bundled into our price: telephony, speech-to-text, language model and text-to-speech providers bill your own accounts at their published rates, so your AI voice agent cost in India stays visible line by line. If you also need a CRM, custom software starts at ${P.software}. Maintenance is free for 2 months after launch, then from ${P.care} a month.`,
+    note: `A custom AI voice agent sits under our AI automation plan, starting at ${P.ai}. The build quote rises with the number of call flows (inbound, outbound, reminders), languages, integrations such as CRM or calendar, and how much testing each language needs. Usage is never bundled into our price: telephony, speech-to-text, language model and text-to-speech providers bill your own accounts at their published rates, so your AI voice agent cost in India stays visible line by line. If you also need a CRM, custom software starts at ${P.software}. Maintenance is free for 2 months after launch, then from ${P.care}.`,
   },
   guideLabel: "AI voice agent cost guide",
   guide: [
@@ -329,7 +329,7 @@ const content: FreelanceContent = {
         ["Custom outbound reminders", "Confirmation and reminder calls with retries", `From ${P.ai}`, "No-shows or lapses cost money"],
         ["Inbound plus outbound", "Both flows sharing one knowledge base", `From ${P.ai}, quoted by flows`, "Steady volume on both sides"],
         ["Voice plus custom CRM", "Agent and a lead or booking system built together", `From ${P.software} for the software`, "No usable CRM today"],
-        ["Ongoing tuning", "Script changes, new flows, reviews after free period", `From ${P.care} a month`, "Calls and offers change often"],
+        ["Ongoing tuning", "Script changes, new flows, reviews after free period", `From ${P.care}`, "Calls and offers change often"],
       ],
     },
     {

@@ -7,7 +7,7 @@ const chatra: CityContent = {
   meta: {
     title: "IT Services in Chatra | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Chatra coal-belt contractors, traders, lac sellers, schools and clinics.",
+      "Chatra Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for coal-belt contractors, traders, lac sellers, schools and clinics.",
     keywords: [
       "IT services in Chatra",
       "IT services team in Chatra",
@@ -29,6 +29,10 @@ const chatra: CityContent = {
       "Chatra me website banwana",
       "Chatra me app banwana",
       "चतरा वेबसाइट डिजाइन",
+      "Chatra website designer",
+      "web development company Chatra",
+      "hire freelance developer Chatra",
+      "Jharkhand SEO",
     ],
   },
   hero: {

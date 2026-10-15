@@ -47,7 +47,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "What makes cleaning company website design bring in bookings?",
     text: `Cleaning company website design brings in bookings when visitors can get a price without calling: an instant quote by bedrooms, bathrooms and frequency, a booking calendar, a card saved for recurring visits with an easy cancel option, a checklist of what each clean includes, pages for every area you serve, and proof you are insured. BtechWaleTech builds this from ${P.site}, or ${P.seoSite} for large area builds.`,
-    more: `If you also run pest control or lawn crews, compare our <a href='/usa/pest-control-website-design/'>pest control website design</a> page; for ranking work after launch, see <a href='/usa/local-seo-services/'>local SEO services</a>.`,
+    more: `If you also run lawn or pest crews, compare our <a href='/usa/landscaping-website-design/'>landscaping website design</a> page; for ranking work after launch, see <a href='/usa/local-seo-services/'>local SEO services</a>.`,
   },
   snapshot: {
     caption: "A cleaning business website that fills the schedule, at a glance",
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Trust signals", value: "Insurance and bonding details you hold, background-check policy, real team photos, Google reviews" },
       { label: "Commercial path", value: "Walk-through request form for offices, clinics and property managers" },
       { label: "Starting price", value: `From ${P.site}; service-area builds from ${P.seoSite}; monthly SEO from ${P.seo}` },
-      { label: "After launch", value: `2 months of free maintenance, then care from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free maintenance, then care from ${P.care}` },
     ],
   },
   services: {
@@ -357,7 +357,7 @@ const content: FreelanceContent = {
         ["Online shop for supplies or gift cards", "Product catalog, card and wallet checkout", `From ${P.shop}`, "4–8 weeks"],
         ["Custom customer portal", "Recurring billing logic, account area, crew notes", `From ${P.software}`, "6–12 weeks"],
         ["AI chat and text follow-up", "After-hours answers, quote follow-ups, review requests", `From ${P.ai}`, "2–4 weeks"],
-        ["Monthly SEO", "Area content, profile updates, reporting", `From ${P.seo}/month`, "Ongoing"],
+        ["Monthly SEO", "Area content, profile updates, reporting", `From ${P.seo}`, "Ongoing"],
       ],
     },
   ],
@@ -414,17 +414,17 @@ const content: FreelanceContent = {
     { question: "Who owns my cleaning company website and customer list?", answer: "You do. The domain is in your business name, hosting is on your account, the code and content belong to you, and customer data lives in tools you control. Saved cards stay with your card processor under your merchant account. If you change developers later, you keep everything and hand over the logins." },
     { question: "Does my cleaning website need to be ADA accessible?", answer: "The Department of Justice says the ADA applies to businesses open to the public, including what they offer online, and points to WCAG as helpful guidance. We build readable contrast, labeled form fields, keyboard-friendly booking steps and alt text on photos. For advice on your own legal obligations, ask your attorney." },
     { question: "Can you add an AI chatbot to my cleaning website?", answer: `Yes. A chatbot trained on your services, prices, checklists and policies can answer common questions after hours and pass booking-ready visitors to your quote tool or to you by text. AI automation starts from ${P.ai}. It is optional; a clear site with a good calculator already answers most questions.` },
-    { question: "What does cleaning website maintenance cost after launch?", answer: `The first two months after launch include free maintenance: updates, backups, security checks and small edits. After that, care starts from ${P.care} a month. Changing your own prices, blocking dates and editing text are things your office can do without us, and we show you how at handover.` },
+    { question: "What does cleaning website maintenance cost after launch?", answer: `The first two months after launch include free maintenance: updates, backups, security checks and small edits. After that, care starts from ${P.care}. Changing your own prices, blocking dates and editing text are things your office can do without us, and we show you how at handover.` },
     { question: "Can my cleaning website be in English and Spanish?", answer: "Yes. We build a language switch with separate pages for each language, which helps both customer bookings and cleaner recruitment in many US markets. We write in English, so you or your translator supply or approve the Spanish copy. Booking confirmations can be sent in the language the customer chose." },
   ],
   related: {
     heading: "Related website pages for US service businesses",
     links: [
       { name: "Moving company website design", href: "/usa/moving-company-website-design/" },
-      { name: "Pest control website design", href: "/usa/pest-control-website-design/" },
+      { name: "Plumber website design", href: "/usa/plumber-website-design/" },
       { name: "Landscaping website design", href: "/usa/landscaping-website-design/" },
-      { name: "Property management website design", href: "/usa/property-management-website-design/" },
-      { name: "Vacation rental website design", href: "/usa/vacation-rental-website-design/" },
+      { name: "Real estate agent website design", href: "/usa/real-estate-agent-website-design/" },
+      { name: "Customer portal development", href: "/usa/customer-portal-development/" },
       { name: "HVAC website design", href: "/usa/hvac-website-design/" },
       { name: "Small business website design", href: "/usa/small-business-website-design/" },
       { name: "Local SEO services", href: "/usa/local-seo-services/" },

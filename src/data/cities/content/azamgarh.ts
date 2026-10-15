@@ -7,7 +7,7 @@ const azamgarh: CityContent = {
   meta: {
     title: "Azamgarh Website Design & Local SEO from ₹10,000",
     description:
-      "Websites, Hindi and Bhojpuri local SEO, saree and black pottery stores and WhatsApp automation for Azamgarh shops, clinics, schools and NRI families. From ₹10,000.",
+      "Azamgarh websites, Hindi and Bhojpuri local SEO, saree and black pottery stores and WhatsApp bots for shops, clinics, schools and NRI families. From ₹10,000.",
     keywords: [
       "website development team in Azamgarh",
       "website designer Azamgarh",
@@ -25,6 +25,14 @@ const azamgarh: CityContent = {
       "आजमगढ़ वेबसाइट डिज़ाइन",
       "school website Azamgarh",
       "hospital website Azamgarh",
+      "Azamgarh website designer",
+      "website cost in Azamgarh",
+      "web development company Azamgarh",
+      "hire freelance developer Azamgarh",
+      "Uttar Pradesh SEO",
+      "Azamgarh me website kaise banwaye",
+      "website for silk saree weavers and traders in Azamgarh",
+      "web designer in Sidhari, Azamgarh",
     ],
   },
   hero: {

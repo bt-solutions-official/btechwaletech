@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 29.0588, lng: 76.0856 },
   meta: {
-    title: "Freelance IT Consulting & Solutions Across Haryana",
+    title: "Haryana IT Consulting: Auto, Rice Mills & Home Textiles",
     description:
-      "Freelance IT consulting for Haryana: roadmaps, custom software, Android and iOS apps, AI automation, cloud and dashboards for rice mills, auto suppliers and weavers.",
+      "Freelance IT consulting for Haryana: roadmaps, custom software, Android and iOS apps, plus AI automation. Websites from ₹10,000, quote in two working days.",
     keywords: [
       "IT solutions team in Haryana",
       "IT consulting Haryana",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT consultant near me Rohtak Hisar",
       "Haryana mein IT consultant",
       "हरियाणा आईटी सॉल्यूशन",
+      "Haryana website designer",
+      "website cost in Haryana",
+      "IT company in Haryana",
+      "Haryana SEO services",
+      "hire developer Haryana",
+      "auto software in Haryana",
+      "rice mills software in Haryana",
+      "home textiles software in Haryana",
+      "footwear software in Haryana",
+      "website developer Gurugram Haryana",
     ],
   },
   hero: {

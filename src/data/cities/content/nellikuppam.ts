@@ -7,7 +7,7 @@ const nellikuppam: CityContent = {
   meta: {
     title: "IT Services in Nellikuppam: Websites, Apps, SEO & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Nellikuppam cane growers, factory vendors, shops, clinics and schools.",
+      "Tamil websites, apps, local SEO and WhatsApp automation for Nellikuppam cane growers, factory vendors, shops, clinics and schools. Sites from ₹10,000.",
     keywords: [
       "IT services in Nellikuppam",
       "IT services team in Nellikuppam",
@@ -29,6 +29,12 @@ const nellikuppam: CityContent = {
       "Nellikuppam app banwana",
       "Nellikuppathil website design",
       "நெல்லிக்குப்பம் வெப்சைட் டிசைன்",
+      "Nellikuppam website designer",
+      "web development company Nellikuppam",
+      "hire freelance web developer Nellikuppam",
+      "Cuddalore district SEO",
+      "website designer Cuddalore district",
+      "Tamil Nadu SEO services",
     ],
   },
   hero: {

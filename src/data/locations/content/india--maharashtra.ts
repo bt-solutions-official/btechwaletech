@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 19.7515, lng: 75.7139 },
   meta: {
-    title: "Freelance IT Solutions in Maharashtra: Apps, AI & Web",
+    title: "Maharashtra IT Consulting: Auto, Pharma & Textiles",
     description:
-      "Freelance IT solutions across Maharashtra: custom software, Android and iOS apps, AI automation and Marathi SEO for Mumbai, Pune, Nagpur, Nashik and MIDC units.",
+      "Freelance IT solutions across Maharashtra: custom software, Android and iOS apps, AI automation and Marathi SEO for MIDC units. From ₹10,000.",
     keywords: [
       "IT solutions team in Maharashtra",
       "freelance IT services Maharashtra",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "cloud hosting and DevOps Maharashtra",
       "महाराष्ट्रात वेबसाइट बनवणे",
       "महाराष्ट्र में आईटी सेवाएं",
+      "Maharashtra website designer",
+      "website cost in Maharashtra",
+      "IT company in Maharashtra",
+      "Maharashtra SEO services",
+      "hire developer Maharashtra",
+      "automotive software in Maharashtra",
+      "cooperatives software in Maharashtra",
+      "textiles software in Maharashtra",
+      "pharmaceuticals software in Maharashtra",
+      "website developer Mumbai Maharashtra",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const jharsuguda: CityContent = {
   meta: {
     title: "IT Services in Jharsuguda: Websites, Apps, SEO & AI",
     description:
-      "Vendor websites, local SEO, job-tracking tools and WhatsApp automation for Jharsuguda, Brajrajnagar and Belpahar firms. Static websites start from ₹10,000.",
+      "Jharsuguda, Brajrajnagar and Belpahar vendor websites, local SEO, job-tracking tools and WhatsApp automation. Static websites start from ₹10,000.",
     keywords: [
       "website development team in Jharsuguda",
       "web designer Jharsuguda",
@@ -25,6 +25,14 @@ const jharsuguda: CityContent = {
       "hotel website Jharsuguda",
       "website maintenance Jharsuguda",
       "Jharsuguda re website banaibaku kharcha",
+      "Jharsuguda website designer",
+      "website cost in Jharsuguda",
+      "web development company Jharsuguda",
+      "hire freelance developer Jharsuguda",
+      "Industrial western Odisha SEO",
+      "website for fabricators and machine shops in Jharsuguda",
+      "web designer in Sarbahal, Jharsuguda",
+      "website for civil and electrical contractors in Jharsuguda",
     ],
   },
   hero: {

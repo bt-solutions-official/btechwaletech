@@ -7,7 +7,7 @@ const nasirabad: CityContent = {
   meta: {
     title: "IT Services in Nasirabad | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Nasirabad truck body builders, transporters, kachora shops and schools.",
+      "Hindi and English websites, apps and SEO for Nasirabad truck body builders, transporters, kachora shops and schools. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "IT services in Nasirabad",
       "IT services team in Nasirabad",
@@ -29,6 +29,12 @@ const nasirabad: CityContent = {
       "Nasirabad me website banwana",
       "Nasirabad mein app kaise banwaye",
       "नसीराबाद वेबसाइट डिज़ाइन",
+      "Nasirabad website designer",
+      "web development company Nasirabad",
+      "hire freelance web developer Nasirabad",
+      "Ajmer district SEO",
+      "website designer Ajmer district",
+      "Rajasthan SEO services",
     ],
   },
   hero: {

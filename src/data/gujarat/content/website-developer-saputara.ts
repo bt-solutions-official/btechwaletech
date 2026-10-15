@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Saputara · Hotel Sites ${P.site}+`,
-    description: `Website developer in Saputara for hotels, resorts, homestays, activity operators, cafés and Dang produce sellers. From ${P.site}, direct bookings, no commission.`,
+    description: `Website developer in Saputara for hotels, resorts, homestays, activity operators, cafés & Dang produce sellers. From ${P.site}, direct bookings, no commission.`,
     keywords: [
       "website developer in Saputara", "website developer Saputara", "website developer near me Saputara", "Saputara Gujarat website",
       "Saputara Dang website developer", "web developer Saputara", "website designer Saputara", "website development services Saputara",

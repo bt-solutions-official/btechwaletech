@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Pharma Company Website in Vadodara from ${P.site}`,
-    description: `Pharma company website in Vadodara: API and formulation lists, gated documents and B2B enquiry routing, built with regulatory care. From ${P.site}; quote in 2 days.`,
+    description: `Pharma company website in Vadodara: API & formulation lists, gated documents & B2B enquiry routing, built with regulatory care. From ${P.site}; quote in 2 days.`,
     keywords: [
       "pharma company website in Vadodara", "pharma company website Vadodara", "pharmaceutical website design Vadodara", "API manufacturer website Vadodara Gujarat",
       "pharma website developer near me", "Baroda pharma company website", "pharma company website Baroda", "API product list website",

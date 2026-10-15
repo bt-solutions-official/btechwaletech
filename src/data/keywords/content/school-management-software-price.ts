@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What is the price of school management software in India?",
-    text: `School management software is priced either as a subscription, usually charged per student per month or as a yearly plan, or as a one-time build you own. With BtechWaleTech an owned system with fees, receipts, attendance and parent notifications starts from ${P.software}; a parent app starts from ${P.app}. After two free months, optional maintenance starts from ${P.care} a month.`,
+    text: `School management software is priced either as a subscription, usually charged per student per month or as a yearly plan, or as a one-time build you own. With BtechWaleTech an owned system with fees, receipts, attendance and parent notifications starts from ${P.software}; a parent app starts from ${P.app}. After two free months, optional maintenance starts from ${P.care}.`,
     more: `For the modules in detail, see <a href='/school-management-software-developer/'>our school management software developer page</a>; for the admissions side, <a href='/school-website-developer/'>school website development</a>.`,
   },
   snapshot: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "School website for admissions", value: `From ${P.site}, 1–2 weeks` },
       { label: "Subscription alternative", value: "Charged per student or per year by the vendor" },
       { label: "Running bills for an owned system", value: "Server, SMS or WhatsApp messages, domain" },
-      { label: "Yearly upkeep", value: `2 months free, then from ${P.care} a month` },
+      { label: "Yearly upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Exams and report cards", note: "Marks entry by subject teachers, grade rules for your board, and report cards printed in your own format.", href: "/school-management-software-developer/", size: "md" },
       { name: "Transport", note: "Routes, stops, bus fees and, if needed, a live tracking app for parents.", href: "/school-bus-tracking-app/", size: "sm" },
       { name: "Admissions website", note: `Enquiry forms, fee structure and notices on a fast site that ranks for local searches, from ${P.site}.`, href: "/school-website-developer/", size: "sm" },
-      { name: "Upkeep", note: `Session rollover, updates, fixes and backup checks: 2 months free, then from ${P.care} a month.`, href: "/website-maintenance-charges/", size: "sm" },
+      { name: "Upkeep", note: `Session rollover, updates, fixes and backup checks: 2 months free, then from ${P.care}.`, href: "/website-maintenance-charges/", size: "sm" },
     ],
   },
   comparison: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Where the school management software price starts with us",
-    note: `The table below shows our starting prices by type of build. An owned school system is a custom web application, so it starts from ${P.software} for core modules such as fees, receipts, attendance and notices. A branded parent app is an additional line from ${P.app}, and automated WhatsApp reminders start from ${P.ai}. An admissions website starts from ${P.site}. There are no per-student or per-year licence charges from us; after the two free months, maintenance is optional from ${P.care} a month. Every figure is a starting price, and your estimate lists each module so you can decide what the first session needs.`,
+    note: `The table below shows our starting prices by type of build. An owned school system is a custom web application, so it starts from ${P.software} for core modules such as fees, receipts, attendance and notices. A branded parent app is an additional line from ${P.app}, and automated WhatsApp reminders start from ${P.ai}. An admissions website starts from ${P.site}. There are no per-student or per-year licence charges from us; after the two free months, maintenance is optional from ${P.care}. Every figure is a starting price, and your estimate lists each module so you can decide what the first session needs.`,
   },
   guideLabel: "School management software price guide",
   guide: [
@@ -114,7 +114,7 @@ const content: FreelanceContent = {
         `Branded parent app on Android and iOS: from ${P.app}`,
         `WhatsApp fee reminders and absence alerts: from ${P.ai}`,
         `Admissions website: from ${P.site}`,
-        `Optional maintenance after 2 free months: from ${P.care} a month`,
+        `Optional maintenance after 2 free months: from ${P.care}`,
       ],
     },
     {
@@ -146,7 +146,7 @@ const content: FreelanceContent = {
       heading: "When does owning beat a per-student school management software price?",
       paragraphs: [
         `Owning wins when the subscription's total over the years you expect to use it is higher than the build price plus hosting and maintenance over the same years. For small schools that point may never come; for larger ones it often arrives within a few sessions.`,
-        `Work it out with four numbers. First, the subscription's yearly cost at your expected strength, including extras. Second, our build estimate for the same modules, starting from ${P.software}. Third, yearly hosting and message charges for an owned system, which are modest for a single school. Fourth, maintenance: free for two months, then optional from ${P.care} a month. Add the owned costs year by year and see when the subscription line crosses them.`,
+        `Work it out with four numbers. First, the subscription's yearly cost at your expected strength, including extras. Second, our build estimate for the same modules, starting from ${P.software}. Third, yearly hosting and message charges for an owned system, which are modest for a single school. Fourth, maintenance: free for two months, then optional from ${P.care}. Add the owned costs year by year and see when the subscription line crosses them.`,
         `Money is not the only factor. An owned system lets you change fee rules mid-session, match your exact receipt and report card formats, and keep student data in your own account. A subscription gives you a product others already use, frequent feature updates and no responsibility for servers. School groups with several branches usually gain most from owning, because subscription fees multiply by branch while one owned system can serve them all.`,
       ],
       after: [`If you prefer an honest second opinion on the numbers, send us the subscription quote and your strength; we will tell you if renting is cheaper for you.`],
@@ -217,7 +217,7 @@ const content: FreelanceContent = {
       heading: "What should a yearly AMC cover, and how does it affect the price?",
       paragraphs: [
         `A yearly AMC, or maintenance plan, should cover everything needed to keep the software working through each session: fixes, security updates, session rollover, small changes to fee rules and formats, and backup checks. It should not be a fee you pay just to be allowed to keep using software you already bought.`,
-        `With licence-based software, the AMC is often a condition of receiving updates, and skipping it can leave you stuck on an old version. With a subscription, support is built into the monthly fee. With our owned systems, you get two months of free maintenance after go-live, then an optional plan from ${P.care} a month. If you stop it, the software keeps running because it is on your server and in your code repository.`,
+        `With licence-based software, the AMC is often a condition of receiving updates, and skipping it can leave you stuck on an old version. With a subscription, support is built into the monthly fee. With our owned systems, you get two months of free maintenance after go-live, then an optional plan from ${P.care}. If you stop it, the software keeps running because it is on your server and in your code repository.`,
         `Ask any vendor to list in writing what the AMC includes and excludes. Common exclusions are new modules, new report formats and integrations. Those are fair to charge for, but you should know in advance. For our own plan, the scope of larger changes is agreed in your written quote, and our <a href='/terms/'>terms</a> set out the general conditions.`,
       ],
       list: [
@@ -281,7 +281,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Say a CBSE school in Jodhpur with about 1,100 students, expecting to reach 1,400 in five years, has a quote for a per-student subscription with a separate parent app charge, and wants to compare it with owning a system. This is an illustration of how we would help, not a past project.`,
         `First we would total the subscription over five years at the rising strength, adding the parent app fee and message charges. Then we would scope an owned system: fees with transport slabs and sibling concessions, receipts on WhatsApp, attendance with absence alerts, circulars, and report cards in the school's format, starting from ${P.software}. WhatsApp reminders from ${P.ai} would replace most SMS. A parent app from ${P.app} would wait until the second session, once the office is confident in the data.`,
-        `We would then add five years of hosting, messages and an optional care plan from ${P.care} a month after the free months, and put both five-year totals side by side. If the subscription came out lower, we would say so. The school would also weigh control over fee rules, data held in its own account, and whether a second branch is likely, since an owned system can serve both campuses without doubling fees.`,
+        `We would then add five years of hosting, messages and an optional care plan from ${P.care} after the free months, and put both five-year totals side by side. If the subscription came out lower, we would say so. The school would also weigh control over fee rules, data held in its own account, and whether a second branch is likely, since an owned system can serve both campuses without doubling fees.`,
       ],
     },
     {
@@ -338,7 +338,7 @@ const content: FreelanceContent = {
         ["WhatsApp automation", "Fee reminders, absence alerts, receipts", `From ${P.ai} (${P.aiUsd})`, "2–4 weeks"],
         ["Admissions website", "Enquiry form, fee structure, notices", `From ${P.site} (${P.siteUsd})`, "1–2 weeks"],
         ["Add-on modules", "Transport, hostel, library, exams", "Quoted per module", "Depends on module"],
-        ["Maintenance", "Session rollover, fixes, updates", `From ${P.care} a month after 2 free months`, "Monthly, optional"],
+        ["Maintenance", "Session rollover, fixes, updates", `From ${P.care} after 2 free months`, "Monthly, optional"],
       ],
       hideSm: [1],
     },
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
     { question: "How much does school management software cost in India?", answer: `It depends on the pricing model. Subscriptions are usually charged per student per month or as a yearly plan, so the cost grows with strength. With BtechWaleTech an owned system covering fees, receipts, attendance and parent notifications starts from ${P.software}, a parent app from ${P.app}, and there are no per-student charges. Hosting and message charges are separate.` },
     { question: "Is per-student pricing or a one-time build cheaper for a school?", answer: "For small or new schools, per-student pricing is often cheaper. For larger and growing schools, an owned system usually costs less over five years because the subscription rises with every admission. Total the subscription at your expected strength for five years, including extras, and compare it with the build estimate plus hosting and maintenance over the same period." },
     { question: "What is included in a school management software price?", answer: "Usually fee management with receipts, attendance, notices and circulars, student records, exams and report cards, and user roles for office, teachers and principal. Parent apps, SMS or WhatsApp messages, transport, hostel and library are often extra. Always ask for a line-by-line list, because two quotes with similar totals can include very different modules." },
-    { question: "What does an AMC cover for school software?", answer: `A fair AMC covers bug fixes, security updates, session rollover, small changes to fee rules and formats, backup checks and staff help. New modules and integrations are usually extra. With us, maintenance is free for two months after go-live and then optional from ${P.care} a month. If you stop it, your owned software keeps running.` },
+    { question: "What does an AMC cover for school software?", answer: `A fair AMC covers bug fixes, security updates, session rollover, small changes to fee rules and formats, backup checks and staff help. New modules and integrations are usually extra. With us, maintenance is free for two months after go-live and then optional from ${P.care}. If you stop it, your owned software keeps running.` },
     { question: "Does the school own its data in a subscription ERP?", answer: "Legally the records are the school's, but practically it depends on the contract. Check the export format, whether export costs extra, and how long data is kept after you stop paying. With an owned system, the database sits in the school's own cloud account, so fee history and academic records are always under your control and easy to move." },
     { question: "How long does it take to build school management software?", answer: "Core modules such as fees, receipts, attendance and notices take about 6–12 weeks with us. Report cards are usually timed before the next exam. Going live before a new session or at a term boundary is easiest, though fees and attendance can switch mid-session if student lists and dues are moved across carefully." },
     { question: "Does a school need a parent app?", answer: `Not always at first. WhatsApp reaches almost every parent without installing anything and carries receipts and circulars. A parent app, from ${P.app} with us, is worth it when families want homework, marks and dues in one place, and it cuts message charges because push notifications cost almost nothing per message. Many schools add it in the second phase.` },
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
     { question: "Will the software print report cards in our board's format?", answer: "Yes. Subject teachers enter marks on a grid, the software applies your grading and co-scholastic rules, and report cards print in your exact layout. Send one report card per class group. Transfer, bonafide and character certificates can also be generated from the same student record, which saves the office from retyping details." },
     { question: "Can the school software work in Hindi or regional languages?", answer: "Yes. Labels, receipts, circulars and parent messages can be in Hindi or a regional language alongside English, and many schools send messages in both. You supply or approve the translated wording, and we check that receipts and report cards still fit on the page. Decide languages at the start so layouts are designed for them." },
     { question: "Freelance team or a large school ERP vendor?", answer: "A large vendor suits schools wanting an established product with many users and features ready today. A small freelance team suits schools that want software built to their own fee rules and formats, owned outright, with direct contact with the developers. We are three freelance developers working remotely; we do not make campus visits, and training happens over video calls." },
-    { question: "What are the running costs of an owned school system?", answer: `A cloud server and backup storage, a domain, and SMS or WhatsApp message charges. If you have a parent app, Apple's developer programme costs US$99 a year and Google Play charges US$25 once. Maintenance from us is free for two months after go-live, then optional from ${P.care} a month. There are no per-student charges from us.` },
+    { question: "What are the running costs of an owned school system?", answer: `A cloud server and backup storage, a domain, and SMS or WhatsApp message charges. If you have a parent app, Apple's developer programme costs US$99 a year and Google Play charges US$25 once. Maintenance from us is free for two months after go-live, then optional from ${P.care}. There are no per-student charges from us.` },
     { question: "Can you add bus tracking to the school software?", answer: "Yes, as a separate module. Basic transport management, with routes, stops and fees, fits inside the school system. Live GPS tracking needs a driver app or GPS devices and a parent view, and has its own running cost for maps and data. We scope it separately so schools that do not need live tracking do not pay for it." },
     { question: "Will school software help with admissions from Google?", answer: `The management software is private and does not appear on Google. Your admissions website does. We build school websites from ${P.site} with clear admission, fee and facility pages and structured data so search engines and AI answer tools describe your school accurately. Nobody can honestly guarantee rankings, but a fast, well-organised site gives parents what they search for.` },
     { question: "What happens after the free maintenance ends?", answer: `You decide. Continue with our monthly plan from ${P.care}, covering session rollover, fixes, updates and small changes, or give the code to any developer, since it is already in your school's account. Larger changes such as new modules are estimated separately and agreed in writing, following our general terms.` },

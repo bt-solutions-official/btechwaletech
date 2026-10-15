@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Car rental website design",
   updated: "2026-09-25",
   meta: {
-    title: `Car Rental Website Design for Self-Drive & Cabs`,
+    title: `Car Rental Website Design: Self-Drive & Cabs, ${P.site}+`,
     description: `Car rental website design with fleet and rate pages, online booking with deposit, KYC upload and outstation fare pages. From ${P.site}; quote in 2 days.`,
     keywords: [
       "car rental website design", "car rental website", "self drive car rental website", "cab booking website design", "outstation cab website",
@@ -22,6 +22,9 @@ const content: FreelanceContent = {
       "how to make a car rental website", "tour and travels cab website", "car rental website design Goa", "car rental website design Jaipur",
       "car rental website design Bengaluru", "car rental website design Delhi", "driver partner onboarding page", "attach your car with us page",
       "car rental website ki cost", "one way cab website", "airport taxi booking website", "fleet page for car rental",
+      "car rental website design company in India",
+      "best car rental website design in India",
+      "car rental website design services",
     ],
   },
   hero: {
@@ -328,7 +331,7 @@ const content: FreelanceContent = {
         ["Booking engine", "Availability, deposits, KYC, back office, handover records", `${P.software} (${P.softwareUsd})`, "6–12 weeks"],
         ["Customer or driver app", "Android and iOS on Google Play and the App Store", `${P.app} (${P.appUsd})`, "6–10 weeks"],
         ["Messaging automation", "Booking, KYC and trip messages on WhatsApp", `${P.ai} (${P.aiUsd})`, "2–4 weeks"],
-        ["Monthly SEO", "New routes, Business Profile support, fixes", `${P.seo} per month`, "Ongoing"],
+        ["Monthly SEO", "New routes, Business Profile support, fixes", `${P.seo}`, "Ongoing"],
       ],
     },
   ],

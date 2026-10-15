@@ -7,7 +7,7 @@ const sidlaghatta: CityContent = {
   meta: {
     title: "IT Services in Sidlaghatta: Web, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, Kannada local SEO and WhatsApp tools for Sidlaghatta reelers, twisters, silk traders, rearers, dairies, clinics and schools.",
+      "Websites, apps, Kannada local SEO and WhatsApp tools for Sidlaghatta reelers, twisters, silk traders, rearers, dairies, clinics and schools. From ₹10,000.",
     keywords: [
       "IT services in Sidlaghatta",
       "IT services team in Sidlaghatta",
@@ -29,6 +29,12 @@ const sidlaghatta: CityContent = {
       "Melur Sidlaghatta business listing",
       "Sidlaghatta me website banwana",
       "ಶಿಡ್ಲಘಟ್ಟ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Sidlaghatta website designer",
+      "web development company Sidlaghatta",
+      "hire freelance web developer Sidlaghatta",
+      "Chikkaballapur district SEO",
+      "website designer Chikkaballapur district",
+      "Karnataka SEO services",
     ],
   },
   hero: {

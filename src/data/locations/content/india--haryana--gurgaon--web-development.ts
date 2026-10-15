@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.4595, lng: 77.0266 },
   meta: {
-    title: "Freelance Web Developers in Gurgaon: Web Apps & SaaS",
+    title: "Gurgaon Web Developers: Web Apps & SaaS",
     description:
-      "Hire freelance web developers in Gurgaon for web apps, portals, SaaS MVPs, APIs and ecommerce. Websites from ₹10,000, custom web apps from ₹60,000, quote in 2 days.",
+      "Hire freelance web developers in Gurgaon for web apps, portals and SaaS MVPs. Websites from ₹10,000, custom web apps from ₹60,000, quote in 2 days.",
     keywords: [
       "web development team in Gurgaon",
       "freelance web developers Gurgaon",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "cloud hosting and deployment Gurgaon",
       "गुरुग्राम में वेबसाइट डेवलपमेंट",
       "Gurgaon mein website kaise banwaye",
+      "Gurgaon website designer",
+      "website cost in Gurgaon",
+      "IT company in Gurgaon",
+      "Haryana SEO services",
+      "hire developer Gurgaon",
+      "saas software in Gurgaon",
+      "apparel export software in Gurgaon",
+      "automotive software in Gurgaon",
+      "real software in Gurgaon",
+      "website developer Cyber City Gurgaon",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Hire React Native Developer India: Apps from ${P.app}`,
-    description: `Hire a React Native developer in India who ships to Google Play and the App Store. Apps from ${P.app}, a skills scorecard, test task ideas and honest cost drivers.`,
+    description: `Hire a React Native developer in India who ships to Google Play and the App Store, with a skills scorecard and test tasks. Apps from ${P.app}.`,
     keywords: [
       "hire React Native developer", "hire React Native developer India", "hire React Native developer near me", "React Native developer for hire",
       "React Native developer cost", "React Native app development cost India", "best React Native developer", "React Native developer chahiye",

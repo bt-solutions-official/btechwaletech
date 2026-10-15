@@ -229,7 +229,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `It can, though no developer can guarantee rankings. Visibility comes from a well-built site, an accurate maps listing and reviews collected over time.`,
         `For highway businesses the <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> does most of the work. It needs the correct category, a pin placed exactly at your gate, real photos, hours that are kept current, and the same name, address and phone as your website footer. The website then supports the listing with detail Google can read: menu or services, schema markup and a sitemap.`,
-        `Town businesses benefit from specific pages, such as “groundnut trader Limbdi” or “CBSE school Limbdi admissions”, answering one question clearly. Those are also the pages AI assistants and Google's AI Overviews tend to quote. Every site we launch has unique titles, clean URLs, schema and Search Console; ongoing SEO is optional from ${P.seo} a month.`,
+        `Town businesses benefit from specific pages, such as “groundnut trader Limbdi” or “CBSE school Limbdi admissions”, answering one question clearly. Those are also the pages AI assistants and Google's AI Overviews tend to quote. Every site we launch has unique titles, clean URLs, schema and Search Console; ongoing SEO is optional from ${P.seo}.`,
       ],
     },
     {

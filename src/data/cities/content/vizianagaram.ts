@@ -7,7 +7,7 @@ const vizianagaram: CityContent = {
   meta: {
     title: "IT Services in Vizianagaram: Websites, Apps, SEO & AI",
     description:
-      "Telugu and English websites, local SEO, online stores and WhatsApp automation for Vizianagaram colleges, clinics, traders, ferro-alloy suppliers and farm businesses.",
+      "Telugu and English websites, SEO and online stores for Vizianagaram colleges, clinics, traders, ferro-alloy suppliers and farm businesses. Sites from ₹10,000.",
     keywords: [
       "website development team in Vizianagaram",
       "web designer Vizianagaram",
@@ -25,6 +25,16 @@ const vizianagaram: CityContent = {
       "Vizianagaram lo website",
       "విజయనగరం వెబ్‌సైట్ డిజైన్",
       "website maintenance Vizianagaram",
+      "Vizianagaram website designer",
+      "web development company Vizianagaram",
+      "hire freelance web developer Vizianagaram",
+      "Andhra Pradesh SEO services",
+      "Vizianagaram coaching centres website",
+      "coaching centres website design Vizianagaram",
+      "website design Fort area Vizianagaram",
+      "website design MG Road Vizianagaram",
+      "website design Cantonment Vizianagaram",
+      "website design Balaji Nagar Vizianagaram",
     ],
   },
   hero: {

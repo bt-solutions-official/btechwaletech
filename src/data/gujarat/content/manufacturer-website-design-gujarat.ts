@@ -249,7 +249,7 @@ const content: FreelanceContent = {
         `Buyers search by product and process, so each important product family and capability needs its own page with a specific title. “CNC turned parts manufacturer Rajkot” or “HDPE woven sacks manufacturer Ahmedabad” are realistic searches; your company name alone is not. Nobody can guarantee rankings, but specific pages give you a fair chance.`,
         `Technical basics come with every build: clean URLs, one H1 per page, product and organisation schema, compressed images, a sitemap and Google Search Console verified at launch. A Google Business Profile for the unit, with the same name, address and phone as the site footer, helps local buyers and job seekers find the gate.`,
         `AI assistants are now used for supplier shortlists, and they quote pages that state facts plainly: what you make, materials, standards, capacity, location. Spec tables and a short FAQ help them read you correctly.`,
-        `Keep marketplace listings and link them to your site. Ongoing SEO is optional, from ${P.seo} a month; our <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> page explains what that work involves.`,
+        `Keep marketplace listings and link them to your site. Ongoing SEO is optional, from ${P.seo}; our <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> page explains what that work involves.`,
       ],
     },
     {
@@ -408,6 +408,7 @@ const content: FreelanceContent = {
     heading: "More Gujarat guides for manufacturers",
     links: [
       { name: "All website services in Gujarat", href: "/gujarat/" },
+      { name: "Solar company website in Gujarat", href: "/gujarat/solar-company-website-gujarat/" },
       { name: "Export business website in Gujarat", href: "/gujarat/export-business-website-gujarat/" },
       { name: "Engineering company website in Rajkot", href: "/gujarat/engineering-company-website-rajkot/" },
       { name: "Ceramic tiles website in Morbi", href: "/gujarat/ceramic-tiles-website-morbi/" },

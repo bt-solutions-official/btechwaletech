@@ -7,7 +7,7 @@ const kancheepuram: CityContent = {
   meta: {
     title: "IT Services in Kancheepuram: Websites, Apps, SEO & AI",
     description:
-      "Websites, Tamil and English SEO, silk saree stores and WhatsApp automation for Kancheepuram weavers, hotels and Sriperumbudur suppliers. From ₹10,000.",
+      "Kancheepuram websites, Tamil and English SEO, silk saree stores and WhatsApp automation for weavers, hotels and Sriperumbudur suppliers. From ₹10,000.",
     keywords: [
       "website development team in Kancheepuram",
       "web design Kanchipuram",
@@ -25,6 +25,14 @@ const kancheepuram: CityContent = {
       "website maintenance Kancheepuram",
       "Kanchipuram la website panna evvalavu aagum",
       "காஞ்சிபுரம் இணையதள வடிவமைப்பு",
+      "Kancheepuram website designer",
+      "website cost in Kancheepuram",
+      "web development company Kancheepuram",
+      "hire freelance developer Kancheepuram",
+      "Tamil Nadu SEO",
+      "website for silk saree weavers and showrooms in Kancheepuram",
+      "web designer in Gandhi Road, Kancheepuram",
+      "website for master weavers and societies in Kancheepuram",
     ],
   },
   hero: {

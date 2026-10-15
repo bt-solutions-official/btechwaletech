@@ -7,7 +7,7 @@ const supaul: CityContent = {
   meta: {
     title: "IT Services in Supaul | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Supaul traders, makhana sellers, coaching centres, clinics and Kosi-belt shops.",
+      "Hindi websites, apps, Maps SEO and WhatsApp automation for Supaul traders, makhana sellers, coaching centres, clinics and Kosi-belt shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Supaul",
       "IT services team in Supaul",
@@ -29,6 +29,12 @@ const supaul: CityContent = {
       "Supaul me website banwana",
       "Supaul me app banwana",
       "सुपौल वेबसाइट डिजाइन",
+      "Supaul website designer",
+      "web development company Supaul",
+      "hire freelance web developer Supaul",
+      "Bihar SEO services",
+      "Supaul me website kaise banwaye",
+      "Supaul website banwane ka kharcha",
     ],
   },
   hero: {

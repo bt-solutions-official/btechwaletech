@@ -7,7 +7,7 @@ const narasapuram: CityContent = {
   meta: {
     title: "IT Services in Narasapuram: Websites, Apps, SEO & AI",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Narasapuram lace exporters, aquaculture traders, colleges, hospitals and shops.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Narasapuram lace exporters, aquaculture traders, colleges, hospitals and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Narasapuram",
       "IT services team in Narasapuram",
@@ -29,6 +29,12 @@ const narasapuram: CityContent = {
       "Narasapuram me website banwana",
       "Narasapuram lo website cheyinchukovali",
       "నరసాపురం వెబ్‌సైట్ డిజైన్",
+      "Narasapuram website designer",
+      "web development company Narasapuram",
+      "hire freelance web developer Narasapuram",
+      "West Godavari district SEO",
+      "website designer West Godavari district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

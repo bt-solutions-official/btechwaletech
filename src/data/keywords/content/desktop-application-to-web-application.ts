@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Convert desktop application to web application",
   updated: "2026-09-25",
   meta: {
-    title: `Convert Desktop Application to Web App from ${P.software}`,
+    title: `Desktop Application to Web Application, ${P.software}+`,
     description: `Convert a desktop application to a web application: billing, inventory or office software in the browser, data moved from Access or SQL Server. From ${P.software}.`,
     keywords: [
       "convert desktop application to web application", "desktop application to web application", "convert desktop software to web",

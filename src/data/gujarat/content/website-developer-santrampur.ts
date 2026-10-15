@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Santrampur · Light Sites ${P.site}+`,
-    description: `Website developer in Santrampur for schools, clinics, NGOs and dealers: light, low-data sites from ${P.site}, Gujarati-ready, planned in stages to fit your budget.`,
+    description: `Website developer in Santrampur for schools, clinics, NGOs and dealers: light, low-data sites from ${P.site}, Gujarati-ready, planned in stages to fit budget.`,
     keywords: [
       "website developer in Santrampur", "website developer Santrampur", "Santrampur website", "website developer near me Santrampur",
       "Santrampur Gujarat website", "Santrampur Mahisagar website developer", "web designer Santrampur", "website design services Santrampur",
@@ -142,7 +142,7 @@ const content: FreelanceContent = {
       list: [
         "<strong>Domain renewal</strong> every year, paid to the registrar. Missing it is the most common way small sites vanish.",
         "<strong>Hosting</strong>, monthly or yearly, sized for a small site. Static sites need very little.",
-        "<strong>Optional care</strong> from the third month, from " + P.care + " a month, only if you want us to keep updating the site.",
+        "<strong>Optional care</strong> from the third month, from " + P.care + ", only if you want us to keep updating the site.",
       ],
       after: [
         "Within the build price, four things move a Santrampur quote: the number of distinct page designs, whether you supply text and photos or need them written, how many languages you want, and whether you need forms with uploads or payments. A school's admission form with document upload is more work than a simple contact form, for example.",
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
     { question: "Can an NGO in Mahisagar get a website from you?", answer: "Yes. We build mission, programme and report pages, partner and donor contact forms and downloadable documents. Registration numbers appear exactly as your certificates show. Rules around donations and foreign contributions are for your auditor or CA to advise on; we build the pages and forms they ask for. Photos of people are used only with consent." },
     { question: "How long does a Santrampur website take?", answer: "A stage-one site usually goes live one to two weeks after you approve the quote. Gujarati pages and forms in stage two take another one to three weeks, mostly depending on how fast the translation is ready. Larger projects such as stores take four to eight weeks, and portals six to twelve. Having photos ready before the first call saves the most time." },
     { question: "Who owns the website and the domain?", answer: "Your school, clinic, group or business does. The domain is registered in your organisation's name, with an official email you will keep as owner contact. Hosting sits in your account. At handover you receive the files, every login and a written account list, so any developer can take over later without rebuilding." },
-    { question: "What happens after the two free months?", answer: `Care becomes optional. It starts at ${P.care} a month and covers updates, backups, security checks and a set number of edits. Many stage-one static sites in Santrampur need very little, so you may choose to request occasional changes instead. WordPress sites with notice boards benefit more from regular care, because their software needs updating.` },
+    { question: "What happens after the two free months?", answer: `Care becomes optional. It starts at ${P.care} and covers updates, backups, security checks and a set number of edits. Many stage-one static sites in Santrampur need very little, so you may choose to request occasional changes instead. WordPress sites with notice boards benefit more from regular care, because their software needs updating.` },
     { question: "Can parents pay school fees through the website?", answer: `It is possible, but rarely the right first step. Online fee payment needs a payment provider account in the school's name, clear receipts and careful testing. Most Santrampur schools start with a fee enquiry form and payment at the office, then add online payment later. Full payment features are quoted within the store or portal range, from ${P.shop}.` },
     { question: "Will our website rank first on Google in Santrampur?", answer: "Nobody can honestly promise that. We build every site to be found: clear titles, local pages, schema, fast mobile loading and a linked Business Profile. In a small town, a complete profile, genuine reviews and accurate pages often go a long way, but where you rank still depends on competition and your own activity." },
     { question: "How do we pay for the website?", answer: "In INR, by UPI or bank transfer, in stages linked to visible progress such as design approval on staging and launch. Each stage of the project has its own itemised quote. We never ask for payment before you approve a quote in writing, and you see the draft before the final payment." },

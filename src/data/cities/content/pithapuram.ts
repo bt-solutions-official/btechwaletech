@@ -7,7 +7,7 @@ const pithapuram: CityContent = {
   meta: {
     title: "IT Services in Pithapuram | Web, Apps & AI",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Pithapuram temple-town lodges, Uppada saree weavers, chilli traders and clinics.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Pithapuram temple-town lodges, Uppada saree weavers, chilli traders and clinics. From ₹10,000.",
     keywords: [
       "IT services in Pithapuram",
       "IT services team in Pithapuram",
@@ -28,6 +28,13 @@ const pithapuram: CityContent = {
       "Pithapuram me website banwana",
       "Pithapuram lo website cheyinchali",
       "పిఠాపురం వెబ్‌సైట్ డిజైన్",
+      "Pithapuram website designer",
+      "web development company Pithapuram",
+      "hire freelance web developer Pithapuram",
+      "Kakinada district SEO",
+      "website designer Kakinada district",
+      "Andhra Pradesh SEO services",
+      "website design Sri Datta Nagar Pithapuram",
     ],
   },
   hero: {

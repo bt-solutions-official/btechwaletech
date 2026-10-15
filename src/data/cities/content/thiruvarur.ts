@@ -7,7 +7,7 @@ const thiruvarur: CityContent = {
   meta: {
     title: "IT Services in Thiruvarur: Websites, Apps, SEO & AI",
     description:
-      "Tamil websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Thiruvarur rice mills, temple-town trade, colleges, hospitals and delta farmers.",
+      "Tamil websites, apps, Maps SEO and WhatsApp automation for Thiruvarur rice mills, temple-town trade, colleges, hospitals and delta farmers. From ₹10,000.",
     keywords: [
       "IT services in Thiruvarur",
       "IT services team in Thiruvarur",
@@ -29,6 +29,12 @@ const thiruvarur: CityContent = {
       "Thiruvarur me website banwana",
       "Thiruvarur-la website panna",
       "திருவாரூர் இணையதள வடிவமைப்பு",
+      "Thiruvarur website designer",
+      "web development company Thiruvarur",
+      "hire freelance web developer Thiruvarur",
+      "Cauvery delta SEO services",
+      "website designer Cauvery delta",
+      "Tamil Nadu SEO services",
     ],
   },
   hero: {

@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Tradie Website Design that Wins Jobs, from ${P.site}`,
-    description: `Tradie website design for Australian trades: licence numbers shown right, quote forms into ServiceM8 or Tradify, suburb pages and click-to-call. Sites from ${P.site}.`,
+    description: `Tradie website design for Australian trades: licence numbers shown right, quote forms into ServiceM8 or Tradify, suburb pages, click-to-call. From ${P.site}.`,
     keywords: [
       "tradie website design", "tradie websites", "tradie website design australia", "website design for tradies",
       "websites for tradies australia", "tradesman website design", "trade business website", "tradie website cost",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "nsw fair trading licence advertising", "tradie website design sydney", "tradie website design melbourne",
       "tradie website design brisbane", "tradie website design perth", "mobile website for tradies click to call",
       "tradie website near me", "do tradies need a website",
+      "hire tradie website design in Australia", "freelance tradie website design Australia",
     ],
   },
   hero: {
@@ -72,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Suburb and service-area pages", note: `Genuine local pages for a wider patch, with larger builds from ${P.seoSite}.`, href: "/australia/local-seo-services/", size: "md" },
       { name: "Google Business Profile tidy-up", note: "Categories, service areas, photos and review links aligned with the website so both tell the same story.", href: "/australia/seo-for-tradies/", size: "md" },
       { name: "Missed-call answering", note: `An AI receptionist that books or takes messages while you are on the tools, from ${P.ai}.`, href: "/australia/ai-receptionist-for-small-business/", size: "md" },
-      { name: "Monthly SEO", note: `Ongoing local SEO for competitive trades and cities, from ${P.seo} a month.`, href: "/australia/seo-for-tradies/", size: "sm" },
+      { name: "Monthly SEO", note: `Ongoing local SEO for competitive trades and cities, from ${P.seo}.`, href: "/australia/seo-for-tradies/", size: "sm" },
       { name: "Website redesign", note: "Rebuild of an old or slow trade site while keeping the pages that already rank.", href: "/australia/website-redesign-services/", size: "sm" },
       { name: "Care plan", note: `Updates, backups and small edits after the free two months, from ${P.care}.`, href: "/australia/website-maintenance-services/", size: "sm" },
     ],

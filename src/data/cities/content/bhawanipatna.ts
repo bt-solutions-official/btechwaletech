@@ -7,7 +7,7 @@ const bhawanipatna: CityContent = {
   meta: {
     title: "IT Services in Bhawanipatna: Web, Apps, SEO & AI",
     description:
-      "Odia websites, Android and iOS apps, local SEO and WhatsApp automation for Bhawanipatna rice millers, traders, hospitals, colleges and Kalahandi's handloom makers.",
+      "Bhawanipatna Odia websites, Android and iOS apps, local SEO and WhatsApp automation for rice millers, traders, hospitals and colleges. ₹10,000 onwards.",
     keywords: [
       "IT services in Bhawanipatna",
       "IT services team in Bhawanipatna",
@@ -29,6 +29,10 @@ const bhawanipatna: CityContent = {
       "Bhawanipatna me website banwana",
       "Bhawanipatna re website tiari",
       "ଭବାନୀପାଟଣା ୱେବସାଇଟ୍ ଡିଜାଇନ୍",
+      "Bhawanipatna website designer",
+      "web development company Bhawanipatna",
+      "hire freelance developer Bhawanipatna",
+      "Odisha SEO",
     ],
   },
   hero: {

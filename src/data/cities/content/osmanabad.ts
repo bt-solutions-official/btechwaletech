@@ -7,7 +7,7 @@ const osmanabad: CityContent = {
   meta: {
     title: "Dharashiv (Osmanabad) Websites & SEO from ₹10,000",
     description:
-      "Websites, Marathi local SEO and WhatsApp automation for Dharashiv (Osmanabad) shops, clinics, sugar and soybean trade and Tuljapur pilgrim businesses. From ₹10,000.",
+      "Websites, Marathi SEO and WhatsApp tools for Dharashiv (Osmanabad) shops, clinics, sugar and soybean trade and Tuljapur pilgrim businesses. From ₹10,000.",
     keywords: [
       "website development team in Dharashiv",
       "website designer Osmanabad",
@@ -25,6 +25,16 @@ const osmanabad: CityContent = {
       "धाराशिव वेबसाइट डिझाइन",
       "Osmanabad website banane wala",
       "clinic website Dharashiv",
+      "Dharashiv website designer",
+      "website cost in Dharashiv",
+      "web development company Dharashiv",
+      "hire freelance web developer Dharashiv",
+      "Marathwada SEO services",
+      "website designer Marathwada",
+      "Maharashtra SEO services",
+      "Dharashiv me website kaise banwaye",
+      "Dharashiv website banwane ka kharcha",
+      "Dharashiv sugar factory suppliers website",
     ],
   },
   hero: {

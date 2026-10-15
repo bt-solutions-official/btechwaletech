@@ -7,7 +7,7 @@ const jhumriTilaiya: CityContent = {
   meta: {
     title: "IT Services in Jhumri Tilaiya | Web, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, SEO and WhatsApp automation for Jhumri Tilaiya shops, schools, mineral traders and Koderma suppliers. Starts at ₹10,000.",
+      "Jhumri Tilaiya websites, Android and iOS apps, SEO and WhatsApp automation for shops, schools, mineral traders and Koderma suppliers. Starts at ₹10,000.",
     keywords: [
       "IT services in Jhumri Tilaiya",
       "IT services team in Jhumri Tilaiya",
@@ -30,6 +30,9 @@ const jhumriTilaiya: CityContent = {
       "Jhumri Tilaiya me website banwana",
       "Koderma me app banwana",
       "झुमरी तिलैया वेबसाइट डिज़ाइन",
+      "Jhumri Tilaiya website designer",
+      "web development company Jhumri Tilaiya",
+      "hire freelance developer Jhumri Tilaiya",
     ],
   },
   hero: {

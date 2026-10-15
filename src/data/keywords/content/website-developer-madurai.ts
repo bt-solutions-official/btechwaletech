@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "hospital website Madurai", "school website Madurai", "Tamil website developer Madurai", "Tamil website design",
       "website developer Anna Nagar Madurai", "website developer KK Nagar Madurai", "website developer Kappalur", "website developer Dindigul",
       "website developer Virudhunagar", "best website developer in Madurai",
+      "website developer in Madurai cost", "website developer in Madurai price", "hire website developer in Madurai", "freelance website developer in Madurai",
+      "website developer in Madurai charges",
     ],
   },
   hero: {

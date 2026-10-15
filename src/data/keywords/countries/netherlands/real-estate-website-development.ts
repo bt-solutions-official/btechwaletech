@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "gdpr compliant real estate website", "real estate website amsterdam", "makelaar website utrecht",
       "real estate website the hague", "real estate website eindhoven", "real estate website rotterdam",
       "how much does a real estate website cost", "local seo for makelaars", "real estate web developer near me netherlands",
+      "hire real estate website development in the Netherlands", "freelance real estate website development Netherlands",
     ],
   },
   hero: {

@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "migration agent marketing website", "migration agent web designer near me", "migration agent website sydney",
       "migration agent website melbourne", "migration agent website brisbane", "migration agent website perth",
       "migration agent website adelaide", "immigration lawyer website design australia",
+      "hire migration agent website design in Australia", "freelance migration agent website design Australia",
     ],
   },
   hero: {
@@ -97,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Migration agent website design pricing",
-    note: `A migration agent site with home, visa-category pages, agent profiles, a fees overview, consultation booking and policy pages starts from ${P.site} for up to 100 pages and usually takes one to two weeks once content is agreed. Practices wanting a page for every visa subclass, plus several language sections, generally fit the SEO website plan from ${P.seoSite}, over three to five weeks. A client portal with secure uploads, case status and reminders is custom software from ${P.software}. Ongoing SEO starts from ${P.seo} a month. Your quote arrives itemised in about two working days, and nothing is charged until you approve it in writing.`,
+    note: `A migration agent site with home, visa-category pages, agent profiles, a fees overview, consultation booking and policy pages starts from ${P.site} for up to 100 pages and usually takes one to two weeks once content is agreed. Practices wanting a page for every visa subclass, plus several language sections, generally fit the SEO website plan from ${P.seoSite}, over three to five weeks. A client portal with secure uploads, case status and reminders is custom software from ${P.software}. Ongoing SEO starts from ${P.seo}. Your quote arrives itemised in about two working days, and nothing is charged until you approve it in writing.`,
   },
   guideLabel: "Migration agent website design guide",
   guide: [
@@ -319,7 +320,7 @@ const content: FreelanceContent = {
         ["Client portal with uploads and status", "Practices with steady caseloads", `From ${P.software}`, "6–12 weeks"],
         ["Intake and reminder automation", "Practices handling many enquiries", `From ${P.ai}`, "2–4 weeks"],
         ["Mobile app for clients", "Larger practices with repeat clients", `From ${P.app}`, "6–10 weeks"],
-        ["Monthly SEO", "Practices competing in busy cities", `From ${P.seo} a month`, "Ongoing"],
+        ["Monthly SEO", "Practices competing in busy cities", `From ${P.seo}`, "Ongoing"],
       ],
       hideSm: [1],
     },
@@ -387,7 +388,7 @@ const content: FreelanceContent = {
     { question: "Who owns my migration agent website?", answer: "Your practice owns the domain, hosting, code, content and form data. We work inside accounts you create, and ownership of the work passes to you as set out in your written quote and our terms. If you change developers later, everything stays with you." },
     { question: "Do you write the content for migration agent websites?", answer: "We turn your notes into clear pages and flag wording that could breach the Code's limits on misleading statements. You approve every word, and you remain responsible for its accuracy. We do not invent testimonials, success rates, qualifications or affiliations, and we do not give migration advice." },
     { question: "Can you add a client portal for documents and case updates?", answer: `Yes. A portal where clients log in, upload documents securely and see where their matter stands is custom software starting from ${P.software}, usually six to twelve weeks. It includes role-based access, encrypted storage and activity logs. If your practice management software already has a portal, we can link to it instead.` },
-    { question: "Can you help my migration agent website rank on Google?", answer: `We launch with fast mobile pages, pathway pages that match real searches, structured data, a submitted sitemap and a linked Google Business Profile. Rankings also depend on reviews, competition and content, so nobody can honestly guarantee them. Ongoing SEO starts from ${P.seo} a month if you want it.` },
+    { question: "Can you help my migration agent website rank on Google?", answer: `We launch with fast mobile pages, pathway pages that match real searches, structured data, a submitted sitemap and a linked Google Business Profile. Rankings also depend on reviews, competition and content, so nobody can honestly guarantee them. Ongoing SEO starts from ${P.seo} if you want it.` },
     { question: "Will my migration website appear in AI answers?", answer: "It may be cited when its pages answer questions clearly, name official sources and show when they were last checked, though no one controls when AI tools quote a page. We write each FAQ and pathway overview so the first sentence answers the question on its own, which suits AI Overviews and chat assistants." },
     { question: "Do immigration lawyers need a different website from migration agents?", answer: "The structure is similar, but lawyers also have their own professional conduct and advertising rules, which differ by state. We build the same clear pathway pages, secure intake and booking, and you or your practice's compliance adviser confirm the wording. Our law firm website design page covers the legal side in more detail." },
     { question: "Should I show a fee list on my website?", answer: "Many agents show at least the initial consultation fee and explain how service fees are worked out, because clients want to know what starting costs. Whether to publish a full fee schedule is your call. Whatever you publish must match what you charge and what goes into your service agreements." },

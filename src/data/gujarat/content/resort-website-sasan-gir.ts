@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Resort Website in Sasan Gir from ${P.site}`,
-    description: `Resort website in Sasan Gir for jungle resorts and farm stays: honest safari pages, season calendars and direct booking. Sites from ${P.site}, booking from ${P.shop}.`,
+    description: `Resort website in Sasan Gir for jungle resorts & farm stays: honest safari pages, season calendars & direct booking. Sites from ${P.site}, booking from ${P.shop}.`,
     keywords: [
       "resort website in Sasan Gir", "Sasan Gir resort website", "Gir resort website design", "farm stay website Gir", "jungle resort website Gujarat",
       "Gir safari resort booking website", "Sasan Gir hotel website", "resort website developer Gujarat", "resort website near me Gir", "Sasan Gir Gujarat website developer",

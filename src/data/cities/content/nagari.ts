@@ -7,7 +7,7 @@ const nagari: CityContent = {
   meta: {
     title: "IT Services in Nagari | Web, Apps & AI from ₹10,000",
     description:
-      "Tamil, Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Nagari powerloom owners, lungi and saree traders, clinics and shops.",
+      "Tamil, apps, SEO and WhatsApp tools for Nagari powerloom owners, lungi and saree traders, clinics and shops. From ₹10,000, with 2 months of free upkeep.",
     keywords: [
       "IT services in Nagari",
       "IT services team in Nagari",
@@ -29,6 +29,12 @@ const nagari: CityContent = {
       "Nagari lo website cheyinchali",
       "Nagari me website banwana",
       "నగరి వెబ్‌సైట్ డిజైన్",
+      "Nagari website designer",
+      "web development company Nagari",
+      "hire freelance web developer Nagari",
+      "Chittoor district SEO",
+      "website designer Chittoor district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

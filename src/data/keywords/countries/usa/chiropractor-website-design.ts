@@ -33,7 +33,7 @@ const content: FreelanceContent = {
   facts: [
     ["Chiropractic site from", `${P.site} · live in 1–2 weeks`],
     ["Multi-clinic or big condition library", `From ${P.seoSite}`],
-    ["Local SEO inside your radius", `From ${P.seo} a month`],
+    ["Local SEO inside your radius", `From ${P.seo}`],
     ["Front-desk automation", `From ${P.ai}`],
     ["After launch", `2 free months, then care from ${P.care}`],
     ["Call times", "Your morning (Eastern) is our evening in India"],
@@ -47,7 +47,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "What makes chiropractor website design actually fill the schedule?",
     text: `Chiropractor website design fills the schedule when it gives new patients one clear offer page, a page for each condition they search (back pain, sciatica, neck pain, auto injury), a booking button tied to your practice software on every page, real reviews, and local SEO within your drive-time radius. BtechWaleTech builds this from ${P.site}; larger multi-clinic sites start at ${P.seoSite}.`,
-    more: `Running monthly search work? See our <a href='/usa/local-seo-services/'>local SEO services for US clinics</a>. Physical therapists with similar needs can read <a href='/usa/physical-therapy-website-design/'>physical therapy website design</a>.`,
+    more: `Running monthly search work? See our <a href='/usa/local-seo-services/'>local SEO services for US clinics</a>. Multi-provider clinics with similar needs can read <a href='/usa/medical-practice-website-design/'>medical practice website design</a>.`,
   },
   snapshot: {
     caption: "Chiropractic website build in brief",
@@ -334,7 +334,7 @@ const content: FreelanceContent = {
         ["Care-plan sign-up with card payment", P.shop, "4–8 weeks", "You sell monthly wellness or maintenance plans"],
         ["Front-desk assistant", P.ai, "2–4 weeks", "Many after-hours questions and missed calls"],
         ["Custom intake or patient portal", P.software, "6–12 weeks", "Your software lacks the workflow you need"],
-        ["Local SEO", P.seo + " a month", "Ongoing", "You want steady growth within your radius"],
+        ["Local SEO", P.seo, "Ongoing", "You want steady growth within your radius"],
       ],
       hideSm: [2],
     },
@@ -398,11 +398,11 @@ const content: FreelanceContent = {
   related: {
     heading: "More US pages for clinics and local practices",
     links: [
-      { name: "Physical therapy website design", href: "/usa/physical-therapy-website-design/" },
+      { name: "Home care agency website design", href: "/usa/home-care-agency-website-design/" },
       { name: "Medical practice website design", href: "/usa/medical-practice-website-design/" },
       { name: "Med spa website design", href: "/usa/med-spa-website-design/" },
       { name: "Dental website design", href: "/usa/dental-website-design/" },
-      { name: "Therapist website design", href: "/usa/therapist-website-design/" },
+      { name: "Telehealth app development", href: "/usa/telehealth-app-development/" },
       { name: "HIPAA-aware website design", href: "/usa/hipaa-compliant-website-design/" },
       { name: "ADA-compliant website design", href: "/usa/ada-compliant-website-design/" },
       { name: "Local SEO services", href: "/usa/local-seo-services/" },

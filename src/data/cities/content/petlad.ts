@@ -7,7 +7,7 @@ const petlad: CityContent = {
   meta: {
     title: "IT Services in Petlad | Web, Apps & AI from ₹10,000",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Petlad GIDC units, tobacco traders, textile firms, NRI families, schools and shops.",
+      "Gujarati websites, apps, local SEO and WhatsApp tools for Petlad GIDC units, tobacco traders, textile firms, NRI families, schools and shops. From ₹10,000.",
     keywords: [
       "IT services in Petlad",
       "IT services team in Petlad",
@@ -29,6 +29,12 @@ const petlad: CityContent = {
       "Petlad me website banwana",
       "Petladma website banavvi che",
       "પેટલાદ વેબસાઇટ ડિઝાઇન",
+      "Petlad website designer",
+      "web development company Petlad",
+      "hire freelance web developer Petlad",
+      "Anand district SEO",
+      "website designer Anand district",
+      "Gujarat SEO services",
     ],
   },
   hero: {

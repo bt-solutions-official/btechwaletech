@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "programmatic seo for saas", "product-led seo", "bottom of funnel seo saas", "track signups from seo",
       "saas signup attribution", "saas seo Bengaluru", "saas seo Chennai", "saas seo Pune", "how to get trial signups from google",
       "indian saas seo for us market", "saas content marketing seo",
+      "SaaS SEO services cost", "SaaS SEO services price", "SaaS SEO services company", "best SaaS SEO services in India",
+      "SaaS SEO services cost in India", "SaaS SEO services near me",
     ],
   },
   hero: {

@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Quote", value: "Itemised, about 2 working days after the brief" },
       { label: "Full new website", value: `From ${P.site}, 1–2 weeks` },
       { label: "Small edits after a build", value: "Free for 2 months post-launch" },
-      { label: "Ongoing care", value: `From ${P.care} per month, optional` },
+      { label: "Ongoing care", value: `From ${P.care}, optional` },
       { label: "Payment", value: "UPI or bank transfer; Wise, wire or PayPal abroad" },
       { label: "What you keep", value: "All code, files and logins" },
     ],

@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 29.3909, lng: 76.9635 },
   meta: {
-    title: "Freelance Software Developers in Panipat",
+    title: "Panipat Software Developers: Home Textiles & Rug Exports",
     description:
-      "Freelance software developers in Panipat for export order tools, buyer-mail AI, catalogues and dashboards. Software from ₹60,000, iOS and Android apps from ₹40,000.",
+      "Freelance software developers in Panipat for export order tools, buyer-mail AI, catalogues and dashboards. Software from ₹60,000, apps ₹40,000.",
     keywords: [
       "freelance software developers in Panipat",
       "hire freelance developer Panipat",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "ecommerce website for bedsheet manufacturers Panipat",
       "Panipat mein software team",
       "पानीपत में सॉफ्टवेयर डेवलपमेंट कंपनी",
+      "Panipat website designer",
+      "website cost in Panipat",
+      "IT company in Panipat",
+      "Haryana SEO services",
+      "hire developer Panipat",
+      "home-furnishing software in Panipat",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Petlad · Sites from ${P.site}`,
-    description: `Website developer in Petlad for textile traders, rice mills, schools, clinics and NRI-linked families. Sites from ${P.site}, Gujarati with your copy, quote in 2 days.`,
+    description: `Website developer in Petlad for textile traders, rice mills, schools, clinics and NRI-linked families. Sites from ${P.site}, Gujarati pages, quote in 2 days.`,
     keywords: [
       "website developer in Petlad", "website developer Petlad", "website developer near me Petlad", "Petlad Anand website developer",
       "Petlad Gujarat website design", "website designer Petlad", "web developer Petlad", "website development services Petlad",

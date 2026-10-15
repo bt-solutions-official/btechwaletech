@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `WordPress Website Design Saudi Arabia, from ${P.site}`,
-    description: `WordPress website design for Saudi Arabia from ${P.site}: fast Arabic-English sites with RTL done properly, few plugins, WooCommerce with mada and hardened hosting.`,
+    description: `WordPress website design for Saudi Arabia from ${P.site}: fast Arabic-English sites with RTL done properly, WooCommerce with mada and hardened hosting.`,
     keywords: [
       "wordpress website design saudi arabia", "wordpress website design ksa", "wordpress developer saudi arabia",
       "wordpress web design riyadh", "wordpress website jeddah", "wordpress developer dammam", "arabic wordpress website",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "woocommerce mada", "woocommerce apple pay saudi arabia", "wordpress security hardening", "wordpress hosting saudi arabia",
       "wordpress maintenance saudi arabia", "wordpress website cost saudi arabia", "corporate wordpress website ksa",
       "wordpress without page builder", "wordpress website design company saudi arabia", "hire wordpress developer india",
+      "freelance wordpress website design Saudi Arabia",
     ],
   },
   hero: {

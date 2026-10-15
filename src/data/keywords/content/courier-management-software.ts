@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "courier management software cost", "how much does courier software cost", "domestic courier software", "courier software with pincode serviceability",
       "courier rto management", "courier software Delhi", "courier software Kolkata", "courier ka software banwana hai",
       "courier management software near me", "run sheet app for couriers", "courier api for ecommerce clients",
+      "courier management software company in India",
+      "best courier management software in India",
     ],
   },
   hero: {
@@ -60,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Hardware", value: "Uses printers, scanners and phones you buy; we do not supply devices" },
       { label: "Timeline", value: "8–12 weeks; one hub pilots before the rest join" },
       { label: "Paying us", value: "UPI or bank transfer against approved milestones" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -212,7 +214,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, custom courier management software starts at ${P.software} for the web platform and ${P.app} for the delivery-boy app. The final quote depends on the size and shape of your network rather than on the number of screens.`,
         `The main cost drivers are the number of franchise levels and settlement rules, how many hubs and routes you run, per-client rate cards and surcharges, integrations with ecommerce shippers and accounting, UPI collection on delivery, and moving open shipments from an old system. A single-city network with one hub and walk-in bookings sits near the starting figures. A multi-state franchise network with hubs, API clients and weekly COD remittance sits higher.`,
-        `Running costs are yours and paid directly to providers: cloud hosting, SMS and WhatsApp messages, maps if used, and payment provider charges for UPI collections, plus Google Play’s one-time US$25 registration and, if you publish on iOS, Apple’s US$99 yearly developer membership. Label printers and scanners are bought by you. Maintenance is free for two months after launch, then from ${P.care} a month if you want it. For broader budgets, read <a href='/custom-software-development-cost-in-india/'>custom software development cost</a>.`,
+        `Running costs are yours and paid directly to providers: cloud hosting, SMS and WhatsApp messages, maps if used, and payment provider charges for UPI collections, plus Google Play’s one-time US$25 registration and, if you publish on iOS, Apple’s US$99 yearly developer membership. Label printers and scanners are bought by you. Maintenance is free for two months after launch, then from ${P.care} if you want it. For broader budgets, read <a href='/custom-software-development-cost-in-india/'>custom software development cost</a>.`,
       ],
     },
     {
@@ -320,7 +322,7 @@ const content: FreelanceContent = {
         ["Multi-state with API clients", "Client APIs, per-client rate cards, remittance cycles", `${P.software} upwards`, "12–16 weeks"],
         ["Delivery-boy app", "Run sheets, POD, COD, failed-attempt reasons", `${P.app}`, "Built alongside"],
         ["Website with tracking", "Service pages, pincode checker, tracking page", `${P.seoSite}`, "3–5 weeks"],
-        ["After launch", "Fixes, rule updates, small changes", `2 months free, then ${P.care}/month`, "Ongoing"],
+        ["After launch", "Fixes, rule updates, small changes", `2 months free, then ${P.care}`, "Ongoing"],
       ],
       hideSm: [3],
     },
@@ -355,7 +357,7 @@ const content: FreelanceContent = {
       ["Fix the rules on paper", "AWB series, rate cards, scan events, proof rules, COD cycle and franchise commissions are written down and agreed before the database is designed."],
       ["Test with your printers and scanners", "Early builds print real labels on your thermal printer and scan with your devices, so hardware surprises appear in week three, not launch week."],
       ["Pilot one route", "One booking branch, one hub and one delivery branch run live shipments in parallel with the old system until results match for a week or two."],
-      ["Roll out and hand over", "Remaining branches join in batches. You receive code, credentials and notes; two months of free maintenance follow, then care from " + P.care + " a month if wanted."],
+      ["Roll out and hand over", "Remaining branches join in batches. You receive code, credentials and notes; two months of free maintenance follow, then care from " + P.care + " if wanted."],
     ],
   },
   faqHeading: "Courier management software: frequently asked questions",
@@ -377,7 +379,7 @@ const content: FreelanceContent = {
     { question: "Who owns the courier software and shipment data?", answer: "You do. The code sits in a repository under your account, the database and backups run in your cloud account, and apps are published under your own store accounts. We hand over admin credentials, architecture notes and a recorded walkthrough at launch." },
     { question: "Does the software work with our label printers and scanners?", answer: "Usually yes. Most thermal label printers and handheld barcode scanners work with web and phone apps, and riders can scan with the phone camera. Share your printer and scanner models early; we test real labels on your hardware in the first weeks so there are no surprises at launch." },
     { question: "How is customer data protected?", answer: "Access is role-based, so a franchise sees only its own shipments. Data is encrypted in storage, exports and views are logged, phone numbers can be masked on labels, and deletion rules follow what you decide with your lawyer. India’s Digital Personal Data Protection Act, 2023 governs personal data, so your counsel should confirm your policies." },
-    { question: "What ongoing costs should we plan for?", answer: `Cloud hosting, SMS and WhatsApp messages, payment provider charges on UPI collections, maps if used, and store fees: Google Play’s one-time US$25 and, for iOS, Apple’s US$99 per year. You buy printers and scanners. Maintenance from us is free for two months after launch, then from ${P.care} a month if you want it.` },
+    { question: "What ongoing costs should we plan for?", answer: `Cloud hosting, SMS and WhatsApp messages, payment provider charges on UPI collections, maps if used, and store fees: Google Play’s one-time US$25 and, for iOS, Apple’s US$99 per year. You buy printers and scanners. Maintenance from us is free for two months after launch, then from ${P.care} if you want it.` },
     { question: "Can you add a tracking page to our website?", answer: `Yes. The courier platform publishes scan events to a public tracking page by AWB, written in plain words and fast on mobile. We can also build a full courier website with service pages and a pincode checker, starting from ${P.seoSite}. WhatsApp updates at each key stage reduce enquiry calls further.` },
     { question: "Courier franchise ke liye software banwana hai, shuru kaise karein?", answer: `WhatsApp par ek parcel ki poori journey samjhaiye: booking, hub, delivery aur COD settlement. Saath mein franchise commission rules aur label ka photo bhejiye. 2 working days mein itemised quote milega. Web platform ${P.software} se aur delivery app ${P.app} se shuru hota hai, launch ke baad 2 mahine maintenance free.` },
     { question: "Will courier software help us get more business from Google?", answer: "Indirectly. Your tracking page and service pages are often the most visited parts of a courier website, and clear pages for each city and service you genuinely cover help search engines and AI assistants recommend you. An accurate Google Business Profile per branch helps local searches. No one can honestly guarantee a ranking." },

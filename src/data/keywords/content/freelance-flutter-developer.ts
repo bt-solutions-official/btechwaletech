@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Freelance Flutter developer",
   updated: "2026-09-24",
   meta: {
-    title: `Freelance Flutter Developer: One App, Android + iOS`,
+    title: `Freelance Flutter Developer: Apps from ${P.app}`,
     description: `Freelance Flutter developer in India: one Dart codebase for Android and iOS, smooth on budget phones, vetted packages. Apps from ${P.app}, quote in 2 days.`,
     keywords: [
       "freelance flutter developer", "freelance flutter developer India", "flutter developer near me", "flutter developer for hire",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "flutter android ios app", "flutter vs react native", "flutter firebase developer", "flutter app performance",
       "flutter packages pub.dev", "flutter web app developer", "freelance dart flutter programmer", "flutter app banwana hai",
       "remote flutter developer India", "flutter mobile app freelancer",
+      "hire freelance flutter developer",
     ],
   },
   hero: {
@@ -358,7 +359,7 @@ const content: FreelanceContent = {
     { question: "How do I hire a good freelance Flutter developer?", answer: "Install apps they have published and test them on a budget Android phone. Ask which state management they use and why, how they handle abandoned packages, and how they release iOS builds. Request an itemised quote based on your brief, stage payments on visible progress, and make sure the code and store accounts are yours." },
     { question: "Can a Flutter app use UPI payments?", answer: "Yes. A Flutter app can launch UPI apps through intent flows and accept cards through a payment provider's SDK or checkout. The important part is verifying every payment on the server, not on the phone, and handling cases where the user closes the UPI app or the confirmation arrives late. Store billing rules for digital goods are checked first." },
     { question: "Who owns the Flutter source code?", answer: "You should own it outright. BtechWaleTech keeps the Dart code in a repository under your account from the first week, publishes in your Play Console and Apple developer accounts, and hands over signing keys, backend access and a list of every package used. Any other Flutter developer can continue from that package." },
-    { question: "What happens when Flutter or Android releases an update?", answer: `Flutter ships stable updates regularly and Google Play raises its target Android version requirement each year, so apps need periodic upgrades to keep publishing. BtechWaleTech covers fixes and updates free for two months after release; after that, maintenance starts at ${P.care} a month and includes Flutter and package upgrades.` },
+    { question: "What happens when Flutter or Android releases an update?", answer: `Flutter ships stable updates regularly and Google Play raises its target Android version requirement each year, so apps need periodic upgrades to keep publishing. BtechWaleTech covers fixes and updates free for two months after release; after that, maintenance starts at ${P.care} and includes Flutter and package upgrades.` },
     { question: "Can you convert my existing native app to Flutter?", answer: "Usually, yes. We keep your existing backend and rebuild the app screen by screen in Flutter, then release it as an update to the same store listings so users and reviews stay. It makes most sense when two native apps have drifted apart or are expensive to maintain separately. We quote after reviewing the current app." },
     { question: "Can a Flutter app work offline?", answer: "Yes. A local database such as Drift or Hive stores data on the phone, so users can read content and save forms without signal. When the connection returns, the app syncs with the server. The tricky part is deciding what happens when the same record changes in two places, which we define with you before building." },
     { question: "Should I choose a freelance Flutter developer or an agency?", answer: "A freelance developer or small freelance team suits apps with a clear launch scope where you want direct contact with the people coding and a budget without agency overheads. An agency suits projects needing many engineers at once or formal procurement. BtechWaleTech's three developers each know your code, so work continues if one is unavailable." },

@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "AC repair website near me", "AC repair website Delhi", "AC repair website Hyderabad", "AC repair website Chennai",
       "refrigerator and washing machine repair website", "AC repair SEO", "AC repair Google Business Profile", "AC repair ki website kaise banaye",
       "AC service centre website", "best website for AC repair business",
+      "ac repair service website company in India",
     ],
   },
   hero: {
@@ -312,7 +313,7 @@ const content: FreelanceContent = {
         ["Adding technician logins and job cards", "Custom web app for dispatch, photos, AMC schedules", `${P.software}`, "6–12 weeks"],
         ["Technician Android and iOS app", "Offline job list, camera, signatures", `${P.app}`, "6–10 weeks"],
         ["WhatsApp booking assistant", "Automated replies, slot capture, reminders", `${P.ai}`, "2–4 weeks"],
-        ["Ongoing SEO", "Area pages, reviews, profile updates, reporting", `${P.seo} a month`, "Monthly"],
+        ["Ongoing SEO", "Area pages, reviews, profile updates, reporting", `${P.seo}`, "Monthly"],
       ],
       hideSm: [3],
     },

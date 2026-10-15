@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Social Media App Developer: Apps from ${P.app} in India`,
-    description: `Social media app developer for community and social apps: feeds, chat, groups and real moderation tools. Apps from ${P.app}; honest scope, costs and store rules.`,
+    description: `Social media app developer for community apps: feeds, chat, groups and real moderation tools built in from version one. Apps from ${P.app}, honest scope.`,
     keywords: [
       "social media app developer", "social media app developer India", "social media app developer near me", "social media app developer for hire",
       "social media app development cost", "social media app price India", "best social media app developer", "social media app banwana hai",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "private community app", "alumni app development", "chat and feed app developer", "content moderation app features",
       "social app MVP developer", "freelance social app developer", "build an app like a social network", "community platform for members",
       "social media app kaise banaye", "group chat app developer",
+      "hire social media app developer", "freelance social media app developer", "social media app developer cost", "best social media app developer in India",
+      "social media app developer price", "social media app developer charges",
     ],
   },
   hero: {

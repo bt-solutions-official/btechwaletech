@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Website bug fixing freelancer",
   updated: "2026-09-24",
   meta: {
-    title: "Website Bug Fixing Freelancer: Diagnose & Fix Fast",
-    description: `Website bug fixing freelancer in India for sites that are down, forms that fail or broken checkouts. Diagnosis first, then an itemised quote. Care from ${P.care}.`,
+    title: `Website Bug Fixing Freelancer: Diagnose First, Cost`,
+    description: `Website bug fixing freelancer in India for sites that are down, forms that fail or broken checkouts. Diagnosis first, then a quote. Care from ${P.care}.`,
     keywords: [
       "website bug fixing freelancer", "website bug fixing freelancer India", "website bug fixing near me", "website bug fixer for hire",
       "website bug fixing cost", "website error fixing price", "best website bug fixing freelancer", "website thik karne wala developer",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website down emergency help", "500 internal server error fix", "contact form not working fix", "checkout not working fix",
       "website broken on mobile fix", "javascript error fix freelancer", "SSL error fix", "website troubleshooting freelancer",
       "PHP error fix freelancer", "React Next.js bug fix freelancer",
+      "hire website bug fixing freelancer", "freelance website bug fixing freelancer", "website bug fixing freelancer cost", "website bug fixing freelancer near me",
+      "best website bug fixing freelancer in India", "website bug fixing freelancer price", "website bug fixing freelancer charges",
     ],
   },
   hero: {

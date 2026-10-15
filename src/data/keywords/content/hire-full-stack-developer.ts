@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Hire a Full Stack Developer | Web Apps from ${P.software}`,
-    description: `Hire a full stack developer in India for web apps, portals and dashboards from ${P.software}. Stack advice, a paid test task plan and honest cost drivers.`,
+    description: `Hire a full stack developer in India for web apps, portals and dashboards: stack advice, a paid test task plan and cost drivers. From ${P.software}.`,
     keywords: [
       "hire full stack developer", "hire full stack developer in India", "hire a full stack developer", "full stack developer for hire",
       "full stack developer near me", "hire full stack developer cost", "full stack developer price India", "best full stack developer to hire",

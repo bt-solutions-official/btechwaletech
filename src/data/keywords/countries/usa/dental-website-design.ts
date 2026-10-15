@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What dental website design costs here",
-    note: `A single-location dental practice site of up to 100 pages, including new-patient booking, an insurance page, treatment pages, dentist bios, accessible design and HIPAA-aware form setup, starts at ${P.site} and takes one to two weeks once content is approved. Multi-location groups or practices wanting a large treatment library start at ${P.seoSite}. Custom intake or a patient portal is software from ${P.software}. Local dental SEO starts at ${P.seo} a month, and care starts at ${P.care} after two free months. Every figure is a starting price; the form service with a business associate agreement is billed to your practice directly.`,
+    note: `A single-location dental practice site of up to 100 pages, including new-patient booking, an insurance page, treatment pages, dentist bios, accessible design and HIPAA-aware form setup, starts at ${P.site} and takes one to two weeks once content is approved. Multi-location groups or practices wanting a large treatment library start at ${P.seoSite}. Custom intake or a patient portal is software from ${P.software}. Local dental SEO starts at ${P.seo}, and care starts at ${P.care} after two free months. Every figure is a starting price; the form service with a business associate agreement is billed to your practice directly.`,
   },
   guideLabel: "Dental website design guide",
   guide: [
@@ -180,7 +180,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Accessible dental website design means patients with low vision, limited mobility, hearing loss or cognitive difficulties can find information and book, whether they use a screen reader, keyboard, zoom or voice control. For a practice serving all ages, that is a large share of patients.`,
         `The <a href='https://www.ada.gov/resources/web-guidance/' rel='noopener'>Justice Department’s web accessibility guidance</a> says Title III of the ADA covers businesses open to the public and points to the Web Content Accessibility Guidelines as helpful technical guidance. We build to WCAG basics from the start rather than bolting on an overlay widget afterwards: sufficient color contrast, text that enlarges cleanly, labeled form fields, error messages that explain the problem, full keyboard access, visible focus, alt text on meaningful images and captions on video.`,
-        `We test with keyboard-only navigation, a screen reader and automated checks before launch, then fix what they find. We don’t issue legal certificates of compliance; if you want a formal audit or legal opinion, your counsel or a specialist auditor can provide it. For older sites, see our page on <a href='/usa/website-accessibility-remediation/'>website accessibility remediation</a>.`,
+        `We test with keyboard-only navigation, a screen reader and automated checks before launch, then fix what they find. We don’t issue legal certificates of compliance; if you want a formal audit or legal opinion, your counsel or a specialist auditor can provide it. For older sites, see our page on <a href='/usa/ada-compliant-website-design/'>ADA compliant website design</a>.`,
       ],
     },
     {
@@ -248,7 +248,7 @@ const content: FreelanceContent = {
         "How will our current rankings and URLs be protected during a redesign?",
       ],
       after: [
-        `If any answer is vague, especially on form data and ownership, keep looking. For practices outside dentistry with similar needs, see our notes on <a href='/usa/chiropractor-website-design/'>chiropractor website design</a> and <a href='/usa/physical-therapy-website-design/'>physical therapy website design</a>.`,
+        `If any answer is vague, especially on form data and ownership, keep looking. For practices outside dentistry with similar needs, see our notes on <a href='/usa/chiropractor-website-design/'>chiropractor website design</a> and <a href='/usa/medical-practice-website-design/'>medical practice website design</a>.`,
       ],
     },
     {
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
       { name: "Chiropractor website design", href: "/usa/chiropractor-website-design/" },
       { name: "Med spa website design", href: "/usa/med-spa-website-design/" },
       { name: "Plastic surgeon website design", href: "/usa/plastic-surgeon-website-design/" },
-      { name: "Website accessibility remediation", href: "/usa/website-accessibility-remediation/" },
+      { name: "Website redesign services", href: "/usa/website-redesign-services/" },
       { name: "Contractor website design", href: "/usa/contractor-website-design/" },
       { name: "Local SEO services", href: "/usa/local-seo-services/" },
       { name: "Websites for US businesses", href: "/usa/" },

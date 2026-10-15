@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Anjar: Sites from ${P.site}`,
-    description: `Website developer in Anjar for pipe-plant suppliers, knife makers, bandhani sellers and local shops. Sites from ${P.site}, built remotely, accounts in your name.`,
+    description: `Website developer in Anjar for pipe-plant suppliers, knife makers, bandhani sellers and local shops. Sites from ${P.site}, remote build, accounts in your name.`,
     keywords: [
       "website developer in Anjar", "website developer Anjar", "Anjar website developer", "web developer Anjar Kutch",
       "website developer near me Anjar", "Anjar Gujarat website", "website designer Anjar", "website development services Anjar",

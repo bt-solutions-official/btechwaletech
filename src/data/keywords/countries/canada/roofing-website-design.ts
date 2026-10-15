@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "roofing company website ottawa", "roofer website winnipeg", "roofing website vancouver",
       "roofing before and after gallery", "roofing seo canada", "how do roofers get more leads",
       "roofing website design near me", "what should a roofing website have", "google local services ads roofers canada",
+      "hire roofing website design in Canada", "freelance roofing website design Canada",
     ],
   },
   hero: {

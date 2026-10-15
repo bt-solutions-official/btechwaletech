@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Designer in Mumbai: Design + Build ${P.site}+`,
-    description: `Website designer in Mumbai for brands, studios and shops: mobile-first layouts, type and photo direction, reviewed on screen-share. Design and build from ${P.site}.`,
+    description: `Website designer in Mumbai for brands, studios and shops: mobile-first layouts, type and photo direction, reviewed on screen-share. Build from ${P.site}.`,
     keywords: [
       "website designer in Mumbai", "website designer Mumbai", "web designer in Mumbai", "web designer Mumbai", "website design Mumbai",
       "website designing in Mumbai", "freelance website designer Mumbai", "website designer near me Mumbai", "UI UX designer Mumbai website",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "website redesign Mumbai", "portfolio website designer Mumbai", "restaurant website design Mumbai", "jewellery website design Mumbai",
       "website designer Bandra", "website designer Andheri", "website designer Lower Parel", "Marathi website design Mumbai",
       "website designer Bombay", "Mumbai me website design", "website design karwana hai Mumbai", "best website designer in Mumbai",
+      "website designer in Mumbai cost", "website designer in Mumbai price", "hire website designer in Mumbai", "freelance website designer in Mumbai",
+      "website designer in Mumbai charges",
     ],
   },
   hero: {

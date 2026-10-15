@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Navratri Garba Event Website in Gujarat from ${P.site}`,
-    description: `Navratri garba event website in Gujarat: online passes, QR entry scanning, sponsor pages and nightly updates. Event sites from ${P.site}, pass systems from ${P.shop}.`,
+    description: `Navratri garba event website in Gujarat: online passes, QR entry scanning, sponsor pages and nightly updates. Sites from ${P.site}, pass systems from ${P.shop}.`,
     keywords: [
       "Navratri garba event website in Gujarat", "garba event website", "Navratri pass booking website", "garba ticket booking website", "garba QR code entry system",
       "Navratri event website Gujarat", "garba season pass website", "garba organiser website near me", "Navratri ticketing website developer", "garba sponsor website",

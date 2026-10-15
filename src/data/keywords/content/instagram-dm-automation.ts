@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "instagram dm automation for boutique", "instagram dm automation for real estate", "instagram dm automation for coaches", "instagram 24 hour messaging window",
       "how to automate instagram dms", "is instagram dm automation allowed", "instagram dm automation developer", "instagram dm automation Mumbai",
       "instagram dm automation Bengaluru", "instagram dm automatic reply kaise kare",
+      "instagram dm automation company in India",
+      "best instagram dm automation in India",
+      "instagram dm automation services",
     ],
   },
   hero: {

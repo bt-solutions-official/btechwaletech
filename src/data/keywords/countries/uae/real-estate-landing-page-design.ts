@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "crm integration landing page", "fast landing page for ads", "real estate landing page dubai",
       "real estate landing page abu dhabi", "landing page for property developers", "landing page for brokers uae",
       "trakheesi permit landing page", "multilingual property landing page",
+      "hire real estate landing page design in the UAE", "freelance real estate landing page design UAE",
     ],
   },
   hero: {

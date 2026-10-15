@@ -7,7 +7,7 @@ const nirmal: CityContent = {
   meta: {
     title: "IT Services in Nirmal | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Nirmal toy artisans, cotton traders, highway businesses, hospitals and colleges.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Nirmal toy artisans, cotton traders, highway businesses, hospitals and colleges. Sites from ₹10,000.",
     keywords: [
       "IT services in Nirmal",
       "IT services team in Nirmal",
@@ -29,6 +29,12 @@ const nirmal: CityContent = {
       "Nirmal me website banwana",
       "Nirmal lo website cheyinchali",
       "నిర్మల్ వెబ్‌సైట్ డిజైన్",
+      "Nirmal website designer",
+      "web development company Nirmal",
+      "hire freelance web developer Nirmal",
+      "Telangana SEO services",
+      "Nirmal me website kaise banwaye",
+      "Nirmal website banwane ka kharcha",
     ],
   },
   hero: {

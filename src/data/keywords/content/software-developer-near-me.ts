@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Software developer near me",
   updated: "2026-09-24",
   meta: {
-    title: `Software Developer Near Me: Billing, Stock & CRM`,
-    description: `Looking for a software developer near me for billing, inventory or CRM? Custom business software from ${P.software}, built around how your shop or office really works.`,
+    title: `Software Developer Near Me: Billing & CRM, ${P.software}+`,
+    description: `Looking for a software developer near me for billing, stock or CRM? Custom business software from ${P.software}, built around how your shop really works.`,
     keywords: [
       "software developer near me", "software developer near me for small business", "software developer in India", "custom software developer near me",
       "software developer for hire", "software development cost for small business", "best software developer near me", "software banane wala near me",

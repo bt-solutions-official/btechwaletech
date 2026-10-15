@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Website accessibility audit",
   updated: "2026-09-25",
   meta: {
-    title: "Website Accessibility Audit: WCAG 2.2 AA Test and Fix",
+    title: `Website Accessibility Audit: WCAG 2.2 AA Cost, 2026`,
     description: `Website accessibility audit against WCAG 2.2 AA: keyboard, screen reader and contrast testing, RPwD, GIGW and ADA context, and fixes. Rebuilds from ${P.site}.`,
     keywords: [
       "website accessibility audit", "web accessibility audit", "WCAG audit", "WCAG 2.2 AA audit", "website accessibility testing",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "accessibility audit for ecommerce", "accessibility audit for WordPress", "website accessibility audit near me",
       "website accessibility audit Delhi", "website accessibility audit Bengaluru", "accessibility audit report", "is my website accessible",
       "website accessibility kaise check kare", "accessibility audit for US clients", "keyboard navigation testing",
+      "website accessibility audit cost", "website accessibility audit company", "best website accessibility audit in India", "website accessibility audit cost in India",
+      "website accessibility audit service",
     ],
   },
   hero: {

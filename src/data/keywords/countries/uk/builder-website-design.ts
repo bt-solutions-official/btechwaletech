@@ -320,7 +320,7 @@ const content: FreelanceContent = {
         ["Firm covering a county", "299+ pages: project types by town, case studies, explainers", `From ${P.seoSite}`, "3–5 weeks"],
         ["Estimate automation", "Enquiries scored by stage and budget, logged and acknowledged", `From ${P.ai}`, "2–4 weeks"],
         ["Client progress portal", "Private job updates, photos and documents per client", `From ${P.software}`, "6–12 weeks"],
-        ["Ongoing SEO", "New case studies, explainer updates, profile posts", `From ${P.seo} a month`, "Monthly"],
+        ["Ongoing SEO", "New case studies, explainer updates, profile posts", `From ${P.seo}`, "Monthly"],
       ],
       hideSm: [1],
     },

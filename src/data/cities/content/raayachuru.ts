@@ -7,7 +7,7 @@ const raayachuru: CityContent = {
   meta: {
     title: "Raichur Web Design & Kannada SEO from ₹10,000",
     description:
-      "Websites, Kannada and Telugu SEO, WhatsApp automation and dealer tools for Raichur cotton, rice mill, hospital and college businesses. Starting from ₹10,000.",
+      "Websites, WhatsApp tools and dealer tools for Raichur cotton, rice mill, hospital and college businesses. Sites from ₹10,000 with an itemised quote.",
     keywords: [
       "website development team in Raichur",
       "web design Raichur",
@@ -25,6 +25,16 @@ const raayachuru: CityContent = {
       "website maintenance Raichur",
       "Raichur alli website design",
       "ರಾಯಚೂರು ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "web development company Raichur",
+      "hire freelance web developer Raichur",
+      "Kalyana Karnataka SEO services",
+      "website designer Kalyana Karnataka",
+      "Karnataka SEO services",
+      "Raichur rice mills website",
+      "rice mills website design Raichur",
+      "Raichur agri-input dealers website",
+      "agri-input dealers website design Raichur",
+      "website design Sarafa Bazar Raichur",
     ],
   },
   hero: {

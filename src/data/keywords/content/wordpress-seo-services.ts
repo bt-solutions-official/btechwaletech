@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `WordPress SEO Services Beyond Plugins, from ${P.seo}`,
-    description: `WordPress SEO services that go past Yoast or Rank Math: permalinks, archive indexing, plugin bloat and crawl fixes. Monthly SEO from ${P.seo}, itemised quote.`,
+    description: `WordPress SEO services beyond Yoast or Rank Math: permalinks, archive indexing, plugin bloat and crawl fixes. Monthly SEO from ${P.seo}, itemised quote.`,
     keywords: [
       "wordpress seo services", "wordpress seo service India", "wordpress seo expert", "wordpress seo consultant",
       "wordpress seo freelancer", "wordpress technical seo", "wordpress seo audit", "yoast seo setup service",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "is wordpress good for seo", "wordpress site not ranking", "wordpress speed and seo", "wordpress seo near me",
       "wordpress seo Delhi", "wordpress seo Bangalore", "wordpress seo Mumbai", "wordpress seo kaise kare",
       "wordpress crawl budget fix", "woocommerce seo services",
+      "WordPress SEO services cost", "WordPress SEO services price", "WordPress SEO services company", "best WordPress SEO services in India",
+      "WordPress SEO services cost in India", "WordPress SEO services near me",
     ],
   },
   hero: {
@@ -60,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Performance layer", value: "Theme, builder and plugin weight, caching, images" },
       { label: "Server layer", value: "Redirects, HTTPS, robots.txt, sitemap health" },
       { label: "Monthly WordPress SEO", value: `From ${P.seo}` },
-      { label: "Maintenance and updates", value: `From ${P.care} a month` },
+      { label: "Maintenance and updates", value: `From ${P.care}` },
     ],
   },
   services: {
@@ -74,8 +76,8 @@ const content: FreelanceContent = {
       { name: "Theme and plugin bloat", note: "Unused plugins removed, heavy page builders reduced, scripts limited to the pages that need them, so mobile pages pass Core Web Vitals more easily.", href: "/wordpress-speed-optimization/", size: "md" },
       { name: "Structured data", note: "One clean schema graph for your organisation, articles, services and FAQs, without two plugins printing conflicting markup.", href: "/schema-markup-services/", size: "md" },
       { name: "WordPress SEO audit", note: "A crawl plus Search Console review listing every issue by impact, which you can fix yourself or hand to us.", href: "/seo-audit-services/", size: "sm" },
-      { name: "Monthly WordPress SEO", note: `Content, internal links, technical monitoring and reporting from ${P.seo} a month. No ranking promises.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Updates and security", note: `Core, theme and plugin updates with backups, from ${P.care} a month, so SEO fixes are not undone by a hacked or broken site.`, href: "/wordpress-maintenance-services/", size: "sm" },
+      { name: "Monthly WordPress SEO", note: `Content, internal links, technical monitoring and reporting from ${P.seo}. No ranking promises.`, href: "/services/seo-services/", size: "sm" },
+      { name: "Updates and security", note: `Core, theme and plugin updates with backups, from ${P.care}, so SEO fixes are not undone by a hacked or broken site.`, href: "/wordpress-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -274,7 +276,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, monthly WordPress SEO starts at ${P.seo} (${P.seoUsd} for clients abroad), and one-time technical cleanup is quoted per fix after an audit. The spread between sites is large, so we do not use one package price.`,
         `What drives the cost: the number of URLs and archives to review, how many plugins and page-builder layouts need untangling, whether redirects are needed, how much content must be merged or rewritten, and whether the site is WooCommerce with filters and variations. A ten-page business site with a clean theme may need a few hours of fixes; a large blog with years of tags and two SEO plugins needs much more.`,
-        `Across the market, quotes for WordPress SEO vary widely. Some cover only plugin settings and a monthly rank report; others include content, technical work and speed. Compare the list of tasks, not the headline figure. Updates and security, which protect the SEO work, start at ${P.care} a month.`,
+        `Across the market, quotes for WordPress SEO vary widely. Some cover only plugin settings and a monthly rank report; others include content, technical work and speed. Compare the list of tasks, not the headline figure. Updates and security, which protect the SEO work, start at ${P.care}.`,
       ],
     },
     {

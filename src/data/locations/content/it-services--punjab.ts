@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 31.1471, lng: 75.3412 },
   meta: {
-    title: "Freelance IT Services in Punjab: Software, Apps, AI",
+    title: "Punjab IT Services: Software, Apps & AI",
     description:
       "Freelance IT services in Punjab: custom software, apps, AI automation, SEO and ecommerce for Ludhiana, Amritsar, Jalandhar and Malwa firms. From ₹10,000.",
     keywords: [
@@ -19,7 +19,7 @@ const content: CityContent = {
       "custom software development Punjab",
       "inventory and billing software Punjab",
       "web application development Punjab",
-            "AI automation team Punjab",
+      "AI automation team Punjab",
       "WhatsApp automation Punjab",
       "SEO services Punjab",
       "ecommerce website development Punjab",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "Punjab vich software team",
       "ਪੰਜਾਬ ਵਿੱਚ ਆਈਟੀ ਸੇਵਾਵਾਂ",
       "पंजाब में सॉफ्टवेयर कंपनी",
+      "Punjab website designer",
+      "website cost in Punjab",
+      "IT company in Punjab",
+      "Punjab SEO services",
+      "hire developer Punjab",
+      "hosiery software in Punjab",
+      "cycles software in Punjab",
+      "sports goods software in Punjab",
     ],
   },
   hero: {

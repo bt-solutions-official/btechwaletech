@@ -7,7 +7,7 @@ const baleshwarTown: CityContent = {
   meta: {
     title: "Balasore Web Design, Odia SEO & WhatsApp Tools",
     description:
-      "Websites, Odia and English SEO, stores and WhatsApp tools for Balasore seafood exporters, Balgopalpur suppliers, Chandipur hotels, clinics and shops. From ₹10,000.",
+      "Balasore websites, Odia and English SEO and WhatsApp tools for seafood exporters, Balgopalpur suppliers and Chandipur hotels. Sites from ₹10,000.",
     keywords: [
       "website development team in Balasore",
       "web designer Baleswar",
@@ -24,6 +24,15 @@ const baleshwarTown: CityContent = {
       "freelance web developer Balasore",
       "Balasore re website",
       "ବାଲେଶ୍ୱର ୱେବସାଇଟ",
+      "Balasore website designer",
+      "website cost in Balasore",
+      "web development company Balasore",
+      "hire freelance developer Balasore",
+      "Odisha SEO",
+      "Baleswar website designer",
+      "website for seafood processors and exporters in Balasore",
+      "web designer in Motiganj, Balasore",
+      "website for industrial suppliers and fabricators in Balasore",
     ],
   },
   hero: {

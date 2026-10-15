@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "courier management system uae", "shopify courier integration uae", "logistics app development abu dhabi",
       "logistics app development sharjah", "delivery app developers near me dubai", "remote logistics app developers india",
       "3pl software development uae", "makani address delivery app",
+      "hire logistics app development in the UAE", "freelance logistics app development UAE",
     ],
   },
   hero: {

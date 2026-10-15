@@ -7,7 +7,7 @@ const surat: CityContent = {
   meta: {
     title: "IT Services in Surat: Websites, Apps, SEO & AI",
     description:
-      "Websites, catalogues, SEO and WhatsApp automation for Surat textile, diamond and trading firms. Sites from ₹10,000, stores from ₹50,000, two months' upkeep free.",
+      "Websites, catalogues, SEO and WhatsApp automation for Surat textile, diamond and trading firms. From ₹10,000, itemised quote in 2 working days.",
     keywords: [
       "website development team in Surat",
       "web design team Surat",
@@ -25,6 +25,16 @@ const surat: CityContent = {
       "website maintenance Surat",
       "Surat ma website banavva no kharch",
       "સુરત વેબસાઇટ ડિઝાઇન",
+      "web development company Surat",
+      "hire freelance web developer Surat",
+      "Gujarat SEO services",
+      "Surat textile wholesale website",
+      "textile wholesale website design Surat",
+      "Surat diamonds website",
+      "diamonds website design Surat",
+      "Surat industrial suppliers website",
+      "industrial suppliers website design Surat",
+      "Surat real estate website",
     ],
   },
   hero: {

@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "hire hydrogen developer", "headless shopify freelancer", "shopify headless kya hai", "headless shopify for d2c brand",
       "headless shopify Mumbai", "headless shopify Bengaluru", "headless shopify Delhi", "custom shopify storefront",
       "headless shopify total cost of ownership", "migrate shopify theme to hydrogen", "how much does headless shopify cost",
+      "headless shopify development company in India",
+      "best headless shopify development in India",
+      "headless shopify development services",
     ],
   },
   hero: {
@@ -96,7 +99,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What headless Shopify development costs, and what it costs to keep",
-    note: `A headless storefront for a catalogue of a few hundred products, with home, collection, product, cart, search and content pages, starts at ${P.shop} (${P.shopUsd}). Storefronts that add custom customer accounts, wholesale price logic, subscriptions or a configurator start at ${P.software} (${P.softwareUsd}). The Shopify plan fee stays the same as before; Oxygen hosting comes at no extra charge on paid plans, while Vercel or a CMS may add their own subscriptions that you pay directly. The bigger long-term cost is developer time, because every storefront change is now code, so budget for care from ${P.care} a month once the two free months end.`,
+    note: `A headless storefront for a catalogue of a few hundred products, with home, collection, product, cart, search and content pages, starts at ${P.shop} (${P.shopUsd}). Storefronts that add custom customer accounts, wholesale price logic, subscriptions or a configurator start at ${P.software} (${P.softwareUsd}). The Shopify plan fee stays the same as before; Oxygen hosting comes at no extra charge on paid plans, while Vercel or a CMS may add their own subscriptions that you pay directly. The bigger long-term cost is developer time, because every storefront change is now code, so budget for care from ${P.care} once the two free months end.`,
   },
   guideLabel: "Headless Shopify development guide",
   guide: [
@@ -341,7 +344,7 @@ const content: FreelanceContent = {
         ["Storefront hosting", "Included", "Oxygen included, or your Vercel bill"],
         ["Content tool", "Theme editor", "Metaobjects free, Sanity by usage"],
         ["Developer time for changes", "Low, merchant edits sections", "Higher, most changes are code"],
-        ["Care after 2 free months", `From ${P.care} a month`, `From ${P.care} a month, usually more hours`],
+        ["Care after 2 free months", `From ${P.care}`, `From ${P.care}, usually more hours`],
         ["Companion app", `From ${P.app}`, `From ${P.app}, shares the storefront layer`],
       ],
     },
@@ -414,7 +417,7 @@ const content: FreelanceContent = {
     { question: "Can you migrate my existing Shopify theme store to Hydrogen?", answer: "Yes. We audit the theme and apps, keep your product, collection and page URLs identical where possible, rebuild templates in Hydrogen, reconnect API-based apps, carry over SEO fields and structured data, and test redirects against your Search Console URL list. The old theme stays unpublished for a few weeks so a rollback remains possible." },
     { question: "How do UPI and cash on delivery work on headless Shopify?", answer: "They work the same way as on your theme store, because payment happens on Shopify’s checkout, not on the headless storefront. Whatever payment providers and methods you have configured in Shopify, including UPI, cards and cash on delivery where set up, appear at checkout unchanged. We do not rebuild payments; we hand the cart to Shopify." },
     { question: "Should I hire a freelancer or an agency for headless Shopify?", answer: "Pick the team that audits your apps, explains the cost of ownership and can show preview deployments, whatever its size. A small freelance team suits brands wanting direct contact with the developers building the storefront. Very large programmes with many parallel storefronts may need a bigger team, and we will tell you honestly if that is your situation." },
-    { question: "What happens after a headless Shopify launch?", answer: `You get two months of free maintenance covering fixes, dependency updates and small template changes. After that, care plans start at ${P.care} a month and include Storefront API version upgrades and framework updates. Monthly SEO support starts at ${P.seo} if you want ongoing work on product pages, content and technical health.` },
+    { question: "What happens after a headless Shopify launch?", answer: `You get two months of free maintenance covering fixes, dependency updates and small template changes. After that, care plans start at ${P.care} and include Storefront API version upgrades and framework updates. Monthly SEO support starts at ${P.seo} if you want ongoing work on product pages, content and technical health.` },
     { question: "How do payments and contracts work with your team?", answer: "You receive an itemised written quote with milestones, and nothing is billed until you approve it in writing. Indian clients pay by UPI or bank transfer, with GST invoices where applicable; overseas clients pay in USD by Wise, bank wire or PayPal. Confidentiality or other specific clauses are agreed in your written quote, and our terms page explains the rest." },
     { question: "Can headless Shopify help with AI search visibility?", answer: "It can remove technical obstacles. Server-rendered pages with clear headings, accurate Product schema, FAQ blocks and consistent brand data are easier for AI Overviews, ChatGPT search and Perplexity to read and quote. It cannot guarantee a mention, any more than anyone can guarantee rankings. Content quality and reputation still decide whether your store is cited." },
   ],

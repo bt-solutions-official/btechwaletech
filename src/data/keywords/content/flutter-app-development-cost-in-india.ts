@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Flutter App Development Cost in India: From ${P.app}`,
-    description: `Flutter app development cost in India starts at ${P.app} for Android and iOS from one codebase. Estimate by screens, pick Firebase or an API, see store fees.`,
+    description: `Flutter app development cost in India starts at ${P.app} for Android and iOS from one codebase. Estimate by screens, then get an itemised quote in 2 days.`,
     keywords: [
       "flutter app development cost in india", "flutter app development cost", "flutter app cost in india", "flutter app development price in india",
       "cost to build a flutter app", "how much does a flutter app cost", "flutter app development charges", "flutter developer cost india",

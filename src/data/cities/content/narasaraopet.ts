@@ -7,7 +7,7 @@ const narasaraopet: CityContent = {
   meta: {
     title: "Narasaraopet Web Design, Telugu SEO & Online Stores",
     description:
-      "Telugu and English websites, SEO, UPI stores and WhatsApp bots for Narasaraopet hospitals, colleges, chilli and cotton traders. From ₹10,000, 2 months upkeep free.",
+      "Telugu and English websites, SEO and UPI stores for Narasaraopet hospitals, colleges, chilli and cotton traders. Sites from ₹10,000, yours to keep.",
     keywords: [
       "website development team in Narasaraopet",
       "web designer Narasaraopet",
@@ -25,6 +25,16 @@ const narasaraopet: CityContent = {
       "website maintenance Narasaraopet",
       "Narasaraopet lo website design",
       "నరసరావుపేట వెబ్‌సైట్ డిజైన్",
+      "Narasaraopet website designer",
+      "web development company Narasaraopet",
+      "hire freelance web developer Narasaraopet",
+      "Palnadu SEO services",
+      "website designer Palnadu",
+      "Andhra Pradesh SEO services",
+      "Narasaraopet agri-input dealers website",
+      "agri-input dealers website design Narasaraopet",
+      "website design Palnadu Road Narasaraopet",
+      "website design Arundelpet Narasaraopet",
     ],
   },
   hero: {

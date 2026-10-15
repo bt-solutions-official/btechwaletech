@@ -7,7 +7,7 @@ const mandapeta: CityContent = {
   meta: {
     title: "IT Services in Mandapeta | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Mandapeta rice millers, poultry farms, traders, clinics and schools in the Godavari delta.",
+      "Websites, apps, local SEO and WhatsApp automation for Mandapeta rice millers, poultry farms, traders, clinics and schools in the Godavari delta. From ₹10,000.",
     keywords: [
       "IT services in Mandapeta",
       "IT services team in Mandapeta",
@@ -29,6 +29,12 @@ const mandapeta: CityContent = {
       "Mandapeta lo website kavali",
       "Mandapeta app development Telugu",
       "Ramachandrapuram website design",
+      "Mandapeta website designer",
+      "web development company Mandapeta",
+      "hire freelance web developer Mandapeta",
+      "Godavari delta SEO services",
+      "website designer Godavari delta",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const naugachhia: CityContent = {
   meta: {
     title: "IT Services in Naugachhia: Websites, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Naugachhia banana traders, maize dealers, clinics, coaching centres and shops.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Naugachhia banana traders, maize dealers, clinics, coaching centres and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Naugachhia",
       "IT services team in Naugachhia",
@@ -29,6 +29,12 @@ const naugachhia: CityContent = {
       "Naugachhia me website banwana",
       "Naugachhia me app banwana",
       "नवगछिया वेबसाइट डिजाइन",
+      "Naugachhia website designer",
+      "web development company Naugachhia",
+      "hire freelance web developer Naugachhia",
+      "Bhagalpur district SEO",
+      "website designer Bhagalpur district",
+      "Bihar SEO services",
     ],
   },
   hero: {

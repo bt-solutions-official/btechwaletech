@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "real estate website Goa", "pharma website Goa", "website developer Panaji", "website developer Margao",
       "website developer Mapusa", "website developer Vasco", "website developer Calangute", "direct booking website Goa",
       "Goa me website kaise banwaye", "Shopify developer Goa",
+      "website developer in Goa cost", "website developer in Goa price", "hire website developer in Goa", "freelance website developer in Goa",
+      "best website developer in Goa", "website developer in Goa charges",
     ],
   },
   hero: {

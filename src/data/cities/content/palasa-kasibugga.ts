@@ -7,7 +7,7 @@ const palasaKasibugga: CityContent = {
   meta: {
     title: "IT Services in Palasa Kasibugga: Web, Apps & AI",
     description:
-      "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Palasa cashew processors, traders, Uddanam growers, clinics and schools.",
+      "Telugu and English websites, apps and SEO for Palasa cashew processors, traders, Uddanam growers, clinics and schools. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "IT services in Palasa Kasibugga",
       "IT services team in Palasa",
@@ -29,6 +29,12 @@ const palasaKasibugga: CityContent = {
       "Palasa me website banwana",
       "Palasa lo website cheyinchali",
       "పలాస వెబ్‌సైట్ డిజైన్",
+      "Palasa Kasibugga website designer",
+      "web development company Palasa Kasibugga",
+      "hire freelance web developer Palasa Kasibugga",
+      "Srikakulam district SEO",
+      "website designer Srikakulam district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

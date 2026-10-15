@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "Job portal development services",
   updated: "2026-09-25",
   meta: {
-    title: `Job Portal Development Services Japan from ${P.software}`,
+    title: `Job Portal Development Japan from ${P.software}`,
     description: `Job portal development services for Japan: bilingual job boards for agencies placing foreign workers, with JLPT and visa filters, from ${P.software}.`,
     keywords: [
       "job portal development services", "job portal development services japan", "job board development", "custom job portal development",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "google for jobs structured data", "caregiver recruitment portal japan", "engineer recruitment site japan", "job portal development near me",
       "job portal tokyo", "job portal osaka", "recruitment platform nagoya", "japan",
       "求人サイト 構築", "外国人 求人サイト 制作", "人材紹介 システム 開発",
+      "hire job portal development services in Japan", "freelance job portal development services Japan",
     ],
   },
   hero: {

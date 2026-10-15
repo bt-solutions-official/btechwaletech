@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Landscaping Website Design with Online Signup, ${P.site}+`,
-    description: `Landscaping website design for US lawn care and design-build firms: galleries, seasonal pages, recurring plan signup with card payment, quote tools. From ${P.site}.`,
+    description: `Landscaping website design for US lawn care and design-build firms: galleries, seasonal pages, recurring plan signup with card payment. From ${P.site}.`,
     keywords: [
       "landscaping website design", "landscape website design", "lawn care website design", "landscaping web design", "website for landscapers",
       "landscaping company website", "lawn care company website", "landscaping website designer", "landscaping website cost", "how much does a landscaping website cost",
@@ -47,7 +47,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "What should landscaping website design include?",
     text: `Landscaping website design should include a project gallery organized by job type, seasonal service pages, recurring maintenance signup with online card payment, a quote calculator or clear estimate request, and service-area checks by ZIP code. BtechWaleTech builds lead sites from ${P.site}, signup-and-payment sites from ${P.shop}, and multi-town builds from ${P.seoSite}. You own it all.`,
-    more: `Running pest or lawn treatments too? See <a href='/usa/pest-control-website-design/'>pest control website design</a>. For map-pack visibility, read about <a href='/usa/local-seo-services/'>local SEO services</a>.`,
+    more: `Running recurring cleaning crews too? See <a href='/usa/cleaning-company-website-design/'>cleaning company website design</a>. For map-pack visibility, read about <a href='/usa/local-seo-services/'>local SEO services</a>.`,
   },
   snapshot: {
     caption: "Landscaping website design in short",
@@ -205,7 +205,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Most landscaping and field-service platforms offer embeddable request forms, online booking or client hubs, and we fit those into your site's design. When a deeper link is needed, we use the platform's API if it offers one, or pass leads by email or an automation tool.`,
         `The decision is usually about where recurring billing lives. If your software already handles plans and card payments well, the website hands customers to it and we keep the experience consistent. If it doesn't, the site runs signup and billing and sends new customers into the software as jobs. Either works; the rule is to have one system of record for who is on which plan, not two that disagree.`,
-        `We test every integration end to end with fake customers: signup, first charge, schedule entry, cancellation. If you're outgrowing off-the-shelf tools, the <a href='/usa/field-service-app-development/'>field service app development</a> page explains when a custom dispatch or crew app makes sense.`,
+        `We test every integration end to end with fake customers: signup, first charge, schedule entry, cancellation. If you're outgrowing off-the-shelf tools, the <a href='/usa/custom-software-development/'>custom software development</a> page explains when a custom dispatch or crew app makes sense.`,
       ],
     },
     {
@@ -390,16 +390,16 @@ const content: FreelanceContent = {
   related: {
     heading: "More pages for US service businesses",
     links: [
-      { name: "Pest control website design", href: "/usa/pest-control-website-design/" },
+      { name: "Solar company website design", href: "/usa/solar-company-website-design/" },
       { name: "Electrician website design", href: "/usa/electrician-website-design/" },
       { name: "Plumber website design", href: "/usa/plumber-website-design/" },
       { name: "HVAC website design", href: "/usa/hvac-website-design/" },
       { name: "Roofing website design", href: "/usa/roofing-website-design/" },
       { name: "Contractor website design", href: "/usa/contractor-website-design/" },
       { name: "Cleaning company website design", href: "/usa/cleaning-company-website-design/" },
-      { name: "Home builder website design", href: "/usa/home-builder-website-design/" },
+      { name: "Real estate agent website design", href: "/usa/real-estate-agent-website-design/" },
       { name: "Local SEO services", href: "/usa/local-seo-services/" },
-      { name: "Field service app development", href: "/usa/field-service-app-development/" },
+      { name: "Custom CRM development", href: "/usa/custom-crm-development/" },
       { name: "Website work for US businesses", href: "/usa/" },
       { name: "Hire Indian developers", href: "/hire-indian-developers/" },
       { name: "Pricing", href: "/pricing/" },

@@ -7,7 +7,7 @@ const murwaraKatni: CityContent = {
   meta: {
     title: "Katni Website & SEO Services | Sites from ₹10,000",
     description:
-      "Websites, Hindi SEO and WhatsApp automation for Katni's lime, marble, dal mill, transport and retail businesses. Static sites from ₹10,000, two months free upkeep.",
+      "Websites, Hindi SEO and WhatsApp automation for Katni's lime, marble, dal mill, transport and retail businesses. Sites from ₹10,000, live in 1-2 weeks.",
     keywords: [
       "website development team in Katni",
       "web designer Katni",
@@ -24,6 +24,17 @@ const murwaraKatni: CityContent = {
       "website maintenance Katni",
       "Katni me website kaise banwaye",
       "कटनी वेबसाइट डिज़ाइन",
+      "Katni website designer",
+      "web development company Katni",
+      "hire freelance web developer Katni",
+      "Madhya Pradesh SEO services",
+      "Katni website banwane ka kharcha",
+      "website design Gole Bazar Katni",
+      "website design Mission Chowk Katni",
+      "website design Azad Chowk Katni",
+      "website design Madhav Nagar Katni",
+      "website design Bargawan Katni",
+      "website developer Murwara",
     ],
   },
   hero: {

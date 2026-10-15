@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Landing page developer",
   updated: "2026-09-24",
   meta: {
-    title: "Landing Page Developer for Google & Meta Ads",
+    title: `Landing Page Developer for Google & Meta Ads, ${P.site}+`,
     description: `Landing page developer for Google and Meta ads: fast pages, GA4 and Pixel tracking set up right, WhatsApp and form leads. Pages from ${P.site}, live in days.`,
     keywords: [
       "landing page developer", "landing page developer in India", "landing page developer near me", "landing page developer for hire",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "fast landing page", "landing page conversion tracking", "GA4 and Meta Pixel setup", "lead generation landing page",
       "landing page with WhatsApp button", "custom coded landing page", "PPC landing page developer", "landing page speed optimisation",
       "freelance landing page developer", "campaign landing page",
+      "hire landing page developer",
     ],
   },
   hero: {

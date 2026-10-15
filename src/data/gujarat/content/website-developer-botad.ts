@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Botad: Sites from ${P.site}`,
-    description: `Website developer in Botad for cotton ginners, traders, diamond units, Salangpur hotels, schools and hospitals. Sites from ${P.site}, Gujarati-ready, remote build.`,
+    description: `Website developer in Botad for cotton ginners, traders, diamond units, Salangpur hotels, schools and hospitals. Sites from ${P.site}, Gujarati-ready, remote.`,
     keywords: [
       "website developer in Botad", "website developer Botad", "web developer near me Botad", "Botad Gujarat website",
       "website designer Botad", "website development services Botad", "cotton ginning factory website Botad", "cotton trader website Botad",
@@ -431,6 +431,7 @@ const content: FreelanceContent = {
     heading: "More Gujarat guides near Botad",
     links: [
       { name: "Gujarat website services hub", href: "/gujarat/" },
+      { name: "Website developer in Alang", href: "/gujarat/website-developer-alang/" },
       { name: "Website developer in Gadhada", href: "/gujarat/website-developer-gadhada/" },
       { name: "Website developer in Dhandhuka", href: "/gujarat/website-developer-dhandhuka/" },
       { name: "Website developer in Lathi", href: "/gujarat/website-developer-lathi/" },

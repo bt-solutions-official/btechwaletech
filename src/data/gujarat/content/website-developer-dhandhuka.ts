@@ -396,6 +396,7 @@ const content: FreelanceContent = {
     heading: "More Gujarat website guides near Dhandhuka",
     links: [
       { name: "All Gujarat website guides", href: "/gujarat/" },
+      { name: "Website developer in Gadhada", href: "/gujarat/website-developer-gadhada/" },
       { name: "Website developer in Dahod", href: "/gujarat/website-developer-dahod/" },
       { name: "Website developer in Devgadh Baria", href: "/gujarat/website-developer-devgadh-baria/" },
       { name: "Website developer in Godhra", href: "/gujarat/website-developer-godhra/" },

@@ -7,7 +7,7 @@ const kohima: CityContent = {
   meta: {
     title: "IT Services in Kohima: Websites, Apps, SEO & AI",
     description:
-      "Websites, homestay booking pages, local SEO and WhatsApp automation for Kohima businesses, from Midland to Kisama. Static sites from ₹10,000 with free upkeep.",
+      "Kohima websites, homestay booking pages, local SEO and WhatsApp automation for businesses, from Midland to Kisama. Static sites from ₹10,000 with free upkeep.",
     keywords: [
       "website development team in Kohima",
       "web designer Kohima",
@@ -24,6 +24,15 @@ const kohima: CityContent = {
       "WhatsApp automation Kohima",
       "website maintenance Kohima",
       "Kohima website banane ka kharcha",
+      "Kohima website designer",
+      "website cost in Kohima",
+      "web development company Kohima",
+      "hire freelance developer Kohima",
+      "Nagaland SEO",
+      "Kohima me website kaise banwaye",
+      "website for homestays and hotels in Kohima",
+      "web designer in Midland, Kohima",
+      "website for handloom and craft sellers in Kohima",
     ],
   },
   hero: {

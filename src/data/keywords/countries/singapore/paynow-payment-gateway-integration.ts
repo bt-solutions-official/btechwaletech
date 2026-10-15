@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "paynow payment gateway developer singapore", "paynow integration near me", "paynow for online store singapore",
       "paynow integration orchard", "paynow integration jurong", "paynow integration tampines", "paynow corporate integration",
       "remote developer paynow integration",
+      "hire paynow payment gateway integration in Singapore", "freelance paynow payment gateway integration Singapore",
     ],
   },
   hero: {

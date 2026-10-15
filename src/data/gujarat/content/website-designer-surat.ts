@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Designer in Surat: Custom Design from ${P.site}`,
-    description: `Website designer in Surat for textile, diamond and retail brands: layouts, photo guidance, Gujarati and English pages. Design and build from ${P.site}. Ask today.`,
+    description: `Website designer in Surat for textile, diamond and retail brands: layouts, photo guidance, Gujarati and English pages. Design & build from ${P.site}. Ask today.`,
     keywords: [
       "website designer in Surat", "website designer Surat", "web designer Surat", "website designing Surat",
       "website design Surat Gujarat", "freelance website designer Surat", "website designer near me Surat", "web designer near me Surat",

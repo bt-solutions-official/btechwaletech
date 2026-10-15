@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `ADA Compliant Website Design to WCAG AA, from ${P.site}`,
-    description: `ADA compliant website design for US businesses: WCAG 2.2 AA build, keyboard and screen-reader testing, accessible forms and a published statement, from ${P.site}.`,
+    description: `ADA compliant website design for US businesses: WCAG 2.2 AA build, keyboard and screen-reader testing, accessible forms and a public statement, from ${P.site}.`,
     keywords: [
       "ada compliant website design", "ada compliant website", "ada website compliance", "ada accessible website design", "wcag compliant website design",
       "wcag 2.2 aa website", "wcag 2.1 aa website", "accessible web design", "website accessibility for small business", "ada title iii website",
@@ -25,7 +25,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Accessible websites for US businesses · WCAG 2.2 AA as the build target",
     h1: "ADA compliant website design, built accessible in the code rather than patched on later",
-    lede: `ADA compliant website design means building your site so people who use screen readers, keyboards, magnification or captions can do everything other visitors can: read, book, buy and contact you. Three freelance developers in India build US business sites to <strong>WCAG 2.2 Level AA</strong> as the target, test them with real screen readers and keyboards, fix forms and contrast in the code, and publish an honest accessibility statement. Builds start at ${P.site}. We do the technical work; legal questions go to your own attorney. Already have a site with problems? See <a href='/usa/website-accessibility-remediation/'>website accessibility remediation</a>.`,
+    lede: `ADA compliant website design means building your site so people who use screen readers, keyboards, magnification or captions can do everything other visitors can: read, book, buy and contact you. Three freelance developers in India build US business sites to <strong>WCAG 2.2 Level AA</strong> as the target, test them with real screen readers and keyboards, fix forms and contrast in the code, and publish an honest accessibility statement. Builds start at ${P.site}. We do the technical work; legal questions go to your own attorney. Already have a site with problems? We fix existing sites too; see <a href='/usa/website-redesign-services/'>website redesign services</a>.`,
     pills: ["WCAG 2.2 AA target", "Keyboard-only tested", "NVDA, VoiceOver and TalkBack checks", "Accessible forms and checkout", "Contrast and focus built in", "Accessibility statement", "No overlay widgets"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · USD quotes, paid by Wise, wire or PayPal",
   },
@@ -46,7 +46,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "What is ADA compliant website design?",
     text: `ADA compliant website design is building a site that people with disabilities can use fully, measured in practice against WCAG Level AA: keyboard access, readable contrast, text alternatives, labeled forms, captions and screen-reader-friendly structure. No law certifies a site as compliant, so the aim is an accessible, tested build with a published statement. BtechWaleTech builds this from ${P.site}; online stores start at ${P.shop}.`,
-    more: `Fixing a current site instead? Read <a href='/usa/website-accessibility-remediation/'>accessibility remediation services</a>. Planning a full rebuild anyway? <a href='/usa/website-redesign-services/'>Website redesign services</a> folds accessibility into the redesign.`,
+    more: `Fixing a current site instead? Ongoing fixes are covered by <a href='/usa/website-maintenance-services/'>website maintenance services</a>. Planning a full rebuild anyway? <a href='/usa/website-redesign-services/'>Website redesign services</a> folds accessibility into the redesign.`,
   },
   snapshot: {
     caption: "Accessible build at a glance",
@@ -212,7 +212,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Choose a fresh ADA compliant website design build when the site is old, slow or built on a theme full of inaccessible components; remediate when the site is fairly modern and the problems are concentrated in a few templates or content issues.`,
         `A quick way to decide: we run an automated scan and a thirty-minute keyboard check on your top templates. If most issues come from content (missing alt text, bad headings, low-contrast text in images), remediation is cheaper. If the menu, forms, checkout and page builder itself are the problem, every fix fights the theme, and a rebuild costs less over a year.`,
-        `Either way, we keep your URLs, content and search rankings in mind. Our <a href='/usa/website-accessibility-remediation/'>website accessibility remediation</a> page covers fixing sites after an audit or demand letter, and <a href='/usa/website-redesign-services/'>website redesign services</a> covers rebuilding without losing traffic. Many businesses combine the two: remediate the urgent journeys now, rebuild on accessible templates next quarter.`,
+        `Either way, we keep your URLs, content and search rankings in mind. We fix existing sites after an accessibility audit or a demand letter, and <a href='/usa/website-redesign-services/'>website redesign services</a> covers rebuilding without losing traffic. Many businesses combine the two: remediate the urgent journeys now, rebuild on accessible templates next quarter.`,
       ],
     },
     {
@@ -320,7 +320,7 @@ const content: FreelanceContent = {
         ["Accessible online store", P.shop, "4–8 weeks", "Product filters, variants, cart and checkout"],
         ["Accessible web app or portal", P.software, "6–12 weeks", "Logins, dashboards, complex forms"],
         ["Accessible iOS and Android app", P.app, "6–10 weeks", "Screen-reader labels, dynamic type, touch targets"],
-        ["Monthly checks after launch", `${P.care} a month`, "Ongoing", "Scans and spot checks of new content"],
+        ["Monthly checks after launch", `${P.care}`, "Ongoing", "Scans and spot checks of new content"],
       ],
       hideSm: [2],
     },
@@ -384,10 +384,10 @@ const content: FreelanceContent = {
   related: {
     heading: "More US pages on accessibility, compliance and rebuilds",
     links: [
-      { name: "Website accessibility remediation", href: "/usa/website-accessibility-remediation/" },
+      { name: "Custom website development", href: "/usa/custom-website-development/" },
       { name: "Website redesign services", href: "/usa/website-redesign-services/" },
       { name: "HIPAA-aware website design", href: "/usa/hipaa-compliant-website-design/" },
-      { name: "CCPA compliant website", href: "/usa/ccpa-compliant-website/" },
+      { name: "Website maintenance services", href: "/usa/website-maintenance-services/" },
       { name: "WordPress website design services", href: "/usa/wordpress-website-design/" },
       { name: "Shopify developer for hire", href: "/usa/shopify-developer/" },
       { name: "Ecommerce website development", href: "/usa/ecommerce-website-development/" },

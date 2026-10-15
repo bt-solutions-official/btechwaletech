@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Bavla: Sites from ${P.site}`,
-    description: `Website developer in Bavla for rice mills, pharma and packaging units, warehouses and town shops: fast sites from ${P.site}, Gujarati-ready, quote in 2 working days.`,
+    description: `Website developer in Bavla for rice mills, pharma and packaging units, warehouses and town shops: fast sites from ${P.site}, Gujarati-ready, quote in 2 days.`,
     keywords: [
       "website developer in Bavla", "website developer Bavla", "Bavla website developer near me", "Bavla Gujarat website",
       "web developer Bavla Ahmedabad", "website designer Bavla", "website development services Bavla", "website design Bavla",

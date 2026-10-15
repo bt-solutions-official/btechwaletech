@@ -16,7 +16,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Web Developer for Small Business NYC from ${P.site}`,
-    description: `Web developer for small business NYC owners: sites for firms, restaurants and brokers, ET-morning calls, SHIELD Act-aware forms. USD quotes, sites from ${P.site}.`,
+    description: `Web developer for small business NYC owners: sites for firms, restaurants and brokers, ET-morning calls, SHIELD Act-aware forms. Sites from ${P.site}.`,
     keywords: [
       "web developer for small business nyc", "web developer nyc small business", "small business web design nyc", "nyc web developer",
       "web developer manhattan", "web developer brooklyn", "web developer queens", "website designer for small business new york",
@@ -51,7 +51,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "Should a NYC small business hire a local agency or a remote web developer?",
     text: `A web developer for small business NYC owners hire remotely makes sense when you want a professional site at a lower starting price than Manhattan agencies charge, and you are comfortable with video calls instead of office meetings. We build New York small business sites from ${P.site}, SEO sites from ${P.seoSite}, with calls in your Eastern morning and quotes in USD.`,
-    more: `Comparing budgets first? Read <a href='/usa/small-business-website-cost/'>what a small business website costs</a>. Running a restaurant? Our <a href='/usa/restaurant-website-design/'>restaurant website design page</a> goes deeper on menus and ordering.`,
+    more: `Comparing budgets first? Read <a href='/usa/small-business-website-cost/'>what a small business website costs</a>. Running a restaurant? Our <a href='/usa/local-seo-services/'>local SEO services</a> page covers the hours, menus and map-pack work that brings diners in.`,
   },
   snapshot: {
     caption: "Working with us from New York City, in seven lines",
@@ -71,7 +71,7 @@ const content: FreelanceContent = {
     note: "New York small businesses fall into a few patterns. Each card below is built around what that kind of business needs from its site in this city.",
     cards: [
       { name: "Professional-services firm sites", note: `Law, accounting, consulting and design firms: practice-area pages, attorney or partner bios, intake forms that collect only what you need. From ${P.site}.`, href: "/usa/law-firm-website-design/", size: "lg" },
-      { name: "Restaurant and bar sites", note: "Menus as fast web pages rather than PDFs, hours that match Google, reservation and ordering links, private-event enquiry forms.", href: "/usa/restaurant-website-design/", size: "lg" },
+      { name: "Restaurant and bar sites", note: "Menus as fast web pages rather than PDFs, hours that match Google, reservation and ordering links, private-event enquiry forms.", href: "/usa/small-business-website-design/", size: "lg" },
       { name: "Real estate broker and agent sites", note: "Neighbourhood guides, listing feeds through your listing provider, agent pages and lead routing to the right person.", href: "/usa/real-estate-agent-website-design/", size: "md" },
       { name: "Neighbourhood SEO sites", note: `Borough and neighbourhood pages written with real local detail, built for search from day one. From ${P.seoSite}.`, href: "/usa/local-seo-services/", size: "md" },
       { name: "Boutique and retail stores", note: `Online stores for shops in Brooklyn, Queens or Manhattan, with local pickup and delivery options. From ${P.shop}.`, href: "/usa/ecommerce-website-development/", size: "md" },
@@ -163,7 +163,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `For a restaurant, the job of a web developer for small business NYC diners use is narrow and practical. A NYC restaurant website should load a readable menu within seconds on a phone, show today's hours and address matching Google, and send diners straight to reservations or ordering. Everything else, including the story and the photos, comes after those three jobs.`,
         `The most common problem we see on restaurant sites is a menu published as a PDF. It is slow on mobile, hard to read, invisible to search for dish names and often out of date. We build menus as proper web pages that staff can edit from a phone, with sections, dietary notes and prices you control. Hours are entered once and shown consistently, with special hours for holidays.`,
-        `Ordering and reservations usually run on a platform you already use; we link or embed them rather than rebuilding them, and keep the commission-free options such as direct phone orders visible. Private-event and catering enquiries get their own form, because in New York those enquiries can be worth more than a week of covers. For restaurants in Astoria, Flushing, Jackson Heights and other multilingual neighbourhoods, we can build menus in more than one language; you supply or approve the translations. Our <a href='/usa/restaurant-website-design/'>restaurant website page</a> has more detail.`,
+        `Ordering and reservations usually run on a platform you already use; we link or embed them rather than rebuilding them, and keep the commission-free options such as direct phone orders visible. Private-event and catering enquiries get their own form, because in New York those enquiries can be worth more than a week of covers. For restaurants in Astoria, Flushing, Jackson Heights and other multilingual neighbourhoods, we can build menus in more than one language; you supply or approve the translations. Our <a href='/usa/small-business-website-design/'>small business website design</a> page has more detail.`,
       ],
     },
     {
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
     links: [
       { name: "Small business website design", href: "/usa/small-business-website-design/" },
       { name: "Small business website cost", href: "/usa/small-business-website-cost/" },
-      { name: "Restaurant website design", href: "/usa/restaurant-website-design/" },
+      { name: "Custom website development", href: "/usa/custom-website-development/" },
       { name: "Law firm website design", href: "/usa/law-firm-website-design/" },
       { name: "Real estate agent website design", href: "/usa/real-estate-agent-website-design/" },
       { name: "Local SEO services", href: "/usa/local-seo-services/" },

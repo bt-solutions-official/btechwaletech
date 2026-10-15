@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "crm xero integration", "crm with pdpa consent", "dnc registry crm", "how much does a custom crm cost",
       "is it cheaper to build a crm", "crm without per user fees", "sme crm singapore", "custom crm development near me singapore",
       "crm developer jurong", "crm developer tampines", "crm developer paya lebar", "lead management system singapore", "sales pipeline software singapore",
+      "hire custom crm development in Singapore", "freelance custom crm development Singapore",
     ],
   },
   hero: {

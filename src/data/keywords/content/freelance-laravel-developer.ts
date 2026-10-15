@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "laravel SaaS developer", "laravel API developer", "laravel admin panel developer", "laravel filament developer",
       "laravel livewire developer", "laravel bug fixing freelancer", "PHP laravel freelancer", "laravel portal development",
       "remote laravel developer India", "laravel maintenance freelancer",
+      "hire freelance laravel developer",
     ],
   },
   hero: {

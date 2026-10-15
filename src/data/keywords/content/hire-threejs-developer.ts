@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Hire Three.js Developer: WebGL & R3F from ${P.site}`,
-    description: `Hire a Three.js developer for WebGL and React Three Fiber builds, from ${P.site}. Portfolio checks, GLB/Draco skills, mobile GPU budgets and honest pricing.`,
+    description: `Hire a Three.js developer for WebGL and React Three Fiber builds: portfolio checks, GLB/Draco skills, mobile GPU budgets and honest pricing. From ${P.site}.`,
     keywords: [
       "hire three js developer", "hire threejs developer", "hire a three.js developer", "three.js developer for hire", "freelance three.js developer",
       "webgl developer for hire", "hire webgl developer", "react three fiber developer", "hire r3f developer", "three.js developer India",

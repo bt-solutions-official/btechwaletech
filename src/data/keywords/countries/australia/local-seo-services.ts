@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Local SEO Services Australia from ${P.seo} a Month`,
-    description: `Local SEO services in Australia for service-area businesses: Google Business Profile, suburb pages without spam, AU citations, honest reviews. From ${P.seo}/month.`,
+    description: `Local SEO services in Australia for service-area businesses: Google Business Profile, suburb pages without spam, AU citations, real reviews. From ${P.seo}.`,
     keywords: [
       "local seo services australia", "local seo services", "local seo australia", "local seo agency australia alternative",
       "local seo for service area business", "google business profile optimisation australia", "google maps ranking australia",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "local seo brisbane", "local seo perth", "local seo adelaide", "how to rank in google maps australia",
       "hide address google business profile", "how long does local seo take", "call tracking for local seo",
       "google reviews rules australia accc", "freelance local seo expert australia",
+      "hire local seo services in Australia",
     ],
   },
   hero: {
@@ -55,7 +56,7 @@ const content: FreelanceContent = {
     rows: [
       { label: "Who it is for", value: "Plumbers, cleaners, pest controllers, mobile mechanics, removalists, clinics" },
       { label: "Where you show", value: "Google map pack, local organic results, Apple Maps and Bing" },
-      { label: "Starting price", value: `From ${P.seo} a month; suburb site builds from ${P.seoSite}` },
+      { label: "Starting price", value: `From ${P.seo}; suburb site builds from ${P.seoSite}` },
       { label: "First month", value: "Profile audit, citation clean-up, tracking set up" },
       { label: "What we measure", value: "Calls, quote forms, direction requests, booked jobs" },
       { label: "Reviews", value: "Ask every customer the same way; no incentives, no filtering" },
@@ -95,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What local SEO services cost with us",
-    note: `Local SEO services for an Australian service-area business start from ${P.seo} a month. The quote grows with the number of suburbs and services you target, how messy your existing listings are, whether you need new suburb pages, and how competitive your trade is in your city. A plumber covering 40 Sydney suburbs needs more pages and citations than a mobile dog groomer in Toowoomba. If your current site cannot carry suburb pages, a structured rebuild starts from ${P.seoSite}. Every line is itemised in about two working days, and billing starts only after you approve the quote in writing.`,
+    note: `Local SEO services for an Australian service-area business start from ${P.seo}. The quote grows with the number of suburbs and services you target, how messy your existing listings are, whether you need new suburb pages, and how competitive your trade is in your city. A plumber covering 40 Sydney suburbs needs more pages and citations than a mobile dog groomer in Toowoomba. If your current site cannot carry suburb pages, a structured rebuild starts from ${P.seoSite}. Every line is itemised in about two working days, and billing starts only after you approve the quote in writing.`,
   },
   guideLabel: "Local SEO services Australia guide",
   guide: [
@@ -276,7 +277,7 @@ const content: FreelanceContent = {
         `This is a hypothetical scenario, not a client story. Say a two-van pest control operator based in Penrith serves Western Sydney and the lower Blue Mountains, gets most jobs from a pay-per-lead app, and has a Business Profile showing the owner's home address.`,
         `Month one: hide the address and set service areas covering Penrith, Blacktown, St Marys, Emu Plains, Glenmore Park and the lower Mountains towns within the guideline radius. Change the primary category to the pest control category and list termite inspections, pre-purchase inspections, rodent control and cockroach treatment as services. Clean up the Yellow Pages, True Local and hipages listings, which show two different mobile numbers.`,
         `Month two: build a termite inspection page and a regional hub for the lower Blue Mountains, where bushland edges make termite work a genuine local topic, plus suburb pages only for the six suburbs where the owner can describe real jobs. Start the review text to every customer after payment.`,
-        `Month three onwards: monthly content on seasonal pests, replies to every review, and a lead report matching calls to the job list. The owner then decides whether to reduce spending on the lead app. We would quote this from ${P.seo} a month, with the page build as its own line.`,
+        `Month three onwards: monthly content on seasonal pests, replies to every review, and a lead report matching calls to the job list. The owner then decides whether to reduce spending on the lead app. We would quote this from ${P.seo}, with the page build as its own line.`,
       ],
     },
     {
@@ -316,12 +317,12 @@ const content: FreelanceContent = {
       note: "Starting points only; your itemised quote reflects your suburbs, services and current listings.",
       columns: ["Business type", "Typical local SEO scope", "Starting point"],
       rows: [
-        ["Sole trader, one suburb cluster", "Profile clean-up, 10–15 citations, review routine, 3–5 service pages", `From ${P.seo} a month`],
-        ["Two to five vans across a metro region", "Regional hubs, suburb pages with real job detail, call tracking", `From ${P.seo} a month plus page build`],
+        ["Sole trader, one suburb cluster", "Profile clean-up, 10–15 citations, review routine, 3–5 service pages", `From ${P.seo}`],
+        ["Two to five vans across a metro region", "Regional hubs, suburb pages with real job detail, call tracking", `From ${P.seo} plus page build`],
         ["Business with no usable website", "New site with licence display, quote form and service pages", `Site from ${P.site}`],
         ["Large service-area site", "Structured page set of 299+ suburb and service pages", `From ${P.seoSite}`],
         ["Multi-branch business", "One profile per staffed branch, location pages, per-branch reporting", "Quoted per branch"],
-        ["Clinic or shopfront", "Visible address, booking links, practitioner or product detail", `From ${P.seo} a month`],
+        ["Clinic or shopfront", "Visible address, booking links, practitioner or product detail", `From ${P.seo}`],
       ],
       hideSm: [1],
     },
@@ -432,7 +433,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want more calls from the suburbs you already serve?",
-    note: `Send your Business Profile link and the suburbs you cover on WhatsApp. You get an itemised local SEO plan in about two working days, starting from ${P.seo} a month, with every account kept in your name.`,
+    note: `Send your Business Profile link and the suburbs you cover on WhatsApp. You get an itemised local SEO plan in about two working days, starting from ${P.seo}, with every account kept in your name.`,
   },
 };
 

@@ -115,7 +115,7 @@ const content: FreelanceContent = {
       heading: "Amreli's economy and who searches for local businesses",
       paragraphs: [
         `Amreli is the headquarters of Amreli district in Gujarat's Saurashtra region. The district's economy is largely agricultural: district profiles name groundnut as a leading crop, followed by bajra, cotton, jowar, wheat, pulses and onion, with cotton ginning growing in importance. The same profiles describe a well-developed diamond industry across the district, gold-plating work at Bagasara and weighing-scale makers at Savarkundla.`,
-        `The district also has a coastline with Pipavav, which the district profile calls India's first private-sector port, and cement plants near Jafrabad and Rajula. Those industries sit outside the city, but their managers, families and suppliers use Amreli's hospitals, schools and professional services.`,
+        `The district also has a coastline with Pipavav, which the district profile calls India's first private-sector port, and cement plants near <a href='/gujarat/website-developer-jafrabad/'>Jafrabad</a> and Rajula. Those industries sit outside the city, but their managers, families and suppliers use Amreli's hospitals, schools and professional services.`,
         `Historically, Amreli was a centre of the Gaekwad-ruled Baroda State's territory in Kathiawar, and it still carries the feel of an administrative town: courts, district offices, banks, colleges.`,
       ],
       list: [
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
       { name: "Bagasara", note: "Imitation jewellery and gold-plating businesses need image-led catalogues for wholesale buyers." },
       { name: "Savarkundla", note: "Weighing-scale makers need product catalogues with capacities and dealer enquiry routes.", href: "/gujarat/website-developer-savarkundla/" },
       { name: "Rajula", note: "Port-linked logistics, quarry and cement suppliers near Pipavav need English-first service sites.", href: "/gujarat/website-developer-rajula/" },
-      { name: "Jafrabad", note: "Fishing, dried fish and salt businesses on the coast need simple sites for buyers inland." },
+      { name: "Jafrabad", note: "Fishing, dried fish and salt businesses on the coast need simple sites for buyers inland.", href: "/gujarat/website-developer-jafrabad/" },
       { name: "Bhavnagar", note: "The nearest large city hosts many buyers and suppliers Amreli businesses deal with.", href: "/bhavnagar/" },
     ],
   },

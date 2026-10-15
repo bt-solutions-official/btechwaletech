@@ -7,7 +7,7 @@ const rajagangapur: CityContent = {
   meta: {
     title: "IT Services in Rajgangpur: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Rajgangpur plant vendors, transporters, schools, clinics and Main Road shops.",
+      "Websites, apps, local SEO and WhatsApp automation for Rajgangpur plant vendors, transporters, schools, clinics and Main Road shops. From ₹10,000.",
     keywords: [
       "IT services in Rajgangpur",
       "IT services team in Rajgangpur",
@@ -29,6 +29,12 @@ const rajagangapur: CityContent = {
       "Rajgangpur me website banwana",
       "Rajgangpur re website tiari",
       "Rourkela Rajgangpur web developer",
+      "Rajgangpur website designer",
+      "web development company Rajgangpur",
+      "hire freelance web developer Rajgangpur",
+      "Sundargarh district SEO",
+      "website designer Sundargarh district",
+      "Odisha SEO services",
     ],
   },
   hero: {

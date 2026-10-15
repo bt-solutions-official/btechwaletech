@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 17.2473, lng: 80.1514 },
   meta: {
-    title: "Freelance Software Developers in Khammam",
+    title: "Khammam Software Developers: Chilli Yard & Cold Stores",
     description:
       "Freelance software developers for Khammam: chilli trader software, service websites, AI agents, Android and iOS apps and ongoing maintenance. From ₹10,000.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT services near me Khammam",
       "Khammam website developer Telugu",
       "ఖమ్మం సాఫ్ట్‌వేర్ డెవలపర్లు",
+      "Khammam website designer",
+      "website cost in Khammam",
+      "IT company in Khammam",
+      "Telangana SEO services",
+      "hire developer Khammam",
+      "chilli commission software in Khammam",
+      "cold storages software in Khammam",
+      "granite software in Khammam",
+      "hospitals software in Khammam",
+      "website developer Market Yard Khammam",
     ],
   },
   hero: {

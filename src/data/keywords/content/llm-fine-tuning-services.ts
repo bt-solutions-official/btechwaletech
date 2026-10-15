@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "llm training data preparation", "how much data to fine tune llm", "llm evaluation services", "custom llm development India",
       "hire llm fine tuning expert", "llm fine tuning freelancer", "fine tuning services Bangalore", "fine tuning services Hyderabad",
       "llm fine tuning price in India", "open source llm fine tuning",
+      "best llm fine tuning services in India",
     ],
   },
   hero: {
@@ -304,7 +305,7 @@ const content: FreelanceContent = {
       heading: "Fine-tuning readiness checklist and handover",
       paragraphs: [
         `Before commissioning LLM fine-tuning services, check that you can tick most of this list. If several items are open, the first phase of the project should close them, and that phase alone often answers whether tuning is needed.`,
-        `At handover you receive the cleaned dataset with its documentation, the adapter weights or tuned model in your storage, training and evaluation scripts in your repository, the evaluation report and serving instructions. Two months of free maintenance follow, covering fixes and help rerunning the evaluation; ongoing care afterwards starts at ${P.care} a month if you want it.`,
+        `At handover you receive the cleaned dataset with its documentation, the adapter weights or tuned model in your storage, training and evaluation scripts in your repository, the evaluation report and serving instructions. Two months of free maintenance follow, covering fixes and help rerunning the evaluation; ongoing care afterwards starts at ${P.care} if you want it.`,
       ],
       list: [
         "A single task defined in one sentence",
@@ -371,7 +372,7 @@ const content: FreelanceContent = {
         ["Single-task fine-tune", `From ${P.ai}`, `From ${P.aiUsd}`, "Data prep, LoRA training, evaluation, handover"],
         ["Fine-tune plus serving API", `From ${P.ai}`, `From ${P.aiUsd}`, "Above, plus an endpoint in your cloud"],
         ["Multi-task programme or full app", `From ${P.software}`, `From ${P.softwareUsd}`, "Several adapters, integration, dashboards"],
-        ["Care after 2 free months", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Re-evaluation, fixes, retraining help"],
+        ["Care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Re-evaluation, fixes, retraining help"],
       ],
       hideSm: [2],
     },

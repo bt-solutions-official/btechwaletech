@@ -7,7 +7,7 @@ const narkatiaganj: CityContent = {
   meta: {
     title: "IT Services in Narkatiaganj | Web, Apps & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Narkatiaganj rice millers, cane suppliers, wholesalers, clinics and coaching centres.",
+      "Websites, apps, local SEO and WhatsApp automation for Narkatiaganj rice millers, cane suppliers, wholesalers, clinics and coaching centres. From ₹10,000.",
     keywords: [
       "IT services in Narkatiaganj",
       "IT services team in Narkatiaganj",
@@ -29,6 +29,12 @@ const narkatiaganj: CityContent = {
       "Narkatiaganj me website banwana",
       "Narkatiaganj me app banwana",
       "नरकटियागंज वेबसाइट डिज़ाइन",
+      "Narkatiaganj website designer",
+      "web development company Narkatiaganj",
+      "hire freelance web developer Narkatiaganj",
+      "West Champaran SEO services",
+      "website designer West Champaran",
+      "Bihar SEO services",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const memari: CityContent = {
   meta: {
     title: "IT Services in Memari: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, SEO and WhatsApp automation for Memari rice mills, potato cold storages, GT Road shops, colleges and clinics.",
+      "Websites, apps, SEO and WhatsApp automation for Memari rice mills, potato cold storages, GT Road shops, colleges and clinics. Websites from ₹10,000.",
     keywords: [
       "IT services in Memari",
       "IT services team in Memari",
@@ -29,6 +29,12 @@ const memari: CityContent = {
       "Memari me website banwana",
       "Memari te website banano",
       "মেমারি ওয়েবসাইট ডিজাইন",
+      "Memari website designer",
+      "web development company Memari",
+      "hire freelance web developer Memari",
+      "Purba Bardhaman SEO services",
+      "website designer Purba Bardhaman",
+      "West Bengal SEO services",
     ],
   },
   hero: {

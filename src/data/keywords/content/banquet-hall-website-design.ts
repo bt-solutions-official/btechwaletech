@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "banquet hall website near me", "banquet hall website Delhi", "banquet hall website Jaipur", "marriage garden website Indore",
       "banquet hall SEO", "how to get more banquet hall bookings online", "banquet hall ki website kaise banaye", "community hall booking website",
       "farmhouse wedding venue website",
+      "banquet hall website design company in India",
+      "best banquet hall website design in India",
+      "banquet hall website design services",
     ],
   },
   hero: {

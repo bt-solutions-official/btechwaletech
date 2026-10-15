@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "hostel management software cost", "hostel software price in India", "best hostel management software for colleges", "how to manage a college hostel",
       "custom hostel management system", "hostel attendance app", "hostel management software Jaipur", "hostel software Pune", "hostel ke liye software",
       "boys and girls hostel software", "residential campus management software",
+      "hostel management software company in India",
+      "hostel management software services",
     ],
   },
   hero: {
@@ -350,7 +352,7 @@ const content: FreelanceContent = {
         ["Apps", "Student, parent, warden and guard apps", `${P.app} (${P.appUsd})`, "6–10 weeks, can overlap"],
         ["WhatsApp automation", "Parent approvals, late alerts, fee reminders", `${P.ai} (${P.aiUsd})`, "2–4 weeks"],
         ["Hostel website", "Blocks, facilities, rules, application form", `${P.site} (${P.siteUsd})`, "1–2 weeks"],
-        ["Monthly SEO", "For institutions that market hostel places", `${P.seo} per month`, "Ongoing"],
+        ["Monthly SEO", "For institutions that market hostel places", `${P.seo}`, "Ongoing"],
         ["Maintenance", "Fixes, updates, backups", `${P.care} (${P.careUsd})`, "After 2 free months"],
       ],
       hideSm: [3],

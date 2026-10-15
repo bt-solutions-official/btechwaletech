@@ -7,7 +7,7 @@ const parbhani: CityContent = {
   meta: {
     title: "Parbhani Website Design | Marathi SEO, Stores ₹50,000",
     description:
-      "Marathi and English websites, local SEO and WhatsApp automation for Parbhani agri dealers, cotton traders, hospitals, colleges and shops. Sites from ₹10,000.",
+      "Marathi and English websites, SEO and WhatsApp tools for Parbhani agri dealers, cotton traders, hospitals, colleges and shops. Websites from ₹10,000.",
     keywords: [
       "website development team in Parbhani",
       "web designer Parbhani",
@@ -25,6 +25,16 @@ const parbhani: CityContent = {
       "website design Sailu",
       "website design Jintur",
       "परभणी वेबसाइट डिझाइन",
+      "Parbhani website designer",
+      "web development company Parbhani",
+      "hire freelance web developer Parbhani",
+      "Marathwada SEO services",
+      "website designer Marathwada",
+      "Maharashtra SEO services",
+      "Parbhani me website kaise banwaye",
+      "Parbhani website banwane ka kharcha",
+      "website design Shivaji Chowk Parbhani",
+      "website design Station Road Parbhani",
     ],
   },
   hero: {

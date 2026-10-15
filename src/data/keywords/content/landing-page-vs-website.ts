@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Landing Page vs Website: Which First? From ${P.site}`,
-    description: `Landing page vs website: which one your business needs first, for ads or Google search, real costs from ${P.site}, build times and how to grow one into the other.`,
+    description: `Landing page vs website: which your business needs first, for ads or Google search, build times and how one grows into the other. Both from ${P.site}.`,
     keywords: [
       "landing page vs website", "landing page or website", "difference between landing page and website", "landing page vs full website",
       "do I need a landing page or a website", "is a landing page enough", "landing page vs homepage", "single page website vs multi page website",

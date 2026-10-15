@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "how much does xero integration cost", "xero integration cost singapore", "xero developer near me", "xero integration for sme singapore",
       "xero api integration raffles place", "xero integration jurong", "xero integration tampines", "xero integration one-north",
       "xero invoicenow singapore", "remote xero developer for singapore business",
+      "hire xero api integration in Singapore", "freelance xero api integration Singapore",
     ],
   },
   hero: {

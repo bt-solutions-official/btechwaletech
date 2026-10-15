@@ -7,7 +7,7 @@ const anantapur: CityContent = {
   meta: {
     title: "Anantapur Website Developer & SEO | From ₹10,000",
     description:
-      "Websites, Telugu SEO, online stores and WhatsApp automation for Anantapur agri traders, Dharmavaram silk sellers, institutes and clinics. Sites from ₹10,000.",
+      "Anantapur websites, Telugu SEO, online stores and WhatsApp automation for agri traders, Dharmavaram silk sellers, institutes and clinics. Sites from ₹10,000.",
     keywords: [
       "website development team in Anantapur",
       "web designer Anantapur",
@@ -25,6 +25,14 @@ const anantapur: CityContent = {
       "website maintenance Anantapur",
       "Anantapur lo website design",
       "software development Anantapur",
+      "Anantapur website designer",
+      "website cost in Anantapur",
+      "web development company Anantapur",
+      "hire freelance developer Anantapur",
+      "Andhra Pradesh SEO",
+      "website for silk and handloom in Anantapur",
+      "web designer in Clock Tower, Anantapur",
+      "website for agri trade and horticulture in Anantapur",
     ],
   },
   hero: {

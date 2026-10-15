@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Website Maintenance Services Dubai from ${P.care}`,
-    description: `Website maintenance services Dubai businesses can rely on: updates, tested backups, security and uptime checks, SSL renewals and content edits. From ${P.care}.`,
+    description: `Website maintenance services Dubai businesses can rely on: updates, tested backups, security and uptime checks, SSL renewals. From ${P.care}.`,
     keywords: [
       "website maintenance services dubai", "website maintenance services in dubai", "website maintenance dubai",
       "website maintenance company dubai", "website maintenance uae", "website support dubai",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "take over website from previous agency", "website maintenance abu dhabi", "website maintenance sharjah",
       "website content updates dubai", "hacked website repair dubai", "remote website maintenance team",
       "website maintenance near me",
+      "hire website maintenance services in the UAE", "freelance website maintenance services UAE",
     ],
   },
   hero: {

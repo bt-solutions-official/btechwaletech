@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Best freelance web developer in India",
   updated: "2026-09-24",
   meta: {
-    title: "Best Freelance Web Developer in India: How to Judge",
+    title: "Best Freelance Web Developer in India: 2026 Checklist",
     description: `How to find the best freelance web developer in India: tests for portfolios, references and process, a scoring sheet, and honest prices from ${P.site}.`,
     keywords: [
       "best freelance web developer in India", "best freelance web developer", "best web developer in India", "best freelance web developer near me",
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Ownership signal", value: "Domain, hosting and repository in your name from day one" },
       { label: "Our static website", value: `From ${P.site}, 1–2 weeks` },
       { label: "Our online store", value: `From ${P.shop}, 4–8 weeks` },
-      { label: "Our support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Our support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     { question: "How can I test a developer before paying the full amount?", answer: "Start with a small paid milestone such as the home page design on a staging link. It shows communication, quality and timekeeping before you commit the full budget. Tie later payments to visible progress, and keep the domain and hosting in your name from the start so you are never locked in." },
     { question: "Who should own my website after it is built?", answer: "You should own everything: the domain registered with your email, hosting in your name, source code in a repository you can access, and any app store accounts. BtechWaleTech sets these up in the client's name from day one and hands over every login at launch, so you can move to another developer whenever you choose." },
     { question: "Can a good web developer guarantee Google rankings?", answer: "No. Nobody can guarantee rankings, because they depend on competition, content quality and links built over months. A good developer builds sound SEO foundations such as clean structure, speed, schema and Search Console setup, and explains that ongoing SEO work improves the odds without certainty." },
-    { question: "What support should the best web developer offer after launch?", answer: `A defined support period and a clear monthly rate afterwards, not a vague lifetime promise. BtechWaleTech includes two months of free maintenance covering fixes, small edits, updates and backups, then optional maintenance from ${P.care} a month. You can also take the site to another developer at any time.` },
+    { question: "What support should the best web developer offer after launch?", answer: `A defined support period and a clear monthly rate afterwards, not a vague lifetime promise. BtechWaleTech includes two months of free maintenance covering fixes, small edits, updates and backups, then optional maintenance from ${P.care}. You can also take the site to another developer at any time.` },
     { question: "India ka sabse achha web developer kaise dhundhein?", answer: `Live website ke link maangiye aur apne phone par check kijiye. Kisi purane client se baat kijiye. Quote line by line hona chahiye aur domain, hosting aur code aapke naam par. BtechWaleTech ke saath simple website ${P.site} se shuru hoti hai, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "Can overseas clients use the same checks for an Indian developer?", answer: `Yes, every check works remotely. Overseas clients should also confirm overlap hours for calls, billing currency and payment method. BtechWaleTech bills international clients in USD, with static websites from ${P.siteUsd}, and accepts Wise, bank wire or PayPal. References and live-site tests matter just as much across borders.` },
   ],

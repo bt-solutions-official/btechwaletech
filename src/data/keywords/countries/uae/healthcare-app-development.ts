@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "Healthcare App Development Dubai: UAE Rules Mapped",
-    description: `Healthcare app development company in Dubai? UAE health data law, DHA telehealth rules, NABIDH and Malaffi explained. Apps from ${P.app}, built to your lawyer's spec.`,
+    description: `Healthcare app development company in Dubai? UAE health data law, DHA telehealth rules, NABIDH and Malaffi. Apps from ${P.app}, built to your lawyer's spec.`,
     keywords: [
       "healthcare app development company in dubai", "healthcare app development dubai", "healthcare app development uae",
       "medical app development dubai", "telehealth app development uae", "telemedicine app development dubai",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "how much does a telemedicine app cost in uae", "hipaa vs uae health data law", "arabic healthcare app",
       "healthcare app development sharjah", "remote healthcare developers india for uae", "medical app developers near me dubai",
       "is a booking app regulated in the uae", "insurance claims workflow app uae",
+      "hire healthcare app development in the UAE", "freelance healthcare app development UAE",
     ],
   },
   hero: {

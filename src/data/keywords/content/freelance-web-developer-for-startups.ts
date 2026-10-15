@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance Web Developer for Startups | From ${P.site}`,
-    description: `Freelance web developer for startups: launch pages, product sites and pitch-ready websites from ${P.site}, live in 1–2 weeks. You own the code from day one.`,
+    description: `Freelance web developer for startups: launch pages, product sites and pitch-ready websites, live in 1–2 weeks, code yours. Sites from ${P.site}.`,
     keywords: [
       "freelance web developer for startups", "freelance web developer for startups in India", "startup web developer near me", "web developer for startup hire",
       "startup website cost India", "startup website price", "best web developer for startups", "startup ke liye website developer",
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
       ["Accounts under the company", "Domain, hosting, analytics and the repository are created under company or founder accounts before any code is written."],
       ["Build on staging, edit together", "Pages appear on a private link. Founders comment on WhatsApp, and the CMS is configured so you can change copy yourselves."],
       ["Launch with measurement", "Domain, SSL and Search Console go live together with analytics events for sign-ups and demo requests."],
-      ["Iterate after launch", `Two months of free edits as your positioning sharpens. After that, care starts from ${P.care} a month, only if you want it.`],
+      ["Iterate after launch", `Two months of free edits as your positioning sharpens. After that, care starts from ${P.care}, only if you want it.`],
     ],
   },
   faqHeading: "Freelance web developer for startups: founder questions",

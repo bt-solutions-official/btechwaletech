@@ -7,7 +7,7 @@ const nabha: CityContent = {
   meta: {
     title: "IT Services in Nabha | Web, Apps & AI from ₹10,000",
     description:
-      "Punjabi and English websites, Android and iOS apps, dealer software, local SEO and WhatsApp automation for Nabha harvester makers, arhtiyas, schools and shops.",
+      "Punjabi and English websites, apps and SEO for Nabha harvester makers, arhtiyas, schools and shops. Sites from ₹10,000, SEO sites from ₹20,000.",
     keywords: [
       "IT services in Nabha",
       "IT services team in Nabha",
@@ -29,6 +29,12 @@ const nabha: CityContent = {
       "Nabha me website banwana",
       "Nabha vich website banvauni",
       "ਨਾਭਾ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Nabha website designer",
+      "web development company Nabha",
+      "hire freelance web developer Nabha",
+      "Patiala district SEO",
+      "website designer Patiala district",
+      "Punjab SEO services",
     ],
   },
   hero: {

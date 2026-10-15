@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Ecommerce Website Developer Near Me | From ${P.shop}`,
-    description: `Ecommerce website developer near me for local shops: catalogue, WhatsApp orders, UPI checkout and delivery zones. Stores from ${P.shop}, catalogues from ${P.site}.`,
+    description: `Ecommerce website developer near me for local shops: catalogue, WhatsApp orders, UPI checkout and delivery zones. Stores from ${P.shop}, quote in 2 days.`,
     keywords: [
       "ecommerce website developer near me", "ecommerce website developer near me in India", "ecommerce developer near me", "online store developer near me",
       "ecommerce website cost for shop", "ecommerce website price India", "best ecommerce website developer near me", "dukaan ki website banwani hai",
@@ -212,7 +212,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A new online store is invisible until search engines and customers know it exists. For a local retailer, the first wins usually come from nearby searches, not national ones.`,
         `Connect your Google Business Profile to the store, keep your shop name, address and phone identical everywhere, and add products to your profile where eligible. On the site, category pages should use the words customers type, such as “school shoes in Kanpur” rather than internal codes. Product schema helps Google show price and availability, and a free Merchant Center listing can put products in Google Shopping results.`,
-        `Nobody can promise top positions. What a developer can do is build a store that is fast, well structured and easy for Google to read. Ongoing work is available from ${P.seo} a month through our <a href='/seo-expert-near-me/'>local SEO</a> service, with Search Console reports you can check.`,
+        `Nobody can promise top positions. What a developer can do is build a store that is fast, well structured and easy for Google to read. Ongoing work is available from ${P.seo} through our <a href='/seo-expert-near-me/'>local SEO</a> service, with Search Console reports you can check.`,
       ],
     },
     {
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
     { question: "Should I sell on a marketplace or build my own store?", answer: "Often both. Marketplaces bring ready buyers but take commissions and keep the customer relationship. Your own store costs more to start but has no commission and lets you build a customer list. Many shops use a marketplace for discovery and their own site for repeat buyers." },
     { question: "Who will upload my products?", answer: "Either side. You can fill a simple product sheet with names, prices, variants and categories, and we import it with matching photos. If you prefer, product entry can be added to the estimate as a separate line. After launch, your staff can edit products from the admin panel." },
     { question: "Do I own my online store and customer data?", answer: "You should own all of it. BtechWaleTech registers the domain, hosting and payment gateway in your name and gives you owner access to the admin. Customer lists and order history belong to you, and you receive every login and a renewal list at handover." },
-    { question: "Will my online store show up on Google?", answer: `A well-built store gives Google clean category pages, product schema and a fast mobile experience, and linking it to your Google Business Profile helps nearby searchers. Nobody can guarantee rankings. Ongoing store SEO is available from ${P.seo} per month with Search Console reports.` },
+    { question: "Will my online store show up on Google?", answer: `A well-built store gives Google clean category pages, product schema and a fast mobile experience, and linking it to your Google Business Profile helps nearby searchers. Nobody can guarantee rankings. Ongoing store SEO is available from ${P.seo} with Search Console reports.` },
     { question: "Can you meet me at my shop?", answer: "No, BtechWaleTech works fully remotely. A short video walk-through of your shop on your phone usually gives us everything we need, and all reviews happen on staging links you open on your phone. If in-person visits are essential, a developer in your own city may suit you better." },
     { question: "What platform is best for a small retail store?", answer: "It depends on who will run it. A hosted platform suits owners who want little upkeep, WooCommerce suits those who want WordPress flexibility, and a custom store suits unusual delivery, wholesale or pricing rules. A catalogue with WhatsApp ordering is the cheapest place to start." },
     { question: "What happens after my store goes live?", answer: `BtechWaleTech covers the first two months free: price changes, new categories, fixes and updates. After that, monthly care starts at ${P.care}, or your own staff can manage the store from the admin panel. Festival-season questions are answered on WhatsApp seven days a week.` },

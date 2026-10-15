@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "First meeting", value: "Face to face at your plant in Bhiwadi" },
       { label: "Languages", value: "Hindi and English screens and payslips" },
       { label: "Ownership", value: "Source code, server and salary data in your name" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What HRMS and payroll software in Bhiwadi costs to build",
-    note: `Custom HRMS and payroll software starts at ${P.software}. The quote moves with four things: how many pay rules and allowances you run, how many attendance devices and plants feed data, whether contract workers sit on separate rolls, and whether you want a store app for employees. Attendance import, the payroll run, payslips and a PF and ESI data export form the usual first release. Each module appears as a separate line, so you can drop or postpone lines before you approve. After launch you get two months of maintenance free, then care from ${P.care} a month if you want it.`,
+    note: `Custom HRMS and payroll software starts at ${P.software}. The quote moves with four things: how many pay rules and allowances you run, how many attendance devices and plants feed data, whether contract workers sit on separate rolls, and whether you want a store app for employees. Attendance import, the payroll run, payslips and a PF and ESI data export form the usual first release. Each module appears as a separate line, so you can drop or postpone lines before you approve. After launch you get two months of maintenance free, then care from ${P.care} if you want it.`,
   },
   guideLabel: "HRMS and payroll guide for Bhiwadi",
   guide: [
@@ -278,7 +278,7 @@ const content: FreelanceContent = {
         ["Multi-plant HRMS with contractor rolls", `From ${P.software}, quoted per module`, "10–12 weeks or phased", "Groups across Bhiwadi, Tapukara and Neemrana"],
         ["Employee self-service Android app", `From ${P.app}`, "6–10 weeks", "Payslips and leave on workers' phones"],
         ["AI reading of leave forms or WhatsApp HR bot", `From ${P.ai}`, "2–4 weeks", "Units with heavy paper or repeat questions"],
-        ["Maintenance after the free period", `From ${P.care} a month`, "Monthly", "Rule updates, fixes and small changes"],
+        ["Maintenance after the free period", `From ${P.care}`, "Monthly", "Rule updates, fixes and small changes"],
       ],
       hideSm: [3],
     },

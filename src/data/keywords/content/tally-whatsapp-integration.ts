@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Tally WhatsApp integration",
   updated: "2026-09-25",
   meta: {
-    title: `Tally WhatsApp Integration: Invoices in 1 Click`,
+    title: `Tally WhatsApp Integration: Invoices from ${P.ai}`,
     description: `Tally WhatsApp integration that sends invoices, ledgers and outstanding statements from TallyPrime on the official API, with delivery logs. From ${P.ai}.`,
     keywords: [
       "tally whatsapp integration", "tallyprime whatsapp integration", "tally to whatsapp", "send invoice from tally to whatsapp",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "automatic whatsapp from tally after saving invoice", "tally whatsapp integration for distributors", "tally whatsapp integration near me",
       "tally whatsapp integration Surat", "tally whatsapp integration Ludhiana", "tally whatsapp integration Indore",
       "tally se whatsapp par bill kaise bheje", "tally whatsapp integration freelancer", "tally whatsapp delivery report", "tally invoice pdf whatsapp",
+      "Tally WhatsApp integration company", "best Tally WhatsApp integration in India", "Tally WhatsApp integration cost in India", "Tally WhatsApp integration service",
     ],
   },
   hero: {

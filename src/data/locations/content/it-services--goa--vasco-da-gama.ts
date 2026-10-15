@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 15.3982, lng: 73.8113 },
   meta: {
-    title: "Freelance Software Developers in Vasco-da-Gama",
+    title: "Vasco-da-Gama Software Developers: Port & Fleet Tools",
     description:
-      "Freelance software developers in Vasco-da-Gama for port logistics tools, fleet apps, AI email agents, B2B websites and cloud hosting. Starting prices, 3 engineers.",
+      "Freelance software developers in Vasco-da-Gama for port logistics tools, fleet apps and AI email agents. Starting prices in INR, paid by UPI or bank transfer.",
     keywords: [
       "software development team in Vasco-da-Gama",
       "IT services team in Vasco-da-Gama",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "SEO for logistics firms Goa",
       "Vasco software developer Konkani",
       "वास्कोत सॉफ्टवेअर डेव्हलपर",
+      "Vasco-da-Gama website designer",
+      "website cost in Vasco-da-Gama",
+      "IT company in Vasco-da-Gama",
+      "Goa SEO services",
+      "hire developer Vasco-da-Gama",
+      "shipping software in Vasco-da-Gama",
+      "customs brokers software in Vasco-da-Gama",
+      "shipyard software in Vasco-da-Gama",
     ],
   },
   hero: {

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Freelance Django developer",
   updated: "2026-09-24",
   meta: {
-    title: "Freelance Django Developer in India: Portals and ERPs",
+    title: `Freelance Django Developer: Portals from ${P.software}`,
     description: `Hire a freelance Django developer for admin panels, customer portals and small ERPs. Custom web apps from ${P.software}, code in your name, 2 months free support.`,
     keywords: [
       "freelance django developer", "freelance django developer India", "django developer near me", "freelance django developer for hire",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "django admin panel developer", "django portal development", "django ERP development", "django REST framework developer",
       "custom django web application", "django upgrade freelancer", "django backend developer", "django CRM developer",
       "django inventory software", "remote django developer India",
+      "hire freelance django developer",
     ],
   },
   hero: {

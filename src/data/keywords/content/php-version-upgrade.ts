@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "PHP version upgrade service",
   updated: "2026-09-25",
   meta: {
-    title: "PHP Version Upgrade Service: Fix PHP 8 Errors Fast",
-    description: `PHP version upgrade service for sites that broke on PHP 8.x: deprecated code fixed on staging first, plugins updated, care plans from ${P.care}/month.`,
+    title: `PHP Version Upgrade: Fix PHP 8 Errors Fast (2026)`,
+    description: `PHP version upgrade service for sites that broke on PHP 8.x: deprecated code fixed on staging first, plugins updated, care plans from ${P.care}.`,
     keywords: [
       "php version upgrade service", "php upgrade service", "php 8 upgrade service", "upgrade php version of website",
       "website broken after php update", "php 7.4 to php 8 upgrade", "php 8.2 compatibility fix", "php 8.3 upgrade",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "how to upgrade php version safely", "which php version should I use", "php upgrade developer near me", "hire developer for php upgrade",
       "php version upgrade service Delhi", "php version upgrade service Mumbai", "php update ke baad website band", "php 8.1 end of life",
       "php compatibility check", "mysql_connect undefined function fix",
+      "PHP version upgrade service cost", "PHP version upgrade service price", "PHP version upgrade service company", "best PHP version upgrade service in India",
+      "PHP version upgrade service cost in India", "PHP version upgrade service service",
     ],
   },
   hero: {
@@ -36,7 +38,7 @@ const content: FreelanceContent = {
     ["Target versions", "PHP 8.3 or 8.4 for most sites"],
     ["Testing", "On a staging copy before the live switch"],
     ["Quote", "Itemised by codebase size, about 2 working days"],
-    ["Ongoing care", `From ${P.care} a month`],
+    ["Ongoing care", `From ${P.care}`],
     ["Stacks", "WordPress, WooCommerce, Laravel, CodeIgniter, core PHP"],
     ["Payment", "UPI or bank transfer; USD by Wise, wire or PayPal"],
   ],
@@ -48,7 +50,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What should you do when a hosting PHP upgrade breaks your site?",
-    text: `First, switch the site back to its previous PHP version in the hosting panel if the host still allows it, so customers see a working site. Then copy the site to staging on the new version, fix removed and deprecated code, update plugins or packages, test key pages and switch live. Our PHP version upgrade service quotes by codebase size; ongoing care starts at ${P.care} a month.`,
+    text: `First, switch the site back to its previous PHP version in the hosting panel if the host still allows it, so customers see a working site. Then copy the site to staging on the new version, fix removed and deprecated code, update plugins or packages, test key pages and switch live. Our PHP version upgrade service quotes by codebase size; ongoing care starts at ${P.care}.`,
     more: `Many small sites only need this fix. Larger old apps sometimes justify a move instead, such as a <a href='/codeigniter-to-laravel-migration/'>CodeIgniter to Laravel migration</a>; for ongoing WordPress upkeep see <a href='/wordpress-maintenance-services/'>WordPress maintenance services</a>.`,
   },
   snapshot: {
@@ -60,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Custom PHP app", value: "One to several weeks, by code size" },
       { label: "Method", value: "Backup, staging copy, scan, fix, test, switch" },
       { label: "Your access stays", value: "Hosting, code and admin logins remain yours" },
-      { label: "Care afterwards", value: `From ${P.care} a month` },
+      { label: "Care afterwards", value: `From ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "PHP version upgrade cost by codebase size",
-    note: `Cost follows the amount of code, not the number of pages. A brochure WordPress site with a maintained theme and a dozen well-kept plugins is a short job; the same site with a custom theme from 2016 and three abandoned plugins takes longer. Custom PHP and CodeIgniter apps are priced by the number of files with removed or deprecated calls and by how much can be tested. Every PHP version upgrade service quote is itemised after the scan and arrives in about two working days. Bigger jobs such as a full custom app upgrade start at ${P.software}, and ongoing care that keeps PHP current starts at ${P.care} a month.`,
+    note: `Cost follows the amount of code, not the number of pages. A brochure WordPress site with a maintained theme and a dozen well-kept plugins is a short job; the same site with a custom theme from 2016 and three abandoned plugins takes longer. Custom PHP and CodeIgniter apps are priced by the number of files with removed or deprecated calls and by how much can be tested. Every PHP version upgrade service quote is itemised after the scan and arrives in about two working days. Bigger jobs such as a full custom app upgrade start at ${P.software}, and ongoing care that keeps PHP current starts at ${P.care}.`,
   },
   guideLabel: "PHP version upgrade guide",
   guide: [
@@ -291,7 +293,7 @@ const content: FreelanceContent = {
         "Watch error logs and Search Console for a week afterwards",
       ],
       after: [
-        `Ongoing maintenance catches the next deadline early; our <a href='/wordpress-maintenance-services/'>WordPress maintenance</a> and general care plans start at ${P.care} a month.`,
+        `Ongoing maintenance catches the next deadline early; our <a href='/wordpress-maintenance-services/'>WordPress maintenance</a> and general care plans start at ${P.care}.`,
       ],
     },
     {
@@ -351,7 +353,7 @@ const content: FreelanceContent = {
         ["CodeIgniter 3 or core PHP app", "Removed functions, database calls, deprecations", "1–4 weeks", "Itemised quote after scan"],
         ["Laravel app several versions behind", "Framework upgraded step by step, packages updated", "1–4 weeks", `Larger jobs from ${P.software}`],
         ["Site too old to fix economically", "Rebuild instead", "1–2 weeks", `New site from ${P.site}`],
-        ["Keeping PHP current afterwards", "Monthly updates and planned version moves", "Ongoing", `From ${P.care} a month`],
+        ["Keeping PHP current afterwards", "Monthly updates and planned version moves", "Ongoing", `From ${P.care}`],
       ],
       hideSm: [2],
     },
@@ -392,7 +394,7 @@ const content: FreelanceContent = {
   },
   faqHeading: "PHP version upgrade service FAQs",
   faqs: [
-    { question: "How much does a PHP version upgrade service cost in India?", answer: `It depends on the size and age of the code. After a scan you get a quote itemised by component, such as theme, each problem plugin and custom modules. Small WordPress sites are short jobs; custom apps take longer, and large custom application upgrades start at ${P.software}. Ongoing care that keeps PHP current starts at ${P.care} a month.` },
+    { question: "How much does a PHP version upgrade service cost in India?", answer: `It depends on the size and age of the code. After a scan you get a quote itemised by component, such as theme, each problem plugin and custom modules. Small WordPress sites are short jobs; custom apps take longer, and large custom application upgrades start at ${P.software}. Ongoing care that keeps PHP current starts at ${P.care}.` },
     { question: "How long does a PHP upgrade take?", answer: "A small WordPress site with maintained plugins usually takes two to four working days including testing. A WooCommerce store takes one to two weeks because every checkout path is tested. Custom PHP, CodeIgniter or older Laravel apps take one to four weeks depending on how many files use removed or deprecated code." },
     { question: "My website shows a blank page after the PHP update. What should I do?", answer: "Switch the domain back to the previous PHP version in your hosting panel if it is still offered. If not, put up a maintenance page. Then take a full backup and download the PHP error log, which names the failing file and line. WordPress may also have emailed a recovery-mode link naming the plugin or theme at fault." },
     { question: "Which PHP version should my website use?", answer: "PHP 8.3 or 8.4 for most sites in 2026. PHP.net lists security support for 8.3 until 31 December 2027 and for 8.4 until 31 December 2028. PHP 8.2 support ends on 31 December 2026, so it is only a short stop. Choose the highest version your CMS, theme, plugins or framework release officially support." },
@@ -409,7 +411,7 @@ const content: FreelanceContent = {
     { question: "Do I need to give you my hosting password?", answer: "No. Create a separate user or temporary login in your hosting panel, WordPress admin or Git repository for us, and remove it when the job is done. Your domain, hosting and code remain in your name throughout. If the host does not support extra users, we agree a safe way to share access in writing." },
     { question: "Should I rebuild my website instead of upgrading PHP?", answer: `Sometimes. If the theme is abandoned, the design is dated and most plugins need replacing anyway, a rebuild may cost less than fixing, and a new static site starts at ${P.site}. If the site works well and only the PHP version is the problem, an upgrade keeps your content, URLs and rankings intact for much less effort.` },
     { question: "Freelancer or agency for a PHP upgrade?", answer: "A PHP upgrade is a focused technical job, so a small freelance team suits it well: you speak with the developers reading your code, and there is no account-management layer. BtechWaleTech is three freelance developers covering code, server and testing. For large estates of hundreds of sites needing coordinated work, a bigger vendor may fit better." },
-    { question: "What happens after the upgrade?", answer: `You get a report of the PHP version before and after, what was fixed or replaced, remaining notices for the next version and the date your chosen branch reaches end of life. Optional maintenance from ${P.care} a month keeps plugins, packages and PHP current so the next move is planned, not forced.` },
+    { question: "What happens after the upgrade?", answer: `You get a report of the PHP version before and after, what was fixed or replaced, remaining notices for the next version and the date your chosen branch reaches end of life. Optional maintenance from ${P.care} keeps plugins, packages and PHP current so the next move is planned, not forced.` },
     { question: "How do payments work for a PHP upgrade?", answer: "You approve an itemised written quote before work starts, and nothing is billed before that approval. Indian clients pay by UPI or bank transfer, with GST invoices where required. Clients outside India are quoted in USD and pay through Wise, bank wire or PayPal. Specific milestones for larger jobs are set out in the quote." },
     { question: "PHP update ke baad website band ho gayi, kya karein?", answer: "Sabse pehle hosting panel mein PHP version wapas purane par kar dein, agar option abhi bhi hai. Nahi hai to maintenance page laga dein aur poora backup le lein. Phir error log download karke humein WhatsApp par bhej dein. Hum staging copy par code theek karke test karte hain, uske baad hi live site badalti hai." },
     { question: "Can you upgrade PHP on a site that has also been hacked?", answer: "Yes, and it is common because sites stuck on old PHP are often compromised. We check for injected files, unknown admin users and modified core files, clean them, and close the entry point, usually an outdated plugin, before or alongside the PHP upgrade. Cleaning first avoids carrying malware onto the new setup." },
@@ -434,7 +436,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Site broken after a PHP update? Send us the error log",
-    note: `Message us on WhatsApp with your site address, current PHP version and the error log if you have it. We help stabilise the site first, then send an itemised upgrade quote in about two working days, with ongoing care from ${P.care} a month.`,
+    note: `Message us on WhatsApp with your site address, current PHP version and the error log if you have it. We help stabilise the site first, then send an itemised upgrade quote in about two working days, with ongoing care from ${P.care}.`,
   },
 };
 

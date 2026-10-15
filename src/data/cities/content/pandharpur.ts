@@ -7,7 +7,7 @@ const pandharpur: CityContent = {
   meta: {
     title: "IT Services in Pandharpur: Web, Apps, SEO & AI",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Pandharpur lodges, maths, prasad shops, sugar and pomegranate trade, and colleges.",
+      "Marathi websites, apps, local SEO and WhatsApp tools for Pandharpur lodges, maths, prasad shops, sugar and pomegranate trade, and colleges. From ₹10,000.",
     keywords: [
       "IT services in Pandharpur",
       "IT services team in Pandharpur",
@@ -29,6 +29,12 @@ const pandharpur: CityContent = {
       "Pandharpur me website banwana",
       "Pandharpur madhe website banvaychi aahe",
       "पंढरपूर वेबसाईट डिझाईन",
+      "Pandharpur website designer",
+      "web development company Pandharpur",
+      "hire freelance web developer Pandharpur",
+      "Solapur district SEO",
+      "website designer Solapur district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

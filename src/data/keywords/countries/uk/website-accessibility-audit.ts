@@ -199,7 +199,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Cover every distinct template and every journey that leads to money or a request for help. You do not need to test all 800 product pages; you need to test the product template thoroughly and a few pages with unusual content.`,
         `For a typical UK small business site we would include the home page, a service or product page, a category or listing page, the contact or enquiry form, the booking or quote journey, a blog post, the search results page, and any login area. For shops, add basket, delivery options, payment, order confirmation and account pages. For a firm of solicitors or accountants, add document download pages and client portals.`,
-        `Third-party components count from the user's point of view even if you did not build them. A booking widget, a payment page, a chat tool or a map embed can block the journey. We test them in context and tell you which issues you can fix and which need raising with the supplier. The <a href='/uk/payment-gateway-integration/'>payment gateway integration</a> page explains how hosted payment pages and embedded card fields differ, which affects who controls accessibility at that step.`,
+        `Third-party components count from the user's point of view even if you did not build them. A booking widget, a payment page, a chat tool or a map embed can block the journey. We test them in context and tell you which issues you can fix and which need raising with the supplier. The <a href='/uk/ecommerce-website-design/'>ecommerce website design</a> page explains how hosted payment pages and embedded card fields differ, which affects who controls accessibility at that step.`,
         `PDFs are often forgotten. If customers must read a price list, a policy or a form in PDF, include a sample. Often the best fix is an HTML version of the key content.`,
       ],
     },
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
       { name: "UK services hub", href: "/uk/" },
       { name: "UK GDPR cookie banner setup", href: "/uk/gdpr-cookie-banner-setup/" },
       { name: "DMCC Act ecommerce compliance", href: "/uk/dmcc-act-ecommerce-compliance/" },
-      { name: "Payment gateway integration UK", href: "/uk/payment-gateway-integration/" },
+      { name: "WooCommerce developer UK", href: "/uk/woocommerce-developer/" },
       { name: "Website redesign services UK", href: "/uk/website-redesign-services/" },
       { name: "Technical SEO audit UK", href: "/uk/technical-seo-audit/" },
       { name: "Charity website design", href: "/uk/charity-website-design/" },

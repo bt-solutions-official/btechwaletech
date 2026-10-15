@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "jewellery website design sharjah", "jewellery website design abu dhabi", "jewelry website design",
       "jewellery website designer near me", "jewellery website seo uae", "insured delivery jewellery online uae",
       "remote web designers india for uae jewellers",
+      "hire jewellery website design in the UAE", "freelance jewellery website design UAE",
     ],
   },
   hero: {

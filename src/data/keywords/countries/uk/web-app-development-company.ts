@@ -156,7 +156,7 @@ const content: FreelanceContent = {
         `Use a hosted payment provider that supports sterling, subscriptions and UK card authentication, and never let card numbers touch your own servers. Your web app stores only references to customers and subscriptions, while the provider handles the card data.`,
         `Billing logic is where SaaS-style web apps get complicated. Plans, trials, upgrades mid-month, VAT on invoices, failed payments, cancellations and refunds each need a rule. We model these as events: the provider notifies the app through webhooks when something happens, and the app updates access accordingly. That keeps the two systems in step even when a customer changes cards at midnight.`,
         `Checkout flows should support Apple Pay and Google Pay where the provider offers them, because many UK customers pay on their phones. Receipts and invoices should show what your accountant needs; which VAT treatment applies is their call, and we build the invoice to match it.`,
-        `We help you choose a provider by comparing their published fees and features with your volumes. The merchant account is always opened in your business name, and payouts go straight to your UK bank, never through us. For a detailed comparison of providers, see our <a href='/uk/payment-gateway-integration/'>payment gateway integration guide for UK businesses</a>.`,
+        `We help you choose a provider by comparing their published fees and features with your volumes. The merchant account is always opened in your business name, and payouts go straight to your UK bank, never through us. For more on connecting card payments to a UK site, see our <a href='/uk/ecommerce-website-design/'>ecommerce website design guide for UK businesses</a>.`,
       ],
     },
     {
@@ -428,7 +428,7 @@ const content: FreelanceContent = {
       { name: "App development company UK alternative", href: "/uk/app-development-company-alternative/" },
       { name: "Outsource app development UK", href: "/uk/outsource-app-development/" },
       { name: "Custom booking system development", href: "/uk/booking-system-development/" },
-      { name: "Payment gateway integration UK", href: "/uk/payment-gateway-integration/" },
+      { name: "Ecommerce website design UK", href: "/uk/ecommerce-website-design/" },
       { name: "Website accessibility audit UK", href: "/uk/website-accessibility-audit/" },
       { name: "Flutter app development UK", href: "/uk/flutter-app-development/" },
       { name: "AI chatbot development UK", href: "/uk/ai-chatbot-development/" },

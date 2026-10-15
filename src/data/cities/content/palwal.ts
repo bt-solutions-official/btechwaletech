@@ -7,7 +7,7 @@ const palwal: CityContent = {
   meta: {
     title: "Palwal Website Design, SEO & Software | ₹10,000+",
     description:
-      "Websites, local SEO and business software for Palwal factories, Prithla and Baghola units, dealers, schools and clinics. Sites from ₹10,000, free upkeep 2 months.",
+      "Websites, local SEO and business software for Palwal factories, Prithla and Baghola units, dealers, schools and clinics. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "website development team in Palwal",
       "web designer Palwal",
@@ -24,6 +24,17 @@ const palwal: CityContent = {
       "website maintenance Palwal",
       "Palwal me website banwani hai",
       "पलवल वेबसाइट डिजाइन",
+      "Palwal website designer",
+      "web development company Palwal",
+      "hire freelance web developer Palwal",
+      "NCR SEO services",
+      "website designer NCR",
+      "Haryana SEO services",
+      "Palwal me website kaise banwaye",
+      "Palwal website banwane ka kharcha",
+      "website design Old GT Road Palwal",
+      "website design Minar Gate Palwal",
+      "website design HUDA Sector 2 Palwal",
     ],
   },
   hero: {

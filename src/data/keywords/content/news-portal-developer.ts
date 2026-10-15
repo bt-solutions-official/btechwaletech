@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "News portal developer",
   updated: "2026-09-24",
   meta: {
-    title: `News Portal Developer: Fast News & Blog Sites`,
+    title: `News Portal Developer: Fast Sites from ${P.seoSite}`,
     description: `News portal developer in India for fast news and blog sites: editor-friendly CMS, Core Web Vitals with ads, Google News readiness. Portals from ${P.seoSite}.`,
     keywords: [
       "news portal developer", "news portal developer India", "news portal developer near me", "news portal development cost",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "WordPress news website developer", "headless CMS news site", "news website with AdSense", "Google News ready website",
       "blog portal developer", "digital news website for journalists", "e-paper website developer", "freelance news website developer",
       "news app developer", "local news portal development",
+      "hire news portal developer", "freelance news portal developer", "news portal developer cost", "best news portal developer in India",
+      "news portal developer price", "news portal developer charges",
     ],
   },
   hero: {

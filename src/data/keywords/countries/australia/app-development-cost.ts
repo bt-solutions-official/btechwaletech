@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "app development cost sydney", "app development cost melbourne", "app development cost brisbane", "app development cost perth",
       "how long does it take to build an app", "app budget calculator australia", "cheap app development australia",
       "app development quote australia", "app cost for small business australia",
+      "hire app developers in Australia", "freelance app developer Australia",
     ],
   },
   hero: {

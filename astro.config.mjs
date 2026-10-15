@@ -35,6 +35,10 @@ export default defineConfig({
   integrations: [
     sitemap({
       filter: (page) => !page.includes("/drafts/"),
+      // URLs are emitted alphabetically, so a 500-URL limit splits 2670 pages into 6 sitemaps
+      // whose boundaries follow the path prefixes (bhiwadi, gujarat, it-services, country hubs).
+      // Google then reports indexation per group instead of one opaque 2670-URL file.
+      entryLimit: 500,
       serialize(item) {
         const pathname = new URL(item.url).pathname;
 

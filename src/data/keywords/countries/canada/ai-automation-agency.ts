@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `AI Automation Agency Canada Alternative from ${P.ai}`,
-    description: `AI automation agency in Canada alternative: lead follow-up, document processing and n8n/Make/Zapier workflows from ${P.ai}, PIPEDA-aware, priced in staff hours saved.`,
+    description: `AI automation agency Canada alternative: lead follow-up, document processing and n8n/Make/Zapier workflows from ${P.ai}, PIPEDA-aware, priced in hours saved.`,
     keywords: [
       "ai automation agency canada", "ai automation agency", "ai automation services canada", "ai automation for small business canada",
       "business process automation canada", "ai workflow automation", "n8n automation developer", "make.com automation expert",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "ai automation cost", "is ai automation worth it for small business", "pipeda ai tools", "law 25 automated decisions",
       "ai automation toronto", "ai automation vancouver", "ai automation calgary", "ai automation montreal", "ai automation ottawa",
       "ai automation agency near me", "hire ai automation developer",
+      "freelance ai automation Canada",
     ],
   },
   hero: {

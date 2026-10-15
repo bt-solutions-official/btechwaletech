@@ -15,7 +15,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Law Firm Website Design Singapore from ${P.site}`,
-    description: `Law firm website design in Singapore: practice-area pages, lawyer profiles and secure intake, written with Part 5 publicity rules and PDPA in mind. From ${P.site}.`,
+    description: `Law firm website design in Singapore: practice-area pages, lawyer profiles and secure intake, built for Part 5 publicity rules and PDPA. From ${P.site}.`,
     keywords: [
       "law firm website design singapore", "lawyer website design singapore", "legal website design singapore", "law practice website singapore",
       "law firm website cost singapore", "how much does a law firm website cost", "legal profession publicity rules website", "professional conduct rules publicity lawyer website",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "corporate law firm website singapore", "lawyer profile page design", "secure legal enquiry form", "pdpa law firm client data",
       "law firm seo singapore", "practice area seo", "legal website raffles place", "law firm website tanjong pagar",
       "family lawyer website singapore", "small law firm website singapore", "law firm web designer near me singapore", "legal web developer singapore",
+      "hire law firm website design in Singapore", "freelance law firm website design Singapore",
     ],
   },
   hero: {

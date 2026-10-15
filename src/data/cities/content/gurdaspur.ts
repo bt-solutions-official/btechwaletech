@@ -7,7 +7,7 @@ const gurdaspur: CityContent = {
   meta: {
     title: "IT Services in Gurdaspur | Web, Apps & AI from ₹10,000",
     description:
-      "Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Gurdaspur rice traders, agri dealers, colleges, clinics and shops.",
+      "Gurdaspur Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for rice traders, agri dealers, colleges, clinics and shops.",
     keywords: [
       "IT services in Gurdaspur",
       "IT services team in Gurdaspur",
@@ -29,6 +29,10 @@ const gurdaspur: CityContent = {
       "Gurdaspur me website banwana",
       "Gurdaspur vich website banvao",
       "ਗੁਰਦਾਸਪੁਰ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Gurdaspur website designer",
+      "web development company Gurdaspur",
+      "hire freelance developer Gurdaspur",
+      "Punjab SEO",
     ],
   },
   hero: {

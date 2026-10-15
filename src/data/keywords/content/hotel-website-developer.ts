@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "hotel website developer Udaipur", "hotel website developer Rishikesh", "hotel website developer Shimla", "hotel website developer Kerala",
       "hotel website developer Jaipur", "boutique hotel website", "hotel website SEO", "hotel booking engine integration",
       "villa rental website developer", "dharamshala website developer",
+      "hire hotel website developer",
     ],
   },
   hero: {
@@ -200,7 +201,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a hotel, homestay or resort website with room pages, gallery, policies, location, WhatsApp and an enquiry or booking engine link starts at ${P.site} (${P.siteUsd} for properties marketed abroad). A custom booking and deposit system starts at ${P.software}. A large site with destination and attraction pages for search starts at ${P.seoSite}.`,
         `Across the market, quotes for hotel websites vary widely. The difference usually comes from the booking tool, the number of languages, whether photos and descriptions are included, and whether the price covers updates in peak season. A cheap site that cannot be updated when rates change in October is not cheap for a hotel.`,
-        `Separate running costs to plan for: domain renewal, hosting, the booking engine or channel manager subscription if you use one, payment processing charges, and WhatsApp messaging costs if you automate confirmations. These go straight from your account to each provider. After two free months of maintenance, ongoing care starts at ${P.care} per month.`,
+        `Separate running costs to plan for: domain renewal, hosting, the booking engine or channel manager subscription if you use one, payment processing charges, and WhatsApp messaging costs if you automate confirmations. These go straight from your account to each provider. After two free months of maintenance, ongoing care starts at ${P.care}.`,
       ],
     },
     {
@@ -356,7 +357,7 @@ const content: FreelanceContent = {
       ["Accounts and payments set up", "Domain, hosting and payment accounts are created in your name on a short call; your booking engine or channel manager is connected."],
       ["Rooms, photos and policies", "We write or polish room pages and policies from your details, optimise photos, and show everything on a private staging link."],
       ["Test bookings and launch", "Test bookings run end to end on mobile, schema and Search Console are set, and the site is linked from your Google profile."],
-      ["Season-ready support", "Two months of free updates cover rate and offer changes. Afterwards, care continues from " + P.care + " per month if you want it."],
+      ["Season-ready support", "Two months of free updates cover rate and offer changes. Afterwards, care continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Hotel website developer: frequently asked questions",
@@ -375,7 +376,7 @@ const content: FreelanceContent = {
     { question: "Can my hotel website be in Hindi and other languages?", answer: "Yes. Home, room, location and policy pages can be built in Hindi, English and any other language your guests commonly use, each with proper language tags for search engines. Text is written or reviewed by a fluent speaker. Policy wording in particular is checked carefully, because a poorly translated cancellation rule leads to real disputes with guests." },
     { question: "How is SEO different for hotel websites?", answer: "Guests search the destination first, then compare options, then check the property name. So besides technical basics like Hotel schema, titles, sitemap and speed, hotel sites benefit from pages on routes, seasons and nearby attractions that OTAs do not cover in depth. Genuine reviews and a complete Google Business Profile matter too. Nobody can guarantee rankings." },
     { question: "Can guests get automatic WhatsApp confirmations?", answer: `Yes. Booking confirmations, a day-before directions message, check-in reminders and answers to common questions can be automated through the WhatsApp Business Platform, which needs customer opt-in and has its own messaging costs. BtechWaleTech builds this automation from ${P.ai}, and it can connect to your booking engine or custom system.` },
-    { question: "What does hotel website maintenance include?", answer: `The first two months after launch are free and cover rate and offer changes, new photos, small text edits, fixes and backups. After that, maintenance is optional from ${P.care} per month. For hotels, the busiest months for updates are before peak season, festivals and long weekends, when rates, packages and banners change most often.` },
+    { question: "What does hotel website maintenance include?", answer: `The first two months after launch are free and cover rate and offer changes, new photos, small text edits, fixes and backups. After that, maintenance is optional from ${P.care}. For hotels, the busiest months for updates are before peak season, festivals and long weekends, when rates, packages and banners change most often.` },
     { question: "Do you work with resorts and hotels outside India?", answer: `Yes. Remote work suits hospitality websites anywhere. International properties are billed in USD, with hotel sites starting at ${P.siteUsd}, and pay by Wise, bank wire or PayPal. We keep overlap hours for calls, share progress on staging links, and build language versions for the markets your guests come from.` },
     { question: "How do I get paid bookings instead of just enquiries?", answer: "Make booking the easiest action on every page: dates and a “Check availability” button near the top, clear room rates, deposit and refund rules shown before payment, and UPI plus card options. Remove unnecessary form fields. Test the whole flow on a mid-range phone on mobile data, because slow or confusing steps are where most guests give up." },
     { question: "Hotel ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath hotel ya homestay ki website ${P.site} se shuru hoti hai, jisme room pages, photos, policies, location aur booking ya WhatsApp enquiry shaamil hai. Apna custom booking system ${P.software} se banta hai. Domain, hosting aur booking engine ki fees aap seedhe dete hain, aur launch ke baad 2 mahine updates free hain.` },

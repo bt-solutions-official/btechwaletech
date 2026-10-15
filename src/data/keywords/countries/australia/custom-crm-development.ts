@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "crm developer sydney", "crm developer melbourne", "crm developer brisbane", "crm developer perth",
       "is it worth building a custom crm", "custom sales pipeline software", "crm migration from spreadsheets",
       "custom crm development near me", "own your crm data",
+      "hire custom crm development in Australia", "freelance custom crm development Australia",
     ],
   },
   hero: {

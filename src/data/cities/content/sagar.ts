@@ -7,7 +7,7 @@ const sagar: CityContent = {
   meta: {
     title: "IT Services in Sagar: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Sagar shops, coaching centres, hospitals, mills and suppliers. Written quotes, and you own the domain.",
+      "Websites, local SEO, online stores and WhatsApp tools for Sagar shops, coaching centres, hospitals, mills and suppliers. Sites from ₹10,000.",
     keywords: [
       "website development team in Sagar",
       "web designer Sagar MP",
@@ -24,6 +24,17 @@ const sagar: CityContent = {
       "website maintenance Sagar",
       "Sagar me website kaise banwaye",
       "सागर वेबसाइट डिज़ाइन",
+      "Sagar website designer",
+      "web development company Sagar",
+      "hire freelance web developer Sagar",
+      "Madhya Pradesh SEO services",
+      "Sagar website banwane ka kharcha",
+      "Sagar Katra Bazaar retailers website",
+      "Katra Bazaar retailers website design Sagar",
+      "website design Katra Bazaar Sagar",
+      "website design Civil Lines Sagar",
+      "website design Makronia Sagar",
+      "website design Gopalganj Sagar",
     ],
   },
   hero: {

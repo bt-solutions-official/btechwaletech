@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "WhatsApp Green Tick Verification: The 2026 Route",
-    description: `WhatsApp green tick verification is now a blue badge. See both routes, the notability evidence Meta checks, and what to do after a rejection. Setup from ${P.ai}.`,
+    description: `WhatsApp green tick verification is now a blue badge: both routes, the notability evidence Meta checks, and what to do after a rejection. Setup ${P.ai}.`,
     keywords: [
       "whatsapp green tick verification", "whatsapp green tick", "how to get green tick on whatsapp business", "whatsapp blue tick for business",
       "whatsapp official business account", "whatsapp verified badge", "meta verified whatsapp business", "whatsapp green tick eligibility",

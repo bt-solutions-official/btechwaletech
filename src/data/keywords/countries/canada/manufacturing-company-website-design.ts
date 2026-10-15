@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "plastics manufacturer website", "manufacturing website ontario", "manufacturing website toronto", "manufacturing website montreal",
       "manufacturing website calgary", "manufacturing website winnipeg", "cusma export website", "iso 9001 certification website page",
       "manufacturing website design near me", "bilingual manufacturing website quebec",
+      "hire manufacturing company website design in Canada", "freelance manufacturing company website design Canada",
     ],
   },
   hero: {

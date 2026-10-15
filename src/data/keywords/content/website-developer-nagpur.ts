@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Developer in Nagpur | Hindi-ready, ${P.site}+`,
-    description: `Website developer in Nagpur for hospitals, coaching institutes, traders and MIHAN suppliers. Hindi and English sites from ${P.site}, live in 1–2 weeks. Ask today.`,
+    description: `Website developer in Nagpur for hospitals, coaching institutes, traders and MIHAN suppliers: Hindi and English sites from ${P.site}, live in 1-2 weeks.`,
     keywords: [
       "website developer in Nagpur", "website developer Nagpur", "website developer near me Nagpur", "web developer in Nagpur",
       "website designer in Nagpur", "website development services Nagpur", "website making in Nagpur",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer MIHAN", "website developer Hingna MIDC", "orange business website Nagpur", "freelance website developer Nagpur",
       "business website Vidarbha", "website developer Amravati Wardha", "Nagpur me website kaise banaye", "Nagpur mein website kitne ki banti hai",
       "best website developer in Nagpur",
+      "website developer in Nagpur cost", "website developer in Nagpur price", "hire website developer in Nagpur", "freelance website developer in Nagpur",
+      "website developer in Nagpur charges",
     ],
   },
   hero: {

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Inventory management software developer",
   updated: "2026-09-24",
   meta: {
-    title: `Inventory Management Software Developer in India`,
+    title: `Inventory Management Software Developer, ${P.software}+`,
     description: `Inventory management software developer for shops, godowns and warehouses in India: stock, batches, barcodes, reorder alerts. Custom builds from ${P.software}.`,
     keywords: [
       "inventory management software developer", "inventory management software developer in India", "inventory software developer near me", "inventory software developer for hire",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "inventory software developer Hyderabad", "inventory software developer Ahmedabad", "stock management software developer", "warehouse management software developer",
       "custom inventory system for shop", "godown stock software", "barcode inventory software development", "batch and expiry tracking software",
       "multi-location inventory software", "inventory app for retail shop", "inventory management system freelancer", "stock register software custom",
+      "hire inventory management software developer",
     ],
   },
   hero: {

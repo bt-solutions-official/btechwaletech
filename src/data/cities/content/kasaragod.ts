@@ -7,7 +7,7 @@ const kasaragod: CityContent = {
   meta: {
     title: "IT Services in Kasaragod | Web, Apps & AI from ₹10,000",
     description:
-      "Malayalam, Kannada and English websites, Android and iOS apps, local SEO and WhatsApp automation for Kasaragod traders, Bekal resorts, weavers, clinics and colleges.",
+      "Kasaragod Malayalam, Kannada and English websites, mobile apps, local SEO and WhatsApp bots for traders, Bekal resorts, weavers and clinics. ₹10,000 onwards.",
     keywords: [
       "IT services in Kasaragod",
       "IT services team in Kasaragod",
@@ -29,6 +29,10 @@ const kasaragod: CityContent = {
       "Kasaragod me website banwana",
       "Kasaragod website cheyyan",
       "കാസർഗോഡ് വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Kasaragod website designer",
+      "web development company Kasaragod",
+      "hire freelance developer Kasaragod",
+      "Kerala SEO",
     ],
   },
   hero: {

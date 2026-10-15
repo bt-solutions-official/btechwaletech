@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "tokushoho page", "specified commercial transactions act disclosure", "japan checkout developer", "konbini payment for subscriptions",
       "konbini payment app", "konbini payment tokyo", "konbini payment osaka", "japan payment gateway integration india",
       "cash payment online japan", "familymart lawson payment online",
+      "hire konbini payment integration in Japan", "freelance konbini payment integration Japan",
     ],
   },
   hero: {
@@ -73,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Refund and cancellation flows", note: "Clear screens and emails for cash refunds, which need the customer’s bank details, plus a staff view of every refund still waiting.", size: "md" },
       { name: "Bank transfer reconciliation", note: "Virtual account numbers or reference codes matched to orders so staff stop checking the bank statement by hand.", size: "sm" },
       { name: "Konbini in mobile apps", note: "Flutter or React Native apps that show the payment code in-app and update the order when the store payment clears.", href: "/japan/app-development-cost/", size: "sm" },
-      { name: "Payment care", note: `Watching webhooks, processor API changes and failed notifications after the free period, from ${P.care} per month.`, size: "sm" },
+      { name: "Payment care", note: `Watching webhooks, processor API changes and failed notifications after the free period, from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -299,7 +300,7 @@ const content: FreelanceContent = {
         "State of the existing code, if we are adding to it",
       ],
       after: [
-        `Processor fees are separate and paid by you to the processor. After launch, two months of maintenance are free; payment care after that starts at ${P.care} per month.`,
+        `Processor fees are separate and paid by you to the processor. After launch, two months of maintenance are free; payment care after that starts at ${P.care}.`,
       ],
     },
     {
@@ -424,7 +425,7 @@ const content: FreelanceContent = {
     { question: "Can LINE send konbini payment reminders?", answer: "Yes, if the customer has linked their LINE account to your shop. A LINE chatbot can send the payment code the day before the deadline and a “payment received” message afterwards. Pushed messages count toward your LINE Official Account allowance, so we send them only to customers with an open voucher." },
     { question: "How do you test konbini payments without real cash?", answer: "Processors provide test modes that simulate each outcome. One global processor offers test emails and confirmation numbers for payments that succeed at once, succeed after a few minutes, expire, or never succeed, plus test bank accounts for refunds. We run every case and deliberately repeat webhooks to prove orders never ship twice." },
     { question: "Who owns the code and accounts after the project?", answer: "You do. The merchant account, cloud account and code repository are in your name from the start, and we document the order states, webhooks and settings in a handover guide. Another developer can pick it up later without asking us for anything." },
-    { question: "What maintenance does a konbini integration need?", answer: `Processors update their APIs, webhooks occasionally fail, and prices or deadlines change. You get two months of free maintenance after launch. Optional payment care after that starts at ${P.care} per month and covers monitoring, API updates and fixes. Terms are set out in your written quote and our terms page.` },
+    { question: "What maintenance does a konbini integration need?", answer: `Processors update their APIs, webhooks occasionally fail, and prices or deadlines change. You get two months of free maintenance after launch. Optional payment care after that starts at ${P.care} and covers monitoring, API updates and fixes. Terms are set out in your written quote and our terms page.` },
     { question: "What does BtechWaleTech not do for payment projects?", answer: "We do not give legal or tax advice, negotiate processor fees, underwrite your merchant application or handle funds. We do not visit your premises in Japan or write Japanese marketing copy. We build, test and document the integration, and prepare your site so the processor’s review has what it asks for." },
   ],
   related: {

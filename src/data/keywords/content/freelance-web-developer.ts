@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance Web Developer in India: Sites from ${P.site}`,
-    description: `Hire a freelance web developer in India: websites from ${P.site}, SEO sites, stores and apps. Real costs, a vetting checklist and the build process explained.`,
+    description: `Hire a freelance web developer in India: SEO sites, stores and apps, a vetting checklist and the build process explained. Websites from ${P.site}.`,
     keywords: [
       "freelance web developer", "freelance web developer in India", "freelance web developer near me", "freelance web developer for hire",
       "freelance web developer cost", "freelance web developer price", "best freelance web developer", "freelance web developer chahiye",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "hire web developer freelance", "web developer for small business", "freelance full stack developer", "freelance developer for website",
       "remote web developer India", "website banane wala developer", "how to hire a freelance web developer", "freelance web developer charges",
       "freelance web developer vs agency", "web developer freelancer India",
+      "hire freelance web developer",
     ],
   },
   hero: {

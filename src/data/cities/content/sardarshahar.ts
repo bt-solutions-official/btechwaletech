@@ -7,7 +7,7 @@ const sardarshahar: CityContent = {
   meta: {
     title: "IT Services in Sardarshahar: Web, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Sardarshahar silversmiths, sweet shops, havelis, schools and Churu district traders.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Sardarshahar silversmiths, sweet shops, havelis, schools and Churu district traders. From ₹10,000.",
     keywords: [
       "IT services in Sardarshahar",
       "IT services team in Sardarshahar",
@@ -29,6 +29,12 @@ const sardarshahar: CityContent = {
       "Sardarshahar me website banwana",
       "Sardarshahar me app banwana",
       "सरदारशहर वेबसाइट डिजाइन",
+      "Sardarshahar website designer",
+      "web development company Sardarshahar",
+      "hire freelance web developer Sardarshahar",
+      "Churu district SEO",
+      "Rajasthan SEO services",
+      "Sardarshahar me website kaise banwaye",
     ],
   },
   hero: {

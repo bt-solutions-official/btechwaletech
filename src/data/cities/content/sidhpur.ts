@@ -5,9 +5,9 @@ const sidhpur: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 23.9167, lng: 72.3833 },
   meta: {
-    title: "IT Services in Sidhpur | Web, Apps & AI from ₹10,000",
+    title: "Sidhpur Website Design: Isabgol, APMC & Pilgrims",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Sidhpur isabgol processors, market yard traders, GIDC units, clinics and pilgrims.",
+      "Sidhpur websites, Gujarati SEO and export catalogues for isabgol and psyllium processors, APMC agents, GIDC workshops and pilgrim stays. From ₹10,000.",
     keywords: [
       "IT services in Sidhpur",
       "IT services team in Sidhpur",
@@ -29,6 +29,16 @@ const sidhpur: CityContent = {
       "Sidhpur me website banwana",
       "Sidhpur ma website banavvi",
       "સિદ્ધપુર વેબસાઇટ ડિઝાઇન",
+      "Sidhpur website designer",
+      "web development company Sidhpur",
+      "hire freelance web developer Sidhpur",
+      "Patan district SEO",
+      "website designer Patan district",
+      "Gujarat SEO services",
+      "website design Bindu Sarovar area Sidhpur",
+      "website design Bohra haveli quarters Sidhpur",
+      "website design Clock tower area Sidhpur",
+      "website design price in Sidhpur",
     ],
   },
   hero: {

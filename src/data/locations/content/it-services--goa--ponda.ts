@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 15.4034, lng: 74.0152 },
   meta: {
-    title: "Freelance Software Developers in Ponda, Goa",
+    title: "Ponda Software Developers: Plant Records & Seva Booking",
     description:
-      "Freelance software developers in Ponda for internal tools, plant records, college portals, temple seva booking and AI automation. Starting prices, three engineers.",
+      "Freelance software developers in Ponda for internal tools, plant records and college portals. From ₹10,000, with two months of free upkeep after launch.",
     keywords: [
       "software development team in Ponda",
       "IT services team in Ponda",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "local SEO Ponda",
       "Ponda software developer Konkani",
       "फोंड्यात सॉफ्टवेअर डेव्हलपर",
+      "Ponda website designer",
+      "website cost in Ponda",
+      "IT company in Ponda",
+      "Goa SEO services",
+      "hire developer Ponda",
+      "pharmaceutical software in Ponda",
+      "engineering software in Ponda",
     ],
   },
   hero: {

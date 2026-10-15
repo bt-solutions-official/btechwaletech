@@ -254,7 +254,7 @@ const content: FreelanceContent = {
         "Fast first paint, so the page is not judged by the 3D load",
       ],
       after: [
-        `Nobody can honestly guarantee rankings for a 3D site or any other. Ongoing SEO help starts at ${P.seo} a month through <a href='/services/seo-services/'>our SEO services</a>.`,
+        `Nobody can honestly guarantee rankings for a 3D site or any other. Ongoing SEO help starts at ${P.seo} through <a href='/services/seo-services/'>our SEO services</a>.`,
       ],
     },
     {

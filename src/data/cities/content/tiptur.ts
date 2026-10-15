@@ -7,7 +7,7 @@ const tiptur: CityContent = {
   meta: {
     title: "IT Services in Tiptur | Web, Apps & AI from ₹10,000",
     description:
-      "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Tiptur copra traders, desiccated coconut units, garment firms, colleges and shops.",
+      "Kannada websites, apps, local SEO and WhatsApp tools for Tiptur copra traders, desiccated coconut units, garment firms, colleges and shops. From ₹10,000.",
     keywords: [
       "IT services in Tiptur",
       "IT services team in Tiptur",
@@ -29,6 +29,12 @@ const tiptur: CityContent = {
       "Tipturnalli website maadisalu",
       "Tiptur me website banwana",
       "ತಿಪಟೂರು ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Tiptur website designer",
+      "web development company Tiptur",
+      "hire freelance web developer Tiptur",
+      "Tumakuru district SEO",
+      "website designer Tumakuru district",
+      "Karnataka SEO services",
     ],
   },
   hero: {

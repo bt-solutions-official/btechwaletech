@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "homestay website design Kutch", "hotel website design Bhuj", "tour operator website design Rann Utsav", "website designer Kachchh",
       "website designer Mandvi Kutch", "website designer Gandhidham Bhuj", "Gujarati website design Bhuj", "best website designer in Bhuj",
       "Bhuj me website design", "website design karwana hai Bhuj", "web designer vs developer Bhuj",
+      "website design charges Bhuj Kutch", "resort website design Kutch", "bilingual website design Kutch",
     ],
   },
   hero: {
@@ -371,7 +372,7 @@ const content: FreelanceContent = {
     { question: "How do you design for travellers with weak mobile signals?", answer: "With one clear column, large text, a single compressed hero image instead of video, galleries that load as you scroll, maps that open in the visitor's own app and a WhatsApp button always within reach. Pages are tested on a budget Android phone with slowed mobile data before launch." },
     { question: "How do reviews work with family members who are not online much?", answer: "We present each stage on a short video call and send a link with a Hindi voice note explaining what to check. Family members can reply by voice note or message, and one nominated person confirms the final list. Printable PDFs are available for those who prefer paper, but final approval happens on a phone." },
     { question: "Who owns the website after it is designed and built?", answer: "You do. The domain, hosting, email and code are registered to your business, and design files are handed over at launch. You can change developers or designers, or bring the site in-house, without our permission. The handover sheet lists every login and renewal date so nothing depends on us." },
-    { question: "What happens after the site goes live?", answer: `For two months after launch, small design and content tweaks, fixes and updates are free. After that, care is optional from ${P.care} per month, useful for seasonal banners, new collections, room updates and backups. Many Bhuj brands keep care through the Rann season and pause it afterwards.` },
+    { question: "What happens after the site goes live?", answer: `For two months after launch, small design and content tweaks, fixes and updates are free. After that, care is optional from ${P.care}, useful for seasonal banners, new collections, room updates and backups. Many Bhuj brands keep care through the Rann season and pause it afterwards.` },
     { question: "What should I send before the first call?", answer: "A few photos of your work or property, your Instagram or listing links, any logo or brand files, two websites you admire and one you dislike, and a voice note about your story and buyers. Existing photos help us decide whether a fresh true-colour shoot is needed before design begins." },
     { question: "Bhuj me website design karwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath design aur coding dono saath hote hain, aur craft, homestay ya tour website ${P.site} se shuru hoti hai. Aam taur par 1–2 hafte lagte hain agar photos taiyaar hon. Hum English aur Hindi likhte hain, Gujarati content aap dete hain. Figma file aur logins aapko milte hain, aur 2 mahine tweaks free hain.` },
   ],

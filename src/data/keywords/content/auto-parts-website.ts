@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "how to sell auto parts online", "auto parts website Delhi", "auto parts website Pune", "auto parts website Chennai",
       "tractor spare parts website", "truck parts website", "spare parts ka online store kaise banaye", "COD for spare parts online",
       "auto parts return policy online", "OEM part number cross reference website",
+      "auto parts website company in India",
+      "best auto parts website in India",
+      "auto parts website services",
     ],
   },
   hero: {

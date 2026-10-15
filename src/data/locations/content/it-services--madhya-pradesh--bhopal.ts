@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.2599, lng: 77.4126 },
   meta: {
-    title: "Freelance Software & App Developers in Bhopal",
+    title: "Bhopal App & Software Developers: Hospitals & Colleges",
     description:
-      "Hire freelance software developers for Bhopal: hospital and college systems, tender trackers, AI agents and dashboards. Mobile apps from ₹40,000, quote in 2 days.",
+      "Hire freelance software developers for Bhopal: hospital and college systems, plus tender trackers. Mobile apps from ₹40,000, quote in 2 days.",
     keywords: [
       "software development team in Bhopal",
       "IT services team in Bhopal",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "mobile app developers Bhopal",
       "iOS app development Bhopal",
       "iPhone app developers Bhopal",
+      "Bhopal website designer",
+      "website cost in Bhopal",
+      "IT company in Bhopal",
+      "Madhya Pradesh SEO services",
+      "hire developer Bhopal",
+      "hospitals software in Bhopal",
+      "colleges software in Bhopal",
     ],
   },
   hero: {

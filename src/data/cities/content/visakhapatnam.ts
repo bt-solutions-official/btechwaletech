@@ -7,7 +7,7 @@ const visakhapatnam: CityContent = {
   meta: {
     title: "IT Services in Visakhapatnam: Websites, Apps, SEO & AI",
     description:
-      "Websites, Telugu and English SEO, ecommerce and AI automation for Visakhapatnam businesses. Sites from ₹10,000, clear quotes, 2 months of free maintenance.",
+      "Visakhapatnam websites, Telugu SEO and AI tools for Vizag freight and customs agents, pharma suppliers and steel plant vendors. From ₹10,000.",
     keywords: [
       "website development team in Visakhapatnam",
       "web design team Vizag",
@@ -25,6 +25,16 @@ const visakhapatnam: CityContent = {
       "website maintenance Vizag",
       "Vizag lo website design",
       "విశాఖపట్నం వెబ్‌సైట్ డిజైన్",
+      "web development company Visakhapatnam",
+      "hire freelance web developer Visakhapatnam",
+      "Andhra Pradesh SEO services",
+      "website design Dwaraka Nagar Visakhapatnam",
+      "website design price in Visakhapatnam",
+      "app development company Visakhapatnam",
+      "ecommerce website Visakhapatnam",
+      "Visakhapatnam SEO company",
+      "local SEO Visakhapatnam",
+      "Google Maps listing Visakhapatnam",
     ],
   },
   hero: {

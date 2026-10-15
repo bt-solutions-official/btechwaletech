@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Legacy Software Modernization Services from ${P.software}`,
-    description: `Legacy software modernization services for VB6, old .NET and old PHP systems: assess, choose rewrite, refactor or replatform, cut over in phases. From ${P.software}.`,
+    description: `Legacy software modernization services for VB6, old .NET and PHP systems: assess, choose rewrite, refactor or replatform, cut over in phases. From ${P.software}.`,
     keywords: [
       "legacy software modernization services", "legacy software modernization", "legacy application modernization",
       "legacy system modernization India", "modernize legacy software", "legacy software modernisation", "vb6 migration services",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "legacy software modernization company alternative", "application modernization freelancer", "legacy system replacement",
       "legacy software modernization Delhi", "legacy software modernization Chennai", "purana software update karna hai",
       "strangler fig migration", "legacy software assessment",
+      "best legacy software modernization in India",
     ],
   },
   hero: {

@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "shopify theme customization", "shopify store setup India", "shopify UPI payment", "shopify COD India",
       "shopify shipping India", "shopify GST invoice", "shopify liquid developer", "shopify store designer freelance",
       "shopify migration freelancer", "shopify seo freelancer",
+      "hire freelance shopify developer",
     ],
   },
   hero: {
@@ -351,7 +352,7 @@ const content: FreelanceContent = {
     { question: "Should I hire a Shopify freelancer or a Shopify agency?", answer: "For most small and mid-sized brands, a freelance Shopify developer or small freelance team covers theme work, checkout, shipping and integrations well, with direct contact and lower overheads. An agency suits brands that need many specialists at once, such as brand strategy, photography, paid ads and development running in parallel under one contract." },
     { question: "Can I sell internationally from an Indian Shopify store?", answer: "Yes. Shopify Markets lets you show local currencies, set country-specific prices and use regional domains or subfolders. You also need international shipping rates, clear duties information and a payment setup that accepts foreign cards. Check export rules and paperwork for your product category before listing it abroad." },
     { question: "Can you build a mobile app for my Shopify store?", answer: `Yes. BtechWaleTech builds Android and iOS apps from ${P.app} that pull products and orders from your Shopify store, published on Google Play and the App Store in your own developer accounts. An app is worth it mainly when you have many repeat buyers who would use push notifications and faster reordering.` },
-    { question: "What support do I get after the Shopify store launches?", answer: `BtechWaleTech includes two months of free support after launch, covering fixes, small theme changes and help with Shopify or app updates. After that, maintenance is optional and starts at ${P.care} a month. Your team can also manage products, orders and discounts from the Shopify admin without developer help.` },
+    { question: "What support do I get after the Shopify store launches?", answer: `BtechWaleTech includes two months of free support after launch, covering fixes, small theme changes and help with Shopify or app updates. After that, maintenance is optional and starts at ${P.care}. Your team can also manage products, orders and discounts from the Shopify admin without developer help.` },
     { question: "Can a freelance Shopify developer work with me remotely?", answer: "Yes, Shopify work suits remote collaboration completely. A freelance Shopify developer joins your store as a collaborator, shares theme preview links you open on your phone, and places test orders from their own devices. Updates come on WhatsApp and video calls, so there is no need for in-person meetings at any stage of the build." },
     { question: "Shopify store banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Shopify store ka build ${P.shop} se shuru hota hai aur 4–8 hafte lagte hain. Iske alawa Shopify plan, paid theme aur apps ka monthly kharcha aap seedha Shopify aur app companies ko dete hain. Quote mein hum ye sab alag likhte hain, aur launch ke baad 2 mahine support free hai.` },
   ],

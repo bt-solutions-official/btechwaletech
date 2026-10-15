@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Developer in Indore: Full Sites from ${P.site}`,
-    description: `Website developer in Indore for traders, food brands, institutes and Pithampur units: business sites from ${P.site}, coded remotely, yours to own. Quote in 2 days.`,
+    description: `Website developer in Indore for traders, food brands, institutes and Pithampur units: business sites from ${P.site}, yours to own. Quote in 2 days.`,
     keywords: [
       "website developer in Indore", "website developer Indore", "website developer near me Indore", "web developer in Indore",
       "website development Indore", "website development services Indore", "freelance website developer Indore", "website designer and developer Indore",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "wholesale catalogue website Siyaganj", "namkeen brand website Indore", "coaching institute website Indore", "manufacturer website Pithampur",
       "website developer Sanwer Road", "website developer Ujjain Dewas", "WordPress developer Indore", "ecommerce website Indore",
       "website developer Madhya Pradesh", "affordable website developer Indore",
+      "website developer in Indore cost", "website developer in Indore price", "hire website developer in Indore", "freelance website developer in Indore",
+      "best website developer in Indore", "website developer in Indore charges",
     ],
   },
   hero: {

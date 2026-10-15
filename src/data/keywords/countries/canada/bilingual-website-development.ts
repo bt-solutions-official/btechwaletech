@@ -16,7 +16,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Bilingual Website Development English French: ${P.site}+`,
-    description: `Bilingual website development in English and French, built properly: separate en-CA and fr-CA URLs, hreflang, real switchers and layouts for French. From ${P.site}.`,
+    description: `Bilingual website development for Canada: separate en-CA and fr-CA URLs, hreflang, real language switchers and layouts that fit French. From ${P.site}.`,
     keywords: [
       "bilingual website development english french", "bilingual website development", "english french website development",
       "bilingual website canada", "french english website design", "how to build a bilingual website", "bilingual website hreflang en-ca fr-ca",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "bilingual wordpress developer", "bilingual website developer ottawa", "bilingual website montreal", "bilingual website moncton",
       "bilingual website toronto", "bilingual website near me", "subfolder vs subdomain french site", "why not use google translate widget on website",
       "bilingual web app english french", "bilingual website for small business",
+      "hire bilingual website development english french in Canada", "freelance bilingual website development english french Canada",
     ],
   },
   hero: {

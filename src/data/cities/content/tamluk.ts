@@ -7,7 +7,7 @@ const tamluk: CityContent = {
   meta: {
     title: "IT Services in Tamluk | Web, Apps & AI from ₹10,000",
     description:
-      "Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Tamluk clinics, colleges, traders, Haldia suppliers and Purba Medinipur shops.",
+      "Bengali websites, apps, local SEO and WhatsApp tools for Tamluk clinics, colleges, traders, Haldia suppliers and Purba Medinipur shops. Websites from ₹10,000.",
     keywords: [
       "IT services in Tamluk",
       "IT services team in Tamluk",
@@ -29,6 +29,12 @@ const tamluk: CityContent = {
       "Tamluk me website banwana",
       "Tamluk-e website banano",
       "তমলুক ওয়েবসাইট ডিজাইন",
+      "Tamluk website designer",
+      "web development company Tamluk",
+      "hire freelance web developer Tamluk",
+      "West Bengal SEO services",
+      "website design Bargabhima Temple area Tamluk",
+      "website design Hospital More Tamluk",
     ],
   },
   hero: {

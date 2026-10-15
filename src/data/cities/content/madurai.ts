@@ -7,7 +7,7 @@ const madurai: CityContent = {
   meta: {
     title: "IT Services in Madurai: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Madurai businesses. Sites from ₹10,000, SEO sites from ₹20,000, two months of free upkeep.",
+      "Madurai websites, Tamil SEO and WhatsApp tools for temple-city hotels, Sungudi textile sellers, jasmine traders and eye clinics. From ₹10,000.",
     keywords: [
       "website development team in Madurai",
       "web design team Madurai",
@@ -25,6 +25,16 @@ const madurai: CityContent = {
       "Madurai website maintenance",
       "Madurai-la website panna",
       "மதுரை இணையதள வடிவமைப்பு",
+      "web development company Madurai",
+      "hire freelance web developer Madurai",
+      "Tamil Nadu SEO services",
+      "website design Simmakkal Madurai",
+      "website design KK Nagar Madurai",
+      "website design price in Madurai",
+      "app development company Madurai",
+      "Madurai SEO company",
+      "Google Maps listing Madurai",
+      "software company in Madurai",
     ],
   },
   hero: {

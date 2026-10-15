@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Coaching Institute Website in Ahmedabad from ${P.site}`,
-    description: `Coaching institute website in Ahmedabad with batch pages, demo-class booking on WhatsApp and online fee payment by UPI. Sites from ${P.site}; itemised quote in 2 days.`,
+    description: `Coaching institute website in Ahmedabad with batch pages, demo-class booking on WhatsApp and online fee payment by UPI. Sites from ${P.site}; quote in 2 days.`,
     keywords: [
       "coaching institute website in Ahmedabad", "coaching institute website Ahmedabad", "coaching class website design Ahmedabad", "coaching website developer Ahmedabad",
       "coaching website designer near me", "coaching institute website Ahmedabad Gujarat", "coaching website cost Ahmedabad", "coaching website price India",

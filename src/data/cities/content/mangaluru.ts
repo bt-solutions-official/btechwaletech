@@ -7,7 +7,7 @@ const mangaluru: CityContent = {
   meta: {
     title: "Mangaluru Website Developers, SEO and AI | ₹10,000+",
     description:
-      "Websites, SEO and automation for Mangaluru cashew exporters, Baikampady units, clinics, colleges and coastal shops. From ₹10,000, itemised quotes, full ownership.",
+      "Websites, SEO and automation for Mangaluru cashew exporters, Baikampady units, clinics, colleges and coastal shops. From ₹10,000, 2 months free upkeep.",
     keywords: [
       "website development team in Mangaluru",
       "web design Mangalore",
@@ -25,6 +25,16 @@ const mangaluru: CityContent = {
       "freelance web developer Mangaluru",
       "hospital website design Mangalore",
       "ಮಂಗಳೂರು ವೆಬ್‌ಸೈಟ್ ಅಭಿವೃದ್ಧಿ",
+      "website cost in Mangaluru",
+      "web development company Mangaluru",
+      "hire freelance web developer Mangaluru",
+      "Karnataka SEO services",
+      "Mangaluru me website kaise banwaye",
+      "Mangaluru website banwane ka kharcha",
+      "Mangaluru coastal food brands website",
+      "coastal food brands website design Mangaluru",
+      "website design Hampankatta Mangaluru",
+      "website design Kadri Mangaluru",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Development Services in Bhuj from ${P.site}`,
-    description: `Website development services in Bhuj for craft studios, hotels, homestays, tour operators and local firms: sites from ${P.site}, built remotely, live in 1–2 weeks.`,
+    description: `Website development in Bhuj for craft studios, hotels, homestays, tour operators and local firms: sites from ${P.site}, built remotely, live in 1–2 weeks.`,
     keywords: [
       "website development services in Bhuj", "website development Bhuj", "website developer Bhuj Kutch", "website development near me Bhuj",
       "web development Bhuj Gujarat", "website development Kutch", "website development Kachchh", "freelance web developer Bhuj",

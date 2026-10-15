@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "apple pay in app saudi", "pdpl mobile app consent", "arabic app store listing", "publish app on google play from saudi arabia",
       "app development riyadh", "app development jeddah", "app development dammam", "outsource app development saudi arabia",
       "mobile app development company saudi arabia", "hire app developers from india for saudi business", "booking app saudi arabia",
+      "freelance mobile app development Saudi Arabia",
     ],
   },
   hero: {
@@ -374,7 +375,7 @@ const content: FreelanceContent = {
     { question: "Can you add an AI chatbot to our app?", answer: `Yes. We add Arabic and English assistants that answer from your own catalogue, FAQs or policies, with a handoff to a human on WhatsApp. It starts from ${P.ai} as an add-on and needs careful testing of Arabic answers, which we do with your team before release.` },
     { question: "Can you take over an app another developer started?", answer: "Yes, if you can give us the source code and access to the store accounts. We audit the code, list what is broken or outdated, and quote the fixes separately from new features. If the code or accounts are held by the previous developer, recovering them comes first." },
     { question: "Do you build delivery apps with driver tracking?", answer: `Yes. A delivery platform is three apps: customer, driver and admin, with live tracking, dispatch rules and cash or wallet handling. Because of that scope it usually starts from ${P.software} rather than the single-app price. Licensing for delivery activity is your responsibility with the relevant Saudi authority.` },
-    { question: "What happens after the app is live?", answer: `You get two months of free maintenance for crash fixes, small changes and store requirement updates. After that, maintenance continues from ${P.care} per month if you want it. You keep the repository and documentation, so your own team or another developer can take over whenever you choose.` },
+    { question: "What happens after the app is live?", answer: `You get two months of free maintenance for crash fixes, small changes and store requirement updates. After that, maintenance continues from ${P.care} if you want it. You keep the repository and documentation, so your own team or another developer can take over whenever you choose.` },
     { question: "Will you sign an NDA before we share our app idea?", answer: "You can send your NDA for us to review before sharing details; tell us early so it does not hold up the quote. Ownership of the code, designs and store accounts belongs to you, as set out in the written quote and our terms page." },
     { question: "Is a remote team in India better than a local app developer?", answer: "It depends on what you value. A remote team costs less, overlaps nearly your full day and keeps three people familiar with your app. A local developer can meet you in person and may write Arabic copy natively. If in-person workshops are essential, choose local; if budget and continuity matter more, remote works well." },
   ],

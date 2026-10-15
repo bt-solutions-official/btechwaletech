@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.9124, lng: 75.7873 },
   meta: {
-    title: "Freelance Software & App Developers in Jaipur",
+    title: "Jaipur App & Software Developers: Gems & Block Printing",
     description:
-      "Hire freelance software developers in Jaipur for jewellery ERPs, print-house job tracking, SaaS MVPs, Android and iOS apps and AI automation. Apps from ₹40,000.",
+      "Hire freelance software developers in Jaipur for jewellery ERPs, print-house job tracking and SaaS MVPs. Starting prices in INR, paid by UPI or bank transfer.",
     keywords: [
       "software development team in Jaipur",
       "IT services team in Jaipur",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "cloud hosting and DevOps Jaipur",
       "Jaipur mein software developer",
       "जयपुर में सॉफ्टवेयर डेवलपर",
+      "Jaipur website designer",
+      "website cost in Jaipur",
+      "IT company in Jaipur",
+      "Rajasthan SEO services",
+      "hire developer Jaipur",
+      "gems software in Jaipur",
+      "block printing software in Jaipur",
+      "startups software in Jaipur",
+      "heritage hotels software in Jaipur",
+      "website developer Johari Bazaar Jaipur",
     ],
   },
   hero: {

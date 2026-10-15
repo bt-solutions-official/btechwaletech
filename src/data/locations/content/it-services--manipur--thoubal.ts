@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 24.6333, lng: 94.0167 },
   meta: {
-    title: "Freelance Software Developers in Thoubal, Manipur",
+    title: "Thoubal, Manipur Software Developers: Handloom Weaving",
     description:
-      "Freelance software developers for Thoubal: weaver and trader software, mobile websites, WhatsApp and AI automation, offline apps and SEO. Websites from ₹10,000.",
+      "Freelance software developers for Thoubal: weaver and trader software, mobile websites, plus WhatsApp and AI automation. Websites from ₹10,000.",
     keywords: [
       "software development team in Thoubal",
       "IT services team in Thoubal",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "Android app development Thoubal",
       "mobile app developers Thoubal",
       "iOS app development Thoubal",
+      "Thoubal website designer",
+      "website cost in Thoubal",
+      "IT company in Thoubal",
+      "Manipur SEO services",
+      "hire developer Thoubal",
+      "handloom weaving software in Thoubal",
+      "rice mills software in Thoubal",
     ],
   },
   hero: {

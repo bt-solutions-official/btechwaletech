@@ -7,7 +7,7 @@ const khambhat: CityContent = {
   meta: {
     title: "IT Services in Khambhat | Web, Apps & AI from ₹10,000",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Khambhat agate bead exporters, kite makers, halwasan shops and traders.",
+      "Khambhat Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for agate bead exporters, kite makers, halwasan shops and traders.",
     keywords: [
       "IT services in Khambhat",
       "IT services team in Khambhat",
@@ -30,6 +30,9 @@ const khambhat: CityContent = {
       "Khambhat me website banwana",
       "Khambhat ma website banavo",
       "ખંભાત વેબસાઇટ ડિઝાઇન",
+      "Khambhat website designer",
+      "web development company Khambhat",
+      "hire freelance developer Khambhat",
     ],
   },
   hero: {

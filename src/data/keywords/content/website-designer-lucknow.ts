@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "restaurant website design Lucknow", "clinic website design Lucknow", "coaching website design Lucknow", "real estate website design Lucknow",
       "website designer Gomti Nagar", "website designer Hazratganj", "web designer Aliganj", "Lucknow me website design kaise karwaye",
       "best website designer in Lucknow", "UI UX designer Lucknow",
+      "website designer in Lucknow cost", "website designer in Lucknow price", "hire website designer in Lucknow", "freelance website designer in Lucknow",
+      "website designer in Lucknow charges",
     ],
   },
   hero: {

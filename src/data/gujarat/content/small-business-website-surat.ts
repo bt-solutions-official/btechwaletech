@@ -383,6 +383,7 @@ const content: FreelanceContent = {
     heading: "More guides for Surat businesses",
     links: [
       { name: "Gujarat website development hub", href: "/gujarat/" },
+      { name: "Restaurant website in Surat", href: "/gujarat/restaurant-website-surat/" },
       { name: "Diamond company website in Surat", href: "/gujarat/diamond-company-website-surat/" },
       { name: "Ecommerce website development in Surat", href: "/gujarat/ecommerce-website-development-surat/" },
       { name: "Hospital website design in Surat", href: "/gujarat/hospital-website-surat/" },

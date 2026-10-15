@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Property Agent Website Singapore, from ${P.site}`,
-    description: `Property agent website Singapore: a personal-brand site from ${P.site} with CEA details shown correctly, seller and buyer lead forms, and PDPA and DNC-ready consent.`,
+    description: `Property agent website Singapore: a personal-brand site from ${P.site} with CEA details shown right, seller and buyer forms, PDPA and DNC-ready consent.`,
     keywords: [
       "property agent website singapore", "property agent website design singapore", "real estate agent website singapore", "personal website for property agent",
       "property salesperson website", "realtor website singapore", "how to build a property agent website", "property agent website cost singapore",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "property agent landing page", "real estate team website singapore", "property agent website with crm", "property agent website pdpa consent",
       "do not call registry property agent", "property agent website near me", "property agent website punggol", "property agent website bukit timah",
       "property agent website tampines", "property agent website for new launches",
+      "hire property agent website in Singapore", "freelance property agent website Singapore",
     ],
   },
   hero: {

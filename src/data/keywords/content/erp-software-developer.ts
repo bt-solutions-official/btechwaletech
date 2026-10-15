@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `ERP Software Developer India: Custom ERP from ${P.software}`,
-    description: `ERP software developer for Indian SMEs: inventory, purchase, production and accounts modules built in phases. First release from ${P.software}. Costs and risks explained.`,
+    description: `ERP software developer for Indian SMEs: inventory, purchase, production and accounts modules built in phases. First release from ${P.software}. Costs explained.`,
     keywords: [
       "ERP software developer", "ERP software developer in India", "ERP software developer near me", "ERP developer for hire",
       "ERP software development cost", "custom ERP price India", "best ERP software developer for SME", "ERP software banwana hai",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "inventory and production ERP", "ERP with GST invoicing", "freelance ERP developer", "cloud ERP development",
       "ERP for traders and distributors", "ERP software for factory", "Tally integration ERP", "ERP module development",
       "ERP mobile app for staff", "Excel to ERP migration",
+      "hire erp software developer",
     ],
   },
   hero: {

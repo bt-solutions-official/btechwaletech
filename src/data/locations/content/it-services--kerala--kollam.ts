@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 8.8932, lng: 76.6141 },
   meta: {
-    title: "Freelance Software Developers in Kollam, Kerala",
+    title: "Kollam, Kerala Software Developers: Cashew Processing",
     description:
       "Freelance software developers for Kollam: custom software, web and mobile apps, AI automation, dashboards and SEO. Web apps from ₹60,000, quote in 2 days.",
     keywords: [
@@ -33,6 +33,12 @@ const content: CityContent = {
       "mobile app developers Kollam",
       "iOS app development Kollam",
       "iPhone app developers Kollam",
+      "Kollam website designer",
+      "website cost in Kollam",
+      "IT company in Kollam",
+      "Kerala SEO services",
+      "hire developer Kollam",
+      "cashew processing software in Kollam",
     ],
   },
   hero: {

@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "erpnext amc", "erpnext support services", "erpnext gst setup", "erpnext e invoice setup", "erpnext implementation timeline",
       "erpnext implementation partner Ludhiana", "erpnext implementation partner Rajkot", "erpnext implementation partner Coimbatore",
       "erpnext kaun lagayega", "frappe erpnext freelancer",
+      "erpnext implementation partner company in India",
+      "best erpnext implementation partner in India",
     ],
   },
   hero: {

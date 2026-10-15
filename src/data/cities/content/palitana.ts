@@ -7,7 +7,7 @@ const palitana: CityContent = {
   meta: {
     title: "IT Services in Palitana | Web, Apps & AI from ₹10,000",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Palitana dharamshalas, bhojanshalas, yatra organisers, shops and clinics.",
+      "Gujarati websites, apps, local SEO and WhatsApp tools for Palitana dharamshalas, bhojanshalas, yatra organisers, shops and clinics. From ₹10,000.",
     keywords: [
       "IT services in Palitana",
       "IT services team in Palitana",
@@ -29,6 +29,12 @@ const palitana: CityContent = {
       "Palitana me website banwana",
       "Palitana ma website banavvi",
       "પાલીતાણા વેબસાઇટ ડિઝાઇન",
+      "Palitana website designer",
+      "web development company Palitana",
+      "hire freelance web developer Palitana",
+      "Bhavnagar district SEO",
+      "website designer Bhavnagar district",
+      "Gujarat SEO services",
     ],
   },
   hero: {

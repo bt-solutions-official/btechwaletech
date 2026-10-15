@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Radhanpur: Sites from ${P.site}`,
-    description: `Website developer in Radhanpur for transporters, highway hotels, garages, traders and clinics. Sites from ${P.site}, Gujarati-ready, Google Maps setup, built remotely.`,
+    description: `Website developer in Radhanpur for transporters, highway hotels, garages, traders and clinics. Sites from ${P.site}, Gujarati-ready, Google Maps, remote build.`,
     keywords: [
       "website developer in Radhanpur", "website developer Radhanpur", "Radhanpur website developer near me", "Radhanpur Gujarat website",
       "web developer Radhanpur Patan", "website designer Radhanpur", "website development services Radhanpur", "website cost Radhanpur",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "dhaba website Radhanpur", "garage website Radhanpur", "tyre shop website", "cotton trader website Radhanpur",
       "Gujarati website Radhanpur", "Radhanpur me website kaise banaye", "website banwani hai Radhanpur", "website developer Santalpur Sami",
       "freelance web developer Radhanpur", "business website Radhanpur Patan district",
+      "logistics website Radhanpur", "Radhanpur website design charges", "WhatsApp enquiry website Radhanpur", "Google Maps listing Radhanpur",
     ],
   },
   hero: {

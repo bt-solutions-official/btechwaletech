@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.4499, lng: 80.3319 },
   meta: {
-    title: "Freelance Software Developers in Kanpur: ERP & AI",
+    title: "Kanpur Software Developers: ERP & AI",
     description:
       "Freelance developers for Kanpur: production and export software, dealer portals, dashboards, AI automation, Android and iOS apps and SEO. From ₹10,000.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT services near me Kanpur",
       "कानपुर में सॉफ्टवेयर डेवलपर",
       "कानपुर में ऐप बनवाना",
+      "Kanpur website designer",
+      "website cost in Kanpur",
+      "IT company in Kanpur",
+      "Uttar Pradesh SEO services",
+      "hire developer Kanpur",
+      "leather tanneries software in Kanpur",
+      "engineering software in Kanpur",
+      "textiles software in Kanpur",
+      "wholesale trade software in Kanpur",
+      "website developer Jajmau Kanpur",
     ],
   },
   hero: {

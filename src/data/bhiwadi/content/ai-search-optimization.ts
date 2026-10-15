@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-27",
   meta: {
     title: "AI Search Optimisation in Bhiwadi: Get Cited by AI",
-    description: `AI search optimisation in Bhiwadi: clear answers, consistent facts and schema so AI Overviews and ChatGPT cite you. From ${P.seo} a month, planned face to face.`,
+    description: `AI search optimisation in Bhiwadi: clear answers, consistent facts and schema so AI Overviews and ChatGPT cite you. From ${P.seo}, planned face to face.`,
     keywords: [
       "AI search optimisation in Bhiwadi", "AI search optimization Bhiwadi", "AI search optimisation near me", "AI search optimisation in Bhiwadi Rajasthan",
       "generative engine optimisation Bhiwadi", "GEO services Bhiwadi", "answer engine optimisation Bhiwadi", "AI Overviews optimisation Bhiwadi",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "AI search optimisation Chopanki", "AI search optimisation Khushkhera", "AI search optimisation Tapukara", "AI search optimisation Neemrana",
       "AI search optimisation cost", "AI SEO services Bhiwadi", "ChatGPT me business kaise dikhaye", "AI search me website kaise laye",
       "entity SEO for manufacturers", "schema markup for AI Overviews", "AI search optimisation expert Bhiwadi",
+      "Perplexity me business kaise dikhaye", "llms.txt setup Bhiwadi", "AI citation tracking Bhiwadi",
     ],
   },
   hero: {
@@ -195,7 +196,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does AI search optimisation in Bhiwadi cost?",
       paragraphs: [
-        `With BtechWaleTech, AI search optimisation in Bhiwadi starts at ${P.seo} a month, normally combined with your regular SEO because both depend on the same pages. For many small businesses the first months cost no more than ordinary SEO would; the difference lies in what gets written and checked.`,
+        `With BtechWaleTech, AI search optimisation in Bhiwadi starts at ${P.seo}, normally combined with your regular SEO because both depend on the same pages. For many small businesses the first months cost no more than ordinary SEO would; the difference lies in what gets written and checked.`,
         `What raises the quote:`,
       ],
       list: [
@@ -395,7 +396,7 @@ const content: FreelanceContent = {
   faqs: [
     { question: "What is AI search optimisation?", answer: "AI search optimisation is the work of making a website and business easy for AI search tools to find, understand and cite. It covers answer-first page writing, consistent business facts across the web, structured data and crawler access. It applies to Google AI Overviews and AI Mode, ChatGPT search, Microsoft Copilot and similar tools, and builds on ordinary SEO rather than replacing it." },
     { question: "Is AI search optimisation different from SEO?", answer: "It overlaps heavily. Google says its AI features rely on the same core ranking systems as normal search, so SEO foundations still decide eligibility. The extra focus is on direct answers, specific verifiable facts, consistent entity details across sites, and access for crawlers beyond Googlebot, such as Bingbot and OpenAI’s search crawler. In practice we run both together." },
-    { question: "How much does AI search optimisation in Bhiwadi cost?", answer: `With BtechWaleTech, AI search optimisation in Bhiwadi starts at ${P.seo} a month, usually combined with regular SEO. Costs rise with the number of products or services needing answer pages, specification data to convert from PDFs, entity clean-up and Hindi versions. You get an itemised quote in about two working days after the first meeting.` },
+    { question: "How much does AI search optimisation in Bhiwadi cost?", answer: `With BtechWaleTech, AI search optimisation in Bhiwadi starts at ${P.seo}, usually combined with regular SEO. Costs rise with the number of products or services needing answer pages, specification data to convert from PDFs, entity clean-up and Hindi versions. You get an itemised quote in about two working days after the first meeting.` },
     { question: "Do you meet in Bhiwadi for AI search work?", answer: "Yes. We meet you face to face in Bhiwadi at your unit, school, clinic or office, or a place you choose, and test your buyers’ questions in AI tools together. Message a suitable date and place on WhatsApp or by phone, and we agree a time that suits both sides. Later reviews can also happen in person." },
     { question: "Can you come to our plant in Neemrana or Tapukara?", answer: "Yes. Meeting at the plant works well because the production or quality head can confirm specifications on the spot, which is the raw material for answer pages. Units in Neemrana, Tapukara, Chopanki, Khushkhera and the RIICO phases are all fine. Suggest a date on WhatsApp and we confirm a time." },
     { question: "Can you guarantee our business will appear in ChatGPT or AI Overviews?", answer: "No, and nobody honestly can. AI answers vary between users, change over time and depend on systems no outside provider controls. What we can do is remove technical blockers, make your facts clear and consistent, and publish pages that answer buyer questions well. We then track the results monthly and report them plainly." },

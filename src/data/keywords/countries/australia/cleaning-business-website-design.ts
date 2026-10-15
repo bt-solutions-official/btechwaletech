@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "cleaning business website sydney", "cleaning business website melbourne", "cleaning business website brisbane",
       "cleaning business website perth", "cleaning business website adelaide", "cleaning website designer near me",
       "carpet cleaning website design", "window cleaning website design", "cleaner website with card payments",
+      "hire cleaning business website design in Australia", "freelance cleaning business website design Australia",
     ],
   },
   hero: {

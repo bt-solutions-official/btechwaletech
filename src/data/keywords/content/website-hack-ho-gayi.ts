@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "Website Hack Ho Gayi Kya Kare? Pehle Ghante ke Kadam",
-    description: `Website hack ho gayi kya kare? Pehle ghante ke kadam, spam redirect, Japanese pages ki pehchaan, backup restore, Google warning hatana. Maintenance ${P.care} se.`,
+    description: `Website hack ho gayi kya kare? Pehle ghante ke kadam, spam redirect aur Japanese pages ki pehchaan, backup restore, Google warning hatana. Care ${P.care} se.`,
     keywords: [
       "website hack ho gayi kya kare", "website hack ho gayi", "website hack ho jaye to kya kare", "hacked website kaise thik kare",
       "wordpress website hack ho gayi", "website par japanese pages aa gaye", "website redirect ho rahi hai spam site par",

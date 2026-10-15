@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Lawyer Website Design, Rule 36-aware, from ${P.site}`,
-    description: `Lawyer website design for advocates and law firms in India, built around BCI Rule 36: disclaimer, practice areas, booking. From ${P.site}.`,
+    description: `Lawyer website design for advocates and law firms in India, built around BCI Rule 36: disclaimer, practice areas and consultation booking. From ${P.site}.`,
     keywords: [
       "lawyer website design", "lawyer website design India", "advocate website design", "law firm website design",
       "law firm website development", "website for advocate", "website for lawyers in India", "lawyer website cost in India",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "lawyer website design near me", "legal website designer", "website for law chamber", "bilingual advocate website Hindi",
       "lawyer website design Delhi", "lawyer website design Mumbai", "law firm website Bengaluru", "advocate ki website kaise banaye",
       "consultation booking for lawyers", "practice area pages for law firm", "SEO for advocates India",
+      "best lawyer website design in India",
+      "lawyer website design services",
     ],
   },
   hero: {
@@ -60,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Leave out", value: "Testimonials, win rates, “best lawyer” claims, fee offers" },
       { label: "Starting price", value: `From ${P.site}, 1–2 weeks` },
       { label: "Languages", value: "English plus Hindi or a regional language you approve" },
-      { label: "Aftercare", value: `2 months free, then from ${P.care} a month` },
+      { label: "Aftercare", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -206,7 +208,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A solo advocate’s site usually fits our static plan starting at ${P.site} (${P.siteUsd} for clients abroad), and launches in one to two weeks. A multi-partner firm with several offices, bilingual content and a people directory costs more because of the page count and review rounds, not because of any special technology.`,
         `Lawyer website design quotes across the market vary widely for the same brief. The difference usually hides in content: some quotes assume you hand over final text, others include drafting help for each practice area; some include a second language, others price it separately; some end at launch, others include months of edits. Ask each designer to separate these lines, and you will see what you are comparing.`,
-        `Our itemised quote lists page groups, language versions, the disclaimer build, the appointment form and any integrations as separate lines. Maintenance is free for two months after launch and then optional from ${P.care} a month. Domain and hosting are paid by you directly to the providers. If you later want a client portal for document exchange, that is a custom web app, starting at ${P.software}.`,
+        `Our itemised quote lists page groups, language versions, the disclaimer build, the appointment form and any integrations as separate lines. Maintenance is free for two months after launch and then optional from ${P.care}. Domain and hosting are paid by you directly to the providers. If you later want a client portal for document exchange, that is a custom web app, starting at ${P.software}.`,
       ],
     },
     {
@@ -396,7 +398,7 @@ const content: FreelanceContent = {
     { question: "Does a law firm website need a privacy policy in India?", answer: "If the site collects personal data through forms, the Digital Personal Data Protection Act, 2023 expects a notice explaining what data is collected and why, and valid consent. We build the notice into the form and link a privacy page, but the text is your document and should be approved by you or your own counsel." },
     { question: "How are payments made for a lawyer website project?", answer: "Payments are staged against visible work, and nothing is billed until you approve the itemised quote in writing. In India we accept UPI or bank transfer with an invoice; advocates abroad pay by Wise, bank wire or PayPal in USD. Domain and hosting charges go from your account straight to the providers." },
     { question: "Will my law firm website appear in Google AI Overviews or ChatGPT answers?", answer: "No one can promise that. What helps is clear, factual content: pages that answer procedural questions in the first two sentences, question-style headings, schema identifying the practice and each advocate, and the same name, address and phone across your site and Google Business Profile. Those same qualities make the site more useful to human readers." },
-    { question: "What maintenance does a lawyer website need after launch?", answer: `Mostly small edits: a new associate, changed chamber hours, a new area of practice, security updates and backups. We include two months of free maintenance after launch. After that it is optional and starts at ${P.care} a month, or you can manage a static site through us only when changes are needed.` },
+    { question: "What maintenance does a lawyer website need after launch?", answer: `Mostly small edits: a new associate, changed chamber hours, a new area of practice, security updates and backups. We include two months of free maintenance after launch. After that it is optional and starts at ${P.care}, or you can manage a static site through us only when changes are needed.` },
     { question: "Can you build a client portal for my law firm?", answer: `Yes, as a separate custom web app starting at ${P.software} and usually taking six to twelve weeks. It can offer secure logins, document upload, hearing dates and matter updates. Most firms launch the public site first and add a portal later once they know which files and updates clients actually ask about.` },
     { question: "Can a law firm website show fees or a fee schedule?", answer: "We do not add fee tables or offers by default, because advertising rates can read as an inducement to bring work. Most advocates discuss fees after understanding the matter. If you want to mention anything about fees, such as how consultation appointments are arranged, decide the wording with your seniors and we will implement it exactly." },
     { question: "Advocate ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath ek advocate ki simple website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Isme disclaimer screen, Rule 36 ke hisaab se profile particulars, practice-area pages aur appointment form hota hai. Hindi version alag line mein quote hota hai. Domain aur hosting aapke naam par rehte hain.` },

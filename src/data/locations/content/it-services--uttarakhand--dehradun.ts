@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 30.3165, lng: 78.0322 },
   meta: {
-    title: "Freelance Software Developers in Dehradun",
+    title: "Dehradun Software Developers: Boarding & Coaching",
     description:
       "Comparing a software development team in Dehradun? Hire our freelance team for custom software, apps, AI automation and dashboards. From ₹60,000, 2-day quote.",
     keywords: [
@@ -33,6 +33,12 @@ const content: CityContent = {
       "iPhone app developers Dehradun",
       "देहरादून में सॉफ्टवेयर डेवलपर",
       "Dehradun mein software banwana hai",
+      "Dehradun website designer",
+      "website cost in Dehradun",
+      "IT company in Dehradun",
+      "Uttarakhand SEO services",
+      "hire developer Dehradun",
+      "boarding software in Dehradun",
     ],
   },
   hero: {

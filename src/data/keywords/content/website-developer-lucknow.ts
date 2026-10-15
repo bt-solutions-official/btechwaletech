@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Hazratganj", "website developer Aliganj", "website developer Indira Nagar", "website developer Alambagh",
       "Hindi website developer Lucknow", "Lucknow me website kaise banwaye", "website banwana hai Lucknow", "website developer Barabanki",
       "website developer Uttar Pradesh", "best website developer in Lucknow",
+      "website developer in Lucknow cost", "website developer in Lucknow price", "hire website developer in Lucknow", "freelance website developer in Lucknow",
+      "website developer in Lucknow charges",
     ],
   },
   hero: {

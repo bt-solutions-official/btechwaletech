@@ -22,6 +22,9 @@ const content: FreelanceContent = {
       "influencer discount code tracking website", "ingredient page for skincare products", "skin type quiz website", "cosmetic brand website near me",
       "cosmetic brand website Mumbai", "cosmetic brand website Delhi", "cosmetic brand website Bengaluru", "cosmetic brand website Jaipur",
       "herbal cosmetics website", "private label cosmetics website", "cosmetic brand ki website kaise banaye", "CDSCO labelling on website", "beauty D2C store development",
+      "cosmetic brand website company in India",
+      "best cosmetic brand website in India",
+      "cosmetic brand website services",
     ],
   },
   hero: {

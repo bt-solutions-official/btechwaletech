@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "school website developer Mysore", "Kannada website developer Mysore", "website developer Vijayanagar Mysore", "website developer Hebbal Mysore",
       "business website Mysore", "ecommerce website Mysuru", "best website developer in Mysore", "website developer Mandya",
       "Mysore me website kaise banwaye", "website banwana hai Mysore",
+      "website developer in Mysore cost", "website developer in Mysore price", "hire website developer in Mysore", "freelance website developer in Mysore",
+      "website developer in Mysore charges",
     ],
   },
   hero: {

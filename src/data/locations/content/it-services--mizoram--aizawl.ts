@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.7271, lng: 92.7176 },
   meta: {
-    title: "Freelance Software Developers in Aizawl, Mizoram",
+    title: "Aizawl, Mizoram Software Developers: Churches & Schools",
     description:
-      "Hire freelance software developers in Aizawl for custom software, web apps, AI agents, workflow automation, dashboards, cloud hosting and IT support. From ₹40,000.",
+      "Hire freelance software developers in Aizawl for custom software, web apps, AI agents, workflow automation and dashboards. Itemised quote in two working days.",
     keywords: [
       "Android app development Aizawl",
       "iOS app development Aizawl",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "software developer near Khatla",
       "Aizawl-ah software siamtu",
       "Aizawl mein software developer",
+      "Aizawl website designer",
+      "website cost in Aizawl",
+      "IT company in Aizawl",
+      "Mizoram SEO services",
+      "hire developer Aizawl",
+      "churches software in Aizawl",
+      "schools software in Aizawl",
+      "hospitals software in Aizawl",
     ],
   },
   hero: {

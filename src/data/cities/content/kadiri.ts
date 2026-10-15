@@ -7,7 +7,7 @@ const kadiri: CityContent = {
   meta: {
     title: "IT Services in Kadiri | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Kadiri groundnut traders, temple-town lodges, handloom sellers, clinics and colleges.",
+      "Kadiri Telugu websites, mobile apps, local SEO and WhatsApp bots for groundnut traders, temple-town lodges, handloom sellers and clinics. ₹10,000 upwards.",
     keywords: [
       "IT services in Kadiri",
       "IT services team in Kadiri",
@@ -29,6 +29,10 @@ const kadiri: CityContent = {
       "Kadiri me website banwana",
       "Kadiri lo website cheyinchali",
       "కదిరి వెబ్‌సైట్ డిజైన్",
+      "Kadiri website designer",
+      "web development company Kadiri",
+      "hire freelance developer Kadiri",
+      "Andhra Pradesh SEO",
     ],
   },
   hero: {

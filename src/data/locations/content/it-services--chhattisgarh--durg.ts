@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 21.1904, lng: 81.2849 },
   meta: {
-    title: "Hire Freelance App & Software Developers in Durg",
+    title: "Durg App & Software Developers: Textile & Rice Mills",
     description:
-      "Freelance app and software developers for Durg: mobile-first sites, enquiry systems, retail and mill software, Android and iOS apps, AI and support. From ₹10,000.",
+      "Freelance app and software developers for Durg: mobile-first sites, enquiry systems, retail and mill software, plus Android and iOS apps. From ₹10,000.",
     keywords: [
       "software development team in Durg",
       "IT services team in Durg",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "IT support and maintenance Durg",
       "दुर्ग में सॉफ्टवेयर डेवलपर",
       "Durg mein app banwana",
+      "Durg website designer",
+      "website cost in Durg",
+      "IT company in Durg",
+      "Chhattisgarh SEO services",
+      "hire developer Durg",
+      "textile software in Durg",
+      "rice mills software in Durg",
+      "agri-input dealers software in Durg",
+      "hostels software in Durg",
     ],
   },
   hero: {

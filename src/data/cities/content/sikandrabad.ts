@@ -7,7 +7,7 @@ const sikandrabad: CityContent = {
   meta: {
     title: "IT Services in Sikandrabad: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, SEO and WhatsApp automation for Sikandrabad's UPSIDC factories, GT Road traders, dairies, cold stores, schools and clinics.",
+      "Websites, apps, SEO and WhatsApp automation for Sikandrabad's UPSIDC factories, GT Road traders, dairies, cold stores, schools and clinics. From ₹10,000.",
     keywords: [
       "IT services in Sikandrabad",
       "IT services team in Sikandrabad",
@@ -30,6 +30,11 @@ const sikandrabad: CityContent = {
       "Sikandrabad me website banwana",
       "Sikandrabad me app banwana",
       "सिकंदराबाद वेबसाइट डिज़ाइन",
+      "Sikandrabad website designer",
+      "web development company Sikandrabad",
+      "hire freelance web developer Sikandrabad",
+      "Bulandshahr district SEO",
+      "website designer Bulandshahr district",
     ],
   },
   hero: {

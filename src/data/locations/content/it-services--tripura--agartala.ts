@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.8315, lng: 91.2868 },
   meta: {
-    title: "Freelance Software Developers in Agartala, Tripura",
+    title: "Agartala Software Developers: Wholesale & Coaching",
     description:
-      "Freelance software developers for Agartala: custom software, web and mobile apps, AI agents, dashboards, cloud and SEO. Web apps from ₹60,000, sites from ₹10,000.",
+      "Freelance software developers for Agartala: custom software, web and mobile apps, AI agents, plus dashboards. Web apps from ₹60,000, sites from ₹10,000.",
     keywords: [
       "software development team in Agartala",
       "IT services team in Agartala",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "Android app development Agartala",
       "iOS app development Agartala",
       "iPhone app developers Agartala",
+      "Agartala website designer",
+      "website cost in Agartala",
+      "IT company in Agartala",
+      "Tripura SEO services",
+      "hire developer Agartala",
+      "wholesale software in Agartala",
     ],
   },
   hero: {

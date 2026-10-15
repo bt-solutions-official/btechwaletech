@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "law firm seo nz", "local seo for lawyers", "law firm website design near me", "law firm website auckland",
       "law firm website wellington", "law firm website christchurch", "law firm website hamilton",
       "client care rules website", "lawyer profile page practising certificate", "small town law firm website",
+      "hire law firm website design in New Zealand", "freelance law firm website design New Zealand", "law firm website design New Zealand",
     ],
   },
   hero: {

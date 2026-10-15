@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "wix to wordpress migration Mumbai", "wix to wordpress migration Bengaluru", "wix se wordpress par website kaise shift kare",
       "leave wix for wordpress", "wix to wordpress migration checklist", "how long does wix to wordpress migration take",
       "wix to wordpress plugin", "switch from wix to wordpress",
+      "Wix to WordPress migration company", "best Wix to WordPress migration in India", "Wix to WordPress migration cost in India",
     ],
   },
   hero: {

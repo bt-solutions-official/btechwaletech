@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "impressum website requirement", "website quote germany angebot", "eur vs usd website quote", "website development cost berlin",
       "website development cost munich", "website development cost hamburg", "website development cost cologne",
       "small business website cost germany", "cheap website germany", "website development india for german companies",
+      "hire website development in Germany",
     ],
   },
   hero: {

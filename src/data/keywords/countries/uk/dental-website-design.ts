@@ -336,7 +336,7 @@ const content: FreelanceContent = {
         ["Patient web app", "Secure area for treatment plans, forms or payment plan information", `From ${P.software}`, "6–12 weeks"],
         ["Patient app for phones", "Reminders, practice information, booking link, published on Google Play and the App Store", `From ${P.app}`, "6–10 weeks"],
         ["Enquiry assistant", "Answers common questions, routes emergencies to your published process", `From ${P.ai}`, "2–4 weeks"],
-        ["Monthly local search", "Google Business Profile, treatment content, Search Console", `From ${P.seo} per month`, "Ongoing"],
+        ["Monthly local search", "Google Business Profile, treatment content, Search Console", `From ${P.seo}`, "Ongoing"],
       ],
       hideSm: [3],
     },

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Chatbot Development Cost in India: Builds from ${P.ai}`,
-    description: `Chatbot development cost in India in rupees: build vs monthly running cost, LLM tokens per chat, WhatsApp charges, SaaS vs custom, sample quotes. From ${P.ai}.`,
+    description: `Chatbot development cost in India: build vs monthly running cost, LLM tokens per chat, WhatsApp charges, SaaS vs custom, sample quotes. From ${P.ai}.`,
     keywords: [
       "chatbot development cost in india", "chatbot development cost", "chatbot cost in india", "ai chatbot development cost india",
       "how much does a chatbot cost in india", "chatbot development price", "custom chatbot cost india", "website chatbot cost",

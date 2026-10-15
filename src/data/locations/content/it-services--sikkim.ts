@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 27.533, lng: 88.5122 },
   meta: {
-    title: "Freelance IT Services in Sikkim: Software & Apps",
+    title: "Sikkim IT Services: Software & Apps",
     description:
       "IT services in Sikkim from a freelance group of three engineers: custom software, homestay booking, pharma tools, AI automation, apps and SEO. From ₹10,000.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "cloud hosting for Sikkim businesses",
       "सिक्किम में आईटी सेवाएं",
       "Sikkim ma website banaune",
+      "Sikkim website designer",
+      "website cost in Sikkim",
+      "IT company in Sikkim",
+      "Sikkim SEO services",
+      "hire developer Sikkim",
+      "hotels software in Sikkim",
+      "travel agencies software in Sikkim",
     ],
   },
   hero: {

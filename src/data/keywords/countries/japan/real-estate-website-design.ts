@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "real estate lead form line whatsapp", "buyer guide for foreigners buying property in japan website", "rental property website japan english",
       "real estate website for overseas investors", "property management website japan", "real estate website seo japan",
       "japan", "tokyo", "osaka", "fukuoka", "sapporo", "kyoto",
+      "hire real estate website design in Japan", "freelance real estate website design Japan",
     ],
   },
   hero: {

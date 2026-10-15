@@ -7,7 +7,7 @@ const modinagar: CityContent = {
   meta: {
     title: "Modinagar Web Development & SEO | From ₹10,000",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Modinagar schools, clinics, shops, traders and factory suppliers on the Delhi–Meerut corridor.",
+      "Websites, SEO and online stores for Modinagar schools, clinics, shops, traders and factory suppliers on the Delhi–Meerut corridor. Sites from ₹10,000.",
     keywords: [
       "website development team in Modinagar",
       "web designer Modinagar",
@@ -25,6 +25,16 @@ const modinagar: CityContent = {
       "website maintenance Modinagar",
       "Modinagar me website kaise banwaye",
       "मोदीनगर वेबसाइट डिज़ाइन",
+      "Modinagar website designer",
+      "web development company Modinagar",
+      "hire freelance web developer Modinagar",
+      "Uttar Pradesh SEO services",
+      "Modinagar website banwane ka kharcha",
+      "website design Govindpuri Modinagar",
+      "website design Kadrabad Modinagar",
+      "website design Vijay Nagar Modinagar",
+      "website design price in Modinagar",
+      "app development company Modinagar",
     ],
   },
   hero: {

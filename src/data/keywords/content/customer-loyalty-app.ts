@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "best loyalty program for small business", "custom loyalty app development", "loyalty app vs stamp card",
       "grahak loyalty app banwana hai", "loyalty app for kirana store", "loyalty app for boutique", "customer loyalty app near me",
       "customer loyalty app Pune", "customer loyalty app Bengaluru",
+      "customer loyalty app company in India",
+      "customer loyalty app services",
     ],
   },
   hero: {
@@ -376,7 +378,7 @@ const content: FreelanceContent = {
     { question: "Can a loyalty programme help with Google reviews?", answer: "Indirectly. A thank-you message after a visit is a good moment to share your review link with opted-in customers. Rewards must never be offered in exchange for reviews, because Google's policies forbid incentivised reviews. More genuine reviews help your Google Business Profile, which local searchers and AI assistants rely on." },
     { question: "Can you build loyalty for a kirana or grocery store?", answer: "Yes. Grocery stores usually suit points or cashback on spend rather than stamps, because baskets vary. Points can be added from the billing software or entered at the counter, and win-back messages go to households whose visit gap suddenly grows. Hindi or regional-language messages work better than English for many neighbourhood stores." },
     { question: "Mere shop ke liye loyalty program kaise shuru karein?", answer: `Sabse aasaan tareeka WhatsApp loyalty hai: customer counter par QR scan karta hai ya apna number deta hai, aur har bill par stamp ya points WhatsApp par aa jaate hain. Koi app download nahi chahiye. BtechWaleTech ke saath yeh ${P.ai} se shuru hota hai. Pehle ek simple reward rule chunein, jaise dasvi coffee free, aur teen mahine baad numbers dekh kar badlein.` },
-    { question: "What happens after my loyalty system goes live?", answer: `You get two months of free maintenance covering fixes, template changes and updates. After that, maintenance continues from ${P.care} a month only if you want it. Day-to-day changes such as reward rules, expiry periods and offers are settings in your dashboard, so you rarely need a developer for them.` },
+    { question: "What happens after my loyalty system goes live?", answer: `You get two months of free maintenance covering fixes, template changes and updates. After that, maintenance continues from ${P.care} only if you want it. Day-to-day changes such as reward rules, expiry periods and offers are settings in your dashboard, so you rarely need a developer for them.` },
     { question: "How do I pay BtechWaleTech for a loyalty app?", answer: "Payment is staged against milestones in your written quote. In India you pay by UPI or bank transfer; clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the itemised estimate in writing. Refund and cancellation questions are covered in the refund policy and your quote." },
   ],
   related: {

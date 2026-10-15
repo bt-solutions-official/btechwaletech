@@ -7,7 +7,7 @@ const narayanpet: CityContent = {
   meta: {
     title: "IT Services in Narayanpet: Websites, Apps & AI",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Narayanpet handloom weavers, saree showrooms, jewellers, input dealers and clinics.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Narayanpet handloom weavers, saree showrooms, jewellers, input dealers and clinics. From ₹10,000.",
     keywords: [
       "IT services in Narayanpet",
       "IT company in Narayanpet",
@@ -29,6 +29,12 @@ const narayanpet: CityContent = {
       "Narayanpet me website banwana",
       "Narayanpet lo website design",
       "నారాయణపేట వెబ్‌సైట్ డిజైన్",
+      "Narayanpet website designer",
+      "web development company Narayanpet",
+      "hire freelance web developer Narayanpet",
+      "Telangana SEO services",
+      "Narayanpet me website kaise banwaye",
+      "Narayanpet website banwane ka kharcha",
     ],
   },
   hero: {

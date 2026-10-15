@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.1542, lng: 85.8918 },
   meta: {
-    title: "Freelance Software Developers in Darbhanga, Mithila",
+    title: "Darbhanga Software Developers: Makhana Trade & Clinics",
     description:
       "Freelance software developers for Darbhanga: clinic and hospital software, makhana trade tools, AI automation, apps, dashboards and local SEO. From ₹10,000.",
     keywords: [
@@ -33,6 +33,12 @@ const content: CityContent = {
       "iPhone app developers Darbhanga",
       "दरभंगा में सॉफ्टवेयर डेवलपर",
       "दरभंगामे सॉफ्टवेयर बनबाउ",
+      "Darbhanga website designer",
+      "website cost in Darbhanga",
+      "IT company in Darbhanga",
+      "Bihar SEO services",
+      "hire developer Darbhanga",
+      "clinics software in Darbhanga",
     ],
   },
   hero: {

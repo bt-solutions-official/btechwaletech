@@ -7,7 +7,7 @@ const bapatla: CityContent = {
   meta: {
     title: "IT Services in Bapatla | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Bapatla aqua farms, rice mills, colleges, clinics and Suryalanka tourism.",
+      "Bapatla Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for aqua farms, rice mills, colleges and clinics. From ₹10,000.",
     keywords: [
       "IT services in Bapatla",
       "IT services team in Bapatla",
@@ -29,6 +29,10 @@ const bapatla: CityContent = {
       "Bapatla me website banwana",
       "Bapatla lo website cheyinchali",
       "బాపట్ల వెబ్‌సైట్ డిజైన్",
+      "Bapatla website designer",
+      "web development company Bapatla",
+      "hire freelance developer Bapatla",
+      "Andhra Pradesh SEO",
     ],
   },
   hero: {

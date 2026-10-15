@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 22.5958, lng: 88.2636 },
   meta: {
-    title: "Freelance Software & App Developers in Howrah",
+    title: "Howrah App & Software Developers: Foundries",
     description:
-      "Looking for a software development team in Howrah? Our freelance team builds foundry, job-work, dealer and garment trade software, apps and AI automation.",
+      "Looking for a software development team in Howrah? Our freelance team builds foundry, job-work and dealer software. From ₹10,000, quote in 2 days.",
     keywords: [
       "software development team in Howrah",
       "IT services team in Howrah",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "IT services Uluberia Domjur",
       "হাওড়ায় সফটওয়্যার ডেভেলপার",
       "Howrah mein software banwana",
+      "Howrah website designer",
+      "website cost in Howrah",
+      "IT company in Howrah",
+      "West Bengal SEO services",
+      "hire developer Howrah",
+      "foundries software in Howrah",
+      "light engineering software in Howrah",
+      "hardware software in Howrah",
+      "garment wholesale software in Howrah",
     ],
   },
   hero: {

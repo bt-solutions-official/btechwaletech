@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "school website Raipur", "clinic website Raipur", "Hindi website developer Raipur", "website developer Nava Raipur",
       "website developer Bhilai", "website developer Durg", "website developer Bilaspur", "website developer Chhattisgarh",
       "best website developer in Raipur", "business website Raipur",
+      "website developer in Raipur cost", "website developer in Raipur price", "hire website developer in Raipur", "freelance website developer in Raipur",
+      "website developer in Raipur charges",
     ],
   },
   hero: {

@@ -26,7 +26,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Local search for UK service businesses",
     h1: "Local SEO services UK firms use to win the Map Pack",
-    lede: `Local SEO services UK service businesses pay for should do one thing: put your name in the three map results when someone nearby types “boiler repair near me” or “dentist Harrogate”. We are three freelance developers in India who run your Google Business Profile, earn genuine reviews, tidy your UK citations, build town pages worth reading and track every call and form lead, from ${P.seo} a month. Compare what a monthly plan includes on our <a href='/uk/seo-packages/'>UK SEO packages guide</a>.`,
+    lede: `Local SEO services UK service businesses pay for should do one thing: put your name in the three map results when someone nearby types “boiler repair near me” or “dentist Harrogate”. We are three freelance developers in India who run your Google Business Profile, earn genuine reviews, tidy your UK citations, build town pages worth reading and track every call and form lead, from ${P.seo}. Compare what a monthly plan includes on our <a href='/uk/seo-packages/'>UK SEO packages guide</a>.`,
     pills: ["Google Business Profile", "Genuine review requests", "Yell, Thomson Local, Checkatrade", "Town pages, not doorways", "LocalBusiness schema", "Calls and forms tracked", "Monthly plan"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · UK mornings covered",
   },
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a monthly local SEO plan costs",
-    note: `Our local SEO plans start from ${P.seo} a month. The quote moves with how many towns you genuinely serve, how many locations or practitioners need a Business Profile, how crowded your trade is locally, how much page writing the site needs and whether call tracking must be set up from scratch. A single-van electrician covering one town sits near the starting price; a clinic group with three branches does not. If the website itself is weak, an SEO-ready rebuild starts from ${P.seoSite}. We invoice in USD, which UK clients usually pay from sterling through Wise, and nothing is charged until you approve the itemised quote in writing.`,
+    note: `Our local SEO plans start from ${P.seo}. The quote moves with how many towns you genuinely serve, how many locations or practitioners need a Business Profile, how crowded your trade is locally, how much page writing the site needs and whether call tracking must be set up from scratch. A single-van electrician covering one town sits near the starting price; a clinic group with three branches does not. If the website itself is weak, an SEO-ready rebuild starts from ${P.seoSite}. We invoice in USD, which UK clients usually pay from sterling through Wise, and nothing is charged until you approve the itemised quote in writing.`,
   },
   guideLabel: "Local SEO services UK guide",
   guide: [
@@ -441,7 +441,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Find out what is holding your map listing back",
-    note: `Send your website and the towns you want to win. We will look at your profile, reviews and citations and reply with an itemised plan within about two working days. Local SEO plans start from ${P.seo} a month.`,
+    note: `Send your website and the towns you want to win. We will look at your profile, reviews and citations and reply with an itemised plan within about two working days. Local SEO plans start from ${P.seo}.`,
   },
 };
 

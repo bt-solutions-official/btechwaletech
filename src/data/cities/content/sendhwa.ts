@@ -7,7 +7,7 @@ const sendhwa: CityContent = {
   meta: {
     title: "IT Services in Sendhwa | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Sendhwa cotton ginners, highway transporters, dhabas, farm dealers, clinics and shops.",
+      "Websites, apps, local SEO and WhatsApp automation for Sendhwa cotton ginners, highway transporters, dhabas, farm dealers, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Sendhwa",
       "IT services team in Sendhwa",
@@ -29,6 +29,12 @@ const sendhwa: CityContent = {
       "Sendhwa me website banwana",
       "Sendhwa me app banwana",
       "सेंधवा वेबसाइट डिजाइन",
+      "Sendhwa website designer",
+      "web development company Sendhwa",
+      "hire freelance web developer Sendhwa",
+      "Barwani district SEO",
+      "website designer Barwani district",
+      "Madhya Pradesh SEO services",
     ],
   },
   hero: {

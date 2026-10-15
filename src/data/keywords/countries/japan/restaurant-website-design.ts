@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "halal menu website japan", "vegan menu tags restaurant japan", "tablecheck booking website", "restaurant reservation link website",
       "restaurant menu schema", "google business profile restaurant japan", "tabelog and google maps restaurant", "how much does a restaurant website cost in japan",
       "restaurant website near me tokyo", "mobile restaurant website fast", "restaurant website developer", "japan", "tokyo", "osaka", "kyoto", "fukuoka",
+      "hire restaurant website design in Japan", "freelance restaurant website design Japan",
     ],
   },
   hero: {

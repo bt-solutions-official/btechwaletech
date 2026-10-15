@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "things to do in tokyo tour website", "how much does a tour operator website cost", "best booking system for tour operators",
       "how to get direct bookings for tours", "tour operator website kyoto", "tour operator website osaka", "tour operator website hokkaido",
       "inbound tour company website", "experience operator website japan", "tour website developer india",
+      "hire tour operator website design in Japan", "freelance tour operator website design Japan",
     ],
   },
   hero: {

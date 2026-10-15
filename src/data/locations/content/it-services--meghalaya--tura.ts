@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 25.5138, lng: 90.2032 },
   meta: {
-    title: "Freelance Software Developers in Tura, Meghalaya",
+    title: "Tura, Meghalaya Software Developers: Cashew & Schools",
     description:
-      "Freelance software development in Tura: custom software, apps, AI automation, dashboards, SEO and IT support for the Garo Hills. From ₹10,000, UPI or bank transfer.",
+      "Freelance software development in Tura: custom software, apps, AI automation and dashboards. From ₹10,000, with two months of free upkeep after launch.",
     keywords: [
       "Android app development Tura",
       "iOS app development Tura",
@@ -35,6 +35,10 @@ const content: CityContent = {
       "cashew trader website Garo Hills",
       "Tura mein software team",
       "Tura-ni software team A·chik",
+      "Tura website designer",
+      "website cost in Tura",
+      "IT company in Tura",
+      "Meghalaya SEO services",
     ],
   },
   hero: {

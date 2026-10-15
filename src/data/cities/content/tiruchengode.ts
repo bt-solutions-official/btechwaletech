@@ -7,7 +7,7 @@ const tiruchengode: CityContent = {
   meta: {
     title: "IT Services in Tiruchengode: Websites, Apps, SEO & AI",
     description:
-      "Websites, Tamil and English SEO, dealer portals and WhatsApp automation for Tiruchengode rig builders, lorry body units, looms and colleges. From ₹10,000.",
+      "Websites, dealer portals and WhatsApp tools for Tiruchengode rig builders, lorry body units, looms and colleges. From ₹10,000, with the domain in your name.",
     keywords: [
       "website development team in Tiruchengode",
       "web design Tiruchengode",
@@ -25,6 +25,16 @@ const tiruchengode: CityContent = {
       "website design Komarapalayam",
       "website maintenance Tiruchengode",
       "Tiruchengode la website design",
+      "web development company Tiruchengode",
+      "hire freelance web developer Tiruchengode",
+      "Namakkal SEO services",
+      "website designer Namakkal",
+      "Tamil Nadu SEO services",
+      "Tiruchengode borewell rig builders website",
+      "borewell rig builders website design Tiruchengode",
+      "Tiruchengode lorry body builders website",
+      "lorry body builders website design Tiruchengode",
+      "website design Sankagiri Road Tiruchengode",
     ],
   },
   hero: {

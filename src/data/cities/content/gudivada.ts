@@ -7,7 +7,7 @@ const gudivada: CityContent = {
   meta: {
     title: "Gudivada Websites, SEO and Rice Mill Software",
     description:
-      "Websites, Telugu search pages and WhatsApp tools for Gudivada rice millers, trailer builders, fish farmers, colleges and clinics. Sites from ₹10,000.",
+      "Gudivada websites, Telugu search pages and WhatsApp tools for rice millers, trailer builders, fish farmers, colleges and clinics. Sites from ₹10,000.",
     keywords: [
       "website development team in Gudivada",
       "web designer Gudivada",
@@ -24,6 +24,15 @@ const gudivada: CityContent = {
       "freelance web developer Gudivada",
       "Gudivada lo website",
       "గుడివాడ వెబ్‌సైట్",
+      "Gudivada website designer",
+      "website cost in Gudivada",
+      "web development company Gudivada",
+      "hire freelance developer Gudivada",
+      "Andhra Pradesh SEO",
+      "website for rice mills in Gudivada",
+      "web designer in Nehru Chowk, Gudivada",
+      "website for trailer and tanker fabricators in Gudivada",
+      "mobile app developer in Gudivada",
     ],
   },
   hero: {

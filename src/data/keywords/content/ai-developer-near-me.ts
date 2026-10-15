@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `AI Developer Near Me: SMB AI Tools from ${P.ai}`,
-    description: `Looking for an AI developer near me? WhatsApp bots, lead scoring and invoice reading for Indian small businesses, from ${P.ai}. See real use cases and costs.`,
+    description: `Looking for an AI developer near me? WhatsApp bots, lead scoring and invoice reading for Indian small businesses, from ${P.ai}. Ask for a quote in 2 days.`,
     keywords: [
       "ai developer near me", "ai developer near me in India", "ai developer for hire", "ai developer cost", "ai developer price India",
       "best ai developer near me", "ai developer chahiye", "ai developer Delhi", "ai developer Mumbai", "ai developer Bangalore",

@@ -7,7 +7,7 @@ const parli: CityContent = {
   meta: {
     title: "IT Services in Parli: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android & iOS apps, Marathi SEO and WhatsApp automation for Parli Vaijnath pilgrim lodges, thermal-plant contractors, cotton traders and clinics.",
+      "Websites, apps, Marathi SEO and WhatsApp automation for Parli Vaijnath pilgrim lodges, thermal-plant contractors, cotton traders and clinics. From ₹10,000.",
     keywords: [
       "IT services in Parli",
       "IT services team in Parli Vaijnath",
@@ -29,6 +29,12 @@ const parli: CityContent = {
       "Parli madhye website banvaychi",
       "Parli me website banwana",
       "परळी वेबसाइट डिझाइन",
+      "Parli Vaijnath website designer",
+      "website cost in Parli Vaijnath",
+      "web development company Parli Vaijnath",
+      "hire freelance web developer Parli Vaijnath",
+      "Beed district SEO",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

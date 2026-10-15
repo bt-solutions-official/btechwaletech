@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "SEO for study abroad consultants",
   updated: "2026-09-25",
   meta: {
-    title: `SEO for Study Abroad Consultants: Counselling Leads`,
+    title: `SEO for Study Abroad Consultants: Leads, ${P.seo}`,
     description: `SEO for study abroad consultants: country and course pages, accurate visa content, review growth and lead funnels that book counselling. From ${P.seo}.`,
     keywords: [
       "seo for study abroad consultants", "study abroad consultant seo", "seo for overseas education consultants", "seo for visa consultants",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "seo for study abroad consultants cost", "study abroad seo India", "study abroad consultant seo Chandigarh", "study abroad consultant seo Hyderabad",
       "study abroad consultant seo Ahmedabad", "abroad study consultant ke liye seo", "compete with study abroad aggregators", "study abroad consultant near me ranking",
       "overseas education lead generation", "ielts coaching and study abroad seo",
+      "SEO for study abroad consultants price", "SEO for study abroad consultants services", "SEO for study abroad consultants packages", "best SEO for study abroad consultants in India",
+      "SEO for study abroad consultants agency",
     ],
   },
   hero: {

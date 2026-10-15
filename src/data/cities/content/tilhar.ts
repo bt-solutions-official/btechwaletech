@@ -7,7 +7,7 @@ const tilhar: CityContent = {
   meta: {
     title: "IT Services in Tilhar | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Tilhar mandi traders, highway businesses, clinics, schools and shops in Shahjahanpur.",
+      "Hindi websites, apps, local SEO and WhatsApp tools for Tilhar mandi traders, highway businesses, clinics, schools and shops in Shahjahanpur. From ₹10,000.",
     keywords: [
       "IT services in Tilhar",
       "IT services team in Tilhar",
@@ -29,6 +29,12 @@ const tilhar: CityContent = {
       "Tilhar mein app kaise banwaye",
       "तिलहर वेबसाइट डिजाइन",
       "Miranpur Katra Nigohi local SEO",
+      "Tilhar website designer",
+      "web development company Tilhar",
+      "hire freelance web developer Tilhar",
+      "Shahjahanpur district SEO",
+      "website designer Shahjahanpur district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

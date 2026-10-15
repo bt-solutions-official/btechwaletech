@@ -21,6 +21,8 @@ const content: FreelanceContent = {
       "web developer quebec", "how much does a web developer cost in montreal", "montreal website cost", "affordable web developer montreal",
       "montreal web agency alternative", "remote web developer quebec", "fr-ca seo", "french seo quebec", "restaurant website montreal",
       "manufacturing website quebec", "création site web montréal",
+      "hire web developer in Canada", "web developer Toronto", "web developer Vancouver",
+      "web developer Canada",
     ],
   },
   hero: {
@@ -73,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Tech start-up and SaaS marketing sites", note: `Fast bilingual product sites, documentation hubs and sign-up flows; custom web apps from ${P.software}.`, href: "/canada/custom-software-development/", size: "md" },
       { name: "Law 25 and consent upkeep", note: "Privacy officer contact details, privacy policy page, consent banner and form wording kept current after launch.", href: "/canada/law-25-website-compliance/", size: "sm" },
       { name: "French and English SEO", note: `Separate keyword research for French and English searches, hreflang pairs and local pages; monthly SEO from ${P.seo}.`, href: "/canada/local-seo-services/", size: "sm" },
-      { name: "Care in both languages", note: `Paired French and English edits, updates and backups from ${P.care} a month after two free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
+      { name: "Care in both languages", note: `Paired French and English edits, updates and backups from ${P.care} after two free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -240,7 +242,7 @@ const content: FreelanceContent = {
         `Local pages for Laval, Longueuil or the South Shore only where you truly serve customers.`,
       ],
       after: [
-        `Nobody can guarantee rankings in either language. Ongoing work starts at ${P.seo} a month; our <a href='/canada/technical-seo-services/'>technical SEO services</a> page explains the audit side.`,
+        `Nobody can guarantee rankings in either language. Ongoing work starts at ${P.seo}; our <a href='/canada/technical-seo-services/'>technical SEO services</a> page explains the audit side.`,
       ],
     },
     {
@@ -482,7 +484,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a web developer in India from Montreal?", answer: "You receive an itemised quote in USD. After written approval, milestones are paid by Wise from your Canadian-dollar account, by bank wire or by PayPal. Invoices are issued from India; ask your accountant how to record them, as we don’t give tax advice. Nothing is billed before you approve." },
     { question: "Can you redesign my English-only site into a French-first site?", answer: "Yes. We crawl the current site, plan French and English URLs, map old addresses to new ones with redirects, and set up the copy deck for your translator. The English content carries over, the French is added page for page, and Search Console is monitored after launch so existing rankings are protected." },
     { question: "Will my cookie banner be in French?", answer: "Yes. The banner, its settings panel and the cookie list on your privacy page are built in both languages and follow the visitor’s language. We set it up so analytics and advertising tags wait for consent if that is the approach you and your lawyer choose, and we check it again whenever new tools are added." },
-    { question: "What happens after launch?", answer: `You get two months of free maintenance for fixes, updates and small changes. After that, care plans start at ${P.care} a month, including paired French and English edits, updates, backups and consent checks, and bilingual monthly SEO starts at ${P.seo}. Both are optional; the handover document lets your team manage the site too.` },
+    { question: "What happens after launch?", answer: `You get two months of free maintenance for fixes, updates and small changes. After that, care plans start at ${P.care}, including paired French and English edits, updates, backups and consent checks, and bilingual monthly SEO starts at ${P.seo}. Both are optional; the handover document lets your team manage the site too.` },
     { question: "Do you guarantee rankings in French searches?", answer: "No, and nobody honestly can. Rankings depend on competitors, content quality, reviews and Google’s own systems. We build correct hreflang pairs, well-structured pages, fast templates and separate French keyword targeting, then track both languages in Search Console so you can see which pages are gaining ground." },
   ],
   related: {

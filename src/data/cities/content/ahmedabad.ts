@@ -7,7 +7,7 @@ const ahmedabad: CityContent = {
   meta: {
     title: "IT Services in Ahmedabad: Websites, Apps, SEO & AI",
     description:
-      "Websites, Gujarati and English SEO, online stores and WhatsApp automation for Ahmedabad traders, GIDC units and pharma suppliers. From ₹10,000, 2 months free upkeep.",
+      "Ahmedabad websites, Gujarati and English SEO, online stores and WhatsApp bots for traders, GIDC units and pharma suppliers. From ₹10,000, 2 months free care.",
     keywords: [
       "website development team in Ahmedabad",
       "web design team Ahmedabad",
@@ -25,6 +25,14 @@ const ahmedabad: CityContent = {
       "Ahmedabad ma website banavva",
       "અમદાવાદમાં વેબસાઇટ બનાવવી",
       "Gujarati website design",
+      "Ahmedabad website designer",
+      "website cost in Ahmedabad",
+      "web development company Ahmedabad",
+      "hire freelance developer Ahmedabad",
+      "Gujarat SEO",
+      "website for textile wholesale in Ahmedabad",
+      "web designer in Ashram Road, Ahmedabad",
+      "website for ethnic wear brands in Ahmedabad",
     ],
   },
   hero: {

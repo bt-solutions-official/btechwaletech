@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "wedding budget calculator for website", "wedding planner enquiry form", "wedding planner website developer", "wedding planner web designer near me",
       "wedding planner SEO", "wedding planner website Udaipur", "wedding planner website Jaipur", "wedding planner website Goa",
       "wedding decorator website design", "shaadi planner website", "wedding consultant website", "luxury wedding planner website",
+      "wedding planner website design cost", "wedding planner website design price", "wedding planner website design company", "best wedding planner website design in India",
+      "wedding planner website design cost in India", "wedding planner website design near me",
     ],
   },
   hero: {
@@ -60,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Lead capture", value: "Budget band, guest count, dates, destination, family contact" },
       { label: "Overseas clients", value: "Calendar shows slots in the visitor’s local time" },
       { label: "Follow-up automation", value: `WhatsApp and email sequences from ${P.ai}` },
-      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -238,7 +240,7 @@ const content: FreelanceContent = {
         `Destination pages, real-wedding stories and clear package pages are what give a wedding planner website something worth ranking; technical setup makes sure it can be crawled. Nobody can guarantee a top position for “destination wedding planner in Udaipur”, and anyone who does is guessing.`,
         `What we do at build time: a clean URL for each destination and story, titles and descriptions written for how families search (“Jaipur palace wedding planner”, “beach wedding planner Goa for 150 guests”), structured data for your business and FAQs, an XML sitemap, Google Search Console verification, and internal links so a story links to its destination and its tier.`,
         `AI assistants and Google’s AI Overviews tend to quote pages that state facts plainly: which destinations you cover, head counts you handle, what each tier includes, how NRI planning works. Short question headings with direct answers, and details that match your Google Business Profile, make your site easier for those systems to read and cite. Photos alone give them nothing to quote.`,
-        `After launch, planners who publish a new story after each wedding and refresh destination pages yearly tend to build steady search traffic. If you want help with that routine, our <a href='/local-seo-expert/'>local SEO work</a> starts at ${P.seo} a month, reported through Search Console, not vanity numbers.`,
+        `After launch, planners who publish a new story after each wedding and refresh destination pages yearly tend to build steady search traffic. If you want help with that routine, our <a href='/local-seo-expert/'>local SEO work</a> starts at ${P.seo}, reported through Search Console, not vanity numbers.`,
       ],
     },
     {
@@ -263,7 +265,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own everything: domain, hosting, code, content, photos and every enquiry the site collects. We are added as users on your accounts during the build and removed or kept on as you choose.`,
         `At handover you receive the admin login for stories, venues and packages; access to the hosting and domain accounts registered in your business name; the code repository; and a short recorded walkthrough showing your team how to add a new real-wedding story in about ten minutes. Enquiries go to your WhatsApp, email and, if connected, your own CRM or sheet.`,
-        `For two months after launch, maintenance is free: fixing anything that breaks, small content changes your team gets stuck on, and checking forms still deliver. After that, maintenance is optional from ${P.care} a month. Many planners take it only for the wedding season and pause it in quieter months. Contract terms for anything beyond that are written into your quote; our <a href='/terms/'>terms</a> page explains the general position.`,
+        `For two months after launch, maintenance is free: fixing anything that breaks, small content changes your team gets stuck on, and checking forms still deliver. After that, maintenance is optional from ${P.care}. Many planners take it only for the wedding season and pause it in quieter months. Contract terms for anything beyond that are written into your quote; our <a href='/terms/'>terms</a> page explains the general position.`,
       ],
     },
     {
@@ -399,10 +401,10 @@ const content: FreelanceContent = {
     { question: "Can a remote team build my wedding planner website without meeting in person?", answer: "Yes. Everything the site needs, from package documents to photos, travels over WhatsApp and shared drives, and calls happen on video. You review every page on a private staging link before launch. We do not visit venues or shoot photos ourselves, so your photographers’ work and your notes on each venue supply the substance." },
     { question: "Who owns the website, photos and enquiry data?", answer: "You do. The domain, hosting and code are registered in your business name, and enquiries go to your inbox, WhatsApp and sheet or CRM. Photos remain with you and the photographers who shot them, used with the permissions you arrange. At handover you get the repository and every admin login." },
     { question: "How do I add a new real-wedding story after launch?", answer: "Log into the content panel, choose “new story”, fill fields for couple names (or initials), destination, tier, guest count and the story text, then upload chosen photos. The site resizes the photos, links the story to its destination and tier pages and adds it to the sitemap. A recorded walkthrough at handover shows each step." },
-    { question: "Will my wedding planner website rank first on Google?", answer: `No one can honestly promise that. Rankings depend on competition, your content, reviews and many factors outside a developer’s control. We build fast, crawlable pages with clear destination and story content, structured data and Search Console set up. Ongoing SEO from ${P.seo} a month focuses on content and technical health, reported transparently.` },
+    { question: "Will my wedding planner website rank first on Google?", answer: `No one can honestly promise that. Rankings depend on competition, your content, reviews and many factors outside a developer’s control. We build fast, crawlable pages with clear destination and story content, structured data and Search Console set up. Ongoing SEO from ${P.seo} focuses on content and technical health, reported transparently.` },
     { question: "How do AI search tools decide which wedding planner to mention?", answer: "They tend to draw on pages that state facts plainly: destinations covered, typical head counts, what each package includes, how overseas planning works, plus consistent business details across the web. A site with question-style headings and short direct answers gives assistants and Google’s AI Overviews something quotable, while a photo-only site gives them nothing." },
     { question: "Can the website be in Hindi as well as English?", answer: "Yes. We often build package, form and how-we-work pages in Hindi for parents, with the rest in English, and can add another Indian language. You supply or approve the translated text, and each language gets proper tags so search engines serve the right version. A language switch sits on every page." },
-    { question: "What does maintenance include after the site goes live?", answer: `Two months of free maintenance follow launch: fixing anything that breaks, helping when your team gets stuck adding a story, and checking that forms and bookings still deliver. After that, maintenance is optional from ${P.care} a month. Many planners keep it through the wedding season and pause it in quieter months.` },
+    { question: "What does maintenance include after the site goes live?", answer: `Two months of free maintenance follow launch: fixing anything that breaks, helping when your team gets stuck adding a story, and checking that forms and bookings still deliver. After that, maintenance is optional from ${P.care}. Many planners keep it through the wedding season and pause it in quieter months.` },
     { question: "Can the site handle large photo galleries without becoming slow?", answer: "Yes, if it is built for it. We resize each photo to the sizes actually shown, serve WebP or AVIF, load galleries only as the visitor scrolls and host films on a video platform. That keeps story pages quick on mobile data, which matters because relatives often open links on older phones." },
     { question: "How do I pay for the website?", answer: "Planners in India pay by UPI or bank transfer; clients abroad pay in US dollars by Wise, bank wire or PayPal. Payments are staged against visible work as set out in your written quote, and nothing is billed before your approval. Invoicing details are agreed at quote stage, and our refund policy page explains the general position." },
     { question: "Can you sign an NDA before I share client photos and budgets?", answer: "Ask us, and confidentiality terms can be discussed and written into your quote. For most planner sites we only need photos you have permission to publish and your package descriptions, not private client budgets. Where we do handle personal data, it stays in your accounts and is used only for the build." },

@@ -16,7 +16,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "AWS Consulting Services for Small Business: Cut Bills",
-    description: `AWS consulting services for small business in the US: account clean-up, lower monthly bills, backups, IAM security and moves off shared hosting. Care from ${P.care}.`,
+    description: `AWS consulting for small business in the US: account clean-up, lower monthly bills, backups, IAM security and moves off shared hosting. Care from ${P.care}.`,
     keywords: [
       "aws consulting services for small business", "aws consulting for small business", "aws consultant for small business", "aws consulting services",
       "aws small business setup", "reduce aws bill small business", "why is my aws bill so high", "aws cost optimization for small business",

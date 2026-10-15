@@ -7,7 +7,7 @@ const purnia: CityContent = {
   meta: {
     title: "Purnia Web Design, SEO and Makhana Stores from ₹10k",
     description:
-      "Websites, Google Maps work, makhana online stores and WhatsApp automation for Purnia's maize traders, Line Bazar clinics, coaching centres and shops. Remote team.",
+      "Websites, Maps work, makhana online stores and WhatsApp automation for Purnia's maize traders, Line Bazar clinics, coaching centres and shops. From ₹10,000.",
     keywords: [
       "website development team in Purnia",
       "website designer Purnea",
@@ -25,6 +25,16 @@ const purnia: CityContent = {
       "Purnia me website kaise banwaye",
       "पूर्णिया वेबसाइट डिज़ाइन",
       "website maintenance Purnia",
+      "Purnia website designer",
+      "web development company Purnia",
+      "hire freelance web developer Purnia",
+      "Bihar SEO services",
+      "Purnia website banwane ka kharcha",
+      "Purnia coaching institutes website",
+      "coaching institutes website design Purnia",
+      "website design Line Bazar Purnia",
+      "website design Gulabbagh Purnia",
+      "website design Khuskibagh Purnia",
     ],
   },
   hero: {

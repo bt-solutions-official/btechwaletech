@@ -5,9 +5,9 @@ const mandvi: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 22.8333, lng: 69.3556 },
   meta: {
-    title: "IT Services in Mandvi, Kutch: Web, Apps, SEO & AI",
+    title: "Mandvi Kutch Website Design: Dhows, Bandhani, Beach",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Mandvi hotels, dhow yards, bandhani sellers and GIDC bentonite units.",
+      "Mandvi websites, Gujarati SEO and UPI stores for dhow builders, beach hotels, dabeli and farsan shops, bandhani makers and bentonite units. From ₹10,000.",
     keywords: [
       "IT services in Mandvi",
       "IT services team in Mandvi Kutch",
@@ -29,6 +29,16 @@ const mandvi: CityContent = {
       "Mandvi me website banwana",
       "Mandvi ma website banavvi",
       "માંડવી વેબસાઇટ ડિઝાઇન",
+      "Mandvi website designer",
+      "web development company Mandvi",
+      "hire freelance web developer Mandvi",
+      "Kutch district SEO",
+      "website designer Kutch district",
+      "Gujarat SEO services",
+      "website design Mandvi Beach",
+      "website design Wind Farm Beach Mandvi",
+      "website design price in Mandvi",
+      "app development company Mandvi",
     ],
   },
   hero: {

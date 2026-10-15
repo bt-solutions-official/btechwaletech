@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Freelance website development",
   updated: "2026-09-24",
   meta: {
-    title: "Freelance Website Development: Sitemap to Launch",
+    title: `Freelance Website Development: Sitemap to Launch, ${P.site}+`,
     description: `Freelance website development in India, phase by phase: sitemap, content, design, build, testing and launch. Sites from ${P.site} with a weekly plan.`,
     keywords: [
       "freelance website development", "freelance website development in India", "freelance website development near me",
@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "website development process", "website development steps", "sitemap to launch website", "website build timeline",
       "website launch checklist", "end-to-end website development", "business website development freelance",
       "website development phases", "freelance website project plan", "how a website is built",
+      "freelance website development company in India",
+      "freelance website development services",
     ],
   },
   hero: {
@@ -76,7 +78,7 @@ const content: FreelanceContent = {
       { name: "Landing page for ads", note: "A one-page sitemap, but tracking, form routing and load speed get extra attention because ad spend depends on them.", href: "/landing-page-developer/", size: "md" },
       { name: "Redesign of an old site", note: "Starts with an inventory of existing URLs so the new sitemap keeps search traffic through redirects.", href: "/website-redesign-freelancer/", size: "sm" },
       { name: "Monthly SEO after launch", note: `Content, fixes and Search Console reporting once the site is live, from ${P.seo}. No ranking promises.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Maintenance", note: `Two months free after launch, then from ${P.care} a month for updates, backups and small edits.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance", note: `Two months free after launch, then from ${P.care} for updates, backups and small edits.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -270,7 +272,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `When freelance website development finishes, you should hold every key yourself. That means the domain registered in your name, the hosting account billed to you, the Git repository with the full source code, the Google Search Console property and analytics under your Google account, and admin access to any CMS or form tool.`,
         `We create these accounts in your name from the first week, so there is never a “transfer later” step to chase. If you ever want another developer to take over, you can share access without asking us. That independence is also why we are comfortable offering two months of free maintenance: you stay because the work is useful, not because you are locked in.`,
-        `After the free period, maintenance is optional and starts at ${P.care} a month for updates, backups, security checks and small edits. You can also make text changes yourself if the site uses a CMS, or send them over WhatsApp in batches.`,
+        `After the free period, maintenance is optional and starts at ${P.care} for updates, backups, security checks and small edits. You can also make text changes yourself if the site uses a CMS, or send them over WhatsApp in batches.`,
       ],
     },
     {
@@ -397,7 +399,7 @@ const content: FreelanceContent = {
     { question: "Who owns the website after the freelancer finishes?", answer: "You should own everything: the domain, the hosting account, the source code in a Git repository, the Search Console property and the analytics account. BtechWaleTech sets up all of these in the client’s name from the first week, so there is nothing to transfer later and you can move to any developer whenever you choose." },
     { question: "How are payments split for a freelance website project?", answer: "Payments are usually staged: an advance when the quote is approved, a middle payment when designs or a working staging build are shown, and the balance at launch. BtechWaleTech accepts UPI or bank transfer in India and Wise, bank wire or PayPal from abroad, and nothing is billed before you approve the itemised written quote." },
     { question: "Does freelance website development include SEO?", answer: "It should include on-page and technical SEO basics built into the site: unique titles and descriptions, clean URLs, schema markup, an XML sitemap, fast loading and Search Console setup. Ongoing work such as new content, local listings and monthly reporting is a separate service. Nobody can honestly guarantee specific Google rankings, so treat such promises as a warning sign." },
-    { question: "What maintenance does a new website need after launch?", answer: `A new site needs security and software updates, backups, uptime checks, fixes for anything that breaks and small content changes. BtechWaleTech includes two months of free maintenance after launch. After that, maintenance is optional and starts at ${P.care} a month, or you can manage the site yourself with the handover notes provided.` },
+    { question: "What maintenance does a new website need after launch?", answer: `A new site needs security and software updates, backups, uptime checks, fixes for anything that breaks and small content changes. BtechWaleTech includes two months of free maintenance after launch. After that, maintenance is optional and starts at ${P.care}, or you can manage the site yourself with the handover notes provided.` },
     { question: "Should I sign a contract with a freelance web developer?", answer: "Yes. At minimum you need a written scope listing pages and features, the price per line, the timeline, payment stages, ownership of accounts and code, and what support follows launch. A confirmed email can serve as the agreement for small projects. If you share confidential business data, ask for an NDA before sending it; a reasonable one is standard practice." },
     { question: "Can the same team build an app or automation later?", answer: `Yes, if the team has those skills. BtechWaleTech builds Android and iOS apps with Flutter or React Native from ${P.app} and AI or WhatsApp automations from ${P.ai}. Planning the website’s data and logins with a future app in mind avoids rebuilding the backend later, so mention any app plans during the brief.` },
     { question: "Website banwane ka process kya hota hai?", answer: `Pehle aap WhatsApp par batate hain ki website se kya chahiye. Phir hum pages ki list (sitemap) aur itemised quote bhejte hain. Aap content aur photos dete hain, hum phone par design dikhate hain, staging link par poori site banti hai, testing hoti hai aur phir launch. Simple site ${P.site} se shuru hoti hai aur 1–2 hafte lagte hain.` },

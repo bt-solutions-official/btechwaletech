@@ -5,9 +5,9 @@ const sonipat: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.9931, lng: 77.0151 },
   meta: {
-    title: "Sonipat Web Design & SEO for Kundli, Rai and City",
+    title: "Sonipat Web Design & SEO: Kundli, Rai, Murthal",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Sonipat factories, Kundli warehouses, Murthal dhabas, PGs, clinics and shops. From ₹10,000.",
+      "Sonipat websites, local SEO and WhatsApp tools for HSIIDC factories, Kundli warehouses, Murthal dhabas, campus PGs and clinics. From ₹10,000.",
     keywords: [
       "website development team in Sonipat",
       "web designer Sonipat",
@@ -25,6 +25,20 @@ const sonipat: CityContent = {
       "website maintenance Sonipat",
       "Sonipat mein website banwana",
       "सोनीपत वेबसाइट डिजाइन",
+      "Sonipat website designer",
+      "web development company Sonipat",
+      "hire freelance web developer Sonipat",
+      "Haryana SEO services",
+      "Sonipat me website kaise banwaye",
+      "Sonipat website banwane ka kharcha",
+      "website design Geeta Bhawan Chowk Sonipat",
+      "website design Sector 14 Sonipat",
+      "website design Gohana Road Sonipat",
+      "website design price in Sonipat",
+      "app development company Sonipat",
+      "Sonipat SEO company",
+      "Google Maps listing Sonipat",
+      "software company in Sonipat",
     ],
   },
   hero: {

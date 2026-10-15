@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Multi Vendor Marketplace Saudi Arabia, from ${P.software}`,
-    description: `Multi vendor marketplace development in Saudi Arabia: vendor onboarding with CR and VAT checks, commission and split payouts, per-vendor ZATCA invoices. From ${P.software}.`,
+    description: `Multi vendor marketplace development in Saudi Arabia: vendor onboarding with CR and VAT checks, split payouts, per-vendor ZATCA invoices. From ${P.software}.`,
     keywords: [
       "multi vendor marketplace development saudi arabia", "multi vendor marketplace saudi arabia", "marketplace development ksa",
       "build a marketplace in saudi arabia", "multi seller ecommerce platform saudi", "online marketplace developer riyadh",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "b2b marketplace development saudi arabia", "services marketplace development ksa", "marketplace mobile app saudi arabia",
       "arabic marketplace website", "multi vendor marketplace developer near me", "hire marketplace developer saudi arabia",
       "vendor payout system development", "منصة متعددة البائعين", "تطوير متجر متعدد التجار",
+      "freelance multi vendor marketplace development Saudi Arabia",
     ],
   },
   hero: {
@@ -438,7 +439,7 @@ const content: FreelanceContent = {
     { question: "Will AI assistants recommend my marketplace?", answer: "AI search tools quote pages that answer questions clearly and factually. Vendor profiles with specific descriptions, delivery areas and return terms, plus buying guides for each category, give them something to cite. Fast pages, structured data and consistent Arabic and English content help. We build that structure; the ongoing content work fits monthly SEO." },
     { question: "How do payments to BtechWaleTech work from Saudi Arabia?", answer: "Quotes are in US dollars and invoices come from India. You pay by Wise or bank wire, and PayPal is also possible. Payment milestones are agreed in your written quote before work starts, and nothing is billed before you approve that quote. Because the riyal is pegged to the dollar, the riyal cost of each milestone is easy to predict." },
     { question: "Do you sign contracts and NDAs for marketplace projects?", answer: "Yes. Scope, milestones, ownership and confidentiality are written into the agreement before work begins, and we are happy to sign your NDA. Specific terms, such as how changes or pauses are handled, are agreed in your written quote rather than fixed in advance; our terms and refund policy pages set out the general basis." },
-    { question: "What happens after the marketplace launches?", answer: `You get two months of free maintenance after launch for fixes, updates and monitoring. After that, maintenance starts from ${P.care} per month, and monthly SEO from ${P.seo} if you want ongoing growth work. New features, such as a vendor app or automated split payouts, are quoted as separate phases.` },
+    { question: "What happens after the marketplace launches?", answer: `You get two months of free maintenance after launch for fixes, updates and monitoring. After that, maintenance starts from ${P.care}, and monthly SEO from ${P.seo} if you want ongoing growth work. New features, such as a vendor app or automated split payouts, are quoted as separate phases.` },
   ],
   related: {
     heading: "Related pages for Saudi marketplace builders",

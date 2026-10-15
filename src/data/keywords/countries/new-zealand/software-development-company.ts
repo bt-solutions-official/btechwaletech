@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "custom software vs saas nz", "how much does custom software cost nz", "custom software development cost new zealand",
       "software escrow nz", "who owns the source code nz", "software developers near me nz", "remote software team for nz sme",
       "replace spreadsheets with software nz", "hosting in new zealand cloud region",
+      "hire software development in New Zealand", "freelance software development New Zealand",
     ],
   },
   hero: {

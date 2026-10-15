@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "packers and movers CRM", "packers and movers software price", "packers and movers software cost", "custom packers and movers software",
       "best packers and movers software", "packers and movers software Delhi", "packers and movers software Bangalore", "packers and movers software Pune",
       "packers movers ke liye software", "how to manage packers and movers business", "insurance claim tracking for movers",
+      "packers and movers software company", "best packers and movers software in India", "packers and movers software cost in India", "packers and movers software near me",
     ],
   },
   hero: {
@@ -60,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Surveyor and driver app", value: `From ${P.app}, Android first, iOS optional` },
       { label: "Customer updates", value: "WhatsApp messages with a tracking link and document PDFs" },
       { label: "Payments", value: "UPI or bank transfer to us; your customers pay you by UPI, card or cash" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -324,7 +325,7 @@ const content: FreelanceContent = {
         ["Full office system (web)", "Quotation core plus inventory, LR/bilty, tracking page, claims, reports", P.software, "8–12 weeks"],
         ["Surveyor and driver app", "Offline survey, packing photos, POD signature, location pings", P.app, "6–10 weeks"],
         ["WhatsApp automation", "Quote delivery, pickup reminders, stage updates, review requests", P.ai, "2–4 weeks"],
-        ["Aftercare", "Fixes, backups, small changes after 2 free months", `${P.care} a month`, "Ongoing"],
+        ["Aftercare", "Fixes, backups, small changes after 2 free months", `${P.care}`, "Ongoing"],
       ],
       hideSm: [1],
     },

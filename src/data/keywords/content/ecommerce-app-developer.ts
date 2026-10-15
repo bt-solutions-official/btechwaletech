@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Ecommerce app developer",
   updated: "2026-09-24",
   meta: {
-    title: "Ecommerce App Developer: Shopping Apps in India",
+    title: `Ecommerce App Developer: Shopping Apps from ${P.app}`,
     description: `Ecommerce app developer in India for shopping apps with catalogue, cart, UPI checkout, orders and delivery tracking. Apps from ${P.app}, stores from ${P.shop}.`,
     keywords: [
       "ecommerce app developer", "ecommerce app developer in India", "ecommerce app developer near me", "ecommerce app developer for hire",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "online store app developer", "Flutter ecommerce app", "React Native shopping app", "ecommerce mobile app India",
       "Android shopping app developer", "iOS shopping app developer", "freelance ecommerce app developer", "app for online store",
       "ecommerce app with UPI payment", "order and delivery app developer",
+      "hire ecommerce app developer",
     ],
   },
   hero: {

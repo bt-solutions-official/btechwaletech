@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Hair Transplant Clinic Website from ${P.site}`,
-    description: `Hair transplant clinic website from ${P.site}: FUE, FUT and DHI explainers, photo-upload graft assessment, cost-per-graft page and help for patients travelling in.`,
+    description: `Hair transplant clinic website from ${P.site}: FUE, FUT and DHI explainers, photo-upload graft count and a cost-per-graft page. Quote in 2 working days.`,
     keywords: [
       "hair transplant clinic website", "hair transplant clinic website design", "hair transplant website development", "website for hair transplant clinic",
       "hair clinic website design India", "hair transplant website design cost", "hair transplant clinic website price", "hair transplant lead generation website",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "hair transplant clinic SEO", "hair transplant clinic near me website", "medical tourism hair transplant website", "hair transplant patient testimonials video",
       "how to get hair transplant leads", "what should a hair transplant website include", "hair transplant clinic website Delhi", "hair transplant clinic website Hyderabad",
       "hair transplant clinic website Mumbai", "hair clinic website developer", "hair transplant enquiry form WhatsApp",
+      "hair transplant clinic website company in India",
+      "best hair transplant clinic website in India",
+      "hair transplant clinic website services",
     ],
   },
   hero: {
@@ -230,7 +233,7 @@ const content: FreelanceContent = {
         `Hair transplant searches split into three groups: learning (“FUE vs FUT”), cost (“hair transplant cost per graft”) and local (“hair transplant clinic in Hyderabad”). Your site needs strong pages for all three, each linking to the photo assessment.`,
         `Learning pages rank when they are accurate, specific and written with a named doctor’s review. Cost pages rank when they show real numbers and explain them. Local pages rank with a consistent Google Business Profile, a proper address page, and content about serving patients from nearby cities. We add structured data, clean titles, internal links and fast mobile pages, then track queries and Core Web Vitals in Google Search Console.`,
         `AI Overviews and chat assistants answer many of these questions directly. They draw on pages that define terms in one sentence, state recovery timelines clearly and name who performs the procedure. Writing your explainers that way makes them easier to cite, and clearer for patients too.`,
-        `Health topics are held to a high standard by search engines, so accuracy and a visible medical reviewer matter. Nobody can guarantee rankings. Our <a href='/seo-for-doctors/'>SEO for doctors</a> page covers ongoing work, which starts at ${P.seo} a month.`,
+        `Health topics are held to a high standard by search engines, so accuracy and a visible medical reviewer matter. Nobody can guarantee rankings. Our <a href='/seo-for-doctors/'>SEO for doctors</a> page covers ongoing work, which starts at ${P.seo}.`,
       ],
     },
     {

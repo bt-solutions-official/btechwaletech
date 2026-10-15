@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Designer in Chandigarh: Designs from ${P.site}`,
-    description: `Website designer in Chandigarh: custom layouts, web identity and photo guidance, reviewed live on screen-share. Designed and built from ${P.site}, quote in 2 days.`,
+    description: `Website designer in Chandigarh: custom layouts, web identity and photo guidance, reviewed live on screen-share. Designed and built from ${P.site}.`,
     keywords: [
       "website designer in Chandigarh", "website designer Chandigarh", "web designer in Chandigarh", "website designer near me Chandigarh",
       "website design Chandigarh", "website designing in Chandigarh", "website design services Chandigarh", "freelance website designer Chandigarh",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website designer Sector 17 Chandigarh", "website designer Mohali", "website designer Panchkula", "website designer Zirakpur",
       "Punjabi website design", "Hindi English website design Chandigarh", "boutique website design Chandigarh", "clinic website design Chandigarh",
       "website designer vs developer", "Chandigarh mein website design karwana hai",
+      "website designer in Chandigarh cost", "website designer in Chandigarh price", "hire website designer in Chandigarh", "freelance website designer in Chandigarh",
+      "website designer in Chandigarh charges",
     ],
   },
   hero: {

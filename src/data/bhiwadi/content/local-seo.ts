@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-27",
   meta: {
     title: `Local SEO in Bhiwadi: Map Pack Work from ${P.seo}`,
-    description: `Local SEO in Bhiwadi from ${P.seo}: Google Business Profile, genuine reviews, NAP cleanup and locality pages, planned face to face at your premises in Bhiwadi.`,
+    description: `Local SEO in Bhiwadi from ${P.seo}: Google Business Profile, genuine reviews, NAP cleanup and locality pages, planned face to face at your premises.`,
     keywords: [
       "local SEO in Bhiwadi", "local SEO near me Bhiwadi", "local SEO in Bhiwadi Rajasthan", "local SEO Bhiwadi Alwar",
       "Google Maps ranking Bhiwadi", "map pack SEO Bhiwadi", "Google Maps listing Bhiwadi", "local SEO services Bhiwadi",
@@ -372,6 +372,8 @@ const content: FreelanceContent = {
     heading: "Related services in Bhiwadi",
     links: [
       { name: "All services in Bhiwadi", href: "/bhiwadi-rajasthan/" },
+      { name: "Hotel website design in Bhiwadi", href: "/bhiwadi-rajasthan/hotel-website-design/" },
+      { name: "Hospital website design in Bhiwadi", href: "/bhiwadi-rajasthan/hospital-website-design/" },
       { name: "SEO services in Bhiwadi", href: "/bhiwadi-rajasthan/seo-services/" },
       { name: "Google Business Profile setup", href: "/bhiwadi-rajasthan/google-business-profile/" },
       { name: "SEO expert in Bhiwadi", href: "/bhiwadi-rajasthan/seo-expert/" },

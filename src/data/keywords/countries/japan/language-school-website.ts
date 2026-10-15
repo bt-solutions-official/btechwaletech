@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "language school seo japan", "language school website examples", "website for english conversation school", "language school website near me",
       "language school web design tokyo", "language school website osaka", "japanese language school fukuoka website", "japan",
       "日本語学校 ホームページ 制作", "英会話スクール ホームページ 制作", "留学生 募集 サイト",
+      "hire language school website design in Japan", "freelance language school website design Japan",
     ],
   },
   hero: {
@@ -35,7 +36,7 @@ const content: FreelanceContent = {
     ["Multilingual recruitment site", `From ${P.seoSite} · 3–5 weeks`],
     ["Applicant or student portal", `From ${P.software} · 6–12 weeks`],
     ["Enquiry assistant (AI)", `From ${P.ai} · 2–4 weeks`],
-    ["Search visibility work", `From ${P.seo} per month`],
+    ["Search visibility work", `From ${P.seo}`],
     ["After launch", `2 months free maintenance, then from ${P.care}`],
   ],
   stats: [

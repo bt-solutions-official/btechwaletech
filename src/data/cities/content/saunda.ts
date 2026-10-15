@@ -7,7 +7,7 @@ const saunda: CityContent = {
   meta: {
     title: "IT Services in Saunda: Websites, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Saunda and Bhurkunda mine contractors, workshops, schools, clinics and shops.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Saunda and Bhurkunda mine contractors, workshops, schools, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Saunda",
       "IT services team in Saunda",
@@ -29,6 +29,12 @@ const saunda: CityContent = {
       "Patratu block digital marketing",
       "Saunda me website banwana",
       "Bhurkunda me app banwana",
+      "Saunda website designer",
+      "web development company Saunda",
+      "hire freelance web developer Saunda",
+      "Ramgarh district SEO",
+      "website designer Ramgarh district",
+      "Jharkhand SEO services",
     ],
   },
   hero: {

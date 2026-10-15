@@ -7,7 +7,7 @@ const mahuva: CityContent = {
   meta: {
     title: "IT Services in Mahuva: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, Gujarati SEO and WhatsApp automation for Mahuva onion traders, dehydration exporters, toy makers, shops and clinics. From ₹10,000.",
+      "Websites, apps, Gujarati SEO and WhatsApp automation for Mahuva onion traders, dehydration exporters, toy makers, shops and clinics. Sites from ₹10,000.",
     keywords: [
       "IT services in Mahuva",
       "IT services team in Mahuva",
@@ -29,6 +29,12 @@ const mahuva: CityContent = {
       "Mahuva ma website banavvi",
       "Bhavnagar district web designer",
       "Google Maps listing Mahuva",
+      "Mahuva website designer",
+      "web development company Mahuva",
+      "hire freelance web developer Mahuva",
+      "Bhavnagar district SEO",
+      "website designer Bhavnagar district",
+      "Gujarat SEO services",
     ],
   },
   hero: {

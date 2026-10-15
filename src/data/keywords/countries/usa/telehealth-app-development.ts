@@ -16,7 +16,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Telehealth App Development: Apps from ${P.app}`,
-    description: `Telehealth app development for US practices: video visits, scheduling, BAA-covered vendors, eRx and EHR integration. Patient apps from ${P.app}; ask for a quote.`,
+    description: `Telehealth app development for US practices: video visits, scheduling, BAA-covered vendors, eRx and EHR integration. Patient apps from ${P.app}; get a quote.`,
     keywords: [
       "telehealth app development", "telemedicine app development", "telehealth app developers", "virtual care app development",
       "custom telehealth platform development", "telehealth app development cost", "how much does it cost to build a telehealth app",
@@ -290,7 +290,7 @@ const content: FreelanceContent = {
         "Pilot group of clinicians trained and a rollback plan written down",
       ],
       after: [
-        `Your telehealth landing pages need the same care for accessibility; the <a href='/usa/website-accessibility-remediation/'>accessibility remediation</a> page explains how we audit and fix public sites against WCAG.`,
+        `Your telehealth landing pages need the same care for accessibility; the <a href='/usa/ada-compliant-website-design/'>ADA compliant website design</a> page explains how we audit and fix public sites against WCAG.`,
       ],
     },
   ],
@@ -406,12 +406,12 @@ const content: FreelanceContent = {
       { name: "HIPAA compliant app development", href: "/usa/hipaa-compliant-app-development/" },
       { name: "HIPAA compliant website design", href: "/usa/hipaa-compliant-website-design/" },
       { name: "Medical practice website design", href: "/usa/medical-practice-website-design/" },
-      { name: "Therapist website design", href: "/usa/therapist-website-design/" },
+      { name: "Home care agency website design", href: "/usa/home-care-agency-website-design/" },
       { name: "React Native app development", href: "/usa/react-native-app-development/" },
       { name: "Flutter app development company", href: "/usa/flutter-app-development-company/" },
       { name: "App development cost", href: "/usa/app-development-cost/" },
       { name: "Customer portal development", href: "/usa/customer-portal-development/" },
-      { name: "Field service management app development", href: "/usa/field-service-app-development/" },
+      { name: "Custom CRM development", href: "/usa/custom-crm-development/" },
       { name: "SaaS website design", href: "/usa/saas-website-design/" },
       { name: "All services for US businesses", href: "/usa/" },
       { name: "Hire Indian developers", href: "/hire-indian-developers/" },

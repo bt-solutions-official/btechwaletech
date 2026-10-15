@@ -62,7 +62,7 @@ const content: FreelanceContent = {
       { label: "First step", value: "An in-person shop-floor walk in Bhiwadi with plant, quality and maintenance heads" },
       { label: "Languages", value: "Hindi for supervisors, English for reports and buyers" },
       { label: "Ownership", value: "Models, code, data and cloud accounts in your name" },
-      { label: "After launch", value: `2 months free care, then from ${P.care} a month if you choose` },
+      { label: "After launch", value: `2 months free care, then from ${P.care} if you choose` },
     ],
   },
   services: {
@@ -192,7 +192,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A pilot on one use case starts at ${P.ai} (about ${P.aiUsd}). That covers collecting and cleaning the relevant data, building and testing the model or document pipeline, and delivering results in a form your team can use: a spreadsheet, a WhatsApp summary or a simple web view.`,
         `The cost rises with the number of data sources to join, how much typing or cleaning old records need, and how results are delivered. If the pilot proves useful and you want it running daily with logins, roles, history and dashboards, it becomes a custom tool starting at ${P.software}. Cloud computing and AI model usage are billed to accounts in your name.`,
-        `What should not cost you: hardware you do not need. Many AI offers for manufacturers are sensor and gateway packages with software attached. For a first step, the plant's own records usually hold enough to show whether AI helps. After go-live, two months of maintenance are free, and later care starts from ${P.care} a month if you want it. For deeper analysis work, see <a href='/bhiwadi-rajasthan/data-analytics-services/'>data analytics services in Bhiwadi</a>.`,
+        `What should not cost you: hardware you do not need. Many AI offers for manufacturers are sensor and gateway packages with software attached. For a first step, the plant's own records usually hold enough to show whether AI helps. After go-live, two months of maintenance are free, and later care starts from ${P.care} if you want it. For deeper analysis work, see <a href='/bhiwadi-rajasthan/data-analytics-services/'>data analytics services in Bhiwadi</a>.`,
       ],
     },
     {
@@ -253,7 +253,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do, completely. The cleaned datasets, trained models, prompts, code, dashboards and cloud accounts are registered to your company. We work inside them as invited users and hand over credentials at the end.`,
         `The handover pack includes the repository, a plain-language note on how each model was built and what data it expects, instructions for re-running forecasts or analyses with new data, and a list of what to watch for, such as a new customer or part family that the model has never seen. If you later hire a data analyst, they start from there instead of from scratch.`,
-        `Two months of maintenance after go-live are free: retraining on new data, fixing broken imports when an export format changes, and small adjustments. After that, care continues from ${P.care} a month if you want it. Nothing in the setup locks you to us; you can remove our access with one change.`,
+        `Two months of maintenance after go-live are free: retraining on new data, fixing broken imports when an export format changes, and small adjustments. After that, care continues from ${P.care} if you want it. Nothing in the setup locks you to us; you can remove our access with one change.`,
       ],
     },
     {
@@ -289,7 +289,7 @@ const content: FreelanceContent = {
         ["Document AI for bills, POs or certificates", `From ${P.ai}`, "2–4 weeks", "Sample documents and your masters"],
         ["SOP and spec question assistant", `From ${P.ai}`, "3–4 weeks", "Work instructions and specs as files"],
         ["Daily-use tool with logins and dashboards", `From ${P.software}`, "6–12 weeks", "A pilot that beat the baseline"],
-        ["Care after the 2 free months", `From ${P.care} a month`, "Monthly", "Retraining, import fixes"],
+        ["Care after the 2 free months", `From ${P.care}`, "Monthly", "Retraining, import fixes"],
       ],
       hideSm: [3],
     },
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       ["Shortlist and itemised quote", "You get one to three use cases, an honest data-readiness note and an itemised pilot quote in about two working days. Nothing is billed before written approval."],
       ["Clean data and set a baseline", "We gather exports into accounts you own, clean and join them, and measure how well your current method performs."],
       ["Build and test the pilot", "The model or pipeline is tested on months it has not seen, and results are explained plainly, including where it is weak."],
-      ["Decide, hand over, support", `You decide to stop, repeat or build a daily tool. Code and data are handed over; 2 months of care are free, then from ${P.care} a month.`],
+      ["Decide, hand over, support", `You decide to stop, repeat or build a daily tool. Code and data are handed over; 2 months of care are free, then from ${P.care}.`],
     ],
   },
   faqHeading: "AI for manufacturing companies in Bhiwadi: questions plant owners ask",
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
     { question: "Can the AI answer questions in Hindi?", answer: "Yes. An SOP or specification assistant can take questions in Hindi or English and answer in the same language, citing the page of the source document, and it declines when the documents do not cover the question. Daily summaries on WhatsApp can also be sent in Hindi for supervisors and in English for management." },
     { question: "Is a remote team workable for factory AI?", answer: "Yes, with in-person steps at the right moments. We walk the plant face to face in Bhiwadi at the start and can return to present results or train supervisors. Data work, modelling and support happen remotely over WhatsApp, calls and email, since the analysis runs in the cloud accounts you own." },
     { question: "Who owns the models and code?", answer: "You own all of it: cleaned datasets, trained models, prompts, code, dashboards and cloud accounts. The handover pack explains how each model was built, what data it expects and how to re-run it. You can remove our access at any time, and a future in-house analyst can continue from the pack." },
-    { question: "What maintenance do AI models need?", answer: `Models need retraining as new data arrives and fixes when an export format changes. For two months after go-live that care is free. After that, it continues from ${P.care} a month if you want it, or your team follows the handover guide to re-run models monthly. New use cases are quoted separately.` },
+    { question: "What maintenance do AI models need?", answer: `Models need retraining as new data arrives and fixes when an export format changes. For two months after go-live that care is free. After that, it continues from ${P.care} if you want it, or your team follows the handover guide to re-run models monthly. New use cases are quoted separately.` },
     { question: "How do we pay?", answer: "In India we accept UPI or bank transfer, billed in INR in stages written in the approved quote, each tied to visible progress such as the cleaned data and baseline, the pilot results and the handover. Cloud and AI model usage are paid by you directly to the providers, so running costs are always visible." },
     { question: "Can AI help with IATF or ISO audits?", answer: "It can help organise records, such as grouping NCRs, summarising 8D reports and making procedures searchable, which makes preparing for audits easier. It does not make you compliant or certified; that depends on your processes and is judged by auditors. Your quality consultant remains responsible for audit readiness." },
     { question: "Factory mein AI ka use kaise shuru karein?", answer: `Pehle ek dard chuniye: stock ki kami, baar-baar breakdown, zyada rejection ya bill entry ka bojh. Hum Bhiwadi mein aapke plant par aamne-saamne aakar dekhte hain ki records kaise rakhe jaate hain, phir ek chhota pilot banate hain jo ${P.ai} se shuru hota hai. Hum hardware nahi bechte.` },

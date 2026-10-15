@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `App Development Company Australia? Apps from ${P.app}`,
-    description: `Comparing an app development company in Australia? A remote three-person team builds iOS and Android apps in Flutter, with code and accounts yours. From ${P.app}.`,
+    description: `App development company Australia alternative: a remote three-person team builds iOS and Android apps in Flutter, code and accounts yours. From ${P.app}.`,
     keywords: [
       "app development company australia", "app development company australia alternative", "app developers australia",
       "app development company sydney", "app development company melbourne", "app development company brisbane",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "app store account in company name", "google play organisation account d-u-n-s", "who owns the source code of my app",
       "ip assignment app development australia", "app maintenance after launch", "app developer near me",
       "best way to build an app in australia", "app development for startups australia",
+      "freelance app development Australia",
     ],
   },
   hero: {

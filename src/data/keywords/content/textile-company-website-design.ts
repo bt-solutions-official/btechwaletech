@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "textile website design Surat", "textile website design Tiruppur", "textile website design Ludhiana", "textile website design Coimbatore",
       "yarn manufacturer website", "home textile exporter website", "textile company ki website kaise banaye", "fabric sample request website",
       "GOTS certified supplier website", "textile SEO for export buyers", "powerloom business website",
+      "textile company website design price", "textile company website design company", "best textile company website design in India", "textile company website design cost in India",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const sircilla: CityContent = {
   meta: {
     title: "IT Services in Sircilla | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Sircilla powerloom owners, saree traders, garment units, clinics and colleges.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Sircilla powerloom owners, saree traders, garment units, clinics and colleges. Websites from ₹10,000.",
     keywords: [
       "IT services in Sircilla",
       "IT services team in Sircilla",
@@ -29,6 +29,12 @@ const sircilla: CityContent = {
       "Sircilla me website banwana",
       "Sircilla lo website cheyinchali",
       "సిరిసిల్ల వెబ్‌సైట్ డిజైన్",
+      "Sircilla website designer",
+      "web development company Sircilla",
+      "hire freelance web developer Sircilla",
+      "Rajanna Sircilla district SEO",
+      "website designer Rajanna Sircilla district",
+      "Telangana SEO services",
     ],
   },
   hero: {

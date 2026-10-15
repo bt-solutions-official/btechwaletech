@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What custom AI agent development costs with us",
-    note: `Agent pricing has two halves: the build and the running cost. The build starts from ${P.ai} for a pilot agent with one knowledge source and two or three tools, and from ${P.software} for a production agent with its own admin screens, role-based access and an approval queue. Running cost is separate and paid by you directly: model tokens to OpenAI or Anthropic, plus hosting and a vector store in your cloud account. Before we quote, we estimate calls per task, average tokens and monthly volume so you see a cost-per-resolution figure. After two months of free maintenance, ongoing care starts from ${P.care} a month.`,
+    note: `Agent pricing has two halves: the build and the running cost. The build starts from ${P.ai} for a pilot agent with one knowledge source and two or three tools, and from ${P.software} for a production agent with its own admin screens, role-based access and an approval queue. Running cost is separate and paid by you directly: model tokens to OpenAI or Anthropic, plus hosting and a vector store in your cloud account. Before we quote, we estimate calls per task, average tokens and monthly volume so you see a cost-per-resolution figure. After two months of free maintenance, ongoing care starts from ${P.care}.`,
   },
   guideLabel: "AI agent development guide for US businesses",
   guide: [
@@ -357,7 +357,7 @@ const content: FreelanceContent = {
         ["CRM research agent", "Enrichment, duplicate check, activity logging", `From ${P.ai}`, "3–4 weeks"],
         ["Production agent with admin UI", "Approval queue, roles, SSO, reporting", `From ${P.software}`, "6–10 weeks"],
         ["Multi-system operations agent", "Several APIs, scheduled jobs, audit exports", `From ${P.software}`, "8–12 weeks"],
-        ["Care after launch", "Model updates, eval re-runs, index upkeep", `From ${P.care}/month after 2 free months`, "Ongoing"],
+        ["Care after launch", "Model updates, eval re-runs, index upkeep", `From ${P.care} after 2 free months`, "Ongoing"],
       ],
     },
   ],

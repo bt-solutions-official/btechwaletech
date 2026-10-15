@@ -7,7 +7,7 @@ const taliparamba: CityContent = {
   meta: {
     title: "IT Services in Taliparamba: Websites, Apps, SEO & AI",
     description:
-      "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Taliparamba spice traders, hospitals, colleges, temple-town lodges and textile units.",
+      "Malayalam websites, apps, local SEO and WhatsApp tools for Taliparamba spice traders, hospitals, colleges, temple-town lodges and textile units. From ₹10,000.",
     keywords: [
       "IT services in Taliparamba",
       "IT services team in Taliparamba",
@@ -29,6 +29,12 @@ const taliparamba: CityContent = {
       "Parassinikadavu lodge website",
       "Taliparamba me website banwana",
       "Taliparambil website undakkan",
+      "Taliparamba website designer",
+      "web development company Taliparamba",
+      "hire freelance web developer Taliparamba",
+      "Kannur district SEO",
+      "website designer Kannur district",
+      "Kerala SEO services",
     ],
   },
   hero: {

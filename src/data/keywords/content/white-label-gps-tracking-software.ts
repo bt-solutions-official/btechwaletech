@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "how to start gps tracking business", "gps tracking software source code", "white label gps tracking software Delhi", "gps tracking software Ahmedabad",
       "gps tracking software Hyderabad", "branded gps tracking android app", "gps tracking subscription billing software", "white label gps software kaise banaye",
       "traccar white label customisation", "gps tracking platform for distributors",
+      "White label GPS tracking software company", "best White label GPS tracking software in India", "White label GPS tracking software cost in India", "White label GPS tracking software near me",
     ],
   },
   hero: {
@@ -60,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Device support", value: "Any tracker with a documented protocol; common Chinese and European protocols first" },
       { label: "Hosting", value: "Your cloud account; server size planned from your device count" },
       { label: "Payments to us", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month if you want it` },
+      { label: "Support", value: `2 months free, then from ${P.care} if you want it` },
     ],
   },
   services: {
@@ -121,7 +122,7 @@ const content: FreelanceContent = {
       heading: "Should a dealer rent a white label GPS panel or own the software?",
       paragraphs: [
         `Rent while you are small, own once renewals become your main income. A rented white label panel is quick: you get a subdomain and a logo slot, and you can start selling next week. The trade-off is that you pay per device for as long as the device lives, the provider decides which tracker models work, and your customer list sits on someone else's server.`,
-        `The switch point is different for every dealer, so do the arithmetic with your own numbers. Take your active device count, multiply by what the panel charges per device per year, and look at that figure over three years. Then compare it with a one-time build from ${P.software}, plus apps from ${P.app}, plus your own hosting and optional support from ${P.care} a month after the free period. The second path usually wins once a dealer has a steady base and is still adding devices each month.`,
+        `The switch point is different for every dealer, so do the arithmetic with your own numbers. Take your active device count, multiply by what the panel charges per device per year, and look at that figure over three years. Then compare it with a one-time build from ${P.software}, plus apps from ${P.app}, plus your own hosting and optional support from ${P.care} after the free period. The second path usually wins once a dealer has a steady base and is still adding devices each month.`,
         `Money is not the only reason to own. Dealers tell us the pain points that push them: a provider that will not support a cheaper tracker model they want to stock, a panel that went down during a customer demo, sub-dealers who could see each other's customers, or no way to show a GST invoice inside the panel. Each of these is a design choice in software you own.`,
       ],
       after: [
@@ -228,7 +229,7 @@ const content: FreelanceContent = {
         "<strong>Apps:</strong> customer app only, or customer plus dealer plus driver apps.",
       ],
       after: [
-        `Running costs are paid by you to each provider: cloud server, SMS and WhatsApp messages, SIM data plans, map API usage above free limits, and store developer fees. After two free months of maintenance, support from ${P.care} a month is optional. Every item appears on its own line in the quote, which arrives in about two working days. For app-side pricing on its own, see <a href='/app-development-cost-in-india/'>app development cost in India</a>.`,
+        `Running costs are paid by you to each provider: cloud server, SMS and WhatsApp messages, SIM data plans, map API usage above free limits, and store developer fees. After two free months of maintenance, support from ${P.care} is optional. Every item appears on its own line in the quote, which arrives in about two working days. For app-side pricing on its own, see <a href='/app-development-cost-in-india/'>app development cost in India</a>.`,
       ],
     },
     {
@@ -333,7 +334,7 @@ const content: FreelanceContent = {
         ["Extra protocol family", "Decoder, sensor mapping and testing on your sample device", "Quoted per model", "Days to 2 weeks"],
         ["Migration", "Customer import, IMEI batches, SMS commands, cut-over plan", "Quoted by device count", "1–3 weeks"],
         ["Dealer website", "Brand site with product and city pages", `${P.site}`, "1–2 weeks"],
-        ["Ongoing support", "Updates, monitoring, new tracker models", `${P.care} a month, after 2 free months`, "Monthly"],
+        ["Ongoing support", "Updates, monitoring, new tracker models", `${P.care}, after 2 free months`, "Monthly"],
       ],
       hideSm: [3],
     },
@@ -421,7 +422,7 @@ const content: FreelanceContent = {
     { question: "Can the platform send alerts on WhatsApp?", answer: "Yes, through the official WhatsApp Business Platform using approved templates for overspeed, geofence, power cut and renewal reminders. Meta charges per delivered template message, billed to your own account. App push notifications cost nothing per message and suit frequent alerts, so most dealers use push for events and WhatsApp for renewals." },
     { question: "Can you add fuel sensor and temperature reports?", answer: "Yes. Fuel and temperature sensors send extra values in the same packets as location. Fuel needs calibration against each tank's table so that fills and drains show in litres rather than raw readings. Temperature logs suit cold chain and pharma vans. Each sensor type is listed as its own item in the quote." },
     { question: "Why hire a freelance team instead of a large software vendor?", answer: "You talk directly to the three people writing the code, the quote is itemised, and the platform is yours rather than rented. The limit is size: we are not the right choice if you need a 20-person team on-site or hardware manufacturing. For a dealer building an own-brand tracking business, a small focused team is usually enough." },
-    { question: "What happens after launch if a decoder breaks or a new tracker arrives?", answer: `The first two months of maintenance after launch are free and cover fixes, small changes and new tracker models of similar effort. After that, support starts from ${P.care} a month if you want it, or your own developer can take over with the documentation we hand over. There is no lock-in to our support.` },
+    { question: "What happens after launch if a decoder breaks or a new tracker arrives?", answer: `The first two months of maintenance after launch are free and cover fixes, small changes and new tracker models of similar effort. After that, support starts from ${P.care} if you want it, or your own developer can take over with the documentation we hand over. There is no lock-in to our support.` },
     { question: "Is location data covered by India's data protection law?", answer: "Vehicle location linked to a person is personal data under the Digital Personal Data Protection Act, 2023. As the platform owner you decide its purposes and must meet the Act's duties. The build supports you with role-based access, encryption, audit logs, retention settings and a privacy notice. Your own lawyer should confirm the notice and consent wording." },
     { question: "How do I pay, and is there an NDA?", answer: "Payments in India are by UPI or bank transfer against milestones in your written quote; international clients pay in USD by Wise, wire or PayPal. Nothing is billed before you approve the quote in writing. If you need an NDA or specific contract terms, ask us and they are agreed in writing before work starts." },
     { question: "White label GPS software banwane mein kitna kharcha aata hai?", answer: `Custom web platform ${P.software} se shuru hota hai aur branded Android plus iOS app ${P.app} se. Final kharcha is par depend karta hai ki kitne tracker models chahiye, dealer levels kitne hain aur billing kitni andar chahiye. Server, SIM aur WhatsApp messages ka kharcha aap seedha provider ko dete hain. Quote lagbhag do working days mein aata hai.` },

@@ -7,7 +7,7 @@ const guntakal: CityContent = {
   meta: {
     title: "Guntakal Websites, SEO and WhatsApp Automation",
     description:
-      "Website design, local SEO and WhatsApp automation for Guntakal shops, clinics, schools, lodges and railway-side suppliers. Sites from ₹10,000, remote team.",
+      "Guntakal website design, local SEO and WhatsApp automation for shops, clinics, schools, lodges and railway-side suppliers. Sites from ₹10,000, remote team.",
     keywords: [
       "website development team in Guntakal",
       "website designer Guntakal",
@@ -25,6 +25,14 @@ const guntakal: CityContent = {
       "website maintenance Guntakal",
       "Guntakal lo website design",
       "గుంతకల్ వెబ్‌సైట్",
+      "Guntakal website designer",
+      "website cost in Guntakal",
+      "web development company Guntakal",
+      "hire freelance developer Guntakal",
+      "Andhra Pradesh SEO",
+      "website for railway contractors and suppliers in Guntakal",
+      "web designer in Old Guntakal, Guntakal",
+      "website for lodges and hotels in Guntakal",
     ],
   },
   hero: {

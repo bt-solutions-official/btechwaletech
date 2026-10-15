@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 10.8505, lng: 76.2711 },
   meta: {
-    title: "Freelance IT Services in Kerala: Software, AI & Apps",
+    title: "Kerala IT Services: Software, AI & Apps",
     description:
       "Freelance IT services across Kerala, a lean alternative to a software development team in Kerala: custom software, AI, apps, SEO. Websites from ₹10,000.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "കേരളത്തിലെ ഐടി സേവനങ്ങൾ",
       "സോഫ്റ്റ്‌വെയർ ഡെവലപ്പർ കേരളം",
       "Kerala mein IT services",
+      "Kerala website designer",
+      "website cost in Kerala",
+      "IT company in Kerala",
+      "Kerala SEO services",
+      "hire developer Kerala",
+      "tourism software in Kerala",
+      "healthcare software in Kerala",
     ],
   },
   hero: {

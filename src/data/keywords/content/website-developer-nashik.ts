@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "Ambad MIDC website developer", "Satpur MIDC website", "winery website Nashik", "grape exporter website Nashik",
       "hotel website Nashik Kumbh", "Trimbakeshwar hotel website", "website developer College Road Nashik", "website developer Gangapur Road",
       "website developer Nashik Road", "ecommerce website Nashik", "Nashik mein website kaise banwaye", "website banwana hai Nashik",
+      "website developer in Nashik cost", "website developer in Nashik price", "hire website developer in Nashik", "freelance website developer in Nashik",
+      "website developer in Nashik charges",
     ],
   },
   hero: {

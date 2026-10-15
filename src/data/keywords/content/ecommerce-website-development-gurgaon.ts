@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Checkout", value: "UPI, cards, wallets and cash on delivery through your provider" },
       { label: "Invoices and tax", value: "GST fields and tax split built in; your CA confirms rates" },
       { label: "Timeline", value: "4–8 weeks, including test orders" },
-      { label: "After launch", value: `2 months free, then optional care from ${P.care} a month` },
+      { label: "After launch", value: `2 months free, then optional care from ${P.care}` },
     ],
   },
   services: {
@@ -293,7 +293,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `In ecommerce website development in Gurgaon, store SEO starts in the build. Each product and category gets its own URL, title and description, plus product structured data so Google can show price, availability and ratings. We connect Google Search Console and, if you want free product listings and Shopping ads later, Google Merchant Center with a product feed. Nobody can guarantee rankings; the job is to remove every technical reason not to rank.`,
         `Category pages deserve real content: a short guide to choosing within that category, written for buyers rather than for search engines. AI assistants such as ChatGPT and Google's AI Overviews increasingly answer shopping questions, and they tend to quote stores that state clear, specific facts such as materials, sizes, delivery times and return terms.`,
-        `Local buyers matter too. A Gurgaon bakery or boutique that delivers within the city should have a Google Business Profile linked to the store, delivery areas named on the site, and pages for local occasions. Ongoing ecommerce SEO starts at ${P.seo} a month; see <a href='/ecommerce-seo-freelancer/'>ecommerce SEO freelancer</a> for what that work involves.`,
+        `Local buyers matter too. A Gurgaon bakery or boutique that delivers within the city should have a Google Business Profile linked to the store, delivery areas named on the site, and pages for local occasions. Ongoing ecommerce SEO starts at ${P.seo}; see <a href='/ecommerce-seo-freelancer/'>ecommerce SEO freelancer</a> for what that work involves.`,
       ],
     },
     {
@@ -328,7 +328,7 @@ const content: FreelanceContent = {
       heading: "After launch: sale seasons, two free months and ongoing care",
       paragraphs: [
         `Every store we launch gets two months of maintenance free: bug fixes, small changes, tested app and plugin updates, backups and checkout monitoring. The first weeks of real orders always reveal something, perhaps a confusing shipping message or a variant set up wrongly, and that is exactly when free fixes help most.`,
-        `From the third month, care is optional and starts at ${P.care} a month, covering updates tested on staging, uptime and payment monitoring, backups and a monthly allowance of changes such as new collections or offer banners.`,
+        `From the third month, care is optional and starts at ${P.care}, covering updates tested on staging, uptime and payment monitoring, backups and a monthly allowance of changes such as new collections or offer banners.`,
         `Sale seasons need planning. Before Diwali, Rakhi or an end-of-season sale, tell us about three weeks ahead: we hold back risky updates, load offers in advance, check stock sync and retest checkout with the new discounts applied. Afterwards, abandoned carts and return reasons usually point to the next improvement. More on care plans: <a href='/website-maintenance-freelancer/'>website maintenance by a freelancer</a>.`,
       ],
     },
@@ -363,8 +363,8 @@ const content: FreelanceContent = {
         ["WooCommerce store", "Sellers wanting control and no platform subscription", `From ${P.shop}`, "4–8 weeks"],
         ["B2B ordering portal", "Distributors, wholesalers, spares suppliers", `From ${P.software}`, "6–12 weeks"],
         ["Custom store", "Subscriptions, configurators, unusual pricing rules", `From ${P.software}`, "6–12 weeks"],
-        ["Store SEO after launch", "Stores growing search traffic", `From ${P.seo} a month`, "Ongoing"],
-        ["Care plan", "Any live store after the free period", `From ${P.care} a month`, "Ongoing"],
+        ["Store SEO after launch", "Stores growing search traffic", `From ${P.seo}`, "Ongoing"],
+        ["Care plan", "Any live store after the free period", `From ${P.care}`, "Ongoing"],
       ],
       hideSm: [1],
     },
@@ -452,7 +452,7 @@ const content: FreelanceContent = {
     { question: "Who owns the store, the customer data and the payment account?", answer: "You do. The platform or hosting account, domain, merchant account, courier account, Google accounts and customer list are in your business name from day one, and we work through access you can remove at any time. At handover you receive every login, a list of apps with their monthly charges, a product export and a walkthrough video." },
     { question: "Do you photograph products for the store?", answer: "No, we work remotely and do not run shoots. We send a shot list covering background, light, angles and scale, and many sellers get good results with a modern phone and a plain white sheet. For premium products, hiring a local product photographer is worth it. Either way, we crop, colour-check and compress the photos so pages stay quick." },
     { question: "Can my store be in Hindi as well as English?", answer: "Yes. Our team writes Hindi and English, so product descriptions, policies, checkout labels and order emails can be drafted in both. Each language gets its own URLs and a switcher that keeps the cart intact. For other languages, your translator supplies or approves the text and we build the pages, fonts and switcher around it, testing every step on phones." },
-    { question: "What support do I get during sale seasons?", answer: `During the two free months after launch, fixes and small changes are included. After that, optional care from ${P.care} a month covers tested updates, monitoring and a monthly allowance of changes. Before Diwali or a big sale, tell us about three weeks ahead so offers, banners and discount rules can be loaded and checkout retested before the traffic arrives.` },
+    { question: "What support do I get during sale seasons?", answer: `During the two free months after launch, fixes and small changes are included. After that, optional care from ${P.care} covers tested updates, monitoring and a monthly allowance of changes. Before Diwali or a big sale, tell us about three weeks ahead so offers, banners and discount rules can be loaded and checkout retested before the traffic arrives.` },
     { question: "Do you build online stores for sellers outside Gurgaon?", answer: "Yes. Sellers across the NCR, including Delhi, Noida, Faridabad and Manesar, and across India get the same remote process, starting prices and ownership terms, with shipping rules set for wherever their stock sits. Separate pages cover ecommerce website development in Delhi and Noida, and our national ecommerce page covers stores for sellers anywhere in the country." },
     { question: "Gurgaon se online store shuru karne mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Shopify ya WooCommerce store ${P.shop} se shuru hota hai, jismein catalogue, UPI, card aur COD checkout, shipping rules aur GST wale invoice shamil hain. Store aam taur par 4–8 hafte mein live hota hai. Platform, payment aur courier ke charges aap seedhe dete hain, account aapke naam par rehte hain, aur launch ke baad 2 mahine maintenance free hai.` },
   ],

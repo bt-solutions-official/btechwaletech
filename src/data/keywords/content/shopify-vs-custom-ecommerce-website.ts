@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Shopify vs custom ecommerce website",
   updated: "2026-09-25",
   meta: {
-    title: `Shopify vs Custom Ecommerce Website: When to Switch`,
+    title: `Shopify vs Custom Ecommerce Website: Cost to Switch`,
     description: `Shopify vs custom ecommerce website for Indian sellers: app fees, checkout limits, B2B and multi-vendor needs. Custom stores from ${P.shop}; when to move.`,
     keywords: [
       "shopify vs custom ecommerce website", "shopify vs custom website", "shopify or custom ecommerce website", "custom ecommerce website vs shopify India",

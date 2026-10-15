@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.4567, lng: 93.3281 },
   meta: {
-    title: "Freelance Software Developers in Champhai",
+    title: "Champhai Software Developers: Border Trade & Rice Milling",
     description:
-      "Freelance software developers for Champhai: trade and stock software, catalogues, Android and iOS apps, AI automation, tourism pages and SEO setup. From ₹10,000.",
+      "Freelance software developers for Champhai: trade and stock software, catalogues, Android and iOS apps, plus AI automation. From ₹10,000, quote in two days.",
     keywords: [
       "software development team in Champhai",
       "IT services team in Champhai",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "rice mill software Champhai valley",
       "Champhai-ah software siamtu",
       "Champhai mein software developer",
+      "Champhai website designer",
+      "website cost in Champhai",
+      "IT company in Champhai",
+      "Mizoram SEO services",
+      "hire developer Champhai",
+      "border trade software in Champhai",
+      "rice milling software in Champhai",
+      "grapes software in Champhai",
+      "wholesale software in Champhai",
+      "website developer Champhai Vengthlang Champhai",
     ],
   },
   hero: {

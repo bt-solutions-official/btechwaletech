@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Developer in Gorakhpur: Sites from ${P.site}`,
-    description: `Need a website developer in Gorakhpur? Three freelance developers build business sites from ${P.site} for hospitals, institutes and traders. Itemised quote in 2 days.`,
+    description: `Website developer in Gorakhpur: three freelancers build business sites from ${P.site} for hospitals, institutes and traders. Itemised quote in 2 days.`,
     keywords: [
       "website developer in Gorakhpur", "website developer Gorakhpur", "website developer near me Gorakhpur", "web developer in Gorakhpur",
       "website designer in Gorakhpur", "website development in Gorakhpur", "website development services Gorakhpur", "website design Gorakhpur", "freelance web developer Gorakhpur", "website cost Gorakhpur", "website banwane ka kharcha Gorakhpur",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "ecommerce website Gorakhpur", "website developer Golghar", "website developer Medical College Road Gorakhpur", "website developer Deoria",
       "website developer Kushinagar", "website developer Basti", "WordPress developer Gorakhpur", "SEO website Gorakhpur",
       "Gorakhpur me website kaise banaye", "eastern UP website developer",
+      "website developer in Gorakhpur cost", "website developer in Gorakhpur price", "hire website developer in Gorakhpur", "freelance website developer in Gorakhpur",
+      "best website developer in Gorakhpur", "website developer in Gorakhpur charges",
     ],
   },
   hero: {

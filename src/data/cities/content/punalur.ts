@@ -7,7 +7,7 @@ const punalur: CityContent = {
   meta: {
     title: "IT Services in Punalur: Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, Malayalam SEO and WhatsApp automation for Punalur plywood units, pepper traders, market wholesalers, Thenmala stays and clinics.",
+      "Websites, apps, Malayalam SEO and WhatsApp automation for Punalur plywood units, pepper traders, market wholesalers, Thenmala stays and clinics. From ₹10,000.",
     keywords: [
       "IT services in Punalur",
       "IT services team in Punalur",
@@ -29,6 +29,12 @@ const punalur: CityContent = {
       "Punalur me website banwana",
       "Punaluril website cheyyan",
       "പുനലൂർ വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Punalur website designer",
+      "web development company Punalur",
+      "hire freelance web developer Punalur",
+      "Kollam district SEO",
+      "website designer Kollam district",
+      "Kerala SEO services",
     ],
   },
   hero: {

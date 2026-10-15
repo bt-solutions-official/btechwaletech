@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "App store optimization services",
   updated: "2026-09-25",
   meta: {
-    title: `App Store Optimization Services from ${P.seo}/month`,
-    description: `App store optimization services for Google Play and the App Store: keywords, screenshots, preview video, reviews and Indian-language listings. From ${P.seo}/month.`,
+    title: `App Store Optimization Services from ${P.seo}`,
+    description: `App store optimization services for Google Play and the App Store: keywords, screenshots, video, reviews and Indian-language listings. From ${P.seo}.`,
     keywords: [
       "app store optimization services", "aso services", "app store optimization", "aso services india", "play store optimization",
       "google play aso", "app store aso services", "aso agency india", "aso expert", "aso freelancer",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "aso pricing per month", "app store keyword optimization", "hindi app store listing", "app localisation indian languages",
       "store listing experiments", "product page optimization app store", "ios app store optimization", "aso for flutter app",
       "play store par app kaise rank kare", "organic app installs india", "aso services bangalore",
+      "best app store optimization services in India",
     ],
   },
   hero: {
@@ -262,7 +263,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do app store optimization services cost in India?",
       paragraphs: [
-        `Our app store optimization services start at ${P.seo} per month for one app, one store and one language, and grow with the number of stores, languages and design work. Quotes in the market vary widely; the main differences are how much design and testing is included and whether anyone can fix the app itself.`,
+        `Our app store optimization services start at ${P.seo} for one app, one store and one language, and grow with the number of stores, languages and design work. Quotes in the market vary widely; the main differences are how much design and testing is included and whether anyone can fix the app itself.`,
         `What moves the monthly price:`,
       ],
       list: [
@@ -388,7 +389,7 @@ const content: FreelanceContent = {
       note: `All figures are starting prices; your quote depends on stores, languages and design work. USD: monthly ASO from ${P.seoUsd}, apps from ${P.appUsd}.`,
       columns: ["Scope", "Includes", "Starts at"],
       rows: [
-        ["Monthly ASO, one store", "Metadata, review replies, one test, monthly report", `${P.seo} per month`],
+        ["Monthly ASO, one store", "Metadata, review replies, one test, monthly report", `${P.seo}`],
         ["Monthly ASO, both stores", "Play and App Store listings managed together", "Quoted on scope"],
         ["Extra language", "Keyword research, localised text and screenshots", "Quoted per language"],
         ["App quality fixes", "Crash, ANR and review prompt changes in code", `Included in app care from ${P.care} after 2 free months`],

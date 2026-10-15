@@ -7,7 +7,7 @@ const ujjain: CityContent = {
   meta: {
     title: "Ujjain Websites & SEO for Temple-Town Businesses",
     description:
-      "Websites, local SEO, booking pages and WhatsApp automation for Ujjain hotels, puja services, batik sellers, shops and factories. From ₹10,000, 2 months free support.",
+      "Websites, local SEO, booking pages and WhatsApp tools for Ujjain hotels, puja services, batik sellers, shops and factories. Sites from ₹10,000.",
     keywords: [
       "website development team in Ujjain",
       "website designer Ujjain",
@@ -24,6 +24,17 @@ const ujjain: CityContent = {
       "website maintenance Ujjain",
       "Ujjain me website banwana",
       "उज्जैन वेबसाइट डिजाइन",
+      "website cost in Ujjain",
+      "web development company Ujjain",
+      "hire freelance web developer Ujjain",
+      "Madhya Pradesh SEO services",
+      "Ujjain me website kaise banwaye",
+      "Ujjain website banwane ka kharcha",
+      "Ujjain batik printers website",
+      "batik printers website design Ujjain",
+      "Ujjain manufacturers website",
+      "manufacturers website design Ujjain",
+      "website design Freeganj Ujjain",
     ],
   },
   hero: {

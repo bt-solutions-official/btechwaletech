@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Dairy management software",
   updated: "2026-09-25",
   meta: {
-    title: `Dairy Management Software for Milk Collection`,
-    description: `Dairy management software for milk collection centres and co-operatives: fat/SNF rate charts, analyser and scale links, farmer ledger, SMS slips. From ${P.software}.`,
+    title: `Dairy Management Software: Milk Collection, ${P.software}+`,
+    description: `Dairy management software for milk collection centres and unions: fat/SNF rate charts, analyser and scale links, farmer ledger, SMS slips. From ${P.software}.`,
     keywords: [
       "dairy management software", "milk collection software", "milk collection centre software", "dairy cooperative software",
       "dairy society software", "fat snf rate chart software", "milk analyser software", "automatic milk collection software",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "dairy software for private dairy", "doodh dairy software", "milk collection centre app", "dairy management software developer",
       "custom dairy software", "how to manage milk collection centre", "dairy software gujarat", "dairy software maharashtra",
       "milk society software punjab", "dairy ledger software",
+      "dairy management software company in India",
+      "best dairy management software in India",
+      "dairy management software services",
     ],
   },
   hero: {
@@ -241,7 +244,7 @@ const content: FreelanceContent = {
         `Custom dairy system: from ${P.software}`,
         `Farmer passbook or collection app: from ${P.app}`,
         `WhatsApp or AI farmer query assistant: from ${P.ai}`,
-        `Maintenance after two free months: from ${P.care} per month`,
+        `Maintenance after two free months: from ${P.care}`,
       ],
     },
     {
@@ -275,7 +278,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The dairy or society owns all data in the dairy management software we build: farmer records, bank details, collection history and payments. The system runs in a cloud account in your name, and the source code is handed over at launch.`,
         `Farmer bank account numbers and phone numbers are personal data. India’s Digital Personal Data Protection Act, 2023 expects organisations to state why they collect personal data, obtain consent, protect it with reasonable security safeguards and report breaches to the Data Protection Board and the people affected. We support that with role-based access, so a centre operator sees only their centre’s farmers and never bank details, along with encrypted connections, backups and an audit log.`,
-        `Your legal adviser should approve the notice given to farmers. After launch, two months of free maintenance cover fixes and small changes, and care plans then start from ${P.care} a month, on terms set out in your written quote.`,
+        `Your legal adviser should approve the notice given to farmers. After launch, two months of free maintenance cover fixes and small changes, and care plans then start from ${P.care}, on terms set out in your written quote.`,
       ],
     },
     {
@@ -411,7 +414,7 @@ const content: FreelanceContent = {
     { question: "Is farmer bank and phone data kept secure?", answer: "Yes. Operators see only their own centre’s farmers and never bank details; payment files are generated only by head-office users. Connections are encrypted, backups run daily and every change is logged. India’s Digital Personal Data Protection Act, 2023 expects reasonable security safeguards, and your own lawyer should approve the notice you give farmers." },
     { question: "Can the software track feed and supplies sold at the centre?", answer: "Yes. Cattle feed, mineral mixture and other supplies can be sold at the centre on credit, with stock tracked per centre. The amount is deducted from the farmer’s next payment automatically and shown on their statement. Stock reports show what each centre received, sold and has left." },
     { question: "Should we hire a freelancer or a large vendor for dairy software?", answer: "Choose whoever understands analyser integration, rate charts and farmer ledgers, and gives you ownership. A small freelance team means you speak directly to the developers, in Hindi or English. We work remotely and do not visit centres or handle hardware, so if you need on-site installation, pair us with your equipment supplier." },
-    { question: "What support is available after launch?", answer: `Two months of free maintenance follow go-live, covering bug fixes, driver updates for your existing machines and small changes. After that, plans start from ${P.care} a month, and new modules such as additional analyser models are quoted separately. Support runs over WhatsApp, calls and screen sharing, seven days a week.` },
+    { question: "What support is available after launch?", answer: `Two months of free maintenance follow go-live, covering bug fixes, driver updates for your existing machines and small changes. After that, plans start from ${P.care}, and new modules such as additional analyser models are quoted separately. Support runs over WhatsApp, calls and screen sharing, seven days a week.` },
     { question: "How do we pay for the software project?", answer: "Payments follow milestones listed in your approved quote, by UPI or bank transfer within India, or in USD by Wise, bank wire or PayPal from abroad. Nothing is billed before you approve the itemised quote in writing, and each milestone corresponds to something you can test, such as the pilot centre going live." },
     { question: "Dairy ke liye milk collection software kaise banwayein?", answer: `WhatsApp par centres ki sankhya, analyser aur weighing scale ka make-model, fat/SNF rate chart aur payment cycle ki jaankari bhejiye. Hum do working days mein itemised quote denge. Custom dairy software ${P.software} se shuru hota hai, jisme auto reading, farmer ledger aur SMS slip shaamil hain. Code aur data aapke naam par rehte hain.` },
   ],

@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 12.9716, lng: 77.5946 },
   meta: {
-    title: "Freelance Software Developers in Bengaluru",
+    title: "Bengaluru Software Developers: SaaS & Manufacturing",
     description:
       "Freelance software developers for Bengaluru, a lean alternative to a software development team in Bengaluru: web apps, AI agents, dashboards. From ₹60,000.",
     keywords: [
@@ -31,6 +31,14 @@ const content: CityContent = {
       "freelance software developers Bengaluru",
       "ಬೆಂಗಳೂರಿನಲ್ಲಿ ಸಾಫ್ಟ್‌ವೇರ್ ಕಂಪನಿ",
       "Bangalore mein software banane wali company",
+      "Bengaluru website designer",
+      "website cost in Bengaluru",
+      "IT company in Bengaluru",
+      "Karnataka SEO services",
+      "hire developer Bengaluru",
+      "saas software in Bengaluru",
+      "manufacturing software in Bengaluru",
+      "real estate software in Bengaluru",
     ],
   },
   hero: {

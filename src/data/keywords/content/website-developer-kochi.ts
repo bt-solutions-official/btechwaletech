@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Developer in Kochi: Sites from ${P.site}`,
-    description: `Website developer in Kochi for exporters, homestays, clinics and shops: business sites from ${P.site}, built remotely with a staging link. Itemised quote in 2 days.`,
+    description: `Website developer in Kochi for exporters, homestays, clinics and shops: business sites from ${P.site} on a staging link. Itemised quote in 2 days.`,
     keywords: [
       "website developer in Kochi", "website developer Kochi", "website developer near me Kochi", "web developer in Kochi",
       "website developer in Cochin", "website developer Ernakulam", "freelance website developer Kochi", "website designer in Kochi",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "Malayalam website developer", "bilingual Malayalam English website", "website developer Kakkanad", "website developer Edappally",
       "website developer Aluva", "website developer Palarivattom", "business website Kochi", "ecommerce website Kochi",
       "website banwana hai Kochi", "Kochi me website kaise banwaye", "best website developer in Kochi",
+      "website developer in Kochi cost", "website developer in Kochi price", "hire website developer in Kochi", "freelance website developer in Kochi",
+      "website developer in Kochi charges",
     ],
   },
   hero: {

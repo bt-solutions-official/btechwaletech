@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Website maintenance freelancer",
   updated: "2026-09-24",
   meta: {
-    title: "Website Maintenance Freelancer: Updates and Backups",
-    description: `Website maintenance freelancer in India for updates, backups, uptime checks and fixes. Plans from ${P.care}; 2 months free after we build. See what is covered.`,
+    title: `Website Maintenance Freelancer: Plans from ${P.care}`,
+    description: `Website maintenance freelancer in India for updates, backups, uptime checks and fixes. Plans from ${P.care}; 2 months free on sites we build ourselves.`,
     keywords: [
       "website maintenance freelancer", "website maintenance freelancer in India", "website maintenance freelancer near me", "website maintenance services",
       "website maintenance cost", "website maintenance charges per month", "best website maintenance freelancer", "website maintenance wala chahiye",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "WordPress maintenance freelancer", "website support freelancer", "website update freelancer", "website backup service",
       "website uptime monitoring", "annual website maintenance contract", "AMC for website", "website care plan India",
       "website maintenance for small business", "website maintenance package India",
+      "hire website maintenance freelancer", "freelance website maintenance freelancer", "website maintenance freelancer cost", "best website maintenance freelancer in India",
+      "website maintenance freelancer price", "website maintenance freelancer charges",
     ],
   },
   hero: {

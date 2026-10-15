@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "ramadan eid perfume sale website", "ship perfume gcc", "perfume ecommerce website abu dhabi", "perfume ecommerce website sharjah",
       "arabic english perfume store", "fragrance brand website developer", "perfume store developer near me", "perfume ecommerce website for oud brand",
       "perfume ecommerce seo", "perfume website developers india",
+      "hire perfume ecommerce website in the UAE", "freelance perfume ecommerce website UAE",
     ],
   },
   hero: {

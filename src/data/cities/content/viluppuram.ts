@@ -7,7 +7,7 @@ const viluppuram: CityContent = {
   meta: {
     title: "Web Design & SEO in Viluppuram | Sites from ₹10,000",
     description:
-      "Websites, Tamil and English SEO, online stores and WhatsApp automation for Viluppuram, Tindivanam and Gingee businesses. Static sites start at ₹10,000.",
+      "Websites, online stores and WhatsApp tools for Viluppuram, Tindivanam and Gingee businesses. Websites from ₹10,000, and the code stays yours.",
     keywords: [
       "website development team in Viluppuram",
       "web design Villupuram",
@@ -25,6 +25,16 @@ const viluppuram: CityContent = {
       "hospital website Villupuram",
       "website maintenance Viluppuram",
       "Villupuram la website design",
+      "web development company Viluppuram",
+      "hire freelance web developer Viluppuram",
+      "Tamil Nadu SEO services",
+      "website design Railway junction area Viluppuram",
+      "website design Kakuppam Viluppuram",
+      "website design Valavanur Viluppuram",
+      "website design price in Viluppuram",
+      "app development company Viluppuram",
+      "ecommerce website Viluppuram",
+      "Viluppuram SEO company",
     ],
   },
   hero: {

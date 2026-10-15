@@ -7,7 +7,7 @@ const wani: CityContent = {
   meta: {
     title: "IT Services in Wani | Web, Apps & AI from ₹10,000",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Wani coal-belt contractors, cotton ginners, MIDC units, colleges, clinics and shops.",
+      "Marathi websites, apps, local SEO and WhatsApp tools for Wani coal-belt contractors, cotton ginners, MIDC units, colleges, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Wani",
       "IT services team in Wani",
@@ -29,6 +29,12 @@ const wani: CityContent = {
       "Wani me website banwana",
       "Wani madhe website banvaychi",
       "वणी वेबसाइट डिझाइन",
+      "Wani website designer",
+      "web development company Wani",
+      "hire freelance web developer Wani",
+      "Yavatmal district SEO",
+      "website designer Yavatmal district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

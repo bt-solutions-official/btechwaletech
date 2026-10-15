@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "WhatsApp automation Surat", "WhatsApp automation Hyderabad", "WhatsApp Business API automation", "WhatsApp broadcast automation",
       "WhatsApp order update automation", "WhatsApp CRM integration", "WhatsApp Google Sheets integration", "WhatsApp Cloud API developer",
       "automated WhatsApp messages for business", "WhatsApp template message setup", "WhatsApp marketing automation freelancer", "WhatsApp notification integration",
+      "hire WhatsApp automation expert", "freelance WhatsApp automation expert", "WhatsApp automation expert cost", "best WhatsApp automation expert in India",
+      "WhatsApp automation expert price", "WhatsApp automation expert charges",
     ],
   },
   hero: {

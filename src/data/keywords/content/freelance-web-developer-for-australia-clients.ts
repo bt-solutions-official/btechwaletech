@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Freelance web developer for Australia clients",
   updated: "2026-09-24",
   meta: {
-    title: "Freelance Web Developer for Australia Clients",
+    title: `Freelance Web Developer for Australia Clients: ${P.siteUsd}+`,
     description: `Freelance web developer for Australia clients, working from India: afternoon overlap, USD or AUD billing, Privacy Act-aware builds. Sites from ${P.siteUsd}.`,
     keywords: [
       "freelance web developer for Australia clients", "freelance web developer Australia", "offshore web developer for Australian business", "web developer India for Australian clients",
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
     { question: "What happens if something breaks on our site at night in Australia?", answer: "Uptime checks alert us, and many issues can be handled at the start of our day, which is early afternoon for you. We do not offer round-the-clock on-call cover. For sites where every minute of downtime is costly, we design for resilience, with backups, monitoring and simple rollbacks." },
     { question: "How do we know the developer is legitimate before paying?", answer: "Check live sites they have built, request an itemised quote from a written brief, hold a video call in your afternoon, and start with a small paid milestone such as the home page design. Pay in stages tied to visible work, and keep the domain, hosting and code accounts in your own name from the first day." },
     { question: "Who owns the website and code?", answer: "You do. Domain, hosting, repository and any app store accounts are set up in your name from the start, with us invited as users. At launch you receive the full source code, logins and a list of paid services with renewal dates, so you can switch to anyone, including a local developer, later." },
-    { question: "Can you help with local SEO in Australian cities?", answer: `Yes. We set up titles, schema, Search Console and suburb or service pages with genuinely distinct content, and align your Google Business Profile with the site. Ongoing SEO starts at ${P.seoUsd} a month with honest Search Console reporting. Nobody can guarantee rankings, and we do not promise them.` },
+    { question: "Can you help with local SEO in Australian cities?", answer: `Yes. We set up titles, schema, Search Console and suburb or service pages with genuinely distinct content, and align your Google Business Profile with the site. Ongoing SEO starts at ${P.seoUsd} with honest Search Console reporting. Nobody can guarantee rankings, and we do not promise them.` },
     { question: "Do you also work with New Zealand clients?", answer: "Yes. New Zealand is further ahead of India than eastern Australia, so our morning meets your mid-to-late afternoon. Billing, process and ownership work the same way, with payment through Wise, bank wire or PayPal. Local rules differ, for example New Zealand has its own Privacy Act 2020, so the pre-launch checklist changes accordingly." },
     { question: "Is a freelance team in India cheaper than a local Australian freelancer?", answer: "Usually, because costs of living differ, though quotes vary widely in both countries. Compare scope, communication, ownership terms and support rather than the headline figure alone. The trade-off for a lower price is no face-to-face meetings and a cross-border agreement, which the controls on this page are designed to manage." },
   ],

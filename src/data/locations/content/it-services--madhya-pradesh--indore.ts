@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 22.7196, lng: 75.8577 },
   meta: {
-    title: "Freelance Software Developers in Indore: Apps & AI",
+    title: "Indore Software Developers: Apps & AI",
     description:
-      "Hire freelance software developers for Indore: custom web apps, SaaS MVPs, mobile apps, AI agents, dashboards and SEO. Mobile apps from ₹40,000, quote in 2 days.",
+      "Hire freelance software developers for Indore: custom web apps, SaaS MVPs, mobile apps and AI agents. Mobile apps from ₹40,000, quote in 2 days.",
     keywords: [
       "software development team in Indore",
       "IT services team in Indore",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "mobile app developers Indore",
       "iOS app development Indore",
       "iPhone app developers Indore",
+      "Indore website designer",
+      "website cost in Indore",
+      "IT company in Indore",
+      "Madhya Pradesh SEO services",
+      "hire developer Indore",
+      "saas software in Indore",
+      "fmcg software in Indore",
     ],
   },
   hero: {

@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "pdpa chatbot data retention", "ai customer service chatbot singapore", "knowledge base chatbot", "ai chatbot near me singapore",
       "chatbot for hr policies", "ai chatbot raffles place", "ai chatbot one-north", "ai chatbot jurong east", "how to build an ai chatbot for my business",
       "is a chatbot worth it for small business",
+      "hire ai chatbot development in Singapore", "freelance ai chatbot development Singapore",
     ],
   },
   hero: {

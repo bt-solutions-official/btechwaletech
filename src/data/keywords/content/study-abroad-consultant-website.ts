@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "how to get study abroad leads", "counselling booking website for students", "study abroad consultant website Hyderabad", "study abroad consultant website Pune",
       "study abroad consultant website near me", "study abroad website template vs custom", "videsh padhai consultant website", "education fair lead capture page",
       "study abroad consultancy SEO",
+      "study abroad consultant website price", "study abroad consultant website company", "best study abroad consultant website in India", "study abroad consultant website cost in India",
     ],
   },
   hero: {

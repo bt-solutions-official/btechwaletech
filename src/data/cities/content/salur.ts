@@ -7,7 +7,7 @@ const salur: CityContent = {
   meta: {
     title: "IT Services in Salur | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Salur traders, agency-area suppliers, clinics, schools and farm dealers.",
+      "Telugu websites, apps, Maps SEO and WhatsApp automation for Salur traders, agency-area suppliers, clinics, schools and farm dealers. From ₹10,000.",
     keywords: [
       "IT services in Salur",
       "IT services team in Salur",
@@ -29,6 +29,12 @@ const salur: CityContent = {
       "Salur lo website cheyinchukovali",
       "సాలూరు వెబ్‌సైట్ డిజైన్",
       "Salur app development Telugu",
+      "Salur website designer",
+      "web development company Salur",
+      "hire freelance web developer Salur",
+      "Parvathipuram Manyam district SEO",
+      "Andhra Pradesh SEO services",
+      "Salur me website kaise banwaye",
     ],
   },
   hero: {

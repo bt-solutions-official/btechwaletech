@@ -7,7 +7,7 @@ const ratlam: CityContent = {
   meta: {
     title: "IT Services in Ratlam: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, UPI stores and WhatsApp automation for Ratlam namkeen makers, jewellers, saree sellers and traders. Published prices and 2 months free care.",
+      "Websites, local SEO, UPI stores and WhatsApp automation for Ratlam namkeen makers, jewellers, saree sellers and traders. Sites from ₹10,000.",
     keywords: [
       "website development team in Ratlam",
       "web designer Ratlam",
@@ -25,6 +25,16 @@ const ratlam: CityContent = {
       "website maintenance Ratlam",
       "Ratlam me website kaise banwaye",
       "रतलाम वेबसाइट डिज़ाइन",
+      "Ratlam website designer",
+      "web development company Ratlam",
+      "hire freelance web developer Ratlam",
+      "Madhya Pradesh SEO services",
+      "Ratlam website banwane ka kharcha",
+      "website design Do Batti Ratlam",
+      "website design Station Road Ratlam",
+      "website design Kasturba Nagar Ratlam",
+      "website design Dongre Nagar Ratlam",
+      "website design price in Ratlam",
     ],
   },
   hero: {

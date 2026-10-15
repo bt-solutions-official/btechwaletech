@@ -7,7 +7,7 @@ const chirkunda: CityContent = {
   meta: {
     title: "IT Services in Chirkunda: Websites, Apps, SEO & AI",
     description:
-      "Hindi and Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Chirkunda traders, refractory units, coal-belt contractors and schools.",
+      "Chirkunda Hindi and Bengali websites, mobile apps, local SEO and WhatsApp bots for traders, refractory units, coal-belt contractors and schools. From ₹10,000.",
     keywords: [
       "IT services in Chirkunda",
       "IT services team in Chirkunda",
@@ -29,6 +29,10 @@ const chirkunda: CityContent = {
       "Chirkunda me app banwana",
       "website design Barakar Chirkunda",
       "Chirkunda website banano",
+      "Chirkunda website designer",
+      "web development company Chirkunda",
+      "hire freelance developer Chirkunda",
+      "Jharkhand SEO",
     ],
   },
   hero: {

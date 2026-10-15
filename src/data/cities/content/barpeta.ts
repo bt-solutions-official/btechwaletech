@@ -7,7 +7,7 @@ const barpeta: CityContent = {
   meta: {
     title: "IT Services in Barpeta | Web, Apps & AI from ₹10,000",
     description:
-      "Assamese and Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Barpeta jewellers, satra committees, clinics, colleges and traders.",
+      "Barpeta Assamese and Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for jewellers, satra committees, clinics, colleges and traders.",
     keywords: [
       "IT services in Barpeta",
       "IT services team in Barpeta",
@@ -29,6 +29,10 @@ const barpeta: CityContent = {
       "Barpeta me website banwana",
       "Barpetat website bonabo",
       "বৰপেটা ৱেবছাইট ডিজাইন",
+      "Barpeta website designer",
+      "web development company Barpeta",
+      "hire freelance developer Barpeta",
+      "Lower Assam SEO",
     ],
   },
   hero: {

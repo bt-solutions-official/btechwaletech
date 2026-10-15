@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Shopify Plus Developer (US): Functions, B2B, Markets`,
-    description: `Shopify Plus developer for US DTC brands: checkout extensions, Functions, B2B, Markets and Magento migrations. Store work from ${P.shop}, custom apps from ${P.software}.`,
+    description: `Shopify Plus developer for US DTC brands: checkout extensions, Functions, B2B, Markets and Magento migrations. Stores from ${P.shop}, custom apps from ${P.software}.`,
     keywords: [
       "shopify plus developer", "hire shopify plus developer", "shopify plus developer usa", "shopify plus experts",
       "shopify plus development services", "shopify functions developer", "checkout extensibility developer",

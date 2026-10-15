@@ -7,7 +7,7 @@ const mandla: CityContent = {
   meta: {
     title: "IT Services in Mandla | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Mandla Kanha resorts, Maneri units, traders, colleges, clinics and Narmada visitors.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Mandla Kanha resorts, Maneri units, traders, colleges, clinics and Narmada visitors. From ₹10,000.",
     keywords: [
       "IT services in Mandla",
       "IT services team in Mandla",
@@ -29,6 +29,12 @@ const mandla: CityContent = {
       "Mandla me website banwana",
       "Mandla mein app banwana",
       "मंडला वेबसाइट डिजाइन",
+      "Mandla website designer",
+      "web development company Mandla",
+      "hire freelance web developer Mandla",
+      "Mandla district SEO",
+      "website designer Mandla district",
+      "Madhya Pradesh SEO services",
     ],
   },
   hero: {

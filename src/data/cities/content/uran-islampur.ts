@@ -7,7 +7,7 @@ const uranIslampur: CityContent = {
   meta: {
     title: "IT Services in Uran Islampur: Web, Apps, SEO & AI",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Islampur (Ishwarpur) sugar, dairy, grape, college and clinic firms in Walwa taluka.",
+      "Marathi websites, apps, local SEO and WhatsApp tools for Islampur (Ishwarpur) sugar, dairy, grape, college and clinic firms in Walwa taluka. From ₹10,000.",
     keywords: [
       "IT services in Uran Islampur",
       "IT services team in Islampur",
@@ -29,6 +29,12 @@ const uranIslampur: CityContent = {
       "Islampur me website banwana",
       "Islampur madhe website banvaychi",
       "इस्लामपूर वेबसाईट डिझाईन",
+      "Uran Islampur website designer",
+      "website cost in Uran Islampur",
+      "web development company Uran Islampur",
+      "hire freelance web developer Uran Islampur",
+      "Walwa taluka SEO services",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

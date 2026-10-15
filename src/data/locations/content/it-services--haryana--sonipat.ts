@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.9931, lng: 77.0151 },
   meta: {
-    title: "Freelance Software Developers in Sonipat",
+    title: "Sonipat Software Developers: Footwear & Auto Parts",
     description:
-      "Freelance software developers for Sonipat: ERP-style tools, vendor portals, AI agents, apps, dashboards and SEO for Kundli, Rai and Kharkhoda firms. From ₹10,000.",
+      "Freelance software developers for Sonipat: ERP-style tools, vendor portals, AI agents, apps and dashboards for Kundli and Rai. From ₹10,000 upwards.",
     keywords: [
       "software development team in Sonipat",
       "IT services team in Sonipat",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "cloud hosting and IT support Sonipat",
       "Sonipat mein software banane wali company",
       "सोनीपत सॉफ्टवेयर डेवलपमेंट कंपनी",
+      "Sonipat website designer",
+      "website cost in Sonipat",
+      "IT company in Sonipat",
+      "Haryana SEO services",
+      "hire developer Sonipat",
+      "footwear software in Sonipat",
+      "auto component software in Sonipat",
     ],
   },
   hero: {

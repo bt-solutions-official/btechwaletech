@@ -7,7 +7,7 @@ const palakkad: CityContent = {
   meta: {
     title: "Palakkad Websites & SEO for Kanjikode to Kalpathy",
     description:
-      "Websites, local SEO and WhatsApp automation for Palakkad firms: Kanjikode suppliers, rice mills, clinics, colleges and shops. Sites from ₹10,000, and you own them.",
+      "Websites, local SEO and WhatsApp automation for Palakkad firms: Kanjikode suppliers, rice mills, clinics, colleges and shops. Websites from ₹10,000.",
     keywords: [
       "website development team in Palakkad",
       "web designer Palakkad",
@@ -24,6 +24,17 @@ const palakkad: CityContent = {
       "Malayalam website design",
       "Palakkad website cheyyan ethra chilavu",
       "പാലക്കാട് വെബ്സൈറ്റ്",
+      "Palakkad website designer",
+      "website cost in Palakkad",
+      "web development company Palakkad",
+      "hire freelance web developer Palakkad",
+      "Kerala SEO services",
+      "website design Sultanpet Palakkad",
+      "website design Market Road Palakkad",
+      "website design Olavakkode Palakkad",
+      "website design Chandranagar Palakkad",
+      "website design Kalmandapam Palakkad",
+      "website design price in Palakkad",
     ],
   },
   hero: {

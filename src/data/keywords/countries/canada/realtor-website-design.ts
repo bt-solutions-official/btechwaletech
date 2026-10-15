@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "reco advertising rules website", "bcfsa advertising rules website", "custom real estate website vs template",
       "realtor website near me", "real estate team website design", "who owns my realtor website",
       "realtor website seo canada",
+      "hire realtor website design in Canada", "freelance realtor website design Canada",
     ],
   },
   hero: {

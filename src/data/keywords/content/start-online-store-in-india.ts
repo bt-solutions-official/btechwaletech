@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `How to Start an Online Store in India (from ${P.shop})`,
-    description: `How to start an online store in India: GST and registration, platform choice, payments and COD, shipping, and a launch budget built around a store from ${P.shop}.`,
+    description: `How to start an online store in India: GST and registration, platform choice, payments and COD, shipping, plus a launch budget. Stores from ${P.shop}.`,
     keywords: [
       "how to start an online store in india", "start online store India", "how to open an online store in India", "start ecommerce business in India",
       "online store setup cost India", "how to start online shop India", "GST for online store", "is GST mandatory for online selling",
@@ -236,7 +236,7 @@ const content: FreelanceContent = {
         "Gateway fees: a percentage of every prepaid order",
         "Shipping and returns: forward charges plus an allowance for RTO",
         "Marketing: ads, influencer samples, launch offers",
-        `Later: maintenance from ${P.care} a month, SEO from ${P.seo} a month if you want it`,
+        `Later: maintenance from ${P.care}, SEO from ${P.seo} if you want it`,
       ],
       after: [`For store-type price comparisons see <a href='/ecommerce-website-cost-in-india/'>ecommerce website cost in India</a>.`],
     },
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
     { question: "How do I get my first orders after launching an online store?", answer: "Start with people who already know you: existing customers, WhatsApp contacts and social followers, with a launch offer. Ask the first buyers for honest reviews and photos. Then add one paid channel you can measure, such as Instagram or Google ads, and one free channel, such as product SEO. Track which source brings paying customers." },
     { question: "Will my online store rank on Google?", answer: "It can, over time. We build clean product and category URLs, Product structured data, fast image loading and a proper sitemap, and connect Google Search Console. Ranking also depends on competition, content and links, so no one can guarantee positions. Stores that publish useful category descriptions and buying guides give Google far more to rank than bare product grids." },
     { question: "Do I own my online store if you build it?", answer: "Yes. The domain, hosting, payment gateway account, courier account, database and source code are all in your business name. We work with access you grant and hand over admin logins, repository access and a short technical note at the end, so you are never dependent on us to keep the store running." },
-    { question: "What support do I get after the store launches?", answer: `Two months of free maintenance after launch cover bug fixes, security updates and small changes. After that, maintenance starts at ${P.care} a month if you want us to continue. New features, a shopping app or monthly SEO are quoted separately, only when you ask for them.` },
+    { question: "What support do I get after the store launches?", answer: `Two months of free maintenance after launch cover bug fixes, security updates and small changes. After that, maintenance starts at ${P.care} if you want us to continue. New features, a shopping app or monthly SEO are quoted separately, only when you ask for them.` },
     { question: "Can you build a store that sells to customers outside India?", answer: `Yes. We can set up card and PayPal checkout for international buyers, show prices in another currency where your gateway supports it, and add shipping rules by country. Export regulations and taxes for your products are for your CA or customs agent to confirm. For overseas founders, the store build is quoted from ${P.shopUsd}.` },
     { question: "Online store kaise shuru kare agar pehli baar bech rahe hain?", answer: `Pehle ek order par munafa check kijiye, shipping aur returns ke baad. Phir PAN, current account aur zarurat ho toh GST, apne CA se poochkar. Payment gateway aur courier ka account apne business ke naam par kholiye. Store humare saath ${P.shop} se banta hai, aur launch se pehle asli test orders zaroor chalaiye.` },
   ],

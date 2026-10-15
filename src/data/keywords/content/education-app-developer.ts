@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Education app developer",
   updated: "2026-09-24",
   meta: {
-    title: "Education App Developer: Course, Video & Test Apps",
-    description: `Education app developer in India for course, video lecture and mock test apps on Android and iOS. Apps from ${P.app}, your own Play and App Store accounts.`,
+    title: `Education App Developer: Course & Test Apps, ${P.app}+`,
+    description: `Education app developer in India for course, video lecture and mock test apps on Android and iOS, in your own store accounts. Apps from ${P.app}.`,
     keywords: [
       "education app developer", "education app developer in India", "education app developer near me", "education app developer for hire",
       "education app development cost", "edtech app price India", "best education app developer", "coaching app banwana hai",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "coaching institute app", "mock test app development", "video lecture app", "e-learning app developer",
       "edtech app developer freelance", "tuition app development", "online classes app", "exam preparation app developer",
       "course selling app", "student app with live classes",
+      "hire education app developer",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const vidisha: CityContent = {
   meta: {
     title: "IT Services in Vidisha: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and WhatsApp automation for Vidisha grain traders, Ganjbasoda stone firms, shops, clinics and schools. Sites from ₹10,000, remote team, free upkeep.",
+      "Websites, SEO and WhatsApp automation for Vidisha grain traders, Ganjbasoda stone firms, shops, clinics and schools. Sites from ₹10,000, yours to keep.",
     keywords: [
       "website development team in Vidisha",
       "web design Vidisha",
@@ -24,6 +24,17 @@ const vidisha: CityContent = {
       "website maintenance Vidisha",
       "Vidisha me website kaise banwaye",
       "विदिशा वेबसाइट डिज़ाइन",
+      "website cost in Vidisha",
+      "web development company Vidisha",
+      "hire freelance web developer Vidisha",
+      "Madhya Pradesh SEO services",
+      "Vidisha website banwane ka kharcha",
+      "Vidisha farmers selling direct website",
+      "farmers selling direct website design Vidisha",
+      "website design Madhavganj Vidisha",
+      "website design Tilak Chowk Vidisha",
+      "website design Krishi Upaj Mandi area Vidisha",
+      "website design price in Vidisha",
     ],
   },
   hero: {

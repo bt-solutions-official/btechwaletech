@@ -22,6 +22,9 @@ const content: FreelanceContent = {
       "d2c website for skincare brand", "d2c website for clothing brand", "d2c website for food brand", "d2c subscription website India",
       "d2c analytics CAC repeat purchase", "d2c website freelancer", "d2c brand website Bangalore", "d2c brand website Mumbai",
       "d2c website kaise banaye", "d2c website development near me",
+      "d2c website development company in India",
+      "best d2c website development in India",
+      "d2c website development services",
     ],
   },
   hero: {

@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.066, lng: 95.326 },
   meta: {
-    title: "Freelance Software Developers in Pasighat",
+    title: "Pasighat Software Developers: Govt Contractors & Rafting",
     description:
       "Freelance software developers in Pasighat for custom software, web apps, AI automation and SEO. Three remote engineers, prices from ₹10,000, quote in 2 days.",
     keywords: [
@@ -33,6 +33,12 @@ const content: CityContent = {
       "data dashboard for government contractors Arunachal",
       "website developer Ruksin Mebo",
       "Pasighat mein software banane wali company",
+      "Pasighat website designer",
+      "website cost in Pasighat",
+      "IT company in Pasighat",
+      "Arunachal Pradesh SEO services",
+      "hire developer Pasighat",
+      "government software in Pasighat",
     ],
   },
   hero: {

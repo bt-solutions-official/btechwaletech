@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.4595, lng: 77.0266 },
   meta: {
-    title: "Freelance SEO Services in Gurgaon: Local & AI Search",
+    title: "Gurgaon SEO: Local & AI Search",
     description:
-      "Freelance SEO services in Gurgaon: technical SEO, local SEO for Gurugram sectors, schema and AI-search visibility. Monthly SEO from ₹10,000, no ranking guarantees.",
+      "Freelance SEO services in Gurgaon: technical SEO, local SEO for Gurugram sectors, schema and AI-search work. Monthly SEO from ₹10,000, no ranking guarantees.",
     keywords: [
       "SEO services in Gurgaon",
       "freelance SEO expert Gurgaon",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "mobile app developers Gurgaon",
       "गुरुग्राम में SEO सेवाएं",
       "Gurgaon mein website ranking kaise badhaye",
+      "Gurgaon website designer",
+      "website cost in Gurgaon",
+      "IT company in Gurgaon",
+      "Haryana SEO services",
+      "hire developer Gurgaon",
+      "real software in Gurgaon",
+      "clinics software in Gurgaon",
+      "coworking software in Gurgaon",
+      "apparel software in Gurgaon",
+      "website developer DLF Cyber City Gurgaon",
     ],
   },
   hero: {

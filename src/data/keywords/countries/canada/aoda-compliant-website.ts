@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "aoda compliant website toronto", "aoda compliant website ottawa", "aoda compliant website mississauga", "aoda compliant website hamilton",
       "aoda compliant website london ontario", "aoda web developer near me", "accessible website developer ontario", "screen reader testing website",
       "aoda compliance report 2026",
+      "hire aoda compliant website in Canada", "freelance aoda compliant website Canada", "aoda compliant website Canada",
     ],
   },
   hero: {
@@ -226,7 +227,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Accessibility is not a direct ranking promise, but many accessibility fixes overlap with good SEO: clear headings, descriptive link text, alt text, fast lean pages and proper HTML all help search engines and AI assistants understand your content.`,
         `The overlap is practical. A logical heading outline gives Google a clear structure. Captions and transcripts turn video into indexable text. Descriptive link text helps both screen reader users and crawlers understand where links go. Lean themes that pass accessibility tests also tend to load faster, which helps Core Web Vitals. None of it guarantees rankings, and nobody can honestly guarantee them, but you are not trading search visibility for accessibility.`,
-        `If you want search work alongside accessibility, our <a href='/canada/technical-seo-services/'>technical SEO service for Canadian sites</a> starts at ${P.seo} a month, and we coordinate so changes for one do not undo the other.`,
+        `If you want search work alongside accessibility, our <a href='/canada/technical-seo-services/'>technical SEO service for Canadian sites</a> starts at ${P.seo}, and we coordinate so changes for one do not undo the other.`,
       ],
     },
     {

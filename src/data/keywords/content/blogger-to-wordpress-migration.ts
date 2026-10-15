@@ -203,7 +203,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a Blogger to WordPress migration for a blog with up to 100 posts and pages starts at ${P.site} (${P.siteUsd}); archives with 299 or more posts start at ${P.seoSite}. You receive an itemised quote in about two working days after sharing your blog address.`,
         `What moves the price: the number of posts and images, how many different URL patterns and labels exist, whether old posts contain messy formatting or broken embeds from years of theme changes, whether you want a custom design or a ready theme, and whether it is a bilingual blog. Quotes across the market vary widely, often because some include image transfer and full redirect testing and others do not. Always ask what happens to images and redirects.`,
-        `Running costs after the move are your hosting and domain renewals, paid directly to the providers, plus any premium theme or plugins you choose. We keep plugins lean. After the two free months, maintenance starts at ${P.care} a month if you want us to handle updates, backups and fixes.`,
+        `Running costs after the move are your hosting and domain renewals, paid directly to the providers, plus any premium theme or plugins you choose. We keep plugins lean. After the two free months, maintenance starts at ${P.care} if you want us to handle updates, backups and fixes.`,
       ],
     },
     {
@@ -312,8 +312,8 @@ const content: FreelanceContent = {
         ["Blog up to 100 posts and pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
         ["Large archive, 299+ posts", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "2–3 weeks"],
         ["Blog plus online shop", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
-        ["Monthly SEO after the move", `From ${P.seo}/month`, `From ${P.seoUsd}/month`, "Ongoing"],
-        ["Maintenance after 2 free months", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Ongoing"],
+        ["Monthly SEO after the move", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing"],
       ],
       hideSm: [2],
     },
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "Can you migrate a Hindi Blogger blog to WordPress?", answer: "Yes. Hindi and regional-language blogs migrate the same way, with extra checks for URL formats, fonts, page language settings and search. Bilingual blogs can be structured so each language is clear to readers and search engines, with you supplying or approving any translated copy." },
     { question: "Will my site be faster on WordPress than on Blogger?", answer: "It can be, but only with good hosting, a lightweight theme and few plugins. Blogger runs on Google's infrastructure and is not slow by default, so a heavy WordPress theme can make things worse. We set up a lean build and check mobile speed before switching." },
     { question: "How do I pay for the migration?", answer: "After you approve the itemised written quote, payment is made in stages tied to visible work. Clients in India pay by UPI or bank transfer; bloggers abroad pay in USD by Wise, bank wire or PayPal. Specific terms are in your written quote, and general conditions are on our terms page." },
-    { question: "What maintenance does a WordPress blog need after moving?", answer: `WordPress needs core, theme and plugin updates, backups and security checks, which Blogger handled for you. Every migration includes two months of free maintenance. After that, care starts at ${P.care} a month, or you can manage updates yourself using the notes we provide.` },
+    { question: "What maintenance does a WordPress blog need after moving?", answer: `WordPress needs core, theme and plugin updates, backups and security checks, which Blogger handled for you. Every migration includes two months of free maintenance. After that, care starts at ${P.care}, or you can manage updates yourself using the notes we provide.` },
     { question: "Blogger se WordPress par shift karne mein traffic kam hoga kya?", answer: `Agar har purane URL ka sahi redirect ho aur images WordPress mein copy ho jayein, toh traffic aam taur par kuch hafton mein normal ho jaata hai. Blogspot address par redirect thoda kamzor hota hai, isliye time zyada lag sakta hai. Hamare saath 100 posts tak ka blog ${P.site} se shift hota hai.` },
   ],
   related: {

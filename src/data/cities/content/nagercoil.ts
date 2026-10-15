@@ -7,7 +7,7 @@ const nagercoil: CityContent = {
   meta: {
     title: "Nagercoil Websites, Tamil SEO & WhatsApp Automation",
     description:
-      "Websites, Tamil and English local SEO, online stores and WhatsApp automation for Nagercoil jewellers, flower and spice traders, clinics and colleges. From ₹10,000.",
+      "Websites, Tamil and English local SEO, online stores and WhatsApp tools for Nagercoil jewellers, flower and spice traders, clinics and colleges. From ₹10,000.",
     keywords: [
       "website development team in Nagercoil",
       "web designer Nagercoil",
@@ -25,6 +25,16 @@ const nagercoil: CityContent = {
       "website maintenance Nagercoil",
       "Nagercoil website seiya",
       "நாகர்கோவில் இணையதள வடிவமைப்பு",
+      "Nagercoil website designer",
+      "web development company Nagercoil",
+      "hire freelance web developer Nagercoil",
+      "Tamil Nadu SEO services",
+      "Nagercoil temple jewellery makers website",
+      "temple jewellery makers website design Nagercoil",
+      "Nagercoil flower traders website",
+      "flower traders website design Nagercoil",
+      "website design Vadasery Nagercoil",
+      "website design Kottar Nagercoil",
     ],
   },
   hero: {

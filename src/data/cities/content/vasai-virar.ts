@@ -7,7 +7,7 @@ const vasaiVirar: CityContent = {
   meta: {
     title: "IT Services in Vasai-Virar: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO and WhatsApp automation for Vasai, Nalasopara and Virar factories, resorts, clinics and shops. From ₹10,000, you own the domain and the code.",
+      "Websites, local SEO and WhatsApp automation for Vasai, Nalasopara and Virar factories, resorts, clinics and shops. Sites from ₹10,000 with an itemised quote.",
     keywords: [
       "website designer in Vasai",
       "website development Virar",
@@ -25,6 +25,16 @@ const vasaiVirar: CityContent = {
       "website maintenance Vasai",
       "Vasai me website banane wala",
       "वसई विरार वेबसाईट डिझाईन",
+      "Vasai-Virar website designer",
+      "website cost in Vasai-Virar",
+      "web development company Vasai-Virar",
+      "hire freelance web developer Vasai-Virar",
+      "Palghar SEO services",
+      "website designer Palghar",
+      "Maharashtra SEO services",
+      "Vasai-Virar me website kaise banwaye",
+      "Vasai-Virar website banwane ka kharcha",
+      "Vasai-Virar healthcare website",
     ],
   },
   hero: {

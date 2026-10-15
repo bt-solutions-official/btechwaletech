@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "who owns my .nz domain", "website hosting login ownership", "website packages nz", "web design payment plan nz",
       "affordable seo website nz", "affordable web design near me nz", "is cheap web design worth it",
       "website for sole trader nz", "affordable website redesign nz",
+      "hire affordable web design in New Zealand", "freelance affordable web design New Zealand",
     ],
   },
   hero: {

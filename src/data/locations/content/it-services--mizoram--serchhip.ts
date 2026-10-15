@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.2986, lng: 92.8528 },
   meta: {
-    title: "Freelance Software & Web Developers in Serchhip",
+    title: "Serchhip Web & Software Developers: Societies & Schools",
     description:
-      "Freelance software and web developers for Serchhip and Thenzawl: records software, easy-update websites, Android and iOS apps, AI automation and SEO. From ₹10,000.",
+      "Freelance software and web developers for Serchhip and Thenzawl: records software, easy-update websites, plus Android and iOS apps. From ₹10,000.",
     keywords: [
       "software development team in Serchhip",
       "IT services team in Serchhip",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "society membership software Mizoram",
       "Serchhip-ah website siamtu",
       "Serchhip mein website developer",
+      "Serchhip website designer",
+      "website cost in Serchhip",
+      "IT company in Serchhip",
+      "Mizoram SEO services",
+      "hire developer Serchhip",
+      "societies software in Serchhip",
+      "schools software in Serchhip",
+      "handloom software in Serchhip",
+      "churches software in Serchhip",
+      "website developer Serchhip Venglai Serchhip",
     ],
   },
   hero: {

@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "web developer near me cost Rajkot", "website banane wala near me Rajkot", "website wala Rajkot", "remote web developer Gujarat",
       "web developer near University Road Rajkot", "website developer Gondal Road", "website developer near me Saurashtra", "best web developer near me Rajkot",
       "web development services near me Rajkot", "freelance web developer near me Rajkot", "Rajkot web developer WhatsApp",
+      "web developer near me Rajkot price", "web developer near 150 Feet Ring Road Rajkot", "nearby Gujarati website developer Rajkot",
     ],
   },
   hero: {

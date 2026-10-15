@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.7509, lng: 94.2037 },
   meta: {
-    title: "Freelance Software Developers in Jorhat, Assam",
+    title: "Jorhat Software Developers: Tea Growers & Colleges",
     description:
-      "Freelance software developers in Jorhat for institute portals, field-data apps, tea grower tools, Majuli bookings, AI and SEO. Three remote engineers, from ₹10,000.",
+      "Freelance software developers in Jorhat for institute portals, field-data apps, tea grower tools and Majuli bookings. Three remote engineers, from ₹10,000.",
     keywords: [
       "software development team in Jorhat",
       "IT services team in Jorhat",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT support Titabar Mariani Teok",
       "যোৰহাটত ছফ্টৱেৰ ডেভেলপাৰ",
       "Jorhat mein software aur website banwana",
+      "Jorhat website designer",
+      "website cost in Jorhat",
+      "IT company in Jorhat",
+      "Assam SEO services",
+      "hire developer Jorhat",
+      "colleges software in Jorhat",
+      "research projects software in Jorhat",
+      "small tea growers software in Jorhat",
+      "majuli homestays software in Jorhat",
+      "website developer Gar-Ali Jorhat",
     ],
   },
   hero: {

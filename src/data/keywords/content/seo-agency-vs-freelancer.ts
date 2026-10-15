@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "SEO agency vs freelancer",
   updated: "2026-09-25",
   meta: {
-    title: "SEO Agency vs Freelancer: Who Does the Work?",
+    title: `SEO Agency vs Freelancer: Cost & Who Does the Work`,
     description: `SEO agency vs freelancer vs a small specialist team: cost drivers, who does the work, contracts, reporting and fit by business size. SEO from ${P.seo}.`,
     keywords: [
       "seo agency vs freelancer", "seo freelancer vs agency", "seo agency or freelancer", "should i hire an seo agency or freelancer",

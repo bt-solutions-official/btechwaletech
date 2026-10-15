@@ -7,7 +7,7 @@ const barmer: CityContent = {
   meta: {
     title: "Barmer Website Developer: Sites, SEO and Automation",
     description:
-      "Websites, Google Maps setup, craft stores and WhatsApp automation for Barmer's oilfield contractors, handicraft sellers, traders, clinics and coaching centres.",
+      "Barmer's websites, Google Maps setup, craft stores and WhatsApp automation for oilfield contractors, handicraft sellers, traders and clinics. From ₹10,000.",
     keywords: [
       "website development team in Barmer",
       "web designer Barmer Rajasthan",
@@ -25,6 +25,14 @@ const barmer: CityContent = {
       "Barmer me website kaise banaye",
       "बाड़मेर वेबसाइट डिज़ाइन",
       "website maintenance Barmer",
+      "Barmer website designer",
+      "website cost in Barmer",
+      "web development company Barmer",
+      "hire freelance developer Barmer",
+      "Rajasthan SEO",
+      "Barmer me website kaise banwaye",
+      "website for oilfield and power-plant contractors in Barmer",
+      "web designer in Station Road, Barmer",
     ],
   },
   hero: {

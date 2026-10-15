@@ -5,9 +5,9 @@ const taki: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 22.5833, lng: 88.9167 },
   meta: {
-    title: "IT Services in Taki | Web, Apps & AI from ₹10,000",
+    title: "Taki Website Design: Homestays, Boats & Bazaar",
     description:
-      "Bengali websites, Android and iOS apps, local SEO and WhatsApp booking for Taki homestays, boat operators, sweet shops, fish traders, tutors and clinics.",
+      "Taki websites, Bengali SEO and WhatsApp booking for Ichhamati riverside homestays, boat and launch operators, sweet shops and fish traders. From ₹10,000.",
     keywords: [
       "IT services in Taki",
       "IT services team in Taki",
@@ -29,6 +29,16 @@ const taki: CityContent = {
       "Taki me website banwana",
       "Taki-te website banano",
       "টাকিতে ওয়েবসাইট তৈরি",
+      "Taki website designer",
+      "web development company Taki",
+      "hire freelance web developer Taki",
+      "North 24 Parganas SEO services",
+      "website designer North 24 Parganas",
+      "West Bengal SEO services",
+      "website design Riverside ghats Taki",
+      "website design Rajbari area Taki",
+      "website design price in Taki",
+      "app development company Taki",
     ],
   },
   hero: {

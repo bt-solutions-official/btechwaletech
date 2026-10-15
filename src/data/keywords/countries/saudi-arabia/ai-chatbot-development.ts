@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "chatbot with whatsapp handoff", "chatbot lead capture crm", "pdpl chatbot consent", "bilingual chatbot arabic english",
       "customer service chatbot saudi", "ecommerce chatbot saudi arabia", "hire chatbot developer from india", "ai chatbot for real estate saudi",
       "which llm is best for arabic", "chatbot for salla store",
+      "freelance ai chatbot development Saudi Arabia",
     ],
   },
   hero: {

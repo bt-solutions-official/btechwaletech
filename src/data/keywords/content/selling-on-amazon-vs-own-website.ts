@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Selling on Amazon vs own website",
   updated: "2026-09-25",
   meta: {
-    title: "Selling on Amazon vs Own Website: Fees & Margins",
-    description: `Selling on Amazon vs own website in India: fee maths, who owns the buyer, suspension risk and a staged plan. Own store builds from ${P.shop}.`,
+    title: `Selling on Amazon vs Own Website: Fees & Margins 2026`,
+    description: `Selling on Amazon vs own website in India: referral and closing fee maths, who owns the buyer, suspension risk and a staged plan. Own store from ${P.shop}.`,
     keywords: [
       "selling on amazon vs own website", "amazon vs own website", "sell on amazon or own website", "marketplace vs own website india",
       "amazon vs own ecommerce website", "should i sell on amazon or my own website", "amazon seller own website", "amazon commission vs website cost",

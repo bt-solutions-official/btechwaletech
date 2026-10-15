@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Technical SEO freelancer",
   updated: "2026-09-24",
   meta: {
-    title: "Technical SEO Freelancer: Crawl, Index, Schema, Speed",
-    description: `Hire a technical SEO freelancer who fixes crawling, indexing, schema and page speed in the code itself. Monthly SEO from ${P.seo}; audit findings you can verify.`,
+    title: `Technical SEO Freelancer: Crawl & Schema, ${P.seo}`,
+    description: `Technical SEO freelancer who fixes crawling, indexing, schema and page speed in the code itself, with evidence you can verify. Monthly SEO from ${P.seo}.`,
     keywords: [
       "technical seo freelancer", "technical seo freelancer India", "technical seo expert near me", "technical seo consultant for hire",
       "technical seo audit cost", "technical seo services price", "best technical seo freelancer", "technical seo wala expert chahiye",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "google search console errors fix", "schema markup freelancer", "core web vitals seo freelancer", "site migration seo freelancer",
       "crawled currently not indexed fix", "javascript seo freelancer", "technical seo audit India", "technical seo developer",
       "log file analysis seo", "xml sitemap and robots.txt expert",
+      "hire Technical SEO freelancer", "freelance Technical SEO freelancer", "Technical SEO freelancer cost", "Technical SEO freelancer near me",
+      "best Technical SEO freelancer in India", "Technical SEO freelancer price", "Technical SEO freelancer charges",
     ],
   },
   hero: {

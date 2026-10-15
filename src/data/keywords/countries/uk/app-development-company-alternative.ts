@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `App Development Company UK: A Leaner Route from ${P.app}`,
-    description: `App development company UK quotes too high? Three freelance developers build Flutter apps for iOS and Android from ${P.app}, published under your own store accounts.`,
+    description: `App development company UK quotes too high? Three freelance developers build Flutter apps for iOS and Android from ${P.app}, on your own store accounts.`,
     keywords: [
       "app development company uk", "app development company uk alternative", "app developers uk", "mobile app development company uk",
       "app development agency uk", "cheaper alternative to app agency uk", "hire app developers uk", "app development cost uk",

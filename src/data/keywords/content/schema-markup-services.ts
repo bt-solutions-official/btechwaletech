@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "rich snippets service", "schema markup for ai search", "schema markup expert", "schema markup freelancer",
       "structured data validation", "schema markup Noida", "schema markup Gurgaon", "schema markup kya hai",
       "does schema markup help seo", "rich result eligibility",
+      "schema markup services cost", "schema markup services price", "schema markup services company", "best schema markup services in India",
+      "schema markup services cost in India", "schema markup services near me",
     ],
   },
   hero: {

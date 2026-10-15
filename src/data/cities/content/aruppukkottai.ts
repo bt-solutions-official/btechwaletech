@@ -7,7 +7,7 @@ const aruppukkottai: CityContent = {
   meta: {
     title: "IT Services in Aruppukkottai: Web, Apps, SEO & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Aruppukkottai spinning mills, saree weavers, powerloom units, rice mills and clinics.",
+      "Aruppukkottai Tamil websites, mobile apps, local SEO and WhatsApp automation for spinning mills, saree weavers, powerloom units and rice mills. From ₹10,000.",
     keywords: [
       "IT services in Aruppukkottai",
       "IT services team in Aruppukottai",
@@ -29,6 +29,10 @@ const aruppukkottai: CityContent = {
       "Aruppukottai me website banwana",
       "Aruppukottai-la website seiya",
       "அருப்புக்கோட்டை வெப்சைட் டிசைன்",
+      "Aruppukkottai website designer",
+      "web development company Aruppukkottai",
+      "hire freelance developer Aruppukkottai",
+      "Tamil Nadu SEO",
     ],
   },
   hero: {

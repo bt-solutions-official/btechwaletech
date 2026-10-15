@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Built in", value: "Core Web Vitals fixes, accessibility fixes, structured data" },
       { label: "Starting price", value: `From ${P.site}; sites of 299+ pages from ${P.seoSite}` },
       { label: "Monitoring", value: "Search Console and analytics checks for 6–8 weeks after launch" },
-      { label: "After launch", value: `2 months of free fixes, then care from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free fixes, then care from ${P.care}` },
     ],
   },
   services: {
@@ -197,7 +197,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Fix accessibility in the new templates rather than patching it later. Most problems on older sites live in the theme itself: menus that do not work with a keyboard, low-contrast text, form fields without labels and images without alt text.`,
         `In its March 2022 guidance, the US Department of Justice said businesses open to the public must make what they offer online accessible to people with disabilities, and it pointed to the Web Content Accessibility Guidelines as helpful technical standards. We design and test to WCAG 2.2 AA, check each template with a keyboard and a screen reader, and review colour contrast in the design stage when changes are cheap. Your attorney decides what the law requires of your business.`,
-        `If you already have an accessibility audit report or a demand letter, send it with your brief. We map every listed issue to the template that causes it so the redesign closes each one, and you get a list showing where each was fixed. Pure remediation without a redesign is covered on our <a href='/usa/website-accessibility-remediation/'>accessibility remediation</a> page.`,
+        `If you already have an accessibility audit report or a demand letter, send it with your brief. We map every listed issue to the template that causes it so the redesign closes each one, and you get a list showing where each was fixed. Pure accessibility work without a redesign is covered on our <a href='/usa/ada-compliant-website-design/'>ADA compliant website design</a> page.`,
       ],
     },
     {
@@ -247,7 +247,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A redesign is a good moment to make your pages easier for AI answer engines to quote. Those engines tend to lift short, self-contained passages, so pages built around clear definitions, direct answers and tidy tables have an edge.`,
         `In practice we give each key service page a one-sentence summary near the top, answer the common questions in their own short blocks, add comparison or pricing tables where useful, and mark the page up with structured data for your business and services. Server-rendered HTML means AI crawlers can read the content without running scripts.`,
-        `None of this guarantees a mention in Google’s AI Overviews, ChatGPT or Perplexity, and anyone promising that is overselling. It simply removes the obstacles that stop a good page being understood. Ongoing <a href='/usa/seo-services-for-small-business/'>SEO for small businesses</a> starts at ${P.seo} a month if you want help after the redesign.`,
+        `None of this guarantees a mention in Google’s AI Overviews, ChatGPT or Perplexity, and anyone promising that is overselling. It simply removes the obstacles that stop a good page being understood. Ongoing <a href='/usa/seo-services-for-small-business/'>SEO for small businesses</a> starts at ${P.seo} if you want help after the redesign.`,
       ],
     },
     {
@@ -272,7 +272,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The launch is the midpoint of a redesign, not the end. For six to eight weeks we watch Search Console’s page indexing report, crawl errors, the performance report for key queries, and your lead volume, and fix anything that slips.`,
         `Day one: re-run the redirect test against production, submit the new sitemap, check robots settings and confirm forms deliver. Week one: look for 404s from old URLs we missed, often from old PDFs or campaign links, and add redirects. Weeks two to four: compare clicks and impressions for the benchmark pages. Weeks five to eight: confirm the new pages are indexed and holding their queries, and report back with the before-and-after numbers.`,
-        `After that the two months of free fixes continue. Longer-term care is available from ${P.care} a month; our <a href='/usa/website-maintenance-services/'>website maintenance services</a> page explains what it covers.`,
+        `After that the two months of free fixes continue. Longer-term care is available from ${P.care}; our <a href='/usa/website-maintenance-services/'>website maintenance services</a> page explains what it covers.`,
       ],
     },
     {
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
     { question: "Do you rewrite the content during a redesign?", answer: "Where the content audit says so. Pages that rank keep their substance with light edits; weak pages on the right topic are rewritten around the questions they already rank for; thin overlapping pages are merged. Copywriting is a separate line in the estimate, and you approve every rewrite before launch." },
     { question: "Will my forms and integrations keep working after the redesign?", answer: "They are part of the scope. We list every form, phone link, booking widget and integration on the old site, rebuild or reconnect each one, and test real submissions on staging and again after launch. If your CRM expects certain field names, we keep them so your sales process does not change." },
     { question: "Can a redesign help me appear in AI answers?", answer: "It can remove obstacles. Clear one-sentence summaries, question-led headings, short answer blocks, tables and structured data make pages easier for answer engines such as Google’s AI Overviews and Perplexity to understand and quote. Nobody can guarantee inclusion, but a well-structured redesign gives good content a better chance of being cited." },
-    { question: "What happens after the redesign is finished?", answer: `After the monitoring period you get a before-and-after summary, and fixes and small changes stay free for two months from launch. After that, you can choose a care plan from ${P.care} a month, pay for changes as needed, or manage the site yourself. Ongoing SEO help is available from ${P.seo} a month.` },
+    { question: "What happens after the redesign is finished?", answer: `After the monitoring period you get a before-and-after summary, and fixes and small changes stay free for two months from launch. After that, you can choose a care plan from ${P.care}, pay for changes as needed, or manage the site yourself. Ongoing SEO help is available from ${P.seo}.` },
   ],
   related: {
     heading: "Related services for US businesses",
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
       { name: "Ecommerce website development", href: "/usa/ecommerce-website-development/" },
       { name: "Website maintenance services", href: "/usa/website-maintenance-services/" },
       { name: "Technical SEO services", href: "/usa/technical-seo-services/" },
-      { name: "Website accessibility remediation", href: "/usa/website-accessibility-remediation/" },
+      { name: "Landing page design services", href: "/usa/landing-page-design-services/" },
       { name: "ADA compliant website design", href: "/usa/ada-compliant-website-design/" },
       { name: "WordPress website design services", href: "/usa/wordpress-website-design/" },
       { name: "Small business website design", href: "/usa/small-business-website-design/" },

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer for Savli GIDC · Sites from ${P.site}`,
-    description: `Website developer for Savli GIDC manufacturers: supplier-ready sites for engineering, pharma, chemical and plastics units from ${P.site}. Quote in 2 working days.`,
+    description: `Website developer for Savli GIDC manufacturers: supplier-ready sites for engineering, pharma, chemical and plastics units from ${P.site}. Quote in 2 days.`,
     keywords: [
       "website developer for Savli GIDC", "website developer Savli", "Savli GIDC website design", "website developer near me Savli",
       "Manjusar GIDC website developer", "Savli Vadodara Gujarat website", "manufacturer website Savli", "supplier website for MNC vendor",
@@ -215,7 +215,7 @@ const content: FreelanceContent = {
         `Each product family and process gets its own page with a descriptive title, naming Savli, Vadodara or Gujarat where it reads naturally. Spec tables stay in real text, not images. Schema markup describes your business and products; an XML sitemap and Google Search Console are set up before launch.`,
         `A <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> with your exact name and plot address in Savli GIDC helps visitors, drivers and applicants find the right gate in a large estate.`,
         `Speed counts as well. Google measures how quickly pages load and respond on phones, so we compress photos, keep scripts light and avoid heavy plugins on every Savli build.`,
-        `AI answer engines tend to quote pages that state facts plainly, use tables and answer one question per section. We write that way. Ongoing search work is optional, from ${P.seo} a month; the <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> guide explains what it involves.`,
+        `AI answer engines tend to quote pages that state facts plainly, use tables and answer one question per section. We write that way. Ongoing search work is optional, from ${P.seo}; the <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> guide explains what it involves.`,
       ],
     },
     {

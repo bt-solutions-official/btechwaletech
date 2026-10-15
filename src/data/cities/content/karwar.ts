@@ -7,7 +7,7 @@ const karwar: CityContent = {
   meta: {
     title: "IT Services in Karwar: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO and WhatsApp tools for Karwar homestays, water sports, seafood traders, clinics and navy-town shops. Static sites from ₹10,000, remote team.",
+      "Karwar websites, local SEO and WhatsApp tools for homestays, water sports operators, seafood traders and clinics. Static sites from ₹10,000, remote team.",
     keywords: [
       "website development team in Karwar",
       "web design Karwar",
@@ -25,6 +25,14 @@ const karwar: CityContent = {
       "website maintenance Karwar",
       "Karwar nalli website",
       "ಕಾರವಾರ ವೆಬ್‌ಸೈಟ್",
+      "Karwar website designer",
+      "website cost in Karwar",
+      "web development company Karwar",
+      "hire freelance developer Karwar",
+      "Karnataka SEO",
+      "website for homestays and resorts in Karwar",
+      "web designer in Kodibag, Karwar",
+      "website for boat and water sports operators in Karwar",
     ],
   },
   hero: {

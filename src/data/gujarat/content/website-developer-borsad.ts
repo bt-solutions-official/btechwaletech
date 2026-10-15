@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Borsad · Live in 1–2 Weeks`,
-    description: `Website developer in Borsad for banana traders, agri dealers, clinics, schools and shops. Sites from ${P.site}, Gujarati pages with your copy, 2 months free care.`,
+    description: `Website developer in Borsad for banana traders, agri dealers, clinics, schools and shops. Sites from ${P.site}, Gujarati pages with your copy, 2 free months.`,
     keywords: [
       "website developer in Borsad", "website developer Borsad", "website developer near me Borsad", "Borsad Anand website developer",
       "Borsad Gujarat website design", "website designer Borsad", "web developer Borsad", "website development services Borsad",
@@ -213,7 +213,7 @@ const content: FreelanceContent = {
         `Local searches are mostly won on the map; wider searches by specific pages. Nobody can guarantee a ranking, but the groundwork is well understood.`,
         `For “hospital in Borsad” or “tractor showroom near Borsad”, your <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> matters most: right category, real photos, accurate hours and the same name, address and phone as your website footer. Honest reviews from real customers help; bought reviews can get a profile suspended.`,
         `For searches from outside the area, such as “banana supplier Anand district” or “Charotar banana trader”, you need a page that says exactly that, in a clear title and heading, with real details and photos. A single home page cannot rank for everything you do.`,
-        `Every site we build has clean URLs, compressed images, structured data for your business and FAQs, an XML sitemap and Search Console verified at launch, so you can see which searches find you. AI assistants and Google's AI Overviews tend to quote short, direct answers, so FAQs are written that way. Ongoing SEO is optional from ${P.seo} a month.`,
+        `Every site we build has clean URLs, compressed images, structured data for your business and FAQs, an XML sitemap and Search Console verified at launch, so you can see which searches find you. AI assistants and Google's AI Overviews tend to quote short, direct answers, so FAQs are written that way. Ongoing SEO is optional from ${P.seo}.`,
       ],
     },
     {

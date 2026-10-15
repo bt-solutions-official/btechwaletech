@@ -321,7 +321,7 @@ const content: FreelanceContent = {
         "Production access restricted to your staff; developer access reviewed and minimised",
       ],
       after: [
-        `If the app has a marketing website that California visitors use, the same discipline applies to its trackers under state privacy law; our page on building a <a href='/usa/ccpa-compliant-website/'>CCPA compliant website</a> explains opt-out links and Global Privacy Control.`,
+        `If the app has a marketing website that California visitors use, the same discipline applies to its trackers under state privacy law; our page on <a href='/usa/hipaa-compliant-website-design/'>HIPAA compliant website design</a> explains consent banners, opt-out links and Global Privacy Control.`,
       ],
     },
   ],
@@ -437,7 +437,7 @@ const content: FreelanceContent = {
     links: [
       { name: "Telehealth app development", href: "/usa/telehealth-app-development/" },
       { name: "HIPAA compliant website design", href: "/usa/hipaa-compliant-website-design/" },
-      { name: "CCPA compliant website", href: "/usa/ccpa-compliant-website/" },
+      { name: "ADA compliant website design", href: "/usa/ada-compliant-website-design/" },
       { name: "Customer portal development", href: "/usa/customer-portal-development/" },
       { name: "Flutter app development company", href: "/usa/flutter-app-development-company/" },
       { name: "React Native app development", href: "/usa/react-native-app-development/" },

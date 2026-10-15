@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "outsource app development to india from singapore", "remote app developers for singapore startup", "outsource flutter app development",
       "outsource react native app development", "app developer near me singapore", "outsource app development for sme", "app development partner singapore",
       "outsource app development raffles place", "outsource app development jurong", "outsource app development one-north", "outsource ios app singapore",
+      "hire app development in Singapore", "freelance app development Singapore",
     ],
   },
   hero: {

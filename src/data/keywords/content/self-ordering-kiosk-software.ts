@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "self ordering kiosk for cafe", "self ordering kiosk for food court", "how does a self ordering kiosk work", "is a self ordering kiosk worth it",
       "Android kiosk app for restaurant", "self ordering kiosk software Bangalore", "self ordering kiosk software Mumbai", "self ordering kiosk software Delhi",
       "kiosk wala ordering system", "restaurant kiosk machine software", "self ordering kiosk near me",
+      "self ordering kiosk software price", "self ordering kiosk software company", "best self ordering kiosk software in India", "self ordering kiosk software cost in India",
+      "self ordering kiosk software near me",
     ],
   },
   hero: {

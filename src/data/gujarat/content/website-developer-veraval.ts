@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Veraval: Sites from ${P.site}`,
-    description: `Website developer in Veraval for seafood exporters, Somnath hotels and Gir mango sellers. Sites from ${P.site}, Gujarati-ready, remote build with a staging link.`,
+    description: `Website developer in Veraval for seafood exporters, Somnath hotels & Gir mango sellers. Sites from ${P.site}, Gujarati-ready, remote build with a staging link.`,
     keywords: [
       "website developer in Veraval", "website developer Veraval", "web developer near me Veraval", "Veraval Gujarat website",
       "website designer Veraval", "website development services Veraval", "seafood exporter website Veraval", "seafood processing website",

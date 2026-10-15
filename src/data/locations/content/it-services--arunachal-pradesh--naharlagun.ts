@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 27.104, lng: 93.695 },
   meta: {
-    title: "Freelance IT Services in Naharlagun: Apps & AI",
+    title: "Naharlagun IT Services: Apps & AI",
     description:
-      "Freelance IT services in Naharlagun: lead capture, follow-up automation, web apps, AI agents and local SEO for the Itanagar Capital Region. Prices from ₹10,000.",
+      "Freelance IT services in Naharlagun: lead capture, follow-up automation and web apps. From ₹10,000, with two months of free upkeep after launch.",
     keywords: [
       "iOS app development Naharlagun",
       "iPhone app developers Naharlagun",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "ecommerce website Itanagar Capital",
       "IT support Banderdewa Doimukh",
       "Naharlagun mein website aur app banwana",
+      "Naharlagun website designer",
+      "website cost in Naharlagun",
+      "IT company in Naharlagun",
+      "Arunachal Pradesh SEO services",
+      "hire developer Naharlagun",
+      "clinics software in Naharlagun",
+      "coaching centres software in Naharlagun",
+      "contractors software in Naharlagun",
     ],
   },
   hero: {

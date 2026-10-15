@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Developer in Amritsar · Sites from ${P.site}`,
-    description: `Website developer in Amritsar for hotels, food brands, bazaar traders and NRI families: sites from ${P.site}, stores from ${P.shop}, built remotely. Quote in 2 days.`,
+    description: `Website developer in Amritsar for hotels, food brands, bazaar traders and NRI families: sites from ${P.site}, stores from ${P.shop}. Quote in 2 days.`,
     keywords: [
       "website developer in Amritsar", "website developer Amritsar", "web developer in Amritsar", "website developer near me Amritsar",
       "website development Amritsar", "website development services Amritsar", "freelance website developer Amritsar", "website designer Amritsar",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "papad warian online store website", "Hall Bazaar shop website", "Katra Jaimal Singh website", "textile catalogue website Amritsar",
       "NRI business website Amritsar", "website developer Ranjit Avenue", "website developer Tarn Taran", "website developer Batala",
       "Amritsar mein website kaise banwaye", "hotel ki website banwani hai Amritsar",
+      "website developer in Amritsar cost", "website developer in Amritsar price", "hire website developer in Amritsar", "freelance website developer in Amritsar",
+      "website developer in Amritsar charges",
     ],
   },
   hero: {

@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 22.9868, lng: 87.855 },
   meta: {
-    title: "Freelance IT Consulting & Solutions in West Bengal",
+    title: "West Bengal IT Consulting: Jute Mills & Engineering",
     description:
-      "IT consulting and digital transformation in West Bengal from a freelance team: software for mills, cold storages and exporters, Bengali AI agents, apps and SEO.",
+      "IT consulting in West Bengal from a freelance team: software for mills, cold storages and exporters, plus Bengali AI agents. From ₹10,000, quote in two days.",
     keywords: [
       "IT solutions team in West Bengal",
       "IT consulting West Bengal",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "IT solutions near me Durgapur",
       "পশ্চিমবঙ্গে আইটি সমাধান",
       "পশ্চিমবঙ্গ সফটওয়্যার পরামর্শ",
+      "West Bengal website designer",
+      "website cost in West Bengal",
+      "IT company in West Bengal",
+      "West Bengal SEO services",
+      "hire developer West Bengal",
+      "jute mills software in West Bengal",
+      "engineering software in West Bengal",
+      "cold storages software in West Bengal",
     ],
   },
   hero: {

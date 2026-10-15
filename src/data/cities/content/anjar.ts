@@ -7,7 +7,7 @@ const anjar: CityContent = {
   meta: {
     title: "IT Services in Anjar | Web, Apps & AI from ₹10,000",
     description:
-      "Gujarati websites, Android and iOS apps, SEO and WhatsApp automation for Anjar pipe and steel suppliers, bandhani and knife makers, transporters, shops and clinics.",
+      "Anjar Gujarati websites, mobile apps, SEO and WhatsApp bots for pipe and steel suppliers, bandhani and knife makers, transporters and shops. Ask for a quote.",
     keywords: [
       "IT services in Anjar",
       "IT services team in Anjar",
@@ -29,6 +29,10 @@ const anjar: CityContent = {
       "Anjar me website banwana",
       "Anjar ma website banavvi",
       "અંજાર વેબસાઇટ ડિઝાઇન",
+      "Anjar website designer",
+      "web development company Anjar",
+      "hire freelance developer Anjar",
+      "Gujarat SEO",
     ],
   },
   hero: {

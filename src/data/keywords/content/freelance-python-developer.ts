@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Freelance Python developer",
   updated: "2026-09-24",
   meta: {
-    title: "Freelance Python Developer: Django, FastAPI & Scripts",
+    title: `Freelance Python Developer: Django Apps from ${P.software}`,
     description: `Freelance Python developer team in India for Django and FastAPI apps, automation scripts and data work. Web apps from ${P.software}, automation from ${P.ai}.`,
     keywords: [
       "freelance python developer", "freelance python developer India", "freelance python developer near me", "python developer for hire",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "freelance python developer Chennai", "freelance python developer Mumbai", "freelance django developer", "fastapi developer freelance",
       "python automation freelancer", "python script writer", "python backend developer freelance", "python data analysis freelancer",
       "python web scraping developer", "remote python developer India", "python developer for small business", "python api developer",
+      "hire freelance python developer",
     ],
   },
   hero: {
@@ -376,7 +377,7 @@ const content: FreelanceContent = {
     { question: "Do you sign an NDA before seeing our data?", answer: "Yes. If you are sharing customer lists, financial data or unreleased product plans, we are happy to sign a reasonable NDA first. We also prefer anonymised or sample data during early development, keep credentials out of the code, and delete copies of your data from our machines at handover when you ask." },
     { question: "How do payments work for a Python project?", answer: "Payments are split into milestones you can see: typically an advance, a payment after the prototype runs on your data, and the balance at handover. In India you pay by UPI or bank transfer; international clients pay through Wise, bank wire or PayPal. Nothing is billed until you approve the itemised estimate in writing." },
     { question: "Can the same team build a website or app around the Python back end?", answer: `Yes. BtechWaleTech builds websites from ${P.site}, and Android and iOS apps from ${P.app} with Flutter or React Native. A Python API in Django or FastAPI can serve both, so your web portal and app share the same data, logins and business rules rather than duplicating them.` },
-    { question: "Do you provide support after the Python project is delivered?", answer: `Yes. Every delivery includes two months of free maintenance covering bugs, small changes and dependency updates. After that you can continue maintenance from ${P.care} a month, or take the code to another developer using the README and runbook we hand over. You are never locked in.` },
+    { question: "Do you provide support after the Python project is delivered?", answer: `Yes. Every delivery includes two months of free maintenance covering bugs, small changes and dependency updates. After that you can continue maintenance from ${P.care}, or take the code to another developer using the README and runbook we hand over. You are never locked in.` },
     { question: "Can a freelance Python developer work with clients outside India?", answer: `Yes. Python projects are fully remote, and BtechWaleTech works with clients in the USA, UK, Australia, the UAE and elsewhere. Pricing is in USD, for example automation from ${P.aiUsd}, with calls scheduled in overlapping hours and payments by Wise, bank wire or PayPal.` },
     { question: "Python developer chahiye, kaam kaise shuru hoga?", answer: `WhatsApp par apna kaam batayiye aur sample files bhejiye. Lagbhag 2 working days mein itemised estimate milega. Automation ${P.ai} se aur Django ya FastAPI web app ${P.software} se shuru hota hai. Code aapki repository mein rahega, payment UPI ya bank transfer se milestones mein, aur delivery ke baad 2 mahine ke fixes free.` },
   ],

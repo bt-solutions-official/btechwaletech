@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Cost to Hire a Web Developer (US): Sites from ${P.site}`,
-    description: `Cost to hire a web developer in the US: in-house vs freelancer vs agency vs offshore, hourly vs project pricing, and builds from ${P.site} with itemized USD quotes.`,
+    description: `Cost to hire a web developer in the US: in-house vs freelancer vs agency vs offshore, hourly vs project pricing, and builds from ${P.site} with itemized quotes.`,
     keywords: [
       "cost to hire a web developer", "cost to hire web developer", "how much does it cost to hire a web developer",
       "web developer cost", "web developer rates usa", "hire a web developer cost", "web developer hourly rate",

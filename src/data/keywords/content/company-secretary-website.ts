@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Company Secretary Website Design: Sites from ${P.site}`,
-    description: `Company secretary website design for CS practices: incorporation and ROC filing pages, founder checklists, a client portal. Sites from ${P.site}, quote in 2 days.`,
+    description: `Company secretary website design for CS firms: incorporation and ROC filing pages, founder checklists, a client portal. Sites from ${P.site}, quote in 2 days.`,
     keywords: [
       "company secretary website design", "company secretary website", "CS firm website design", "website for company secretary",
       "CS practice website", "practising company secretary website", "website for CS in practice", "ICSI website guidelines",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "company secretary website Delhi", "company secretary website Mumbai", "company secretary website Bengaluru",
       "CS ki website kaise banaye", "company secretary ke liye website", "corporate compliance firm website",
       "secretarial audit firm website", "LLP registration website design",
+      "best company secretary website in India",
     ],
   },
   hero: {
@@ -421,7 +422,7 @@ const content: FreelanceContent = {
     { question: "Freelance team or agency for a company secretary website?", answer: "A general agency may bring a larger team and account managers, while a small freelance team gives you direct contact with the people building the site and usually a simpler process. Agency and freelancer quotes vary widely. Whoever you choose, insist on an itemised quote, ownership of the domain and code, private file storage and no promotional templates that clash with ICSI norms." },
     { question: "Can you work with my practice remotely?", answer: "Yes, all our work is remote. We plan on WhatsApp and video calls, share page drafts in a document and give you a staging link to review the site. There are no office visits, and none are needed for a website or portal. We reply on WhatsApp every day, in English or Hindi, during Indian working hours." },
     { question: "Who owns the website and the code?", answer: "Your practice does. The domain and hosting are registered in your name, and the source code sits in a repository you control. At handover you get admin logins, a short editing guide and the repository link. If you later move maintenance elsewhere, nothing in the build ties you to us." },
-    { question: "What happens after the website goes live?", answer: `Two months of maintenance are included after launch: security updates, small fixes, calendar and form-name edits and backup checks. After that you can continue maintenance from ${P.care} a month, handle it in-house or hand it to another developer. Terms for any ongoing work are written into your quote.` },
+    { question: "What happens after the website goes live?", answer: `Two months of maintenance are included after launch: security updates, small fixes, calendar and form-name edits and backup checks. After that you can continue maintenance from ${P.care}, handle it in-house or hand it to another developer. Terms for any ongoing work are written into your quote.` },
     { question: "How do I pay for a company secretary website?", answer: "In India, payment is by UPI or bank transfer, against the milestones set out in your approved quote, and you receive proper invoices. International clients pay in US dollars by Wise, bank wire or PayPal. Nothing is billed before you approve the written quote, and our refund policy page explains how cancellations are handled." },
     { question: "Will you sign an NDA for our client data?", answer: "Ask us when you request the quote. Confidentiality terms for your practice are agreed in writing with the quote, and our general terms page covers the default position. In any case, we set up the site so we do not need routine access to client documents once the build and handover are complete." },
     { question: "Can the website be in Hindi as well as English?", answer: "Yes. We build language switching into the site and set it up so search engines understand which page is which language. You supply or approve the Hindi text, because professional wording must be exact. Many practices translate only the most-used checklists and incorporation pages first, then add more pages over time." },

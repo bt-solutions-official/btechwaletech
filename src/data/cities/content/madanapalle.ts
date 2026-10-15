@@ -7,7 +7,7 @@ const madanapalle: CityContent = {
   meta: {
     title: "Madanapalle Web Design, SEO and Online Stores",
     description:
-      "Websites, Google Maps setup and WhatsApp automation for Madanapalle tomato traders, silk saree weavers, schools, clinics and Horsley Hills stays. From ₹10,000.",
+      "Websites, Maps setup and WhatsApp automation for Madanapalle tomato traders, silk saree weavers, schools, clinics and Horsley Hills stays. From ₹10,000.",
     keywords: [
       "website development team in Madanapalle",
       "web designer Madanapalle",
@@ -25,6 +25,16 @@ const madanapalle: CityContent = {
       "ecommerce website Madanapalle",
       "website maintenance Madanapalle",
       "మదనపల్లె వెబ్‌సైట్ డిజైన్",
+      "Madanapalle website designer",
+      "web development company Madanapalle",
+      "hire freelance web developer Madanapalle",
+      "Annamayya district SEO",
+      "website designer Annamayya district",
+      "Andhra Pradesh SEO services",
+      "Madanapalle silk saree weaving website",
+      "silk saree weaving website design Madanapalle",
+      "Madanapalle farm input dealers website",
+      "farm input dealers website design Madanapalle",
     ],
   },
   hero: {

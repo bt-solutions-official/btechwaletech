@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "Shopify migration services Canada",
   updated: "2026-09-25",
   meta: {
-    title: `Shopify Migration Services Canada: Keep Your Rankings`,
+    title: `Shopify Migration in Canada: Keep Your Rankings`,
     description: `Shopify migration services for Canadian stores: 301 redirect maps, customer and order import, GST/HST/QST rebuilt, French URLs kept. Stores from ${P.shop}.`,
     keywords: [
       "shopify migration services canada", "shopify migration canada", "migrate to shopify canada", "woocommerce to shopify migration",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "shopify migration toronto", "shopify migration vancouver", "shopify migration montreal", "shopify migration calgary",
       "shopify migration before black friday", "shopify gst hst setup after migration", "shopify french urls quebec", "shopify migration checklist",
       "shopify store migration help near me",
+      "hire shopify migration services in Canada", "freelance shopify migration services Canada",
     ],
   },
   hero: {
@@ -73,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Theme and design", note: `A customized Shopify theme matching or refreshing your brand, as part of a store build from ${P.shop}.`, href: "/canada/shopify-developer/", size: "md" },
       { name: "Accounting and app connections", note: "QuickBooks Online, shipping, reviews and email tools reconnected, with the old platform's plugins replaced by suitable apps.", href: "/canada/quickbooks-online-integration/", size: "sm" },
       { name: "Post-launch SEO watch", note: `Search Console coverage and 404 reports checked for weeks after cut-over, then ongoing Shopify SEO from ${P.seo} if you want it.`, href: "/canada/shopify-seo-expert/", size: "sm" },
-      { name: "Maintenance after the move", note: `Two free months of fixes, then care plans from ${P.care} a month.`, href: "/canada/website-maintenance-services/", size: "sm" },
+      { name: "Maintenance after the move", note: `Two free months of fixes, then care plans from ${P.care}.`, href: "/canada/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -95,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What Shopify migration services cost for a Canadian store",
-    note: `A migration that includes the new Shopify storefront is quoted from our ecommerce starting price of ${P.shop}, with data import, redirect mapping, tax setup and French pages itemised as separate lines. The things that move the figure are catalogue size and variant complexity, how many years of orders you want imported, how many URLs Google has indexed, whether the old store runs in two languages, and how many integrations must be reconnected. Shopify plans, paid migration tools and apps are paid by you directly and never marked up. Post-launch SEO starts at ${P.seo} a month if you want ongoing work.`,
+    note: `A migration that includes the new Shopify storefront is quoted from our ecommerce starting price of ${P.shop}, with data import, redirect mapping, tax setup and French pages itemised as separate lines. The things that move the figure are catalogue size and variant complexity, how many years of orders you want imported, how many URLs Google has indexed, whether the old store runs in two languages, and how many integrations must be reconnected. Shopify plans, paid migration tools and apps are paid by you directly and never marked up. Post-launch SEO starts at ${P.seo} if you want ongoing work.`,
   },
   guideLabel: "Shopify migration services Canada guide",
   guide: [

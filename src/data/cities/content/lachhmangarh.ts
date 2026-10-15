@@ -7,7 +7,7 @@ const lachhmangarh: CityContent = {
   meta: {
     title: "IT Services in Lachhmangarh: Websites, Apps & AI",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Lachhmangarh haveli stays, traders, coaching centres, clinics and shops in Sikar.",
+      "Lachhmangarh Hindi websites, Android and iOS apps, Maps SEO and WhatsApp bots for haveli stays, traders, coaching centres and clinics. 2 months free upkeep.",
     keywords: [
       "IT services in Lachhmangarh",
       "IT services team in Lachhmangarh",
@@ -29,6 +29,10 @@ const lachhmangarh: CityContent = {
       "Laxmangarh me app banwana",
       "लक्ष्मणगढ़ वेबसाइट डिज़ाइन",
       "Shekhawati local SEO",
+      "Lachhmangarh website designer",
+      "web development company Lachhmangarh",
+      "hire freelance developer Lachhmangarh",
+      "Rajasthan SEO",
     ],
   },
   hero: {

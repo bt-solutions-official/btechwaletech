@@ -409,7 +409,7 @@ const content: FreelanceContent = {
       { name: "How much it costs to build an app", href: "/usa/app-development-cost/" },
       { name: "SaaS development company", href: "/usa/saas-development-company/" },
       { name: "Telehealth app development", href: "/usa/telehealth-app-development/" },
-      { name: "Field service app development", href: "/usa/field-service-app-development/" },
+      { name: "Custom software development", href: "/usa/custom-software-development/" },
       { name: "All services for US businesses", href: "/usa/" },
       { name: "Hire Indian developers", href: "/hire-indian-developers/" },
     ],

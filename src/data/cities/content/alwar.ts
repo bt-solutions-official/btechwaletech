@@ -7,7 +7,7 @@ const alwar: CityContent = {
   meta: {
     title: "IT Services in Alwar: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Alwar traders, MIA factories, sweet shops and hotels. Fixed starting prices, code in your name.",
+      "Alwar websites, local SEO, online stores and WhatsApp automation for traders, MIA factories, sweet shops and hotels. Fixed starting prices, code in your name.",
     keywords: [
       "website development team in Alwar",
       "web designer Alwar",
@@ -25,6 +25,14 @@ const alwar: CityContent = {
       "website maintenance Alwar",
       "Alwar me website kaise banaye",
       "अलवर वेबसाइट डिज़ाइन",
+      "Alwar website designer",
+      "web development company Alwar",
+      "hire freelance developer Alwar",
+      "Rajasthan SEO",
+      "Alwar me website kaise banwaye",
+      "website for sweet shops and mawa makers in Alwar",
+      "web designer in Hope Circus, Alwar",
+      "website for mIA vendors and contractors in Alwar",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const athni: CityContent = {
   meta: {
     title: "IT Services in Athni: Websites, Android Apps, SEO & AI",
     description:
-      "Kannada and Marathi websites, Android and iOS apps, local SEO and WhatsApp bots for Athni sugar-belt firms, Kolhapuri chappal makers, grape growers and clinics.",
+      "Athni Kannada and Marathi websites, mobile apps, local SEO and WhatsApp bots for sugar-belt firms, Kolhapuri chappal makers and grape growers. From ₹10,000.",
     keywords: [
       "IT services in Athni",
       "IT services team in Athni",
@@ -29,6 +29,10 @@ const athni: CityContent = {
       "Athni me website banwana",
       "Athani madhye website banvaychi",
       "ಅಥಣಿ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Athni website designer",
+      "web development company Athni",
+      "hire freelance developer Athni",
+      "Karnataka SEO",
     ],
   },
   hero: {

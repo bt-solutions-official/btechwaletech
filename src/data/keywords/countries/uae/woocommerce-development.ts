@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "woocommerce arabic store", "woocommerce slow fix", "woocommerce speed optimisation dubai", "magento to woocommerce migration",
       "opencart to woocommerce migration", "woocommerce vs shopify uae", "woocommerce plugin audit", "woocommerce hpos",
       "woocommerce developer near me", "woocommerce freelancer uae", "woocommerce maintenance dubai",
+      "hire woocommerce development in the UAE",
     ],
   },
   hero: {

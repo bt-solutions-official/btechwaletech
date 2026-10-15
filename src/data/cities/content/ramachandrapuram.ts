@@ -7,7 +7,7 @@ const ramachandrapuram: CityContent = {
   meta: {
     title: "IT Services in Ramachandrapuram | Web, Apps & AI",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Ramachandrapuram paddy traders, aqua farms, coconut dealers, colleges and clinics.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Ramachandrapuram paddy traders, aqua farms, coconut dealers, colleges and clinics. From ₹10,000.",
     keywords: [
       "IT services in Ramachandrapuram",
       "IT services team in Ramachandrapuram",
@@ -29,6 +29,12 @@ const ramachandrapuram: CityContent = {
       "Ramachandrapuram me website banwana",
       "Ramachandrapuram lo website design",
       "రామచంద్రపురం వెబ్‌సైట్ డిజైన్",
+      "Ramachandrapuram website designer",
+      "web development company Ramachandrapuram",
+      "hire freelance web developer Ramachandrapuram",
+      "Dr. B.R. Ambedkar Konaseema district SEO",
+      "website designer Dr. B.R. Ambedkar Konaseema district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

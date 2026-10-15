@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "POS billing software development", "e-invoice integration developer", "e-way bill software integration", "restaurant billing software custom",
       "retail billing software with barcode", "billing app for Android", "multi-branch billing software", "billing software with Tally export",
       "subscription billing system developer", "hire billing software developer",
+      "freelance billing software developer",
     ],
   },
   hero: {

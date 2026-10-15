@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "cloudflare pages website", "netlify website development", "astro jamstack", "next js static site", "hugo website developer",
       "is jamstack good for seo", "when not to use jamstack", "jamstack forms and search", "jamstack agency alternative",
       "jamstack website developer near me", "jamstack website bengaluru", "jamstack website mumbai", "jamstack website kya hai",
+      "best jamstack website development in India",
     ],
   },
   hero: {
@@ -200,7 +201,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, JAMstack website development starts at ${P.site} (about ${P.siteUsd}) for a business site of up to 100 pages, ${P.seoSite} for a data-driven site of 299+ pages, and ${P.shop} for a JAMstack store. Quotes from other developers vary widely, largely depending on how much of the list below they include.`,
         `The drivers are predictable. Distinct templates: each unique layout is designed and built once. Content source: Markdown is cheapest, a headless CMS adds setup and editor training. Dynamic features: forms are simple, while bookings, memberships and search add integration work. Migration: moving hundreds of posts from an old site, with redirects, takes real effort. Design: working from a finished Figma file is faster than designing from scratch.`,
-        `Ongoing costs are low. The first two months of maintenance are free; afterwards, care starts at ${P.care} a month for dependency updates, CMS changes and small edits. Hosting is often free or low-cost, and any CMS or search subscription is paid directly to the provider.`,
+        `Ongoing costs are low. The first two months of maintenance are free; afterwards, care starts at ${P.care} for dependency updates, CMS changes and small edits. Hosting is often free or low-cost, and any CMS or search subscription is paid directly to the provider.`,
         `Payment is by UPI or bank transfer in India, or in USD by Wise, wire or PayPal for clients abroad, in milestones you approve. See the full <a href='/pricing/'>pricing page</a> for every plan.`,
       ],
     },
@@ -230,7 +231,7 @@ const content: FreelanceContent = {
         `Yes. Search engines receive complete HTML on the first request, pages load quickly, and titles, meta descriptions, canonical tags and structured data are generated consistently from templates. JAMstack does not rank you by itself, but it removes common technical barriers.`,
         `Google's Core Web Vitals guidance on web.dev sets good thresholds of a Largest Contentful Paint within 2.5 seconds, an Interaction to Next Paint of 200 milliseconds or less, and a Cumulative Layout Shift of 0.1 or less, measured at the 75th percentile of page loads. Pre-rendered pages with little JavaScript have a head start on all three, though heavy images or third-party scripts can still spoil the numbers.`,
         `For large sites, JAMstack website development shines at programmatic pages: service-by-city or product-by-use pages generated from structured data, each with unique content, internal links and an entry in the XML sitemap. We add a rule that only genuinely distinct pages get generated, because near-identical pages help nobody.`,
-        `AI answer engines favour pages with clear headings, short self-contained answers, FAQs and schema markup, all of which templates can produce reliably. Nobody can guarantee rankings; if organic growth is the goal, pair the build with our <a href='/services/seo-services/'>SEO services</a> from ${P.seo} a month.`,
+        `AI answer engines favour pages with clear headings, short self-contained answers, FAQs and schema markup, all of which templates can produce reliably. Nobody can guarantee rankings; if organic growth is the goal, pair the build with our <a href='/services/seo-services/'>SEO services</a> from ${P.seo}.`,
       ],
     },
     {
@@ -250,7 +251,7 @@ const content: FreelanceContent = {
         `You should own every account a JAMstack site depends on: the Git repository, the hosting or CDN account, the domain and DNS, the headless CMS, and any API services. Because a JAMstack site is spread across several services, ownership needs a written list, not just a verbal assurance.`,
         `We create or transfer each account into your name and join as a collaborator. The handover document lists every service, what it does, which plan you are on, who pays for it and where its API keys are stored. Secrets live in the hosting platform's environment settings, never inside the code.`,
         `This matters because JAMstack sites are easy to move. With the repo and a list of services, another developer can rebuild and redeploy your site on a different host in an afternoon. That portability is a real advantage over builders that lock you in.`,
-        `Two months of maintenance are included after launch, covering fixes and small adjustments. Beyond that, care from ${P.care} a month keeps dependencies and integrations current; bigger additions are quoted before any work starts.`,
+        `Two months of maintenance are included after launch, covering fixes and small adjustments. Beyond that, care from ${P.care} keeps dependencies and integrations current; bigger additions are quoted before any work starts.`,
       ],
     },
     {
@@ -269,7 +270,7 @@ const content: FreelanceContent = {
         `This example is hypothetical, meant only to show how JAMstack website development is scoped. Say a tour operator in Kochi runs a slow WordPress site with 30 tour pages, 60 blog posts and a booking enquiry form, on shared hosting that went down during a festival-season promotion.`,
         `The plan: Astro as the generator, with tours and blog posts modelled as structured content in a headless CMS so the owner's staff can update prices, dates and photos. Each tour page gets an itinerary section, inclusions, FAQs with schema markup, and an enquiry form posting to a serverless function that emails the team and sends a WhatsApp alert.`,
         `Old WordPress URLs are mapped one to one; the handful that change get permanent redirects. Images are resized into modern formats at build time so the photo-heavy pages stay fast on phones. The site deploys to a static CDN tier opened in the operator's name.`,
-        `With about 90 pages and six templates, the build falls within the static plan starting at ${P.site}. The CMS may have its own plan if the team outgrows the free tier, paid directly by the operator. After two free months of maintenance, care from ${P.care} a month is optional. A festival traffic spike becomes the CDN's problem, not the operator's.`,
+        `With about 90 pages and six templates, the build falls within the static plan starting at ${P.site}. The CMS may have its own plan if the team outgrows the free tier, paid directly by the operator. After two free months of maintenance, care from ${P.care} is optional. A festival traffic spike becomes the CDN's problem, not the operator's.`,
       ],
     },
     {
@@ -339,7 +340,7 @@ const content: FreelanceContent = {
         ["JAMstack store build", "BtechWaleTech", `From ${P.shop} · ${P.shopUsd}`],
         ["CDN hosting", "Hosting platform, your account", "Free tier for many small sites; paid tiers as needed"],
         ["Headless CMS", "CMS provider, your account", "Free tier or provider's plan"],
-        ["Care after 2 free months", "BtechWaleTech", `From ${P.care} a month`],
+        ["Care after 2 free months", "BtechWaleTech", `From ${P.care}`],
       ],
     },
   ],
@@ -394,7 +395,7 @@ const content: FreelanceContent = {
     { question: "Is a JAMstack site really more secure?", answer: "It removes the most common attack routes for small business sites: there is no public login page, database or plugin code on the live site. The CMS, forms and APIs still need strong passwords, sensible permissions and spam protection, and third-party scripts still need care. It is a big reduction in risk, not a promise that nothing can ever go wrong." },
     { question: "What happens if the site gets a sudden traffic spike?", answer: "A CDN serves copies of your pages from many locations, so a spike from an ad campaign, a festival sale or a news mention rarely causes problems. The parts that could strain are dynamic features such as serverless forms or search, which we size for expected peaks. Your pages stay available even if a third-party widget has a bad day." },
     { question: "Who owns the JAMstack website and accounts?", answer: "You do. The repository, CDN hosting account, domain, CMS and any API services are opened in your name or transferred to you, and we join as collaborators you can remove. The handover document lists every service, its purpose, plan and billing, so another developer could take over or move the site to a different host easily." },
-    { question: "What maintenance does a JAMstack site need?", answer: `Less than WordPress, but not zero. Dependencies and the generator need occasional updates, CMS or API changes can break builds, and forms need spam monitoring. The first two months after launch are free; afterwards, care plans start at ${P.care} a month, with scope written into your quote before you commit.` },
+    { question: "What maintenance does a JAMstack site need?", answer: `Less than WordPress, but not zero. Dependencies and the generator need occasional updates, CMS or API changes can break builds, and forms need spam monitoring. The first two months after launch are free; afterwards, care plans start at ${P.care}, with scope written into your quote before you commit.` },
     { question: "Freelancer or agency for a JAMstack website?", answer: "For most JAMstack website development projects, a small freelance team is enough: you speak directly to the developers building the site, decisions are quick and there is no layer of account managers. A large agency suits big programmes with brand strategy, content teams and many stakeholders. We do not offer on-site meetings or large dedicated teams." },
     { question: "How do payments and contracts work?", answer: "You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing. Indian clients pay by UPI or bank transfer; international clients pay in USD via Wise, wire or PayPal, in milestones tied to preview links you can check. Any confidentiality terms are agreed in the quote, with our published terms covering the rest." },
     { question: "JAMstack website kya hota hai aur kiske liye sahi hai?", answer: "JAMstack website mein saare pages pehle se ready files ke roop mein ban jaate hain aur CDN se turant khulte hain, database ya server ka jhanjhat nahi hota. Company site, service pages, blog aur catalogue ke liye yeh bahut sahi hai. Agar har user ko alag dashboard dikhana hai, to web app better rahega. WhatsApp par apni requirement bhejiye." },

@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "advance and expense settlement software", "bill upload expense app", "expense management software for small business", "expense management software for pharma companies",
       "expense management software Pune", "expense management software Ahmedabad", "how to manage employee expenses", "kharcha claim app",
       "expense management software developer", "petty cash and reimbursement software",
+      "expense management software company in India",
+      "best expense management software in India",
+      "expense management software services",
     ],
   },
   hero: {

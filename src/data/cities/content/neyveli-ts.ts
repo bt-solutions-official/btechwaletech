@@ -7,7 +7,7 @@ const neyveli: CityContent = {
   meta: {
     title: "Neyveli Web Design, SEO & Apps | From ₹10,000",
     description:
-      "Tamil and English websites, SEO, online stores and WhatsApp automation for Neyveli NLC vendors, Main Bazaar shops, clinics, tuition centres and farm sellers.",
+      "Tamil and English websites, SEO and online stores for Neyveli NLC vendors, Main Bazaar shops, clinics, tuition centres and farm sellers. Sites from ₹10,000.",
     keywords: [
       "website development team in Neyveli",
       "web designer Neyveli",
@@ -25,6 +25,16 @@ const neyveli: CityContent = {
       "ecommerce website Neyveli",
       "Neyveli website maintenance",
       "Neyveli la website",
+      "Neyveli Township website designer",
+      "website cost in Neyveli Township",
+      "web development company Neyveli Township",
+      "hire freelance web developer Neyveli Township",
+      "Cuddalore district SEO",
+      "website designer Cuddalore district",
+      "Tamil Nadu SEO services",
+      "Neyveli Township township retail website",
+      "township retail website design Neyveli Township",
+      "website design Block 19 daily market Neyveli Township",
     ],
   },
   hero: {

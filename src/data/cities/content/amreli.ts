@@ -7,7 +7,7 @@ const amreli: CityContent = {
   meta: {
     title: "IT Services in Amreli: Websites, Apps, SEO & AI",
     description:
-      "Websites from ₹10,000 for Amreli groundnut and cotton traders, diamond units, clinics, schools and shops, with Gujarati pages, Google Maps work and WhatsApp bots.",
+      "Amreli websites from ₹10,000 for groundnut and cotton traders, diamond units, clinics, schools and shops, with Gujarati pages, Maps work and WhatsApp bots.",
     keywords: [
       "website development team in Amreli",
       "web designer Amreli",
@@ -25,6 +25,14 @@ const amreli: CityContent = {
       "website design Savarkundla Babra",
       "Amreli ma website banavvi che",
       "અમરેલી વેબસાઇટ ડિઝાઇન",
+      "Amreli website designer",
+      "website cost in Amreli",
+      "web development company Amreli",
+      "hire freelance developer Amreli",
+      "Gujarat SEO",
+      "website for groundnut traders and oil mills in Amreli",
+      "web designer in Rajkamal Chowk, Amreli",
+      "website for cotton ginning units in Amreli",
     ],
   },
   hero: {

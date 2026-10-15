@@ -7,7 +7,7 @@ const faridkot: CityContent = {
   meta: {
     title: "IT Services in Faridkot | Web, Apps & AI from ₹10,000",
     description:
-      "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Faridkot arhtiyas, hospitals, implement makers, IELTS centres and shops.",
+      "Faridkot Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for arhtiyas, hospitals, implement makers, IELTS centres and shops.",
     keywords: [
       "IT services in Faridkot",
       "IT services team in Faridkot",
@@ -29,6 +29,10 @@ const faridkot: CityContent = {
       "Jaitu digital marketing",
       "Faridkot me website banwana",
       "Faridkot vich website banvauni",
+      "Faridkot website designer",
+      "web development company Faridkot",
+      "hire freelance developer Faridkot",
+      "Punjab SEO",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const jhargram: CityContent = {
   meta: {
     title: "IT Services in Jhargram | Web, Apps & AI from ₹10,000",
     description:
-      "Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Jhargram homestays, sabai craft groups, clinics, colleges and Jungle Mahal traders.",
+      "Jhargram Bengali websites, mobile apps, local SEO and WhatsApp automation for homestays, sabai craft groups, clinics and colleges. From ₹10,000, code yours.",
     keywords: [
       "IT services in Jhargram",
       "IT services team in Jhargram",
@@ -29,6 +29,10 @@ const jhargram: CityContent = {
       "Jhargram-e website banano",
       "ঝাড়গ্রাম ওয়েবসাইট ডিজাইন",
       "Gopiballavpur Nayagram local SEO",
+      "Jhargram website designer",
+      "web development company Jhargram",
+      "hire freelance developer Jhargram",
+      "West Bengal SEO",
     ],
   },
   hero: {

@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 27.669, lng: 95.863 },
   meta: {
-    title: "Freelance Software Developers in Namsai",
+    title: "Namsai Software Developers: Universities & Schools",
     description:
-      "Freelance software developers in Namsai for admission systems, workflow automation, apps and SEO. Three remote engineers, prices from ₹10,000, UPI or bank pay.",
+      "Freelance software developers in Namsai for admission systems, workflow automation, apps and SEO. Three remote engineers, prices from ₹10,000.",
     keywords: [
       "iOS app development Namsai",
       "iPhone app developers Namsai",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "AI agent for small business Arunachal",
       "IT support Namsai Lathao Mahadevpur",
       "Namsai mein website aur software banwana",
+      "Namsai website designer",
+      "website cost in Namsai",
+      "IT company in Namsai",
+      "Arunachal Pradesh SEO services",
+      "hire developer Namsai",
+      "universities software in Namsai",
+      "schools software in Namsai",
     ],
   },
   hero: {

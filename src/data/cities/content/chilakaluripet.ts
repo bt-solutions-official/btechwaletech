@@ -7,7 +7,7 @@ const chilakaluripet: CityContent = {
   meta: {
     title: "Chilakaluripet IT Services | Web, Apps, SEO & AI",
     description:
-      "Websites, Telugu local SEO and WhatsApp tools for Chilakaluripet spinning and ginning mills, traders, schools and clinics on NH16. Sites start from ₹10,000.",
+      "Chilakaluripet websites, Telugu local SEO and WhatsApp tools for spinning and ginning mills, traders, schools and clinics on NH16. Sites start from ₹10,000.",
     keywords: [
       "website development team in Chilakaluripet",
       "web designer Chilakaluripet",
@@ -24,6 +24,15 @@ const chilakaluripet: CityContent = {
       "website maintenance Chilakaluripet",
       "Chilakaluripet lo website cheyinchukovadam",
       "చిలకలూరిపేట వెబ్‌సైట్ డిజైన్",
+      "Chilakaluripet website designer",
+      "website cost in Chilakaluripet",
+      "web development company Chilakaluripet",
+      "hire freelance developer Chilakaluripet",
+      "Palnadu district · Andhra Pradesh SEO",
+      "website for spinning mills in Chilakaluripet",
+      "web designer in NRT Centre, Chilakaluripet",
+      "website for ginning and pressing units in Chilakaluripet",
+      "mobile app developer in Chilakaluripet",
     ],
   },
   hero: {

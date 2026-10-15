@@ -25,7 +25,7 @@ const content: FreelanceContent = {
     eyebrow: "Search visibility for law firms in England and Wales",
     h1: "SEO for solicitors: rank for local legal searches without stepping outside SRA rules",
     lede: `SEO for solicitors means earning visibility for searches such as “conveyancing solicitors in Leeds” or “probate solicitor near me” with pages that are accurate, written or reviewed by named solicitors, and honest enough to satisfy both Google and the SRA Code of Conduct. BtechWaleTech is three freelance developers working remotely from India, one of whom specialises in technical SEO. We build and improve practice-area pages, set up local SEO for each staffed office, grow genuine reviews on Google and ReviewSolicitors, and track enquiries by practice area so you can see what pays. Monthly SEO starts at ${P.seo}. For the site itself, see <a href='/uk/solicitor-website-design/'>solicitor website design</a>.`,
-    pills: ["Practice-area pages that rank", "One Business Profile per staffed office", "Named-solicitor E-E-A-T", "Genuine review growth", "Enquiries tracked by practice area", "No ranking guarantees", "From " + P.seo + " a month"],
+    pills: ["Practice-area pages that rank", "One Business Profile per staffed office", "Named-solicitor E-E-A-T", "Genuine review growth", "Enquiries tracked by practice area", "No ranking guarantees", "From " + P.seo + ""],
     origin: "Three freelance developers in India · technical SEO led by another of us · WhatsApp 7 days a week",
   },
   facts: [
@@ -79,7 +79,7 @@ const content: FreelanceContent = {
     note: "Most firms use a mix. The comparison is about what each route leaves you with after a year.",
     columns: ["Aspect", "Paid ads and legal directories only", "Legal marketing retainer", "BtechWaleTech monthly SEO"],
     rows: [
-      ["Cost pattern", "Pay per click or per listing, ongoing", "Monthly fee; quotes vary widely", `From ${P.seo} a month`],
+      ["Cost pattern", "Pay per click or per listing, ongoing", "Monthly fee; quotes vary widely", `From ${P.seo}`],
       ["What you own at the end", "Nothing once spending stops", "Depends on the contract", "Pages, data and accounts in your firm’s name"],
       ["Practice-area content", "Not included", "Often included", "Drafted with your solicitors, approved by them"],
       ["Office-by-office local SEO", "Directory profiles only", "Usually included", "Profile per staffed office, office pages"],

@@ -7,7 +7,7 @@ const hardoi: CityContent = {
   meta: {
     title: "Hardoi Website & SEO Services | ₹10,000 Onwards",
     description:
-      "Hindi websites, local SEO, trader and dealer catalogues, school and clinic pages, and WhatsApp automation for Hardoi, Sandila, Shahabad and Bilgram businesses.",
+      "Hardoi, Sandila and Shahabad websites, local SEO, trader and dealer catalogues, school and clinic pages, and WhatsApp bots. Live in 1-2 weeks.",
     keywords: [
       "website development team in Hardoi",
       "web designer Hardoi",
@@ -25,6 +25,14 @@ const hardoi: CityContent = {
       "website maintenance Hardoi",
       "Google Maps listing Hardoi",
       "हरदोई वेबसाइट डिजाइन",
+      "Hardoi website designer",
+      "website cost in Hardoi",
+      "web development company Hardoi",
+      "hire freelance developer Hardoi",
+      "Uttar Pradesh SEO",
+      "Hardoi me website kaise banwaye",
+      "website for grain and groundnut traders in Hardoi",
+      "web designer in Cinema Chauraha, Hardoi",
     ],
   },
   hero: {

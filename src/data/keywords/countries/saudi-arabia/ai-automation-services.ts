@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `AI Automation Services Saudi Arabia, from ${P.ai}`,
-    description: `AI automation services in Saudi Arabia from ${P.ai}: invoice extraction into accounting, Arabic email triage, Sheets and CRM sync on n8n or Make, with ROI maths.`,
+    description: `AI automation services in Saudi Arabia from ${P.ai}: invoice extraction into accounting, Arabic email triage, Sheets and CRM sync on n8n or Make.`,
     keywords: [
       "ai automation services saudi arabia", "ai automation saudi arabia", "business process automation saudi arabia", "ai automation for smes ksa",
       "n8n developer saudi arabia", "make.com automation expert", "workflow automation riyadh", "ai automation jeddah", "automation consultant dammam",
@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "support ticket triage ai arabic", "google sheets crm sync automation", "ai automation cost saudi arabia", "how much does ai automation cost",
       "which tasks can ai automate", "ai automation roi", "back office automation saudi", "ai document processing arabic", "hire automation developer india",
       "zapier alternative self hosted", "ai workflow for accounting",
+      "freelance ai automation services Saudi Arabia",
     ],
   },
   hero: {

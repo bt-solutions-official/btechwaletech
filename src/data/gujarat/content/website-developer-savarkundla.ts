@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Savarkundla: Scale Catalogues`,
-    description: `Website developer in Savarkundla for weighing-scale makers, weighbridge builders, dealers and shops. Product catalogues from ${P.site}, dealer forms, Gujarati-ready.`,
+    description: `Website developer in Savarkundla for weighing-scale makers, weighbridge builders, dealers and shops. Catalogues from ${P.site}, dealer forms, Gujarati-ready.`,
     keywords: [
       "website developer in Savarkundla", "website developer Savarkundla", "Savarkundla Gujarat website", "web developer near me Savarkundla",
       "weighing scale manufacturer website", "weighing scale website design", "weighbridge manufacturer website", "electronic scale dealer website",
@@ -347,7 +347,7 @@ const content: FreelanceContent = {
       { name: "Amreli", note: "The district headquarters needs sites for hospitals, schools, professionals and traders.", href: "/gujarat/website-developer-amreli/" },
       { name: "Rajula", note: "Port, cement and quarry-linked suppliers near Pipavav need English-first service sites.", href: "/gujarat/website-developer-rajula/" },
       { name: "Mahuva", note: "Mahuva's traders, food processors and coastal businesses need catalogues and local sites.", href: "/gujarat/website-developer-mahuva/" },
-      { name: "Gariadhar", note: "Diamond units and traders in Gariadhar need discreet profiles and Gujarati hiring pages." },
+      { name: "Gariadhar", note: "Diamond units and traders in Gariadhar need discreet profiles and Gujarati hiring pages.", href: "/gujarat/website-developer-gariadhar/" },
       { name: "Lathi", note: "Town services and agri businesses in Lathi need compact sites and correct local listings.", href: "/gujarat/website-developer-lathi/" },
       { name: "Palitana", note: "Pilgrim-facing hotels, dharamshalas and shops in Palitana need booking enquiries and directions.", href: "/palitana/" },
       { name: "Una", note: "Coastal and farm businesses in Una need simple sites that serve both locals and visitors.", href: "/una/" },
@@ -390,6 +390,7 @@ const content: FreelanceContent = {
     heading: "Related guides for Savarkundla and Amreli district",
     links: [
       { name: "All Gujarat guides", href: "/gujarat/" },
+      { name: "Website developer in Jafrabad", href: "/gujarat/website-developer-jafrabad/" },
       { name: "Website developer in Amreli", href: "/gujarat/website-developer-amreli/" },
       { name: "Website developer in Rajula", href: "/gujarat/website-developer-rajula/" },
       { name: "Website developer in Mahuva", href: "/gujarat/website-developer-mahuva/" },

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Transport management software for transporters",
   updated: "2026-09-25",
   meta: {
-    title: `Transport Management Software for Transporters, LR–POD`,
+    title: `Transport Management Software: LR-POD, ${P.software}+`,
     description: `Transport management software for transporters: LR/bilty, trip sheets, driver and freight advances, broker and party ledgers, e-way bills, POD. From ${P.software}.`,
     keywords: [
       "transport management software for transporters", "transport management software", "transporter software", "transport software India",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "transport management software cost", "how much does transport software cost in India", "custom transport ERP",
       "transport software with Tally sync", "market vehicle hire software", "transport ka software banwana hai", "bilty banane ka software",
       "transport software Delhi", "transport software Namakkal", "transport software Indore", "truck booking software for transporters",
+      "transport management software for transporters cost", "transport management software for transporters price", "transport management software for transporters company", "best transport management software for transporters in India",
+      "transport management software for transporters cost in India", "transport management software for transporters near me",
     ],
   },
   hero: {
@@ -97,7 +99,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Transport software pricing",
-    note: `We price transport software in parts. The web software, covering LR booking, trip sheets, market vehicle hire, advances, POD status, party and broker ledgers, freight bills and reports, starts at ${P.software}. The Android driver app for trip details, expense photos and POD upload starts at ${P.app}. Tally sync, WhatsApp statements and automated POD reminders are quoted as add-ons, with automation work starting at ${P.ai}. A simple website for shippers to find you starts at ${P.site}. After two months of free maintenance, upkeep starts at ${P.care} a month. All figures are starting prices, itemised in your written quote.`,
+    note: `We price transport software in parts. The web software, covering LR booking, trip sheets, market vehicle hire, advances, POD status, party and broker ledgers, freight bills and reports, starts at ${P.software}. The Android driver app for trip details, expense photos and POD upload starts at ${P.app}. Tally sync, WhatsApp statements and automated POD reminders are quoted as add-ons, with automation work starting at ${P.ai}. A simple website for shippers to find you starts at ${P.site}. After two months of free maintenance, upkeep starts at ${P.care}. All figures are starting prices, itemised in your written quote.`,
   },
   guideLabel: "Transporter software guide",
   guide: [
@@ -246,7 +248,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Choose ready-made transport management software for transporters when your work fits its screens and its fees suit your size; choose a custom system when your freight bases, broker arrangements, branch accounting or print formats keep forcing workarounds, or when you want to own the data and code outright.`,
         `India has several ready-made transport software products, many of them decent, and small operators should try them first. The limits tend to appear as you grow: fixed LR formats, a single way of handling broker balances, reports that do not show trip margins the way you calculate them, or per-branch and per-user fees that add up.`,
-        `A custom build takes longer to start, usually several weeks, and asks for your time to explain how the office really works. In return the software matches your process, the code and database sit in your own cloud account, and there is no charge per truck or per LR. After two free months of maintenance, upkeep starts at ${P.care} a month, or you can hand the code to another developer. Our <a href='/off-the-shelf-vs-custom-software/'>off-the-shelf vs custom software</a> page gives the general decision rules.`,
+        `A custom build takes longer to start, usually several weeks, and asks for your time to explain how the office really works. In return the software matches your process, the code and database sit in your own cloud account, and there is no charge per truck or per LR. After two free months of maintenance, upkeep starts at ${P.care}, or you can hand the code to another developer. Our <a href='/off-the-shelf-vs-custom-software/'>off-the-shelf vs custom software</a> page gives the general decision rules.`,
       ],
     },
     {
@@ -421,7 +423,7 @@ const content: FreelanceContent = {
     { question: "How long does it take to build transport management software for transporters?", answer: "A first release covering LR booking, trips, advances, broker hire, POD and ledgers usually takes about 6–12 weeks, depending on branches and integrations. The driver app is built in parallel. Go-live then moves branch by branch over a few weeks, with opening balances loaded before each switch." },
     { question: "How are GST details handled on freight bills?", answer: "Your accountant decides the GST treatment for your transport business and each type of party, including who pays the tax. We then set the tax rule per party or bill type, print required declarations and GST fields on bills, and pass the same data to Tally. We do not give tax advice ourselves." },
     { question: "Should I use a freelancer or a large software vendor for transport software?", answer: "A focused freelance team can build and support transporter software well, especially for businesses with a few branches, since you speak directly with the three developers writing the code. Large vendors suit very big fleets needing many integrations and staff support desks. Whoever you pick, confirm code ownership and ask them to walk through a broker deduction before signing." },
-    { question: "What maintenance do you provide after launch?", answer: `The first two months after go-live are free and cover bug fixes, small format changes and help while staff settle in. After that, maintenance starts at ${P.care} a month and usually includes security updates, server checks, Android updates for the driver app and minor changes. New modules or branches are quoted separately.` },
+    { question: "What maintenance do you provide after launch?", answer: `The first two months after go-live are free and cover bug fixes, small format changes and help while staff settle in. After that, maintenance starts at ${P.care} and usually includes security updates, server checks, Android updates for the driver app and minor changes. New modules or branches are quoted separately.` },
     { question: "Do you visit our transport office for training?", answer: "No. We are a remote freelance team in India and do not make site visits. Training happens through short videos in Hindi and English and live video calls during the first week of each branch switch. A senior clerk in your office usually becomes the internal trainer for new staff." },
     { question: "Transport ka software banwane mein kitna kharcha aayega?", answer: `BtechWaleTech ke saath transport office ka software ${P.software} se shuru hota hai, aur driver app ${P.app} se. Kharcha is par depend karta hai ki kitni branches hain, broker aur market gaadi ka hisaab kaise chalta hai, aur Tally ya GPS se jodna hai ya nahi. Aapki bilty aur challan ki photo dekh kar hum lagbhag do working days mein itemised quote bhejte hain.` },
   ],

@@ -214,7 +214,7 @@ const content: FreelanceContent = {
         `They can, but a new store needs search work built in from the start, and no one can promise rankings. Product and category pages are the pages that rank, so they need care.`,
         `Each product gets a unique title, a written description rather than a pasted manufacturer blurb, clean URLs, compressed photos with alt text, and product schema with price and availability. Category pages get a short introduction answering what a buyer is comparing. Sitemaps are submitted to Google Search Console at launch, and the catalogue can be connected to Google Merchant Center so products appear in shopping results where eligible.`,
         `Local search matters too. If you offer pickup or have a shop in Bharuch, your Google Business Profile should link to the store and carry the same name, address and phone. Brands with a story, such as a family peanut recipe or a Narmada-side heritage, should tell it on an about page; AI assistants and Google's AI Overviews tend to quote clear, specific answers and those pages often supply them.`,
-        `Monthly optimisation is optional through <a href='/services/seo-services/'>SEO services</a> from ${P.seo} a month.`,
+        `Monthly optimisation is optional through <a href='/services/seo-services/'>SEO services</a> from ${P.seo}.`,
       ],
     },
     {

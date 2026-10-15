@@ -7,7 +7,7 @@ const srikalahasti: CityContent = {
   meta: {
     title: "IT Services in Srikalahasti | Web, Apps & AI",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Srikalahasti lodges, Kalamkari artists, temple-street shops, clinics and colleges.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Srikalahasti lodges, Kalamkari artists, temple-street shops, clinics and colleges. Sites from ₹10,000.",
     keywords: [
       "IT services in Srikalahasti",
       "IT services team in Srikalahasti",
@@ -29,6 +29,12 @@ const srikalahasti: CityContent = {
       "Srikalahasti me website banwana",
       "Srikalahasti lo website cheyinchukovadam",
       "శ్రీకాళహస్తి వెబ్‌సైట్ డిజైన్",
+      "Srikalahasti website designer",
+      "web development company Srikalahasti",
+      "hire freelance web developer Srikalahasti",
+      "Tirupati district SEO",
+      "website designer Tirupati district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

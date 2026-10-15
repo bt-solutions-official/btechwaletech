@@ -7,7 +7,7 @@ const wanaparthy: CityContent = {
   meta: {
     title: "IT Services in Wanaparthy: Websites, Apps, SEO & AI",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Wanaparthy rice millers, Kothakota weavers, colleges, hospitals and shops.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Wanaparthy rice millers, Kothakota weavers, colleges, hospitals and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Wanaparthy",
       "IT services team in Wanaparthy",
@@ -29,6 +29,12 @@ const wanaparthy: CityContent = {
       "Wanaparthy me website banwana",
       "Wanaparthy lo website cheyinchali",
       "వనపర్తి వెబ్‌సైట్ డిజైన్",
+      "Wanaparthy website designer",
+      "web development company Wanaparthy",
+      "hire freelance web developer Wanaparthy",
+      "Wanaparthy district SEO",
+      "website designer Wanaparthy district",
+      "Telangana SEO services",
     ],
   },
   hero: {

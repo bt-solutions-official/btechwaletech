@@ -413,6 +413,8 @@ const content: FreelanceContent = {
     heading: "More Ahmedabad and Gujarat design guides",
     links: [
       { name: "All website services in Gujarat", href: "/gujarat/" },
+      { name: "School website in Ahmedabad", href: "/gujarat/school-website-ahmedabad/" },
+      { name: "CA firm website in Ahmedabad", href: "/gujarat/ca-firm-website-ahmedabad/" },
       { name: "Website development services in Ahmedabad", href: "/gujarat/website-development-services-ahmedabad/" },
       { name: "Freelance web developer in Ahmedabad", href: "/gujarat/freelance-web-developer-ahmedabad/" },
       { name: "Website development cost in Ahmedabad", href: "/gujarat/website-development-cost-ahmedabad/" },

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "WordPress developer near me",
   updated: "2026-09-24",
   meta: {
-    title: "WordPress Developer Near Me: Updates, Hacks, Backups",
+    title: `WordPress Developer Near Me: Care from ${P.care}`,
     description: `Looking for a WordPress developer near me? Updates, hacked-site cleanup, backups and speed fixes for small businesses, with care plans from ${P.care}.`,
     keywords: [
       "wordpress developer near me", "wordpress developer in India", "wordpress expert near me", "wordpress developer for hire",

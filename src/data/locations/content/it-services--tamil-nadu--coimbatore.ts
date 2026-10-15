@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 11.0168, lng: 76.9558 },
   meta: {
-    title: "Freelance Software Developers in Coimbatore",
+    title: "Coimbatore Software Developers: Pumps & Foundries",
     description:
-      "Comparing software development companies in Coimbatore? Hire freelance developers for custom software, AI automation, apps and dashboards. Web apps from ₹60,000.",
+      "Comparing software development companies in Coimbatore? Hire freelance developers for custom software, AI automation and apps. Web apps from ₹60,000.",
     keywords: [
       "software development team in Coimbatore",
       "Android app development Coimbatore",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "IT support and maintenance Coimbatore",
       "Kovai software team",
       "கோயம்புத்தூர் மென்பொருள் நிறுவனம்",
+      "Coimbatore website designer",
+      "website cost in Coimbatore",
+      "IT company in Coimbatore",
+      "Tamil Nadu SEO services",
+      "hire developer Coimbatore",
+      "pumps software in Coimbatore",
+      "foundries software in Coimbatore",
     ],
   },
   hero: {

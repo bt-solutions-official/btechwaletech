@@ -7,7 +7,7 @@ const eluru: CityContent = {
   meta: {
     title: "Eluru Web Development, SEO & WhatsApp Automation",
     description:
-      "Websites, Telugu and English SEO, stores and WhatsApp automation for Eluru aqua farms, carpet exporters, oil palm firms, hospitals and colleges. From ₹10,000.",
+      "Eluru websites, Telugu and English SEO, stores and WhatsApp automation for aqua farms, carpet exporters, oil palm firms, hospitals and colleges. From ₹10,000.",
     keywords: [
       "website development team in Eluru",
       "web designer Eluru",
@@ -24,6 +24,15 @@ const eluru: CityContent = {
       "freelance web developer Eluru",
       "Eluru lo website design",
       "ఏలూరు వెబ్‌సైట్ డిజైన్",
+      "Eluru website designer",
+      "web development company Eluru",
+      "hire freelance developer Eluru",
+      "Andhra Pradesh SEO",
+      "website for aquaculture feed and inputs in Eluru",
+      "web designer in R.R. Pet, Eluru",
+      "website for carpet makers and exporters in Eluru",
+      "mobile app developer in Eluru",
+      "ecommerce website development in Eluru",
     ],
   },
   hero: {

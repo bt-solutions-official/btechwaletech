@@ -7,7 +7,7 @@ const gooty: CityContent = {
   meta: {
     title: "IT Services in Gooty | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Gooty groundnut traders, railway suppliers, lorry offices, clinics and shops.",
+      "Gooty Telugu websites, mobile apps, Maps SEO and WhatsApp automation for groundnut traders, railway suppliers, lorry offices, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Gooty",
       "IT company in Gooty",
@@ -29,6 +29,10 @@ const gooty: CityContent = {
       "Gooty me website banwana",
       "Gooty lo website kavali",
       "గూటి వెబ్‌సైట్ డిజైన్",
+      "Gooty website designer",
+      "web development company Gooty",
+      "hire freelance developer Gooty",
+      "Andhra Pradesh SEO",
     ],
   },
   hero: {

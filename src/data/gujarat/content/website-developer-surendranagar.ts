@@ -230,7 +230,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `It can be found, but no one can promise a ranking, and you should walk away from anyone who does. Visibility comes from a well-built site plus months of steady signals.`,
         `For B2B units the strongest pages are specific ones: “Shankar-6 cotton bales supplier Surendranagar” or “industrial salt supplier Little Rann” as page topics, each answering the buyer's real questions with numbers. Local businesses rely more on their <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a>, which should match the website's name, address and phone exactly.`,
-        `Every site we launch includes unique titles and descriptions, clean URLs, schema for organisation, products and FAQs, an XML sitemap and Google Search Console. AI assistants and AI Overviews lean on pages that answer one question clearly and show data in tables, so we write spec and FAQ blocks that way. Ongoing SEO is optional, from ${P.seo} a month; our <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> page explains what it involves.`,
+        `Every site we launch includes unique titles and descriptions, clean URLs, schema for organisation, products and FAQs, an XML sitemap and Google Search Console. AI assistants and AI Overviews lean on pages that answer one question clearly and show data in tables, so we write spec and FAQ blocks that way. Ongoing SEO is optional, from ${P.seo}; our <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> page explains what it involves.`,
       ],
     },
     {

@@ -7,7 +7,7 @@ const sunam: CityContent = {
   meta: {
     title: "IT Services in Sunam | Web, Apps & AI from ₹10,000",
     description:
-      "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Sunam arhtiyas, cloth and utensil wholesalers, jewellers, colleges and clinics.",
+      "Punjabi websites, apps, local SEO and WhatsApp tools for Sunam arhtiyas, cloth and utensil wholesalers, jewellers, colleges and clinics. From ₹10,000.",
     keywords: [
       "IT services in Sunam",
       "IT services team in Sunam",
@@ -29,6 +29,12 @@ const sunam: CityContent = {
       "Sunam vich website banvauni",
       "ਸੁਨਾਮ ਵੈਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
       "Longowal Sangrur website developer",
+      "Sunam Udham Singh Wala website designer",
+      "website cost in Sunam Udham Singh Wala",
+      "web development company Sunam Udham Singh Wala",
+      "hire freelance web developer Sunam Udham Singh Wala",
+      "Sangrur district SEO",
+      "website designer Sangrur district",
     ],
   },
   hero: {

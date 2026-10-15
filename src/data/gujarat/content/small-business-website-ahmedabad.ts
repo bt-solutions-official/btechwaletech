@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Small Business Website in Ahmedabad from ${P.site}`,
-    description: `A small business website in Ahmedabad from ${P.site}: fast pages, Google Maps, WhatsApp button and Gujarati pages with your text. Live in 1–2 weeks, yours to keep.`,
+    description: `Small business website in Ahmedabad from ${P.site}: fast pages, Google Maps, a WhatsApp button and Gujarati pages. Live in 1–2 weeks and yours to keep.`,
     keywords: [
       "small business website in Ahmedabad", "small business website Ahmedabad", "website for small business Ahmedabad", "shop website Ahmedabad",
       "small business website near me", "small business website Ahmedabad Gujarat", "cheap website for shop Ahmedabad", "low cost website Ahmedabad",
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Enquiry form", note: "A short form that sends enquiries to your email, with spam protection, for customers who prefer not to call.", size: "md" },
       { name: "Basic Google setup", note: "Titles, descriptions, a sitemap and Search Console, so Google can find and list your pages from day one.", size: "sm" },
       { name: "Business email setup", note: "An email address on your own domain, set up in your name, for quotes and supplier mails.", href: "/gujarat/domain-hosting-email-setup-gujarat/", size: "sm" },
-      { name: "Care after launch", note: `Free edits and fixes for 2 months, then optional care from ${P.care} a month.`, size: "sm" },
+      { name: "Care after launch", note: `Free edits and fixes for 2 months, then optional care from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -198,7 +198,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The build is a one-time cost from ${P.site}. After that, the yearly costs are small and paid by you directly: the domain renewal and hosting, plus business email if you want it.`,
         `A static site needs very little hosting, so running costs stay low. We set up the domain and hosting in your name, on your own card or account, so renewal reminders come to you and nobody can hold your website back. There are no hidden yearly “maintenance fees” in our quote.`,
-        `For two months after launch, changes and fixes are free. After that, you can simply message us when you need a change and we quote it, or choose a care plan from ${P.care} a month if you change things often. Many small shops need only a few updates a year, such as new photos, festival timings or a new service.`,
+        `For two months after launch, changes and fixes are free. After that, you can simply message us when you need a change and we quote it, or choose a care plan from ${P.care} if you change things often. Many small shops need only a few updates a year, such as new photos, festival timings or a new service.`,
         `If you are comparing offers, ask every developer who owns the domain and what the yearly renewal includes. Our page on <a href='/website-ka-yearly-kharcha/'>a website's yearly costs</a> explains the usual items.`,
       ],
     },
@@ -272,7 +272,7 @@ const content: FreelanceContent = {
       heading: "After launch: updates, ownership and shops beyond the city",
       paragraphs: [
         `Once your site is live, it is fully yours: the domain, hosting, files and every login are in your name, and you get a simple sheet listing them with renewal dates.`,
-        `For two months after launch, small changes like new photos, timing updates or a new service are free. After that, send changes on WhatsApp and we quote them, or choose a care plan from ${P.care} a month if you update often. Keep your Google listing fresh with photos and replies to reviews; that part is quick to do yourself.`,
+        `For two months after launch, small changes like new photos, timing updates or a new service are free. After that, send changes on WhatsApp and we quote them, or choose a care plan from ${P.care} if you update often. Keep your Google listing fresh with photos and replies to reviews; that part is quick to do yourself.`,
         `The same simple process works for shops anywhere around the city and across Gujarat: traders in Kalol, businesses in Dholka or Bavla, or shops in Gandhinagar. Surat shop owners can read <a href='/gujarat/small-business-website-surat/'>small business websites in Surat</a>, and the state-wide view is on <a href='/gujarat/small-business-website-gujarat/'>small business websites in Gujarat</a>. For other IT help in the city, see the <a href='/ahmedabad/'>Ahmedabad services page</a>.`,
       ],
     },
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
       ["Domain and hosting in your name", "We set them up together on a call, paid by you directly, so the website always belongs to you."],
       ["See it on your phone", "A private link shows your pages as they are built. Send changes on WhatsApp, in one list if possible."],
       ["Go live and get found", "After the final payment the site goes live, linked to your Google listing, Instagram and WhatsApp Business profile."],
-      ["Two months of free help", `Small changes and fixes are free for two months. After that, ask when needed or choose care from ${P.care} a month.`],
+      ["Two months of free help", `Small changes and fixes are free for two months. After that, ask when needed or choose care from ${P.care}.`],
     ],
   },
   faqHeading: "Small business website in Ahmedabad: questions owners ask",
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
     { question: "Can my website be in Gujarati?", answer: "Yes. We build Gujarati pages with proper text that Google can read, a clear Gujarati font and a switch between languages. The BtechWaleTech team writes English and Hindi, so the Gujarati wording comes from you, a family member or a translator, and we place it neatly on the site." },
     { question: "Will customers be able to contact me on WhatsApp from the website?", answer: "Yes. Every page has a WhatsApp button that opens a chat with your number and a ready message mentioning the page. Customers just tap send. If you use WhatsApp Business, you can add a greeting message, quick replies and a product catalogue, and the website can link to that catalogue too." },
     { question: "Who owns the website and domain?", answer: "You do. The domain and hosting are registered in your name and paid by you directly, and you receive every login at launch with a list of renewal dates. That means you can change developers at any time, and nobody can hold your website or email back from you." },
-    { question: "What are the yearly costs after the website is made?", answer: `Only the domain renewal and hosting, plus business email if you choose it, all paid directly to the providers in your name. A static site needs very little hosting. Changes are free for two months after launch; after that you can ask when needed or choose care from ${P.care} a month.` },
+    { question: "What are the yearly costs after the website is made?", answer: `Only the domain renewal and hosting, plus business email if you choose it, all paid directly to the providers in your name. A static site needs very little hosting. Changes are free for two months after launch; after that you can ask when needed or choose care from ${P.care}.` },
     { question: "Can I update the website myself?", answer: "On a static site, you send changes on WhatsApp and they are done for you, which suits shops that update a few times a year. If you want to change pages yourself every week, we can build a small WordPress site instead and show you how to edit it safely." },
     { question: "Do I need online payment on my small business website?", answer: `Usually not at first. You can show your UPI QR code or add payment links for things like class fees or advance orders. A full online store with cart, checkout and order records starts at ${P.shop}, and many shops add it later once they see enough demand online.` },
     { question: "Will my website come first on Google?", answer: "Nobody can honestly guarantee that. We build the site so Google can read it properly: clear titles naming your service and area, matching address details, schema, a sitemap and fast pages. Together with an accurate Google listing and genuine reviews, that gives you the best fair chance in local searches." },
@@ -383,6 +383,7 @@ const content: FreelanceContent = {
     heading: "More help for Ahmedabad businesses",
     links: [
       { name: "All Gujarat website services", href: "/gujarat/" },
+      { name: "CA firm website in Ahmedabad", href: "/gujarat/ca-firm-website-ahmedabad/" },
       { name: "Small business website in Gujarat", href: "/gujarat/small-business-website-gujarat/" },
       { name: "Small business website in Surat", href: "/gujarat/small-business-website-surat/" },
       { name: "Website development cost in Ahmedabad", href: "/gujarat/website-development-cost-ahmedabad/" },

@@ -7,7 +7,7 @@ const shegaon: CityContent = {
   meta: {
     title: "IT Services in Shegaon | Web & Apps from ₹10,000",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Shegaon lodges, kachori and prasad shops, cotton traders, colleges and clinics.",
+      "Marathi websites, apps, local SEO and WhatsApp tools for Shegaon lodges, kachori and prasad shops, cotton traders, colleges and clinics. From ₹10,000.",
     keywords: [
       "IT services in Shegaon",
       "IT services team in Shegaon",
@@ -29,6 +29,12 @@ const shegaon: CityContent = {
       "Shegaon me website banwana",
       "Shegaon madhe website banvane",
       "शेगाव वेबसाईट डिझाइन",
+      "Shegaon website designer",
+      "web development company Shegaon",
+      "hire freelance web developer Shegaon",
+      "Buldhana district SEO",
+      "website designer Buldhana district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

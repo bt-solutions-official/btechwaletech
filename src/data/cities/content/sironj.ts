@@ -7,7 +7,7 @@ const sironj: CityContent = {
   meta: {
     title: "IT Services in Sironj | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Sironj mandi traders, Jain trusts, colleges, clinics and shops in Vidisha district.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Sironj mandi traders, Jain trusts, colleges, clinics and shops in Vidisha district. From ₹10,000.",
     keywords: [
       "IT services in Sironj",
       "IT services team in Sironj",
@@ -29,6 +29,12 @@ const sironj: CityContent = {
       "Sironj me website banwana",
       "Sironj me app kaise banwaye",
       "सिरोंज वेबसाइट डिजाइन",
+      "Sironj website designer",
+      "web development company Sironj",
+      "hire freelance web developer Sironj",
+      "Vidisha district SEO",
+      "website designer Vidisha district",
+      "Madhya Pradesh SEO services",
     ],
   },
   hero: {

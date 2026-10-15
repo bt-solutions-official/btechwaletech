@@ -7,7 +7,7 @@ const phaltan: CityContent = {
   meta: {
     title: "IT Services in Phaltan | Web, Apps & AI from ₹10,000",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Phaltan MIDC suppliers, sugar and dairy firms, orchards, colleges and shops.",
+      "Marathi websites, apps, local SEO and WhatsApp tools for Phaltan MIDC suppliers, sugar and dairy firms, orchards, colleges and shops. Websites from ₹10,000.",
     keywords: [
       "IT services in Phaltan",
       "IT services team in Phaltan",
@@ -29,6 +29,12 @@ const phaltan: CityContent = {
       "Phaltan me website banwana",
       "Phaltan madhe website banvaychi aahe",
       "फलटण वेबसाइट डिझाइन",
+      "Phaltan website designer",
+      "web development company Phaltan",
+      "hire freelance web developer Phaltan",
+      "Satara district SEO",
+      "website designer Satara district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

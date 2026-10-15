@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Meetings", value: "Face to face in Bhiwadi at scoping, review and launch" },
       { label: "Languages", value: "Hindi, English, or both in one app" },
       { label: "You own", value: "Play Console, Apple account, code, server and data" },
-      { label: "Support", value: `Two free months, then from ${P.care} a month` },
+      { label: "Support", value: `Two free months, then from ${P.care}` },
     ],
   },
   services: {

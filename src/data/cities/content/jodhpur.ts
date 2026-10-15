@@ -7,7 +7,7 @@ const jodhpur: CityContent = {
   meta: {
     title: "IT Services in Jodhpur: Websites, Apps, SEO & AI",
     description:
-      "Websites, export catalogues, SEO and WhatsApp automation for Jodhpur furniture exporters, heritage hotels, old-city traders and law firms. From ₹10,000.",
+      "Jodhpur websites, export catalogues, SEO and WhatsApp automation for furniture exporters, heritage hotels, old-city traders and law firms. From ₹10,000.",
     keywords: [
       "website development team in Jodhpur",
       "website designer Jodhpur",
@@ -25,6 +25,14 @@ const jodhpur: CityContent = {
       "website maintenance Jodhpur",
       "Jodhpur me website kaise banaye",
       "जोधपुर वेबसाइट डेवलपमेंट",
+      "Jodhpur website designer",
+      "web development company Jodhpur",
+      "hire freelance developer Jodhpur",
+      "Rajasthan SEO",
+      "Jodhpur me website kaise banwaye",
+      "website for furniture exporters in Jodhpur",
+      "web designer in Sardarpura, Jodhpur",
+      "website for handicraft and home decor in Jodhpur",
     ],
   },
   hero: {

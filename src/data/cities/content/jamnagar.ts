@@ -7,7 +7,7 @@ const jamnagar: CityContent = {
   meta: {
     title: "IT Services in Jamnagar: Websites, Apps, SEO & AI",
     description:
-      "Websites, export catalogues, local SEO and WhatsApp automation for Jamnagar brass units, bandhani sellers and shops. From ₹10,000, with 2 months free care.",
+      "Jamnagar websites, export catalogues, local SEO and WhatsApp automation for brass units, bandhani sellers and shops. From ₹10,000, with 2 months free care.",
     keywords: [
       "website development team in Jamnagar",
       "website designer Jamnagar",
@@ -24,6 +24,15 @@ const jamnagar: CityContent = {
       "website maintenance Jamnagar",
       "Jamnagar ma website banavva",
       "જામનગર વેબસાઇટ ડિઝાઇન",
+      "Jamnagar website designer",
+      "website cost in Jamnagar",
+      "web development company Jamnagar",
+      "hire freelance developer Jamnagar",
+      "Gujarat SEO",
+      "website for brass parts and components in Jamnagar",
+      "web designer in Shankar Tekri, Jamnagar",
+      "website for refinery contractors in Jamnagar",
+      "mobile app developer in Jamnagar",
     ],
   },
   hero: {

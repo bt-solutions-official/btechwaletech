@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Website se business kaise badhaye",
   updated: "2026-09-25",
   meta: {
-    title: "Website Se Business Kaise Badhaye: More Calls & Leads",
-    description: `Website se business kaise badhaye? WhatsApp button, service pages, local SEO, speed aur enquiry tracking se leads badhaiye. Fixes ${P.site} se, SEO ${P.seo} se.`,
+    title: `Website Se Business Kaise Badhaye: Leads Badhaiye`,
+    description: `Website se business kaise badhaye? WhatsApp button, service pages, local SEO, speed aur enquiry tracking se leads badhaiye. Site fixes ${P.site} se shuru.`,
     keywords: [
       "website se business kaise badhaye", "website se business kaise badhaye in hindi", "website se customer kaise laye",
       "website se leads kaise badhaye", "website se enquiry kaise badhaye", "website se sale kaise badhaye",

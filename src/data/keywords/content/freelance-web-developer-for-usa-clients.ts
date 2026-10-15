@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance Web Developer for USA Clients | From ${P.siteUsd}`,
-    description: `Freelance web developer for USA clients, working from India: sites from ${P.siteUsd}, overlap with US mornings, clear contracts and USD billing via Wise or wire.`,
+    description: `Freelance web developer for USA clients, working from India: overlap with US mornings, clear contracts and USD billing via Wise or wire. Sites from ${P.siteUsd}.`,
     keywords: [
       "freelance web developer for USA clients", "freelance web developer India for US clients", "hire Indian web developer from USA", "freelance web developer for hire USA",
       "offshore web developer cost USA", "Indian web developer rates in USD", "best freelance web developer for US business", "US company hire freelancer India",

@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "Hire Dedicated React Developer: Monthly, US Overlap",
-    description: `Hire a dedicated React developer for your US product: monthly engagement, ET/PT overlap, Jira or Linear sprints, reviewed and tested code. Projects from ${P.software}.`,
+    description: `Hire a dedicated React developer for your US product: monthly engagement, ET/PT overlap, Jira or Linear sprints, reviewed and tested code. From ${P.software}.`,
     keywords: [
       "hire dedicated react developer", "dedicated react developer", "hire dedicated reactjs developer", "hire react developer monthly",
       "dedicated next.js developer", "hire remote react developer", "hire react developer from india", "offshore react developer",

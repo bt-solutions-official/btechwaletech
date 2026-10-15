@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "offshore development rates by role", "yen exchange rate offshore development", "cheap offshore development red flags", "offshore development quote comparison",
       "offshore development tokyo", "offshore development osaka", "offshore development nagoya", "offshore development for japanese companies",
       "hourly vs monthly offshore rates", "offshore development small team",
+      "hire offshore development in Japan", "freelance offshore development Japan",
     ],
   },
   hero: {
@@ -73,7 +74,7 @@ const content: FreelanceContent = {
       { name: "React and Next.js front ends", note: "Front-end work for an existing product team, with pull requests your engineers review.", href: "/japan/hire-react-developers/", size: "md" },
       { name: "Ecommerce with Japanese checkout", note: `Stores with cards, PayPay and konbini, from ${P.shop}.`, href: "/japan/konbini-payment-integration/", size: "sm" },
       { name: "Corporate and bilingual websites", note: `Static sites up to 100 pages from ${P.site}; SEO sites of 299+ pages from ${P.seoSite}.`, href: "/japan/bilingual-website-design/", size: "sm" },
-      { name: "Maintenance after handover", note: `Two months free after launch, then optional care from ${P.care} per month.`, size: "sm" },
+      { name: "Maintenance after handover", note: `Two months free after launch, then optional care from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -273,7 +274,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Our prices cover the work needed to deliver the scoped result: planning, design where relevant, development, testing, deployment to your accounts and handover documentation, plus two months of free maintenance after launch. There is no separate bill for project management or a bridge layer, because there is no bridge layer.`,
         `Included in a typical quote: an itemised feature list, milestones with dates, a staging environment you can open at any time, code in your repository from day one, and a handover guide another developer can follow. Excluded: third-party fees you pay directly (hosting, domains, app store accounts, AI model usage, payment processors), Japanese copywriting, legal and tax advice, and on-site visits.`,
-        `The starting figures are real entry points: static websites from ${P.site}, SEO sites from ${P.seoSite}, ecommerce from ${P.shop}, apps from ${P.app}, AI automation from ${P.ai}, custom software from ${P.software}, and care from ${P.care} per month after the free period. Your itemised quote, sent in about two working days, sets the final amount for your scope. Nothing is billed before your written approval.`,
+        `The starting figures are real entry points: static websites from ${P.site}, SEO sites from ${P.seoSite}, ecommerce from ${P.shop}, apps from ${P.app}, AI automation from ${P.ai}, custom software from ${P.software}, and care from ${P.care} after the free period. Your itemised quote, sent in about two working days, sets the final amount for your scope. Nothing is billed before your written approval.`,
       ],
     },
     {

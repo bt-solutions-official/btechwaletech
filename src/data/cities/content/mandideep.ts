@@ -7,7 +7,7 @@ const mandideep: CityContent = {
   meta: {
     title: "IT Services in Mandideep | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, factory software, SEO and WhatsApp automation for Mandideep vendors, plant suppliers, transporters, clinics and shops.",
+      "Websites, apps, factory software and SEO for Mandideep vendors, plant suppliers, transporters, clinics and shops. Sites from ₹10,000, yours to keep.",
     keywords: [
       "IT services in Mandideep",
       "IT services team in Mandideep",
@@ -29,6 +29,12 @@ const mandideep: CityContent = {
       "Mandideep me website banwana",
       "Mandideep app banwana kharcha",
       "मंडीदीप वेबसाइट डिजाइन",
+      "Mandideep website designer",
+      "web development company Mandideep",
+      "hire freelance web developer Mandideep",
+      "Raisen district SEO",
+      "website designer Raisen district",
+      "Madhya Pradesh SEO services",
     ],
   },
   hero: {

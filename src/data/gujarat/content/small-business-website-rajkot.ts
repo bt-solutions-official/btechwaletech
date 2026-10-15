@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Small Business Website in Rajkot from ${P.site}`,
-    description: `Small business website in Rajkot from ${P.site}: a fast site for shops and small firms with Google Maps, WhatsApp and call buttons, and Gujarati pages from your text.`,
+    description: `Small business website in Rajkot from ${P.site}: a fast site for shops and small firms with Google Maps, WhatsApp and call buttons, plus Gujarati pages.`,
     keywords: [
       "small business website in Rajkot", "small business website Rajkot", "website for shop Rajkot", "website for small business Rajkot",
       "small business website near me Rajkot", "small business website Rajkot Gujarat", "cheap website Rajkot", "low cost website Rajkot",
@@ -408,6 +408,7 @@ const content: FreelanceContent = {
     heading: "More Rajkot and Gujarat pages",
     links: [
       { name: "Gujarat website services", href: "/gujarat/" },
+      { name: "Real estate website in Rajkot", href: "/gujarat/real-estate-website-rajkot/" },
       { name: "Website development cost in Rajkot", href: "/gujarat/website-development-cost-rajkot/" },
       { name: "Web developer near me in Rajkot", href: "/gujarat/web-developer-near-me-rajkot/" },
       { name: "Website designer in Rajkot", href: "/gujarat/website-designer-rajkot/" },

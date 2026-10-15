@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 27.2336, lng: 88.4964 },
   meta: {
-    title: "Freelance Software Developers in Singtam, Sikkim",
+    title: "Singtam Software Developers: NH10 Wholesale & Produce",
     description:
-      "Need an IT services team in Singtam? Hire a freelance group for wholesale order apps, produce trade tools, lead forms, mobile websites and WhatsApp automation.",
+      "Singtam software developers for NH10 wholesalers, ginger and cardamom traders and Golitar pharmacies. Order apps from ₹60,000, quote in two days.",
     keywords: [
       "Android app development Singtam",
       "iOS app development Singtam",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "business dashboard Pakyong district",
       "सिंगताम में सॉफ्टवेयर डेवलपर",
       "Singtam ma pasal ko website",
+      "Singtam website designer",
+      "website cost in Singtam",
+      "IT company in Singtam",
+      "Sikkim SEO services",
+      "hire developer Singtam",
+      "wholesale software in Singtam",
     ],
   },
   hero: {
@@ -265,9 +271,9 @@ const content: CityContent = {
   ],
   faqs: [
     { question: "Do you have a shop or office in Singtam?", answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Singtam or elsewhere in Sikkim. We work over WhatsApp, calls and video, and you can check progress on a test link from your phone. We never claim a local presence we do not have." },
-    { question: "How do we make payments?", answer: "Payments are accepted only in INR, by scanning our UPI QR code or through direct bank transfer to our bank account. Work is split into milestones for finished, working parts, and every payment comes with an invoice. For your own customers' online payments, we set up a gateway account in your name." },
+    { question: "How do we make payments?", answer: "Payments are accepted only in INR, by scanning our UPI QR code or through direct bank transfer to our bank account. Work is split into milestones for finished, working parts, and every payment comes with an invoice. For your own customers' online payments, we set up a gateway account in your name. Wholesalers at Singtam Bazaar, produce traders and pharmacies near Golitar are all invoiced the same way, in INR only." },
     { question: "How much does a wholesale order app cost?", answer: "Custom software such as an order app starts from ₹60,000. A basic retailer ordering system is near that starting point; adding credit limits, route deliveries, salesman apps and dashboards increases scope. We send an itemised quote in about two working days and can split it into phases." },
-    { question: "How long will it take?", answer: "A mobile website takes one to two weeks, WhatsApp automation two to four, an online store four to eight and custom order or stock software six to twelve weeks. We can launch the most urgent part first, such as order taking, and add the rest later." },
+    { question: "How long will it take?", answer: "A mobile website takes one to two weeks, WhatsApp automation two to four, an online store four to eight and custom order or stock software six to twelve weeks. We can launch the most urgent part first, such as order taking, and add the rest later. Produce tools for ginger, cardamom and orange traders are best built before the season rather than during it." },
     { question: "Can the system handle customers who buy on credit?", answer: "Yes. We build credit ledgers with limits per customer, ageing reports and automatic WhatsApp reminders on agreed dates. Orders beyond a limit can be held for your approval. This fits how most Singtam wholesalers and shops already work." },
     { question: "Will the WhatsApp bot understand Nepali?", answer: "Yes. The AI assistant can reply in Nepali, Hindi or English, following the customer's language. It uses only your approved price lists and policies, and forwards complaints, special discounts and unusual requests to you." },
     { question: "Can you connect with Tally?", answer: "Often, yes. We can import Tally exports, sync data on a schedule where practical, or export in formats your accountant uses. We prefer working with your existing accounts setup over replacing it, which reduces disruption." },

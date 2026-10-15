@@ -408,6 +408,7 @@ const content: FreelanceContent = {
     heading: "More Gujarat guides for food and retail brands",
     links: [
       { name: "All Gujarat website services", href: "/gujarat/" },
+      { name: "Restaurant website in Surat", href: "/gujarat/restaurant-website-surat/" },
       { name: "Ecommerce website development in Gujarat", href: "/gujarat/ecommerce-website-development-gujarat/" },
       { name: "Ecommerce website development in Ahmedabad", href: "/gujarat/ecommerce-website-development-ahmedabad/" },
       { name: "Ecommerce website development in Rajkot", href: "/gujarat/ecommerce-website-development-rajkot/" },

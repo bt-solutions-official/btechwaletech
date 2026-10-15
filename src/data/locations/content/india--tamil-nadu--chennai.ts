@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 13.0827, lng: 80.2707 },
   meta: {
-    title: "IT Consulting in Chennai: Freelance IT Solutions Team",
+    title: "Chennai IT Consulting: SaaS, Auto & Hospitals",
     description:
-      "IT consulting and digital transformation in Chennai by a freelance team of three engineers: SaaS builds, apps, AI agents, cloud, data and SEO, with starting prices.",
+      "IT consulting in Chennai by a freelance team of three engineers: SaaS builds, apps, AI agents, cloud, plus data and SEO. Itemised quote in two working days.",
     keywords: [
       "IT solutions team in Chennai",
       "IT consulting Chennai",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "SEO and AI search Chennai",
       "சென்னையில் ஐடி ஆலோசனை",
       "சென்னை மென்பொருள் நிறுவனம்",
+      "Chennai website designer",
+      "website cost in Chennai",
+      "IT company in Chennai",
+      "Tamil Nadu SEO services",
+      "hire developer Chennai",
+      "saas software in Chennai",
+      "auto software in Chennai",
+      "hospitals software in Chennai",
     ],
   },
   hero: {

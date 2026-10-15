@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Freelance WordPress developer",
   updated: "2026-09-24",
   meta: {
-    title: "Freelance WordPress Developer: Themes, Speed, Security",
-    description: `Freelance WordPress developer in India for custom themes, lean plugins, speed fixes and hardening. Sites from ${P.site}, WooCommerce from ${P.shop}. Honest guide inside.`,
+    title: `Freelance WordPress Developer: Sites from ${P.site} (2026)`,
+    description: `Freelance WordPress developer in India: custom themes, lean plugins, speed fixes and hardening. Sites from ${P.site}, WooCommerce from ${P.shop}. Quote in 2 days.`,
     keywords: [
       "freelance WordPress developer", "freelance WordPress developer in India", "freelance WordPress developer near me", "WordPress developer for hire",
       "freelance WordPress developer cost", "WordPress developer price India", "best freelance WordPress developer", "WordPress developer chahiye",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "WordPress plugin developer", "WordPress speed optimization freelancer", "WordPress security expert", "WooCommerce developer freelance",
       "WordPress website developer India", "Gutenberg block developer", "WordPress theme customization", "fix slow WordPress site",
       "WordPress malware removal freelancer", "freelance WordPress designer",
+      "hire freelance wordpress developer",
     ],
   },
   hero: {

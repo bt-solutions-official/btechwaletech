@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Sector 63 Noida", "export business website Noida", "garment exporter website Noida", "startup website developer Noida",
       "coaching institute website Noida", "real estate website developer Noida", "website developer Gautam Buddh Nagar", "Noida me website kaise banwaye",
       "website banwana hai Noida", "best website developer in Noida",
+      "website developer in Noida cost", "website developer in Noida price", "hire website developer in Noida", "freelance website developer in Noida",
+      "website developer in Noida charges",
     ],
   },
   hero: {

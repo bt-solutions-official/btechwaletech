@@ -7,7 +7,7 @@ const morvi: CityContent = {
   meta: {
     title: "IT Services in Morvi: Websites, Apps, SEO & AI",
     description:
-      "Export-ready websites, product catalogues, SEO and WhatsApp automation for Morbi's tile, sanitaryware and wall clock makers, traders and local shops. From ₹10,000.",
+      "Export-ready websites, catalogues and SEO for Morbi's tile, sanitaryware and wall clock makers, traders and local shops. Websites from ₹10,000.",
     keywords: [
       "website development team in Morbi",
       "website designer Morvi",
@@ -25,6 +25,16 @@ const morvi: CityContent = {
       "Morbi ma website banavva",
       "મોરબી વેબસાઇટ ડિઝાઇન",
       "website maintenance Morbi",
+      "Morbi website designer",
+      "web development company Morbi",
+      "hire freelance web developer Morbi",
+      "Gujarat SEO services",
+      "tile manufacturers website design Morbi",
+      "Morbi sanitaryware makers website",
+      "sanitaryware makers website design Morbi",
+      "Morbi merchant exporters website",
+      "merchant exporters website design Morbi",
+      "website design Lalpar Morbi",
     ],
   },
   hero: {

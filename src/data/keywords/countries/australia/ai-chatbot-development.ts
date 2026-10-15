@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "ai chatbot developer melbourne", "ai chatbot brisbane", "ai chatbot perth",
       "build vs buy ai chatbot", "is an ai chatbot worth it for small business", "ai chatbot for customer support",
       "chatgpt chatbot for business website", "ai chatbot near me", "custom gpt for business",
+      "hire ai chatbot for business in Australia", "freelance ai chatbot for business Australia",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Nakhatrana: From ${P.site}`,
-    description: `Website developer in Nakhatrana for Nirona artisans, pilgrim-road stays, farm suppliers and taluka services. Sites from ${P.site}, built remotely, all accounts yours.`,
+    description: `Website developer in Nakhatrana for Nirona artisans, pilgrim-road stays, farm suppliers and taluka services. Sites from ${P.site}, remote build, accounts yours.`,
     keywords: [
       "website developer in Nakhatrana", "website developer Nakhatrana", "Nakhatrana website developer", "website developer near me Nakhatrana",
       "Nakhatrana Kutch website", "Nakhatrana Gujarat web developer", "website designer Nakhatrana", "website development services Nakhatrana",

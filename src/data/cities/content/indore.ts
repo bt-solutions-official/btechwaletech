@@ -7,7 +7,7 @@ const indore: CityContent = {
   meta: {
     title: "IT Services in Indore: Websites, Apps, SEO & AI",
     description:
-      "Freelance website development, SEO and AI automation in Indore. Websites from ₹10,000, 299+ page SEO sites from ₹20,000, 2 months free maintenance included.",
+      "Indore freelance website development, SEO and AI automation. Websites from ₹10,000, 299+ page SEO sites from ₹20,000, 2 months free maintenance included.",
     keywords: [
       "website development team in Indore",
       "web design team Indore",
@@ -25,6 +25,14 @@ const indore: CityContent = {
       "affordable website design Indore",
       "website banane wala Indore",
       "इंदौर में वेबसाइट बनाने वाले",
+      "Indore website designer",
+      "website cost in Indore",
+      "web development company Indore",
+      "hire freelance developer Indore",
+      "Madhya Pradesh SEO",
+      "Indore me website kaise banwaye",
+      "website for namkeen and food brands in Indore",
+      "web designer in Vijay Nagar, Indore",
     ],
   },
   hero: {

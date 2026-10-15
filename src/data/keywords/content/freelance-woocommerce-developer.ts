@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "WooCommerce developer Ahmedabad", "WooCommerce developer Kolkata", "WooCommerce GST invoice setup", "WooCommerce shipping integration India",
       "WooCommerce UPI checkout", "WooCommerce plugin developer", "WooCommerce speed optimization", "Shopify to WooCommerce migration",
       "WordPress ecommerce developer", "WooCommerce customization freelancer", "WooCommerce COD setup", "hire WooCommerce expert India",
+      "hire freelance woocommerce developer",
     ],
   },
   hero: {

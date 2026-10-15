@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 22.2587, lng: 71.1924 },
   meta: {
-    title: "Freelance IT Services in Gujarat: Software, Apps & AI",
+    title: "Gujarat IT Services: Software, Apps & AI",
     description:
-      "Freelance IT services in Gujarat: custom software for GIDC units, dealer apps, AI automation, SEO and stores from Ahmedabad to Kutch. Starting prices, 3 engineers.",
+      "Freelance IT services in Gujarat: custom software for GIDC units, dealer apps and AI automation. From ₹10,000, with two months of free upkeep after launch.",
     keywords: [
       "IT services in Gujarat",
       "software development team in Gujarat",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "IT solutions for Morbi ceramic exporters",
       "Gujarat ma software banavva",
       "ગુજરાતમાં સોફ્ટવેર ડેવલપમેન્ટ",
+      "Gujarat website designer",
+      "website cost in Gujarat",
+      "IT company in Gujarat",
+      "Gujarat SEO services",
+      "hire developer Gujarat",
+      "chemicals software in Gujarat",
+      "textiles software in Gujarat",
+      "engineering software in Gujarat",
     ],
   },
   hero: {

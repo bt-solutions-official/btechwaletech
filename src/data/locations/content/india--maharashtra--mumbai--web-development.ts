@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 19.076, lng: 72.8777 },
   meta: {
-    title: "Freelance Web Developers in Mumbai: Web Apps & Portals",
+    title: "Mumbai Web Developers: Web Apps & Portals",
     description:
       "Hire freelance web developers in Mumbai for web applications, B2B portals, SaaS, ecommerce, APIs and CMS sites. Sites from ₹10,000, web apps from ₹60,000.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "mobile app developers Mumbai",
       "मुंबईत वेबसाइट डेव्हलपमेंट",
       "Mumbai mein website banwana",
+      "Mumbai website designer",
+      "website cost in Mumbai",
+      "IT company in Mumbai",
+      "Maharashtra SEO services",
+      "hire developer Mumbai",
+      "wholesale software in Mumbai",
+      "financial software in Mumbai",
+      "media software in Mumbai",
+      "healthcare software in Mumbai",
+      "website developer Andheri East Mumbai",
     ],
   },
   hero: {

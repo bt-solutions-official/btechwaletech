@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 31.8173, lng: 77.3493 },
   meta: {
-    title: "Freelance IT Services in Himachal Pradesh",
+    title: "Himachal Pradesh IT Services: Hotels, Pharma & Apps",
     description:
-      "Freelance IT services across Himachal Pradesh: booking systems, pharma software, AI automation, apps, dashboards and SEO for Shimla to Baddi. Prices from ₹10,000.",
+      "Freelance IT services across Himachal Pradesh: booking systems, pharma software, AI automation and apps. Starting prices in INR, paid by UPI or bank transfer.",
     keywords: [
       "IT services in Himachal Pradesh",
       "software development team in Himachal Pradesh",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "cloud hosting for tourism websites Himachal",
       "Himachal mein website aur software banwana",
       "हिमाचल प्रदेश आईटी सेवाएं",
+      "Himachal Pradesh website designer",
+      "website cost in Himachal Pradesh",
+      "IT company in Himachal Pradesh",
+      "Himachal Pradesh SEO services",
+      "hire developer Himachal Pradesh",
+      "hotels software in Himachal Pradesh",
+      "tour software in Himachal Pradesh",
     ],
   },
   hero: {

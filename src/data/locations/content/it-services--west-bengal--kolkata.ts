@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 22.5726, lng: 88.3639 },
   meta: {
-    title: "Freelance Software Developers in Kolkata",
+    title: "Kolkata Software Developers: Wholesale & Trading Houses",
     description:
       "Comparing a software development team in Kolkata? Hire our freelance team for custom software, Android and iOS apps, AI agents and dashboards. From ₹40,000.",
     keywords: [
@@ -30,6 +30,15 @@ const content: CityContent = {
       "software developer near me New Town Rajarhat",
       "কলকাতায় সফটওয়্যার ডেভেলপার",
       "Kolkata mein software developer",
+      "Kolkata website designer",
+      "website cost in Kolkata",
+      "IT company in Kolkata",
+      "West Bengal SEO services",
+      "hire developer Kolkata",
+      "wholesale trade software in Kolkata",
+      "freight forwarding software in Kolkata",
+      "hospitals software in Kolkata",
+      "it startups software in Kolkata",
     ],
   },
   hero: {

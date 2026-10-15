@@ -7,7 +7,7 @@ const rishikesh: CityContent = {
   meta: {
     title: "IT Services in Rishikesh: Websites, Apps, SEO & AI",
     description:
-      "Booking websites, Android and iOS apps, SEO and WhatsApp automation for Rishikesh yoga schools, rafting camps, hotels, cafes, clinics and Char Dham tour operators.",
+      "Booking websites, apps, SEO and WhatsApp tools for Rishikesh yoga schools, rafting camps, hotels, cafes, clinics and Char Dham tour operators. From ₹10,000.",
     keywords: [
       "IT services in Rishikesh",
       "IT services team in Rishikesh",
@@ -29,6 +29,12 @@ const rishikesh: CityContent = {
       "Rishikesh me website banwana",
       "Rishikesh me app banwana",
       "ऋषिकेश वेबसाइट डिजाइन",
+      "Rishikesh website designer",
+      "web development company Rishikesh",
+      "hire freelance web developer Rishikesh",
+      "Dehradun district SEO",
+      "website designer Dehradun district",
+      "Uttarakhand SEO services",
     ],
   },
   hero: {

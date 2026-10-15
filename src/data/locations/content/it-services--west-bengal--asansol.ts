@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.6739, lng: 86.9524 },
   meta: {
-    title: "Freelance Software & IT Developers in Asansol",
+    title: "Asansol Software Developers: Coal & Wholesale",
     description:
-      "Hire freelance software developers in Asansol instead of a software development team: fleet, trading and contractor software, AI bots, apps and IT support.",
+      "Freelance software developers in Asansol for fleet, trading and contractor software, AI bots and apps. From ₹10,000, quote in two working days.",
     keywords: [
       "iOS app development Asansol",
       "iPhone app developers Asansol",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "Burnpur Kulti IT services",
       "আসানসোলে সফটওয়্যার তৈরি",
       "Asansol mein software developer",
+      "Asansol website designer",
+      "website cost in Asansol",
+      "IT company in Asansol",
+      "West Bengal SEO services",
+      "hire developer Asansol",
+      "coal software in Asansol",
     ],
   },
   hero: {

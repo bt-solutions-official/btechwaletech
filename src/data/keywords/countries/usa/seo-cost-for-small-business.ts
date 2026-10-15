@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `How Much Does SEO Cost for a Small Business? 3 Tiers`,
-    description: `How much does SEO cost for a small business in the US? Retainer vs project vs hourly, what each tier includes, cheap-SEO red flags. Monthly SEO from ${P.seo}.`,
+    description: `How much does SEO cost for a small business in the US? Retainer vs project vs hourly, what each tier includes, cheap-SEO red flags. SEO from ${P.seo}.`,
     keywords: [
       "how much does seo cost for a small business", "seo cost for small business", "small business seo cost", "seo pricing for small business",
       "how much should a small business pay for seo", "monthly seo cost", "seo retainer cost", "local seo cost", "seo audit cost",

@@ -25,6 +25,9 @@ const content: FreelanceContent = {
       "should i make a website for my shop", "website for home business", "does a local shop need a website",
       "do customers trust businesses without websites", "website return on investment small business", "minimum website for small business",
       "website developer for small business", "do i need a website in 2026",
+      "does my business need a website company in India",
+      "does my business need a website near me",
+      "best does my business need a website in India",
     ],
   },
   hero: {

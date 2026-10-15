@@ -395,6 +395,7 @@ const content: FreelanceContent = {
     heading: "More app and software pages for Bhiwadi",
     links: [
       { name: "All services in Bhiwadi", href: "/bhiwadi-rajasthan/" },
+      { name: "App banwane ka kharcha", href: "/bhiwadi-rajasthan/app-banwane-ka-kharcha/" },
       { name: "iOS app development in Bhiwadi", href: "/bhiwadi-rajasthan/ios-app-development/" },
       { name: "Mobile app development in Bhiwadi", href: "/bhiwadi-rajasthan/mobile-app-development/" },
       { name: "Flutter app developer in Bhiwadi", href: "/bhiwadi-rajasthan/flutter-app-development/" },

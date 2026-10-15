@@ -7,7 +7,7 @@ const rampur: CityContent = {
   meta: {
     title: "Rampur Website Design, SEO & Stores from ₹10,000",
     description:
-      "Websites, local SEO, UPI stores and WhatsApp automation for Rampur zari, patchwork, mentha and trade businesses. Fixed starting prices and 2 months free upkeep.",
+      "Websites, local SEO, UPI stores and WhatsApp automation for Rampur zari, patchwork, mentha and trade businesses. Sites from ₹10,000, live in 1-2 weeks.",
     keywords: [
       "website development team in Rampur",
       "web designer Rampur UP",
@@ -25,6 +25,16 @@ const rampur: CityContent = {
       "Rampur me website kaise banaye",
       "रामपुर वेबसाइट डिज़ाइन",
       "school website Rampur",
+      "Rampur website designer",
+      "web development company Rampur",
+      "hire freelance web developer Rampur",
+      "Uttar Pradesh SEO services",
+      "Rampur me website kaise banwaye",
+      "Rampur website banwane ka kharcha",
+      "website design Shahabad Gate Rampur",
+      "website design Miston Ganj Rampur",
+      "website design Civil Lines Rampur",
+      "website design Jail Road Rampur",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const bhubaneswar: CityContent = {
   meta: {
     title: "Bhubaneswar Website Development & SEO | From ₹10,000",
     description:
-      "Websites, local SEO, online stores and AI automation for Bhubaneswar startups, clinics, institutes and handloom sellers. From ₹10,000, two months free support.",
+      "Bhubaneswar websites, local SEO, online stores and AI automation for startups, clinics, institutes and handloom sellers. From ₹10,000, 2 months free support.",
     keywords: [
       "website development team in Bhubaneswar",
       "web design team Bhubaneswar",
@@ -25,6 +25,14 @@ const bhubaneswar: CityContent = {
       "website maintenance Bhubaneswar",
       "Bhubaneswar website banane wala",
       "ଭୁବନେଶ୍ୱର ୱେବସାଇଟ୍",
+      "Bhubaneswar website designer",
+      "web development company Bhubaneswar",
+      "hire freelance developer Bhubaneswar",
+      "Odisha SEO",
+      "Bhubaneswar me website kaise banwaye",
+      "website for iT services and startups in Bhubaneswar",
+      "web designer in Chandrasekharpur, Bhubaneswar",
+      "website for handloom and handicrafts in Bhubaneswar",
     ],
   },
   hero: {

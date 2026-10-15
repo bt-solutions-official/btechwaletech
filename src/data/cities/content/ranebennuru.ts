@@ -7,7 +7,7 @@ const ranebennuru: CityContent = {
   meta: {
     title: "IT Services in Ranebennuru: Websites, Apps, SEO & AI",
     description:
-      "Websites from ₹10,000 for Ranebennuru seed companies, cotton and APMC traders, clinics, colleges and shops, with Kannada pages, Google Maps work and WhatsApp tools.",
+      "Websites for Ranebennuru seed companies, cotton and APMC traders, clinics, colleges and shops, with Kannada pages, Maps work and WhatsApp tools. From ₹10,000.",
     keywords: [
       "website development team in Ranebennuru",
       "website design Ranebennur",
@@ -25,6 +25,16 @@ const ranebennuru: CityContent = {
       "website design Haveri district",
       "Ranebennur alli website maadisodu",
       "ರಾಣೆಬೆನ್ನೂರು ವೆಬ್‌ಸೈಟ್ ವಿನ್ಯಾಸ",
+      "Ranebennuru website designer",
+      "website cost in Ranebennuru",
+      "web development company Ranebennuru",
+      "hire freelance web developer Ranebennuru",
+      "Karnataka SEO services",
+      "Ranebennuru seed companies website",
+      "seed companies website design Ranebennuru",
+      "website design Station Road Ranebennuru",
+      "website design Medleri Road Ranebennuru",
+      "website design APMC yard Ranebennuru",
     ],
   },
   hero: {

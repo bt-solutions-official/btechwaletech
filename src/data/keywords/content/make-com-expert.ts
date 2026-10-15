@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Make.com Expert in India: Scenarios from ${P.ai}`,
-    description: `Hire a Make.com expert to build scenarios with routers, error handlers and IndiaMART, WhatsApp and payment links. Builds from ${P.ai}, credit use planned upfront.`,
+    description: `Make.com expert for Indian teams: scenarios with routers, error handlers, IndiaMART, WhatsApp and payment links. Builds from ${P.ai}, credits planned first.`,
     keywords: [
       "make.com expert", "make.com expert India", "hire make.com expert", "make.com developer", "make.com consultant",
       "integromat expert", "make.com automation freelancer", "make scenario builder", "make.com expert cost",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "make.com expert for small business", "make.com freelancer Delhi", "make.com expert Bengaluru", "make.com expert Ahmedabad",
       "who can build make.com scenarios for me", "is make.com good for Indian business", "make.com scenario fix",
       "make.com expert hindi", "make.com to n8n migration", "make.com google sheets automation",
+      "freelance make.com expert", "best make.com expert in India", "make.com expert price", "make.com expert charges",
     ],
   },
   hero: {

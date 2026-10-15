@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "handicraft website Jaipur", "handicraft website Moradabad", "handicraft website Saharanpur", "handicraft website Jodhpur",
       "how to sell handicrafts to foreign buyers", "handicraft business website kaise banaye", "craft cooperative website",
       "home decor handicraft store", "brass handicraft website", "handicraft shopify store",
+      "handicraft website development company in India",
+      "handicraft website development near me",
+      "best handicraft website development in India",
     ],
   },
   hero: {

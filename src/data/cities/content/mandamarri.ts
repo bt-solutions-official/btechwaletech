@@ -7,7 +7,7 @@ const mandamarri: CityContent = {
   meta: {
     title: "IT Services in Mandamarri | Web, Apps, SEO & AI",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Mandamarri mine contractors, transporters, shops, clinics, schools and rice mills.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Mandamarri mine contractors, transporters, shops, clinics, schools and rice mills. From ₹10,000.",
     keywords: [
       "IT services in Mandamarri",
       "IT services team in Mandamarri",
@@ -29,6 +29,12 @@ const mandamarri: CityContent = {
       "Mandamarri me website banwana",
       "Mandamarri lo website cheyinchali",
       "మందమర్రి వెబ్‌సైట్ డిజైన్",
+      "Mandamarri website designer",
+      "web development company Mandamarri",
+      "hire freelance web developer Mandamarri",
+      "Mancherial district SEO",
+      "website designer Mancherial district",
+      "Telangana SEO services",
     ],
   },
   hero: {

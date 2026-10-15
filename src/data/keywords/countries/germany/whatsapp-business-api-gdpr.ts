@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `WhatsApp Business API GDPR Setup, from ${P.ai}`,
-    description: `WhatsApp Business API GDPR setup for German firms: Cloud API with EU data storage, opt-in, templates, chatbots and deletion rules. From ${P.ai}, quote in 2 days.`,
+    description: `WhatsApp Business API GDPR setup for German firms: Cloud API with EU data storage, opt-in, templates, chatbots and deletion rules. From ${P.ai}.`,
     keywords: [
       "whatsapp business api gdpr", "whatsapp business api dsgvo", "whatsapp dsgvo konform", "whatsapp business gdpr germany",
       "is whatsapp business gdpr compliant", "whatsapp cloud api gdpr", "whatsapp cloud api local storage germany",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "whatsapp business api cost", "how much does whatsapp business api setup cost", "whatsapp customer service germany",
       "whatsapp api for doctors germany", "whatsapp api berlin", "whatsapp api munich", "whatsapp api hamburg", "whatsapp api cologne",
       "whatsapp automation developer",
+      "hire whatsapp business api gdpr in Germany", "freelance whatsapp business api gdpr Germany",
     ],
   },
   hero: {

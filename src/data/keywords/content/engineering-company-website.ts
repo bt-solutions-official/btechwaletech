@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Engineering company website design",
   updated: "2026-09-25",
   meta: {
-    title: `Engineering Company Website Design That Gets RFQs`,
+    title: `Engineering Company Website for RFQs, from ${P.site}`,
     description: `Engineering company website design with machine spec pages, CAD downloads and RFQ forms that take drawings. From ${P.site}; itemised quote in 2 working days.`,
     keywords: [
       "engineering company website design", "engineering company website", "engineering website design India", "fabrication company website",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "engineering company website design Pune", "engineering company website design Rajkot", "engineering company website design Coimbatore",
       "engineering company website design Ludhiana", "precision machining website", "sheet metal fabrication website", "CNC job shop website",
       "ISO certified company website page", "engineering company ki website kaise banaye", "B2B engineering website", "engineering products catalogue website",
+      "best engineering company website in India",
+      "engineering company website services",
     ],
   },
   hero: {
@@ -343,7 +345,7 @@ const content: FreelanceContent = {
         ["Spares shop with online payment", "Part catalogue with cart, UPI and card checkout, GST invoices", `${P.shop} (${P.shopUsd})`, "4–8 weeks"],
         ["Buyer portal or configurator", "Logins, quote history, drawings, model builder", `${P.software} (${P.softwareUsd})`, "6–12 weeks"],
         ["RFQ automation", "Triage, WhatsApp replies, follow-up reminders", `${P.ai} (${P.aiUsd})`, "2–4 weeks"],
-        ["Monthly SEO", "New process and part pages, technical checks, reports", `${P.seo} per month`, "Ongoing"],
+        ["Monthly SEO", "New process and part pages, technical checks, reports", `${P.seo}`, "Ongoing"],
       ],
     },
   ],

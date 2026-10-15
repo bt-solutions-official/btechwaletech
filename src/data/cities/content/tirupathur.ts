@@ -7,7 +7,7 @@ const tirupathur: CityContent = {
   meta: {
     title: "IT Services in Tirupathur | Web, Apps, SEO & AI",
     description:
-      "Tamil and English websites, Android and iOS apps, local SEO and WhatsApp automation for Tirupathur colleges, leather suppliers, Yelagiri stays, clinics and shops.",
+      "Tamil and English websites, apps and SEO for Tirupathur colleges, leather suppliers, Yelagiri stays, clinics and shops. Websites from ₹10,000.",
     keywords: [
       "IT services in Tirupathur",
       "IT services team in Tirupathur",
@@ -29,6 +29,12 @@ const tirupathur: CityContent = {
       "Tirupathur me website banwana",
       "Tirupathur la website panna evlo aagum",
       "திருப்பத்தூர் இணையதள வடிவமைப்பு",
+      "Tirupathur website designer",
+      "web development company Tirupathur",
+      "hire freelance web developer Tirupathur",
+      "Tamil Nadu SEO services",
+      "website design Krishnagiri Road Tirupathur",
+      "website design District office area Tirupathur",
     ],
   },
   hero: {

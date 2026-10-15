@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Development Services in Morbi from ${P.site}`,
-    description: `Website development services in Morbi for tile, sanitaryware and clock makers by a freelance team: sites from ${P.site}, itemised quote in 2 days, code in your name.`,
+    description: `Website development services in Morbi for tile, sanitaryware and clock makers by a freelance team: sites from ${P.site}, quote in 2 days, code in your name.`,
     keywords: [
       "website development services in Morbi", "website development Morbi", "website development services Morbi Gujarat", "website developer near me Morbi",
       "web development Morbi", "website developer Morbi", "website development Morvi", "website banane wala Morbi",

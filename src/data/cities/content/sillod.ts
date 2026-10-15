@@ -7,7 +7,7 @@ const sillod: CityContent = {
   meta: {
     title: "IT Services in Sillod | Web, Apps & AI from ₹10,000",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Sillod maize traders, Sarafa jewellers, Ajanta-road hotels and clinics.",
+      "Marathi websites, apps, local SEO and WhatsApp tools for Sillod maize traders, Sarafa jewellers, Ajanta-road hotels and clinics. Websites from ₹10,000.",
     keywords: [
       "IT services in Sillod",
       "IT services team in Sillod",
@@ -29,6 +29,12 @@ const sillod: CityContent = {
       "Sillod me website banwana",
       "Sillodmadhye website banvaychi aahe",
       "सिल्लोड वेबसाइट डिझाइन",
+      "Sillod website designer",
+      "web development company Sillod",
+      "hire freelance web developer Sillod",
+      "Chhatrapati Sambhajinagar district SEO",
+      "website designer Chhatrapati Sambhajinagar district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

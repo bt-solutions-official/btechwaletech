@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 25.2425, lng: 86.9842 },
   meta: {
-    title: "Freelance Software & AI Developers in Bhagalpur",
+    title: "Bhagalpur Software & AI Developers: Silk Weaving",
     description:
       "Freelance software developers for Bhagalpur: silk job-work tracking, B2B catalogue portals, AI automation, dashboards, apps and SEO. Starting at ₹10,000.",
     keywords: [
@@ -33,6 +33,12 @@ const content: CityContent = {
       "iPhone app developers Bhagalpur",
       "भागलपुर में सॉफ्टवेयर डेवलपर",
       "Bhagalpur mein software banwana",
+      "Bhagalpur website designer",
+      "website cost in Bhagalpur",
+      "IT company in Bhagalpur",
+      "Bihar SEO services",
+      "hire developer Bhagalpur",
+      "silk weaving software in Bhagalpur",
     ],
   },
   hero: {

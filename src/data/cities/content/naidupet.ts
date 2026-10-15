@@ -7,7 +7,7 @@ const naidupet: CityContent = {
   meta: {
     title: "IT Services in Naidupet | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Naidupet highway traders, APIIC park suppliers, farm input dealers and clinics.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Naidupet highway traders, APIIC park suppliers, farm input dealers and clinics. Sites from ₹10,000.",
     keywords: [
       "IT services in Naidupet",
       "IT services team in Naidupet",
@@ -29,6 +29,12 @@ const naidupet: CityContent = {
       "Naidupet me website banwana",
       "Naidupet lo website cheyinchali",
       "నాయుడుపేట వెబ్‌సైట్ డిజైన్",
+      "Naidupet website designer",
+      "web development company Naidupet",
+      "hire freelance web developer Naidupet",
+      "Tirupati district SEO",
+      "website designer Tirupati district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

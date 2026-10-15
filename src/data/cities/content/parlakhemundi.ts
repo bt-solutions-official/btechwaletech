@@ -7,7 +7,7 @@ const parlakhemundi: CityContent = {
   meta: {
     title: "IT Services in Parlakhemundi | Websites, Apps & AI",
     description:
-      "Odia, Telugu and English websites, Android and iOS apps, SEO and WhatsApp automation for Parlakhemundi colleges, rice mills, craft sellers and heritage stays.",
+      "Odia, apps, SEO and WhatsApp tools for Parlakhemundi colleges, rice mills, craft sellers and heritage stays. Sites from ₹10,000, SEO sites from ₹20,000.",
     keywords: [
       "IT services in Parlakhemundi",
       "IT services team in Parlakhemundi",
@@ -29,6 +29,12 @@ const parlakhemundi: CityContent = {
       "Parlakhemundi me website banwana",
       "Parlakhemundi re website tiari",
       "ପାରଳାଖେମୁଣ୍ଡି ୱେବସାଇଟ",
+      "Parlakhemundi website designer",
+      "web development company Parlakhemundi",
+      "hire freelance web developer Parlakhemundi",
+      "Gajapati district SEO",
+      "website designer Gajapati district",
+      "Odisha SEO services",
     ],
   },
   hero: {

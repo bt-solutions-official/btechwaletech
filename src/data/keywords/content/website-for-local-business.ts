@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Website for Local Business: Essentials from ${P.site}`,
-    description: `Website for local business owners that brings calls and WhatsApp enquiries: key pages, Google Maps and local SEO built in, from ${P.site}. Full checklist inside.`,
+    description: `Website for local business owners that brings calls and WhatsApp enquiries: the key pages, Google Maps and local SEO built in, from ${P.site}. Checklist inside.`,
     keywords: [
       "website for local business", "website for local business in India", "website for local business near me", "local business website designer for hire",
       "local business website cost", "local business website price", "best website for local business", "dukaan ke liye website",

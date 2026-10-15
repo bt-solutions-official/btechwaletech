@@ -7,7 +7,7 @@ const goalpara: CityContent = {
   meta: {
     title: "IT Services in Goalpara | Web, Apps & AI from ₹10,000",
     description:
-      "Assamese and Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Goalpara traders, schools, colleges, clinics and Brahmaputra tourism.",
+      "Goalpara Assamese and Bengali websites, mobile apps, local SEO and WhatsApp bots for traders, schools, colleges and clinics. From ₹10,000, live in 1-2 weeks.",
     keywords: [
       "IT services in Goalpara",
       "IT services team in Goalpara",
@@ -29,6 +29,10 @@ const goalpara: CityContent = {
       "Goalpara me website banwana",
       "Goalpara website kaise banaye",
       "গোৱালপাৰা ৱেবছাইট ডিজাইন",
+      "Goalpara website designer",
+      "web development company Goalpara",
+      "hire freelance developer Goalpara",
+      "Lower Assam SEO",
     ],
   },
   hero: {

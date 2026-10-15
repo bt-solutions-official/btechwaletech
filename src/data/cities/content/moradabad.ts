@@ -7,7 +7,7 @@ const moradabad: CityContent = {
   meta: {
     title: "IT Services in Moradabad: Websites, Apps, SEO & AI",
     description:
-      "Export catalogue websites, local SEO and WhatsApp automation for Moradabad brass exporters, traders and clinics. Sites from ₹10,000, you own everything.",
+      "Export catalogue websites, local SEO and WhatsApp tools for Moradabad brass exporters, traders and clinics. Sites from ₹10,000 with an itemised quote.",
     keywords: [
       "website development team in Moradabad",
       "website designer Moradabad",
@@ -25,6 +25,16 @@ const moradabad: CityContent = {
       "Moradabad me website kaise banwaye",
       "मुरादाबाद वेबसाइट डिज़ाइन",
       "website banane wala Moradabad",
+      "website cost in Moradabad",
+      "web development company Moradabad",
+      "hire freelance web developer Moradabad",
+      "Uttar Pradesh SEO services",
+      "Moradabad website banwane ka kharcha",
+      "website design Delhi Road Moradabad",
+      "website design Kanth Road Moradabad",
+      "website design Buddhi Vihar Moradabad",
+      "website design price in Moradabad",
+      "app development company Moradabad",
     ],
   },
   hero: {

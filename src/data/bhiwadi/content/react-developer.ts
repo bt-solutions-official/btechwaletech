@@ -389,6 +389,7 @@ const content: FreelanceContent = {
     heading: "Related pages for React and Next.js projects in Bhiwadi",
     links: [
       { name: "Bhiwadi services hub", href: "/bhiwadi-rajasthan/" },
+      { name: "PHP Laravel developer in Bhiwadi", href: "/bhiwadi-rajasthan/laravel-developer/" },
       { name: "Full stack developer", href: "/bhiwadi-rajasthan/full-stack-developer/" },
       { name: "Node.js developer", href: "/bhiwadi-rajasthan/nodejs-developer/" },
       { name: "Web application development", href: "/bhiwadi-rajasthan/web-app-development/" },

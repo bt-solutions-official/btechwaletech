@@ -7,7 +7,7 @@ const umarkhed: CityContent = {
   meta: {
     title: "IT Services in Umarkhed: Websites, Apps, SEO & AI",
     description:
-      "Marathi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Umarkhed cotton and soybean traders, input dealers, clinics, colleges and shops.",
+      "Marathi websites, apps, Maps SEO and WhatsApp tools for Umarkhed cotton and soybean traders, input dealers, clinics, colleges and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Umarkhed",
       "IT services team in Umarkhed",
@@ -29,6 +29,12 @@ const umarkhed: CityContent = {
       "Umarkhed me website banwana",
       "Umarkhed madhye website banvayla",
       "उमरखेड वेबसाइट डिझाईन",
+      "Umarkhed website designer",
+      "web development company Umarkhed",
+      "hire freelance web developer Umarkhed",
+      "Yavatmal district SEO",
+      "website designer Yavatmal district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

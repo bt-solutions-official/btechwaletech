@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "Tamil website developer Trichy", "website developer Thillai Nagar", "website developer Cantonment Trichy", "website developer Srirangam",
       "website developer Thiruverumbur", "website developer Thanjavur", "website developer Pudukkottai", "WordPress developer Trichy",
       "ecommerce website Trichy", "best website developer in Trichy", "Trichy website banwana hai",
+      "website developer in Trichy cost", "website developer in Trichy price", "hire website developer in Trichy", "freelance website developer in Trichy",
+      "website developer in Trichy charges",
     ],
   },
   hero: {

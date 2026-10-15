@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "pharma seo Ahmedabad", "pharma seo Hyderabad", "pharma seo Panchkula", "is seo allowed for pharma companies",
       "pharma website seo", "api manufacturer seo", "pharma seo kaise kare", "pharma company ko google par leads kaise mile",
       "pharma b2b seo",
+      "Pharma SEO services cost", "Pharma SEO services price", "Pharma SEO services company", "best Pharma SEO services in India",
+      "Pharma SEO services cost in India", "Pharma SEO services near me",
     ],
   },
   hero: {

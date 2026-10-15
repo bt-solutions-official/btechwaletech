@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "WordPress critical error fix",
   updated: "2026-09-25",
   meta: {
-    title: "WordPress Critical Error Fix: Get Your Site Back Up",
-    description: `WordPress critical error fix, step by step: recovery mode email, debug log, plugin and theme conflicts, PHP versions. Or send it to us; care plans from ${P.care}.`,
+    title: `WordPress Critical Error Fix: Get Back Up (2026)`,
+    description: `WordPress critical error fix, step by step: recovery mode email, debug log, plugin and theme conflicts, PHP versions. Or send it to us; care ${P.care}.`,
     keywords: [
       "wordpress critical error fix", "there has been a critical error on this website", "wordpress critical error", "how to fix critical error in wordpress",
       "critical error on this website wordpress fix", "wordpress critical error after update", "wordpress critical error plugin", "wordpress recovery mode email",

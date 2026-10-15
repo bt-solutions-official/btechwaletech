@@ -7,7 +7,7 @@ const udumalaipettai: CityContent = {
   meta: {
     title: "IT Services in Udumalaipettai: Web, Apps & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Udumalpet coconut traders, textile units, wind firms, resorts, colleges and clinics.",
+      "Tamil websites, apps, local SEO and WhatsApp automation for Udumalpet coconut traders, textile units, wind firms, resorts, colleges and clinics. From ₹10,000.",
     keywords: [
       "IT services in Udumalaipettai",
       "IT services team in Udumalpet",
@@ -29,6 +29,12 @@ const udumalaipettai: CityContent = {
       "Udumalpet-la website seiya",
       "உடுமலைப்பேட்டை வெப்சைட் டிசைன்",
       "Palani Road Udumalpet local SEO",
+      "Udumalaipettai website designer",
+      "web development company Udumalaipettai",
+      "hire freelance web developer Udumalaipettai",
+      "Tiruppur district SEO",
+      "website designer Tiruppur district",
+      "Tamil Nadu SEO services",
     ],
   },
   hero: {

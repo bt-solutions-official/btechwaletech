@@ -345,7 +345,7 @@ const content: FreelanceContent = {
         ["Want a Google-visible home and backup", "Catalogue site with WhatsApp order button", `${P.site}`, "1–2 weeks"],
         ["Daily orders, COD headaches", "Online store with UPI, cards and COD rules", `${P.shop}`, "4–8 weeks"],
         ["Too many repeat DM questions", "DM and WhatsApp auto-replies", `${P.ai}`, "2–4 weeks"],
-        ["Store live, want search traffic", "Monthly ecommerce SEO", `${P.seo} a month`, "Ongoing"],
+        ["Store live, want search traffic", "Monthly ecommerce SEO", `${P.seo}`, "Ongoing"],
         ["Large base of repeat buyers", "Android and iOS shopping app", `${P.app}`, "6–10 weeks"],
       ],
       hideSm: [3],

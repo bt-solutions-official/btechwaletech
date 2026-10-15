@@ -206,7 +206,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A complete budget for an outsourced app has seven lines: vendor build cost, your internal time, third-party setup fees, monthly running costs, a contingency reserve, post-launch maintenance and a line for version-two features. Fill in each one before you choose a vendor.`,
         `Start with the vendor build cost from the milestone estimate. Next, estimate your internal time: hours per week for your product owner and testers, multiplied by the weeks of the project and your internal cost per hour. Add third-party setup costs, which include Apple's Developer Program at US$99 per year and Google Play's one-time US$25 registration fee. Then list monthly running costs: hosting, database, maps, SMS, email and any AI APIs.`,
-        `The contingency reserve is the line people skip. Set aside a share of the build cost you are comfortable with for changes you discover once real users try the app; if you do not use it, it becomes the start of your version-two budget. Maintenance comes next, from ${P.care} a month with us after two free months. The template table below lays these out with a column for your own figures.`,
+        `The contingency reserve is the line people skip. Set aside a share of the build cost you are comfortable with for changes you discover once real users try the app; if you do not use it, it becomes the start of your version-two budget. Maintenance comes next, from ${P.care} with us after two free months. The template table below lays these out with a column for your own figures.`,
       ],
     },
     {

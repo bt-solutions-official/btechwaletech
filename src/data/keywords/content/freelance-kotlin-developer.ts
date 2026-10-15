@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance Kotlin Developer: Android Apps from ${P.app}`,
-    description: `Freelance Kotlin developer in India for native Android: when Kotlin beats Flutter or React Native, costs from ${P.app}, and a Play Store-ready build plan.`,
+    description: `Freelance Kotlin developer in India for native Android: when Kotlin beats Flutter or React Native, plus a Play Store-ready build plan. From ${P.app}.`,
     keywords: [
       "freelance Kotlin developer", "freelance Kotlin developer India", "Kotlin developer near me", "Kotlin developer for hire",
       "Kotlin developer cost", "Kotlin app development price", "best freelance Kotlin developer", "Kotlin developer chahiye",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "Kotlin developer Hyderabad", "Kotlin developer Chennai", "native Android developer freelance", "Jetpack Compose developer",
       "hire Kotlin Android developer", "Kotlin vs Flutter", "Kotlin vs React Native", "Java to Kotlin migration",
       "Kotlin Multiplatform developer", "Android native app developer India", "Kotlin freelancer", "remote Kotlin developer",
+      "hire freelance kotlin developer",
     ],
   },
   hero: {

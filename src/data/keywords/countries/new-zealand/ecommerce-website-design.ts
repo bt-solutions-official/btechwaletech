@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Ecommerce Website Design NZ: Stores from ${P.shop}`,
-    description: `Ecommerce website design NZ: move from Trade Me or Facebook to your own store from ${P.shop}. Platform matrix, CGA returns pages, rural freight and Google Shopping.`,
+    description: `Ecommerce website design NZ: move from Trade Me or Facebook to your own store from ${P.shop}. CGA returns pages, rural freight and Google Shopping.`,
     keywords: [
       "ecommerce website design nz", "ecommerce website design new zealand", "online store design nz", "ecommerce web design auckland",
       "ecommerce website wellington", "ecommerce website christchurch", "ecommerce website hamilton", "ecommerce website design cost nz",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "fair trading act online store nz", "rural delivery surcharge online store", "google shopping feed nz", "online store bank transfer checkout nz",
       "buy now pay later online store nz", "ecommerce website for small business nz", "ecommerce designer near me", "remote ecommerce developer india",
       "online shop website nz", "ecommerce website design agency vs freelancer nz",
+      "hire ecommerce website design in New Zealand",
     ],
   },
   hero: {

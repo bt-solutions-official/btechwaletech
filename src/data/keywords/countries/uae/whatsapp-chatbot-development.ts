@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "how much does a whatsapp chatbot cost in dubai", "whatsapp chatbot cost uae", "arabic whatsapp chatbot",
       "whatsapp chatbot for restaurants dubai", "whatsapp chatbot for clinics uae", "whatsapp chatbot abu dhabi",
       "whatsapp chatbot sharjah", "whatsapp chatbot developer near me", "remote whatsapp developers india",
+      "hire whatsapp chatbot development in the UAE", "freelance whatsapp chatbot development UAE",
     ],
   },
   hero: {
@@ -96,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What WhatsApp chatbot development costs",
-    note: `A first WhatsApp chatbot starts from ${P.ai}. That usually covers setup on the Cloud API or your chosen BSP, a menu with FAQs and handoff, one core flow such as ordering or booking, the templates it needs submitted for approval, opt-in recording and a sync to one system. Price rises with each extra flow, live availability or stock look-ups, bilingual templates, AI answers and CRM depth. Meta charges per delivered template message, billed to your own account or through your BSP, so running costs stay visible. Support after two free months starts from ${P.care} a month.`,
+    note: `A first WhatsApp chatbot starts from ${P.ai}. That usually covers setup on the Cloud API or your chosen BSP, a menu with FAQs and handoff, one core flow such as ordering or booking, the templates it needs submitted for approval, opt-in recording and a sync to one system. Price rises with each extra flow, live availability or stock look-ups, bilingual templates, AI answers and CRM depth. Meta charges per delivered template message, billed to your own account or through your BSP, so running costs stay visible. Support after two free months starts from ${P.care}.`,
   },
   guideLabel: "WhatsApp chatbots in the UAE: platform, rules, flows and costs",
   guide: [
@@ -314,7 +315,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `WhatsApp chatbots need light but regular care. Meta releases new API versions and retires old ones, templates occasionally get recategorised or paused, and your menus and prices change. A small support routine keeps the bot healthy.`,
         `We watch three things: failed webhooks and API errors, template status and quality, and the conversations handed to staff, which reveal where flows confuse customers. Changes to menus, prices and FAQs can be made from a sheet or admin screen your team controls, so small updates don't need a developer.`,
-        `Every launch includes two months of free maintenance for what we built. After that, support starts from ${P.care} a month with scope agreed in your quote. We reply on WhatsApp seven days a week during Indian working hours; there is no overnight on-call cover, so the bot's out-of-hours message should say when staff will reply. You can see the kind of systems we build in our <a href='/portfolio/'>portfolio</a>.`,
+        `Every launch includes two months of free maintenance for what we built. After that, support starts from ${P.care} with scope agreed in your quote. We reply on WhatsApp seven days a week during Indian working hours; there is no overnight on-call cover, so the bot's out-of-hours message should say when staff will reply. You can see the kind of systems we build in our <a href='/portfolio/'>portfolio</a>.`,
       ],
     },
   ],
@@ -422,7 +423,7 @@ const content: FreelanceContent = {
     { question: "Can a team in India build a WhatsApp chatbot for a Dubai business?", answer: "Yes. The setup, flows and integrations are all remote work, and India is 1.5 hours ahead of the UAE, so working hours overlap almost entirely. Staff test flows on a test number from their own phones. A remote team is the wrong fit only if you need someone on site or round-the-clock incident cover." },
     { question: "How long does it take to launch a WhatsApp chatbot?", answer: "Usually 2–4 weeks for a first set of flows. Account setup, number registration and template approvals start in week one because review times are outside anyone's control. Flows are built and tested on a test number in weeks two and three, followed by a soft launch with staff and a few customers before the public launch." },
     { question: "How do we pay from the UAE?", answer: "Quotes are itemised in USD and invoices come from India. You pay by Wise, bank wire or PayPal against milestones in your written quote, and nothing is billed before you approve it in writing. Meta's message fees, any BSP plan and hosting are billed to your own accounts by those providers. Your accountant can advise on VAT treatment." },
-    { question: "What support do WhatsApp chatbots need after launch?", answer: `Monitoring of API errors, template status and quality, updates when Meta releases new API versions, and small changes to menus and prices. Every launch includes two months of free maintenance for what we built; after that, support starts from ${P.care} a month with scope agreed in your quote. We reply on WhatsApp seven days a week during Indian working hours.` },
+    { question: "What support do WhatsApp chatbots need after launch?", answer: `Monitoring of API errors, template status and quality, updates when Meta releases new API versions, and small changes to menus and prices. Every launch includes two months of free maintenance for what we built; after that, support starts from ${P.care} with scope agreed in your quote. We reply on WhatsApp seven days a week during Indian working hours.` },
   ],
   related: {
     heading: "Related UAE WhatsApp, AI and ordering pages",

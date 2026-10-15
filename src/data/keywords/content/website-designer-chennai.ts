@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website designer T Nagar", "website designer Anna Nagar", "website designer Adyar", "website designer OMR",
       "website designer Velachery", "showroom website design Chennai", "hospital website design Chennai", "website designer Madras",
       "website design karwana hai Chennai", "best website designer in Chennai",
+      "website designer in Chennai cost", "website designer in Chennai price", "hire website designer in Chennai", "freelance website designer in Chennai",
+      "website designer in Chennai charges",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const rudauli: CityContent = {
   meta: {
     title: "IT Services in Rudauli: Websites, Apps, SEO & AI",
     description:
-      "Hindi and Urdu websites, Android and iOS apps, local SEO and WhatsApp automation for Rudauli traders, gur makers, clinics, colleges and highway businesses.",
+      "Hindi and Urdu websites, apps, SEO and WhatsApp tools for Rudauli traders, gur makers, clinics, colleges and highway businesses. From ₹10,000.",
     keywords: [
       "IT services in Rudauli",
       "IT services team in Rudauli",
@@ -29,6 +29,12 @@ const rudauli: CityContent = {
       "Rudauli me website banwana",
       "Rudauli me app banwana",
       "रुदौली वेबसाइट डिज़ाइन",
+      "Rudauli website designer",
+      "web development company Rudauli",
+      "hire freelance web developer Rudauli",
+      "Ayodhya district SEO",
+      "Uttar Pradesh SEO services",
+      "Rudauli me website kaise banwaye",
     ],
   },
   hero: {

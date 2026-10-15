@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Job portal developer",
   updated: "2026-09-24",
   meta: {
-    title: `Job Portal Developer: Listings, Resumes, Employers`,
-    description: `Job portal developer in India: job listings, resume uploads, employer accounts, paid postings and Google for Jobs markup. Portals from ${P.software}, itemised quote.`,
+    title: `Job Portal Developer: Portals from ${P.software}`,
+    description: `Job portal developer in India: listings, resume uploads, employer accounts, paid postings and Google for Jobs markup. Portals from ${P.software}, itemised quote.`,
     keywords: [
       "job portal developer", "job portal developer India", "job portal developer near me", "job portal developer for hire",
       "job portal development cost", "job portal website price", "best job portal developer", "job portal banwana hai",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "resume database software", "employer dashboard development", "job portal app development", "google for jobs schema developer",
       "niche job board India", "staffing portal developer", "campus placement portal", "freelance job portal developer",
       "job portal with resume parsing", "local jobs website developer",
+      "hire job portal developer",
     ],
   },
   hero: {
@@ -194,7 +195,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Much of a portal's free traffic comes from Google's job search experience, which reads structured data from listing pages. Each job page should carry JobPosting schema with the title, description, hiring organisation, location or remote status, employment type, posting date, expiry date and, where the employer allows, salary. Missing or wrong fields mean the job simply does not appear there.`,
         `Google also offers an Indexing API that supports job posting pages, which lets a portal tell Google quickly when a job is added or removed. Combined with a sitemap that lists only live jobs, this keeps Google's view of your portal fresh. When a job expires, the page should say so clearly and drop out of the sitemap and markup, not quietly redirect to the home page.`,
-        `Beyond individual jobs, category and location pages (for example, nursing jobs in a given city) capture broader searches, as long as each one has real listings and useful text. Page speed on mobile matters because most candidates in India search from their phones. Ongoing SEO work for portals starts at ${P.seo} a month; nobody can guarantee rankings, but correct markup is the baseline.`,
+        `Beyond individual jobs, category and location pages (for example, nursing jobs in a given city) capture broader searches, as long as each one has real listings and useful text. Page speed on mobile matters because most candidates in India search from their phones. Ongoing SEO work for portals starts at ${P.seo}; nobody can guarantee rankings, but correct markup is the baseline.`,
       ],
     },
     {

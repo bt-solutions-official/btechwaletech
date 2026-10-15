@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "web design rolleston", "web design rangiora", "web design ashburton", "web design timaru",
       "local seo christchurch", "canterbury seo", "web design near me christchurch", "remote web designer for christchurch business",
       "christchurch website redesign", "christchurch ecommerce website",
+      "hire web design in New Zealand", "freelance web design New Zealand", "web design Auckland",
+      "web design Wellington", "web design New Zealand",
     ],
   },
   hero: {

@@ -174,9 +174,9 @@ const content: FreelanceContent = {
       id: "affordable",
       heading: "What affordable SEO looks like at a small business budget",
       paragraphs: [
-        `Affordable small business SEO spends a modest monthly budget on the few tasks that bring enquiries, and says no to the rest. At ${P.seo} a month, that means technical fixes, service pages, Business Profile work, reviews and a clear report, not a long list of vanity deliverables.`,
+        `Affordable small business SEO spends a modest monthly budget on the few tasks that bring enquiries, and says no to the rest. At ${P.seo}, that means technical fixes, service pages, Business Profile work, reviews and a clear report, not a long list of vanity deliverables.`,
         `Cheap SEO and affordable SEO are different things. Cheap SEO usually means automated reports, bulk directory submissions and bought links: busy-looking activity that can harm your site. Affordable SEO means the same careful work a larger agency would do, delivered by a small team without the overhead of an office, sales staff and layers of management.`,
-        `Our costs are lower mostly for structural reasons: three developers working remotely from India, no office, no sales team and no account-management layer between you and the people doing the work. That keeps the starting price at ${P.seo} a month. The trade-off is honest: no in-person meetings, and a small team rather than a department. For most owner-run businesses, those limits are fine.`,
+        `Our costs are lower mostly for structural reasons: three developers working remotely from India, no office, no sales team and no account-management layer between you and the people doing the work. That keeps the starting price at ${P.seo}. The trade-off is honest: no in-person meetings, and a small team rather than a department. For most owner-run businesses, those limits are fine.`,
       ],
       subs: [
         { heading: "Included in a typical scope", text: "Technical fixes, one or more new or improved service pages a month, Business Profile upkeep, review workflow, citations and the monthly report." },

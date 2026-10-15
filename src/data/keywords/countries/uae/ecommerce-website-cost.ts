@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "ecommerce website cost ajman", "cheap ecommerce website dubai", "ecommerce website cost for small business uae",
       "ecommerce website packages dubai", "online shop monthly cost uae", "ecommerce website development cost near me",
       "hidden costs of ecommerce website", "offshore ecommerce development cost",
+      "hire ecommerce website in the UAE", "freelance ecommerce website UAE",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const diphu: CityContent = {
   meta: {
     title: "IT Services in Diphu | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Diphu ginger and turmeric traders, handloom makers, colleges, clinics, hotels and shops.",
+      "Diphu websites, Android and iOS apps, local SEO and WhatsApp automation for ginger and turmeric traders, handloom makers, colleges, clinics, hotels and shops.",
     keywords: [
       "IT services in Diphu",
       "IT services team in Diphu",
@@ -29,6 +29,10 @@ const diphu: CityContent = {
       "Karbi Anglong web design",
       "ডিফু ৱেবছাইট",
       "Diphu college admission website",
+      "Diphu website designer",
+      "web development company Diphu",
+      "hire freelance developer Diphu",
+      "Assam SEO",
     ],
   },
   hero: {

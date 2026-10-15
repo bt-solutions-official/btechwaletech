@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "SEO audit services",
   updated: "2026-09-25",
   meta: {
-    title: "SEO Audit Services in India: A Fix List, Not a Score",
+    title: `SEO Audit Services in India: Cost & a Fix List, 2026`,
     description: `SEO audit services that check crawling, indexing, content gaps, Core Web Vitals and backlinks, then rank every fix. Monthly SEO from ${P.seo}.`,
     keywords: [
       "seo audit services", "seo audit services India", "website seo audit service", "professional seo audit",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "backlink audit service", "core web vitals audit", "content gap audit", "seo audit near me",
       "seo audit Delhi", "seo audit Mumbai", "seo audit Bengaluru", "website ka seo audit karwana hai",
       "seo audit freelancer", "is an seo audit worth it",
+      "SEO audit services cost", "SEO audit services price", "SEO audit services company", "best SEO audit services in India",
+      "SEO audit services cost in India", "SEO audit services near me",
     ],
   },
   hero: {
@@ -59,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Main sources", value: "Google Search Console, a site crawl, PageSpeed field data" },
       { label: "Deliverable", value: "Spreadsheet of fixes scored by impact and effort, plus a call" },
       { label: "Audit pricing", value: "Quoted by page count, platform and depth" },
-      { label: "Ongoing SEO", value: `From ${P.seo} a month (${P.seoUsd} abroad)` },
+      { label: "Ongoing SEO", value: `From ${P.seo} (${P.seoUsd} abroad)` },
       { label: "Rebuild if needed", value: `SEO website from ${P.seoSite}, 3–5 weeks` },
     ],
   },

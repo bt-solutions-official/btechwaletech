@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "school bus tracking app for school owners", "school bus tracking app Pune", "school bus tracking app Noida", "school bus tracking app Jaipur",
       "school bus live location app", "school bus arrival alert app", "school bus tracking app hindi", "school bus tracking app kaise banaye",
       "custom school bus tracking app", "school bus tracking app with rfid",
+      "school bus tracking app company", "best school bus tracking app in India", "school bus tracking app cost in India", "school bus tracking app near me",
     ],
   },
   hero: {
@@ -60,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Location source", value: "Fixed GPS tracker on the bus, or the driver app as a fallback" },
       { label: "Boarding records", value: "RFID card taps, or attendant marking in the app" },
       { label: "Languages", value: "English and Hindi; other languages with your approved text" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -218,7 +219,7 @@ const content: FreelanceContent = {
         "<strong>Languages beyond Hindi and English:</strong> extra screens to check with your translated text.",
       ],
       after: [
-        `Running costs belong to the school or operator: trackers and readers from your vendor, SIM data plans, cloud hosting, WhatsApp template messages, and store developer fees. Google Play's registration is a one-time US$25 and Apple's developer programme is US$99 a year. After two free months, maintenance from ${P.care} a month is optional. See <a href='/app-development-cost-in-india/'>app development cost in India</a> for how app budgets are built more generally.`,
+        `Running costs belong to the school or operator: trackers and readers from your vendor, SIM data plans, cloud hosting, WhatsApp template messages, and store developer fees. Google Play's registration is a one-time US$25 and Apple's developer programme is US$99 a year. After two free months, maintenance from ${P.care} is optional. See <a href='/app-development-cost-in-india/'>app development cost in India</a> for how app budgets are built more generally.`,
       ],
     },
     {
@@ -318,7 +319,7 @@ const content: FreelanceContent = {
         ["Attendant app", "Stop-wise student lists with photos, manual marks", "Quoted with the apps", "1–2 weeks extra"],
         ["Route planning", "Draft routes from addresses, capacity and timings, map editor", "Quoted per scope", "2–3 weeks extra"],
         ["School website pages", "Transport routes, notices and app download links", `${P.site}`, "1–2 weeks"],
-        ["Support after launch", "Fixes, new routes season, app updates", `${P.care} a month, after 2 free months`, "Monthly"],
+        ["Support after launch", "Fixes, new routes season, app updates", `${P.care}, after 2 free months`, "Monthly"],
       ],
       hideSm: [3],
     },
@@ -408,7 +409,7 @@ const content: FreelanceContent = {
     { question: "What happens if a bus breaks down or runs late?", answer: "The driver taps a delay reason or breakdown report in the app, and the transport office sees it at once on the dashboard. Parents on that route get a notice with the reason, and the office can send a replacement bus and update the route live, so families are not left guessing at the stop." },
     { question: "Can it connect to our school management software?", answer: "Often, yes. If your school ERP offers an export or an API, we can pull student lists, sections and fee status into the transport system so data is not typed twice. If it offers neither, a regular spreadsheet import works. We check your ERP's options before quoting the link." },
     { question: "Why choose a freelance team for a school app?", answer: "You deal directly with the three developers building it, get an itemised quote and own the result in the school's name. We do not fit hardware, visit campuses or supply on-site staff; your tracker vendor handles installation. For a school or operator that wants a well-built app and clear pricing, a small freelance team fits well." },
-    { question: "What support do we get after launch?", answer: `Two months of maintenance after launch are free, covering bug fixes, small changes and help with the next session's route updates. After that, support starts from ${P.care} a month if you want it. The school keeps the source code and documentation, so another developer could take over at any time.` },
+    { question: "What support do we get after launch?", answer: `Two months of maintenance after launch are free, covering bug fixes, small changes and help with the next session's route updates. After that, support starts from ${P.care} if you want it. The school keeps the source code and documentation, so another developer could take over at any time.` },
     { question: "How do payments and contracts work?", answer: "You receive an itemised quote with milestones, and nothing is billed before the school approves it in writing. Indian schools pay by UPI or bank transfer; international clients pay in USD by Wise, wire or PayPal. Any NDA or special contract terms are agreed in writing before work starts; our general terms are on the website." },
     { question: "School bus tracking app banwane mein kitna time lagta hai?", answer: "Aam taur par 6 se 10 hafte build aur testing mein lagte hain, phir ek hafte ka pilot kuch routes par. Sabse achha hai naya session shuru hote hi launch karna. School ke naam par Play Store aur App Store account jaldi banwa lein aur admission se students ki stop list time par de dein." },
     { question: "Can parents find our transport information through Google or AI search?", answer: "Parents searching for your school's bus routes or app usually land on your website, so a clear transport page with routes, timings and download links helps. We can build or update that page with structured data and fast loading. Nobody can guarantee how Google or AI assistants rank or quote a page." },

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Kodinar · Vendor Sites ${P.site}`,
-    description: `Website developer in Kodinar for plant vendors, transporters, cane-belt dealers and fish traders. Sites from ${P.site}, quote in 2 working days, 2 months free care.`,
+    description: `Website developer in Kodinar for plant vendors, transporters, cane-belt dealers and fish traders. Sites from ${P.site}, quote in 2 days, 2 months free care.`,
     keywords: [
       "website developer in Kodinar", "website developer Kodinar Gujarat", "web developer Kodinar", "website designer Kodinar",
       "website development Kodinar Gir Somnath", "website developer near me Kodinar", "Kodinar Gujarat business website", "website cost Kodinar",
@@ -227,7 +227,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Yes, if the site is built around the searches buyers actually make, but nobody can guarantee a position. Be cautious of anyone who promises first place.`,
         `For a vendor or transporter, the most useful pages are specific: “crane hire in Kodinar”, “structural fabrication near Gir Somnath”, “truck transport from Kodinar to Rajkot”. Each deserves its own page with a clear heading, a plain answer and your contact details. For local shops and clinics, the Google Business Profile does most of the early work; keep its name, address and phone identical to your website footer and choose accurate categories.`,
-        `We give every site unique titles and descriptions, structured data for business type and services, a sitemap and Search Console from launch. AI assistants and Google's AI summaries tend to cite pages that answer a single question cleanly, so we write short Q&A blocks on service pages. Ongoing work is optional, from ${P.seo} a month; our <a href='/local-seo-expert/'>local SEO page</a> explains what it involves.`,
+        `We give every site unique titles and descriptions, structured data for business type and services, a sitemap and Search Console from launch. AI assistants and Google's AI summaries tend to cite pages that answer a single question cleanly, so we write short Q&A blocks on service pages. Ongoing work is optional, from ${P.seo}; our <a href='/local-seo-expert/'>local SEO page</a> explains what it involves.`,
       ],
     },
     {
@@ -387,6 +387,7 @@ const content: FreelanceContent = {
     heading: "More guides for Kodinar and the Gir Somnath coast",
     links: [
       { name: "All Gujarat website guides", href: "/gujarat/" },
+      { name: "Website developer in Jafrabad", href: "/gujarat/website-developer-jafrabad/" },
       { name: "Website developer in Una", href: "/gujarat/website-developer-una/" },
       { name: "Website developer in Talala", href: "/gujarat/website-developer-talala/" },
       { name: "Website developer in Amreli", href: "/gujarat/website-developer-amreli/" },

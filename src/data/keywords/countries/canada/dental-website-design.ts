@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "dental seo canada", "new patient booking website dentist", "dental website near me",
       "dentist website redesign canada", "pediatric dental website", "orthodontist website design canada",
       "who owns my dental website",
+      "hire dental website design in Canada", "freelance dental website design Canada",
     ],
   },
   hero: {

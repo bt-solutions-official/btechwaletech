@@ -7,7 +7,7 @@ const kothagudem: CityContent = {
   meta: {
     title: "IT Services in Kothagudem: Web, Apps, SEO & AI",
     description:
-      "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Kothagudem mine contractors, suppliers, hospitals, colleges and shops.",
+      "Kothagudem Telugu and English websites, mobile apps, local SEO and WhatsApp bots for mine contractors, suppliers, hospitals, colleges and shops. From ₹10,000.",
     keywords: [
       "IT services in Kothagudem",
       "IT services team in Kothagudem",
@@ -29,6 +29,10 @@ const kothagudem: CityContent = {
       "Kothagudem lo website design",
       "Kothagudem app development Telugu",
       "కొత్తగూడెం వెబ్‌సైట్ డిజైన్",
+      "Kothagudem website designer",
+      "web development company Kothagudem",
+      "hire freelance developer Kothagudem",
+      "Telangana SEO",
     ],
   },
   hero: {

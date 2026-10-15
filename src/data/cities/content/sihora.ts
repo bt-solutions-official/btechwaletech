@@ -5,9 +5,9 @@ const sihora: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 23.4895, lng: 80.1048 },
   meta: {
-    title: "IT Services in Sihora: Websites, Apps, SEO & AI",
+    title: "Sihora Website Design: Mines, Mandi & NH30",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sihora mine suppliers, mandi traders, clinics, colleges and Jhanda Bazar shops.",
+      "Sihora websites, Hindi SEO and WhatsApp tools for iron ore and laterite operators, NH30 truck owners, mandi agents and Jhanda Bazar shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Sihora",
       "IT services team in Sihora",
@@ -29,6 +29,16 @@ const sihora: CityContent = {
       "Sihora me website banwana",
       "Sihora me app banwana",
       "सिहोरा वेबसाइट डिज़ाइन",
+      "Sihora website designer",
+      "web development company Sihora",
+      "hire freelance web developer Sihora",
+      "Jabalpur district SEO",
+      "website designer Jabalpur district",
+      "Madhya Pradesh SEO services",
+      "Sihora me website kaise banwaye",
+      "Sihora website banwane ka kharcha",
+      "Sihora Jhanda Bazar retailers website",
+      "Jhanda Bazar retailers website design Sihora",
     ],
   },
   hero: {

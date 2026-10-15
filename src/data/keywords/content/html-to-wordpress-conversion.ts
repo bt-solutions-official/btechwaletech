@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Convert HTML to WordPress",
   updated: "2026-09-25",
   meta: {
-    title: `Convert HTML to WordPress, Same Design, from ${P.site}`,
-    description: `Convert HTML to WordPress without losing your design, URLs or rankings, so staff edit pages themselves. From ${P.site}; see the steps, redirects and costs.`,
+    title: `HTML to WordPress Conversion, Same Design, ${P.site}+`,
+    description: `HTML to WordPress conversion without losing your design, URLs or rankings, so staff edit pages themselves: steps, redirects and costs. From ${P.site}.`,
     keywords: [
       "convert html to wordpress", "html to wordpress conversion", "html to wordpress", "convert static html site to wordpress",
       "html to wordpress theme", "html to wordpress migration", "html to wordpress converter", "html to wordpress service",

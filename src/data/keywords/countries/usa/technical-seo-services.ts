@@ -87,7 +87,7 @@ const content: FreelanceContent = {
       ["Who writes the fix", "Your developers", "Often handed to your developers", "We do, on staging first"],
       ["JavaScript framework fixes", "Flags symptoms", "Varies", "Rendering changes in Next.js, Nuxt, React and similar"],
       ["Content writing", "No", "Yes", "Only what templates need; content is a separate service"],
-      ["Starting cost", "Tool subscription", "Quotes vary widely", `From ${P.seo} per month`],
+      ["Starting cost", "Tool subscription", "Quotes vary widely", `From ${P.seo}`],
       ["Ranking promises", "None", "Some retainers imply them", "None; no one can guarantee positions"],
       ["On-site meetings", "No", "Often available", "No; calls in US mornings and written reports"],
     ],
@@ -259,7 +259,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do technical SEO services cost in the US?",
       paragraphs: [
-        `From this team, ongoing technical SEO services start from ${P.seo} per month. US agencies and consultants price technical work very differently, some hourly, some by audit, some bundled into retainers, so quotes vary widely. The main differences come from site size, platform complexity, and whether the provider also writes the code.`,
+        `From this team, ongoing technical SEO services start from ${P.seo}. US agencies and consultants price technical work very differently, some hourly, some by audit, some bundled into retainers, so quotes vary widely. The main differences come from site size, platform complexity, and whether the provider also writes the code.`,
         "An audit-only engagement is cheapest upfront but leaves your developers to do the work, which is where many audits stall. An implementation engagement costs more per month but turns the backlog into shipped changes. For sites that are structurally broken, such as a page builder theme that cannot hit Core Web Vitals no matter what, a rebuild can cost less over a year than months of patching.",
       ],
       list: [
@@ -453,7 +453,7 @@ const content: FreelanceContent = {
       { name: "SEO cost for small business", href: "/usa/seo-cost-for-small-business/" },
       { name: "White-label SEO", href: "/usa/white-label-seo/" },
       { name: "Website redesign services", href: "/usa/website-redesign-services/" },
-      { name: "Website accessibility remediation", href: "/usa/website-accessibility-remediation/" },
+      { name: "ADA compliant website design", href: "/usa/ada-compliant-website-design/" },
       { name: "Custom website development", href: "/usa/custom-website-development/" },
       { name: "SaaS website design", href: "/usa/saas-website-design/" },
       { name: "Custom CRM development", href: "/usa/custom-crm-development/" },

@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "offshore software development berlin", "offshore software development munich", "offshore software development hamburg",
       "offshore software development frankfurt", "offshore software development stuttgart", "offshore software team for scale-ups",
       "how to start offshore software development", "offshore vs nearshore germany", "custom software development india germany",
+      "hire offshore software development in Germany", "freelance offshore software development Germany",
     ],
   },
   hero: {

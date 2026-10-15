@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "secure client intake form law firm", "nova gedragsregels website", "law firm local seo netherlands",
       "legalservice schema", "law firm website developer", "boutique law firm website", "immigration lawyer website netherlands",
       "law firm website redesign",
+      "hire law firm website design in the Netherlands", "freelance law firm website design Netherlands",
     ],
   },
   hero: {
@@ -452,7 +453,7 @@ const content: FreelanceContent = {
       ["Agree structure and reviewers", "We map hubs, matter pages and profiles, and you name a reviewing lawyer for each area so copy approval runs alongside the build."],
       ["Review templates on staging", "Homepage, hub, matter page, profile and intake designs in both languages, demoed on video calls during your late morning or early afternoon."],
       ["Load approved copy and test", "Only signed-off pages go in. We validate structured data, test intake with dummy records and check the site with every optional cookie refused."],
-      ["Launch and maintain", `Redirects, Search Console submission and a final partner sign-off. Two months of maintenance are free, then from ${P.care} a month.`],
+      ["Launch and maintain", `Redirects, Search Console submission and a final partner sign-off. Two months of maintenance are free, then from ${P.care}.`],
     ],
   },
   faqHeading: "Law firm website design: questions from Dutch practices",
@@ -477,7 +478,7 @@ const content: FreelanceContent = {
     { question: "How do we pay for law firm website design from India?", answer: "Quotes are in USD and invoices come from India. You pay by Wise, bank wire or PayPal against milestones such as approved templates and launch, and nothing is billed before you approve the quote in writing. Your accountant can advise on how a non-EU invoice is treated for Dutch VAT." },
     { question: "Can you add online consultation booking?", answer: "Yes. We can add booking tied to lawyers' calendars, ideally shown only after the conflict check, so you do not book a meeting with a party you cannot represent. The booking step can make clear whether a first consultation is paid or free, using wording your practice approves." },
     { question: "Can you build a client portal for document exchange?", answer: `Yes, as a separate web application starting from ${P.software}. A portal can offer secure logins, document upload and download, matter status updates and audit logs, hosted in the EU under your account. It usually takes six to twelve weeks and is often best as a second phase after the public website is live.` },
-    { question: "What maintenance does a law firm website need?", answer: `Software updates, security patches, backups, uptime checks and small edits such as new lawyer profiles or updated practice pages. The first two months after launch are free; after that, maintenance starts from ${P.care} a month. We also re-check the intake form and cookie behaviour after major updates, since plugin changes can affect both.` },
+    { question: "What maintenance does a law firm website need?", answer: `Software updates, security patches, backups, uptime checks and small edits such as new lawyer profiles or updated practice pages. The first two months after launch are free; after that, maintenance starts from ${P.care}. We also re-check the intake form and cookie behaviour after major updates, since plugin changes can affect both.` },
   ],
   related: {
     heading: "Related pages for Dutch businesses",

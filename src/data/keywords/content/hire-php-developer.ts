@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "PHP 8 migration", "PHP 7 to PHP 8 upgrade", "Laravel upgrade developer", "CodeIgniter 3 to 4 migration",
       "fix old PHP website", "PHP code audit", "PHP security fix", "core PHP developer for hire", "hire Laravel developer India",
       "PHP maintenance developer",
+      "freelance hire php developer",
     ],
   },
   hero: {
@@ -58,7 +59,7 @@ const content: FreelanceContent = {
       { label: "First deliverable", value: "Audit report: versions, risks, fix order" },
       { label: "Upgrade method", value: "Staging copy, automated checks, small releases" },
       { label: "Frameworks handled", value: "Core PHP, Laravel, CodeIgniter, WordPress" },
-      { label: "Ongoing care", value: `From ${P.care} a month` },
+      { label: "Ongoing care", value: `From ${P.care}` },
       { label: "Full rebuild", value: `From ${P.software}, 6–12 weeks` },
       { label: "What you receive", value: "Repository, docs, server notes, credentials list" },
     ],

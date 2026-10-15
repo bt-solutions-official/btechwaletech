@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Care Home Website Design: CQC Widget, from ${P.site}`,
-    description: `Care home website design for UK homes: CQC rating widget above the fold, fees shown upfront as CMA guidance expects, calm enquiries and staff hiring. From ${P.site}.`,
+    description: `Care home website design for UK homes: CQC rating widget above the fold, fees shown upfront per CMA guidance, calm enquiries and staff hiring. From ${P.site}.`,
     keywords: [
       "care home website design", "care home website design uk", "nursing home website design", "residential care home website",
       "website design for care homes", "care home web design", "care home website cqc rating", "cqc widget on website",
@@ -332,7 +332,7 @@ const content: FreelanceContent = {
         ["Care group website", "299+ pages, a page set per home, shared recruitment", `From ${P.seoSite}`, "3–5 weeks"],
         ["Families' portal", "Logins, news, visiting bookings, documents", `From ${P.software}`, "6–12 weeks"],
         ["Enquiry reply assistant", "Drafts replies for staff to check, routes to the right home", `From ${P.ai}`, "2–4 weeks"],
-        ["Monthly local search", "Profile, care type pages, reviews, Search Console", `From ${P.seo} a month`, "Ongoing"],
+        ["Monthly local search", "Profile, care type pages, reviews, Search Console", `From ${P.seo}`, "Ongoing"],
         ["Care plan", "Rating checks, fee updates, vacancy edits", `From ${P.care}`, "After 2 free months"],
       ],
       hideSm: [3],

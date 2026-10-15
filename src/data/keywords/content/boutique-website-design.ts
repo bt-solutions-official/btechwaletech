@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Boutique Website Design: Sell & Stitch from ${P.site}`,
-    description: `Boutique website design for designer and fashion boutiques: new arrivals, stitching order forms, WhatsApp orders, video-call shopping, NRI shipping. From ${P.site}.`,
+    description: `Boutique website design for designer boutiques: new arrivals, stitching order forms, WhatsApp orders, video-call shopping and NRI shipping. From ${P.site}.`,
     keywords: [
       "boutique website design", "boutique website", "fashion boutique website design", "designer boutique website",
       "boutique website design cost", "boutique website price in India", "online boutique website", "boutique website with custom stitching",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "bridal boutique website design", "blouse stitching website", "boutique ki website kaise banaye", "boutique website Lucknow",
       "boutique website Chandigarh", "boutique website Hyderabad", "boutique website Kochi", "home boutique website",
       "Instagram boutique to website", "boutique online store with measurements",
+      "boutique website design company in India",
+      "best boutique website design in India",
+      "boutique website design services",
     ],
   },
   hero: {

@@ -211,7 +211,7 @@ const content: FreelanceContent = {
         `A product site can be found by consultants and buyers searching for specific items, but nobody can guarantee rankings. What we control is making each product easy for search engines and AI assistants to understand.`,
         `Each product gets its own URL, a descriptive title naming the product and, where natural, Vadodara or Baroda and Gujarat, a spec table in real HTML rather than an image, and product schema markup. Data sheets sit on crawlable pages. An XML sitemap and Google Search Console are set up before launch.`,
         `A <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> with your exact name and plot address in Makarpura GIDC helps drivers, dealers and service engineers find the gate.`,
-        `AI assistants increasingly answer questions such as which manufacturers in Vadodara make stainless steel enclosures of a given rating. They quote pages that state facts plainly in tables and short paragraphs, which is how our spec pages are built. Ongoing search work is optional, from ${P.seo} a month; the <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> guide explains what it covers.`,
+        `AI assistants increasingly answer questions such as which manufacturers in Vadodara make stainless steel enclosures of a given rating. They quote pages that state facts plainly in tables and short paragraphs, which is how our spec pages are built. Ongoing search work is optional, from ${P.seo}; the <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> guide explains what it covers.`,
       ],
     },
     {

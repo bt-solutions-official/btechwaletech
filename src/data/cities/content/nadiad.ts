@@ -7,7 +7,7 @@ const nadiad: CityContent = {
   meta: {
     title: "IT Services in Nadiad: Websites, Apps, SEO & AI",
     description:
-      "Websites, Gujarati and English SEO, snack stores and WhatsApp automation for Nadiad's GIDC units, hospitals, colleges and traders. Static sites from ₹10,000.",
+      "Websites, snack stores and WhatsApp tools for Nadiad's GIDC units, hospitals, colleges and traders. Websites from ₹10,000, and the code stays yours.",
     keywords: [
       "website development team in Nadiad",
       "web design Nadiad",
@@ -24,6 +24,17 @@ const nadiad: CityContent = {
       "website maintenance Nadiad",
       "Nadiad ma website banavvi",
       "નડિયાદ વેબસાઇટ ડિઝાઇન",
+      "Nadiad website designer",
+      "web development company Nadiad",
+      "hire freelance web developer Nadiad",
+      "Kheda SEO services",
+      "Gujarat SEO services",
+      "GIDC manufacturers website design Nadiad",
+      "website design Santram Mandir Road Nadiad",
+      "website design College Road Nadiad",
+      "website design Chaklasi Bhagol Nadiad",
+      "website design price in Nadiad",
+      "app development company Nadiad",
     ],
   },
   hero: {

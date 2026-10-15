@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "HR flows with Personio", note: "Onboarding and offboarding checklists that create and remove accounts, notify teams and file documents, designed with works council rules in mind.", size: "md" },
       { name: "AI steps inside n8n", note: "Classification, extraction and drafting nodes calling EU-hosted models, with a human approval step before anything is sent.", href: "/germany/ai-automation-agency/", size: "sm" },
       { name: "Zapier or Make migration", note: "Existing zaps and scenarios rebuilt in n8n, tested side by side and switched over one flow at a time.", size: "sm" },
-      { name: "Maintenance retainer", note: `Version updates, credential rotation, failed-run monitoring and small changes, from ${P.care} a month after the free period.`, size: "sm" },
+      { name: "Maintenance retainer", note: `Version updates, credential rotation, failed-run monitoring and small changes, from ${P.care} after the free period.`, size: "sm" },
     ],
   },
   comparison: {
@@ -188,7 +188,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does an n8n automation agency cost?",
       paragraphs: [
-        `With BtechWaleTech, a workflow build starts at ${P.ai} and a typical project runs 2–4 weeks; maintenance starts from ${P.care} a month once the two free months end. Rates at other providers vary widely, so compare the number of workflows, the error handling and the hosting work included, not a headline figure.`,
+        `With BtechWaleTech, a workflow build starts at ${P.ai} and a typical project runs 2–4 weeks; maintenance starts from ${P.care} once the two free months end. Rates at other providers vary widely, so compare the number of workflows, the error handling and the hosting work included, not a headline figure.`,
         `Cost drivers, roughly in order: the number of systems per workflow, how messy the data mapping is (German accounting fields, tax keys and customer numbers rarely line up across tools), the need for custom nodes, approval steps involving people, and any migration of historical records. Setting up and hardening a self-hosted instance is a separate line in the quote.`,
         `Running costs belong in the budget as well: a server or n8n Cloud plan, any paid n8n tier, and usage fees for connected services such as AI models. On self-hosted n8n these do not grow with each workflow step, which is often the main financial reason to move away from per-task pricing. If AI steps are involved, the <a href='/germany/ai-automation-agency/'>AI automation guide</a> explains how model costs are estimated.`,
       ],
@@ -198,7 +198,7 @@ const content: FreelanceContent = {
       heading: "What does an n8n automation agency maintenance retainer cover?",
       paragraphs: [
         `A maintenance retainer keeps the instance updated, watches failed runs, fixes broken connections and makes small changes. n8n ships updates frequently, and the APIs your workflows use change on their own schedules, so unattended instances drift into trouble.`,
-        `Our care plans start from ${P.care} a month after two months of free maintenance. Typical monthly work includes applying n8n updates on a test copy first, then production; checking the error log and re-running failed items; renewing expiring credentials and tokens; adjusting a workflow when a connected tool changes its API; and a short monthly note on what ran, what failed and what changed.`,
+        `Our care plans start from ${P.care} after two months of free maintenance. Typical monthly work includes applying n8n updates on a test copy first, then production; checking the error log and re-running failed items; renewing expiring credentials and tokens; adjusting a workflow when a connected tool changes its API; and a short monthly note on what ran, what failed and what changed.`,
         `What a retainer should not be is a lock-in. Your instance, workflows and credentials stay in your accounts, and the runbooks let your own IT or another n8n automation agency take over. The exact scope and notice terms are set out in your written quote; see our <a href='/terms/'>terms</a> for the general conditions.`,
       ],
     },
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
   faqHeading: "n8n automation agency: questions from German companies",
   faqs: [
     { question: "What does an n8n automation agency do?", answer: "An n8n automation agency sets up an n8n instance, designs and builds workflows that connect your business tools, adds error handling and documentation, and maintains everything after launch. BtechWaleTech does this as three freelance developers in India, working in your accounts so the instance, workflows and credentials remain with your company." },
-    { question: "How much does an n8n automation agency cost?", answer: `With BtechWaleTech, workflow builds start at ${P.ai} and take 2–4 weeks, and maintenance starts from ${P.care} a month after two free months. Other providers price very differently, so compare the scope: number of workflows, error handling, hosting setup and documentation. Server or n8n Cloud fees are paid directly by you.` },
+    { question: "How much does an n8n automation agency cost?", answer: `With BtechWaleTech, workflow builds start at ${P.ai} and take 2–4 weeks, and maintenance starts from ${P.care} after two free months. Other providers price very differently, so compare the scope: number of workflows, error handling, hosting setup and documentation. Server or n8n Cloud fees are paid directly by you.` },
     { question: "Why is n8n popular with German companies?", answer: "n8n is built by a Berlin-based company, can be self-hosted on a server in Germany or the EU, and its hosted n8n Cloud runs on Azure in the EU. It also handles complex logic, code and any API, which suits German stacks with tools like lexoffice, sevDesk, DATEV exports and regional ERPs." },
     { question: "Is n8n free to use for my business?", answer: "The self-hosted software can be used under the Sustainable Use License for your own internal business purposes, which covers automating your own company's processes. Selling n8n or a product whose value comes substantially from it to others is restricted. Some features are only in paid tiers, and n8n Cloud is a paid service. Unclear cases belong with n8n and your lawyer." },
     { question: "Should we use n8n Cloud or self-host?", answer: "Choose n8n Cloud if you want no server to manage and are happy with n8n as a processor. Choose self-hosting if you need data on infrastructure you control, access to internal systems or lower costs at high volume. Many Mittelstand firms self-host in their own EU cloud account with a maintenance plan covering updates and backups." },

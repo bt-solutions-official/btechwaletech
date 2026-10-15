@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "clinic software data migration", "arabic clinic management system", "dental practice management software dubai",
       "clinic management software sharjah", "clinic erp uae", "patient reminder whatsapp clinic",
       "is custom clinic software worth it", "clinic software developers india for uae",
+      "hire clinic management software in the UAE", "freelance clinic management software UAE",
     ],
   },
   hero: {

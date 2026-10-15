@@ -7,7 +7,7 @@ const bathinda: CityContent = {
   meta: {
     title: "Bathinda Web Development, SEO & WhatsApp Tools",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Bathinda traders, cotton and yarn firms, clinics, coaching centres and shops. Sites from ₹10,000.",
+      "Bathinda websites, local SEO, UPI stores and WhatsApp automation for traders, cotton and yarn firms, clinics, coaching centres and shops. Sites from ₹10,000.",
     keywords: [
       "website development team in Bathinda",
       "web designer Bathinda",
@@ -25,6 +25,14 @@ const bathinda: CityContent = {
       "Bathinda vich website banwauni",
       "ਬਠਿੰਡਾ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
       "Malwa business website",
+      "Bathinda website designer",
+      "web development company Bathinda",
+      "hire freelance developer Bathinda",
+      "Punjab SEO",
+      "website for cotton, grain and yarn trade in Bathinda",
+      "web designer in Mall Road, Bathinda",
+      "website for plant contractors and suppliers in Bathinda",
+      "mobile app developer in Bathinda",
     ],
   },
   hero: {

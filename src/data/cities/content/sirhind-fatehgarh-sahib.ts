@@ -5,9 +5,9 @@ const sirhind: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 30.6177, lng: 76.3833 },
   meta: {
-    title: "IT Services in Sirhind: Websites, Apps, SEO & AI",
+    title: "Sirhind Website Design: Pumps, Parts & Bus Bodies",
     description:
-      "Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Sirhind and Fatehgarh Sahib traders, workshops, colleges and clinics.",
+      "Sirhind websites, Punjabi SEO and dealer catalogues for centrifugal pump makers, sewing machine parts units and bus body builders. From ₹10,000.",
     keywords: [
       "IT services in Sirhind",
       "IT services team in Fatehgarh Sahib",
@@ -29,6 +29,16 @@ const sirhind: CityContent = {
       "Sirhind me website banwana",
       "Fatehgarh Sahib vich website banwauni",
       "ਸਰਹਿੰਦ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Sirhind website designer",
+      "web development company Sirhind",
+      "hire freelance web developer Sirhind",
+      "Fatehgarh Sahib district SEO",
+      "website designer Fatehgarh Sahib district",
+      "Punjab SEO services",
+      "Sirhind me website kaise banwaye",
+      "Sirhind website banwane ka kharcha",
+      "Sirhind sewing machine parts website",
+      "sewing machine parts website design Sirhind",
     ],
   },
   hero: {

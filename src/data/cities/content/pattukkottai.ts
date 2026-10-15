@@ -7,7 +7,7 @@ const pattukkottai: CityContent = {
   meta: {
     title: "IT Services in Pattukkottai: Websites, Apps, SEO & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Pattukkottai coconut traders, coir units, clinics, colleges and delta shops.",
+      "Tamil websites, apps, local SEO and WhatsApp automation for Pattukkottai coconut traders, coir units, clinics, colleges and delta shops. From ₹10,000.",
     keywords: [
       "IT services in Pattukkottai",
       "IT services team in Pattukkottai",
@@ -29,6 +29,12 @@ const pattukkottai: CityContent = {
       "Pattukkottai me website banwana",
       "Pattukkottai website panna",
       "பட்டுக்கோட்டை இணையதள வடிவமைப்பு",
+      "Pattukkottai website designer",
+      "web development company Pattukkottai",
+      "hire freelance web developer Pattukkottai",
+      "Thanjavur district SEO",
+      "website designer Thanjavur district",
+      "Tamil Nadu SEO services",
     ],
   },
   hero: {

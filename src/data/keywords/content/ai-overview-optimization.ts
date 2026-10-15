@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "AI Overview optimization",
   updated: "2026-09-25",
   meta: {
-    title: `AI Overview Optimization: Get Cited, Keep Clicks`,
-    description: `AI Overview optimization from ${P.seo}/month: get your pages cited in Google AI Overviews, protect clicks, and adapt Indian service pages without shortcuts.`,
+    title: `AI Overview Optimization from ${P.seo}: Get Cited`,
+    description: `AI Overview optimization from ${P.seo}: get your pages cited in Google AI Overviews, protect clicks and adapt Indian service pages. Get a quote in 2 days.`,
     keywords: [
       "ai overview optimization", "ai overview optimisation", "google ai overview optimization", "ai overviews seo",
       "how to get cited in google ai overview", "how to appear in ai overviews", "ai overview seo services India",
@@ -25,6 +25,8 @@ const content: FreelanceContent = {
       "ai overview optimization for small business", "ai overview optimization for service pages",
       "ai overview optimization Delhi", "ai overview optimization Bangalore", "ai overview me website kaise laaye",
       "ai overview optimization freelancer",
+      "ai overview optimization company in India",
+      "best ai overview optimization in India",
     ],
   },
   hero: {
@@ -50,7 +52,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How do you optimise a website for Google AI Overviews?",
-    text: `AI Overview optimization starts with basics Google confirms: the page must be indexed and eligible for a snippet, with no special schema or file required. Then you make passages easy to quote, with a question heading, a direct answer, specific numbers and tables, and give readers reasons to click, like prices, tools and local detail. BtechWaleTech does this from ${P.seo} a month.`,
+    text: `AI Overview optimization starts with basics Google confirms: the page must be indexed and eligible for a snippet, with no special schema or file required. Then you make passages easy to quote, with a question heading, a direct answer, specific numbers and tables, and give readers reasons to click, like prices, tools and local detail. BtechWaleTech does this from ${P.seo}.`,
     more: `For ChatGPT, Perplexity and other engines too, see <a href='/generative-engine-optimization-services/'>generative engine optimization services</a>; to strengthen how Google understands your brand, read <a href='/get-google-knowledge-panel/'>how to get a Google knowledge panel</a>.`,
   },
   snapshot: {
@@ -92,7 +94,7 @@ const content: FreelanceContent = {
       ["Risk to rankings", "Slow decline on informational queries", "High, thin and repetitive content", "Low; follows Google’s published guidance"],
       ["Structured data", "Often outdated", "Often copied and inaccurate", "Matches visible content, validated"],
       ["Measurement", "Total traffic only", "Page count", "CTR by query group, SERP log, enquiries"],
-      ["Starting cost", "Existing retainer", "Tool subscription, varies", `From ${P.seo} a month`],
+      ["Starting cost", "Existing retainer", "Tool subscription, varies", `From ${P.seo}`],
     ],
     fine: "If your traffic comes almost entirely from brand and local map searches, AI Overviews may barely touch you, and ordinary local SEO is the better use of budget.",
   },
@@ -336,8 +338,8 @@ const content: FreelanceContent = {
       note: "Starting prices. Your quote itemises pages, reviews and measurement; nothing is billed before written approval.",
       columns: ["Scope", "Typical site", "Starts at", "Timeline"],
       rows: [
-        ["Triage and priority pages", "10–20 service or guide pages", `${P.seo}/month`, "6 weeks to first report"],
-        ["Ongoing optimisation", "Growing content site or multi-service business", `${P.seo}/month (${P.seoUsd})`, "Monthly, judged over a season"],
+        ["Triage and priority pages", "10–20 service or guide pages", `${P.seo}`, "6 weeks to first report"],
+        ["Ongoing optimisation", "Growing content site or multi-service business", `${P.seo} (${P.seoUsd})`, "Monthly, judged over a season"],
         ["Rebuild for structure and speed", "Slow or hard-to-edit site", `${P.seoSite}`, "3–5 weeks"],
         ["Small new site", "Up to 100 pages, answer-first from launch", `${P.site}`, "1–2 weeks"],
         ["Ecommerce catalogue", "Products and categories with specs and prices", `${P.shop}`, "4–8 weeks"],

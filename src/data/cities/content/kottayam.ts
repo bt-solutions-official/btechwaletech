@@ -7,7 +7,7 @@ const kottayam: CityContent = {
   meta: {
     title: "IT Services in Kottayam | Web, Apps & AI from ₹10,000",
     description:
-      "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Kottayam rubber traders, publishers, hospitals, colleges and Kumarakom resorts.",
+      "Kottayam Malayalam websites, mobile apps, local SEO and WhatsApp bots for rubber traders, publishers, hospitals, colleges and Kumarakom resorts. From ₹10,000.",
     keywords: [
       "IT services in Kottayam",
       "IT services team in Kottayam",
@@ -29,6 +29,10 @@ const kottayam: CityContent = {
       "Kottayathu website cheyyan",
       "കോട്ടയം വെബ്സൈറ്റ് ഡിസൈൻ",
       "book publisher website Kerala",
+      "Kottayam website designer",
+      "web development company Kottayam",
+      "hire freelance developer Kottayam",
+      "Kerala SEO",
     ],
   },
   hero: {

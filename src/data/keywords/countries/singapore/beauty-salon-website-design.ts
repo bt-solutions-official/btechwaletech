@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "salon website before and after photos", "instagram to website salon", "beauty salon seo singapore", "salon website near me",
       "website for beauty salon orchard", "website for nail studio tampines", "spa website design jurong", "beauty website developer singapore",
       "salon website without commission", "salon website for massage spa singapore",
+      "hire beauty salon website design in Singapore", "freelance beauty salon website design Singapore",
     ],
   },
   hero: {
@@ -222,7 +223,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Through a complete Google Business Profile, a fast site with a page per outlet and per main service, genuine reviews and clear local details like the nearest MRT station. Nobody can guarantee a ranking, but these basics decide whether you are even in the running for “facial near me”.`,
         `We build each outlet page with its address, opening hours, directions, the services offered there and structured data using schema.org's BeautySalon or DaySpa types, so search engines understand what and where you are. Service pages describe treatments in the words clients use, such as “Korean glass skin facial” or “Japanese gel nails”, rather than internal codes.`,
-        `Reviews should come from real clients, requested politely after a visit; buying or inventing them breaks platform rules and trust. Google Search Console then shows which searches bring people to your site. For ongoing work, our <a href='/singapore/ai-seo-services/'>SEO service for Singapore businesses</a> starts at ${P.seo} a month.`,
+        `Reviews should come from real clients, requested politely after a visit; buying or inventing them breaks platform rules and trust. Google Search Console then shows which searches bring people to your site. For ongoing work, our <a href='/singapore/ai-seo-services/'>SEO service for Singapore businesses</a> starts at ${P.seo}.`,
       ],
     },
     {

@@ -7,7 +7,7 @@ const paradip: CityContent = {
   meta: {
     title: "IT Services in Paradip: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, SEO, logistics software and WhatsApp automation for Paradip port contractors, CHAs, transporters, shops and schools.",
+      "Websites, apps, SEO and WhatsApp tools for Paradip port contractors, CHAs, transporters, shops and schools. From ₹10,000, with 2 months of free upkeep.",
     keywords: [
       "IT services in Paradip",
       "IT services team in Paradeep",
@@ -30,6 +30,11 @@ const paradip: CityContent = {
       "Paradip re website tiari",
       "Paradip me website banwana",
       "ପାରାଦୀପ ୱେବସାଇଟ ଡିଜାଇନ",
+      "Paradip website designer",
+      "web development company Paradip",
+      "hire freelance web developer Paradip",
+      "Odisha SEO services",
+      "website design Madhuban Paradip",
     ],
   },
   hero: {

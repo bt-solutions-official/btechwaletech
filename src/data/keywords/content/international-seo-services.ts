@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "International SEO services",
   updated: "2026-09-25",
   meta: {
-    title: "International SEO Services to Rank in US, UK, UAE",
-    description: `International SEO services from ${P.seo}/month for Indian businesses: domain structure, hreflang for en-US and en-GB, currency pages and local links abroad.`,
+    title: `International SEO Services from ${P.seo}: US, UK, UAE`,
+    description: `International SEO services for Indian businesses: domain structure, hreflang for en-US and en-GB, currency pages and local links. From ${P.seo}.`,
     keywords: [
       "international seo services", "international seo", "international seo services India", "international seo agency India",
       "international seo consultant", "global seo services", "multi country seo", "multilingual seo services",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "geo targeting seo", ".com vs .in for international seo", "international seo checklist", "international link building",
       "international seo services for SaaS", "international seo Mumbai", "international seo Bangalore", "international seo Delhi",
       "videsh me website rank kaise kare", "international seo services near me",
+      "best international seo services in India",
     ],
   },
   hero: {
@@ -49,7 +50,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What do international SEO services include for an Indian business?",
-    text: `International SEO services help a site built in India rank in other countries. The core work is choosing between country domains, subdomains or subfolders, adding correct hreflang (for example en-US and en-GB), localising copy, prices and currency per market, earning links from each country and removing IP redirects that hide pages from Google. BtechWaleTech offers this from ${P.seo} a month.`,
+    text: `International SEO services help a site built in India rank in other countries. The core work is choosing between country domains, subdomains or subfolders, adding correct hreflang (for example en-US and en-GB), localising copy, prices and currency per market, earning links from each country and removing IP redirects that hide pages from Google. BtechWaleTech offers this from ${P.seo}.`,
     more: `Exporters usually pair this with an <a href='/export-business-website-developer/'>export business website</a>; software companies should also read <a href='/saas-seo-services/'>SaaS SEO services</a>.`,
   },
   snapshot: {
@@ -97,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "International SEO services pricing",
-    note: `International SEO services with BtechWaleTech start at ${P.seo} a month in India and ${P.seoUsd} for businesses billed abroad. That covers one primary market plus technical upkeep of your hreflang and structure. Each extra market adds keyword research, localised pages and link building, so the quote grows with the number of countries and languages, not with vague “package tiers”. When your current site cannot support separate market folders cleanly, a rebuild on the SEO website plan starts at ${P.seoSite}, delivered in three to five weeks. Moving from a .in domain to a .com is quoted separately after we have counted the URLs that need redirecting. All figures are starting prices.`,
+    note: `International SEO services with BtechWaleTech start at ${P.seo} in India and ${P.seoUsd} for businesses billed abroad. That covers one primary market plus technical upkeep of your hreflang and structure. Each extra market adds keyword research, localised pages and link building, so the quote grows with the number of countries and languages, not with vague “package tiers”. When your current site cannot support separate market folders cleanly, a rebuild on the SEO website plan starts at ${P.seoSite}, delivered in three to five weeks. Moving from a .in domain to a .com is quoted separately after we have counted the URLs that need redirecting. All figures are starting prices.`,
   },
   guideLabel: "International SEO guide",
   guide: [
@@ -252,7 +253,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do international SEO services cost?",
       paragraphs: [
-        `With BtechWaleTech, international SEO services start at ${P.seo} a month (${P.seoUsd} if you are billed abroad). Other providers’ quotes vary widely, so compare the number of markets, languages and pages each quote actually covers.`,
+        `With BtechWaleTech, international SEO services start at ${P.seo} (${P.seoUsd} if you are billed abroad). Other providers’ quotes vary widely, so compare the number of markets, languages and pages each quote actually covers.`,
         `Three things drive the price. Markets: each country needs its own keyword research, localised pages and links. Languages: a second language adds structure, RTL testing if needed and coordination of translated copy. Site condition: if your current CMS cannot hold separate market folders or output hreflang cleanly, fixing it may cost more than rebuilding, and a rebuild on our SEO website plan starts at ${P.seoSite}.`,
         `One-off tasks are quoted separately: a domain move, a large hreflang clean-up on an ecommerce catalogue, or a CDN setup. Everything appears in an itemised quote before any work begins. If budget is tight, the most efficient start is one extra market in subfolders on your existing domain, done properly, before adding more.`,
       ],
@@ -349,8 +350,8 @@ const content: FreelanceContent = {
       note: "Starting prices. The itemised quote reflects your markets, languages and current site; nothing is billed before written approval.",
       columns: ["Scope", "What it covers", "Starts at", "Timeline"],
       rows: [
-        ["One new market on existing site", "Audit, structure, hreflang, localised pages, links", `${P.seo}/month (${P.seoUsd})`, "Ongoing, 3–6 months to judge"],
-        ["Several markets, one language", "Per-market keywords, folders, links, reporting", `${P.seo}/month, scaled by markets`, "Ongoing"],
+        ["One new market on existing site", "Audit, structure, hreflang, localised pages, links", `${P.seo} (${P.seoUsd})`, "Ongoing, 3–6 months to judge"],
+        ["Several markets, one language", "Per-market keywords, folders, links, reporting", `${P.seo}, scaled by markets`, "Ongoing"],
         ["Rebuild for multi-market structure", "New site with market folders and hreflang built in", `${P.seoSite} (${P.seoSiteUsd})`, "3–5 weeks"],
         ["Export ecommerce store", "Catalogue, currency per market, card and wallet checkout", `${P.shop} (${P.shopUsd})`, "4–8 weeks"],
         ["Market site, small scope", "Static site up to 100 pages for one market", `${P.site} (${P.siteUsd})`, "1–2 weeks"],
@@ -394,7 +395,7 @@ const content: FreelanceContent = {
   faqHeading: "International SEO services: questions from Indian businesses",
   faqs: [
     { question: "What are international SEO services?", answer: "International SEO services help one business rank in search results in several countries. The work covers choosing a URL structure for each market, adding hreflang so Google shows the right version to each country, localising content, prices and currency, building links from websites in each market, and removing technical problems such as IP redirects that hide versions from Google." },
-    { question: "How much do international SEO services cost in India?", answer: `With BtechWaleTech, international SEO services start at ${P.seo} a month, or ${P.seoUsd} if you are billed abroad. The quote grows with the number of markets and languages and the condition of your current site. A rebuild for a multi-market structure starts at ${P.seoSite}. Other providers’ prices vary widely, so compare scope rather than headline figures.` },
+    { question: "How much do international SEO services cost in India?", answer: `With BtechWaleTech, international SEO services start at ${P.seo}, or ${P.seoUsd} if you are billed abroad. The quote grows with the number of markets and languages and the condition of your current site. A rebuild for a multi-market structure starts at ${P.seoSite}. Other providers’ prices vary widely, so compare scope rather than headline figures.` },
     { question: "Should I use a ccTLD, subdomain or subfolder for international SEO?", answer: "Google documents all three, plus URL parameters, which it does not recommend. Country domains give a strong country signal but cost more and split authority. Subdomains and subfolders are easy to set up. For most Indian businesses entering a few markets, one .com with country subfolders balances strength and upkeep best." },
     { question: "Can a .in website rank in the USA or UK?", answer: "It can rank for some searches, but it starts at a disadvantage. A .in is India’s country-code domain, and Google treats country-code domains as a strong signal that a site targets that country. If most of your buyers are abroad, a .com with market folders, with the .in redirected or kept for Indian buyers, is usually the better base." },
     { question: "What is hreflang and do I need it?", answer: "hreflang is an annotation that tells Google which language and region each version of a page is for, such as en-US or en-GB. You need it when you have several versions of the same content for different countries or languages. Each version must list itself and all alternates, or Google ignores the tags." },

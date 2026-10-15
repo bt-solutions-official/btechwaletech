@@ -7,7 +7,7 @@ const seoni: CityContent = {
   meta: {
     title: "IT Services in Seoni | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Seoni's Pench resorts, NH44 transport trade, rice mills, colleges, clinics and shops.",
+      "Hindi websites, apps, local SEO and WhatsApp tools for Seoni's Pench resorts, NH44 transport trade, rice mills, colleges, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Seoni",
       "IT services team in Seoni",
@@ -29,6 +29,12 @@ const seoni: CityContent = {
       "Seoni me website banwana",
       "Seoni mein app banwane ka kharcha",
       "सिवनी वेबसाइट डिज़ाइन",
+      "Seoni website designer",
+      "web development company Seoni",
+      "hire freelance web developer Seoni",
+      "Madhya Pradesh SEO services",
+      "Seoni me website kaise banwaye",
+      "Seoni website banwane ka kharcha",
     ],
   },
   hero: {

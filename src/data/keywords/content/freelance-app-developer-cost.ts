@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Google Play registration", value: "One-time fee paid by you to Google" },
       { label: "Apple Developer Program", value: "Yearly fee paid by you to Apple" },
       { label: "Servers, OTP, maps", value: "Monthly, usage-based, billed to your accounts" },
-      { label: "Maintenance", value: `2 months free, then from ${P.care} a month` },
+      { label: "Maintenance", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -241,7 +241,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Every app needs some upkeep, because Android, iOS and the stores keep changing. Google Play requires apps to target a recent Android API level to keep publishing updates, and Apple periodically raises its own build requirements. An app that nobody touches for a year or two can become hard to update.`,
         `Maintenance covers updating the framework and libraries, rebuilding for new OS versions, fixing crashes reported in Play Console and App Store Connect, renewing certificates, watching server health and making small content changes. It usually does not include big new features, which are quoted separately.`,
-        `With us, the first two months after launch are free. After that, care plans start at ${P.care} a month and are optional: you can also take the code and handover notes to your own team. Either way, budget something yearly for upkeep rather than treating the build as a one-time purchase.`,
+        `With us, the first two months after launch are free. After that, care plans start at ${P.care} and are optional: you can also take the code and handover notes to your own team. Either way, budget something yearly for upkeep rather than treating the build as a one-time purchase.`,
       ],
     },
     {
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
     { question: "How can I reduce the cost of building an app?", answer: "Launch with one user role, use phone OTP or Google sign-in, start with a web admin panel, pick cross-platform development, use standard components, and have all content ready before work begins. Replace in-app chat with a WhatsApp button at first. Move everything that is not essential to a second version with its own estimate." },
     { question: "How long does it take a freelancer to build an app?", answer: "A focused first version of an Android and iOS app usually takes six to ten weeks with our team. Multi-role apps with delivery partners, live tracking or complex integrations take longer. Delays most often come from late content, slow feedback or new features added midway, so a fixed version one list keeps the timeline on track." },
     { question: "Do I need to pay the full amount upfront?", answer: "No, and you should be wary of anyone who insists on it. With BtechWaleTech, nothing is billed before you approve an itemised written quote, and payments follow milestones tied to test builds you can install on your phone. In India we take UPI or bank transfer; clients abroad pay by Wise, bank wire or PayPal." },
-    { question: "What does app maintenance cost per month?", answer: `It depends on how much the app changes and how many users it has. Maintenance covers library updates, rebuilds for new Android and iOS versions, crash fixes and small edits. BtechWaleTech gives two months of free maintenance after launch; afterwards, optional care starts at ${P.care} a month, and you can take the code in-house at any time.` },
+    { question: "What does app maintenance cost per month?", answer: `It depends on how much the app changes and how many users it has. Maintenance covers library updates, rebuilds for new Android and iOS versions, crash fixes and small edits. BtechWaleTech gives two months of free maintenance after launch; afterwards, optional care starts at ${P.care}, and you can take the code in-house at any time.` },
     { question: "Is a cheap app developer worth the risk?", answer: "A low price is fine when the scope is clear and the terms protect you. The risk comes from apps published in the developer's account, backends on their private server, no admin panel or no real-device testing. Insist on a written scope, accounts in your name and staged payments, whatever the budget." },
     { question: "Does Flutter cost less than React Native?", answer: "The difference in cost between Flutter and React Native is small for most business apps. Both let one codebase run on Android and iOS. Choose Flutter for consistent custom design, React Native if your team knows JavaScript or you want to share code with a React website. Your feature list affects the price far more than this choice." },
     { question: "Who owns the app code after I pay?", answer: "You should own the source code, the store listings and all backend accounts. BtechWaleTech registers Google Play Console, Apple Developer and cloud accounts in the client's name, keeps code in the client's repository, and hands over documentation at launch. That way you can update or move the app with any developer you choose later." },

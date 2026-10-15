@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Excel to Tally import",
   updated: "2026-09-25",
   meta: {
-    title: `Excel to Tally Import Without Duplicates`,
+    title: `Excel to Tally Import, No Duplicates, from ${P.ai}`,
     description: `Excel to Tally import for sales, purchase, journal and ledger data, with GST and HSN mapping and checks before import, so no duplicate vouchers. From ${P.ai}.`,
     keywords: [
       "excel to tally import", "import excel to tally prime", "excel to tally", "how to import excel data in tally prime",

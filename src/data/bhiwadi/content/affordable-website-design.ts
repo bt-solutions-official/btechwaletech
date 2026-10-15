@@ -408,6 +408,7 @@ const content: FreelanceContent = {
     heading: "Related pages for budget-conscious businesses in Bhiwadi",
     links: [
       { name: "All services in Bhiwadi", href: "/bhiwadi-rajasthan/" },
+      { name: "Hotel website design in Bhiwadi", href: "/bhiwadi-rajasthan/hotel-website-design/" },
       { name: "Website development cost in Bhiwadi", href: "/bhiwadi-rajasthan/website-development-cost/" },
       { name: "Website development services in Bhiwadi", href: "/bhiwadi-rajasthan/website-development/" },
       { name: "Website designer in Bhiwadi", href: "/bhiwadi-rajasthan/website-designer/" },

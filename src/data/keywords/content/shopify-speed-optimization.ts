@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Shopify speed optimization",
   updated: "2026-09-25",
   meta: {
-    title: "Shopify Speed Optimization · Fix Apps, Liquid, Images",
-    description: `Shopify speed optimization that finds the real cause: app scripts, Liquid, images, tracking tags. Itemised fix quote; stay-fast care from ${P.care} a month.`,
+    title: `Shopify Speed Optimization: Apps, Liquid, Cost 2026`,
+    description: `Shopify speed optimization that finds the real cause: app scripts, Liquid, images, tracking tags. Itemised fix quote; stay-fast care from ${P.care}.`,
     keywords: [
       "shopify speed optimization", "shopify speed optimization service", "shopify speed optimization expert", "why is my shopify store slow",
       "shopify store slow", "speed up shopify store", "shopify page speed", "shopify core web vitals",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "shopify speed optimization cost", "shopify speed freelancer", "shopify speed optimization india", "shopify store slow on mobile",
       "shopify web performance dashboard", "shopify tracking scripts slow", "shopify speed kaise badhaye", "shopify speed booster app worth it",
       "shopify speed expert near me", "shopify speed optimization Mumbai", "shopify speed optimization Delhi", "how much does shopify speed optimization cost",
+      "shopify speed optimization price", "shopify speed optimization company", "best shopify speed optimization in India", "shopify speed optimization cost in India",
     ],
   },
   hero: {
@@ -34,7 +35,7 @@ const content: FreelanceContent = {
   },
   facts: [
     ["Speed fixes", "Itemised quote per fix after review"],
-    ["Keep-fast care plan", `From ${P.care} · ${P.careUsd} a month`],
+    ["Keep-fast care plan", `From ${P.care} · ${P.careUsd}`],
     ["Theme rebuild if needed", `From ${P.shop} · ${P.shopUsd}`],
     ["Metrics we target", "LCP, INP and CLS for real visitors"],
     ["Quote turnaround", "About 2 working days"],
@@ -60,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Good INP", value: "200 milliseconds or less" },
       { label: "Good CLS", value: "0.1 or less" },
       { label: "Fix pricing", value: "Itemised per fix after review" },
-      { label: "Keep it fast", value: `Care plans from ${P.care} a month` },
+      { label: "Keep it fast", value: `Care plans from ${P.care}` },
     ],
   },
   services: {
@@ -371,7 +372,7 @@ const content: FreelanceContent = {
   faqHeading: "Shopify speed optimization: common questions",
   faqs: [
     { question: "Why is my Shopify store so slow?", answer: "Usually because of what has been added to it rather than Shopify itself: app scripts loading on every page, code left behind by uninstalled apps, heavy theme features like sliders and autoplay video, images uploaded at full size and several tracking tags firing at once. Shopify’s web performance dashboard can show when metrics worsened, often lining up with an app install or theme change." },
-    { question: "How much does Shopify speed optimization cost?", answer: `It depends on the causes, so BtechWaleTech reviews your store and sends an itemised list of fixes, each with its own price, in about two working days. You approve only the lines you want and nothing is billed before that. If the theme itself is the limit, a rebuild starts at ${P.shop}, and care plans that keep speed from sliding start at ${P.care} a month.` },
+    { question: "How much does Shopify speed optimization cost?", answer: `It depends on the causes, so BtechWaleTech reviews your store and sends an itemised list of fixes, each with its own price, in about two working days. You approve only the lines you want and nothing is billed before that. If the theme itself is the limit, a rebuild starts at ${P.shop}, and care plans that keep speed from sliding start at ${P.care}.` },
     { question: "How long does Shopify speed optimization take?", answer: "The audit and quote take a few days, and most fix batches take one to three weeks depending on the number of apps and theme changes. Field data in Shopify’s dashboard and Search Console then needs about four weeks of new visits to reflect the improvement fully, because those reports summarise the last 28 to 30 days." },
     { question: "Do Shopify apps slow down my store?", answer: "Many do. Apps that show something on the storefront, such as reviews, pop-ups, chat, upsells and wishlists, usually load JavaScript and styles, often on every page. Some leave code behind even after you uninstall them. An app audit measures what each one costs in speed so you can keep the valuable ones, limit where they load and remove the rest." },
     { question: "How do I remove leftover code from uninstalled Shopify apps?", answer: "Search your theme files for snippet names, script URLs or app names linked to apps you no longer use, then check each match is not still needed before deleting it. Always work on a duplicate theme and test key pages afterwards. We do this as part of every audit because leftover snippets can keep loading files or causing errors long after an app is gone." },
@@ -387,7 +388,7 @@ const content: FreelanceContent = {
     { question: "Should I change my theme to make Shopify faster?", answer: `Only if the theme itself is the bottleneck. If a test page with apps disabled still fails Core Web Vitals, or the theme is patched so heavily that every fix breaks something, a cleaner theme may be the cheaper route; a rebuild with us starts at ${P.shop}. Otherwise, fixing apps, media and tags on your existing theme usually costs far less.` },
     { question: "Shopify store ki speed kaise badhaye?", answer: "Sabse pehle dekhiye kaunse apps har page par script load kar rahe hain aur purane uninstalled apps ka code theme mein bacha to nahi. Phir images sahi size mein lagaiye, hero image ko jaldi load karaiye, autoplay video hataiye aur duplicate tracking pixels band kariye. Shopify ka web performance dashboard dikhata hai ki speed kab aur kyun giri." },
     { question: "Can you fix INP problems on Shopify?", answer: "Yes. Poor INP means taps and clicks respond slowly, usually because JavaScript from apps, tracking tags or theme features is keeping the phone’s main thread busy. We trace the slow interactions, such as variant pickers, add-to-cart and filters, find the scripts responsible and remove, defer or scope them. Results then show in field data over the following weeks." },
-    { question: "How do I stop my Shopify store getting slow again?", answer: `Review every new app before installing, check which pages it loads on, remove apps you stop using along with their leftover code, and upload images at sensible sizes. Watch Shopify’s performance dashboard for jumps after changes. Our care plans, from ${P.care} a month, include regular checks, app reviews and testing of theme updates.` },
+    { question: "How do I stop my Shopify store getting slow again?", answer: `Review every new app before installing, check which pages it loads on, remove apps you stop using along with their leftover code, and upload images at sensible sizes. Watch Shopify’s performance dashboard for jumps after changes. Our care plans, from ${P.care}, include regular checks, app reviews and testing of theme updates.` },
     { question: "Do you need my Shopify login to do speed work?", answer: "We request collaborator access, which you approve and can remove at any time, rather than your personal login. All work happens on a duplicate theme, so your live store is untouched until you approve publishing. You keep ownership of the store, theme and apps throughout, and we document every change made." },
     { question: "How do payments work for speed optimization?", answer: "You receive the itemised fix list and approve the lines you want in writing; nothing is billed before that. Indian clients pay by UPI or bank transfer with GST invoices where applicable, and overseas clients pay in USD by Wise, bank wire or PayPal. Specific terms are agreed in your written quote, with our terms page covering the rest." },
     { question: "Do you optimise Shopify stores outside India?", answer: "Yes. The team works remotely from India in IST, overlapping with European mornings and US evenings, and quotes overseas stores in USD payable by Wise, bank wire or PayPal. Speed testing covers the regions your shoppers come from, and communication runs on WhatsApp, email and scheduled calls." },
@@ -412,7 +413,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Send us your store URL and find out what is slowing it down",
-    note: `Message us on WhatsApp with your Shopify store link. We will review your Core Web Vitals, apps and theme and send an itemised fix list with a price per line in about two working days. Care plans to keep it fast start at ${P.care} a month.`,
+    note: `Message us on WhatsApp with your Shopify store link. We will review your Core Web Vitals, apps and theme and send an itemised fix list with a price per line in about two working days. Care plans to keep it fast start at ${P.care}.`,
   },
 };
 

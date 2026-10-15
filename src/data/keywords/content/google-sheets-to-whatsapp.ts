@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Send WhatsApp message from Google Sheets",
   updated: "2026-09-25",
   meta: {
-    title: `Send WhatsApp Message from Google Sheets: from ${P.ai}`,
-    description: `Send WhatsApp messages from Google Sheets rows with Apps Script and the official API: reminders, confirmations and status written back. Setup from ${P.ai}.`,
+    title: `Google Sheets to WhatsApp Alerts from ${P.ai}`,
+    description: `Google Sheets to WhatsApp messages with Apps Script and the official API: reminders, confirmations and status written back to the sheet. Setup from ${P.ai}.`,
     keywords: [
       "send whatsapp message from google sheets", "google sheets to whatsapp", "send whatsapp from google sheets", "google sheets whatsapp automation",
       "google sheets whatsapp api", "apps script whatsapp api", "whatsapp reminder from google sheet", "google sheet whatsapp integration",

@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Rajpur Road", "website developer Selaqui", "website developer Mussoorie", "website developer Rishikesh",
       "website developer Uttarakhand", "business website Dehradun", "ecommerce website Dehradun", "Dehradun me website kaise banwaye",
       "website banwana hai Dehradun", "Doon Valley website developer",
+      "website developer in Dehradun cost", "website developer in Dehradun price", "hire website developer in Dehradun", "freelance website developer in Dehradun",
+      "best website developer in Dehradun", "website developer in Dehradun charges",
     ],
   },
   hero: {

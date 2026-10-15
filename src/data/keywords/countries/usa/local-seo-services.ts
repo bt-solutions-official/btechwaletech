@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Local SEO Services for the Map Pack: from ${P.seo}`,
-    description: `Local SEO services for US service-area businesses from ${P.seo}: Google Business Profile, city pages that aren't doorways, citations, reviews and call tracking.`,
+    description: `Local SEO services for US service-area businesses from ${P.seo}: Google Business Profile, city pages that aren't doorways, citations and call tracking.`,
     keywords: [
       "local seo services", "local seo", "local seo company", "local seo for service area business",
       "google map pack seo", "how to rank in google maps", "google business profile optimization", "google business profile management",
@@ -46,7 +46,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How do local SEO services get a service-area business into the Google map pack?",
-    text: `Local SEO services work on the three things Google says drive local results: relevance, distance and prominence. That means an accurate, complete Google Business Profile with the address hidden for service-area businesses, genuinely useful city and service pages, consistent citations, a steady stream of honest reviews, and tracking that shows which calls came from Maps. BtechWaleTech does this from ${P.seo} a month.`,
+    text: `Local SEO services work on the three things Google says drive local results: relevance, distance and prominence. That means an accurate, complete Google Business Profile with the address hidden for service-area businesses, genuinely useful city and service pages, consistent citations, a steady stream of honest reviews, and tracking that shows which calls came from Maps. BtechWaleTech does this from ${P.seo}.`,
     more: `Run an agency and want to resell this? See <a href='/usa/white-label-seo/'>white label SEO services</a>. Contractors can also read <a href='/usa/contractor-website-design/'>contractor website design</a> for the site side of local search.`,
   },
   snapshot: {
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
       { name: "HVAC website design", href: "/usa/hvac-website-design/" },
       { name: "Roofing website design", href: "/usa/roofing-website-design/" },
       { name: "Contractor website design", href: "/usa/contractor-website-design/" },
-      { name: "Pest control website design", href: "/usa/pest-control-website-design/" },
+      { name: "Landscaping website design", href: "/usa/landscaping-website-design/" },
       { name: "Small business website design", href: "/usa/small-business-website-design/" },
       { name: "Web development for US businesses", href: "/usa/" },
       { name: "Contact", href: "/contact/" },

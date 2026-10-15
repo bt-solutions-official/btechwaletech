@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "conversions api gateway", "server side gtm meta", "meta conversions api expert near me",
       "meta conversions api setup Delhi", "meta conversions api setup Mumbai", "meta conversions api setup Bengaluru",
       "facebook pixel server side kaise lagaye",
+      "Meta Conversions API setup cost", "Meta Conversions API setup company", "best Meta Conversions API setup in India", "Meta Conversions API setup cost in India",
+      "Meta Conversions API setup service",
     ],
   },
   hero: {
@@ -61,7 +63,7 @@ const content: FreelanceContent = {
       { label: "Deduplication", value: "Same event_name and event_id on browser and server events" },
       { label: "Matching", value: "Hashed email and phone, fbp, fbc, IP and user agent, external ID" },
       { label: "Beyond the website", value: "Offline sales, CRM lead stages, click-to-WhatsApp conversions" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -355,7 +357,7 @@ const content: FreelanceContent = {
       ["Implement server events", "Platform integrations are configured or server code is added, with event IDs shared between Pixel and server and customer data hashed."],
       ["Test in staging and live", "Test Events confirms each event; real test orders or leads, including with an ad blocker, confirm the server path and deduplication."],
       ["Add offline and WhatsApp", "If scoped, CRM stages, billing exports and WhatsApp chat conversions are mapped and sent with the right action source."],
-      ["Monitor and hand over", "A week of monitoring compares Meta’s numbers with yours. You get documentation, and fixes are free for two months, then from " + P.care + " a month if needed."],
+      ["Monitor and hand over", "A week of monitoring compares Meta’s numbers with yours. You get documentation, and fixes are free for two months, then from " + P.care + " if needed."],
     ],
   },
   faqHeading: "Meta Conversions API setup: questions people ask",
@@ -379,7 +381,7 @@ const content: FreelanceContent = {
     { question: "Who owns the Pixel, dataset and access tokens?", answer: "You do. The Pixel and dataset belong to your Business Manager, access tokens are generated there and stored on your server, and any cloud account for server-side tagging is in your name. We work through partner access that you can remove. At handover you get the event plan, documentation of every event and the code, so any developer can maintain it later." },
     { question: "Can you send CRM lead stages back to Meta?", answer: "Yes. When a lead’s stage changes in your CRM, for example to qualified, visit booked or converted, the setup sends an event to Meta with the lead’s identifiers so campaigns can optimise toward leads that become customers. Meta’s guidance for CRM lead integrations recommends uploading at least daily. It works best when your team updates lead stages promptly and consistently." },
     { question: "Do you also set up GA4 and Google Ads conversion tracking?", answer: "Yes, as separate work. Meta’s Conversions API covers Facebook and Instagram measurement only. Google Analytics 4 and Google Ads have their own tagging and server-side options, which we can set up so the same events are named consistently across platforms. Consistent names and IDs make it much easier to compare what each ad platform reports against your real sales." },
-    { question: "What if the server events stop after launch?", answer: `We set up monitoring on event volumes and errors, and a named person is alerted if server events drop or Meta starts rejecting them. Queued events are retried, since Meta accepts event times up to seven days in the past. Fixes are free for two months after launch; after that, maintenance starts at ${P.care} a month if you want it.` },
+    { question: "What if the server events stop after launch?", answer: `We set up monitoring on event volumes and errors, and a named person is alerted if server events drop or Meta starts rejecting them. Queued events are retried, since Meta accepts event times up to seven days in the past. Fixes are free for two months after launch; after that, maintenance starts at ${P.care} if you want it.` },
     { question: "Facebook Pixel ke saath server side tracking kaise lagaye?", answer: `Pixel browser se events bhejta hai, aur Conversions API aapke server se wahi events bhejta hai. Dono mein same event_name aur same event_id hona chahiye taaki Meta ek hi conversion gine. Email aur phone ko SHA-256 se hash karke bheja jata hai. BtechWaleTech yeh Meta Conversions API setup ${P.ai} se karta hai, aam taur par 1–3 hafte mein.` },
   ],
   related: {

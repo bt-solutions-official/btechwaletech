@@ -230,7 +230,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `It can be found, but no developer can guarantee rankings. What a good build does is make the site easy for Google to understand, then let reviews, links and time do the rest.`,
         `For local searches, the <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> matters most. It should carry the same name, address and phone as your website footer, the right category and real photos of your shop.`,
-        `Specific pages help with everything else. A page answering “groundnut seed varieties available in Bhanvad” or “how to reach Ghumli Navlakha temple from Porbandar” gives Google and AI assistants a clear answer to quote. Every site we launch includes unique titles, clean URLs, schema markup, a sitemap and Search Console. Ongoing SEO is optional from ${P.seo} a month.`,
+        `Specific pages help with everything else. A page answering “groundnut seed varieties available in Bhanvad” or “how to reach Ghumli Navlakha temple from Porbandar” gives Google and AI assistants a clear answer to quote. Every site we launch includes unique titles, clean URLs, schema markup, a sitemap and Search Console. Ongoing SEO is optional from ${P.seo}.`,
       ],
     },
     {

@@ -5,9 +5,9 @@ const palghar: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 19.6967, lng: 72.7699 },
   meta: {
-    title: "IT Services in Palghar | Web & Apps from ₹10,000",
+    title: "Palghar Website Design: MIDC, Fish & Chikoo",
     description:
-      "Marathi and English websites, Android and iOS apps, SEO and WhatsApp automation for Palghar MIDC suppliers, fish traders, chikoo growers, resorts and shops.",
+      "Palghar websites, Marathi SEO and apps for MIDC contractors, fabricators, dry fish traders, chikoo growers, Warli artists and beach resorts. From ₹10,000.",
     keywords: [
       "IT services in Palghar",
       "IT services team in Palghar",
@@ -30,6 +30,15 @@ const palghar: CityContent = {
       "Palghar me website banwana",
       "Palghar madhe website banvane",
       "पालघर वेबसाइट डिझाइन",
+      "Palghar website designer",
+      "web development company Palghar",
+      "hire freelance web developer Palghar",
+      "Konkan SEO services",
+      "website designer Konkan",
+      "Maharashtra SEO services",
+      "Palghar me website kaise banwaye",
+      "Palghar website banwane ka kharcha",
+      "Palghar MIDC service contractors website",
     ],
   },
   hero: {

@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "WordPress website cost Bangalore", "Shopify store cost Bangalore", "website redesign cost Bangalore", "school website cost Bangalore",
       "clinic website cost Bangalore", "Kannada website cost", "affordable website development Bangalore", "website development cost near me",
       "website banane ka kharcha Bangalore", "Bangalore me website kitne ki banti hai",
+      "website development cost in Bangalore cost", "website development cost in Bangalore price", "hire website development cost in Bangalore", "freelance website development cost in Bangalore",
+      "best website development cost in Bangalore", "website development cost in Bangalore charges", "website development cost near me Bangalore",
     ],
   },
   hero: {

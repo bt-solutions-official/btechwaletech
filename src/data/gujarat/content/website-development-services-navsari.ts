@@ -217,7 +217,7 @@ const content: FreelanceContent = {
         `A website helps you get found only if search is built in from the first page, and even then nobody can promise a ranking. What you can control is clarity, speed, consistency and useful content.`,
         `On every site we set unique titles and descriptions, one H1 per page, clean URLs, compressed images with alt text, a sitemap, canonical tags and schema markup for your organisation, services or products and FAQs. <a href='https://search.google.com/search-console/about' rel='noopener'>Google Search Console</a> is verified before launch so you can see searches from the first week.`,
         `Local results matter a lot in Navsari. Your Google Business Profile should show exactly the same name, address and phone as your website footer, with the right categories, real photos and replies to reviews. Pages that name the areas you serve, such as Vijalpore, Jalalpore or Bilimora, help when they contain genuinely useful information rather than repeated keywords.`,
-        `AI assistants and Google's AI Overviews tend to quote short, direct answers, tables and named facts. Writing a clear FAQ section and specific service pages helps both people and these systems. Ongoing work is optional through <a href='/services/seo-services/'>SEO services</a> from ${P.seo} a month.`,
+        `AI assistants and Google's AI Overviews tend to quote short, direct answers, tables and named facts. Writing a clear FAQ section and specific service pages helps both people and these systems. Ongoing work is optional through <a href='/services/seo-services/'>SEO services</a> from ${P.seo}.`,
       ],
     },
     {

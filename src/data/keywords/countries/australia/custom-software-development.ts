@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "custom software development perth", "custom software development adelaide", "custom web application development australia",
       "outsource custom software development", "custom internal tools developer", "phased software delivery",
       "who owns custom software code", "custom software developer near me",
+      "hire custom software development in Australia", "freelance custom software development Australia",
     ],
   },
   hero: {

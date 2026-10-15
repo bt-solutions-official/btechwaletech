@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Zapier Automation Expert",
   updated: "2026-09-24",
   meta: {
-    title: "Zapier Automation Expert for Small Businesses",
-    description: `Need a Zapier automation expert? We build Zapier and Make workflows, or self-hosted n8n when per-task fees add up. Projects from ${P.ai}, accounts in your name.`,
+    title: `Zapier Automation Expert: Hire from ${P.ai}`,
+    description: `Zapier automation expert for small businesses: Zapier and Make workflows, or self-hosted n8n when per-task fees add up. Projects from ${P.ai}.`,
     keywords: [
       "zapier automation expert", "zapier automation expert India", "zapier expert near me", "zapier expert for hire",
       "zapier automation cost", "zapier consultant price", "best zapier automation expert", "zapier expert chahiye",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "zapier automation Jaipur", "no-code automation expert", "workflow automation freelancer", "zapier google sheets automation",
       "zapier whatsapp automation", "self-hosted automation n8n", "business process automation small business", "zapier integration specialist",
       "zapier webhook expert", "automation expert for SMB",
+      "hire Zapier Automation Expert", "freelance Zapier Automation Expert", "Zapier Automation Expert cost", "Zapier Automation Expert near me",
+      "best Zapier Automation Expert in India", "Zapier Automation Expert price", "Zapier Automation Expert charges",
     ],
   },
   hero: {

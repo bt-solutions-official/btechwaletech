@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Development Services in Anand from ${P.site}`,
-    description: `Website development services in Anand for colleges, dairy suppliers, Udyognagar units, clinics and NRI-facing firms. Full builds from ${P.site}, quote in 2 days.`,
+    description: `Website development in Anand for colleges, dairy suppliers, Udyognagar units, clinics and NRI-facing firms. Full builds from ${P.site}, quote in 2 days.`,
     keywords: [
       "website development services in Anand", "website development Anand", "website developer Anand", "web development services Anand Gujarat",
       "website design and development Anand", "website developer near me Anand", "website cost Anand", "website price Anand Gujarat",
@@ -242,7 +242,7 @@ const content: FreelanceContent = {
         `Combine a well-structured site with a complete Google Business Profile and pages that match real searches. Nobody can guarantee rankings, and we will not pretend otherwise.`,
         `Remember that people search in different ways here: “Anand”, “Vallabh Vidyanagar”, “VV Nagar”, “Karamsad”, or simply “near me”. Your pages should use the place names your customers actually use, naturally, and your Business Profile should sit in the right locality with the right category.`,
         `On every build we set clean titles and descriptions, local business schema, one strong page per main service or course, compressed images, fast loading that passes Core Web Vitals, a sitemap submitted to Google Search Console, and matching name, address and phone across site and profile. Google's <a href='https://developers.google.com/search/docs' rel='noopener'>Search Central documentation</a> explains why these basics matter.`,
-        `AI assistants and Google's AI Overviews tend to quote pages that answer questions plainly. A good FAQ on fees, timings, eligibility or delivery helps. If you want continued work after launch, <a href='/services/seo-services/'>SEO services</a> start from ${P.seo} a month, optional.`,
+        `AI assistants and Google's AI Overviews tend to quote pages that answer questions plainly. A good FAQ on fees, timings, eligibility or delivery helps. If you want continued work after launch, <a href='/services/seo-services/'>SEO services</a> start from ${P.seo}, optional.`,
       ],
     },
     {

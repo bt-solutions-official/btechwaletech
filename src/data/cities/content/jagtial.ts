@@ -7,7 +7,7 @@ const jagtial: CityContent = {
   meta: {
     title: "IT Services in Jagtial: Websites, Apps, SEO & AI",
     description:
-      "Websites, Telugu local SEO, mango and turmeric trader pages and WhatsApp automation for Jagtial, Korutla and Metpally businesses. Static sites from ₹10,000.",
+      "Jagtial, Korutla and Metpally websites, Telugu local SEO, mango and turmeric trader pages and WhatsApp automation. Static sites from ₹10,000.",
     keywords: [
       "website development team in Jagtial",
       "web designer Jagtial",
@@ -25,6 +25,14 @@ const jagtial: CityContent = {
       "website maintenance Jagtial",
       "Jagtial lo website entha kharchu",
       "జగిత్యాల వెబ్‌సైట్",
+      "Jagtial website designer",
+      "website cost in Jagtial",
+      "web development company Jagtial",
+      "hire freelance developer Jagtial",
+      "North Telangana SEO",
+      "website for mango and turmeric traders in Jagtial",
+      "web designer in Dharur Camp, Jagtial",
+      "website for rice mills and cold storages in Jagtial",
     ],
   },
   hero: {

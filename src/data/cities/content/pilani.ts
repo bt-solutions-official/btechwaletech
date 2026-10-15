@@ -7,7 +7,7 @@ const pilani: CityContent = {
   meta: {
     title: "IT Services in Pilani | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, SEO, dashboards and WhatsApp automation for Pilani's campus market, schools, guesthouses, labs, startups and Shekhawati traders.",
+      "Websites, apps, SEO, dashboards and WhatsApp automation for Pilani's campus market, schools, guesthouses, labs, startups and Shekhawati traders. From ₹10,000.",
     keywords: [
       "IT services in Pilani",
       "IT services team in Pilani",
@@ -30,6 +30,11 @@ const pilani: CityContent = {
       "Pilani me website banwana",
       "Pilani mein app kaise banwaye",
       "पिलानी वेबसाइट डिजाइन",
+      "Pilani website designer",
+      "web development company Pilani",
+      "hire freelance web developer Pilani",
+      "Jhunjhunu district SEO",
+      "website designer Jhunjhunu district",
     ],
   },
   hero: {

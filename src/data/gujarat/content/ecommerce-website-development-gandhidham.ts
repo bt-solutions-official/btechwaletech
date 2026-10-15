@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Ecommerce Website Development Gandhidham, ${P.shop}+`,
-    description: `Ecommerce website development in Gandhidham: retail and wholesale stores with UPI checkout, GST invoices and Kutch shipping rules, from ${P.shop}, built remotely.`,
+    description: `Ecommerce website development in Gandhidham: retail and wholesale stores with UPI checkout, GST invoices and Kutch shipping rules, from ${P.shop}, remote build.`,
     keywords: [
       "ecommerce website development in Gandhidham", "ecommerce website Gandhidham", "online store development Gandhidham", "ecommerce developer near me Gandhidham",
       "ecommerce website development Kutch", "online shop website Gandhidham Gujarat", "ecommerce website cost Gandhidham", "online store price Gandhidham",

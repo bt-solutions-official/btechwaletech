@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-27",
   meta: {
     title: `Invoice Data Extraction in Bhiwadi from ${P.ai}`,
-    description: `Invoice data extraction in Bhiwadi from ${P.ai}: AI reads purchase bills and challans into Tally or your ERP. We sit one to one with your accountant in Bhiwadi.`,
+    description: `Invoice data extraction in Bhiwadi from ${P.ai}: AI reads purchase bills & challans into Tally or your ERP. We sit one to one with your accountant in Bhiwadi.`,
     keywords: [
       "invoice data extraction in Bhiwadi", "invoice data extraction Bhiwadi", "invoice data extraction near me",
       "invoice data extraction in Bhiwadi Rajasthan", "invoice OCR Bhiwadi Alwar", "purchase invoice to Tally automation",
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Meeting", value: "In person in Bhiwadi with accounts and stores, using your real bills" },
       { label: "Languages", value: "Reads English and printed Hindi bills; screens in Hindi or English" },
       { label: "Ownership", value: "Code, cloud accounts and extracted data stay in your name" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month if needed` },
+      { label: "Support", value: `2 months free, then from ${P.care} if needed` },
     ],
   },
   services: {
@@ -159,7 +159,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A standard pipeline starts at ${P.ai} (roughly ${P.aiUsd}). That covers intake from one channel (a shared inbox, a WhatsApp number or a scanned folder), extraction, validation rules, a simple review step and an import file or API posting into Tally or one ERP.`,
         `The price moves with four things. Layout variety: two hundred occasional suppliers need more testing than twenty regular ones. Document quality: thermal-printed bills that fade and handwritten kacha bills need extra handling and more human review. Matching: checking bills against POs and GRNs adds logic and screens. Destination: a clean Tally setup is simpler than an ERP with custom fields.`,
-        `There is also a running cost: the OCR or AI model charges per page, billed directly to a cloud account in your name, so you see exactly what each month costs. Two months of maintenance after go-live are free, and later care starts from ${P.care} a month if you want it. If the job grows into a full purchase-to-pay system, compare with our page on <a href='/bhiwadi-rajasthan/purchase-management-software/'>purchase management software in Bhiwadi</a>.`,
+        `There is also a running cost: the OCR or AI model charges per page, billed directly to a cloud account in your name, so you see exactly what each month costs. Two months of maintenance after go-live are free, and later care starts from ${P.care} if you want it. If the job grows into a full purchase-to-pay system, compare with our page on <a href='/bhiwadi-rajasthan/purchase-management-software/'>purchase management software in Bhiwadi</a>.`,
       ],
     },
     {
@@ -282,7 +282,7 @@ const content: FreelanceContent = {
         ["Bills plus challans, with GSTIN and duplicate checks", `From ${P.ai}`, "3–4 weeks", "Stores and accounts working from one register"],
         ["Mixed quality: photos, faded and Hindi bills", `From ${P.ai}`, "3–4 weeks", "Many small vendors and transporters"],
         ["Three-way match with PO and GRN, review app", `From ${P.software}`, "6–12 weeks", "Units closing books across two plants"],
-        ["Care after the 2 free months", `From ${P.care} a month`, "Monthly", "New supplier mappings, rule tweaks, monitoring"],
+        ["Care after the 2 free months", `From ${P.care}`, "Monthly", "New supplier mappings, rule tweaks, monitoring"],
       ],
       hideSm: [3],
     },
@@ -347,7 +347,7 @@ const content: FreelanceContent = {
       ["Test run and itemised quote", "You see extraction results on your own bills, then receive an itemised quote in about two working days. Nothing is billed before written approval."],
       ["Build, map and validate", "We build intake, extraction and rule checks, and map suppliers, ledgers and items with your accountant in accounts registered to you."],
       ["Parallel run, then go live", "Bills are entered both ways for a short period; clean suppliers switch to automatic drafts first, others stay in the review queue."],
-      ["Handover and free care", `You receive code, credentials and a guide to the review screen. Two months of fixes are free, then care from ${P.care} a month if wanted.`],
+      ["Handover and free care", `You receive code, credentials and a guide to the review screen. Two months of fixes are free, then care from ${P.care} if wanted.`],
     ],
   },
   faqHeading: "Invoice data extraction in Bhiwadi: questions accountants and owners ask",
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
     { question: "Is a ready-made invoice OCR app better than a custom pipeline?", answer: "A ready-made app suits units with standard layouts and simple books. A custom pipeline suits you when mappings to your Tally ledgers, local validation rules, PO matching or data residency matter. At the meeting we look at your bills and say honestly which fits; sometimes configuring an existing tool is the better answer." },
     { question: "Do you check GST details on each bill?", answer: "We build format checks for GSTINs, compare the supplier's state code with the tax type charged, verify totals and flag duplicates. These checks prepare clean records; they are not tax advice. Your CA remains responsible for input tax credit decisions and returns, and can use the extracted data for reconciliation." },
     { question: "Who owns the system after it is built?", answer: "You do. The code repository, cloud account, storage, database and mapping tables are in your company's name. At handover you get credentials and a guide showing how to add supplier mappings yourself. You can remove our access at any time, and another developer can continue from the handover pack." },
-    { question: "What maintenance is included?", answer: `Two months of fixes after go-live are free: new supplier layouts, rule adjustments and posting errors. After that, care continues from ${P.care} a month if you want it, or your team manages it using the guide. Major additions, such as a new ERP, a second plant or another intake channel, are quoted separately.` },
+    { question: "What maintenance is included?", answer: `Two months of fixes after go-live are free: new supplier layouts, rule adjustments and posting errors. After that, care continues from ${P.care} if you want it, or your team manages it using the guide. Major additions, such as a new ERP, a second plant or another intake channel, are quoted separately.` },
     { question: "How do we pay?", answer: "Payments in India are by UPI or bank transfer, in INR, in the stages written in your approved quote. Each stage is tied to something you can see working, such as the test run, the mapped pipeline and go-live. The AI service's usage charges go directly from your account to the provider." },
     { question: "Is working with a remote team safe for financial documents?", answer: "The data never needs to live on our machines. Everything runs in accounts you own, we work as invited users with limited permissions, and access is removed at handover if you wish. We meet in person in Bhiwadi for the key sessions, and all other work is logged, so you can see who did what." },
     { question: "Can it handle credit notes and debit notes?", answer: "Yes, once they are defined in the rules. Credit and debit notes reverse or adjust earlier entries, so they must link to the original invoice rather than post as fresh bills. The pipeline recognises them, looks for the reference invoice and sends them to review when the link is unclear." },

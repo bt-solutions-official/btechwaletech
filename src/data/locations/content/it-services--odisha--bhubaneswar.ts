@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 20.2961, lng: 85.8245 },
   meta: {
-    title: "Freelance Software Developers in Bhubaneswar",
+    title: "Bhubaneswar Software Developers: Startups & Coaching",
     description:
       "Comparing software development companies in Bhubaneswar? Hire freelance engineers for MVPs, web apps, AI agents and automation. Software from ₹60,000.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "ecommerce development Bhubaneswar",
       "automation for CA firms Bhubaneswar",
       "ଭୁବନେଶ୍ୱରରେ ସଫ୍ଟୱେର ଡେଭଲପର",
+      "Bhubaneswar website designer",
+      "website cost in Bhubaneswar",
+      "IT company in Bhubaneswar",
+      "Odisha SEO services",
+      "hire developer Bhubaneswar",
+      "startups software in Bhubaneswar",
+      "coaching software in Bhubaneswar",
     ],
   },
   hero: {

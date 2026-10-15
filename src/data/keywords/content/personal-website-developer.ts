@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "advocate website developer", "lawyer personal website India", "consultant personal website", "website for coach or trainer",
       "creator website developer", "author and speaker website", "personal brand website designer", "name.com personal website",
       "personal website vs LinkedIn", "professional profile website",
+      "hire personal website developer", "freelance personal website developer", "personal website developer cost", "best personal website developer in India",
+      "personal website developer price", "personal website developer charges",
     ],
   },
   hero: {

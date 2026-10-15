@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "B2B portal development company",
   updated: "2026-09-25",
   meta: {
-    title: `B2B Portal Development Company? Portals from ${P.software}`,
+    title: `B2B Portal Development Germany: Portals from ${P.software}`,
     description: `B2B portal development company for German manufacturers and wholesalers: dealer pricing, reorder, ERP sync, EU hosting. Custom portals from ${P.software}.`,
     keywords: [
       "b2b portal development company", "b2b portal development", "b2b customer portal", "dealer portal development",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "b2b portal weclapp", "dynamics 365 b2b portal", "distributor portal development", "b2b reorder portal",
       "b2b portal gdpr hosting frankfurt", "b2b portal development munich", "b2b portal development stuttgart", "b2b portal development hamburg",
       "outsource b2b portal development to india", "what is a b2b portal", "rfq portal for manufacturers", "b2b portal for mittelstand",
+      "hire b2b portal development in Germany", "freelance b2b portal development Germany",
     ],
   },
   hero: {

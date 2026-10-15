@@ -7,7 +7,7 @@ const patan: CityContent = {
   meta: {
     title: "IT Services in Patan: Websites, Apps, SEO & AI",
     description:
-      "Websites, Gujarati SEO, Patola and Mashru stores, heritage-tour pages and WhatsApp automation for Patan traders, agro units, clinics and coaching classes.",
+      "Patan websites, Gujarati SEO and UPI stores for Patola and Mashru weavers, castor and oilseed traders, isabgol processors and GIDC units. From ₹10,000.",
     keywords: [
       "website development team in Patan",
       "web designer Patan Gujarat",
@@ -25,6 +25,16 @@ const patan: CityContent = {
       "website maintenance Patan",
       "Google Maps listing Patan",
       "પાટણ વેબસાઇટ ડિઝાઇન",
+      "Patan website designer",
+      "web development company Patan",
+      "hire freelance web developer Patan",
+      "North Gujarat SEO services",
+      "website designer North Gujarat",
+      "Gujarat SEO services",
+      "Patan GIDC manufacturers website",
+      "GIDC manufacturers website design Patan",
+      "website design Walled city pols Patan",
+      "website design Bagwada Darwaja Patan",
     ],
   },
   hero: {

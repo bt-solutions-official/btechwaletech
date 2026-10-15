@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "CBBO FPO website", "FPO website development near me", "FPO ki website kaise banaye", "FPO website Maharashtra",
       "FPO website Karnataka", "FPO website Odisha", "FPO annual report online", "FPO online store",
       "10000 FPO scheme website", "FPO website developer",
+      "best fpo website development in India",
+      "fpo website development services",
     ],
   },
   hero: {

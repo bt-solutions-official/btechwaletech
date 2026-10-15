@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "FSSAI licence on website", "FMCG D2C website", "FMCG company website design near me", "FMCG website design Indore",
       "FMCG website design Delhi", "FMCG website design Ahmedabad", "FMCG website in Hindi", "retailer enquiry website for food brand",
       "how to get distributors for my FMCG product online", "beverage brand website design", "personal care brand website", "FMCG company website developer",
+      "best fmcg company website in India",
+      "fmcg company website services",
     ],
   },
   hero: {

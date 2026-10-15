@@ -47,7 +47,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "What does good medical practice website design include?",
     text: `Good medical practice website design includes a provider directory with full bios, one-tap links to the patient portal and bill pay, an appointment request or online scheduling path, a dated list of accepted insurance, location pages with hours, and accessibility built toward WCAG 2.1 AA. BtechWaleTech builds single-office sites from ${P.site} and multi-location groups from ${P.seoSite}.`,
-    more: `If your practice is focused on accessibility fixes for an existing site, see <a href='/usa/website-accessibility-remediation/'>website accessibility remediation</a>. For forms and hosting choices around patient data, read <a href='/usa/hipaa-compliant-website-design/'>HIPAA-aware website design</a>.`,
+    more: `If your practice needs accessibility fixes on an existing site, see <a href='/usa/ada-compliant-website-design/'>ADA compliant website design</a>. For forms and hosting choices around patient data, read <a href='/usa/hipaa-compliant-website-design/'>HIPAA-aware website design</a>.`,
   },
   snapshot: {
     caption: "Medical practice site in brief",
@@ -198,7 +198,7 @@ const content: FreelanceContent = {
         `Several offices, 20 or more provider bios, location picker and shared services: from ${P.seoSite}.`,
         `Custom referral portal or digital intake connected to your systems: from ${P.software}.`,
         `Question routing and missed-call follow-up automation: from ${P.ai}.`,
-        `Ongoing local search work across locations: from ${P.seo} a month.`,
+        `Ongoing local search work across locations: from ${P.seo}.`,
         `Care after the free two months: from ${P.care}.`,
       ],
       after: [
@@ -222,7 +222,7 @@ const content: FreelanceContent = {
         "Can you show a live practice site you built, tested on a phone and with a keyboard?",
       ],
       after: [
-        `If you run a narrower practice, compare notes with our pages on <a href='/usa/chiropractor-website-design/'>chiropractic clinic sites</a>, <a href='/usa/physical-therapy-website-design/'>physical therapy websites</a> and <a href='/usa/therapist-website-design/'>therapist websites</a>.`,
+        `If you run a narrower practice, compare notes with our pages on <a href='/usa/chiropractor-website-design/'>chiropractic clinic sites</a>, <a href='/usa/home-care-agency-website-design/'>home care agency websites</a> and <a href='/usa/telehealth-app-development/'>telehealth apps</a>.`,
       ],
     },
     {
@@ -396,11 +396,11 @@ const content: FreelanceContent = {
       { name: "Chiropractor website design", href: "/usa/chiropractor-website-design/" },
       { name: "Dental website design", href: "/usa/dental-website-design/" },
       { name: "Med spa website design", href: "/usa/med-spa-website-design/" },
-      { name: "Physical therapy website design", href: "/usa/physical-therapy-website-design/" },
-      { name: "Therapist website design", href: "/usa/therapist-website-design/" },
+      { name: "Home care agency website design", href: "/usa/home-care-agency-website-design/" },
+      { name: "Plastic surgeon website design", href: "/usa/plastic-surgeon-website-design/" },
       { name: "HIPAA-aware website design", href: "/usa/hipaa-compliant-website-design/" },
       { name: "ADA-compliant website design", href: "/usa/ada-compliant-website-design/" },
-      { name: "Website accessibility remediation", href: "/usa/website-accessibility-remediation/" },
+      { name: "Website redesign services", href: "/usa/website-redesign-services/" },
       { name: "Telehealth app development", href: "/usa/telehealth-app-development/" },
       { name: "Law firm website design", href: "/usa/law-firm-website-design/" },
       { name: "Websites for US businesses", href: "/usa/" },

@@ -7,7 +7,7 @@ const chirmiri: CityContent = {
   meta: {
     title: "IT Services in Chirmiri: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Chirmiri colliery suppliers, Haldibadi shops, schools, clinics and new ventures.",
+      "Chirmiri websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for colliery suppliers, Haldibadi shops, schools, clinics and new ventures.",
     keywords: [
       "IT services in Chirmiri",
       "IT services team in Chirmiri",
@@ -30,6 +30,9 @@ const chirmiri: CityContent = {
       "Chirmiri me website banwana",
       "Chirmiri me app banwana",
       "चिरमिरी वेबसाइट डिज़ाइन",
+      "Chirmiri website designer",
+      "web development company Chirmiri",
+      "hire freelance developer Chirmiri",
     ],
   },
   hero: {

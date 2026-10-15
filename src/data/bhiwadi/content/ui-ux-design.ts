@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-27",
   meta: {
     title: "UI UX Design in Bhiwadi: Tested With Your Team",
-    description: `UI UX design in Bhiwadi for apps and business software: wireframes, prototypes and shop-floor tests in person. Apps from ${P.app}, one-to-one meetings at your unit.`,
+    description: `UI UX design in Bhiwadi for apps and business software: wireframes, prototypes and shop-floor tests in person. Apps from ${P.app}, meetings at your unit.`,
     keywords: [
       "UI UX design in Bhiwadi", "UI UX designer in Bhiwadi", "UI UX design near me", "UI UX design company Bhiwadi",
       "UI UX design services Bhiwadi", "UI UX design in Bhiwadi Rajasthan", "UI UX designer Bhiwadi Alwar", "app UI design Bhiwadi",

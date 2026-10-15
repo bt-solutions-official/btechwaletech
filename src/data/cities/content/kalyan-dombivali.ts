@@ -7,7 +7,7 @@ const kalyanDombivali: CityContent = {
   meta: {
     title: "Kalyan-Dombivali IT Services | Web, Apps, SEO & AI",
     description:
-      "Websites, Marathi-friendly SEO and WhatsApp automation for Kalyan and Dombivli clinics, classes, shops and MIDC units. From ₹10,000 with 2 months free upkeep.",
+      "Kalyan and Dombivli websites, Marathi-friendly SEO and WhatsApp automation for clinics, classes, shops and MIDC units. From ₹10,000, 2 months free upkeep.",
     keywords: [
       "website developer in Kalyan",
       "website design Dombivli",
@@ -25,6 +25,14 @@ const kalyanDombivali: CityContent = {
       "website maintenance Kalyan",
       "website banvayla kiti kharch Dombivli",
       "कल्याण डोंबिवली वेबसाइट डिझाईन",
+      "Kalyan-Dombivli website designer",
+      "website cost in Kalyan-Dombivli",
+      "web development company Kalyan-Dombivli",
+      "hire freelance developer Kalyan-Dombivli",
+      "Maharashtra SEO",
+      "Kalyan-Dombivli me website kaise banwaye",
+      "website for tuition classes and coaching in Kalyan-Dombivli",
+      "web designer in Birla College Road, Kalyan-Dombivli",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Ecommerce Website Development in Gujarat, ${P.shop}+`,
-    description: `Ecommerce website development in Gujarat: catalogue, UPI and card checkout, GST invoice fields, shipping across India. Online stores from ${P.shop}, built remotely.`,
+    description: `Ecommerce website development in Gujarat: catalogue, UPI & card checkout, GST invoice fields, shipping across India. Online stores from ${P.shop}, remote build.`,
     keywords: [
       "ecommerce website development in Gujarat", "ecommerce website development Gujarat", "ecommerce website developer near me", "online store development Gujarat",
       "ecommerce website design Gujarat", "ecommerce website cost Gujarat", "online shop website Gujarat", "ecommerce developer Gujarat",

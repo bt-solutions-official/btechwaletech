@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Website Maintenance Services Australia from ${P.care}`,
-    description: `Website maintenance services for Australian businesses: WordPress and Shopify updates, backups, uptime, security and breach readiness. Care plans from ${P.care}.`,
+    description: `Website maintenance services for Australian businesses: WordPress and Shopify updates, backups, uptime, security and breach readiness. From ${P.care}.`,
     keywords: [
       "website maintenance services", "website maintenance services australia", "website care plan", "wordpress maintenance australia",
       "shopify store maintenance", "website support services", "monthly website maintenance", "website maintenance cost australia",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "website maintenance for small business", "notifiable data breaches website", "website maintenance sydney",
       "website maintenance melbourne", "website maintenance brisbane", "website maintenance perth", "website maintenance near me",
       "do i need website maintenance", "outsource website maintenance", "woocommerce maintenance", "website edits and updates",
+      "hire website maintenance services in Australia", "freelance website maintenance services Australia",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Dholka: Sites from ${P.site}`,
-    description: `Website developer in Dholka for wheat traders, flour mills, pilgrim stays, schools and shops: fast sites from ${P.site}, Gujarati-ready, itemised quote in 2 days.`,
+    description: `Website developer in Dholka for wheat traders, flour mills, pilgrim stays, schools and shops: fast sites from ${P.site}, Gujarati-ready, quote in 2 days.`,
     keywords: [
       "website developer in Dholka", "website developer Dholka", "Dholka website developer near me", "Dholka Gujarat website",
       "web developer Dholka", "website designer Dholka", "website development services Dholka", "website design Dholka Ahmedabad",

@@ -7,7 +7,7 @@ const nohar: CityContent = {
   meta: {
     title: "IT Services in Nohar | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Nohar mandi traders, farm input dealers, Gogamedi pilgrim services, schools and clinics.",
+      "Hindi websites, apps, local SEO and WhatsApp tools for Nohar mandi traders, farm input dealers, Gogamedi pilgrim services, schools and clinics. From ₹10,000.",
     keywords: [
       "IT services in Nohar",
       "IT services team in Nohar",
@@ -29,6 +29,12 @@ const nohar: CityContent = {
       "Nohar me website banwana",
       "Nohar me app banwana",
       "नोहर वेबसाइट डिजाइन",
+      "Nohar website designer",
+      "web development company Nohar",
+      "hire freelance web developer Nohar",
+      "Hanumangarh district SEO",
+      "website designer Hanumangarh district",
+      "Rajasthan SEO services",
     ],
   },
   hero: {

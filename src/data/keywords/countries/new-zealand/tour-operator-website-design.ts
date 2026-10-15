@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "tour website in usd and aud", "weather cancellation policy tours nz", "things to do in queenstown website",
       "things to do in rotorua website", "adventure tourism website", "guided tour website design",
       "google things to do booking links", "tour operator seo nz",
+      "hire tour operator website design in New Zealand", "freelance tour operator website design New Zealand", "tour operator website design Auckland",
+      "tour operator website design Wellington", "tour operator website design New Zealand",
     ],
   },
   hero: {

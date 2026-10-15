@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "renovation website mississauga", "renovation website calgary", "renovation website vancouver", "renovation website ottawa",
       "renovation company website near me", "what should a renovation website include", "how do renovation companies get leads online",
       "renovation website designer for small business",
+      "hire renovation company website design in Canada", "freelance renovation company website design Canada",
     ],
   },
   hero: {

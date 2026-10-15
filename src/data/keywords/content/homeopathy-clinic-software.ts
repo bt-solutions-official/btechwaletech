@@ -22,6 +22,9 @@ const content: FreelanceContent = {
       "homeopathy follow up reminder software", "homeopathy patient app", "custom homeopathy clinic software", "homeopathy clinic software cost",
       "homeopathy software price in India", "best homeopathy software for clinic", "how to manage homeopathy clinic", "homeopathy clinic software Kolkata",
       "homeopathy software Patna", "homeopathy doctor ke liye software", "homoeopathy clinic software", "multi branch homeopathy clinic software",
+      "homeopathy clinic software company in India",
+      "homeopathy clinic software near me",
+      "homeopathy clinic software services",
     ],
   },
   hero: {

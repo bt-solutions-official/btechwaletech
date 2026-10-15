@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Purchase Order Automation: POs to Orders from ${P.ai}`,
-    description: `Purchase order automation for distributors and manufacturers: turn emailed, PDF and WhatsApp POs into Tally or ERP sales orders. From ${P.ai}, exceptions to humans.`,
+    description: `Purchase order automation for distributors: emailed, PDF and WhatsApp POs turned into Tally or ERP sales orders, exceptions to a human. From ${P.ai}.`,
     keywords: [
       "purchase order automation", "purchase order automation software", "PO automation", "customer PO to sales order automation",
       "sales order automation", "order entry automation", "PO processing automation", "automated order processing for distributors",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "purchase order automation cost", "purchase order automation India", "order desk automation", "B2B order automation",
       "purchase order automation for manufacturers", "purchase order automation for distributors", "PO automation Pune",
       "PO automation Ludhiana", "PO se sales order automatic kaise banaye", "how to automate purchase order processing",
+      "purchase order automation price", "purchase order automation company", "best purchase order automation in India", "purchase order automation cost in India",
+      "purchase order automation near me",
     ],
   },
   hero: {
@@ -386,7 +388,7 @@ const content: FreelanceContent = {
     { question: "Who owns the mapping tables and code?", answer: "You do. Code, mapping tables, rules and deployment scripts live in your repository and cloud account from the first day. Your order desk can edit mappings directly, and if you change developers later, everything is already in your hands." },
     { question: "How are payments made for the project?", answer: "Nothing is billed until you approve an itemised quote in writing. In India you pay by UPI or bank transfer; international clients pay in USD by Wise, bank wire or PayPal. Milestones and other commercial terms are written into your quote, and our terms page covers the general conditions." },
     { question: "Can buyers get automatic order confirmations?", answer: "Yes. After an order is created, the buyer receives an email or WhatsApp message with your order number, accepted lines, any lines held or back-ordered and expected dispatch. For WhatsApp, messages outside the 24-hour customer service window must use approved templates, which we set up with you." },
-    { question: "What maintenance does PO automation need?", answer: `New buyers, new layouts after a buyer changes its ERP, new items and new schemes all need small updates. A daily summary shows when straight-through rates drop. Maintenance is free for two months after launch, then starts at ${P.care} per month if you want us to keep handling it.` },
+    { question: "What maintenance does PO automation need?", answer: `New buyers, new layouts after a buyer changes its ERP, new items and new schemes all need small updates. A daily summary shows when straight-through rates drop. Maintenance is free for two months after launch, then starts at ${P.care} if you want us to keep handling it.` },
     { question: "WhatsApp par aaye order Tally mein automatic kaise jayenge?", answer: "Retailer ka WhatsApp message ya list ki photo system padhta hai, har item ko aapke item master se match karta hai, rate aur stock check karta hai, aur Tally mein sales order ka draft bana deta hai. Retailer ko turant confirmation message jaata hai. Jo item match nahi hota, woh aapke order desk ke paas review ke liye aata hai." },
   ],
   related: {

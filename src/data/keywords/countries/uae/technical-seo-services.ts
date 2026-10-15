@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Technical SEO Services Dubai, Fixes from ${P.seo}`,
-    description: `Technical SEO services Dubai for big sites: crawl budget, en-AE/ar-AE hreflang, mobile Core Web Vitals, JS rendering and schema. Audit and fixes from ${P.seo}.`,
+    description: `Technical SEO services Dubai for big sites: crawl budget, en-AE/ar-AE hreflang, mobile Core Web Vitals, JS rendering and schema. Fixes from ${P.seo}.`,
     keywords: [
       "technical seo services dubai", "technical seo services in dubai", "technical seo dubai", "technical seo agency dubai",
       "technical seo audit dubai", "technical seo audit uae", "technical seo consultant dubai", "technical seo expert uae",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "property portal seo", "marketplace seo uae", "bilingual website seo audit", "soft 404 expired listings",
       "technical seo cost dubai", "how much does a technical seo audit cost", "technical seo abu dhabi",
       "technical seo sharjah", "what is included in a technical seo audit", "remote technical seo team",
+      "hire technical seo services in the UAE", "freelance technical seo services UAE",
     ],
   },
   hero: {

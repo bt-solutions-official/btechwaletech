@@ -7,7 +7,7 @@ const najibabad: CityContent = {
   meta: {
     title: "IT Services in Najibabad | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Najibabad sugar-belt traders, timber dealers, blanket makers, clinics and Garhwal travel firms.",
+      "Websites, apps, local SEO and WhatsApp tools for Najibabad sugar-belt traders, timber dealers, blanket makers, clinics and Garhwal travel firms. From ₹10,000.",
     keywords: [
       "IT services in Najibabad",
       "IT services team in Najibabad",
@@ -29,6 +29,12 @@ const najibabad: CityContent = {
       "Najibabad me app banwana",
       "Bijnor website designer",
       "नजीबाबाद वेबसाइट डिजाइन",
+      "Najibabad website designer",
+      "web development company Najibabad",
+      "hire freelance web developer Najibabad",
+      "Bijnor district SEO",
+      "website designer Bijnor district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

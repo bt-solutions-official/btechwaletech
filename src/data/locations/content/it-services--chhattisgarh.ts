@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 21.2787, lng: 81.8661 },
   meta: {
-    title: "Freelance IT Services in Chhattisgarh: Software & AI",
+    title: "Chhattisgarh IT Services: Software & AI",
     description:
-      "Freelance IT services in Chhattisgarh: custom software, web and mobile apps, AI automation, dashboards, cloud and SEO for Raipur to Korba. Starting at ₹10,000.",
+      "Freelance IT services in Chhattisgarh: custom software, web and mobile apps, AI automation, plus dashboards. Websites from ₹10,000, quote in two working days.",
     keywords: [
       "IT services in Chhattisgarh",
       "software development team in Chhattisgarh",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "iPhone app developers Raipur Bilaspur",
       "छत्तीसगढ़ में आईटी सेवाएं",
       "Chhattisgarh mein software banwana",
+      "Chhattisgarh website designer",
+      "website cost in Chhattisgarh",
+      "IT company in Chhattisgarh",
+      "Chhattisgarh SEO services",
+      "hire developer Chhattisgarh",
+      "steel software in Chhattisgarh",
     ],
   },
   hero: {

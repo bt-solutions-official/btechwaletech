@@ -7,7 +7,7 @@ const suri: CityContent = {
   meta: {
     title: "IT Services in Suri | Web, Apps & AI from ₹10,000",
     description:
-      "Bengali websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Suri rice mills, morabba makers, weavers, clinics, schools and shops.",
+      "Bengali websites, apps, Maps SEO and WhatsApp tools for Suri rice mills, morabba makers, weavers, clinics, schools and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Suri",
       "IT services team in Suri",
@@ -29,6 +29,12 @@ const suri: CityContent = {
       "Suri te website banate koto khoroch",
       "সিউড়ি ওয়েবসাইট ডিজাইন",
       "Birbhum digital marketing",
+      "Suri website designer",
+      "web development company Suri",
+      "hire freelance web developer Suri",
+      "Birbhum district SEO",
+      "website designer Birbhum district",
+      "West Bengal SEO services",
     ],
   },
   hero: {

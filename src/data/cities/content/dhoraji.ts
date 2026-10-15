@@ -7,7 +7,7 @@ const dhoraji: CityContent = {
   meta: {
     title: "IT Services in Dhoraji | Web, Apps & AI from ₹10,000",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Dhoraji plastic units, oil mills, cotton ginners, traders, schools and clinics.",
+      "Dhoraji Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for plastic units, oil mills, cotton ginners, traders, schools and clinics.",
     keywords: [
       "IT services in Dhoraji",
       "IT services team in Dhoraji",
@@ -29,6 +29,10 @@ const dhoraji: CityContent = {
       "Gujarati website design Dhoraji",
       "Dhoraji me website banwana",
       "Dhoraji ma website banavvi",
+      "Dhoraji website designer",
+      "web development company Dhoraji",
+      "hire freelance developer Dhoraji",
+      "Gujarat SEO",
     ],
   },
   hero: {

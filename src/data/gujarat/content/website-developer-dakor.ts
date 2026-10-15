@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Dakor: Sites from ${P.site}`,
-    description: `Website developer in Dakor for guest houses, prasad and pooja-item shops, bhojanalayas and seva groups. Sites from ${P.site}, Gujarati and Hindi pages, 2-day quote.`,
+    description: `Website developer in Dakor for guest houses, prasad and pooja-item shops, bhojanalayas & seva groups. Sites from ${P.site}, Gujarati & Hindi pages, 2-day quote.`,
     keywords: [
       "website developer in Dakor", "website developer Dakor", "website developer near me Dakor", "Dakor Gujarat website",
       "website designer Dakor", "website development services Dakor", "Dakor me website kaise banwaye", "website banane wala Dakor",

@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "who owns the code when you outsource an app", "outsource app development berlin", "outsource app development munich",
       "outsource app development hamburg", "outsource app development cologne", "app post launch support plan",
       "outsourcing app development for startups germany", "best way to outsource app development", "outsource flutter app development",
+      "hire app development in Germany", "freelance app development Germany",
     ],
   },
   hero: {

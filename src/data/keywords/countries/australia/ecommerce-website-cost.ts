@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "cheap ecommerce website australia", "ecommerce website for small business australia", "how much to build a shopify store",
       "ecommerce maintenance cost", "ecommerce website quote australia", "hidden costs of ecommerce website",
       "ecommerce website cost for 1000 products",
+      "hire ecommerce website in Australia", "freelance ecommerce website Australia",
     ],
   },
   hero: {

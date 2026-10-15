@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `SEO for Travel Agency: Rank Tours, from ${P.seo}`,
-    description: `SEO for travel agency sites in India: rank tour package and destination pages next to the OTAs, plan by season, and turn searches into enquiries. From ${P.seo}.`,
+    description: `SEO for travel agency sites: rank tour package and destination pages beside the OTAs, plan by season, turn searches into enquiries. From ${P.seo}.`,
     keywords: [
       "seo for travel agency", "travel agency seo", "seo for travel agency in India", "seo for tour and travels", "travel agency seo services",
       "seo for tour packages", "how to rank tour packages on google", "how to compete with OTAs in seo", "seo for travel business",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "seo for travel agency near me", "travel agency google ranking", "travel website seo", "itinerary page seo", "seasonal keywords travel",
       "travel agency google business profile", "seo for travel agency in Delhi", "seo for travel agency in Jaipur", "tour package website seo",
       "travel agency ki website google par kaise laye", "holiday package seo", "seo for honeymoon packages", "travel agency leads from google",
+      "SEO for travel agency cost", "SEO for travel agency price", "SEO for travel agency services", "SEO for travel agency packages",
+      "best SEO for travel agency in India",
     ],
   },
   hero: {
@@ -367,12 +369,12 @@ const content: FreelanceContent = {
       note: `All figures are starting prices; your itemised quote depends on destinations, content volume and site condition.`,
       columns: ["Your situation", "What we would do", "Starts at", "Timeline"],
       rows: [
-        ["Site is fine, needs better package pages", "Monthly SEO: content, technical fixes, reporting", `${P.seo} per month`, "Ongoing, reviewed monthly"],
+        ["Site is fine, needs better package pages", "Monthly SEO: content, technical fixes, reporting", `${P.seo}`, "Ongoing, reviewed monthly"],
         ["No website or a one-page site", "Static travel site up to 100 pages", `${P.site}`, "1–2 weeks"],
         ["Large catalogue of packages and cities", "SEO travel site with 299+ generated pages", `${P.seoSite}`, "3–5 weeks"],
         ["Want online booking with payment", "Travel store with UPI and card checkout", `${P.shop}`, "4–8 weeks"],
         ["Too many WhatsApp enquiries to handle", "AI-assisted replies and lead sorting", `${P.ai}`, "2–4 weeks"],
-        ["Need upkeep after launch", "Maintenance after 2 free months", `${P.care} per month`, "Ongoing"],
+        ["Need upkeep after launch", "Maintenance after 2 free months", `${P.care}`, "Ongoing"],
       ],
       hideSm: [1],
     },

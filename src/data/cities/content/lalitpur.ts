@@ -7,7 +7,7 @@ const lalitpur: CityContent = {
   meta: {
     title: "IT Services in Lalitpur: Websites, Apps, SEO & AI",
     description:
-      "Websites, Google Maps setup and WhatsApp automation for Lalitpur grain traders, Jain-run businesses, clinics, coaching centres and NH-44 hotels. From ₹10,000.",
+      "Lalitpur websites, Google Maps setup and WhatsApp automation for grain traders, Jain-run businesses, clinics, coaching centres and NH-44 hotels. From ₹10,000.",
     keywords: [
       "website development team in Lalitpur",
       "web designer Lalitpur UP",
@@ -25,6 +25,14 @@ const lalitpur: CityContent = {
       "ecommerce website Lalitpur",
       "website maintenance Lalitpur",
       "ललितपुर वेबसाइट डिज़ाइन",
+      "Lalitpur website designer",
+      "web development company Lalitpur",
+      "hire freelance developer Lalitpur",
+      "Uttar Pradesh SEO",
+      "Lalitpur me website kaise banwaye",
+      "website for pulse and grain trade in Lalitpur",
+      "web designer in Civil Lines, Lalitpur",
+      "website for granite and stone in Lalitpur",
     ],
   },
   hero: {

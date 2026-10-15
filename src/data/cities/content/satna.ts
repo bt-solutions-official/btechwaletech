@@ -7,7 +7,7 @@ const satna: CityContent = {
   meta: {
     title: "Satna Web Design, SEO and Apps | From ₹10,000",
     description:
-      "Websites, local SEO, vendor portals and WhatsApp automation for Satna's cement suppliers, transporters, traders, schools and Chitrakoot hotels. Clear written quotes.",
+      "Websites, local SEO, vendor portals and WhatsApp tools for Satna's cement suppliers, transporters, traders, schools and Chitrakoot hotels. From ₹10,000.",
     keywords: [
       "website development team in Satna",
       "web designer Satna",
@@ -25,6 +25,16 @@ const satna: CityContent = {
       "Satna me website kaise banwaye",
       "सतना वेबसाइट डिज़ाइन",
       "website maintenance Satna",
+      "Satna website designer",
+      "web development company Satna",
+      "hire freelance web developer Satna",
+      "Madhya Pradesh SEO services",
+      "Satna website banwane ka kharcha",
+      "Satna wholesale traders website",
+      "wholesale traders website design Satna",
+      "Satna building-material dealers website",
+      "building-material dealers website design Satna",
+      "website design Sindhi Camp Satna",
     ],
   },
   hero: {

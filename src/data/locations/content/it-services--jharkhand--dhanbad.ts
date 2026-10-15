@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.7957, lng: 86.4304 },
   meta: {
-    title: "Freelance Software Developers in Dhanbad: Coal & AI",
+    title: "Dhanbad Software Developers: Coal & AI",
     description:
-      "Need a software development team in Dhanbad? Hire our freelance group for coal dispatch, weighbridge and equipment software, AI automation and apps.",
+      "Need a software development team in Dhanbad? Hire our freelance group for coal dispatch and weighbridge software, AI and apps. From ₹10,000 upwards.",
     keywords: [
       "software development team in Dhanbad",
       "IT services team in Dhanbad",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "website maintenance Dhanbad",
       "Dhanbad mein software developer",
       "धनबाद में सॉफ्टवेयर डेवलपर",
+      "Dhanbad website designer",
+      "website cost in Dhanbad",
+      "IT company in Dhanbad",
+      "Jharkhand SEO services",
+      "hire developer Dhanbad",
+      "coal traders software in Dhanbad",
     ],
   },
   hero: {

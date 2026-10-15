@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "recycled yarn website", "catalogue website Panipat", "B2B website Panipat", "website developer Model Town Panipat",
       "website developer Samalkha", "website developer Sector 29 Panipat", "WordPress developer Panipat", "SEO website Panipat",
       "Panipat me website kaise banwaye", "website banane wala Panipat",
+      "website developer in Panipat cost", "website developer in Panipat price", "hire website developer in Panipat", "freelance website developer in Panipat",
+      "best website developer in Panipat", "website developer in Panipat charges",
     ],
   },
   hero: {

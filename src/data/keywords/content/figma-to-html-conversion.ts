@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Figma to HTML Conversion: Hand-Coded from ${P.site}`,
-    description: `Figma to HTML conversion that is responsive, accessible and fast, hand-coded from your design. Sites of up to 100 pages from ${P.site}; see what drives per-page cost.`,
+    description: `Figma to HTML conversion that is responsive, accessible and fast, hand-coded from your design. Up to 100 pages from ${P.site}. Get a per-page quote.`,
     keywords: [
       "figma to html conversion", "figma to html", "convert figma to html", "figma to html css", "figma to html service",
       "figma to html conversion cost", "figma to html price per page", "figma to responsive html", "pixel perfect figma to html",

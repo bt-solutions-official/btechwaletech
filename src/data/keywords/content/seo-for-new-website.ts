@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "SEO for new website",
   updated: "2026-09-25",
   meta: {
-    title: "SEO for New Website: Launch Checklist + 6-Month Plan",
+    title: `SEO for New Website: Launch Checklist & Plan (2026)`,
     description: `SEO for a new website: pre-launch checklist, getting a new domain indexed, the first 30 pages, first backlinks and a six-month plan. SEO from ${P.seo}.`,
     keywords: [
       "seo for new website", "new website seo", "seo for a new website", "how to do seo for new website",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "how to rank a new website", "new website traffic", "submit new website to google", "new website search console setup",
       "nayi website ka seo kaise kare", "new business website seo", "seo for new website Pune", "seo for new website Hyderabad",
       "seo friendly website development", "new website first 30 pages",
+      "SEO for new website price", "SEO for new website services", "SEO for new website packages", "best SEO for new website in India",
+      "SEO for new website agency",
     ],
   },
   hero: {

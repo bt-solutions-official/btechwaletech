@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "Custom software development company in Dubai",
   updated: "2026-09-25",
   meta: {
-    title: "Custom Software Development Company in Dubai: Own It",
+    title: "Custom Software Development Dubai: Code You Own",
     description: `Custom software development company in Dubai or a remote team? Build-vs-buy advice, Zoho/Tally/Excel integration, UAE cloud hosting, from ${P.software}.`,
     keywords: [
       "custom software development company in dubai", "custom software development dubai", "custom software development uae",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "remote software development team india for uae", "offshore custom software development uae",
       "phased software development", "who owns custom software code", "custom software development company in uae for smes",
       "internal tools development dubai",
+      "hire custom software development in the UAE", "freelance custom software development UAE",
     ],
   },
   hero: {

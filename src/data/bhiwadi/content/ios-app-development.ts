@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "iOS app Khushkhera industry", "Swift developer Bhiwadi", "Flutter iOS app Bhiwadi", "Apple developer account setup Bhiwadi",
       "App Store rejection help Bhiwadi", "iPhone app banwana hai", "iOS app banane ka kharcha Bhiwadi", "iOS app developer Dharuhera",
       "iOS app development Khairthal-Tijara", "private iPhone app for company staff", "iPad catalogue app Bhiwadi",
+      "TestFlight beta testing Bhiwadi", "iOS app maintenance Bhiwadi", "iPhone app developer near Neemrana",
     ],
   },
   hero: {
@@ -391,6 +392,7 @@ const content: FreelanceContent = {
     heading: "Related app pages for Bhiwadi",
     links: [
       { name: "Bhiwadi services hub", href: "/bhiwadi-rajasthan/" },
+      { name: "App banwane ka kharcha", href: "/bhiwadi-rajasthan/app-banwane-ka-kharcha/" },
       { name: "Android app developer in Bhiwadi", href: "/bhiwadi-rajasthan/android-app-development/" },
       { name: "Mobile app development in Bhiwadi", href: "/bhiwadi-rajasthan/mobile-app-development/" },
       { name: "Flutter app developer in Bhiwadi", href: "/bhiwadi-rajasthan/flutter-app-development/" },

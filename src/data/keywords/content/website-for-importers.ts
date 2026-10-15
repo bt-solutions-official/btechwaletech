@@ -198,7 +198,7 @@ const content: FreelanceContent = {
         `The groundwork: one page per model with the exact code in the title and URL, Product structured data with brand and model, city pages for service centres, and a brand page that explains your role. Content that the global brand site does not offer, such as Indian warranty, voltage notes and local availability, gives your page a reason to rank above it for India-focused searches.`,
         `Watch for duplication. Copying the manufacturer’s descriptions word for word makes your pages look like hundreds of others. We rewrite the key parts for Indian buyers and add your own notes, comparison tables and FAQs. Pages are fast on phones and pass Core Web Vitals, and we submit everything through Google Search Console. Nobody can guarantee rankings, but these steps give your model pages a fair chance.`,
       ],
-      after: [`Ongoing search work starts at ${P.seo} a month; see <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> for the related approach, and our <a href='/services/seo-services/'>SEO services</a>.`],
+      after: [`Ongoing search work starts at ${P.seo}; see <a href='/seo-for-manufacturers/'>SEO for manufacturers</a> for the related approach, and our <a href='/services/seo-services/'>SEO services</a>.`],
     },
     {
       id: "ai-search",

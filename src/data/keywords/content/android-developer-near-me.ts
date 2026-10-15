@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Android Developer Near Me: Apps from ${P.app} in India`,
-    description: `Searching “Android developer near me”? Get an Android app built for Indian phones and data packs, from ${P.app}. Costs, testing on budget devices, Play Store steps.`,
+    description: `Searching “Android developer near me”? Get an app built for Indian phones and data packs, from ${P.app}. Play Store steps and an itemised quote in 2 days.`,
     keywords: [
       "android developer near me", "android app developer near me", "android developer near me India", "android developer for hire",
       "android app development cost", "android app developer price", "best android developer near me", "android app banane wala near me",

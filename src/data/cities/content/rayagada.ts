@@ -7,7 +7,7 @@ const rayagada: CityContent = {
   meta: {
     title: "IT Services in Rayagada | Web, Apps & AI from ₹10,000",
     description:
-      "Odia and English websites, Android and iOS apps, local SEO and WhatsApp automation for Rayagada's paper and alumina suppliers, traders, clinics and colleges.",
+      "Odia and English websites, apps, SEO and WhatsApp tools for Rayagada's paper and alumina suppliers, traders, clinics and colleges. From ₹10,000.",
     keywords: [
       "IT services in Rayagada",
       "IT services team in Rayagada",
@@ -29,6 +29,12 @@ const rayagada: CityContent = {
       "Rayagada me website banwana",
       "Rayagada re website tiari",
       "ରାୟଗଡ଼ା ୱେବସାଇଟ୍",
+      "Rayagada website designer",
+      "web development company Rayagada",
+      "hire freelance web developer Rayagada",
+      "Odisha SEO services",
+      "website design Gandhi Nagar Rayagada",
+      "website design New Colony Rayagada",
     ],
   },
   hero: {

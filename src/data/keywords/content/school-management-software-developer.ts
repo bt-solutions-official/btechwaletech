@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "School management software developer",
   updated: "2026-09-24",
   meta: {
-    title: `School Management Software Developer: ERP & Parent App`,
-    description: `School management software developer for fees, attendance, exams and a parents app. Custom school ERP from ${P.software}, owned by your school, with UPI fee collection.`,
+    title: `School Management Software Developer: ERP ${P.software}+`,
+    description: `School management software developer for fees, attendance, exams and a parents app. Custom school ERP from ${P.software}, owned by your school. Quote in 2 days.`,
     keywords: [
       "school management software developer", "school management software developer in India", "school management software developer near me", "school ERP developer for hire",
       "school management software cost", "school ERP price India", "best school management software developer", "school software banwana hai",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "student attendance software", "parents app for school", "school ERP with mobile app", "school management system development",
       "exam and report card software", "school transport management software", "school software with UPI fees", "freelance school ERP developer",
       "school administration software India", "CBSE school management software",
+      "hire school management software developer", "freelance school management software developer", "school management software developer cost", "best school management software developer in India",
+      "school management software developer price", "school management software developer charges",
     ],
   },
   hero: {

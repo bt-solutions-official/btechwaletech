@@ -7,7 +7,7 @@ const jagdalpur: CityContent = {
   meta: {
     title: "Jagdalpur Website Design, SEO & Bastar Crafts",
     description:
-      "Websites, local SEO and WhatsApp automation for Jagdalpur hotels, tour operators, craft sellers, rice mills, clinics and schools. Sites from ₹10,000, remote team.",
+      "Jagdalpur websites, local SEO and WhatsApp bots for hotels, tour operators, craft sellers, rice mills, clinics and schools. Sites from ₹10,000, remote team.",
     keywords: [
       "website development team in Jagdalpur",
       "website designer Jagdalpur",
@@ -24,6 +24,15 @@ const jagdalpur: CityContent = {
       "website maintenance Jagdalpur",
       "Jagdalpur me website banwana",
       "जगदलपुर वेबसाइट डिजाइन",
+      "Jagdalpur website designer",
+      "website cost in Jagdalpur",
+      "web development company Jagdalpur",
+      "hire freelance developer Jagdalpur",
+      "Chhattisgarh SEO",
+      "Jagdalpur me website kaise banwaye",
+      "website for hotels and tour operators in Jagdalpur",
+      "web designer in Gol Bazaar, Jagdalpur",
+      "website for craft sellers and cooperatives in Jagdalpur",
     ],
   },
   hero: {

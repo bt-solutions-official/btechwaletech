@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: "Hire Python Developer in India: Backend, Data & AI",
-    description: `Hire a Python developer in India for Django or FastAPI backends, data pipelines and AI tools. AI automation from ${P.ai}, apps from ${P.software}. Vetting guide inside.`,
+    description: `Hire a Python developer in India for Django or FastAPI backends, data pipelines and AI tools. Automation from ${P.ai}, apps from ${P.software}, quote in 2 days.`,
     keywords: [
       "hire python developer", "hire python developer in India", "python developer near me", "python developer for hire",
       "hire python developer cost", "python developer price India", "best python developer to hire", "python developer chahiye",

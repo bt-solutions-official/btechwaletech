@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance Web Development Services from ${P.site}`,
-    description: `Freelance web development from India: websites from ${P.site}, web apps, stores and SEO builds. See the stacks, deliverables and handover you should expect.`,
+    description: `Freelance web development from India: web apps, stores and SEO builds, with the stacks, deliverables and handover explained. Websites from ${P.site}.`,
     keywords: [
       "freelance web development", "freelance web development services", "freelance web development in India", "freelance web development near me",
       "freelance web development for hire", "freelance web development cost", "freelance web development price", "best freelance web development",

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `WordPress Developer in Surat: Builds from ${P.site}`,
-    description: `Hire a WordPress developer in Surat for new builds, broken-site fixes and speed work. Business sites from ${P.site}, honest advice on when WordPress is the wrong tool.`,
+    description: `Hire a WordPress developer in Surat for new builds, broken-site fixes and speed work. Sites from ${P.site}, honest advice on when WordPress is the wrong tool.`,
     keywords: [
       "WordPress developer in Surat", "WordPress developer Surat", "WordPress developer near me", "WordPress developer Surat Gujarat",
       "WordPress website development Surat", "WordPress expert Surat", "freelance WordPress developer Surat", "WordPress designer Surat",

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `SEO for Interior Designers: Leads from ${P.seo}`,
-    description: `SEO for interior designers from ${P.seo}: project case pages, honest 2BHK cost pages, image SEO, Pinterest and a studio profile that bring homeowner enquiries.`,
+    description: `SEO for interior designers from ${P.seo}: project case pages, honest 2BHK cost pages, image SEO and a studio profile that bring homeowner enquiries.`,
     keywords: [
       "seo for interior designers", "interior designer seo", "interior design seo services", "seo for interior design firms",
       "seo for interior design studio", "interior designer seo India", "how to get interior design clients online",
@@ -25,6 +25,8 @@ const content: FreelanceContent = {
       "interior designer seo Bengaluru", "interior designer seo Mumbai", "interior designer seo Gurgaon",
       "interior designer seo Hyderabad", "interior designer ke liye seo", "how do interior designers get clients",
       "seo for home decor designers",
+      "SEO for interior designers cost", "SEO for interior designers price", "SEO for interior designers services", "SEO for interior designers packages",
+      "best SEO for interior designers in India", "SEO for interior designers agency",
     ],
   },
   hero: {

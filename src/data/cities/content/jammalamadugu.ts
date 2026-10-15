@@ -7,7 +7,7 @@ const jammalamadugu: CityContent = {
   meta: {
     title: "IT Services in Jammalamadugu: Web, Apps, SEO & AI",
     description:
-      "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Jammalamadugu cement suppliers, Gandikota tourism, traders and clinics.",
+      "Jammalamadugu Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for cement suppliers, Gandikota tourism, traders and clinics.",
     keywords: [
       "IT services in Jammalamadugu",
       "IT services team in Jammalamadugu",
@@ -29,6 +29,10 @@ const jammalamadugu: CityContent = {
       "Jammalamadugu me website banwana",
       "Jammalamadugu lo website cheyinchali",
       "జమ్మలమడుగు వెబ్‌సైట్ డిజైన్",
+      "Jammalamadugu website designer",
+      "web development company Jammalamadugu",
+      "hire freelance developer Jammalamadugu",
+      "Andhra Pradesh SEO",
     ],
   },
   hero: {

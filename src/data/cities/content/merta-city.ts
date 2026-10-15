@@ -7,7 +7,7 @@ const mertaCity: CityContent = {
   meta: {
     title: "IT Services in Merta City: Websites, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Merta City mandi traders, spice grinders, pilgrim guest houses, clinics and shops.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Merta City mandi traders, spice grinders, pilgrim guest houses, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Merta City",
       "IT services team in Merta City",
@@ -29,6 +29,12 @@ const mertaCity: CityContent = {
       "Merta City me website banwana",
       "Merta me app banwane ka kharcha",
       "मेड़ता सिटी वेबसाइट डिजाइन",
+      "Merta City website designer",
+      "web development company Merta City",
+      "hire freelance web developer Merta City",
+      "Nagaur district SEO",
+      "website designer Nagaur district",
+      "Rajasthan SEO services",
     ],
   },
   hero: {

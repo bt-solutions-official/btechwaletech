@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 15.9129, lng: 79.74 },
   meta: {
-    title: "Freelance IT Services in Andhra Pradesh: Software & AI",
+    title: "Andhra Pradesh IT Services: Software & AI",
     description:
       "IT services in Andhra Pradesh for Vizag, Vijayawada, Guntur, Tirupati and Kakinada: custom software, apps, AI automation and Telugu SEO. Quotes in 2 days.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "iOS app development Andhra Pradesh",
       "mobile app developers Andhra Pradesh",
       "iPhone app developers Andhra Pradesh",
+      "Andhra Pradesh website designer",
+      "website cost in Andhra Pradesh",
+      "IT company in Andhra Pradesh",
+      "Andhra Pradesh SEO services",
+      "hire developer Andhra Pradesh",
+      "aquaculture software in Andhra Pradesh",
+      "pharma software in Andhra Pradesh",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "How to Take Business Online in India: 90-Day Plan",
-    description: `How to take business online in India, step by step: Google profile, WhatsApp, website from ${P.site}, payments and listings, with a budget per stage and a 90-day plan.`,
+    description: `How to take business online in India, step by step: Google profile, WhatsApp, payments and listings, plus a 90-day plan. Website from ${P.site}.`,
     keywords: [
       "how to take business online in india", "how to take business online", "take my business online", "offline business to online",
       "how to bring business online in India", "steps to take small business online", "cost to take business online India",

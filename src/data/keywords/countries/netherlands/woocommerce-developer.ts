@@ -71,7 +71,7 @@ const content: FreelanceContent = {
       { name: "Subscriptions and memberships", note: "Coffee, meal-kit or software subscriptions renewed by SEPA Direct Debit after a first iDEAL payment, with dunning emails in Dutch.", href: "/netherlands/ideal-payment-integration/", size: "md" },
       { name: "Accounting and ERP links", note: `Orders and invoices sent to Exact Online, Moneybird or AFAS without manual retyping, from ${P.software}.`, href: "/netherlands/exact-online-integration/", size: "md" },
       { name: "Dutch–English catalogue", note: "WPML or Polylang set up so products, categories, emails and checkout texts exist in both languages; you supply the Dutch copy.", href: "/netherlands/wordpress-website-development/", size: "md" },
-      { name: "WooCommerce SEO", note: `Category structure, schema, filters and Core Web Vitals for google.nl, from ${P.seo} a month. No promises of positions.`, href: "/woocommerce-seo-services/", size: "sm" },
+      { name: "WooCommerce SEO", note: `Category structure, schema, filters and Core Web Vitals for google.nl, from ${P.seo}. No promises of positions.`, href: "/woocommerce-seo-services/", size: "sm" },
       { name: "WhatsApp order updates", note: "Order-confirmation and shipping messages sent through the WhatsApp Business Platform with opt-in.", href: "/woocommerce-whatsapp-integration/", size: "sm" },
       { name: "Care plan", note: `Updates staged and tested, backups verified, uptime and security checks, from ${P.care}.`, size: "sm" },
     ],
@@ -233,7 +233,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a WooCommerce developer in the Netherlands cost?",
       paragraphs: [
-        `A WooCommerce developer's price depends on whether you need a build, a rescue, an integration or ongoing care. With us, new WooCommerce shops start from ${P.shop}, custom plugins and integrations from ${P.software}, SEO from ${P.seo} a month and care plans from ${P.care} after two free months.`,
+        `A WooCommerce developer's price depends on whether you need a build, a rescue, an integration or ongoing care. With us, new WooCommerce shops start from ${P.shop}, custom plugins and integrations from ${P.software}, SEO from ${P.seo} and care plans from ${P.care} after two free months.`,
         `Dutch bureaus and freelancers quote in very different ways: hourly, per strip of hours, per project or per month. That makes headline numbers hard to compare. Ask each for the same breakdown and you will see where the differences come from.`,
       ],
       list: [
@@ -346,7 +346,7 @@ const content: FreelanceContent = {
         { heading: "Content that answers questions", text: `Short buying guides and FAQs in Dutch, written by you or your copywriter, give both Google and AI search tools clear answers to quote. Nobody can guarantee they will; clear content improves the odds.` },
       ],
       after: [
-        `Ongoing <a href='/woocommerce-seo-services/'>WooCommerce SEO work</a> starts from ${P.seo} a month with Google Search Console reporting.`,
+        `Ongoing <a href='/woocommerce-seo-services/'>WooCommerce SEO work</a> starts from ${P.seo} with Google Search Console reporting.`,
       ],
     },
     {

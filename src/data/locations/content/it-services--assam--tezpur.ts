@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.6528, lng: 92.7926 },
   meta: {
-    title: "Freelance IT & App Developers in Tezpur, Assam",
+    title: "Tezpur App Developers: Sonitpur Tea, Hotels & Colleges",
     description:
-      "Freelance IT and app developers in Tezpur: mobile-first sites, local landing pages, apps, AI automation and maintenance for Sonitpur. Remote team, from ₹10,000.",
+      "Tezpur app and website developers for Sonitpur tea estates, Tezpur University coaching, clinics and Nameri tour desks. Sites from ₹10,000, apps ₹40,000.",
     keywords: [
       "software development team in Tezpur",
       "IT services team in Tezpur",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "web developer near me Mission Chariali",
       "তেজপুৰত ৱেবছাইট আৰু এপ",
       "Tezpur mein website aur app banwana",
+      "Tezpur website designer",
+      "website cost in Tezpur",
+      "IT company in Tezpur",
+      "Assam SEO services",
+      "hire developer Tezpur",
+      "hotels software in Tezpur",
+      "schools software in Tezpur",
+      "clinics software in Tezpur",
+      "student software in Tezpur",
+      "website developer Tezpur town centre Tezpur",
     ],
   },
   hero: {
@@ -243,7 +253,7 @@ const content: CityContent = {
     {
       question: "How do we pay?",
       answer:
-        "Only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. No other payment methods are used. Payments are split into stages such as plan approval, preview and launch, all set out in the quote before work begins.",
+        "Only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. No other payment methods are used, whether we are invoicing a Sonitpur tea-estate office, a Mission Chariali hotel or a coaching centre. Payments are split into stages such as plan approval, preview and launch, all set out in the quote before work begins.",
     },
     {
       question: "How much does a mobile-first website cost in Tezpur?",
@@ -253,7 +263,7 @@ const content: CityContent = {
     {
       question: "How long does it take to build?",
       answer:
-        "One to two weeks for a mobile-first site, two to four for automation, three to five for an SEO site with local pages, four to eight for a store, six to ten for an Android and iOS app and six to twelve for custom software. Ready content speeds things up considerably.",
+        "One to two weeks for a mobile-first site, two to four for automation, three to five for an SEO site with local pages, four to eight for a store, six to ten for an Android and iOS app and six to twelve for custom software. Ready content speeds things up considerably. Tour operators on the Nameri and Bhalukpong route are best starting about two months before the winter season, so testing finishes before bookings arrive.",
     },
     {
       question: "Do you build Android and iOS apps for Tezpur businesses?",
@@ -263,7 +273,7 @@ const content: CityContent = {
     {
       question: "What is included in maintenance?",
       answer:
-        "Security and software updates, bug fixes, backups, uptime and speed checks, form checks, and content changes such as prices, hours and staff. The first two months after launch are free; after that, plans start at ₹8,000 a month, or you can pay per change.",
+        "Security and software updates, bug fixes, backups, uptime and speed checks, form checks, and content changes such as prices, hours and staff, including term dates for a Napaam coaching centre or room rates near Mission Chariali. The first two months after launch are free; after that, plans start at ₹8,000 a month, or you can pay per change.",
     },
     {
       question: "Can you maintain a website someone else built?",

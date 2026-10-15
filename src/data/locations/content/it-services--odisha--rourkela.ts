@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 22.2604, lng: 84.8536 },
   meta: {
-    title: "Freelance Software Developers in Rourkela",
+    title: "Rourkela Software Developers: Plant Vendors & Engineering",
     description:
-      "Instead of a software development team in Rourkela, hire freelance engineers for vendor workflow software, B2B sites, dashboards, apps and AI tools.",
+      "Instead of a software development team in Rourkela, hire freelance engineers for vendor workflow software and B2B sites. Itemised quote in two working days.",
     keywords: [
       "software development team in Rourkela",
       "IT services team in Rourkela",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT services near Kalunga Industrial Estate",
       "industrial spares ecommerce Rourkela",
       "ରାଉରକେଲାରେ ସଫ୍ଟୱେର ଡେଭଲପର",
+      "Rourkela website designer",
+      "website cost in Rourkela",
+      "IT company in Rourkela",
+      "Odisha SEO services",
+      "hire developer Rourkela",
+      "plant vendors software in Rourkela",
+      "engineering software in Rourkela",
+      "transport software in Rourkela",
+      "fabrication software in Rourkela",
+      "website developer Steel township sectors Rourkela",
     ],
   },
   hero: {

@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "How we start", value: "An in-person walk through your stores in Bhiwadi" },
       { label: "Languages", value: "Hindi and English on phones and desktops" },
       { label: "You own", value: "Code, database and item master" },
-      { label: "Support", value: `Two months free, then from ${P.care} a month` },
+      { label: "Support", value: `Two months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What inventory management software costs in Bhiwadi",
-    note: `Custom inventory management software starts at ${P.software}. Four factors move the quote: the number of stores and godowns, whether you need batch, lot or heat-number tracing, how labels are printed and scanned, and how deeply stock must sync with Tally or an ERP. Receipts, issues, balances and reorder alerts usually make up the first release; job-work and traceability come after. Every module sits on its own line of the quote so you can cut or defer items before approving. Two months of maintenance come free after launch, and optional care costs from ${P.care} a month after that.`,
+    note: `Custom inventory management software starts at ${P.software}. Four factors move the quote: the number of stores and godowns, whether you need batch, lot or heat-number tracing, how labels are printed and scanned, and how deeply stock must sync with Tally or an ERP. Receipts, issues, balances and reorder alerts usually make up the first release; job-work and traceability come after. Every module sits on its own line of the quote so you can cut or defer items before approving. Two months of maintenance come free after launch, and optional care costs from ${P.care} after that.`,
   },
   guideLabel: "Inventory software guide for Bhiwadi",
   guide: [
@@ -273,7 +273,7 @@ const content: FreelanceContent = {
         ["Multi-godown with transfers, job work and Tally sync", `From ${P.software}, quoted per module`, "10–12 weeks or phased", "Groups across Bhiwadi, Tapukara, Neemrana"],
         ["Offline-first stores app for Android", `From ${P.app}`, "6–10 weeks", "Godowns with weak mobile signal"],
         ["AI reading of supplier invoices into GRN drafts", `From ${P.ai}`, "2–4 weeks", "High volumes of paper invoices"],
-        ["Maintenance after two free months", `From ${P.care} a month`, "Monthly", "Fixes, small changes, new reports"],
+        ["Maintenance after two free months", `From ${P.care}`, "Monthly", "Fixes, small changes, new reports"],
       ],
       hideSm: [3],
     },
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
     { question: "Should we use an ERP instead of separate inventory software?", answer: "Choose an ERP when purchase, production, quality, stores and sales all need one shared database. Choose dedicated inventory software when the main pain is on the stores floor and accounts are happy in Tally. Many plants start with inventory and grow into an ERP later; your item master carries over either way." },
     { question: "Can we work with you remotely without a face-to-face meeting?", answer: "Yes, if you prefer. Most of the build runs over WhatsApp, calls and email anyway. For stock systems we still suggest one face-to-face visit to your stores in Bhiwadi, because item naming problems, unit conversions and rack layouts are much easier to understand on site than on a video call." },
     { question: "Who owns the inventory software and data?", answer: "You do. The source code sits in a repository under your account, the database and server are in your name, and all admin passwords are handed over. You also get your cleaned item master as a spreadsheet. If you switch developers or move to an ERP later, your data comes with you." },
-    { question: "What happens after go-live?", answer: `You get two months of maintenance free after launch, covering fixes, small changes and help with the first stock counts. After that, optional care starts from ${P.care} a month. New modules such as job-work tracking or a stores app are quoted separately and built only after you approve them in writing.` },
+    { question: "What happens after go-live?", answer: `You get two months of maintenance free after launch, covering fixes, small changes and help with the first stock counts. After that, optional care starts from ${P.care}. New modules such as job-work tracking or a stores app are quoted separately and built only after you approve them in writing.` },
     { question: "How do we pay for the project?", answer: "In INR, through UPI or bank transfer. The written quote lists each module and the payment stages tied to delivered work, and nothing is billed before you approve it. Server hosting, label printers, scanners and messaging charges are paid by you directly to those providers, so each running cost stays visible and in your name." },
     { question: "Can stores staff use it in Hindi?", answer: "Yes. Stores screens default to Hindi with item photos, large quantity fields and a scan button, while purchase and accounts screens use English. Every user can switch languages. Screens work on ordinary Android phones and keep scans saved when the signal drops inside a godown, sending them once it returns." },
     { question: "How do you stop stock being changed without permission?", answer: "Every movement belongs to a user and a role. Clerks cannot delete approved GRNs, adjustments need a manager's approval with a reason, and corrections are new entries rather than edits. Access is limited by location, managers use a one-time code to log in, and nightly backups go to storage in your account." },

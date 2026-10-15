@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "CI/CD pipeline setup",
   updated: "2026-09-25",
   meta: {
-    title: "CI/CD Pipeline Setup: Ship Without Breaking Production",
+    title: `CI/CD Pipeline Setup with Rollback, from ${P.software}`,
     description: `CI/CD pipeline setup with GitHub Actions, GitLab CI or Jenkins: tests, previews, one-click rollback, Fastlane app releases. Full setups from ${P.software}.`,
     keywords: [
       "ci cd pipeline setup", "ci/cd pipeline setup", "ci cd setup service", "ci cd pipeline setup cost",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "automated rollback deployment", "fastlane setup android ios", "mobile app ci cd", "flutter ci cd pipeline",
       "react native ci cd", "devops pipeline setup india", "ci cd consultant india", "ci cd freelancer",
       "deployment automation for small team", "ci cd pipeline setup bangalore", "ci cd pipeline setup near me",
+      "ci cd pipeline setup company in India",
+      "best ci cd pipeline setup in India",
     ],
   },
   hero: {

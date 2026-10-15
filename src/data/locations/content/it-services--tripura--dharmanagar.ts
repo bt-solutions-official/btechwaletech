@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 24.3667, lng: 92.1667 },
   meta: {
-    title: "Freelance IT Services in Dharmanagar, Tripura",
+    title: "Dharmanagar, Tripura IT Services: Wholesale & Transport",
     description:
-      "Freelance software developers for Dharmanagar and North Tripura: billing software, apps, AI automation, dashboards and local SEO. Custom software from ₹60,000.",
+      "Freelance software developers for Dharmanagar and North Tripura: billing software, apps and AI automation. Websites from ₹10,000, quote in two working days.",
     keywords: [
       "software development team in Dharmanagar",
       "IT services team in Dharmanagar",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "mobile app developers Dharmanagar",
       "Android app development Dharmanagar",
       "iOS app development North Tripura",
+      "Dharmanagar website designer",
+      "website cost in Dharmanagar",
+      "IT company in Dharmanagar",
+      "Tripura SEO services",
+      "hire developer Dharmanagar",
+      "wholesale software in Dharmanagar",
+      "transport software in Dharmanagar",
+      "agri-inputs software in Dharmanagar",
+      "schools software in Dharmanagar",
     ],
   },
   hero: {

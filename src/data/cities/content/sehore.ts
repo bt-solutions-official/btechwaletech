@@ -7,7 +7,7 @@ const sehore: CityContent = {
   meta: {
     title: "IT Services in Sehore: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Sehore's wheat traders, Kubereshwar Dham hotels, colleges and shops. From ₹10,000.",
+      "Websites, apps, local SEO and WhatsApp automation for Sehore's wheat traders, Kubereshwar Dham hotels, colleges and shops. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "IT services in Sehore",
       "IT services team in Sehore",
@@ -29,6 +29,12 @@ const sehore: CityContent = {
       "Sehore me website banwana",
       "Sehore me app kaise banwaye",
       "सीहोर वेबसाइट डिजाइन",
+      "Sehore website designer",
+      "web development company Sehore",
+      "hire freelance web developer Sehore",
+      "Madhya Pradesh SEO services",
+      "Sehore me website kaise banwaye",
+      "Sehore website banwane ka kharcha",
     ],
   },
   hero: {

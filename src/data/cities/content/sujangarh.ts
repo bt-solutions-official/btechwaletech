@@ -7,7 +7,7 @@ const sujangarh: CityContent = {
   meta: {
     title: "IT Services in Sujangarh: Websites, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Sujangarh traders, Salasar Balaji dharamshalas, dairies, schools and clinics.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Sujangarh traders, Salasar Balaji dharamshalas, dairies, schools and clinics. From ₹10,000.",
     keywords: [
       "IT services in Sujangarh",
       "IT services team in Sujangarh",
@@ -29,6 +29,12 @@ const sujangarh: CityContent = {
       "Sujangarh RIICO industrial area website",
       "Sujangarh me website banwana",
       "Salasar me app banwana",
+      "Sujangarh website designer",
+      "web development company Sujangarh",
+      "hire freelance web developer Sujangarh",
+      "Churu district SEO",
+      "website designer Churu district",
+      "Rajasthan SEO services",
     ],
   },
   hero: {

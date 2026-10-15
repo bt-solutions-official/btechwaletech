@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "Logistics software development company",
   updated: "2026-09-25",
   meta: {
-    title: `Logistics Software Development Company, from ${P.software}`,
+    title: `Logistics Software Development Germany from ${P.software}`,
     description: `Logistics software development company alternative for German freight forwarders and 3PLs: dispatch boards, driver apps, tracking portals from ${P.software}.`,
     keywords: [
       "logistics software development company", "logistics software development", "logistics software developers germany", "custom logistics software",
@@ -21,6 +21,8 @@ const content: FreelanceContent = {
       "telematics integration", "how much does logistics software cost", "build vs buy tms", "logistics software hamburg",
       "logistics software duisburg", "logistics software bremen", "logistics software leipzig", "offshore logistics software development",
       "ecmr software", "efti ready software",
+      "hire logistics software development in Germany", "freelance logistics software development Germany", "logistics software development Berlin",
+      "logistics software development Munich",
     ],
   },
   hero: {

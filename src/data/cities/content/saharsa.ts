@@ -7,7 +7,7 @@ const saharsa: CityContent = {
   meta: {
     title: "Saharsa Website Design, SEO & Makhana Stores",
     description:
-      "Websites, local SEO and WhatsApp automation for Saharsa makhana traders, shops, clinics, schools and coaching centres. Sites from ₹10,000 with 2 months free upkeep.",
+      "Websites, local SEO and WhatsApp automation for Saharsa makhana traders, shops, clinics, schools and coaching centres. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "website development team in Saharsa",
       "web design Saharsa",
@@ -25,6 +25,16 @@ const saharsa: CityContent = {
       "website maintenance Saharsa",
       "Saharsa me website kaise banwaye",
       "सहरसा वेबसाइट डिज़ाइन",
+      "website cost in Saharsa",
+      "web development company Saharsa",
+      "hire freelance web developer Saharsa",
+      "Bihar SEO services",
+      "Saharsa website banwane ka kharcha",
+      "website design Saharsa Junction area",
+      "website design Gangjala Saharsa",
+      "website design Bangaon Saharsa",
+      "website design Kahra Saharsa",
+      "website design Mahishi Saharsa",
     ],
   },
   hero: {

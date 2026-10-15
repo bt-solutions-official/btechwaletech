@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 12.2958, lng: 76.6394 },
   meta: {
-    title: "Freelance Software Developers in Mysuru | IT Solutions",
+    title: "Mysuru Software Developers: Hotels & Colleges",
     description:
       "Freelance software developers for Mysuru, an alternative to a software development team in Mysuru: booking systems, AI automation, apps. Sites from ₹10,000.",
     keywords: [
@@ -31,6 +31,14 @@ const content: CityContent = {
       "ecommerce website for Mysore silk and agarbatti sellers",
       "ಮೈಸೂರಿನಲ್ಲಿ ಸಾಫ್ಟ್‌ವೇರ್ ಅಭಿವೃದ್ಧಿ ಕಂಪನಿ",
       "Mysore mein software team",
+      "Mysuru website designer",
+      "website cost in Mysuru",
+      "IT company in Mysuru",
+      "Karnataka SEO services",
+      "hire developer Mysuru",
+      "hotels software in Mysuru",
+      "colleges software in Mysuru",
+      "manufacturing software in Mysuru",
     ],
   },
   hero: {

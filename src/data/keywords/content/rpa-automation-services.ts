@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "portal data entry automation", "automate government portal data entry", "bank portal automation", "rpa roi calculation",
       "which processes to automate with rpa", "rpa bot maintenance", "rpa automation services near me", "rpa developer Delhi",
       "rpa developer Jaipur", "rpa developer Nagpur", "rpa for accounts team", "data entry bot banwana", "rpa vs api integration",
+      "RPA automation services cost", "RPA automation services price", "RPA automation services company", "best RPA automation services in India",
+      "RPA automation services cost in India",
     ],
   },
   hero: {

@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "affordable web developer vancouver", "vancouver web design agency alternative", "remote web developer bc",
       "shopify developer vancouver", "bc pst ecommerce website", "tourism website design vancouver", "real estate website vancouver",
       "wordpress developer vancouver", "small business website vancouver", "web developer british columbia", "web developer bc",
+      "hire web developer in Canada", "web developer Canada",
     ],
   },
   hero: {
@@ -73,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Real estate agent and team sites", note: "Neighbourhood guides, listing pages and lead forms built around your brokerage’s rules and the listing data you are allowed to display.", href: "/canada/realtor-website-design/", size: "md" },
       { name: "Booking tools and client portals", note: `Scheduling, quoting and dashboards for firms that have outgrown spreadsheets, from ${P.software}.`, href: "/canada/custom-software-development/", size: "sm" },
       { name: "Redesigns that keep rankings", note: "Redirect maps and content carry-over, so a new look doesn’t wipe out search visibility you already earned.", href: "/canada/website-redesign-services/", size: "sm" },
-      { name: "Ongoing care and SEO", note: `Updates, backups and edits from ${P.care} a month after two free months; monthly SEO from ${P.seo}.`, href: "/canada/website-maintenance-services/", size: "sm" },
+      { name: "Ongoing care and SEO", note: `Updates, backups and edits from ${P.care} after two free months; monthly SEO from ${P.seo}.`, href: "/canada/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -219,7 +220,7 @@ const content: FreelanceContent = {
         `Reviews gathered honestly from real customers, never bought or written for them.`,
       ],
       after: [
-        `SEO sites with city pages start at ${P.seoSite}; ongoing local SEO starts at ${P.seo} a month. Nobody can guarantee rankings. For the wider method, see our <a href='/canada/local-seo-services/'>local SEO services for Canada</a>.`,
+        `SEO sites with city pages start at ${P.seoSite}; ongoing local SEO starts at ${P.seo}. Nobody can guarantee rankings. For the wider method, see our <a href='/canada/local-seo-services/'>local SEO services for Canada</a>.`,
       ],
     },
     {
@@ -495,7 +496,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a web developer in India from Vancouver?", answer: "You receive an itemised quote in USD. Once you approve it in writing, milestones are paid by Wise from your Canadian-dollar account, by bank wire or by PayPal. Invoices come from India; ask your accountant how to record them, since we don’t give tax advice. There are no marketplace platform fees." },
     { question: "Can you help with Google Business Profile for my Vancouver business?", answer: "Yes. We review your profile’s categories, service area, hours, services and photos, link it properly to your site’s city and service pages, and set up tracking so you see calls and clicks. Reviews should come honestly from real customers. Ongoing local SEO work, including profile posts and content, starts at the monthly SEO price." },
     { question: "Do you guarantee first-page rankings in Vancouver?", answer: "No, and nobody honestly can. Rankings depend on competition, your reviews, your content and Google’s own decisions. What we do is build fast pages, clear city and service content, correct structured data and a clean technical setup, then measure progress in Search Console so you can see what is and isn’t working." },
-    { question: "What happens after my Vancouver website launches?", answer: `You get two months of free maintenance covering fixes, updates and small adjustments. After that, care plans start at ${P.care} a month for updates, backups, monitoring and edits, and monthly SEO starts at ${P.seo}. Both are optional; you can also manage the site yourself with the handover document.` },
+    { question: "What happens after my Vancouver website launches?", answer: `You get two months of free maintenance covering fixes, updates and small adjustments. After that, care plans start at ${P.care} for updates, backups, monitoring and edits, and monthly SEO starts at ${P.seo}. Both are optional; you can also manage the site yourself with the handover document.` },
     { question: "Can you redesign my existing Vancouver website without losing rankings?", answer: "Yes. We crawl your current site, map every old URL to its new home, keep valuable content, set up redirects and watch Search Console closely after launch. Redesigns go wrong when redirects are skipped or ranking pages are deleted, so that mapping is a fixed part of every redesign we quote." },
     { question: "Does my Vancouver website need a privacy policy?", answer: "If it collects personal information through forms, bookings, analytics or cookies, a clear privacy policy is expected. The federal privacy office notes that BC has its own private-sector privacy law that may apply instead of PIPEDA. We build forms, consent settings and the policy page; your lawyer confirms the wording and which law applies." },
     { question: "Can you work with my Vancouver photographer or designer?", answer: "Yes, and many clients do exactly that. A local photographer shoots your team, premises or products, and a local brand designer may provide logos and style guides. We build from their files, keep image quality high while compressing for speed, and follow the brand rules they set." },

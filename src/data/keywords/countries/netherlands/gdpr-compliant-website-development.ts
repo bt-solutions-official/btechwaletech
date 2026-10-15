@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "standard contractual clauses india", "gdpr transfer to india", "eu hosting website", "data minimisation contact form",
       "how to make a website gdpr compliant", "what does a gdpr compliant website need", "gdpr compliant website cost",
       "gdpr website amsterdam", "gdpr website rotterdam", "gdpr website utrecht", "autoriteit persoonsgegevens cookies website",
+      "hire gdpr compliant website development in the Netherlands", "freelance gdpr compliant website development Netherlands",
     ],
   },
   hero: {
@@ -476,7 +477,7 @@ const content: FreelanceContent = {
     { question: "Does GDPR compliance affect SEO?", answer: "Not negatively when done well. Search engines do not need cookies to crawl your site, and removing third-party scripts often improves speed and Core Web Vitals. Google Search Console measures search performance without any tag on the page. Nobody can guarantee rankings, but a lean, private site gives SEO a solid base." },
     { question: "Can AI chatbots on our website be GDPR compliant?", answer: `They can support compliance if designed carefully: the widget loads after consent or on click, visitors are told they are talking to AI, conversations are stored in the EU where the provider allows it, retention is limited and sensitive data is discouraged. AI features start from ${P.ai}; our AI automation page for Dutch businesses covers this.` },
     { question: "How do we pay and who signs the contracts?", answer: "Quotes are in USD, invoices come from India, and payment is by Wise, bank wire or PayPal against milestones. Nothing is billed before you approve the quote in writing. A verwerkersovereenkomst is added if we will access personal data, and any NDA terms are agreed before work starts." },
-    { question: "What happens after launch?", answer: `Two months of free maintenance cover updates, backups, security checks and a cookie re-scan whenever new tools are added. After that, maintenance starts from ${P.care} a month. New marketing tags are the most common way sites drift out of line, so we check each one against the consent set-up before it goes live.` },
+    { question: "What happens after launch?", answer: `Two months of free maintenance cover updates, backups, security checks and a cookie re-scan whenever new tools are added. After that, maintenance starts from ${P.care}. New marketing tags are the most common way sites drift out of line, so we check each one against the consent set-up before it goes live.` },
   ],
   related: {
     heading: "Related pages for Dutch businesses",

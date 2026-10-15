@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "ecommerce delivery integration singapore", "gst online store singapore", "custom ecommerce website cost singapore",
       "ecommerce website cost near me singapore", "online store cost jurong", "online store cost tampines", "online store cost woodlands",
       "cheapest way to start online store singapore", "ecommerce website maintenance cost singapore", "psg ecommerce grant",
+      "hire ecommerce website in Singapore", "freelance ecommerce website Singapore",
     ],
   },
   hero: {

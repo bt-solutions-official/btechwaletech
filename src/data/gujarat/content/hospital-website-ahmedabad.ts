@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Hospital Website Design in Ahmedabad from ${P.site}`,
-    description: `Hospital website design in Ahmedabad with doctor profiles, department pages and OPD appointment booking that reaches your front desk. From ${P.site}; quote in 2 days.`,
+    description: `Hospital website design in Ahmedabad with doctor profiles, department pages and OPD booking that reaches your front desk. From ${P.site}, 2-day quote.`,
     keywords: [
       "hospital website design in Ahmedabad", "hospital website design Ahmedabad", "hospital website developer Ahmedabad", "multispeciality hospital website Ahmedabad",
       "hospital website designer near me", "hospital website Ahmedabad Gujarat", "hospital website cost Ahmedabad", "hospital website price India",

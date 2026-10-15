@@ -7,7 +7,7 @@ const balurghat: CityContent = {
   meta: {
     title: "IT Services in Balurghat: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Balurghat, Hili and Gangarampur businesses. Remote engineers, static sites from ₹10,000.",
+      "Balurghat, Hili and Gangarampur websites, local SEO, online stores and WhatsApp automation. Remote engineers, static sites from ₹10,000, code yours.",
     keywords: [
       "website development team in Balurghat",
       "web design Balurghat",
@@ -25,6 +25,14 @@ const balurghat: CityContent = {
       "website maintenance Balurghat",
       "Balurghat e website banate khoroch",
       "বালুরঘাট ওয়েবসাইট",
+      "Balurghat website designer",
+      "website cost in Balurghat",
+      "web development company Balurghat",
+      "hire freelance developer Balurghat",
+      "West Bengal SEO",
+      "website for clearing agents and transporters in Balurghat",
+      "web designer in Rathtala, Balurghat",
+      "website for rice mills and grain traders in Balurghat",
     ],
   },
   hero: {

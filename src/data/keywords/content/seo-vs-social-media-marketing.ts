@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "SEO vs social media marketing",
   updated: "2026-09-25",
   meta: {
-    title: "SEO vs Social Media Marketing: Which Brings Inquiries?",
-    description: `SEO vs social media marketing for Indian businesses: search intent vs scrolling, timelines, cost per lead and how to split a budget. Monthly SEO from ${P.seo}.`,
+    title: `SEO vs Social Media Marketing: Cost per Lead, 2026`,
+    description: `SEO vs social media marketing for Indian businesses: search intent against scrolling, timelines, cost per lead, how to split a budget. SEO from ${P.seo}.`,
     keywords: [
       "seo vs social media marketing", "seo or social media marketing", "social media marketing vs seo", "seo vs social media which is better",
       "seo vs instagram marketing", "seo vs facebook marketing", "seo or social media for small business", "seo vs social media for leads",
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Hardest part", "Patience in months one to four", "Posting steadily week after week", "Keeping one person accountable for leads"],
       ["Proof it works", "Search Console queries plus tracked calls and forms", "Reach and DMs; sales often untracked", "Every inquiry tagged by source"],
       ["Risk", "Algorithm updates, competitors’ content", "Reach changes, account issues", "Spread across two channels"],
-      ["Cost from us", `From ${P.seo} a month`, "Not our service; we automate DMs from " + P.ai, `SEO from ${P.seo}; site from ${P.site}`],
+      ["Cost from us", `From ${P.seo}`, "Not our service; we automate DMs from " + P.ai, `SEO from ${P.seo}; site from ${P.site}`],
     ],
     fine: "Social media done well can beat weak SEO for some trades, especially food, fashion and beauty; the honest answer depends on how your customers decide, not on which channel sounds more modern.",
   },
@@ -188,10 +188,10 @@ const content: FreelanceContent = {
       id: "budget",
       heading: "What a small monthly budget buys on each side",
       paragraphs: [
-        `With a budget from ${P.seo} a month, SEO buys a steady flow of pages, fixes and reporting; the same money on social buys a limited number of well-made posts each month, or a person’s part-time effort. Neither is large, so focus matters more than channel.`,
+        `With a budget from ${P.seo}, SEO buys a steady flow of pages, fixes and reporting; the same money on social buys a limited number of well-made posts each month, or a person’s part-time effort. Neither is large, so focus matters more than channel.`,
         `On the SEO side, our monthly plan from ${P.seo} covers technical fixes, on-page and content work on new or existing pages, local SEO and listings such as your Google Business Profile, and Search Console reporting that shows which searches brought visitors. If your site needs many service-plus-locality pages first, the SEO website plan from ${P.seoSite} builds them in one go.`,
         `On the social side, the same money usually pays for content, not reach: planning, shooting, editing and posting. The quality of that content decides everything, and cheap, generic posts rarely bring inquiries.`,
-        `With about three times ${P.seo} a month, a split becomes realistic: SEO plus a website that converts, and steady social posting by someone who understands your trade. The table further down suggests splits by business type.`,
+        `With about three times ${P.seo}, a split becomes realistic: SEO plus a website that converts, and steady social posting by someone who understands your trade. The table further down suggests splits by business type.`,
       ],
     },
     {
@@ -272,7 +272,7 @@ const content: FreelanceContent = {
       heading: "Doing both on a small budget: a split that works",
       paragraphs: [
         `If you do both, give SEO the steady monthly share and keep social to a rhythm your team can actually sustain. Doing both badly is worse than doing one well.`,
-        `A workable split for most local service businesses: SEO from ${P.seo} a month for pages and local listings, plus two or three honest posts a week made in-house on a phone. For visual businesses, reverse the weight: invest more in content, keep SEO to a Google Business Profile, a fast site and a few key pages.`,
+        `A workable split for most local service businesses: SEO from ${P.seo} for pages and local listings, plus two or three honest posts a week made in-house on a phone. For visual businesses, reverse the weight: invest more in content, keep SEO to a Google Business Profile, a fast site and a few key pages.`,
         `Coordinate the two. Turn common questions from DMs into FAQ sections and service pages. Turn new service pages into short videos. When a post explains a topic, link to the page that covers it in depth. Each channel then feeds the other instead of competing for attention in the owner’s head.`,
         `One person should own inquiries across both. When the SEO person watches rankings and the social person watches likes, nobody watches whether customers are calling.`,
       ],
@@ -299,7 +299,7 @@ const content: FreelanceContent = {
       heading: "Worked example: SEO vs social media marketing for two different businesses",
       paragraphs: [
         `Both businesses here are hypothetical, to show how the same question gets opposite answers.`,
-        `<strong>A two-partner CA practice in Nagpur</strong> with a budget of ${P.seo} a month. Clients search for GST registration, ITR filing, company incorporation and audit services with the city name. We would put the whole budget into SEO: a service page per offering, a Google Business Profile cleaned up with services and photos, FAQ content drawn from real client questions, and tracking on call and WhatsApp clicks. Social stays light: one short explainer video a week recorded by a partner. The practice judges SEO at month six by tracked inquiries.`,
+        `<strong>A two-partner CA practice in Nagpur</strong> with a budget of ${P.seo}. Clients search for GST registration, ITR filing, company incorporation and audit services with the city name. We would put the whole budget into SEO: a service page per offering, a Google Business Profile cleaned up with services and photos, FAQ content drawn from real client questions, and tracking on call and WhatsApp clicks. Social stays light: one short explainer video a week recorded by a partner. The practice judges SEO at month six by tracked inquiries.`,
         `<strong>A home cake studio in Kochi</strong> with a similar budget. Few people search for its signature cakes by name, but people love watching them being made. Here most effort goes into steady Instagram content, with DM automation from ${P.ai} capturing order details into a sheet. SEO is kept to a Google Business Profile and a simple site from ${P.site} with a cake menu, delivery areas and a WhatsApp order button, so searches like “custom cake Kochi” still find it.`,
         `Neither outcome is promised; the point is the method: start from how your customers decide.`,
       ],
@@ -448,7 +448,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Stuck on SEO vs social media marketing? Ask us",
-    note: `Send your trade, city and current accounts on WhatsApp. We will check search demand in your area, tell you honestly which channel should lead, and quote the SEO side from ${P.seo} a month in about two working days.`,
+    note: `Send your trade, city and current accounts on WhatsApp. We will check search demand in your area, tell you honestly which channel should lead, and quote the SEO side from ${P.seo} in about two working days.`,
   },
 };
 

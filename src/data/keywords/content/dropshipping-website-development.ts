@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "dropshipping website with COD", "print on demand website India", "custom dropshipping website", "dropshipping website freelancer",
       "dropshipping store near me", "dropshipping website Surat", "dropshipping website Delhi", "dropshipping website kaise banaye",
       "monthly cost of dropshipping store", "dropshipping trust badges and policies",
+      "dropshipping website development company in India",
+      "best dropshipping website development in India",
+      "dropshipping website development services",
     ],
   },
   hero: {

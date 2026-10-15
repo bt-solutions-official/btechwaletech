@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 11.1271, lng: 78.6569 },
   meta: {
-    title: "Freelance IT Services in Tamil Nadu: Software & Apps",
+    title: "Tamil Nadu IT Services: Software & Apps",
     description:
-      "IT services in Tamil Nadu from a freelance group of three engineers: manufacturing software, dealer portals, Tamil-first apps, AI automation, SEO. From ₹10,000.",
+      "IT services in Tamil Nadu from a freelance group of three engineers: manufacturing software, dealer portals, Tamil-first apps and AI automation. From ₹10,000.",
     keywords: [
       "IT services in Tamil Nadu",
       "software development team in Tamil Nadu",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "website developer near me Trichy Salem",
       "தமிழ்நாட்டில் மென்பொருள் நிறுவனம்",
       "Tamil Nadu la website app develop panna",
+      "Tamil Nadu website designer",
+      "website cost in Tamil Nadu",
+      "IT company in Tamil Nadu",
+      "Tamil Nadu SEO services",
+      "hire developer Tamil Nadu",
+      "engineering software in Tamil Nadu",
+      "auto software in Tamil Nadu",
+      "knitwear software in Tamil Nadu",
+      "dealers software in Tamil Nadu",
+      "website developer Chennai Tamil Nadu",
     ],
   },
   hero: {

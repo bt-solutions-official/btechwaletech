@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Website for Startup: Pages, Messaging | From ${P.site}`,
-    description: `Website for startup founders: the pages you need, how to write the headline, what investors check and honest costs. Startup sites from ${P.site}, live in 1–2 weeks.`,
+    description: `Website for startup founders: the pages you need, how to write the headline, what investors check and honest costs. Startup sites from ${P.site}.`,
     keywords: [
       "website for startup", "website for startup in India", "startup website developer near me", "startup website for hire",
       "startup website cost", "startup website price India", "best website for startup", "startup ke liye website",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Product web app or dashboard", value: `From ${P.software}, 6–12 weeks` },
       { label: "Android & iOS app", value: `From ${P.app}, 6–10 weeks` },
       { label: "Ownership", value: "Domain, repository, analytics and CMS in the founders' names" },
-      { label: "Care", value: `2 months free, then from ${P.care} a month` },
+      { label: "Care", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "Is SEO worth it for an early-stage startup?", answer: "Technical SEO basics are worth doing from launch because they cost little when built in: fast pages, clean URLs, titles, sitemaps, structured data and Search Console. Large content programmes can wait until you know which customer segment converts. No one can guarantee rankings, and SEO compounds slowly, so treat it as a long-term channel." },
     { question: "Can I get a waitlist page before the product is ready?", answer: "Yes. A pre-launch page with a clear headline, a product visual or short demo, and a waitlist form with a couple of qualifying questions can be live within days. It also gives you data: how many people sign up, from where, and which message resonates, which is useful evidence for early investor conversations." },
     { question: "How do payments work when a startup hires you?", answer: "You receive an itemised quote, and nothing is billed until you approve it in writing. Payments are staged against work you can see on staging links. Indian startups pay by UPI or bank transfer; founders abroad pay by Wise, bank wire or PayPal. Our terms and refund policy pages explain the details." },
-    { question: "What happens after my startup website launches?", answer: `You get two months of free maintenance covering copy edits, new screenshots, fixes and small page updates, which matters because startup messaging changes often. After that, maintenance starts at ${P.care} a month if you want it, or your team can manage content through the CMS we set up.` },
+    { question: "What happens after my startup website launches?", answer: `You get two months of free maintenance covering copy edits, new screenshots, fixes and small page updates, which matters because startup messaging changes often. After that, maintenance starts at ${P.care} if you want it, or your team can manage content through the CMS we set up.` },
     { question: "Can my startup website be in Hindi or regional languages?", answer: "Yes. If you build for Bharat users, we create language versions with their own URLs and correct language tags, load Indian-script fonts efficiently, and keep wording simple. A WhatsApp button often suits these audiences better than long forms, and pages are tested on budget Android phones over mobile data." },
     { question: "Startup ke liye website banwane mein kitna kharcha hai?", answer: `BtechWaleTech ke saath startup website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Bahut saare content pages wali site ${P.seoSite} se, aur product ka web app ${P.software} se shuru hota hai. Domain, code aur analytics aapke naam par rehte hain, aur 2 mahine maintenance free hai.` },
     { question: "Do you build websites for startups outside India?", answer: `Yes. We work with founders in the USA, UK, Singapore, the UAE, Canada and Australia, billing in USD with startup sites from ${P.siteUsd}. Calls are scheduled to overlap your working hours, drafts are shared on staging links, and payment is made through Wise, bank wire or PayPal.` },

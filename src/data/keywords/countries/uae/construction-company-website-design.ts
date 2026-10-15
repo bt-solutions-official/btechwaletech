@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "hse page construction website", "iso certification page contractor website", "construction company profile website",
       "civil contractor website design", "construction website design near me", "arabic english construction website",
       "construction company seo uae", "web designer for contractors", "construction website developers india",
+      "hire construction company website design in the UAE", "freelance construction company website design UAE",
     ],
   },
   hero: {

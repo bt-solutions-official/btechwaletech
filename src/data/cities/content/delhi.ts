@@ -7,7 +7,7 @@ const delhi: CityContent = {
   meta: {
     title: "IT Services in Delhi: Websites, Apps, SEO & AI",
     description:
-      "Website design, local SEO, ecommerce and WhatsApp automation for Delhi traders, clinics and institutes. From ₹10,000, itemised quotes, 2 months free maintenance.",
+      "Delhi web design, local SEO, ecommerce and WhatsApp automation for traders, clinics and institutes. From ₹10,000, itemised quotes, 2 months free maintenance.",
     keywords: [
       "website development team in Delhi",
       "website design team Delhi",
@@ -25,6 +25,14 @@ const delhi: CityContent = {
       "Delhi me website kaise banwaye",
       "website banane wala Delhi",
       "दिल्ली में वेबसाइट बनवाना",
+      "Delhi website designer",
+      "website cost in Delhi",
+      "web development company Delhi",
+      "hire freelance developer Delhi",
+      "National Capital Territory SEO",
+      "website for wholesale trade in Delhi",
+      "web designer in Karol Bagh, Delhi",
+      "website for bridal wear and weddings in Delhi",
     ],
   },
   hero: {

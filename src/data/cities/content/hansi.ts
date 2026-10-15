@@ -7,7 +7,7 @@ const hansi: CityContent = {
   meta: {
     title: "IT Services in Hansi: Websites, Apps, SEO & AI",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Hansi grain traders, arhtiyas, sweet shops, schools, clinics and new district offices.",
+      "Hansi Hindi websites, Android and iOS apps, local SEO and WhatsApp bots for grain traders, arhtiyas, sweet shops, schools and clinics. Priced from ₹10,000.",
     keywords: [
       "IT services in Hansi",
       "IT services team in Hansi",
@@ -29,6 +29,10 @@ const hansi: CityContent = {
       "Hisar Hansi digital marketing",
       "Hansi me website banwana",
       "Hansi me app kaise banwaye",
+      "Hansi website designer",
+      "web development company Hansi",
+      "hire freelance developer Hansi",
+      "Hisar SEO",
     ],
   },
   hero: {

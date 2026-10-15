@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "mineral water can delivery app India", "water can app Chennai", "water can delivery app Bengaluru", "water can app Hyderabad",
       "paani ki can delivery app banwana hai", "RO water plant delivery app", "packaged drinking water distributor app",
       "custom water can delivery app vs ready-made", "water can delivery app developer near me", "water jar subscription app",
+      "water can delivery app price", "water can delivery app company", "best water can delivery app in India", "water can delivery app cost in India",
+      "water can delivery app near me",
     ],
   },
   hero: {

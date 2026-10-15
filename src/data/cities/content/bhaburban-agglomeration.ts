@@ -7,7 +7,7 @@ const bhabua: CityContent = {
   meta: {
     title: "IT Services in Bhabua | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Bhabua rice mills, grain traders, coaching centres, clinics and Kaimur pilgrimage trade.",
+      "Bhabua Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for rice mills, grain traders, coaching centres and clinics. Live in 2 weeks.",
     keywords: [
       "IT services in Bhabua",
       "IT services team in Bhabua",
@@ -29,6 +29,10 @@ const bhabua: CityContent = {
       "Bhabua me website banwana",
       "Bhabhua website kitne ka banta hai",
       "भभुआ वेबसाइट डिजाइन",
+      "Bhabua website designer",
+      "web development company Bhabua",
+      "hire freelance developer Bhabua",
+      "Bihar SEO",
     ],
   },
   hero: {

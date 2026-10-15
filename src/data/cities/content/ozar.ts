@@ -7,7 +7,7 @@ const ozar: CityContent = {
   meta: {
     title: "IT Services in Ozar | Web, Apps & AI from ₹10,000",
     description:
-      "Marathi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Ozar grape exporters, pack-houses, HAL suppliers, schools and shops.",
+      "Marathi and English websites, apps and SEO for Ozar grape exporters, pack-houses, HAL suppliers, schools and shops. Sites from ₹10,000 with an itemised quote.",
     keywords: [
       "IT services in Ozar",
       "IT services team in Ozar",
@@ -29,6 +29,12 @@ const ozar: CityContent = {
       "Ozar me website banwana",
       "Ozarmadhe website banvaychi",
       "ओझर वेबसाइट डिझाइन",
+      "Ozar website designer",
+      "web development company Ozar",
+      "hire freelance web developer Ozar",
+      "Niphad taluka SEO services",
+      "website designer Niphad taluka",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

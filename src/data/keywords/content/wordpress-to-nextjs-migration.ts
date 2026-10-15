@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "WordPress to Next.js migration",
   updated: "2026-09-24",
   meta: {
-    title: "WordPress to Next.js Migration Without Losing SEO",
+    title: `WordPress to Next.js Migration: Cost from ${P.site}`,
     description: `WordPress to Next.js migration in India: when it is worth it, how URLs, content and SEO carry over, and honest costs. Content sites from ${P.site}.`,
     keywords: [
       "WordPress to Next.js migration", "WordPress to Next.js migration India", "WordPress to Next.js migration cost", "WordPress to Next.js migration service",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "WordPress to Next.js migration Delhi", "WordPress to Next.js migration Bangalore", "WordPress to Next.js migration Mumbai", "WordPress site slow fix",
       "WordPress se Next.js", "WordPress hack problem solution", "headless CMS migration", "Yoast SEO migration Next.js",
       "WordPress to modern stack",
+      "WordPress to Next.js migration price", "WordPress to Next.js migration company", "best WordPress to Next.js migration in India", "WordPress to Next.js migration cost in India",
     ],
   },
   hero: {

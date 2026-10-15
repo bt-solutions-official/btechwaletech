@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "Why do Rajula suppliers need a website, and what does it cost?",
     text: `Large buyers around Pipavav and the cement plants check suppliers online before registering them, and a phone number alone rarely passes. A website developer in Rajula can give you a profile with services, equipment, documents and a direct contact. With BtechWaleTech that starts at ${P.site} for up to 100 pages, usually live in 1–2 weeks.`,
-    more: `Logistics businesses can compare our logistics business website guide for Gandhidham, and coastal neighbours have their own Jafrabad page.`,
+    more: `Logistics businesses can compare our logistics business website guide for Gandhidham, and coastal neighbours have their own <a href='/gujarat/website-developer-jafrabad/'>Jafrabad page</a>.`,
   },
   snapshot: {
     caption: "Rajula website work at a glance",
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
       heading: "Maintenance, and websites for the coast and towns near Rajula",
       paragraphs: [
         `Every site includes two months of maintenance after launch: edits, small fixes, updates and backups at no charge. After that, optional care starts at ${P.care}. Details are on our maintenance page.`,
-        `The same approach covers the whole coast and hinterland. Jafrabad's fishing, salt and cement-linked businesses are on our Jafrabad page. Savarkundla's weighing-scale makers are on the <a href='/gujarat/website-developer-savarkundla/'>Savarkundla page</a>, and Mahuva's traders and food processors on the <a href='/gujarat/website-developer-mahuva/'>Mahuva page</a>. Further west, <a href='/gujarat/website-developer-kodinar/'>Kodinar</a> has its own guide.`,
+        `The same approach covers the whole coast and hinterland. Jafrabad's fishing, salt and cement-linked businesses are on our <a href='/gujarat/website-developer-jafrabad/'>Jafrabad page</a>. Savarkundla's weighing-scale makers are on the <a href='/gujarat/website-developer-savarkundla/'>Savarkundla page</a>, and Mahuva's traders and food processors on the <a href='/gujarat/website-developer-mahuva/'>Mahuva page</a>. Further west, <a href='/gujarat/website-developer-kodinar/'>Kodinar</a> has its own guide.`,
         `For the district headquarters, see <a href='/gujarat/website-developer-amreli/'>website developer in Amreli</a>. Apps, software and other IT work for the region are listed on our <a href='/india/gujarat/'>Gujarat IT services page</a>.`,
       ],
     },
@@ -345,7 +345,7 @@ const content: FreelanceContent = {
       { name: "Dungar", note: "Traders, input dealers and clinics in Dungar, a large village of the taluka, benefit from Gujarati pages and a clear map pin." },
       { name: "Highway lodges and eateries", note: "Lodges and eateries hosting drivers, crews and engineers need room pages, food menus, distances and booking enquiries." },
       { name: "Temple route businesses", note: "Guest houses and shops near temples such as Kumbhnath and the coastal Chachudeshwar Mahadev need directions, timings and simple booking enquiries." },
-      { name: "Jafrabad", note: "Fishing, dried fish, salt and cement-linked businesses on the coast need clear sites for inland buyers." },
+      { name: "Jafrabad", note: "Fishing, dried fish, salt and cement-linked businesses on the coast need clear sites for inland buyers.", href: "/gujarat/website-developer-jafrabad/" },
       { name: "Savarkundla", note: "Weighing-scale makers need model catalogues and dealer enquiry routes.", href: "/gujarat/website-developer-savarkundla/" },
       { name: "Mahuva", note: "Traders, food processors and coastal businesses in Mahuva need catalogues and local sites.", href: "/gujarat/website-developer-mahuva/" },
       { name: "Kodinar", note: "Sugar, cement-linked and farm businesses in Kodinar need supplier profiles and local pages.", href: "/gujarat/website-developer-kodinar/" },

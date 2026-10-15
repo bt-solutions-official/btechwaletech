@@ -238,7 +238,7 @@ const content: FreelanceContent = {
         `Every major platform can rank well on Google; how the store is set up matters more than which platform it runs on. That said, each has habits to manage.`,
         `Shopify creates some duplicate URL patterns through collections and has a fixed URL structure, and heavy apps can slow themes down. WooCommerce gives full control over URLs and content but can bloat with plugins and cheap hosting. Custom stores can be the fastest of all, if the developer builds for Core Web Vitals from the start. Indian hosted builders vary widely in how much SEO control they allow.`,
         `The work that matters on any platform: unique titles and descriptions for categories and products, product schema with price and availability, clean category structure, compressed images, fast mobile pages and a sitemap submitted in Google Search Console. The same structured, clear pages are also what AI search tools quote when shoppers ask for product recommendations.`,
-        `Our <a href='/ecommerce-seo-freelancer/'>ecommerce SEO work</a> starts at ${P.seo} a month. Nobody can guarantee rankings, and we do not pretend otherwise.`,
+        `Our <a href='/ecommerce-seo-freelancer/'>ecommerce SEO work</a> starts at ${P.seo}. Nobody can guarantee rankings, and we do not pretend otherwise.`,
       ],
     },
     {

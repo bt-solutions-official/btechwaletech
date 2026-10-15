@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "arabic translation cost website", "website quote dubai", "cheap website dubai", "affordable website development dubai",
       "website development cost for small business uae", "website vat uae", "freelancer vs agency website cost dubai",
       "website development cost near me", "website budget uae", "website development packages dubai",
+      "hire website development in the UAE",
     ],
   },
   hero: {
@@ -72,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Online stores", note: `Catalogue, checkout, delivery rules and order emails, from ${P.shop}.`, href: "/uae/ecommerce-website-development/", size: "md" },
       { name: "Portals and web applications", note: `Customer, tenant, dealer or staff portals with logins and roles, from ${P.software}.`, href: "/uae/web-application-development/", size: "md" },
       { name: "Redesigns", note: "Rebuilds of existing sites with redirects mapped so rankings and enquiries carry over.", href: "/uae/website-redesign-services/", size: "sm" },
-      { name: "Monthly SEO", note: `Content, technical fixes and reporting from ${P.seo} per month.`, href: "/uae/seo-packages/", size: "sm" },
+      { name: "Monthly SEO", note: `Content, technical fixes and reporting from ${P.seo}.`, href: "/uae/seo-packages/", size: "sm" },
       { name: "Maintenance", note: `Two months free after launch, then from ${P.care}.`, href: "/uae/website-maintenance-services/", size: "sm" },
     ],
   },
@@ -409,7 +410,7 @@ const content: FreelanceContent = {
     { question: "Can I start small and add features later?", answer: "Yes, and it is often the best approach. Launch with the pages and forms that bring enquiries, then add Arabic for more pages, a booking system, a store or a portal once you see what visitors use. An itemised first quote makes later additions easy to price because the structure is already known." },
     { question: "What should I prepare before asking for a website quote?", answer: "To get an accurate website development cost in Dubai, prepare a page list, the number of distinct layouts, languages, integrations such as CRM or payments, who will write content and supply photos, sample sites you like, and your target launch date. With that, quotes from different providers become comparable and the numbers you receive are much more reliable." },
     { question: "Do you visit our office in Dubai for meetings?", answer: "No. We are three freelance developers working remotely from India and do not make site visits. Discovery, reviews and training happen by video call with screen sharing, and quick questions go through WhatsApp, which we answer seven days a week. For on-site photography or workshops, a local provider is the better fit." },
-    { question: "Does website cost include AI search and SEO setup?", answer: `Every build includes basic SEO setup: clean structure, titles, descriptions, structured data, sitemaps and Search Console. Pages are written to answer questions directly, which helps with AI Overviews and assistants too. Ongoing SEO work, such as new content and technical fixes, is separate and starts from ${P.seo} per month.` },
+    { question: "Does website cost include AI search and SEO setup?", answer: `Every build includes basic SEO setup: clean structure, titles, descriptions, structured data, sitemaps and Search Console. Pages are written to answer questions directly, which helps with AI Overviews and assistants too. Ongoing SEO work, such as new content and technical fixes, is separate and starts from ${P.seo}.` },
   ],
   related: {
     heading: "More UAE budgeting and build guides",

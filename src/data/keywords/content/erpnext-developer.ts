@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "ERPNext developer",
   updated: "2026-09-25",
   meta: {
-    title: `ERPNext Developer: Upgrade-Safe Custom Apps`,
+    title: `ERPNext Developer: Custom Apps from ${P.ai}`,
     description: `ERPNext developer for custom doctypes, reports, print formats and API integrations, built in a custom Frappe app. Integrations from ${P.ai}; quote in 2 days.`,
     keywords: [
       "erpnext developer", "frappe developer", "hire erpnext developer", "erpnext developer India", "freelance erpnext developer",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "erpnext e-invoice integration", "erpnext upgrade v15 to v16", "erpnext developer rates", "erpnext developer cost", "how to hire erpnext developer",
       "erpnext developer near me", "erpnext developer Hyderabad", "erpnext developer Ahmedabad", "erpnext developer Chennai", "erpnext developer chahiye",
       "frappe framework developer", "erpnext bug fix", "erpnext python developer",
+      "best erpnext developer in India",
     ],
   },
   hero: {
@@ -36,7 +37,7 @@ const content: FreelanceContent = {
     ["Custom app builds from", `${P.software} · ${P.softwareUsd}`],
     ["Where our code lives", "A separate Frappe app in your Git repository"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["Ongoing care", `2 months free, then from ${P.care} a month`],
+    ["Ongoing care", `2 months free, then from ${P.care}`],
     ["Languages", "English and Hindi, on WhatsApp and calls"],
   ],
   stats: [
@@ -223,7 +224,7 @@ const content: FreelanceContent = {
       heading: "ERPNext developer rates in India: hourly, monthly or per project?",
       paragraphs: [
         `Per project is safest for defined work; a monthly retainer suits a steady trickle of small changes; hourly suits only very short diagnostic work. Rates quoted by ERPNext developers vary widely across freelancers, marketplaces and Frappe partners, and the spread comes from experience with upgrades and accounting, not from typing speed.`,
-        `With us, a defined integration starts at ${P.ai}, and a custom app with several doctypes and reports starts at ${P.software}. After the free two months, ongoing care starts at ${P.care} a month. Each quote is itemised so you can see what a report or a print format costs on its own and drop lines if the budget is tight.`,
+        `With us, a defined integration starts at ${P.ai}, and a custom app with several doctypes and reports starts at ${P.software}. After the free two months, ongoing care starts at ${P.care}. Each quote is itemised so you can see what a report or a print format costs on its own and drop lines if the budget is tight.`,
         `Be wary of an hourly quote with no estimate, and of a very low fixed-looking figure for a vague brief. The first leaves you without a ceiling; the second usually means the work will be done quickly inside core files. See our <a href='/erp-software-development-cost-in-india/'>ERP software development cost</a> page for how ERP budgets break down more broadly.`,
       ],
     },
@@ -400,7 +401,7 @@ const content: FreelanceContent = {
   faqHeading: "ERPNext developer questions",
   faqs: [
     { question: "What does an ERPNext developer do?", answer: "An ERPNext developer extends ERPNext through the Frappe framework: creating custom doctypes and fields, writing server and client logic, building script reports and print formats, and integrating ERPNext with outside systems such as WhatsApp, e-invoicing, websites or mobile apps. A good one packages all of it in a custom app so the ERP can be upgraded without losing the changes." },
-    { question: "How much does an ERPNext developer cost in India?", answer: "Rates vary widely between freelancers, marketplaces and Frappe partners, mostly with experience in upgrades and accounting. With BtechWaleTech, a defined integration starts at " + P.ai + ", a custom app with several doctypes and reports starts at " + P.software + ", and ongoing care after two free months starts at " + P.care + " a month. Every quote is itemised by task." },
+    { question: "How much does an ERPNext developer cost in India?", answer: "Rates vary widely between freelancers, marketplaces and Frappe partners, mostly with experience in upgrades and accounting. With BtechWaleTech, a defined integration starts at " + P.ai + ", a custom app with several doctypes and reports starts at " + P.software + ", and ongoing care after two free months starts at " + P.care + ". Every quote is itemised by task." },
     { question: "Is an ERPNext developer the same as a Frappe developer?", answer: "Nearly. ERPNext is an application built on the Frappe framework, so ERPNext development is Frappe development applied to accounting, stock, buying, selling and manufacturing. A Frappe developer who does not understand those business flows can write code that runs but posts wrong entries. For ERP work, look for Frappe skills plus ERPNext functional knowledge." },
     { question: "What is a custom app in ERPNext?", answer: "A custom app is a separate Frappe application, in its own Git repository, installed on your site alongside ERPNext. It holds your doctypes, hooks, reports, print formats and exported custom fields. Because it is kept apart from the standard code, updating ERPNext does not overwrite your changes, and the app can be installed on a staging site for testing." },
     { question: "Why should an ERPNext developer never edit core files?", answer: "Core files belong to the erpnext and frappe apps, which are replaced or merged whenever the bench updates. Edits there are either lost or cause conflicts during updates, and nobody can easily see what was changed. The same results can almost always be achieved with hooks, fixtures and overrides inside a custom app, which survive upgrades and stay reviewable." },

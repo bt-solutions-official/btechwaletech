@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Website maintenance in Ahmedabad",
   updated: "2026-10-01",
   meta: {
-    title: `Website Maintenance in Ahmedabad from ${P.care}/month`,
-    description: `Website maintenance in Ahmedabad: tested updates, backups, security and edits on WhatsApp. 2 months free after launch, then care from ${P.care}. Ask for a review.`,
+    title: `Website Maintenance in Ahmedabad from ${P.care}`,
+    description: `Website maintenance in Ahmedabad: updates, backups, security and edits on WhatsApp. 2 months free after launch, then care from ${P.care}. Ask for a review.`,
     keywords: [
       "website maintenance in Ahmedabad", "website maintenance Ahmedabad", "website maintenance services Ahmedabad", "website care plan Ahmedabad",
       "website maintenance near me Ahmedabad", "website maintenance charges Ahmedabad", "website maintenance cost Ahmedabad", "website AMC Ahmedabad",

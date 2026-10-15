@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Your own booking tool", note: `Table rules, covers, deposits and reminders in a system you own, built as custom software from ${P.software}.`, href: "/uk/bespoke-software-development/", size: "md" },
       { name: "Private dining and events", note: "Room pages, capacity, sample menus and an enquiry form that asks date, guest count and budget.", size: "md" },
       { name: "Gift vouchers", note: `Online voucher sales with card and wallet checkout, from ${P.shop}.`, href: "/uk/ecommerce-website-design/", size: "md" },
-      { name: "Local search care", note: `Profile updates, menu syncing, review replies and Search Console checks from ${P.seo} a month.`, href: "/uk/local-seo-services/", size: "sm" },
+      { name: "Local search care", note: `Profile updates, menu syncing, review replies and Search Console checks from ${P.seo}.`, href: "/uk/local-seo-services/", size: "sm" },
       { name: "WhatsApp for group bookings", note: "Large-party and event enquiries routed to WhatsApp templates your manager can answer quickly.", href: "/uk/whatsapp-business-api-integration/", size: "sm" },
     ],
   },

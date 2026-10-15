@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "school website design", "CBSE school website", "mandatory public disclosure website", "online admission form for school",
       "school notice board website", "website for play school", "website for coaching and school", "school website with fee payment",
       "school website maintenance", "educational institution website developer",
+      "hire school website developer", "freelance school website developer", "school website developer cost", "best school website developer in India",
+      "school website developer price", "school website developer charges",
     ],
   },
   hero: {
@@ -229,7 +231,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Parents search phrases like “CBSE school near me”, “best play school in Kothrud” or “girls school in Jaipur with hostel”. A school website developer should make the site easy for Google to understand for those searches.`,
         `We give each page a clear title with the school name, board and locality, add School or CollegeOrUniversity schema with address and contact details, link the site from the school’s Google Business Profile, submit the sitemap and verify Google Search Console. We make sure the school name, address and phone number match exactly across the website, the Maps listing and any directories.`,
-        `Reviews on the Maps listing influence parents heavily. Encourage satisfied parents to leave honest reviews and reply to every review politely. Nobody can guarantee a position in search results, but a well-structured site plus an active, accurate Maps listing is the foundation. Ongoing work is available from ${P.seo} a month.`,
+        `Reviews on the Maps listing influence parents heavily. Encourage satisfied parents to leave honest reviews and reply to every review politely. Nobody can guarantee a position in search results, but a well-structured site plus an active, accurate Maps listing is the foundation. Ongoing work is available from ${P.seo}.`,
       ],
       after: [`For the Maps side specifically, see <a href='/google-business-profile-expert/'>Google Business Profile expert</a>.`],
     },

@@ -7,7 +7,7 @@ const vellore: CityContent = {
   meta: {
     title: "Vellore Web Design & SEO | Leather, Lodges, Clinics",
     description:
-      "Websites, Tamil and English SEO and WhatsApp automation for Vellore leather exporters, CMC-area lodges, clinics, VIT-area businesses and retailers. From ₹10,000.",
+      "Websites, Tamil and English SEO and WhatsApp tools for Vellore leather exporters, CMC-area lodges, clinics, VIT-area businesses and retailers. From ₹10,000.",
     keywords: [
       "website development team in Vellore",
       "web designer Vellore",
@@ -24,6 +24,17 @@ const vellore: CityContent = {
       "freelance web developer Vellore",
       "website design Gudiyatham",
       "வேலூர் வெப்சைட் டிசைன்",
+      "Vellore website designer",
+      "web development company Vellore",
+      "hire freelance web developer Vellore",
+      "Tamil Nadu SEO services",
+      "website design Katpadi Vellore",
+      "website design price in Vellore",
+      "app development company Vellore",
+      "Vellore SEO company",
+      "Google Maps listing Vellore",
+      "software company in Vellore",
+      "business website design Vellore",
     ],
   },
   hero: {

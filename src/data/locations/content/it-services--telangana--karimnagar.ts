@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 18.4386, lng: 79.1288 },
   meta: {
-    title: "Freelance Software Developers in Karimnagar",
+    title: "Karimnagar Software Developers: Granite Quarries",
     description:
-      "Freelance software developers for Karimnagar: granite yard software, hospital systems, dashboards, AI agents, Android and iOS apps and SEO. Websites from ₹10,000.",
+      "Freelance software developers for Karimnagar: granite yard software, hospital systems, dashboards and AI agents. Software from ₹60,000, quote in two days.",
     keywords: [
       "software development team in Karimnagar",
       "IT services team in Karimnagar",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT services near me Karimnagar",
       "website maintenance Karimnagar",
       "కరీంనగర్ సాఫ్ట్‌వేర్ డెవలపర్లు",
+      "Karimnagar website designer",
+      "website cost in Karimnagar",
+      "IT company in Karimnagar",
+      "Telangana SEO services",
+      "hire developer Karimnagar",
+      "granite quarries software in Karimnagar",
+      "hospitals software in Karimnagar",
+      "colleges software in Karimnagar",
+      "silver software in Karimnagar",
+      "website developer Mukarampura Karimnagar",
     ],
   },
   hero: {

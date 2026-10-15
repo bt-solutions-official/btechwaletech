@@ -67,7 +67,7 @@ const content: FreelanceContent = {
     note: "The starting price covers a focused app. Each card below is either included in that scope or quoted as a line item, so you can see where the budget goes before approving anything.",
     cards: [
       { name: "Cross-platform app build", note: `One Flutter codebase compiled for iPhone and Android, with shared business logic and platform-aware touches where users expect them, from ${P.app}.`, href: "/it-services/android-ios-app/", size: "lg" },
-      { name: "Payments for UK customers", note: "Apple Pay and Google Pay through Google’s official Flutter pay plugin, plus card entry from your processor’s SDK, tested with a live transaction.", href: "/uk/payment-gateway-integration/", size: "lg" },
+      { name: "Payments for UK customers", note: "Apple Pay and Google Pay through Google’s official Flutter pay plugin, plus card entry from your processor’s SDK, tested with a live transaction.", href: "/uk/ecommerce-website-design/", size: "lg" },
       { name: "Push notifications", note: "Firebase Cloud Messaging with the Apple push key configured, permission prompts timed sensibly, and messages you can send from a dashboard.", size: "md" },
       { name: "Offline mode", note: "Data cached on the device so key screens open on the Tube or in a basement, with changes synced once the connection returns.", size: "md" },
       { name: "Backend and admin panel", note: `APIs, database and a web admin for your staff to manage content, users and orders, from ${P.software}.`, href: "/uk/web-app-development-company/", size: "md" },
@@ -145,7 +145,7 @@ const content: FreelanceContent = {
         `A Flutter app can take Apple Pay, Google Pay and card payments for physical goods and real-world services, using Google’s official pay plugin for the wallets and your card processor’s Flutter SDK for card entry. Digital goods and in-app features are different: Apple and Google require their own in-app purchase systems for those.`,
         `The <a href='https://developer.apple.com/app-store/review/guidelines/' rel='noopener'>App Store Review Guidelines</a> are clear on the split. Guideline 3.1.1 says features, subscriptions and premium content unlocked inside the app must use in-app purchase. Guideline 3.1.3(e) says goods and services consumed outside the app, such as a meal, a class or a haircut, must use other methods such as Apple Pay or card entry. Getting this wrong is one of the most common reasons apps are rejected.`,
         `For UK apps we set wallet buttons to show only where the device supports them, pass prices in GBP from your backend rather than hard-coding them in the app, and make sure Strong Customer Authentication challenges from the customer’s bank complete inside the flow without losing the order.`,
-        `We choose the processor with you based on your existing merchant account and fees; we do not resell payments or take a share. Every payment integration is tested with a real low-value transaction and refund before launch. For card set-up on your website too, see <a href='/uk/payment-gateway-integration/'>payment gateway integration</a>.`,
+        `We choose the processor with you based on your existing merchant account and fees; we do not resell payments or take a share. Every payment integration is tested with a real low-value transaction and refund before launch. For card set-up on your website too, see <a href='/uk/ecommerce-website-design/'>ecommerce website design</a>.`,
       ],
     },
     {
@@ -431,7 +431,7 @@ const content: FreelanceContent = {
       { name: "MVP development UK", href: "/uk/mvp-development-company/" },
       { name: "Outsource app development UK", href: "/uk/outsource-app-development/" },
       { name: "White label app development UK", href: "/uk/white-label-app-development/" },
-      { name: "Payment gateway integration UK", href: "/uk/payment-gateway-integration/" },
+      { name: "WooCommerce developer UK", href: "/uk/woocommerce-developer/" },
       { name: "Ecommerce website cost UK", href: "/uk/ecommerce-website-cost/" },
       { name: "WordPress maintenance services UK", href: "/uk/wordpress-maintenance-services/" },
       { name: "Hire Indian developers", href: "/hire-indian-developers/" },

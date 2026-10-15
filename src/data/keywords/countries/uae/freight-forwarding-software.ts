@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "Freight Forwarding Software UAE: License or Build?",
-    description: `Freight forwarding software UAE guide: instant quotes, RFQs, tracking portal, BL and AWB documents, Jebel Ali workflows, licence vs build. Portals from ${P.software}.`,
+    description: `Freight forwarding software UAE: instant quotes, RFQs, tracking portal, BL and AWB documents, Jebel Ali workflows, licence vs build. From ${P.software}.`,
     keywords: [
       "freight forwarding software uae", "freight forwarding software dubai", "freight forwarder software uae",
       "logistics software for freight forwarders dubai", "freight quoting software", "instant freight quote portal",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "cargo management software dubai", "sea freight software uae", "air cargo software dubai",
       "freight forwarding software abu dhabi", "freight forwarding software sharjah", "nvocc software uae",
       "freight invoice e-invoicing uae", "freight software developers india for uae",
+      "hire freight forwarding software in the UAE", "freelance freight forwarding software UAE",
     ],
   },
   hero: {

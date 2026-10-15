@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Affordable Web Developer India: Sites from ${P.site}`,
-    description: `Affordable web developer in India: websites from ${P.site}, itemised quotes, code in your name. See where your budget goes and which costs never to cut.`,
+    description: `Affordable web developer in India: websites from ${P.site}, itemised quotes, code in your name. See where your budget goes, then get a quote in 2 days.`,
     keywords: [
       "affordable web developer", "affordable web developer in India", "affordable web developer near me", "affordable web developer for hire",
       "affordable web developer cost", "affordable website price", "best affordable web developer", "sasta aur accha website developer",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "affordable website for small business", "value for money website", "reasonable website design price", "affordable freelance web developer",
       "website on a small budget", "affordable web design India", "low budget business website", "affordable web developer for startups",
       "how to save money on a website",
+      "hire affordable web developer",
     ],
   },
   hero: {

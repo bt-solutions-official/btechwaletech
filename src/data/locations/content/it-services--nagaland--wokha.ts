@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 26.1, lng: 94.26 },
   meta: {
-    title: "Freelance Software & App Developers for Wokha",
+    title: "Wokha App & Software Developers: Produce & Border Trade",
     description:
-      "Instead of a software development team in Wokha, hire freelance engineers for produce trading software, falcon-season bookings, AI tools and SEO.",
+      "Instead of a software development team in Wokha, hire freelance engineers for produce trading software and nature tourism pages. Apps from ₹40,000.",
     keywords: [
       "software development team in Wokha",
       "IT services team in Wokha",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "border trade software Merapani",
       "online store Lotha crafts",
       "Wokha mein website developer",
+      "Wokha website designer",
+      "website cost in Wokha",
+      "IT company in Wokha",
+      "Nagaland SEO services",
+      "hire developer Wokha",
+      "produce software in Wokha",
+      "border software in Wokha",
     ],
   },
   hero: {

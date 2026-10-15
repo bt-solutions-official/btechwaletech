@@ -407,6 +407,7 @@ const content: FreelanceContent = {
     heading: "More Gandhinagar, Ahmedabad and Gujarat pages",
     links: [
       { name: "Gujarat website services", href: "/gujarat/" },
+      { name: "CA firm website in Ahmedabad", href: "/gujarat/ca-firm-website-ahmedabad/" },
       { name: "Website development services in Gandhinagar", href: "/gujarat/website-development-services-gandhinagar/" },
       { name: "Website designer in Gandhinagar", href: "/gujarat/website-designer-gandhinagar/" },
       { name: "Web application development in Gandhinagar", href: "/gujarat/web-application-development-gandhinagar/" },

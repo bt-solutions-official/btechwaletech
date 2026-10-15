@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "ecommerce website Kozhikode", "Malayalam website developer Calicut", "website developer Malappuram", "website developer Vatakara",
       "business website Kozhikode", "website for Gulf NRI business Kerala", "best website developer in Kozhikode", "website developer Ramanattukara",
       "Kozhikode me website kaise banwaye", "website banwana hai Calicut",
+      "website developer in Kozhikode cost", "website developer in Kozhikode price", "hire website developer in Kozhikode", "freelance website developer in Kozhikode",
+      "website developer in Kozhikode charges",
     ],
   },
   hero: {

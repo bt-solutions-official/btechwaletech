@@ -7,7 +7,7 @@ const ahmednagar: CityContent = {
   meta: {
     title: "Ahmednagar (Ahilyanagar) Web Design, SEO & Apps",
     description:
-      "Websites, local SEO and automation for Ahilyanagar (Ahmednagar) MIDC units, dairies, traders, clinics and Shirdi hotels. From ₹10,000 with 2 months free support.",
+      "Ahilyanagar (Ahmednagar) websites, local SEO and automation for MIDC units, dairies, traders and Shirdi hotels. From ₹10,000, 2 months free upkeep.",
     keywords: [
       "website development team in Ahmednagar",
       "website designer Ahilyanagar",
@@ -24,6 +24,15 @@ const ahmednagar: CityContent = {
       "website maintenance Ahmednagar",
       "Nagar madhe website banvane",
       "अहिल्यानगर वेबसाइट डिझाईन",
+      "Ahilyanagar website designer",
+      "website cost in Ahilyanagar",
+      "web development company Ahilyanagar",
+      "hire freelance developer Ahilyanagar",
+      "Maharashtra SEO",
+      "Ahilyanagar me website kaise banwaye",
+      "Ahmednagar website designer",
+      "website for sugar and cooperatives in Ahilyanagar",
+      "web designer in Savedi, Ahilyanagar",
     ],
   },
   hero: {

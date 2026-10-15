@@ -7,7 +7,7 @@ const agartala: CityContent = {
   meta: {
     title: "IT Services in Agartala: Websites, Apps, SEO & AI",
     description:
-      "Websites, Bengali-aware local SEO, online stores and WhatsApp automation for Agartala shops, rubber units, clinics and tour operators. From ₹10,000, you own it all.",
+      "Agartala websites, Bengali-aware local SEO, online stores and WhatsApp bots for shops, rubber units, clinics and tour operators. From ₹10,000, you own it all.",
     keywords: [
       "website development team in Agartala",
       "web designer Agartala",
@@ -24,6 +24,15 @@ const agartala: CityContent = {
       "Agartala e website banate chai",
       "website banane wala Agartala",
       "আগরতলা ওয়েবসাইট ডিজাইন",
+      "Agartala website designer",
+      "website cost in Agartala",
+      "web development company Agartala",
+      "hire freelance developer Agartala",
+      "Tripura SEO",
+      "website for rubber processors and traders in Agartala",
+      "web designer in Battala, Agartala",
+      "website for bamboo, cane and handicraft makers in Agartala",
+      "mobile app developer in Agartala",
     ],
   },
   hero: {

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "WordPress speed optimization service",
   updated: "2026-09-25",
   meta: {
-    title: `WordPress Speed Optimization Service: Pass CWV`,
+    title: `WordPress Speed Optimization: Pass CWV, Cost 2026`,
     description: `WordPress speed optimization service in India: fix LCP, INP and CLS, trim plugin bloat, tune caching. Priced after a free look; upkeep from ${P.care}.`,
     keywords: [
       "wordpress speed optimization service", "wordpress speed optimization", "wordpress speed optimisation India", "speed up wordpress site",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "wordpress database cleanup", "woocommerce speed optimization", "wordpress hosting upgrade advice", "hire wordpress speed expert",
       "wordpress speed optimization near me", "wordpress site slow on mobile", "website slow hai kaise fast karein", "wordpress speed optimization Delhi",
       "wordpress speed optimization freelancer", "pagespeed 90 wordpress",
+      "WordPress speed optimization service cost", "WordPress speed optimization service price", "WordPress speed optimization service company", "best WordPress speed optimization service in India",
+      "WordPress speed optimization service cost in India", "WordPress speed optimization service service",
     ],
   },
   hero: {
@@ -58,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Usual culprits", value: "Page builders, plugin count, images, fonts, third-party scripts" },
       { label: "Caching", value: "LiteSpeed Cache, WP Rocket or host-level, matched to your server" },
       { label: "Pricing", value: "Each fix quoted after review; nothing billed before approval" },
-      { label: "Ongoing care", value: `From ${P.care} a month after any free period` },
+      { label: "Ongoing care", value: `From ${P.care} after any free period` },
       { label: "Full rebuild", value: `Lean theme or static site from ${P.site}` },
       { label: "Verdict", value: "Search Console Core Web Vitals report after 28 days" },
     ],
@@ -219,7 +221,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The cost depends on what is causing the slowness, so we price after looking. A site that needs caching configured and images fixed is a small job; one that needs a page builder replaced is a rebuild. You get an itemised list with each fix priced separately in about two working days.`,
         `Across the market, quotes for WordPress speed work vary widely. Low quotes often mean installing a caching plugin and reporting a better lab score; higher quotes usually include plugin audits, staging tests, script work and field-data follow-up. Ask every provider what they will change, how they will test it, and how they will measure the result after 28 days.`,
-        `If tuning cannot reach your targets, a lean custom build starts at ${P.site}, a WooCommerce or custom store at ${P.shop}, and a large SEO site with 299 or more pages at ${P.seoSite}. To keep the site fast afterwards, care plans start at ${P.care} a month, and monthly SEO from ${P.seo} if you want search work too.`,
+        `If tuning cannot reach your targets, a lean custom build starts at ${P.site}, a WooCommerce or custom store at ${P.shop}, and a large SEO site with 299 or more pages at ${P.seoSite}. To keep the site fast afterwards, care plans start at ${P.care}, and monthly SEO from ${P.seo} if you want search work too.`,
       ],
     },
     {
@@ -335,8 +337,8 @@ const content: FreelanceContent = {
         ["Lean rebuild of a brochure site", `From ${P.site}`, `From ${P.siteUsd}`, "Page builder is the ceiling"],
         ["Rebuild of a large SEO site, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "Content site with many templates"],
         ["Store rebuild or major rework", `From ${P.shop}`, `From ${P.shopUsd}`, "WooCommerce beyond tuning"],
-        ["Care plan to keep it fast", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Sites with frequent plugin updates"],
-        ["Monthly SEO", `From ${P.seo}/month`, `From ${P.seoUsd}/month`, "Speed fixed, rankings next"],
+        ["Care plan to keep it fast", `From ${P.care}`, `From ${P.careUsd}`, "Sites with frequent plugin updates"],
+        ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Speed fixed, rankings next"],
       ],
       hideSm: [2],
     },
@@ -376,7 +378,7 @@ const content: FreelanceContent = {
   },
   faqHeading: "WordPress speed optimization: questions people ask",
   faqs: [
-    { question: "How much does a WordPress speed optimization service cost?", answer: `It depends on what is slowing the site, so BtechWaleTech prices after a review and sends an itemised list of fixes with a price for each, usually in about two working days. You approve only the lines you want. If a rebuild is cheaper than tuning, a lean site starts at ${P.site}, and care plans that keep it fast start at ${P.care} a month.` },
+    { question: "How much does a WordPress speed optimization service cost?", answer: `It depends on what is slowing the site, so BtechWaleTech prices after a review and sends an itemised list of fixes with a price for each, usually in about two working days. You approve only the lines you want. If a rebuild is cheaper than tuning, a lean site starts at ${P.site}, and care plans that keep it fast start at ${P.care}.` },
     { question: "Why is my WordPress website so slow?", answer: "Usually because too much loads on every page: page-builder code, plugins that add scripts everywhere, large images, many font weights and third-party widgets. Slow shared hosting, an old PHP version and missing page caching make it worse. A proper audit measures each cause instead of guessing, so fixes target what actually slows your visitors." },
     { question: "What PageSpeed score should my WordPress site get?", answer: "Aim to pass Core Web Vitals for real visitors rather than chasing a perfect lab score. Google's documentation says a Lighthouse score of 90 or above is good, but rankings use field data. Targets from web.dev are LCP within 2.5 seconds, INP of 200 milliseconds or less and CLS of 0.1 or less at the 75th percentile." },
     { question: "How long does WordPress speed optimization take?", answer: "The fixes themselves usually take one to two weeks, including testing on staging and going live. Field data in PageSpeed Insights covers the previous 28 days, so real-user results take about four weeks to fully reflect the changes. Replacing a page builder or theme takes longer and is planned as a separate project." },
@@ -390,7 +392,7 @@ const content: FreelanceContent = {
     { question: "Can you speed up a WooCommerce store?", answer: "Yes, though stores need different work because carts, checkouts and accounts cannot be fully cached. Typical fixes include limiting cart fragment requests, speeding up product filters and search, adding an object cache, trimming checkout scripts, optimising product images and cleaning old sessions and orders from the database." },
     { question: "Why is my WordPress site fast on desktop but slow on mobile?", answer: "Mobile tests simulate a mid-range phone on a slower network, and real phones have less processing power, so heavy JavaScript and large images hurt much more. Chat widgets and builder scripts that barely register on a laptop can make taps feel sluggish on a budget Android phone, which shows up as poor INP." },
     { question: "Does database cleanup make WordPress faster?", answer: "It helps when the database is a real bottleneck, such as a large autoloaded options table, thousands of revisions, expired transients or leftover plugin tables. Signs include a slow admin or high server response time. It will not fix front-end bloat. Always take a restorable backup before any database clean-up." },
-    { question: "Will you keep my site fast after the fix?", answer: `Speed tends to slide as plugins update and new content, widgets and tracking tags are added. Our care plans start at ${P.care} a month and include updates tested on staging, backups and periodic speed checks. You can also keep the site yourself using the notes we hand over after the fix.` },
+    { question: "Will you keep my site fast after the fix?", answer: `Speed tends to slide as plugins update and new content, widgets and tracking tags are added. Our care plans start at ${P.care} and include updates tested on staging, backups and periodic speed checks. You can also keep the site yourself using the notes we hand over after the fix.` },
     { question: "Do you need admin access to my WordPress site?", answer: "Yes, we need an administrator login, hosting panel access for backups and caching settings, and sometimes DNS access if a CDN is added. We ask you to create separate user accounts for us rather than sharing your own password, and you can remove them when the work is complete." },
     { question: "Can you guarantee a 100 PageSpeed score?", answer: "No, and be wary of anyone who does before seeing your site. Scores depend on theme, plugins, content and third-party scripts, and the lab score is only a diagnostic. What we commit to is an itemised list of fixes with the expected effect of each, and an honest before and after comparison using field data." },
     { question: "How do I pay for speed optimization work?", answer: "You approve an itemised written list first; nothing is billed before that. Clients in India pay by UPI or bank transfer, and international clients pay in USD by Wise, bank wire or PayPal. Payment stages and any other conditions are set out in your written quote, with general terms on our terms page." },
@@ -418,7 +420,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Slow WordPress site? Send the link and get a fix list",
-    note: `Share your site on WhatsApp. In about two working days you will get an itemised list of speed fixes with a price for each, and nothing is billed until you approve. Care plans to keep it fast start at ${P.care} a month.`,
+    note: `Share your site on WhatsApp. In about two working days you will get an itemised list of speed fixes with a price for each, and nothing is billed until you approve. Care plans to keep it fast start at ${P.care}.`,
   },
 };
 

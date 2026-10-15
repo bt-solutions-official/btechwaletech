@@ -430,7 +430,7 @@ const content: FreelanceContent = {
       { name: "UK services hub", href: "/uk/" },
       { name: "Website accessibility audit UK", href: "/uk/website-accessibility-audit/" },
       { name: "DMCC Act ecommerce compliance", href: "/uk/dmcc-act-ecommerce-compliance/" },
-      { name: "Payment gateway integration UK", href: "/uk/payment-gateway-integration/" },
+      { name: "WooCommerce developer UK", href: "/uk/woocommerce-developer/" },
       { name: "Technical SEO audit UK", href: "/uk/technical-seo-audit/" },
       { name: "WordPress website design UK", href: "/uk/wordpress-website-design/" },
       { name: "Shopify developer UK", href: "/uk/shopify-developer/" },

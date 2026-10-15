@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "app development cost abu dhabi", "app development cost sharjah", "mobile app cost for startups dubai",
       "why are dubai app development quotes expensive", "offshore app development cost india", "admin panel development cost",
       "app backend cost", "cross platform vs native app cost", "mvp app cost dubai", "app developers near me dubai",
+      "hire mobile app development in the UAE", "freelance mobile app development UAE",
     ],
   },
   hero: {

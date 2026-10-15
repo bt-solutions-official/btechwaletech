@@ -7,7 +7,7 @@ const macherla: CityContent = {
   meta: {
     title: "IT Services in Macherla | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Macherla chilli and cotton traders, cement suppliers, clinics and colleges.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Macherla chilli and cotton traders, cement suppliers, clinics and colleges. Websites from ₹10,000.",
     keywords: [
       "IT services in Macherla",
       "IT services team in Macherla",
@@ -29,6 +29,12 @@ const macherla: CityContent = {
       "Macherla lo website cheyinchali",
       "మాచర్ల వెబ్‌సైట్ డిజైన్",
       "మాచర్ల యాప్ డెవలప్‌మెంట్",
+      "Macherla website designer",
+      "web development company Macherla",
+      "hire freelance web developer Macherla",
+      "Palnadu district SEO",
+      "website designer Palnadu district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

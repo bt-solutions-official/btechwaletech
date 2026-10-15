@@ -22,6 +22,9 @@ const content: FreelanceContent = {
       "outdoor catering website", "event catering website design", "office lunch catering website", "catering website near me",
       "catering website Hyderabad", "catering website Mumbai", "catering website Bangalore", "catering SEO",
       "how to get catering orders online", "catering business website features", "party order catering website", "catering website with online menu",
+      "catering website design company in India",
+      "best catering website design in India",
+      "catering website design services",
     ],
   },
   hero: {

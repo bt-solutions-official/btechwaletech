@@ -7,7 +7,7 @@ const kharar: CityContent = {
   meta: {
     title: "IT Services in Kharar: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Kharar PG owners, builders, coaching centres, clinics and shops. From ₹10,000.",
+      "Kharar websites, Android and iOS apps, local SEO and WhatsApp automation for PG owners, builders, coaching centres, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Kharar",
       "IT services team in Kharar",
@@ -30,6 +30,9 @@ const kharar: CityContent = {
       "Kharar vich website banwauni",
       "Kharar me website banwana",
       "ਖਰੜ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Kharar website designer",
+      "web development company Kharar",
+      "hire freelance developer Kharar",
     ],
   },
   hero: {

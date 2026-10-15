@@ -7,7 +7,7 @@ const narnaul: CityContent = {
   meta: {
     title: "IT Services in Narnaul | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Narnaul traders, stone and mining units, logistics firms, schools and clinics.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Narnaul traders, stone and mining units, logistics firms, schools and clinics. From ₹10,000.",
     keywords: [
       "IT services in Narnaul",
       "IT services team in Narnaul",
@@ -29,6 +29,12 @@ const narnaul: CityContent = {
       "Narnaul me website banwana",
       "Narnaul me app banwana hai",
       "नारनौल वेबसाइट डिज़ाइन",
+      "Narnaul website designer",
+      "web development company Narnaul",
+      "hire freelance web developer Narnaul",
+      "Mahendragarh district SEO",
+      "website designer Mahendragarh district",
+      "Haryana SEO services",
     ],
   },
   hero: {

@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "visitor management system cost", "visitor management system price in India", "how does a visitor management system work",
       "paperless visitor register", "visitor tracking software", "visitor entry app for security guard", "visitor management system Pune",
       "visitor management system Chennai", "visitor management system Gurgaon", "visitor register app banwana hai",
+      "visitor management system company", "best visitor management system in India", "visitor management system cost in India", "visitor management system near me",
     ],
   },
   hero: {
@@ -97,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Visitor management system pricing",
-    note: `A custom visitor management system usually means a web back office plus one or two apps, so it starts at ${P.software}. If you already have a back end and only need a guard or host app, that piece starts at ${P.app}. Cost goes up with the number of site types (office, plant, school), approval layers, printing and kiosk modes, contractor compliance checks, and integrations with HR, attendance or access-control hardware that exposes an API. WhatsApp invites and alerts beyond basic notifications, or AI features such as reading ID documents, start at ${P.ai}. Maintenance starts at ${P.care} a month after two free months.`,
+    note: `A custom visitor management system usually means a web back office plus one or two apps, so it starts at ${P.software}. If you already have a back end and only need a guard or host app, that piece starts at ${P.app}. Cost goes up with the number of site types (office, plant, school), approval layers, printing and kiosk modes, contractor compliance checks, and integrations with HR, attendance or access-control hardware that exposes an API. WhatsApp invites and alerts beyond basic notifications, or AI features such as reading ID documents, start at ${P.ai}. Maintenance starts at ${P.care} after two free months.`,
   },
   guideLabel: "Visitor management system guide",
   guide: [
@@ -244,7 +245,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A custom visitor management system from BtechWaleTech starts at ${P.software} for the web platform with a guard or kiosk app, and a standalone guard or host app starts at ${P.app}. The final quote depends on scope, not on the number of visitors you expect.`,
         `Five drivers set the price: how many site types you need to model, how complex approvals are, whether you need kiosk and printing modes, how many integrations are involved (HR directory, attendance, access control, ERP), and whether you want WhatsApp automation or AI features such as reading details off an ID card. Multi-site groups add a head-office layer and per-site settings.`,
-        `Running costs are separate and usually modest: cloud hosting in your account, SMS or WhatsApp message charges from the provider, and your devices. After two free months, maintenance starts at ${P.care} a month. Compare this with custom work in general on <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a>.`,
+        `Running costs are separate and usually modest: cloud hosting in your account, SMS or WhatsApp message charges from the provider, and your devices. After two free months, maintenance starts at ${P.care}. Compare this with custom work in general on <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a>.`,
       ],
     },
     {
@@ -327,7 +328,7 @@ const content: FreelanceContent = {
         ["Standalone guard or host app", "App on your existing back end", `From ${P.app}`, "6–10 weeks"],
         ["WhatsApp and AI add-ons", "Automated invites, ID reading, smart alerts", `From ${P.ai}`, "2–4 weeks"],
         ["Visitor information website", "Directions, parking, rules and forms", `From ${P.site}`, "1–2 weeks"],
-        ["Maintenance after 2 free months", "Fixes, updates, new Android versions", `From ${P.care}/month`, "Ongoing"],
+        ["Maintenance after 2 free months", "Fixes, updates, new Android versions", `From ${P.care}`, "Ongoing"],
       ],
     },
   ],

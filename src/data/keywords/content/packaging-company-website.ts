@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "packaging company website Ahmedabad", "packaging company website Pune", "packaging company website Delhi NCR", "packaging company website Chennai",
       "packaging business website kaise banaye", "sample request form packaging", "MOQ lead time packaging website", "SEO for packaging company",
       "pouch manufacturer website", "mono carton manufacturer website", "packaging supplier website for ecommerce brands",
+      "packaging company website price", "packaging company website company", "best packaging company website in India", "packaging company website cost in India",
     ],
   },
   hero: {

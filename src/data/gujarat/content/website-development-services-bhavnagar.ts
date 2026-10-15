@@ -118,7 +118,7 @@ const content: FreelanceContent = {
         `For a mill or manufacturer, the website is a capability document: sizes, grades, capacity statements you can support, and an easy way to send an enquiry. For diamond units, the audience is usually trade buyers who want discretion and professionalism rather than retail flair. Traders linked to Alang sell salvaged equipment, fittings and furniture to buyers across India, so clear photos and categories matter more than design flourishes.`,
         `The city also has a large service economy: hospitals and clinics, schools and colleges around the university, coaching classes, hotels and dharamshalas serving Palitana pilgrims, and snack brands known for Bhavnagari gathiya. Since 2020 the Ghogha–Hazira Ro-Pax ferry has linked the region with Surat by sea, and businesses that sell into south Gujarat sometimes mention it in their delivery information.`,
       ],
-      after: [`Ship-recycling businesses should also read our website developer for Alang page.`],
+      after: [`Ship-recycling businesses should also read our <a href='/gujarat/website-developer-alang/'>website developer for Alang</a> page.`],
     },
     {
       id: "why-remote",
@@ -274,7 +274,7 @@ const content: FreelanceContent = {
       heading: "Maintenance after launch, and websites for towns around Bhavnagar",
       paragraphs: [
         `For two months after launch, maintenance is free: fixes, small text and photo changes, updates and help while your team learns to edit. From the third month, care is optional from ${P.care}. Static sites need very little; WordPress sites and stores benefit from regular updates and backups.`,
-        `The same remote service reaches the whole district and beyond. Sihor's rolling mills and utensil makers, Mahuva's agro-processing and onion trade, pilgrimage services in Palitana, ship-recycling traders at Alang, and shops in Talaja and Gariadhar all get the same team, process and starting prices as businesses in the city.`,
+        `The same remote service reaches the whole district and beyond. Sihor's rolling mills and utensil makers, Mahuva's agro-processing and onion trade, pilgrimage services in Palitana, ship-recycling traders at Alang, and shops in Talaja and <a href='/gujarat/website-developer-gariadhar/'>Gariadhar</a> all get the same team, process and starting prices as businesses in the city.`,
       ],
       after: [`Town guides: <a href='/gujarat/website-developer-sihor/'>Sihor</a>, <a href='/gujarat/website-developer-mahuva/'>Mahuva</a>, <a href='/gujarat/website-developer-palitana/'>Palitana</a>, <a href='/gujarat/website-developer-talaja/'>Talaja</a>, and our general <a href='/bhavnagar/'>Bhavnagar IT services</a> page.`],
     },
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
       { name: "Chitra GIDC", note: "Manufacturers and processors here need capability pages, product specifications and enquiry forms that buyers can use without calling." },
       { name: "Vartej GIDC", note: "Engineering, plastics and fabrication units benefit from a product catalogue and an SEO site listing every item buyers search for." },
       { name: "Sihor", note: "Re-rolling mills and metal utensil makers in Sihor need size tables, dispatch information and enquiry routing to the sales desk.", href: "/gujarat/website-developer-sihor/" },
-      { name: "Alang", note: "Ship-recycling yards and salvage traders sell equipment and fittings nationwide, so categorised catalogues and stock updates matter most." },
+      { name: "Alang", note: "Ship-recycling yards and salvage traders sell equipment and fittings nationwide, so categorised catalogues and stock updates matter most.", href: "/gujarat/website-developer-alang/" },
       { name: "Ghogha", note: "Businesses near the Ro-Pax ferry terminal, including transport and hospitality, can mention sea links to Surat in their service pages." },
       { name: "Mahuva", note: "Agro-processing units, traders and coastal businesses in Mahuva need English pages for distant buyers and Gujarati for local customers.", href: "/gujarat/website-developer-mahuva/" },
       { name: "Palitana", note: "Dharamshalas, hotels, travel services and puja suppliers serving Shatrunjaya pilgrims need photo-led pages and WhatsApp booking requests.", href: "/gujarat/website-developer-palitana/" },

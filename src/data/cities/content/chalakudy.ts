@@ -7,7 +7,7 @@ const chalakudy: CityContent = {
   meta: {
     title: "IT Services in Chalakudy: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Chalakudy homestays, plywood makers, Koratty units, colleges and shops. Sites from ₹10,000.",
+      "Chalakudy websites, Android and iOS apps, local SEO and WhatsApp bots for homestays, plywood makers, Koratty units, colleges and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Chalakudy",
       "IT services team in Chalakudy",
@@ -29,6 +29,10 @@ const chalakudy: CityContent = {
       "Chalakudiyil website undakkan",
       "Chalakudy me website banwana",
       "ചാലക്കുടി വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Chalakudy website designer",
+      "web development company Chalakudy",
+      "hire freelance developer Chalakudy",
+      "Kerala SEO",
     ],
   },
   hero: {

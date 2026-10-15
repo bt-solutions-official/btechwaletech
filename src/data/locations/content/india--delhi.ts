@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 28.6139, lng: 77.209 },
   meta: {
-    title: "Freelance IT Consulting & Transformation in Delhi",
+    title: "Delhi IT Consulting: Wholesale, Export & Coaching",
     description:
-      "Freelance IT consulting for Delhi: digital transformation roadmaps, custom software, Android and iOS apps, AI automation, cloud, data and SEO for every district.",
+      "Freelance IT consulting for Delhi: digital transformation roadmaps, custom software, Android and iOS apps, plus AI automation. Starting prices in INR, by UPI.",
     keywords: [
       "IT solutions team in Delhi",
       "IT consulting Delhi",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT consultant near me Nehru Place",
       "Delhi mein IT consultant",
       "दिल्ली आईटी कंसल्टिंग",
+      "Delhi website designer",
+      "website cost in Delhi",
+      "IT company in Delhi",
+      "Delhi SEO services",
+      "hire developer Delhi",
+      "wholesale trade software in Delhi",
+      "manufacturing software in Delhi",
+      "coaching software in Delhi",
+      "healthcare software in Delhi",
+      "website developer Connaught Place Delhi",
     ],
   },
   hero: {

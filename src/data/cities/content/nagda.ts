@@ -7,7 +7,7 @@ const nagda: CityContent = {
   meta: {
     title: "Nagda Web Development, SEO & Plant-Vendor Sites",
     description:
-      "Websites, Hindi SEO and WhatsApp automation for Nagda plant vendors, contractors, schools, clinics, traders and junction hotels. From ₹10,000; the code is yours.",
+      "Websites, Hindi SEO and WhatsApp automation for Nagda plant vendors, contractors, schools, clinics, traders and junction hotels. From ₹10,000.",
     keywords: [
       "website development team in Nagda",
       "web designer Nagda",
@@ -24,6 +24,17 @@ const nagda: CityContent = {
       "website designer Khachrod",
       "Nagda me website kaise banaye",
       "नागदा वेबसाइट",
+      "Nagda website designer",
+      "web development company Nagda",
+      "hire freelance web developer Nagda",
+      "Madhya Pradesh SEO services",
+      "Nagda me website kaise banwaye",
+      "Nagda website banwane ka kharcha",
+      "Nagda farm-input dealers website",
+      "farm-input dealers website design Nagda",
+      "website design Birlagram Nagda",
+      "website design Jawahar Marg Nagda",
+      "website design Sharda Gali Nagda",
     ],
   },
   hero: {

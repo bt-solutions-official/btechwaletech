@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `MVP Development Company for Startups: MVPs from ${P.app}`,
-    description: `MVP development company for startups in the US: test your riskiest assumption in 6–12 weeks, IP assigned to your C-corp. App MVPs from ${P.app}, web from ${P.software}.`,
+    description: `MVP development company for startups in the US: test your riskiest assumption in 6–12 weeks, IP assigned to your C-corp. MVPs from ${P.app}, web from ${P.software}.`,
     keywords: [
       "mvp development company for startups", "mvp development for startups", "mvp development company", "mvp development services",
       "startup mvp development", "mvp app development for startups", "how to build an mvp for a startup", "how long does it take to build an mvp",

@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.5485, lng: 77.2513 },
   meta: {
-    title: "Freelance Software Developers for Nehru Place",
+    title: "Nehru Place Software Developers: IT Resellers & AMC",
     description:
-      "Freelance developers for Nehru Place IT resellers, compared with a software development team: quotation systems, B2B catalogues, AMC and serial tracking, AI.",
+      "Freelance developers for Nehru Place IT resellers: quotation systems, B2B catalogues, AMC and serial tracking, plus AI. Software from ₹60,000.",
     keywords: [
       "software development team in Nehru Place",
       "IT services team in Nehru Place",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT services near me Kalkaji",
       "नेहरू प्लेस सॉफ्टवेयर डेवलपर",
       "Nehru Place mein quotation software",
+      "Nehru Place website designer",
+      "website cost in Nehru Place",
+      "IT company in Nehru Place",
+      "Delhi SEO services",
+      "hire developer Nehru Place",
+      "distributors software in Nehru Place",
+      "system integrators software in Nehru Place",
+      "cctv software in Nehru Place",
+      "website developer Nehru Place main complex Nehru Place",
+      "website developer Kalkaji Nehru Place",
     ],
   },
   hero: {

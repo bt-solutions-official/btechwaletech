@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.4595, lng: 77.0266 },
   meta: {
-    title: "Freelance Software Developers in Gurugram: Apps & AI",
+    title: "Gurugram Software Developers: Apps & AI",
     description:
-      "Hire freelance software developers in Gurugram for custom software, SaaS MVPs, AI agents, apps and cloud. Software from ₹60,000, apps from ₹40,000, quote in 2 days.",
+      "Hire freelance software developers in Gurugram for custom software, SaaS MVPs and AI agents. Software from ₹60,000, apps from ₹40,000, quote in 2 days.",
     keywords: [
       "freelance software developers in Gurugram",
       "hire freelance developers Gurgaon",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "custom software cost Gurugram",
       "गुरुग्राम में सॉफ्टवेयर डेवलपर",
       "Gurgaon mein software banwana",
+      "Gurugram website designer",
+      "website cost in Gurugram",
+      "IT company in Gurugram",
+      "Haryana SEO services",
+      "hire developer Gurugram",
+      "saas software in Gurugram",
     ],
   },
   hero: {

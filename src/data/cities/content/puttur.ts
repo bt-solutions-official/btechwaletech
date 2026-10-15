@@ -7,7 +7,7 @@ const puttur: CityContent = {
   meta: {
     title: "IT Services in Puttur | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Puttur arecanut traders, plantation suppliers, colleges, clinics and shops in Dakshina Kannada.",
+      "Websites, apps, local SEO and WhatsApp tools for Puttur arecanut traders, plantation suppliers, colleges, clinics and shops in Dakshina Kannada. From ₹10,000.",
     keywords: [
       "IT services in Puttur",
       "IT services team in Puttur",
@@ -29,6 +29,12 @@ const puttur: CityContent = {
       "Puttur website maadisuvudu",
       "ಪುತ್ತೂರು ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
       "rubber and pepper dealer website Puttur",
+      "Puttur website designer",
+      "web development company Puttur",
+      "hire freelance web developer Puttur",
+      "Dakshina Kannada SEO services",
+      "website designer Dakshina Kannada",
+      "Karnataka SEO services",
     ],
   },
   hero: {

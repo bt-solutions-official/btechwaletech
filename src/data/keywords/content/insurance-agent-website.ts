@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "insurance renewal reminder WhatsApp", "insurance quote form website", "claim assistance page insurance agent", "IRDAI rules for agent website",
       "insurance agent near me", "insurance agent website Hyderabad", "LIC agent website Varanasi", "LIC agent ki website kaise banaye",
       "motor insurance POSP website", "insurance agent digital marketing",
+      "insurance agent website company in India",
+      "best insurance agent website in India",
+      "insurance agent website services",
     ],
   },
   hero: {
@@ -240,7 +243,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A fast static site suits most agents: cheap to host, secure, and quick on mobile data. The reminder engine and dashboard run as a separate small application with a database, so client data never sits in a public website’s plugin folder.`,
         `Everything is registered to you: domain, hosting, WhatsApp Business account, database and code. We work as users you can remove. At handover you get logins, a renewal list for every paid service, and a short guide to editing a cover page, adding a client to the reminder list and exporting your data.`,
-        `Two months of maintenance are free after launch, which usually covers the first round of approved product pages and small corrections. After that, care is optional from ${P.care} a month. If you later want an app for clients to see their policies, we build Android and iOS apps from ${P.app} in your own store accounts.`,
+        `Two months of maintenance are free after launch, which usually covers the first round of approved product pages and small corrections. After that, care is optional from ${P.care}. If you later want an app for clients to see their policies, we build Android and iOS apps from ${P.app} in your own store accounts.`,
       ],
     },
     {
@@ -382,7 +385,7 @@ const content: FreelanceContent = {
     { question: "Freelancers or an agency for an insurance agent website?", answer: "A personal agent site has a clear, modest scope, which suits a small freelance team you can talk to directly. Large broking houses with many branches and in-house compliance teams may prefer an agency. Either way, ask who owns the accounts and how approval-sensitive pages are handled." },
     { question: "How do I pay for the website?", answer: "In India by UPI or bank transfer, in stages tied to visible work, after you approve the written, itemised quote. Clients outside India pay in USD by Wise, bank wire or PayPal. Stage details are agreed in your quote; general conditions are on our terms page." },
     { question: "Can the website show my testimonials?", answer: "Only genuine ones, with the client’s permission, and without implying guaranteed claim outcomes. Many agents prefer a claim-assistance page and real reviews on their Google Business Profile, which visitors trust more than quotes on the site itself." },
-    { question: "What happens after the free maintenance period?", answer: `The first two months after launch are free, covering fixes, backups and small updates such as newly approved pages. After that you can continue care from ${P.care} a month, manage the site yourself, or move it to another developer, since every account is already yours.` },
+    { question: "What happens after the free maintenance period?", answer: `The first two months after launch are free, covering fixes, backups and small updates such as newly approved pages. After that you can continue care from ${P.care}, manage the site yourself, or move it to another developer, since every account is already yours.` },
     { question: "Can my agent website appear in AI search answers?", answer: "AI tools tend to cite short, clear answers with a named author and a recent review date. We write explainers and FAQs that way and add structured data. No one controls which pages AI assistants quote, so treat it as a benefit of good content rather than a promise." },
     { question: "Insurance agent ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath insurance agent website ${P.site} se shuru hoti hai, jisme cover explainers, claim help page aur WhatsApp quote form hote hain. Renewal reminder automation ${P.ai} se shuru hota hai. Product wale pages insurer ki approval ke baad hi live hote hain.` },
   ],

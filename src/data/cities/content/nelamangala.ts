@@ -5,9 +5,9 @@ const nelamangala: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 13.0953, lng: 77.3964 },
   meta: {
-    title: "IT Services in Nelamangala: Web, Apps, SEO & AI",
+    title: "Nelamangala Website Design: Warehouses & Dabaspet",
     description:
-      "Websites, Android and iOS apps, SEO and WhatsApp automation for Nelamangala warehouses, Dabaspet factories, agarbathi makers, highway businesses and clinics.",
+      "Nelamangala websites, SEO and WhatsApp tools for warehouse and 3PL operators, Dabaspet engineering units and agarbathi makers. From ₹10,000.",
     keywords: [
       "IT services in Nelamangala",
       "IT services team in Nelamangala",
@@ -30,6 +30,15 @@ const nelamangala: CityContent = {
       "Nelamangala me website banwana",
       "Nelamangaladalli website maadisi",
       "ನೆಲಮಂಗಲ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Nelamangala website designer",
+      "web development company Nelamangala",
+      "hire freelance web developer Nelamangala",
+      "Bengaluru North district SEO",
+      "website designer Bengaluru North district",
+      "Karnataka SEO services",
+      "Nelamangala me website kaise banwaye",
+      "Nelamangala website banwane ka kharcha",
+      "Nelamangala agarbathi makers website",
     ],
   },
   hero: {

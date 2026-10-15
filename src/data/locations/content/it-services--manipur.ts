@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 24.6637, lng: 93.9063 },
   meta: {
-    title: "Freelance IT Services in Manipur | Software, Apps & AI",
+    title: "Manipur IT Services: Software, Apps & AI",
     description:
-      "Freelance IT services in Manipur: custom software, offline-ready apps, AI and WhatsApp automation, websites and SEO. Websites from ₹10,000, paid by UPI or bank.",
+      "Freelance IT services in Manipur: custom software, offline-ready apps, plus AI and WhatsApp automation. Websites from ₹10,000, paid by UPI or bank.",
     keywords: [
       "IT services in Manipur",
       "software development team in Manipur",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "Android app development Manipur",
       "mobile app developers Manipur",
       "iOS app development Manipur",
+      "Manipur website designer",
+      "website cost in Manipur",
+      "IT company in Manipur",
+      "Manipur SEO services",
+      "hire developer Manipur",
+      "handloom weavers software in Manipur",
+      "schools software in Manipur",
     ],
   },
   hero: {

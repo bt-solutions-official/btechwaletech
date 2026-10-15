@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Engineering Company Website in Rajkot from ${P.site}`,
-    description: `Engineering company website in Rajkot that shows machines, tolerances and quality checks, with drawing-upload RFQs. Capability sites from ${P.site}; quote in 2 days.`,
+    description: `Engineering company website in Rajkot showing machines, tolerances and quality checks, with drawing-upload RFQs. Capability sites from ${P.site}, 2-day quote.`,
     keywords: [
       "engineering company website in Rajkot", "engineering company website Rajkot", "engineering website design Rajkot", "precision engineering website Rajkot",
       "CNC machining company website Gujarat", "auto component manufacturer website Rajkot", "engineering company website near me", "engineering company website Rajkot Gujarat",
@@ -382,6 +382,7 @@ const content: FreelanceContent = {
     heading: "More Rajkot and engineering guides",
     links: [
       { name: "Gujarat website development hub", href: "/gujarat/" },
+      { name: "Solar company website in Gujarat", href: "/gujarat/solar-company-website-gujarat/" },
       { name: "Website development services in Rajkot", href: "/gujarat/website-development-services-rajkot/" },
       { name: "Pump manufacturer website in Rajkot", href: "/gujarat/pump-manufacturer-website-rajkot/" },
       { name: "Freelance web developer in Rajkot", href: "/gujarat/freelance-web-developer-rajkot/" },

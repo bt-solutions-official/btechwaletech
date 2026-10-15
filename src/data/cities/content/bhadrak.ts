@@ -7,7 +7,7 @@ const bhadrak: CityContent = {
   meta: {
     title: "Bhadrak Websites, Odia SEO & WhatsApp Automation",
     description:
-      "Website design, Odia local SEO, rice mill software, seafood and port-vendor sites, and WhatsApp automation for Bhadrak shops, clinics, colleges and traders.",
+      "Bhadrak website design, Odia local SEO, rice mill software, seafood and port-vendor sites, and WhatsApp automation for shops, clinics, colleges and traders.",
     keywords: [
       "website development team in Bhadrak",
       "web designer Bhadrak",
@@ -25,6 +25,14 @@ const bhadrak: CityContent = {
       "Bhadrak re website banaiba",
       "ଭଦ୍ରକ ୱେବସାଇଟ ଡିଜାଇନ",
       "software team Bhadrak",
+      "Bhadrak website designer",
+      "website cost in Bhadrak",
+      "web development company Bhadrak",
+      "hire freelance developer Bhadrak",
+      "Odisha SEO",
+      "website for rice mills in Bhadrak",
+      "web designer in Puruna Bazar, Bhadrak",
+      "website for seafood and dried fish traders in Bhadrak",
     ],
   },
   hero: {

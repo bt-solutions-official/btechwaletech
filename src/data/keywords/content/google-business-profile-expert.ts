@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Google Business Profile expert",
   updated: "2026-09-24",
   meta: {
-    title: `Google Business Profile Expert: Setup, Reviews, Posts`,
-    description: `Google Business Profile expert help: setup, verification, categories, review replies and weekly posts, within Google's rules. Local SEO from ${P.seo} a month.`,
+    title: `Google Business Profile Expert: Local SEO ${P.seo}`,
+    description: `Google Business Profile expert help: setup, verification, categories, review replies and weekly posts, within Google's rules. Local SEO from ${P.seo}.`,
     keywords: [
       "google business profile expert", "google business profile expert India", "google business profile expert near me", "GMB expert for hire",
       "google business profile optimisation cost", "GMB listing price", "best google my business expert", "google my business expert",
@@ -23,12 +23,14 @@ const content: FreelanceContent = {
       "google reviews management", "google business profile posts", "local SEO google maps", "GMB profile suspended help",
       "google maps par business kaise dale", "google business profile manager", "map pack ranking help", "google business profile consultant",
       "GMB optimisation service India", "google business listing for shop",
+      "hire google business profile expert",
+      "freelance google business profile expert",
     ],
   },
   hero: {
     eyebrow: "Google Business Profile expert · Maps, reviews, posts",
     h1: "Google Business Profile expert help for more calls, direction requests and honest reviews",
-    lede: `A Google Business Profile expert sets up, verifies and maintains the listing that appears when people search for your business or a service near them on Google Search and Maps. BtechWaleTech is three freelance developers in India, and another of us leads local and technical SEO. We fix categories, services, photos and hours, reply to reviews, publish posts and connect the profile to a fast website, all within Google's guidelines. Ongoing local SEO starts at ${P.seo} a month.`,
+    lede: `A Google Business Profile expert sets up, verifies and maintains the listing that appears when people search for your business or a service near them on Google Search and Maps. BtechWaleTech is three freelance developers in India, and another of us leads local and technical SEO. We fix categories, services, photos and hours, reply to reviews, publish posts and connect the profile to a fast website, all within Google's guidelines. Ongoing local SEO starts at ${P.seo}.`,
     pills: ["Setup and verification help", "Category and service clean-up", "Review replies", "Weekly posts", "Photo plan", "Suspension recovery", "Search Console + Maps insights"],
     origin: "Three freelance developers · Remote from India · Local businesses in every state",
   },
@@ -48,7 +50,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does a Google Business Profile expert do, and is it worth paying for?",
-    text: `A Google Business Profile expert makes your listing complete, accurate and active: correct name, primary category, services, hours, photos, weekly posts and prompt replies to every review, all within Google's rules. It is worth paying for when calls and visits come from Google Maps. With BtechWaleTech, ongoing local SEO that includes profile management starts at ${P.seo} a month.`,
+    text: `A Google Business Profile expert makes your listing complete, accurate and active: correct name, primary category, services, hours, photos, weekly posts and prompt replies to every review, all within Google's rules. It is worth paying for when calls and visits come from Google Maps. With BtechWaleTech, ongoing local SEO that includes profile management starts at ${P.seo}.`,
     more: `For the wider local picture, including citations and location pages, see <a href='/local-seo-expert/'>local SEO expert</a>. If you have no site yet, start with <a href='/website-for-local-business/'>a website for a local business</a>.`,
   },
   snapshot: {
@@ -91,7 +93,7 @@ const content: FreelanceContent = {
       ["Access to your profile", "You", "Sometimes asks for your Gmail password", "Manager role only; you stay primary owner"],
       ["Reporting", "Check insights now and then", "Screenshots of rankings", "Calls, directions, clicks and search terms"],
       ["Promises", "None", "Promises a top-three Maps spot", "No ranking guarantee; honest monthly work"],
-      ["Cost", "Your time", "Low, until a suspension", `Local SEO from ${P.seo} a month`],
+      ["Cost", "Your time", "Low, until a suspension", `Local SEO from ${P.seo}`],
     ],
     fine: "If you have the time and follow Google's guidelines carefully, managing your own profile works; our checklist on this page is enough to get most of the way there.",
   },

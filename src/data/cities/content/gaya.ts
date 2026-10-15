@@ -7,7 +7,7 @@ const gaya: CityContent = {
   meta: {
     title: "Gaya Website Design, SEO & Pilgrim Booking Sites",
     description:
-      "Websites, SEO and WhatsApp booking tools for Gaya hotels, pind daan pandas, tilkut sellers, Manpur weavers, clinics and coaching. From ₹10,000, you own it all.",
+      "Gaya websites, SEO and WhatsApp booking for hotels, pind daan pandas, tilkut sellers, Manpur weavers, clinics and coaching. From ₹10,000, you own it all.",
     keywords: [
       "website development team in Gaya",
       "website designer Gaya Bihar",
@@ -25,6 +25,14 @@ const gaya: CityContent = {
       "Gaya mein website banwana hai",
       "गया वेबसाइट डिजाइन",
       "website banane wala Gaya",
+      "Gaya website designer",
+      "website cost in Gaya",
+      "web development company Gaya",
+      "hire freelance developer Gaya",
+      "Bihar SEO",
+      "Gaya me website kaise banwaye",
+      "website for pilgrim services and pandas in Gaya",
+      "web designer in Bodh Gaya, Gaya",
     ],
   },
   hero: {

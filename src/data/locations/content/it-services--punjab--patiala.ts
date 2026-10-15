@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 30.3398, lng: 76.3869 },
   meta: {
-    title: "Freelance IT & Software Developers in Patiala",
+    title: "Patiala Software Developers: Coaching, Schools & Clinics",
     description:
-      "Freelance software developers in Patiala for coaching and school ERPs, clinic booking, retail billing, AI WhatsApp agents and dashboards. Websites from ₹10,000.",
+      "Freelance software developers in Patiala for coaching and school ERPs, clinic booking, plus retail billing. Websites from ₹10,000, quote in two working days.",
     keywords: [
       "Android app development Patiala",
       "iOS app development Patiala",
@@ -20,7 +20,7 @@ const content: CityContent = {
       "school management software Patiala",
       "hospital and clinic booking software Patiala",
       "billing and inventory software Patiala",
-            "WhatsApp automation Patiala",
+      "WhatsApp automation Patiala",
       "AI chatbot for institutes Patiala",
       "web application development Patiala",
       "IT services near Leela Bhawan",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "website maintenance Patiala",
       "Patiala vich software developer",
       "ਪਟਿਆਲਾ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਰ",
+      "Patiala website designer",
+      "website cost in Patiala",
+      "IT company in Patiala",
+      "Punjab SEO services",
+      "hire developer Patiala",
+      "coaching software in Patiala",
+      "schools software in Patiala",
+      "clinics software in Patiala",
+      "suit software in Patiala",
     ],
   },
   hero: {

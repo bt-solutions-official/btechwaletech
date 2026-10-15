@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "sweet shop website near me", "sweet shop website Agra", "sweet shop website Kolkata", "sweet shop website Jaipur",
       "FSSAI details on food website", "sweet shop online delivery", "mithai ki dukan ki website", "sweets shipping across India website",
       "dry fruit and sweets gift website", "best website for sweet shop",
+      "sweet shop website price", "sweet shop website company", "best sweet shop website in India", "sweet shop website cost in India",
     ],
   },
   hero: {
@@ -317,7 +318,7 @@ const content: FreelanceContent = {
         ["Corporate gifting portal", "Company logins, approvals, repeat orders", `${P.software}`, "6–12 weeks"],
         ["Customer app", "Android and iOS ordering app for regulars", `${P.app}`, "6–10 weeks"],
         ["WhatsApp order assistant", "Automated menu, order capture, status updates", `${P.ai}`, "2–4 weeks"],
-        ["Monthly SEO", "Speciality pages, reviews, reporting", `${P.seo} a month`, "Ongoing"],
+        ["Monthly SEO", "Speciality pages, reviews, reporting", `${P.seo}`, "Ongoing"],
       ],
       hideSm: [3],
     },

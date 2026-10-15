@@ -7,7 +7,7 @@ const tanuku: CityContent = {
   meta: {
     title: "IT Services in Tanuku: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Tanuku mills, aqua traders, colleges and shops. Sites from ₹10,000, apps from ₹40,000.",
+      "Websites, apps, local SEO and WhatsApp automation for Tanuku mills, aqua traders, colleges and shops. Sites from ₹10,000, stores from ₹50,000.",
     keywords: [
       "IT services in Tanuku",
       "IT services team in Tanuku",
@@ -29,6 +29,12 @@ const tanuku: CityContent = {
       "Tanuku lo website cheyinchadam",
       "Tanuku me website banwana",
       "తణుకు వెబ్‌సైట్ డిజైన్",
+      "Tanuku website designer",
+      "web development company Tanuku",
+      "hire freelance web developer Tanuku",
+      "West Godavari SEO services",
+      "website designer West Godavari",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

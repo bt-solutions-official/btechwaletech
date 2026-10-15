@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Designer in Hyderabad: Designs from ${P.site}`,
-    description: `Website designer in Hyderabad for layouts, brand styling and mobile-first pages, reviewed live on screen-share. Designed and built from ${P.site}; you keep the files.`,
+    description: `Website designer in Hyderabad for layouts, brand styling and mobile-first pages, reviewed on screen-share. Designed and built from ${P.site}; files stay yours.`,
     keywords: [
       "website designer in Hyderabad", "website designer Hyderabad", "website designers in Hyderabad", "web designer Hyderabad",
       "web designer near me Hyderabad", "website design Hyderabad", "website design services Hyderabad", "freelance website designer Hyderabad",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "Urdu website design Hyderabad", "website designer HITEC City", "website designer Madhapur", "website designer Jubilee Hills",
       "website designer Banjara Hills", "website designer Secunderabad", "best website designer in Hyderabad", "website designer vs developer",
       "Hyderabad me website design karwana hai", "website designer Telangana",
+      "website designer in Hyderabad cost", "website designer in Hyderabad price", "hire website designer in Hyderabad", "freelance website designer in Hyderabad",
+      "website designer in Hyderabad charges", "website designer near me Hyderabad",
     ],
   },
   hero: {
@@ -270,7 +272,7 @@ const content: FreelanceContent = {
         "<strong>Clear answers:</strong> short paragraphs that state facts plainly are what AI Overviews and chat assistants tend to quote",
       ],
       after: [
-        `Local search for a Hyderabad business also depends on your Google Business Profile, and design helps there too: the same logo, colours and photos on the profile and the site look like one trustworthy business. Ongoing SEO work starts at ${P.seo} a month if you want it; our <a href='/seo-website-developer/'>SEO website developer</a> page explains how large page sets are structured, and the <a href='/local-seo-expert/'>local SEO expert</a> page covers Business Profile work.`,
+        `Local search for a Hyderabad business also depends on your Google Business Profile, and design helps there too: the same logo, colours and photos on the profile and the site look like one trustworthy business. Ongoing SEO work starts at ${P.seo} if you want it; our <a href='/seo-website-developer/'>SEO website developer</a> page explains how large page sets are structured, and the <a href='/local-seo-expert/'>local SEO expert</a> page covers Business Profile work.`,
       ],
     },
     {

@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Google Tag Manager setup",
   updated: "2026-09-25",
   meta: {
-    title: "Google Tag Manager Setup: Track WhatsApp, Calls, Forms",
+    title: "Google Tag Manager Setup: Track Calls & Forms (2026)",
     description: `Google Tag Manager setup done cleanly: GA4, Google Ads and Meta tags, WhatsApp, call and form triggers, tested in Preview. Care plans from ${P.care}.`,
     keywords: [
       "google tag manager setup", "GTM setup", "google tag manager setup service", "google tag manager installation",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "track phone calls google tag manager", "form submission tracking GTM", "GTM preview mode not working", "google tag manager consent mode",
       "google tag manager permissions", "GTM container audit", "google tag manager setup near me", "google tag manager setup Mumbai",
       "google tag manager setup Bangalore", "GTM setup kaise kare", "google tag manager for small business", "tag manager setup for lead generation",
+      "google tag manager setup company in India",
+      "best google tag manager setup in India",
     ],
   },
   hero: {

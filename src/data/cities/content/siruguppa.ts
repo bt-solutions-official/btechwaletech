@@ -5,9 +5,9 @@ const siruguppa: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 15.62, lng: 76.9 },
   meta: {
-    title: "IT Services in Siruguppa | Web, Apps & AI from ₹10,000",
+    title: "Siruguppa Website Design: Rice Mills & Paddy Trade",
     description:
-      "Websites, Android and iOS apps, Kannada local SEO and WhatsApp automation for Siruguppa rice mills, oil units, paddy traders, clinics and schools.",
+      "Siruguppa websites, Kannada SEO and WhatsApp tools for rice mills, edible oil factories, paddy agents, lorry owners and seed dealers. Sites from ₹10,000.",
     keywords: [
       "IT services in Siruguppa",
       "IT services team in Siruguppa",
@@ -29,6 +29,16 @@ const siruguppa: CityContent = {
       "Siruguppadalli website madisabeku",
       "ಸಿರುಗುಪ್ಪ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
       "paddy trader billing app Karnataka",
+      "Siruguppa website designer",
+      "web development company Siruguppa",
+      "hire freelance web developer Siruguppa",
+      "Ballari district SEO",
+      "website designer Ballari district",
+      "Karnataka SEO services",
+      "Siruguppa rice mills website",
+      "rice mills website design Siruguppa",
+      "Siruguppa edible oil factories website",
+      "edible oil factories website design Siruguppa",
     ],
   },
   hero: {

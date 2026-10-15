@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Website speed optimization freelancer",
   updated: "2026-09-24",
   meta: {
-    title: "Website Speed Optimization Freelancer: Core Web Vitals",
+    title: `Website Speed Optimization Freelancer: Cost & CWV`,
     description: `Website speed optimization freelancer in India: fix LCP, INP and CLS through images, JavaScript and hosting. Itemised quote; fast new sites from ${P.site}.`,
     keywords: [
       "website speed optimization freelancer", "website speed optimization freelancer India", "website speed optimization near me", "speed optimization freelancer for hire",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "improve LCP", "fix INP issues", "reduce CLS", "pagespeed insights score improve",
       "wordpress speed optimization freelancer", "woocommerce speed optimization", "site speed consultant", "page speed expert India",
       "hosting TTFB optimisation", "image optimization for website",
+      "hire website speed optimization freelancer", "freelance website speed optimization freelancer", "website speed optimization freelancer cost", "website speed optimization freelancer near me",
+      "best website speed optimization freelancer in India", "website speed optimization freelancer price", "website speed optimization freelancer charges",
     ],
   },
   hero: {
@@ -38,7 +40,7 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, about 2 working days"],
     ["Access needed", "Separate user, never your password"],
     ["Fast new site from", `${P.site} · ${P.siteUsd}`],
-    ["Ongoing care from", `${P.care} per month`],
+    ["Ongoing care from", `${P.care}`],
   ],
   stats: [
     { value: "3", label: "Core Web Vitals we fix: LCP, INP, CLS" },
@@ -59,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Quote", value: "Itemised per fix, about 2 working days" },
       { label: "Work happens on", value: "A staging copy, then live" },
       { label: "Proof", value: "Before and after reports, then 28-day field check" },
-      { label: "Ongoing monitoring", value: `From ${P.care} per month, optional` },
+      { label: "Ongoing monitoring", value: `From ${P.care}, optional` },
       { label: "Payment", value: "UPI or bank transfer; Wise, wire or PayPal abroad" },
     ],
   },
@@ -96,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "How a website speed optimization freelancer prices the work",
-    note: `Speed work on an existing site is quoted per fix, because two slow sites rarely share the same causes. After a short review of field data and page traces, the quote lists each item: image pipeline, script changes, font loading, caching, hosting move, template fixes. You can approve some lines now and others later. If the site is so tangled that fixing costs more than rebuilding, we say so and point to the plans: a fast static site from ${P.site}, an SEO site from ${P.seoSite}, or a store from ${P.shop}. Ongoing monitoring runs from ${P.care} per month.`,
+    note: `Speed work on an existing site is quoted per fix, because two slow sites rarely share the same causes. After a short review of field data and page traces, the quote lists each item: image pipeline, script changes, font loading, caching, hosting move, template fixes. You can approve some lines now and others later. If the site is so tangled that fixing costs more than rebuilding, we say so and point to the plans: a fast static site from ${P.site}, an SEO site from ${P.seoSite}, or a store from ${P.shop}. Ongoing monitoring runs from ${P.care}.`,
   },
   guideLabel: "Website speed optimization guide",
   guide: [
@@ -217,7 +219,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Core Web Vitals are part of Google’s page experience signals, but relevance and content quality weigh far more. Faster pages rarely jump positions on speed alone. What speed does reliably is keep visitors from leaving, which improves enquiries and sales from the traffic you already have.`,
         `Where speed helps search most: when two pages are similarly relevant, when slow pages hurt crawl efficiency on large sites, and when poor mobile experience drives visitors straight back to results. We are honest about this. Nobody can guarantee rankings, and a freelancer who links a speed job to a promised position is overselling.`,
-        `If search growth is the real goal, speed is one line in a larger plan that includes content, structure and links. Our <a href='/freelance-seo-expert/'>SEO</a> work starts at ${P.seo} per month, with Search Console reports you can check yourself.`,
+        `If search growth is the real goal, speed is one line in a larger plan that includes content, structure and links. Our <a href='/freelance-seo-expert/'>SEO</a> work starts at ${P.seo}, with Search Console reports you can check yourself.`,
       ],
     },
     {

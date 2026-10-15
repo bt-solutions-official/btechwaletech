@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "property listing website development", "real estate portal development", "RERA compliant website", "project microsite for builders",
       "real estate lead generation website", "property portal website development", "freelance real estate web developer", "real estate website with CRM",
       "rental property website", "plot and land sale website",
+      "hire real estate website developer", "freelance real estate website developer", "real estate website developer cost", "best real estate website developer in India",
+      "real estate website developer price", "real estate website developer charges",
     ],
   },
   hero: {
@@ -60,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Portal with owner and agent logins", value: `From ${P.software}, 6–12 weeks` },
       { label: "Lead handling", value: "Form, call and WhatsApp leads logged with source" },
       { label: "Compliance display", value: "RERA number and authority link on project pages" },
-      { label: "Care", value: `2 months free, then from ${P.care} a month` },
+      { label: "Care", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -373,7 +375,7 @@ const content: FreelanceContent = {
     { question: "Who owns my property website and lead data?", answer: "You do. With BtechWaleTech the domain, hosting, source code, listing data and every lead are held in accounts in your name. Staff have individual logins you can disable when they leave, and leads can be exported at any time. Any other developer can take over the site later without rebuilding it." },
     { question: "Can I also get a real estate app?", answer: `Yes. We build Android and iOS apps from ${P.app} for buyers browsing listings or for your field sales team logging site visits. The app shares the same listings and lead database as the website, so inventory updates once and appears everywhere.` },
     { question: "How do I pay for a real estate website?", answer: "After you approve an itemised written quote, payment is made in stages tied to work you can see on staging links. Clients in India pay by UPI or bank transfer; NRI and overseas clients use Wise, bank wire or PayPal. Nothing is billed before written approval, and our terms and refund policy pages explain the details." },
-    { question: "What maintenance does a property website need?", answer: `Regular backups, security and software updates, fixing broken listings or forms, removing expired listings, checking lead alerts, and watching Search Console for errors. BtechWaleTech covers the first two months after launch free. After that, maintenance plans start at ${P.care} a month, or your team can manage routine updates through the admin panel.` },
+    { question: "What maintenance does a property website need?", answer: `Regular backups, security and software updates, fixing broken listings or forms, removing expired listings, checking lead alerts, and watching Search Console for errors. BtechWaleTech covers the first two months after launch free. After that, maintenance plans start at ${P.care}, or your team can manage routine updates through the admin panel.` },
     { question: "Property website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath builder ya broker website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban sakti hai. Locality pages wali SEO website ${P.seoSite} se aur owners-agents ke login wala portal ${P.software} se shuru hota hai. Har enquiry sales team ke WhatsApp par aati hai, aur sab accounts aapke naam par rehte hain.` },
     { question: "Can a remote developer build a website for my local property business?", answer: "Yes. Everything a property website needs, from inventory data and photos to lead routing tests, happens online through staging links, WhatsApp and video calls. We do not visit sites or shoot photos ourselves, so you or a local photographer supply images and walkthrough videos, and we make sure they load quickly and look good." },
   ],

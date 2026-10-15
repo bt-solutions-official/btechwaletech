@@ -34,7 +34,7 @@ const content: FreelanceContent = {
   facts: [
     ["Meeting", "Findings walked through in person, at your unit or office"],
     ["Audit price", "Quoted by site size after a first look"],
-    ["Fixes from", `${P.seo} a month, or by your own developer`],
+    ["Fixes from", `${P.seo}, or by your own developer`],
     ["Report language", "English, explained in Hindi if you prefer"],
     ["Payment", "INR · UPI or bank transfer"],
     ["Turnaround", "About 1–3 weeks, by site size"],
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "What it covers", value: "Technical, content, local, links, speed and AI-search readiness" },
       { label: "Deliverable", value: "Written report, URL-level spreadsheet, ranked fix list" },
       { label: "Walkthrough", value: "One to one in Bhiwadi, with your team and your developer" },
-      { label: "Price", value: `Audit quoted by site size; fixes from ${P.seo} a month` },
+      { label: "Price", value: `Audit quoted by site size; fixes from ${P.seo}` },
       { label: "Time", value: "Roughly 1–3 weeks from access to report" },
       { label: "Ownership", value: "The report and all data are yours to keep and share" },
     ],

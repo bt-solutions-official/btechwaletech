@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Portfolio Website Developer: Sites from ${P.site}`,
-    description: `Portfolio website developer for designers, photographers and job seekers. Fast galleries, case studies, your own domain. Portfolios from ${P.site}, live in 1–2 weeks.`,
+    description: `Portfolio website developer for designers, photographers and job seekers: fast galleries, case studies, your own domain. From ${P.site} in 1-2 weeks.`,
     keywords: [
       "portfolio website developer", "portfolio website developer India", "portfolio website developer near me", "portfolio website developer for hire",
       "portfolio website cost", "portfolio website price India", "best portfolio website developer", "portfolio website banwana hai",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "architect portfolio website", "portfolio website for job seekers", "personal portfolio website design", "custom portfolio website",
       "portfolio website with own domain", "UI UX designer portfolio website", "video editor portfolio website", "portfolio website for students",
       "wedding photographer website", "freelance portfolio website designer",
+      "hire portfolio website developer", "freelance portfolio website developer", "portfolio website developer cost", "best portfolio website developer in India",
+      "portfolio website developer price", "portfolio website developer charges",
     ],
   },
   hero: {
@@ -60,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Selling prints or presets", value: `Online store from ${P.shop}` },
       { label: "Domain and hosting", value: "In your name; static hosting is low cost" },
       { label: "Updates", value: "Free for two months, then optional" },
-      { label: "Maintenance later", value: `From ${P.care} a month, if you want it` },
+      { label: "Maintenance later", value: `From ${P.care}, if you want it` },
     ],
   },
   services: {
@@ -75,7 +77,7 @@ const content: FreelanceContent = {
       { name: "Portfolio with a print or preset shop", note: `Sell prints, presets, templates or courses with UPI and card checkout, from ${P.shop}.`, href: "/freelance-ecommerce-developer/", size: "md" },
       { name: "Portfolio with a blog", note: "Write about your process to be found in search. Posts can be edited by you through a simple dashboard.", href: "/blog-website-developer/", size: "sm" },
       { name: "Redesign of an old portfolio", note: "Move off a slow template or builder to a site you own, keeping links that clients already have.", href: "/wix-to-custom-website/", size: "sm" },
-      { name: "SEO for creatives", note: `Show up for “wedding photographer in your city” style searches, from ${P.seo} a month. No ranking promises.`, href: "/freelance-seo-expert/", size: "sm" },
+      { name: "SEO for creatives", note: `Show up for “wedding photographer in your city” style searches, from ${P.seo}. No ranking promises.`, href: "/freelance-seo-expert/", size: "sm" },
     ],
   },
   comparison: {

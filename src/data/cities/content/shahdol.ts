@@ -7,7 +7,7 @@ const shahdol: CityContent = {
   meta: {
     title: "IT Services in Shahdol: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Shahdol shops, hospitals, colleges and coal-belt suppliers. Starting prices, no lock-in.",
+      "Websites, apps, local SEO and WhatsApp automation for Shahdol shops, hospitals, colleges and coal-belt suppliers. From ₹10,000, 2 months free upkeep.",
     keywords: [
       "IT services in Shahdol",
       "IT services team in Shahdol",
@@ -29,6 +29,12 @@ const shahdol: CityContent = {
       "hospital website Shahdol",
       "coaching institute website Shahdol",
       "शहडोल वेबसाइट डिज़ाइन",
+      "Shahdol website designer",
+      "web development company Shahdol",
+      "hire freelance web developer Shahdol",
+      "Madhya Pradesh SEO services",
+      "Shahdol me website kaise banwaye",
+      "Shahdol website banwane ka kharcha",
     ],
   },
   hero: {

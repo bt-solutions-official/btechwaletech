@@ -7,7 +7,7 @@ const bengaluru: CityContent = {
   meta: {
     title: "IT Services in Bengaluru: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, SaaS landing pages, online stores and AI automation for Bengaluru startups and local businesses. From ₹10,000 with 2 months free maintenance.",
+      "Bengaluru websites, SEO, SaaS landing pages, online stores and AI automation for startups and local businesses. From ₹10,000 with 2 months free maintenance.",
     keywords: [
       "website development team in Bengaluru",
       "website development team in Bangalore",
@@ -24,6 +24,15 @@ const bengaluru: CityContent = {
       "website maintenance Bangalore",
       "Bengaluru website maadisoke eshtu kharchu",
       "ಬೆಂಗಳೂರು ವೆಬ್‌ಸೈಟ್ ವಿನ್ಯಾಸ",
+      "Bengaluru website designer",
+      "website cost in Bengaluru",
+      "web development company Bengaluru",
+      "hire freelance developer Bengaluru",
+      "Karnataka SEO",
+      "website for saaS and startups in Bengaluru",
+      "web designer in Electronic City, Bengaluru",
+      "website for precision engineering in Bengaluru",
+      "mobile app developer in Bengaluru",
     ],
   },
   hero: {

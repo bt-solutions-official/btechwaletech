@@ -7,7 +7,7 @@ const paramakudi: CityContent = {
   meta: {
     title: "IT Services in Paramakudi | Web, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, Tamil local SEO and WhatsApp automation for Paramakudi saree weavers, chilli traders, shops and clinics. Websites from ₹10,000.",
+      "Websites, apps, Tamil local SEO and WhatsApp automation for Paramakudi saree weavers, chilli traders, shops and clinics. Websites from ₹10,000.",
     keywords: [
       "IT services in Paramakudi",
       "IT services team in Paramakudi",
@@ -29,6 +29,12 @@ const paramakudi: CityContent = {
       "Paramakudi la website seiya evvalavu aagum",
       "பரமக்குடி இணையதள வடிவமைப்பு",
       "Paramakudi me website banwana",
+      "Paramakudi website designer",
+      "web development company Paramakudi",
+      "hire freelance web developer Paramakudi",
+      "Tamil Nadu SEO services",
+      "Paramakudi handloom saree weavers website",
+      "handloom saree weavers website design Paramakudi",
     ],
   },
   hero: {

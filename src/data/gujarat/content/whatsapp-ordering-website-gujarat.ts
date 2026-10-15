@@ -415,6 +415,7 @@ const content: FreelanceContent = {
     heading: "More Gujarat website guides",
     links: [
       { name: "All website services in Gujarat", href: "/gujarat/" },
+      { name: "Restaurant website in Surat", href: "/gujarat/restaurant-website-surat/" },
       { name: "Ecommerce website development in Gujarat", href: "/gujarat/ecommerce-website-development-gujarat/" },
       { name: "Small business website in Gujarat", href: "/gujarat/small-business-website-gujarat/" },
       { name: "Shopify developer in Gujarat", href: "/gujarat/shopify-developer-gujarat/" },

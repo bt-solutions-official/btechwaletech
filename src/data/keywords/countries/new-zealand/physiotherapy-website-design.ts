@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: "Physiotherapy Website Design NZ: ACC-Ready, Bookable",
-    description: `Physiotherapy website design for ACC-registered NZ clinics: clear ACC cost pages, Cliniko or Gensolve booking, Board-registered profiles, ASA-safe copy. From ${P.site}.`,
+    description: `Physiotherapy website design for ACC-registered NZ clinics: ACC cost pages, Cliniko or Gensolve booking, registered profiles, ASA-safe copy. From ${P.site}.`,
     keywords: [
       "physiotherapy website design", "physiotherapy website design nz", "physio website design", "physio clinic website",
       "physiotherapy clinic website nz", "website for physiotherapists", "acc physio website", "physio website with online booking",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "physiotherapy board registration on website", "asa therapeutic and health advertising code physio", "physio website designer near me",
       "physio website auckland", "physio website christchurch", "physio website wellington", "physio website hamilton",
       "sports physio website", "pelvic health physio website", "physio clinic web design",
+      "hire physiotherapy website design in New Zealand", "freelance physiotherapy website design New Zealand", "physiotherapy website design New Zealand",
     ],
   },
   hero: {

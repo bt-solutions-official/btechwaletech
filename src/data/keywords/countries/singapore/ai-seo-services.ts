@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "ai search optimisation cost singapore", "how much does ai seo cost", "is ai seo different from seo", "track ai citations",
       "ai seo for small business singapore", "ai seo near me", "oai-searchbot robots.txt", "ai seo for clinics singapore",
       "ai seo for b2b singapore", "ai seo services orchard", "ai seo services one-north",
+      "hire ai seo services in Singapore", "freelance ai seo services Singapore",
     ],
   },
   hero: {
@@ -46,7 +47,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What do AI SEO services in Singapore actually do?",
-    text: `AI SEO services in Singapore make your website a source that AI search tools can find, understand and quote: pages that answer the question in the first lines, schema that states who you are, crawler access for Google, OpenAI and Perplexity, and a log of which Singapore queries cite you. BtechWaleTech offers this from ${P.seo} a month, on top of solid technical SEO.`,
+    text: `AI SEO services in Singapore make your website a source that AI search tools can find, understand and quote: pages that answer the question in the first lines, schema that states who you are, crawler access for Google, OpenAI and Perplexity, and a log of which Singapore queries cite you. BtechWaleTech offers this from ${P.seo}, on top of solid technical SEO.`,
     more: `Agencies can resell this under their own name through our <a href='/singapore/white-label-seo/'>white label SEO service</a>. If your current site is too dated to fix, start with a <a href='/singapore/website-revamp/'>website revamp</a>.`,
   },
   snapshot: {
@@ -58,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Entity work", value: "Organization, LocalBusiness and service schema that match your real details" },
       { label: "Access", value: "robots.txt reviewed for Googlebot, OAI-SearchBot and PerplexityBot" },
       { label: "Measurement", value: "Monthly citation log for Singapore prompts, plus GA4 referrals" },
-      { label: "Starting price", value: `From ${P.seo} a month` },
+      { label: "Starting price", value: `From ${P.seo}` },
     ],
   },
   services: {
@@ -88,13 +89,13 @@ const content: FreelanceContent = {
       ["Risk of thin content", "Low to medium", "High if published unreviewed", "Low: fewer, better pages reviewed by you"],
       ["Measurement", "Rank tracking", "Word counts", "Citation log for Singapore prompts plus Search Console"],
       ["Fixes in code", "Depends on provider", "None", "Done directly by developers"],
-      ["Starting cost", "Varies widely", "Low monthly subscription", `From ${P.seo} a month`],
+      ["Starting cost", "Varies widely", "Low monthly subscription", `From ${P.seo}`],
     ],
     fine: "No provider controls which sources an AI answer uses; AI SEO improves the odds that your pages are chosen, it does not promise citations.",
   },
   pricing: {
     heading: "AI SEO services pricing",
-    note: `AI SEO work starts at ${P.seo} a month and covers a set number of pages restructured, schema upkeep, crawler access checks and a monthly citation log for an agreed prompt list. Sites with many services, outlets or products are quoted higher because more pages need answer-first rework. A one-off AI search audit is quoted per site after a quick look. If your site hides content in scripts or cannot be edited sensibly, a rebuild starts at ${P.site}, content-heavy sites at ${P.seoSite} and online stores at ${P.shop}. Quotes are in USD, itemised, and nothing is billed before you approve them in writing.`,
+    note: `AI SEO work starts at ${P.seo} and covers a set number of pages restructured, schema upkeep, crawler access checks and a monthly citation log for an agreed prompt list. Sites with many services, outlets or products are quoted higher because more pages need answer-first rework. A one-off AI search audit is quoted per site after a quick look. If your site hides content in scripts or cannot be edited sensibly, a rebuild starts at ${P.site}, content-heavy sites at ${P.seoSite} and online stores at ${P.shop}. Quotes are in USD, itemised, and nothing is billed before you approve them in writing.`,
   },
   guideLabel: "AI SEO services Singapore guide",
   guide: [
@@ -200,7 +201,7 @@ const content: FreelanceContent = {
       id: "costs",
       heading: "How much do AI SEO services cost in Singapore?",
       paragraphs: [
-        `Our AI SEO work starts at ${P.seo} a month, and a one-off AI search audit is quoted per site. Quotes from providers vary widely, and the difference is mostly how many pages are reworked each month, whether code changes are included and whether the provider tracks citations at all.`,
+        `Our AI SEO work starts at ${P.seo}, and a one-off AI search audit is quoted per site. Quotes from providers vary widely, and the difference is mostly how many pages are reworked each month, whether code changes are included and whether the provider tracks citations at all.`,
         `Four drivers shape the number. The size of the site, since a fifty-service professional firm needs far more answer-first rework than a five-page consultancy. The state of the technical foundation: if the site renders content with heavy scripts or cannot be indexed properly, fixing that comes first. Content input: pages based on your real expertise need your time for a short interview or review, while pages we can draft from existing material move faster. And tracking scope: a prompt list of twenty is lighter than one of sixty across several languages.`,
         `Where the current site is the obstacle, a rebuild can cost less over a year than months of patching. Rebuilds start at ${P.site} for smaller sites and ${P.seoSite} for large content sites. Our <a href='/singapore/seo-cost/'>SEO cost guide for Singapore</a> explains how monthly SEO budgets are usually split, and the <a href='/pricing/'>pricing page</a> lists every starting price.`,
       ],

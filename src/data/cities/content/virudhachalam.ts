@@ -7,7 +7,7 @@ const virudhachalam: CityContent = {
   meta: {
     title: "IT Services in Virudhachalam: Websites, Apps, SEO & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Virudhachalam ceramic and refractory units, cashew traders, colleges and shops.",
+      "Tamil websites, apps, local SEO and WhatsApp automation for Virudhachalam ceramic and refractory units, cashew traders, colleges and shops. From ₹10,000.",
     keywords: [
       "IT services in Virudhachalam",
       "IT services team in Virudhachalam",
@@ -29,6 +29,12 @@ const virudhachalam: CityContent = {
       "Virudhachalam la website seiya evvalavu",
       "விருத்தாசலம் இணையதள வடிவமைப்பு",
       "Vriddhachalam app development",
+      "Virudhachalam website designer",
+      "web development company Virudhachalam",
+      "hire freelance web developer Virudhachalam",
+      "Cuddalore district SEO",
+      "website designer Cuddalore district",
+      "Tamil Nadu SEO services",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const asansol: CityContent = {
   meta: {
     title: "Web Design & SEO for Asansol Businesses | From ₹10,000",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Asansol, Burnpur, Kulti and Raniganj firms. From ₹10,000, with 2 months of free maintenance.",
+      "Asansol, Burnpur, Kulti and Raniganj websites, local SEO, online stores and WhatsApp automation. From ₹10,000, with 2 months of free maintenance.",
     keywords: [
       "website development team in Asansol",
       "web designer Asansol",
@@ -25,6 +25,14 @@ const asansol: CityContent = {
       "website Burnpur Kulti Raniganj",
       "Asansol e website banate koto khoroch",
       "আসানসোলে ওয়েবসাইট তৈরি",
+      "Asansol website designer",
+      "website cost in Asansol",
+      "web development company Asansol",
+      "hire freelance developer Asansol",
+      "West Bengal SEO",
+      "website for steel and engineering suppliers in Asansol",
+      "web designer in Chelidanga, Asansol",
+      "website for coal trade and transport in Asansol",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const kurnool: CityContent = {
   meta: {
     title: "Kurnool Website Developers | Telugu SEO from ₹10,000",
     description:
-      "Websites, Telugu and English SEO, UPI stores and WhatsApp automation for Kurnool traders, clinics, colleges and Orvakal suppliers. From ₹10,000 with free upkeep.",
+      "Kurnool websites, Telugu and English SEO, UPI stores and WhatsApp bots for traders, clinics, colleges and Orvakal suppliers. From ₹10,000 with free upkeep.",
     keywords: [
       "website development team in Kurnool",
       "web design Kurnool",
@@ -25,6 +25,14 @@ const kurnool: CityContent = {
       "Rayalaseema web developer",
       "Kurnool lo website design",
       "కర్నూలు వెబ్‌సైట్ డిజైన్",
+      "Kurnool website designer",
+      "web development company Kurnool",
+      "hire freelance developer Kurnool",
+      "Andhra Pradesh SEO",
+      "website for hospitals and diagnostics in Kurnool",
+      "web designer in Budhwarpet, Kurnool",
+      "website for colleges and coaching in Kurnool",
+      "mobile app developer in Kurnool",
     ],
   },
   hero: {

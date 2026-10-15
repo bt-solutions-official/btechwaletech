@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "power bi data modelling", "power bi vs looker studio", "looker studio consultant", "how much does a power bi consultant cost",
       "do i need a power bi consultant", "freelance power bi consultant", "power bi kpi dashboard", "excel to power bi",
       "power bi for accountants", "remote power bi consultant",
+      "hire power bi consultant in Australia",
     ],
   },
   hero: {

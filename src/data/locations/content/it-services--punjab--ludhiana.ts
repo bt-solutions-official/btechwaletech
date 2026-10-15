@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 30.901, lng: 75.8573 },
   meta: {
-    title: "Freelance Software Developers in Ludhiana, Punjab",
+    title: "Ludhiana, Punjab Software Developers: Hosiery & Woollens",
     description:
       "Freelance software developers in Ludhiana for order, stock and dispatch software, dealer apps, WhatsApp AI agents and dashboards. Software from ₹60,000.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "Ludhiana vich software banaun wale",
       "ਲੁਧਿਆਣਾ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਰ",
       "लुधियाना में सॉफ्टवेयर डेवलपर",
+      "Ludhiana website designer",
+      "website cost in Ludhiana",
+      "IT company in Ludhiana",
+      "Punjab SEO services",
+      "hire developer Ludhiana",
+      "hosiery software in Ludhiana",
+      "woollens software in Ludhiana",
     ],
   },
   hero: {

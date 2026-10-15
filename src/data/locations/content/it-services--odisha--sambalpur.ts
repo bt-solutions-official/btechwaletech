@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 21.4669, lng: 83.9812 },
   meta: {
-    title: "Freelance Software & Automation Developers, Sambalpur",
+    title: "Sambalpur Software & Automation: Rice Mills & Handloom",
     description:
       "Comparing software development companies in Sambalpur? Hire freelance engineers for rice mill and weaver software, automation, apps and SEO. From ₹10,000.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT services near Golebazar Sambalpur",
       "hostel management software Burla",
       "ସମ୍ବଲପୁରରେ ସଫ୍ଟୱେର ଡେଭଲପର",
+      "Sambalpur website designer",
+      "website cost in Sambalpur",
+      "IT company in Sambalpur",
+      "Odisha SEO services",
+      "hire developer Sambalpur",
+      "rice milling software in Sambalpur",
+      "handloom software in Sambalpur",
+      "contractors software in Sambalpur",
+      "education software in Sambalpur",
+      "website developer Golebazar Sambalpur",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const sambhal: CityContent = {
   meta: {
     title: "IT Services in Sambhal: Websites, Apps, SEO & AI",
     description:
-      "Websites, Hindi SEO, export catalogues and WhatsApp automation for Sambhal's horn and bone craft, mentha oil, potato and retail businesses. Sites from ₹10,000.",
+      "Websites, Hindi SEO, catalogues and WhatsApp tools for Sambhal's horn and bone craft, mentha oil, potato and retail businesses. Websites from ₹10,000.",
     keywords: [
       "website development team in Sambhal",
       "web designer Sambhal",
@@ -25,6 +25,16 @@ const sambhal: CityContent = {
       "website maintenance Sambhal",
       "Sambhal me website kaise banwaye",
       "संभल वेबसाइट डिज़ाइन",
+      "Sambhal website designer",
+      "web development company Sambhal",
+      "hire freelance web developer Sambhal",
+      "Uttar Pradesh SEO services",
+      "Sambhal website banwane ka kharcha",
+      "Sambhal potato cold stores website",
+      "potato cold stores website design Sambhal",
+      "website design Sarai Tarin Sambhal",
+      "website design Chandausi Chauraha Sambhal",
+      "website design Chaudhary Sarai Sambhal",
     ],
   },
   hero: {

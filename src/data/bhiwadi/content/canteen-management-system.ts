@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-27",
   meta: {
     title: "Canteen Management System in Bhiwadi: Meet in Person",
-    description: `Canteen management system in Bhiwadi: QR or card meals, coupon control, contractor billing and meal forecasts, from ${P.software}. We meet you one to one at your plant.`,
+    description: `Canteen management system in Bhiwadi: QR or card meals, coupon control, contractor billing and meal forecasts, from ${P.software}. We meet you at your plant.`,
     keywords: [
       "canteen management system in Bhiwadi", "canteen management system", "canteen management system near me",
       "factory canteen software Bhiwadi", "canteen management system in Bhiwadi Rajasthan", "canteen software Bhiwadi Alwar",

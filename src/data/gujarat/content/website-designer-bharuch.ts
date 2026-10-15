@@ -236,7 +236,7 @@ const content: FreelanceContent = {
         `Yes, more than many designers admit. Search engines reward pages that load fast, read clearly and answer specific questions, and those are design decisions as much as technical ones. No designer, and nobody else, can guarantee rankings.`,
         `The design choices that help: one clear H1 per page, logical heading order, real text rather than text baked into images, descriptive alt text on photos, compressed images in modern formats, and limited web fonts. Layouts should keep Core Web Vitals healthy, which means reserving space for images so nothing jumps while the page loads.`,
         `Locally, your Google Business Profile needs the same photos, name and hours as the website. Profiles with real photos of the premises usually look more trustworthy than those with logos alone. AI assistants and Google's AI Overviews tend to quote short, self-contained answers and clean tables, so we design FAQ blocks and spec tables to be easy to read for people and machines alike.`,
-        `Ongoing work is optional, through <a href='/services/seo-services/'>SEO services</a> from ${P.seo} a month.`,
+        `Ongoing work is optional, through <a href='/services/seo-services/'>SEO services</a> from ${P.seo}.`,
       ],
     },
     {

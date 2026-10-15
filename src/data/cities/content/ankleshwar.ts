@@ -7,7 +7,7 @@ const ankleshwar: CityContent = {
   meta: {
     title: "IT Services in Ankleshwar: Web, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, SEO and AI automation for Ankleshwar GIDC chemical and pharma units, their vendors, transporters, clinics, schools and shops.",
+      "Ankleshwar websites, Android and iOS apps, SEO and AI automation for GIDC chemical and pharma units, their vendors, transporters, clinics, schools and shops.",
     keywords: [
       "IT services in Ankleshwar",
       "IT services team in Ankleshwar",
@@ -29,6 +29,10 @@ const ankleshwar: CityContent = {
       "Ankleshwar me website banwana",
       "Ankleshwar ma website banavvi che",
       "અંકલેશ્વર વેબસાઇટ ડિઝાઇન",
+      "Ankleshwar website designer",
+      "web development company Ankleshwar",
+      "hire freelance developer Ankleshwar",
+      "Gujarat SEO",
     ],
   },
   hero: {

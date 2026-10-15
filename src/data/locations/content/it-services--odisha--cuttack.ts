@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 20.4625, lng: 85.883 },
   meta: {
-    title: "Freelance Software & App Developers in Cuttack",
+    title: "Cuttack App & Software Developers: Wholesale Trade",
     description:
       "Looking for a software development team in Cuttack? Hire freelance engineers for distributor software, case tools, apps, AI and SEO. From ₹10,000.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT services near Link Road Cuttack",
       "silver filigree online store",
       "କଟକରେ ସଫ୍ଟୱେର କମ୍ପାନୀ",
+      "Cuttack website designer",
+      "website cost in Cuttack",
+      "IT company in Cuttack",
+      "Odisha SEO services",
+      "hire developer Cuttack",
+      "wholesale software in Cuttack",
+      "legal practice software in Cuttack",
+      "healthcare software in Cuttack",
+      "pharmacies software in Cuttack",
+      "website developer Buxi Bazaar Cuttack",
     ],
   },
   hero: {

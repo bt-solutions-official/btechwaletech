@@ -7,7 +7,7 @@ const karimnagar: CityContent = {
   meta: {
     title: "Karimnagar Websites & SEO | Granite, Filigree, Clinics",
     description:
-      "Websites, Telugu and English local SEO, and WhatsApp automation for Karimnagar granite exporters, filigree artisans, hospitals and colleges. From ₹10,000.",
+      "Karimnagar websites, Telugu and English local SEO, and WhatsApp automation for granite exporters, filigree artisans, hospitals and colleges. From ₹10,000.",
     keywords: [
       "website development team in Karimnagar",
       "web designer Karimnagar",
@@ -25,6 +25,14 @@ const karimnagar: CityContent = {
       "website design Huzurabad",
       "website design Jammikunta",
       "కరీంనగర్ వెబ్‌సైట్ డిజైన్",
+      "Karimnagar website designer",
+      "website cost in Karimnagar",
+      "web development company Karimnagar",
+      "hire freelance developer Karimnagar",
+      "Telangana SEO",
+      "website for granite quarries and processors in Karimnagar",
+      "web designer in Tower Circle, Karimnagar",
+      "website for silver filigree artisans in Karimnagar",
     ],
   },
   hero: {

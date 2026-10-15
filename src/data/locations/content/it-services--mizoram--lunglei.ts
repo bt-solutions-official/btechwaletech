@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 22.8826, lng: 92.7342 },
   meta: {
-    title: "Freelance Software & App Developers in Lunglei",
+    title: "Lunglei App & Software Developers: Schools & Hospitals",
     description:
-      "Freelance software and app developers for Lunglei and south Mizoram: custom software, mobile sites, contact flows, AI automation, dashboards and SEO. From ₹10,000.",
+      "Freelance software and app developers for Lunglei and south Mizoram: custom software, mobile sites, contact flows and AI automation. From ₹10,000.",
     keywords: [
       "Android app development Lunglei",
       "iOS app development Lunglei",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "dashboard software Mizoram district office",
       "Lunglei-ah website siamtu",
       "Lunglei mein app developer",
+      "Lunglei website designer",
+      "website cost in Lunglei",
+      "IT company in Lunglei",
+      "Mizoram SEO services",
+      "hire developer Lunglei",
+      "schools software in Lunglei",
+      "hospitals software in Lunglei",
+      "churches software in Lunglei",
     ],
   },
   hero: {

@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 31.634, lng: 74.8723 },
   meta: {
-    title: "Freelance Software & App Developers in Amritsar",
+    title: "Amritsar Software Developers: Hotels, Taxis & Basmati",
     description:
-      "Freelance software developers in Amritsar for hotel systems, taxi dispatch, exporter CRMs, food-brand stores and WhatsApp AI agents. Software from ₹60,000.",
+      "Amritsar software developers for Golden Temple hotels, taxi desks, basmati exporters and Hall Bazaar traders. Apps from ₹40,000, quote in two days.",
     keywords: [
       "Android app development Amritsar",
       "iOS app development Amritsar",
@@ -18,7 +18,7 @@ const content: CityContent = {
       "freelance software developer Amritsar",
       "hotel management software Amritsar",
       "taxi booking software Amritsar",
-            "AI chatbot for hotels Amritsar",
+      "AI chatbot for hotels Amritsar",
       "WhatsApp automation Amritsar",
       "basmati exporter CRM Punjab",
       "food brand ecommerce Amritsar",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "NRI property management portal Punjab",
       "Amritsar vich app banaun wale",
       "ਅੰਮ੍ਰਿਤਸਰ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਰ",
+      "Amritsar website designer",
+      "website cost in Amritsar",
+      "IT company in Amritsar",
+      "Punjab SEO services",
+      "hire developer Amritsar",
+      "hotels software in Amritsar",
+      "taxi software in Amritsar",
+      "basmati software in Amritsar",
+      "dry fruit software in Amritsar",
     ],
   },
   hero: {
@@ -264,7 +273,7 @@ const content: CityContent = {
     {
       question: "How do we pay for the project?",
       answer:
-        "Payment is accepted only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. We do not send third-party payment links. Projects are split into milestones, and each milestone is paid only after you have reviewed the working software on a preview link.",
+        "Payment is accepted only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. We do not send third-party payment links. Golden Temple-area hotels, taxi desks, basmati exporters and Hall Bazaar traders are all invoiced the same way. Projects are split into milestones, and each milestone is paid only after you have reviewed the working software on a preview link.",
     },
     {
       question: "Can guests pay a booking advance online?",

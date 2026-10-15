@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Developer in Chandigarh: Sites from ${P.site}`,
-    description: `Website developer in Chandigarh for consultancies, clinics, builders and shops: business sites from ${P.site}, built remotely on a live staging link. Quote in 2 days.`,
+    description: `Website developer in Chandigarh for consultancies, clinics, builders and shops: business sites from ${P.site}, on a staging link. Quote in 2 days.`,
     keywords: [
       "website developer in Chandigarh", "website developer Chandigarh", "website developer near me Chandigarh", "web developer in Chandigarh",
       "website development Chandigarh", "website development services Chandigarh", "freelance website developer Chandigarh", "website designer and developer Chandigarh",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Panchkula", "website developer Zirakpur", "business website Chandigarh", "immigration consultant website Chandigarh",
       "hospital website developer Chandigarh", "real estate website developer Chandigarh", "coaching institute website Chandigarh", "WordPress developer Chandigarh",
       "Chandigarh mein website kaise banwaye", "website banwani hai Chandigarh",
+      "website developer in Chandigarh cost", "website developer in Chandigarh price", "hire website developer in Chandigarh", "freelance website developer in Chandigarh",
+      "website developer in Chandigarh charges",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const dumraon: CityContent = {
   meta: {
     title: "IT Services in Dumraon | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi-first websites, Android and iOS apps, local SEO and WhatsApp automation for Dumraon rice traders, colleges, clinics and shops in Buxar district.",
+      "Dumraon Hindi-first websites, Android and iOS apps, local SEO and WhatsApp automation for rice traders, colleges, clinics and shops in Buxar district.",
     keywords: [
       "IT services in Dumraon",
       "IT services team in Dumraon",
@@ -29,6 +29,10 @@ const dumraon: CityContent = {
       "Dumraon me app banwana",
       "Buxar website kaise banaye",
       "डुमरांव वेबसाइट डिजाइन",
+      "Dumraon website designer",
+      "web development company Dumraon",
+      "hire freelance developer Dumraon",
+      "Bihar SEO",
     ],
   },
   hero: {

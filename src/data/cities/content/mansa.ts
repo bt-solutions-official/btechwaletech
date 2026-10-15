@@ -7,7 +7,7 @@ const mansa: CityContent = {
   meta: {
     title: "IT Services in Mansa | Web, Apps & AI from ₹10,000",
     description:
-      "Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Mansa cotton traders, arhtiyas, rice mills, clinics and coaching centres.",
+      "Punjabi and English websites, apps and SEO for Mansa cotton traders, arhtiyas, rice mills, clinics and coaching. Sites from ₹10,000, free upkeep for 2 months.",
     keywords: [
       "IT services in Mansa",
       "IT services team in Mansa",
@@ -29,6 +29,12 @@ const mansa: CityContent = {
       "Mansa me website banwana",
       "Mansa vich website banwao",
       "ਮਾਨਸਾ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Mansa website designer",
+      "web development company Mansa",
+      "hire freelance web developer Mansa",
+      "Punjab SEO services",
+      "Mansa me website kaise banwaye",
+      "Mansa website banwane ka kharcha",
     ],
   },
   hero: {

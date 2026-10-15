@@ -7,7 +7,7 @@ const latur: CityContent = {
   meta: {
     title: "IT Services in Latur: Websites, Apps, SEO & AI",
     description:
-      "Website design, Marathi-aware local SEO, WhatsApp automation and dealer software for Latur dal mills, soybean traders, coaching classes and clinics. From ₹10,000.",
+      "Latur web design, Marathi-aware local SEO, WhatsApp automation and dealer software for dal mills, soybean traders, coaching classes and clinics. From ₹10,000.",
     keywords: [
       "website development team in Latur",
       "website designer Latur",
@@ -24,6 +24,15 @@ const latur: CityContent = {
       "Latur madhye website banvaychi aahe",
       "लातूर वेबसाइट डिझाइन",
       "website banane wala Latur",
+      "Latur website designer",
+      "website cost in Latur",
+      "web development company Latur",
+      "hire freelance developer Latur",
+      "Maharashtra SEO",
+      "Latur me website kaise banwaye",
+      "website for dal mills and pulse processors in Latur",
+      "web designer in Ganj Golai, Latur",
+      "website for soybean and pulse traders in Latur",
     ],
   },
   hero: {

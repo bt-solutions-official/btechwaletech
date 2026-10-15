@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance SEO Expert in India | SEO from ${P.seo}`,
-    description: `Freelance SEO expert for technical fixes, on-page work, content and local SEO. Monthly SEO from ${P.seo}, Search Console reports, and no fake ranking promises.`,
+    description: `Freelance SEO expert for technical fixes, on-page work, content and local SEO. Search Console reports, no fake ranking promises. SEO from ${P.seo}.`,
     keywords: [
       "freelance seo expert", "freelance seo expert in India", "freelance seo expert near me", "freelance seo expert for hire",
       "freelance seo expert cost", "seo freelancer price India", "best freelance seo expert", "seo expert chahiye",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "on-page seo expert", "local seo freelancer", "seo content writer and strategist", "monthly seo services freelancer",
       "seo expert for small business", "google ranking expert freelance", "freelance seo specialist", "hire seo freelancer",
       "seo freelancer vs seo agency", "affordable seo expert India",
+      "hire freelance seo expert",
     ],
   },
   hero: {
@@ -89,7 +90,7 @@ const content: FreelanceContent = {
       ["Reporting", "Screenshots of rank tools", "Branded monthly deck", "Search Console access you own"],
       ["Contract", "Per gig", "Often 6–12 month lock-in", "Month to month"],
       ["Ranking promises", "Common", "Sometimes implied", "Never"],
-      ["Starting budget", "Varies widely", "Usually highest", `From ${P.seo} a month`],
+      ["Starting budget", "Varies widely", "Usually highest", `From ${P.seo}`],
       ["Website and apps too", "No", "Sometimes", "Yes, the same team builds sites and apps"],
     ],
     fine: "If you need large-scale digital PR, dozens of articles a week or a combined SEO and paid-media team, an agency with more people will cover more ground than a freelance SEO expert can.",
@@ -254,7 +255,7 @@ const content: FreelanceContent = {
       heading: "Freelance SEO expert services across India",
       paragraphs: [
         `SEO is remote work by nature: everything happens in your site, Search Console and business profile. We work with businesses in every state on the same terms, with calls on Google Meet or Zoom and updates on WhatsApp.`,
-        `City pages cover local search competition and business types: <a href='/gurgaon/'>Gurgaon</a>, <a href='/faridabad/'>Faridabad</a>, <a href='/nashik/'>Nashik</a>, <a href='/aurangabad/'>Aurangabad</a>, <a href='/hubli-dharwad/'>Hubli-Dharwad</a>, <a href='/vijayawada/'>Vijayawada</a>, <a href='/tiruchirappalli/'>Tiruchirappalli</a>, <a href='/kozhikode/'>Kozhikode</a>, <a href='/jalandhar/'>Jalandhar</a> and <a href='/meerut/'>Meerut</a>. Businesses outside India are billed in USD from ${P.seoUsd} a month through Wise, bank wire or PayPal; see <a href='/countries/'>countries we work with</a>.`,
+        `City pages cover local search competition and business types: <a href='/gurgaon/'>Gurgaon</a>, <a href='/faridabad/'>Faridabad</a>, <a href='/nashik/'>Nashik</a>, <a href='/aurangabad/'>Aurangabad</a>, <a href='/hubli-dharwad/'>Hubli-Dharwad</a>, <a href='/vijayawada/'>Vijayawada</a>, <a href='/tiruchirappalli/'>Tiruchirappalli</a>, <a href='/kozhikode/'>Kozhikode</a>, <a href='/jalandhar/'>Jalandhar</a> and <a href='/meerut/'>Meerut</a>. Businesses outside India are billed in USD from ${P.seoUsd} through Wise, bank wire or PayPal; see <a href='/countries/'>countries we work with</a>.`,
       ],
     },
     {
@@ -344,7 +345,7 @@ const content: FreelanceContent = {
       ["Fix the foundation", "Month one focuses on technical issues, Search Console setup, schema and the pages closest to ranking well."],
       ["Build pages and profiles", "Following months add improved or new pages, local profile updates and internal linking, based on what the data shows."],
       ["Report in plain language", "Each month you get a one-page summary from your own Search Console: work done, what moved and next month's plan."],
-      ["Stay or pause", "Plans run month to month. Continue from " + P.seo + " a month, reduce scope, or pause whenever it suits your business."],
+      ["Stay or pause", "Plans run month to month. Continue from " + P.seo + ", reduce scope, or pause whenever it suits your business."],
     ],
   },
   faqHeading: "Freelance SEO expert: questions people ask",
@@ -365,7 +366,7 @@ const content: FreelanceContent = {
     { question: "Can you do SEO for a Hindi or regional language website?", answer: "Yes. Pages in Hindi or regional languages can reach people who search in those languages, where competition is often lower. They need proper language tags, hreflang links between versions, and content written naturally for that audience rather than machine-translated without review." },
     { question: "Do I have to sign a long SEO contract?", answer: `Not with us. SEO plans run month to month from ${P.seo}, with written monthly deliverables. You can adjust scope or pause after any month. SEO does need a few months to show results, so we suggest judging progress after three months using the leading indicators in your Search Console reports.` },
     { question: "What access does a freelance SEO expert need?", answer: "Usually Google Search Console and analytics access as a user, Google Business Profile manager access for local work, and a way to edit the website, such as a CMS login or code repository. Accounts should stay in your name; add the freelancer as a user and remove them when work ends." },
-    { question: "Can you work on SEO for clients outside India?", answer: `Yes. We work with businesses in the USA, UK, Canada, Australia, the UAE and elsewhere, billed in USD from ${P.seoUsd} a month through Wise, bank wire or PayPal. International SEO, including hreflang for multiple countries or languages, is scoped per site.` },
+    { question: "Can you work on SEO for clients outside India?", answer: `Yes. We work with businesses in the USA, UK, Canada, Australia, the UAE and elsewhere, billed in USD from ${P.seoUsd} through Wise, bank wire or PayPal. International SEO, including hreflang for multiple countries or languages, is scoped per site.` },
     { question: "SEO expert se kaam karwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath monthly SEO ${P.seo} se shuru hota hai. Isme technical fixes, pages ka sudhaar, content planning aur Search Console report shaamil hai. Bade site ya zyada shehron ke liye kharcha badh sakta hai. Contract mahine dar mahine hai aur ranking ki jhoothi guarantee nahi di jaati.` },
     { question: "Should I redesign my website before starting SEO?", answer: `Only if the current site blocks progress, for example if it is very slow, not mobile-friendly or impossible to edit. Otherwise SEO can start on the existing site. If a rebuild is needed, a new static site starts from ${P.site} and an SEO website with 299+ pages from ${P.seoSite}, with redirects to protect existing traffic.` },
   ],

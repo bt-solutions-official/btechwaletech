@@ -7,7 +7,7 @@ const karur: CityContent = {
   meta: {
     title: "IT Services in Karur: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, SEO, export catalogues and WhatsApp automation for Karur home-textile exporters, bus body builders, net makers and shops.",
+      "Karur websites, Android and iOS apps, SEO, export catalogues and WhatsApp automation for home-textile exporters, bus body builders, net makers and shops.",
     keywords: [
       "IT services in Karur",
       "IT services team in Karur",
@@ -29,6 +29,10 @@ const karur: CityContent = {
       "Kulithalai website designer",
       "Karur la website panna evvalavu aagum",
       "கரூர் இணையதள வடிவமைப்பு",
+      "Karur website designer",
+      "web development company Karur",
+      "hire freelance developer Karur",
+      "Tamil Nadu SEO",
     ],
   },
   hero: {

@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "private chatgpt alternative for company", "open source llm hosting India", "llm on aws mumbai region", "llm on indian cloud",
       "private ai for business India", "secure llm deployment", "llm deployment services", "hire llm deployment engineer",
       "private llm deployment Mumbai", "private llm deployment Delhi", "private llm kaise lagaye",
+      "Private LLM deployment cost", "Private LLM deployment price", "Private LLM deployment company", "best Private LLM deployment in India",
+      "Private LLM deployment cost in India", "Private LLM deployment service",
     ],
   },
   hero: {
@@ -95,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Private LLM deployment pricing: setup, GPUs and upkeep",
-    note: `Private LLM deployment has three cost lines. Our setup work, covering model benchmarking, GPU sizing, network and inference server setup, security hardening and handover, starts at ${P.ai} (${P.aiUsd}) over 2–4 weeks. Internal applications on top, such as a staff chat portal with roles or document search across departments, start at ${P.software}. GPU rental or hardware is billed by your provider directly to you and is usually the largest ongoing line, so we size it carefully and show you the options before anything is launched. After two months of free maintenance, upkeep starts at ${P.care} a month if you want it. Quotes are itemised in about two working days.`,
+    note: `Private LLM deployment has three cost lines. Our setup work, covering model benchmarking, GPU sizing, network and inference server setup, security hardening and handover, starts at ${P.ai} (${P.aiUsd}) over 2–4 weeks. Internal applications on top, such as a staff chat portal with roles or document search across departments, start at ${P.software}. GPU rental or hardware is billed by your provider directly to you and is usually the largest ongoing line, so we size it carefully and show you the options before anything is launched. After two months of free maintenance, upkeep starts at ${P.care} if you want it. Quotes are itemised in about two working days.`,
   },
   guideLabel: "Private LLM deployment guide",
   guide: [
@@ -274,7 +276,7 @@ const content: FreelanceContent = {
         `After launch, a private LLM needs the same care as any production server, plus model-specific checks: GPU memory and utilisation, latency, error rates, and a periodic rerun of the quality test set. Someone must own it, and that owner should be in your organisation, with us as support.`,
         `Monitoring covers the basics every week: is the GPU saturated at peak hours, are requests queuing, are error rates rising, is disk filling with logs. Alerts go to your team and, during the maintenance period, to us.`,
         `New open models appear often, and some will be better or cheaper for your task. Because the test set and deployment are reusable, evaluating a new model is a short exercise rather than a project. Security patches for drivers, containers and the inference server should be applied on a schedule.`,
-        `Ownership is simple: the cloud account, infrastructure code, container images, configuration and documentation are yours from the start. At handover you receive runbooks for restarting, scaling, rotating keys and swapping models. Two months of free maintenance follow; after that, care starts at ${P.care} a month, only if you want it.`,
+        `Ownership is simple: the cloud account, infrastructure code, container images, configuration and documentation are yours from the start. At handover you receive runbooks for restarting, scaling, rotating keys and swapping models. Two months of free maintenance follow; after that, care starts at ${P.care}, only if you want it.`,
       ],
     },
     {
@@ -358,7 +360,7 @@ const content: FreelanceContent = {
         ["Private endpoint: model, GPU, network, vLLM, security", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Private endpoint plus document search", `From ${P.ai}`, `From ${P.aiUsd}`, "3–5 weeks"],
         ["Internal chat portal with roles and audit log", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
-        ["Care after 2 free months", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Monthly"],
+        ["Care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },

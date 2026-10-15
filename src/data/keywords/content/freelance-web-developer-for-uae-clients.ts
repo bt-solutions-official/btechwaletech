@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Freelance web developer for UAE clients",
   updated: "2026-09-24",
   meta: {
-    title: "Freelance Web Developer for UAE Clients: Arabic Sites",
+    title: `Freelance Web Developer for UAE Clients: ${P.siteUsd}+`,
     description: `Freelance web developer for UAE clients: Arabic and English sites with RTL layouts, WhatsApp-first contact and 1.5 hours’ time difference. From ${P.siteUsd}.`,
     keywords: [
       "freelance web developer for UAE clients", "freelance web developer Dubai", "freelance web developer Abu Dhabi", "web developer for hire UAE",
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Mobile app", note: `Android and iOS from one Flutter or React Native codebase with Arabic support, published on Google Play and the App Store, from ${P.appUsd}.`, href: "/it-services/android-ios-app/", size: "md" },
       { name: "WhatsApp automation", note: `Order updates, booking confirmations and lead replies through the WhatsApp Business Platform, from ${P.aiUsd}.`, href: "/whatsapp-automation-expert/", size: "sm" },
       { name: "Restaurant and hospitality sites", note: "Menus, reservations and delivery links for restaurants, cafés and hotels serving residents and tourists.", href: "/restaurant-website-developer/", size: "sm" },
-      { name: "Maintenance from India", note: `Updates, backups and edits after launch. Two months free, then from ${P.careUsd} a month.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance from India", note: `Updates, backups and edits after launch. Two months free, then from ${P.careUsd}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
       ["Kick-off on a video call", "A short Teams, Zoom or Meet call confirms structure, accounts in your company’s name and who is providing the Arabic text."],
       ["Review on staging", "English templates first, then the mirrored Arabic version, all on a private link you can check from your phone during UAE office hours."],
       ["Launch in both languages", "Domain, SSL, hreflang, Search Console and analytics go live together, with every login handed to your team."],
-      ["Free care, then optional support", `Two months of free edits and fixes after launch. After that, maintenance starts from ${P.careUsd} a month, only if you want it.`],
+      ["Free care, then optional support", `Two months of free edits and fixes after launch. After that, maintenance starts from ${P.careUsd}, only if you want it.`],
     ],
   },
   faqHeading: "Freelance web developer for UAE clients: common questions",

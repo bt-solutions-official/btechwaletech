@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "real estate seo australia", "real estate website design sydney", "real estate website design melbourne",
       "real estate website design brisbane", "real estate website design perth", "real estate website design gold coast",
       "do real estate agents need a website", "real estate website near me",
+      "hire real estate agent website design in Australia", "freelance real estate agent website design Australia",
     ],
   },
   hero: {
@@ -183,7 +184,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, real estate agent website design starts from ${P.site} for a single-office agency site with CRM-fed listings, and from ${P.seoSite} for multi-office agencies with extensive suburb content. Quotes elsewhere vary widely, from template subscriptions to fully custom agency builds, and the difference usually comes from design depth, feed complexity and ongoing marketing.`,
         `The main cost drivers are the CRM integration (a well-documented API is quicker than a legacy feed), the number of offices and suburbs, custom search features such as map search or saved searches, and how much copy we write for agent profiles and suburb pages. Listing pages themselves are generated from the feed, so a hundred active listings do not cost more than ten.`,
-        `Running costs are yours to pay directly: domain, hosting, any address autocomplete or mapping service fees, and your CRM subscription. Maintenance is free for two months, then optional from ${P.care} per month, which includes monitoring that the feed keeps working. The <a href='/australia/website-design-cost/'>website design cost guide for Australia</a> compares scopes across industries.`,
+        `Running costs are yours to pay directly: domain, hosting, any address autocomplete or mapping service fees, and your CRM subscription. Maintenance is free for two months, then optional from ${P.care}, which includes monitoring that the feed keeps working. The <a href='/australia/website-design-cost/'>website design cost guide for Australia</a> compares scopes across industries.`,
       ],
     },
     {
@@ -210,7 +211,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Aim for searches the portals do not dominate: your agency name, “real estate agent” plus your suburb, “sell my house” plus suburb, property management plus suburb, and agent name searches. Competing with the big portals for “houses for sale Sydney” is rarely worth the effort.`,
         `Local SEO for agencies starts with a complete Google Business Profile for each office, consistent name, address and phone details, and steady genuine reviews. On the website, strong suburb pages, well-structured agent profiles and fast sold pages give Google specific reasons to show you for local seller and landlord searches. Listing pages help too, but they are short-lived, so the lasting value lives in suburb and agent content.`,
-        `Technical details matter on listing-heavy sites. Expired listings need sensible handling, either redirecting to the sold result or to the suburb page, so search engines do not find thousands of dead pages. Images must be compressed, and pages must load quickly on mobile. Ongoing SEO is available from ${P.seo} per month, though no honest provider guarantees rankings.`,
+        `Technical details matter on listing-heavy sites. Expired listings need sensible handling, either redirecting to the sold result or to the suburb page, so search engines do not find thousands of dead pages. Images must be compressed, and pages must load quickly on mobile. Ongoing SEO is available from ${P.seo}, though no honest provider guarantees rankings.`,
       ],
     },
     {
@@ -316,7 +317,7 @@ const content: FreelanceContent = {
         ["Multi-office agency", "Office pages, many profiles, extensive suburb content", `From ${P.seoSite}`, "3–5 weeks"],
         ["Vendor portal or custom dashboard", "Logins, campaign reports, CRM data", `From ${P.software}`, "6–12 weeks"],
         ["After-hours enquiry assistant", "AI chat or phone for listing questions and bookings", `From ${P.ai}`, "2–4 weeks"],
-        ["Ongoing local SEO", "Suburb pages, profiles, technical health", `From ${P.seo} per month`, "Monthly"],
+        ["Ongoing local SEO", "Suburb pages, profiles, technical health", `From ${P.seo}`, "Monthly"],
       ],
     },
   ],
@@ -363,7 +364,7 @@ const content: FreelanceContent = {
     { question: "What should an agent profile page include?", answer: "A professional photo, the suburbs they cover, a short factual background, languages spoken, licence details as your state requires, direct contact details, current listings and recent sold results pulled from the CRM feed, and an appraisal button. Keep claims verifiable, such as the number of recent sales, rather than unsupported titles like number one agent." },
     { question: "How long does it take to build a real estate website?", answer: "About two weeks for a single-office agency once CRM access is arranged, and three to five weeks for multi-office agencies with many suburb pages. Getting feed or API credentials from the CRM often sets the pace, so we request them on the first day. We recommend a midweek launch to avoid weekend open home traffic." },
     { question: "How do you handle withheld sold prices and underquoting rules?", answer: "The website follows the price fields in your CRM, so withheld prices stay hidden and price guides appear exactly as entered. We test auctions, ranges and withheld results before launch. States such as New South Wales and Victoria have underquoting laws, so your principal should approve the price display approach; we build what they sign off." },
-    { question: "Can a real estate website rank on Google against the portals?", answer: `For broad searches like houses for sale in a capital city, the portals dominate. Agency sites can realistically win their own name, agent names, and local seller and landlord searches such as real estate agent plus suburb. Ongoing local SEO starts from ${P.seo} per month, and nobody can honestly guarantee rankings.` },
+    { question: "Can a real estate website rank on Google against the portals?", answer: `For broad searches like houses for sale in a capital city, the portals dominate. Agency sites can realistically win their own name, agent names, and local seller and landlord searches such as real estate agent plus suburb. Ongoing local SEO starts from ${P.seo}, and nobody can honestly guarantee rankings.` },
     { question: "Will AI search tools mention my real estate agency?", answer: "They can, when your website states clearly where you operate, who your agents are and what you have sold, and when those details match your Google profile and portal profiles. We add structured data for your agency, offices and agents, and write FAQ answers that stand alone. No one can force an AI mention." },
     { question: "Do you build property search with maps?", answer: "Yes, map-based search and filters can be added on top of the listing feed. Mapping services may charge usage fees once traffic passes their free allowances, and those are paid by you directly. For many agencies, a simple suburb, price and property type filter works better on mobile, so we discuss what your buyers actually use first." },
     { question: "Can leads go straight into our CRM?", answer: "Often yes. Where your CRM accepts incoming leads through an API, email parser or form integration, we send appraisal and enquiry submissions into it as well as to the agent's inbox. If it does not, leads go by email with a consistent format so staff can enter them quickly." },
@@ -372,7 +373,7 @@ const content: FreelanceContent = {
     { question: "How do agencies pay for the build?", answer: "You receive an itemised quote in USD, invoices come from India, and payment is by Wise, bank wire or PayPal. The payment schedule is written into the quote, and nothing is billed before your written approval. Speak with your accountant about how the expense is treated in your books." },
     { question: "Who owns the website and listing data?", answer: "Your agency. The domain, hosting, analytics, Google Business Profiles and website code are in your agency's name, and listing data stays in your CRM. We hand over every login at launch. If you move to another developer or change CRM, the site and its content go with you." },
     { question: "Can our office manager edit the site?", answer: "Yes. Suburb pages, agent bios, news, property management information and office details can be edited without a developer, and we provide a recorded walkthrough. Listings update from the CRM automatically, so nobody needs to touch them on the website. Small edits are included in the two free months of maintenance." },
-    { question: "What happens after the two free months of maintenance?", answer: `You can manage the site yourself, hand it to another developer, or keep us on from ${P.care} per month for updates, backups, security and feed monitoring. Any ongoing arrangement is agreed in writing, and our terms and refund policy pages set out how agreements work.` },
+    { question: "What happens after the two free months of maintenance?", answer: `You can manage the site yourself, hand it to another developer, or keep us on from ${P.care} for updates, backups, security and feed monitoring. Any ongoing arrangement is agreed in writing, and our terms and refund policy pages set out how agreements work.` },
     { question: "Can you build a real estate app as well as the website?", answer: `Yes, Android and iOS apps start from ${P.app}. For most agencies an app adds little over a fast mobile website, because buyers already use portal apps. An app can make sense for property management, such as tenant maintenance requests and landlord statements, if your CRM does not already offer a client app.` },
     { question: "Do you photograph properties or write listing copy?", answer: "No. Property photography, floor plans and listing descriptions come from your team and suppliers through the CRM, and the website displays them. We can draft agent profiles and suburb pages from your input, and we optimise images for speed, but we do not visit properties or take photos." },
   ],

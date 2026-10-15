@@ -234,7 +234,7 @@ const content: FreelanceContent = {
         `A new site can be found if search is designed in from the start, but no one can honestly promise rankings. Competition, content and trust take time.`,
         `On every site we set unique titles and descriptions, one H1 per page, clean URLs, compressed images with alt text, canonical tags, a sitemap and schema for your organisation, services and FAQs. We verify <a href='https://search.google.com/search-console/about' rel='noopener'>Google Search Console</a> before launch so you see impressions from the first week.`,
         `For Valsad shops, clinics, resorts and schools, the Google Business Profile often brings more enquiries than the site itself. Keep the same name, address and phone on both, choose accurate categories, add real photos and answer reviews. For suppliers and exporters, specific pages win: a buyer searching for a particular mango grade or a fabrication service near Vapi should land on a page that answers exactly that.`,
-        `AI assistants and Google's AI Overviews tend to cite pages with clear answers, tables and named places. Good FAQ blocks help both. Optional ongoing work is available through <a href='/services/seo-services/'>SEO services</a> from ${P.seo} a month.`,
+        `AI assistants and Google's AI Overviews tend to cite pages with clear answers, tables and named places. Good FAQ blocks help both. Optional ongoing work is available through <a href='/services/seo-services/'>SEO services</a> from ${P.seo}.`,
       ],
     },
     {

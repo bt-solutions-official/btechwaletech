@@ -7,7 +7,7 @@ const giridih: CityContent = {
   meta: {
     title: "Giridih Web Design, SEO and Automation | ₹10,000+",
     description:
-      "Websites, local SEO, catalogues and WhatsApp automation for Giridih steel and mica firms, Madhuban stays, clinics and Kalibari shops. From ₹10,000.",
+      "Giridih websites, local SEO, catalogues and WhatsApp automation for steel and mica firms, Madhuban stays, clinics and Kalibari shops. From ₹10,000.",
     keywords: [
       "website development team in Giridih",
       "web design Giridih",
@@ -24,6 +24,15 @@ const giridih: CityContent = {
       "website maintenance Giridih",
       "Giridih me website kaise banwaye",
       "गिरिडीह वेबसाइट डिज़ाइन",
+      "Giridih website designer",
+      "website cost in Giridih",
+      "web development company Giridih",
+      "hire freelance developer Giridih",
+      "Jharkhand SEO",
+      "website for sponge iron and rolling mills in Giridih",
+      "web designer in Kalibari Chowk, Giridih",
+      "website for mica processors and exporters in Giridih",
+      "mobile app developer in Giridih",
     ],
   },
   hero: {

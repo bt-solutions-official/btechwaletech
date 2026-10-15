@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 33.2778, lng: 75.3412 },
   meta: {
-    title: "Freelance IT Services in Jammu and Kashmir",
+    title: "Jammu and Kashmir IT Services: Houseboats & Saffron",
     description:
-      "Freelance IT services in Jammu and Kashmir: hotel and houseboat booking, apple and saffron stores, offline-ready apps, AI bots and SEO. From ₹10,000, remote team.",
+      "Freelance IT services in Jammu and Kashmir: hotel and houseboat booking, apple and saffron stores, plus offline-ready apps. From ₹10,000, remote team.",
     keywords: [
       "IT services in Jammu and Kashmir",
       "software development team in Jammu and Kashmir",
@@ -30,6 +30,15 @@ const content: CityContent = {
       "जम्मू कश्मीर में आईटी सेवाएं",
       "جموں و کشمیر میں آئی ٹی خدمات",
       "Kashmir mein website aur app developer",
+      "Jammu and Kashmir website designer",
+      "website cost in Jammu and Kashmir",
+      "IT company in Jammu and Kashmir",
+      "Jammu and Kashmir SEO services",
+      "hire developer Jammu and Kashmir",
+      "hotels software in Jammu and Kashmir",
+      "tour software in Jammu and Kashmir",
+      "pilgrimage software in Jammu and Kashmir",
+      "apple software in Jammu and Kashmir",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const shivpuri: CityContent = {
   meta: {
     title: "Shivpuri Website Design & Local SEO | ₹10,000 Onwards",
     description:
-      "Websites, Google Maps setup, stores and WhatsApp automation for Shivpuri shops, clinics, coaching centres, stays near Madhav Tiger Reserve and agri traders.",
+      "Websites, Maps setup, stores and WhatsApp tools for Shivpuri shops, clinics, coaching centres, stays near Madhav Tiger Reserve and agri traders. From ₹10,000.",
     keywords: [
       "website development team in Shivpuri",
       "web designer Shivpuri MP",
@@ -25,6 +25,16 @@ const shivpuri: CityContent = {
       "website maintenance Shivpuri",
       "Shivpuri me website kaise banaye",
       "शिवपुरी वेबसाइट डिज़ाइन",
+      "Shivpuri website designer",
+      "web development company Shivpuri",
+      "hire freelance web developer Shivpuri",
+      "Madhya Pradesh SEO services",
+      "Shivpuri me website kaise banwaye",
+      "Shivpuri website banwane ka kharcha",
+      "Shivpuri Madhav Chowk retailers website",
+      "Madhav Chowk retailers website design Shivpuri",
+      "Shivpuri schools website",
+      "schools website design Shivpuri",
     ],
   },
   hero: {

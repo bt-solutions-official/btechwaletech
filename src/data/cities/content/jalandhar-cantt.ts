@@ -7,7 +7,7 @@ const jalandharCantt: CityContent = {
   meta: {
     title: "IT Services in Jalandhar Cantt: Websites, Apps & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Jalandhar Cantt shops, tutors, clinics, movers and veteran-run firms. From ₹10,000.",
+      "Jalandhar Cantt websites, Android and iOS apps, local SEO and WhatsApp automation for shops, tutors, clinics, movers and veteran-run firms. From ₹10,000.",
     keywords: [
       "IT services in Jalandhar Cantt",
       "IT services team in Jalandhar Cantt",
@@ -29,6 +29,10 @@ const jalandharCantt: CityContent = {
       "Jalandhar Cantt me website banwana",
       "ਜਲੰਧਰ ਛਾਉਣੀ ਵੈੱਬਸਾਈਟ",
       "जालंधर कैंट वेबसाइट डिज़ाइन",
+      "Jalandhar Cantt website designer",
+      "web development company Jalandhar Cantt",
+      "hire freelance developer Jalandhar Cantt",
+      "Punjab SEO",
     ],
   },
   hero: {

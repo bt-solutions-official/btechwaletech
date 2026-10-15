@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 24.5854, lng: 73.7125 },
   meta: {
-    title: "Freelance Software Developers in Udaipur",
+    title: "Udaipur Software Developers: Heritage Hotels & Homestays",
     description:
       "Looking for a software development team in Udaipur? Hire our freelance group for hotel booking engines, AI concierge bots, apps and SEO. Quotes in 2 days.",
     keywords: [
@@ -21,7 +21,7 @@ const content: CityContent = {
       "wedding planner CRM Udaipur",
       "custom software Udaipur Rajasthan",
       "web application development Udaipur",
-            "AI chatbot for hotels Udaipur",
+      "AI chatbot for hotels Udaipur",
       "WhatsApp Business API Udaipur",
       "marble ERP software Udaipur",
       "SEO team Udaipur",
@@ -32,6 +32,13 @@ const content: CityContent = {
       "handicraft ecommerce website Udaipur",
       "उदयपुर में सॉफ्टवेयर कंपनी",
       "Udaipur me app aur software banwana",
+      "Udaipur website designer",
+      "website cost in Udaipur",
+      "IT company in Udaipur",
+      "Rajasthan SEO services",
+      "hire developer Udaipur",
+      "heritage hotels software in Udaipur",
+      "homestays software in Udaipur",
     ],
   },
   hero: {

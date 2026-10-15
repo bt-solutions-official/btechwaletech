@@ -7,7 +7,7 @@ const palwancha: CityContent = {
   meta: {
     title: "IT Services in Palwancha: Websites, Apps, SEO & AI",
     description:
-      "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Palwancha power-plant contractors, NH-30 traders, colleges and clinics.",
+      "Telugu and English websites, apps and SEO for Palwancha power-plant contractors, NH-30 traders, colleges and clinics. From ₹10,000, 2 months free upkeep.",
     keywords: [
       "IT services in Palwancha",
       "IT services team in Palwancha",
@@ -30,6 +30,11 @@ const palwancha: CityContent = {
       "Palwancha me website banwana",
       "Palwancha lo website cheyinchali",
       "పాల్వంచ వెబ్‌సైట్ డిజైన్",
+      "Palwancha website designer",
+      "web development company Palwancha",
+      "hire freelance web developer Palwancha",
+      "Bhadradri Kothagudem district SEO",
+      "website designer Bhadradri Kothagudem district",
     ],
   },
   hero: {

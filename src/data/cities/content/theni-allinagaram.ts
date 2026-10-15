@@ -5,9 +5,9 @@ const theni: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 10.0119, lng: 77.4786 },
   meta: {
-    title: "IT Services in Theni: Websites, Apps, SEO & AI",
+    title: "Theni Website Design: Cardamom, Grapes & Mills",
     description:
-      "Websites, Android and iOS apps, Tamil local SEO and WhatsApp automation for Theni cardamom and grape traders, spinning mills, Sunday shandy shops and clinics.",
+      "Theni websites, Tamil SEO and WhatsApp tools for cardamom and spice traders, grape and banana growers, spinning mills and shandy shops. From ₹10,000.",
     keywords: [
       "IT services in Theni",
       "IT services team in Theni",
@@ -29,6 +29,16 @@ const theni: CityContent = {
       "Theni me website banwana",
       "Theni website design Tamil",
       "தேனி இணையதள வடிவமைப்பு",
+      "Theni website designer",
+      "web development company Theni",
+      "hire freelance web developer Theni",
+      "Tamil Nadu SEO services",
+      "Theni spinning mills website",
+      "spinning mills website design Theni",
+      "website design Madurai Road Theni",
+      "website design Periyakulam Theni",
+      "website design Bodinayakanur Theni",
+      "website design price in Theni",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Dhanera: Sites from ${P.site}`,
-    description: `Website developer in Dhanera for seed spice and castor traders, transporters, dairies and clinics. Sites from ${P.site}, Gujarati and Hindi ready, built remotely.`,
+    description: `Website developer in Dhanera for seed spice and castor traders, transporters, dairies and clinics. Sites from ${P.site}, Gujarati and Hindi ready, remote build.`,
     keywords: [
       "website developer in Dhanera", "website developer Dhanera", "Dhanera website developer near me", "Dhanera Gujarat website",
       "web developer Dhanera Banaskantha", "website designer Dhanera", "website development services Dhanera", "website cost Dhanera",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "isabgol trader website", "commission agent website Dhanera", "market yard trader website", "transport business website Dhanera",
       "Gujarati website Dhanera", "Hindi website for traders", "Dhanera me website kaise banaye", "website banwana hai Dhanera",
       "website developer Dantiwada", "website developer Deesa Dhanera", "freelance web developer Dhanera",
+      "Dhanera website design charges", "mandi trader website Gujarat", "Google Maps listing Dhanera",
     ],
   },
   hero: {

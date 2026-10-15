@@ -7,7 +7,7 @@ const hardwar: CityContent = {
   meta: {
     title: "IT Services in Hardwar: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, booking pages and WhatsApp automation for Haridwar hotels, dharamshalas, Ayurveda firms, SIDCUL suppliers and shops. From ₹10,000.",
+      "Haridwar websites, local SEO, booking pages and WhatsApp automation for hotels, dharamshalas, Ayurveda firms, SIDCUL suppliers and shops. From ₹10,000.",
     keywords: [
       "website development team in Haridwar",
       "web designer Haridwar",
@@ -25,6 +25,14 @@ const hardwar: CityContent = {
       "website maintenance Haridwar",
       "Haridwar mein website banwana",
       "हरिद्वार वेबसाइट डिजाइन",
+      "Haridwar website designer",
+      "web development company Haridwar",
+      "hire freelance developer Haridwar",
+      "Uttarakhand SEO",
+      "Haridwar me website kaise banwaye",
+      "website for hotels, ashrams and dharamshalas in Haridwar",
+      "web designer in Har Ki Pauri, Haridwar",
+      "website for ayurvedic and herbal makers in Haridwar",
     ],
   },
   hero: {

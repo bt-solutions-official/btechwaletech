@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Anklav: Sites from ${P.site}`,
-    description: `Website developer in Anklav for agri dealers, dairy suppliers, clinics, schools and samaj trusts. Sites from ${P.site}, Gujarati-ready, itemised quote in 2 days.`,
+    description: `Website developer in Anklav for agri dealers, dairy suppliers, clinics, schools and samaj trusts. Sites from ${P.site}, Gujarati-ready, quote in 2 days.`,
     keywords: [
       "website developer in Anklav", "website developer Anklav", "website developer near me Anklav", "Anklav Gujarat website",
       "website designer Anklav", "web developer Anklav Anand", "website development services Anklav", "website banane wala Anklav",

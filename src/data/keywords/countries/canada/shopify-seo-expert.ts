@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Shopify SEO Expert Canada: Rank Collections, ${P.seo}`,
-    description: `Shopify SEO expert for Canadian stores from ${P.seo}: collection pages that compete with Amazon.ca, clean product URLs, CAD schema and French pages via Markets.`,
+    description: `Shopify SEO expert for Canadian stores from ${P.seo}: collection pages that compete with Amazon.ca, clean product URLs, CAD schema and French pages.`,
     keywords: [
       "shopify seo expert canada", "shopify seo canada", "shopify seo consultant canada", "shopify seo services canada",
       "shopify seo agency canada", "shopify seo freelancer", "hire shopify seo expert", "shopify collection page seo",

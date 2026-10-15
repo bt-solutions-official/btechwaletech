@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `SEO for Lawyers in India: BCI-Aware, from ${P.seo}`,
-    description: `SEO for lawyers and law firms in India that stays informational under Bar Council rules: practice-area pages, E-E-A-T and local search. From ${P.seo}/month.`,
+    description: `SEO for lawyers and law firms in India that stays informational under Bar Council rules: practice-area pages, E-E-A-T and local search. From ${P.seo}.`,
     keywords: [
       "seo for lawyers", "seo for lawyers in India", "seo for advocates", "law firm seo India",
       "seo for law firms", "legal seo services", "advocate website seo", "can advocates advertise in India",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "seo for lawyers price India", "seo for lawyers near me", "lawyer seo Delhi", "advocate seo Mumbai",
       "law firm seo Bangalore", "vakil ki website seo", "legal content writing for law firms", "how do lawyers get clients online in India",
       "legalservice schema", "seo for tax lawyers",
+      "SEO for lawyers services", "SEO for lawyers packages", "best SEO for lawyers in India", "SEO for lawyers agency",
     ],
   },
   hero: {
@@ -74,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Structured data", note: "LegalService markup for the firm and Person markup for each advocate, with areas of practice and contact details matching the page.", href: "/schema-markup-services/", size: "md" },
       { name: "Hindi and regional pages", note: "Explanations in Hindi or another regional language for clients who search that way, with the advocate approving every translated legal term.", href: "/hindi-seo-services/", size: "md" },
       { name: "Law firm website", note: `Fast, sober, mobile-first site with an entry notice if you want one, from ${P.site}, launched in 1–2 weeks.`, href: "/lawyer-website-design/", size: "sm" },
-      { name: "Monthly SEO", note: `New explainers, updates when laws change, technical checks and reports, from ${P.seo} a month.`, href: "/services/seo-services/", size: "sm" },
+      { name: "Monthly SEO", note: `New explainers, updates when laws change, technical checks and reports, from ${P.seo}.`, href: "/services/seo-services/", size: "sm" },
       { name: "Keyword research for practices", note: "How clients describe their problem, in English, Hindi and Hinglish, mapped to your areas of practice.", href: "/keyword-research-services/", size: "sm" },
     ],
   },
@@ -384,7 +385,7 @@ const content: FreelanceContent = {
     { question: "How is SEO for lawyers different from SEO for doctors?", answer: "Both professions have conduct rules restricting self-promotion, so both rely on informational content and factual details. Legal content must track changing statutes and court procedure, and reviews raise solicitation concerns. Medical content is judged on clinical accuracy and patient safety. Our SEO for doctors page covers the medical side." },
     { question: "How did the new criminal laws affect law firm websites?", answer: "The Bharatiya Nyaya Sanhita, Bharatiya Nagarik Suraksha Sanhita and Bharatiya Sakshya Adhiniyam replaced the IPC, CrPC and Evidence Act from 1 July 2024. Criminal law pages written earlier needed updating to the new names and sections, with the old ones mentioned for context. Keeping pages current is part of our monthly work." },
     { question: "Does AI search affect SEO for lawyers?", answer: "AI answers summarise general legal information, so broad questions send fewer clicks. Specific, local and procedural explainers by named advocates, with statutes cited and review dates shown, are the kind of pages AI systems can understand and cite. People who then want an advocate still need a practice to contact." },
-    { question: "Who owns the website and listings?", answer: `You do. The domain, hosting, website code, Google Business Profile, Search Console and GA4 are set up in your own accounts, with us added as users. New sites include two months of free maintenance, and ongoing care starts at ${P.care} a month after that.` },
+    { question: "Who owns the website and listings?", answer: `You do. The domain, hosting, website code, Google Business Profile, Search Console and GA4 are set up in your own accounts, with us added as users. New sites include two months of free maintenance, and ongoing care starts at ${P.care} after that.` },
     { question: "Vakil ki website ka SEO kaise hota hai?", answer: `Vakil ki website par prachar nahi, jaankari honi chahiye: naam, contact, yogyata, practice areas aur kanooni prakriya ki saaf vyakhya. Isse log Google par apni samasya search karke aap tak pahunchte hain, aur Bar Council ke Rule 36 ki soliciting wali pabandi ka dhyan rehta hai. Monthly SEO ${P.seo} se shuru hota hai.` },
   ],
   related: {

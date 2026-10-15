@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Custom Software Development Canada from ${P.software}`,
-    description: `Custom software development for Canadian businesses from ${P.software}: portals, admin panels, QuickBooks Online sync, Canadian hosting, phased delivery, code you own.`,
+    description: `Custom software development for Canadian businesses from ${P.software}: portals, admin panels, QuickBooks Online sync, Canadian hosting, code you own.`,
     keywords: [
       "custom software development canada", "custom software development", "custom software developers canada", "bespoke software development canada",
       "custom business software", "custom software vs saas", "replace saas subscriptions with custom software",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "who owns custom software code", "custom software development toronto", "custom software development vancouver",
       "custom software development calgary", "custom software development montreal", "custom software development ottawa",
       "small business custom software", "custom web application development canada", "custom software company near me",
+      "hire custom software development in Canada", "freelance custom software development Canada",
     ],
   },
   hero: {

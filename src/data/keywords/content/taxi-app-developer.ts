@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Taxi app developer",
   updated: "2026-09-24",
   meta: {
-    title: "Taxi App Developer in India: Honest Scope and Costs",
-    description: `Taxi app developer in India for cab operators: rider app, driver app, maps and admin panel scoped honestly. Apps from ${P.app}, quoted line by line before you pay.`,
+    title: `Taxi App Developer India: Honest Cost from ${P.app}`,
+    description: `Taxi app developer in India for cab operators: rider app, driver app, maps and admin panel scoped honestly. Apps from ${P.app}, quoted line by line.`,
     keywords: [
       "taxi app developer", "taxi app developer in India", "taxi app developer near me", "taxi app developer for hire",
       "taxi app development cost", "taxi booking app price", "best taxi app developer", "taxi app banwana hai",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "driver app development", "taxi dispatch software", "outstation cab booking app", "airport transfer booking app",
       "Flutter taxi app", "taxi app with Google Maps", "fleet management app India", "freelance taxi app developer",
       "car rental booking app developer", "taxi admin panel development",
+      "hire taxi app developer", "taxi app developer cost", "best taxi app developer in India", "taxi app developer price",
+      "taxi app developer charges",
     ],
   },
   hero: {

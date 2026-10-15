@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Website not showing on Google",
   updated: "2026-09-25",
   meta: {
-    title: "Website Not Showing on Google? Causes and Fixes",
-    description: `Website not showing on Google, even for your own name? Run the site: test, check noindex and robots.txt, read Search Console, or have us fix it. SEO from ${P.seo}.`,
+    title: `Website Not Showing on Google? 2026 Causes & Fixes`,
+    description: `Website not showing on Google, even for your own name? Run the site: test, check noindex and robots.txt, read Search Console. Or we fix it, SEO ${P.seo}.`,
     keywords: [
       "website not showing on google", "website not showing up on google", "why is my website not showing on google", "my website is not showing in google search",
       "website not appearing on google", "website not showing on google search results", "website not showing on google when searching name", "site not indexed by google",

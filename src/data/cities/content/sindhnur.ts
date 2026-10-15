@@ -7,7 +7,7 @@ const sindhnur: CityContent = {
   meta: {
     title: "IT Services in Sindhanur | Web, Apps & AI from ₹10,000",
     description:
-      "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Sindhanur rice mills, paddy traders, tractor dealers, clinics, colleges and shops.",
+      "Kannada websites, apps, local SEO and WhatsApp tools for Sindhanur rice mills, paddy traders, tractor dealers, clinics, colleges and shops. From ₹10,000.",
     keywords: [
       "IT services in Sindhanur",
       "IT services team in Sindhanur",
@@ -29,6 +29,12 @@ const sindhnur: CityContent = {
       "Sindhanurinalli website beku",
       "ಸಿಂಧನೂರು ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
       "Bengali camp Sindhanur business listing",
+      "Sindhanur website designer",
+      "web development company Sindhanur",
+      "hire freelance web developer Sindhanur",
+      "Raichur district SEO",
+      "website designer Raichur district",
+      "Karnataka SEO services",
     ],
   },
   hero: {

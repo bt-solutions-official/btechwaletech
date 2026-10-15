@@ -7,7 +7,7 @@ const khammam: CityContent = {
   meta: {
     title: "IT Services in Khammam: Websites, Apps, SEO & AI",
     description:
-      "Websites, Telugu local SEO and WhatsApp automation for Khammam chilli and cotton traders, granite units, hospitals, colleges and shops. From ₹10,000 onwards.",
+      "Khammam websites, Telugu local SEO and WhatsApp automation for chilli and cotton traders, granite units, hospitals, colleges and shops. From ₹10,000 onwards.",
     keywords: [
       "website development team in Khammam",
       "website designer Khammam",
@@ -24,6 +24,15 @@ const khammam: CityContent = {
       "website design Kothagudem",
       "freelance web developer Khammam",
       "ఖమ్మం వెబ్‌సైట్ డెవలప్‌మెంట్",
+      "Khammam website designer",
+      "website cost in Khammam",
+      "web development company Khammam",
+      "hire freelance developer Khammam",
+      "Telangana SEO",
+      "website for chilli and cotton traders in Khammam",
+      "web designer in Wyra Road, Khammam",
+      "website for granite quarries and polishing units in Khammam",
+      "mobile app developer in Khammam",
     ],
   },
   hero: {

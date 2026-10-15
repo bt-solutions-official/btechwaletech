@@ -7,7 +7,7 @@ const sivakasi: CityContent = {
   meta: {
     title: "IT Services in Sivakasi: Websites, Apps, SEO & AI",
     description:
-      "Websites, Tamil SEO, dealer catalogues and WhatsApp order tools for Sivakasi printers, fireworks and match makers and local shops. Sites from ₹10,000.",
+      "Websites, Tamil SEO and dealer catalogues for Sivakasi printers, fireworks and match makers and local shops. From ₹10,000, itemised quote in 2 working days.",
     keywords: [
       "website development team in Sivakasi",
       "web designer Sivakasi",
@@ -25,6 +25,16 @@ const sivakasi: CityContent = {
       "custom software printing press",
       "website maintenance Sivakasi",
       "freelance web developer Virudhunagar",
+      "Sivakasi website designer",
+      "web development company Sivakasi",
+      "hire freelance web developer Sivakasi",
+      "Virudhunagar district SEO",
+      "website designer Virudhunagar district",
+      "Tamil Nadu SEO services",
+      "Sivakasi fireworks manufacturers website",
+      "fireworks manufacturers website design Sivakasi",
+      "Sivakasi match factories website",
+      "match factories website design Sivakasi",
     ],
   },
   hero: {

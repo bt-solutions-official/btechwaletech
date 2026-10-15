@@ -7,7 +7,7 @@ const visnagar: CityContent = {
   meta: {
     title: "IT Services in Visnagar | Web, Apps & AI from ₹10,000",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Visnagar copperware makers, pump units, APMC traders, colleges and hospitals.",
+      "Gujarati websites, apps, local SEO and WhatsApp tools for Visnagar copperware makers, pump units, APMC traders, colleges and hospitals. From ₹10,000.",
     keywords: [
       "IT services in Visnagar",
       "IT services team in Visnagar",
@@ -29,6 +29,12 @@ const visnagar: CityContent = {
       "Visnagar ma website banavvi",
       "Visnagar me website banwana",
       "વિસનગર વેબસાઇટ ડિઝાઇન",
+      "Visnagar website designer",
+      "web development company Visnagar",
+      "hire freelance web developer Visnagar",
+      "Mehsana district SEO",
+      "website designer Mehsana district",
+      "Gujarat SEO services",
     ],
   },
   hero: {

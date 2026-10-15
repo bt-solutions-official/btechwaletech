@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "line chatbot human handoff", "japanese english chatbot", "line bot for customer support", "line chatbot japan",
       "line chatbot tokyo", "line chatbot osaka", "line chatbot outsourcing india", "line official account message limit",
       "line bot vs line mini app", "custom line bot developer",
+      "hire line chatbot development in Japan", "freelance line chatbot development Japan",
     ],
   },
   hero: {
@@ -73,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Segmented broadcasts", note: "Narrowcast messages to audiences built from purchases, tags or rich menu clicks instead of messaging every follower.", size: "md" },
       { name: "Staff handoff and inbox rules", note: "The bot steps aside for complaints, refunds or anything it is unsure about, and staff see the full history.", size: "sm" },
       { name: "Internal staff bots", note: "LINE bots for shift swaps, stock checks or daily reports, for teams who already coordinate on LINE.", href: "/ai-customer-support-agent/", size: "sm" },
-      { name: "Bot care and tuning", note: `Monthly review of unanswered questions, content updates and API changes, from ${P.care} per month after the free period.`, size: "sm" },
+      { name: "Bot care and tuning", note: `Monthly review of unanswered questions, content updates and API changes, from ${P.care} after the free period.`, size: "sm" },
     ],
   },
   comparison: {
@@ -199,7 +200,7 @@ const content: FreelanceContent = {
         "Admin screens for staff, such as a handoff inbox or audience builder",
       ],
       after: [
-        `Running costs come from your providers: the LINE plan, AI model usage, and a small cloud setup. After two months of free maintenance, optional care starts at ${P.care} per month.`,
+        `Running costs come from your providers: the LINE plan, AI model usage, and a small cloud setup. After two months of free maintenance, optional care starts at ${P.care}.`,
       ],
     },
     {
@@ -390,7 +391,7 @@ const content: FreelanceContent = {
     { question: "Is chat data safe with a developer in India?", answer: "Logs stay in your cloud account in the Tokyo region, encrypted, with role-based access. Our access to production is limited and logged, identifiers can be stripped before messages reach the AI model, and payment details are never processed by the bot. Your lawyer should confirm how APPI applies to your setup." },
     { question: "Why hire a remote team in India for LINE chatbot development?", answer: `You work directly with the three developers who build it, covering AI, cloud and integrations, with afternoon overlap from about 12:30 JST and WhatsApp replies seven days a week. AI bots start at ${P.ai}. The trade-off is that we work in English, so you supply or approve all Japanese wording.` },
     { question: "How do we pay for a LINE chatbot project from Japan?", answer: "Proposals are in USD and can be paid in USD or JPY by Wise or bank wire, in milestones written into the proposal. Nothing is billed before your written approval, and invoices come from India. Your accountant can advise on how to record overseas invoices." },
-    { question: "What maintenance does a LINE chatbot need?", answer: `Content changes whenever prices, policies or products change, the unanswered-question log needs regular review, and LINE and AI provider APIs evolve. You get two months of free maintenance after launch; optional care after that starts at ${P.care} per month and covers tuning, updates and monitoring.` },
+    { question: "What maintenance does a LINE chatbot need?", answer: `Content changes whenever prices, policies or products change, the unanswered-question log needs regular review, and LINE and AI provider APIs evolve. You get two months of free maintenance after launch; optional care after that starts at ${P.care} and covers tuning, updates and monitoring.` },
     { question: "Does a LINE chatbot help with SEO or AI search visibility?", answer: "Chats inside LINE are not indexed by search engines. The content you prepare for the bot, however, makes a strong FAQ page on your website, which search engines and AI assistants can read and cite. We often publish the cleaned FAQ as a structured page at the same time as the bot launches." },
     { question: "Can a LINE bot be used by our staff internally?", answer: "Yes. Teams that already coordinate on LINE use bots for shift swaps, stock checks, daily reports or answers from internal manuals. The build is similar to a customer bot, with access limited to staff accounts and content drawn from internal documents instead of public FAQs." },
     { question: "What does BtechWaleTech not do for LINE chatbot projects?", answer: "We do not staff your chat inbox, write Japanese marketing copy, choose your LINE plan for you, or give legal advice on privacy. We do not visit your premises. We build, test and tune the bot and its integrations, and we say early if part of the project needs another specialist." },

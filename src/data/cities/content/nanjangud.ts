@@ -5,9 +5,9 @@ const nanjangud: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 12.1167, lng: 76.6833 },
   meta: {
-    title: "IT Services in Nanjangud | Web, Apps & AI from ₹10,000",
+    title: "Nanjangud Website Design: KIADB, Temple & Banana",
     description:
-      "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Nanjangud KIADB suppliers, temple-town lodges, banana growers, colleges and shops.",
+      "Nanjangud websites, Kannada SEO and WhatsApp tools for KIADB vendors and fabricators, temple lodges, caterers and banana growers. Sites from ₹10,000.",
     keywords: [
       "IT services in Nanjangud",
       "IT services team in Nanjangud",
@@ -29,6 +29,16 @@ const nanjangud: CityContent = {
       "Nanjangud me website banwana",
       "Nanjangudalli website maadisabeku",
       "ನಂಜನಗೂಡು ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Nanjangud website designer",
+      "web development company Nanjangud",
+      "hire freelance web developer Nanjangud",
+      "Mysuru district SEO",
+      "website designer Mysuru district",
+      "Karnataka SEO services",
+      "Nanjangud me website kaise banwaye",
+      "Nanjangud website banwane ka kharcha",
+      "Nanjangud transporters website",
+      "transporters website design Nanjangud",
     ],
   },
   hero: {

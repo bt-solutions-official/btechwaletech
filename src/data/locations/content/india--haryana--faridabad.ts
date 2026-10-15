@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 28.4089, lng: 77.3178 },
   meta: {
-    title: "Freelance IT Consultants in Faridabad for MSMEs",
+    title: "Faridabad IT Consultants for MSMEs: Auto Components",
     description:
-      "Freelance IT consulting in Faridabad: digitisation audits, custom software, Android and iOS apps, AI automation, cloud and dashboards for NIT and Sector 24 units.",
+      "Freelance IT consulting in Faridabad: digitisation audits, custom software, Android and iOS apps, plus AI automation. Two months of free upkeep after launch.",
     keywords: [
       "IT solutions team in Faridabad",
       "IT consulting Faridabad",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT consultant near me Ballabgarh",
       "Faridabad mein IT consultant",
       "फरीदाबाद आईटी कंसल्टिंग",
+      "Faridabad website designer",
+      "website cost in Faridabad",
+      "IT company in Faridabad",
+      "Haryana SEO services",
+      "hire developer Faridabad",
+      "auto components software in Faridabad",
+      "tractor software in Faridabad",
+      "tool rooms software in Faridabad",
+      "castings software in Faridabad",
+      "website developer NIT Faridabad Faridabad",
     ],
   },
   hero: {

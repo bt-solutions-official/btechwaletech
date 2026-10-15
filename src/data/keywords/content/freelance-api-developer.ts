@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Freelance API developer",
   updated: "2026-09-24",
   meta: {
-    title: `Freelance API Developer in India: Integrations`,
-    description: `Freelance API developer in India for payment, SMS, WhatsApp, ERP and CRM integrations. Custom APIs from ${P.software}, documented, secured and owned by you.`,
+    title: `Freelance API Developer in India, from ${P.software}`,
+    description: `Freelance API developer in India for payment, SMS, WhatsApp, ERP and CRM integrations, documented, secured and owned by you. Custom APIs from ${P.software}.`,
     keywords: [
       "freelance api developer", "freelance api developer in India", "freelance api developer near me", "api developer for hire",
       "api integration developer", "api integration freelancer", "freelance api developer cost", "api development price India",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "payment integration developer", "sms api integration", "whatsapp api integration developer", "erp integration developer",
       "crm integration freelancer", "tally integration developer", "rest api developer freelance", "webhook integration developer",
       "third party api integration", "hire api developer India",
+      "hire freelance api developer",
     ],
   },
   hero: {

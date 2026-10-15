@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Export Business Website in Gujarat from ${P.site}`,
-    description: `Export business website in Gujarat for overseas buyers: English-first product pages, RFQ forms, trust signals and fast global loading. From ${P.site}, itemised quote.`,
+    description: `Export business website in Gujarat for overseas buyers: English-first product pages, RFQ forms and fast global loading. From ${P.site}, 2-day quote.`,
     keywords: [
       "export business website in Gujarat", "export business website Gujarat", "exporter website design Gujarat", "export website developer near me",
       "export company website Gujarat", "export business website developer Gujarat", "export business website designer Gujarat", "export website development services Gujarat",
@@ -420,6 +420,7 @@ const content: FreelanceContent = {
     heading: "More Gujarat guides for exporters",
     links: [
       { name: "All website services in Gujarat", href: "/gujarat/" },
+      { name: "Solar company website in Gujarat", href: "/gujarat/solar-company-website-gujarat/" },
       { name: "Manufacturer website design in Gujarat", href: "/gujarat/manufacturer-website-design-gujarat/" },
       { name: "Website for NRI customers from Gujarat", href: "/gujarat/website-for-nri-customers-gujarat/" },
       { name: "Ceramic tiles website in Morbi", href: "/gujarat/ceramic-tiles-website-morbi/" },

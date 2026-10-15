@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "managed wordpress maintenance", "wordpress uptime monitoring", "wordpress php upgrade service",
       "wordpress maintenance Mumbai", "wordpress maintenance Pune", "wordpress maintenance Hyderabad",
       "wordpress site ki maintenance kaun karega", "is wordpress maintenance worth it", "how often should wordpress be updated",
+      "WordPress maintenance services cost", "WordPress maintenance services price", "WordPress maintenance services company", "best WordPress maintenance services in India",
+      "WordPress maintenance services cost in India", "WordPress maintenance services near me",
     ],
   },
   hero: {

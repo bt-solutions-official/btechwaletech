@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Web Application Development in Ahmedabad from ${P.software}`,
-    description: `Web application development in Ahmedabad: dealer portals, dashboards and internal tools with roles, audit logs and cloud hosting. From ${P.software}, quoted per module.`,
+    description: `Web application development in Ahmedabad: dealer portals, dashboards & internal tools with roles, audit logs & cloud hosting. From ${P.software}, quoted per module.`,
     keywords: [
       "web application development in Ahmedabad", "web application development Ahmedabad", "web app developer Ahmedabad", "custom web application Ahmedabad",
       "web application development near me", "web application development Ahmedabad Gujarat", "portal development Ahmedabad", "dashboard development Ahmedabad",
@@ -174,7 +174,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a custom web app starts at ${P.software} (about ${P.softwareUsd}) for a focused first release. The total depends on the number of modules, user roles, integrations and how much existing data must be migrated.`,
         `The biggest cost drivers are easy to recognise once the process map exists. More distinct screens and workflows mean more building and testing. More roles mean more permission rules. Each integration needs setup, error handling and testing against the real external system. Messy historical data, such as years of dealer orders in inconsistent spreadsheets, needs cleaning before import. Gujarati interface labels add translation placement and testing.`,
-        `Running costs include cloud hosting, billed by the provider to your account, any messaging or gateway fees, and optional care after the two free months, starting at ${P.care} a month. We show expected hosting size in the proposal so there are no surprises.`,
+        `Running costs include cloud hosting, billed by the provider to your account, any messaging or gateway fees, and optional care after the two free months, starting at ${P.care}. We show expected hosting size in the proposal so there are no surprises.`,
         `National benchmarks sit on <a href='/web-application-development-cost/'>web application development cost</a>, and our <a href='/gujarat/website-development-cost-ahmedabad/'>Ahmedabad cost guide</a> compares app budgets with website budgets.`,
       ],
     },
@@ -212,7 +212,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The logged-in part of a web app does not need SEO; it should be kept out of search results entirely. The public pages around it, such as your home page, product information and sign-up, do need it.`,
         `We keep the two clearly separated. Logged-in screens sit behind authentication and are marked noindex. Public pages are rendered on the server or generated as static pages through Next.js, so search engines and AI crawlers read full content instead of an empty JavaScript shell. Those pages get titles, descriptions, schema and fast loading like any website.`,
-        `For an Ahmedabad business, the public side often matters for recruitment and trust too: dealers check you before applying, students look for the portal login page, and buyers want your product range. A consistent Google Business Profile helps local searches. Nobody can guarantee rankings, but rendering public pages properly avoids the common mistake of building an app nobody can find. Ongoing SEO is optional from ${P.seo} a month.`,
+        `For an Ahmedabad business, the public side often matters for recruitment and trust too: dealers check you before applying, students look for the portal login page, and buyers want your product range. A consistent Google Business Profile helps local searches. Nobody can guarantee rankings, but rendering public pages properly avoids the common mistake of building an app nobody can find. Ongoing SEO is optional from ${P.seo}.`,
       ],
     },
     {
@@ -249,7 +249,7 @@ const content: FreelanceContent = {
       heading: "Ownership, support and web apps for firms around Ahmedabad",
       paragraphs: [
         `You own everything: the source code in a repository under your account, the database, the cloud account and the domain. Documentation covers how to deploy, how to restore backups and how the main modules work, so another developer could continue if needed.`,
-        `For two months after go-live, fixes and small adjustments are free, which is when real users find the gaps no test catches. After that, optional care starts at ${P.care} a month and covers updates, monitoring, backups and small changes; new modules are quoted separately.`,
+        `For two months after go-live, fixes and small adjustments are free, which is when real users find the gaps no test catches. After that, optional care starts at ${P.care} and covers updates, monitoring, backups and small changes; new modules are quoted separately.`,
         `The process is the same for firms across the region. Offices in <a href='/gujarat/web-application-development-gandhinagar/'>Gandhinagar</a> and GIFT City, suppliers in Sanand and manufacturers in Naroda work with us remotely. Surat firms can read <a href='/gujarat/web-application-development-surat/'>web application development in Surat</a>, and the statewide view sits on <a href='/gujarat/web-application-development-gujarat/'>web apps across Gujarat</a>. For broader IT services, see the <a href='/ahmedabad/'>Ahmedabad services page</a>.`,
       ],
     },
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
       ["Outline and module quote", "A data model, clickable screen outline and module-by-module quote in about two working days. Nothing is billed before written approval."],
       ["Build in visible stages", "Working screens appear on a staging link every week or two. You test with sample data and send feedback in one list per round."],
       ["Test, migrate and deploy", "Real users try the near-final app, data is imported, and the app goes live in your cloud account after a training session."],
-      ["Two months of free care", `Fixes and small changes are free for two months. After that, care is optional from ${P.care} a month; new modules are quoted separately.`],
+      ["Two months of free care", `Fixes and small changes are free for two months. After that, care is optional from ${P.care}; new modules are quoted separately.`],
     ],
   },
   faqHeading: "Web application development in Ahmedabad: questions people ask",
@@ -360,7 +360,7 @@ const content: FreelanceContent = {
     { question: "Can you take over a web app another developer started?", answer: "Often yes. We first review the code, database, hosting and documentation to see whether continuing is sensible or a partial rebuild is cheaper. You receive a written assessment and quote. If the previous developer holds the repository or cloud account, we explain how to request a transfer into your name before work begins." },
     { question: "How do payments work for a web app project?", answer: "Payments are tied to milestones written in the quote, such as approval of the screen outline, delivery of core modules on staging, and go-live. Payment is in INR by UPI or bank transfer, and nothing is billed before your written approval of the scope. Hosting and third-party services are paid by you directly to their providers." },
     { question: "Do we need to meet in person to build a web app?", answer: "No. The BtechWaleTech team works remotely, and web apps suit that well because everything is visible on screen: process mapping over screen-share, clickable outlines, staging links and short review calls. Your team tests from their own desks and phones, and feedback flows through WhatsApp or a shared tracker." },
-    { question: "What happens after the web app goes live?", answer: `For two months after go-live, fixes and small adjustments are free, which is when real users find the gaps tests miss. After that, care is optional from ${P.care} a month and covers updates, monitoring, backups and small changes. New modules or major features are scoped and quoted separately.` },
+    { question: "What happens after the web app goes live?", answer: `For two months after go-live, fixes and small adjustments are free, which is when real users find the gaps tests miss. After that, care is optional from ${P.care} and covers updates, monitoring, backups and small changes. New modules or major features are scoped and quoted separately.` },
     { question: "Can you build a SaaS product for our Ahmedabad startup?", answer: "Yes, if the product's core workflow is clear. We build multi-tenant apps where each customer organisation has its own users and data, with subscription billing through your gateway and an admin panel. We usually suggest a narrow first release to test with paying users before building every feature on the roadmap." },
     { question: "Will the public pages of my web app show up on Google?", answer: "They can, if they are rendered properly. We keep logged-in screens out of search results and build public pages with server rendering or static generation, plus titles, descriptions and schema, so search engines and AI crawlers read full content. Nobody can guarantee rankings, but this avoids the common mistake of an invisible app." },
     { question: "Software ya web portal banwana hai, kitna kharcha aayega?", answer: `BtechWaleTech ke saath custom web app ${P.software} se shuru hota hai, jismein login, roles, main screens, admin panel, reports aur deployment shamil hain. Extra modules, Tally ya WhatsApp integration alag line mein quote hote hain. Pehla release aam taur par 6–12 hafte mein aata hai aur code aapke naam par rehta hai.` },
@@ -369,6 +369,7 @@ const content: FreelanceContent = {
     heading: "Related services for Ahmedabad firms",
     links: [
       { name: "All Gujarat website services", href: "/gujarat/" },
+      { name: "CA firm website and client portal", href: "/gujarat/ca-firm-website-ahmedabad/" },
       { name: "Banquet hall website in Ahmedabad", href: "/gujarat/banquet-hall-website-ahmedabad/" },
       { name: "Web application development in Gujarat", href: "/gujarat/web-application-development-gujarat/" },
       { name: "Web application development in Surat", href: "/gujarat/web-application-development-surat/" },

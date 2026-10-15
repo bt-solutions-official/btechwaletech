@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 28.4089, lng: 77.3178 },
   meta: {
-    title: "Freelance Software Developers in Faridabad",
+    title: "Faridabad Software Developers: Tractor & Auto Components",
     description:
-      "Hire freelance software developers in Faridabad for custom portals, AI automation, apps and dashboards. Web apps from ₹60,000, apps from ₹40,000, quote in 2 days.",
+      "Hire freelance software developers in Faridabad for custom portals, AI automation, apps and dashboards. Web apps from ₹60,000, quote in 2 days.",
     keywords: [
       "freelance software developers in Faridabad",
       "hire freelance developer Faridabad",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "cloud hosting and deployment Faridabad",
       "Faridabad mein software banane wali company",
       "फरीदाबाद में सॉफ्टवेयर कंपनी",
+      "Faridabad website designer",
+      "website cost in Faridabad",
+      "IT company in Faridabad",
+      "Haryana SEO services",
+      "hire developer Faridabad",
+      "tractor software in Faridabad",
     ],
   },
   hero: {

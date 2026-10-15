@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Dahej · Chemical Sites ${P.site}+`,
-    description: `Website developer in Dahej for chemical makers, plant contractors and port-linked firms: product catalogues and vendor-ready sites from ${P.site}, all logins yours.`,
+    description: `Website developer in Dahej for chemical makers, plant contractors and port-linked firms: catalogues and vendor-ready sites from ${P.site}, all logins yours.`,
     keywords: [
       "website developer in Dahej", "website developer Dahej", "Dahej website design", "website developer near me Dahej",
       "Dahej Bharuch Gujarat website developer", "chemical company website Dahej", "petrochemical supplier website Gujarat", "Dahej GIDC website",

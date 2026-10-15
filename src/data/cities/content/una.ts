@@ -7,7 +7,7 @@ const una: CityContent = {
   meta: {
     title: "IT Services in Una, Gujarat | Web, Apps, SEO & AI",
     description:
-      "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Una traders, Kesar mango growers, fish exporters, Diu-bound hotels and clinics.",
+      "Gujarati websites, apps, local SEO and WhatsApp automation for Una traders, Kesar mango growers, fish exporters, Diu-bound hotels and clinics. From ₹10,000.",
     keywords: [
       "IT services in Una",
       "IT services team in Una Gujarat",
@@ -30,6 +30,11 @@ const una: CityContent = {
       "Una me website banwana",
       "Una ma website banavvi che",
       "ઊના વેબસાઇટ ડિઝાઇન",
+      "Una website designer",
+      "web development company Una",
+      "hire freelance web developer Una",
+      "Gir Somnath district SEO",
+      "website designer Gir Somnath district",
     ],
   },
   hero: {

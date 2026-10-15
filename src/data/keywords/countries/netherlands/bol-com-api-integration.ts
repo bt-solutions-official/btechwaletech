@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "prevent overselling bol.com", "how much does a bol.com integration cost", "bol.com erp koppeling", "bol.com exact online koppeling",
       "bol.com seller amsterdam", "bol.com seller rotterdam", "bol.com seller utrecht", "bol.com seller eindhoven",
       "sell on bol.com from own webshop", "bol.com api developer india",
+      "hire bol.com api integration in the Netherlands", "freelance bol.com api integration Netherlands", "bol.com api integration Netherlands",
     ],
   },
   hero: {

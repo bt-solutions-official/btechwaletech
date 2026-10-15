@@ -158,7 +158,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With the BtechWaleTech team, a catalogue, brand or service website for a Keshod business starts at ${P.site}, roughly ${P.siteUsd}, covering up to 100 pages. An online store with cart, UPI checkout and delivery rules starts at ${P.shop}. A large SEO site of 299 or more pages, useful for a mill that wants a page for every district it supplies, starts at ${P.seoSite}.`,
         `Four things move a Keshod quote. First, the number of distinct page layouts: a furniture catalogue with filters by room and material takes more work than ten similar service pages. Second, languages: a Gujarati version doubles the pages to set up and test, even though you supply the copy. Third, writing: if you send voice notes and we turn them into English product text, that is a separate line. Fourth, integrations such as payment, stock or shipping.`,
-        `Running costs are paid by you directly to the providers: domain renewal, hosting, business email and transaction fees on payments. Optional care after the free period starts at ${P.care} a month. The national picture is on <a href='/website-making-cost-in-india/'>website making costs in India</a>.`,
+        `Running costs are paid by you directly to the providers: domain renewal, hosting, business email and transaction fees on payments. Optional care after the free period starts at ${P.care}. The national picture is on <a href='/website-making-cost-in-india/'>website making costs in India</a>.`,
       ],
     },
     {

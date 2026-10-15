@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Fitness App Developer for Gyms | Apps from ${P.app}`,
-    description: `Fitness app developer for gyms, studios and trainers: memberships, class booking, workout plans and renewals on Android and iOS, from ${P.app}. Features and costs.`,
+    description: `Fitness app developer for gyms, studios and trainers: memberships, class booking, workout plans and renewals on Android and iOS. Apps from ${P.app}.`,
     keywords: [
       "fitness app developer", "fitness app developer in India", "fitness app developer near me", "fitness app developer for hire",
       "fitness app development cost", "gym app development price", "best fitness app developer", "gym app banwana hai",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "gym management app", "personal trainer app developer", "workout app developer", "yoga studio app",
       "class booking app for gyms", "freelance fitness app developer", "fitness app with Health Connect", "custom gym app India",
       "diet and workout plan app", "fitness coaching app development",
+      "hire fitness app developer",
     ],
   },
   hero: {
@@ -60,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Core features", value: "Memberships, check-in, class booking, plans, renewals" },
       { label: "Health data", value: "Health Connect on Android, HealthKit on iPhone, with consent" },
       { label: "Paying us", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -334,7 +335,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "You create the Google Play and Apple developer accounts and cloud hosting with our help, then add us as users."],
       ["Weekly builds on your phone", "Test builds arrive every week so you and a couple of trainers can try booking, check-in and plans as they take shape."],
       ["Trial run and store release", "We test at your front desk during a busy hour, run a trial with regular members, fix issues and publish to both stores."],
-      ["Two months of free fixes", "Bug fixes and small changes are free for two months after launch, then optional maintenance from " + P.care + " a month."],
+      ["Two months of free fixes", "Bug fixes and small changes are free for two months after launch, then optional maintenance from " + P.care + "."],
     ],
   },
   faqHeading: "Fitness app developer: frequently asked questions",
@@ -357,7 +358,7 @@ const content: FreelanceContent = {
     { question: "Can you build an app for a yoga studio or personal trainer?", answer: "Yes. Yoga and dance studios usually need a booking-focused app with timetables, capacity, waitlists and passes. Personal trainers and online coaches need plan builders, progress logs, check-in forms and chat. Solo trainers starting out may be better served by a website and WhatsApp first, adding an app once they have enough clients." },
     { question: "Gym ke liye app banwane mein kitna kharcha hai?", answer: `BtechWaleTech ke saath gym ya studio ka Android aur iPhone app ${P.app} se shuru hota hai. Isme membership, check-in, class booking, workout plan aur owner dashboard shaamil hai. Zyada branches, video ya smartwatch sync se kharcha badhta hai. Itemised quote pehle milta hai aur launch ke baad 2 mahine fixes free hain.` },
     { question: "Do you build fitness apps for clients outside India?", answer: `Yes. We work with gyms, studios and coaches in the USA, UK, Canada, Australia, the UAE and elsewhere, billed in USD from ${P.appUsd}. We plan calls in overlapping hours, share weekly test builds and accept payment through Wise, bank wire or PayPal.` },
-    { question: "What support do I get after the fitness app launches?", answer: `BtechWaleTech includes two months of free maintenance after launch for bug fixes, small changes and updates required by new Android and iOS versions. After that, maintenance is optional from ${P.care} a month, and your code is documented so another developer could take over if you prefer.` },
+    { question: "What support do I get after the fitness app launches?", answer: `BtechWaleTech includes two months of free maintenance after launch for bug fixes, small changes and updates required by new Android and iOS versions. After that, maintenance is optional from ${P.care}, and your code is documented so another developer could take over if you prefer.` },
   ],
   related: {
     heading: "More on apps for gyms, bookings and health",

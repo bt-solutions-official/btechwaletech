@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Developer in Bhopal: Websites from ${P.site}`,
-    description: `Website developer in Bhopal for institutes, hospitals, government suppliers and hotels: complete sites from ${P.site}, built remotely, owned by you. Free 2-month care.`,
+    description: `Website developer in Bhopal for institutes, hospitals, suppliers and hotels: complete sites from ${P.site}, built remotely. 2 months of free care.`,
     keywords: [
       "website developer in Bhopal", "website developer Bhopal", "website developer near me Bhopal", "web developer in Bhopal",
       "website development Bhopal", "website development services Bhopal", "website designer Bhopal", "freelance web developer Bhopal",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "GeM seller website", "hotel website Bhopal", "website developer MP Nagar", "website developer Mandideep",
       "website developer Sehore", "website developer Vidisha", "WordPress developer Bhopal", "Urdu Hindi website Bhopal",
       "business website Bhopal Madhya Pradesh", "affordable website developer Bhopal",
+      "website developer in Bhopal cost", "website developer in Bhopal price", "hire website developer in Bhopal", "freelance website developer in Bhopal",
+      "best website developer in Bhopal", "website developer in Bhopal charges",
     ],
   },
   hero: {

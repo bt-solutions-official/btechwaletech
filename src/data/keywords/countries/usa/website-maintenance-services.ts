@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Website Maintenance Services from ${P.care}/Month`,
-    description: `Website maintenance services for US businesses from ${P.care} a month: updates, uptime checks, off-site backups, security monitoring and content edits.`,
+    description: `Website maintenance services for US businesses from ${P.care}: updates, uptime checks, off-site backups, security monitoring and content edits.`,
     keywords: [
       "website maintenance services", "website maintenance", "website maintenance plan", "monthly website maintenance",
       "website maintenance cost", "how much does website maintenance cost", "website maintenance packages", "what does website maintenance include",
@@ -26,12 +26,12 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Monthly website care for US businesses · from a team in India",
     h1: "Website maintenance services: what a monthly plan should cover for a US business",
-    lede: `Website maintenance services keep a business site updated, backed up, secure and accurate, so it never becomes the reason a customer leaves. BtechWaleTech is three freelance developers in India who look after US sites built on WordPress, WooCommerce, Shopify and custom code: core, plugin and theme updates tested first, uptime checks, off-site backups, security monitoring and the content edits you send during your working day. Plans start at ${P.care} a month, and sites we build get two months of care free.`,
+    lede: `Website maintenance services keep a business site updated, backed up, secure and accurate, so it never becomes the reason a customer leaves. BtechWaleTech is three freelance developers in India who look after US sites built on WordPress, WooCommerce, Shopify and custom code: core, plugin and theme updates tested first, uptime checks, off-site backups, security monitoring and the content edits you send during your working day. Plans start at ${P.care}, and sites we build get two months of care free.`,
     pills: ["Tested core and plugin updates", "Uptime monitoring", "Off-site backups", "Security monitoring", "Content edits on request", "Speed checks", "Quoted in USD"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · overlap with US Eastern mornings",
   },
   facts: [
-    ["Care plan from", `${P.care} a month`],
+    ["Care plan from", `${P.care}`],
     ["Sites we build", "2 months of care included"],
     ["Platforms", "WordPress, WooCommerce, Shopify, custom"],
     ["Backups", "Off-site copies, restores tested"],
@@ -46,13 +46,13 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What do website maintenance services include, and what do they cost?",
-    text: `A monthly website maintenance plan should cover tested updates to the core software, plugins and theme, uptime monitoring, off-site backups with restore tests, security monitoring, speed checks and small content edits. With BtechWaleTech, plans start at ${P.care} a month. Larger jobs, such as new pages, redesigns or cleanup after a serious hack, are scoped separately in writing before any work starts.`,
+    text: `A monthly website maintenance plan should cover tested updates to the core software, plugins and theme, uptime monitoring, off-site backups with restore tests, security monitoring, speed checks and small content edits. With BtechWaleTech, plans start at ${P.care}. Larger jobs, such as new pages, redesigns or cleanup after a serious hack, are scoped separately in writing before any work starts.`,
     more: `If your site is too far gone to maintain, read <a href='/usa/website-redesign-services/'>website redesign services</a>. Running WordPress? <a href='/usa/wordpress-website-design/'>WordPress website design services</a> explains how we set sites up to be easy to look after.`,
   },
   snapshot: {
     caption: "Website maintenance services at a glance",
     rows: [
-      { label: "Starting price", value: `${P.care} a month; two months free on sites we build` },
+      { label: "Starting price", value: `${P.care}; two months free on sites we build` },
       { label: "Updates", value: "Core, plugins and themes, tested on a staging copy first" },
       { label: "Backups", value: "Scheduled, stored off the web server, with periodic restore tests" },
       { label: "Monitoring", value: "Uptime, SSL expiry, malware scans and failed-login patterns" },
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Content edits", note: "New staff bios, price changes, holiday hours, blog posts and photo swaps sent by WhatsApp or email and made on your site.", size: "md" },
       { name: "Speed checks", note: "Core Web Vitals reviewed monthly, with image, cache and script fixes when pages slow down.", href: "/usa/technical-seo-services/", size: "sm" },
       { name: "Store upkeep", note: "WooCommerce and Shopify apps, checkout tests and shipping or tax setting reviews for online stores.", href: "/usa/ecommerce-website-development/", size: "sm" },
-      { name: "Monthly SEO add-on", note: `Search Console reviews, content and technical fixes on top of care, from ${P.seo} a month.`, href: "/usa/seo-services-for-small-business/", size: "sm" },
+      { name: "Monthly SEO add-on", note: `Search Console reviews, content and technical fixes on top of care, from ${P.seo}.`, href: "/usa/seo-services-for-small-business/", size: "sm" },
     ],
   },
   comparison: {
@@ -85,7 +85,7 @@ const content: FreelanceContent = {
       ["Backups", "Often stored on the same host", "Rarely checked", "Off-site copies with restore tests"],
       ["Noticing downtime", "You or a customer notices", "You notice, then call", "Outside monitor sends an alert"],
       ["Security", "Basic scanning, varies by host", "After a problem appears", "Scans, file-change alerts, account reviews"],
-      ["Content edits", "You make them", "Billed per request", `Included within the plan’s scope, from ${P.care} a month`],
+      ["Content edits", "You make them", "Billed per request", `Included within the plan’s scope, from ${P.care}`],
       ["Knowledge of your site", "None", "Rebuilt each time", "Kept in a written site record"],
       ["Time to start a fix", "Your own time", "Depends on availability", "Messages answered 7 days a week; terms in your written quote"],
       ["Cost pattern", "Included in hosting", "Unpredictable", "Predictable monthly fee"],
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What website maintenance services cost with us",
-    note: `Care plans start at ${P.care} a month for a typical business site. The monthly figure depends on the platform (a plugin-heavy WordPress or WooCommerce site needs more testing than a static site), the number of plugins and integrations, how many content edits you expect each month and whether the site takes payments. Sites we build include two months of care before any plan starts. New features, redesigns and large cleanups are quoted separately. You get a written quote listing what the plan covers in about two working days, and nothing is billed until you approve it.`,
+    note: `Care plans start at ${P.care} for a typical business site. The monthly figure depends on the platform (a plugin-heavy WordPress or WooCommerce site needs more testing than a static site), the number of plugins and integrations, how many content edits you expect each month and whether the site takes payments. Sites we build include two months of care before any plan starts. New features, redesigns and large cleanups are quoted separately. You get a written quote listing what the plan covers in about two working days, and nothing is billed until you approve it.`,
   },
   guideLabel: "Website maintenance guide",
   guide: [
@@ -200,7 +200,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do website maintenance services cost for a US business?",
       paragraphs: [
-        `With us, care plans start at ${P.care} a month. Other website maintenance services price across a wide range, and the gap usually reflects what is included: tested updates versus automatic ones, off-site versus same-server backups, how many content edits are covered and whether hack cleanup is part of the plan.`,
+        `With us, care plans start at ${P.care}. Other website maintenance services price across a wide range, and the gap usually reflects what is included: tested updates versus automatic ones, off-site versus same-server backups, how many content edits are covered and whether hack cleanup is part of the plan.`,
         `When you compare quotes, ask each provider to list the same items so you are comparing like for like. A cheap plan that runs automatic updates without testing and stores backups on the same server is doing less work than it appears. An expensive plan may include hours you never use.`,
         `What pushes a monthly price up: WooCommerce or other checkout features, a long plugin list, integrations with CRMs or booking tools, frequent content changes and custom code. What keeps it down: a lean site, a good host and content that changes rarely.`,
       ],
@@ -253,7 +253,7 @@ const content: FreelanceContent = {
         "Recommendations, such as a PHP upgrade or a plugin to replace",
       ],
       after: [
-        `If you want search performance in the same report, pair maintenance with <a href='/usa/seo-services-for-small-business/'>monthly SEO</a>, from ${P.seo} a month.`,
+        `If you want search performance in the same report, pair maintenance with <a href='/usa/seo-services-for-small-business/'>monthly SEO</a>, from ${P.seo}.`,
       ],
     },
     {
@@ -280,7 +280,7 @@ const content: FreelanceContent = {
         `The first month would set up staging, off-site backups and monitoring, renew the necessary licences in the studio’s name, remove unused plugins and test updates against the schedule and gift-card checkout. After that, a normal month is tested updates, backups, scans, teacher bio and timetable edits, and a short report. The studio’s own staff would keep posting class notices themselves.`,
       ],
       list: [
-        `Monthly care plan: estimated from ${P.care} a month`,
+        `Monthly care plan: estimated from ${P.care}`,
         "Staging copy used for every update because of the schedule plugin",
         "Gift-card checkout tested after each WooCommerce update",
         "Quarterly restore test recorded in the report",
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
   },
   faqHeading: "Website maintenance services: questions US businesses ask",
   faqs: [
-    { question: "How much do website maintenance services cost?", answer: `With BtechWaleTech, care plans start at ${P.care} a month for a typical business site. The price depends on the platform, the number of plugins or apps, whether the site takes payments, integrations and how many content edits you expect. Sites we build include two months of care before a plan starts. Redesigns and new features are quoted separately.` },
+    { question: "How much do website maintenance services cost?", answer: `With BtechWaleTech, care plans start at ${P.care} for a typical business site. The price depends on the platform, the number of plugins or apps, whether the site takes payments, integrations and how many content edits you expect. Sites we build include two months of care before a plan starts. Redesigns and new features are quoted separately.` },
     { question: "What is included in a website maintenance plan?", answer: "A solid plan covers tested updates to core software, plugins and themes, off-site backups with restore tests, uptime and SSL monitoring, security scans and account reviews, speed checks, small content edits and a monthly report. Your written quote lists exactly what is included for your site, including how edits and security incidents are handled." },
     { question: "Do I need website maintenance if my site is on WordPress?", answer: "Yes. WordPress applies some core updates automatically, but plugins, themes and the PHP version on your host usually need someone to apply and test them. Most WordPress problems come from outdated or conflicting plugins, lapsed licences and missing backups, which regular maintenance prevents." },
     { question: "How often should a website be updated?", answer: "Security fixes should be applied promptly, ideally within days of release. Routine plugin, theme and core updates are usually handled monthly after testing on a staging copy. Backups run daily or weekly depending on how often the site changes, and restore tests should happen at least every few months." },
@@ -398,17 +398,17 @@ const content: FreelanceContent = {
     { question: "Where are my website backups stored?", answer: "With us, backups are stored away from your web server in a storage account in your name, with enough history to roll back more than a week. CISA recommends small businesses keep three copies on two types of storage with one off-site, and test restores. We test restores to a staging copy a few times a year." },
     { question: "How quickly will you respond if my site goes down?", answer: "Monitoring alerts us automatically, and we answer WhatsApp messages seven days a week. Our working day is India time, which overlaps US mornings, so issues in your morning are usually picked up the same day. Any specific response-time commitment is written into your quote rather than promised on a web page." },
     { question: "Can you make content changes during US business hours?", answer: "You can send changes at any time by WhatsApp or email. Our working day overlaps your morning, Eastern time, and runs through your night, so edits sent by early afternoon Eastern are often live by the next morning. Urgent changes, such as closures, should be flagged as urgent so we handle them first." },
-    { question: "Why choose a website maintenance team in India?", answer: `Cost and coverage. Plans start at ${P.care} a month, and because our day runs through your night, routine updates and edits happen without disrupting your working hours. The trade-off is that live calls are limited to your morning overlap, and we do not offer a staffed US overnight rota.` },
+    { question: "Why choose a website maintenance team in India?", answer: `Cost and coverage. Plans start at ${P.care}, and because our day runs through your night, routine updates and edits happen without disrupting your working hours. The trade-off is that live calls are limited to your morning overlap, and we do not offer a staffed US overnight rota.` },
     { question: "Do you maintain sites you did not build?", answer: "Yes. The first month includes a review: we record every plugin, integration, form and account, set up staging and backups, and list risks we find. Some sites need a round of fixes before routine maintenance makes sense, and we say so in the quote rather than taking on a site we cannot keep safe." },
     { question: "Do you maintain Shopify stores?", answer: "Yes. Shopify runs the platform, but themes, apps and store settings still need care. We review installed apps, test the theme after changes, check checkout, shipping and tax settings, keep product data tidy and handle seasonal updates. Removing unused apps often speeds up a store noticeably." },
-    { question: "What is the difference between website maintenance and SEO?", answer: `Maintenance keeps the site working: updates, backups, security, uptime and edits. SEO works on visibility: keyword research, content, technical improvements and reporting on search performance. Maintenance supports SEO by keeping the site fast and healthy, but it does not replace it. Monthly SEO with us starts at ${P.seo} a month.` },
+    { question: "What is the difference between website maintenance and SEO?", answer: `Maintenance keeps the site working: updates, backups, security, uptime and edits. SEO works on visibility: keyword research, content, technical improvements and reporting on search performance. Maintenance supports SEO by keeping the site fast and healthy, but it does not replace it. Monthly SEO with us starts at ${P.seo}.` },
     { question: "Will you keep my PHP version up to date?", answer: "Yes, on hosts where we can change it. The PHP project gives each version two years of active support and two of security fixes, and lists PHP 8.2’s security support ending on 31 December 2026. We test your site on a newer version on staging first, switch it in your hosting panel and watch error logs afterwards." },
     { question: "Do I keep control of my website if you maintain it?", answer: "Yes. The hosting, domain, CMS and backup storage stay in your business’s name, and we work through user accounts you can remove at any time. Our written site record, listing accounts, plugins and renewal dates, is yours too, so moving to another provider later is simple." },
     { question: "Is a monthly report included?", answer: "Yes. Each month you get a short report of updates applied or held back, backup and restore status, uptime, security findings, content edits made, a Core Web Vitals trend and any recommendations that need your decision. It is written to be read in a couple of minutes rather than as a technical log." },
     { question: "Can maintenance improve my website speed?", answer: "Often. Regular care removes unused plugins, compresses new images, keeps caching configured and tracks Core Web Vitals in Search Console. Small speed fixes are part of routine work. If templates themselves are slow, rebuilding them is a separate project that we quote before starting." },
     { question: "Do you sign a contract for website maintenance?", answer: "Yes. The care-plan quote sets out what is covered, the monthly price, how edits and incidents are handled and how either side can end the arrangement. Our terms and refund-policy pages set out the general basis. We do not invent rules outside what is agreed with you in writing." },
     { question: "How do I pay for website maintenance from the US?", answer: "Plans are billed monthly in USD by bank wire, Wise or PayPal, as set out in your quote. Nothing is billed before you approve the quote in writing. Invoices come from India, and your accountant can advise on how to record payments to an overseas contractor." },
-    { question: "Is free maintenance included when you build my site?", answer: `Yes. Every site we build includes two months of maintenance after launch, covering fixes, updates and small changes. After that you can continue with a care plan from ${P.care} a month, pay for changes as you need them, or look after the site yourself using the handover guide.` },
+    { question: "Is free maintenance included when you build my site?", answer: `Yes. Every site we build includes two months of maintenance after launch, covering fixes, updates and small changes. After that you can continue with a care plan from ${P.care}, pay for changes as you need them, or look after the site yourself using the handover guide.` },
     { question: "Can you handle my domain and SSL renewals?", answer: "We watch renewal and expiry dates and remind you or renew with your approval, but the domain and certificates stay registered to your business. Let’s Encrypt certificates now last 90 days and are moving to 45 days by 2028, so automatic renewal is important and we check it keeps working after any hosting or DNS change." },
     { question: "What does website maintenance not cover?", answer: "Maintenance does not include new features, redesigns, large content projects, ongoing SEO campaigns, hardware, office networks or on-site visits. Those are quoted separately if you need them. We also do not give legal advice on privacy or accessibility; we implement technical changes your advisers approve." },
   ],
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
       { name: "WooCommerce developer for hire", href: "/usa/woocommerce-developer/" },
       { name: "Shopify developer for hire", href: "/usa/shopify-developer/" },
       { name: "Technical SEO services", href: "/usa/technical-seo-services/" },
-      { name: "Website accessibility remediation", href: "/usa/website-accessibility-remediation/" },
+      { name: "ADA compliant website design", href: "/usa/ada-compliant-website-design/" },
       { name: "AWS consulting for small business", href: "/usa/aws-consulting-for-small-business/" },
       { name: "Small business website design", href: "/usa/small-business-website-design/" },
       { name: "All services for US businesses", href: "/usa/" },

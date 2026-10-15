@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "remote app developers for german companies", "dsgvo app push notifications", "bfsg app accessibility", "d-u-n-s number app store",
       "dsa trader status app store", "flutter vs react native germany", "app agency germany vs india", "mobile app developers near me germany",
       "best mobile app development company in germany",
+      "freelance mobile app development Germany",
     ],
   },
   hero: {

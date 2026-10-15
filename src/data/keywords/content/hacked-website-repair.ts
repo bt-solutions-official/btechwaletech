@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Hacked website repair",
   updated: "2026-09-24",
   meta: {
-    title: "Hacked Website Repair: Clean, Restore, Prevent",
+    title: `Hacked Website Repair: Clean & Restore from ${P.care}`,
     description: `Hacked website repair from India: contain the attack, remove malware and spam pages, clear Google warnings, then harden. Care plans from ${P.care}.`,
     keywords: [
       "hacked website repair", "hacked website repair India", "hacked website repair near me", "hacked website repair service",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "this site may be hacked fix", "deceptive site ahead warning fix", "website redirecting to spam", "hacked site recovery",
       "website cleanup after hack", "fix hacked website", "website security hardening", "Google Search Console security issues",
       "hacked website expert", "restore hacked website",
+      "hacked website repair company in India",
     ],
   },
   hero: {
@@ -38,7 +39,7 @@ const content: FreelanceContent = {
     ["Platforms", "WordPress, PHP, static and custom sites"],
     ["Google warnings", "Security Issues review requested"],
     ["Clean rebuild", `From ${P.site} if repair is not worth it`],
-    ["Ongoing care", `From ${P.care} a month`],
+    ["Ongoing care", `From ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who can look at your site" },
@@ -59,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Search cleanup", value: "Spam URLs removed, Search Console review requested" },
       { label: "Root cause", value: "Entry point found and closed, written in a short report" },
       { label: "If beyond repair", value: `Clean rebuild from ${P.site}, 1–2 weeks` },
-      { label: "Ongoing care", value: `From ${P.care} per month` },
+      { label: "Ongoing care", value: `From ${P.care}` },
       { label: "Payment", value: "UPI or bank transfer; Wise, wire or PayPal abroad" },
     ],
   },
@@ -74,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Entry point investigation", note: "Logs, plugin versions and file timestamps checked to find how the attacker got in, so the same hole is closed.", size: "md" },
       { name: "Clean rebuild", note: `When a site is old, nulled or reinfected repeatedly, a fresh static or WordPress build from ${P.site} is often safer and cheaper than another cleanup.`, href: "/website-redesign-freelancer/", size: "md" },
       { name: "Hosting and email recovery", note: "Help getting a suspended hosting account restored and stopping spam mail sent from your server.", href: "/cloud-hosting-setup-freelancer/", size: "sm" },
-      { name: "Hardening and care", note: `Updates, backups, two-factor login and monitoring after cleanup, from ${P.care} a month.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Hardening and care", note: `Updates, backups, two-factor login and monitoring after cleanup, from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
       { name: "Store and checkout checks", note: "For online stores, checkout scripts are inspected for card-skimming code and payment pages verified.", href: "/freelance-ecommerce-developer/", size: "sm" },
     ],
   },
@@ -254,7 +255,7 @@ const content: FreelanceContent = {
         "A supported PHP version and HTTPS everywhere",
       ],
       after: [
-        `If routine upkeep is not something your team will do, it is cheaper to pay for it than to pay for another cleanup. Our care plans start at ${P.care} a month; see <a href='/website-maintenance-freelancer/'>website maintenance freelancer</a> for what they cover.`,
+        `If routine upkeep is not something your team will do, it is cheaper to pay for it than to pay for another cleanup. Our care plans start at ${P.care}; see <a href='/website-maintenance-freelancer/'>website maintenance freelancer</a> for what they cover.`,
       ],
     },
     {
@@ -389,7 +390,7 @@ const content: FreelanceContent = {
   faqs: [
     { question: "How do I know if my website has been hacked?", answer: "Common signs include visitors being redirected to spam or gambling sites, unfamiliar pages in Google results for your domain, a “This site may be hacked” label, a Chrome “Deceptive site ahead” warning, unknown admin users, or a hosting suspension for spam. Many hacks show only to Google or mobile visitors, so check a site: search and browse from your phone via Google." },
     { question: "What should I do first when my website is hacked?", answer: "Change all passwords for hosting, email, database, FTP and website admin, and turn on two-factor authentication. Take a full backup of the infected site before deleting anything, because it shows how the attacker got in. Then put the site in maintenance mode or ask your host to restrict it, and pause checkout if you run a store." },
-    { question: "How much does hacked website repair cost?", answer: `It depends on the damage, so BtechWaleTech quotes after a first look, with containment, file cleanup, database cleanup, search cleanup and hardening as separate lines. Nothing is billed before approval. If a rebuild makes more sense, a clean business site starts at ${P.site}, and ongoing care after cleanup starts at ${P.care} a month.` },
+    { question: "How much does hacked website repair cost?", answer: `It depends on the damage, so BtechWaleTech quotes after a first look, with containment, file cleanup, database cleanup, search cleanup and hardening as separate lines. Nothing is billed before approval. If a rebuild makes more sense, a clean business site starts at ${P.site}, and ongoing care after cleanup starts at ${P.care}.` },
     { question: "How long does it take to fix a hacked website?", answer: "A simple infection can be cleaned quickly once access is available, while sites with thousands of spam pages, several backdoors or damaged databases take longer. Google’s review of a Security Issues report can then take from a few days to a few weeks. The timeline for your site is stated in the quote after we have seen it." },
     { question: "Can a hacked website be repaired without losing content?", answer: "Usually, yes. A careful cleanup replaces infected core files with official copies and removes injected code while keeping your posts, pages, products and media. That is why taking a full backup first matters: if anything is removed by mistake, it can be recovered from the snapshot after checking it is safe." },
     { question: "Why does my website keep getting hacked again?", answer: "Reinfection usually means a backdoor was missed or the original entry point was never closed. Common causes are an outdated or nulled plugin, a hidden admin account, a scheduled task in the database that recreates malware, or another infected site on the same hosting account. Finding and fixing the root cause is what stops the cycle." },

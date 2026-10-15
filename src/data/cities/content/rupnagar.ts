@@ -7,7 +7,7 @@ const rupnagar: CityContent = {
   meta: {
     title: "IT Services in Rupnagar (Ropar): Web, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Ropar traders, IIT-area rentals, thermal plant suppliers, gurdwara-route hotels and clinics.",
+      "Websites, apps, local SEO and WhatsApp tools for Ropar traders, IIT-area rentals, thermal plant suppliers, gurdwara-route hotels and clinics. From ₹10,000.",
     keywords: [
       "IT services in Rupnagar",
       "IT services team in Ropar",
@@ -29,6 +29,12 @@ const rupnagar: CityContent = {
       "Ropar vich website banwauni",
       "ਰੋਪੜ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
       "Morinda Nangal website developer",
+      "Rupnagar website designer",
+      "website cost in Rupnagar",
+      "web development company Rupnagar",
+      "hire freelance web developer Rupnagar",
+      "Punjab SEO services",
+      "website design College Road Rupnagar",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Harij: Small Sites from ${P.site}`,
-    description: `Website developer in Harij for agri dealers, cumin and cotton traders, clinics and shops. Small Gujarati-ready sites from ${P.site}, built remotely in 1–2 weeks.`,
+    description: `Website developer in Harij for agri dealers, cumin and cotton traders, clinics and shops. Small Gujarati-ready sites from ${P.site}, live in 1–2 weeks.`,
     keywords: [
       "website developer in Harij", "website developer Harij", "Harij website developer near me", "Harij Gujarat website",
       "web developer Harij Patan", "website designer Harij", "website development services Harij", "website cost Harij",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "jeera trader website", "cotton trader website Harij", "market yard website Harij", "clinic website Harij",
       "Gujarati website Harij", "small town website Gujarat", "Harij me website kaise banaye", "website banwani hai Harij",
       "website developer Chanasma Sami", "freelance web developer Harij", "business website Harij Patan district",
+      "Harij website design charges", "school website Harij", "Google Maps listing Harij",
     ],
   },
   hero: {

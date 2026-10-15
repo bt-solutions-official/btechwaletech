@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Speed Optimisation in Gujarat: Fast on Phones`,
-    description: `Website speed optimisation in Gujarat: Core Web Vitals fixes for slow WordPress, Shopify and custom sites on mobile data. Care plans from ${P.care}; itemised quote.`,
+    description: `Website speed optimisation in Gujarat: Core Web Vitals fixes for slow WordPress, Shopify and custom sites on mobile data. Care from ${P.care}, 2-day quote.`,
     keywords: [
       "website speed optimisation in Gujarat", "website speed optimization Gujarat", "Core Web Vitals fix Gujarat", "website speed expert near me",
       "slow website fix Gujarat", "page speed optimization service India", "WordPress speed optimization Gujarat", "Shopify speed optimization Gujarat",

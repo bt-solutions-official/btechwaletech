@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "logistics website designer near me", "fleet owner website", "road transport company website Nagpur", "logistics company website Bhiwandi",
       "transport company website Delhi NCR", "logistics website for tenders and RFQs", "e-way bill information page transporter", "transport company ki website kaise banaye",
       "logistics company SEO", "cold chain logistics website",
+      "best logistics company website design in India",
+      "logistics company website design services",
     ],
   },
   hero: {

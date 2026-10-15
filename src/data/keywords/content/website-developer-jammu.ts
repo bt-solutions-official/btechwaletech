@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Developer in Jammu: Websites from ${P.site}`,
-    description: `Website developer in Jammu for hotels, dry fruit traders, schools and clinics. Business websites from ${P.site}, built remotely, your own domain, 2 months free care.`,
+    description: `Website developer in Jammu for hotels, dry fruit traders, schools and clinics: business websites from ${P.site}, your own domain. 2 months free care.`,
     keywords: [
       "website developer in Jammu", "website developer Jammu", "website developer near me Jammu", "web developer in Jammu",
       "website designer in Jammu", "website design Jammu", "website development services Jammu", "freelance web developer Jammu",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Gandhi Nagar Jammu", "website developer Trikuta Nagar", "website developer Katra", "website developer Kathua",
       "website developer Jammu and Kashmir", "business website Jammu", "ecommerce website Jammu", "Jammu me website kaise banaye",
       "website banwani hai Jammu", "Dogri website design",
+      "website developer in Jammu cost", "website developer in Jammu price", "hire website developer in Jammu", "freelance website developer in Jammu",
+      "best website developer in Jammu", "website developer in Jammu charges",
     ],
   },
   hero: {

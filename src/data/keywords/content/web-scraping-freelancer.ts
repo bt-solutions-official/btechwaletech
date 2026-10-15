@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Web scraping freelancer",
   updated: "2026-09-24",
   meta: {
-    title: "Web Scraping Freelancer in India | Legal, Clean Data",
+    title: `Web Scraping Freelancer India: Hire from ${P.ai}`,
     description: `Web scraping freelancer in India for price tracking, tenders and catalogues: legal checks, clean data and scheduled runs. Scrapers scoped from ${P.ai}.`,
     keywords: [
       "web scraping freelancer", "web scraping freelancer India", "web scraping freelancer near me", "web scraping expert for hire",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "price monitoring scraper", "is web scraping legal in India", "scheduled web scraping", "Scrapy developer",
       "Playwright scraping developer", "web data to Google Sheets", "tender tracking scraper", "product data scraping",
       "hire web scraper", "web crawler developer",
+      "hire web scraping freelancer", "freelance web scraping freelancer", "web scraping freelancer cost", "best web scraping freelancer in India",
+      "web scraping freelancer price", "web scraping freelancer charges",
     ],
   },
   hero: {

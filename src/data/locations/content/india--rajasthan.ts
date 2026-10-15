@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 27.0238, lng: 74.2179 },
   meta: {
-    title: "Freelance IT Solutions & Consulting in Rajasthan",
+    title: "Rajasthan IT Consulting: Marble, Textiles & Furniture",
     description:
-      "Freelance IT solutions and IT consulting in Rajasthan: digital transformation for stone, textile, tourism and trading firms. Software, apps, AI and SEO from ₹10,000.",
+      "Freelance IT consulting in Rajasthan: digital transformation for stone, textile, plus tourism and trading firms. Software, apps, AI and SEO from ₹10,000.",
     keywords: [
       "IT solutions team in Rajasthan",
       "IT consulting Rajasthan",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "digital transformation consultant for small business Rajasthan",
       "राजस्थान में आईटी सॉल्यूशंस",
       "राजस्थान सॉफ्टवेयर कंसल्टेंट",
+      "Rajasthan website designer",
+      "website cost in Rajasthan",
+      "IT company in Rajasthan",
+      "Rajasthan SEO services",
+      "hire developer Rajasthan",
+      "marble software in Rajasthan",
+      "textiles software in Rajasthan",
+      "furniture software in Rajasthan",
     ],
   },
   hero: {

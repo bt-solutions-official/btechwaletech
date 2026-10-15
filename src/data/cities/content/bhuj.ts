@@ -7,7 +7,7 @@ const bhuj: CityContent = {
   meta: {
     title: "IT Services in Bhuj | Web, Apps, SEO & AI from ₹10,000",
     description:
-      "Websites, local SEO, craft stores and WhatsApp automation for Bhuj artisans, hotels, Rann tour operators, clinics and Kutch suppliers. You own the domain.",
+      "Bhuj websites, local SEO, craft stores and WhatsApp automation for artisans, hotels, Rann tour operators, clinics and Kutch suppliers. You own the domain.",
     keywords: [
       "website development team in Bhuj",
       "web designer Bhuj Kutch",
@@ -25,6 +25,14 @@ const bhuj: CityContent = {
       "website maintenance Bhuj",
       "Bhuj ma website banavvi",
       "ભુજ વેબસાઇટ ડિઝાઇન",
+      "Bhuj website designer",
+      "website cost in Bhuj",
+      "web development company Bhuj",
+      "hire freelance developer Bhuj",
+      "Gujarat SEO",
+      "website for ajrakh, bandhani and embroidery workshops in Bhuj",
+      "web designer in Mirzapar Road, Bhuj",
+      "website for weavers and shawl makers in Bhuj",
     ],
   },
   hero: {

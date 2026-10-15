@@ -7,7 +7,7 @@ const koratla: CityContent = {
   meta: {
     title: "IT Services in Koratla | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Koratla mango and turmeric traders, rice mills, clinics, colleges and shops.",
+      "Koratla Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for mango and turmeric traders, rice mills, clinics, colleges and shops.",
     keywords: [
       "IT services in Koratla",
       "IT services team in Koratla",
@@ -29,6 +29,10 @@ const koratla: CityContent = {
       "Koratla me website banwana",
       "Korutla lo website cheyinchali",
       "Korutla website tayaru cheyadam",
+      "Koratla website designer",
+      "web development company Koratla",
+      "hire freelance developer Koratla",
+      "Telangana SEO",
     ],
   },
   hero: {

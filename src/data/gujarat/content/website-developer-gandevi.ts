@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Gandevi: Sites from ${P.site}`,
-    description: `Website developer in Gandevi for chikoo and mango growers, cooperatives, dealers, advocates and clinics: simple sites from ${P.site}, Gujarati-ready, quote in 2 days.`,
+    description: `Website developer in Gandevi for chikoo and mango growers, cooperatives, dealers, advocates and clinics: simple sites from ${P.site}, quote in 2 days.`,
     keywords: [
       "website developer in Gandevi", "website developer Gandevi", "Gandevi website developer near me", "Gandevi Gujarat website",
       "web developer Gandevi Navsari", "website designer Gandevi", "website development services Gandevi", "website design Gandevi",

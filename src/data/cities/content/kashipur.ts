@@ -7,7 +7,7 @@ const kashipur: CityContent = {
   meta: {
     title: "Kashipur Websites, SEO & Factory Software",
     description:
-      "Websites, Hindi SEO, vendor pages and WhatsApp tools for Kashipur factories, paper and chemical units, traders, schools and Corbett-route hotels. From ₹10,000.",
+      "Kashipur websites, Hindi SEO, vendor pages and WhatsApp bots for factories, paper and chemical units, traders, schools and Corbett-route hotels. From ₹10,000.",
     keywords: [
       "website development team in Kashipur",
       "web designer Kashipur Uttarakhand",
@@ -25,6 +25,14 @@ const kashipur: CityContent = {
       "software team Kashipur",
       "website maintenance Kashipur",
       "freelance web developer Udham Singh Nagar",
+      "Kashipur website designer",
+      "website cost in Kashipur",
+      "web development company Kashipur",
+      "hire freelance developer Kashipur",
+      "Uttarakhand SEO",
+      "Kashipur me website kaise banwaye",
+      "website for paper and board mills in Kashipur",
+      "web designer in Mahuakhera Ganj, Kashipur",
     ],
   },
   hero: {

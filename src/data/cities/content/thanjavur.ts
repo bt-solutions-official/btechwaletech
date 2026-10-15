@@ -7,7 +7,7 @@ const thanjavur: CityContent = {
   meta: {
     title: "IT Services in Thanjavur: Websites, Apps, SEO & AI",
     description:
-      "Websites, Tamil and English SEO, craft stores and WhatsApp automation for Thanjavur rice mills, artisans, clinics and colleges. Static sites from ₹10,000.",
+      "Websites, craft stores and WhatsApp tools for Thanjavur rice mills, artisans, clinics and colleges. Sites from ₹10,000 with an itemised quote.",
     keywords: [
       "website development team in Thanjavur",
       "web design Thanjavur",
@@ -24,6 +24,17 @@ const thanjavur: CityContent = {
       "website maintenance Thanjavur",
       "Thanjavur website panna evvalavu",
       "தஞ்சாவூர் வெப்சைட் டிசைன்",
+      "Thanjavur website designer",
+      "web development company Thanjavur",
+      "hire freelance web developer Thanjavur",
+      "Tamil Nadu SEO services",
+      "website design Medical College Road Thanjavur",
+      "website design price in Thanjavur",
+      "app development company Thanjavur",
+      "Thanjavur SEO company",
+      "Google Maps listing Thanjavur",
+      "software company in Thanjavur",
+      "business website design Thanjavur",
     ],
   },
   hero: {

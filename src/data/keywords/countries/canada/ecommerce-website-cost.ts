@@ -15,7 +15,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Ecommerce Website Cost Canada · Stores from ${P.shop}`,
-    description: `Ecommerce website cost in Canada, line by line: Shopify vs WooCommerce vs custom, platform and payment fees, French storefront, first-year total. Stores from ${P.shop}.`,
+    description: `Ecommerce website cost in Canada: Shopify vs WooCommerce vs custom, platform and payment fees, French storefront, first-year total. Stores from ${P.shop}.`,
     keywords: [
       "ecommerce website cost canada", "ecommerce website cost in canada", "how much does an online store cost in canada",
       "how much does a shopify store cost in canada", "shopify store cost canada", "woocommerce store cost canada",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "ecommerce website cost toronto", "ecommerce website cost vancouver", "ecommerce website cost montreal",
       "ecommerce website cost calgary", "shopify vs woocommerce cost", "ecommerce website for small business canada",
       "how much should i budget for an ecommerce website",
+      "hire ecommerce website in Canada", "freelance ecommerce website Canada",
     ],
   },
   hero: {

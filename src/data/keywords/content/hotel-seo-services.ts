@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Hotel SEO services",
   updated: "2026-09-25",
   meta: {
-    title: `Hotel SEO Services: More Direct Bookings, Less OTA`,
-    description: `Hotel SEO services for hotels and homestays that want direct bookings: Google hotel listings, free booking links, hotel schema, destination pages. From ${P.seo}.`,
+    title: `Hotel SEO Services: Direct Bookings from ${P.seo}`,
+    description: `Hotel SEO services for hotels and homestays chasing direct bookings: Google listings, free booking links, hotel schema, destination pages. From ${P.seo}.`,
     keywords: [
       "hotel seo services", "hotel seo", "seo for hotels", "hotel seo services India", "seo for homestay", "seo for resorts",
       "how to increase direct bookings for hotel", "reduce ota commission", "hotel direct booking strategy", "google hotel free booking links",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "hotel seo cost", "hotel seo price", "boutique hotel seo", "heritage hotel seo", "seo for guest house", "multilingual hotel website",
       "hotel seo Goa", "hotel seo Jaipur", "hotel seo Udaipur", "hotel seo Rishikesh", "homestay ko google par kaise laye",
       "local seo for hotels", "hotel booking engine seo",
+      "best hotel seo services in India",
     ],
   },
   hero: {
@@ -245,7 +246,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do hotel SEO services cost in India?",
       paragraphs: [
-        `With BtechWaleTech, hotel SEO services start at ${P.seo} a month. The quote depends on the number of properties, room types and languages, the destination content planned and whether the booking path needs development. A six-room homestay needs much less than a three-property resort group with two language versions.`,
+        `With BtechWaleTech, hotel SEO services start at ${P.seo}. The quote depends on the number of properties, room types and languages, the destination content planned and whether the booking path needs development. A six-room homestay needs much less than a three-property resort group with two language versions.`,
         `In the wider market, quotes vary widely, and the difference usually comes from scope: whether content is written for you, whether booking engine and tracking work is included, whether OTA listing management is part of it, and how often reporting happens. The useful comparison is not price alone but what share of your name searches ends in a direct booking before and after.`,
         `One-time costs are separate. A new hotel or homestay website of up to 100 pages starts at ${P.site} (${P.siteUsd}). A larger multilingual or multi-property site starts at ${P.seoSite}. A custom booking tool starts at ${P.software}, and a guest app for Android and iOS at ${P.app}, though most properties do not need an app. Maintenance after the two free months starts at ${P.care}.`,
       ],
@@ -380,7 +381,7 @@ const content: FreelanceContent = {
   faqs: [
     { question: "What are hotel SEO services?", answer: "Hotel SEO services make a hotel, resort or homestay visible on Google where travellers compare and book, and make the property's own website the preferred place to book. The work covers the Business Profile, free booking links through the booking engine, room pages, hotel schema, destination content, multilingual pages, reviews and tracking." },
     { question: "How can a hotel get more direct bookings?", answer: "Make your own website the easiest place to book when guests search your name: point your Business Profile to your site, connect your booking engine for free booking links with accurate rates, build fast room pages with a one-tap booking button, and offer direct-booking perks within your OTA contract terms. Then add destination content and reviews." },
-    { question: "How much do hotel SEO services cost?", answer: `At BtechWaleTech, hotel SEO services start at ${P.seo} a month, depending on properties, room types, languages and content. A new hotel or homestay website of up to 100 pages starts at ${P.site}. Every quote is itemised, arrives in about two working days and is billed only after written approval.` },
+    { question: "How much do hotel SEO services cost?", answer: `At BtechWaleTech, hotel SEO services start at ${P.seo}, depending on properties, room types, languages and content. A new hotel or homestay website of up to 100 pages starts at ${P.site}. Every quote is itemised, arrives in about two working days and is billed only after written approval.` },
     { question: "What are Google's free booking links for hotels?", answer: "Free booking links are listings in Google's hotel booking module that show your rate and link to your booking page. Google's Hotel Center help says there is no cost for clicks on them, Google collects no payment for placement, and ranking considers factors such as landing page experience and price accuracy." },
     { question: "How does an independent hotel get free booking links?", answer: "Usually through its reservation system or booking engine. Google says hotel owners using a reservation system may already be connected through their provider, who can set up booking links. Confirm that your provider is connected to Google, that your property is matched to the right Business Profile and that the rates shown match your booking page." },
     { question: "Is it worth reducing dependence on OTAs?", answer: "For most properties, yes, but gradually. OTAs bring travellers who would not find you otherwise, so the aim is a healthier balance. Every booking moved from an OTA to your website saves the commission in your OTA contract and gives you the guest relationship, cancellation control and chances to offer meals and experiences." },

@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Personal Injury Lawyer Website Design from ${P.site}`,
-    description: `Personal injury lawyer website design from ${P.site}: case-type landing pages, results with proper disclaimers, 24/7 chat intake, Spanish pages and office city pages.`,
+    description: `Personal injury lawyer website design from ${P.site}: case-type landing pages, results with disclaimers, 24/7 chat intake, Spanish and office city pages.`,
     keywords: [
       "personal injury lawyer website design", "personal injury law firm website design", "personal injury attorney website design",
       "PI law firm website", "personal injury website design", "car accident lawyer website design", "truck accident attorney website",
@@ -373,9 +373,9 @@ const content: FreelanceContent = {
     heading: "More US pages for legal and professional services",
     links: [
       { name: "Law firm website design", href: "/usa/law-firm-website-design/" },
-      { name: "Insurance agency website design", href: "/usa/insurance-agency-website-design/" },
-      { name: "Financial advisor website design", href: "/usa/financial-advisor-website-design/" },
-      { name: "CPA firm website design", href: "/usa/cpa-firm-website-design/" },
+      { name: "Small business website design", href: "/usa/small-business-website-design/" },
+      { name: "Customer portal development", href: "/usa/customer-portal-development/" },
+      { name: "Medical practice website design", href: "/usa/medical-practice-website-design/" },
       { name: "Landing page design services", href: "/usa/landing-page-design-services/" },
       { name: "AI voice agent development", href: "/usa/ai-voice-agent-development/" },
       { name: "Custom AI chatbot development", href: "/usa/custom-ai-chatbot-development/" },

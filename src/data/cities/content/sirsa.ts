@@ -7,7 +7,7 @@ const sirsa: CityContent = {
   meta: {
     title: "Sirsa Web Design & SEO | Cotton, Mandi & Local Shops",
     description:
-      "Websites, Punjabi and Hindi SEO, online stores and WhatsApp automation for Sirsa, Dabwali, Ellenabad and Rania businesses. Static sites from ₹10,000.",
+      "Websites, online stores and WhatsApp tools for Sirsa, Dabwali, Ellenabad and Rania businesses. Sites from ₹10,000, free upkeep for 2 months.",
     keywords: [
       "website development team in Sirsa",
       "web design Sirsa Haryana",
@@ -25,6 +25,16 @@ const sirsa: CityContent = {
       "website maintenance Sirsa",
       "Sirsa vich website banwaani",
       "सिरसा वेबसाइट डिज़ाइन",
+      "web development company Sirsa",
+      "hire freelance web developer Sirsa",
+      "Haryana SEO services",
+      "Sirsa me website kaise banwaye",
+      "Sirsa website banwane ka kharcha",
+      "website design Hisar Road Sirsa",
+      "website design Dabwali Road Sirsa",
+      "website design Barnala Road Sirsa",
+      "website design Rania Road Sirsa",
+      "website design Begu Road Sirsa",
     ],
   },
   hero: {

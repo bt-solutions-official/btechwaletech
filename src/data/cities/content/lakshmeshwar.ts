@@ -7,7 +7,7 @@ const lakshmeshwar: CityContent = {
   meta: {
     title: "IT Services in Lakshmeshwar: Websites, Apps & AI",
     description:
-      "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Lakshmeshwar APMC traders, weavers, input dealers, lodges and colleges.",
+      "Lakshmeshwar Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for APMC traders, weavers, input dealers, lodges and colleges.",
     keywords: [
       "IT services in Lakshmeshwar",
       "IT company in Lakshmeshwar",
@@ -29,6 +29,10 @@ const lakshmeshwar: CityContent = {
       "Lakshmeshwar me website banwana",
       "Lakshmeshwaradalli website beku",
       "ಲಕ್ಷ್ಮೇಶ್ವರ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Lakshmeshwar website designer",
+      "web development company Lakshmeshwar",
+      "hire freelance developer Lakshmeshwar",
+      "Karnataka SEO",
     ],
   },
   hero: {

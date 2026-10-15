@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "hotel website Kolhapur", "website developer Rajarampuri", "website developer Ichalkaranji", "freelance website developer Kolhapur",
       "Marathi website developer Kolhapur", "ecommerce website Kolhapur", "Kolhapur me website kaise banaye", "website banwana hai Kolhapur",
       "best website developer in Kolhapur",
+      "website developer in Kolhapur cost", "website developer in Kolhapur price", "hire website developer in Kolhapur", "freelance website developer in Kolhapur",
+      "website developer in Kolhapur charges",
     ],
   },
   hero: {

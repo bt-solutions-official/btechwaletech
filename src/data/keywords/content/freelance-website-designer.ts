@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "business website designer", "website design and development freelancer", "Figma website designer", "website redesign designer",
       "website design ke liye freelancer", "website designer chahiye", "hire website designer India", "custom website design freelancer",
       "website designer for small business",
+      "hire freelance website designer",
     ],
   },
   hero: {

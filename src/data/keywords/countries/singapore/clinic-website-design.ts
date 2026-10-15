@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Clinic Website Design Singapore: Sites from ${P.site}`,
-    description: `Clinic website design in Singapore for GP and specialist clinics: online booking, CHAS and MediSave pages, factual copy built around MOH ad rules. From ${P.site}.`,
+    description: `Clinic website design in Singapore for GP and specialist clinics: online booking, CHAS and MediSave pages, factual copy for MOH ad rules. From ${P.site}.`,
     keywords: [
       "clinic website design singapore", "clinic website singapore", "gp clinic website design", "medical clinic website design singapore",
       "specialist clinic website singapore", "doctor website design singapore", "clinic web design cost singapore", "how much does a clinic website cost in singapore",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "healthier sg clinic website", "clinic google business profile singapore", "clinic seo singapore", "pdpa patient data website",
       "clinic website near me singapore", "clinic website novena", "clinic website tampines", "clinic website jurong", "gp clinic website sengkang",
       "medical website developer singapore",
+      "hire clinic website design in Singapore", "freelance clinic website design Singapore",
     ],
   },
   hero: {

@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 24.4852, lng: 86.6948 },
   meta: {
-    title: "Freelance Software Developers in Deoghar: Apps, AI",
+    title: "Deoghar Software Developers: Pilgrim & Prasad Orders",
     description:
       "Comparing a software development team in Deoghar? Hire our freelance group for pilgrim booking, prasad orders, apps, AI and scalable hosting. INR prices.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "website maintenance Deoghar",
       "Deoghar mein software developer",
       "देवघर में सॉफ्टवेयर डेवलपर",
+      "Deoghar website designer",
+      "website cost in Deoghar",
+      "IT company in Deoghar",
+      "Jharkhand SEO services",
+      "hire developer Deoghar",
+      "lodges software in Deoghar",
+      "peda software in Deoghar",
+      "panda families software in Deoghar",
+      "taxi software in Deoghar",
+      "website developer Baba Mandir area Deoghar",
     ],
   },
   hero: {

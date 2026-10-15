@@ -7,7 +7,7 @@ const kadapa: CityContent = {
   meta: {
     title: "Kadapa Web Development and Telugu Local SEO",
     description:
-      "Websites, Telugu and English SEO and WhatsApp tools for Kadapa clinics, colleges, cement and mineral suppliers, jewellers and traders. From ₹10,000, owned by you.",
+      "Kadapa websites, Telugu and English SEO and WhatsApp tools for clinics, colleges, cement and mineral suppliers and jewellers. From ₹10,000, owned by you.",
     keywords: [
       "website development team in Kadapa",
       "website designer Kadapa",
@@ -24,6 +24,15 @@ const kadapa: CityContent = {
       "ecommerce website Rayalaseema",
       "website maintenance Kadapa",
       "కడప వెబ్‌సైట్ డిజైన్",
+      "Kadapa website designer",
+      "website cost in Kadapa",
+      "web development company Kadapa",
+      "hire freelance developer Kadapa",
+      "Andhra Pradesh SEO",
+      "website for stone and mineral suppliers in Kadapa",
+      "web designer in NGO Colony, Kadapa",
+      "website for plant contractors and vendors in Kadapa",
+      "mobile app developer in Kadapa",
     ],
   },
   hero: {

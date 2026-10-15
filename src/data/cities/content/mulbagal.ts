@@ -7,7 +7,7 @@ const mulbagal: CityContent = {
   meta: {
     title: "IT Services in Mulbagal | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, SEO and WhatsApp automation for Mulbagal tomato traders, dairy and silk farmers, dose hotels, lodges and shops. Sites from ₹10,000.",
+      "Websites, apps, SEO and WhatsApp automation for Mulbagal tomato traders, dairy and silk farmers, dose hotels, lodges and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Mulbagal",
       "IT services team in Mulbagal",
@@ -30,6 +30,11 @@ const mulbagal: CityContent = {
       "Mulbagalalli website maadisabeku",
       "Mulbagal lo website cheyinchukovali",
       "ಮುಳಬಾಗಿಲು ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Mulbagal website designer",
+      "web development company Mulbagal",
+      "hire freelance web developer Mulbagal",
+      "Kolar district SEO",
+      "website designer Kolar district",
     ],
   },
   hero: {

@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "how to manage security guards", "guard tour app for android", "security guard selfie attendance", "incident reporting app for security guards",
       "security company software", "security agency app delhi", "security guard software gurgaon", "security agency software pune",
       "security guard app banwana hai", "custom security guard management software",
+      "security guard management software company", "best security guard management software in India", "security guard management software cost in India", "security guard management software near me",
     ],
   },
   hero: {
@@ -234,7 +235,7 @@ const content: FreelanceContent = {
       heading: "How much does security guard management software cost in India?",
       paragraphs: [
         `With BtechWaleTech, security guard management software starts at ${P.app} for a guard and supervisor app with patrol scans, selfie attendance and incident reports, and at ${P.software} for a full agency system with rosters, payroll, client billing and PSARA registers. Final cost depends on modules and rules, not headcount.`,
-        `Running costs are separate: cloud hosting in your own account, SMS or WhatsApp message charges, NFC tags or printed QR stickers for checkpoints, and phones if you provide them to posts. Maintenance is free for two months after launch, and then plans start at ${P.care} a month.`,
+        `Running costs are separate: cloud hosting in your own account, SMS or WhatsApp message charges, NFC tags or printed QR stickers for checkpoints, and phones if you provide them to posts. Maintenance is free for two months after launch, and then plans start at ${P.care}.`,
       ],
       list: [
         `Guard and supervisor Android app: from ${P.app}`,
@@ -401,7 +402,7 @@ const content: FreelanceContent = {
     { question: "Who owns the software and the guard data?", answer: "Your agency does. The source code is handed over, the database and hosting sit in a cloud account in your name, and the admin logins are yours. We keep only the access you choose to give us for maintenance. If you later hire another developer, they can continue from the same code." },
     { question: "How is guard personal data protected?", answer: "The system uses role-based access so supervisors see only their sites and only HR sees identity documents, encrypts stored documents, keeps an audit log of views and changes, and deletes old selfies after a retention period you choose. India’s DPDP Act, 2023 applies to this data; your lawyer should review notices and consent wording." },
     { question: "Can incident reports be sent to the client immediately?", answer: "Yes. Guards file incidents with a category, photos and an optional voice note. Serious categories trigger alerts to the field officer and, if you choose, the client’s facility contact by WhatsApp or email. Each incident keeps a full history of who responded and when it was closed, which is useful when a client reviews an event later." },
-    { question: "What support is included after launch?", answer: `Two months of free maintenance follow launch, covering bug fixes, Android updates and small adjustments. After that, maintenance starts at ${P.care} a month, and new modules are quoted separately. The exact support terms go into your written quote, and our terms and refund policy pages explain the general conditions.` },
+    { question: "What support is included after launch?", answer: `Two months of free maintenance follow launch, covering bug fixes, Android updates and small adjustments. After that, maintenance starts at ${P.care}, and new modules are quoted separately. The exact support terms go into your written quote, and our terms and refund policy pages explain the general conditions.` },
     { question: "How do we pay for the project?", answer: "Payments follow milestones listed in your approved quote. Agencies in India pay by UPI or bank transfer and receive GST invoices where applicable; clients abroad pay in USD by Wise, bank wire or PayPal. We begin only after you approve the itemised estimate in writing, and nothing is billed before that approval." },
     { question: "Can you connect it to our accounting or HR software?", answer: "Usually, yes. Salary and invoice data can be exported in the format your accounting software imports, or sent through its API where one exists. If you already use an HR system for office staff, guard records can sync with it. We confirm what is possible after seeing the software you use." },
     { question: "Does the agency also need a website?", answer: `A clear website helps when you bid for contracts, because facility managers check an agency online before shortlisting it. We build fast agency sites with services, sectors covered and an enquiry form, from ${P.site}. Nobody can guarantee search rankings, but a well-built site gives prospective clients and AI search tools accurate facts about you.` },

@@ -7,7 +7,7 @@ const tenkasi: CityContent = {
   meta: {
     title: "IT Services in Tenkasi | Websites, Apps, SEO & AI",
     description:
-      "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Tenkasi and Courtallam resorts, lemon and coconut traders, textile units and clinics.",
+      "Tamil websites, apps, local SEO and WhatsApp tools for Tenkasi and Courtallam resorts, lemon and coconut traders, textile units and clinics. From ₹10,000.",
     keywords: [
       "IT services in Tenkasi",
       "IT services team in Tenkasi",
@@ -29,6 +29,12 @@ const tenkasi: CityContent = {
       "Tenkasi me website banwana",
       "Tenkasi-la website seyya",
       "தென்காசி இணையதள வடிவமைப்பு",
+      "Tenkasi website designer",
+      "web development company Tenkasi",
+      "hire freelance web developer Tenkasi",
+      "Tamil Nadu SEO services",
+      "website design Tenkasi Junction area",
+      "website design Melagaram Tenkasi",
     ],
   },
   hero: {

@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Holiday Homes Website Dubai: Cut OTA Fees, from ${P.shop}`,
-    description: `Holiday homes website in Dubai with a booking engine, channel-manager sync, permit numbers and an owner portal. Direct-booking builds from ${P.shop}. See the plan.`,
+    description: `Holiday homes website in Dubai with a booking engine, channel-manager sync, permit numbers and an owner portal. Direct-booking builds from ${P.shop}.`,
     keywords: [
       "holiday homes website dubai", "holiday homes website", "holiday home website design dubai", "direct booking website dubai",
       "vacation rental website dubai", "short term rental website uae", "holiday home booking engine", "holiday homes booking website",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "tourism dirham fee display website", "holiday homes website abu dhabi", "holiday homes website dubai marina",
       "short let website palm jumeirah", "holiday home operator website uae", "vacation rental web developer near me dubai",
       "holiday homes website for property managers", "serviced apartment website dubai", "book direct website uae",
+      "hire holiday homes website in the UAE", "freelance holiday homes website UAE",
     ],
   },
   hero: {

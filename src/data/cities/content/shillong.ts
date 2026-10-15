@@ -7,7 +7,7 @@ const shillong: CityContent = {
   meta: {
     title: "Shillong Website Design & Local SEO | From ₹10,000",
     description:
-      "Websites, SEO, online stores and WhatsApp automation for Shillong homestays, cafés, institutes and Iewduh traders. Sites from ₹10,000, two months' upkeep free.",
+      "Websites, SEO, online stores and WhatsApp automation for Shillong homestays, cafés, institutes and Iewduh traders. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "website development team in Shillong",
       "web designer Shillong",
@@ -25,6 +25,16 @@ const shillong: CityContent = {
       "website maintenance Shillong",
       "Shillong me website kaise banaye",
       "software team Shillong",
+      "Shillong website designer",
+      "web development company Shillong",
+      "hire freelance web developer Shillong",
+      "Meghalaya SEO services",
+      "Shillong me website kaise banwaye",
+      "Shillong website banwane ka kharcha",
+      "Shillong farm produce brands website",
+      "farm produce brands website design Shillong",
+      "website design Police Bazar Shillong",
+      "website design Laitumkhrah Shillong",
     ],
   },
   hero: {

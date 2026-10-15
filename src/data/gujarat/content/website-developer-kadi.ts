@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Kadi: B2B Sites from ${P.site}`,
-    description: `Website developer in Kadi for cotton ginners, oil mills, ceramic and corridor factories, schools and builders. Sites from ${P.site}, built remotely, accounts yours.`,
+    description: `Website developer in Kadi for cotton ginners, oil mills, ceramic and corridor factories, schools & builders. Sites from ${P.site}, remote build, accounts yours.`,
     keywords: [
       "website developer in Kadi", "website developer Kadi", "Kadi website developer", "website developer near me Kadi",
       "Kadi Mehsana website", "Kadi Gujarat web developer", "website designer Kadi", "website development services Kadi",

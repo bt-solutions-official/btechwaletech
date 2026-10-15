@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "mada apple pay restaurant checkout", "restaurant pickup ordering riyadh", "restaurant online ordering jeddah",
       "restaurant ordering system dammam", "cloud kitchen ordering website saudi", "arabic english restaurant menu website",
       "restaurant online ordering system near me", "restaurant website with online ordering ksa",
+      "hire restaurant online ordering system in Saudi Arabia", "freelance restaurant online ordering system Saudi Arabia",
     ],
   },
   hero: {

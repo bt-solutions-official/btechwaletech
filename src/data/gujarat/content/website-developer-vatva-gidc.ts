@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer for Vatva GIDC from ${P.site}`,
-    description: `Website developer for Vatva GIDC, Ahmedabad: product data pages, SDS libraries and honest compliance sections for dye, chemical and engineering units, from ${P.site}.`,
+    description: `Website developer for Vatva GIDC, Ahmedabad: product data pages, SDS libraries and honest compliance sections for dye and chemical units, from ${P.site}.`,
     keywords: [
       "website developer for Vatva GIDC", "website developer Vatva GIDC Ahmedabad", "Vatva industrial estate website", "website developer near me Vatva",
       "Vatva Ahmedabad Gujarat website", "dye manufacturer website Ahmedabad", "chemical manufacturer website Vatva", "pigment manufacturer website design",

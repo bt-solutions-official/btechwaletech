@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.5333, lng: 91.4833 },
   meta: {
-    title: "Freelance Software Developers in Udaipur, Tripura",
+    title: "Udaipur, Tripura Software Developers: Pilgrim Lodges",
     description:
       "Freelance IT team for Udaipur, Gomati: custom software, apps, AI automation, SEO and hotel booking sites near Tripura Sundari Temple. Sites from ₹10,000.",
     keywords: [
@@ -29,6 +29,16 @@ const content: CityContent = {
       "mobile app developers Udaipur Tripura",
       "Android app development Udaipur Tripura",
       "iOS app development Gomati district",
+      "Udaipur website designer",
+      "website cost in Udaipur",
+      "IT company in Udaipur",
+      "Tripura SEO services",
+      "hire developer Udaipur",
+      "pilgrim lodges software in Udaipur",
+      "sweet shops software in Udaipur",
+      "retail software in Udaipur",
+      "schools software in Udaipur",
+      "website developer Matabari Udaipur",
     ],
   },
   hero: {

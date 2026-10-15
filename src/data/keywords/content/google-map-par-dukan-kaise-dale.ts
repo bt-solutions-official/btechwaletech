@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Google map par dukan kaise dale",
   updated: "2026-09-25",
   meta: {
-    title: "Google Map Par Dukan Kaise Dale: Free Steps + Ranking",
-    description: `Google map par dukan kaise dale? Profile banana, verification ki dikkat, sahi category, photos, reviews, galat pin theek karna, upar aana. Local SEO ${P.seo} se.`,
+    title: `Google Map Par Dukan Kaise Dale: Free Steps, ${P.seo}`,
+    description: `Google map par dukan kaise dale? Profile banana, verification ki dikkat, sahi category, photos, reviews, galat pin fix, upar aana. Local SEO ${P.seo} se.`,
     keywords: [
       "google map par dukan kaise dale", "google map par dukan kaise jode", "google map me dukan kaise add kare",
       "google map par shop kaise dale", "google map par business kaise dale", "google maps par location kaise dale",
@@ -447,7 +447,7 @@ const content: FreelanceContent = {
     { question: "Can a shop have more than one Google Business Profile?", answer: "One per real location. Each branch with its own staffed premises can have its own profile. Creating extra profiles for the same shop, or fake addresses in other areas to appear everywhere, breaks Google's guidelines and commonly leads to suspension of all of them." },
     { question: "Kya Hindi mein Google Business Profile bhar sakte hain?", answer: "Naam wahi likhiye jo board par hai. Description aur services mein aap saral bhasha likh sakte hain, aur jahan natural lage wahan Hindi shabd bhi. Customer Hindi mein search kare toh Google category aur content se match karta hai, isliye sahi category aur saaf services list sabse zaroori hain." },
     { question: "How do I get my old Google profile back from an ex-employee?", answer: "Search for the shop on Google, open the profile and use the option to claim or request access. The current owner is asked to respond; if they do not, Google may offer you a way to verify and take over. Keep business documents ready. From then on, keep the primary owner on a business email you control." },
-    { question: "How much does it cost to get help with Google Maps listing?", answer: `Creating and verifying the profile yourself is free. If you want ongoing local SEO, with profile upkeep, review system, website location pages and a monthly report, it starts from ${P.seo} per month with us. A small shop website starts from ${P.site}. You get an itemised quote in about two working days before anything is billed.` },
+    { question: "How much does it cost to get help with Google Maps listing?", answer: `Creating and verifying the profile yourself is free. If you want ongoing local SEO, with profile upkeep, review system, website location pages and a monthly report, it starts from ${P.seo} with us. A small shop website starts from ${P.site}. You get an itemised quote in about two working days before anything is billed.` },
     { question: "How do I pay for local SEO work?", answer: "In India by UPI or bank transfer against an invoice; clients outside India pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the written quote, and how the monthly cycle works is written into it. Our general terms are on the terms page." },
   ],
   related: {

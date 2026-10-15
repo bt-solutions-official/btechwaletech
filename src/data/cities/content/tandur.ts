@@ -5,9 +5,9 @@ const tandur: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 17.2575, lng: 77.5875 },
   meta: {
-    title: "IT Services in Tandur | Web, Apps & AI from ₹10,000",
+    title: "Tandur Website Design: Stone, Cement & Dal Mills",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Tandur stone polishers, cement suppliers, red gram traders, clinics and shops.",
+      "Tandur websites, Telugu SEO and WhatsApp tools for stone quarries and polishing units, cement dealers, red gram dal mills and truck owners. From ₹10,000.",
     keywords: [
       "IT services in Tandur",
       "IT services team in Tandur",
@@ -29,6 +29,16 @@ const tandur: CityContent = {
       "Tandur me website banwana",
       "Tandur lo website cheyinchadam",
       "తాండూరు వెబ్‌సైట్ డిజైన్",
+      "Tandur website designer",
+      "web development company Tandur",
+      "hire freelance web developer Tandur",
+      "Vikarabad district SEO",
+      "website designer Vikarabad district",
+      "Telangana SEO services",
+      "Tandur farmer producer companies website",
+      "farmer producer companies website design Tandur",
+      "website design Karankote Tandur",
+      "website design Yalal Tandur",
     ],
   },
   hero: {

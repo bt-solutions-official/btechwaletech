@@ -7,7 +7,7 @@ const hisar: CityContent = {
   meta: {
     title: "Web Design & SEO in Hisar | Sites from ₹10,000",
     description:
-      "Websites, local SEO and WhatsApp automation for Hisar steel units, dealers, clinics and coaching centres. Sites from ₹10,000, with 2 months of free maintenance.",
+      "Hisar websites, local SEO and WhatsApp automation for steel units, dealers, clinics and coaching centres. Sites from ₹10,000, with 2 months of free upkeep.",
     keywords: [
       "website development team in Hisar",
       "web designer in Hisar",
@@ -25,6 +25,14 @@ const hisar: CityContent = {
       "website maintenance Hisar",
       "Hisar me website kaise banaye",
       "हिसार वेबसाइट डिजाइन",
+      "Hisar website designer",
+      "website cost in Hisar",
+      "web development company Hisar",
+      "hire freelance developer Hisar",
+      "Haryana SEO",
+      "Hisar me website kaise banwaye",
+      "website for steel pipes and tubes in Hisar",
+      "web designer in Red Square Market, Hisar",
     ],
   },
   hero: {

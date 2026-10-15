@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Website for Shop with WhatsApp Orders from ${P.site}`,
-    description: `Get a website for your shop that takes orders on WhatsApp: product catalogue, prices, Google Maps and UPI. Shop websites from ${P.site}, online stores from ${P.shop}.`,
+    description: `Website for your shop that takes orders on WhatsApp: product catalogue, prices, Google Maps and UPI. Shop sites from ${P.site}, stores from ${P.shop}.`,
     keywords: [
       "website for shop", "website for shop in India", "website for shop near me", "shop website developer for hire",
       "website for shop cost", "shop website price", "best website for shop", "dukaan ki website",
@@ -180,7 +180,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Most people searching for a shop near them see the map results first. Your Google Business Profile drives those, and your website supports it.`,
         `We make sure the shop name, address and phone number on the website match your Business Profile exactly, add local business schema so Google reads your timings and location correctly, and create category pages worded the way people search in your area. Photos, regular posts and genuine customer reviews on the profile also help. We link the website from the profile and put a directions button on every page.`,
-        `Nobody can guarantee a top position in map results; they depend on distance, relevance and how established the listing is. What a well-built shop website does is give Google clear, consistent information. If you want ongoing help, <a href='/local-seo-expert/'>local SEO</a> starts at ${P.seo} a month.`,
+        `Nobody can guarantee a top position in map results; they depend on distance, relevance and how established the listing is. What a well-built shop website does is give Google clear, consistent information. If you want ongoing help, <a href='/local-seo-expert/'>local SEO</a> starts at ${P.seo}.`,
       ],
     },
     {

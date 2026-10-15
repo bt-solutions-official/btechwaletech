@@ -7,7 +7,7 @@ const rewari: CityContent = {
   meta: {
     title: "Rewari Websites, SEO and Automation for Local Firms",
     description:
-      "Web design, local SEO and WhatsApp automation for Rewari brassware traders, Bawal and Dharuhera suppliers, schools and clinics. From ₹10,000; code stays yours.",
+      "Web design, local SEO and WhatsApp automation for Rewari brassware traders, Bawal and Dharuhera suppliers, schools and clinics. Sites from ₹10,000.",
     keywords: [
       "website development team in Rewari",
       "web designer Rewari",
@@ -24,6 +24,17 @@ const rewari: CityContent = {
       "software development Rewari",
       "Rewari me website kaise banaye",
       "रेवाड़ी वेबसाइट डिज़ाइन",
+      "Rewari website designer",
+      "website cost in Rewari",
+      "web development company Rewari",
+      "hire freelance web developer Rewari",
+      "Haryana SEO services",
+      "Rewari me website kaise banwaye",
+      "Rewari website banwane ka kharcha",
+      "Rewari auto-component vendors website",
+      "auto-component vendors website design Rewari",
+      "Rewari schools website",
+      "schools website design Rewari",
     ],
   },
   hero: {

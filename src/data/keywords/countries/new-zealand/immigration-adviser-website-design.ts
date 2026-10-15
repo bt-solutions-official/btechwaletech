@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "multilingual immigration website", "hindi punjabi immigration website", "mandarin immigration website", "immigration client document portal",
       "online consultation booking immigration", "immigration adviser seo", "immigration adviser website auckland", "immigration adviser website wellington",
       "immigration adviser website christchurch", "immigration web designer near me", "immigration adviser website hamilton",
+      "hire immigration adviser website design in New Zealand", "freelance immigration adviser website design New Zealand", "immigration adviser website design New Zealand",
     ],
   },
   hero: {

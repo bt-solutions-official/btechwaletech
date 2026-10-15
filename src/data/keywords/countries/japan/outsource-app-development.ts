@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "app development cost india vs japan", "app store japan requirements", "google play japan developer account", "appi cross border data transfer app",
       "app source code ownership outsourcing", "milestone payments app development", "outsource app development tokyo", "outsource app development osaka",
       "outsource app development nagoya", "outsource app development fukuoka", "is it safe to outsource app development to india", "app outsourcing contract checklist",
+      "freelance app development Japan",
     ],
   },
   hero: {

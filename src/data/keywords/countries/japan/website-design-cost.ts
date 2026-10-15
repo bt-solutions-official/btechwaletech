@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Website Design Cost in Japan: Sites from ${P.site}`,
-    description: `Website design cost in Japan explained: what drives quotes, hidden running costs, consumption tax questions and remote builds from ${P.site}. Compare before you sign.`,
+    description: `Website design cost in Japan: what drives quotes, hidden running costs, consumption tax questions and remote builds from ${P.site}. Compare before you sign.`,
     keywords: [
       "website design cost in japan", "website design cost japan", "how much does a website cost in japan", "web design price japan",
       "homepage seisaku hiyou", "website development cost japan", "corporate website cost japan", "ecommerce website cost japan",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "offshore website design cost", "website design india vs japan cost", "consumption tax overseas web designer",
       "how to compare website quotes", "wordpress website cost japan", "website redesign cost japan", "jp domain cost",
       "small business website cost japan",
+      "hire website design in Japan", "freelance website design Japan",
     ],
   },
   hero: {

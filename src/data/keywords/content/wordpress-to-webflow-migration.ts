@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "WordPress to Webflow migration",
   updated: "2026-09-25",
   meta: {
-    title: `WordPress to Webflow Migration, Rankings Kept`,
+    title: `WordPress to Webflow Migration: Cost from ${P.site}`,
     description: `WordPress to Webflow migration from ${P.site}: CSV content import, a 301 redirect map for every URL, forms rebuilt, and honest advice on when not to move.`,
     keywords: [
       "wordpress to webflow migration", "migrate wordpress to webflow", "wordpress to webflow", "move wordpress site to webflow",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "wordpress custom post types to webflow", "wordpress forms to webflow", "wordpress to webflow timeline",
       "wordpress se webflow par shift", "wordpress to webflow migration Bengaluru", "wordpress to webflow migration Delhi",
       "wordpress to webflow for saas", "wordpress plugins webflow alternative", "wordpress to webflow developer",
+      "WordPress to Webflow migration price", "WordPress to Webflow migration company", "best WordPress to Webflow migration in India", "WordPress to Webflow migration cost in India",
     ],
   },
   hero: {
@@ -61,7 +62,7 @@ const content: FreelanceContent = {
       { label: "SEO safety net", value: "301 redirect CSV, sitemap resubmission, Search Console watch" },
       { label: "Small site migration", value: `From ${P.site}, about 1–2 weeks` },
       { label: "Large content site", value: `From ${P.seoSite}, about 3–5 weeks` },
-      { label: "After launch", value: `2 months free, then from ${P.care} a month` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -76,7 +77,7 @@ const content: FreelanceContent = {
       { name: "Forms and integrations", note: "Contact Form 7 or Gravity Forms replaced with Webflow forms, wired to your inbox, CRM or WhatsApp alerts.", href: "/zapier-automation-expert/", size: "md" },
       { name: "SEO carry-over", note: "Titles, meta descriptions, alt text, canonical choices and structured data carried across page by page.", href: "/wordpress-seo-services/", size: "sm" },
       { name: "Launch-week monitoring", note: "Search Console Pages report, 404 checks and crawl comparisons in the first weeks after the switch.", href: "/website-traffic-drop-recovery/", size: "sm" },
-      { name: "Care after the move", note: `2 free months, then edits, CMS entries and SEO checks from ${P.care} a month.`, href: "/website-maintenance-charges/", size: "sm" },
+      { name: "Care after the move", note: `2 free months, then edits, CMS entries and SEO checks from ${P.care}.`, href: "/website-maintenance-charges/", size: "sm" },
     ],
   },
   comparison: {

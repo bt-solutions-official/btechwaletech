@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 22.2587, lng: 71.1924 },
   meta: {
-    title: "Freelance IT Consulting & Solutions Across Gujarat",
+    title: "Gujarat IT Consulting: Textiles, Diamonds & Chemicals",
     description:
-      "Freelance IT consulting across Gujarat: transformation roadmaps, custom software, Android and iOS apps, AI automation, cloud, dashboards and Gujarati SEO for MSMEs.",
+      "Freelance IT consulting across Gujarat: transformation roadmaps, custom software, Android and iOS apps, plus AI automation. From ₹10,000, quote in two days.",
     keywords: [
       "IT solutions team in Gujarat",
       "IT consulting Gujarat",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT consultant near me Ahmedabad Surat Vadodara",
       "Gujarat ma software banavva",
       "ગુજરાત આઈટી સોલ્યુશન્સ",
+      "Gujarat website designer",
+      "website cost in Gujarat",
+      "IT company in Gujarat",
+      "Gujarat SEO services",
+      "hire developer Gujarat",
+      "textiles software in Gujarat",
+      "diamonds software in Gujarat",
+      "chemicals software in Gujarat",
+      "engineering software in Gujarat",
+      "website developer Ahmedabad Gujarat",
     ],
   },
   hero: {

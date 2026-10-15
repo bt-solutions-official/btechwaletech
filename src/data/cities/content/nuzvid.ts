@@ -7,7 +7,7 @@ const nuzvid: CityContent = {
   meta: {
     title: "IT Services in Nuzvid | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Nuzvid mango growers, traders, RGUKT-area hostels, clinics, schools and shops.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Nuzvid mango growers, traders, RGUKT-area hostels, clinics, schools and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Nuzvid",
       "IT services team in Nuzvid",
@@ -30,6 +30,11 @@ const nuzvid: CityContent = {
       "Nuzvid me website banwana",
       "Nuzvid lo website cheyinchali",
       "నూజివీడు వెబ్‌సైట్ డిజైన్",
+      "Nuzvid website designer",
+      "web development company Nuzvid",
+      "hire freelance web developer Nuzvid",
+      "Eluru district SEO",
+      "website designer Eluru district",
     ],
   },
   hero: {

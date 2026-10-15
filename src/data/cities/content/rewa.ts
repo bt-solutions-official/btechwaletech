@@ -7,7 +7,7 @@ const rewa: CityContent = {
   meta: {
     title: "IT Services in Rewa | Web, Apps, SEO & AI from ₹10,000",
     description:
-      "Websites, SEO, online stores and WhatsApp automation for Rewa and Vindhya region businesses. Static sites start at ₹10,000 and maintenance is free for two months.",
+      "Websites, SEO, online stores and WhatsApp automation for Rewa and Vindhya region businesses. From ₹10,000, itemised quote in 2 working days.",
     keywords: [
       "website development team in Rewa",
       "web design Rewa",
@@ -25,6 +25,16 @@ const rewa: CityContent = {
       "website maintenance Rewa",
       "Rewa me website kaise banwaye",
       "रीवा वेबसाइट डिज़ाइन",
+      "Rewa website designer",
+      "web development company Rewa",
+      "hire freelance web developer Rewa",
+      "Madhya Pradesh SEO services",
+      "Rewa website banwane ka kharcha",
+      "Rewa Udyog Vihar manufacturers website",
+      "Udyog Vihar manufacturers website design Rewa",
+      "website design Civil Lines Rewa",
+      "website design Sirmour Chowk Rewa",
+      "website design Nehru Nagar Rewa",
     ],
   },
   hero: {

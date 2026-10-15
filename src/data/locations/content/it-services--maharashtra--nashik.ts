@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 19.9975, lng: 73.7898 },
   meta: {
-    title: "Freelance Software Developers in Nashik | IT Solutions",
+    title: "Nashik Software Developers: Auto Parts & Grape Growers",
     description:
       "Freelance software developers for Nashik: custom software, web apps, AI automation and dashboards. Software from ₹60,000, itemised quotes in 2 working days.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "Android app development Nashik",
       "mobile app developers Nashik",
       "iOS app development Nashik",
+      "Nashik website designer",
+      "website cost in Nashik",
+      "IT company in Nashik",
+      "Maharashtra SEO services",
+      "hire developer Nashik",
+      "auto-component software in Nashik",
+      "grape software in Nashik",
     ],
   },
   hero: {

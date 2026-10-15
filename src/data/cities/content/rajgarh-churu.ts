@@ -7,7 +7,7 @@ const rajgarhChuru: CityContent = {
   meta: {
     title: "IT Services in Rajgarh (Churu): Web, Apps & AI",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Rajgarh (Sadulpur) mandi traders, sweet shops, colleges, clinics and transporters.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Rajgarh (Sadulpur) mandi traders, sweet shops, colleges, clinics and transporters. From ₹10,000.",
     keywords: [
       "IT services in Rajgarh Churu",
       "IT services team in Rajgarh Sadulpur",
@@ -29,6 +29,12 @@ const rajgarhChuru: CityContent = {
       "Rajgarh me website banwana",
       "Sadulpur me app banwane ka kharcha",
       "राजगढ़ सादुलपुर वेबसाइट डिजाइन",
+      "Rajgarh website designer",
+      "website cost in Rajgarh",
+      "web development company Rajgarh",
+      "hire freelance web developer Rajgarh",
+      "Churu district SEO",
+      "website designer Churu district",
     ],
   },
   hero: {

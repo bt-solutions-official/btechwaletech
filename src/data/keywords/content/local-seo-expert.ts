@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Local SEO Expert India | Monthly SEO from ${P.seo}`,
-    description: `Local SEO expert help for Indian businesses: Google Business Profile, NAP consistency and location pages that rank in the map pack. Monthly SEO from ${P.seo}.`,
+    description: `Local SEO expert help for Indian businesses: Google Business Profile, NAP consistency and location pages that rank in the map pack. SEO from ${P.seo}.`,
     keywords: [
       "local seo expert", "local seo expert in India", "local seo expert near me", "local seo expert for hire",
       "local seo cost India", "local seo services price", "best local seo expert", "google maps par business kaise laye",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "location pages seo", "google map pack ranking", "local citations India", "local seo consultant freelance",
       "local seo for small business", "service area business seo", "local seo for doctors and clinics", "multi-location seo",
       "local business schema", "freelance local seo expert",
+      "hire local seo expert",
     ],
   },
   hero: {

@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "xrechnung integration cost", "how much does xrechnung integration cost", "peppol germany public sector invoice",
       "leitweg-id invoice", "e-invoice parser germany", "xrechnung integration berlin", "xrechnung integration munich",
       "xrechnung integration hamburg", "xrechnung integration stuttgart", "e-rechnung germany remote developer",
+      "hire xrechnung integration in Germany", "freelance xrechnung integration Germany",
     ],
   },
   hero: {

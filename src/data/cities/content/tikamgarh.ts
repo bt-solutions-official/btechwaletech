@@ -7,7 +7,7 @@ const tikamgarh: CityContent = {
   meta: {
     title: "IT Services in Tikamgarh | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Tikamgarh brass casters, grain traders, clinics, schools and Bundelkhand shops.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Tikamgarh brass casters, grain traders, clinics, schools and Bundelkhand shops. From ₹10,000.",
     keywords: [
       "IT services in Tikamgarh",
       "IT services team in Tikamgarh",
@@ -29,6 +29,12 @@ const tikamgarh: CityContent = {
       "Tikamgarh me website banwana",
       "Tikamgarh me app kaise banwaye",
       "टीकमगढ़ वेबसाइट डिजाइन",
+      "Tikamgarh website designer",
+      "web development company Tikamgarh",
+      "hire freelance web developer Tikamgarh",
+      "Bundelkhand SEO services",
+      "website designer Bundelkhand",
+      "Madhya Pradesh SEO services",
     ],
   },
   hero: {

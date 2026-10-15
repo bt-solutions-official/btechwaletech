@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Bakery Website Design: Cake Orders from ${P.site}`,
-    description: `Bakery website design for cake shops and home bakers: online cake ordering from ${P.shop}, WhatsApp order sites from ${P.site}. Pincode slots, midnight delivery, UPI.`,
+    description: `Bakery website design for cake shops and home bakers: cake ordering from ${P.shop}, WhatsApp order sites from ${P.site}. Pincode slots, UPI, quote in 2 days.`,
     keywords: [
       "bakery website design", "bakery website design India", "cake shop website", "online cake ordering website",
       "bakery website with online ordering", "cake delivery website", "home baker website", "bakery ecommerce website",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "bakery website design near me", "bakery website developer", "cake website with UPI payment", "bakery website Pune",
       "bakery website Kolkata", "bakery website Bengaluru", "bakery ki website kaise banaye", "cake shop online order system",
       "bakery website features", "bakery website with pincode delivery",
+      "bakery website design company in India",
+      "best bakery website design in India",
+      "bakery website design services",
     ],
   },
   hero: {

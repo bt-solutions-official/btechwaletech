@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "halal restaurant website singapore", "restaurant seo singapore", "google business profile restaurant menu", "restaurant web designer near me",
       "restaurant website tanjong pagar", "cafe website tiong bahru", "restaurant website katong", "cloud kitchen website singapore",
       "restaurant website developer", "bakery website design singapore",
+      "hire restaurant website design in Singapore", "freelance restaurant website design Singapore",
     ],
   },
   hero: {

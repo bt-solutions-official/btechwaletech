@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "clinic website Delhi", "coaching institute website Delhi", "website developer Chandni Chowk", "website developer Karol Bagh",
       "website developer Nehru Place", "website developer Okhla", "website developer Rohini", "website developer Dwarka",
       "website banane wala Delhi", "Delhi me website kaise banwaye", "website banwana hai Delhi",
+      "website developer in Delhi cost", "website developer in Delhi price", "hire website developer in Delhi", "freelance website developer in Delhi",
+      "website developer in Delhi charges",
     ],
   },
   hero: {

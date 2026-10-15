@@ -68,7 +68,7 @@ const content: FreelanceContent = {
     note: "A tutor with one calendar needs far less than a venue juggling rooms, catering and deposits. Each piece is quoted separately.",
     cards: [
       { name: "Availability engine", note: "Staff rotas, room and equipment capacity, buffers between appointments, minimum notice and blackout dates, all combined so a slot only shows when every resource is free.", size: "lg" },
-      { name: "Deposits and payments in GBP", note: "Deposits, full prepayment, balance-due dates for events, refunds and saved cards for agreed no-show charges, through a card processor on your own merchant account.", href: "/uk/payment-gateway-integration/", size: "lg" },
+      { name: "Deposits and payments in GBP", note: "Deposits, full prepayment, balance-due dates for events, refunds and saved cards for agreed no-show charges, through a card processor on your own merchant account.", href: "/uk/ecommerce-website-design/", size: "lg" },
       { name: "Reminders on three channels", note: "SMS, WhatsApp and email reminders timed by service type, with reply-to-confirm and one-click reschedule links.", href: "/uk/whatsapp-business-api-integration/", size: "md" },
       { name: "Calendar sync", note: "Bookings pushed to staff Google or Outlook calendars, and personal events blocking availability so nobody gets double-booked.", size: "md" },
       { name: "Terms and cancellation rules", note: "Your cancellation windows, deposit rules and terms displayed before payment, with acceptance recorded against each booking.", href: "/uk/dmcc-act-ecommerce-compliance/", size: "md" },
@@ -424,7 +424,7 @@ const content: FreelanceContent = {
       { name: "Holiday let booking website", href: "/uk/holiday-let-booking-website/" },
       { name: "Private clinic website design", href: "/uk/private-clinic-website-design/" },
       { name: "Bespoke CRM development UK", href: "/uk/bespoke-crm-development/" },
-      { name: "Payment gateway integration UK", href: "/uk/payment-gateway-integration/" },
+      { name: "WooCommerce developer UK", href: "/uk/woocommerce-developer/" },
       { name: "WhatsApp Business API integration", href: "/uk/whatsapp-business-api-integration/" },
       { name: "Bespoke software development UK", href: "/uk/bespoke-software-development/" },
       { name: "Web app development UK", href: "/uk/web-app-development-company/" },

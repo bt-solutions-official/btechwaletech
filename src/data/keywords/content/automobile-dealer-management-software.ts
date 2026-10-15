@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "sub dealer management software", "automobile dealer management software price", "automobile dealer management software India",
       "custom DMS development", "what is DMS in automobile", "dealer management software for multi brand dealers",
       "showroom software Hindi", "gaadi showroom ka software", "automobile dealer software Indore", "tractor dealer software Punjab",
+      "automobile dealer management software company in India",
+      "best automobile dealer management software in India",
     ],
   },
   hero: {
@@ -60,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Workshop", value: "Job cards, bay allocation, estimates, parts issue, service reminders" },
       { label: "Parts counter", value: "Counter sales, workshop issues, reorder levels, GST invoices" },
       { label: "Price", value: `Platform from ${P.software}; single app from ${P.app}` },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -268,7 +270,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a custom automobile dealer management platform starts at ${P.software} (about ${P.softwareUsd}); a single sales or workshop app starts at ${P.app} (about ${P.appUsd}). Ready-made products charge subscriptions or licences that vary widely, so compare total cost over three years, not the first invoice.`,
         "What drives the price: the number of departments you want covered, branches and brands, sub-dealer access, how your finance and paperwork steps work, integration with a manufacturer portal or Tally, and migration of old customer and vehicle records. A two-branch scooter dealer wanting enquiries and job cards is a far smaller job than a four-brand group with body shops.",
-        `Phasing helps. Many dealers start with the enquiry desk and paperwork tracker, then add the workshop and parts counter. After launch, two months of maintenance are free, then from ${P.care} a month.`,
+        `Phasing helps. Many dealers start with the enquiry desk and paperwork tracker, then add the workshop and parts counter. After launch, two months of maintenance are free, then from ${P.care}.`,
       ],
     },
     {
@@ -358,8 +360,8 @@ const content: FreelanceContent = {
         ["Single app", "Salesperson follow-up app or workshop job-card app", `From ${P.app}`, `From ${P.appUsd}`],
         ["WhatsApp and AI automation", "Service reminders, renewals, lead replies", `From ${P.ai}`, `From ${P.aiUsd}`],
         ["Dealer website", "Models, offers, test-ride and service booking forms", `From ${P.site}`, `From ${P.siteUsd}`],
-        ["Local SEO each month", "Google Business Profile and local pages", `From ${P.seo}/month`, `From ${P.seoUsd}/month`],
-        ["Maintenance after 2 free months", "Fixes, updates, small changes", `From ${P.care}/month`, `From ${P.careUsd}/month`],
+        ["Local SEO each month", "Google Business Profile and local pages", `From ${P.seo}`, `From ${P.seoUsd}`],
+        ["Maintenance after 2 free months", "Fixes, updates, small changes", `From ${P.care}`, `From ${P.careUsd}`],
       ],
       hideSm: [3],
     },
@@ -421,7 +423,7 @@ const content: FreelanceContent = {
     { question: "Should a dealer hire a freelance team or a software company?", answer: "A freelance team suits dealers who want a focused system built around their process, with the builders on the calls and lower overheads in the quote. A larger vendor suits groups wanting many products at once and a big support desk. Whatever you choose, keep code and data in your own name." },
     { question: "Showroom ke liye software banwane me kitna time aur kharcha lagta hai?", answer: `Custom automobile dealer management software ${P.software} se shuru hota hai aur pehla version aam taur par 6 se 12 hafte me live hota hai. Enquiry, booking, RTO file status, job card aur spare parts counter sab ek system me aate hain. Sales ya workshop ke liye alag app ${P.app} se shuru hota hai, aur quote pehle itemised milta hai.` },
     { question: "Do you visit the dealership for setup?", answer: "No. We are three developers working remotely from India. Process mapping, training and support happen over video calls and WhatsApp, in English or Hindi, backed by short recordings. Your manager acts as the on-site lead, and your IT vendor handles any hardware such as tablets or printers." },
-    { question: "What support is included after launch?", answer: `Two months of maintenance are free after launch, covering fixes and small adjustments. After that, maintenance starts at ${P.care} a month for updates, changes and support. The exact scope is written into your quote, and you remain free to hand the documented code to any other developer.` },
+    { question: "What support is included after launch?", answer: `Two months of maintenance are free after launch, covering fixes and small adjustments. After that, maintenance starts at ${P.care} for updates, changes and support. The exact scope is written into your quote, and you remain free to hand the documented code to any other developer.` },
   ],
   related: {
     heading: "Related software for automobile businesses",

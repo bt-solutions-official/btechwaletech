@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "software developer riyadh", "software development jeddah", "software development dammam", "software house al khobar",
       "who owns the source code custom software", "how long does custom software take", "web app development saudi arabia",
       "internal tools development ksa",
+      "hire custom software development in Saudi Arabia", "freelance custom software development Saudi Arabia",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const portBlair: CityContent = {
   meta: {
     title: "IT Services in Port Blair: Websites, Apps, SEO & AI",
     description:
-      "Websites, island travel booking pages, local SEO and WhatsApp automation for Sri Vijaya Puram hotels, tour operators, dive shops and traders. Sites from ₹10,000.",
+      "Websites, island travel bookings and SEO for Sri Vijaya Puram hotels, tour operators, dive shops and traders. Sites from ₹10,000, yours to keep.",
     keywords: [
       "website development team in Port Blair",
       "web designer Sri Vijaya Puram",
@@ -24,6 +24,17 @@ const portBlair: CityContent = {
       "scuba diving website Andaman",
       "software developer Andaman and Nicobar",
       "website maintenance Port Blair",
+      "Sri Vijaya Puram website designer",
+      "website cost in Sri Vijaya Puram",
+      "web development company Sri Vijaya Puram",
+      "hire freelance web developer Sri Vijaya Puram",
+      "Andaman and Nicobar Islands SEO services",
+      "Sri Vijaya Puram me website kaise banwaye",
+      "Sri Vijaya Puram website banwane ka kharcha",
+      "website design Aberdeen Bazaar Sri Vijaya Puram",
+      "website design Goalghar Sri Vijaya Puram",
+      "website design Junglighat Sri Vijaya Puram",
+      "website design Haddo Sri Vijaya Puram",
     ],
   },
   hero: {

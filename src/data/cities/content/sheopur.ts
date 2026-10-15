@@ -7,7 +7,7 @@ const sheopur: CityContent = {
   meta: {
     title: "IT Services in Sheopur | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Sheopur mandi traders, Kuno safari hotels, woodcraft makers, clinics and schools.",
+      "Hindi websites, apps, local SEO and WhatsApp automation for Sheopur mandi traders, Kuno safari hotels, woodcraft makers, clinics and schools. From ₹10,000.",
     keywords: [
       "IT services in Sheopur",
       "IT services team in Sheopur",
@@ -30,6 +30,11 @@ const sheopur: CityContent = {
       "Sheopur me website banwana",
       "Sheopur me app kaise banwaye",
       "श्योपुर वेबसाइट डिज़ाइन",
+      "Sheopur website designer",
+      "web development company Sheopur",
+      "hire freelance web developer Sheopur",
+      "Madhya Pradesh SEO services",
+      "Sheopur me website kaise banwaye",
     ],
   },
   hero: {

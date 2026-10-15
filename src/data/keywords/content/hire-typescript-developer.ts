@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Hire TypeScript Developer: Web Apps from ${P.software}`,
-    description: `Hire a TypeScript developer in India for strict, typed web apps and APIs. Apps from ${P.software}. Vetting checklist, JS-to-TS conversion and typed APIs explained.`,
+    description: `Hire a TypeScript developer in India for strict, typed web apps and APIs: vetting checklist, JS-to-TS conversion and typed APIs. From ${P.software}.`,
     keywords: [
       "hire typescript developer", "typescript developer", "hire typescript developer India", "freelance typescript developer",
       "typescript developer for hire", "remote typescript developer", "typescript developer rates", "typescript developer cost India",
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Typical stack", value: "React or Next.js front end, Node or NestJS API, PostgreSQL" },
       { label: "Typed APIs", value: "tRPC for TypeScript-only stacks; Zod or OpenAPI schemas elsewhere" },
       { label: "JS codebase?", value: "Converted file by file, strictness raised in steps, no big-bang rewrite" },
-      { label: "Starting price", value: `Web app from ${P.software}; care from ${P.care}/month` },
+      { label: "Starting price", value: `Web app from ${P.software}; care from ${P.care}` },
       { label: "Ownership", value: "Repository, CI and cloud accounts in your name" },
     ],
   },
@@ -195,7 +195,7 @@ const content: FreelanceContent = {
       id: "rates",
       heading: "How much does it cost to hire a TypeScript developer in India?",
       paragraphs: [
-        `With us, projects are quoted per scope: a typed web app or portal starts at ${P.software} (${P.softwareUsd}), a typed marketing site at ${P.site}, an Android and iOS app in React Native at ${P.app}, and AI features at ${P.ai}. Maintenance after the two free months starts at ${P.care} a month.`,
+        `With us, projects are quoted per scope: a typed web app or portal starts at ${P.software} (${P.softwareUsd}), a typed marketing site at ${P.site}, an Android and iOS app in React Native at ${P.app}, and AI features at ${P.ai}. Maintenance after the two free months starts at ${P.care}.`,
         `Elsewhere, TypeScript developer rates vary a lot between hourly contractors, marketplace sellers on Upwork, Toptal or Freelancer.com, agencies and full-time hires. The spread reflects experience, whether code review and testing are included, and who carries the risk if the estimate is wrong. Hourly billing puts that risk on you; a project quote puts more of it on the developer.`,
         `When comparing quotes, line them up on the same scope and ask each candidate the same questions: is strict mode on, is input validated at runtime, is there a CI type check, who reviews the code, and what happens after launch? The cheapest quote often leaves out exactly those lines. For ongoing monthly work instead of a project, see <a href='/dedicated-web-developer/'>dedicated web developer</a>, and for the in-house question see <a href='/in-house-vs-outsourcing-software-development/'>in-house vs outsourcing</a>.`,
       ],
@@ -330,7 +330,7 @@ const content: FreelanceContent = {
         ["Typed web app or portal", "Logins, roles, dashboards, typed API, CI checks", `${P.software} · ${P.softwareUsd}`, "6–12 weeks"],
         ["React Native app", "Android and iOS sharing types with the API", `${P.app} · ${P.appUsd}`, "6–10 weeks"],
         ["AI feature with typed outputs", "LLM calls validated against schemas before use", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
-        ["Care after 2 free months", "Dependency and compiler updates, fixes, small changes", `${P.care}/month`, "Ongoing"],
+        ["Care after 2 free months", "Dependency and compiler updates, fixes, small changes", `${P.care}`, "Ongoing"],
       ],
       hideSm: [1],
     },
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
     { question: "Will you sign an NDA before looking at our code?", answer: "Ask us when you get in touch. Confidentiality terms are agreed in writing as part of the quote, and our published terms cover the general rules. If you prefer, you can share an anonymised sample or just the compiler's error output before any agreement, which is often enough for a first estimate." },
     { question: "Can a TypeScript developer help with SEO?", answer: "Indirectly. TypeScript itself does not affect rankings, but a TypeScript developer building on Next.js, Nuxt or Astro can render pages on the server, validate SEO fields such as titles and descriptions at build time, and keep pages fast. Our team also includes technical SEO, though nobody can guarantee rankings." },
     { question: "TypeScript developer chahiye, kaise baat karein?", answer: "WhatsApp par project ki details bhejiye, ya agar purana JavaScript code hai to repository ka read access dijiye. Hum code ko measure karke lagbhag do working days mein itemised quote dete hain. Written approval se pehle koi payment nahi, aur repository aur saare accounts shuru se aapke naam par rehte hain." },
-    { question: "What happens after launch?", answer: `For two months after launch we fix bugs and keep TypeScript, frameworks and dependencies updated at no charge. After that, you can continue with a care plan from ${P.care} a month, or hand the project to your own team using the documentation we provide. Support scope is written into your quote.` },
+    { question: "What happens after launch?", answer: `For two months after launch we fix bugs and keep TypeScript, frameworks and dependencies updated at no charge. After that, you can continue with a care plan from ${P.care}, or hand the project to your own team using the documentation we provide. Support scope is written into your quote.` },
   ],
   related: {
     heading: "Related hiring and framework pages",

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `iOS App Developer Near Me: iPhone Apps from ${P.app}`,
-    description: `Need an iOS app developer near me? Find out when an iPhone app matters for an Indian business, what it costs (from ${P.app}) and how App Store launch works.`,
+    description: `Need an iOS app developer near me? When an iPhone app matters for an Indian business, what it costs and how App Store launch works. Apps from ${P.app}.`,
     keywords: [
       "ios app developer near me", "ios app developer near me in India", "iphone app developer near me", "ios app developer for hire",
       "ios app development cost India", "iphone app price India", "best ios app developer near me", "iphone app banwana hai",

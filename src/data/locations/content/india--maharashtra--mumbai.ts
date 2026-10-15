@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 19.076, lng: 72.8777 },
   meta: {
-    title: "Hire Freelance IT Consultants in Mumbai: Software & AI",
+    title: "Mumbai IT Consultants: Finance, Wholesale & Jewellery",
     description:
-      "Freelance IT consultants in Mumbai for custom software, Android and iOS apps, AI agents, cloud, data and SEO. Free scoping call, itemised quote in 2 working days.",
+      "Freelance IT consultants in Mumbai for custom software, Android and iOS apps, AI agents, plus cloud. Free scoping call, itemised quote in 2 working days.",
     keywords: [
       "IT solutions team in Mumbai",
       "best IT services team in Mumbai",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "software developers near BKC",
       "मुंबईत आयटी सेवा",
       "मुंबई में आईटी कंसल्टेंट",
+      "Mumbai website designer",
+      "website cost in Mumbai",
+      "IT company in Mumbai",
+      "Maharashtra SEO services",
+      "hire developer Mumbai",
+      "financial software in Mumbai",
+      "wholesale trade software in Mumbai",
+      "jewellery software in Mumbai",
+      "media software in Mumbai",
+      "website developer Bandra-Kurla Complex Mumbai",
     ],
   },
   hero: {

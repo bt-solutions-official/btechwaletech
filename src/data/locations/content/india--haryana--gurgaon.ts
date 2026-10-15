@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 28.4595, lng: 77.0266 },
   meta: {
-    title: "Freelance IT Consultants in Gurgaon: Cloud, AI & Apps",
+    title: "Gurgaon IT Consultants: SaaS, GCCs & D2C Brands",
     description:
-      "Freelance IT consulting in Gurgaon: architecture reviews, cloud cost cuts, AI agents, custom software, Android and iOS apps, data and SEO for startups and exporters.",
+      "Freelance IT consulting in Gurgaon: architecture reviews, cloud cost cuts, AI agents and custom software. Websites from ₹10,000, quote in two working days.",
     keywords: [
       "IT solutions team in Gurgaon",
       "IT consulting Gurgaon",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT consultant near me Cyber City",
       "Gurgaon mein IT consultant",
       "गुड़गांव आईटी कंसल्टिंग",
+      "Gurgaon website designer",
+      "website cost in Gurgaon",
+      "IT company in Gurgaon",
+      "Haryana SEO services",
+      "hire developer Gurgaon",
+      "startups software in Gurgaon",
+      "global software in Gurgaon",
+      "d2c software in Gurgaon",
+      "garment exporters software in Gurgaon",
+      "website developer DLF Cyber City Gurgaon",
     ],
   },
   hero: {

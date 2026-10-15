@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "WhatsApp Business app vs API",
   updated: "2026-09-25",
   meta: {
-    title: "WhatsApp Business App vs API: When to Switch",
+    title: `WhatsApp Business App vs API: 2026 Cost & Switching`,
     description: `WhatsApp Business app vs API: free app limits, per-message API pricing, chatbots, shared inbox, opt-in rules and setup. API setup from ${P.ai}.`,
     keywords: [
       "whatsapp business app vs api", "whatsapp business app vs whatsapp business api", "whatsapp business vs api", "difference between whatsapp business app and api",

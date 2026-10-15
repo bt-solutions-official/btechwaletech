@@ -7,7 +7,7 @@ const rahuri: CityContent = {
   meta: {
     title: "IT Services in Rahuri: Websites, Apps, SEO & AI",
     description:
-      "Marathi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Rahuri seed firms, cane suppliers, dairies, agri shops and clinics.",
+      "Marathi websites, apps, Maps SEO and WhatsApp tools for Rahuri seed firms, cane suppliers, dairies, agri shops and clinics. Sites from ₹10,000.",
     keywords: [
       "IT services in Rahuri",
       "IT company in Rahuri",
@@ -29,6 +29,12 @@ const rahuri: CityContent = {
       "Rahuri me website banwana",
       "Rahuri madhe website banvun ghene",
       "राहुरी वेबसाईट डिझाईन",
+      "Rahuri website designer",
+      "web development company Rahuri",
+      "hire freelance web developer Rahuri",
+      "Ahilyanagar (Ahmednagar) district SEO",
+      "website designer Ahilyanagar (Ahmednagar) district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

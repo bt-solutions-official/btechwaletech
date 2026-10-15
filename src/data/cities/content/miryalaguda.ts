@@ -7,7 +7,7 @@ const miryalaguda: CityContent = {
   meta: {
     title: "IT Services in Miryalaguda: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android & iOS apps, Telugu local SEO and WhatsApp automation for Miryalaguda rice mills, traders, hospitals and shops. Starting prices, you own the code.",
+      "Websites, apps, Telugu local SEO and WhatsApp tools for Miryalaguda rice mills, traders, hospitals and shops. From ₹10,000, with 2 months of free upkeep.",
     keywords: [
       "IT services in Miryalaguda",
       "IT services team in Miryalaguda",
@@ -29,6 +29,12 @@ const miryalaguda: CityContent = {
       "మిర్యాలగూడ వెబ్‌సైట్ డిజైన్",
       "Nalgonda district app developer",
       "AI automation Miryalaguda",
+      "Miryalaguda website designer",
+      "web development company Miryalaguda",
+      "hire freelance web developer Miryalaguda",
+      "Nalgonda SEO services",
+      "website designer Nalgonda",
+      "Telangana SEO services",
     ],
   },
   hero: {

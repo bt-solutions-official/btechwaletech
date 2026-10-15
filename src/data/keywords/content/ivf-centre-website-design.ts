@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `IVF Centre Website Design: Private Enquiry, ${P.site}+`,
-    description: `IVF centre website design from ${P.site}: private enquiry flows, IUI/IVF/ICSI explainers, honest success rates and cost pages written with the ART Act in mind.`,
+    description: `IVF centre website design from ${P.site}: private enquiry flows, IUI/IVF/ICSI explainers, honest success rates and ART Act-aware copy. Quote in 2 days.`,
     keywords: [
       "ivf centre website design", "ivf center website design", "fertility clinic website design", "ivf clinic website",
       "fertility centre website India", "ivf website design cost", "ivf hospital website development",
@@ -24,6 +24,9 @@ const content: FreelanceContent = {
       "ivf clinic SEO India", "ivf centre website Delhi", "ivf centre website Mumbai", "ivf centre website Hyderabad",
       "ART Act website rules", "private enquiry form fertility clinic", "ivf centre ki website kaise banaye",
       "gynaecologist fertility website design", "ivf clinic landing page",
+      "ivf centre website design company in India",
+      "best ivf centre website design in India",
+      "ivf centre website design services",
     ],
   },
   hero: {
@@ -61,7 +64,7 @@ const content: FreelanceContent = {
       { label: "Enquiry handling", value: "Minimal-field form, WhatsApp, chosen callback time" },
       { label: "Follow-up automation", value: `Discreet WhatsApp reminders from ${P.ai}` },
       { label: "Legal lines to respect", value: "ART Act 2021, PC-PNDT Act, DPDP Act 2023" },
-      { label: "After launch", value: `2 months free care, then from ${P.care} a month` },
+      { label: "After launch", value: `2 months free care, then from ${P.care}` },
     ],
   },
   services: {
@@ -319,7 +322,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With our IVF centre website design work, you own the domain, the hosting account, the code and every piece of content. We set them up in your centre’s name, hand over the logins, and stay on as developers only for as long as you want us.`,
         `At handover you receive the admin and hosting credentials, a short written guide on updating costs, success tables and doctor profiles, and a list of every third-party service the site uses. If you ever move to another developer, nothing needs to be extracted from us.`,
-        `The first two months after launch include free maintenance: fixes, small text updates, security patches and help if something breaks. After that, ongoing care starts at ${P.care} a month and is optional. Many centres keep it because treatment prices, doctor rosters and success figures change every year, and a stale site quietly loses trust.`,
+        `The first two months after launch include free maintenance: fixes, small text updates, security patches and help if something breaks. After that, ongoing care starts at ${P.care} and is optional. Many centres keep it because treatment prices, doctor rosters and success figures change every year, and a stale site quietly loses trust.`,
         `For how we handle refunds or cancellations, see our <a href='/refund-policy/'>refund policy</a>; anything specific to your project is written into your quote.`,
       ],
     },
@@ -367,8 +370,8 @@ const content: FreelanceContent = {
         ["Discreet WhatsApp follow-up", "Neutral templates, reminders, enquiry routing", P.ai, "2–4 weeks"],
         ["Patient portal or clinic system", "Cycle calendars, consents tracking, billing", P.software, "6–12 weeks"],
         ["Patient app", "Medication and appointment reminders on Android and iOS", P.app, "6–10 weeks"],
-        ["Monthly SEO", "Content, local listings, Search Console reporting", `${P.seo} a month`, "Ongoing"],
-        ["Care after free period", "Updates, patches, backups, small changes", `${P.care} a month`, "After 2 free months"],
+        ["Monthly SEO", "Content, local listings, Search Console reporting", `${P.seo}`, "Ongoing"],
+        ["Care after free period", "Updates, patches, backups, small changes", `${P.care}`, "After 2 free months"],
       ],
       hideSm: [3],
     },
@@ -454,7 +457,7 @@ const content: FreelanceContent = {
     { question: "How do fertility websites appear in AI search answers?", answer: "AI search tools tend to quote short, self-contained answers from pages that are clear and trustworthy. Question-style headings, direct first sentences, clearly labelled tables of costs and success data, and accurate doctor and clinic details all help. There is no switch to force a citation, but well-structured, honest content gives the best chance." },
     { question: "Do you need a registration certificate before building the site?", answer: "We do not check or certify your registration; that is between your centre and the authorities. Under the ART (Regulation) Act, 2021, clinics and banks must register with the national registry, and registration runs for five years. If you want to display registration details on the site, you provide them and we place them where patients can see them." },
     { question: "Who owns the site after IVF centre website design is finished?", answer: "You do. The domain, hosting account, code and content are set up in your centre’s name from the start, and we hand over every login at launch. If you later switch developers, nothing needs to be released by us. We stay involved only as long as you want support." },
-    { question: "What happens after the free maintenance period?", answer: `The first two months after launch include fixes, small updates and security patches at no charge. After that, care is optional and starts at ${P.care} a month. It suits centres that update prices, doctor rosters or yearly success figures regularly. Specific terms are written into your quote, and our terms page covers the general rules.` },
+    { question: "What happens after the free maintenance period?", answer: `The first two months after launch include fixes, small updates and security patches at no charge. After that, care is optional and starts at ${P.care}. It suits centres that update prices, doctor rosters or yearly success figures regularly. Specific terms are written into your quote, and our terms page covers the general rules.` },
     { question: "Can the site be in Hindi or a regional language?", answer: "Yes. Treatment, cost and first-visit pages work well in Hindi, Marathi, Tamil, Telugu, Bengali, Gujarati, Punjabi or Malayalam. You supply or approve the translated text, and we build proper language versions with correct tags so search engines serve the right one. Medical terms can stay in English where patients commonly use them." },
     { question: "How do we pay for the website?", answer: "In India you pay by UPI or bank transfer against an itemised quote, and nothing is billed before you approve it in writing. International clients, such as NRI-run centres, can pay by Wise, bank wire or PayPal in US dollars. Payment milestones are written into the quote so both sides know what is due and when." },
     { question: "Do you sign an NDA for fertility projects?", answer: "Ask us when you enquire. Confidentiality expectations are agreed and written into your quote before work starts, and our terms page covers the general position. In practice we request only the access needed, keep patient data out of development copies, and never use your content or enquiries for anything but your project." },

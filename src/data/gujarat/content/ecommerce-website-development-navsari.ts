@@ -228,7 +228,7 @@ const content: FreelanceContent = {
         `It can, if product and category pages are built for search from the beginning. Nobody can guarantee rankings, so plan other traffic sources as well.`,
         `Each product gets a unique title, a description written for buyers rather than copied from a supplier, clean URLs, compressed photos with alt text and product schema with price and availability. Seasonal products keep their pages all year, marked out of stock off-season, so they keep the search history they built. Category pages get a short, useful introduction.`,
         `Sitemaps go to Google Search Console at launch, and products can be connected to Google Merchant Center so they appear in shopping results where eligible. If you sell from a shop or farm gate in Navsari, your Google Business Profile should link to the store and show the same name, address and phone.`,
-        `AI assistants and Google's AI Overviews often quote clear, factual answers, such as how to store chikoo or what sizes a kurta comes in, so a short FAQ on each key product helps. Ongoing work is optional through <a href='/services/seo-services/'>SEO services</a> from ${P.seo} a month.`,
+        `AI assistants and Google's AI Overviews often quote clear, factual answers, such as how to store chikoo or what sizes a kurta comes in, so a short FAQ on each key product helps. Ongoing work is optional through <a href='/services/seo-services/'>SEO services</a> from ${P.seo}.`,
       ],
     },
     {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Jewellery Website Design: Live Gold Rates from ${P.site}`,
-    description: `Jewellery website design in India from ${P.site}: live gold and silver rates, weight pricing, HUID, video-call viewing and gold scheme pages that buyers trust.`,
+    description: `Jewellery website design from ${P.site}: live gold and silver rates, weight pricing, HUID, video-call viewing and gold scheme pages. Quote in 2 days.`,
     keywords: [
       "jewellery website design", "jewellery website design India", "jewellery shop website", "jewellery website development",
       "gold jewellery website", "jewellery ecommerce website", "jewellery online store India", "website for jewellery shop",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "video call jewellery shopping website", "try at home jewellery booking", "silver jewellery website design",
       "how to make a jewellery website", "jewellery website designer near me", "jeweller website Surat", "jeweller website Jaipur",
       "jewellery website Thrissur", "jewellery shop ki website", "diamond jewellery website design", "artificial jewellery website",
+      "jewellery website design company in India",
+      "best jewellery website design in India",
+      "jewellery website design services",
     ],
   },
   hero: {
@@ -60,7 +63,7 @@ const content: FreelanceContent = {
       { label: "Trust details", value: "Hallmark purity grade and HUID per piece, return policy, store address" },
       { label: "High-value sales", value: "Video-call viewing, try-at-home or reserve-and-visit" },
       { label: "Scheme pages", value: "Terms you set, instalment tracking, reminders" },
-      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -265,7 +268,7 @@ const content: FreelanceContent = {
       heading: "Ownership, handover and support after launch",
       paragraphs: [
         `The jeweller owns the domain, hosting, code, product catalogue, customer data, scheme records, WhatsApp number and merchant account. We create them in your business name or you create them and add us.`,
-        `At handover: the repository, admin logins, a list of paid services with renewal dates, and a short guide to updating the rate, adding products and handling orders. Two months of free maintenance follow launch. After that, maintenance is optional from ${P.care} a month, or your staff or another developer can take over.`,
+        `At handover: the repository, admin logins, a list of paid services with renewal dates, and a short guide to updating the rate, adding products and handling orders. Two months of free maintenance follow launch. After that, maintenance is optional from ${P.care}, or your staff or another developer can take over.`,
         `Family jewellery businesses pass between generations. Keeping every account in the business’s name, with the logins documented, means the website passes along cleanly with the counter and the safe.`,
       ],
     },
@@ -387,10 +390,10 @@ const content: FreelanceContent = {
     { question: "Should I use a hosted store platform or a custom jewellery website?", answer: "For fashion or silver jewellery at set prices, a hosted store platform often works fine. Gold priced by weight and the daily rate, with making charges, HUID fields, schemes and video-call booking, usually needs custom logic or several paid add-ons. Compare total monthly cost and how well it handles your pricing rule before deciding." },
     { question: "Can customers pay by UPI on a jewellery website?", answer: "Yes. We set up UPI and card checkout through a payment provider you choose, in your own merchant account. For high-value orders you can add a staff confirmation step, delivery OTP and insured shipping. Many jewellers also allow a token payment online with the balance paid in store, which suits wedding purchases well." },
     { question: "Who owns the jewellery website and customer data?", answer: "Your business does. The domain, hosting, code, product catalogue, customer and scheme records, WhatsApp number and merchant account are all in your name. At launch you receive the repository, admin logins and a list of paid services with renewal dates, so any developer can take over later without asking us for anything." },
-    { question: "What happens after my jewellery website goes live?", answer: `Small changes and fixes are free for two months after launch: new collections, policy edits, rate board tweaks. After that, maintenance is optional from ${P.care} a month. Your staff can update the rate, add products and manage orders themselves through the admin screens we build.` },
+    { question: "What happens after my jewellery website goes live?", answer: `Small changes and fixes are free for two months after launch: new collections, policy edits, rate board tweaks. After that, maintenance is optional from ${P.care}. Your staff can update the rate, add products and manage orders themselves through the admin screens we build.` },
     { question: "Do I need a freelancer or an agency for jewellery website design?", answer: "A small freelance team suits a jeweller who wants direct contact with the people building the price engine and a clear scope. A larger agency suits brands that also want photo shoots, campaigns and brand identity together. For most family jewellers moving online, a focused freelance build with everything in their own name is enough." },
     { question: "Can you build my jewellery website remotely?", answer: "Yes. Jewellery website design needs your pricing rules, catalogue data and good photos, all of which work well over WhatsApp and Google Meet. We send a photography guide and a product spreadsheet template, show progress on staging links you check on your phone, and test payments with small real transactions." },
-    { question: "Will my jewellery website rank on Google?", answer: `No honest developer can guarantee rankings. We build collection pages that match how people search, add JewelryStore and product structured data, align your Business Profile and set up Search Console so you see what is working. Ongoing SEO starts at ${P.seo} a month if you want regular content and reporting.` },
+    { question: "Will my jewellery website rank on Google?", answer: `No honest developer can guarantee rankings. We build collection pages that match how people search, add JewelryStore and product structured data, align your Business Profile and set up Search Console so you see what is working. Ongoing SEO starts at ${P.seo} if you want regular content and reporting.` },
     { question: "How do AI assistants answer jewellery buying questions?", answer: "Tools like Google’s AI Overviews quote pages that answer clearly: how making charges work, how to verify a HUID, how the day’s rate affects price. A jewellery website with short, answer-first explainer pages and prices shown as text, with breakdowns, is easier for them to quote than a site that only posts product photos." },
     { question: "Can you add diamonds and gemstones to the price calculation?", answer: "Yes. Each stone can carry its type, count, carat weight, grade details you provide and its value, added as a separate line in the price. Certified diamonds can show the certificate number and a link or scan. Gross and net weights stay separate so the metal value is calculated only on the metal." },
     { question: "Do I need a mobile app for my jewellery business?", answer: `Most jewellers do not need one at first; a fast website with WhatsApp updates covers browsing and buying. An app earns its place when many customers track scheme instalments, save wishlists and want rate alerts. We build Android and iOS apps from ${P.app}, published in your own store accounts.` },

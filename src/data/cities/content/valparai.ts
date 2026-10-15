@@ -7,7 +7,7 @@ const valparai: CityContent = {
   meta: {
     title: "IT Services in Valparai: Websites, Apps, SEO & AI",
     description:
-      "Tamil websites, Android and iOS apps, Google Maps SEO and WhatsApp booking automation for Valparai homestays, tea and coffee estates, taxis, shops and schools.",
+      "Tamil websites, apps, Maps SEO and WhatsApp booking for Valparai homestays, tea and coffee estates, taxis, shops and schools. Sites from ₹10,000.",
     keywords: [
       "IT services in Valparai",
       "IT services team in Valparai",
@@ -29,6 +29,12 @@ const valparai: CityContent = {
       "Valparai me website banwana",
       "Valparaiyil website uruvaakkam",
       "வால்பாறை வெப்சைட் டிசைன்",
+      "Valparai website designer",
+      "web development company Valparai",
+      "hire freelance web developer Valparai",
+      "Anamalai Hills SEO services",
+      "website designer Anamalai Hills",
+      "Valparai me website kaise banwaye",
     ],
   },
   hero: {

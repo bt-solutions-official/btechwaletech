@@ -7,7 +7,7 @@ const rabkaviBanhatti: CityContent = {
   meta: {
     title: "IT Services in Rabkavi Banhatti: Web, Apps & SEO",
     description:
-      "Websites, Android and iOS apps, SEO and WhatsApp automation for Rabkavi Banhatti saree weavers, powerloom owners, dyers, traders, clinics and schools on the Krishna.",
+      "Websites, apps, SEO and WhatsApp tools for Rabkavi Banhatti saree weavers, powerloom owners, dyers, traders, clinics and schools on the Krishna. From ₹10,000.",
     keywords: [
       "IT services in Rabkavi Banhatti",
       "IT services team in Rabkavi Banhatti",
@@ -29,6 +29,12 @@ const rabkaviBanhatti: CityContent = {
       "Rabkavi Banhatti me website banwana",
       "Banhattiyalli website madisuvudu",
       "ರಬಕವಿ ಬನಹಟ್ಟಿ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Rabkavi Banhatti website designer",
+      "web development company Rabkavi Banhatti",
+      "hire freelance web developer Rabkavi Banhatti",
+      "Bagalkot district SEO",
+      "website designer Bagalkot district",
+      "Karnataka SEO services",
     ],
   },
   hero: {

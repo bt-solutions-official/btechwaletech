@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 24.7955, lng: 85.0002 },
   meta: {
-    title: "Freelance Software Developers in Gaya | Apps & AI",
+    title: "Gaya Software Developers: Apps & AI",
     description:
-      "Freelance software developers for Gaya and Bodh Gaya: booking systems, web and mobile apps, AI automation, dashboards and SEO. From ₹10,000, 2 months free support.",
+      "Freelance software developers for Gaya and Bodh Gaya: booking systems, web and mobile apps, plus AI automation. From ₹10,000, 2 months free support.",
     keywords: [
       "software development team in Gaya",
       "IT services team in Gaya",
@@ -33,6 +33,12 @@ const content: CityContent = {
       "iPhone app developers Bodh Gaya",
       "गया में सॉफ्टवेयर कंपनी",
       "Gaya ji mein app banwana",
+      "Gaya website designer",
+      "website cost in Gaya",
+      "IT company in Gaya",
+      "Bihar SEO services",
+      "hire developer Gaya",
+      "pilgrim software in Gaya",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const tarnTaran: CityContent = {
   meta: {
     title: "IT Services in Tarn Taran: Websites, Apps, SEO & AI",
     description:
-      "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Tarn Taran arhtiyas, agri dealers, pilgrim services, clinics, schools and NRI families.",
+      "Punjabi websites, apps, local SEO and WhatsApp tools for Tarn Taran arhtiyas, agri dealers, pilgrim services, clinics, schools and NRI families. From ₹10,000.",
     keywords: [
       "IT services in Tarn Taran",
       "IT services team in Tarn Taran",
@@ -29,6 +29,12 @@ const tarnTaran: CityContent = {
       "Tarn Taran vich website banvauni",
       "Patti Bhikhiwind website designer",
       "Punjabi website developer Amritsar district",
+      "Tarn Taran Sahib website designer",
+      "website cost in Tarn Taran Sahib",
+      "web development company Tarn Taran Sahib",
+      "hire freelance web developer Tarn Taran Sahib",
+      "Majha SEO services",
+      "website designer Majha",
     ],
   },
   hero: {

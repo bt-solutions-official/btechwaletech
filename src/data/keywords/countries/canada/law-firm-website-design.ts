@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Law Firm Website Design Canada from ${P.site}`,
-    description: `Law firm website design in Canada from ${P.site}: practice-area pages, secure intake with conflict checks, bilingual pages and office SEO within Law Society rules.`,
+    description: `Law firm website design in Canada from ${P.site}: practice-area pages, secure intake with conflict checks, bilingual pages and Law Society-safe copy.`,
     keywords: [
       "law firm website design canada", "lawyer website design canada", "law office website design ontario",
       "legal website design toronto", "lawyer website vancouver", "law firm website calgary", "law firm website ottawa",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "bilingual law firm website", "law firm seo canada", "legal website near me", "small law firm website",
       "sole practitioner website design", "law firm website redesign canada", "multi office law firm website",
       "who owns my law firm website", "lawyer website cost ontario",
+      "hire law firm website design in Canada", "freelance law firm website design Canada",
     ],
   },
   hero: {

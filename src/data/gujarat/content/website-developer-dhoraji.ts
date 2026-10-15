@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Dhoraji: Sites from ${P.site}`,
-    description: `Website developer in Dhoraji for oil mills, plastics units, traders and shops. Business sites from ${P.site}, Gujarati-ready, built remotely with weekly previews.`,
+    description: `Website developer in Dhoraji for oil mills, plastics units, traders and shops. Sites from ${P.site}, Gujarati-ready, built remotely with weekly previews.`,
     keywords: [
       "website developer in Dhoraji", "website developer Dhoraji", "web developer near me Dhoraji", "Dhoraji Gujarat website",
       "website design Dhoraji", "website designer in Dhoraji", "website development services Dhoraji", "web design services Dhoraji",

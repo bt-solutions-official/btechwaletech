@@ -7,7 +7,7 @@ const peddapuram: CityContent = {
   meta: {
     title: "IT Services in Peddapuram: Web, Apps, SEO & AI",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Peddapuram silk weavers, palakova shops, IDA mills, colleges and clinics.",
+      "Telugu websites, apps, local SEO and WhatsApp tools for Peddapuram silk weavers, palakova shops, IDA mills, colleges and clinics. Sites from ₹10,000.",
     keywords: [
       "IT services in Peddapuram",
       "IT services team in Peddapuram",
@@ -29,6 +29,12 @@ const peddapuram: CityContent = {
       "Peddapuram me website banwana",
       "Peddapuram lo website cheyinchukovadam",
       "పెద్దాపురం వెబ్‌సైట్ డిజైన్",
+      "Peddapuram website designer",
+      "web development company Peddapuram",
+      "hire freelance web developer Peddapuram",
+      "Kakinada district SEO",
+      "website designer Kakinada district",
+      "Andhra Pradesh SEO services",
     ],
   },
   hero: {

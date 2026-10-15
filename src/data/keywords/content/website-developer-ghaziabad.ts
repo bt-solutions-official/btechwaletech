@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Kaushambi", "factory website Ghaziabad", "school website developer Ghaziabad", "clinic website Ghaziabad",
       "website developer Loni", "website developer Modinagar", "Ghaziabad me website kaise banwaye", "website banwana hai Ghaziabad",
       "best website developer in Ghaziabad",
+      "website developer in Ghaziabad cost", "website developer in Ghaziabad price", "hire website developer in Ghaziabad", "freelance website developer in Ghaziabad",
+      "website developer in Ghaziabad charges",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const renukoot: CityContent = {
   meta: {
     title: "IT Services in Renukoot | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, SEO and WhatsApp automation for Renukoot plant contractors, vendors, schools, coaching centres, clinics and Sonbhadra shops.",
+      "Websites, apps, SEO and WhatsApp automation for Renukoot plant contractors, vendors, schools, coaching centres, clinics and Sonbhadra shops. From ₹10,000.",
     keywords: [
       "IT services in Renukoot",
       "IT services team in Renukoot",
@@ -29,6 +29,12 @@ const renukoot: CityContent = {
       "Renukoot me website banwana",
       "Renukoot mein app banwana",
       "website developer Obra Anpara",
+      "Renukoot website designer",
+      "web development company Renukoot",
+      "hire freelance web developer Renukoot",
+      "Sonbhadra district SEO",
+      "website designer Sonbhadra district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

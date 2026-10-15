@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "immigration eligibility assessment form", "how much does an immigration consultant website cost",
       "immigration consultant website brampton", "immigration consultant website surrey", "immigration consultant website toronto",
       "immigration consultant website calgary", "risia website design", "immigration consultant marketing canada",
+      "hire immigration consultant website design in Canada", "freelance immigration consultant website design Canada",
     ],
   },
   hero: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer for Ankleshwar GIDC · From ${P.site}`,
-    description: `Website developer for Ankleshwar GIDC dye, chemical and pharma units: product catalogues, audit-ready pages and export enquiry forms from ${P.site}, owned by you.`,
+    description: `Website developer for Ankleshwar GIDC dye, chemical and pharma units: catalogues, audit-ready pages and export enquiry forms from ${P.site}, owned by you.`,
     keywords: [
       "website developer for Ankleshwar GIDC", "website developer Ankleshwar", "Ankleshwar GIDC website design", "website developer near me Ankleshwar",
       "Ankleshwar Bharuch Gujarat web developer", "dye manufacturer website Ankleshwar", "pharma intermediate website Gujarat", "chemical unit website Ankleshwar",
@@ -241,7 +241,7 @@ const content: FreelanceContent = {
         `They can, for specific searches, if the site gives search engines clear pages to show. No honest developer guarantees rankings; what we control is structure, speed and accuracy.`,
         `For a chemical or dye unit the useful searches are specific: a product name with a grade, a colour index name, a CAS number, or a product plus Ankleshwar or Gujarat. Pages titled with those terms, clean URLs, product and organisation schema, an XML sitemap and Search Console from launch give you the best start.`,
         `Keep a <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> for the plant with the same name, address and phone as the website footer. Drivers, visitors and job seekers use it to find the right gate inside a large estate.`,
-        `AI assistants and Google's AI Overviews tend to quote short, direct answers and tables. A product page that opens with one clear summary sentence, then a specification table, fits that well. Ongoing SEO after launch starts at ${P.seo} a month if you want it, and the <a href='/gujarat/seo-friendly-website-gujarat/'>SEO-friendly website in Gujarat</a> page lists what we build in from day one.`,
+        `AI assistants and Google's AI Overviews tend to quote short, direct answers and tables. A product page that opens with one clear summary sentence, then a specification table, fits that well. Ongoing SEO after launch starts at ${P.seo} if you want it, and the <a href='/gujarat/seo-friendly-website-gujarat/'>SEO-friendly website in Gujarat</a> page lists what we build in from day one.`,
       ],
     },
     {

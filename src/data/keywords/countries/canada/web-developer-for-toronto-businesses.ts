@@ -221,7 +221,7 @@ const content: FreelanceContent = {
         `Track each page in Google Search Console and expand the ones that earn impressions.`,
       ],
       after: [
-        `Sites built this way start at ${P.seoSite}. Ongoing work on rankings and reviews sits under <a href='/canada/local-seo-services/'>local SEO for Canadian businesses</a>, from ${P.seo} a month. Nobody can promise a map-pack position; we can promise the pages will be worth reading.`,
+        `Sites built this way start at ${P.seoSite}. Ongoing work on rankings and reviews sits under <a href='/canada/local-seo-services/'>local SEO for Canadian businesses</a>, from ${P.seo}. Nobody can promise a map-pack position; we can promise the pages will be worth reading.`,
       ],
     },
     {

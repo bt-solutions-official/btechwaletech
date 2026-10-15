@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Development Services in Gujarat from ${P.site}`,
-    description: `Website development services in Gujarat for every region from Kutch to Vapi: freelance team, sites from ${P.site}, itemised quote in 2 working days, code in your name.`,
+    description: `Website development services in Gujarat for every region from Kutch to Vapi: freelance team, sites from ${P.site}, itemised quote in 2 days, code in your name.`,
     keywords: [
       "website development services in Gujarat", "website development services Gujarat", "website development services near me", "web development services in Gujarat",
       "freelance website developers Gujarat", "website developer Gujarat", "website making services Gujarat", "best website development services in Gujarat",
@@ -419,6 +419,7 @@ const content: FreelanceContent = {
     heading: "More Gujarat website guides",
     links: [
       { name: "All services in Gujarat", href: "/gujarat/" },
+      { name: "Solar company website in Gujarat", href: "/gujarat/solar-company-website-gujarat/" },
       { name: "Website development cost in Gujarat", href: "/gujarat/website-development-cost-gujarat/" },
       { name: "Website designer in Gujarat", href: "/gujarat/website-designer-gujarat/" },
       { name: "Freelance web developer in Gujarat", href: "/gujarat/freelance-web-developer-gujarat/" },

@@ -5,9 +5,9 @@ const medininagar: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 24.03, lng: 84.07 },
   meta: {
-    title: "IT Services in Medininagar: Web, Apps, SEO & AI",
+    title: "Medininagar Website Design: Coaching & Palamu Trade",
     description:
-      "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Medininagar (Daltonganj) traders, hospitals, coaching centres, colleges and shops.",
+      "Medininagar (Daltonganj) websites, Hindi SEO and WhatsApp tools for Palamu coaching institutes, wholesalers, hospitals and jewellers. From ₹10,000.",
     keywords: [
       "IT services in Medininagar",
       "IT services in Daltonganj",
@@ -29,6 +29,16 @@ const medininagar: CityContent = {
       "Medininagar me app banwana",
       "Palamu business website",
       "मेदिनीनगर वेबसाइट डिज़ाइन",
+      "Medininagar website designer",
+      "website cost in Medininagar",
+      "web development company Medininagar",
+      "hire freelance web developer Medininagar",
+      "Palamu district SEO",
+      "website designer Palamu district",
+      "Jharkhand SEO services",
+      "Medininagar me website kaise banwaye",
+      "Medininagar website banwane ka kharcha",
+      "Medininagar coaching institutes website",
     ],
   },
   hero: {

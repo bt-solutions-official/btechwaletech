@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Low Cost Website Developer India: Sites from ${P.site}`,
-    description: `Low cost website developer in India: static business sites of up to 100 pages from ${P.site}, live in 1–2 weeks. See what is included and what costs extra.`,
+    description: `Low cost website developer in India: static business sites of up to 100 pages from ${P.site}, live in 1–2 weeks. See what is included; quote in 2 days.`,
     keywords: [
       "low cost website developer", "low cost website developer in India", "low cost website developer near me", "low cost website developer for hire",
       "low cost website price", "low cost website design cost", "best low cost website developer", "sasti website kaise banwaye",

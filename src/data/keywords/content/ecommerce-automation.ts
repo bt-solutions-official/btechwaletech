@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "Shopify automation expert", "WooCommerce automation", "ecommerce back office automation", "ecommerce workflow automation",
       "ecommerce automation freelancer", "D2C operations automation", "ecommerce automation Surat", "ecommerce automation Jaipur",
       "online store ka kaam automatic kaise kare", "how to automate an online store",
+      "best ecommerce automation in India",
     ],
   },
   hero: {

@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Freelance SEO consultant",
   updated: "2026-09-24",
   meta: {
-    title: "Freelance SEO Consultant: Audits, Roadmaps, Strategy",
-    description: `Freelance SEO consultant for audits, strategy and 90-day roadmaps your team can act on. Monthly SEO from ${P.seo}, Search Console reporting, no rank promises.`,
+    title: `Freelance SEO Consultant: Audits from ${P.seo}`,
+    description: `Freelance SEO consultant for audits, strategy and 90-day roadmaps your team can act on. Search Console reporting, no rank promises. SEO from ${P.seo}.`,
     keywords: [
       "freelance SEO consultant", "freelance SEO consultant in India", "SEO consultant near me", "freelance SEO consultant for hire",
       "SEO consultant cost India", "SEO consultant fees", "best freelance SEO consultant", "SEO consultant chahiye",
@@ -23,12 +23,13 @@ const content: FreelanceContent = {
       "SEO strategy consultant", "SEO roadmap", "independent SEO consultant", "SEO consulting services India",
       "SEO audit for website", "Google Search Console audit", "SEO consultant vs SEO agency", "hire SEO consultant",
       "SEO consultant for small business", "remote SEO consultant India",
+      "hire freelance seo consultant",
     ],
   },
   hero: {
     eyebrow: "Freelance SEO consultant · Audits and roadmaps",
     h1: "Freelance SEO consultant: audits, strategy and a roadmap your team can actually follow",
-    lede: `A freelance SEO consultant diagnoses why a site is not getting the search traffic it should, then writes a prioritised plan to fix it, rather than selling a vague monthly package. BtechWaleTech is three freelance developers in India, with technical SEO led by another of us, so our audits come from people who can also change the code. This page explains what a good audit contains, how a roadmap is built, and what consulting costs, with ongoing work from ${P.seo} a month.`,
+    lede: `A freelance SEO consultant diagnoses why a site is not getting the search traffic it should, then writes a prioritised plan to fix it, rather than selling a vague monthly package. BtechWaleTech is three freelance developers in India, with technical SEO led by another of us, so our audits come from people who can also change the code. This page explains what a good audit contains, how a roadmap is built, and what consulting costs, with ongoing work from ${P.seo}.`,
     pills: ["Technical SEO audit", "Search Console review", "Content gap analysis", "90-day roadmap", "Developer-ready tickets", "Local SEO checks", "No ranking guarantees"],
     origin: "Three freelance developers · Remote from India · Sites in India and abroad",
   },
@@ -57,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Starts with", value: "Access to Search Console, analytics and the site" },
       { label: "Audit covers", value: "Crawling, indexing, speed, content, links, local presence" },
       { label: "Deliverable", value: "Ranked findings plus a 90-day roadmap" },
-      { label: "Ongoing SEO", value: `From ${P.seo} per month` },
+      { label: "Ongoing SEO", value: `From ${P.seo}` },
       { label: "Rebuild if needed", value: `SEO website with 299+ pages from ${P.seoSite}` },
       { label: "Reporting", value: "Monthly, from your own Search Console data" },
       { label: "Promises", value: "Clear tasks and honest measurement, never guaranteed positions" },
@@ -278,7 +279,7 @@ const content: FreelanceContent = {
       heading: "Freelance SEO consultant services across India",
       paragraphs: [
         `Consulting is remote by nature: we work from your Search Console, analytics and site, discuss findings on video calls, and track tasks in a shared sheet or board. Your location changes nothing about the process.`,
-        `City pages describe the kinds of businesses we hear from: <a href='/gurgaon/'>Gurgaon</a>, <a href='/noida/'>Noida</a>, <a href='/thane/'>Thane</a>, <a href='/mohali/'>Mohali</a>, <a href='/kozhikode/'>Kozhikode</a>, <a href='/tiruchirappalli/'>Tiruchirappalli</a>, <a href='/gwalior/'>Gwalior</a>, <a href='/bhopal/'>Bhopal</a>, <a href='/meerut/'>Meerut</a> and <a href='/amritsar/'>Amritsar</a>. For businesses outside India, see <a href='/countries/'>countries we work with</a>, billed in USD from ${P.seoUsd} a month.`,
+        `City pages describe the kinds of businesses we hear from: <a href='/gurgaon/'>Gurgaon</a>, <a href='/noida/'>Noida</a>, <a href='/thane/'>Thane</a>, <a href='/mohali/'>Mohali</a>, <a href='/kozhikode/'>Kozhikode</a>, <a href='/tiruchirappalli/'>Tiruchirappalli</a>, <a href='/gwalior/'>Gwalior</a>, <a href='/bhopal/'>Bhopal</a>, <a href='/meerut/'>Meerut</a> and <a href='/amritsar/'>Amritsar</a>. For businesses outside India, see <a href='/countries/'>countries we work with</a>, billed in USD from ${P.seoUsd}.`,
       ],
     },
     {

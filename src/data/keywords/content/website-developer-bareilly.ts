@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-02",
   meta: {
     title: `Website Developer in Bareilly, Sites from ${P.site}`,
-    description: `Website developer in Bareilly for zari units, furniture makers, institutes and shops: business sites from ${P.site}, built remotely, yours to own. Quote in 2 days.`,
+    description: `Website developer in Bareilly for zari units, furniture makers, institutes and shops: business sites from ${P.site}, yours to own. Quote in 2 days.`,
     keywords: [
       "website developer in Bareilly", "website developer Bareilly", "website developer near me Bareilly", "web developer in Bareilly",
       "website designer in Bareilly", "website development in Bareilly", "website development services Bareilly", "website design Bareilly", "freelance web developer Bareilly", "website cost in Bareilly", "website price Bareilly",
@@ -22,6 +22,8 @@ const content: FreelanceContent = {
       "coaching institute website Bareilly", "website developer Civil Lines Bareilly", "website developer Rajendra Nagar Bareilly", "website developer Izzatnagar",
       "WordPress developer Bareilly", "SEO website Bareilly", "website developer Pilibhit", "website developer Rampur",
       "Bareilly me website kaise banwaye", "website banane wala Bareilly", "Bareilly website banwana hai",
+      "website developer in Bareilly cost", "website developer in Bareilly price", "hire website developer in Bareilly", "freelance website developer in Bareilly",
+      "best website developer in Bareilly", "website developer in Bareilly charges",
     ],
   },
   hero: {

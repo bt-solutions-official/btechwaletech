@@ -7,7 +7,7 @@ const kendujhar: CityContent = {
   meta: {
     title: "IT Services in Kendujhar | Web, Apps & AI from ₹10,000",
     description:
-      "Odia websites, Android and iOS apps, local SEO and WhatsApp automation for Kendujhar (Keonjhar) mining contractors, transporters, colleges, hospitals and shops.",
+      "Kendujhar (Keonjhar) Odia websites, mobile apps, local SEO and WhatsApp bots for mining contractors, transporters, colleges and hospitals. Apps from ₹40,000.",
     keywords: [
       "IT services in Kendujhar",
       "IT services team in Keonjhar",
@@ -29,6 +29,10 @@ const kendujhar: CityContent = {
       "Keonjhar me website banwana",
       "Keonjhar re website banaiba",
       "କେନ୍ଦୁଝର ୱେବସାଇଟ ଡିଜାଇନ",
+      "Kendujhar website designer",
+      "website cost in Kendujhar",
+      "web development company Kendujhar",
+      "hire freelance developer Kendujhar",
     ],
   },
   hero: {

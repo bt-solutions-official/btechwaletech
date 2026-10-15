@@ -1,3 +1,19 @@
+# Host and scheme canonicalisation is NOT possible in this file: Cloudflare Pages
+# _redirects only matches a path, not a scheme or hostname (domain-level redirects are
+# explicitly unsupported), so the rules below are path-only. Verified live behaviour:
+#   http://btechwaletech.in/      -> 301 https://btechwaletech.in/        OK (edge)
+#   http://www.btechwaletech.in/  -> 301 https://www.btechwaletech.in/    stays on www
+#   https://www.btechwaletech.in/ -> 200, full duplicate of the site      NEEDS FIXING
+#   https://btechwaletech.in/about -> 308 /about/                         OK (Pages)
+# www serves all 2670 pages with a non-www canonical, which is what Search Console
+# reports as "Alternate page with proper canonical tag". Fix it in the Cloudflare
+# dashboard, not here: either remove www.btechwaletech.in from the Pages project's
+# custom domains, or add a zone Redirect Rule
+#   (hostname eq "www.btechwaletech.in") -> https://btechwaletech.in${http.request.uri}  301
+# Trailing slashes already 308 to the canonical form via Pages asset serving. Do not add
+# a splat rule for it: /* /:splat/ loops, and /:path /:path/ would break /robots.txt,
+# /sitemap-index.xml, /llms.txt and every file under /_astro/.
+
 # Misspelled freelance URLs -> canonical pages
 /freelencers /freelancers/ 301
 /freelencers/ /freelancers/ 301
@@ -10,5 +26,6 @@
 /bhiwadi-rajasthan/it-company /bhiwadi-rajasthan/it-solutions/ 301
 /bhiwadi-rajasthan/it-company/ /bhiwadi-rajasthan/it-solutions/ 301
 
-# Common sitemap URL crawlers try
+# Common sitemap URLs crawlers try
 /sitemap.xml /sitemap-index.xml 301
+/sitemap_index.xml /sitemap-index.xml 301

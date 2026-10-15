@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "sr&ed for app development", "sr&ed software development eligibility", "offshore app development cost", "app development cost india vs canada",
       "app development quote canada", "how much does a small app cost", "app budget for startups canada", "app developer rates canada",
       "cheap app development canada", "app cost calculator canada",
+      "hire app development in Canada", "freelance app development Canada",
     ],
   },
   hero: {
@@ -46,7 +47,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How much does app development cost in Canada?",
-    text: `App development cost in Canada varies widely because apps vary: a single-role booking app and a two-sided marketplace are different projects. Canadian studios price in local salaries and overheads. With a remote team like BtechWaleTech, an Android and iOS app built in Flutter or React Native starts at ${P.app} and usually takes 6–10 weeks, and maintenance after two free months starts at ${P.care} per month.`,
+    text: `App development cost in Canada varies widely because apps vary: a single-role booking app and a two-sided marketplace are different projects. Canadian studios price in local salaries and overheads. With a remote team like BtechWaleTech, an Android and iOS app built in Flutter or React Native starts at ${P.app} and usually takes 6–10 weeks, and maintenance after two free months starts at ${P.care}.`,
     more: `If you are still deciding who builds it, read <a href='/canada/hire-mobile-app-developers/'>hiring mobile app developers from Canada</a>; if the goal is a first version for investors, see <a href='/canada/mvp-development-for-startups/'>MVP development for Canadian startups</a>.`,
   },
   snapshot: {
@@ -57,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Biggest cost drivers", value: "User roles, payments, real-time features, integrations" },
       { label: "Apple and Google fees", value: "US$99 a year (Apple), US$25 once (Google Play)" },
       { label: "SR&ED", value: "Work done outside Canada by a contractor is not claimable; ask your accountant" },
-      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
       { label: "Quote format", value: "Line by line in USD; pay in USD or CAD" },
     ],
   },
@@ -73,7 +74,7 @@ const content: FreelanceContent = {
       { name: "React Native for web-first teams", note: "If your product already runs on React, sharing logic between the web dashboard and the app can lower the total bill.", href: "/canada/react-native-app-development/", size: "md" },
       { name: "AI features inside the app", note: `Chat assistants, document reading or smart search added to an app, from ${P.ai} for the automation layer.`, href: "/canada/ai-chatbot-development/", size: "sm" },
       { name: "Store listing and launch", note: "App Store Connect and Play Console setup under your accounts, screenshots sized correctly, privacy labels and review submission.", size: "sm" },
-      { name: "Yearly maintenance", note: `OS updates, library upgrades and small fixes after the two free months, from ${P.care} a month.`, href: "/canada/website-maintenance-services/", size: "sm" },
+      { name: "Yearly maintenance", note: `OS updates, library upgrades and small fixes after the two free months, from ${P.care}.`, href: "/canada/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -201,7 +202,7 @@ const content: FreelanceContent = {
       heading: "How much should you budget each year to maintain an app in Canada?",
       paragraphs: [
         `Plan for ongoing maintenance every year the app is live. Apple and Google release new operating system versions annually, libraries receive security patches, and store policies change, so an app nobody touches for a year tends to break or get flagged.`,
-        `With us, the first two months after launch are covered free: bug fixes, small adjustments and help with store review issues. After that, maintenance starts at <strong>${P.care} a month</strong>. That covers keeping dependencies current, rebuilding for new OS versions, fixing crashes reported through your monitoring tools, renewing certificates and making minor copy or layout changes. New features are quoted separately, so you always know whether a request is upkeep or new work.`,
+        `With us, the first two months after launch are covered free: bug fixes, small adjustments and help with store review issues. After that, maintenance starts at <strong>${P.care}</strong>. That covers keeping dependencies current, rebuilding for new OS versions, fixing crashes reported through your monitoring tools, renewing certificates and making minor copy or layout changes. New features are quoted separately, so you always know whether a request is upkeep or new work.`,
         `If you prefer not to pay monthly, you can also book an update round once or twice a year, typically before the September iOS release and after Google Play's annual target API level deadline. The risk is that issues build up between rounds. For customer-facing apps that earn money, a monthly plan is usually cheaper than an emergency fix during a busy season. More on what upkeep includes on our <a href='/canada/website-maintenance-services/'>maintenance services page for Canada</a>.`,
       ],
     },
@@ -371,7 +372,7 @@ const content: FreelanceContent = {
         ["Store commission on digital sales", "Apple, Google", "15% in the small-business and first-million tiers", "Does not apply to physical services paid by card"],
         ["Cloud hosting and database", "Your cloud provider", "Monthly, grows with users", "Billing alerts set in your account"],
         ["Notifications, SMS, email, maps", "Each provider", "Usage-based", "Estimated for your first-year volume"],
-        ["Maintenance", "BtechWaleTech", `2 months free, then from ${P.care} a month`, "OS updates, fixes, small changes"],
+        ["Maintenance", "BtechWaleTech", `2 months free, then from ${P.care}`, "OS updates, fixes, small changes"],
       ],
       hideSm: [3],
     },
@@ -415,7 +416,7 @@ const content: FreelanceContent = {
     { question: "How much does a simple app cost in Canada?", answer: `A simple app usually means one user type, a handful of screens and a basic admin panel, such as a booking or information app. With us, that starts at ${P.app} for Android and iOS together. Costs rise when you add payments, chat, live location or integrations, which is why a written feature list gives a far better estimate than the word “simple”.` },
     { question: "Is Flutter cheaper than building native apps?", answer: "Usually, yes. Flutter lets one codebase run on Android and iOS, so most screens and logic are written once and maintained once. Two native apps roughly double the front-end work and the yearly updates. Native still makes sense for apps that depend on the newest device features or extreme performance, or when an in-house native team will take over." },
     { question: "Can I claim SR&ED on app development done by an overseas team?", answer: "Not for the contract work itself. The CRA's policy on contract expenditures says that where an entire contract relates to SR&ED work carried on outside Canada, no portion is allowed as an SR&ED expenditure. Your own Canadian staff's eligible work may be different. Ask your accountant or an SR&ED specialist; we do not give tax advice." },
-    { question: "How much does it cost to maintain an app every year?", answer: `Budget for maintenance every year, because Apple and Google release new operating systems annually and libraries need security updates. With us, the first two months after launch are free, then maintenance starts at ${P.care} a month. Add store fees, hosting and usage-based services such as notifications or maps, which you pay directly to each provider.` },
+    { question: "How much does it cost to maintain an app every year?", answer: `Budget for maintenance every year, because Apple and Google release new operating systems annually and libraries need security updates. With us, the first two months after launch are free, then maintenance starts at ${P.care}. Add store fees, hosting and usage-based services such as notifications or maps, which you pay directly to each provider.` },
     { question: "What are the Apple and Google fees for publishing an app?", answer: "Apple's Developer Program costs US$99 a year and Google Play has a one-time US$25 registration fee. If you sell digital goods or subscriptions in the app, commissions apply; both stores have 15% tiers for smaller developers under set revenue thresholds. Open both accounts in your business name so the listings always belong to you." },
     { question: "How long does it take to build an app?", answer: "A first release of a booking, membership or ordering app usually takes six to ten weeks from approved quote. Marketplaces and on-demand apps with several roles take longer. Store review adds a few days at the end. The biggest schedule risk is waiting for content, decisions or third-party API access, so we agree those dates at the start." },
     { question: "Why do app quotes in Canada vary so much?", answer: "Because they rarely describe the same app. One quote may include design research, an admin panel, QA and months of support; another may cover screens only. Rates also vary with overheads and team size. Ask each provider for a line-by-line breakdown and compare feature by feature to see what each figure actually buys." },

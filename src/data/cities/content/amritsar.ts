@@ -7,7 +7,7 @@ const amritsar: CityContent = {
   meta: {
     title: "Amritsar Web Development & SEO | Sites from ₹10,000",
     description:
-      "Websites, SEO, online stores and WhatsApp automation for Amritsar hotels, textile traders, food brands, jewellers and NRI-facing firms. Sites from ₹10,000.",
+      "Amritsar websites, SEO, online stores and WhatsApp automation for hotels, textile traders, food brands, jewellers and NRI-facing firms. Sites from ₹10,000.",
     keywords: [
       "website development team in Amritsar",
       "web designer Amritsar",
@@ -25,6 +25,14 @@ const amritsar: CityContent = {
       "website maintenance Amritsar",
       "Amritsar vich website banwauni",
       "ਅੰਮ੍ਰਿਤਸਰ ਵੈੱਬਸਾਈਟ ਡਿਜ਼ਾਈਨ",
+      "Amritsar website designer",
+      "website cost in Amritsar",
+      "web development company Amritsar",
+      "hire freelance developer Amritsar",
+      "Punjab SEO",
+      "website for hotels and guest houses in Amritsar",
+      "web designer in Hall Bazaar, Amritsar",
+      "website for tour and taxi operators in Amritsar",
     ],
   },
   hero: {

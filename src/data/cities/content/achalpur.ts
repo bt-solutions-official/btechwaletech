@@ -7,7 +7,7 @@ const achalpur: CityContent = {
   meta: {
     title: "IT Services in Achalpur: Websites, Apps, SEO & AI",
     description:
-      "Marathi and Hindi websites, local SEO, cotton and orange trade pages, Melghat stay bookings and WhatsApp automation for Achalpur and Paratwada businesses.",
+      "Achalpur and Paratwada Marathi and Hindi websites, local SEO, cotton and orange trade pages, Melghat stay bookings and WhatsApp bots. From ₹10,000.",
     keywords: [
       "website development team in Achalpur",
       "website developer Paratwada",
@@ -25,6 +25,14 @@ const achalpur: CityContent = {
       "Google Maps listing Paratwada",
       "website maintenance Achalpur",
       "अचलपुर वेबसाइट डिझाइन",
+      "Achalpur website designer",
+      "website cost in Achalpur",
+      "web development company Achalpur",
+      "hire freelance developer Achalpur",
+      "Maharashtra SEO",
+      "Achalpur me website kaise banwaye",
+      "Paratwada website designer",
+      "website for cotton traders and ginning units in Achalpur",
     ],
   },
   hero: {

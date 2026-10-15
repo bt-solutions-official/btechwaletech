@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "milk subscription with pause option", "dairy farm website Pune", "dairy farm website Bengaluru", "dairy farm website Hyderabad",
       "dairy farm website Jaipur", "doodh delivery website", "dairy farm ki website kaise banaye", "website for milk business",
       "dairy brand website", "A2 cow milk online", "milk route delivery software",
+      "dairy farm website company in India",
+      "dairy farm website near me",
+      "best dairy farm website in India",
     ],
   },
   hero: {
@@ -74,7 +77,7 @@ const content: FreelanceContent = {
       { name: "Delivery boy app", note: `Route list in stop order, marked delivered or skipped, empty-bottle count and cash notes, on low-end Android. From ${P.app}.`, href: "/milk-delivery-app-development/", size: "md" },
       { name: "WhatsApp reminders", note: `Low-balance alerts, pause confirmations and next-day order summaries sent automatically. From ${P.ai}.`, href: "/whatsapp-automation-expert/", size: "md" },
       { name: "Farm visit booking", note: "Weekend slots for families and school groups, with head-count limits so the farm is never crowded.", href: "/booking-app-developer/", size: "sm" },
-      { name: "Local SEO for milk searches", note: `Locality pages and Google Business Profile work for searches like “A2 milk near me”, from ${P.seo} a month.`, href: "/local-seo-expert/", size: "sm" },
+      { name: "Local SEO for milk searches", note: `Locality pages and Google Business Profile work for searches like “A2 milk near me”, from ${P.seo}.`, href: "/local-seo-expert/", size: "sm" },
       { name: "Sales and route dashboard", note: "Daily litres by route, wallet balances, churned subscribers and ghee sales in one screen.", href: "/dashboard-developer/", size: "sm" },
     ],
   },
@@ -247,7 +250,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Local search is where a dairy farm website finds new households. People search for fresh cow milk, A2 milk or desi ghee with their locality name, and Google shows nearby businesses first on phones.`,
         `Start with a complete Google Business Profile: correct category, service areas, delivery hours, photos of the farm and a link to the subscription page. On the website, create one page per delivery locality that lists the delivery window and which products are available there. Each locality page should say something specific, such as the morning slot or the nearest collection point, rather than repeating the same paragraph with the area name swapped.`,
-        `Reviews matter, but never buy or invent them. Ask subscribers after their first month, and reply to every review. Nobody can guarantee rankings, and a farm with ten genuine reviews and clear pages usually does better locally than one chasing tricks. Our <a href='/local-seo-expert/'>local SEO</a> work for small businesses starts at ${P.seo} a month if you want help after launch.`,
+        `Reviews matter, but never buy or invent them. Ask subscribers after their first month, and reply to every review. Nobody can guarantee rankings, and a farm with ten genuine reviews and clear pages usually does better locally than one chasing tricks. Our <a href='/local-seo-expert/'>local SEO</a> work for small businesses starts at ${P.seo} if you want help after launch.`,
       ],
     },
     {
@@ -408,7 +411,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "Domain, hosting and payment gateway accounts are created under your business. We get user access only, so settlements and data are yours from the first day."],
       ["Test on a private link", "You try subscriptions, pauses and wallet top-ups on a staging site from your own phone while we simulate weeks of deliveries to catch errors early."],
       ["Run in parallel, then switch", "For a couple of weeks the system's route sheets are compared with your handwritten list. Once they match, customers are moved over with a WhatsApp announcement."],
-      ["Two months of free support", `Fixes, small changes and updates are free for two months after launch. After that, maintenance continues from ${P.care} a month only if you choose it.`],
+      ["Two months of free support", `Fixes, small changes and updates are free for two months after launch. After that, maintenance continues from ${P.care} only if you choose it.`],
     ],
   },
   faqHeading: "Dairy farm website: questions farmers and milk brands ask",

@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "app developers for small business nz", "startup app developers nz", "who owns the app source code nz",
       "app store account for nz company", "google play organisation account nz", "cross-platform app developers nz",
       "app developers near me nz", "mvp app developers new zealand", "app developers india for nz",
+      "freelance app developers New Zealand",
     ],
   },
   hero: {

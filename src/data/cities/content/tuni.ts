@@ -5,9 +5,9 @@ const tuni: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 17.35, lng: 82.55 },
   meta: {
-    title: "IT Services in Tuni | Web, Apps, SEO & AI from ₹10,000",
+    title: "Tuni Website Design: Mango, Cashew & NH16 Trade",
     description:
-      "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Tuni mango traders, cashew units, NH16 businesses, Lova pilgrims, schools and clinics.",
+      "Tuni websites, Telugu SEO and WhatsApp tools for mango commission agents, cashew processors and NH16 hotels and garages. Sites from ₹10,000.",
     keywords: [
       "IT services in Tuni",
       "IT services team in Tuni",
@@ -29,6 +29,16 @@ const tuni: CityContent = {
       "Tuni me website banwana",
       "Tuni lo website cheyinchali",
       "తుని వెబ్‌సైట్ డిజైన్",
+      "Tuni website designer",
+      "web development company Tuni",
+      "hire freelance web developer Tuni",
+      "Kakinada district SEO",
+      "website designer Kakinada district",
+      "Andhra Pradesh SEO services",
+      "Tuni cashew processors website",
+      "cashew processors website design Tuni",
+      "website design NH16 stretch Tuni",
+      "website design Mango market yards Tuni",
     ],
   },
   hero: {

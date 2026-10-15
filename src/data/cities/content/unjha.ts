@@ -7,7 +7,7 @@ const unjha: CityContent = {
   meta: {
     title: "IT Services in Unjha | Web, Apps & AI from ₹10,000",
     description:
-      "Export websites, Android and iOS apps, SEO and WhatsApp automation for Unjha jeera, fennel and isabgol traders, spice processors, APMC firms, clinics and shops.",
+      "Export websites, apps, SEO and WhatsApp automation for Unjha jeera, fennel and isabgol traders, spice processors, APMC firms, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Unjha",
       "IT services team in Unjha",
@@ -29,6 +29,12 @@ const unjha: CityContent = {
       "Unjha ma website banavvi",
       "ઊંઝા વેબસાઇટ ડિઝાઇન",
       "Sidhpur Unjha app development",
+      "Unjha website designer",
+      "web development company Unjha",
+      "hire freelance web developer Unjha",
+      "Mehsana district SEO",
+      "website designer Mehsana district",
+      "Gujarat SEO services",
     ],
   },
   hero: {

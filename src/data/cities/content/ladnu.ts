@@ -7,7 +7,7 @@ const ladnu: CityContent = {
   meta: {
     title: "IT Services in Ladnu | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Ladnun traders, Jain institutions, pilgrim lodges, schools, clinics and Didwana-Kuchaman shops.",
+      "Ladnun websites, mobile apps, local SEO and WhatsApp bots for traders, Jain institutions, pilgrim lodges, schools and clinics. Ask for an itemised quote.",
     keywords: [
       "IT services in Ladnun",
       "IT services team in Ladnu",
@@ -29,6 +29,10 @@ const ladnu: CityContent = {
       "Ladnun me website banwana",
       "Ladnun mein app kaise banwaye",
       "लाडनूं वेबसाइट डिजाइन",
+      "Ladnun website designer",
+      "website cost in Ladnun",
+      "web development company Ladnun",
+      "hire freelance developer Ladnun",
     ],
   },
   hero: {

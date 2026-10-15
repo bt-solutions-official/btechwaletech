@@ -7,7 +7,7 @@ const gadwal: CityContent = {
   meta: {
     title: "IT Services in Gadwal | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Gadwal saree weavers, cotton seed growers, ginning mills, temple-town trade and clinics.",
+      "Gadwal websites, Android and iOS apps, local SEO and WhatsApp automation for saree weavers, cotton seed growers, ginning mills, temple-town trade and clinics.",
     keywords: [
       "IT services in Gadwal",
       "IT services team in Gadwal",
@@ -29,6 +29,10 @@ const gadwal: CityContent = {
       "Gadwal lo website kavali",
       "Raichur Road Gadwal shop website",
       "గద్వాల్ వెబ్‌సైట్ డిజైన్",
+      "Gadwal website designer",
+      "web development company Gadwal",
+      "hire freelance developer Gadwal",
+      "Telangana SEO",
     ],
   },
   hero: {

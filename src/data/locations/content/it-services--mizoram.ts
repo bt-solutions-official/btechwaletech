@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.1645, lng: 92.9376 },
   meta: {
-    title: "Freelance IT Services in Mizoram: Software, Apps & AI",
+    title: "Mizoram IT Services: Software, Apps & AI",
     description:
-      "Freelance IT services in Mizoram, from Aizawl to Lunglei and Champhai: custom software, apps, AI automation, dashboards, SEO, hosting and support. From ₹10,000.",
+      "Freelance IT services in Mizoram, from Aizawl to Lunglei and Champhai: custom software, apps, AI automation, dashboards and SEO. From ₹10,000.",
     keywords: [
       "Android app development Mizoram",
       "iOS app development Mizoram",
@@ -31,6 +31,14 @@ const content: CityContent = {
       "school software Mizoram",
       "Mizoram-ah website siamtu",
       "Mizoram mein software team",
+      "Mizoram website designer",
+      "website cost in Mizoram",
+      "IT company in Mizoram",
+      "Mizoram SEO services",
+      "hire developer Mizoram",
+      "churches software in Mizoram",
+      "education software in Mizoram",
+      "retail software in Mizoram",
     ],
   },
   hero: {

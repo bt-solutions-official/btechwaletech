@@ -22,6 +22,9 @@ const content: FreelanceContent = {
       "sample chain of custody software", "instrument calibration log software", "lims audit trail", "lims electronic signature", "21 cfr part 11 lims",
       "lims software development cost", "lims software price India", "how to build a lims", "custom lims vs off the shelf lims",
       "lims developer Hyderabad", "lims software Ahmedabad", "testing lab software for small lab", "lab ke liye lims software",
+      "lims software development company in India",
+      "best lims software development in India",
+      "lims software development services",
     ],
   },
   hero: {

@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `White Label SEO Singapore, Wholesale from ${P.seo}`,
-    description: `White label SEO Singapore for agencies: unbranded audits, content briefs and reports under your name, delivered in SGT hours. Wholesale from ${P.seo} per site.`,
+    description: `White label SEO Singapore for agencies: unbranded audits, content briefs and reports under your name, delivered in SGT hours. From ${P.seo} per site.`,
     keywords: [
       "white label seo singapore", "white label seo", "white label seo services singapore", "white label seo agency singapore",
       "seo reseller singapore", "seo reseller program singapore", "wholesale seo singapore", "outsourced seo for agencies",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "white label local seo singapore", "white label content writing seo", "seo fulfilment partner", "white label seo india",
       "white label seo for digital marketing agencies", "chinese keyword research singapore", "unbranded seo reports looker studio",
       "white label seo near me", "seo outsourcing singapore", "white label seo jurong", "white label seo tampines",
+      "hire white label seo in Singapore", "freelance white label seo Singapore",
     ],
   },
   hero: {

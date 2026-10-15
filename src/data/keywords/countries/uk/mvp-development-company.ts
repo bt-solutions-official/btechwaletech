@@ -218,7 +218,7 @@ const content: FreelanceContent = {
         `Keep the architecture boring, the data model honest and releases small, whichever MVP development company wrote version one. Rewrites happen when an MVP was built as a throwaway and then asked to carry a business.`,
         `Three habits protect you. First, model your data as the real business would, even if the interface only shows a slice: a “team” table with one member is cheap now and saves a painful migration later. Second, put features behind flags so you can release to a few users, watch the numbers and roll back without drama. Third, keep a changelog your investors could read.`,
         `After launch we usually move to a weekly cycle: you review analytics and user notes on Monday, we agree the next small bet in the UK morning, and a release goes to staging by the end of the week. Each bet is written as a hypothesis, such as “adding a reminder email raises completed packs”, with the metric that will judge it.`,
-        `Our two free months of fixes cover defects in what we built. New features during that period are quoted separately, and ongoing care from ${P.care} a month covers updates and small improvements afterwards. When you are ready to hire in-house, the same repository and notes become their starting point.`,
+        `Our two free months of fixes cover defects in what we built. New features during that period are quoted separately, and ongoing care from ${P.care} covers updates and small improvements afterwards. When you are ready to hire in-house, the same repository and notes become their starting point.`,
       ],
     },
     {

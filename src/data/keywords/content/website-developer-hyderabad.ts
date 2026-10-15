@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-07",
   meta: {
     title: `Website Developer in Hyderabad: Sites from ${P.site}`,
-    description: `Website developer in Hyderabad for complete business sites from ${P.site}: planned, coded and launched remotely, Telugu or Urdu ready, with 2 months of free care.`,
+    description: `Website developer in Hyderabad for business sites from ${P.site}: planned, coded and launched remotely, Telugu or Urdu ready. 2 months of free care.`,
     keywords: [
       "website developer in Hyderabad", "website developer Hyderabad", "website developers in Hyderabad", "web developer Hyderabad",
       "website developer near me Hyderabad", "website development Hyderabad", "website development services Hyderabad", "website designer and developer Hyderabad",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Secunderabad", "website developer Begumpet", "website developer Kukatpally", "Telugu website developer Hyderabad",
       "Urdu website Hyderabad", "website developer Telangana", "best website developer in Hyderabad", "affordable website developer Hyderabad",
       "Hyderabad me website banwana hai", "website banane wala Hyderabad",
+      "website developer in Hyderabad cost", "website developer in Hyderabad price", "hire website developer in Hyderabad", "freelance website developer in Hyderabad",
+      "website developer in Hyderabad charges",
     ],
   },
   hero: {

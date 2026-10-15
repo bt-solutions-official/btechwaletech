@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "build own restaurant pos", "restaurant pos without monthly fee", "best restaurant pos software for small restaurant", "offline restaurant billing software",
       "restaurant pos software Hyderabad", "restaurant pos software Bangalore", "restaurant pos software Pune", "restaurant billing software kaise banwaye",
       "which pos is best for restaurant", "how much does restaurant pos software cost in India",
+      "Restaurant POS software company", "best Restaurant POS software in India", "Restaurant POS software near me",
     ],
   },
   hero: {

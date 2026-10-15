@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "mistral ai for business", "self-hosted llm for companies", "betriebsrat ai tools", "ai automation roi",
       "hire ai automation experts", "ai automation agency munich", "ai automation agency berlin", "ai automation agency hamburg",
       "ai automation agency stuttgart", "what does an ai automation agency do", "ai agents for back office", "outsource ai automation to india",
+      "freelance ai automation Germany",
     ],
   },
   hero: {

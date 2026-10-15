@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Car Export Website Design: Stock Sites from ${P.software}`,
-    description: `Car export website design for Japanese used-car exporters: stock pages with auction sheets, CIF/C&F calculator, bulk CSV upload and WhatsApp leads, from ${P.software}.`,
+    description: `Car export website design for Japanese used-car exporters: stock pages with auction sheets, CIF/C&F calculator, CSV upload and WhatsApp leads, from ${P.software}.`,
     keywords: [
       "car export website design", "used car export website", "japanese used car exporter website", "car exporter website developer",
       "used car stock list website", "car stock management website", "cif price calculator car export", "c&f price calculator website",
@@ -21,6 +21,8 @@ const content: FreelanceContent = {
       "car dealer export website japan", "used car export website yokohama", "car exporter website nagoya", "car exporter website kobe",
       "car export website toyama", "japanese used cars kenya website", "used car export to africa website", "used cars for jamaica website",
       "right hand drive car export website", "vehicle inventory website developer india",
+      "hire car export website design in Japan", "freelance car export website design Japan", "car export website design Tokyo",
+      "car export website design Osaka",
     ],
   },
   hero: {

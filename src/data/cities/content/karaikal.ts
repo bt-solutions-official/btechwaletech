@@ -7,7 +7,7 @@ const karaikal: CityContent = {
   meta: {
     title: "IT Services in Karaikal | Web, Apps & AI from ₹10,000",
     description:
-      "Tamil and English websites, Android and iOS apps, local SEO and WhatsApp automation for Karaikal port suppliers, temple-town lodges, fish traders, clinics and shops.",
+      "Karaikal Tamil and English websites, mobile apps, local SEO and WhatsApp bots for port suppliers, temple-town lodges, fish traders and clinics. From ₹10,000.",
     keywords: [
       "IT services in Karaikal",
       "IT services team in Karaikal",
@@ -29,6 +29,10 @@ const karaikal: CityContent = {
       "Karaikal Tamil website design",
       "Karaikal me website banwana",
       "Karaikal-la website seyya evvalavu selavu",
+      "Karaikal website designer",
+      "web development company Karaikal",
+      "hire freelance developer Karaikal",
+      "Coromandel coast SEO",
     ],
   },
   hero: {

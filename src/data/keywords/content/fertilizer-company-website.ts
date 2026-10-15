@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Fertilizer company website",
   updated: "2026-09-25",
   meta: {
-    title: `Fertilizer Company Website: Dealers + Farmers`,
+    title: `Fertilizer Company Website: Dealers, from ${P.site}`,
     description: `Fertilizer company website with crop-wise product pages, dealer locator, dealership form, regional languages and farmer helpline. From ${P.site}.`,
     keywords: [
       "fertilizer company website", "fertilizer company website design", "fertiliser company website", "agro input company website",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "water soluble fertilizer website", "organic fertilizer brand website", "fertilizer company website near me", "fertilizer company website Gujarat",
       "fertilizer company website Maharashtra", "fertilizer company website Punjab", "agri input brand website developer", "dealer app for fertilizer company",
       "khad company website", "fertilizer product catalogue website",
+      "best fertilizer company website in India",
+      "fertilizer company website services",
     ],
   },
   hero: {

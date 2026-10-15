@@ -7,7 +7,7 @@ const mokameh: CityContent = {
   meta: {
     title: "IT Services in Mokama | Web, Apps & AI from ₹10,000",
     description:
-      "Hindi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Mokama pulse traders, transporters, workshops, schools and clinics.",
+      "Hindi and English websites, apps and SEO for Mokama pulse traders, transporters, workshops, schools and clinics. Sites from ₹10,000, free upkeep for 2 months.",
     keywords: [
       "IT services in Mokama",
       "IT services in Mokameh",
@@ -28,6 +28,13 @@ const mokameh: CityContent = {
       "Mokama me website banwana",
       "Mokama me app banwana",
       "मोकामा वेबसाइट डिज़ाइन",
+      "Mokama website designer",
+      "web development company Mokama",
+      "hire freelance web developer Mokama",
+      "Patna district SEO",
+      "website designer Patna district",
+      "Bihar SEO services",
+      "Mokama me website kaise banwaye",
     ],
   },
   hero: {

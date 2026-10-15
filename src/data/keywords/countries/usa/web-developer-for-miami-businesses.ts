@@ -68,7 +68,7 @@ const content: FreelanceContent = {
     cards: [
       { name: "Bilingual business websites", note: `English and Spanish versions on separate URLs with a clear language switch, correct hreflang tags and forms in both languages. Spanish text comes from you or your translator. From ${P.site}.`, href: "/services/web-development/", size: "lg" },
       { name: "Real estate and condo sites", note: "Listings through your IDX provider, pre-construction and neighborhood pages, and lead forms routed to your CRM for agents and small brokerages.", href: "/usa/real-estate-agent-website-design/", size: "lg" },
-      { name: "Restaurant and hospitality sites", note: "Menus as real text Google can read, reservation and event links, private-dining enquiry forms and a gallery that stays light on phones.", href: "/usa/restaurant-website-design/", size: "md" },
+      { name: "Restaurant and hospitality sites", note: "Menus as real text Google can read, reservation and event links, private-dining enquiry forms and a gallery that stays light on phones.", href: "/usa/small-business-website-design/", size: "md" },
       { name: "Med spa and wellness sites", note: "Treatment pages, booking-tool embeds and before-and-after galleries that only use photos your clients have consented to.", href: "/usa/med-spa-website-design/", size: "md" },
       { name: "Startup MVPs and apps", note: `Web apps from ${P.software} and iOS plus Android apps in Flutter or React Native from ${P.app}, published under your own developer accounts.`, href: "/usa/mvp-development-for-startups/", size: "md" },
       { name: "AI lead handling", note: `Instant replies to web and WhatsApp enquiries, lead scoring and hand-off to your team, from ${P.ai}.`, href: "/usa/ai-automation-agency/", size: "md" },
@@ -161,7 +161,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Hospitality sites in Miami need three things above all: a menu Google can read as text, one obvious way to reserve or order, and event pages that can change weekly without calling a developer. Pretty photos matter, but they come after those three.`,
         `Menus uploaded as PDFs are the most common problem we find. Search engines and AI assistants read them poorly, and they are awkward on phones. We build menus as HTML with prices you control, and add a Spanish menu page when your guests need one. Reservations use the platform you already pay for; we link or embed it and track the clicks.`,
-        `Seasonality is the Miami-specific wrinkle. Winter brings visitors, and events in town fill calendars, so your site should make it simple to publish a new event page, a holiday menu or a private-dining offer in minutes through the CMS we set up. For boutique hotels, direct-booking pages that sit beside your listing on travel sites can be worth building; our notes on <a href='/usa/vacation-rental-website-design/'>vacation rental websites</a> cover the booking-engine side.`,
+        `Seasonality is the Miami-specific wrinkle. Winter brings visitors, and events in town fill calendars, so your site should make it simple to publish a new event page, a holiday menu or a private-dining offer in minutes through the CMS we set up. For boutique hotels, direct-booking pages that sit beside your listing on travel sites can be worth building; our notes on <a href='/usa/real-estate-agent-website-design/'>real estate agent websites</a> cover the listing and enquiry side.`,
       ],
     },
     {
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
         "Domain, hosting and analytics show your business as the owner.",
       ],
       after: [
-        `Once live, we submit the sitemap in Search Console, confirm both language versions are discovered, and watch the coverage report for the first weeks. If you run home-service work in Miami-Dade, the trade guides on <a href='/usa/pest-control-website-design/'>pest control websites</a> and <a href='/usa/landscaping-website-design/'>landscaping websites</a> show how we handle service-area pages.`,
+        `Once live, we submit the sitemap in Search Console, confirm both language versions are discovered, and watch the coverage report for the first weeks. If you run home-service work in Miami-Dade, the trade guides on <a href='/usa/hvac-website-design/'>HVAC websites</a> and <a href='/usa/landscaping-website-design/'>landscaping websites</a> show how we handle service-area pages.`,
       ],
     },
   ],
@@ -404,11 +404,11 @@ const content: FreelanceContent = {
       { name: "Web developer for Houston businesses", href: "/usa/web-developer-for-houston-businesses/" },
       { name: "Real estate agent website design", href: "/usa/real-estate-agent-website-design/" },
       { name: "Med spa website design", href: "/usa/med-spa-website-design/" },
-      { name: "Restaurant website design", href: "/usa/restaurant-website-design/" },
+      { name: "Small business website cost", href: "/usa/small-business-website-cost/" },
       { name: "MVP development for startups", href: "/usa/mvp-development-for-startups/" },
       { name: "Small business website design", href: "/usa/small-business-website-design/" },
       { name: "Local SEO services", href: "/usa/local-seo-services/" },
-      { name: "Pest control website design", href: "/usa/pest-control-website-design/" },
+      { name: "Landscaping website design", href: "/usa/landscaping-website-design/" },
       { name: "Website work for US businesses", href: "/usa/" },
       { name: "Hire Indian developers", href: "/hire-indian-developers/" },
       { name: "Pricing", href: "/pricing/" },

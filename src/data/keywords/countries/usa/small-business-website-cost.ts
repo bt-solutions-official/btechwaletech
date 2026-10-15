@@ -249,7 +249,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Building accessibility in from the start adds little to the cost, while fixing it afterwards can add a lot. The same goes for basic privacy notices and cookie choices where your customers' state requires them.`,
         `The Department of Justice's March 2022 web accessibility guidance says the ADA's requirements apply to all the goods and services businesses open to the public offer, including those offered on the web. We build with readable colour contrast, labelled form fields, keyboard navigation, alt text and sensible heading order as standard, which also helps SEO and older customers on phones.`,
-        `Privacy rules vary by state and business type, so we build the pieces, such as a privacy page layout and consent controls for non-essential tracking, while you or your lawyer supply the wording. For deeper work, see our pages on <a href='/usa/ada-compliant-website-design/'>ADA compliant website design</a> and <a href='/usa/ccpa-compliant-website/'>CCPA compliant websites</a>. If you run a medical practice, the costs change again because of patient data; our <a href='/usa/hipaa-compliant-website-design/'>HIPAA website guide</a> covers that case.`,
+        `Privacy rules vary by state and business type, so we build the pieces, such as a privacy page layout and consent controls for non-essential tracking, while you or your lawyer supply the wording. For deeper work, see our page on <a href='/usa/ada-compliant-website-design/'>ADA compliant website design</a>. If you run a medical practice, the costs change again because of patient data; our <a href='/usa/hipaa-compliant-website-design/'>HIPAA website guide</a> covers that case.`,
       ],
     },
     {

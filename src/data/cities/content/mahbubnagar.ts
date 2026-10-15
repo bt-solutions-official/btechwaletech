@@ -7,7 +7,7 @@ const mahbubnagar: CityContent = {
   meta: {
     title: "IT Services in Mahbubnagar: Websites, Apps, SEO & AI",
     description:
-      "Websites, Telugu-friendly local SEO and WhatsApp automation for Mahbubnagar clinics, colleges, traders and suppliers. From ₹10,000, with 2 free months of upkeep.",
+      "Websites, Telugu-friendly local SEO and WhatsApp tools for Mahbubnagar clinics, colleges, traders and suppliers. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "website development team in Mahbubnagar",
       "website designer Mahabubnagar",
@@ -24,6 +24,17 @@ const mahbubnagar: CityContent = {
       "website cost Jadcherla",
       "Mahbubnagar lo website",
       "మహబూబ్‌నగర్ వెబ్‌సైట్",
+      "Mahbubnagar website designer",
+      "website cost in Mahbubnagar",
+      "web development company Mahbubnagar",
+      "hire freelance web developer Mahbubnagar",
+      "Telangana SEO services",
+      "Mahbubnagar Pharma SEZ suppliers website",
+      "Pharma SEZ suppliers website design Mahbubnagar",
+      "website design Clock Tower area Mahbubnagar",
+      "website design New Town Mahbubnagar",
+      "website design Padmavathi Colony Mahbubnagar",
+      "website design Jadcherla Road Mahbubnagar",
     ],
   },
   hero: {

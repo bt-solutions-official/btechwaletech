@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "tour booking website with channel manager", "google things to do tour operator", "tour booking website features",
       "tour booking website developers near me", "travel agency booking website sharjah", "tour booking website ras al khaimah",
       "multilingual tour website russian german", "remote web developers india for uae tour operators",
+      "hire tour booking website design in the UAE", "freelance tour booking website design UAE",
     ],
   },
   hero: {

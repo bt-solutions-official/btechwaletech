@@ -7,7 +7,7 @@ const punch: CityContent = {
   meta: {
     title: "IT Services in Poonch: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, Urdu and English local SEO and WhatsApp bots for Poonch guest houses, taxi operators, rajma and pecan sellers, coaching and clinics.",
+      "Websites, apps, Urdu and English SEO and WhatsApp bots for Poonch guest houses, taxi operators, rajma and pecan sellers, coaching and clinics. From ₹10,000.",
     keywords: [
       "IT services in Poonch",
       "IT services team in Poonch",
@@ -29,6 +29,12 @@ const punch: CityContent = {
       "Poonch mein website banwana",
       "Poonch app banwane ka kharcha",
       "پونچھ ویب سائٹ ڈیزائن",
+      "Poonch website designer",
+      "web development company Poonch",
+      "hire freelance web developer Poonch",
+      "Jammu and Kashmir SEO services",
+      "Poonch me website kaise banwaye",
+      "Poonch website banwane ka kharcha",
     ],
   },
   hero: {

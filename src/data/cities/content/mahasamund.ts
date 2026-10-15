@@ -7,7 +7,7 @@ const mahasamund: CityContent = {
   meta: {
     title: "IT Services in Mahasamund | Web, Apps & AI",
     description:
-      "Hindi and Odia websites, Android and iOS apps, local SEO and WhatsApp automation for Mahasamund rice millers, Belsonda units, clinics, colleges and shops.",
+      "Hindi and Odia websites, apps, SEO and WhatsApp tools for Mahasamund rice millers, Belsonda units, clinics, colleges and shops. Websites from ₹10,000.",
     keywords: [
       "IT services in Mahasamund",
       "IT services team in Mahasamund",
@@ -29,6 +29,12 @@ const mahasamund: CityContent = {
       "Bagbahara Pithora digital marketing",
       "Mahasamund me website banwana",
       "Mahasamund me app banwana",
+      "Mahasamund website designer",
+      "web development company Mahasamund",
+      "hire freelance web developer Mahasamund",
+      "Chhattisgarh SEO services",
+      "Mahasamund me website kaise banwaye",
+      "Mahasamund website banwane ka kharcha",
     ],
   },
   hero: {

@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 25.0961, lng: 85.3131 },
   meta: {
-    title: "Freelance IT Services in Bihar: Software & Apps",
+    title: "Bihar IT Services: Software & Apps",
     description:
       "Freelance IT services in Bihar: coaching apps, hospital software, agri traceability, AI automation and SEO for Patna, Gaya and beyond. Prices from ₹10,000.",
     keywords: [
@@ -30,6 +30,15 @@ const content: CityContent = {
       "website developer near me Patna",
       "local SEO Bihar",
       "बिहार में सॉफ्टवेयर और वेबसाइट बनवाना",
+      "Bihar website designer",
+      "website cost in Bihar",
+      "IT company in Bihar",
+      "Bihar SEO services",
+      "hire developer Bihar",
+      "coaching software in Bihar",
+      "hospitals software in Bihar",
+      "makhana software in Bihar",
+      "silk software in Bihar",
     ],
   },
   hero: {

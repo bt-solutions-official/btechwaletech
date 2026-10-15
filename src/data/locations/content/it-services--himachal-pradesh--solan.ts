@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 30.9045, lng: 77.0967 },
   meta: {
-    title: "Freelance Software Developers in Solan & Baddi",
+    title: "Solan & Baddi Software Developers: Pharma Order Portals",
     description:
       "Freelance software developers for Solan, Baddi, Nalagarh and Parwanoo: pharma order portals, MR apps, AI agents, dashboards, SEO and IT support. From ₹10,000.",
     keywords: [
@@ -32,6 +32,13 @@ const content: CityContent = {
       "ayurvedic brand ecommerce website Himachal",
       "Solan mein software developer",
       "सोलन सॉफ्टवेयर डेवलपर",
+      "Solan website designer",
+      "website cost in Solan",
+      "IT company in Solan",
+      "Himachal Pradesh SEO services",
+      "hire developer Solan",
+      "third-party software in Solan",
+      "pharma marketing software in Solan",
     ],
   },
   hero: {

@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "product photographer website", "fashion photographer website", "photographer website designer near me", "photographer website Jaipur",
       "photographer website Mumbai", "photographer website Delhi", "photographer ki website kaise banaye", "photography studio website design",
       "photographer SEO website",
+      "photographer website design cost", "photographer website design price", "photographer website design company", "best photographer website design in India",
+      "photographer website design cost in India", "photographer website design near me",
     ],
   },
   hero: {

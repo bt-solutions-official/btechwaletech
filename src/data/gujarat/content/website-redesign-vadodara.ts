@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Redesign in Vadodara · Rebuilds from ${P.site}`,
-    description: `Website redesign in Vadodara that protects your Google traffic: audit, URL mapping, 301 redirects and a careful migration. Rebuilds from ${P.site}, 2 months free.`,
+    description: `Website redesign in Vadodara that protects your Google traffic: audit, URL mapping, 301 redirects & a careful migration. Rebuilds from ${P.site}, 2 months free.`,
     keywords: [
       "website redesign in Vadodara", "website redesign Vadodara", "website redesign Baroda", "website redesign near me Vadodara",
       "redesign old website Vadodara Gujarat", "website revamp Vadodara", "website makeover Baroda", "website redesign without losing SEO",

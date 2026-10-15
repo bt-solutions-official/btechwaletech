@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `AI Agent Development Saudi Arabia, from ${P.ai}`,
-    description: `AI agent development for Saudi Arabia from ${P.ai}: tool-calling agents for orders, bookings and reports, with Salla, Zid and Foodics links, approvals and audit logs.`,
+    description: `AI agent development for Saudi Arabia from ${P.ai}: tool-calling agents for orders, bookings and reports, with Salla, Zid and Foodics links and audit logs.`,
     keywords: [
       "ai agent development company saudi arabia", "ai agent development saudi arabia", "ai agent developers ksa",
       "build ai agent for business saudi arabia", "ai agents riyadh", "ai agent development jeddah", "ai agent dammam",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "ai agent cost saudi arabia", "how much does an ai agent cost", "ai agent with human approval",
       "ai agent audit log", "data residency ai saudi arabia", "pdpl ai agent", "sdaia ai ethics principles",
       "ai workflow automation ksa", "hire ai agent developer india", "llm agent development for sme",
+      "freelance ai agent development Saudi Arabia",
     ],
   },
   hero: {

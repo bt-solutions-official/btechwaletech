@@ -7,7 +7,7 @@ const talegaonDabhade: CityContent = {
   meta: {
     title: "IT Services in Talegaon Dabhade: Web, Apps & AI",
     description:
-      "Marathi and English websites, Android and iOS apps, SEO and WhatsApp automation for Talegaon MIDC vendors, flower growers, builders, schools and clinics.",
+      "Marathi and English websites, apps and SEO for Talegaon MIDC vendors, flower growers, builders, schools and clinics. From ₹10,000, 2 months free upkeep.",
     keywords: [
       "IT services in Talegaon Dabhade",
       "IT services in Talegaon",
@@ -28,6 +28,13 @@ const talegaonDabhade: CityContent = {
       "Talegaon me website banwana",
       "Talegaon madhe website banvaychi",
       "तळेगाव दाभाडे वेबसाइट डिझाइन",
+      "Talegaon Dabhade website designer",
+      "website cost in Talegaon Dabhade",
+      "web development company Talegaon Dabhade",
+      "hire freelance web developer Talegaon Dabhade",
+      "Maval taluka SEO services",
+      "website designer Maval taluka",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

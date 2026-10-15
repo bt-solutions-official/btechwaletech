@@ -241,7 +241,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `It can, but no developer can guarantee positions, and anyone who promises first place is guessing. What we can do is build the site so search engines understand it from day one.`,
         `For a town like Gadhada the biggest win is local. Your <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> should carry exactly the same name, address and phone number as your website footer, with the right category and real photos. The site then supports it with a page per service, a clear address and LocalBusiness or LodgingBusiness schema.`,
-        `Searchers write “guest house near Gopinathji temple Gadhada” or “cotton trader Botad district”. Pages that use those words naturally, load fast and answer one question clearly tend to be the ones AI assistants and Google's AI Overviews quote. We set up titles, descriptions, a sitemap and Search Console before launch; ongoing work is optional and starts at ${P.seo} a month. Our <a href='/gujarat/seo-friendly-website-gujarat/'>SEO-friendly website guide for Gujarat</a> explains the basics.`,
+        `Searchers write “guest house near Gopinathji temple Gadhada” or “cotton trader Botad district”. Pages that use those words naturally, load fast and answer one question clearly tend to be the ones AI assistants and Google's AI Overviews quote. We set up titles, descriptions, a sitemap and Search Console before launch; ongoing work is optional and starts at ${P.seo}. Our <a href='/gujarat/seo-friendly-website-gujarat/'>SEO-friendly website guide for Gujarat</a> explains the basics.`,
       ],
     },
     {

@@ -70,7 +70,7 @@ const content: FreelanceContent = {
       { name: "Store health check", note: "We review plugins, theme, hosting, PHP version, error logs, order storage and checkout, then send a ranked fix list with each item quoted.", size: "lg" },
       { name: "Speed and stability", note: "HPOS switch-over, object caching, image compression, script clean-up and hosting advice so product pages and checkout stay quick under sale-day traffic.", size: "lg" },
       { name: "VAT and pricing set-up", note: "UK tax classes, VAT-inclusive display across shop, basket and checkout, and VAT shown correctly on invoices and order emails.", size: "md" },
-      { name: "UK payment gateways", note: "Card and wallet checkout through the official extension for your chosen processor, tested with a real payment and refund.", href: "/uk/payment-gateway-integration/", size: "md" },
+      { name: "UK payment gateways", note: "Card and wallet checkout through the official extension for your chosen processor, tested with a real payment and refund.", href: "/uk/ecommerce-website-design/", size: "md" },
       { name: "Courier and order export", note: "Order statuses, weights and shipping methods tidied so Click & Drop or another courier tool imports the right orders.", size: "md" },
       { name: "Custom extensions", note: `Product configurators, trade pricing, subscriptions logic or a customer portal, written as a small plugin you own; larger portals from ${P.software}.`, href: "/uk/b2b-wholesale-website/", size: "md" },
       { name: "Consent and analytics", note: "Cookie banner wired so analytics and ad tags wait for consent, with GA4 ecommerce events that still report properly.", href: "/uk/gdpr-cookie-banner-setup/", size: "sm" },
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What WooCommerce development costs with us",
-    note: `WooCommerce work on an existing UK store is quoted per job after a health check, because two shops with the same symptom can have very different causes. Ongoing care starts at ${P.care} a month and covers tested updates, backups and checkout checks. A rebuild or a new WooCommerce store starts at ${P.shop}, and a larger custom plugin, trade portal or integration project starts at ${P.software}. The quote lists every task so you can drop anything you would rather handle yourself. We invoice in USD from India; you pay from a GBP account by Wise, bank wire or PayPal, and nothing is charged until you approve the quote in writing.`,
+    note: `WooCommerce work on an existing UK store is quoted per job after a health check, because two shops with the same symptom can have very different causes. Ongoing care starts at ${P.care} and covers tested updates, backups and checkout checks. A rebuild or a new WooCommerce store starts at ${P.shop}, and a larger custom plugin, trade portal or integration project starts at ${P.software}. The quote lists every task so you can drop anything you would rather handle yourself. We invoice in USD from India; you pay from a GBP account by Wise, bank wire or PayPal, and nothing is charged until you approve the quote in writing.`,
   },
   guideLabel: "WooCommerce developer UK guide",
   guide: [
@@ -153,7 +153,7 @@ const content: FreelanceContent = {
         `WooCommerce works with the main UK card processors and digital wallets through official or well-maintained gateway extensions, so the right choice is usually the processor you already hold a merchant account with, or the one whose fees suit your order size. We configure whichever you pick; we do not resell processing or take a share of it.`,
         `What matters technically is less the brand than how the extension behaves. Does it use a hosted payment page or an on-site card field? Does it support Apple Pay and Google Pay? Does it handle Strong Customer Authentication challenges on mobile without losing the order? Does it write refunds back to WooCommerce so stock and accounts stay right? Does it support subscriptions if you sell them?`,
         `The common failures are also technical: webhooks pointing at an old domain, so paid orders stay “pending payment”; a caching rule that caches the checkout page; two gateway plugins fighting over the same wallet button; and test mode left on after a migration.`,
-        `We fix these by checking the webhook log on the processor side, excluding checkout and basket from caching, removing duplicate plugins, and then running a real low-value payment and refund on the live store. For a deeper look at card set-up across platforms, see <a href='/uk/payment-gateway-integration/'>payment gateway integration for UK sites</a>.`,
+        `We fix these by checking the webhook log on the processor side, excluding checkout and basket from caching, removing duplicate plugins, and then running a real low-value payment and refund on the live store. For a deeper look at card set-up across platforms, see <a href='/uk/ecommerce-website-design/'>ecommerce website design for UK sites</a>.`,
       ],
     },
     {
@@ -255,7 +255,7 @@ const content: FreelanceContent = {
       heading: "How much does a WooCommerce developer cost in the UK?",
       paragraphs: [
         `WooCommerce developer rates in the UK vary widely, and a direct comparison of hourly figures misleads more than it helps, because the real cost is hours multiplied by how accurately the problem is diagnosed. A cheaper hour spent guessing costs more than a dearer hour spent fixing.`,
-        `With us, ongoing care starts at ${P.care} a month, which covers tested updates, backups and checkout checks. Individual fixes and extensions are quoted per job after the health check. A full rebuild or new WooCommerce store starts at ${P.shop}, and a larger custom plugin or portal starts at ${P.software}.`,
+        `With us, ongoing care starts at ${P.care}, which covers tested updates, backups and checkout checks. Individual fixes and extensions are quoted per job after the health check. A full rebuild or new WooCommerce store starts at ${P.shop}, and a larger custom plugin or portal starts at ${P.software}.`,
         `Four things move a quote. First, the state of the store: years of abandoned plugins and theme edits take longer to untangle. Second, access: a host with staging and SSH is quicker to work with than one with only a file manager. Third, testing needs: subscriptions and multi-currency add test cases. Fourth, the amount of custom logic you want written rather than configured.`,
         `What we will not do is bundle hosting, plugin licences or card fees into our price. You buy those directly so you always see what they cost. For a sense of monthly upkeep across all website types, see the <a href='/uk/website-maintenance-cost/'>website maintenance cost guide</a>.`,
       ],
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
       { name: "WordPress maintenance services UK", href: "/uk/wordpress-maintenance-services/" },
       { name: "Shopify developer UK", href: "/uk/shopify-developer/" },
       { name: "WordPress website design UK", href: "/uk/wordpress-website-design/" },
-      { name: "Payment gateway integration UK", href: "/uk/payment-gateway-integration/" },
+      { name: "Booking system development UK", href: "/uk/booking-system-development/" },
       { name: "UK GDPR cookie banner", href: "/uk/gdpr-cookie-banner-setup/" },
       { name: "Ecommerce SEO for UK shops", href: "/uk/ecommerce-seo-services/" },
       { name: "B2B wholesale website", href: "/uk/b2b-wholesale-website/" },

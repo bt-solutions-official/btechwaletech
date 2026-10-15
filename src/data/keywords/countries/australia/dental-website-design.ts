@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "emergency dentist seo", "emergency dentist website", "dental seo australia", "dental website design sydney",
       "dental website design melbourne", "dental website design brisbane", "dental website design perth",
       "dental website design adelaide", "dentist website near me", "new patient dental website",
+      "hire dental website design in Australia", "freelance dental website design Australia",
     ],
   },
   hero: {
@@ -191,7 +192,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, dental website design starts from ${P.site} for a single practice site of up to 100 pages, and from ${P.seoSite} for groups with several locations and distinct content for each. Quotes from other providers vary widely, largely depending on photography, copywriting and advertising management bundled in.`,
         `The cost drivers for a dental site are fairly predictable: the number of treatment pages and how much copy we draft, the size and handling of the before-and-after gallery, the number of locations, and integrations beyond standard booking links. A practice that supplies approved treatment descriptions and good photos sits near the starting price.`,
-        `You pay running costs such as domain, hosting and email directly to those providers, and your booking platform subscription stays as it is. Maintenance is free for two months after launch, then optional from ${P.care} per month. For a broader view across project types, the <a href='/australia/website-design-cost/'>Australian website design cost guide</a> compares scopes side by side.`,
+        `You pay running costs such as domain, hosting and email directly to those providers, and your booking platform subscription stays as it is. Maintenance is free for two months after launch, then optional from ${P.care}. For a broader view across project types, the <a href='/australia/website-design-cost/'>Australian website design cost guide</a> compares scopes side by side.`,
       ],
     },
     {
@@ -313,7 +314,7 @@ const content: FreelanceContent = {
         ["Cosmetic-focused practice", "Detailed treatment pages, careful gallery, payment plans", `From ${P.site}`, "About 2 weeks"],
         ["Dental group", "Several locations with distinct pages and teams", `From ${P.seoSite}`, "3–5 weeks"],
         ["After-hours call capture", "AI assistant taking booking requests", `From ${P.ai}`, "2–4 weeks"],
-        ["Monthly local SEO", "Emergency and treatment visibility, profile upkeep", `From ${P.seo} per month`, "Monthly"],
+        ["Monthly local SEO", "Emergency and treatment visibility, profile upkeep", `From ${P.seo}`, "Monthly"],
       ],
     },
   ],
@@ -369,7 +370,7 @@ const content: FreelanceContent = {
     { question: "How does payment work with an overseas web developer?", answer: "You receive an itemised quote in USD, and invoices are issued from India. Payment is by Wise, bank wire or PayPal, with the schedule set out in your written quote. Nothing is billed before you approve the quote in writing. Ask your accountant how the expense should be treated for your practice." },
     { question: "Who owns the dental website once it is finished?", answer: "The practice does. The domain, hosting, analytics, Google Business Profile and website code are set up in the practice's name, and we hand over every login at launch. Your booking platform account stays yours as well. If you later switch developers, nothing needs to be transferred from us." },
     { question: "Can our front desk update hours and team pages?", answer: "Yes. We set up simple editing for hours, holiday closures, fees, team members and news, and provide a short recorded walkthrough. Structural changes are easier for us to do, and small edits are covered during the two months of free maintenance that follow launch." },
-    { question: "What does maintenance cost after the free period?", answer: `After two free months, maintenance continues from ${P.care} per month if you want it, covering updates, backups, security checks and minor edits. You can also manage the site yourself or hand it to another developer. Any ongoing arrangement is agreed in writing; see our terms and refund policy pages for details.` },
+    { question: "What does maintenance cost after the free period?", answer: `After two free months, maintenance continues from ${P.care} if you want it, covering updates, backups, security checks and minor edits. You can also manage the site yourself or hand it to another developer. Any ongoing arrangement is agreed in writing; see our terms and refund policy pages for details.` },
     { question: "Can you build a patient app for our dental practice?", answer: `Yes, Android and iOS apps start from ${P.app}, published under your practice's developer accounts. Most practices do not need one, though, because booking platforms already send reminders and handle recalls. We would usually suggest improving the website and booking flow first and considering an app only for a clear need.` },
     { question: "Do you take photos of our practice and team?", answer: "No. We work remotely and do not offer photography. We can tell you which shots work best, such as team portraits, the reception area, treatment rooms and the entrance from the street, and we compress and size your images so pages load quickly. A local photographer can usually cover it in a single session." },
   ],

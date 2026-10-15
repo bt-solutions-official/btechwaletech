@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website developer Thane West", "website developer Kalwa", "clinic website Thane", "school website Thane",
       "freelance website developer Thane", "Marathi website developer Thane", "Thane mein website kaise banwaye", "website banwana hai Thane",
       "website developer Kalyan Dombivli", "best website developer in Thane",
+      "website developer in Thane cost", "website developer in Thane price", "hire website developer in Thane", "freelance website developer in Thane",
+      "website developer in Thane charges",
     ],
   },
   hero: {

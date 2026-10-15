@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Order Management System for Sellers from ${P.software}`,
-    description: `An order management system that pulls Amazon, Flipkart, Meesho and Shopify orders into one screen, books couriers, handles returns and syncs stock. From ${P.software}.`,
+    description: `An order management system that pulls Amazon, Flipkart, Meesho and Shopify orders into one screen, books couriers and syncs stock. Custom from ${P.software}.`,
     keywords: [
       "order management system", "order management system India", "order management software", "OMS for ecommerce",
       "multichannel order management system", "order management system for D2C brands", "order management for marketplace sellers", "Amazon Flipkart Meesho order management",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "what is an order management system", "OMS software for small business", "ecommerce order processing software", "RTO management software",
       "order management system Surat", "order management system Jaipur", "order management system Delhi NCR", "order management system developer",
       "multi marketplace stock sync", "order and inventory management system",
+      "order management system company", "best order management system in India", "order management system cost in India", "order management system near me",
     ],
   },
   hero: {

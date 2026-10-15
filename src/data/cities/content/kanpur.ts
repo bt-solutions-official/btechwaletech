@@ -7,7 +7,7 @@ const kanpur: CityContent = {
   meta: {
     title: "IT Services in Kanpur: Websites, Apps, SEO & AI",
     description:
-      "Websites, export catalogues, SEO and automation for Kanpur tanneries, hosiery units, traders and coaching institutes. From ₹10,000 with 2 months free maintenance.",
+      "Kanpur websites, export catalogues, SEO and automation for tanneries, hosiery units, traders and coaching institutes. From ₹10,000 with 2 months free upkeep.",
     keywords: [
       "website development team in Kanpur",
       "web design team Kanpur",
@@ -25,6 +25,14 @@ const kanpur: CityContent = {
       "Kakadeo coaching website",
       "Kanpur me website banane wala",
       "कानपुर वेबसाइट डेवलपर",
+      "Kanpur website designer",
+      "website cost in Kanpur",
+      "web development company Kanpur",
+      "hire freelance developer Kanpur",
+      "Uttar Pradesh SEO",
+      "Kanpur me website kaise banwaye",
+      "website for tanneries and leather exporters in Kanpur",
+      "web designer in Jajmau, Kanpur",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const tarikere: CityContent = {
   meta: {
     title: "IT Services in Tarikere | Web, Apps & AI from ₹10,000",
     description:
-      "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Tarikere areca traders, Kemmangundi homestays, rice mills, schools and clinics.",
+      "Kannada websites, apps, local SEO and WhatsApp tools for Tarikere areca traders, Kemmangundi homestays, rice mills, schools and clinics. From ₹10,000.",
     keywords: [
       "IT services in Tarikere",
       "IT services team in Tarikere",
@@ -29,6 +29,12 @@ const tarikere: CityContent = {
       "Tarikere me website banwana",
       "Tarikere website beku",
       "ತರೀಕೆರೆ ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
+      "Tarikere website designer",
+      "web development company Tarikere",
+      "hire freelance web developer Tarikere",
+      "Chikkamagaluru district SEO",
+      "website designer Chikkamagaluru district",
+      "Karnataka SEO services",
     ],
   },
   hero: {

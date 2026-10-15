@@ -7,7 +7,7 @@ const nanded: CityContent = {
   meta: {
     title: "Nanded Website Design, SEO & Automation | From ₹10,000",
     description:
-      "Website design, local SEO, online stores and WhatsApp automation for Nanded shops, clinics, coaching classes and agri traders. From ₹10,000, 2 months free support.",
+      "Website design, local SEO, online stores and WhatsApp automation for Nanded shops, clinics, coaching classes and agri traders. Websites from ₹10,000.",
     keywords: [
       "website development team in Nanded",
       "website designer Nanded",
@@ -24,6 +24,17 @@ const nanded: CityContent = {
       "website maintenance Nanded",
       "Nanded madhye website banvne",
       "नांदेड वेबसाइट डिझाइन",
+      "Nanded-Waghala website designer",
+      "website cost in Nanded-Waghala",
+      "web development company Nanded-Waghala",
+      "hire freelance web developer Nanded-Waghala",
+      "Maharashtra SEO services",
+      "Nanded-Waghala me website kaise banwaye",
+      "Nanded-Waghala website banwane ka kharcha",
+      "Nanded-Waghala real estate website",
+      "real estate website design Nanded-Waghala",
+      "website design Vazirabad Nanded-Waghala",
+      "website design Doctor Lane Nanded-Waghala",
     ],
   },
   hero: {

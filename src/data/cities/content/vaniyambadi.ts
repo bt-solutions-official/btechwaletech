@@ -7,7 +7,7 @@ const vaniyambadi: CityContent = {
   meta: {
     title: "IT Services in Vaniyambadi: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, export catalogues, local SEO and WhatsApp automation for Vaniyambadi leather exporters, biryani outlets, colleges and shops.",
+      "Websites, apps, catalogues, SEO and WhatsApp tools for Vaniyambadi leather exporters, biryani outlets, colleges and shops. From ₹10,000, 2 months free upkeep.",
     keywords: [
       "IT services in Vaniyambadi",
       "IT services team in Vaniyambadi",
@@ -29,6 +29,12 @@ const vaniyambadi: CityContent = {
       "Vaniyambadi me website banwana",
       "Vaniyambadi website design Tamil",
       "வாணியம்பாடி இணையதள வடிவமைப்பு",
+      "Vaniyambadi website designer",
+      "web development company Vaniyambadi",
+      "hire freelance web developer Vaniyambadi",
+      "Tamil Nadu SEO services",
+      "Vaniyambadi tanneries website",
+      "tanneries website design Vaniyambadi",
     ],
   },
   hero: {

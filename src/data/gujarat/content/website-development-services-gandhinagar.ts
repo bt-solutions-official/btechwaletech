@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Development Services in Gandhinagar, ${P.site}+`,
-    description: `Website development services in Gandhinagar from ${P.site}: complete builds for firms, clinics, builders and institutes by a remote freelance team. Quote in 2 days.`,
+    description: `Website development in Gandhinagar from ${P.site}: complete builds for firms, clinics, builders and institutes by a remote freelance team. Quote in 2 days.`,
     keywords: [
       "website development services in Gandhinagar", "website development Gandhinagar", "website developer Gandhinagar", "web development services Gandhinagar",
       "website development near me Gandhinagar", "website development Gandhinagar Gujarat", "website design and development Gandhinagar", "website development cost Gandhinagar",

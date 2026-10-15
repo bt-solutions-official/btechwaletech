@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Devgadh Baria · From ${P.site}`,
-    description: `Website developer in Devgadh Baria for garment units, Ratanmahal stays, clinics and shops: photo-led, Gujarati-ready sites from ${P.site}, built remotely in 1–2 weeks.`,
+    description: `Website developer in Devgadh Baria for garment units, Ratanmahal stays, clinics and shops: photo-led, Gujarati-ready sites from ${P.site}, live in 1–2 weeks.`,
     keywords: [
       "website developer in Devgadh Baria", "website developer Devgadh Baria", "Devgadh Baria website", "Devgadh Baria website developer",
       "website developer near me Devgadh Baria", "Devgadh Baria Gujarat website", "Devgad Baria website developer", "Baria website designer",
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Gujarati and Hindi versions", note: "We write Hindi; you supply or approve Gujarati. Separate URLs and a simple switcher for each language.", size: "md" },
       { name: "Wholesale order list", note: "A tick-and-send order page that delivers bulk orders to your WhatsApp, for garment and plastics buyers.", size: "sm" },
       { name: "Online store", note: `UPI and card checkout for retail sales across India, from ${P.shop}.`, href: "/gujarat/ecommerce-website-development-gujarat/", size: "sm" },
-      { name: "Care after launch", note: `Two months free, then optional care from ${P.care} a month.`, size: "sm" },
+      { name: "Care after launch", note: `Two months free, then optional care from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
     { question: "How long will my Devgadh Baria website take?", answer: "A stay, clinic or shop site usually goes live one to two weeks after you approve the quote. A catalogue with an order list may take two to three weeks, stores four to eight weeks. Most delays come from photographs and Gujarati text, so starting on the shot list right after the first call saves the most time." },
     { question: "Do I need professional photographs?", answer: "Not for a first site. A recent phone, daylight and our shot list are enough. Shoot the premises from the street, products one at a time on a plain background, rooms from the doorway and the approach road. We check every image, compress it for mobile data and tell you which shots to retake." },
     { question: "Who owns the website and domain?", answer: "Your business does. The domain is registered in your name with your email as owner, hosting sits in your account, and at handover you receive the files, every login and a written list of renewal dates. If you change developers later, they can continue without rebuilding anything, because nothing is held in our accounts." },
-    { question: "What happens after the two free months of maintenance?", answer: `Care becomes optional, starting at ${P.care} a month, covering updates, backups, security checks and a set number of edits. You can also manage the site yourself or ask another developer. Stays that change seasonal notes and units that add styles often choose care; static clinic sites may need very little.` },
+    { question: "What happens after the two free months of maintenance?", answer: `Care becomes optional, starting at ${P.care}, covering updates, backups, security checks and a set number of edits. You can also manage the site yourself or ask another developer. Stays that change seasonal notes and units that add styles often choose care; static clinic sites may need very little.` },
     { question: "Will my website rank on Google for Devgadh Baria searches?", answer: "It will be built to be found: clear titles, local details, schema, fast mobile pages and a linked Business Profile. Where it ranks depends on competition, reviews and how complete your profile is. Nobody can honestly promise a position, and any offer that guarantees one should make you cautious, however low the price." },
     { question: "Can customers pay online through the website?", answer: `Yes, when you need it. Stays and units usually confirm by WhatsApp first and then share a UPI QR. A retail store selling garments or food products across India can have UPI and card checkout through a payment provider you register with, from ${P.shop}. The provider handles card details; your site does not store them.` },
     { question: "How do I pay for the website project?", answer: "In INR, by UPI or bank transfer, in stages linked to visible progress such as design approval on staging and launch. The stages appear in your itemised quote. Nothing is billed until you approve the quote in writing, and you see a working draft on a staging link before the final payment." },

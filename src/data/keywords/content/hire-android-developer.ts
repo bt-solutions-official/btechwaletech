@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Hire Android Developer in India | Apps from ${P.app}`,
-    description: `Hire an Android developer in India: skills to check, a paid test task, interview questions and honest costs. Android & iOS apps from ${P.app}, you own the code.`,
+    description: `Hire an Android developer in India: skills to check, a paid test task, interview questions and honest costs. Apps from ${P.app}, and you own the code.`,
     keywords: [
       "hire android developer", "hire android developer in India", "hire android developer near me", "android developer for hire",
       "hire android app developer", "hire android developer cost", "android developer hiring price", "best android developer to hire",

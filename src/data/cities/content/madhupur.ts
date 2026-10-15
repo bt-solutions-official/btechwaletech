@@ -5,9 +5,9 @@ const madhupur: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 24.26, lng: 86.65 },
   meta: {
-    title: "IT Services in Madhupur | Websites, Apps, SEO, AI",
+    title: "Madhupur Website Design: Guest Houses & Haat Trade",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Madhupur heritage guest houses, station-side traders, schools and clinics in Deoghar district.",
+      "Madhupur websites, Hindi SEO and booking pages for heritage guest houses, station-side wholesalers, sweet shops and haat artisans. Sites from ₹10,000.",
     keywords: [
       "IT services in Madhupur",
       "IT services team in Madhupur",
@@ -30,6 +30,15 @@ const madhupur: CityContent = {
       "Madhupur website kaise banaye",
       "मधुपुर वेबसाइट डिजाइन",
       "মধুপুর ওয়েবসাইট",
+      "Madhupur website designer",
+      "web development company Madhupur",
+      "hire freelance web developer Madhupur",
+      "Deoghar district SEO",
+      "website designer Deoghar district",
+      "Jharkhand SEO services",
+      "Madhupur me website kaise banwaye",
+      "Madhupur website banwane ka kharcha",
+      "website design Sadar Bazaar Madhupur",
     ],
   },
   hero: {

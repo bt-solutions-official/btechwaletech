@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "property management seo canada", "best website for property managers", "condo management website design",
       "student rental property management website", "property management website near me", "bilingual property management website quebec",
       "who owns my property management website", "property management company website design ideas",
+      "hire property management website design in Canada", "freelance property management website design Canada",
     ],
   },
   hero: {

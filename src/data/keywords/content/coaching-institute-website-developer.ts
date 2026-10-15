@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Coaching institute website developer",
   updated: "2026-09-24",
   meta: {
-    title: "Coaching Institute Website Developer: Leads and LMS",
+    title: `Coaching Institute Website Developer from ${P.site}`,
     description: `Coaching institute website developer for course pages, admission leads, fee payments and LMS. Websites from ${P.site}, ready before your next batch starts.`,
     keywords: [
       "coaching institute website developer", "coaching institute website developer India", "coaching website developer near me", "coaching institute website developer for hire",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "JEE NEET coaching website", "UPSC coaching website development", "coaching institute LMS", "online test series website",
       "coaching admission enquiry website", "coaching institute app developer", "coaching website with fee payment", "institute website with student login",
       "coaching institute SEO", "coaching classes website Hindi",
+      "hire coaching institute website developer",
+      "freelance coaching institute website developer",
     ],
   },
   hero: {

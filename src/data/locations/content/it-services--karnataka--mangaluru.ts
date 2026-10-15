@@ -5,7 +5,7 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 12.9141, lng: 74.856 },
   meta: {
-    title: "Freelance Software Developers in Mangaluru",
+    title: "Mangaluru Software Developers: Hospitals & Exporters",
     description:
       "Freelance software developers for Mangaluru hospitals, exporters and colleges, an alternative to a software development team. Custom software from ₹60,000.",
     keywords: [
@@ -31,6 +31,14 @@ const content: CityContent = {
       "ecommerce website for coastal food brands",
       "ಮಂಗಳೂರಿನಲ್ಲಿ ಸಾಫ್ಟ್‌ವೇರ್ ಡೆವಲಪರ್",
       "Mangalore mein software developer",
+      "Mangaluru website designer",
+      "website cost in Mangaluru",
+      "IT company in Mangaluru",
+      "Karnataka SEO services",
+      "hire developer Mangaluru",
+      "hospitals software in Mangaluru",
+      "medical software in Mangaluru",
+      "cashew software in Mangaluru",
     ],
   },
   hero: {

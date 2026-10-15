@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Outsource Software Development Singapore, ${P.software}+`,
-    description: `Outsource software development from Singapore safely: portals, dashboards and admin tools from ${P.software}, PDPA-aware access control and a handover your team can run.`,
+    description: `Outsource software development from Singapore safely: portals, dashboards and admin tools from ${P.software}, PDPA-aware access control, clean handover.`,
     keywords: [
       "outsource software development singapore", "software development outsourcing singapore", "outsource software development", "offshore software development singapore",
       "outsource software development to india", "custom software development singapore", "outsource internal system development", "outsource dashboard development singapore",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "is it safe to outsource software development", "software outsourcing contract singapore", "software handover documentation", "audit log access control software",
       "software developer near me singapore", "outsource software development for sme", "software outsourcing jurong", "software outsourcing tuas", "software outsourcing shenton way",
       "outsource erp integration singapore", "internal tools development singapore",
+      "hire software development in Singapore", "freelance software development Singapore",
     ],
   },
   hero: {

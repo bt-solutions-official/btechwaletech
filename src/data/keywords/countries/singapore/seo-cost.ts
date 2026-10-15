@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `SEO Cost Singapore: Monthly SEO from ${P.seo}`,
-    description: `SEO cost in Singapore explained tier by tier: what audits, local SEO, content and links really cost, and how to spot ranking scams. Monthly SEO from ${P.seo}.`,
+    description: `SEO cost in Singapore explained tier by tier: what audits, local SEO, content and links really cost, and how to spot ranking scams. SEO from ${P.seo}.`,
     keywords: [
       "seo cost singapore", "seo price singapore", "how much does seo cost in singapore", "seo pricing singapore",
       "monthly seo cost singapore", "seo package singapore", "affordable seo singapore", "cheap seo singapore",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "seo cost per month", "how much should i pay for seo", "seo services near me singapore", "ecommerce seo cost singapore",
       "seo cost raffles place", "seo cost jurong", "seo cost tampines", "seo cost woodlands",
       "guaranteed seo singapore", "remote seo team for singapore business",
+      "hire seo in Singapore",
     ],
   },
   hero: {

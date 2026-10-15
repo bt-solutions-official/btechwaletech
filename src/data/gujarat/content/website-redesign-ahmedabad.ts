@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: "Website Redesign in Ahmedabad Without Losing Rankings",
-    description: `Website redesign in Ahmedabad with a URL audit, 301 redirect map and careful migration, so search traffic survives. Redesigns from ${P.site}, quoted line by line.`,
+    description: `Website redesign in Ahmedabad with a URL audit, 301 redirect map & careful migration, so search traffic survives. Redesigns from ${P.site}, quoted line by line.`,
     keywords: [
       "website redesign in Ahmedabad", "website redesign Ahmedabad", "website redesign services Ahmedabad", "redesign old website Ahmedabad",
       "website redesign near me", "website redesign Ahmedabad Gujarat", "website revamp Ahmedabad", "website makeover Ahmedabad",
@@ -261,7 +261,7 @@ const content: FreelanceContent = {
       heading: "Ownership, ongoing care and redesigns beyond Ahmedabad",
       paragraphs: [
         `When the redesign is done, everything is yours: the domain, the hosting account, the code repository and the audit spreadsheet with its redirect map, which is worth keeping for any future change. You also receive logins, DNS records and a short editing guide.`,
-        `Care is free for two months after launch and includes the post-launch monitoring. From the third month it is optional, starting at ${P.care} a month, covering updates, backups, edits and periodic redirect and 404 checks. Our website maintenance in Ahmedabad page lists what that includes.`,
+        `Care is free for two months after launch and includes the post-launch monitoring. From the third month it is optional, starting at ${P.care}, covering updates, backups, edits and periodic redirect and 404 checks. Our website maintenance in Ahmedabad page lists what that includes.`,
         `Because the work is remote, firms in Gandhinagar, Sanand, Changodar, Kalol or anywhere in Gujarat get the same process. Surat businesses can read our <a href='/gujarat/website-redesign-surat/'>website redesign in Surat</a> page, and the statewide approach is on website redesign across Gujarat. For other IT services in the city, see the <a href='/ahmedabad/'>Ahmedabad services page</a>.`,
       ],
     },
@@ -344,7 +344,7 @@ const content: FreelanceContent = {
       ["Design on staging", "After written approval, the new design appears on a private staging link you check on your phone, with old and new compared on a call."],
       ["Build, content and redirects", "Inner pages are built, approved content changes made and the redirect map implemented and tested in bulk on staging."],
       ["Launch at a quiet hour", "Backup, redirects live, DNS changed with email records protected, sitemap submitted and forms tested on real phones."],
-      ["Two months of watching", `Search Console and 404 monitoring with fixes, free for two months. After that, care is optional from ${P.care} a month.`],
+      ["Two months of watching", `Search Console and 404 monitoring with fixes, free for two months. After that, care is optional from ${P.care}.`],
     ],
   },
   faqHeading: "Website redesign in Ahmedabad: questions people ask",

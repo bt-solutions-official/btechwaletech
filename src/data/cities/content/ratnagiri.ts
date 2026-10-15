@@ -5,9 +5,9 @@ const ratnagiri: CityContent = {
   updated: "2026-09-22",
   geo: { lat: 16.9944, lng: 73.3 },
   meta: {
-    title: "IT Services in Ratnagiri: Websites, Apps, SEO & AI",
+    title: "Ratnagiri Website Design: Hapus, Fish & Konkan",
     description:
-      "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Ratnagiri Alphonso growers, fish exporters, MIDC units, beach stays and clinics.",
+      "Ratnagiri websites, Marathi SEO and UPI stores for Alphonso hapus growers, fish exporters, kokum and cashew makers and MIDC units. Sites from ₹10,000.",
     keywords: [
       "IT services in Ratnagiri",
       "IT services team in Ratnagiri",
@@ -29,6 +29,16 @@ const ratnagiri: CityContent = {
       "Ratnagiri me website banwana",
       "Ratnagirit website banvaychi aahe",
       "रत्नागिरी वेबसाइट डिझाइन",
+      "Ratnagiri website designer",
+      "web development company Ratnagiri",
+      "hire freelance web developer Ratnagiri",
+      "Maharashtra SEO services",
+      "Ratnagiri me website kaise banwaye",
+      "Ratnagiri website banwane ka kharcha",
+      "website design Maruti Mandir Ratnagiri",
+      "website design Jaistambh Ratnagiri",
+      "website design Mirkarwada Ratnagiri",
+      "website design Bhatye Ratnagiri",
     ],
   },
   hero: {

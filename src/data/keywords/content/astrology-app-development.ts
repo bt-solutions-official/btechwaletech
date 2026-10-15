@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "astrology app mvp", "astrologer app for android and ios", "astrology app developer near me", "astrology app development in hindi",
       "astrology app banwana hai", "astrology app development Varanasi", "astrology app development Delhi", "astrology app development Jaipur",
       "vedic astrology app development", "ai astrology app development", "astrology app flutter",
+      "astrology app development company in India",
+      "best astrology app development in India",
+      "astrology app development services",
     ],
   },
   hero: {

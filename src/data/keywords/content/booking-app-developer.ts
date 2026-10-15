@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Booking App Developer India | Apps from ${P.app}`,
-    description: `Booking app developer for salons, clinics and service businesses: slots, reminders, UPI deposits and staff calendars. Apps from ${P.app}, web booking from ${P.software}.`,
+    description: `Booking app developer for salons, clinics and service businesses: slots, reminders, UPI deposits and staff calendars. Apps from ${P.app}, quote in 2 days.`,
     keywords: [
       "booking app developer", "booking app developer in India", "booking app developer near me", "booking app developer for hire",
       "appointment booking app cost", "booking app development price India", "best booking app developer", "booking app banwana hai",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "doctor appointment app development", "appointment scheduling app India", "service booking app developer", "spa and salon app",
       "tutor booking app", "gym class booking app", "custom booking system developer", "online appointment system for clinic",
       "booking app with UPI payment", "freelance booking app developer",
+      "hire booking app developer",
     ],
   },
   hero: {
@@ -60,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Core features", value: "Services, staff, slots, reminders, cancellations, deposits" },
       { label: "Who owns it", value: "You: store accounts, server, code, customer data" },
       { label: "Payment to us", value: "UPI or bank transfer; Wise, wire or PayPal from abroad" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -177,7 +178,7 @@ const content: FreelanceContent = {
       heading: "What drives the cost when you hire a booking app developer?",
       paragraphs: [
         `Scheduling rules and the number of user types drive cost more than design. A single-outlet salon with five stylists and a fixed service list is a modest project. A clinic chain with doctors rotating across branches, token queues, deposits, tele-consult links and billing integration is a much larger one. With us an app starts at ${P.app} and a web system at ${P.software}; the estimate grows line by line.`,
-        `Remember the running costs: server hosting, WhatsApp or SMS message charges, the Apple developer programme's yearly fee and Google Play's one-time registration fee, and maintenance after the free period (from ${P.care} a month with us). Ready-made booking software charges a subscription instead of a build fee, and booking marketplaces charge per booking or a listing fee. Over two or three years a custom system can cost less for a busy chain and more for a quiet single outlet, so run the numbers for your own volume. Quotes from other developers vary widely; compare them against the same written rule list.`,
+        `Remember the running costs: server hosting, WhatsApp or SMS message charges, the Apple developer programme's yearly fee and Google Play's one-time registration fee, and maintenance after the free period (from ${P.care} with us). Ready-made booking software charges a subscription instead of a build fee, and booking marketplaces charge per booking or a listing fee. Over two or three years a custom system can cost less for a busy chain and more for a quiet single outlet, so run the numbers for your own volume. Quotes from other developers vary widely; compare them against the same written rule list.`,
       ],
     },
     {
@@ -355,7 +356,7 @@ const content: FreelanceContent = {
     { question: "Can walk-in and phone bookings go into the same system?", answer: "Yes, and they should. The reception screen lets staff add walk-ins and phone bookings into the same calendar customers book from, so availability is always accurate. Reception can also block time, mark arrivals and no-shows, and move appointments when a staff member is unavailable." },
     { question: "Can the booking app sync with Google Calendar?", answer: "Yes. Staff bookings can appear in their own Google Calendar so they see their day on their phones. We usually make the booking system the source of truth and send bookings out to calendars, because two-way editing from many calendars creates conflicts that are hard to resolve." },
     { question: "Will Apple accept a simple booking app on the App Store?", answer: "Apple rejects apps that are just a website inside an app wrapper. A booking app that offers native features such as saved favourites, booking history, packages and reminders is generally fine. If you only need booking without those features, a web booking page or installable web app avoids App Store review entirely." },
-    { question: "What does maintenance include after the booking app launches?", answer: `The first two months after launch include free maintenance: bug fixes, small changes and help with app store notices. After that, maintenance starts at ${P.care} a month and covers library and operating system updates, server upkeep, backups and minor edits. New features are quoted separately.` },
+    { question: "What does maintenance include after the booking app launches?", answer: `The first two months after launch include free maintenance: bug fixes, small changes and help with app store notices. After that, maintenance starts at ${P.care} and covers library and operating system updates, server upkeep, backups and minor edits. New features are quoted separately.` },
     { question: "Booking app banwane mein kitna kharcha aata hai?", answer: `Hamare saath booking app ${P.app} se shuru hota hai aur lagbhag 6 se 10 hafte lagte hain. Sirf website par booking chahiye to ${P.software} se, aur WhatsApp par booking ke liye ${P.ai} se. Final kharcha staff, branches, advance payment aur features par depend karta hai.` },
     { question: "Can you add online booking to my existing website?", answer: "Yes. We can add a booking page to your current site that talks to a new booking backend, or embed a booking flow on your service pages. If your site is very old or slow, we may suggest a rebuild, but many sites can simply link to or embed the new booking system." },
     { question: "Can the booking system handle multiple branches?", answer: "Yes. Each branch has its own services, staff and hours, while customers see one app and choose their branch or the nearest one. Staff who work at more than one branch have shifts per location, so they are never offered in two places at once. Reports can be viewed per branch or combined." },

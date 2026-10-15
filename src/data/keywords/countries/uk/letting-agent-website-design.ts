@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Letting Agent Website Design: Landlord Leads, ${P.site}+`,
-    description: `Letting agent website design for UK agencies: fees, redress and CMP details displayed properly, landlord yield calculators and tenant applications. From ${P.site}.`,
+    description: `Letting agent website design for UK agencies: fees, redress and CMP details displayed properly, landlord yield tools and tenant applications. From ${P.site}.`,
     keywords: [
       "letting agent website design", "letting agent website design uk", "lettings website design", "website design for letting agents",
       "letting agency website", "property management website design uk", "letting agent web design", "letting agent website builder",
@@ -339,7 +339,7 @@ const content: FreelanceContent = {
         ["Area and property-type build", "299+ pages with local content, schema and internal links", `From ${P.seoSite}`, "3–5 weeks"],
         ["Landlord portal", "Logins, statements, documents, maintenance tracking", `From ${P.software}`, "6–12 weeks"],
         ["AI enquiry assistant", "Tenant FAQs answered, landlord leads handed to staff", `From ${P.ai}`, "2–4 weeks"],
-        ["Monthly local SEO", "Profile, area pages, reviews, Search Console", `From ${P.seo} a month`, "Ongoing"],
+        ["Monthly local SEO", "Profile, area pages, reviews, Search Console", `From ${P.seo}`, "Ongoing"],
         ["Care plan", "Fee edits, certificate swaps, legislation wording", `From ${P.care}`, "After 2 free months"],
       ],
       hideSm: [3],

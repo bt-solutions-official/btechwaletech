@@ -7,7 +7,7 @@ const kamareddy: CityContent = {
   meta: {
     title: "IT Services in Kamareddy | Web, Apps & AI from ₹10,000",
     description:
-      "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Kamareddy rice mills, seed and turmeric traders, textile shops and clinics.",
+      "Kamareddy Telugu and English websites, apps, local SEO and WhatsApp bots for rice mills, seed and turmeric traders and textile shops. From ₹10,000.",
     keywords: [
       "IT services in Kamareddy",
       "IT services team in Kamareddy",
@@ -28,6 +28,11 @@ const kamareddy: CityContent = {
       "Kamareddy me website banwana",
       "Kamareddy lo website",
       "కామారెడ్డి వెబ్‌సైట్ డిజైన్",
+      "Kamareddy website designer",
+      "web development company Kamareddy",
+      "hire freelance developer Kamareddy",
+      "Telangana SEO",
+      "Kamareddy me website kaise banwaye",
     ],
   },
   hero: {

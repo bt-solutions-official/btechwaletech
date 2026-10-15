@@ -7,7 +7,7 @@ const aurangabadBihar: CityContent = {
   meta: {
     title: "Aurangabad (Bihar) Websites, SEO and WhatsApp Tools",
     description:
-      "Websites, local SEO and WhatsApp tools for shops, schools, clinics, contractors and carpet makers in Aurangabad, Bihar, plus Daudnagar and Deo. From ₹10,000.",
+      "Aurangabad (Bihar) websites, local SEO and WhatsApp tools for shops, schools, clinics, contractors and carpet makers, plus Daudnagar and Deo. From ₹10,000.",
     keywords: [
       "website development team in Aurangabad Bihar",
       "web designer Aurangabad Bihar",
@@ -24,6 +24,15 @@ const aurangabadBihar: CityContent = {
       "Aurangabad Bihar me website kaise banwaye",
       "website maintenance Aurangabad Bihar",
       "औरंगाबाद बिहार वेबसाइट",
+      "Aurangabad website designer",
+      "website cost in Aurangabad",
+      "web development company Aurangabad",
+      "hire freelance developer Aurangabad",
+      "Magadh division · Bihar SEO",
+      "Aurangabad me website kaise banwaye",
+      "website for contractors and plant vendors in Aurangabad",
+      "web designer in Jasoiya More, Aurangabad",
+      "website for carpet and dari weavers in Aurangabad",
     ],
   },
   hero: {

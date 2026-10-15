@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "construction company website features", "builder and developer website RERA", "construction company SEO", "construction company website Gurgaon",
       "construction company website Pune", "construction company website Bengaluru", "civil contractor website near me", "ghar banane wali company website",
       "construction company website for tenders", "home builder website design",
+      "best construction company website design in India",
+      "construction company website design services",
     ],
   },
   hero: {

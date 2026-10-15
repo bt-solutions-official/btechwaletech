@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 25.1167, lng: 94.3667 },
   meta: {
-    title: "Freelance Software Developers in Ukhrul, Manipur",
+    title: "Ukhrul, Manipur Software Developers: Homestays & Guides",
     description:
-      "Freelance software developers for Ukhrul: tourism and homestay sites, festival booking, Longpi and Kachai stores, Android and iOS apps, automation and support.",
+      "Freelance software developers for Ukhrul: tourism and homestay sites, festival booking, plus Longpi and Kachai stores. Two months of free upkeep after launch.",
     keywords: [
       "software development team in Ukhrul",
       "IT services team in Ukhrul",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "website support and maintenance Ukhrul",
       "Ukhrul website leh app developer",
       "Ukhrul mein website banwana",
+      "Ukhrul website designer",
+      "website cost in Ukhrul",
+      "IT company in Ukhrul",
+      "Manipur SEO services",
+      "hire developer Ukhrul",
+      "homestays software in Ukhrul",
+      "guides software in Ukhrul",
+      "festival software in Ukhrul",
+      "potters software in Ukhrul",
+      "website developer Ukhrul town Ukhrul",
     ],
   },
   hero: {

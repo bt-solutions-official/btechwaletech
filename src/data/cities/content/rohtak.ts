@@ -7,7 +7,7 @@ const rohtak: CityContent = {
   meta: {
     title: "Rohtak Website Developers | SEO, Stores, Automation",
     description:
-      "Remote web team for Rohtak's IMT suppliers, fastener makers, clinics, coaching and shops. Websites from ₹10,000, SEO sites from ₹20,000, own your code and domain.",
+      "Rohtak websites, SEO and WhatsApp tools for IMT auto-component suppliers, fastener and forging units, coaching libraries and clinics. From ₹10,000.",
     keywords: [
       "website development team in Rohtak",
       "web design Rohtak",
@@ -25,6 +25,16 @@ const rohtak: CityContent = {
       "website maintenance Rohtak",
       "Rohtak me website banane wala",
       "रोहतक वेबसाइट डेवलपमेंट",
+      "web development company Rohtak",
+      "hire freelance web developer Rohtak",
+      "Haryana SEO services",
+      "Rohtak me website kaise banwaye",
+      "Rohtak website banwane ka kharcha",
+      "Rohtak real estate website",
+      "real estate website design Rohtak",
+      "website design IMT Rohtak",
+      "website design DLF Colony Rohtak",
+      "website design Sector 14 Rohtak",
     ],
   },
   hero: {

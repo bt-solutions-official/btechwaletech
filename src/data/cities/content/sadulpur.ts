@@ -7,7 +7,7 @@ const sadulpur: CityContent = {
   meta: {
     title: "IT Services in Sadulpur: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, sweet-shop stores and WhatsApp automation for Sadulpur (Rajgarh) traders, schools and families abroad. Static sites from ₹10,000.",
+      "Websites, SEO, sweet-shop stores and WhatsApp tools for Sadulpur (Rajgarh) traders, schools and families abroad. From ₹10,000, with 2 months of free upkeep.",
     keywords: [
       "website development team in Sadulpur",
       "website designer Rajgarh Churu",
@@ -24,6 +24,17 @@ const sadulpur: CityContent = {
       "website design Taranagar",
       "Sadulpur me website kaise banwaye",
       "सादुलपुर वेबसाइट",
+      "Sadulpur website designer",
+      "website cost in Sadulpur",
+      "web development company Sadulpur",
+      "hire freelance web developer Sadulpur",
+      "Rajasthan SEO services",
+      "Sadulpur website banwane ka kharcha",
+      "sweet shops website design Sadulpur",
+      "website design Sadulpur Junction area",
+      "website design Anaj Mandi Sadulpur",
+      "website design Mohta College area Sadulpur",
+      "Rajgarh website design",
     ],
   },
   hero: {

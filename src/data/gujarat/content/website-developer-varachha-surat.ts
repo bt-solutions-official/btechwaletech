@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-10-01",
   meta: {
     title: `Website Developer in Varachha Surat from ${P.site}`,
-    description: `Website developer in Varachha Surat for diamond units, traders, clinics, classes and shops. Sites from ${P.site}, Gujarati layouts, remote build, logins in your name.`,
+    description: `Website developer in Varachha Surat for diamond units, traders, clinics, classes and shops. Sites from ${P.site}, Gujarati layouts, logins in your name.`,
     keywords: [
       "website developer in Varachha Surat", "website developer Varachha", "Varachha Road website designer", "website developer near me Varachha",
       "diamond company website Surat", "diamond trader website Varachha", "loose diamond inventory website", "diamond manufacturing unit website",
@@ -155,7 +155,7 @@ const content: FreelanceContent = {
         `For local businesses the website has one job: turn a family's phone search into a call, visit or booking. Keep it short, clear and fast.`,
         `A clinic or hospital site needs doctors with qualifications and timings, departments, emergency contact, directions from a nearby landmark, and an appointment request that reaches reception on WhatsApp. A coaching class needs courses, batch timings, faculty, results you can document and an admissions enquiry. A builder needs one page per project with plans, amenities, location and an enquiry route to the sales team.`,
         `Jewellery showrooms, sweet shops and restaurants need opening hours, photos of real products and an easy way to call or message. Offers and festival timings change around Navratri and Diwali, so these pages must be easy to update.`,
-        `In every case, the site should match your Google Business Profile exactly: name, address and phone. That consistency is what keeps you visible when someone nearby searches for a doctor or class on Varachha Road. Our guides for restaurant websites in Surat and <a href='/gujarat/coaching-institute-website-surat/'>coaching institute websites</a> go deeper.`,
+        `In every case, the site should match your Google Business Profile exactly: name, address and phone. That consistency is what keeps you visible when someone nearby searches for a doctor or class on Varachha Road. Our guides for <a href='/gujarat/restaurant-website-surat/'>restaurant websites in Surat</a> and <a href='/gujarat/coaching-institute-website-surat/'>coaching institute websites</a> go deeper.`,
       ],
     },
     {
@@ -207,7 +207,7 @@ const content: FreelanceContent = {
         `A local business in Varachha wins most of its customers through Google Maps and nearby searches. A website strengthens that, though nobody can guarantee rankings.`,
         `Start with a <a href='https://support.google.com/business/' rel='noopener'>Google Business Profile</a> whose name, address and phone match the website footer exactly, with the right categories, hours and real photos. On the website, each service or department gets its own page with a clear title, such as skin clinic on Varachha Road or NEET coaching in Yogi Chowk, plus schema markup for your business type, a sitemap and Google Search Console from launch.`,
         `Diamond firms target different searches, often from outside Gujarat or abroad, so their pages focus on categories and capability rather than neighbourhood terms.`,
-        `AI assistants and Google's AI Overviews tend to quote pages that answer one question clearly with facts in short paragraphs or tables. We write FAQ and service blocks that way. Ongoing SEO is optional, from ${P.seo} a month, and the <a href='/local-seo-expert/'>local SEO expert</a> page explains what that work involves.`,
+        `AI assistants and Google's AI Overviews tend to quote pages that answer one question clearly with facts in short paragraphs or tables. We write FAQ and service blocks that way. Ongoing SEO is optional, from ${P.seo}, and the <a href='/local-seo-expert/'>local SEO expert</a> page explains what that work involves.`,
       ],
     },
     {

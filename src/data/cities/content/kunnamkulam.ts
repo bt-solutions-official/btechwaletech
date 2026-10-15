@@ -7,7 +7,7 @@ const kunnamkulam: CityContent = {
   meta: {
     title: "IT Services in Kunnamkulam: Websites, Apps, SEO & AI",
     description:
-      "Malayalam and English websites, Android and iOS apps, local SEO and WhatsApp automation for Kunnamkulam printers, book sellers, jewellers, traders and clinics.",
+      "Kunnamkulam Malayalam and English websites, mobile apps, local SEO and WhatsApp bots for printers, book sellers, jewellers, traders and clinics. From ₹10,000.",
     keywords: [
       "IT services in Kunnamkulam",
       "IT services team in Kunnamkulam",
@@ -29,6 +29,10 @@ const kunnamkulam: CityContent = {
       "Kunnamkulam me website banwana",
       "Kunnamkulam website cheyyan",
       "കുന്നംകുളം വെബ്സൈറ്റ് ഡിസൈൻ",
+      "Kunnamkulam website designer",
+      "web development company Kunnamkulam",
+      "hire freelance developer Kunnamkulam",
+      "Kerala SEO",
     ],
   },
   hero: {

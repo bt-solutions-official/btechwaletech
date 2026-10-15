@@ -7,7 +7,7 @@ const coimbatore: CityContent = {
   meta: {
     title: "IT Services in Coimbatore: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and automation for Coimbatore pump, textile, foundry and jewellery businesses. Sites from ₹10,000, itemised quotes, domain and code in your name.",
+      "Coimbatore websites, SEO and automation for pump, textile, foundry and jewellery businesses. Sites from ₹10,000, written quotes, domain and code in your name.",
     keywords: [
       "website development team in Coimbatore",
       "web design team Coimbatore",
@@ -25,6 +25,14 @@ const coimbatore: CityContent = {
       "Kovai website design",
       "website seyya evvalavu selavu Kovai",
       "கோவை இணையதள வடிவமைப்பு",
+      "Coimbatore website designer",
+      "web development company Coimbatore",
+      "hire freelance developer Coimbatore",
+      "Tamil Nadu SEO",
+      "website for pumps and motors in Coimbatore",
+      "web designer in RS Puram, Coimbatore",
+      "website for wet grinders and appliances in Coimbatore",
+      "mobile app developer in Coimbatore",
     ],
   },
   hero: {

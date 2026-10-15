@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Hospital Management Software Cost: from ${P.software}`,
-    description: `Hospital management software cost in India, module by module: OPD, IPD, billing and pharmacy from ${P.software}, ABDM readiness and SaaS vs owning it.`,
+    description: `Hospital management software cost in India, module by module: OPD, IPD, billing and pharmacy, plus ABDM readiness and SaaS vs owning it. From ${P.software}.`,
     keywords: [
       "hospital management software cost", "hospital management software cost in India", "hospital management system price", "HMS software price India",
       "hospital software cost for small hospital", "nursing home software cost", "clinic management software price", "multi speciality hospital software cost",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "WhatsApp reminders and report delivery", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Hospital website with doctor pages", value: `From ${P.site}, 1–2 weeks` },
       { label: "Monthly bills", value: "Server, backups, SMS or WhatsApp, domain" },
-      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Lab and diagnostics link", note: "Test orders from OPD and wards, sample tracking and results in the patient record, or a link to a separate lab system you already use.", href: "/lims-software-development/", size: "md" },
       { name: "Patient app and portal", note: `Book appointments, see reports and bills, and get reminders on Android and iOS, from ${P.app}.`, href: "/healthcare-app-developer/", size: "sm" },
       { name: "WhatsApp automation", note: `Appointment confirmations, report-ready alerts and follow-up reminders sent automatically, from ${P.ai}.`, href: "/whatsapp-automation-expert/", size: "sm" },
-      { name: "Upkeep and backups", note: `Updates, fixes, backup checks and small changes: 2 months free, then from ${P.care} a month.`, href: "/website-maintenance-charges/", size: "sm" },
+      { name: "Upkeep and backups", note: `Updates, fixes, backup checks and small changes: 2 months free, then from ${P.care}.`, href: "/website-maintenance-charges/", size: "sm" },
     ],
   },
   comparison: {
@@ -114,7 +114,7 @@ const content: FreelanceContent = {
         "IPD, pharmacy, lab orders and TPA billing: each quoted as its own module",
         `Patient app on Android and iOS: from ${P.app}`,
         `WhatsApp reminders and report alerts: from ${P.ai}`,
-        `Care after the free 2 months: from ${P.care} a month`,
+        `Care after the free 2 months: from ${P.care}`,
       ],
     },
     {
@@ -217,7 +217,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A subscription is usually cheaper for a small clinic with standard needs; an owned system is often cheaper over five years for a busy nursing home or hospital with many users and its own billing rules. The crossover depends on how the subscription is priced.`,
         `Subscriptions are commonly charged per user, per doctor, per bed, per branch or by module, and prices typically rise as you add staff or features. Over five years you pay the monthly figure sixty times, plus any setup, training and data-export fees. An owned system reverses that pattern: a larger payment for the build, then hosting and optional maintenance.`,
-        `To compare fairly, take the subscription quote at your staff count in year three, not today, multiply across five years, and add the price of any modules you would need to switch on later. Then compare it with the owned system's estimate plus five years of hosting and a maintenance plan such as ours from ${P.care} a month after the free two months. Also weigh the non-money points: control of your data, freedom to change billing rules, and dependence on one vendor's roadmap.`,
+        `To compare fairly, take the subscription quote at your staff count in year three, not today, multiply across five years, and add the price of any modules you would need to switch on later. Then compare it with the owned system's estimate plus five years of hosting and a maintenance plan such as ours from ${P.care} after the free two months. Also weigh the non-money points: control of your data, freedom to change billing rules, and dependence on one vendor's roadmap.`,
         `We will tell you honestly when a subscription is the better deal for your size. Our broader framework is on <a href='/off-the-shelf-vs-custom-software/'>off-the-shelf vs custom software</a>.`,
       ],
     },
@@ -320,7 +320,7 @@ const content: FreelanceContent = {
         ["Multi-specialty hospital", "Many modules, OT, lab, stores, HR", "Quoted per module after discovery", "Phased over many months", "May need a larger team than ours"],
         ["Patient app add-on", "Booking, reports, bills, reminders", `From ${P.app} (${P.appUsd})`, "6–10 weeks", "After core modules are stable"],
         ["WhatsApp automation", "Confirmations, report alerts, follow-ups", `From ${P.ai} (${P.aiUsd})`, "2–4 weeks", "High value, quick to add"],
-        ["Maintenance", "Updates, fixes, backup checks", `From ${P.care} a month after 2 free months`, "Monthly", "Optional after the free period"],
+        ["Maintenance", "Updates, fixes, backup checks", `From ${P.care} after 2 free months`, "Monthly", "Optional after the free period"],
       ],
       hideSm: [1],
     },
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
     { question: "What is ABHA and why does my hospital software need it?", answer: "ABHA is the Ayushman Bharat Health Account, a health ID under the Ayushman Bharat Digital Mission run by the National Health Authority. With the patient's consent, it lets records created at your facility be linked and shared with other providers. Capturing and verifying ABHA at registration is a low-cost first step that prepares your software for fuller ABDM integration later." },
     { question: "Is patient data safe in custom hospital software?", answer: "It is as safe as the design and the hosting. We build role-based access, audit logs of who viewed or changed records, encrypted connections, encrypted off-site backups and session timeouts on shared computers. Data sits in your own cloud account or server. These measures support your duties under the Digital Personal Data Protection Act, 2023; your own legal adviser confirms compliance." },
     { question: "Cloud or local server: which is better for hospital software?", answer: "Cloud hosting suits most facilities because it removes the risk of one server failing on site and allows access from branches. A local server suits places with unreliable internet, but you handle power backup, hardware and off-site backups. A hybrid that syncs local and cloud adds cost and should be chosen only if internet outages truly stop your front desk." },
-    { question: "What are the yearly running costs after building hospital software?", answer: `Expect cloud hosting and backup storage, SMS or WhatsApp message charges, domain renewal and, if you have a patient app, Apple's US$99 yearly developer fee; Google Play charges US$25 once. Maintenance from us is free for two months after go-live, then optional from ${P.care} a month. There are no per-user, per-bed or licence fees payable to us.` },
+    { question: "What are the yearly running costs after building hospital software?", answer: `Expect cloud hosting and backup storage, SMS or WhatsApp message charges, domain renewal and, if you have a patient app, Apple's US$99 yearly developer fee; Google Play charges US$25 once. Maintenance from us is free for two months after go-live, then optional from ${P.care}. There are no per-user, per-bed or licence fees payable to us.` },
     { question: "Can hospital software handle cashless insurance and TPA claims?", answer: "Yes. The billing module can track each cashless case from pre-authorisation through enhancements to final settlement, keep documents attached, show pending amounts and record deductions or short payments for follow-up. Portals of individual insurers still need your staff to submit claims there; the software keeps your side organised and the figures consistent with the patient's bill." },
     { question: "Can the pharmacy module manage batches and expiry dates?", answer: "Yes. Purchases are entered with batch, expiry, MRP and purchase rate, sales and ward issues reduce the right batch, and the system warns before items expire and when stock falls below reorder levels. Sales to patients produce GST bills, and ward issues post to the inpatient bill automatically. Your accountant should confirm tax settings before the pharmacy goes live." },
     { question: "Can you move data from our old hospital software?", answer: "Usually, if the old system can export data or we can read its database with your permission. Patient demographics, visit history, pending bills, stock and masters are the typical items. We check a sample before quoting the migration line. Paper records are rarely worth digitising in full; starting with active patients and scanning key documents is often more sensible." },

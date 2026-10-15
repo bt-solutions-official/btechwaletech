@@ -7,7 +7,7 @@ const tindivanam: CityContent = {
   meta: {
     title: "IT Services in Tindivanam: Websites, Apps, SEO & AI",
     description:
-      "Tamil and English websites, Android and iOS apps, local SEO and WhatsApp automation for Tindivanam traders, SIPCOT units, colleges, clinics and highway businesses.",
+      "Tamil and English websites, apps and SEO for Tindivanam traders, SIPCOT units, colleges, clinics and highway businesses. From ₹10,000 and live in 1-2 weeks.",
     keywords: [
       "IT services in Tindivanam",
       "IT services team in Tindivanam",
@@ -29,6 +29,12 @@ const tindivanam: CityContent = {
       "Tindivanam website seyya evvalavu",
       "திண்டிவனம் இணையதள வடிவமைப்பு",
       "Tindivanam Google Maps listing",
+      "Tindivanam website designer",
+      "web development company Tindivanam",
+      "hire freelance web developer Tindivanam",
+      "Viluppuram district SEO",
+      "website designer Viluppuram district",
+      "Tamil Nadu SEO services",
     ],
   },
   hero: {

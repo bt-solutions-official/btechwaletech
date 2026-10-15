@@ -11,8 +11,8 @@ const content: FreelanceContent = {
   crumb: "Ecommerce SEO agency UK",
   updated: "2026-09-25",
   meta: {
-    title: `Ecommerce SEO Agency UK Alternative: from ${P.seo}/mo`,
-    description: `Ecommerce SEO agency UK shops compare: category pages, product schema, faceted navigation fixes and free Shopping listings, reported as revenue. From ${P.seo}/mo.`,
+    title: `Ecommerce SEO Agency UK Alternative: from ${P.seo}`,
+    description: `Ecommerce SEO agency UK shops compare: category pages, product schema, facet fixes and free Shopping listings, reported as revenue. From ${P.seo}.`,
     keywords: [
       "ecommerce seo agency uk", "ecommerce seo uk", "ecommerce seo services uk", "ecommerce seo company uk",
       "ecommerce seo consultant uk", "online shop seo uk", "shopify seo uk", "woocommerce seo uk",
@@ -47,7 +47,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What should an ecommerce SEO agency in the UK do for my online shop?",
-    text: `A good ecommerce SEO agency UK shops pay should fix category pages, tame faceted navigation so Google crawls products rather than filter combinations, add valid product and review structured data, set up Merchant Center free listings, plan content for UK trading peaks and report organic revenue. BtechWaleTech, a three-person freelance team, does this from ${P.seo} a month; nobody can honestly guarantee rankings.`,
+    text: `A good ecommerce SEO agency UK shops pay should fix category pages, tame faceted navigation so Google crawls products rather than filter combinations, add valid product and review structured data, set up Merchant Center free listings, plan content for UK trading peaks and report organic revenue. BtechWaleTech, a three-person freelance team, does this from ${P.seo}; nobody can honestly guarantee rankings.`,
     more: `Stores still on an old or slow platform may need a rebuild first, from ${P.shop}: compare <a href='/uk/shopify-developer/'>Shopify development</a> with a <a href='/uk/woocommerce-developer/'>WooCommerce specialist</a>.`,
   },
   snapshot: {
@@ -89,14 +89,14 @@ const content: FreelanceContent = {
       ["Reporting focus", "Varies; often rankings and traffic", "Screenshots or tool exports", "Organic revenue and orders by category"],
       ["UK time-zone contact", "Full UK day", "Unpredictable", "UK late morning and afternoon, WhatsApp daily"],
       ["Contract style", "Often a minimum term", "Per gig or hourly", "Terms agreed in your written quote"],
-      ["Starting cost", "Quotes vary widely", "Quotes vary widely", `From ${P.seo} a month`],
+      ["Starting cost", "Quotes vary widely", "Quotes vary widely", `From ${P.seo}`],
       ["In-person meetings", "Possible", "No", "No; video calls only"],
     ],
     fine: "A large UK agency can bring PR, paid media and in-person workshops under one roof; if you need all three at scale, that breadth may be worth paying for.",
   },
   pricing: {
     heading: "What ecommerce SEO costs with us, next to an ecommerce SEO agency UK quote",
-    note: `Ecommerce SEO plans start from ${P.seo} a month. The quote grows with catalogue size, the number of categories that need new copy, how tangled your filters and duplicate URLs are, whether Merchant Center has to be built from nothing, and how many seasonal pages you want each year. A 200-product Shopify shop with tidy collections sits near the starting price; a WooCommerce store with 15,000 variants and years of redirect debt does not. If the audit shows the theme or platform is the real blocker, a new store starts from ${P.shop}. We invoice in USD, UK clients usually pay through Wise from sterling, and nothing is billed before you approve the written quote.`,
+    note: `Ecommerce SEO plans start from ${P.seo}. The quote grows with catalogue size, the number of categories that need new copy, how tangled your filters and duplicate URLs are, whether Merchant Center has to be built from nothing, and how many seasonal pages you want each year. A 200-product Shopify shop with tidy collections sits near the starting price; a WooCommerce store with 15,000 variants and years of redirect debt does not. If the audit shows the theme or platform is the real blocker, a new store starts from ${P.shop}. We invoice in USD, UK clients usually pay through Wise from sterling, and nothing is billed before you approve the written quote.`,
   },
   guideLabel: "Ecommerce SEO agency UK guide",
   guide: [
@@ -347,8 +347,8 @@ const content: FreelanceContent = {
       note: `All figures are starting prices; your itemised quote depends on the audit. Monthly ecommerce SEO starts from ${P.seo}.`,
       columns: ["Store profile", "Typical month-one focus", "Ongoing monthly focus", "Starting point"],
       rows: [
-        ["Up to 300 products, one platform", "Tracking check, schema, feed setup", "Category copy, product rewrites of top sellers", `From ${P.seo}/month`],
-        ["300 to 3,000 products", "Filter sprawl, duplicate URLs, feed disapprovals", "Category hubs, seasonal pages, internal links", `From ${P.seo}/month, scoped by audit`],
+        ["Up to 300 products, one platform", "Tracking check, schema, feed setup", "Category copy, product rewrites of top sellers", `From ${P.seo}`],
+        ["300 to 3,000 products", "Filter sprawl, duplicate URLs, feed disapprovals", "Category hubs, seasonal pages, internal links", `From ${P.seo}, scoped by audit`],
         ["3,000+ products or many variants", "Crawl budget, sitemap rebuild, template fixes", "Templated product copy, category expansion", "Quoted after a crawl"],
         ["Store on an ageing theme", "Speed and Core Web Vitals triage", "Rebuild recommended if fixes stall", `New store from ${P.shop}`],
         ["No Merchant Center yet", "Account, feed, shipping and returns setup", "Feed enrichment and disapproval monitoring", "Included in the first month scope"],

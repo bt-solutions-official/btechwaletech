@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Website uptime monitoring service",
   updated: "2026-09-25",
   meta: {
-    title: "Website Uptime Monitoring Service with WhatsApp Alerts",
-    description: `Website uptime monitoring service: checks every few minutes, SSL and domain expiry alerts, WhatsApp and SMS alerts, a status page and a runbook. From ${P.care}.`,
+    title: `Website Uptime Monitoring: WhatsApp Alerts, ${P.care}`,
+    description: `Website uptime monitoring service: checks every few minutes, SSL and domain expiry alerts on WhatsApp and SMS, status page and runbook. From ${P.care}.`,
     keywords: [
       "website uptime monitoring service", "website uptime monitoring", "uptime monitoring service India", "website down alert",
       "website monitoring service", "website downtime monitoring", "server uptime monitoring", "SSL certificate expiry monitoring",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "website went down what to do", "24/7 website monitoring", "uptime monitoring for ecommerce", "uptime monitoring for WordPress",
       "API uptime monitoring", "cron job monitoring", "website monitoring freelancer", "website uptime monitoring service near me",
       "website band ho gaya kya kare", "website monitoring Mumbai", "website monitoring Pune",
+      "website uptime monitoring service cost", "website uptime monitoring service price", "website uptime monitoring service company", "best website uptime monitoring service in India",
+      "website uptime monitoring service cost in India",
     ],
   },
   hero: {

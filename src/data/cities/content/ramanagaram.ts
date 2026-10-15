@@ -7,7 +7,7 @@ const ramanagaram: CityContent = {
   meta: {
     title: "IT Services in Ramanagaram: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, Kannada local SEO and WhatsApp automation for Ramanagara silk reelers, cocoon traders, Bidadi suppliers and shops. From ₹10,000.",
+      "Websites, apps, Kannada local SEO and WhatsApp tools for Ramanagara silk reelers, cocoon traders, Bidadi suppliers and shops. Websites from ₹10,000.",
     keywords: [
       "IT services in Ramanagaram",
       "IT services team in Ramanagara",
@@ -29,6 +29,12 @@ const ramanagaram: CityContent = {
       "Ramanagara me website banwana",
       "Ramanagaradalli website madisuvudu",
       "ರಾಮನಗರ ವೆಬ್‌ಸೈಟ್ ವಿನ್ಯಾಸ",
+      "Ramanagaram website designer",
+      "website cost in Ramanagaram",
+      "web development company Ramanagaram",
+      "hire freelance web developer Ramanagaram",
+      "Karnataka SEO services",
+      "Ramanagaram me website kaise banwaye",
     ],
   },
   hero: {

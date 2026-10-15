@@ -7,7 +7,7 @@ const chikkamagaluru: CityContent = {
   meta: {
     title: "Chikkamagaluru IT Services | Web, Apps, SEO & AI",
     description:
-      "Websites, coffee stores, Kannada SEO and WhatsApp booking tools for Chikkamagaluru estates, curing works, homestays, resorts and local shops. From ₹10,000.",
+      "Chikkamagaluru websites, coffee stores, Kannada SEO and WhatsApp booking tools for estates, curing works, homestays, resorts and local shops. From ₹10,000.",
     keywords: [
       "website development team in Chikkamagaluru",
       "web designer Chikmagalur",
@@ -25,6 +25,14 @@ const chikkamagaluru: CityContent = {
       "ecommerce website Malnad",
       "website maintenance Chikmagalur",
       "freelance web developer Chikmagalur",
+      "Chikkamagaluru website designer",
+      "website cost in Chikkamagaluru",
+      "web development company Chikkamagaluru",
+      "hire freelance developer Chikkamagaluru",
+      "Karnataka SEO",
+      "website for coffee estates in Chikkamagaluru",
+      "web designer in MG Road, Chikkamagaluru",
+      "website for curing works and traders in Chikkamagaluru",
     ],
   },
   hero: {

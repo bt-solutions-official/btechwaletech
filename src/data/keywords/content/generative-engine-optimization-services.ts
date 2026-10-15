@@ -13,8 +13,8 @@ const content: FreelanceContent = {
   crumb: "Generative engine optimization services",
   updated: "2026-09-25",
   meta: {
-    title: "Generative Engine Optimization Services for AI Answers",
-    description: `Generative engine optimization services from ${P.seo}: get cited in ChatGPT, Perplexity, Gemini and AI Overviews, with AI referrals tracked in GA4.`,
+    title: `Generative Engine Optimization Services from ${P.seo}`,
+    description: `Generative engine optimization services: get cited in ChatGPT, Perplexity, Gemini and AI Overviews, with AI referrals tracked in GA4. From ${P.seo}.`,
     keywords: [
       "generative engine optimization services", "generative engine optimization", "GEO services", "GEO services India",
       "generative engine optimization agency", "generative engine optimization company India", "AEO services", "answer engine optimization services",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "generative engine optimization for small business", "GEO vs SEO", "what is generative engine optimization", "llms.txt setup",
       "AI visibility audit", "track ChatGPT traffic in GA4", "generative engine optimization Bangalore", "generative engine optimization Mumbai",
       "generative engine optimization Delhi", "GEO freelancer", "AI search mein business kaise dikhaye", "generative engine optimization services near me",
+      "best generative engine optimization services in India",
     ],
   },
   hero: {

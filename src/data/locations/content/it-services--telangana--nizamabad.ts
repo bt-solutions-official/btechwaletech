@@ -5,9 +5,9 @@ const content: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 18.672, lng: 78.094 },
   meta: {
-    title: "Freelance Software Developers in Nizamabad",
+    title: "Nizamabad Software Developers: Turmeric & Rice Mills",
     description:
-      "Freelance software developers for Nizamabad: turmeric trade software, rice mill systems, AI agents, Android and iOS apps and mobile websites. Apps from ₹40,000.",
+      "Freelance software developers for Nizamabad: turmeric trade software, rice mill systems and AI agents. Three remote engineers, on WhatsApp seven days a week.",
     keywords: [
       "software development team in Nizamabad",
       "IT services team in Nizamabad",
@@ -29,6 +29,16 @@ const content: CityContent = {
       "IT services near me Nizamabad",
       "website maintenance Nizamabad",
       "నిజామాబాద్ సాఫ్ట్‌వేర్ డెవలపర్లు",
+      "Nizamabad website designer",
+      "website cost in Nizamabad",
+      "IT company in Nizamabad",
+      "Telangana SEO services",
+      "hire developer Nizamabad",
+      "turmeric software in Nizamabad",
+      "rice mills software in Nizamabad",
+      "hospitals software in Nizamabad",
+      "education software in Nizamabad",
+      "website developer Khaleelwadi Nizamabad",
     ],
   },
   hero: {

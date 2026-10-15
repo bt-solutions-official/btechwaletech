@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Coaching Institute Management Software from ${P.software}`,
-    description: `Coaching institute management software for batches, fee instalments, enquiries, parent alerts and test results. Custom builds from ${P.software}.`,
+    description: `Coaching institute management software for batches, fee instalments, enquiries, parent alerts and test results. Custom builds from ${P.software}, quote in 2 days.`,
     keywords: [
       "coaching institute management software", "coaching management software", "coaching centre management software", "coaching class management software",
       "tuition management software", "coaching institute software India", "coaching fee management software", "batch management software for coaching",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "fee reminder software for coaching", "coaching institute app", "tuition classes software", "coaching management system",
       "coaching institute software Patna", "coaching institute software Jaipur", "best software for coaching institute", "coaching ke liye software",
       "coaching admission management", "coaching institute management software developer",
+      "coaching institute management software company in India",
+      "coaching institute management software near me",
+      "coaching institute management software services",
     ],
   },
   hero: {
@@ -402,7 +405,7 @@ const content: FreelanceContent = {
     { question: "Can the software work in Hindi?", answer: "Yes. Screens used by counsellors and front-desk staff, and messages sent to parents, can carry Hindi text alongside English, with you approving the wording. Owner reports and accounts exports usually stay in English. We work in both English and Hindi, so requirements calls can happen in whichever language your team prefers." },
     { question: "Does the software collect fees online?", answer: "It can show parents the amount due with a payment link in reminders, and record payments made by UPI, card, cash or bank transfer with an automatic receipt. Online collection uses a payment provider account in your centre’s name. Many centres keep counter payments too, and the software records both into the same fee ledger." },
     { question: "Can you also build our coaching website and handle SEO?", answer: `Yes. A coaching website starts at ${P.site}, and enquiry forms on it can feed the management software directly. Monthly SEO starts at ${P.seo} and covers technical fixes, content and Google Business Profile work. No one can guarantee rankings, but a fast site with clear course pages gives you a fair chance in local search.` },
-    { question: "What support is available after launch?", answer: `Two months of maintenance are included free after launch, covering fixes, small changes and updates such as new batches or fee plans. After that, care starts at ${P.care} per month if you want it. Because you hold the code and accounts, you can also bring support in-house or give it to another developer.` },
+    { question: "What support is available after launch?", answer: `Two months of maintenance are included free after launch, covering fixes, small changes and updates such as new batches or fee plans. After that, care starts at ${P.care} if you want it. Because you hold the code and accounts, you can also bring support in-house or give it to another developer.` },
     { question: "How do we pay for the project?", answer: "Payment is staged against delivered work as written in your itemised quote. In India you pay by UPI or bank transfer; overseas clients pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the quote in writing. For anything the quote does not cover, check our terms page or ask us before you start." },
     { question: "Coaching institute ke liye software banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom coaching software ${P.software} se shuru hota hai, jismein enquiry, admission, batch, fees aur receipts aate hain. Parent SMS ya WhatsApp alerts, tests, extra branch aur app alag line mein quote hote hain. Per student koi fees nahi lagti, code aur data aapke naam par rehta hai, aur launch ke baad 2 mahine support free hai.` },
   ],

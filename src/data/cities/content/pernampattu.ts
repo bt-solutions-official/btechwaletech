@@ -7,7 +7,7 @@ const pernampattu: CityContent = {
   meta: {
     title: "IT Services in Pernampattu: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Pernampattu (Pernambut) tanneries, leather exporters, traders, clinics and schools.",
+      "Websites, apps, local SEO and WhatsApp automation for Pernampattu (Pernambut) tanneries, leather exporters, traders, clinics and schools. From ₹10,000.",
     keywords: [
       "IT services in Pernampattu",
       "IT services team in Pernampattu",
@@ -29,6 +29,12 @@ const pernampattu: CityContent = {
       "Pernampattu me website banwana",
       "Pernambut-la website seiyya",
       "பேர்ணாம்பட்டு வெப்சைட் டிசைன்",
+      "Pernampattu website designer",
+      "web development company Pernampattu",
+      "hire freelance web developer Pernampattu",
+      "Vellore district SEO",
+      "website designer Vellore district",
+      "Tamil Nadu SEO services",
     ],
   },
   hero: {

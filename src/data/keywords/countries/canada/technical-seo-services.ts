@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "crawled currently not indexed fix", "javascript seo shopify headless", "structured data audit", "technical seo toronto",
       "technical seo vancouver", "technical seo montreal", "technical seo calgary", "technical seo near me", "technical seo for ecommerce canada",
       "technical seo for shopify stores", "remote technical seo team",
+      "hire technical seo services in Canada", "freelance technical seo services Canada",
     ],
   },
   hero: {

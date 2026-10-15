@@ -7,7 +7,7 @@ const pilkhuwa: CityContent = {
   meta: {
     title: "IT Services in Pilkhuwa | Web, Apps & AI from ₹10,000",
     description:
-      "Websites, Android and iOS apps, SEO and WhatsApp automation for Pilkhuwa bedsheet makers, handloom printers, wholesalers, colleges, clinics and highway shops.",
+      "Websites, apps, SEO and WhatsApp automation for Pilkhuwa bedsheet makers, handloom printers, wholesalers, colleges, clinics and highway shops. From ₹10,000.",
     keywords: [
       "IT services in Pilkhuwa",
       "IT services team in Pilkhuwa",
@@ -29,6 +29,12 @@ const pilkhuwa: CityContent = {
       "Pilkhuwa mein app kaise banwaye",
       "bedsheet manufacturer website design",
       "website developer near Hapur",
+      "Pilkhuwa website designer",
+      "web development company Pilkhuwa",
+      "hire freelance web developer Pilkhuwa",
+      "Hapur district SEO",
+      "website designer Hapur district",
+      "Uttar Pradesh SEO services",
     ],
   },
   hero: {

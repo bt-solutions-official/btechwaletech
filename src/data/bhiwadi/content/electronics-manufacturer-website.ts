@@ -62,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Meeting", value: "One to one at your unit or a place you choose in Bhiwadi" },
       { label: "Languages", value: "English specs; Hindi for dealers, electricians and service pages" },
       { label: "Ownership", value: "Domain, hosting, code and distributor data stay yours" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {

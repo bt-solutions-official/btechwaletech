@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Website showing not secure",
   updated: "2026-09-25",
   meta: {
-    title: "Website Showing Not Secure? Get the Padlock Back",
+    title: `Website Showing Not Secure? Get the Padlock Back 2026`,
     description: `Website showing not secure in Chrome? Find the cause (SSL, mixed content, redirects) and fix it for good. Upkeep plans from ${P.care} after a free check.`,
     keywords: [
       "website showing not secure", "website showing not secure in chrome", "why is my website showing not secure", "how to fix not secure website",

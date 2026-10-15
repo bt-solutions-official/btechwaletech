@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Power Automate Developer for M365, from ${P.ai}`,
-    description: `Hire a Power Automate developer for approvals, SharePoint and Excel flows, Outlook tasks and Teams alerts in Microsoft 365. From ${P.ai}, licences checked first.`,
+    description: `Hire a Power Automate developer for approvals, SharePoint and Excel flows, Outlook and Teams alerts in your own M365 tenant. From ${P.ai}, licences checked.`,
     keywords: [
       "power automate developer", "power automate developer India", "hire power automate developer", "power automate consultant",
       "microsoft power automate expert", "power automate freelancer", "power automate developer cost", "power automate approval flow",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "power automate tally integration", "power automate erp connector", "power automate governance dlp", "power automate developer near me",
       "power automate developer Mumbai", "power automate developer Hyderabad", "power automate developer Pune", "power automate developer Bengaluru",
       "who can build power automate flows for me", "power automate flow fix", "power platform developer freelance",
+      "freelance Power Automate developer", "best Power Automate developer in India", "Power Automate developer price", "Power Automate developer charges",
     ],
   },
   hero: {

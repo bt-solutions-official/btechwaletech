@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Furniture Website Design: Catalogue Sites from ${P.site}`,
-    description: `Furniture website design for makers and showrooms: catalogue sites from ${P.site}, online stores from ${P.shop}. Custom sizes, AR, delivery zones, EMI and COD.`,
+    description: `Furniture website design for makers and showrooms: custom sizes, AR, delivery zones, EMI and COD. Catalogue sites from ${P.site}, stores from ${P.shop}.`,
     keywords: [
       "furniture website design", "furniture website design India", "furniture showroom website", "furniture store website design",
       "furniture ecommerce website", "furniture catalogue website", "furniture manufacturer website", "website for furniture shop",
@@ -23,6 +23,9 @@ const content: FreelanceContent = {
       "furniture website with EMI option", "furniture website cash on delivery", "wooden furniture website", "sofa shop website",
       "furniture website design Delhi", "furniture website design Bengaluru", "furniture website Jodhpur", "furniture ki website kaise banaye",
       "catalogue vs ecommerce website furniture", "furniture website features",
+      "furniture website design company in India",
+      "best furniture website design in India",
+      "furniture website design services",
     ],
   },
   hero: {

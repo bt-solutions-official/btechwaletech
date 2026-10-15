@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "tuition centre website bishan", "tuition centre website tampines", "tuition centre website jurong", "tuition centre website punggol",
       "enrichment centre website near me", "tuition timetable page", "moe registered tuition centre website", "tuition centre whatsapp booking",
       "wordpress tuition centre website", "tuition website for tutors singapore",
+      "hire tuition centre website design in Singapore", "freelance tuition centre website design Singapore",
     ],
   },
   hero: {

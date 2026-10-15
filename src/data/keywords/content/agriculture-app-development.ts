@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Agriculture App Development: Farmer Apps from ${P.app}`,
-    description: `Agriculture app development for agri-startups, FPOs and input companies: crop advisory, mandi prices, input orders, voice and regional languages. From ${P.app}.`,
+    description: `Agriculture app development for agri-startups, FPOs and input firms: crop advisory, mandi prices, input orders, voice and regional languages. From ${P.app}.`,
     keywords: [
       "agriculture app development", "agriculture app development company india", "farmer app development", "agri app developer",
       "agriculture app development cost", "krishi app development", "fpo app development", "farmer producer organisation software",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "how to build an agriculture app", "agriculture app features", "kisan app kaise banaye", "agriculture app developer Nashik",
       "agriculture app developer Pune", "agriculture app developer Indore", "agri marketplace app development", "offline farmer app",
       "regional language farmer app", "agriculture app development price",
+      "best agriculture app development in India",
+      "agriculture app development services",
     ],
   },
   hero: {
@@ -60,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Voice and AI advisory", value: `From ${P.ai}, with human review of advice` },
       { label: "Languages", value: "Hindi and English; Marathi, Telugu, Tamil, Kannada and others with your approved text" },
       { label: "Works offline", value: "Yes, entries sync when the phone finds a network" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -227,7 +229,7 @@ const content: FreelanceContent = {
         "<strong>Integrations:</strong> ERP, accounting, weather or price feeds each depend on what the other side offers.",
       ],
       after: [
-        `Running costs are yours, paid directly: hosting, SMS and WhatsApp messages, speech API usage, and store fees, with Google Play charging a one-time US$25 registration. After two free months, maintenance is optional from ${P.care} a month. For wider context on app budgets, see <a href='/flutter-app-development-cost-in-india/'>Flutter app development cost in India</a>.`,
+        `Running costs are yours, paid directly: hosting, SMS and WhatsApp messages, speech API usage, and store fees, with Google Play charging a one-time US$25 registration. After two free months, maintenance is optional from ${P.care}. For wider context on app budgets, see <a href='/flutter-app-development-cost-in-india/'>Flutter app development cost in India</a>.`,
       ],
     },
     {
@@ -304,7 +306,7 @@ const content: FreelanceContent = {
         ["Input ordering", "Seasonal catalogue, dealer routing, UPI or credit, dealer app", `${P.shop}`, "4–6 weeks"],
         ["FPO records", "Members, shares, procurement by lot and grade, payments", "Quoted per scope", "3–5 weeks"],
         ["Public website", "About, programmes, crops and farmer sign-up", `${P.site}`, "1–2 weeks"],
-        ["Support after launch", "Fixes, season updates, new languages", `${P.care} a month, after 2 free months`, "Monthly"],
+        ["Support after launch", "Fixes, season updates, new languages", `${P.care}, after 2 free months`, "Monthly"],
       ],
       hideSm: [3],
     },
@@ -392,7 +394,7 @@ const content: FreelanceContent = {
     { question: "What does the DPDP Act mean for farmer data?", answer: "Farmers' names, phone numbers, land and bank details are personal data under the Digital Personal Data Protection Act, 2023, and your organisation is responsible for using them lawfully. The build supports that with consent recorded at onboarding, role-based access, encryption, audit logs and deletion on request. Your own lawyer should confirm notices and consent wording." },
     { question: "Why use a freelance team for agriculture app development?", answer: "You work directly with the three developers who build the app, get an itemised quote and own everything in your name. We are a small team, so we do not supply field staff, agronomists or a large on-site team. For startups, FPOs and input companies that bring the farming knowledge, we bring the software and keep it simple for farmers." },
     { question: "Do you provide agronomy content or field staff?", answer: "No. Your agronomists or partner experts write the crop calendars, pest advice and product guidance, and your field team onboards farmers. We build the tools that deliver that content at the right time, collect questions, and give your staff dashboards. We can structure your existing advisory documents into calendars inside the app." },
-    { question: "What support is available after launch?", answer: `Two months of maintenance after launch are free, covering bug fixes, small changes and the first season's updates. After that, support starts from ${P.care} a month if you want it, or your own developer can take over. Seasonal updates such as new crops, calendars and products are normally handled by your team in the back office.` },
+    { question: "What support is available after launch?", answer: `Two months of maintenance after launch are free, covering bug fixes, small changes and the first season's updates. After that, support starts from ${P.care} if you want it, or your own developer can take over. Seasonal updates such as new crops, calendars and products are normally handled by your team in the back office.` },
     { question: "How do payments and contracts work?", answer: "Work is quoted with milestones and nothing is billed before your written approval. Indian clients pay by UPI or bank transfer; international clients pay in USD by Wise, wire or PayPal. If you need an NDA, specific contract clauses or grant-related reporting, ask us and it is agreed in writing before work starts." },
     { question: "Kisan app banwane ka kharcha kitna hai?", answer: `Farmer app Android aur iOS ke liye ${P.app} se shuru hota hai, aur aapki team ka back office ${P.software} se. Voice aur AI advisory ${P.ai} se shuru hoti hai. Kitni bhashayein chahiye, input ordering aur FPO records chahiye ya nahi, isse final quote banta hai. Quote lagbhag do working days mein milta hai.` },
     { question: "Can our agri programme be found on Google and in AI answers?", answer: "A clear website explaining your programme, crops, regions and how farmers join helps both search engines and AI assistants describe you accurately. We build that site with structured data and fast mobile pages, and can add a Hindi or regional version. Nobody can guarantee rankings or AI citations; a useful, accurate site is what you control." },

@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "offline Flutter app for field staff", "Flutter Android iOS app Bhiwadi", "Dart developer Bhiwadi", "Flutter vs React Native Bhiwadi",
       "FlutterFlow developer Bhiwadi", "Flutter app banwana hai", "Flutter app banane wala Bhiwadi", "Flutter developer Dharuhera",
       "Flutter developer Khairthal-Tijara", "hire Flutter developer Bhiwadi", "one codebase app Bhiwadi",
+      "Flutter app for factory staff Bhiwadi", "Flutter app maintenance Bhiwadi", "Flutter app Bhiwadi me kitna kharcha",
     ],
   },
   hero: {
@@ -395,6 +396,7 @@ const content: FreelanceContent = {
     heading: "More app pages for Bhiwadi",
     links: [
       { name: "All Bhiwadi services", href: "/bhiwadi-rajasthan/" },
+      { name: "App banwane ka kharcha", href: "/bhiwadi-rajasthan/app-banwane-ka-kharcha/" },
       { name: "Android app developer in Bhiwadi", href: "/bhiwadi-rajasthan/android-app-development/" },
       { name: "iOS app development in Bhiwadi", href: "/bhiwadi-rajasthan/ios-app-development/" },
       { name: "Mobile app development in Bhiwadi", href: "/bhiwadi-rajasthan/mobile-app-development/" },

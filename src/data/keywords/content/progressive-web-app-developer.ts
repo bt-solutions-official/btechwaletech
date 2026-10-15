@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Progressive web app developer",
   updated: "2026-09-24",
   meta: {
-    title: `Progressive Web App Developer in India | PWA Builds`,
+    title: `Progressive Web App Developer: PWAs from ${P.software}`,
     description: `Progressive web app developer in India: installable, offline-ready PWAs from ${P.software}, PWA-enabled sites from ${P.site}. Honest iPhone limits and costs.`,
     keywords: [
       "progressive web app developer", "progressive web app developer in India", "PWA developer", "PWA developer near me",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "installable web app developer", "offline web app developer", "service worker developer", "PWA vs native app",
       "PWA on Play Store", "Trusted Web Activity developer", "freelance PWA developer", "web app with push notifications",
       "Next.js PWA developer", "PWA for ecommerce India",
+      "hire progressive web app developer", "freelance progressive web app developer", "progressive web app developer cost", "progressive web app developer near me",
+      "best progressive web app developer in India", "progressive web app developer price", "progressive web app developer charges",
     ],
   },
   hero: {
@@ -60,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Store with installable front end", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Distribution", value: "Direct link and install prompt; Play Store listing optional" },
       { label: "Ownership", value: "Domain, hosting, repository and store accounts in your name" },
-      { label: "Support", value: `2 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -225,7 +227,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A PWA can rank like any website, provided each screen has its own URL and the main content is present in the HTML the server sends. The classic mistake is a single-page app that shows a blank shell to crawlers until JavaScript runs. We avoid that with server rendering or static generation for public pages.`,
         `Every public page gets a unique title and description, one H1, canonical tag, schema markup where it helps, and an XML sitemap submitted in Google Search Console. The service worker must never cache a stale redirect or serve an old sitemap, so we exclude those routes from caching.`,
-        `Speed is where PWAs shine on repeat visits, but first visits still decide Core Web Vitals. We keep the initial JavaScript small, size and compress images, and register the service worker after the page has loaded so it does not compete with the first paint. For ongoing search work, <a href='/freelance-seo-expert/'>freelance SEO</a> starts at ${P.seo} a month, with no ranking promises.`,
+        `Speed is where PWAs shine on repeat visits, but first visits still decide Core Web Vitals. We keep the initial JavaScript small, size and compress images, and register the service worker after the page has loaded so it does not compete with the first paint. For ongoing search work, <a href='/freelance-seo-expert/'>freelance SEO</a> starts at ${P.seo}, with no ranking promises.`,
       ],
     },
     {
@@ -380,7 +382,7 @@ const content: FreelanceContent = {
       ["Accounts created in your name", "Domain, hosting, repository, push keys and Play Console (if needed) are registered to you, with us added as users."],
       ["Install the staging build", "From the first sprint you add the app to your own home screen and test it on your phone, including with airplane mode switched on."],
       ["Device testing and launch", "We test on a budget Android phone, a recent iPhone and desktop browsers, then go live and verify Google Search Console."],
-      ["Two months of free care", "Fixes, small changes and cache-rule updates are free for two months after launch; ongoing maintenance is optional from " + P.care + " a month."],
+      ["Two months of free care", "Fixes, small changes and cache-rule updates are free for two months after launch; ongoing maintenance is optional from " + P.care + "."],
     ],
   },
   faqHeading: "Progressive web app developer: common questions",
@@ -400,7 +402,7 @@ const content: FreelanceContent = {
     { question: "Who owns the code and data of my PWA?", answer: "You should own everything. With BtechWaleTech the domain, hosting, Git repository, push notification keys and any Play Console account are created in your name from the start. User data sits in a database on your hosting account. At handover you receive every login and a note on releasing updates safely." },
     { question: "What technology is used to build a PWA?", answer: "The PWA layer is standard web technology: a manifest file, a service worker, HTTPS and browser storage such as IndexedDB. The app itself can use Next.js, Astro, React, Angular or Vue on the front end and Node.js or Python on the back end. We commonly use Workbox for caching because it is well tested and readable." },
     { question: "Is a PWA safe for payments and user data?", answer: "Yes, when built properly. PWAs require HTTPS, payments happen online through a standard UPI and card checkout, and card details never sit in the browser cache. The developer must avoid caching private pages and clear local data at logout, especially for staff who share phones. We test both before launch." },
-    { question: "Can a freelancer maintain my PWA after launch?", answer: `Yes. BtechWaleTech includes two months of free maintenance covering fixes, small changes and cache-rule updates. After that, maintenance is optional from ${P.care} a month. Because the code and accounts are yours, you can also move maintenance to your own team or another developer at any time.` },
+    { question: "Can a freelancer maintain my PWA after launch?", answer: `Yes. BtechWaleTech includes two months of free maintenance covering fixes, small changes and cache-rule updates. After that, maintenance is optional from ${P.care}. Because the code and accounts are yours, you can also move maintenance to your own team or another developer at any time.` },
     { question: "Do PWAs use less data and phone storage than apps?", answer: "Usually, yes. A PWA installs almost instantly and takes a small fraction of the storage a typical store app uses, which matters on budget phones that are often full. After the first visit, cached screens load with very little data, helping prepaid users on limited daily plans." },
     { question: "PWA banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath PWA-ready simple website ${P.site} se shuru hoti hai. Login, database aur offline orders wala PWA web app ${P.software} se shuru hota hai aur 6–12 hafte lagte hain. Final kharcha screens aur features par depend karta hai. Pehle itemised quote milta hai, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "Can you build a PWA for clients outside India?", answer: `Yes. We work remotely with clients in the USA, UK, Canada, Australia, the UAE and elsewhere, billing in USD with PWA web apps from ${P.softwareUsd}. Progress is shared as an installable staging build, calls are scheduled in overlapping hours, and payments go through Wise, bank wire or PayPal.` },

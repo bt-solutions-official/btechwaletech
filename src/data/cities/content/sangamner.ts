@@ -7,7 +7,7 @@ const sangamner: CityContent = {
   meta: {
     title: "IT Services in Sangamner | Web, Apps & AI from ₹10,000",
     description:
-      "Marathi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sangamner dairy, sugar, garment, clinic, college and retail businesses.",
+      "Marathi websites, apps, Maps SEO and WhatsApp tools for Sangamner dairy, sugar, garment, clinic, college and retail businesses. Sites from ₹10,000.",
     keywords: [
       "IT services in Sangamner",
       "IT services team in Sangamner",
@@ -29,6 +29,12 @@ const sangamner: CityContent = {
       "Sangamner madhe website banvaychi aahe",
       "संगमनेर वेबसाइट डिझाइन",
       "Amrutnagar college website",
+      "Sangamner website designer",
+      "web development company Sangamner",
+      "hire freelance web developer Sangamner",
+      "Ahmednagar district SEO",
+      "website designer Ahmednagar district",
+      "Maharashtra SEO services",
     ],
   },
   hero: {

@@ -7,7 +7,7 @@ const sheikhpura: CityContent = {
   meta: {
     title: "IT Services in Sheikhpura: Websites, Apps, SEO & AI",
     description:
-      "Websites, Android and iOS apps, local SEO and WhatsApp automation for Sheikhpura crushers, Barbigha traders, coaching centres and clinics. Sites from ₹10,000.",
+      "Websites, apps, local SEO and WhatsApp automation for Sheikhpura crushers, Barbigha traders, coaching centres and clinics. Websites from ₹10,000.",
     keywords: [
       "IT services in Sheikhpura",
       "IT services team in Sheikhpura",
@@ -29,6 +29,12 @@ const sheikhpura: CityContent = {
       "Sheikhpura me website banwana",
       "Sheikhpura me app banwana",
       "शेखपुरा वेबसाइट डिज़ाइन",
+      "Sheikhpura website designer",
+      "web development company Sheikhpura",
+      "hire freelance web developer Sheikhpura",
+      "Bihar SEO services",
+      "Sheikhpura me website kaise banwaye",
+      "Sheikhpura website banwane ka kharcha",
     ],
   },
   hero: {
