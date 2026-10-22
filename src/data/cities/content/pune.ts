@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const pune: CityContent = {
   slug: "pune",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 18.5204, lng: 73.8567 },
   meta: {
-    title: "Pune Website Development & SEO | Sites from ₹10,000",
+    title: "Website Development Company in Pune | ₹10,000 Up",
     description:
-      "Websites, SEO, web apps and AI automation for Pune businesses by a remote team of three engineers. Sites from ₹10,000, free upkeep for 2 months.",
+      "Pune websites from ₹10,000, live in 1-2 weeks; 299+ page SEO sites from ₹20,000. You brief the three engineers who write the code, and you own it afterwards.",
     keywords: [
       "website development team in Pune",
       "web design team Pune",
@@ -45,7 +45,7 @@ const pune: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi and English SEO", "UPI checkout stores", "WhatsApp automation", "Custom web apps"],
   },
   quickAnswer:
-    "For a Pune business, a website with us starts at ₹10,000, and a 299+ page SEO website at ₹20,000, typically delivered within one to five weeks. Online stores start at ₹50,000 and custom web applications at ₹60,000. We are a remote three-engineer team with no Pune office, and two months of maintenance come free.",
+    "A Pune business website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, stores start at ₹50,000 and web applications at ₹60,000. We are three remote engineers with no Pune office, and two months of maintenance are free.",
   snapshot: [
     { label: "Business districts", value: "Deccan, FC Road, JM Road, Camp and MG Road, Koregaon Park, Baner and the old peth areas" },
     { label: "IT hubs", value: "Rajiv Gandhi Infotech Park in Hinjewadi, EON Free Zone and WTC in Kharadi, Magarpatta, SP Infocity at Phursungi" },
@@ -294,6 +294,11 @@ const pune: CityContent = {
       question: "What do you need from me to prepare a quote?",
       answer:
         "A short note on your business, what you offer, who your customers are and which parts of Pune you serve. Add your current website link if you have one, along with any logo, photos or brochure. We then send a page plan, timeline and itemised quote, usually within two working days.",
+    },
+    {
+      question: "We are a Pune business with no website yet. What do we actually need?",
+      answer:
+        "For most Pune shops, clinics and small manufacturers a static website from ₹10,000 is enough to start: a home page, what you sell, prices or a range, photos, a map, and a WhatsApp and phone button on every page, live in one to two weeks. Add the 299+ page SEO build from ₹20,000 only when you want to rank for many searches.",
     },
   ],
   nearby: ["talegaon-dabhade", "lonavla", "shirur", "sasvad", "satara", "ahmednagar", "phaltan", "mumbai"],

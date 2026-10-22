@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/traffic-drop-after-website-migration/",
   crumb: "Traffic drop after website migration",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Traffic Drop After Website Migration: Recover (2026)`,
-    description: `Traffic drop after website migration? Find the missing redirects, staging noindex and lost pages, then recover. Monthly SEO from ${P.seo}, itemised quote.`,
+    title: "Traffic Drop After Website Migration: Find and Fix It",
+    description: `Traffic dropped after a website migration? Check redirects, a staging noindex, lost pages and slower load — in that order. SEO recovery from ${P.seo}.`,
     keywords: [
       "traffic drop after website migration", "traffic drop after site migration", "seo traffic drop after migration", "organic traffic drop after redesign",
       "rankings dropped after website redesign", "traffic loss after replatforming", "traffic drop after changing hosting", "website migration seo recovery",
@@ -391,6 +391,8 @@ const content: FreelanceContent = {
     { question: "Migration ke baad traffic kam ho gaya, kya karein?", answer: "Pehle Search Console mein dekhiye ki purane URLs 404 de rahe hain ya nahi, aur live page ke source mein noindex toh nahi hai. Phir purane sitemap, database aur Wayback Machine se purane URLs nikaal kar har ek ko sahi naye page par 301 redirect kariye. Hum yeh kaam Hindi aur English dono mein samjha kar karte hain." },
     { question: "How do I prevent a traffic drop in my next migration?", answer: "Crawl and export every old URL before the move, save 16 months of Search Console data, write and review a redirect map, block staging with a password instead of noindex, test all redirects on staging and again right after launch, and keep redirects in place for at least a year. Launch in a quiet week so problems cost less." },
     { question: "Does a migration affect how AI assistants mention my business?", answer: "It can. AI Overviews draw on Google’s index, and other assistants reach pages through search and links. If your best explanatory pages return 404 or carry noindex after the move, they stop being available as sources. Restoring redirects, indexable HTML and structured data puts them back in the pool AI answers draw from." },
+    { question: "My site got slower after a hosting migration — is that the cause?", answer: "It can be. Slower responses mean Google crawls fewer URLs per visit, so a recovery that needs recrawling takes longer, and field Core Web Vitals worsen over the following weeks. Compare server response time and LCP before and after the move before you blame redirects, and fix the hosting first." },
+    { question: "Traffic held but conversions fell after the migration. What broke?", answer: "Usually tracking or the forms, not rankings. Check that analytics and ads tags survived the template change, that thank-you page events still fire, and that forms, WhatsApp links and payment steps work on mobile. A migration that keeps traffic and loses conversions is a measurement or checkout bug, not an SEO one." },
   ],
   related: {
     heading: "Related SEO recovery and migration pages",

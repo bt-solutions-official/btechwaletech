@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const dhubri: CityContent = {
   slug: "dhubri",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 26.02, lng: 89.98 },
   meta: {
-    title: "IT Services in Dhubri | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Dhubri | Sites ₹10,000, Apps ₹40,000",
     description:
       "Dhubri Bengali, Assamese and English websites, Android and iOS apps, local SEO and WhatsApp automation for traders, clinics, colleges and river businesses.",
     keywords: [

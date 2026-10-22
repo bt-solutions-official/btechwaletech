@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--telangana--hyderabad",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 17.385, lng: 78.4867 },
   meta: {
-    title: "Hyderabad IT Consulting: Pharma, GCC Vendors & Realty",
+    title: "Hyderabad IT Consulting: Web Apps from ₹60,000",
     description:
       "IT consulting in Hyderabad by a freelance team of three engineers: web apps, AI assistants, Android and iOS apps, plus cloud. From ₹10,000, quote in two days.",
     keywords: [
@@ -83,7 +83,7 @@ const content: CityContent = {
       paragraphs: [
         "An IT consulting engagement for a Hyderabad SME is a short, focused review of how the business runs today, ending in a written, costed plan of technology changes ranked by value. With us it is remote, takes a week or two of elapsed time, and the first call is free.",
         "We begin with three inputs: a screen-share walkthrough of your current process, sample documents or exports such as order sheets, invoices, reports and message threads, and a conversation with the staff who do the work daily. From these we map where information is typed twice, where it gets lost, and where customers wait.",
-        "The plan we send lists each recommended change with its purpose, estimated cost from our <a href='/pricing/'>starting prices</a>, timeline, dependencies and risks. It also names what not to build. Hyderabad has mature SaaS options for accounting, HR and simple CRM, and paying a subscription is often smarter than custom code. We sell no third-party products, so the advice stays neutral, and the plan is yours to use with any developer.",
+        "The plan we send lists each recommended change with its purpose, estimated cost from our <a href='/pricing/'>starting prices</a>, timeline, dependencies and risks. It also names what not to build. Hyderabad has mature SaaS options for accounting, HR and simple CRM, and paying a subscription is often smarter than custom code. We sell no third-party products, so the advice stays neutral, and the plan is yours to use with any developer. For build-only work, see <a href='/it-services/telangana/hyderabad/'>software developers in Hyderabad</a>, or the <a href='/it-services/telangana/'>Telangana IT services hub</a> for the rest of the state.",
       ],
     },
     {

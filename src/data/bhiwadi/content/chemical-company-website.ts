@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/chemical-company-website/",
   crumb: "Chemical company website",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
     title: `Chemical Company Website in Bhiwadi from ${P.site}`,
-    description: `Chemical company website in Bhiwadi from ${P.site}: product pages with CAS numbers, SDS library and RFQ forms. We meet you one to one at your plant.`,
+    description: `Chemical company website in Bhiwadi from ${P.site}, live in 1–2 weeks: a page per grade with CAS number and packing, searchable SDS and TDS library, RFQ form.`,
     keywords: [
       "chemical company website in Bhiwadi", "chemical company website", "chemical company website Bhiwadi Rajasthan",
       "chemical company website design near me", "chemical manufacturer website Bhiwadi", "pharma company website Bhiwadi",
@@ -50,7 +50,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does a chemical company website in Bhiwadi cost, and what should it include?",
-    text: `A chemical company website in Bhiwadi starts at ${P.site} for up to 100 pages and usually takes 1–2 weeks. It should give each product its own page with grade, CAS number, packing and applications, a searchable SDS and TDS library, and an RFQ form. Catalogues of 299+ pages start at ${P.seoSite}. We meet you face to face in Bhiwadi before quoting.`,
+    text: `From ${P.site} for up to 100 pages, usually live in 1–2 weeks; catalogues of 299+ pages start at ${P.seoSite}. A chemical company website in Bhiwadi should give each product its own page with grade, CAS number, packing and applications, plus a searchable SDS and TDS library and an RFQ form.`,
     more: `Selling mostly abroad? Read <a href='/bhiwadi-rajasthan/export-business-website/'>export websites for Bhiwadi units</a>. For hundreds of SKUs, see <a href='/bhiwadi-rajasthan/industrial-product-catalogue-website/'>catalogue websites with part-number search</a>.`,
   },
   snapshot: {

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/school-management-software/",
   crumb: "School management software",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `School Management Software in Bhiwadi from ${P.software}`,
-    description: `School management software in Bhiwadi for fees, attendance, exams and a parent app, from ${P.software}. We plan it one to one with you at your campus.`,
+    title: `School Management Software Bhiwadi: ${P.software}+`,
+    description: `School management software in Bhiwadi from ${P.software}, live in 6–12 weeks: admissions, fees with receipts and dues, attendance, exams and a parent app.`,
     keywords: [
       "school management software in Bhiwadi", "school management software Bhiwadi", "school ERP Bhiwadi", "school management software near me",
       "school management software in Bhiwadi Rajasthan", "school software Bhiwadi Alwar", "school ERP software Khairthal-Tijara",
@@ -49,7 +49,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does school management software in Bhiwadi cost, and what should it include?",
-    text: `Custom school management software in Bhiwadi from BtechWaleTech starts at ${P.software} and usually takes 6–12 weeks. The core covers admissions, student records, fee collection with receipts and dues, class attendance, exams and report cards, and staff records. A parent app for Android and iPhone starts at ${P.app}. Every quote is itemised after a face-to-face meeting at your school.`,
+    text: `From ${P.software} and usually 6–12 weeks. The core covers admissions and enquiry follow-up, student records, fee collection with receipts and dues, class attendance, exams and report cards, and staff records. A parent app for Android and iPhone starts at ${P.app}. Every quote is itemised after a visit to your campus.`,
     more: `Price ranges by module are in our <a href='/school-management-software-price/'>school management software price</a> guide, and the admission site parents search first is covered on <a href='/bhiwadi-rajasthan/school-website-design/'>school website design in Bhiwadi</a>.`,
   },
   snapshot: {
@@ -386,6 +386,7 @@ const content: FreelanceContent = {
   faqHeading: "School management software in Bhiwadi: questions schools ask",
   faqs: [
     { question: "How much does school management software cost in Bhiwadi?", answer: `With BtechWaleTech a custom school ERP covering admissions, student records, fees and attendance starts at ${P.software}. Exams, report cards, transport and library are priced as separate lines. A parent app for Android and iPhone starts at ${P.app}. Hosting, domain and WhatsApp message charges are paid by the school directly. You get an itemised quote about two working days after we meet at your campus.` },
+    { question: "Does it handle admissions for a private school?", answer: "Yes, and admissions is usually the first module we build. It takes an enquiry from your website or a walk-in entry, schedules follow-up calls with reminders, issues a registration number, holds a document checklist with uploads, records the entrance or interview result, raises a fee quotation, and converts the applicant into a student record with a section allotted. You also get an enquiry-to-admission report by class and source." },
     { question: "How long does it take to set up a school ERP?", answer: "Usually six to twelve weeks from the signed scope to full use. A focused first version with fees and attendance can go live in six to eight weeks; adding exams, report cards, transport and the app takes longer. Cleaning the old student list is often the slowest part, so start early and aim to finish before the April session." },
     { question: "Do you come to our school in Bhiwadi for a meeting?", answer: "Yes. We meet you face to face at your campus in Bhiwadi, with the principal, accountant, exam in-charge and a teacher, and look at the fee counter, registers and report cards. Tell us a date and time on WhatsApp or by phone and we fix a slot that suits both sides. More meetings can be arranged for sign-off and training." },
     { question: "Can we work with you remotely instead of meeting?", answer: "You can. Some schools prefer video calls and WhatsApp, sharing photos of registers and report cards. We still recommend one in-person meeting in Bhiwadi before scoping, because watching the fee counter and seeing real paperwork catches exceptions that never come up on a call. After that, most of the build runs remotely with staging links." },

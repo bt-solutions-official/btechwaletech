@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const ponnur: CityContent = {
   slug: "ponnur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 16.0667, lng: 80.5667 },
   meta: {
-    title: "IT Services in Ponnur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Ponnur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Telugu and English websites, apps and SEO for Ponnur rice mills, farm traders, weavers, brick kilns, clinics and schools. Websites from ₹10,000.",
     keywords: [

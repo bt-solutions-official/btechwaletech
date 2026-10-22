@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/wordpress-website-design/",
   crumb: "WordPress website design Australia",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `WordPress Website Design Australia from ${P.site}`,
-    description: `WordPress website design for Australian small businesses: fast block themes, Sydney hosting, WCAG 2.2 AA basics and training you can use. Sites from ${P.site}.`,
+    title: `WordPress Website Design Australia, from ${P.site}`,
+    description: `WordPress website design for Australian small businesses: fast block themes, Sydney hosting, WCAG 2.2 AA basics and training you can use. From ${P.site}.`,
     keywords: [
       "wordpress website design australia", "wordpress website design", "wordpress web design australia", "wordpress web designer australia",
       "wordpress developer australia", "wordpress website for small business australia", "custom wordpress website australia",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "edit my own wordpress website", "wordpress designer near me", "freelance wordpress designer australia",
       "remote wordpress developer", "wordpress site with enquiry form", "is wordpress good for small business",
       "hire wordpress website design in Australia",
+      "freelance wordpress developer australia", "wordpress web design hobart", "wordpress training australia", "wordpress website designer perth",
     ],
   },
   hero: {

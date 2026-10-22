@@ -11,16 +11,17 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/temple-trust-website-gujarat/",
   crumb: "Temple trust website in Gujarat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Temple Trust Website in Gujarat from ${P.site}`,
-    description: `Temple trust website in Gujarat: darshan timings, festival calendar, donations with receipts and live aarti streams. Trust sites from ${P.site}, 2-day quote.`,
+    title: `Temple Trust Website in Gujarat: Donation Receipts, ${P.site}`,
+    description: `Temple trust website in Gujarat: darshan and aarti timings, festival calendar, online donations that issue receipts in the trust's name, live aarti streams.`,
     keywords: [
       "temple trust website in Gujarat", "temple website Gujarat", "mandir trust website", "temple website development Gujarat", "temple donation website",
       "online donation website for temple", "temple live darshan website", "temple trust website near me", "Gujarat temple website developer", "jain derasar website",
       "haveli website design", "Swaminarayan temple website design", "temple website cost India", "temple website price Gujarat", "80G donation receipt website",
       "temple event calendar website", "aarti live stream website", "temple guest house booking website", "samaj trust website Gujarat", "mandir ki website kaise banaye",
       "temple ki website banwana hai", "temple trust website Ahmedabad", "temple website Saurashtra", "Gujarati temple website", "temple seva booking website",
+      "temple trust website donation receipt", "online donation website for temple Gujarat", "seva booking website temple",
     ],
   },
   hero: {

@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const tiruvannamalai: CityContent = {
   slug: "tiruvannamalai",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 12.2253, lng: 79.0747 },
   meta: {
-    title: "Tiruvannamalai Web Design & SEO | Sites ₹10,000 Onward",
+    title: "Website Design in Tiruvannamalai | From ₹10,000",
     description:
-      "Websites, SEO and stores for Tiruvannamalai lodges, ashram-area cafés, pilgrim services, clinics, colleges and Arani silk sellers. Websites from ₹10,000.",
+      "Tiruvannamalai websites from ₹10,000, live in 1-2 weeks, with Tamil SEO. Booking pages and stores for lodges, ashram cafés, clinics and Arani silk sellers.",
     keywords: [
       "website development team in Tiruvannamalai",
       "web designer Tiruvannamalai",

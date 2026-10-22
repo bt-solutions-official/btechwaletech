@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const suratgarh: CityContent = {
   slug: "suratgarh",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 29.3177, lng: 73.8989 },
   meta: {
-    title: "IT Services in Suratgarh | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Suratgarh | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, Maps SEO and WhatsApp automation for Suratgarh cotton and grain traders, brick kilns, clinics, schools and dealers. From ₹10,000.",
     keywords: [

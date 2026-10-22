@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/ai-sales-agent/",
   crumb: "AI sales agent",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `AI Sales Agent for Indian Businesses from ${P.ai}`,
-    description: `An AI sales agent that replies in seconds, quotes from your real price list, books meetings and updates your CRM. Builds from ${P.ai}, live in 2–4 weeks.`,
+    description: `${P.ai} to build: replies in seconds, quotes from your real price list, books meetings and updates your CRM. Live in 2–4 weeks, running costs shown up front.`,
     keywords: [
       "ai sales agent", "ai sales agent India", "ai sales agent for small business", "ai sales assistant", "ai sdr", "ai sales rep",
       "whatsapp ai sales agent", "ai agent for sales follow up", "ai sales agent cost", "ai sales agent price in India", "what is an ai sales agent",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "ai sales agent company in India",
       "best ai sales agent in India",
       "ai sales agent services",
+      "automated sales agent whatsapp",
     ],
   },
   hero: {

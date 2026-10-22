@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--madhya-pradesh",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 23.4733, lng: 77.947 },
   meta: {
-    title: "Madhya Pradesh IT Services: Apps & AI",
+    title: "IT Services in Madhya Pradesh from ₹10,000",
     description:
       "Freelance IT services in Madhya Pradesh: custom software, web and mobile apps, AI automation, dashboards, SEO and ecommerce for MP firms. Sites from ₹10,000.",
     keywords: [

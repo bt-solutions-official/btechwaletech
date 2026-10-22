@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/ayurvedic-clinic-website-design/",
   crumb: "Ayurvedic clinic website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Ayurvedic Clinic Website Design from ${P.site}`,
-    description: `Ayurvedic clinic website design from ${P.site}: panchakarma package pages, stay + treatment booking, BAMS profiles and careful claims. Quote in 2 days.`,
+    description: `Panchakarma package pages, stay plus treatment booking, BAMS doctor profiles and carefully worded claims. Sites from ${P.site}, live in 1–2 weeks.`,
     keywords: [
       "ayurvedic clinic website design", "ayurveda website design", "panchakarma centre website", "ayurvedic hospital website",
       "ayurveda resort website design", "ayurvedic wellness centre website", "website for ayurvedic doctor",
@@ -27,6 +27,7 @@ const content: FreelanceContent = {
       "ayurvedic clinic website design company in India",
       "best ayurvedic clinic website design in India",
       "ayurvedic clinic website design services",
+      "ayurvedic clinic website design india", "ayurveda website development india",
     ],
   },
   hero: {

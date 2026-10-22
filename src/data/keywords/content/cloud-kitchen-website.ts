@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/cloud-kitchen-website/",
   crumb: "Cloud kitchen website",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Cloud Kitchen Website for Direct Orders from ${P.shop}`,
-    description: `Cloud kitchen website for direct, commission-free orders: ordering sites from ${P.shop}, WhatsApp menus from ${P.site}. Multi-brand menus, UPI, quote in 2 days.`,
+    title: `Cloud Kitchen Website for Direct Orders, ${P.shop}+`,
+    description: `Take commission-free orders for one brand or many: full menus, UPI checkout, delivery zones. Ordering sites from ${P.shop}, WhatsApp menus from ${P.site}.`,
     keywords: [
       "cloud kitchen website", "cloud kitchen website development", "cloud kitchen ordering website", "zero commission ordering website",
       "direct ordering website for restaurants", "cloud kitchen website cost", "cloud kitchen website price India", "ghost kitchen website",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "cloud kitchen website company in India",
       "best cloud kitchen website in India",
       "cloud kitchen website services",
+      "multi brand cloud kitchen ordering site", "commission free food ordering website",
     ],
   },
   hero: {

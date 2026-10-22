@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const cherthala: CityContent = {
   slug: "cherthala",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 9.6869, lng: 76.3361 },
   meta: {
-    title: "IT Services in Cherthala | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Cherthala | Sites ₹10,000, Apps ₹40,000",
     description:
       "Cherthala websites, Android and iOS apps, local SEO and WhatsApp automation for coir exporters, seafood units, Arthunkal stays, colleges and NH 66 shops.",
     keywords: [

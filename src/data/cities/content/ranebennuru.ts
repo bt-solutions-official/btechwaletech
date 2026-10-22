@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const ranebennuru: CityContent = {
   slug: "ranebennuru",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 14.623, lng: 75.621 },
   meta: {
-    title: "IT Services in Ranebennuru: Websites, Apps, SEO & AI",
+    title: "Website Design in Ranebennuru | From ₹10,000",
     description:
-      "Websites for Ranebennuru seed companies, cotton and APMC traders, clinics, colleges and shops, with Kannada pages, Maps work and WhatsApp tools. From ₹10,000.",
+      "Ranebennuru websites from ₹10,000, live in 1-2 weeks, with Kannada pages. Maps work and WhatsApp tools for seed firms, APMC traders, clinics and colleges.",
     keywords: [
       "website development team in Ranebennuru",
       "website design Ranebennur",
@@ -45,7 +45,7 @@ const ranebennuru: CityContent = {
     pills: ["Websites from ₹10,000", "Kannada and English pages", "Seed company websites", "APMC trader tools", "2 months free maintenance"],
   },
   quickAnswer:
-    "For Ranebennuru businesses, our static websites start at ₹10,000 and are ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000, and an online store at ₹50,000. We are a remote team without an office in Ranebennuru, and maintenance is free for two months after launch.",
+    "A Ranebennuru website starts at ₹10,000 and goes live in one to two weeks, in Kannada, English or both. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and stores start at ₹50,000. We are three remote engineers, and two months of upkeep are free after launch.",
   snapshot: [
     { label: "Position", value: "Largest town in Haveri district, on NH48 and the Bengaluru–Hubballi rail line, near the Tungabhadra" },
     { label: "Seeds", value: "Known as a hybrid seed production hub, with vegetable and field-crop seed companies and R&D units" },

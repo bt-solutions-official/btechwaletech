@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const anand: CityContent = {
   slug: "anand",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 22.556, lng: 72.951 },
   meta: {
-    title: "Anand Web Design & SEO for Dairy, GIDC & Colleges",
+    title: "Website Design Company in Anand | From ₹10,000",
     description:
-      "Websites, local SEO and WhatsApp automation for Anand dairy suppliers, GIDC units, Vidyanagar institutes, clinics and NRI-facing firms. Sites from ₹10,000.",
+      "Anand websites from ₹10,000, live in 1-2 weeks, with Gujarati SEO. Built for dairy suppliers, GIDC units, Vidyanagar institutes, clinics and NRI-facing firms.",
     keywords: [
       "website development team in Anand",
       "web designer Anand Gujarat",
@@ -43,7 +43,7 @@ const anand: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and English SEO", "GIDC supplier catalogues", "Student and NRI enquiries", "Free upkeep for two months"],
   },
   quickAnswer:
-    "An Anand business website starts at ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We are remote, with no Anand office, and you own the domain and code.",
+    "An Anand business website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and stores start at ₹50,000. Gujarati pages are included where they help, and the first two months of maintenance cost nothing.",
   snapshot: [
     { label: "Known as", value: "The milk capital of India, home to Amul, GCMMF headquarters, NDDB and Vidya Dairy" },
     { label: "Education hub", value: "Vallabh Vidyanagar with Sardar Patel University, CVM University and BVM, Gujarat's first engineering college" },

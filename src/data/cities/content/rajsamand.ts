@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const rajsamand: CityContent = {
   slug: "rajsamand",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 25.07, lng: 73.88 },
   meta: {
-    title: "IT Services in Rajsamand | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Rajsamand | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi and English websites, apps and SEO for Rajsamand marble units, tyre-belt suppliers, hotels, pilgrims and shops. Sites from ₹10,000, yours to keep.",
     keywords: [

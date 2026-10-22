@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/b2b-portal-development/",
   crumb: "B2B portal development company",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `B2B Portal Development Germany: Portals from ${P.software}`,
-    description: `B2B portal development company for German manufacturers and wholesalers: dealer pricing, reorder, ERP sync, EU hosting. Custom portals from ${P.software}.`,
+    title: `B2B Portal Development Germany: ERP-Linked, ${P.software}+`,
+    description: `B2B portal development for German manufacturers and wholesalers: dealer pricing, fast reorder, ERP and JTL sync, EU hosting. Portals from ${P.software}.`,
     keywords: [
       "b2b portal development company", "b2b portal development", "b2b customer portal", "dealer portal development",
       "b2b portal germany", "b2b portal for manufacturers", "b2b portal for wholesalers", "b2b ordering portal",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "b2b portal gdpr hosting frankfurt", "b2b portal development munich", "b2b portal development stuttgart", "b2b portal development hamburg",
       "outsource b2b portal development to india", "what is a b2b portal", "rfq portal for manufacturers", "b2b portal for mittelstand",
       "hire b2b portal development in Germany", "freelance b2b portal development Germany",
+      "b2b portal entwicklung", "b2b marketplace development", "jtl wawi schnittstelle", "b2b shop germany", "kundenportal entwicklung",
     ],
   },
   hero: {

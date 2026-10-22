@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const dhenkanal: CityContent = {
   slug: "dhenkanal",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 20.6597, lng: 85.5957 },
   meta: {
-    title: "IT Services in Dhenkanal | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Dhenkanal | Sites ₹10,000, Apps ₹40,000",
     description:
       "Dhenkanal's Odia websites, mobile apps, local SEO and WhatsApp bots for industrial suppliers, dokra and brass makers, colleges and clinics. From ₹10,000.",
     keywords: [

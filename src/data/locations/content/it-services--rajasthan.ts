@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--rajasthan",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 27.0238, lng: 74.2179 },
   meta: {
-    title: "Rajasthan IT Services: Software & Apps",
+    title: "IT Services in Rajasthan: Sites from ₹10,000",
     description:
       "Freelance IT services in Rajasthan: software, Android and iOS apps, AI automation, SEO and stores for Jaipur, Jodhpur, Kota, Udaipur and Ajmer. From ₹10,000.",
     keywords: [
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "Rajasthan businesses most often need four kinds of IT services: software that organises orders, production and stock; apps and automation that handle customer and student communication; online stores and export-ready websites that reach buyers beyond the state; and search visibility that brings enquiries without paying commission to every portal.",
         "The mix differs by city. Jaipur's jewellers, textile printers and startups want order trackers, catalogues and ecommerce. Jodhpur's handicraft and furniture exporters want production and shipment tracking. Kota's coaching institutes and hostels want student apps and admission systems. Udaipur and Jaisalmer's hotels want booking engines and guest communication. Ajmer and Pushkar serve pilgrims and tourists who book on phones.",
-        "BtechWaleTech handles all of this remotely. Our <a href='/services/'>service list</a> covers custom software, web applications, Android and iOS apps, AI agents, WhatsApp and CRM automation, dashboards, cloud hosting, ecommerce, SEO and ongoing maintenance, each quoted in writing before work begins.",
+        "BtechWaleTech handles all of this remotely. Our <a href='/services/'>service list</a> covers custom software, web applications, Android and iOS apps, AI agents, WhatsApp and CRM automation, dashboards, cloud hosting, ecommerce, SEO and ongoing maintenance, each quoted in writing before work begins. If you want advice before any build, such as an architecture review, a cloud cost audit and a written roadmap, read <a href='/india/rajasthan/'>IT consulting in Rajasthan</a>. Pilgrimage and tourism businesses can read our <a href='/it-services/rajasthan/ajmer/'>Ajmer IT services page</a>.",
       ],
       list: [
         "Software: orders, production, inventory, export and hotel operations",
@@ -130,7 +130,7 @@ const content: CityContent = {
       id: "hotel-tourism-software-rajasthan",
       heading: "Booking and operations software for Rajasthan's heritage hotels and tour operators",
       paragraphs: [
-        "Booking and operations software for a Rajasthan hotel or tour operator manages room inventory, seasonal rates, direct bookings with advance payment, guest communication, housekeeping and vehicle or guide scheduling. From havelis in Jaipur to lake-view hotels in Udaipur and desert camps near Jaisalmer, properties lose margin to commissions and lose guests to slow replies.",
+        "Booking and operations software for a Rajasthan hotel or tour operator manages room inventory, seasonal rates, direct bookings with advance payment, guest communication, housekeeping and vehicle or guide scheduling. From havelis in Jaipur to lake-view hotels in <a href='/it-services/rajasthan/udaipur/'>Udaipur</a> and desert camps near Jaisalmer, properties lose margin to commissions and lose guests to slow replies.",
         "A direct booking engine on your own website lets guests pay an advance by UPI or card through a payment gateway account in your name. Seasonal pricing handles the October to March peak, Pushkar fair dates and wedding season. Tour operators can schedule cars, drivers and guides across multi-city circuits such as Jaipur, Jodhpur, Jaisalmer and Udaipur.",
         "Guest confirmations, pre-arrival messages and post-stay review requests can be automated on WhatsApp and email. Builds start at ₹60,000, and AI enquiry automation from ₹40,000.",
       ],
@@ -143,7 +143,7 @@ const content: CityContent = {
         "Kota is the clearest example of app demand in the state: coaching institutes and hostels serve students from across India, and parents want updates. A coaching app can deliver timetables, test results, doubt-session bookings, attendance and fee reminders, while a hostel app can handle room allotment, mess menus, complaints and parent notifications. Elsewhere, Jaipur and Jodhpur exporters use private catalogue apps for buyers and dealer ordering apps, hotels offer booking and concierge apps to repeat guests, and FMCG brands from Bikaner give distributors an ordering app.",
         "We check whether an app will be opened regularly before recommending it; for occasional visitors, a fast mobile website is cheaper and better. Apps share one backend with your website and software, work on low-cost Android handsets, and include two months of post-launch fixes."],
       list: [
-        "Coaching and hostel apps for Kota students and parents",
+        "Coaching and hostel apps for <a href='/it-services/rajasthan/kota/'>Kota</a> students and parents",
         "Private catalogue and dealer ordering apps for exporters",
         "Booking and concierge apps for heritage hotels",
         "Distributor ordering apps for namkeen and FMCG brands",
@@ -247,7 +247,7 @@ const content: CityContent = {
       heading: "IT solutions across Rajasthan's cities",
       paragraphs: [
         "BtechWaleTech serves every Rajasthan district remotely, with dedicated pages for key cities. <a href='/it-services/rajasthan/jaipur/'>Jaipur</a> covers software for jewellers, textile printers, hotels and startups. <a href='/it-services/rajasthan/jodhpur/'>Jodhpur</a> covers handicraft and furniture exporters, guar and spice traders and hotels.",
-        "For website-focused pages, see <a href='/jaipur/'>Jaipur</a>, <a href='/jodhpur/'>Jodhpur</a>, <a href='/udaipur/'>Udaipur</a>, <a href='/ajmer/'>Ajmer</a> and <a href='/bikaner/'>Bikaner</a>. Prices, engineers and response times are identical everywhere. Other states are listed in the <a href='/it-services/'>IT services directory</a>.",
+        "For website-focused pages, see <a href='/jaipur/'>Jaipur</a>, <a href='/jodhpur/'>Jodhpur</a>, <a href='/udaipur/'>Udaipur</a>, <a href='/ajmer/'>Ajmer</a> and <a href='/bikaner/'>Bikaner</a>. Prices, engineers and response times are identical everywhere. Other states are listed in the <a href='/it-services/'>IT services directory</a>. A consulting-led page for <a href='/india/rajasthan/jaipur/'>Jaipur</a> sits under our India locations section.",
       ],
     },
   ],

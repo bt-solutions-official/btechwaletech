@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/excel-to-tally-import/",
   crumb: "Excel to Tally import",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Excel to Tally Import, No Duplicates, from ${P.ai}`,
-    description: `Excel to Tally import for sales, purchase, journal and ledger data, with GST and HSN mapping and checks before import, so no duplicate vouchers. From ${P.ai}.`,
+    description: `Import sales, purchase, journal and ledger data into Tally with GST and HSN mapping, plus a duplicate check before anything posts. Tools from ${P.ai}.`,
     keywords: [
       "excel to tally import", "import excel to tally prime", "excel to tally", "how to import excel data in tally prime",
       "import sales voucher from excel to tally", "import purchase voucher from excel to tally", "import journal entries excel to tally",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "gst invoice import excel to tally", "hsn mapping tally import", "excel to tally for ca firms", "excel to tally import near me",
       "excel to tally import Mumbai", "excel to tally import Delhi", "excel to tally import Kolkata", "excel se tally mein data kaise import kare",
       "excel to tally converter", "tally data import service", "large excel import tally",
+      "tally excel import tool", "tally integration with excel", "pdf to tally import",
     ],
   },
   hero: {

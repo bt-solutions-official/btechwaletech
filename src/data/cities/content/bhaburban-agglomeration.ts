@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const bhabua: CityContent = {
   slug: "bhaburban-agglomeration",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 25.05, lng: 83.62 },
   meta: {
-    title: "IT Services in Bhabua | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Bhabua | Sites ₹10,000, Apps ₹40,000",
     description:
       "Bhabua Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for rice mills, grain traders, coaching centres and clinics. Live in 2 weeks.",
     keywords: [

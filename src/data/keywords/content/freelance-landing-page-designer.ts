@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-landing-page-designer/",
   crumb: "Freelance landing page designer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
     title: `Freelance Landing Page Designer: Pages from ${P.site}`,
-    description: `Freelance landing page designer for ads, launches and lead generation: copy, layout, CRO and A/B testing. Pages from ${P.site}, live in 1–2 weeks.`,
+    description: `Copy, layout, CRO and A/B testing for ad campaigns, launches and lead generation. Landing pages from ${P.site}, live in 1–2 weeks, built to be measured.`,
     keywords: [
       "freelance landing page designer", "freelance landing page designer India", "landing page designer near me", "landing page designer for hire",
       "hire landing page designer", "landing page design cost", "landing page design price India", "best landing page designer",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "lead generation landing page", "product launch landing page", "landing page redesign", "landing page Figma to code",
       "high converting landing page India", "landing page designer freelancer",
       "hire freelance landing page designer",
+      "landing page design cost india", "cro landing page freelancer",
     ],
   },
   hero: {

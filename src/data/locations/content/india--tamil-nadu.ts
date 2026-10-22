@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--tamil-nadu",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 11.1271, lng: 78.6569 },
   meta: {
-    title: "Tamil Nadu IT Consulting: Automotive, Knitwear & Pumps",
+    title: "Tamil Nadu IT Consulting & Software from ₹10,000",
     description:
       "Freelance IT consulting in Tamil Nadu for auto suppliers, knitwear exporters, dealers and clinics: apps, AI and SEO. From ₹10,000, quote in 2 days.",
     keywords: [
@@ -83,7 +83,7 @@ const content: CityContent = {
       paragraphs: [
         "Digital transformation for a Tamil Nadu MSME is the gradual move of everyday work, such as orders, production, service calls, collections and customer communication, from paper, phone calls and memory into connected software that staff actually use. It is measured by hours saved and mistakes avoided, not by how many tools were bought.",
         "The starting point differs across the state. A Hosur component supplier might already use an ERP but still exchange quality documents by email attachments. A Tiruppur knitwear exporter might track every order in one large Excel file that only the merchandiser understands. A Madurai hospital might have billing software but manage appointments on a notebook at reception. Each of these needs a different first step.",
-        "We treat IT consulting as the way to find that step. After one or two conversations, we write down which process causes the most delay, cost or customer frustration, what technology would fix it, and what it would cost using our <a href='/pricing/'>published starting prices</a>. Then we build it, train the people who use it, and only after it has settled do we talk about the next piece. This paced approach suits the careful way many Tamil Nadu owners prefer to adopt change.",
+        "We treat IT consulting as the way to find that step. After one or two conversations, we write down which process causes the most delay, cost or customer frustration, what technology would fix it, and what it would cost using our <a href='/pricing/'>published starting prices</a>. Then we build it, train the people who use it, and only after it has settled do we talk about the next piece. This paced approach suits the careful way many Tamil Nadu owners prefer to adopt change. For the delivery side of the same work, with city pages and published starting prices, see <a href='/it-services/tamil-nadu/'>IT services in Tamil Nadu</a>.",
       ],
     },
     {

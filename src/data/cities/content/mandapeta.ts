@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const mandapeta: CityContent = {
   slug: "mandapeta",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 16.87, lng: 81.93 },
   meta: {
-    title: "IT Services in Mandapeta | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Mandapeta | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, local SEO and WhatsApp automation for Mandapeta rice millers, poultry farms, traders, clinics and schools in the Godavari delta. From ₹10,000.",
     keywords: [

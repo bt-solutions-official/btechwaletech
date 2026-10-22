@@ -2,7 +2,7 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--maharashtra--pune",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 18.5204, lng: 73.8567 },
   meta: {
     title: "Pune Software & AI Developers: SaaS & Auto Parts",
@@ -253,7 +253,7 @@ const content: CityContent = {
       paragraphs: [
         "Every Pune project includes two months of free maintenance after launch, covering fixes, small changes, security updates, backups and uptime checks, with optional support from ₹8,000 a month afterwards. You own the repositories, cloud accounts, domains, app store listings and all logins.",
         "Support is remote over WhatsApp, calls and screen share, seven days a week. We have no office in Pune; the engineers who built your system answer your messages. Larger features are quoted before work begins.",
-        "Documentation and clean code let your future hires or another vendor continue without rebuilding. Our <a href='/it-services/maharashtra/'>Maharashtra hub</a> covers the state, with sibling pages for <a href='/it-services/maharashtra/mumbai/'>Mumbai</a> and <a href='/it-services/maharashtra/nagpur/'>Nagpur</a>, and nearby <a href='/satara/'>Satara</a> and <a href='/ahmednagar/'>Ahmednagar</a> are served the same way. Read <a href='/about/'>about the team</a> or use the <a href='/contact/'>contact page</a>.",
+        "Documentation and clean code let your future hires or another vendor continue without rebuilding. Our <a href='/it-services/maharashtra/'>Maharashtra hub</a> covers the state, with sibling pages for <a href='/it-services/maharashtra/mumbai/'>Mumbai</a> and <a href='/it-services/maharashtra/nagpur/'>Nagpur</a>, and nearby <a href='/satara/'>Satara</a> and <a href='/ahmednagar/'>Ahmednagar</a> are served the same way. Read <a href='/about/'>about the team</a> or use the <a href='/contact/'>contact page</a>. If you want the consulting side first, a review and a written roadmap before any build, read <a href='/india/maharashtra/pune/'>IT consulting in Pune</a>.",
       ],
     },
   ],

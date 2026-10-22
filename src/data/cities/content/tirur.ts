@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const tirur: CityContent = {
   slug: "tirur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 10.9, lng: 75.9167 },
   meta: {
-    title: "IT Services in Tirur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Tirur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Malayalam websites, apps, local SEO and WhatsApp tools for Tirur electronics dealers, fish and betel traders, colleges and clinics. Sites from ₹10,000.",
     keywords: [

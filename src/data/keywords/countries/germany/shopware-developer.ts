@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/shopware-developer/",
   crumb: "Hire Shopware developer",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Hire Shopware Developer for Shopware 6 from ${P.shop}`,
-    description: `Hire Shopware developer help for a Shopware 6 shop in Germany: stores from ${P.shop}, checkout law built in, plugins, themes and upkeep, quoted in 2 days.`,
+    title: `Shopware 6 Developer for Hire: Shops from ${P.shop}`,
+    description: `Hire a Shopware 6 developer for a German shop: plugins, Twig themes, checkout law built in and ongoing care. Stores from ${P.shop}, itemised quote in 2 days.`,
     keywords: [
       "hire shopware developer", "hire a shopware developer", "shopware developer germany", "shopware 6 developer", "shopware freelancer",
       "shopware developer for hire", "remote shopware developer", "shopware plugin developer", "shopware theme developer", "shopware agency alternative",
@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "shopware rise evolve beyond", "shopware developer india", "shopware developer berlin", "shopware developer hamburg", "shopware developer munich",
       "shopware developer cologne", "shopware button solution zahlungspflichtig bestellen", "shopware withdrawal button", "shopware paypal setup",
       "shopware maintenance retainer", "offshore shopware development", "who can build my shopware shop",
+      "shopware developer freelance", "hire freelance twig developer", "shopware ontwikkelaar", "shopware entwickler", "shopware migration",
     ],
   },
   hero: {

@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const kalpi: CityContent = {
   slug: "kalpi",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 26.1167, lng: 79.7333 },
   meta: {
-    title: "IT Services in Kalpi | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Kalpi | Sites ₹10,000, Apps ₹40,000",
     description:
       "Kalpi Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for handmade paper units, grain traders, schools, clinics and shops on NH 27.",
     keywords: [

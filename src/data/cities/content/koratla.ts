@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const koratla: CityContent = {
   slug: "koratla",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 18.8214, lng: 78.7119 },
   meta: {
-    title: "IT Services in Koratla | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Koratla | Sites ₹10,000, Apps ₹40,000",
     description:
       "Koratla Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for mango and turmeric traders, rice mills, clinics, colleges and shops.",
     keywords: [

@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--maharashtra--mumbai",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 19.076, lng: 72.8777 },
   meta: {
-    title: "Mumbai App & Software Developers: CRMs, Apps & AI Agents",
+    title: "Mumbai Software Developers: Apps from ₹40,000",
     description:
       "Hire freelance software developers in Mumbai for custom software, Android and iOS apps, plus AI agents. Apps from ₹40,000, itemised quote in 2 days.",
     keywords: [
@@ -240,7 +240,7 @@ const content: CityContent = {
       paragraphs: [
         "Every Mumbai project includes two months of free maintenance after launch, covering fixes, small changes, security updates, backups and uptime checks, with optional support from ₹8,000 a month afterwards. You own the code, cloud account, domain, app store listings and all logins.",
         "Support is remote over WhatsApp, calls and screen share, seven days a week. We have no office in Mumbai and do not claim one; the engineers who built your system answer your messages. Larger changes are quoted before work begins.",
-        "Documentation at handover lets another developer continue if needed. Our <a href='/it-services/maharashtra/'>Maharashtra IT services hub</a> covers the state, with a sibling page for <a href='/it-services/maharashtra/pune/'>Pune</a>, and nearby <a href='/thane/'>Thane</a> and <a href='/mira-bhayandar/'>Mira-Bhayandar</a> are served the same way. Start on the <a href='/contact/'>contact page</a>.",
+        "Documentation at handover lets another developer continue if needed. Our <a href='/it-services/maharashtra/'>Maharashtra IT services hub</a> covers the state, with a sibling page for <a href='/it-services/maharashtra/pune/'>Pune</a>, and nearby <a href='/thane/'>Thane</a> and <a href='/mira-bhayandar/'>Mira-Bhayandar</a> are served the same way. Start on the <a href='/contact/'>contact page</a>. If you want the consulting side first, a review and a written roadmap before any build, read <a href='/india/maharashtra/mumbai/'>IT consulting in Mumbai</a>.",
       ],
     },
   ],

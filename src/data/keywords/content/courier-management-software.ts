@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/courier-management-software/",
   crumb: "Courier management software",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Courier Management Software: AWB to COD, ${P.software}+`,
-    description: `Courier management software for courier companies and franchises: AWB labels, manifests, hub scans, delivery app with POD, COD reconciliation. From ${P.software}.`,
+    description: `AWB labels, manifests, hub scans, a delivery app with proof of delivery and COD reconciliation for courier firms and franchises. From ${P.software}, 6–12 weeks.`,
     keywords: [
       "courier management software", "courier management software India", "courier software for franchise", "courier booking software",
       "awb generation software", "courier manifest software", "hub scanning software", "courier delivery boy app",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "courier management software near me", "run sheet app for couriers", "courier api for ecommerce clients",
       "courier management software company in India",
       "best courier management software in India",
+      "delivery boy management system", "courier franchise software",
     ],
   },
   hero: {

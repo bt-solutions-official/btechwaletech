@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/seed-agro-company-website-gujarat/",
   crumb: "Seed and agro company website in Gujarat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Seed and Agro Company Website in Gujarat from ${P.site}`,
-    description: `Seed and agro company website in Gujarat: variety pages, dealer locator, dealer logins and Gujarati pages for farmers. Sites from ${P.site}, built remotely.`,
+    title: `Seed & Agro Company Website in Gujarat from ${P.site}`,
+    description: `Seed and agro company website in Gujarat: a page per variety, a dealer locator, dealer logins and Gujarati pages farmers can read. Sites from ${P.site}.`,
     keywords: [
       "seed and agro company website in Gujarat", "seed company website Gujarat", "agro company website Gujarat", "agro input company website",
       "fertiliser company website Gujarat", "pesticide company website design", "crop protection company website", "seed company website design India",

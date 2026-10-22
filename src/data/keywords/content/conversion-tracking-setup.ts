@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/conversion-tracking-setup/",
   crumb: "Conversion tracking setup",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: "Conversion Tracking Setup: Count Every Lead (2026)",
-    description: `Conversion tracking setup for forms, WhatsApp, calls, purchases and offline sales, checked against real enquiries. SEO from ${P.seo}; quote in 2 days.`,
+    title: `Conversion Tracking Setup: Count Every Lead (2026)`,
+    description: `Track confirmed forms, WhatsApp and call clicks, purchases and offline sales without double counting, then reconcile totals against real enquiries monthly.`,
     keywords: [
       "conversion tracking setup", "conversion tracking setup service", "conversion tracking setup India", "website conversion tracking",
       "lead tracking setup", "Google Ads conversion tracking setup", "Meta pixel conversion tracking setup", "WhatsApp click tracking",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "conversion tracking Delhi", "lead tracking kaise kare", "Meta Conversions API deduplication", "GCLID capture form",
       "conversion tracking setup company in India",
       "best conversion tracking setup in India",
+      "whatsapp conversion tracking", "track whatsapp enquiries google ads", "ga4 lead tracking setup",
     ],
   },
   hero: {

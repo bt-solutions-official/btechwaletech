@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const dumraon: CityContent = {
   slug: "dumraon",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 25.55, lng: 84.15 },
   meta: {
-    title: "IT Services in Dumraon | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Dumraon | Sites ₹10,000, Apps ₹40,000",
     description:
       "Dumraon Hindi-first websites, Android and iOS apps, local SEO and WhatsApp automation for rice traders, colleges, clinics and shops in Buxar district.",
     keywords: [

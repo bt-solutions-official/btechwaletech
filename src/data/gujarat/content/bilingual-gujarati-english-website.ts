@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/bilingual-gujarati-english-website/",
   crumb: "Bilingual Gujarati English website",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Bilingual Gujarati English Website from ${P.site}`,
-    description: `Bilingual Gujarati English website with a proper language switcher, separate URLs, hreflang and a workflow that keeps both versions in sync. From ${P.site}.`,
+    title: `Bilingual Gujarati English Website: Two URLs, ${P.site}`,
+    description: `Bilingual Gujarati English website: a language switcher, separate URLs per language, hreflang tags and a workflow keeping both halves in sync. From ${P.site}.`,
     keywords: [
       "bilingual Gujarati English website", "Gujarati English website", "bilingual website Gujarat", "two language website Gujarati English",
       "Gujarati and English website development", "multilingual website Gujarat", "website in Gujarati and English", "bilingual website developer Gujarat",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "bilingual website price India", "Gujarati English website Ahmedabad", "Gujarati English website Surat", "Gujarati English website Vadodara Baroda",
       "Gujarati English website Rajkot", "Gujarati Hindi English website", "trilingual website Gujarat", "bilingual WordPress site Gujarati",
       "do bhasha wali website", "Gujarati aur English dono mein website", "bilingual school website Gujarat", "bilingual website for exporters Gujarat",
+      "English to Gujarati website translation", "Gujarati translation for website", "two language website Gujarati",
     ],
   },
   hero: {

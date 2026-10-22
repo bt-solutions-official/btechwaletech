@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--uttar-pradesh--lucknow",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 26.8467, lng: 80.9462 },
   meta: {
-    title: "Lucknow IT Consulting: Govt Tenders & Pharma Trade",
+    title: "Lucknow IT Consulting: Software from ₹60,000",
     description:
       "IT consulting in Lucknow by a freelance team of three engineers: software, Android and iOS apps, AI automation, plus cloud. From ₹10,000, quote in two days.",
     keywords: [
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "IT consulting for a Lucknow business involves reviewing how work, information and money move through the business, identifying where technology would save the most time or prevent the most errors, and producing a costed, prioritised plan. With BtechWaleTech it is remote, practical, and the first conversation costs nothing.",
         "We ask to see what you actually use: the tender register, the stock book, the fee ledger, the order WhatsApp group, the old website's admin panel. We talk with the person who does the daily work, because owners often describe the ideal process while staff describe the real one. The gap between the two is where most improvements hide.",
-        "The written plan lists each recommendation with its expected benefit, a price estimate based on our <a href='/pricing/'>published starting prices</a>, timeline and what you would need to supply. It also flags what not to build, for example when a low-cost subscription already fits. We sell no third-party software, so our advice is not tied to commissions, and the plan is yours whether or not you hire us.",
+        "The written plan lists each recommendation with its expected benefit, a price estimate based on our <a href='/pricing/'>published starting prices</a>, timeline and what you would need to supply. It also flags what not to build, for example when a low-cost subscription already fits. We sell no third-party software, so our advice is not tied to commissions, and the plan is yours whether or not you hire us. For build-only work, see <a href='/it-services/uttar-pradesh/lucknow/'>software developers in Lucknow</a>, or the <a href='/it-services/uttar-pradesh/'>Uttar Pradesh IT services hub</a> for the rest of the state.",
       ],
     },
     {

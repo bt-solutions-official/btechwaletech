@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const mangaluru: CityContent = {
   slug: "mangaluru",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 12.8717, lng: 74.8425 },
   meta: {
-    title: "Mangaluru Website Developers, SEO and AI | ₹10,000+",
+    title: "Mangaluru Website Developers, SEO and AI: Sites from ₹10,000",
     description:
       "Websites, SEO and automation for Mangaluru cashew exporters, Baikampady units, clinics, colleges and coastal shops. From ₹10,000, 2 months free upkeep.",
     keywords: [

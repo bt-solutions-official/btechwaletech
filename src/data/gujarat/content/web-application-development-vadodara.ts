@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/web-application-development-vadodara/",
   crumb: "Web application development in Vadodara",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Web Application Development in Vadodara from ${P.software}`,
-    description: `Web application development in Vadodara: portals, dashboards and role-based apps from ${P.software}. Remote team, itemised quote in 2 working days.`,
+    title: `Web App Development in Vadodara: Portals ${P.software}+`,
+    description: `Web application development in Vadodara: portals, dashboards and role-based apps from ${P.software}. Remote team of three, itemised quote in 2 working days.`,
     keywords: [
       "web application development in Vadodara", "web application development Vadodara", "web app development Baroda", "web application developer Vadodara",
       "web application development services Vadodara", "custom web app Vadodara Gujarat", "portal development Vadodara", "dashboard development Vadodara",

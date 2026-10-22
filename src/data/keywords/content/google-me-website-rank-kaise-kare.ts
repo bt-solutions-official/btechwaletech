@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/google-me-website-rank-kaise-kare/",
   crumb: "Google me website rank kaise kare",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Google Me Website Rank Kaise Kare: SEO ${P.seo} se`,
-    description: `Google me website rank kaise kare? Buyer keywords, on-page, speed, local signals, backlinks aur samay ka sach. Khud kya karein, expert kab. SEO ${P.seo} se.`,
+    title: `Google Me Website Rank Kaise Kare: 7 Asli Steps`,
+    description: `Buyer keywords chuniye, har keyword ka alag page banaiye, mobile speed theek karein, Google Business Profile aur asli backlinks badhaiye. SEO ${P.seo} se.`,
     keywords: [
       "google me website rank kaise kare", "website ko google me rank kaise kare", "google par website kaise laye",
       "website ko google ke first page par kaise laye", "business website rank kaise kare", "google ranking kaise badhaye",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "how to rank website on google in india", "rank business website on google", "seo for small business india",
       "seo expert near me", "monthly seo price india", "google me website rank kaise kare free", "seo services in pune",
       "seo services in bhopal", "website rank nahi ho rahi kya kare", "google search console kaise use kare",
+      "google me website kaise rank kare", "website ko google me rank kaise karaye", "website rank kaise badhaye",
     ],
   },
   hero: {

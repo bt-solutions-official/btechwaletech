@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--meghalaya",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 25.467, lng: 91.3662 },
   meta: {
-    title: "Meghalaya IT Services: Software & Apps",
+    title: "IT Services in Meghalaya: Sites from ₹10,000",
     description:
-      "Freelance IT services in Meghalaya: tourism booking sites, custom software, plus Android and iOS apps. Free scoping call, then an itemised quote in two days.",
+      "Freelance IT services in Meghalaya: tourism booking sites, custom software and Android and iOS apps. Sites ₹10,000, apps ₹40,000, quote in two days.",
     keywords: [
       "IT services in Meghalaya",
       "software development team in Meghalaya",
@@ -83,7 +83,7 @@ const content: CityContent = {
       paragraphs: [
         "IT services in Meghalaya now include much more than websites: booking and enquiry systems for tourism, custom software for schools, clinics and traders, Android and iOS apps, AI and WhatsApp automation, data dashboards, ecommerce for local produce, cloud hosting, SEO and ongoing support. Most businesses need two or three of these working together.",
         "Meghalaya's buyers are varied. Shillong has colleges, hospitals, cafés, retailers and service firms. Sohra, Dawki, Mawlynnong and the living root bridge villages depend on visitors. Jowai and the Jaintia Hills have turmeric farming, trade and cement industry. Tura and the Garo Hills have education, government services, cashew and tourism around Nokrek and Balpakram. Nongpoh and Byrnihat link the state to Guwahati and industry.",
-        "BtechWaleTech serves Meghalaya as a freelance group of three engineers working remotely from India, with no office in the state. Every project runs through WhatsApp, email and video calls, which keeps our prices lower and gives clients in Tura or Baghmara exactly the same service as clients in Shillong.",
+        "BtechWaleTech serves Meghalaya as a freelance group of three engineers working remotely from India, with no office in the state. Every project runs through WhatsApp, email and video calls, which keeps our prices lower and gives clients in <a href='/it-services/meghalaya/tura/'>Tura</a> or <a href='/it-services/meghalaya/baghmara/'>Baghmara</a> exactly the same service as clients in Shillong.",
       ],
       list: [
         "Websites, booking paths and SEO",
@@ -148,7 +148,7 @@ const content: CityContent = {
       id: "schools-meghalaya",
       heading: "School, college and coaching software for Meghalaya institutions",
       paragraphs: [
-        "School, college and coaching software helps Meghalaya institutions manage admissions, fees, attendance, results and parent communication in one system. Shillong has long been an education centre for the region, and Tura and Jowai have growing numbers of schools and colleges, many still relying on registers.",
+        "School, college and coaching software helps Meghalaya institutions manage admissions, fees, attendance, results and parent communication in one system. Shillong has long been an education centre for the region, and Tura and <a href='/it-services/meghalaya/jowai/'>Jowai</a> have growing numbers of schools and colleges, many still relying on registers.",
         "We build online admission forms, fee ledgers with UPI payment references and receipts, attendance, marks and result cards, timetables, and a parent or student app that works offline once loaded. Notices and fee reminders can go out by WhatsApp or SMS. Interfaces can use English with Khasi or Garo labels.",
         "Where an established school product suits you better, we will say so. Custom systems start at ₹60,000, and we often begin with one module such as fees or admissions.",
       ],
@@ -191,7 +191,7 @@ const content: CityContent = {
       id: "startups-meghalaya",
       heading: "MVPs for Meghalaya startups and PRIME-supported founders",
       paragraphs: [
-        "An MVP, or minimum viable product, is the smallest working version of a product that real users can try, and a freelance team is often the most cost-effective way for a Meghalaya founder to build one. The state's PRIME programme has hubs in Shillong, Tura and Nongpoh, and the Shillong Technology Park hosts technology firms, so the startup community is growing.",
+        "An MVP, or minimum viable product, is the smallest working version of a product that real users can try, and a freelance team is often the most cost-effective way for a Meghalaya founder to build one. The state's PRIME programme has hubs in Shillong, Tura and <a href='/it-services/meghalaya/nongpoh/'>Nongpoh</a>, and the Shillong Technology Park hosts technology firms, so the startup community is growing.",
         "Founders here are working on tourism platforms, local commerce, agri produce, education, crafts and services. We help cut the feature list down to what early users truly need, then build a web app with Next.js or an Android and iOS app with Flutter or React Native. App-only MVPs start at ₹40,000, and MVPs with a web platform start at ₹60,000.",
         "Scheme eligibility and terms change, so check directly with the programme. We can provide clear scope documents and estimates that founders often need for applications.",
       ],

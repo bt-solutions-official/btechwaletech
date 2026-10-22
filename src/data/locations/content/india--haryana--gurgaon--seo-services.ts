@@ -2,7 +2,7 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--haryana--gurgaon--seo-services",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 28.4595, lng: 77.0266 },
   meta: {
     title: "Gurgaon SEO: Local & AI Search",
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO services in Gurgaon cover four layers of work: technical health (crawling, indexing, speed, mobile rendering), on-page relevance (titles, headings, internal links, content), local visibility (Google Business Profile, Maps, sector pages, citations) and authority (mentions and links from credible sites). A proper engagement touches all four every month, not just keyword reports.",
         "For a Gurugram business the local layer usually matters most, because buyers search with a place attached: a dermatologist on Golf Course Road, a CA near Sohna Road, a PG in Sector 49, a warehouse in Udyog Vihar. We map those combinations first, then decide which deserve their own page and which can sit inside an existing one. Thin, copy-pasted sector pages get ignored or filtered, so we write each one around what is genuinely different about that area.",
-        "The newer layer is AI-search visibility. Google AI Overviews, ChatGPT search and Perplexity now answer many questions before a click happens. They quote pages that give direct, well-structured answers and consistent business facts. That is why our SEO work includes FAQ blocks, definition-style paragraphs and structured data, alongside the classic checklist.",
+        "The newer layer is AI-search visibility. Google AI Overviews, ChatGPT search and Perplexity now answer many questions before a click happens. They quote pages that give direct, well-structured answers and consistent business facts. That is why our SEO work includes FAQ blocks, definition-style paragraphs and structured data, alongside the classic checklist. For the build side, see <a href='/india/haryana/gurgaon/web-development/'>web development in Gurgaon</a> and <a href='/it-services/haryana/gurugram/'>software developers in Gurugram</a>.",
       ],
       list: [
         "Technical: crawl budget, index coverage, canonical tags, redirects, Core Web Vitals, JavaScript rendering",

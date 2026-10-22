@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const suryapet: CityContent = {
   slug: "suryapet",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 17.1414, lng: 79.6236 },
   meta: {
-    title: "Suryapet Website Developers | SEO and WhatsApp Bots",
+    title: "Website Design in Suryapet | Sites from ₹10,000",
     description:
-      "Websites for Suryapet rice millers, cotton traders, hospitals, colleges and NH65 businesses, with Telugu pages, Maps work and WhatsApp tools. From ₹10,000.",
+      "Suryapet websites from ₹10,000, live in 1-2 weeks, with Telugu pages. Maps work and WhatsApp tools for rice millers, cotton traders, hospitals and colleges.",
     keywords: [
       "website development team in Suryapet",
       "web designer Suryapet",

@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const amalner: CityContent = {
   slug: "amalner",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 21.05, lng: 75.05 },
   meta: {
-    title: "Amalner Website Designer | Sites & SEO from ₹10,000",
+    title: "Website Designer in Amalner | Sites from ₹10,000",
     description:
-      "Amalner, Parola and Chopda websites, Marathi and English SEO, online stores and WhatsApp automation. Static sites start at ₹10,000, code yours.",
+      "Amalner, Parola and Chopda websites from ₹10,000, live in 1-2 weeks. Marathi and English SEO, online stores and WhatsApp automation, and the code stays yours.",
     keywords: [
       "website development team in Amalner",
       "website designer Amalner",
@@ -43,7 +43,7 @@ const amalner: CityContent = {
     pills: ["Websites from ₹10,000", "Marathi and English pages", "Cotton and agri trade", "Pilgrim-season visibility", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "For an Amalner shop, trader, clinic or school, a basic website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team without an Amalner office, and maintenance is free for two months after launch.",
+    "An Amalner website starts at ₹10,000 and goes live in one to two weeks, in Marathi, English or both. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and stores start at ₹50,000. We cover Parola and Chopda too, and two months of maintenance come free after launch.",
   snapshot: [
     { label: "Location", value: "Taluka headquarters on the Bori river in Jalgaon district, about 36 km from Dhule" },
     { label: "Town population", value: "95,994 at the 2011 census" },

@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const padrauna: CityContent = {
   slug: "padrauna",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 26.9, lng: 83.9833 },
   meta: {
-    title: "IT Services in Padrauna | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Padrauna | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, local SEO and WhatsApp automation for Padrauna traders, clinics, colleges, banana fibre makers and Kushinagar hotels. From ₹10,000.",
     keywords: [

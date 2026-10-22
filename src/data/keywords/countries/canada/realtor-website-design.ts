@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/canada/realtor-website-design/",
   crumb: "Realtor website design Canada",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Realtor Website Design Canada: IDX Sites from ${P.site}`,
-    description: `Realtor website design in Canada from ${P.site}: DDF or board IDX listings, neighbourhood and condo pages, buyer and seller lead forms into your CRM.`,
+    title: `Realtor Websites Canada: DDF/IDX Listings, ${P.site}+`,
+    description: `Realtor website design in Canada from ${P.site}: DDF or board IDX listing feeds, neighbourhood and condo pages, buyer and seller lead forms into your CRM.`,
     keywords: [
       "realtor website design canada", "real estate agent website canada", "realtor website with idx canada",
       "crea ddf website", "ddf listings on my website", "real estate website design toronto", "realtor website vancouver",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "realtor website near me", "real estate team website design", "who owns my realtor website",
       "realtor website seo canada",
       "hire realtor website design in Canada", "freelance realtor website design Canada",
+      "websites for realtor", "canadian real estate website builder", "realtor website design edmonton", "bcfsa advertising guidelines", "realtor web design canada",
     ],
   },
   hero: {

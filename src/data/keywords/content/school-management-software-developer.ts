@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/school-management-software-developer/",
   crumb: "School management software developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `School Management Software Developer: ERP ${P.software}+`,
-    description: `School management software developer for fees, attendance, exams and a parents app. Custom school ERP from ${P.software}, owned by your school. Quote in 2 days.`,
+    title: `School Management Software Developer: ERP ${P.software}`,
+    description: `School management software developer for fees with receipts, attendance, exams, timetable and a parents app. Custom ERP your school owns, from ${P.software}.`,
     keywords: [
       "school management software developer", "school management software developer in India", "school management software developer near me", "school ERP developer for hire",
       "school management software cost", "school ERP price India", "best school management software developer", "school software banwana hai",

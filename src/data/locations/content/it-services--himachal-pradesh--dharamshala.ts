@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--himachal-pradesh--dharamshala",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 32.219, lng: 76.3234 },
   meta: {
     title: "Dharamshala Software Developers: Guesthouses & Meditation",
     description:
-      "Searching for a software development team in Dharamshala? Hire our freelance group of 3 engineers for booking software, AI agents, apps and SEO.",
+      "Searching for a software development team in Dharamshala? Hire our freelance group of three engineers for booking software, AI agents and apps, from ₹10,000.",
     keywords: [
       "software development team in Dharamshala",
       "IT services team in Dharamshala",

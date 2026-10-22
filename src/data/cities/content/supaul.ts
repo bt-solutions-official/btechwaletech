@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const supaul: CityContent = {
   slug: "supaul",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 26.1261, lng: 86.605 },
   meta: {
-    title: "IT Services in Supaul | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Supaul | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, Maps SEO and WhatsApp automation for Supaul traders, makhana sellers, coaching centres, clinics and Kosi-belt shops. Sites from ₹10,000.",
     keywords: [

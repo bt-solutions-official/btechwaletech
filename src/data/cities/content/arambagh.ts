@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const arambagh: CityContent = {
   slug: "arambagh",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 22.88, lng: 87.78 },
   meta: {
-    title: "IT Services in Arambagh | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Arambagh | Sites ₹10,000, Apps ₹40,000",
     description:
       "Arambagh Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for cold storages, rice mills, handloom weavers, clinics, tutors and shops.",
     keywords: [

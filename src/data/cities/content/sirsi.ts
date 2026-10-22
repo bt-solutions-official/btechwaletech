@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sirsi: CityContent = {
   slug: "sirsi",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 14.6194, lng: 74.8375 },
   meta: {
-    title: "IT Services in Sirsi | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sirsi | Sites ₹10,000, Apps ₹40,000",
     description:
       "Kannada websites, apps, local SEO and WhatsApp tools for Sirsi areca and spice traders, homestays, cooperatives, clinics and colleges. From ₹10,000.",
     keywords: [

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/astrology-app-development/",
   crumb: "Astrology app development",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Astrology App Development: Chat & Call from ${P.app}`,
-    description: `Astrology app development with per-minute chat and call wallet, kundli engine, astrologer payouts and live sessions. Apps from ${P.app}; MVP vs full cost.`,
+    description: `Per-minute chat and call wallet, kundli and natal-chart engine, astrologer payouts and live sessions. MVP vs full build costed. Apps from ${P.app}, 6–10 weeks.`,
     keywords: [
       "astrology app development", "astrology app developer india", "astrology app development cost", "astrologer consultation app",
       "astrology app like astrotalk", "talk to astrologer app development", "kundli app development", "horoscope app development",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "astrology app development company in India",
       "best astrology app development in India",
       "astrology app development services",
+      "natal chart calculator api", "astrology app development cost india",
     ],
   },
   hero: {

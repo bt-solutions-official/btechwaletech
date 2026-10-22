@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/fleet-management-software/",
   crumb: "Fleet management software",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Fleet Management Software Built for You, from ${P.software}`,
-    description: `Fleet management software for Indian fleets: GPS, fuel, service schedules, driver scores and FC/permit/insurance alerts. Custom builds from ${P.software}.`,
+    title: `Fleet Management Software Built for You, ${P.software}+`,
+    description: `GPS tracking, fuel logs, service schedules, driver scores and FC, permit and insurance alerts for Indian fleets. Custom builds from ${P.software}, 6–12 weeks.`,
     keywords: [
       "fleet management software", "fleet management software India", "fleet management system", "vehicle fleet management software",
       "fleet management software for trucks", "fleet management software for transporters", "fleet management software cost",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "gaadi management software", "truck ka hisaab rakhne ka software", "fleet management software developer",
       "fleet management software company in India",
       "fleet management software services",
+      "fleet tracking app india", "truck fleet software custom",
     ],
   },
   hero: {

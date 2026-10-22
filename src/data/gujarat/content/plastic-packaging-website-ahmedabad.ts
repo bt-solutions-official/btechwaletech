@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/plastic-packaging-website-ahmedabad/",
   crumb: "Plastic packaging company website in Ahmedabad",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Plastic Packaging Website in Ahmedabad from ${P.site}`,
-    description: `Plastic packaging company website in Ahmedabad with product spec pages, MOQ tables and custom order RFQs with artwork upload. Sites from ${P.site}, 2-day quote.`,
+    title: `Plastic Packaging Website in Ahmedabad: MOQ, ${P.site}`,
+    description: `Plastic packaging website in Ahmedabad: spec pages, MOQ tables and custom-order RFQs with artwork upload. From ${P.site}, itemised quote in 2 working days.`,
     keywords: [
       "plastic packaging company website in Ahmedabad", "plastic packaging website Ahmedabad", "packaging company website Ahmedabad", "plastic products manufacturer website Gujarat",
       "flexible packaging website design", "PET bottle manufacturer website", "pouch manufacturer website Ahmedabad", "plastic packaging company website Ahmedabad Gujarat",

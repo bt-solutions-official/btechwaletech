@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/web-developer-for-brisbane-businesses/",
   crumb: "Web developer Brisbane",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Web Developer Brisbane: Sites from ${P.site}, 4.5 h Gap`,
-    description: `Web developer for Brisbane businesses: builders, tradies, tourism and SEQ service firms. QBCC details shown, sites from ${P.site}, fixed 4.5-hour time gap.`,
+    title: `Web Developer Brisbane: Remote Team, from ${P.site}`,
+    description: `Web developer for Brisbane businesses: builders, tradies, tourism and SEQ service firms. QBCC details shown, sites from ${P.site}, 4.5-hour time gap.`,
     keywords: [
       "web developer brisbane", "brisbane web developer", "web developer for brisbane businesses", "website developer brisbane",
       "freelance web developer brisbane", "web development brisbane", "brisbane website design and development",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "south east queensland seo", "brisbane suburb seo", "wordpress developer brisbane", "shopify developer brisbane",
       "remote web developer queensland", "web developer near me brisbane", "brisbane 2032 website", "hire web developer australia",
       "web developer Sydney", "web developer Melbourne",
+      "freelance wordpress developer brisbane", "freelance web developer gold coast",
     ],
   },
   hero: {

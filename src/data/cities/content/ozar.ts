@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const ozar: CityContent = {
   slug: "ozar",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 20.0944, lng: 73.9275 },
   meta: {
-    title: "IT Services in Ozar | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Ozar | Sites ₹10,000, Apps ₹40,000",
     description:
       "Marathi and English websites, apps and SEO for Ozar grape exporters, pack-houses, HAL suppliers, schools and shops. Sites from ₹10,000 with an itemised quote.",
     keywords: [

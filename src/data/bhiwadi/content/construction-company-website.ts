@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/construction-company-website/",
   crumb: "Construction company website",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Construction Company Website in Bhiwadi: ${P.site}+`,
-    description: `Construction company website in Bhiwadi from ${P.site}: project portfolio, tender credentials, PEB pages and enquiry forms. We meet you face to face on site.`,
+    title: `Construction Company Website Bhiwadi: ${P.site}+`,
+    description: `Construction company website in Bhiwadi from ${P.site}, live in 1–2 weeks: project case pages, tender credentials, PEB and civil service pages, drawing uploads.`,
     keywords: [
       "construction company website in Bhiwadi", "construction company website", "construction company website Bhiwadi Rajasthan",
       "construction company website near me", "builder website Bhiwadi", "contractor website design Bhiwadi Alwar",
@@ -50,7 +50,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What should a construction company website in Bhiwadi include, and what does it cost?",
-    text: `A construction company website in Bhiwadi should include case pages for completed projects with scope, size and photos, a credentials section for tenders and procurement teams, service pages such as PEB sheds or residential construction, and an enquiry form that accepts drawings. A portfolio site of up to 100 pages starts at ${P.site}. We meet you one to one before quoting.`,
+    text: `From ${P.site} for a portfolio site of up to 100 pages, live in 1–2 weeks. A construction company website in Bhiwadi should carry case pages for completed projects with scope, size and photos, a credentials section tender teams can read, service pages such as PEB sheds, and an enquiry form that accepts drawings.`,
     more: `Running projects and billing too? See <a href='/construction-management-software/'>construction management software</a>. For more visibility in map results, read <a href='/bhiwadi-rajasthan/local-seo/'>local SEO in Bhiwadi</a>.`,
   },
   snapshot: {

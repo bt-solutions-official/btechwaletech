@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const anjar: CityContent = {
   slug: "anjar",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 23.1136, lng: 70.0283 },
   meta: {
-    title: "IT Services in Anjar | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Anjar | Sites ₹10,000, Apps ₹40,000",
     description:
       "Anjar Gujarati websites, mobile apps, SEO and WhatsApp bots for pipe and steel suppliers, bandhani and knife makers, transporters and shops. Ask for a quote.",
     keywords: [

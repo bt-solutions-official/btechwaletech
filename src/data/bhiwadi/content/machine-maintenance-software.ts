@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/machine-maintenance-software/",
   crumb: "Preventive maintenance software",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Preventive Maintenance Software Bhiwadi, from ${P.software}`,
-    description: `Preventive maintenance software in Bhiwadi: PM schedules, breakdown logs, spares and machine QR codes, from ${P.software}. We meet you one to one at your plant.`,
+    title: `Preventive Maintenance Software Bhiwadi: ${P.software}`,
+    description: `Preventive maintenance software in Bhiwadi from ${P.software}, live in 6–12 weeks: PM schedules, breakdown logs, spares stock and machine QR codes for technicians.`,
     keywords: [
       "preventive maintenance software in Bhiwadi", "preventive maintenance software", "preventive maintenance software near me",
       "machine maintenance software Bhiwadi", "CMMS software in Bhiwadi Rajasthan", "preventive maintenance software Bhiwadi Alwar",
@@ -50,7 +50,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How much does preventive maintenance software cost in Bhiwadi?",
-    text: `Custom preventive maintenance software for a Bhiwadi plant starts at ${P.software} and usually takes 6–12 weeks. The final figure depends on machine count, how many PM checklists you run, spares tracking and whether technicians need a separate Android app (from ${P.app}). You get an itemised quote in about two working days, after we meet you in person at your unit.`,
+    text: `From ${P.software} and usually 6–12 weeks. The final figure depends on machine count, how many PM checklists you run, spares tracking, and whether technicians need a separate Android app (from ${P.app}). You get an itemised quote in about two working days after we meet you in person at your plant.`,
     more: `If the real pain is the stores cupboard, read our <a href='/bhiwadi-rajasthan/inventory-management-software/'>inventory software page for Bhiwadi</a>; if you want downtime on a wall screen, see <a href='/bhiwadi-rajasthan/mis-dashboard-development/'>MIS dashboards for Bhiwadi units</a>.`,
   },
   snapshot: {

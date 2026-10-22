@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sopore: CityContent = {
   slug: "sopore",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 34.3, lng: 74.4667 },
   meta: {
-    title: "IT Services in Sopore | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sopore | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, local SEO and WhatsApp tools for Sopore fruit mandi traders, apple growers, Wular fish sellers, clinics, colleges and shops. From ₹10,000.",
     keywords: [

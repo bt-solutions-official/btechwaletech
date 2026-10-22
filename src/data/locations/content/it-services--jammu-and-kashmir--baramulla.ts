@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--jammu-and-kashmir--baramulla",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 34.198, lng: 74.3636 },
   meta: {
     title: "Baramulla Software Developers: Fruit Mandi & Gulmarg",
     description:
-      "Freelance IT team for Baramulla, Sopore and Gulmarg: fruit mandi software, ski-season booking, Android and iOS apps, AI agents, dashboards, SEO and upkeep.",
+      "Freelance IT team for Baramulla, Sopore and Gulmarg: fruit mandi software, ski-season booking, Android and iOS apps and AI agents. Sites ₹10,000, in INR.",
     keywords: [
       "software development team in Baramulla",
       "IT services team in Baramulla",

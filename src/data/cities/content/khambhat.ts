@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const khambhat: CityContent = {
   slug: "khambhat",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 22.3181, lng: 72.6189 },
   meta: {
-    title: "IT Services in Khambhat | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Khambhat | Sites ₹10,000, Apps ₹40,000",
     description:
       "Khambhat Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for agate bead exporters, kite makers, halwasan shops and traders.",
     keywords: [

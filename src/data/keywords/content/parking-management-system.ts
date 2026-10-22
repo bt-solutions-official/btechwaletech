@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/parking-management-system/",
   crumb: "Parking management system",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Parking Management System: ANPR & FASTag, ${P.software}+`,
-    description: `Parking management system for pay-and-park lots, malls and hospitals: ANPR, FASTag and UPI exits, monthly passes, valet app. Software from ${P.software}.`,
+    title: `Parking Management System: ANPR & FASTag, ${P.software}`,
+    description: `Parking management system for pay-and-park lots, malls and hospitals: ANPR entry, FASTag and UPI exits, monthly passes and a valet app. From ${P.software}.`,
     keywords: [
       "parking management system", "parking management software", "smart parking system india", "parking management system for mall",
       "hospital parking management system", "pay and park software", "anpr parking system", "fastag parking system",

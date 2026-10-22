@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--goa--vasco-da-gama",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 15.3982, lng: 73.8113 },
   meta: {
     title: "Vasco-da-Gama Software Developers: Port & Fleet Tools",
     description:
-      "Freelance software developers in Vasco-da-Gama for port logistics tools, fleet apps and AI email agents. Starting prices in INR, paid by UPI or bank transfer.",
+      "Freelance software developers in Vasco-da-Gama for port logistics tools, fleet apps and AI email agents. Software from ₹60,000, paid by UPI or bank transfer.",
     keywords: [
       "software development team in Vasco-da-Gama",
       "IT services team in Vasco-da-Gama",

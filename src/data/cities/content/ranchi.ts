@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const ranchi: CityContent = {
   slug: "ranchi",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 23.3441, lng: 85.3096 },
   meta: {
-    title: "IT Services in Ranchi: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Ranchi | From ₹10,000",
     description:
-      "Websites, local SEO, online stores and WhatsApp tools for Ranchi traders, clinics, institutes, contractors and tourism firms. Websites from ₹10,000.",
+      "Ranchi websites from ₹10,000, live in 1-2 weeks; 299+ page SEO sites from ₹20,000. Stores and WhatsApp tools for traders, clinics, institutes and contractors.",
     keywords: [
       "website development team in Ranchi",
       "website designer Ranchi",

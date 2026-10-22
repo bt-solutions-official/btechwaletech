@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--telangana",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 17.8495, lng: 79.1151 },
   meta: {
-    title: "Telangana IT Services: Software & AI",
+    title: "IT Services in Telangana: Sites from ₹10,000",
     description:
       "Freelance IT services across Telangana: custom software, AI automation, apps and dashboards. From ₹10,000, with two months of free upkeep after launch.",
     keywords: [
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "The IT services market in Telangana is split between Hyderabad, one of India's largest technology hubs, and a fast-digitising set of district towns where most businesses still run on phone calls, WhatsApp and ledgers. Hyderabad's HITEC City, Gachibowli and Financial District host global firms and thousands of startups, while Warangal, Karimnagar, Khammam and Nizamabad now have state-built IT towers that brought technology jobs closer to home.",
         "For the typical Telangana business, the need is practical rather than cutting-edge: a reliable website, a way to track enquiries and orders, a dashboard showing dues, and automation that stops staff answering the same WhatsApp questions all day. Larger firms and startups want custom web applications, AI agents and cloud infrastructure that scale.",
-        "This page covers how each IT service applies across the state, with links to our pages for individual cities such as <a href=\"/it-services/telangana/hyderabad/\">Hyderabad</a>, <a href=\"/it-services/telangana/warangal/\">Warangal</a>, <a href=\"/it-services/telangana/karimnagar/\">Karimnagar</a>, <a href=\"/it-services/telangana/khammam/\">Khammam</a> and <a href=\"/it-services/telangana/nizamabad/\">Nizamabad</a>.",
+        "This page covers how each IT service applies across the state, with links to our pages for individual cities such as <a href=\"/it-services/telangana/hyderabad/\">Hyderabad</a>, <a href=\"/it-services/telangana/warangal/\">Warangal</a>, <a href=\"/it-services/telangana/karimnagar/\">Karimnagar</a>, <a href=\"/it-services/telangana/khammam/\">Khammam</a> and <a href=\"/it-services/telangana/nizamabad/\">Nizamabad</a>. If you want advice before any build, such as an architecture review, a cloud cost audit and a written roadmap, read <a href='/india/telangana/'>IT consulting in Telangana</a>.",
       ],
     },
     {
@@ -237,7 +237,7 @@ const content: CityContent = {
       paragraphs: [
         "BtechWaleTech's freelance engineers work with Telangana clients remotely through a discovery call, an itemised quote in about two working days, weekly demos on a staging link, launch with training, and two months of free maintenance. Communication happens on WhatsApp seven days a week, with video calls for demos and training.",
         "At handover you receive the source code, database access, every login and a written deployment note. We are honest about limits: we do not guarantee rankings, invent reviews, or replace certified systems where regulations require them. We also recommend smaller solutions when they would solve the problem.",
-        "Learn more <a href=\"/about/\">about us</a>, browse <a href=\"/portfolio/\">our portfolio</a>, explore <a href=\"/services/\">all services</a> or see <a href=\"/it-services/\">IT services across India</a>. When you are ready, send a message through the <a href=\"/contact/\">contact page</a>.",
+        "Learn more <a href=\"/about/\">about us</a>, browse <a href=\"/portfolio/\">our portfolio</a>, explore <a href=\"/services/\">all services</a> or see <a href=\"/it-services/\">IT services across India</a>. When you are ready, send a message through the <a href=\"/contact/\">contact page</a>. A consulting-led page for <a href='/india/telangana/hyderabad/'>Hyderabad</a> sits under our India locations section.",
       ],
     },
   ],

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/core-web-vitals-assessment-failed/",
   crumb: "Core Web Vitals assessment failed",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: "Core Web Vitals Assessment Failed? Fix LCP, INP, CLS",
-    description: `Core Web Vitals assessment failed in PageSpeed Insights? Find which of LCP, INP or CLS fails for real users and fix it. SEO support from ${P.seo}.`,
+    title: `Core Web Vitals Assessment: Failed — How to Fix It`,
+    description: `“Failed” means real Chrome users breached LCP 2.5s, INP 200ms or CLS 0.1 at the 75th percentile. Find which one, fix it, then wait 28 days for new field data.`,
     keywords: [
       "core web vitals assessment failed", "core web vitals assessment: failed", "core web vitals assessment failed mobile", "core web vitals assessment failed but score is 90",
       "why does my site fail core web vitals", "how to pass core web vitals assessment", "how to fix core web vitals", "pagespeed insights core web vitals failed",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "core web vitals optimization service india", "core web vitals expert near me", "core web vitals fix cost", "core web vitals ranking factor",
       "website slow on mobile india", "core web vitals fail kyu ho raha hai", "core web vitals assessment failed india", "crux data not enough",
       "improve interaction to next paint", "reduce largest contentful paint",
+      "core web vitals failed fix", "lcp inp cls thresholds", "crux field data 28 days",
     ],
   },
   hero: {

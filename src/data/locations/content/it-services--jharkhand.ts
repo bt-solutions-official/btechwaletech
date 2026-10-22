@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--jharkhand",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 23.6102, lng: 85.2799 },
   meta: {
-    title: "Jharkhand IT Services: Software, Apps & AI",
+    title: "IT Services in Jharkhand: Sites from ₹10,000",
     description:
-      "Freelance IT services in Jharkhand: custom software, AI automation, apps, SEO and websites for Ranchi, Jamshedpur, Dhanbad, Bokaro and Deoghar. INR prices.",
+      "Freelance IT services in Jharkhand: software, AI automation, apps, SEO and websites for Ranchi, Jamshedpur, Dhanbad and Bokaro. Sites from ₹10,000, in INR.",
     keywords: [
       "IT services in Jharkhand",
       "software development team in Jharkhand",

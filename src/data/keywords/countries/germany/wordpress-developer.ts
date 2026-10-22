@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/wordpress-developer/",
   crumb: "WordPress developer Germany",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `WordPress Developer Germany: DSGVO-Ready from ${P.site}`,
-    description: `WordPress developer Germany guide: sites from ${P.site}, WooCommerce from ${P.shop}, local fonts, plugin audits and EU hosting to cut Abmahnung risk.`,
+    title: `WordPress Developer Germany: Abmahnung-Safe, ${P.site}+`,
+    description: `WordPress developer for Germany: sites from ${P.site}, WooCommerce from ${P.shop}, local fonts, plugin audits and EU hosting to cut Abmahnung risk.`,
     keywords: [
       "wordpress developer germany", "wordpress developer deutschland", "hire wordpress developer germany", "woocommerce developer germany",
       "wordpress freelancer germany", "wordpress agentur alternative", "wordpress abmahnung", "google fonts abmahnung wordpress",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "wordpress maintenance germany", "wordpress wartungsvertrag", "how much does a wordpress developer cost in germany",
       "wordpress developer berlin", "wordpress developer munich", "wordpress developer cologne", "wordpress developer hamburg",
       "remote wordpress developer for german business", "is wordpress gdpr compliant",
+      "wordpress entwickler deutschland", "wordpress freelancer deutschland", "wordpress dsgvo fonts",
     ],
   },
   hero: {

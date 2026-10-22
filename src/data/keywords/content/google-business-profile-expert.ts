@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/google-business-profile-expert/",
   crumb: "Google Business Profile expert",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Google Business Profile Expert: Local SEO ${P.seo}`,
-    description: `Google Business Profile expert help: setup, verification, categories, review replies and weekly posts, within Google's rules. Local SEO from ${P.seo}.`,
+    title: `Google Business Profile Expert: Setup, Fix, Rank`,
+    description: `Profile setup, failed verification, suspension appeals, right primary category, review replies and weekly posts—inside Google’s rules. Local SEO ${P.seo}.`,
     keywords: [
       "google business profile expert", "google business profile expert India", "google business profile expert near me", "GMB expert for hire",
       "google business profile optimisation cost", "GMB listing price", "best google my business expert", "google my business expert",
@@ -25,6 +25,8 @@ const content: FreelanceContent = {
       "GMB optimisation service India", "google business listing for shop",
       "hire google business profile expert",
       "freelance google business profile expert",
+      "google business profile specialist", "google my business experts", "google my business suspension removal expert",
+      "how do i put my business on google maps",
     ],
   },
   hero: {

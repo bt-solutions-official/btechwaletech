@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/dental-clinic-website-design/",
   crumb: "Dental clinic website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Dental Clinic Website Design: Sites from ${P.site}`,
-    description: `Dental clinic website design from ${P.site}: treatment pages, slot booking, WhatsApp recalls and DCI-aware wording that turn “dentist near me” into bookings.`,
+    description: `Treatment pages, slot booking, WhatsApp recalls and DCI-aware wording that turn “dentist near me” searches into actual chairs filled. Sites from ${P.site}.`,
     keywords: [
       "dental clinic website design", "dental clinic website design India", "dentist website design", "dental website design",
       "dental clinic website", "website for dental clinic", "dental clinic website cost", "dental website design price India",
@@ -27,6 +27,7 @@ const content: FreelanceContent = {
       "dental clinic website design company in India",
       "best dental clinic website design in India",
       "dental clinic website design services",
+      "dentist website developer", "dental website seo india",
     ],
   },
   hero: {

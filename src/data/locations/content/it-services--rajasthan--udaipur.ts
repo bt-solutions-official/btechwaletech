@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--rajasthan--udaipur",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 24.5854, lng: 73.7125 },
   meta: {
     title: "Udaipur Software Developers: Heritage Hotels & Homestays",
     description:
-      "Looking for a software development team in Udaipur? Hire our freelance group for hotel booking engines, AI concierge bots, apps and SEO. Quotes in 2 days.",
+      "Looking for a software development team in Udaipur? Hire our freelance group for hotel booking engines, AI concierge bots and apps, from ₹40,000 in 2 days.",
     keywords: [
       "Android app development Udaipur",
       "iOS app development Udaipur",

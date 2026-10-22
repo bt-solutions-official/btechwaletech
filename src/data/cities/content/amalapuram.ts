@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const amalapuram: CityContent = {
   slug: "amalapuram",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 16.5787, lng: 82.0061 },
   meta: {
-    title: "IT Services in Amalapuram | Web, Apps, SEO & AI",
+    title: "Website Design in Amalapuram | From ₹10,000",
     description:
-      "Amalapuram Telugu websites, Android and iOS apps, Maps SEO and WhatsApp bots for coconut traders, aqua farms, hospitals and colleges. Code and domain yours.",
+      "Amalapuram websites from ₹10,000, live in 1-2 weeks, with Telugu pages. Apps from ₹40,000, Maps SEO and WhatsApp bots for coconut, aqua and hospital firms.",
     keywords: [
       "IT services in Amalapuram",
       "IT services team in Amalapuram",

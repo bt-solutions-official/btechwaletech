@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/spice-trader-website-unjha/",
   crumb: "Spice trader website in Unjha",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Spice Trader Website in Unjha from ${P.site}`,
-    description: `Spice trader website in Unjha for cumin, fennel and isabgol firms: grade and lot pages, export enquiry forms, WhatsApp. Sites from ${P.site}, quote in 2 days.`,
+    title: `Spice Trader Website in Unjha: Lots, Grades, ${P.site}`,
+    description: `Spice trader website in Unjha for cumin, fennel and isabgol firms: grade and lot pages, export enquiry forms and WhatsApp. Sites from ${P.site}, 2-day quote.`,
     keywords: [
       "spice trader website in Unjha", "spice trader website Unjha", "Unjha spice website", "cumin trader website Unjha", "jeera trader website",
       "fennel seed exporter website", "isabgol trader website", "spice exporter website Gujarat", "website for spice traders near me", "Unjha Gujarat website developer",

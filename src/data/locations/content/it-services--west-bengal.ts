@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--west-bengal",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 22.9868, lng: 87.855 },
   meta: {
-    title: "West Bengal IT Services: Apps & AI",
+    title: "IT Services in West Bengal: Sites from ₹10,000",
     description:
       "Freelance IT services in West Bengal: custom software, Android and iOS apps, AI automation, SEO and stores for Kolkata and Siliguri. From ₹10,000.",
     keywords: [
@@ -81,8 +81,8 @@ const content: CityContent = {
       heading: "What IT services do businesses in West Bengal need most?",
       paragraphs: [
         "Businesses in West Bengal most often need custom software for manufacturing and distribution, Android and iOS apps for field teams and customers, WhatsApp and AI automation for high-volume enquiries, Bengali-language websites and SEO, and online stores for the state's well-known products. IT services in West Bengal therefore cover far more than a basic website.",
-        "The state's economy is varied. Kolkata and its suburbs hold finance, trade, IT, healthcare and education. The Durgapur–Asansol belt in Paschim Bardhaman runs steel, engineering, power and coal-linked industry. Haldia handles port traffic and chemicals. Howrah and Hooghly keep an old engineering and jute tradition alive. North Bengal combines tea, timber, tourism and cross-border trade through Siliguri. Rural districts such as Bankura, Purulia, Malda and Murshidabad depend on agriculture, crafts and small enterprise.",
-        "BtechWaleTech serves all of these regions remotely as a freelance group of three engineers in India. We have no office in West Bengal. We work over WhatsApp, calls and live preview links. See our <a href='/services/'>services</a> and <a href='/pricing/'>starting prices</a> before you get in touch.",
+        "The state's economy is varied. Kolkata and its suburbs hold finance, trade, IT, healthcare and education. The Durgapur–Asansol belt in Paschim Bardhaman runs steel, engineering, power and coal-linked industry. Haldia handles port traffic and chemicals. Howrah and Hooghly keep an old engineering and jute tradition alive. North Bengal combines tea, timber, tourism and cross-border trade through <a href='/it-services/west-bengal/siliguri/'>Siliguri</a>. Rural districts such as Bankura, Purulia, Malda and Murshidabad depend on agriculture, crafts and small enterprise.",
+        "BtechWaleTech serves all of these regions remotely as a freelance group of three engineers in India. We have no office in West Bengal. We work over WhatsApp, calls and live preview links. See our <a href='/services/'>services</a> and <a href='/pricing/'>starting prices</a> before you get in touch. If you want advice before any build, such as an architecture review, a cloud cost audit and a written roadmap, read <a href='/india/west-bengal/'>IT consulting in West Bengal</a>.",
       ],
     },
     {
@@ -104,7 +104,7 @@ const content: CityContent = {
       heading: "Custom software for Durgapur, Asansol, Haldia and Hooghly manufacturers",
       paragraphs: [
         "Manufacturers in West Bengal's industrial belts benefit most from software that tracks purchase orders, production, inventory, maintenance and dispatch in one place, because many vendors to large steel, power and chemical plants still coordinate through spreadsheets, phone calls and paper challans. Custom software from BtechWaleTech starts at ₹60,000 and typically takes six to twelve weeks.",
-        "Useful builds include vendor portals for fabrication and engineering units supplying plants around Durgapur and Asansol, job-card and inspection systems with photo evidence, spare-parts inventory with reorder alerts, and dispatch registers with vehicle and challan details. Chemical and packaging suppliers near Haldia need batch records and safety document tracking. Jute mills along the Hooghly benefit from production and loom-wise output dashboards.",
+        "Useful builds include vendor portals for fabrication and engineering units supplying plants around <a href='/it-services/west-bengal/durgapur/'>Durgapur</a> and <a href='/it-services/west-bengal/asansol/'>Asansol</a>, job-card and inspection systems with photo evidence, spare-parts inventory with reorder alerts, and dispatch registers with vehicle and challan details. Chemical and packaging suppliers near Haldia need batch records and safety document tracking. Jute mills along the Hooghly benefit from production and loom-wise output dashboards.",
         "We build with Next.js or React for the interface, Node.js or Python on the server and PostgreSQL as the database, hosted on AWS or DigitalOcean in your account. Where an ERP already runs, we fill its gaps rather than replacing it.",
       ],
     },
@@ -219,7 +219,7 @@ const content: CityContent = {
       heading: "IT services in Kolkata, Howrah, Siliguri and other West Bengal cities",
       paragraphs: [
         "Each West Bengal city has a different mix of IT needs, so we keep separate guides. Kolkata combines old trading houses, hospitals, education and a large IT workforce; see <a href='/it-services/west-bengal/kolkata/'>freelance software developers in Kolkata</a>. Howrah remains an engineering, foundry and trade centre across the river; see <a href='/it-services/west-bengal/howrah/'>IT solutions for Howrah</a>.",
-        "For websites and local SEO in specific cities, see our guides to <a href='/kolkata/'>Kolkata</a>, <a href='/siliguri/'>Siliguri</a> and <a href='/asansol/'>Asansol</a>. Businesses in Durgapur, Haldia, Kharagpur, Malda, Baharampur, Bardhaman, Krishnanagar, Jalpaiguri and Cooch Behar are served the same way, entirely online, at the same starting prices. The <a href='/it-services/'>IT services directory</a> lists other states.",
+        "For websites and local SEO in specific cities, see our guides to <a href='/kolkata/'>Kolkata</a>, <a href='/siliguri/'>Siliguri</a> and <a href='/asansol/'>Asansol</a>. Businesses in Durgapur, Haldia, Kharagpur, Malda, Baharampur, Bardhaman, Krishnanagar, Jalpaiguri and Cooch Behar are served the same way, entirely online, at the same starting prices. The <a href='/it-services/'>IT services directory</a> lists other states. A consulting-led page for <a href='/india/west-bengal/kolkata/'>Kolkata</a> sits under our India locations section.",
       ],
     },
   ],

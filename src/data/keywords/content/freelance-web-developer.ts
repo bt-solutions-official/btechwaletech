@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-web-developer/",
   crumb: "Freelance web developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Freelance Web Developer in India: Sites from ${P.site}`,
-    description: `Hire a freelance web developer in India: SEO sites, stores and apps, a vetting checklist and the build process explained. Websites from ${P.site}.`,
+    title: `Freelance Web Developer vs Agency: Costs from ${P.site}`,
+    description: `Freelance web developer, marketplace gig or agency: what each really costs, what changes for you, and when freelance is the wrong call. Sites from ${P.site}.`,
     keywords: [
       "freelance web developer", "freelance web developer in India", "freelance web developer near me", "freelance web developer for hire",
       "freelance web developer cost", "freelance web developer price", "best freelance web developer", "freelance web developer chahiye",

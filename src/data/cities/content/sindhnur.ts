@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const sindhnur: CityContent = {
   slug: "sindhnur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 15.77, lng: 76.7556 },
   meta: {
-    title: "IT Services in Sindhanur | Web, Apps & AI from ₹10,000",
+    title: "Website Design in Sindhanur | Sites from ₹10,000",
     description:
-      "Kannada websites, apps, local SEO and WhatsApp tools for Sindhanur rice mills, paddy traders, tractor dealers, clinics, colleges and shops. From ₹10,000.",
+      "Sindhanur websites from ₹10,000, live in 1-2 weeks, with Kannada pages. Local SEO and WhatsApp tools for rice mills, paddy traders and tractor dealers.",
     keywords: [
       "IT services in Sindhanur",
       "IT services team in Sindhanur",

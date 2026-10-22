@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/hotel-website-design/",
   crumb: "Hotel website design",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Hotel Website Design in Bhiwadi, Direct Bookings`,
-    description: `Hotel website design in Bhiwadi from ${P.site}: direct booking, corporate rates for plant visitors and banquet enquiries. We meet you in person at the hotel.`,
+    title: `Hotel Website Design in Bhiwadi from ${P.site}`,
+    description: `Hotel website design in Bhiwadi from ${P.site}, live in 1–2 weeks: room pages, corporate rates for plant visitors, banquet enquiries, commission-free bookings.`,
     keywords: [
       "hotel website design in Bhiwadi", "hotel website design Bhiwadi", "hotel website designer near me", "hotel website design in Bhiwadi Rajasthan",
       "hotel website Bhiwadi Alwar", "hotel website developer Bhiwadi", "hotel website design designer Bhiwadi", "hotel website services Bhiwadi",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does hotel website design in Bhiwadi cost, and can it cut OTA commission?",
-    text: `Hotel website design in Bhiwadi with us starts at ${P.site} for a static site of up to 100 pages, built in 1–2 weeks. It covers room pages, a corporate rates page, banquet enquiries, WhatsApp and a booking request form or a link to your booking engine. Direct bookings avoid portal commission on those stays, though travel portals still bring guests. We first meet you in person at the hotel.`,
+    text: `From ${P.site} for a static site of up to 100 pages, built in 1–2 weeks. It covers room pages, a corporate rates page for plant visitors, banquet enquiries, WhatsApp and a booking request form or a link to your booking engine. Direct bookings avoid portal commission on those stays.`,
     more: `Running a restaurant alongside the rooms? See <a href='/bhiwadi-rajasthan/restaurant-website-design/'>restaurant website design in Bhiwadi</a>. For wedding and event offers, a focused <a href='/bhiwadi-rajasthan/landing-page-design/'>landing page</a> often converts better than a general page.`,
   },
   snapshot: {

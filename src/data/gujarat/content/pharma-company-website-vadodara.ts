@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/pharma-company-website-vadodara/",
   crumb: "Pharma company website in Vadodara",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Pharma Company Website in Vadodara from ${P.site}`,
-    description: `Pharma company website in Vadodara: API & formulation lists, gated documents & B2B enquiry routing, built with regulatory care. From ${P.site}; quote in 2 days.`,
+    title: `Pharma Company Website in Vadodara: ${P.site}, Gated Docs`,
+    description: `Pharma company website in Vadodara: API and formulation lists, gated documents, B2B enquiry routing, built with regulatory care. From ${P.site}, 2-day quote.`,
     keywords: [
       "pharma company website in Vadodara", "pharma company website Vadodara", "pharmaceutical website design Vadodara", "API manufacturer website Vadodara Gujarat",
       "pharma website developer near me", "Baroda pharma company website", "pharma company website Baroda", "API product list website",

@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const rayagada: CityContent = {
   slug: "rayagada",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 19.17, lng: 83.42 },
   meta: {
-    title: "IT Services in Rayagada | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Rayagada | Sites ₹10,000, Apps ₹40,000",
     description:
       "Odia and English websites, apps, SEO and WhatsApp tools for Rayagada's paper and alumina suppliers, traders, clinics and colleges. From ₹10,000.",
     keywords: [

@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const hajipur: CityContent = {
   slug: "hajipur",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 25.6925, lng: 85.2083 },
   meta: {
-    title: "Hajipur Web Development, SEO & WhatsApp Automation",
+    title: "Website Design Company in Hajipur | From ₹10,000",
     description:
-      "Websites, local SEO and automation for Hajipur factories, railway vendors, banana traders, clinics and coaching centres in Vaishali. Sites from ₹10,000.",
+      "Hajipur websites from ₹10,000, live in 1-2 weeks, with Hindi SEO. Local search work and automation for factories, railway vendors, banana traders and clinics.",
     keywords: [
       "website development team in Hajipur",
       "web designer Hajipur",

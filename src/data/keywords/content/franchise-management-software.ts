@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/franchise-management-software/",
   crumb: "Franchise management software",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Franchise Management Software, from ${P.software}`,
-    description: `Franchise management software for tea chains, QSR, salons and education brands: royalty, onboarding, stock indents, SOP audits and dashboards. From ${P.software}.`,
+    title: `Franchise Management Software from ${P.software}`,
+    description: `Royalty billing, outlet onboarding, stock indents, SOP audits and owner dashboards for QSR, tea, salon and education chains. Custom builds from ${P.software}.`,
     keywords: [
       "franchise management software", "franchise management software India", "franchise management system", "franchisor software",
       "franchise royalty calculation software", "franchise royalty management", "franchisee onboarding software", "franchise audit app",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "franchise chalane ka software", "franchise management software developer near me", "franchise management software Delhi",
       "franchise management software company in India",
       "franchise management software services",
+      "restaurant franchise software", "franchise management system india", "franchise royalty billing software",
     ],
   },
   hero: {

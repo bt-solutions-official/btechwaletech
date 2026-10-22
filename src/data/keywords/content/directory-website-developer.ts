@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/directory-website-developer/",
   crumb: "Directory website developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
     title: `Directory Website Developer: Listings from ${P.seoSite}`,
-    description: `Directory website developer for business listing sites: search, filters, maps, paid listings and SEO category pages. Builds from ${P.seoSite}; costs explained.`,
+    description: `Business listing sites with search, filters, maps, paid listings and SEO category pages. Builds from ${P.seoSite}, with running costs explained before you commit.`,
     keywords: [
       "directory website developer", "directory website developer India", "directory website developer near me", "directory website developer for hire",
       "directory website development cost", "business directory website price", "best directory website developer", "directory website banwana hai",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "city guide website developer", "classified listing website developer",
       "hire directory website developer",
       "freelance directory website developer",
+      "business listing website developer india", "classifieds website developer",
     ],
   },
   hero: {

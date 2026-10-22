@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/school-bus-tracking-app/",
   crumb: "School bus tracking app",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `School Bus Tracking App for Schools from ${P.app}`,
-    description: `School bus tracking app with live location, stop alerts, RFID boarding records and a driver app. Built for schools and operators from ${P.app}, in your name.`,
+    title: `School Bus Tracking App: Parent App from ${P.app}`,
+    description: `School bus tracking app from ${P.app}: live GPS location, stop and delay alerts for parents, RFID boarding records and a driver app. In your school’s name.`,
     keywords: [
+      "school bus gps parent app", "school bus tracking app cost",
       "school bus tracking app", "school bus tracking app india", "school bus tracking system", "school bus gps tracking app",
       "bus tracking app for parents", "school van tracking app", "school bus tracking app development", "school bus tracking app cost",
       "school bus tracking app price", "rfid student attendance on school bus", "school bus tracking software", "school transport management software",

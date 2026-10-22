@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/dotnet-framework-to-core-migration/",
   crumb: ".NET Framework to .NET Core migration",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `.NET Framework to .NET Core Migration from ${P.software}`,
-    description: `.NET Framework to .NET Core migration in phases: Web Forms and WCF blockers mapped, NuGet checked, Linux-ready on .NET 10. Projects from ${P.software}.`,
+    description: `Phased migration with Web Forms and WCF blockers mapped first, NuGet packages checked and the result Linux-ready on .NET 10. Projects from ${P.software}.`,
     keywords: [
       ".net framework to .net core migration", ".NET Framework to .NET migration", "migrate .NET Framework 4.8 to .NET 8", "migrate .NET Framework to .NET 10",
       ".net framework to .net core migration cost", ".net core migration services India", "asp.net to asp.net core migration", "asp.net mvc to asp.net core migration",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       ".net migration freelancer", "hire .net migration developer", ".net core migration company alternative", "legacy .net modernization India",
       ".net framework to .net core migration Bengaluru", ".net framework to .net core migration Pune", ".net framework to .net core migration Hyderabad", "dotnet migration kaise kare",
       "port .NET Framework library to .NET Standard", "System.Web adapters migration",
+      "net framework to net core migration cost", "wcf migration alternative", "web forms migration to net core",
     ],
   },
   hero: {

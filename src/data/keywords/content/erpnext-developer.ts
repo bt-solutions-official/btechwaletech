@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/erpnext-developer/",
   crumb: "ERPNext developer",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `ERPNext Developer: Custom Apps from ${P.ai}`,
-    description: `ERPNext developer for custom doctypes, reports, print formats and API integrations, built in a custom Frappe app. Integrations from ${P.ai}; quote in 2 days.`,
+    title: `ERPNext Developer: Custom Frappe Apps from ${P.ai}`,
+    description: `Custom doctypes, reports, print formats and API integrations in a proper Frappe app, not patched core. Integrations from ${P.ai}, quote in 2 working days.`,
     keywords: [
       "erpnext developer", "frappe developer", "hire erpnext developer", "erpnext developer India", "freelance erpnext developer",
       "erpnext customization", "erpnext custom app development", "frappe custom app", "erpnext custom doctype", "erpnext custom report",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "erpnext developer near me", "erpnext developer Hyderabad", "erpnext developer Ahmedabad", "erpnext developer Chennai", "erpnext developer chahiye",
       "frappe framework developer", "erpnext bug fix", "erpnext python developer",
       "best erpnext developer in India",
+      "erpnext customisation developer", "frappe developer india",
     ],
   },
   hero: {

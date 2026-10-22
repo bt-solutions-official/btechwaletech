@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/automation-for-ca-firms/",
   crumb: "Automation for CA firms",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Automation for CA Firms: Tally, GST, WhatsApp ${P.ai}+`,
-    description: `Automation for CA firms: WhatsApp document collection, bank statements into Tally, GSTR-2B reconciliation and due-date reminders. Builds from ${P.ai}.`,
+    description: `WhatsApp document collection, bank statements into Tally, GSTR-2B reconciliation and due-date reminders—built once, then it runs every month. From ${P.ai}.`,
     keywords: [
       "automation for ca firms", "ca firm automation", "automation for chartered accountants", "ca office automation", "automation for ca practice",
       "ca firm workflow automation", "gst reconciliation automation", "gstr 2b reconciliation tool", "bank statement to tally automation",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "ca practice management automation", "tally automation for accountants", "ca firm automation Delhi", "ca firm automation Mumbai",
       "ca firm automation Ahmedabad", "ca firm automation Jaipur", "ca office ka kaam automate kaise kare", "rpa for ca firms",
       "python scripts for accountants", "client data security for ca firms", "automation for ca firms near me",
+      "ca firm automation software", "tally automation for ca", "chartered accountant workflow automation",
     ],
   },
   hero: {

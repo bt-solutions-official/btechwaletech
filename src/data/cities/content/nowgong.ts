@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const nowgong: CityContent = {
   slug: "nowgong",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 25.0574, lng: 79.4381 },
   meta: {
-    title: "IT Services in Nowgong | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Nowgong | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, Maps SEO and WhatsApp automation for Nowgong highway hotels, colleges, grain and dal traders, clinics and shops. Sites from ₹10,000.",
     keywords: [

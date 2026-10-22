@@ -4,6 +4,7 @@ dist/
 
 # dependencies
 node_modules/
+avid-relic-354705-c79b97477fd8.json
 
 # accidental nested artifacts
 src/dist/

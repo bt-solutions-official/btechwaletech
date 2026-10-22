@@ -9,9 +9,9 @@ const P = {
 const content: FreelanceContent = {
   path: "/canada/hvac-website-design/",
   crumb: "HVAC website design Canada",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `HVAC Website Design Canada, Year-Round Leads, ${P.site}+`,
+    title: `HVAC Website Design Canada: No-Heat Calls, ${P.site}+`,
     description: `HVAC website design in Canada from ${P.site}: no-heat emergency buttons, heat pump rebate pages, maintenance plan signups and seasonal furnace and AC content.`,
     keywords: [
       "hvac website design canada", "hvac website design", "heating and cooling website canada", "hvac contractor website",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "hvac seo canada", "how do hvac companies get more leads", "what should an hvac website include",
       "hvac website design near me", "seasonal hvac marketing", "hvac financing page",
       "hire hvac website design in Canada", "freelance hvac website design Canada",
+      "furnace conversion website", "heat pump rebate page",
     ],
   },
   hero: {

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-backend-developer/",
   crumb: "Freelance backend developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
     title: `Freelance Backend Developer: APIs from ${P.software}`,
-    description: `Freelance backend developer in India for APIs, databases, login and security, documented, tested and handed over to you. Custom backends from ${P.software}.`,
+    description: `APIs, databases, authentication and security done properly: documented, tested, rate-limited and handed over with the repo. Backends from ${P.software}.`,
     keywords: [
       "freelance backend developer", "freelance backend developer in India", "freelance backend developer near me", "backend developer for hire",
       "freelance backend developer cost", "backend development price India", "best freelance backend developer", "backend developer chahiye",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "PostgreSQL database developer", "authentication and login developer", "API security freelancer", "backend for mobile app",
       "server side developer freelance", "hire backend developer India", "backend developer for startup", "database design freelancer",
       "hire freelance backend developer",
+      "api backend developer freelance", "node python backend freelancer",
     ],
   },
   hero: {

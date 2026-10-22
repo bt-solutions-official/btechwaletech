@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/real-estate-agent-website-design/",
   crumb: "Real estate agent website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Real Estate Agent Website Design: CRM Feeds, ${P.site}+`,
-    description: `Real estate agent website design for Australian agencies: Rex, VaultRE or Agentbox listing feeds, appraisal forms, suburb pages, rental links. From ${P.site}.`,
+    title: `Real Estate Agent Website Design Australia: ${P.site}+`,
+    description: `Real estate agent website design for Australian agencies: Rex, VaultRE or Agentbox listing feeds, appraisal forms, suburb pages and rental links. From ${P.site}.`,
     keywords: [
       "real estate agent website design", "real estate website design australia", "real estate agency website design",
       "website for real estate agents", "real estate agent website", "real estate website cost australia",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "real estate website design brisbane", "real estate website design perth", "real estate website design gold coast",
       "do real estate agents need a website", "real estate website near me",
       "hire real estate agent website design in Australia", "freelance real estate agent website design Australia",
+      "buyers agent crm australia", "agentbox website", "vaultre website integration",
     ],
   },
   hero: {

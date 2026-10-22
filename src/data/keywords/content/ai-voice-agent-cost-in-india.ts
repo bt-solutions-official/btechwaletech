@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/ai-voice-agent-cost-in-india/",
   crumb: "AI voice agent cost in India",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `AI Voice Agent Cost in India: Builds from ${P.ai}`,
-    description: `AI voice agent cost in India explained: per-minute parts, monthly bills, setup fees, regional-language premiums and telecaller ROI. Builds from ${P.ai}.`,
+    description: `${P.ai} to build, then per-minute telephony, speech-to-text and TTS bills. See the real monthly figure, Hindi and regional premiums, and telecaller payback.`,
     keywords: [
       "ai voice agent cost in india", "ai voice agent price in India", "ai voice agent cost per minute", "ai calling agent cost India",
       "voice ai cost per minute India", "ai voice bot price India", "ai voice agent monthly cost", "ai voice agent setup fee",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "ai voice agent roi", "speech to text cost India", "text to speech cost Hindi", "ai voice agent for small business India",
       "ai voice agent kitne ka padta hai", "ai voice agent cost Delhi", "ai voice agent cost Bengaluru", "ai voice agent cost Mumbai",
       "outbound ai calling cost India", "inbound ai voice agent cost",
+      "voice api price india", "cheapest voice calling api in india", "ai voice agent platforms india", "masked number calling api",
     ],
   },
   hero: {

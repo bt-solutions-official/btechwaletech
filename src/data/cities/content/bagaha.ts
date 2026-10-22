@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const bagaha: CityContent = {
   slug: "bagaha",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 27.1, lng: 84.09 },
   meta: {
-    title: "Bagaha Website Design & SEO | From ₹10,000",
+    title: "Website Design in Bagaha | Hindi SEO from ₹10,000",
     description:
-      "Bagaha websites, Hindi SEO, safari and eco-stay pages, trader catalogues and WhatsApp automation for shops, sugarcane and banana traders, clinics and schools.",
+      "Bagaha websites from ₹10,000, live in 1-2 weeks, with Hindi SEO. Safari and eco-stay pages, trader catalogues and WhatsApp bots for sugarcane firms.",
     keywords: [
       "website development team in Bagaha",
       "web designer Bagaha",
@@ -43,7 +43,7 @@ const bagaha: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Safari and stay pages", "Trader catalogues", "WhatsApp replies"],
   },
   quickAnswer:
-    "In Bagaha, a static website starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, AI and WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are a three-engineer remote team with no office in Bagaha, and the first two months of maintenance are free.",
+    "A Bagaha business website starts at ₹10,000 and goes live in one to two weeks, in Hindi or English. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and stores start at ₹50,000. Pages stay light for slow connections, and two months of upkeep are free.",
   snapshot: [
     { label: "Location", value: "Subdivision headquarters on the left bank of the Gandak in West Champaran, about 64 km north-west of Bettiah" },
     { label: "Administration", value: "Municipal town, subdivision headquarters and a separate police district of Bihar Police" },

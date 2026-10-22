@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const bettiah: CityContent = {
   slug: "bettiah",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 26.8014, lng: 84.5028 },
   meta: {
-    title: "IT Services in Bettiah: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Bettiah | From ₹10,000",
     description:
-      "Bettiah websites, Google Maps listings and WhatsApp tools for traders, sugarcane and rice businesses, clinics, schools and Valmiki Nagar stays. From ₹10,000.",
+      "Bettiah websites from ₹10,000, live in 1-2 weeks, in Hindi. Maps listings and WhatsApp tools for sugarcane and rice traders, clinics, schools and lodges.",
     keywords: [
       "website development team in Bettiah",
       "web designer Bettiah",
@@ -43,7 +43,7 @@ const bettiah: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and Bhojpuri-aware copy", "Marcha rice and chura stores", "Clinic and school sites", "WhatsApp enquiry tools"],
   },
   quickAnswer:
-    "Bettiah shops, clinics and traders can get a static website with up to 100 pages from ₹10,000, delivered in one to two weeks. Bigger 299+ page SEO sites begin at ₹20,000, Marcha rice or chura stores at ₹50,000 and WhatsApp or AI automation at ₹40,000. We have no Bettiah office, and upkeep costs nothing for two months.",
+    "A Bettiah business website starts at ₹10,000 and goes live in one to two weeks, in Hindi or English. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and online stores start at ₹50,000. We are three remote engineers with no Bettiah office, and two months of upkeep are free.",
   snapshot: [
     { label: "District role", value: "Headquarters of West Champaran in Tirhut division, about 225 km north-west of Patna" },
     { label: "Farm economy", value: "West Champaran produced the most sugarcane in Bihar in 2022; sugar production is centred in Majhaulia, Bagaha, Narkatiaganj and Lauriya" },

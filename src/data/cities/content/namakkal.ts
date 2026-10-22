@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const namakkal: CityContent = {
   slug: "namakkal",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 11.2189, lng: 78.1677 },
   meta: {
-    title: "IT Services in Namakkal | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Namakkal | Sites ₹10,000, Apps ₹40,000",
     description:
       "Tamil websites, apps, local SEO and WhatsApp automation for Namakkal poultry farms, lorry body builders, transporters and schools. Sites from ₹10,000.",
     keywords: [

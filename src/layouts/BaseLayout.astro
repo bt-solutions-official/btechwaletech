@@ -23,7 +23,9 @@ const { meta, schema = [] } = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet" />
+    <!-- Roman axis only: the italic face was a second font download on all 2,671 pages, and
+         only 27 of them contain an <em>. Those get a synthesised oblique instead. -->
+    <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@300..700&display=swap" rel="stylesheet" />
     <SEOHead meta={meta} />
     <StructuredData data={[organizationSchema(), websiteSchema(), ...schema]} />
     <!-- Page-specific <head> tags: only the pages that need an extra font or preload pay for it. -->

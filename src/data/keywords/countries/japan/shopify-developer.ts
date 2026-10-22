@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/japan/shopify-developer/",
   crumb: "Shopify developer Japan",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Shopify Developer Japan: JP-Ready Stores from ${P.shop}`,
-    description: `Shopify developer Japan guide: stores from ${P.shop} with a tokushoho page, JCB and konbini checkout, Yamato delivery slots and fast Japanese fonts.`,
+    title: `Shopify Developer Japan: Tokushoho-Ready, ${P.shop}+`,
+    description: `Shopify developer for Japan: stores from ${P.shop} with a tokushoho page, JCB and konbini checkout, Yamato delivery slots and fast Japanese web fonts.`,
     keywords: [
       "shopify developer japan", "shopify developer in japan", "hire shopify developer japan", "shopify expert japan", "shopify freelancer japan",
       "shopify store setup japan", "shopify partner japan alternative", "shopify theme developer japan", "fix my shopify store japan",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "shopify payments japan jcb", "shopify konbini payment", "shopify delivery date time slot japan", "shopify yamato sagawa shipping",
       "shopify japanese font speed", "shopify rise theme japan", "remote shopify developer for japanese brand", "shopify developer india for japan",
       "shopify store for japanese shoppers",
+      "shopify japan tokushoho", "konbini payment shopify", "shopify jcb japan",
     ],
   },
   hero: {

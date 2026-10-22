@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const alappuzha: CityContent = {
   slug: "alappuzha",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 9.4981, lng: 76.3388 },
   meta: {
-    title: "IT Services in Alappuzha: Websites, Apps, SEO & AI",
+    title: "Website Design in Alappuzha | Sites from ₹10,000",
     description:
-      "Alappuzha websites for houseboats and homestays, coir exporter catalogues, local SEO, Maps work and WhatsApp tools. Itemised quotes, from ₹10,000.",
+      "Alappuzha websites from ₹10,000, live in 1-2 weeks. Booking pages for houseboats and homestays, coir exporter catalogues, Maps work and WhatsApp tools.",
     keywords: [
       "website development team in Alappuzha",
       "web designer Alleppey",

@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sendhwa: CityContent = {
   slug: "sendhwa",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 21.6847, lng: 75.0953 },
   meta: {
-    title: "IT Services in Sendhwa | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sendhwa | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, local SEO and WhatsApp automation for Sendhwa cotton ginners, highway transporters, dhabas, farm dealers, clinics and shops. From ₹10,000.",
     keywords: [

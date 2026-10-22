@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const vrindavan: CityContent = {
   slug: "vrindavan",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 27.5833, lng: 77.7 },
   meta: {
-    title: "IT Services in Vrindavan | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Vrindavan | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi and English websites, apps and SEO for Vrindavan guest houses, poshak makers, ashrams, tour operators and shops. From ₹10,000 and live in 1-2 weeks.",
     keywords: [

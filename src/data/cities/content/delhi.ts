@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const delhi: CityContent = {
   slug: "delhi",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 28.6519, lng: 77.2315 },
   meta: {
-    title: "IT Services in Delhi: Websites, Apps, SEO & AI",
+    title: "Website Design Agency in Delhi | From ₹10,000",
     description:
-      "Delhi web design, local SEO, ecommerce and WhatsApp automation for traders, clinics and institutes. From ₹10,000, itemised quotes, 2 months free maintenance.",
+      "Delhi websites from ₹10,000, live in 1-2 weeks, and a full revamp inside two months. Local SEO, ecommerce and WhatsApp automation, with itemised quotes.",
     keywords: [
       "website development team in Delhi",
       "website design team Delhi",
@@ -283,6 +283,11 @@ const delhi: CityContent = {
       question: "What do you need from me to start?",
       answer:
         "A few lines about your business, what you sell, who buys it and which parts of Delhi you serve. Send your existing website link, logo, photos or catalogue if you have them. We will reply with a page plan, timeline and itemised quote, usually within two working days.",
+    },
+    {
+      question: "Can you revamp our existing Delhi website inside two months?",
+      answer:
+        "Yes. Rebuilding a standard business site takes one to two weeks from ₹10,000, and a 299+ page SEO rebuild takes three to five weeks from ₹20,000, so either is finished inside two months. We keep the pages that already rank, redirect the ones we change, and you get an itemised quote before we begin.",
     },
   ],
   nearby: ["new-delhi", "noida", "gurgaon", "faridabad", "loni", "sonipat", "bahadurgarh", "meerut"],

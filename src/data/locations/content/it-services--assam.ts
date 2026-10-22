@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--assam",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 26.2006, lng: 92.9376 },
   meta: {
-    title: "Assam IT Services: Software & AI",
+    title: "IT Services in Assam: Websites ₹10,000, Apps ₹40,000",
     description:
       "Freelance IT services in Assam: custom software, apps, AI automation, dashboards and SEO for Guwahati, Silchar, Dibrugarh and beyond. Prices from ₹10,000.",
     keywords: [

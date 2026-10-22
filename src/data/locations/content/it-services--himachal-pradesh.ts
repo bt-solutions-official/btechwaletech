@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--himachal-pradesh",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 31.8173, lng: 77.3493 },
   meta: {
-    title: "Himachal Pradesh IT Services: Hotels, Pharma & Apps",
+    title: "IT Services in Himachal Pradesh from ₹10,000",
     description:
-      "Freelance IT services across Himachal Pradesh: booking systems, pharma software, AI automation and apps. Starting prices in INR, paid by UPI or bank transfer.",
+      "Freelance IT services across Himachal Pradesh: booking systems, pharma software, AI automation and apps. Sites from ₹10,000, apps ₹40,000, paid by UPI.",
     keywords: [
       "IT services in Himachal Pradesh",
       "software development team in Himachal Pradesh",
@@ -81,7 +81,7 @@ const content: CityContent = {
       heading: "What IT services do businesses in Himachal Pradesh need most?",
       paragraphs: [
         "Businesses in Himachal Pradesh most need four kinds of IT services: direct booking and enquiry systems for tourism, operational software for the pharma and manufacturing belts, sales channels for horticulture and crafts, and search visibility that brings customers from outside the state. BtechWaleTech, a <a href='/about/'>freelance group of three engineers</a>, builds all four remotely.",
-        "The state's economy is unusually split. The upper districts, including Shimla, Kullu, Kangra and Chamba, live on tourism, pilgrimage and orchards, with sharp seasonal peaks. The lower belt around Baddi, Nalagarh, Parwanoo, Kala Amb, Paonta Sahib and Una is industrial, with pharmaceutical and FMCG plants that run year-round and answer to auditors. Towns such as Mandi, Hamirpur, Bilaspur and Dharamshala combine government offices, education and trade.",
+        "The state's economy is unusually split. The upper districts, including Shimla, Kullu, Kangra and Chamba, live on tourism, pilgrimage and orchards, with sharp seasonal peaks. The lower belt around <a href='/it-services/himachal-pradesh/baddi/'>Baddi</a>, Nalagarh, Parwanoo, Kala Amb, Paonta Sahib and Una is industrial, with pharmaceutical and FMCG plants that run year-round and answer to auditors. Towns such as <a href='/it-services/himachal-pradesh/mandi/'>Mandi</a>, Hamirpur, Bilaspur and <a href='/it-services/himachal-pradesh/dharamshala/'>Dharamshala</a> combine government offices, education and trade.",
         "That split means one template does not fit. A homestay in Tirthan valley needs a booking page that loads on one bar of signal. A formulation unit in Baddi needs traceable records. A Kinnaur apple grower needs buyers in Delhi. Our <a href='/services/'>full list of services</a> covers each of these, and the sections below explain how each one applies across the state.",
       ],
     },

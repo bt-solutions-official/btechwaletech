@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-laravel-developer/",
   crumb: "Freelance Laravel developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Freelance Laravel Developer India: Apps from ${P.software}`,
-    description: `Freelance Laravel developer in India for SaaS, portals, REST APIs and version upgrades. Custom web apps from ${P.software}, code in your repo, 2 months free care.`,
+    title: `Freelance Laravel Developer India: Apps ${P.software}+`,
+    description: `Laravel SaaS, portals, REST APIs and version upgrades from ${P.software}. Code in your repo, tests included, and 2 months free care after handover.`,
     keywords: [
       "freelance laravel developer", "freelance laravel developer in India", "laravel developer near me", "laravel developer for hire",
       "hire laravel developer", "laravel developer cost", "laravel developer price India", "best freelance laravel developer",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "laravel livewire developer", "laravel bug fixing freelancer", "PHP laravel freelancer", "laravel portal development",
       "remote laravel developer India", "laravel maintenance freelancer",
       "hire freelance laravel developer",
+      "freelancer laravel developer", "hire laravel developer india",
     ],
   },
   hero: {

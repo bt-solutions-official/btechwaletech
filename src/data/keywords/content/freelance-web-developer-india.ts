@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-web-developer-india/",
   crumb: "Freelance web developer India",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Freelance Web Developer India: Rates from ${P.site}`,
-    description: `Freelance web developer in India for any city: sites from ${P.site}, rates explained, invoices, IST hours, Hindi and regional-language pages. Get a quote.`,
+    title: `Freelance Web Developer in India: Sites from ${P.site}`,
+    description: `A three-person Indian team: websites from ${P.site}, GST invoices, IST working hours, Hindi and regional-language pages. Itemised quote in 2 working days.`,
     keywords: [
       "freelance web developer india", "freelance web developer in India", "freelance web developer India near me", "freelance web developer India for hire",
       "freelance web developer India cost", "freelance web developer India rates", "best freelance web developer India", "India mein freelance web developer",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "Indian freelance web developer", "web developer freelancer India rates", "freelance website developer India", "hire freelance web developer India",
       "freelance web developer tier 2 city", "Hindi website developer", "regional language website developer", "freelance web developer invoice India",
       "remote web developer India", "freelance web developer India price per project",
+      "get web development quote india", "freelance web developer near me", "hire indian web developer",
     ],
   },
   hero: {

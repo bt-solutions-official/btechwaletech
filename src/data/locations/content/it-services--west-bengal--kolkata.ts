@@ -2,7 +2,7 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--west-bengal--kolkata",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 22.5726, lng: 88.3639 },
   meta: {
     title: "Kolkata Software Developers: Wholesale & Trading Houses",
@@ -237,7 +237,7 @@ const content: CityContent = {
       paragraphs: [
         "A Kolkata automation takes two to four weeks, an Android and iOS app six to ten weeks, a store four to eight weeks and custom software six to twelve weeks. Each follows a call, an itemised scope, weekly builds with a live preview, testing with your staff and launch with two months of free maintenance.",
         "We ask early for sample invoices, registers, shipment files or current spreadsheets, because they show how your process really works. Training is recorded in English, Bengali or Hindi, and support runs on WhatsApp seven days a week. Plan launches around your peaks, such as Puja for retail and restaurants.",
-        "See <a href='/portfolio/'>past work</a>, the <a href='/it-services/west-bengal/'>West Bengal overview</a> or our <a href='/it-services/west-bengal/howrah/'>Howrah page</a> across the river.",
+        "See <a href='/portfolio/'>past work</a>, the <a href='/it-services/west-bengal/'>West Bengal overview</a> or our <a href='/it-services/west-bengal/howrah/'>Howrah page</a> across the river. If you want the consulting side first, a review and a written roadmap before any build, read <a href='/india/west-bengal/kolkata/'>IT consulting in Kolkata</a>.",
       ],
     },
   ],

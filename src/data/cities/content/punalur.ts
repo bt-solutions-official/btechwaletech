@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const punalur: CityContent = {
   slug: "punalur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 9.0169, lng: 76.9261 },
   meta: {
-    title: "IT Services in Punalur: Web, Apps & AI from ₹10,000",
+    title: "IT Services in Punalur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, Malayalam SEO and WhatsApp automation for Punalur plywood units, pepper traders, market wholesalers, Thenmala stays and clinics. From ₹10,000.",
     keywords: [

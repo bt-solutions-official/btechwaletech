@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/cleaning-company-website/",
   crumb: "Cleaning company website",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Cleaning Company Website with Instant Quotes, ${P.site}+`,
-    description: `Cleaning company website with deep-cleaning packages, instant quotes by BHK or sq ft, staff trust pages and contract forms. From ${P.site}, live in 1–2 weeks.`,
+    description: `Deep-cleaning packages, an instant quote by BHK or square feet, staff trust pages and contract forms. From ${P.site}, live in 1–2 weeks, with local SEO ready.`,
     keywords: [
       "cleaning company website", "cleaning company website design", "cleaning services website", "house cleaning website",
       "deep cleaning website", "housekeeping company website", "facility management company website", "website for cleaning business",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "cleaning company website near me", "cleaning company website Bangalore", "cleaning company website Pune", "cleaning company website Mumbai",
       "how to get cleaning clients online", "cleaning company SEO", "facility management website development", "safai company ki website",
       "sofa and carpet cleaning website", "best website for cleaning company",
+      "cleaning company website design india", "seo for cleaning company",
     ],
   },
   hero: {

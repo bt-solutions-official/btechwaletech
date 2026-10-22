@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/jewellery-website-design/",
   crumb: "Jewellery website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Jewellery Website Design: Live Gold Rates from ${P.site}`,
-    description: `Jewellery website design from ${P.site}: live gold and silver rates, weight pricing, HUID, video-call viewing and gold scheme pages. Quote in 2 days.`,
+    title: `Jewellery Website Design: Live Gold Rates, ${P.site}`,
+    description: `Jewellery website design from ${P.site}: live gold and silver rates, weight and making-charge pricing, HUID fields, video-call viewing and gold scheme pages.`,
     keywords: [
       "jewellery website design", "jewellery website design India", "jewellery shop website", "jewellery website development",
       "gold jewellery website", "jewellery ecommerce website", "jewellery online store India", "website for jewellery shop",

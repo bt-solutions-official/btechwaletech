@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const narwana: CityContent = {
   slug: "narwana",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 29.6167, lng: 76.1117 },
   meta: {
-    title: "IT Services in Narwana | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Narwana | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, local SEO and WhatsApp automation for Narwana arhtiyas, rice shellers, IIDC units, coaching centres, clinics and shops. From ₹10,000.",
     keywords: [

@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const vedaranyam: CityContent = {
   slug: "vedaranyam",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 10.3774, lng: 79.8495 },
   meta: {
-    title: "IT Services in Vedaranyam: Websites, Apps, SEO & AI",
+    title: "Website Design in Vedaranyam | From ₹10,000",
     description:
-      "Tamil websites, apps, local SEO and WhatsApp automation for Vedaranyam salt firms, seafood traders, pilgrim lodges, clinics and shops. From ₹10,000.",
+      "Vedaranyam websites from ₹10,000, live in 1-2 weeks, with Tamil pages. Apps, local SEO and WhatsApp automation for salt firms, seafood traders and lodges.",
     keywords: [
       "IT services in Vedaranyam",
       "IT company in Vedaranyam",

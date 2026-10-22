@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--arunachal-pradesh",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 28.218, lng: 94.7278 },
   meta: {
-    title: "Arunachal Pradesh IT Services: Apps & AI",
+    title: "IT Services in Arunachal Pradesh from ₹10,000",
     description:
       "Freelance IT services in Arunachal Pradesh: tourism booking systems, software, plus Android and iOS apps. Websites from ₹10,000, quote in two working days.",
     keywords: [
@@ -97,7 +97,7 @@ const content: CityContent = {
       id: "tourism-booking-arunachal",
       heading: "Booking websites and software for Arunachal homestays and tour operators",
       paragraphs: [
-        "A booking system for an Arunachal homestay or tour operator lets travellers see rooms, packages and prices, send dates and group size, pay an advance and receive a confirmation, without waiting days for a phone call to connect. Tourism to Tawang, Dirang, Ziro, Mechuka, Pasighat and the Siang valley depends heavily on trust built before the traveller sets out.",
+        "A booking system for an Arunachal homestay or tour operator lets travellers see rooms, packages and prices, send dates and group size, pay an advance and receive a confirmation, without waiting days for a phone call to connect. Tourism to Tawang, Dirang, Ziro, Mechuka, <a href='/it-services/arunachal-pradesh/pasighat/'>Pasighat</a> and the Siang valley depends heavily on trust built before the traveller sets out.",
         "We build websites with honest photos, room and package details, seasonal pricing, route and road-condition notes, and clear information on the Inner Line Permit for Indian visitors and the Protected Area Permit for foreigners, with links to official application pages. Bookings come in through a form or WhatsApp, and advances are collected by UPI or card through a payment gateway account in your own name.",
         "Tour operators get itinerary builders that combine destinations, vehicle type and hotel category into an estimate, plus trip software that tracks bookings, vehicles, drivers and permits per group. Owners see upcoming departures and pending advances in one list.",
         "We do not process permits and never suggest that we can. Your site points travellers to the official government system, and your team can help them with it as you already do.",
@@ -145,7 +145,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for Arunachal Pradesh businesses means appearing when people plan trips or look for services, often from outside the state: searches like homestay in Dirang, Tawang tour package from Guwahati, or Ziro festival stay. It combines fast pages, detailed destination content, a complete Google Business Profile, reviews and consistent listings.",
         "Travellers want practical detail, so we write pages that answer real questions: how many days a route needs, which months are best, how permits work, what the roads are like and where to stay. That content ranks, and it is also what AI assistants quote when someone asks them to plan an Arunachal trip.",
-        "For local services in Itanagar, Naharlagun or Pasighat, such as clinics, schools, showrooms and contractors, we build service pages and set up Google Business Profiles properly.",
+        "For local services in Itanagar, <a href='/it-services/arunachal-pradesh/naharlagun/'>Naharlagun</a> or Pasighat, such as clinics, schools, showrooms and contractors, we build service pages and set up Google Business Profiles properly.",
         "Static websites start at ₹10,000, SEO websites with 700+ planned pages at ₹20,000, and monthly SEO at ₹10,000. More on our <a href='/services/seo-services/'>SEO services</a> page. We never guarantee rankings.",
       ],
     },
@@ -238,7 +238,7 @@ const content: CityContent = {
       heading: "Arunachal Pradesh towns and districts we serve remotely",
       paragraphs: [
         "BtechWaleTech serves businesses and institutions across Arunachal Pradesh remotely, with dedicated pages for the capital and key tourism towns. The same engineers, process and starting prices apply in every district.",
-        "See <a href='/it-services/arunachal-pradesh/itanagar/'>Itanagar</a> for the capital region's offices, schools, clinics and contractors, and <a href='/it-services/arunachal-pradesh/tawang/'>Tawang</a> for monastery tourism, homestays and travel operators. We also work with businesses in Naharlagun, Pasighat, Ziro, Bomdila, Dirang, Namsai, Tezu, Roing and Aalo.",
+        "See <a href='/it-services/arunachal-pradesh/itanagar/'>Itanagar</a> for the capital region's offices, schools, clinics and contractors, and <a href='/it-services/arunachal-pradesh/tawang/'>Tawang</a> for monastery tourism, homestays and travel operators. We also work with businesses in Naharlagun, Pasighat, Ziro, Bomdila, Dirang, <a href='/it-services/arunachal-pradesh/namsai/'>Namsai</a>, Tezu, Roing and Aalo.",
         "For neighbouring states, visit the national <a href='/it-services/'>IT services hub</a>, or see nearby city pages such as <a href='/guwahati/'>Guwahati</a> and <a href='/dibrugarh/'>Dibrugarh</a>.",
       ],
     },

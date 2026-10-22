@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const dhamtari: CityContent = {
   slug: "dhamtari",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 20.71, lng: 81.55 },
   meta: {
-    title: "IT Services in Dhamtari | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Dhamtari | Sites ₹10,000, Apps ₹40,000",
     description:
       "Dhamtari Hindi websites, mobile apps, local SEO and WhatsApp bots for rice millers, timber traders, Gangrel resorts, schools, clinics and shops. From ₹10,000.",
     keywords: [

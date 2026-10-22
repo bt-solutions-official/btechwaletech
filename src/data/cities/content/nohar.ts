@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const nohar: CityContent = {
   slug: "nohar",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 29.1833, lng: 74.7667 },
   meta: {
-    title: "IT Services in Nohar | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Nohar | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, local SEO and WhatsApp tools for Nohar mandi traders, farm input dealers, Gogamedi pilgrim services, schools and clinics. From ₹10,000.",
     keywords: [

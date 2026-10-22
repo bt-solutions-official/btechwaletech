@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--gujarat--ahmedabad",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 23.0225, lng: 72.5714 },
   meta: {
     title: "Ahmedabad Software Developers: Chemicals & Textiles",
     description:
-      "Freelance software developers in Ahmedabad for custom ERP, startup MVPs, Android and iOS apps, AI agents and cloud. Starting prices, 3 engineers, UPI or bank.",
+      "Freelance software developers in Ahmedabad for custom ERP, startup MVPs, Android and iOS apps, AI agents and cloud. ERPs from ₹60,000, apps from ₹40,000.",
     keywords: [
       "software development team in Ahmedabad",
       "IT services team in Ahmedabad",
@@ -215,7 +215,7 @@ const content: CityContent = {
       heading: "Freelance developers vs a software development team in Ahmedabad",
       paragraphs: [
         "A software development team in Ahmedabad suits projects needing large teams, on-site staff or enterprise contracts; freelance developers like BtechWaleTech suit focused systems, MVPs, apps and automations where you want to talk directly to the engineers, pay lower overheads and own everything. Judge both on the same criteria.",
-        "Ask who writes the code, how often you see working builds, whose name the repository, hosting, domain and app-store accounts are in, and what support costs after launch. We are three independent engineers working remotely, as our <a href='/about/'>about page</a> explains, with samples on our <a href='/portfolio/'>portfolio</a>. We have no Ahmedabad office and do not offer on-site staff. For nearby markets, see our <a href='/it-services/gujarat/vadodara/'>Vadodara page</a> and <a href='/it-services/gujarat/surat/'>Surat page</a>.",
+        "Ask who writes the code, how often you see working builds, whose name the repository, hosting, domain and app-store accounts are in, and what support costs after launch. We are three independent engineers working remotely, as our <a href='/about/'>about page</a> explains, with samples on our <a href='/portfolio/'>portfolio</a>. We have no Ahmedabad office and do not offer on-site staff. For nearby markets, see our <a href='/it-services/gujarat/vadodara/'>Vadodara page</a> and <a href='/it-services/gujarat/surat/'>Surat page</a>. If you want the consulting side first, a review and a written roadmap before any build, read <a href='/india/gujarat/ahmedabad/'>IT consulting in Ahmedabad</a>.",
       ],
       list: [
         "<strong>Direct access:</strong> message the engineer, not an account manager",

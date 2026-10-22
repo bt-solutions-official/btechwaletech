@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/app-rejected-by-google-play/",
   crumb: "App rejected by Google Play",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: "App Rejected by Google Play? Fix, Resubmit or Appeal",
-    description: `App rejected by Google Play? We read the email, fix the policy issue and resubmit. Quote in 2 working days; app care from ${P.care}, new builds from ${P.app}.`,
+    title: `App Rejected by Google Play? Fix and Resubmit Fast`,
+    description: `Match the named policy to the exact screen, permission or listing field, fix every instance, deactivate the bundle and resubmit. Appeal only if Google erred.`,
     keywords: [
       "app rejected by google play", "google play app rejected", "play store app rejected", "app rejected on play store",
       "google play rejection email", "why was my app rejected by google play", "how to fix google play rejection",
@@ -25,6 +25,8 @@ const content: FreelanceContent = {
       "google play rejection fix service india", "play store rejection help near me", "app reject ho gaya play store",
       "google play review time after rejection", "loan app rejected google play india", "minimum functionality rejection",
       "google play rejection fix cost",
+      "android tv app rejection reasons", "how to appeal an app rejected by google play policy review", "google play rejected my app",
+      "app says rejected play console",
     ],
   },
   hero: {

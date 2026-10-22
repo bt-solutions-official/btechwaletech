@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/transport-management-software/",
   crumb: "Transport management software for transporters",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Transport Management Software: LR-POD, ${P.software}+`,
-    description: `Transport management software for transporters: LR/bilty, trip sheets, driver and freight advances, broker and party ledgers, e-way bills, POD. From ${P.software}.`,
+    title: `Transport Bilty, LR & Management Software: ${P.software}`,
+    description: `Transport management software with bilty and LR entry, trip sheets, driver and freight advances, broker and party ledgers, e-way bills and POD. From ${P.software}.`,
     keywords: [
+      "transport bilty software", "transport lr software", "bilty software",
       "transport management software for transporters", "transport management software", "transporter software", "transport software India",
       "lorry receipt software", "LR bilty software", "bilty software for transport", "trip sheet software", "truck transport software",
       "fleet owner accounting software", "broker ledger software for transport", "party ledger for transporters", "driver advance software",
@@ -426,6 +427,7 @@ const content: FreelanceContent = {
     { question: "What maintenance do you provide after launch?", answer: `The first two months after go-live are free and cover bug fixes, small format changes and help while staff settle in. After that, maintenance starts at ${P.care} and usually includes security updates, server checks, Android updates for the driver app and minor changes. New modules or branches are quoted separately.` },
     { question: "Do you visit our transport office for training?", answer: "No. We are a remote freelance team in India and do not make site visits. Training happens through short videos in Hindi and English and live video calls during the first week of each branch switch. A senior clerk in your office usually becomes the internal trainer for new staff." },
     { question: "Transport ka software banwane mein kitna kharcha aayega?", answer: `BtechWaleTech ke saath transport office ka software ${P.software} se shuru hota hai, aur driver app ${P.app} se. Kharcha is par depend karta hai ki kitni branches hain, broker aur market gaadi ka hisaab kaise chalta hai, aur Tally ya GPS se jodna hai ya nahi. Aapki bilty aur challan ki photo dekh kar hum lagbhag do working days mein itemised quote bhejte hain.` },
+    { question: "Is bilty software the same as LR software?", answer: "Yes, in practice. Bilty, LR and consignment note are three names for the same document that travels with a load, and transporters use whichever word is local to them. The software records it once — consignor, consignee, goods, freight terms and e-way bill details — and every trip sheet, ledger and POD screen reads from that single entry." },
   ],
   related: {
     heading: "Related pages for transporters and logistics businesses",

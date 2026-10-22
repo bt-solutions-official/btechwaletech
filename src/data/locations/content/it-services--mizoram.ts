@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--mizoram",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 23.1645, lng: 92.9376 },
   meta: {
-    title: "Mizoram IT Services: Software, Apps & AI",
+    title: "IT Services in Mizoram: Websites from ₹10,000",
     description:
       "Freelance IT services in Mizoram, from Aizawl to Lunglei and Champhai: custom software, apps, AI automation, dashboards and SEO. From ₹10,000.",
     keywords: [

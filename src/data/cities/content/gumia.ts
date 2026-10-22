@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const gumia: CityContent = {
   slug: "gumia",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 23.8106, lng: 85.8232 },
   meta: {
-    title: "IT Services in Gumia | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Gumia | Sites ₹10,000, Apps ₹40,000",
     description:
       "Gumia (Gomia) websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for mining contractors, suppliers, schools, clinics and local shops.",
     keywords: [

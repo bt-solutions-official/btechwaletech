@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/chrome-extension-development/",
   crumb: "Chrome extension development",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Chrome Extension Development: MV3 Builds from ${P.ai}`,
-    description: `Chrome extension development for workflows and SaaS tools: Manifest V3, side panels, login and Web Store publishing. Builds from ${P.ai}, code in your repo.`,
+    title: `Chrome Extension Development: MV3 from ${P.ai}`,
+    description: `Manifest V3 extensions for workflows and SaaS tools: side panels, login, storage sync and Web Store publishing. Builds from ${P.ai}, code in your repo.`,
     keywords: [
       "chrome extension development", "chrome extension developer", "custom chrome extension development", "chrome extension development cost",
       "how much does it cost to build a chrome extension", "chrome extension developer India", "hire chrome extension developer",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "chrome extension development company in India",
       "best chrome extension development in India",
       "chrome extension development services",
+      "manifest v3 developer india", "chrome extension developer freelance",
     ],
   },
   hero: {

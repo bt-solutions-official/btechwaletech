@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/school-management-software-price/",
   crumb: "School management software price",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `School Management Software Price: Own It from ${P.software}`,
-    description: `School management software price in India explained: per-student subscriptions vs owning your system from ${P.software}, fees, attendance, parent app and AMC.`,
+    title: `School Management Software Price: Own It, ${P.software}`,
+    description: `School management software price in India: per-student subscriptions compared with owning your own system from ${P.software} — fees, attendance, parent app, AMC.`,
     keywords: [
       "school management software price", "school management software price in India", "school ERP price", "school software cost per student",
       "school management system price", "school ERP software cost India", "fee management software for school price", "school attendance software price",

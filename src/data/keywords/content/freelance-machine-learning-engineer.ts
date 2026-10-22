@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-machine-learning-engineer/",
   crumb: "Freelance machine learning engineer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
     title: `Freelance Machine Learning Engineer, from ${P.ai}`,
-    description: `Freelance machine learning engineer for forecasting, classification and data readiness checks. Projects from ${P.ai}, models you own. Ask for a quote.`,
+    description: `Forecasting, classification and a data-readiness check before any model is trained. Projects from ${P.ai}, and the models stay yours. Ask for a scoped quote.`,
     keywords: [
       "freelance machine learning engineer", "freelance machine learning engineer India", "machine learning engineer near me", "machine learning engineer for hire",
       "machine learning project cost", "ML model development price India", "best freelance ML engineer", "ML engineer chahiye",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "ML model deployment freelancer", "Python machine learning freelancer", "scikit-learn developer", "machine learning consultant for small business",
       "predictive analytics freelancer", "freelance data scientist ML",
       "hire freelance machine learning engineer",
+      "ml consultant india", "demand forecasting project india",
     ],
   },
   hero: {

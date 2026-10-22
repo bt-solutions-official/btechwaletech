@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sarni: CityContent = {
   slug: "sarni",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 22.104, lng: 78.173 },
   meta: {
-    title: "IT Services in Sarni | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sarni | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, Hindi local SEO and WhatsApp automation for Sarni and Pathakhera contractors, shops, clinics, schools and coaching classes. From ₹10,000.",
     keywords: [

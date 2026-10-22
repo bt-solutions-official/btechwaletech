@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bakery-website-design/",
   crumb: "Bakery website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Bakery Website Design: Cake Orders from ${P.site}`,
-    description: `Bakery website design for cake shops and home bakers: cake ordering from ${P.shop}, WhatsApp order sites from ${P.site}. Pincode slots, UPI, quote in 2 days.`,
+    description: `WhatsApp order sites from ${P.site} and full cake-ordering stores from ${P.shop}: pincode slots, photo uploads, UPI payment and same-day cut-offs.`,
     keywords: [
       "bakery website design", "bakery website design India", "cake shop website", "online cake ordering website",
       "bakery website with online ordering", "cake delivery website", "home baker website", "bakery ecommerce website",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "bakery website design company in India",
       "best bakery website design in India",
       "bakery website design services",
+      "cake order website development", "home baker website india",
     ],
   },
   hero: {

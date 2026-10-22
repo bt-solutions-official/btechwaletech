@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/website-maintenance/",
   crumb: "Website maintenance",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Maintenance Services in Bhiwadi from ${P.care}`,
-    description: `Website maintenance services in Bhiwadi from ${P.care}: updates, backups, security and fixes, 2 months free after launch, agreed face to face in Bhiwadi.`,
+    title: `Website Maintenance in Bhiwadi from ${P.care}`,
+    description: `Website maintenance services in Bhiwadi from ${P.care}: updates, bug fixes, off-site backups, security and uptime checks. First 2 months free.`,
     keywords: [
       "website maintenance services in Bhiwadi", "website maintenance Bhiwadi", "website maintenance near me",
       "website maintenance services in Bhiwadi Rajasthan", "website maintenance Bhiwadi Alwar", "website maintenance company in Bhiwadi",
@@ -49,7 +49,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What do website maintenance services in Bhiwadi include, and what do they cost?",
-    text: `Our website maintenance services in Bhiwadi start at ${P.care} and cover content updates, bug fixes, core and plugin updates, off-site backups, security checks, and speed and uptime monitoring. Sites we build get the first two months free. The exact list of tasks and the volume of changes for your site are written into the care plan you approve.`,
+    text: `From ${P.care}, and free for the first two months on sites we build. The plan covers content updates, bug fixes, core and plugin updates, off-site backups, security checks, and speed and uptime monitoring. The exact task list and the volume of changes for your site are written into the plan you approve.`,
     more: `If you run WordPress, see our <a href='/bhiwadi-rajasthan/wordpress-developer/'>WordPress developer in Bhiwadi</a> page; national price ranges are on <a href='/website-maintenance-charges/'>website maintenance charges</a>.`,
   },
   snapshot: {

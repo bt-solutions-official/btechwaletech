@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const bhadrak: CityContent = {
   slug: "bhadrak",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 21.0583, lng: 86.4958 },
   meta: {
-    title: "Bhadrak Websites, Odia SEO & WhatsApp Automation",
+    title: "Website Design in Bhadrak | Odia SEO from ₹10,000",
     description:
-      "Bhadrak website design, Odia local SEO, rice mill software, seafood and port-vendor sites, and WhatsApp automation for shops, clinics, colleges and traders.",
+      "Bhadrak websites from ₹10,000, live in 1-2 weeks, with Odia SEO. Rice mill software, seafood and port-vendor sites, and WhatsApp bots for shops and clinics.",
     keywords: [
       "website development team in Bhadrak",
       "web designer Bhadrak",
@@ -43,7 +43,7 @@ const bhadrak: CityContent = {
     pills: ["Websites from ₹10,000", "Odia and English pages", "Rice mill records", "Seafood and port vendors", "Your name on everything"],
   },
   quickAnswer:
-    "A Bhadrak shop, clinic or college can get a website from ₹10,000, ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000, an online store at ₹50,000 and custom software such as rice mill records at ₹60,000. We are remote, and you own the domain and code.",
+    "A Bhadrak business website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, stores start at ₹50,000 and rice mill software at ₹60,000. Odia pages are available, and two months of maintenance are free.",
   snapshot: [
     { label: "Name and setting", value: "Named after Maa Bhadrakali, whose temple stands on the Salandi river; on NH 16 about 130 km north-east of Bhubaneswar" },
     { label: "Population", value: "About 1.07 lakh in the town and 15 lakh in the district (Census 2011)" },

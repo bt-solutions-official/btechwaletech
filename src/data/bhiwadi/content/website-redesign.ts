@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/website-redesign/",
   crumb: "Website redesign",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: "Website Redesign in Bhiwadi Without Losing Rankings",
-    description: `Website redesign in Bhiwadi from ${P.site}: new design, 301 redirects and content moved without losing Google traffic. Planned one to one in Bhiwadi.`,
+    title: `Website Redesign in Bhiwadi from ${P.site}: Keep Ranks`,
+    description: `Website redesign in Bhiwadi from ${P.site}, live in 1–2 weeks: a full 301 redirect map, so the pages that already rank keep their Google traffic.`,
     keywords: [
       "website redesign in Bhiwadi", "website redesign Bhiwadi", "website redesign near me", "website redesign in Bhiwadi Rajasthan",
       "website redesign services Bhiwadi Alwar", "website redesign company in Bhiwadi", "redesign old website Bhiwadi",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How do you do a website redesign in Bhiwadi without losing Google rankings?",
-    text: `Keep every URL that ranks, and 301-redirect the ones that must change to their closest new page, never all to the homepage. Carry over titles, headings and content that already earn traffic, test on a staging copy, then submit the new sitemap in Search Console. With us, a website redesign in Bhiwadi starts at ${P.site} and includes the redirect map.`,
+    text: `From ${P.site} and live in 1–2 weeks, redirect map included. Keep every URL that ranks, and 301-redirect the ones that must change to their closest new page, never all to the homepage. Carry over titles, headings and content that already earn traffic, test on a staging copy, then submit the new sitemap in Search Console.`,
     more: `National cost ranges are on <a href='/website-redesign-cost-in-india/'>website redesign cost in India</a>; if the site first needs a health check, see our <a href='/bhiwadi-rajasthan/seo-audit/'>SEO audit in Bhiwadi</a>.`,
   },
   snapshot: {

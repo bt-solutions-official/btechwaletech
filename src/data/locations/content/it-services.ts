@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 20.5937, lng: 78.9629 },
   meta: {
-    title: "India IT Services: Software, Apps & AI",
+    title: "IT Services in India: Websites ₹10,000, Apps ₹40,000",
     description:
-      "IT services in India: custom software, web and mobile apps, AI automation, SEO and ecommerce. Starting prices published, quotes in 2 days, every state served.",
+      "IT services across India from three freelance engineers: websites ₹10,000, apps and AI automation ₹40,000, custom software ₹60,000. Itemised quote in 2 days.",
     keywords: [
       "IT services in India",
       "IT services team in India",
@@ -49,7 +49,7 @@ const content: CityContent = {
     pills: ["Software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "All 28 states and UTs", "Replies 7 days a week"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three engineers offering IT services in India, fully remote. Websites start at ₹10,000, AI automation and Android and iOS apps at ₹40,000, stores at ₹50,000 and custom software at ₹60,000. Most projects go live in 1 to 12 weeks, an itemised quote arrives in about two working days, and two months of maintenance are free.",
+    "BtechWaleTech is a freelance group of three engineers offering IT services across India, fully remote. Websites start at ₹10,000, AI automation and Android and iOS apps at ₹40,000, stores at ₹50,000 and custom software at ₹60,000. Projects go live in 1 to 12 weeks, and two months of maintenance are free.",
   snapshot: [
     { label: "Major IT hubs", value: "Bengaluru, Hyderabad, Pune, Chennai, the Delhi NCR belt (Gurugram and Noida), Mumbai and Kolkata" },
     { label: "Fast-growing tier-2 tech cities", value: "Coimbatore, Kochi, Jaipur, Indore, Ahmedabad, Chandigarh, Visakhapatnam, Bhubaneswar and Lucknow" },
@@ -198,7 +198,7 @@ const content: CityContent = {
       heading: "Which states do we serve? IT services in every region of India",
       paragraphs: [
         "We serve clients in every Indian state and union territory, because all our work is delivered remotely over calls, screen shares and WhatsApp. Being remote means a business in a district town gets the same engineers and the same starting prices as one in a metro.",
-        "In the south we work with firms across <a href='/it-services/andhra-pradesh/'>Andhra Pradesh</a>, Telangana, Tamil Nadu, Karnataka and Kerala, where port trade, pharma, textiles, education and healthcare dominate. In the west, Maharashtra and Gujarat bring manufacturers, traders and exporters. The north covers Delhi, Uttar Pradesh, Haryana, Punjab, Rajasthan and the hill states, with retail, education, tourism and SMEs. The east and north-east include West Bengal, Odisha, Bihar, Jharkhand, Assam and <a href='/it-services/arunachal-pradesh/'>Arunachal Pradesh</a>, where tourism, tea, public institutions and local trade are moving online.",
+        "In the south we work with firms across <a href='/it-services/andhra-pradesh/'>Andhra Pradesh</a>, <a href='/it-services/telangana/'>Telangana</a>, <a href='/it-services/tamil-nadu/'>Tamil Nadu</a>, <a href='/it-services/karnataka/'>Karnataka</a> and <a href='/it-services/kerala/'>Kerala</a>, where port trade, pharma, textiles, education and healthcare dominate. In the west, <a href='/it-services/maharashtra/'>Maharashtra</a>, <a href='/it-services/gujarat/'>Gujarat</a> and <a href='/it-services/goa/'>Goa</a> bring manufacturers, traders, exporters and tourism. Central India covers <a href='/it-services/madhya-pradesh/'>Madhya Pradesh</a> and <a href='/it-services/chhattisgarh/'>Chhattisgarh</a>. The north covers <a href='/it-services/delhi/'>Delhi</a>, <a href='/it-services/uttar-pradesh/'>Uttar Pradesh</a>, <a href='/it-services/haryana/'>Haryana</a>, <a href='/it-services/punjab/'>Punjab</a>, <a href='/it-services/rajasthan/'>Rajasthan</a> and the hill states of <a href='/it-services/himachal-pradesh/'>Himachal Pradesh</a>, <a href='/it-services/uttarakhand/'>Uttarakhand</a> and <a href='/it-services/jammu-and-kashmir/'>Jammu and Kashmir</a>, with retail, education, tourism and SMEs. The east and north-east include <a href='/it-services/west-bengal/'>West Bengal</a>, <a href='/it-services/odisha/'>Odisha</a>, <a href='/it-services/bihar/'>Bihar</a>, <a href='/it-services/jharkhand/'>Jharkhand</a>, <a href='/it-services/assam/'>Assam</a>, <a href='/it-services/sikkim/'>Sikkim</a>, <a href='/it-services/meghalaya/'>Meghalaya</a>, <a href='/it-services/manipur/'>Manipur</a>, <a href='/it-services/mizoram/'>Mizoram</a>, <a href='/it-services/nagaland/'>Nagaland</a>, <a href='/it-services/tripura/'>Tripura</a> and <a href='/it-services/arunachal-pradesh/'>Arunachal Pradesh</a>, where tourism, tea, public institutions and local trade are moving online.",
         "Each state hub on this site explains the local economy and how our services apply there, with city pages below it. You can also browse our main city pages such as <a href='/bengaluru/'>Bengaluru</a>, <a href='/hyderabad/'>Hyderabad</a> and <a href='/delhi/'>Delhi</a>, or the full <a href='/india/'>India locations list</a>.",
       ],
     },

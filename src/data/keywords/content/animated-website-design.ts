@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/animated-website-design/",
   crumb: "Animated website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Animated Website Design: Fast Motion from ${P.site}`,
-    description: `Animated website design with GSAP, Lottie and Motion that keeps Core Web Vitals green and respects reduced motion. Sites from ${P.site}; quote in 2 days.`,
+    description: `GSAP, Lottie and Motion animation that still keeps Core Web Vitals green and respects reduced-motion settings. Sites from ${P.site}, quote in 2 working days.`,
     keywords: [
       "animated website design", "animated website designer", "animated website development", "website with animation",
       "scroll animation website", "scroll triggered animation website", "gsap website developer", "gsap scrolltrigger developer",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "animated website design company in India",
       "animated website design near me",
       "best animated website design in India",
+      "motion website design cost",
     ],
   },
   hero: {

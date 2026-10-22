@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/web-developer-for-sydney-businesses/",
   crumb: "Web developer Sydney",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Web Developer Sydney: remote team, sites from ${P.site}`,
-    description: `Web developer Sydney businesses can brief by video call: remote team in India, overlap with your afternoons, sites from ${P.site}, stores from ${P.shop}.`,
+    title: `Web Developer Sydney: Remote Team, Sites from ${P.site}`,
+    description: `Web developer Sydney businesses brief by video call: three developers in India, overlap with your afternoons, sites from ${P.site}, stores from ${P.shop}.`,
     keywords: [
       "web developer sydney", "web developer in sydney", "freelance web developer sydney", "website developer sydney",
       "web design sydney", "remote web developer sydney", "affordable web developer sydney", "web developer sydney cost",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "web developer chatswood", "web developer near me sydney", "sydney agency alternative", "offshore web developer australia",
       "tradie website sydney", "restaurant website sydney", "law firm website sydney", "nsw fair trading licence number website",
       "web developer nsw", "hire web developer sydney",
+      "web developer services australia", "web design development agency sydney",
     ],
   },
   hero: {

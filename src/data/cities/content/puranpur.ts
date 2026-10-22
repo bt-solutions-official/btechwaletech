@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const puranpur: CityContent = {
   slug: "puranpur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 28.5167, lng: 80.1500 },
   meta: {
-    title: "IT Services in Puranpur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Puranpur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, Maps SEO and WhatsApp automation for Puranpur cane growers, rice mills, Chuka Beach homestays, shops and clinics. Sites from ₹10,000.",
     keywords: [

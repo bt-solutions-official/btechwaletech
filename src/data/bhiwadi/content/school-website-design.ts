@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/school-website-design/",
   crumb: "School website design",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
     title: `School Website Design in Bhiwadi from ${P.site}`,
-    description: `School website design in Bhiwadi from ${P.site}: admissions pages, notices, fee details and CBSE disclosures. We meet your principal one to one at the school.`,
+    description: `School website design in Bhiwadi from ${P.site}, live in 1–2 weeks: admissions and fee pages, notices, gallery and the CBSE mandatory disclosure section.`,
     keywords: [
       "school website design in Bhiwadi", "school website design Bhiwadi", "school website designer near me", "school website design in Bhiwadi Rajasthan",
       "school website Bhiwadi Alwar", "school website developer Bhiwadi", "school website design designer Bhiwadi", "school website services Bhiwadi",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does school website design in Bhiwadi cost, and what should it include?",
-    text: `School website design in Bhiwadi with us starts at ${P.site} for a static site of up to 100 pages, usually built in 1–2 weeks. That covers admissions, fee information, notices, gallery, contact and a mandatory disclosure section for CBSE schools. Online fee payment, parent logins or results portals are separate line items, and we first meet your team face to face at the school.`,
+    text: `From ${P.site} for a static site of up to 100 pages, usually built in 1–2 weeks. That covers admissions, fee information, notices, gallery, contact and a mandatory disclosure section for CBSE schools. Online fee payment, parent logins or results portals are separate line items, quoted after we meet your principal.`,
     more: `If you also need fees, attendance and report cards handled in software, read <a href='/bhiwadi-rajasthan/school-management-software/'>school management software in Bhiwadi</a>; coaching centres should see <a href='/bhiwadi-rajasthan/coaching-institute-website/'>coaching institute websites</a>.`,
   },
   snapshot: {

@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--punjab",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 31.1471, lng: 75.3412 },
   meta: {
-    title: "Punjab IT Services: Software, Apps & AI",
+    title: "IT Services in Punjab: Websites ₹10,000, Apps ₹40,000",
     description:
       "Freelance IT services in Punjab: custom software, apps, AI automation, SEO and ecommerce for Ludhiana, Amritsar, Jalandhar and Malwa firms. From ₹10,000.",
     keywords: [

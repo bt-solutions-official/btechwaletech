@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const gudur: CityContent = {
   slug: "gudur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 14.15, lng: 79.85 },
   meta: {
-    title: "IT Services in Gudur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Gudur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Gudur Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for lemon traders, mica and mineral firms, prawn farmers, colleges and clinics.",
     keywords: [

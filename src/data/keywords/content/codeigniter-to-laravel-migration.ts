@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/codeigniter-to-laravel-migration/",
   crumb: "CodeIgniter to Laravel migration",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `CodeIgniter to Laravel Migration, from ${P.software}`,
-    description: `CodeIgniter to Laravel migration with no lost data or logged-out users: code audit, module-by-module moves, PHP 8 ready. Projects from ${P.software}.`,
+    description: `No lost data and no logged-out users: code audit, module-by-module moves, PHP 8 ready, old and new running in parallel while you test. From ${P.software}.`,
     keywords: [
       "codeigniter to laravel migration", "migrate codeigniter to laravel", "codeigniter 3 to laravel", "convert codeigniter project to laravel",
       "codeigniter to laravel migration cost", "codeigniter to laravel migration service", "codeigniter to laravel migration India", "codeigniter 3 vs codeigniter 4 vs laravel",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "hire laravel developer for migration", "codeigniter hmvc to laravel modules", "codeigniter query builder to eloquent", "old php app to laravel",
       "codeigniter to laravel migration Jaipur", "codeigniter to laravel migration Lucknow", "codeigniter se laravel migration", "codeigniter project convert laravel price",
       "rewrite vs refactor codeigniter",
+      "laravel migration service india", "php framework migration cost",
     ],
   },
   hero: {

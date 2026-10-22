@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const bhubaneswar: CityContent = {
   slug: "bhubaneswar",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 20.2961, lng: 85.8245 },
   meta: {
-    title: "Bhubaneswar Website Development & SEO | From ₹10,000",
+    title: "Website Design & Revamp in Bhubaneswar | ₹10,000",
     description:
-      "Bhubaneswar websites, local SEO, online stores and AI automation for startups, clinics, institutes and handloom sellers. From ₹10,000, 2 months free support.",
+      "Bhubaneswar websites from ₹10,000, live in 1-2 weeks, and a full revamp inside two months. School, college, clinic and handloom sites by three engineers.",
     keywords: [
       "website development team in Bhubaneswar",
       "web design team Bhubaneswar",
@@ -284,6 +284,16 @@ const bhubaneswar: CityContent = {
       question: "What should I send to get a quote?",
       answer:
         "A few lines about your organisation, what you offer and who your customers are, plus your current website link if you have one and any logo, brochure or photographs. We will reply with a page plan, timeline and itemised quote, usually within two working days.",
+    },
+    {
+      question: "Can you revamp our existing Bhubaneswar website inside two months?",
+      answer:
+        "Yes. A rebuild of a normal business site takes one to two weeks from ₹10,000, and a 299+ page SEO rebuild takes three to five weeks from ₹20,000, so both finish well inside two months. We keep your working URLs, redirect anything we change, and hand over the domain, hosting and code in your name at launch.",
+    },
+    {
+      question: "Do you build school and college websites in Bhubaneswar?",
+      answer:
+        "Yes. An institute site from ₹10,000 covers courses, fees, faculty, admission steps, results and an enquiry form that reaches a counsellor on WhatsApp. For larger colleges a 299+ page build from ₹20,000 gives each course and department its own page to rank, plus notice boards and downloadable forms.",
     },
   ],
   nearby: ["cuttack", "puri", "jatani", "dhenkanal", "kendrapara", "paradip", "talcher", "brahmapur"],

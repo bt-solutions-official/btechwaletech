@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/dynamic-website-cost-in-india/",
   crumb: "Dynamic website cost in India",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Dynamic Website Cost in India: Static vs CMS vs Custom`,
-    description: `Dynamic website cost in India explained: static sites from ${P.site}, CMS and admin panel options, listings and hosting. Get an itemised quote in 2 days.`,
+    title: `Dynamic Website Cost in India | Sites ₹10,000, Apps ₹40,000`,
+    description: `Static pages from ${P.site}, a CMS with admin panel a step up, and a custom portal from ${P.software}. See which one your site needs before you pay for the top tier.`,
     keywords: [
       "dynamic website cost in india", "dynamic website cost", "dynamic website price in India", "dynamic website development cost",
       "static vs dynamic website cost", "dynamic website with admin panel cost", "website with admin panel price", "CMS website cost India",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "property listing website cost", "dynamic website for small business", "dynamic website maintenance cost", "is static website enough",
       "dynamic website cost Delhi", "dynamic website cost Mumbai", "dynamic website cost Pune", "dynamic website cost Lucknow",
       "dynamic website yearly cost", "dynamic website developer price",
+      "dynamic website packages", "dynamic website development cost in india", "school website cost in india",
     ],
   },
   hero: {

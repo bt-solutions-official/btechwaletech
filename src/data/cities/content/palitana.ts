@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const palitana: CityContent = {
   slug: "palitana",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 21.5256, lng: 71.8237 },
   meta: {
-    title: "IT Services in Palitana | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Palitana | Sites ₹10,000, Apps ₹40,000",
     description:
       "Gujarati websites, apps, local SEO and WhatsApp tools for Palitana dharamshalas, bhojanshalas, yatra organisers, shops and clinics. From ₹10,000.",
     keywords: [

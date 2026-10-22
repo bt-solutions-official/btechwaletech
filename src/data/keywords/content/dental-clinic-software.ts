@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/dental-clinic-software/",
   crumb: "Dental clinic software",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Dental Clinic Software for India, from ${P.software}`,
-    description: `Dental clinic software with tooth charts, staged treatment payments, lab work orders, RVG image storage and recall reminders. Custom built from ${P.software}.`,
+    description: `Tooth charts, staged treatment payments, lab work orders, RVG image storage and recall reminders. Custom builds from ${P.software}, and your data stays yours.`,
     keywords: [
       "dental clinic software", "dental clinic software India", "dental practice management software", "dental software",
       "dental clinic management software", "software for dentists", "dental charting software", "tooth chart software",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "dental clinic software company in India",
       "dental clinic software near me",
       "dental clinic software services",
+      "dental practice management software india", "dental software custom build",
     ],
   },
   hero: {

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gym-website-design/",
   crumb: "Gym website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Gym Website Design: Member-Winning Sites from ${P.site}`,
-    description: `Gym website design from ${P.site}: plan pages, free-trial booking, class timetables and UPI renewals that turn visitors into members. Quote in 2 days.`,
+    title: `Gym Website Design: Member-Winning Sites, ${P.site}+`,
+    description: `Plan and pricing pages, free-trial booking, class timetables and UPI renewals that turn passers-by into members. Gym sites from ${P.site}, live in 1–2 weeks.`,
     keywords: [
       "gym website design", "gym website design India", "fitness centre website design", "gym website", "website for gym",
       "gym website cost", "gym website design price India", "gym website with online payment", "gym free trial booking website",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "gym website design company in India",
       "best gym website design in India",
       "gym website design services",
+      "gym website development cost", "gym membership website india",
     ],
   },
   hero: {

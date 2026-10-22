@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--maharashtra--mumbai",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 19.076, lng: 72.8777 },
   meta: {
-    title: "Mumbai IT Consultants: Finance, Wholesale & Jewellery",
+    title: "Mumbai IT Consultants: Software from ₹60,000",
     description:
-      "Freelance IT consultants in Mumbai for custom software, Android and iOS apps, AI agents, plus cloud. Free scoping call, itemised quote in 2 working days.",
+      "Freelance IT consultants in Mumbai for custom software, Android and iOS apps, AI agents and cloud. Software from ₹60,000, itemised quote in two working days.",
     keywords: [
       "IT solutions team in Mumbai",
       "best IT services team in Mumbai",
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "IT consulting in Mumbai should deliver a clear decision about which technology to adopt, what it will cost over time and how to roll it out without slowing the business. For a small or mid-sized Mumbai company, the useful output is a short written plan with options and prices, followed by delivery, not a thick report.",
         "The questions are practical. A Masjid Bunder dry-fruit wholesaler asks how to stop losing phone orders. A stockbroking sub-broker in Fort wants client onboarding without paper. A Zaveri Bazaar jeweller wants stock visible across two showrooms. An Andheri production house wants shoot schedules and invoices in one place. A Powai startup wants its architecture reviewed before scaling.",
-        "We handle scoping for free and deliver with the same three engineers. When a subscription product fits better than custom work, such as Zoho for CRM or a standard accounting tool, we tell you so and help set it up.",
+        "We handle scoping for free and deliver with the same three engineers. When a subscription product fits better than custom work, such as Zoho for CRM or a standard accounting tool, we tell you so and help set it up. For build-only work, see <a href='/it-services/maharashtra/mumbai/'>software developers in Mumbai</a>, or the <a href='/it-services/maharashtra/'>Maharashtra IT services hub</a> for the rest of the state.",
       ],
       list: [
         "Audit of current tools, data and workflows",

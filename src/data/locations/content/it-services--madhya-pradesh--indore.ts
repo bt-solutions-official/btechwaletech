@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--madhya-pradesh--indore",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 22.7196, lng: 75.8577 },
   meta: {
-    title: "Indore Software Developers: Apps & AI",
+    title: "IT Services in Indore: Software & Apps from ₹40,000",
     description:
-      "Hire freelance software developers for Indore: custom web apps, SaaS MVPs, mobile apps and AI agents. Mobile apps from ₹40,000, quote in 2 days.",
+      "IT services in Indore from three freelance engineers: custom web apps, SaaS MVPs, mobile apps and AI agents. Apps from ₹40,000, software from ₹60,000.",
     keywords: [
       "software development team in Indore",
       "IT services team in Indore",
@@ -49,7 +49,7 @@ const content: CityContent = {
     pills: ["Web apps from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "SaaS MVPs for startups", "Tally and WhatsApp integrations", "2 months free maintenance"],
   },
   quickAnswer:
-    "Instead of a software development team in Indore, you can hire BtechWaleTech, a freelance group of three remote engineers. Custom web apps and SaaS MVPs start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 and websites at ₹10,000. You get an itemised quote in about two working days and two months of free maintenance.",
+    "Instead of a software development team in Indore, you can hire BtechWaleTech, three remote freelance engineers. Custom web apps and SaaS MVPs start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000, AI automation at ₹40,000 and websites at ₹10,000. Two months of maintenance are free.",
   snapshot: [
     { label: "Tech corridors", value: "Crystal IT Park, the Super Corridor with large IT campuses, and IT SEZ developments near the airport side of the city" },
     { label: "Startup and office belt", value: "Vijay Nagar, Scheme 54, AB Road, Palasia and Bhawarkua, with coworking spaces and incubators" },

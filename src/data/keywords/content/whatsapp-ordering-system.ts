@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/whatsapp-ordering-system/",
   crumb: "WhatsApp ordering system",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `WhatsApp Ordering System, No Commission, from ${P.ai}`,
-    description: `A WhatsApp ordering system for restaurants, bakeries and kirana stores: catalogue, cart, UPI payment, delivery slots and an order dashboard. From ${P.ai}.`,
+    title: `WhatsApp Ordering System: 0% Commission, ${P.ai}`,
+    description: `A WhatsApp ordering system with catalogue, cart, UPI payment, delivery slots and an order dashboard — no aggregator commission. From ${P.ai} in 2–4 weeks.`,
     keywords: [
+      "create free whatsapp store", "whatsapp order link", "whatsapp online order price",
       "whatsapp ordering system", "whatsapp order system for restaurant", "whatsapp food ordering system", "whatsapp ordering system for kirana store",
       "whatsapp ordering for bakery", "online ordering on whatsapp", "whatsapp catalogue ordering", "whatsapp cart order", "whatsapp order management",
       "whatsapp ordering system with upi payment", "zero commission food ordering", "direct ordering system for restaurants", "whatsapp grocery ordering",
@@ -402,6 +403,7 @@ const content: FreelanceContent = {
     { question: "WhatsApp par order lene ka system kaise banaye?", answer: "Apne items ka WhatsApp catalogue ya web menu banaiye, customer cart bheje, system stock, delivery area aur slot check kare, phir UPI ya cash on delivery confirm ho aur order dashboard par dikhe. Iske liye official WhatsApp Business Platform chahiye. Hum yeh poora setup banate hain, account aapke naam par rehta hai aur order par koi commission nahi." },
     { question: "What happens after launch if something breaks?", answer: "Two months of free maintenance follow launch, covering fixes, menu or template changes and monitoring. If orders stop arriving or payments fail to confirm, you message us on WhatsApp, seven days a week. After the free period, monthly care starts from the maintenance starting price on this page, or your own staff can manage routine changes." },
     { question: "Can the same number also send payment reminders or order updates from my website?", answer: "Yes. Once your number is on the WhatsApp Business Platform, the same backend can send dues reminders to credit customers or order updates from an online store. Each flow uses its own approved templates. Adding flows one at a time, a few weeks apart, keeps the experience calm for customers and easy for staff." },
+    { question: "Can I create a free WhatsApp store instead?", answer: `Partly. The free WhatsApp Business App gives you a catalogue customers can browse and a cart they can send, which is enough for a few orders a day. What it cannot do is take UPI payment, hold delivery slots, hide out-of-stock items or put orders on a dashboard — that needs the official API, from ${P.ai}.` },
   ],
   related: {
     heading: "Related ordering and WhatsApp pages",

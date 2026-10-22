@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-developer-dahod/",
   crumb: "Website developer in Dahod",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Dahod · Vendor Sites from ${P.site}`,
-    description: `Website developer in Dahod for engineering shops, traders and clinics: capability sites in English, Hindi & Gujarati from ${P.site}, remote build, owned by you.`,
+    title: `Website Developer in Dahod: Vendor Sites ${P.site}+`,
+    description: `Website developer in Dahod for engineering shops, traders and clinics: capability sites in English, Hindi and Gujarati from ${P.site}, owned by you.`,
     keywords: [
       "website developer in Dahod", "website developer Dahod", "Dahod website developer", "website developer near me Dahod",
       "Dahod Gujarat website", "web developer Dahod", "web designer Dahod", "website design services Dahod",

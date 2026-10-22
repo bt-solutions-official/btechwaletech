@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const tinsukia: CityContent = {
   slug: "tinsukia",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 27.4886, lng: 95.3558 },
   meta: {
-    title: "IT Services in Tinsukia: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Tinsukia | From ₹10,000",
     description:
-      "Websites, multilingual SEO and dealer catalogues for Tinsukia wholesalers, tea factories, contractors and clinics. From ₹10,000, with 2 months of free upkeep.",
+      "Tinsukia websites from ₹10,000, live in 1-2 weeks, with multilingual SEO. Dealer catalogues for wholesalers, tea factories and contractors. Code yours.",
     keywords: [
       "website development team in Tinsukia",
       "web designer Tinsukia",

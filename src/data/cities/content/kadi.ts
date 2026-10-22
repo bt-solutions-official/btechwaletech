@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const kadi: CityContent = {
   slug: "kadi",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 23.3008, lng: 72.3322 },
   meta: {
-    title: "IT Services in Kadi | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Kadi | Sites ₹10,000, Apps ₹40,000",
     description:
       "Kadi Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for ginning units, oil mills, GIDC factories, schools, clinics and traders.",
     keywords: [

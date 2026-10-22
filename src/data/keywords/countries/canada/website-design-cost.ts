@@ -13,9 +13,9 @@ const APPLE_FEE = "https://developer.apple.com/support/enrollment/";
 const content: FreelanceContent = {
   path: "/canada/website-design-cost/",
   crumb: "How much does a website cost in Canada",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `How Much Does a Website Cost in Canada? From ${P.site}`,
+    title: `How Much Does a Website Cost in Canada? 4 Routes`,
     description: `How much does a website cost in Canada? DIY vs freelancer vs agency vs remote team, what drives the price, hidden yearly costs, and sites from ${P.site}.`,
     keywords: [
       "how much does a website cost in canada", "website cost canada", "website design cost canada", "web design prices canada",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "affordable website design canada", "cheap website design near me", "yearly cost of running a website", "website hosting cost canada",
       "how much does a shopify store cost to build", "website quote checklist",
       "hire website in Canada",
+      "how much does a website cost canada", "web design price canada", "website creation cost",
     ],
   },
   hero: {

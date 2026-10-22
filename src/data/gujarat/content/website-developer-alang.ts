@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-developer-alang/",
   crumb: "Website developer in Alang",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Alang · Yards & Traders ${P.site}+`,
-    description: `Website developer in Alang for ship-recycling yards, re-rolling mills & second-hand marine goods traders: trustworthy sites from ${P.site}, logins in your name.`,
+    title: `Website Developer in Alang: Yards & Traders ${P.site}+`,
+    description: `Website developer in Alang for ship-recycling yards, re-rolling mills and marine goods traders: trustworthy sites from ${P.site}, every login in your name.`,
     keywords: [
       "website developer in Alang", "website developer Alang", "Alang website design", "website developer near me Alang",
       "Alang Bhavnagar Gujarat web developer", "ship recycling yard website", "ship breaking company website Alang", "Alang Sosiya website",

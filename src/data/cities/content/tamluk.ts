@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const tamluk: CityContent = {
   slug: "tamluk",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 22.3, lng: 87.92 },
   meta: {
-    title: "IT Services in Tamluk | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Tamluk | Sites ₹10,000, Apps ₹40,000",
     description:
       "Bengali websites, apps, local SEO and WhatsApp tools for Tamluk clinics, colleges, traders, Haldia suppliers and Purba Medinipur shops. Websites from ₹10,000.",
     keywords: [

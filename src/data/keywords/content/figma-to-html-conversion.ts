@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/figma-to-html-conversion/",
   crumb: "Figma to HTML conversion",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Figma to HTML Conversion: Hand-Coded from ${P.site}`,
-    description: `Figma to HTML conversion that is responsive, accessible and fast, hand-coded from your design. Up to 100 pages from ${P.site}. Get a per-page quote.`,
+    description: `Responsive, accessible, fast HTML hand-coded from your Figma file, not exported from Dev Mode with nested wrapper soup. Up to 100 pages from ${P.site}.`,
     keywords: [
       "figma to html conversion", "figma to html", "convert figma to html", "figma to html css", "figma to html service",
       "figma to html conversion cost", "figma to html price per page", "figma to responsive html", "pixel perfect figma to html",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "figma handover checklist", "figma to html near me", "figma to html conversion India", "figma se website kaise banaye",
       "figma to html email", "figma to seo friendly html", "how to convert figma to html", "figma to html Mumbai",
       "figma to html Delhi",
+      "figma dev mode html export problems", "figma to code service",
     ],
   },
   hero: {

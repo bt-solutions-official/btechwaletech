@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const karaikal: CityContent = {
   slug: "karaikal",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 10.9328, lng: 79.8319 },
   meta: {
-    title: "IT Services in Karaikal | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Karaikal | Sites ₹10,000, Apps ₹40,000",
     description:
       "Karaikal Tamil and English websites, mobile apps, local SEO and WhatsApp bots for port suppliers, temple-town lodges, fish traders and clinics. From ₹10,000.",
     keywords: [

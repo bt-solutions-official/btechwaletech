@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/figma-to-wordpress/",
   crumb: "Figma to WordPress",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Figma to WordPress: Editable Theme from ${P.site}`,
-    description: `Figma to WordPress done so your team can edit every page without code: custom block theme or Elementor/Bricks, from ${P.site}. Quote in 2 working days.`,
+    description: `Built so your team edits every page without touching code: a custom block theme, or Elementor or Bricks if you prefer. From ${P.site}, quote in 2 working days.`,
     keywords: [
       "figma to wordpress", "convert figma to wordpress", "figma to wordpress conversion", "figma to wordpress theme",
       "figma to wordpress developer", "figma to wordpress service", "figma to wordpress cost", "figma to wordpress price India",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "how much does figma to wordpress cost", "figma to wordpress freelancer", "figma to wordpress freelancer India",
       "figma to wordpress near me", "figma to woocommerce", "figma to wordpress for agencies", "figma to wordpress Bengaluru",
       "figma to wordpress Pune", "figma design ko wordpress mein kaise badle", "editable wordpress site from figma",
+      "figma to wordpress india", "figma to wordpress conversion cost", "figma to elementor service",
     ],
   },
   hero: {

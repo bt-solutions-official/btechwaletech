@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--delhi",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 28.7041, lng: 77.1025 },
   meta: {
-    title: "Delhi IT Services: Wholesale Trade, Clinics & Exporters",
+    title: "IT Services in Delhi: Websites ₹10,000, Apps ₹40,000",
     description:
-      "Freelance IT services in Delhi across all 11 districts: custom software, apps, AI automation and dashboards. Starting prices listed, quote in 2 days.",
+      "Freelance IT services in Delhi across all 11 districts: custom software, apps, AI automation and dashboards. Sites from ₹10,000, apps from ₹40,000, in INR.",
     keywords: [
       "iOS app development Delhi",
       "iPhone app developers Delhi",
@@ -83,7 +83,7 @@ const content: CityContent = {
       paragraphs: [
         "IT services in Delhi that deliver the most value in 2026 are custom software for trading and operations, AI and WhatsApp automation for enquiries and orders, dashboards for owners, and search-optimised websites that convert. Delhi buyers compare aggressively online, so a slow site or a missed WhatsApp message costs sales every day.",
         "Delhi's economy is unusually mixed. Old Delhi's wholesale markets move textiles, spices, electricals, paper, hardware and medicines to buyers across North India. Industrial areas such as Okhla, Naraina, Mayapuri, Wazirpur and Bawana host thousands of small manufacturers. Connaught Place, Nehru Place, Saket and Aerocity house consultancies, IT resellers, hospitality groups and corporate offices. Add coaching institutes in Mukherjee Nagar and Rohini, hospitals across every district, and a huge retail sector, and you get a city where almost every IT service has a large, specific audience.",
-        "BtechWaleTech serves that whole spread as a freelance group of three engineers working remotely from India. We have no Delhi office, and we say so on every page. What we offer is custom engineering, clear starting prices and full ownership for you. The sections below walk through each service and how it applies across Delhi's districts, with links to our pages for <a href=\"/it-services/delhi/new-delhi/\">New Delhi</a>, <a href=\"/it-services/delhi/dwarka/\">Dwarka</a>, <a href=\"/it-services/delhi/rohini/\">Rohini</a>, <a href=\"/it-services/delhi/saket/\">Saket</a> and <a href=\"/it-services/delhi/nehru-place/\">Nehru Place</a>.",
+        "BtechWaleTech serves that whole spread as a freelance group of three engineers working remotely from India. We have no Delhi office, and we say so on every page. What we offer is custom engineering, clear starting prices and full ownership for you. The sections below walk through each service and how it applies across Delhi's districts, with links to our pages for <a href=\"/it-services/delhi/new-delhi/\">New Delhi</a>, <a href=\"/it-services/delhi/dwarka/\">Dwarka</a>, <a href=\"/it-services/delhi/rohini/\">Rohini</a>, <a href=\"/it-services/delhi/saket/\">Saket</a> and <a href=\"/it-services/delhi/nehru-place/\">Nehru Place</a>. If you want advice before any build, such as an architecture review, a cloud cost audit and a written roadmap, read <a href='/india/delhi/'>IT consulting in Delhi</a>.",
       ],
       list: [
         "Custom software and web apps for trading, manufacturing and services",

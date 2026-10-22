@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/cold-storage-management-software/",
   crumb: "Cold storage management software",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Cold Storage Management Software from ${P.software}`,
-    description: `Cold storage management software for chamber and rack-wise lots, farmer receipts, rent per bag per month, temperature logs and gate passes. From ${P.software}.`,
+    description: `Chamber and rack-wise lots, farmer receipts, rent per bag per month, temperature logs and gate passes in one system. Custom builds from ${P.software}.`,
     keywords: [
       "cold storage management software", "cold storage software", "cold storage management software India", "cold storage billing software",
       "cold storage rent calculation software", "cold storage lot management", "chamber wise stock software", "rack wise lot tracking",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "cold storage management software company in India",
       "best cold storage management software in India",
       "cold storage management software services",
+      "cold storage software india", "cold storage rent billing software", "warehouse lot management software",
     ],
   },
   hero: {

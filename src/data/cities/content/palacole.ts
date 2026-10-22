@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const palacole: CityContent = {
   slug: "palacole",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 16.5167, lng: 81.73 },
   meta: {
-    title: "IT Services in Palacole | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Palacole | Sites ₹10,000, Apps ₹40,000",
     description:
       "Telugu websites, apps, local SEO and WhatsApp tools for Palacole (Palakollu) rice mills, aqua farms, coconut traders, clinics and shops. From ₹10,000.",
     keywords: [

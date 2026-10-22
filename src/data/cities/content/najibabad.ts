@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const najibabad: CityContent = {
   slug: "najibabad",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 29.6128, lng: 78.3425 },
   meta: {
-    title: "IT Services in Najibabad | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Najibabad | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, local SEO and WhatsApp tools for Najibabad sugar-belt traders, timber dealers, blanket makers, clinics and Garhwal travel firms. From ₹10,000.",
     keywords: [

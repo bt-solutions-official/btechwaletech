@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/ui-ux-design-gujarat/",
   crumb: "UI UX design in Gujarat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `UI UX Design in Gujarat: Research to Prototype`,
-    description: `UI UX design in Gujarat for websites and web apps: user research, wireframes, Figma prototypes and usability tests. Sites with design from ${P.site}.`,
+    title: `UI UX Design in Gujarat: Research, Wireframes, Figma`,
+    description: `UI UX design in Gujarat for websites and web apps: user research, wireframes, Figma prototypes and usability tests. Design plus build from ${P.site}.`,
     keywords: [
       "UI UX design in Gujarat", "UI UX design Gujarat", "UI UX designer Gujarat", "UI UX designer near me",
       "UX design services Gujarat", "website UI design Gujarat", "web app UX design Gujarat", "Figma prototype designer Gujarat",

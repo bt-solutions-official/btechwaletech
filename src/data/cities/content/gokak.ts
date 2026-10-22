@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const gokak: CityContent = {
   slug: "gokak",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 16.1667, lng: 74.8333 },
   meta: {
-    title: "IT Services in Gokak | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Gokak | Sites ₹10,000, Apps ₹40,000",
     description:
       "Gokak Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for sugar-belt suppliers, karadantu makers, textile units, clinics and shops.",
     keywords: [

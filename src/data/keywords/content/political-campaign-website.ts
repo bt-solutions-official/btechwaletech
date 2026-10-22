@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/political-campaign-website/",
   crumb: "Political campaign website",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Political Campaign Website for Candidates from ${P.site}`,
-    description: `Political campaign website for MLA, MP and local body candidates: profile, work report, volunteer signup, grievance forms, Hindi-English pages. From ${P.site}.`,
+    title: `Political Campaign Website: Live in 1–2 Weeks, ${P.site}`,
+    description: `Political campaign website for MLA, MP and local-body candidates: profile, work report, volunteer signup, grievance form and Hindi pages. From ${P.site}.`,
     keywords: [
       "political campaign website", "political campaign website India", "election campaign website", "website for MLA candidate",
       "MP candidate website", "politician website design", "political leader website", "neta ki website", "election website development",

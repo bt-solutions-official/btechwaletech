@@ -25,12 +25,31 @@ for (const [dir, toPath] of contentSets) {
   }
 }
 
+// The hand-written .astro pages - the homepage, every commercial hub and every country hub -
+// were the only URLs on the site with no lastmod, because the loop above reads the data
+// directories only. Those are the pages Google should recrawl first, so they were exactly
+// backwards. Any page declaring `const updated = "YYYY-MM-DD"` now contributes one too;
+// a page without the const still gets no lastmod, which is the honest answer for a page
+// whose last change date nobody recorded.
+for (const file of readdirSync(join(__dirname, "src/pages"), { recursive: true, encoding: "utf8" })) {
+  if (!file.endsWith(".astro") || file.includes("[")) continue;
+  const updated = readFileSync(join(__dirname, "src/pages", file), "utf8").match(/\bconst updated = "(\d{4}-\d{2}-\d{2})"/)?.[1];
+  if (!updated) continue;
+  const path = "/" + file.replaceAll("\\", "/").replace(/(index)?\.astro$/, "");
+  updatedByPath.set(path.endsWith("/") ? path : path + "/", updated);
+}
+
 export default defineConfig({
   site: "https://btechwaletech.in",
   output: "static",
   trailingSlash: "always",
   build: {
-    inlineStylesheets: "always",
+    // "always" inlined ~48KB of CSS into all 2,671 pages - the same one or two stylesheets
+    // repeated with no cross-page caching, ~20MB of extra brotli per full crawl. It buys
+    // nothing on a critical path that already loads a render-blocking cross-origin Google
+    // Fonts stylesheet, so the CSS is better served once and cached. "auto" still inlines
+    // anything under 4KB. Revert to "always" if LCP regresses on / and a city page.
+    inlineStylesheets: "auto",
   },
   integrations: [
     sitemap({

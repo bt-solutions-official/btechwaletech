@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/logistics-company-website/",
   crumb: "Transport and logistics company website",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
     title: `Logistics Company Website in Bhiwadi from ${P.site}`,
-    description: `Transport and logistics company website in Bhiwadi from ${P.site}: fleet, routes, quote forms and shipment tracking. We meet you one to one at your yard.`,
+    description: `Transport and logistics company website in Bhiwadi from ${P.site}, live in 1–2 weeks: fleet, lanes, warehouse, quote forms and a driver hiring page.`,
     keywords: [
       "transport and logistics company website in Bhiwadi", "logistics company website Bhiwadi", "transport company website designer near me", "logistics website in Bhiwadi Rajasthan",
       "transport company website Bhiwadi Alwar", "logistics website developer Bhiwadi", "transport website design designer Bhiwadi", "logistics website design services Bhiwadi",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does a transport and logistics company website in Bhiwadi cost?",
-    text: `A transport and logistics company website in Bhiwadi starts at ${P.site} with us for a static site of up to 100 pages, built in 1–2 weeks: fleet, services, lanes, warehouse, quote request form, WhatsApp and a driver hiring page. Consignment tracking with customer logins is a web app from ${P.software}. A lane-by-lane SEO site starts at ${P.seoSite}. We first meet you face to face at your yard.`,
+    text: `From ${P.site} for a static site of up to 100 pages, built in 1–2 weeks: fleet, services, lanes, warehouse, quote request form, WhatsApp and a driver hiring page. A lane-by-lane SEO site starts at ${P.seoSite}; consignment tracking with customer logins is a web app from ${P.software}.`,
     more: `For trips, diesel, drivers and freight bills inside the business, see <a href='/bhiwadi-rajasthan/transport-management-software/'>transport management software in Bhiwadi</a>; warehouse operators should also read <a href='/bhiwadi-rajasthan/warehouse-management-software/'>warehouse management software</a>.`,
   },
   snapshot: {

@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/website-developer-mumbai/",
   crumb: "Website developer in Mumbai",
-  updated: "2026-10-02",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Mumbai: Sites from ${P.site}`,
-    description: `Website developer in Mumbai for traders, clinics, studios and startups: business sites from ${P.site}, built remotely with a live staging link. Quote in 2 days.`,
+    title: `Website Developer in Mumbai: Prices from ${P.site}`,
+    description: `Website developer in Mumbai for traders, clinics, studios and startups: business sites ${P.site}, SEO sites ${P.seoSite}, stores ${P.shop}. Quote in 2 days.`,
     keywords: [
+      "website development prices in mumbai", "freelance website developer mumbai", "web development cost in mumbai",
       "website developer in Mumbai", "website developer Mumbai", "web developer in Mumbai", "website developer near me Mumbai",
       "website development Mumbai", "website development services Mumbai", "business website developer Mumbai", "website maker in Mumbai",
       "website developer cost Mumbai", "website price Mumbai", "website developer for small business Mumbai", "WordPress developer Mumbai",

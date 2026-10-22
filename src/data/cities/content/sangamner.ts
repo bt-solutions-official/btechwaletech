@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sangamner: CityContent = {
   slug: "sangamner",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 19.5667, lng: 74.2167 },
   meta: {
-    title: "IT Services in Sangamner | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sangamner | Sites ₹10,000, Apps ₹40,000",
     description:
       "Marathi websites, apps, Maps SEO and WhatsApp tools for Sangamner dairy, sugar, garment, clinic, college and retail businesses. Sites from ₹10,000.",
     keywords: [

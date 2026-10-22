@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const puttur: CityContent = {
   slug: "puttur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 12.7647, lng: 75.1842 },
   meta: {
-    title: "IT Services in Puttur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Puttur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, local SEO and WhatsApp tools for Puttur arecanut traders, plantation suppliers, colleges, clinics and shops in Dakshina Kannada. From ₹10,000.",
     keywords: [

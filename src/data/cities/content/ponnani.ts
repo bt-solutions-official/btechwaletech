@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const ponnani: CityContent = {
   slug: "ponnani",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 10.7677, lng: 75.9259 },
   meta: {
-    title: "IT Services in Ponnani | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Ponnani | Sites ₹10,000, Apps ₹40,000",
     description:
       "Malayalam websites, apps, local SEO and WhatsApp tools for Ponnani fish traders, boat owners, Gulf-linked shops, madrasas and clinics. Websites from ₹10,000.",
     keywords: [

@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/white-label-seo-agency/",
   crumb: "White label SEO agency",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `White Label SEO Agency Partner from ${P.seo}`,
-    description: `White label SEO agency partner for German agencies: audits, schema, speed and SEO-ready builds under your brand, from ${P.seo}. You keep the client.`,
+    title: `White Label SEO Agency, India-Based: from ${P.seo}`,
+    description: `White label SEO for German and EU agencies: audits, schema, speed work and SEO-ready builds under your own brand from ${P.seo}. You keep the client.`,
     keywords: [
       "white label seo agency", "white label seo germany", "white label seo partner", "white label seo for agencies",
       "seo white label deutschland", "seo outsourcing for agencies", "private label seo", "white label technical seo",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "white label seo agency hamburg", "white label seo agency cologne", "white label seo india", "is white label seo worth it",
       "white label seo margin", "white label website builds for agencies",
       "hire white label seo in Germany", "freelance white label seo Germany",
+      "white label seo agency india", "seo agency germany", "white label seo reseller",
     ],
   },
   hero: {

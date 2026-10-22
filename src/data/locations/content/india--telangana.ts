@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--telangana",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 18.1124, lng: 79.0193 },
   meta: {
-    title: "Telangana IT Consulting: Pharma, Seeds & Commodity Trading",
+    title: "Telangana IT Consulting & Software from ₹10,000",
     description:
-      "IT consulting in Telangana from a freelance team: software, Telugu AI agents, plus Android and iOS apps. Starting prices in INR, paid by UPI or bank transfer.",
+      "IT consulting in Telangana from a freelance team: software, Telugu AI agents, Android and iOS apps. Sites from ₹10,000, software from ₹60,000, UPI only.",
     keywords: [
       "IT solutions team in Telangana",
       "IT consulting Telangana",
@@ -83,7 +83,7 @@ const content: CityContent = {
       paragraphs: [
         "A Telangana business needs IT consulting when it is about to spend on technology but cannot say precisely which problem it is solving, when several tools overlap without talking to each other, or when growth has made the owner's personal involvement the bottleneck. IT consulting is structured advice that turns those symptoms into a costed plan.",
         "Common triggers we hear about: a seed company with dealers in thirty districts finds orders and collections tracked in different spreadsheets by each area manager. A Nizamabad turmeric trader handles hundreds of lots per season with paper slips. A hospital in Karimnagar bought appointment software that the reception team avoids. A Hyderabad pharma supplier retypes batch data from the production floor into dispatch documents every day.",
-        "Our consulting is remote and short. We look at real screens, files and messages, talk to one or two staff who do the work, and then send a plan listing recommended changes, costs from our <a href='/pricing/'>published starting prices</a>, timelines and what you need to supply. If an affordable existing product fits, we recommend it instead of a custom build. You can use the plan with any developer.",
+        "Our consulting is remote and short. We look at real screens, files and messages, talk to one or two staff who do the work, and then send a plan listing recommended changes, costs from our <a href='/pricing/'>published starting prices</a>, timelines and what you need to supply. If an affordable existing product fits, we recommend it instead of a custom build. You can use the plan with any developer. For the delivery side of the same work, with city pages and published starting prices, see <a href='/it-services/telangana/'>IT services in Telangana</a>.",
       ],
     },
     {

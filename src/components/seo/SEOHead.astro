@@ -14,12 +14,20 @@ const title = applyTitleTemplate(meta.title);
 const canonical = canonicalUrl(meta.canonicalPath);
 const ogImage = meta.ogImage?.url ?? siteDefaults.defaultOgImage;
 const ogImageUrl = new URL(ogImage, siteBrand.domain).toString();
+
+// Indexable pages opt into the largest SERP treatment Google offers: large image
+// thumbnails (worth a lot on mobile, which is 49% of impressions here) and untruncated
+// snippets. Without these Google defaults to a small thumbnail and a short snippet.
+// Pages carrying noindex get the bare directive - preview limits are meaningless there.
+const robots = meta.robots?.startsWith("noindex")
+  ? meta.robots
+  : `${meta.robots}, max-image-preview:large, max-snippet:-1, max-video-preview:-1`;
 ---
 
 <title>{title}</title>
 <meta name="description" content={meta.description} />
-<meta name="robots" content={meta.robots} />
-<meta name="googlebot" content={meta.robots} />
+<meta name="robots" content={robots} />
+<meta name="googlebot" content={robots} />
 <meta name="google-site-verification" content="ciu5Cf7pmyMCp6i8G-E13RT6lxiF68UtlNnPJBIi_zU" />
 <meta name="google-adsense-account" content="ca-pub-4227329033349842" />
 {meta.keywords && meta.keywords.length > 0 && (

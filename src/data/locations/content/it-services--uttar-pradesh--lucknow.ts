@@ -2,7 +2,7 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--uttar-pradesh--lucknow",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 26.8467, lng: 80.9462 },
   meta: {
     title: "Lucknow Software & AI Developers: Govt & Hospital Tools",
@@ -213,7 +213,7 @@ const content: CityContent = {
       paragraphs: [
         "BtechWaleTech works with Lucknow clients entirely online: a WhatsApp or video discussion, an itemised quote, designs for approval, a staged build on a private link, and launch with full handover. We have no office in Lucknow or anywhere in Uttar Pradesh, and we reply seven days a week.",
         "You can share registers, forms, sample bills and voice notes in Hindi, and we turn them into a written scope. Payment is in INR only, by scanning our UPI QR code or by direct bank transfer to our bank account, split into milestones you can test before paying the next part.",
-        "At handover you receive the source code, domain, hosting and app store access, an admin guide and a recorded walkthrough for staff, followed by two months of free maintenance.",
+        "At handover you receive the source code, domain, hosting and app store access, an admin guide and a recorded walkthrough for staff, followed by two months of free maintenance. If you want the consulting side first, a review and a written roadmap before any build, read <a href='/india/uttar-pradesh/lucknow/'>IT consulting in Lucknow</a>.",
       ],
     },
   ],

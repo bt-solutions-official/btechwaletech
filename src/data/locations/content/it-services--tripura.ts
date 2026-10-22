@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--tripura",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 23.9408, lng: 91.9882 },
   meta: {
-    title: "Tripura IT Services: Software, Apps & AI",
+    title: "IT Services in Tripura: Websites from ₹10,000",
     description:
       "Freelance IT team for Tripura: custom software, websites, apps, AI automation and SEO from Agartala to Belonia. Sites from ₹10,000, quotes in two days.",
     keywords: [
@@ -49,7 +49,7 @@ const content: CityContent = {
     pills: ["Websites from ₹10,000", "Custom software from ₹60,000", "Bengali and English sites", "WhatsApp and AI automation", "2 months free maintenance"],
   },
   quickAnswer:
-    "For a Tripura business, a static website with us starts at ₹10,000, a large SEO website at ₹20,000, custom software or a web app at ₹60,000 and AI automation at ₹40,000. Simple sites go live in one to two weeks. We are a freelance group of three remote engineers, reply on WhatsApp seven days a week and send itemised quotes within about two working days.",
+    "For a Tripura business, a static website with us starts at ₹10,000, a large SEO website at ₹20,000, custom software at ₹60,000 and AI automation at ₹40,000. Simple sites go live in one to two weeks. We are three remote freelance engineers and quote within about two working days.",
   snapshot: [
     { label: "Capital and main market", value: "Agartala, with Battala, Maharajganj Bazar, GB Bazar and Lake Chowmuhani as the busiest trading pockets" },
     { label: "Districts", value: "West Tripura, Sepahijala, Khowai, Gomati, South Tripura, Dhalai, Unakoti and North Tripura" },

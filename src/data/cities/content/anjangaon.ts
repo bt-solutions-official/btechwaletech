@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const anjangaon: CityContent = {
   slug: "anjangaon",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 21.15, lng: 77.28 },
   meta: {
-    title: "IT Services in Anjangaon | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Anjangaon | Sites ₹10,000, Apps ₹40,000",
     description:
       "Anjangaon Surji Marathi websites, mobile apps, local SEO and WhatsApp bots for banana traders, pimpli growers, ginners, clinics and colleges. From ₹10,000.",
     keywords: [

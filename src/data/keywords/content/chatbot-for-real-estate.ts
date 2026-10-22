@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/chatbot-for-real-estate/",
   crumb: "Chatbot for real estate",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Chatbot for Real Estate: 24x7 Leads, Visits, ${P.ai}+`,
-    description: `Chatbot for real estate builders and brokers: qualifies budget, location and BHK 24x7, sends brochures, books site visits, syncs portal leads. From ${P.ai}.`,
+    description: `Qualifies budget, location and BHK round the clock, sends brochures, books site visits and syncs portal leads so no enquiry sits unanswered. From ${P.ai}.`,
     keywords: [
       "chatbot for real estate", "real estate chatbot", "real estate chatbot India", "whatsapp chatbot for real estate", "ai chatbot for real estate",
       "chatbot for builders", "chatbot for property dealers", "real estate lead qualification bot", "site visit booking chatbot",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "property portal lead integration", "99acres lead integration", "real estate crm with whatsapp", "real estate chatbot Mumbai",
       "real estate chatbot Pune", "real estate chatbot Gurgaon", "real estate chatbot Bangalore", "property ke liye whatsapp bot",
       "chatbot for real estate near me", "chatbot for channel partners",
+      "property enquiry chatbot india",
     ],
   },
   hero: {

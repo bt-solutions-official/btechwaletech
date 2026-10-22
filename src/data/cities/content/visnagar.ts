@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const visnagar: CityContent = {
   slug: "visnagar",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 23.7, lng: 72.55 },
   meta: {
-    title: "IT Services in Visnagar | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Visnagar | Sites ₹10,000, Apps ₹40,000",
     description:
       "Gujarati websites, apps, local SEO and WhatsApp tools for Visnagar copperware makers, pump units, APMC traders, colleges and hospitals. From ₹10,000.",
     keywords: [

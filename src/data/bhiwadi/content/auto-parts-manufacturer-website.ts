@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/auto-parts-manufacturer-website/",
   crumb: "Auto component manufacturer website",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Auto Component Maker Website in Bhiwadi, from ${P.site}`,
-    description: `Auto component manufacturer website in Bhiwadi from ${P.site}: process pages, honest quality status and secure RFQs. Planned in person at your plant.`,
+    title: `Auto Component Website in Bhiwadi from ${P.site}`,
+    description: `Auto component manufacturer website in Bhiwadi from ${P.site} in 1–2 weeks: process and part-family pages, honest quality status, RFQ form with drawing upload.`,
     keywords: [
       "auto component manufacturer website in Bhiwadi", "auto component manufacturer website", "auto parts manufacturer website design",
       "auto parts manufacturer website near me", "automotive supplier website Bhiwadi Rajasthan", "tier 2 auto supplier website",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does an auto component manufacturer website in Bhiwadi need, and what does it cost?",
-    text: `An auto component manufacturer website in Bhiwadi needs process and part-family pages, a machine and inspection list, an honest quality section stating which certifications you hold, and an RFQ form that stores drawings privately. With BtechWaleTech it starts at ${P.site} for up to 100 pages, or ${P.seoSite} for 299+ part-family pages, after we meet one to one at your plant.`,
+    text: `From ${P.site} for up to 100 pages, or ${P.seoSite} for 299+ part-family pages. An auto component manufacturer website in Bhiwadi needs process and part-family pages, a machine and inspection list, an honest quality section stating which certifications you actually hold, and an RFQ form that stores buyer drawings privately.`,
     more: `Units with a standard range should also read about an <a href='/bhiwadi-rajasthan/industrial-product-catalogue-website/'>industrial product catalogue website</a>, and non-automotive plants can start with <a href='/bhiwadi-rajasthan/manufacturing-company-website/'>manufacturing company website design</a>.`,
   },
   snapshot: {

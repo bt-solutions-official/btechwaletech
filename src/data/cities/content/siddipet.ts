@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const siddipet: CityContent = {
   slug: "siddipet",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 18.1019, lng: 78.8519 },
   meta: {
-    title: "IT Services in Siddipet | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Siddipet | Sites ₹10,000, Apps ₹40,000",
     description:
       "Telugu websites, apps, Maps SEO and WhatsApp automation for Siddipet handloom weavers, hospitals, colleges, traders and new startups. Websites from ₹10,000.",
     keywords: [

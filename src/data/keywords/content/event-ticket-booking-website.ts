@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/event-ticket-booking-website/",
   crumb: "Event ticket booking website",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Event Ticket Booking Website, Zero Commission, ${P.shop}+`,
-    description: `Event ticket booking website for concerts, garba nights and workshops: seat maps, QR tickets, scanner app, early-bird tiers, UPI checkout. From ${P.shop}.`,
+    description: `Seat maps, QR tickets, a gate scanner app, early-bird tiers and UPI checkout for concerts, garba nights and workshops. From ${P.shop}, and you keep the fee.`,
     keywords: [
       "event ticket booking website", "event ticketing website", "own ticketing website", "ticket booking website development",
       "concert ticket booking website", "garba pass booking website", "workshop registration website with payment", "event booking website with qr code",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "event ticket booking website company in India",
       "event ticket booking website near me",
       "best event ticket booking website in India",
+      "event ticketing platform india", "qr ticket scanner app", "zero commission ticketing",
     ],
   },
   hero: {

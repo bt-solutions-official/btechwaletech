@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const makrana: CityContent = {
   slug: "makrana",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 27.05, lng: 74.72 },
   meta: {
-    title: "IT Services in Makrana | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Makrana | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, SEO and WhatsApp automation for Makrana marble mines, processing units, traders, handicraft workshops, schools and shops. Sites from ₹10,000.",
     keywords: [

@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sheopur: CityContent = {
   slug: "sheopur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 25.67, lng: 76.7 },
   meta: {
-    title: "IT Services in Sheopur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sheopur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, local SEO and WhatsApp automation for Sheopur mandi traders, Kuno safari hotels, woodcraft makers, clinics and schools. From ₹10,000.",
     keywords: [

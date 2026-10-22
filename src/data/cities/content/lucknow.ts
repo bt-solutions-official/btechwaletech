@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const lucknow: CityContent = {
   slug: "lucknow",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 26.8467, lng: 80.9462 },
   meta: {
-    title: "IT Services in Lucknow: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Lucknow | From ₹10,000",
     description:
-      "Lucknow website design, local SEO and WhatsApp automation for shops, chikan sellers, clinics and institutes. Sites from ₹10,000, you own the domain and code.",
+      "Lucknow websites from ₹10,000, live in 1-2 weeks; 299+ page SEO sites from ₹20,000. Hindi SEO for shops, chikan sellers, clinics and coaching institutes.",
     keywords: [
       "website development team in Lucknow",
       "website designer in Lucknow",

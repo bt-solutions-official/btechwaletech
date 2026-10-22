@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const vatakara: CityContent = {
   slug: "vatakara",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 11.5672, lng: 75.6006 },
   meta: {
-    title: "IT Services in Vatakara | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Vatakara | Sites ₹10,000, Apps ₹40,000",
     description:
       "Malayalam websites, apps, local SEO and WhatsApp tools for Vatakara halwa makers, fish and copra traders, clinics, colleges and shops. Websites from ₹10,000.",
     keywords: [

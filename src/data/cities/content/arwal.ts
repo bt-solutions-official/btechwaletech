@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const arwal: CityContent = {
   slug: "arwal",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 25.2442, lng: 84.6631 },
   meta: {
-    title: "IT Services in Arwal | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Arwal | Sites ₹10,000, Apps ₹40,000",
     description:
       "Arwal Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for coaching centres and clinics. Sites from ₹10,000, apps from ₹40,000.",
     keywords: [

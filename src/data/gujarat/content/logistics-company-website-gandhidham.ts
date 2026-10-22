@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/logistics-company-website-gandhidham/",
   crumb: "Logistics company website in Gandhidham",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Logistics Company Website in Gandhidham from ${P.site}`,
-    description: `Logistics company website in Gandhidham for forwarders, customs brokers and transporters: service pages, quote forms, tracking. Sites from ${P.site}.`,
+    title: `Logistics Website in Gandhidham: Quote Forms, ${P.site}`,
+    description: `Logistics company website in Gandhidham for forwarders, customs brokers and transporters: a page per service, ports and lanes, quote forms. From ${P.site}.`,
     keywords: [
       "logistics company website in Gandhidham", "logistics website Gandhidham", "freight forwarder website Gandhidham", "CHA website design Kandla", "customs broker website Gujarat",
       "transport company website Gandhidham", "logistics website design Kutch", "shipping agent website Mundra", "freight forwarding website cost", "logistics website price India",

@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const nandurbar: CityContent = {
   slug: "nandurbar",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 21.37, lng: 74.24 },
   meta: {
-    title: "Nandurbar Websites, SEO & Automation from ₹10,000",
+    title: "Website Design in Nandurbar | From ₹10,000",
     description:
-      "Websites, chilli trade tools and WhatsApp tools for Nandurbar traders, clinics, schools and Satpuda tourism. Sites from ₹10,000, free upkeep for 2 months.",
+      "Nandurbar websites from ₹10,000, live in 1-2 weeks, with Marathi SEO. Chilli trade tools and WhatsApp bots for traders, clinics, schools and Satpuda tourism.",
     keywords: [
       "website development team in Nandurbar",
       "website designer Nandurbar",

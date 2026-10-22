@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--uttar-pradesh--noida",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 28.5355, lng: 77.391 },
   meta: {
-    title: "Noida IT Consulting: Startups & Apparel Exporters",
+    title: "Noida IT Consulting: Web Apps from ₹60,000",
     description:
-      "IT consulting and digital transformation in Noida by a freelance team of three engineers: product builds, apps, AI agents and cloud. Itemised quotes.",
+      "IT consulting and digital transformation in Noida by three freelance engineers: product builds, apps, AI agents and cloud. Web apps from ₹60,000, in INR.",
     keywords: [
       "IT solutions team in Noida",
       "IT consulting Noida",
@@ -83,7 +83,7 @@ const content: CityContent = {
       paragraphs: [
         "IT consulting for a Noida business in 2026 means getting impartial, technically grounded advice on what to build, buy, automate or leave alone, and in what order, before committing budget. It is most valuable when you are about to hire developers, choose a platform or add AI, and want to avoid expensive rework.",
         "Noida's density of IT vendors creates its own problem: every vendor has a product or a team to sell, and advice often bends towards it. We sell no licences and take no referral commissions. Our consulting starts with a screen-share walkthrough of your current process or product, a look at your data and tools, and conversations with the people who do the work.",
-        "You receive a written plan: problems ranked by business impact, recommended solutions with the reasoning behind each, estimated costs based on our <a href='/pricing/'>published starting prices</a>, timelines, dependencies and risks. For startups this may include architecture and stack recommendations; for exporters or suppliers, a sequence of operational tools. The plan is yours to execute with us or anyone else.",
+        "You receive a written plan: problems ranked by business impact, recommended solutions with the reasoning behind each, estimated costs based on our <a href='/pricing/'>published starting prices</a>, timelines, dependencies and risks. For startups this may include architecture and stack recommendations; for exporters or suppliers, a sequence of operational tools. The plan is yours to execute with us or anyone else. For build-only work, see <a href='/it-services/uttar-pradesh/noida/'>software developers in Noida</a>, or the <a href='/it-services/uttar-pradesh/'>Uttar Pradesh IT services hub</a> for the rest of the state.",
       ],
     },
     {

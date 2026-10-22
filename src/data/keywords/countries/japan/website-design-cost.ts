@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/japan/website-design-cost/",
   crumb: "Website design cost in Japan",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Design Cost in Japan: Sites from ${P.site}`,
-    description: `Website design cost in Japan: what drives quotes, hidden running costs, consumption tax questions and remote builds from ${P.site}. Compare before you sign.`,
+    title: `Website Design Cost in Japan: What Quotes Include`,
+    description: `Website design cost in Japan: what drives a quote, hidden running costs, consumption tax questions and remote builds from ${P.site}. Compare before you sign.`,
     keywords: [
       "website design cost in japan", "website design cost japan", "how much does a website cost in japan", "web design price japan",
       "homepage seisaku hiyou", "website development cost japan", "corporate website cost japan", "ecommerce website cost japan",

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/google-sheets-to-whatsapp/",
   crumb: "Send WhatsApp message from Google Sheets",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Google Sheets to WhatsApp Alerts from ${P.ai}`,
-    description: `Google Sheets to WhatsApp messages with Apps Script and the official API: reminders, confirmations and status written back to the sheet. Setup from ${P.ai}.`,
+    title: `Google Sheets to WhatsApp Alerts: Setup from ${P.ai}`,
+    description: `Send reminders, confirmations and order updates straight from a Sheet on WhatsApp’s official API, with delivery status written back to the row. From ${P.ai}.`,
     keywords: [
       "send whatsapp message from google sheets", "google sheets to whatsapp", "send whatsapp from google sheets", "google sheets whatsapp automation",
       "google sheets whatsapp api", "apps script whatsapp api", "whatsapp reminder from google sheet", "google sheet whatsapp integration",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "how to send whatsapp message from google sheets", "google sheets whatsapp cost", "whatsapp payment reminder google sheets", "appointment reminder whatsapp google sheets",
       "google sheet se whatsapp message kaise bheje", "google sheets whatsapp India", "google sheets whatsapp Kanpur", "google sheets whatsapp Madurai",
       "excel to whatsapp automation", "google forms to whatsapp",
+      "how to use google apps script whatsapp", "send message on whatsapp at specific time", "whatsapp messages per day limit",
     ],
   },
   hero: {

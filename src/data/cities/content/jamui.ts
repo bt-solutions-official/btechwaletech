@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const jamui: CityContent = {
   slug: "jamui",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 24.928, lng: 86.224 },
   meta: {
-    title: "IT Services in Jamui | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Jamui | Sites ₹10,000, Apps ₹40,000",
     description:
       "Jamui Hindi websites, mobile apps, local SEO and WhatsApp automation for traders, coaching centres, clinics and Jain pilgrimage services. Apps from ₹40,000.",
     keywords: [

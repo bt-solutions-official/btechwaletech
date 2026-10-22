@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/affordable-web-developer/",
   crumb: "Affordable web developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
     title: `Affordable Web Developer India: Sites from ${P.site}`,
-    description: `Affordable web developer in India: websites from ${P.site}, itemised quotes, code in your name. See where your budget goes, then get a quote in 2 days.`,
+    description: `Websites from ${P.site} with itemised quotes and the code in your name. See exactly where a small budget goes, and what is worth adding later rather than now.`,
     keywords: [
       "affordable web developer", "affordable web developer in India", "affordable web developer near me", "affordable web developer for hire",
       "affordable web developer cost", "affordable website price", "best affordable web developer", "sasta aur accha website developer",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "website on a small budget", "affordable web design India", "low budget business website", "affordable web developer for startups",
       "how to save money on a website",
       "hire affordable web developer",
+      "affordable web development company", "cheap website developer india", "low cost website development india",
     ],
   },
   hero: {

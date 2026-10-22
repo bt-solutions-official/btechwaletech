@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/ceramic-tiles-website-morbi/",
   crumb: "Ceramic tiles company website in Morbi",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Ceramic tiles company website in Morbi, ${P.site}+`,
-    description: `Ceramic tiles company website in Morbi from ${P.site}: catalogues filtered by size and finish, dealer locator, export enquiry forms and fast tile images.`,
+    title: `Ceramic Tiles Website in Morbi: Price List, Dealer Locator`,
+    description: `Ceramic tiles website in Morbi from ${P.site}: catalogue filtered by size and finish, trade price lists behind a login, dealer locator and export enquiries.`,
     keywords: [
       "ceramic tiles company website in Morbi", "ceramic tiles website Morbi", "tiles manufacturer website Morbi", "vitrified tiles company website",
       "tile catalogue website design", "Morbi Gujarat tiles website", "tiles website developer near me", "tiles website designer Morbi",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "tiles dealer locator website", "tiles export website Gujarat", "GVT PGVT tiles catalogue online", "wall tiles manufacturer website",
       "floor tiles company website", "tiles website services Morbi", "Lakhdhirpur Road tiles website", "ceramic website Wankaner",
       "tiles ki website kaise banaye", "tiles company website banwana hai Morbi", "ceramic cluster website Saurashtra", "tile size and finish filter website",
+      "Morbi tiles price list", "tile price list website", "Morbi ceramic company website", "tiles catalogue website",
     ],
   },
   hero: {
@@ -397,6 +398,7 @@ const content: FreelanceContent = {
     { question: "How do we pay for the website?", answer: "In INR by UPI or bank transfer, in stages tied to visible progress: an advance to start, a payment when the first series page and filters are approved, and the balance before launch, as written in the quote. Domain, hosting and email are paid directly by you to the providers, so there is no hidden mark-up." },
     { question: "Can you redesign our existing tile website?", answer: "Yes. We list your current pages, keep and improve the ones that bring visitors, redirect old addresses to the new series and size pages so search traffic and dealer bookmarks keep working, and test everything on staging before switching. Email accounts stay untouched or are moved carefully so no buyer messages are lost." },
     { question: "Will AI tools like ChatGPT mention our tiles?", answer: "Nobody can control that, but clear data helps. AI Overviews and assistants tend to quote pages that state facts in tables, such as sizes, finishes, water absorption and packing, and name the place. Consistent spec tables, short FAQs per series and matching details on your Google profile give these tools accurate material about your Morbi plant and its range." },
+    { question: "Should our Morbi tile price list go on the website, or should we keep sending a PDF?", answer: `Both, but for different readers. Public pages carry sizes, finishes, body type, packing and MOQ, because that is what buyers search for and what Google can actually read; a PDF cannot be indexed usefully and is stale the day rates move. Trade prices sit behind a dealer login or a short request form, so real buyers get them without showing competitors your rates. The admin lets you update a series in minutes instead of reissuing a document.` },
     { question: "Morbi me tiles company ki website banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath tiles catalogue website ${P.site} se shuru hoti hai, jisme size, finish aur body type ke filters, series pages, dealer locator aur export enquiry form hote hain. Bade catalogue ${P.seoSite} se shuru hote hain. Domain aapke naam par rehta hai aur launch ke baad 2 mahine maintenance free hai. Kaam WhatsApp aur video call par remote chalta hai.` },
   ],
   related: {

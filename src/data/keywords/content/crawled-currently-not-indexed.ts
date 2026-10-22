@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/crawled-currently-not-indexed/",
   crumb: "Crawled currently not indexed",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: "Crawled Currently Not Indexed: Fixes That Work (2026)",
-    description: `Crawled currently not indexed in Search Console? Find the cause by URL pattern, fix thin, duplicate and orphan pages, then validate. SEO help from ${P.seo}.`,
+    title: `Crawled – Currently Not Indexed: Real Fixes (2026)`,
+    description: `Why Google crawls a page and then skips it, how to find the cause by URL pattern, and the fixes for thin, duplicate and orphan pages. Then how to validate.`,
     keywords: [
       "crawled currently not indexed", "crawled - currently not indexed", "crawled currently not indexed fix", "how to fix crawled currently not indexed",
       "discovered currently not indexed", "crawled but not indexed", "crawled currently not indexed vs discovered currently not indexed",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "validate fix search console", "request indexing not working", "crawl budget", "google not indexing new pages",
       "why pages are not indexed in google", "indexing issue fix service", "page crawled but not indexed India", "indexing problem kaise fix kare",
       "technical seo for indexing", "crawled currently not indexed how long",
+      "crawled-currently not indexed fix",
     ],
   },
   hero: {

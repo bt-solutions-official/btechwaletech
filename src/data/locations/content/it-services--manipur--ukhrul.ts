@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--manipur--ukhrul",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 25.1167, lng: 94.3667 },
   meta: {
     title: "Ukhrul, Manipur Software Developers: Homestays & Guides",
     description:
-      "Freelance software developers for Ukhrul: tourism and homestay sites, festival booking, plus Longpi and Kachai stores. Two months of free upkeep after launch.",
+      "Freelance software developers for Ukhrul: tourism and homestay sites, festival booking and Longpi and Kachai stores. From ₹10,000, two months free upkeep.",
     keywords: [
       "software development team in Ukhrul",
       "IT services team in Ukhrul",

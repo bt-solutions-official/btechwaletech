@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const narnaul: CityContent = {
   slug: "narnaul",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 28.0444, lng: 76.1056 },
   meta: {
-    title: "IT Services in Narnaul | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Narnaul | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, local SEO and WhatsApp automation for Narnaul traders, stone and mining units, logistics firms, schools and clinics. From ₹10,000.",
     keywords: [

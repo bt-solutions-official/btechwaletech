@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sunabeda: CityContent = {
   slug: "sunabeda",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 18.73, lng: 82.83 },
   meta: {
-    title: "IT Services in Sunabeda | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sunabeda | Sites ₹10,000, Apps ₹40,000",
     description:
       "Odia and English websites, apps, SEO and WhatsApp tools for Sunabeda contractors, schools, coaching, clinics and Semiliguda shops. From ₹10,000.",
     keywords: [

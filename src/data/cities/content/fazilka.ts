@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const fazilka: CityContent = {
   slug: "fazilka",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 30.4031, lng: 74.025 },
   meta: {
-    title: "IT Services in Fazilka | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Fazilka | Sites ₹10,000, Apps ₹40,000",
     description:
       "Fazilka Punjabi websites, mobile apps, local SEO and WhatsApp bots for kinnow growers, cotton traders, jutti makers, clinics, schools and shops. From ₹10,000.",
     keywords: [

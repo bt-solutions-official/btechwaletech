@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/custom-software-development-cost-in-india/",
   crumb: "Custom software development cost in India",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Custom Software Development Cost in India from ${P.software}`,
-    description: `Custom software development cost in India for SMEs: module-wise estimates, build vs SaaS break-even, IP ownership and support. Projects from ${P.software}.`,
+    title: `Custom Software Development Cost in India: ${P.software}+`,
+    description: `${P.software} for phase one, module by module, in 6–12 weeks. See the build-vs-SaaS break-even over three years, who owns the IP, and what support really costs.`,
     keywords: [
       "custom software development cost in india", "custom software development cost", "software development cost in india",
       "custom software price india", "how much does custom software cost in india", "bespoke software development cost india",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "source code ownership custom software", "software banwane ka kharcha", "software development company near me cost",
       "custom software development cost in pune", "custom software development cost in ahmedabad", "sme software development india",
       "software development quote india",
+      "how much does custom software development cost", "custom software pricing india",
     ],
   },
   hero: {

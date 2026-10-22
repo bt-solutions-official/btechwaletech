@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const vita: CityContent = {
   slug: "vita",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 17.2711, lng: 74.5378 },
   meta: {
-    title: "IT Services in Vita | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Vita | Sites ₹10,000, Apps ₹40,000",
     description:
       "Marathi websites, apps, Maps SEO and WhatsApp tools for Vita gold refiners, jewellers, textile units, clinics, colleges and shops. From ₹10,000.",
     keywords: [

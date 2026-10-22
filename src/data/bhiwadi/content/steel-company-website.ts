@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/steel-company-website/",
   crumb: "Steel company website",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: "Steel Company Website in Bhiwadi: Meet in Person",
-    description: `Steel company website in Bhiwadi from ${P.site}: grade and capacity pages, RFQ forms with drawing upload. We meet you face to face at your shop floor.`,
+    title: `Steel Company Website in Bhiwadi from ${P.site}`,
+    description: `Steel company website in Bhiwadi from ${P.site}, live in 1–2 weeks: grades and sizes you stock, real machine capacities, a page per process, drawing-ready RFQs.`,
     keywords: [
       "steel company website in Bhiwadi", "steel company website", "steel company website Bhiwadi Rajasthan", "steel company website near me",
       "fabrication company website Bhiwadi", "foundry website design Bhiwadi", "metal fabrication website with RFQ form",
@@ -49,7 +49,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What should a steel company website in Bhiwadi include, and what does it cost?",
-    text: `A steel company website in Bhiwadi should list the grades and sizes you handle, real machine capacities, one page per process, and an RFQ form that accepts drawings. A capability site of up to 100 pages starts at ${P.site} and takes 1–2 weeks; a 299+ page site targeting grade and city searches starts at ${P.seoSite}. We meet you one to one at your unit first.`,
+    text: `From ${P.site} for a capability site of up to 100 pages, live in 1–2 weeks; a 299+ page site targeting grade and city searches starts at ${P.seoSite}. A steel company website in Bhiwadi should list the grades and sizes you handle, real machine capacities, one page per process, and an RFQ form that accepts drawings.`,
     more: `Auto-component suppliers should also read <a href='/bhiwadi-rajasthan/auto-parts-manufacturer-website/'>auto component manufacturer websites</a>; units with long part lists fit <a href='/bhiwadi-rajasthan/industrial-product-catalogue-website/'>industrial catalogue sites</a>.`,
   },
   snapshot: {

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-nodejs-developer/",
   crumb: "Freelance Node.js developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
     title: `Freelance Node.js Developer: APIs from ${P.software}`,
-    description: `Freelance Node.js developer in India for APIs, real-time apps, job queues and integrations. Backends from ${P.software}, itemised quote in 2 working days.`,
+    description: `APIs, real-time apps, job queues and third-party integrations in Node or Fastify. Backends from ${P.software}, with an itemised quote in 2 working days.`,
     keywords: [
       "freelance nodejs developer", "freelance node.js developer", "freelance nodejs developer in India", "nodejs developer near me",
       "nodejs developer for hire", "freelance nodejs developer cost", "nodejs developer price India", "best freelance nodejs developer",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "real-time app developer node.js", "node.js webhook integration", "bullmq queue developer", "typescript backend developer freelance",
       "node.js developer for startup", "remote nodejs developer India",
       "hire freelance nodejs developer",
+      "freelance node js jobs india", "hire nodejs developer freelance", "fastify developer india",
     ],
   },
   hero: {

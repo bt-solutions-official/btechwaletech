@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const batala: CityContent = {
   slug: "batala",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 31.8186, lng: 75.2028 },
   meta: {
-    title: "IT Services in Batala: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Batala | From ₹10,000",
     description:
-      "Batala websites, SEO and WhatsApp bots for foundries, machine tool makers, shops and schools. Static sites from ₹10,000, remote team, 2 months free upkeep.",
+      "Batala websites from ₹10,000, live in 1-2 weeks; 299+ page SEO sites from ₹20,000. Built for foundries, machine-tool makers, shops and schools, code yours.",
     keywords: [
       "website development team in Batala",
       "web design Batala",
@@ -43,7 +43,7 @@ const batala: CityContent = {
     pills: ["Websites from ₹10,000", "Punjabi, Hindi and English", "Catalogues for machinery", "Dealer enquiry forms", "WhatsApp quotes"],
   },
   quickAnswer:
-    "A business website for a Batala firm starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, and an online store from ₹50,000. We are a remote three-engineer team with no Batala office, and every site gets two months of free maintenance after launch.",
+    "A Batala business website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, stores start at ₹50,000 and web applications at ₹60,000. Punjabi pages are available, and two months of maintenance are free after launch.",
   snapshot: [
     { label: "District role", value: "Largest town of Gurdaspur district and a municipal corporation since 2019, about 39 km from Amritsar" },
     { label: "Industrial identity", value: "Once called the “Iron Bird of Asia” for cast iron foundries, lathes, shapers and farm implements" },

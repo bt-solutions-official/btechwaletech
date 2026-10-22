@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const gadwal: CityContent = {
   slug: "gadwal",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 16.2333, lng: 77.8 },
   meta: {
-    title: "IT Services in Gadwal | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Gadwal | Sites ₹10,000, Apps ₹40,000",
     description:
       "Gadwal websites, Android and iOS apps, local SEO and WhatsApp automation for saree weavers, cotton seed growers, ginning mills, temple-town trade and clinics.",
     keywords: [

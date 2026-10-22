@@ -2,4 +2,10 @@
 
 Canonical agent-readable context file: https://btechwaletech.in/llms.txt
 
-Use `llms.txt` for the structured BtechWaleTech service summary, contact details, team links, sitemap, robots file, and location-page guidance.
+That file is the hand-written index: what BtechWaleTech is (a freelance group of three
+engineers in India, no offices), the real starting prices in INR and USD, the service
+descriptions, citable short answers, the main page clusters with URLs, contact details,
+and licensing and attribution terms for quoting the site.
+
+Complete URL list: https://btechwaletech.in/sitemap-index.xml
+Crawler rules: https://btechwaletech.in/robots.txt

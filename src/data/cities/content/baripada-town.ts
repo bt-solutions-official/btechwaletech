@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const baripada: CityContent = {
   slug: "baripada-town",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 21.9347, lng: 86.7337 },
   meta: {
-    title: "IT Services in Baripada Town: Websites, Apps, SEO & AI",
+    title: "Website Design in Baripada | Sites from ₹10,000",
     description:
-      "Websites, local SEO and WhatsApp tools for Baripada's sabai craft makers, Similipal tour operators, clinics, colleges and shops. Static sites from ₹10,000.",
+      "Baripada websites from ₹10,000, live in 1-2 weeks, with Odia SEO. WhatsApp tools for sabai craft makers, Similipal tour operators, clinics and shops.",
     keywords: [
       "website development team in Baripada",
       "web design Baripada",
@@ -43,7 +43,7 @@ const baripada: CityContent = {
     pills: ["Sites from ₹10,000", "Odia, Hindi, English", "Craft catalogues and stores", "Similipal booking pages", "Free upkeep for 2 months"],
   },
   quickAnswer:
-    "In Baripada, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online craft store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no office in Baripada, and maintenance is free for two months after launch.",
+    "A Baripada website starts at ₹10,000 and goes live in one to two weeks, in Odia or English. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and stores start at ₹50,000. We are a remote team of three engineers, and the first two months of upkeep are free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Mayurbhanj, Odisha's largest district by area, on the Budhabalanga river" },
     { label: "Former state capital", value: "Seat of the Bhanja rulers of Mayurbhanj princely state from the late 18th century" },

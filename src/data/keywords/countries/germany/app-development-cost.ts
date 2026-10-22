@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/app-development-cost/",
   crumb: "App development cost in Germany",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `App Development Cost in Germany: Budgets from ${P.app}`,
-    description: `App development cost in Germany explained: price drivers, agency vs offshore quotes, hidden store and hosting costs, sample budgets. Apps from ${P.app}.`,
+    title: `App Development Cost in Germany: ${P.app} to ${P.software}`,
+    description: `App development cost in Germany: price drivers, agency vs offshore quotes, hidden store and hosting costs and sample budgets. Apps from ${P.app}.`,
     keywords: [
       "app development cost in germany", "app development cost germany", "how much does an app cost in germany", "app kosten",
       "was kostet eine app", "app entwickeln lassen kosten", "app development price germany", "mobile app cost germany",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "fixed price vs time and materials app", "app store fees germany", "cost to build an app for a german startup",
       "cheap app development germany", "app development quote germany", "how is app development cost calculated",
       "hire app development in Germany", "freelance app development Germany",
+      "app entwicklung kosten", "app kosten deutschland", "company maintenance costs germany",
     ],
   },
   hero: {

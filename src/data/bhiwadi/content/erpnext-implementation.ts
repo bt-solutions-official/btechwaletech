@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/erpnext-implementation/",
   crumb: "ERPNext implementation",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: "ERPNext Implementation in Bhiwadi · Meet in Person",
-    description: `ERPNext implementation in Bhiwadi from ${P.software}: modules, customisation, hosting and Tally or Excel data migration, planned one to one at your unit.`,
+    title: `ERPNext Implementation in Bhiwadi from ${P.software}`,
+    description: `ERPNext implementation in Bhiwadi from ${P.software}, phase one live in 6–12 weeks: fit-gap study, configuration, hosting and Tally or Excel data migration.`,
     keywords: [
       "ERPNext implementation in Bhiwadi", "ERPNext implementation partner near me", "ERPNext consultant Bhiwadi Rajasthan", "ERPNext developer Bhiwadi Alwar",
       "ERPNext implementation services Bhiwadi", "ERPNext for manufacturing Bhiwadi", "Tally to ERPNext migration Bhiwadi", "Excel to ERPNext data import",
@@ -47,7 +47,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does ERPNext implementation in Bhiwadi involve, and what does it cost?",
-    text: `ERPNext is free, open-source ERP software; what you pay for is implementation: a fit-gap study, configuration, light customisation, Tally and Excel data migration, hosting setup and training. With BtechWaleTech a rollout starts at ${P.software} and a first phase typically goes live in 6–12 weeks, after a face-to-face fit-gap meeting at your unit in Bhiwadi.`,
+    text: `From ${P.software}, with a first phase typically live in 6–12 weeks. ERPNext itself is free, open-source ERP software; what you pay for is implementation: a fit-gap study, configuration, light customisation, Tally and Excel data migration, hosting setup and training. It starts with a face-to-face fit-gap meeting at your unit.`,
     more: `If you are still choosing between open-source systems, read <a href='/odoo-vs-erpnext/'>Odoo vs ERPNext</a>; for what an implementer should deliver, see <a href='/erpnext-implementation-partner/'>choosing an ERPNext implementation partner</a>.`,
   },
   snapshot: {

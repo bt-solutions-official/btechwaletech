@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const phaltan: CityContent = {
   slug: "phaltan",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 17.9917, lng: 74.4333 },
   meta: {
-    title: "IT Services in Phaltan | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Phaltan | Sites ₹10,000, Apps ₹40,000",
     description:
       "Marathi websites, apps, local SEO and WhatsApp tools for Phaltan MIDC suppliers, sugar and dairy firms, orchards, colleges and shops. Websites from ₹10,000.",
     keywords: [

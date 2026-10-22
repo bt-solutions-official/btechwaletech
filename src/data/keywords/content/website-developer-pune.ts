@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/website-developer-pune/",
   crumb: "Website developer in Pune",
-  updated: "2026-10-02",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Pune: Hire From ${P.site}`,
-    description: `Website developer in Pune: hire a three-person freelance team for Hinjewadi, Kharadi, Baner and PCMC businesses. Sites from ${P.site}, live in 1-2 weeks.`,
+    title: `Freelance Website Developer in Pune: From ${P.site}`,
+    description: `Freelance website developer in Pune: a three-person team for Hinjewadi, Kharadi, Baner and PCMC businesses. Sites from ${P.site}, live in 1–2 weeks.`,
     keywords: [
+      "freelance website developer in pune",
       "website developer in Pune", "website developer Pune", "website developer near me Pune", "web developer in Pune",
       "website development in Pune", "website development services Pune", "website design and development Pune", "business website developer Pune",
       "freelance website developer Pune", "website developer cost in Pune", "website development price Pune", "best website developer in Pune",

@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--haryana--gurgaon",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 28.4595, lng: 77.0266 },
   meta: {
-    title: "Gurgaon IT Consultants: SaaS, GCCs & D2C Brands",
+    title: "Cloud & AI App Development in Gurgaon from ₹60,000",
     description:
-      "Freelance IT consulting in Gurgaon: architecture reviews, cloud cost cuts, AI agents and custom software. Websites from ₹10,000, quote in two working days.",
+      "Cloud application development and AI consulting in Gurgaon: architecture reviews, AWS cost cuts, AI agents and custom software from ₹60,000. Quote in 2 days.",
     keywords: [
       "IT solutions team in Gurgaon",
       "IT consulting Gurgaon",
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "IT consulting for a Gurgaon business in 2026 is less about recommending software brands and more about technical judgement: reviewing architecture, controlling cloud spend, choosing which AI use cases are worth building, deciding build versus buy, and planning how systems and data should fit together. The consultant should be able to build what they recommend.",
         "Gurgaon's mix explains why. A Series A startup on Golf Course Extension needs someone to sanity-check its stack before scaling. A garment exporter in Udyog Vihar needs its order and compliance flow digitised. A Manesar supplier needs OEM schedule tracking. A D2C brand needs its store, inventory and CRM talking to each other. Each needs a different answer.",
-        "BtechWaleTech is a <a href='/about/'>freelance group of three engineers</a>. We review, write down what we find in plain language, and then deliver the work ourselves, working inside your repository and cloud accounts so nothing depends on us.",
+        "BtechWaleTech is a <a href='/about/'>freelance group of three engineers</a>. We review, write down what we find in plain language, and then deliver the work ourselves, working inside your repository and cloud accounts so nothing depends on us. For build-only work, see <a href='/it-services/haryana/gurugram/'>software developers in Gurugram</a>, or the <a href='/it-services/haryana/'>Haryana IT services hub</a> for the rest of the state.",
       ],
     },
     {

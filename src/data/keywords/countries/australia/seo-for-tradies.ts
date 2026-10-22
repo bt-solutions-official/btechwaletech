@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/seo-for-tradies/",
   crumb: "SEO for tradies",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `SEO for Tradies: Stop Paying Per Lead, from ${P.seo}`,
-    description: `SEO for tradies in Australia: Google Business Profile, suburb pages, a review system and call tracking to booked jobs. SEO from ${P.seo}, measured in jobs.`,
+    title: `SEO for Tradies Australia: Stop Per-Lead Fees, ${P.seo}`,
+    description: `SEO for tradies in Australia: Google Business Profile, real suburb pages, reviews and call tracking through to booked jobs. From ${P.seo}, reported monthly.`,
     keywords: [
       "seo for tradies", "tradie seo", "seo for tradies australia", "local seo for tradies", "tradie seo services",
       "how do tradies get more leads without hipages", "hipages alternative for tradies", "oneflare vs seo", "airtasker vs own website",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "seo for plumbers", "seo for electricians", "seo for builders", "seo for tradies sydney", "seo for tradies melbourne",
       "seo for tradies brisbane", "seo for tradies perth", "seo for tradies adelaide", "tradie marketing australia",
       "hire seo for tradies in Australia", "freelance seo for tradies Australia",
+      "tradies seo", "seo services for tradies", "seo company for tradies", "seo tradies",
     ],
   },
   hero: {

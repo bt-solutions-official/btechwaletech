@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/eu-withdrawal-button/",
   crumb: "EU withdrawal button",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: "EU Withdrawal Button: § 356a BGB Setup for Shops",
-    description: `EU withdrawal button (§ 356a BGB) for German shops: two-step flow, instant receipt, added to Shopify, WooCommerce or Shopware. Care from ${P.care}.`,
+    title: `EU Withdrawal Button (§ 356a BGB): Setup for Shops`,
+    description: `EU withdrawal button under § 356a BGB: who needs it, the two-step flow, the instant receipt, and adding it to Shopify or Shopware. Care from ${P.care}.`,
     keywords: [
       "eu withdrawal button", "withdrawal button", "widerrufsbutton", "electronic withdrawal function", "§ 356a BGB",
       "356a bgb withdrawal button", "vertrag widerrufen button", "widerruf bestätigen button", "withdrawal button germany",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "withdrawal button requirements", "withdrawal button guest checkout", "withdrawal button app", "withdrawal button abmahnung",
       "how to add a withdrawal button", "withdrawal button developer germany", "withdrawal button berlin shop", "withdrawal button hamburg",
       "hire eu withdrawal button in Germany", "freelance eu withdrawal button Germany", "eu withdrawal button cost Germany",
+      "356a bgb widerruf", "widerrufsbutton shopware",
     ],
   },
   hero: {

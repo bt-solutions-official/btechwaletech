@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--bihar",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 25.0961, lng: 85.3131 },
   meta: {
-    title: "Bihar IT Services: Software & Apps",
+    title: "IT Services in Bihar: Websites ₹10,000, Apps ₹40,000",
     description:
       "Freelance IT services in Bihar: coaching apps, hospital software, agri traceability, AI automation and SEO for Patna, Gaya and beyond. Prices from ₹10,000.",
     keywords: [
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "Freelance IT services in Bihar, as BtechWaleTech delivers them, include custom software and web applications, Android and iOS apps, AI agents and WhatsApp automation, data dashboards, online stores, websites, SEO and local SEO, cloud hosting and maintenance. Three independent engineers deliver all of it remotely from India; we have no office in Bihar.",
         "People searching for IT services in Bihar, or for a software development team in Bihar, usually want one of three results: more customers finding them online, less time lost to repetitive work, or clear numbers about their business. Websites and SEO serve the first, automation and software the second, dashboards the third. Most real projects touch two or three.",
-        "The sections below explain how each service fits Bihar's main sectors, from coaching in Patna to makhana in Mithila, what it costs, and how to choose between freelancers and larger IT companies. City-level detail is on our pages for <a href='/patna/'>Patna</a>, <a href='/gaya/'>Gaya</a>, <a href='/muzaffarpur/'>Muzaffarpur</a>, <a href='/bhagalpur/'>Bhagalpur</a> and <a href='/darbhanga/'>Darbhanga</a>.",
+        "The sections below explain how each service fits Bihar's main sectors, from coaching in <a href='/it-services/bihar/patna/'>Patna</a> to makhana in Mithila, what it costs, and how to choose between freelancers and larger IT companies. City-level detail is on our pages for <a href='/patna/'>Patna</a>, <a href='/gaya/'>Gaya</a>, <a href='/muzaffarpur/'>Muzaffarpur</a>, <a href='/bhagalpur/'>Bhagalpur</a> and <a href='/darbhanga/'>Darbhanga</a>.",
       ],
     },
     {
@@ -90,7 +90,7 @@ const content: CityContent = {
       heading: "Where does software fit into Bihar's economy?",
       paragraphs: [
         "Software fits into Bihar's economy wherever records, fees, orders or patients are managed by hand at scale: coaching institutes teaching thousands of students, hospitals serving patients from many districts, agri businesses buying from thousands of farmers, traders supplying towns across the state, and hotels hosting pilgrims from around the world.",
-        "Bihar is largely agricultural, but it has distinctive products with national and international demand, such as Mithila makhana, Shahi litchi, Bhagalpur silk and Madhubani painting, each with Geographical Indication status. Patna is one of India's best-known coaching centres. Bodh Gaya draws Buddhist pilgrims from across Asia. The Barauni refinery and industrial areas at Hajipur and Bihta support a network of suppliers and contractors.",
+        "Bihar is largely agricultural, but it has distinctive products with national and international demand, such as Mithila makhana, Shahi litchi, <a href='/it-services/bihar/bhagalpur/'>Bhagalpur</a> silk and Madhubani painting, each with Geographical Indication status. Patna is one of India's best-known coaching centres. Bodh Gaya draws Buddhist pilgrims from across Asia. The Barauni refinery and industrial areas at Hajipur and Bihta support a network of suppliers and contractors.",
         "Across all of these, the common thread is a mobile-first population that already pays by UPI and talks on WhatsApp. That makes it practical to move services online quickly, provided the tools are simple, work in Hindi and run on budget phones.",
       ],
     },
@@ -99,7 +99,7 @@ const content: CityContent = {
       heading: "What software does a coaching institute in Patna or Bihar need?",
       paragraphs: [
         "A coaching institute in Patna or elsewhere in Bihar needs software for admissions and batch allocation, fee instalments and reminders, attendance, study material, online test series with ranks, and parent and student communication. BtechWaleTech builds these as web platforms from ₹60,000 and as Android and iOS student apps from ₹40,000.",
-        "Patna's coaching market, concentrated in areas like Boring Road, Musallahpur and Kankarbagh, prepares students for engineering, medical, banking, railway, civil service and state exams, and similar institutes run in Gaya, Muzaffarpur, Bhagalpur and Darbhanga. Many manage thousands of students with registers, spreadsheets and WhatsApp groups that grow unmanageable each session.",
+        "Patna's coaching market, concentrated in areas like Boring Road, Musallahpur and Kankarbagh, prepares students for engineering, medical, banking, railway, civil service and state exams, and similar institutes run in <a href='/it-services/bihar/gaya/'>Gaya</a>, <a href='/it-services/bihar/muzaffarpur/'>Muzaffarpur</a>, Bhagalpur and <a href='/it-services/bihar/darbhanga/'>Darbhanga</a>. Many manage thousands of students with registers, spreadsheets and WhatsApp groups that grow unmanageable each session.",
         "A focused platform brings order: each student has a record with batch, fees paid and due, attendance and test scores. Test series run online with timers, negative marking and all-India style ranks within your institute. Recorded lectures stream efficiently on mobile data. Parents receive fee and attendance updates automatically. We keep screens simple for students on low-cost phones.",
       ],
       list: [

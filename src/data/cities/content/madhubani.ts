@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const madhubani: CityContent = {
   slug: "madhubani",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 26.3519, lng: 86.0719 },
   meta: {
-    title: "IT Services in Madhubani | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Madhubani | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, local SEO and WhatsApp automation for Madhubani painting artists, makhana traders, fish farms, clinics, coaching and shops. From ₹10,000.",
     keywords: [

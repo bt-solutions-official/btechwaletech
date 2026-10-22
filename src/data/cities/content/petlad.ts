@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const petlad: CityContent = {
   slug: "petlad",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 22.4667, lng: 72.8 },
   meta: {
-    title: "IT Services in Petlad | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Petlad | Sites ₹10,000, Apps ₹40,000",
     description:
       "Gujarati websites, apps, local SEO and WhatsApp tools for Petlad GIDC units, tobacco traders, textile firms, NRI families, schools and shops. From ₹10,000.",
     keywords: [

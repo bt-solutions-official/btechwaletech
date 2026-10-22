@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-designer-bharuch/",
   crumb: "Website designer in Bharuch",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Designer in Bharuch: Sites from ${P.site}`,
-    description: `Looking for a website designer in Bharuch? Layouts, photo direction and Gujarati-English pages designed and coded together, from ${P.site}. See how it works.`,
+    title: `Website Designer in Bharuch: Design + Build ${P.site}+`,
+    description: `Website designer in Bharuch: layouts, photo direction and Gujarati-English pages designed and coded together from ${P.site}. Approve each screen on a phone.`,
     keywords: [
       "website designer in Bharuch", "website designer Bharuch", "web designer in Bharuch", "website designer near me Bharuch",
       "website designing Bharuch", "website design Bharuch Gujarat", "freelance web designer Bharuch", "best website designer in Bharuch",

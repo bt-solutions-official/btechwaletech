@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/japan/cross-border-ecommerce-website/",
   crumb: "Cross border e commerce Japan",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Cross Border E Commerce Japan: Stores from ${P.shop}`,
-    description: `Cross border e commerce Japan: an English export store from ${P.shop} with multi-currency prices, duties at checkout, EMS and courier rates, and overseas SEO.`,
+    title: `Cross-Border Ecommerce Japan: Export Stores, ${P.shop}+`,
+    description: `Cross-border ecommerce for Japan: an English export store from ${P.shop} with multi-currency pricing, duties shown at checkout and EMS and courier rates.`,
     keywords: [
       "cross border e commerce japan", "cross border ecommerce japan", "japan cross border ecommerce website", "ekkyo ec", "越境EC",
       "sell japanese products overseas online", "how to sell japanese products internationally", "english online store for japanese brand",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "cross border ecommerce fukuoka", "japanese craft online store english", "cross border ecommerce developer near me",
       "direct to consumer export japan",
       "hire cross border e commerce in Japan", "freelance cross border e commerce Japan",
+      "japan customs clearance for cross border e-commerce", "japan cross-border ecommerce agency", "cross border e-commerce logistics japan", "japan cross border dropshipping", "japan cross-border fulfillment",
     ],
   },
   hero: {

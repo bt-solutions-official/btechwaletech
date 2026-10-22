@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/ndis-provider-website-design/",
   crumb: "NDIS provider website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `NDIS Provider Website Design: Accessible, from ${P.site}`,
-    description: `NDIS provider website design for Australian disability services: Easy Read pages, consent-based referral forms, clear registration status. From ${P.site}.`,
+    title: `NDIS Website Design for Providers: Easy Read, ${P.site}+`,
+    description: `NDIS website design for registered and unregistered providers: Easy Read pages, registration status shown plainly, consent-based referral forms. From ${P.site}.`,
     keywords: [
       "ndis provider website design", "ndis website design", "website design for ndis providers", "ndis provider website",
       "disability service provider website design", "ndis web design australia", "how much does an ndis website cost",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "ndis website design brisbane", "ndis website design perth", "ndis website design adelaide",
       "ndis provider website near me", "ndis provider seo", "ndis code of conduct marketing", "ndis website australia",
       "hire ndis provider website design in Australia", "freelance ndis provider website design Australia",
+      "ndis website designs brisbane", "ndis provider website design brisbane", "ndis web designers brisbane", "ndis web design townsville", "ndis website developer", "ndis website design examples", "custom ndis website design", "ndis web developer",
     ],
   },
   hero: {

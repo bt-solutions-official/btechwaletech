@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const gooty: CityContent = {
   slug: "gooty",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 15.1211, lng: 77.6339 },
   meta: {
-    title: "IT Services in Gooty | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Gooty | Sites ₹10,000, Apps ₹40,000",
     description:
       "Gooty Telugu websites, mobile apps, Maps SEO and WhatsApp automation for groundnut traders, railway suppliers, lorry offices, clinics and shops. From ₹10,000.",
     keywords: [

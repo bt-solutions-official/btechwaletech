@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--haryana--gurugram",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 28.4595, lng: 77.0266 },
   meta: {
-    title: "Gurugram Software Developers: Apps & AI",
+    title: "Gurugram Software Developers: Apps from ₹40,000",
     description:
       "Hire freelance software developers in Gurugram for custom software, SaaS MVPs and AI agents. Software from ₹60,000, apps from ₹40,000, quote in 2 days.",
     keywords: [
@@ -243,7 +243,7 @@ const content: CityContent = {
       paragraphs: [
         "After launch, every BtechWaleTech build in Gurugram includes two months of free maintenance covering bug fixes, security and dependency updates, backups, uptime monitoring and small content or configuration changes; after that, maintenance continues from ₹8,000 a month or on a pay-per-task basis.",
         "Software is never finished. Browsers update, libraries publish security patches, APIs you integrate with change their rules and users find edge cases nobody predicted. Our maintenance covers that routine upkeep and sends a short monthly note on what was done. Larger feature requests are quoted separately so the maintenance fee stays predictable.",
-        "We do not offer on-site desktop support, network installation or hardware repair in Gurugram offices; we are remote engineers focused on the software, cloud and automation layer. For clients who later build an in-house team, we help with handover: documentation, a walkthrough call and a period of overlap so the new developers are not left guessing.",
+        "We do not offer on-site desktop support, network installation or hardware repair in Gurugram offices; we are remote engineers focused on the software, cloud and automation layer. For clients who later build an in-house team, we help with handover: documentation, a walkthrough call and a period of overlap so the new developers are not left guessing. If you want the consulting side first, a review and a written roadmap before any build, read <a href='/india/haryana/gurgaon/'>IT consulting in Gurgaon</a>.",
       ],
     },
   ],

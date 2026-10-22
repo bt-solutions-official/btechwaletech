@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const dhoraji: CityContent = {
   slug: "dhoraji",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 21.7336, lng: 70.45 },
   meta: {
-    title: "IT Services in Dhoraji | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Dhoraji | Sites ₹10,000, Apps ₹40,000",
     description:
       "Dhoraji Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for plastic units, oil mills, cotton ginners, traders, schools and clinics.",
     keywords: [

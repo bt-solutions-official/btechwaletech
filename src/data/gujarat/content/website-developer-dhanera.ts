@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-developer-dhanera/",
   crumb: "Website developer in Dhanera",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Dhanera: Sites from ${P.site}`,
-    description: `Website developer in Dhanera for seed spice and castor traders, transporters, dairies and clinics. Sites from ${P.site}, Gujarati and Hindi ready, remote build.`,
+    title: `Website Developer in Dhanera: ${P.site}, Gujarati Ready`,
+    description: `Website developer in Dhanera for seed spice and castor traders, transporters and dairies. Sites from ${P.site}, Gujarati and Hindi ready, built remotely.`,
     keywords: [
       "website developer in Dhanera", "website developer Dhanera", "Dhanera website developer near me", "Dhanera Gujarat website",
       "web developer Dhanera Banaskantha", "website designer Dhanera", "website development services Dhanera", "website cost Dhanera",

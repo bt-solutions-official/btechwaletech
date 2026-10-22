@@ -2,7 +2,7 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--maharashtra--mumbai--web-development",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 19.076, lng: 72.8777 },
   meta: {
     title: "Mumbai Web Developers: Web Apps & Portals",
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "Web application development is the building of interactive software that runs in a browser, with logins, data, workflows and reports, as opposed to a website that mainly displays information. Mumbai businesses need a web app when their daily operations depend on information that many people must enter, update and see at once.",
         "Examples are everywhere in the city. A Kalbadevi textile wholesaler taking orders from two hundred retailers needs an ordering system. A Fort-based CA firm juggling filing deadlines needs a task and document tracker. A Goregaon production house needs shoot schedules, crew lists and vendor invoices in one place. A chain of diagnostic centres needs bookings and report delivery across branches. None of these are solved by a prettier homepage.",
-        "Our web applications typically use Next.js or React for the interface, Node.js, Laravel or Python for the server, and PostgreSQL or MySQL for data, deployed to AWS's Mumbai region or similar. First versions start at ₹60,000 and take six to twelve weeks.",
+        "Our web applications typically use Next.js or React for the interface, Node.js, Laravel or Python for the server, and PostgreSQL or MySQL for data, deployed to AWS's Mumbai region or similar. First versions start at ₹60,000 and take six to twelve weeks. For software, app and AI work beyond websites, see <a href='/it-services/maharashtra/mumbai/'>software developers in Mumbai</a>.",
       ],
       list: [
         "Ordering and inventory systems for traders",

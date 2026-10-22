@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/ndis-software-for-providers/",
   crumb: "NDIS software for small providers",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `NDIS Software for Small Providers: Custom from ${P.software}`,
-    description: `NDIS software for small providers: buy or build? Rostering, shift notes, incident records, bulk payment files and Australian hosting. Tools from ${P.software}.`,
+    title: `NDIS Software for Providers: Buy or Build? ${P.software}+`,
+    description: `NDIS software for small providers, buy or build: rostering, shift notes, incident records, bulk payment files, Australian hosting. Custom from ${P.software}.`,
     keywords: [
       "ndis software for small providers", "ndis software", "ndis provider software", "ndis management software",
       "custom ndis software", "ndis software australia", "best ndis software for small providers", "ndis software cost",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "off the shelf vs custom ndis software", "ndis software sydney", "ndis software melbourne", "ndis software brisbane",
       "ndis software perth", "support worker shift notes app", "ndis software for sole traders",
       "hire ndis software for small providers in Australia", "freelance ndis software for small providers Australia",
+      "ndis claiming software", "ndis reporting software", "ndis software providers", "ndis client management system",
     ],
   },
   hero: {

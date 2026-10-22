@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const salur: CityContent = {
   slug: "salur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 18.5333, lng: 83.2167 },
   meta: {
-    title: "IT Services in Salur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Salur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Telugu websites, apps, Maps SEO and WhatsApp automation for Salur traders, agency-area suppliers, clinics, schools and farm dealers. From ₹10,000.",
     keywords: [

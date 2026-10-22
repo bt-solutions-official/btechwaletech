@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--tamil-nadu--chennai",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 13.0827, lng: 80.2707 },
   meta: {
     title: "Chennai Software Developers: SaaS, Auto & Engineering",
     description:
-      "Comparing software development companies in Chennai? Hire three freelance engineers for web apps, SaaS MVPs and AI agents. Itemised quote in two working days.",
+      "Comparing software development companies in Chennai? Hire three freelance engineers for web apps, SaaS MVPs and AI agents. Software ₹60,000, in two days.",
     keywords: [
       "software development team in Chennai",
       "IT services team in Chennai",
@@ -218,7 +218,7 @@ const content: CityContent = {
         "The internal tools that replace spreadsheets fastest in Chennai offices are approval workflows, quotation builders, inventory and asset registers, recruitment trackers and customer onboarding checklists, because each has a clear owner, a repeated process and a spreadsheet that several people edit at once and nobody fully trusts.",
         "A consulting firm in Nungambakkam might track proposals and approvals in shared sheets with version names like final-final-2. An equipment distributor in Guindy might build quotations by copying old ones. A growing clinic chain might track new-joiner documents across branches by email. Each of these becomes a small web application with forms, roles, history and reports, usually in weeks rather than months.",
         "The benefit is not only speed. Internal tools create an audit trail: who changed a price, who approved a discount, when a document was received. That matters for compliance, for customer disputes and for training new staff. We build them on the same stack as larger products, so they can grow into customer-facing portals later if needed.",
-        "Custom internal tools start from ₹60,000, and many teams begin with one workflow, then add others once the first proves itself.",
+        "Custom internal tools start from ₹60,000, and many teams begin with one workflow, then add others once the first proves itself. If you want the consulting side first, a review and a written roadmap before any build, read <a href='/india/tamil-nadu/chennai/'>IT consulting in Chennai</a>.",
       ],
     },
   ],

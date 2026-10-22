@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/interior-designer-website-ahmedabad/",
   crumb: "Interior designer website in Ahmedabad",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Interior Designer Website in Ahmedabad from ${P.site}`,
-    description: `Interior designer website in Ahmedabad: project galleries that load fast, room-wise portfolios and WhatsApp enquiries. Studio sites from ${P.site}, 2-day quote.`,
+    title: `Interior Designer Website in Ahmedabad: ${P.site}, 2 Weeks`,
+    description: `Interior designer website in Ahmedabad from ${P.site}: room-wise galleries that load fast and enquiry forms that capture area and budget. Live in 1–2 weeks.`,
     keywords: [
       "interior designer website in Ahmedabad", "interior designer website Ahmedabad", "interior design website development Ahmedabad", "interior designer website near me",
       "interior designer portfolio website Ahmedabad", "architect website design Ahmedabad", "interior design studio website Gujarat", "interior designer website Ahmedabad Gujarat",

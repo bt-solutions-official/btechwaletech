@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--kerala",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 10.8505, lng: 76.2711 },
   meta: {
-    title: "Kerala IT Consulting: Tourism, Ayurveda & Exporters",
+    title: "Kerala IT Consulting & Software from ₹10,000",
     description:
       "Freelance IT solutions for Kerala: websites, custom software, plus Android and iOS apps. From ₹10,000, with two months of free upkeep after launch.",
     keywords: [
@@ -83,7 +83,7 @@ const content: CityContent = {
       paragraphs: [
         "Kerala businesses in 2026 mostly need five things from IT: a trustworthy online presence in Malayalam and English, a fast way to answer enquiries on WhatsApp, software that replaces paper and spreadsheet processes, mobile apps where customers or staff are on the move, and visibility in Google and AI search. The mix varies by sector, but the pattern is consistent from Kasaragod to Thiruvananthapuram.",
         "Kerala's economy has particular features that shape IT needs. Tourism brings international visitors who book from abroad. A large share of families have members working in the Gulf, so owners and customers often communicate across time zones. Hospitals, colleges and wellness centres serve patients and students from other states and countries. Traditional exporters of spices, cashew, coir and seafood deal with overseas buyers who judge them first by their website.",
-        "BtechWaleTech is a freelance group of three engineers serving all of this remotely. We do not claim an office in Kerala. We work over video calls and WhatsApp, which many Kerala clients already prefer when the decision-maker is in Dubai, Doha or Muscat and the business runs in Thrissur or Kozhikode.",
+        "BtechWaleTech is a freelance group of three engineers serving all of this remotely. We do not claim an office in Kerala. We work over video calls and WhatsApp, which many Kerala clients already prefer when the decision-maker is in Dubai, Doha or Muscat and the business runs in Thrissur or Kozhikode. For the delivery side of the same work, with city pages and published starting prices, see <a href='/it-services/kerala/'>IT services in Kerala</a>.",
       ],
       list: [
         "Bilingual websites and landing pages",

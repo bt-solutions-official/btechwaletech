@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-developer-vijapur/",
   crumb: "Website developer in Vijapur",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Vijapur · Sites from ${P.site}`,
-    description: `Website developer in Vijapur, Mehsana for potato traders, dharmshalas, schools, clinics & shops. Sites from ${P.site}, Gujarati with your copy, quote in 2 days.`,
+    title: `Website Developer in Vijapur, Mehsana: ${P.site}+`,
+    description: `Website developer in Vijapur, Mehsana for potato traders, dharmshalas, schools, clinics and shops. Sites from ${P.site}, Gujarati with your copy, 2-day quote.`,
     keywords: [
       "website developer in Vijapur", "website developer Vijapur", "website developer near me Vijapur", "Vijapur Mehsana website developer",
       "Vijapur Gujarat website design", "website designer Vijapur", "web developer Vijapur", "website development services Vijapur",

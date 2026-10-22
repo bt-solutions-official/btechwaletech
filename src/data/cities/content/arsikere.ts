@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const arsikere: CityContent = {
   slug: "arsikere",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 13.3139, lng: 76.2369 },
   meta: {
-    title: "IT Services in Arsikere | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Arsikere | Sites ₹10,000, Apps ₹40,000",
     description:
       "Arsikere Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for copra traders, coconut oil units, colleges, clinics, lodges and shops.",
     keywords: [

@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/wcag-compliant-website-design/",
   crumb: "WCAG compliance Australia",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `WCAG Compliance Australia: audit, fix, rebuild`,
-    description: `WCAG compliance Australia guide: what the DDA and AHRC guidance expect, a WCAG 2.2 AA checklist, audits, fixes and accessible rebuilds from ${P.site}.`,
+    title: `WCAG 2.2 AA Compliance Australia: Audit, Fix, Rebuild`,
+    description: `WCAG compliance in Australia: what the DDA and AHRC expect, a WCAG 2.2 AA checklist, audits with real screen readers, accessible rebuilds from ${P.site}.`,
     keywords: [
       "wcag compliance australia", "wcag compliance", "wcag 2.2 aa australia", "website accessibility australia",
       "accessible website design australia", "wcag compliant website design", "wcag audit australia", "website accessibility audit",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "wcag compliance perth", "as en 301 549", "accessibility overlay vs remediation", "ndis website accessibility",
       "wcag compliance for small business",
       "hire wcag compliance in Australia", "freelance wcag compliance Australia",
+      "wcag 2.2 aa audit australia", "dda website compliance", "accessibility audit australia",
     ],
   },
   hero: {

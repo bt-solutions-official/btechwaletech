@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/freelance-web-developer-gandhinagar/",
   crumb: "Freelance web developer in Gandhinagar",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Freelance Web Developer in Gandhinagar from ${P.site}`,
-    description: `Hiring a freelance web developer in Gandhinagar? Compare freelance team, agency and in-house, vet properly, pay in milestones. Business sites from ${P.site}.`,
+    title: `Hire a Freelance Web Developer in Gandhinagar, ${P.site}+`,
+    description: `Hiring a freelance web developer in Gandhinagar? How to vet one, write the contract and pay in milestones. Business sites from ${P.site}, 2-day quote.`,
     keywords: [
       "freelance web developer in Gandhinagar", "freelance web developer Gandhinagar", "freelance website developer Gandhinagar", "hire web developer Gandhinagar",
       "freelance web developer near me Gandhinagar", "freelance web developer Gandhinagar Gujarat", "freelance website designer Gandhinagar", "freelance developer Gandhinagar rates",

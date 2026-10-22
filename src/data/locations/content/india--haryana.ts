@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--haryana",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 29.0588, lng: 76.0856 },
   meta: {
-    title: "Haryana IT Consulting: Auto, Rice Mills & Home Textiles",
+    title: "Haryana IT Consulting & Software from ₹10,000",
     description:
       "Freelance IT consulting for Haryana: roadmaps, custom software, Android and iOS apps, plus AI automation. Websites from ₹10,000, quote in two working days.",
     keywords: [
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "Digital transformation for a Haryana MSME means moving the daily flows that control money, such as purchases, production, job work, dispatch, dealer credit and collections, out of registers and phone calls into connected software that staff actually use. It happens in small, paid-back steps, not through one large ERP rollout.",
         "Haryana's economy is unusually varied for one state. NCR districts are full of auto and engineering suppliers answering to large OEMs. The northern districts run on rice, wheat and agri trade. Panipat, Bahadurgarh, Yamunanagar and Hisar each have a specialised cluster. A useful transformation plan respects those differences rather than applying a Gurugram template everywhere.",
-        "BtechWaleTech is a <a href='/about/'>freelance group of three engineers</a> who consult and build. We look at your process, talk to your staff, write a roadmap in plain Hindi or English, and then deliver it, so nothing is lost between advice and execution.",
+        "BtechWaleTech is a <a href='/about/'>freelance group of three engineers</a> who consult and build. We look at your process, talk to your staff, write a roadmap in plain Hindi or English, and then deliver it, so nothing is lost between advice and execution. For the delivery side of the same work, with city pages and published starting prices, see <a href='/it-services/haryana/'>IT services in Haryana</a>. Gurgaon has two deeper pages as well: <a href='/india/haryana/gurgaon/seo-services/'>SEO services in Gurgaon</a> and <a href='/india/haryana/gurgaon/web-development/'>web development in Gurgaon</a>.",
       ],
     },
     {

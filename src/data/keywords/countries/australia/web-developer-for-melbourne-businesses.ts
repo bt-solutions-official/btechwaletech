@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/web-developer-for-melbourne-businesses/",
   crumb: "Web developer Melbourne",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Web Developer Melbourne: Remote Builds from ${P.site}`,
-    description: `Web developer for Melbourne businesses: cafés, retailers, studios and trades. Shopify or WordPress builds from ${P.site}, meetings in your afternoon.`,
+    title: `Web Developer Melbourne: Remote Team, from ${P.site}`,
+    description: `Web developer for Melbourne businesses — cafés, retailers, studios and trades. Shopify or WordPress builds from ${P.site}, meetings in your afternoon.`,
     keywords: [
       "web developer melbourne", "melbourne web developer", "web developer for melbourne businesses", "website developer melbourne",
       "freelance web developer melbourne", "web development melbourne", "melbourne website design and development",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "builder website victoria", "web developer near me melbourne", "remote web developer for australian business",
       "melbourne web agency alternative", "hire web developer victoria", "web developer geelong", "web developer ballarat",
       "web developer bendigo", "web developer australia", "is it safe to hire an offshore web developer",
+      "website designer melbourne small business",
     ],
   },
   hero: {

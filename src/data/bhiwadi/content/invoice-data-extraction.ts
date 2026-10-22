@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/invoice-data-extraction/",
   crumb: "Invoice data extraction",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
     title: `Invoice Data Extraction in Bhiwadi from ${P.ai}`,
-    description: `Invoice data extraction in Bhiwadi from ${P.ai}: AI reads purchase bills & challans into Tally or your ERP. We sit one to one with your accountant in Bhiwadi.`,
+    description: `Invoice data extraction in Bhiwadi from ${P.ai}, live in 2–4 weeks: AI reads supplier bills and challans, checks GSTIN and duplicates, posts into Tally.`,
     keywords: [
       "invoice data extraction in Bhiwadi", "invoice data extraction Bhiwadi", "invoice data extraction near me",
       "invoice data extraction in Bhiwadi Rajasthan", "invoice OCR Bhiwadi Alwar", "purchase invoice to Tally automation",
@@ -49,7 +49,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does invoice data extraction in Bhiwadi cost, and how accurate is it?",
-    text: `Invoice data extraction in Bhiwadi with BtechWaleTech starts at ${P.ai} for a pipeline that reads supplier bills and challans, checks GSTIN, totals and duplicates, and sends clean entries to Tally or your ERP in 2–4 weeks. Accuracy depends on bill quality: clear typed PDFs read well, faded or handwritten bills need review. Uncertain fields always go to a person before posting.`,
+    text: `From ${P.ai} in 2–4 weeks for a pipeline that reads supplier bills and challans, checks GSTIN, totals and duplicates, then sends clean entries to Tally or your ERP. Accuracy depends on bill quality: clear typed PDFs read well, faded or handwritten bills need review. Uncertain fields always go to a person.`,
     more: `We size the job after sitting one to one with your accountant in Bhiwadi and testing your own bills. For the broader document picture, see <a href='/intelligent-document-processing/'>intelligent document processing</a> or the <a href='/bhiwadi-rajasthan/ai-automation/'>AI automation hub for Bhiwadi</a>.`,
   },
   snapshot: {

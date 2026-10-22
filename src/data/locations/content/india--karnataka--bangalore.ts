@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--karnataka--bangalore",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 12.9716, lng: 77.5946 },
   meta: {
-    title: "Bangalore IT Consultants: SaaS, D2C & Engineering",
+    title: "Bangalore IT Consultants: Software from ₹60,000",
     description:
-      "Hire freelance IT consultants and developers in Bangalore for software, web apps, Android and iOS apps, plus AI agents. Itemised quote in 2 working days.",
+      "Hire freelance IT consultants and developers in Bangalore for software, web apps, Android and iOS apps and AI agents. Software ₹60,000, quote in 2 days.",
     keywords: [
       "IT solutions team in Bangalore",
       "best IT services team in Bangalore",
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "IT consulting for a Bangalore small or mid-sized business covers three questions: what technology problem is actually slowing you down, which option solves it at the lowest total cost, and how to roll it out without disrupting daily work. Good consulting produces a decision and a plan; great consulting is accountable for making that plan work.",
         "In Bengaluru, these questions show up in predictable forms. A Peenya machine shop wants to know whether an ERP will fix delayed dispatches. A Koramangala D2C brand asks whether to move off Shopify. An HSR Layout startup needs to know if its MVP architecture will survive the first thousand paying users. A Jayanagar clinic chain wants online booking that integrates with its existing billing software.",
-        "Our consulting is free at the scoping stage and delivered by the same three engineers who would build the solution. That removes the conflict between advisers who recommend big projects and builders who inherit unrealistic promises. When the right answer is a subscription tool you can set up yourself, we say so.",
+        "Our consulting is free at the scoping stage and delivered by the same three engineers who would build the solution. That removes the conflict between advisers who recommend big projects and builders who inherit unrealistic promises. When the right answer is a subscription tool you can set up yourself, we say so. For build-only work, see <a href='/it-services/karnataka/bengaluru/'>software developers in Bengaluru</a>, or the <a href='/it-services/karnataka/'>Karnataka IT services hub</a> for the rest of the state.",
       ],
       list: [
         "Technology audit of current tools, websites and workflows",

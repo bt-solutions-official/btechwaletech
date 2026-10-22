@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-developer-chikhli/",
   crumb: "Website developer in Chikhli",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Chikhli, Navsari · ${P.site}+`,
-    description: `Website developer in Chikhli for mango and chikoo growers, solar plant vendors, highway hotels, colleges and clinics. Sites from ${P.site}, Gujarati-ready.`,
+    title: `Website Developer in Chikhli, Navsari: ${P.site}+`,
+    description: `Website developer in Chikhli for mango and chikoo growers, solar vendors, highway hotels, colleges and clinics. Sites from ${P.site}, Gujarati-ready, 2 weeks.`,
     keywords: [
       "website developer in Chikhli", "website developer Chikhli", "website developer near me Chikhli", "Chikhli Gujarat website",
       "Chikhli Navsari website developer", "web developer Chikhli", "website designer Chikhli", "website development services Chikhli",

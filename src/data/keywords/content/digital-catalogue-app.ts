@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/digital-catalogue-app/",
   crumb: "Digital catalogue app",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Digital Catalogue App for Wholesalers, from ${P.app}`,
-    description: `Digital catalogue app for textile, jewellery and hardware traders: WhatsApp sharing, hidden prices, enquiry cart, bulk upload, private links. From ${P.app}.`,
+    title: `Digital Catalogue App for Wholesalers, from ${P.ai}`,
+    description: `Share a live catalogue on WhatsApp with prices hidden until you choose: enquiry cart, bulk upload and private buyer links. For textile and hardware traders.`,
     keywords: [
       "digital catalogue app", "digital catalog app", "catalogue app for wholesalers", "b2b catalogue app",
       "product catalogue app", "online catalogue app for business", "whatsapp catalogue app", "catalogue sharing app",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "digital catalogue app company in India",
       "best digital catalogue app in India",
       "digital catalogue app services",
+      "digital catalogue app india", "b2b catalogue sharing app whatsapp",
     ],
   },
   hero: {

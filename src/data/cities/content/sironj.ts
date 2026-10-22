@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sironj: CityContent = {
   slug: "sironj",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 24.1034, lng: 77.6906 },
   meta: {
-    title: "IT Services in Sironj | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sironj | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, local SEO and WhatsApp automation for Sironj mandi traders, Jain trusts, colleges, clinics and shops in Vidisha district. From ₹10,000.",
     keywords: [

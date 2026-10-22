@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const nabha: CityContent = {
   slug: "nabha",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 30.3745, lng: 76.1467 },
   meta: {
-    title: "IT Services in Nabha | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Nabha | Sites ₹10,000, Apps ₹40,000",
     description:
       "Punjabi and English websites, apps and SEO for Nabha harvester makers, arhtiyas, schools and shops. Sites from ₹10,000, SEO sites from ₹20,000.",
     keywords: [

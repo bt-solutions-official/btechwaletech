@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--uttar-pradesh",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 27.1303, lng: 80.8597 },
   meta: {
-    title: "Uttar Pradesh IT Services: Software & AI",
+    title: "IT Services in Uttar Pradesh from ₹10,000",
     description:
       "Freelance IT team for Uttar Pradesh: custom software, web apps, AI automation, plus SEO and ecommerce from Noida to Varanasi. From ₹10,000, quote in two days.",
     keywords: [
@@ -83,7 +83,7 @@ const content: CityContent = {
       paragraphs: [
         "IT services in Uttar Pradesh today centre on five needs: custom software that replaces Excel and registers, AI and WhatsApp automation for large volumes of enquiries, websites and SEO in Hindi and English, ecommerce for district products, and reliable maintenance after launch. The balance changes between the NCR, Awadh, Bundelkhand and Purvanchal, but these five recur everywhere.",
         "Uttar Pradesh is India's most populous state, and its businesses serve very large local markets. A coaching institute in Prayagraj, a hospital in Gorakhpur or a dealer in Bareilly can receive hundreds of enquiries a week, mostly by phone and WhatsApp, often in Hindi. Manual handling at that volume means missed leads and tired staff.",
-        "At the same time, UP's manufacturing clusters, from Kanpur leather and Moradabad brass to Firozabad glass and Bhadohi carpets, increasingly sell directly to buyers across India and abroad. They need product catalogues, order systems and export-ready websites. BtechWaleTech, a freelance group of three engineers, builds all of these remotely, starting at ₹10,000 for a website and ₹60,000 for custom software.",
+        "At the same time, UP's manufacturing clusters, from Kanpur leather and Moradabad brass to Firozabad glass and Bhadohi carpets, increasingly sell directly to buyers across India and abroad. They need product catalogues, order systems and export-ready websites. BtechWaleTech, a freelance group of three engineers, builds all of these remotely, starting at ₹10,000 for a website and ₹60,000 for custom software. If you want advice before any build, such as an architecture review, a cloud cost audit and a written roadmap, read <a href='/india/uttar-pradesh/'>IT consulting in Uttar Pradesh</a>. Agra businesses can read our <a href='/it-services/uttar-pradesh/agra/'>Agra IT services page</a>.",
       ],
       list: [
         "Custom software and web apps for MSMEs, institutes and hospitals",
@@ -223,7 +223,7 @@ const content: CityContent = {
       paragraphs: [
         "BtechWaleTech works with Uttar Pradesh clients entirely online: requirements on WhatsApp or video call, an itemised quote, designs for approval, a staged build on a private link and launch with full handover. We have no office anywhere in Uttar Pradesh, and we reply seven days a week.",
         "You can send photos of registers, voice notes in Hindi, or screenshots of tools you use now, and we turn them into a clear written scope. Payment is in INR only, by UPI QR code or direct bank transfer to our bank account, split across milestones you can test before paying the next part.",
-        "At handover you receive the source code, domain and hosting logins, an admin guide and a recorded staff walkthrough. Two months of maintenance follow at no charge.",
+        "At handover you receive the source code, domain and hosting logins, an admin guide and a recorded staff walkthrough. Two months of maintenance follow at no charge. Consulting-led pages for <a href='/india/uttar-pradesh/lucknow/'>Lucknow</a> and <a href='/india/uttar-pradesh/noida/'>Noida</a> sit under our India locations section.",
       ],
     },
   ],

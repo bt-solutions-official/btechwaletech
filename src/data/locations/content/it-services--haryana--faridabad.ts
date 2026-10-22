@@ -2,7 +2,7 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--haryana--faridabad",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 28.4089, lng: 77.3178 },
   meta: {
     title: "Faridabad Software Developers: Tractor & Auto Components",
@@ -236,7 +236,7 @@ const content: CityContent = {
       paragraphs: [
         "Most Faridabad projects run between two and twelve weeks: a static website in one to two weeks, an automation in two to four, an online store in four to eight and a custom portal in six to twelve. The biggest factor in timelines is usually how quickly content, sample data and feedback come back from the client side.",
         "We work remotely from India, with no office in Faridabad, and that suits most local clients better than they expect. Discovery happens over a call and a WhatsApp group, where you can send photos of job cards, register pages and Excel sheets. We share a working demo link every week, so you see progress on real screens rather than in status reports. For factory software, we often ask a supervisor to record a short phone video of how an order moves through the floor, which tells us more than any meeting.",
-        "Training happens on video calls with screen sharing, and we record the sessions so new staff can watch them later. After launch, the first two months of maintenance are free, covering fixes, small changes, backups and updates. For businesses also operating near Gurugram, our <a href=\"/it-services/haryana/gurugram/\">Gurugram IT services page</a> covers that market, and the wider <a href=\"/it-services/haryana/\">Haryana IT services hub</a> links every city we cover in the state.",
+        "Training happens on video calls with screen sharing, and we record the sessions so new staff can watch them later. After launch, the first two months of maintenance are free, covering fixes, small changes, backups and updates. For businesses also operating near Gurugram, our <a href=\"/it-services/haryana/gurugram/\">Gurugram IT services page</a> covers that market, and the wider <a href=\"/it-services/haryana/\">Haryana IT services hub</a> links every city we cover in the state. If you want the consulting side first, a review and a written roadmap before any build, read <a href='/india/haryana/faridabad/'>IT consulting in Faridabad</a>.",
       ],
     },
   ],

@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--kerala",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 10.8505, lng: 76.2711 },
   meta: {
-    title: "Kerala IT Services: Software, AI & Apps",
+    title: "IT Services in Kerala: Websites ₹10,000, Apps ₹40,000",
     description:
-      "Freelance IT services across Kerala, a lean alternative to a software development team in Kerala: custom software, AI, apps, SEO. Websites from ₹10,000.",
+      "IT services in Kerala from three freelance engineers, a lean alternative to a software development team: software, AI, apps, SEO. Sites ₹10,000, apps ₹40,000.",
     keywords: [
       "Android app development Kerala",
       "mobile app developers Kerala",
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "Kerala businesses most often need five IT services: direct booking and enquiry systems for tourism and healthcare, automation that answers customers across Gulf and Indian time zones, custom software that replaces registers and WhatsApp groups, visibility in Google and AI search, and online stores for Kerala products. Websites are the starting point, not the finish line.",
         "The state's economy is unusually varied for its size. Tourism and ayurveda bring international guests; healthcare draws patients from the Gulf and neighbouring states; traditional industries like cashew, coir, rubber, spices and gold keep old trading networks alive; and a large diaspora keeps money and orders flowing from abroad. Each of these needs slightly different software.",
-        "BtechWaleTech covers the <a href='/services/'>full range of IT services</a>, from <a href='/services/web-development/'>web development</a> to AI automation, dashboards, apps, cloud hosting and SEO. We are a freelance group of three engineers working remotely from India, and you speak directly with the people building your system.",
+        "BtechWaleTech covers the <a href='/services/'>full range of IT services</a>, from <a href='/services/web-development/'>web development</a> to AI automation, dashboards, apps, cloud hosting and SEO. We are a freelance group of three engineers working remotely from India, and you speak directly with the people building your system. If you want advice before any build, such as an architecture review, a cloud cost audit and a written roadmap, read <a href='/india/kerala/'>IT consulting in Kerala</a>.",
       ],
     },
     {
@@ -102,7 +102,7 @@ const content: CityContent = {
       id: "kerala-cities-it-demand",
       heading: "How IT demand differs across Kochi, Thiruvananthapuram, Kozhikode, Thrissur and Kollam",
       paragraphs: [
-        "IT demand in Kerala varies city by city: Kochi leans towards trade, startups and ecommerce; Thiruvananthapuram towards institutions, healthcare and custom tools; Kozhikode towards trading, footwear and Gulf-facing retail; Thrissur towards gold, textiles and finance; and Kollam towards cashew and coastal businesses. A statewide plan should respect those differences.",
+        "IT demand in Kerala varies city by city: Kochi leans towards trade, startups and ecommerce; Thiruvananthapuram towards institutions, healthcare and custom tools; Kozhikode towards trading, footwear and Gulf-facing retail; Thrissur towards gold, textiles and finance; and <a href='/it-services/kerala/kollam/'>Kollam</a> towards cashew and coastal businesses. A statewide plan should respect those differences.",
         "We have dedicated pages for <a href='/it-services/kerala/kochi/'>IT solutions in Kochi</a>, <a href='/it-services/kerala/thiruvananthapuram/'>Thiruvananthapuram</a>, <a href='/it-services/kerala/kozhikode/'>Kozhikode</a> and <a href='/it-services/kerala/thrissur/'>Thrissur</a>, each describing local industries and needs in more depth. Businesses in smaller towns such as Kottayam, Kannur, Palakkad, Malappuram and Alappuzha are served the same way, remotely and with the same starting prices.",
         "For multi-branch Kerala businesses, like a clinic group with centres in three districts or a retailer with shops across Malabar and Travancore, cloud software with branch-wise access and a combined owner dashboard is usually the most useful single investment.",
       ],
@@ -273,7 +273,7 @@ const content: CityContent = {
       "paragraphs": [
         "The Android and iOS apps that make most sense in Kerala are those tied to repeat, everyday use: booking for tourism and ayurveda, ordering for food and retail, field reporting for plantations and construction, and learning apps for coaching institutes. An app earns its place only when customers or staff open it every week; otherwise a fast website does the same job at a lower cost.",
         "Tourism operators in Alappuzha, Kumarakom and Munnar can offer guest apps with itineraries, check-in details and local guides. Ayurveda centres can give patients treatment schedules and diet notes. Plantation and estate managers in Idukki and Wayanad can use field apps that record work, rainfall observations and photos offline and sync later. Builders in Kochi and Thiruvananthapuram can send buyers construction progress. Coaching centres preparing students for Kerala PSC, NEET or engineering entrance tests can run class videos, tests and fee reminders. Retail chains and supermarkets can offer loyalty and reorder apps.",
-        "BtechWaleTech builds each app once in Flutter or React Native and publishes it on Google Play and the Apple App Store, from ₹40,000 over roughly 6 to 10 weeks. Malayalam and English interfaces, offline storage for hill areas and an admin panel for your staff are planned from the first discussion, and the developer accounts are opened in your name."
+        "BtechWaleTech builds each app once in Flutter or React Native and publishes it on Google Play and the Apple App Store, from ₹40,000 over roughly 6 to 10 weeks. Malayalam and English interfaces, offline storage for hill areas and an admin panel for your staff are planned from the first discussion, and the developer accounts are opened in your name. A consulting-led page for <a href='/india/kerala/kochi/'>Kochi</a> sits under our India locations section."
       ]
     },
   ],

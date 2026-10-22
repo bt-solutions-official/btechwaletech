@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/bfsg-website-requirements/",
   crumb: "BFSG website requirements",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: "BFSG Website Requirements: 2025 Checklist and Fixes",
-    description: `BFSG website requirements explained: who is covered, the WCAG 2.1 AA checklist, the accessibility statement and fixes. Accessible shops from ${P.shop}.`,
+    title: `BFSG Website Requirements: 2026 Checklist and Fixes`,
+    description: `BFSG website requirements: who is covered, the WCAG 2.1 AA checklist, the accessibility statement and the fixes that matter. Accessible shops from ${P.shop}.`,
     keywords: [
       "bfsg website requirements", "bfsg requirements", "bfsg website", "barrierefreiheitsstärkungsgesetz website",
       "bfsg checklist", "bfsg compliance website", "bfsg online shop", "bfsg accessibility statement", "erklärung zur barrierefreiheit bfsg",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "bfsg app requirements", "accessible website germany", "website accessibility germany 2025", "barrierefreie website erstellen",
       "bfsg berlin", "bfsg munich", "bfsg hamburg", "bfsg frankfurt", "how to make a website bfsg compliant",
       "hire bfsg website requirements in Germany", "freelance bfsg website requirements Germany",
+      "bfsg anforderungen website", "bfsg shop accessibility", "wcag 2.1 aa germany",
     ],
   },
   hero: {

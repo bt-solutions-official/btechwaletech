@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--haryana",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 29.0588, lng: 76.0856 },
   meta: {
-    title: "Haryana IT Services: Software, AI & SEO",
+    title: "IT Services in Haryana: Websites ₹10,000, Apps ₹40,000",
     description:
-      "Freelance IT services in Haryana: custom software, web apps, AI automation, plus SEO and stores from Gurugram to Hisar. Apps from ₹40,000, sites from ₹10,000.",
+      "IT services in Haryana from three freelance engineers: custom software, web apps, AI automation and SEO, Gurugram to Hisar. Sites ₹10,000, apps ₹40,000.",
     keywords: [
       "IT services in Haryana",
       "freelance IT services Haryana",
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "IT services in Haryana cover far more than a website: for most firms here the real work is custom software for orders and dispatch, automation of WhatsApp and CRM follow-ups, dashboards over accounts data, mobile apps for field teams, SEO for local and trade searches, and reliable hosting with maintenance. A website is usually the front door, not the whole house.",
         "The state is unusual because it holds very different economies within a few hours of each other. Gurugram behaves like a global corporate district. Faridabad, Manesar, Bawal and Rohtak are manufacturing towns tied to the automotive supply chain. Panipat, Sonipat and Kundli trade textiles and processed goods. Karnal, Kaithal, Hisar and Sirsa are agricultural and agri-processing economies. Each needs a different mix of the same toolkit.",
-        "We treat the state as a set of markets rather than a single audience. A component supplier in <a href='/faridabad/'>Faridabad</a> may need an RFQ portal and a capability site, while a coaching centre in <a href='/rohtak/'>Rohtak</a> needs admissions automation and Hindi landing pages. Our <a href='/services/'>services overview</a> lists everything we do; the sections below explain how each piece fits Haryana specifically.",
+        "We treat the state as a set of markets rather than a single audience. A component supplier in <a href='/faridabad/'>Faridabad</a> may need an RFQ portal and a capability site, while a coaching centre in <a href='/rohtak/'>Rohtak</a> needs admissions automation and Hindi landing pages. Our <a href='/services/'>services overview</a> lists everything we do; the sections below explain how each piece fits Haryana specifically. If you want advice before any build, such as an architecture review, a cloud cost audit and a written roadmap, read <a href='/india/haryana/'>IT consulting in Haryana</a>.",
       ],
     },
     {
@@ -245,7 +245,7 @@ const content: CityContent = {
       paragraphs: [
         "Timelines for Haryana projects are typically one to two weeks for a static website, three to five weeks for a large SEO site, two to four weeks for an automation, four to eight weeks for a store and six to twelve weeks for custom software. The biggest delays usually come from content and approvals, not development.",
         "Remote delivery works smoothly here because most Haryana businesses already negotiate, share photos and approve samples on WhatsApp and video calls. We run a short kickoff call, share a written scope, give you a staging link to test on your own phone, and hold weekly check-ins. You never need to travel to a Gurugram office or host a visit.",
-        "For factories and institutions we plan around the calendar: busy procurement seasons, festival sales, admissions windows and year-end closing. If you need something before Diwali or before a new academic session, tell us early and we will work back from that date and flag what is realistic.",
+        "For factories and institutions we plan around the calendar: busy procurement seasons, festival sales, admissions windows and year-end closing. If you need something before Diwali or before a new academic session, tell us early and we will work back from that date and flag what is realistic. Consulting-led pages for <a href='/india/haryana/gurgaon/'>Gurgaon</a> and <a href='/india/haryana/faridabad/'>Faridabad</a> sit under our India locations section.",
       ],
     },
   ],

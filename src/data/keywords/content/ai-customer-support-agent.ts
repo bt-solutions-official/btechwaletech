@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/ai-customer-support-agent/",
   crumb: "AI customer support agent",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `AI Customer Support Agent: Chat, WhatsApp from ${P.ai}`,
-    description: `AI customer support agent for web chat, WhatsApp and email that looks up orders, handles refunds by your rules and hands off to humans. Built from ${P.ai}.`,
+    title: `AI Customer Support Agent: Hindi & English, ${P.ai}+`,
+    description: `Handles billing and order queries in Hindi and English across chat, WhatsApp and email, looks up real data, refunds by your rules and escalates to a human.`,
     keywords: [
       "ai customer support agent", "AI support agent", "AI customer service agent", "AI agent for customer support India",
       "AI helpdesk agent", "customer support automation", "AI chatbot for customer support", "WhatsApp customer support bot",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "AI customer support agent freelancer",
       "ai customer support agent company in India",
       "best ai customer support agent in India",
+      "ai agent billing queries hindi english", "ai customer service agent india", "ai customer support automation", "whatsapp ai support agent",
     ],
   },
   hero: {

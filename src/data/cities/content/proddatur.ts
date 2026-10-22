@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const proddatur: CityContent = {
   slug: "proddatur",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 14.75, lng: 78.55 },
   meta: {
-    title: "IT Services in Proddatur: Websites, Apps, SEO & AI",
+    title: "Website Design in Proddatur | Sites from ₹10,000",
     description:
-      "Websites, SEO, catalogue stores and WhatsApp tools for Proddatur jewellers, cloth merchants, cotton traders and clinics. Websites from ₹10,000.",
+      "Proddatur websites from ₹10,000, live in 1-2 weeks, with Telugu SEO. Catalogue stores and WhatsApp tools for jewellers, cloth and cotton traders and clinics.",
     keywords: [
       "website development team in Proddatur",
       "web design Proddatur",
@@ -45,7 +45,7 @@ const proddatur: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English", "Jewellery catalogues", "Saree and textile stores", "WhatsApp enquiry tools"],
   },
   quickAnswer:
-    "In Proddatur, a static business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, a catalogue store with UPI checkout from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are a remote team with no office in Proddatur, and maintenance is free for two months after launch.",
+    "A Proddatur website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and a catalogue store starts at ₹50,000. Pages can be in Telugu or English, and maintenance is free for the first two months after launch.",
   snapshot: [
     { label: "Where it is", value: "A special-grade municipality in YSR Kadapa district on the Penna river, with NH 67 and a station on the Nandyal–Yerraguntla line" },
     { label: "Gold trade", value: "Long called the “second Bombay” for gold, with a dense bazaar of jewellery and bullion shops" },

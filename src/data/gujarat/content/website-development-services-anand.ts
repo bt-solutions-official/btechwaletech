@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-development-services-anand/",
   crumb: "Website development services in Anand",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Development Services in Anand from ${P.site}`,
-    description: `Website development in Anand for colleges, dairy suppliers, Udyognagar units, clinics and NRI-facing firms. Full builds from ${P.site}, quote in 2 days.`,
+    title: `Website Development in Anand: ${P.site}, Live in 2 Weeks`,
+    description: `Website development in Anand for colleges, dairy suppliers, Udyognagar units and clinics. Full builds from ${P.site}, itemised quote in 2 working days.`,
     keywords: [
       "website development services in Anand", "website development Anand", "website developer Anand", "web development services Anand Gujarat",
       "website design and development Anand", "website developer near me Anand", "website cost Anand", "website price Anand Gujarat",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "NRI website Charotar", "freelance web developer Anand", "WordPress developer Anand", "Gujarati website Anand",
       "Anand me website kaise banaye", "website banwana hai Anand", "website developer Petlad", "website developer Nadiad",
       "SEO website Anand", "website redesign Anand",
+      "web development company in Anand", "website designing company in Anand Gujarat",
     ],
   },
   hero: {

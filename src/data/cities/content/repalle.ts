@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const repalle: CityContent = {
   slug: "repalle",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 16.0172, lng: 80.8294 },
   meta: {
-    title: "IT Services in Repalle: Websites, Apps, SEO & AI",
+    title: "Website Design in Repalle | Sites from ₹10,000",
     description:
-      "Telugu websites, apps, Maps SEO and WhatsApp automation for Repalle aqua farmers, rice mills, shops, clinics and colleges. Sites from ₹10,000.",
+      "Repalle websites from ₹10,000, live in 1-2 weeks, with Telugu pages. Apps, Maps SEO and WhatsApp automation for aqua farmers, rice mills and colleges.",
     keywords: [
       "IT services in Repalle",
       "IT company in Repalle",

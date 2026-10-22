@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const bhainsa: CityContent = {
   slug: "bhainsa",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 19.1, lng: 77.9667 },
   meta: {
-    title: "IT Services in Bhainsa | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Bhainsa | Sites ₹10,000, Apps ₹40,000",
     description:
       "Bhainsa Telugu, Urdu and Marathi websites, mobile apps, local SEO and WhatsApp bots for cotton traders, ginning units, dealers and clinics. ₹10,000 onwards.",
     keywords: [

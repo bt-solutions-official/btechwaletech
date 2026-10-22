@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const gurdaspur: CityContent = {
   slug: "gurdaspur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 32.0333, lng: 75.4 },
   meta: {
-    title: "IT Services in Gurdaspur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Gurdaspur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Gurdaspur Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for rice traders, agri dealers, colleges, clinics and shops.",
     keywords: [

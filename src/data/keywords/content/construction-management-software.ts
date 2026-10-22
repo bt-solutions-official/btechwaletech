@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/construction-management-software/",
   crumb: "Construction management software",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Construction Management Software: RA Bills, ${P.software}+`,
-    description: `Construction management software for Indian builders: site DPRs, labour attendance, material indents, RA bills and subcontractor payments. Built from ${P.software}.`,
+    description: `Site DPRs, labour attendance, material indents and storekeeper stock, RA bills and subcontractor payments in one system. Custom builds from ${P.software}.`,
     keywords: [
       "construction management software", "construction management software India", "construction project management software",
       "software for builders", "software for contractors", "civil contractor software", "construction ERP", "site management app",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "construction management software Gurgaon", "builder ke liye software", "site ka hisaab software", "custom construction software developer",
       "construction management software company in India",
       "construction management software services",
+      "construction storekeeper software", "construction materials management software", "dpr software construction india",
     ],
   },
   hero: {

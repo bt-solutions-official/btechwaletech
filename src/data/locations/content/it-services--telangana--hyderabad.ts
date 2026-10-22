@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--telangana--hyderabad",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 17.385, lng: 78.4867 },
   meta: {
-    title: "Hyderabad Software Developers: SaaS, Pharma & Healthcare",
+    title: "Hyderabad Software Developers: SaaS from ₹60,000",
     description:
       "Hire freelance software developers in Hyderabad for MVPs, SaaS modules, AI agents and web apps. Custom software from ₹60,000, quote in 2 days.",
     keywords: [
@@ -231,7 +231,7 @@ const content: CityContent = {
       paragraphs: [
         "Our freelance developers work with Hyderabad teams through a scoping call, an itemised quote in about two working days, weekly demos on staging, pull requests into your repository, launch with monitoring, and two months of free maintenance. We join your Slack or WhatsApp group, keep a shared task board and write short notes on every decision.",
         "At handover you receive the code, infrastructure access, environment documentation and a list of known limitations. We do not inflate estimates to look safe or promise dates we cannot meet. We also do not claim credentials we do not have or invent client names.",
-        "Read <a href=\"/about/\">about us</a>, browse <a href=\"/portfolio/\">our portfolio</a>, see <a href=\"/services/\">all services</a>, or compare with our <a href=\"/it-services/telangana/\">Telangana overview</a>. When ready, send a brief through the <a href=\"/contact/\">contact page</a>.",
+        "Read <a href=\"/about/\">about us</a>, browse <a href=\"/portfolio/\">our portfolio</a>, see <a href=\"/services/\">all services</a>, or compare with our <a href=\"/it-services/telangana/\">Telangana overview</a>. When ready, send a brief through the <a href=\"/contact/\">contact page</a>. If you want the consulting side first, a review and a written roadmap before any build, read <a href='/india/telangana/hyderabad/'>IT consulting in Hyderabad</a>.",
       ],
     },
   ],

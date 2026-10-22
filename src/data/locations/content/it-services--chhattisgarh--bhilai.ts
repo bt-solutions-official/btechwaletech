@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--chhattisgarh--bhilai",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 21.1938, lng: 81.3509 },
   meta: {
     title: "Bhilai Software Developers: B2B & AI",
     description:
-      "Freelance software developers for Bhilai: quotation and contractor software, B2B websites, plus Android and iOS apps. Two months of free upkeep after launch.",
+      "Freelance software developers for Bhilai: quotation and contractor software, B2B websites and Android and iOS apps. Software ₹60,000, two months free upkeep.",
     keywords: [
       "software development team in Bhilai",
       "IT services team in Bhilai",

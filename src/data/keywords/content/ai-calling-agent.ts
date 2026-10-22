@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/ai-calling-agent/",
   crumb: "AI calling agent",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `AI Calling Agent in Hindi & English from ${P.ai}`,
-    description: `AI calling agent for Indian businesses: Hindi, English and Hinglish calls for lead follow-up, reminders and feedback, TRAI-aware, CRM-logged. From ${P.ai}.`,
+    description: `Hindi, English and Hinglish AI calls for lead follow-up, reminders and feedback—on your existing cloud telephony number, TRAI-aware and logged to your CRM.`,
     keywords: [
       "ai calling agent", "ai calling agent india", "ai calling agent in hindi", "ai voice calling agent", "ai phone calling agent",
       "ai calling bot", "ai calling software india", "hinglish ai calling agent", "ai calling agent for lead follow up",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "ai calling agent company in India",
       "best ai calling agent in India",
       "ai calling agent services",
+      "ai voice agents indian cloud telephony", "hindi ai calling agent", "ai calling agent price india", "ai telecaller india",
     ],
   },
   hero: {

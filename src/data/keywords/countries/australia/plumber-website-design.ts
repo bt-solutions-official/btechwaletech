@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/plumber-website-design/",
   crumb: "Plumber website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Plumber Website Design: 24/7 Call Paths from ${P.site}`,
-    description: `Plumber website design for Australian plumbing businesses: 24/7 call buttons, blocked drain and hot water pages, licence display, suburb pages. From ${P.site}.`,
+    title: `Plumber Website Design Australia: 24/7 Calls, ${P.site}+`,
+    description: `Plumber website design for Australia: 24/7 tap-to-call, blocked drain and hot water pages, licence number shown right, suburb pages. Sites from ${P.site}.`,
     keywords: [
       "plumber website design", "plumbing website design", "plumber website design australia", "website for plumbers",
       "emergency plumber website", "24/7 plumber website", "plumbing business website", "plumber web design",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "plumber website design perth", "plumber website design adelaide", "plumbing website near me",
       "best plumber website examples", "plumber website with online booking", "plumber lead generation website",
       "hire plumber website design in Australia", "freelance plumber website design Australia",
+      "websites for plumbers", "plumbing websites australia", "seo for plumbers brisbane",
     ],
   },
   hero: {

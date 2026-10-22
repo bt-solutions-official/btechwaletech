@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const ramagundam: CityContent = {
   slug: "ramagundam",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 18.7639, lng: 79.475 },
   meta: {
-    title: "Ramagundam and Godavarikhani Websites and SEO",
+    title: "Ramagundam & Godavarikhani Websites | From ₹10,000",
     description:
-      "Websites, Telugu SEO and WhatsApp tools for Ramagundam and Godavarikhani contractors, clinics, schools and shops near NTPC and Singareni. From ₹10,000.",
+      "Ramagundam and Godavarikhani websites from ₹10,000, live in 1-2 weeks. Telugu SEO and WhatsApp tools for NTPC and Singareni contractors, clinics and shops.",
     keywords: [
       "website development team Ramagundam",
       "website designer Godavarikhani",
@@ -45,7 +45,7 @@ const ramagundam: CityContent = {
     pills: ["From ₹10,000", "Vendor and contractor sites", "Telugu local SEO", "Fleet and wage tools", "Your code, your domain"],
   },
   quickAnswer:
-    "In Ramagundam and Godavarikhani we build a website of up to 100 pages from ₹10,000 in one to two weeks and a 299+ page SEO website from ₹20,000 in three to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, you own the domain and code, and maintenance is free for two months.",
+    "A Ramagundam or Godavarikhani website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and stores start at ₹50,000. Pages can be in Telugu and English, and maintenance is free for the first two months after launch.",
   snapshot: [
     { label: "Power", value: "NTPC Ramagundam, 2,600 MW, plus the Telangana Super Thermal Power Project commissioned in 2023" },
     { label: "Coal", value: "Singareni Collieries' Ramagundam areas, with open-cast and underground mines including Adriyala" },

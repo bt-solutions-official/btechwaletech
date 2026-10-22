@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const phalodi: CityContent = {
   slug: "phalodi",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 27.131, lng: 72.364 },
   meta: {
-    title: "IT Services in Phalodi | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Phalodi | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi and English websites, apps and SEO for Phalodi salt refiners, POP units, mandi traders, solar contractors and Khichan stays. Sites from ₹10,000.",
     keywords: [

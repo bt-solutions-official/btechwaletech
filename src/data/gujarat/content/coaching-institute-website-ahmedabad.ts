@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/coaching-institute-website-ahmedabad/",
   crumb: "Coaching institute website in Ahmedabad",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Coaching Institute Website in Ahmedabad from ${P.site}`,
-    description: `Coaching institute website in Ahmedabad with batch pages, demo-class booking on WhatsApp and online fee payment by UPI. Sites from ${P.site}; quote in 2 days.`,
+    title: `Coaching Institute Website in Ahmedabad: ${P.site}+`,
+    description: `Coaching institute website in Ahmedabad with batch pages, demo-class booking on WhatsApp and UPI fee payment. Sites from ${P.site}, quote in 2 working days.`,
     keywords: [
       "coaching institute website in Ahmedabad", "coaching institute website Ahmedabad", "coaching class website design Ahmedabad", "coaching website developer Ahmedabad",
       "coaching website designer near me", "coaching institute website Ahmedabad Gujarat", "coaching website cost Ahmedabad", "coaching website price India",

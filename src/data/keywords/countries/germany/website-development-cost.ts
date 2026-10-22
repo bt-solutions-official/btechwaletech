@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/website-development-cost/",
   crumb: "Website development cost in Germany",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Development Cost in Germany: Sites from ${P.site}`,
-    description: `Website development cost in Germany: site builder vs freelancer vs agency, DSGVO and BFSG line items, running costs and reading an Angebot. Sites from ${P.site}.`,
+    title: `Website Development Cost Germany: 4 Routes Compared`,
+    description: `Website development cost in Germany: builder vs freelancer vs agency vs remote team, DSGVO and BFSG line items, running costs. Sites from ${P.site}.`,
     keywords: [
       "website development cost in germany", "website cost germany", "was kostet eine website", "website erstellen lassen kosten",
       "homepage erstellen lassen kosten", "how much does a website cost in germany", "website price germany", "online shop kosten",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "website development cost munich", "website development cost hamburg", "website development cost cologne",
       "small business website cost germany", "cheap website germany", "website development india for german companies",
       "hire website development in Germany",
+      "website development cost germany", "webseite kosten", "website migration cost germany",
     ],
   },
   hero: {

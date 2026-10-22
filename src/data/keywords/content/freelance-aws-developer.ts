@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-aws-developer/",
   crumb: "Freelance AWS developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: "Freelance AWS Developer: Hosting, Serverless, Costs",
-    description: `Hire a freelance AWS developer in India for hosting, serverless apps and AWS bill reviews. Accounts stay yours; web apps start from ${P.software}.`,
+    title: `Freelance AWS Developer: Hosting, Serverless, Bills`,
+    description: `Hosting setup, serverless apps and an AWS bill review that usually finds something to cut. Accounts stay in your name; web apps start from ${P.software}.`,
     keywords: [
       "freelance aws developer", "freelance aws developer India", "aws developer near me", "aws developer for hire",
       "freelance aws developer cost", "aws freelancer rates", "best freelance aws developer", "aws developer chahiye",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "aws cloud engineer freelance", "hire aws expert", "aws migration freelancer", "aws s3 cloudfront website hosting",
       "reduce aws bill", "aws consultant for startups", "aws developer for small business", "remote aws developer India",
       "hire freelance aws developer",
+      "aws bill review service", "aws serverless developer freelance",
     ],
   },
   hero: {

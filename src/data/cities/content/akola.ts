@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const akola: CityContent = {
   slug: "akola",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 20.7002, lng: 77.0082 },
   meta: {
-    title: "Web Design & SEO in Akola for Dal Mills and Traders",
+    title: "Website Design in Akola | Sites & SEO from ₹10,000",
     description:
-      "Websites, SEO, UPI stores and WhatsApp automation for Akola dal mills, ginners, coaching classes and Tajnapeth shops. From ₹10,000, two months upkeep free.",
+      "Akola websites from ₹10,000, live in 1-2 weeks, with Marathi SEO. UPI stores and WhatsApp automation for dal mills, ginners, coaching classes and local shops.",
     keywords: [
       "website development team in Akola",
       "web designer Akola",
@@ -43,7 +43,7 @@ const akola: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi, Hindi and English", "Dealer catalogues for mills", "Class enquiry automation", "Domain and code in your name"],
   },
   quickAnswer:
-    "In Akola, a basic business website from our team costs from ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote three-person team with no Akola office, and the first two months of maintenance are free.",
+    "An Akola business website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and a UPI store starts at ₹50,000. Marathi pages are included where they help, and two months of maintenance are free.",
   snapshot: [
     { label: "Known as", value: "The “Cotton City” of Vidarbha, with cotton products named as Akola's One District One Product" },
     { label: "Industrial base", value: "MIDC Akola, known for its large concentration of dal (pulse) mills, plus oil mills, ginning and pressing units" },

@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const kanhangad: CityContent = {
   slug: "kanhangad",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 12.3, lng: 75.09 },
   meta: {
-    title: "IT Services in Kanhangad | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Kanhangad | Sites ₹10,000, Apps ₹40,000",
     description:
       "Kanhangad Malayalam websites, mobile apps, local SEO and WhatsApp bots for traders, Gulf-family businesses, Bekal homestays and clinics. Stores from ₹50,000.",
     keywords: [

@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--delhi",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 28.6139, lng: 77.209 },
   meta: {
-    title: "Delhi IT Consulting: Wholesale, Export & Coaching",
+    title: "Delhi IT Consulting & Web Design from ₹10,000",
     description:
-      "Freelance IT consulting for Delhi: digital transformation roadmaps, custom software, Android and iOS apps, plus AI automation. Starting prices in INR, by UPI.",
+      "Freelance IT consulting and web design for Delhi: roadmaps, custom software, Android and iOS apps, AI automation. Sites from ₹10,000, apps from ₹40,000.",
     keywords: [
       "IT solutions team in Delhi",
       "IT consulting Delhi",
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "Digital transformation for a Delhi business means changing how work gets done, not only buying software: moving orders, stock, customer records, approvals and reports from paper, phone calls and scattered spreadsheets into connected systems that staff actually use. For a Sadar Bazaar wholesaler it might be dealer ordering; for an Okhla exporter, production tracking; for a clinic, online booking and records.",
         "The mistake many Delhi firms make is starting with a tool. Someone recommends a CRM or an ERP, it is installed, and six months later staff are back on WhatsApp and Excel because the tool never matched their work. Transformation that sticks starts with the process: who does what, where information is typed twice, and which decisions wait on missing data.",
-        "BtechWaleTech is a <a href='/about/'>freelance group of three engineers</a> who work as both consultants and builders. We map your process, write a short roadmap in plain language, and then deliver the systems ourselves, so the people who diagnosed the problem are the people who fix it.",
+        "BtechWaleTech is a <a href='/about/'>freelance group of three engineers</a> who work as both consultants and builders. We map your process, write a short roadmap in plain language, and then deliver the systems ourselves, so the people who diagnosed the problem are the people who fix it. For the delivery side of the same work, with city pages and published starting prices, see <a href='/it-services/delhi/'>IT services in Delhi</a>.",
       ],
     },
     {

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/skin-clinic-website-design/",
   crumb: "Skin clinic website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Skin Clinic Website Design: Book Consults, ${P.site}+`,
-    description: `Skin clinic website design from ${P.site}: treatment pages for laser, acne and hair fall, consent-led before-after galleries, packages, video consults.`,
+    title: `Skin Clinic Website Design: Book Consults, ${P.site}`,
+    description: `Skin clinic website design from ${P.site}: treatment pages for laser, acne and hair fall, consent-led before-after galleries, packages and video consults.`,
     keywords: [
       "skin clinic website design", "dermatologist website design", "dermatology clinic website", "aesthetic clinic website design",
       "cosmetology clinic website", "skin care clinic website development", "skin clinic website cost India",

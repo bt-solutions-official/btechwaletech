@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--maharashtra",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 19.7515, lng: 75.7139 },
   meta: {
-    title: "Maharashtra IT Consulting: Auto, Pharma & Textiles",
+    title: "Maharashtra IT Consulting & Software from ₹10,000",
     description:
       "Freelance IT solutions across Maharashtra: custom software, Android and iOS apps, AI automation and Marathi SEO for MIDC units. From ₹10,000.",
     keywords: [
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "Maharashtra businesses outside large corporate offices mainly need practical IT: websites that bring enquiries, software that replaces registers and spreadsheets, apps for customers and field staff, automation for repetitive messages and search visibility in their own city. The needs are similar in Mumbai and Nanded; the budgets, languages and pace are not.",
         "Maharashtra is India's largest state economy, but most of its businesses are MSMEs: component makers in Chakan, Waluj and Ambad, traders in Mumbai's markets, cooperatives in Kolhapur and Sangli, textile units in Bhiwandi and Ichalkaranji, schools and coaching centres everywhere. They want tools that work, prices they can plan for and someone who answers the phone.",
-        "BtechWaleTech is a freelance group of three engineers serving the state remotely. We have no office in Maharashtra, and we do not pretend to. What we offer is direct access to the people building your system, seven days a week, over calls and WhatsApp.",
+        "BtechWaleTech is a freelance group of three engineers serving the state remotely. We have no office in Maharashtra, and we do not pretend to. What we offer is direct access to the people building your system, seven days a week, over calls and WhatsApp. For the delivery side of the same work, with city pages and published starting prices, see <a href='/it-services/maharashtra/'>IT services in Maharashtra</a>. Mumbai also has a dedicated <a href='/india/maharashtra/mumbai/web-development/'>web development page</a>.",
       ],
       list: [
         "Business websites in Marathi and English",

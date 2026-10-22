@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/change-domain-without-losing-seo/",
   crumb: "Change domain without losing SEO",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: "Change Domain Without Losing SEO: 180-Day Plan",
-    description: `Change domain without losing SEO: 301 map, Search Console Change of Address, email and DNS continuity, .in to .com moves. Monthly SEO from ${P.seo}.`,
+    title: `Change Domain Without Losing SEO: 180-Day Plan`,
+    description: `A 301 map URL by URL, Search Console Change of Address, email and DNS continuity, then 180 days of watching rankings. .in to .com moves covered step by step.`,
     keywords: [
       "change domain without losing seo", "how to change domain without losing seo", "change domain name without losing rankings", "domain change seo",
       "move website to new domain", "rebrand domain seo", "domain migration seo checklist", ".in to .com domain change", "change .in domain to .com",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "how long does seo take to recover after domain change", "domain change email continuity", "keep old domain after rebrand",
       "domain migration service India", "domain change cost", "change domain wordpress seo", "shopify change primary domain seo",
       "domain badalna hai seo kharab hoga kya", "rebranding website new domain", "update backlinks after domain change", "domain change checklist India",
+      "change url without losing rankings", "in to com domain move seo",
     ],
   },
   hero: {

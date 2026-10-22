@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const allahabad: CityContent = {
   slug: "allahabad",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 25.4358, lng: 81.8463 },
   meta: {
-    title: "IT Services in Allahabad: Websites, Apps, SEO & AI",
+    title: "Website Design in Prayagraj (Allahabad) | ₹10,000",
     description:
-      "Prayagraj websites, local SEO and WhatsApp bots for coaching institutes, lawyers, hotels and traders. Sites from ₹10,000, prices published, you own the code.",
+      "Prayagraj (Allahabad) websites from ₹10,000, live in 1-2 weeks, with Hindi SEO. WhatsApp bots for coaching institutes, lawyers, hotels and traders.",
     keywords: [
       "website development team in Prayagraj",
       "website designer in Allahabad",

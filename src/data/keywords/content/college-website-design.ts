@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/college-website-design/",
   crumb: "College website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `College Website Design for UGC and NAAC from ${P.seoSite}`,
-    description: `College website design for UGC self-disclosure, AICTE mandatory disclosure, NAAC and NIRF data, admissions portal and placements. From ${P.site}.`,
+    title: `College Website Design for UGC and NAAC, ${P.seoSite}+`,
+    description: `UGC self-disclosure, AICTE mandatory disclosure, NAAC and NIRF data tables, an admissions portal and placement pages. Sites from ${P.seoSite}, 3–5 weeks.`,
     keywords: [
       "college website design", "college website development", "university website design", "college website design India",
       "college website designer", "engineering college website design", "degree college website", "UGC mandatory disclosure website",

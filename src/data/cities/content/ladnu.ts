@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const ladnu: CityContent = {
   slug: "ladnu",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 27.65, lng: 74.3833 },
   meta: {
-    title: "IT Services in Ladnu | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Ladnu | Sites ₹10,000, Apps ₹40,000",
     description:
       "Ladnun websites, mobile apps, local SEO and WhatsApp bots for traders, Jain institutions, pilgrim lodges, schools and clinics. Ask for an itemised quote.",
     keywords: [

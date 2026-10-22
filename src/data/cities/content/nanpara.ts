@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const nanpara: CityContent = {
   slug: "nanpara",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 27.8667, lng: 81.5 },
   meta: {
-    title: "IT Services in Nanpara | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Nanpara | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, Maps SEO and WhatsApp automation for Nanpara traders, border transporters, rice millers, clinics and schools. Websites from ₹10,000.",
     keywords: [

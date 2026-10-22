@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sardhana: CityContent = {
   slug: "sardhana",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 29.145, lng: 77.61 },
   meta: {
-    title: "IT Services in Sardhana | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sardhana | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, Google Maps SEO and WhatsApp automation for Sardhana cloth and handloom units, timber traders, clinics, schools and shops. Sites from ₹10,000.",
     keywords: [

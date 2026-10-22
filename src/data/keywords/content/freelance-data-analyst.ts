@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-data-analyst/",
   crumb: "Freelance data analyst",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Freelance Data Analyst: Reports from ${P.ai}`,
-    description: `Hire a freelance data analyst for Excel clean-up, SQL queries, Python analysis and automated reports. Report automation from ${P.ai}. Scoped from your data.`,
+    title: `Freelance Data Analyst: Reports Automated, ${P.ai}+`,
+    description: `Excel clean-up, SQL, Python analysis and reports that rebuild themselves each week instead of by hand. Automation from ${P.ai}, scoped from your data first.`,
     keywords: [
       "freelance data analyst", "freelance data analyst in India", "freelance data analyst near me", "freelance data analyst for hire",
       "freelance data analyst cost", "freelance data analyst price", "best freelance data analyst", "data analyst chahiye",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "MIS report freelancer", "Google Sheets expert", "freelance business analyst reports", "data analysis for startups",
       "GST sales data analysis", "remote data analyst India",
       "hire freelance data analyst",
+      "clean and analyse a large csv", "recurring management report automation", "freelance data analyst india", "excel data cleaning service",
     ],
   },
   hero: {

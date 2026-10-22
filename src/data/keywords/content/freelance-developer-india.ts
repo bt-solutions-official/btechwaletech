@@ -11,9 +11,9 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-developer-india/",
   crumb: "Freelance developer India",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Freelance Developer India: Web, Apps, AI from ${P.site}`,
+    title: `Freelance Developer India | Sites ₹10,000, Apps ₹40,000`,
     description: `Freelance developer in India for web, apps and AI: where to find one, what skills to check, how payment works for Indian and overseas clients. From ${P.site}.`,
     keywords: [
       "freelance developer India", "freelance developer in India", "freelance developer near me", "freelance developer for hire India",

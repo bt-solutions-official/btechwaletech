@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const kolkata: CityContent = {
   slug: "kolkata",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 22.5726, lng: 88.3639 },
   meta: {
-    title: "IT Services in Kolkata: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Kolkata | From ₹10,000",
     description:
-      "Kolkata websites, SEO and WhatsApp automation from a remote three-engineer team. Sites from ₹10,000, online stores from ₹50,000, two months' upkeep free.",
+      "Kolkata websites from ₹10,000, live in 1-2 weeks; 299+ page SEO sites from ₹20,000 and stores from ₹50,000. Bengali pages, Maps work and support every day.",
     keywords: [
       "website development team in Kolkata",
       "web design team Kolkata",
@@ -43,7 +43,7 @@ const kolkata: CityContent = {
     pills: ["Websites from ₹10,000", "Bengali and English SEO", "Stores with UPI", "WhatsApp order flows", "Portals and dashboards"],
   },
   quickAnswer:
-    "In Kolkata, our business websites start at ₹10,000 and a 299+ page website built for Google search starts at ₹20,000, usually live in one to five weeks. Online stores begin at ₹50,000. We are a remote freelance team of three engineers with no Kolkata office, and each project includes two months of maintenance free.",
+    "A Kolkata business website starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and stores start at ₹50,000. We are a remote team of three engineers with no Kolkata office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Business districts", value: "BBD Bag and Dalhousie, Park Street, Camac Street, Esplanade and Chowringhee" },
     { label: "IT hubs", value: "Salt Lake Sector V and New Town, together the main technology cluster in eastern India" },
@@ -301,6 +301,16 @@ const kolkata: CityContent = {
       question: "What do I need to send to get a quote?",
       answer:
         "A few lines about your business, what you sell, who buys from you and which areas you serve. Include your current website link if you have one, plus any logo, photographs or catalogue. From that we prepare a page plan, timeline and itemised quote, normally within two working days.",
+    },
+    {
+      question: "Do you provide IT support in Kolkata as well as websites?",
+      answer:
+        "We are three engineers who build and look after websites, stores, software and automation, so our support covers anything to do with your site: hosting, domain, email, downtime, security updates, speed and content changes. We do not visit offices to fix printers, laptops or local networks, so if that is what you need, a local hardware firm will serve you better.",
+    },
+    {
+      question: "Do you build hospital and clinic websites in Kolkata?",
+      answer:
+        "Yes. A clinic or hospital site from ₹10,000 covers doctor profiles and sitting days, treatments in plain language, fees you are comfortable publishing, directions and an appointment form or WhatsApp booking flow. For larger hospitals we add departments, a 299+ page structure from ₹20,000 so each treatment ranks on its own, and reminders over WhatsApp.",
     },
   ],
   nearby: ["hugli-chinsurah", "srirampore", "naihati", "habra", "ranaghat", "panchla", "tarakeswar", "kharagpur"],

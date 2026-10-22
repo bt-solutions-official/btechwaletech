@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const yadgir: CityContent = {
   slug: "yadgir",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 16.7667, lng: 77.1333 },
   meta: {
-    title: "IT Services in Yadgir | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Yadgir | Sites ₹10,000, Apps ₹40,000",
     description:
       "Kannada websites, apps, local SEO and WhatsApp tools for Yadgir dal traders, Kadechur pharma suppliers, clinics, colleges and shops. From ₹10,000.",
     keywords: [

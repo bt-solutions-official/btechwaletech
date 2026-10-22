@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/car-wash-app-development/",
   crumb: "Car wash app development",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Car Wash App Development: Subscriptions from ${P.app}`,
-    description: `Car wash app development from ${P.app}: monthly plans, daily society cleaning, a washer app with photo proof and route planning. Get a quote in 2 days.`,
+    description: `Monthly plans, daily society cleaning rounds, a washer app with photo proof and route planning. Apps from ${P.app}, live in 6–10 weeks, quote in 2 days.`,
     keywords: [
       "car wash app development", "car wash app", "doorstep car wash app", "car cleaning app development", "car wash subscription app",
       "car wash app development cost", "car wash app price in India", "how to build a car wash app", "car wash booking app", "daily car cleaning app",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "car wash app development company in India",
       "best car wash app development in India",
       "car wash app development services",
+      "doorstep car wash app india", "society car cleaning app",
     ],
   },
   hero: {

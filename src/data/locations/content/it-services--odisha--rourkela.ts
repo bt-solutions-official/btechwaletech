@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--odisha--rourkela",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 22.2604, lng: 84.8536 },
   meta: {
     title: "Rourkela Software Developers: Plant Vendors & Engineering",
     description:
-      "Instead of a software development team in Rourkela, hire freelance engineers for vendor workflow software and B2B sites. Itemised quote in two working days.",
+      "Instead of a software development team in Rourkela, hire freelance engineers for vendor workflow software and B2B sites. From ₹60,000, quote in two days.",
     keywords: [
       "software development team in Rourkela",
       "IT services team in Rourkela",

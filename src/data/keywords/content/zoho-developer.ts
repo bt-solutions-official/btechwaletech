@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/zoho-developer/",
   crumb: "Zoho developer",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Zoho Developer in India: Deluge work from ${P.ai}`,
-    description: `Hiring a Zoho developer in India? What to check, a practical Deluge test task, Zoho Flow vs API integrations, and starting prices from ${P.ai}.`,
+    title: `Zoho Developer in India: Deluge & Books, ${P.ai}`,
+    description: `Hire a Zoho developer in India for Deluge scripts, Zoho Books and CRM customisation and API work. A test task to vet anyone, and projects from ${P.ai}.`,
     keywords: [
+      "zoho books developer", "zoho deluge developer",
       "zoho developer", "zoho developer india", "hire zoho developer", "freelance zoho developer", "zoho deluge developer",
       "deluge scripting expert", "zoho crm developer", "zoho books customisation", "zoho desk customisation", "zoho creator developer",
       "zoho api integration developer", "zoho flow vs custom integration", "zoho developer cost in india", "zoho developer hourly rate",

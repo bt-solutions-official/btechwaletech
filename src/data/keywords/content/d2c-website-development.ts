@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/d2c-website-development/",
   crumb: "D2C website development",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `D2C Website Development: Brand Stores from ${P.shop}`,
-    description: `D2C website development for Indian brands: product pages and checkout that convert ad traffic, COD and RTO control, reviews, analytics. From ${P.shop}.`,
+    description: `${P.shop} for a D2C store built to convert ad traffic: fast product pages, COD and RTO control, reviews, and GA4 plus Meta events wired up. Live in 4–8 weeks.`,
     keywords: [
       "d2c website development", "d2c website development India", "d2c ecommerce website", "d2c brand website", "direct to consumer website India",
       "d2c website design", "d2c website cost India", "d2c Shopify store development", "d2c website developer", "how to build a d2c website",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "d2c website development company in India",
       "best d2c website development in India",
       "d2c website development services",
+      "d2c ecommerce website development", "d2c brand website india", "direct to consumer website development",
     ],
   },
   hero: {

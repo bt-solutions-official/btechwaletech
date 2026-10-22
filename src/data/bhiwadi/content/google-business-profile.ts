@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/google-business-profile/",
   crumb: "Google Business Profile setup",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: "Google Business Profile Setup in Bhiwadi, Face to Face",
-    description: `Google Business Profile setup in Bhiwadi: creation, verification, categories, service areas and photos, inside monthly SEO from ${P.seo}. We meet you first.`,
+    title: `Google Business Profile Setup in Bhiwadi: ${P.seo}`,
+    description: `Google Business Profile setup in Bhiwadi: verification, primary and extra categories, service areas and real photos, inside monthly SEO from ${P.seo}.`,
     keywords: [
       "Google Business Profile setup in Bhiwadi", "Google Business Profile Bhiwadi", "Google My Business setup Bhiwadi", "GMB listing Bhiwadi",
       "Google Business Profile near me Bhiwadi", "Google Business Profile setup in Bhiwadi Rajasthan", "Google Maps listing Bhiwadi Alwar",
@@ -49,7 +49,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How does Google Business Profile setup in Bhiwadi work, and what does it cost?",
-    text: `Google Business Profile setup in Bhiwadi means creating or claiming your listing, finishing verification by whichever method Google offers, choosing one primary and up to nine additional categories, setting a visible address or service areas, and adding real photos of your premises. BtechWaleTech handles this inside monthly SEO from ${P.seo}, beginning with a one-to-one meeting at your premises.`,
+    text: `Handled inside monthly SEO from ${P.seo}. Google Business Profile setup in Bhiwadi means creating or claiming your listing, finishing verification by whichever method Google offers, choosing one primary and up to nine additional categories, setting a visible address or service areas, and adding real photos of your premises.`,
     more: `Once the profile is live, ranking it is the job of <a href='/bhiwadi-rajasthan/local-seo/'>local SEO in Bhiwadi</a>. Unsure whether a profile alone is enough? Read <a href='/google-business-profile-vs-website/'>Google Business Profile vs a website</a>.`,
   },
   snapshot: {
@@ -359,6 +359,7 @@ const content: FreelanceContent = {
   faqHeading: "Google Business Profile setup in Bhiwadi: questions",
   faqs: [
     { question: "How much does Google Business Profile setup in Bhiwadi cost?", answer: `Google charges nothing for the profile. Our work to set it up and keep it current sits inside monthly SEO from ${P.seo}, which also covers local SEO and reviews. A one-off setup can be quoted separately on request. Effort rises for several branches, listings owned by someone else, suspended profiles and large photo sets. All quotes are itemised and billed in INR.` },
+    { question: "Where can we see the full Google Business Profile category list?", answer: "There is no browsable list inside the dashboard. You type what your business does into the category box and Google suggests matching categories from its own set, which is large and changes over time. Third-party sites mirror it, but the box itself is authoritative. At the meeting we search it with you and note which categories comparable firms in Bhiwadi are using." },
     { question: "How long does it take to set up and verify a profile?", answer: "Creating and filling the profile takes one sitting, which we do at the meeting. Verification depends on the method Google offers: a phone or email code can be quick, a video review can take a few business days, and a postcard can take longer. Google says reviews can take up to five business days after submission." },
     { question: "Do you come to our factory or shop in Bhiwadi to set it up?", answer: "Yes. We meet one to one at your premises in Bhiwadi, whether that is a factory gate, a shop, a clinic or a school. Being there lets us place the pin on your entrance, compare the name with your signboard, take real photos and record a verification video if Google asks. Tell us a date and place and we fix a time that suits both sides." },
     { question: "Can the setup be done remotely instead?", answer: "Partly. Creating the listing, filling fields and managing it can be done online. But the pin, the photos and any video verification need someone at the premises, and doing them together face to face avoids retakes and rejected videos. After the first meeting, upkeep runs on WhatsApp, calls and email." },

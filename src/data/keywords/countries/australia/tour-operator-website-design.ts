@@ -9,9 +9,9 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/tour-operator-website-design/",
   crumb: "Tour operator website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Tour Operator Website Design from ${P.site}`,
+    title: `Tour Operator Website Design Australia, from ${P.site}`,
     description: `Tour operator website design for Australia: Rezdy or FareHarbor booking, ATDW-matched details, AUD totals and fast pages for regional mobile. From ${P.site}.`,
     keywords: [
       "tour operator website design", "tour operator website design australia", "tour company website design",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "tour operator website cairns", "tour operator website sydney", "tour operator website melbourne",
       "tour operator website gold coast", "tour operator website perth", "tour operator website design australia remote team",
       "hire tour operator website design in Australia", "freelance tour operator website design Australia",
+      "rezdy website developer", "fareharbor website design", "tourism website design australia",
     ],
   },
   hero: {

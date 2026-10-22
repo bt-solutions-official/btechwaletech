@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/ai-consultant-for-small-business/",
   crumb: "AI consultant for small business",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `AI Consultant for Small Business: Builds from ${P.ai}`,
-    description: `AI consultant for small business: process audit, opportunity scoring, build vs buy, a pilot, DPDP-aware data handling and ROI tracking. Builds from ${P.ai}.`,
+    title: `AI Consultant for Small Business: Pilot from ${P.ai}`,
+    description: `An AI consultant who scores your tasks, says buy or build, then ships one measurable pilot instead of a slide deck. Builds from ${P.ai}, live in 2–4 weeks.`,
     keywords: [
       "ai consultant for small business", "ai consultant", "ai consultant india", "ai consulting for small business",
       "ai consultant for smes", "ai consultant near me", "small business ai strategy", "ai roadmap for small business",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "what does an ai consultant do", "do i need an ai consultant", "ai implementation consultant", "ai automation consultant",
       "ai consultant for retail business", "ai consultant for manufacturers", "dpdp act ai compliance small business",
       "business me ai kaise use kare", "ai consultant delhi", "ai consultant pune",
+      "small business ai opportunity score", "how to become an ai consultant for small businesses",
     ],
   },
   hero: {

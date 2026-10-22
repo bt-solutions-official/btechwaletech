@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const renukoot: CityContent = {
   slug: "renukoot",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 24.2, lng: 83.0333 },
   meta: {
-    title: "IT Services in Renukoot | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Renukoot | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, SEO and WhatsApp automation for Renukoot plant contractors, vendors, schools, coaching centres, clinics and Sonbhadra shops. From ₹10,000.",
     keywords: [

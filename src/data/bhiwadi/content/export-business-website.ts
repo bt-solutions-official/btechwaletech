@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/export-business-website/",
   crumb: "Export company website",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Export Company Website in Bhiwadi · Meet in Person`,
-    description: `Export company website in Bhiwadi from ${P.site}: English-first pages, trust signals and enquiry handling across time zones. Planned one to one with you.`,
+    title: `Export Company Website in Bhiwadi from ${P.site}`,
+    description: `Export company website in Bhiwadi from ${P.site}, live in 1–2 weeks: plain-English product pages, verifiable trust details, enquiry handling across time zones.`,
     keywords: [
       "export company website in Bhiwadi", "export company website", "exporter website design near me", "export business website Bhiwadi Rajasthan",
       "exporter website developer Bhiwadi Alwar", "website for exporters in Neemrana", "export unit website Chopanki", "exporter website Khushkhera",
@@ -47,7 +47,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What makes a good export company website in Bhiwadi, and how much does it cost?",
-    text: `A good export company website in Bhiwadi explains your products in plain English, proves you are real with verifiable details, photos and current certificates, and makes it easy for an overseas buyer to enquire in their own working hours. BtechWaleTech builds one from ${P.site} in 1–2 weeks, or from ${P.seoSite} for large ranges, after meeting you one to one in Bhiwadi.`,
+    text: `From ${P.site} in 1–2 weeks, or ${P.seoSite} for large ranges. A good export company website explains your products in plain English, proves you are real with verifiable details, photos and current certificates, and makes it easy for an overseas buyer to enquire in their own working hours.`,
     more: `Manufacturers should also read <a href='/bhiwadi-rajasthan/manufacturing-company-website/'>manufacturing company website design</a>; units with long SKU lists will find the <a href='/bhiwadi-rajasthan/industrial-product-catalogue-website/'>catalogue website page</a> useful.`,
   },
   snapshot: {

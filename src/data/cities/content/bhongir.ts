@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const bhongir: CityContent = {
   slug: "bhongir",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 17.5103, lng: 78.8891 },
   meta: {
-    title: "IT Services in Bhongir | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Bhongir | Sites ₹10,000, Apps ₹40,000",
     description:
       "Bhongir Telugu websites, mobile apps, Maps SEO and WhatsApp automation for traders, factories, hospitals, colleges and Yadadri pilgrim services. From ₹10,000.",
     keywords: [

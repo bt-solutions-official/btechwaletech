@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const araria: CityContent = {
   slug: "araria",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 26.15, lng: 87.5167 },
   meta: {
-    title: "IT Services in Araria | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Araria | Sites ₹10,000, Apps ₹40,000",
     description:
       "Araria Hindi websites, mobile apps, local SEO and WhatsApp bots for makhana and maize traders, clinics, coaching centres and Nepal-border shops. From ₹10,000.",
     keywords: [

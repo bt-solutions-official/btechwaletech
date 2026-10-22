@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const durg: CityContent = {
   slug: "durg",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 21.19, lng: 81.2849 },
   meta: {
-    title: "IT Services in Durg | Web, Apps, SEO & AI from ₹10,000",
+    title: "Website Design in Durg & Bhilai | From ₹10,000",
     description:
-      "Durg and Bhilai websites, local SEO, stores and WhatsApp bots for suppliers, rice mills, clinics, colleges and Indira Market shops. Starting from ₹10,000.",
+      "Durg and Bhilai websites from ₹10,000, live in 1-2 weeks. Local SEO, stores and WhatsApp bots for plant suppliers, rice mills, clinics, colleges and shops.",
     keywords: [
       "website development team in Durg",
       "web designer Durg",

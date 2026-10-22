@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const amravati: CityContent = {
   slug: "amravati",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 20.9374, lng: 77.7796 },
   meta: {
-    title: "IT Services in Amravati: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Amravati | From ₹10,000",
     description:
-      "Amravati websites, SEO, online stores and WhatsApp automation for textile units, cotton traders, clinics and coaching classes. Static sites from ₹10,000.",
+      "Amravati websites from ₹10,000, live in 1-2 weeks; 299+ page SEO sites from ₹20,000. Stores and WhatsApp bots for textile units, cotton traders and clinics.",
     keywords: [
       "website development team in Amravati",
       "web designer Amravati",
@@ -43,7 +43,7 @@ const amravati: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi, Hindi and English pages", "Textile catalogues", "Google Maps setup", "WhatsApp replies"],
   },
   quickAnswer:
-    "For Amravati businesses we build static websites from ₹10,000 in one to two weeks, 299+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom web apps from ₹60,000. We are a remote team with no Amravati office, we reply on WhatsApp every day, and the first two months of maintenance after launch are free.",
+    "An Amravati business website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, stores start at ₹50,000 and automation at ₹40,000. Marathi pages are available, and the first two months of upkeep are free.",
   snapshot: [
     { label: "Commercial core", value: "Rajkamal Chowk, Jaistambh Chowk, Gandhi Chowk, Jawahar Road and the Itwara Bazaar area" },
     { label: "Industrial base", value: "Additional Amravati Industrial Area (MIDC) at Nandgaon Peth, with a textile park and the PM MITRA park site next to it" },

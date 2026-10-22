@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--jharkhand--deoghar",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 24.4852, lng: 86.6948 },
   meta: {
     title: "Deoghar Software Developers: Pilgrim & Prasad Orders",
     description:
-      "Comparing a software development team in Deoghar? Hire our freelance group for pilgrim booking, prasad orders, apps, AI and scalable hosting. INR prices.",
+      "Comparing a software development team in Deoghar? Hire our freelance group for pilgrim booking, prasad orders, apps and AI. Sites ₹10,000, prices in INR.",
     keywords: [
       "software development team in Deoghar",
       "IT services team in Deoghar",

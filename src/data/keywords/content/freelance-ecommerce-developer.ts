@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-ecommerce-developer/",
   crumb: "Freelance ecommerce developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
     title: `Freelance Ecommerce Developer | Stores from ${P.shop}`,
-    description: `Freelance ecommerce developer for Indian brands: platform choice, catalogue, UPI checkout, shipping and GST invoices. Stores from ${P.shop}, you own it all.`,
+    description: `Platform choice, catalogue build, UPI and card checkout, shipping rules and GST invoices for Indian brands. Stores from ${P.shop}, and you own every account.`,
     keywords: [
       "freelance ecommerce developer", "freelance ecommerce developer in India", "ecommerce developer near me", "ecommerce developer for hire",
       "freelance ecommerce developer cost", "ecommerce website price India", "best freelance ecommerce developer", "online store banwana hai",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "GST invoice ecommerce website", "D2C website developer", "custom ecommerce development India", "ecommerce store setup freelancer",
       "shipping integration ecommerce India",
       "hire freelance ecommerce developer",
+      "build your online shop", "ecommerce platform providers india", "freelance shopify developer india", "selling online payment options",
     ],
   },
   hero: {

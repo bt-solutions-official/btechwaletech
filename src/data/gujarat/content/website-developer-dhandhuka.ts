@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-developer-dhandhuka/",
   crumb: "Website developer in Dhandhuka",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Dhandhuka from ${P.site}`,
-    description: `Website developer in Dhandhuka for grain traders, dealers and agri shops: business sites from ${P.site}, Gujarati-ready pages and an itemised quote in 2 days.`,
+    title: `Website Developer in Dhandhuka: Sites from ${P.site}`,
+    description: `Website developer in Dhandhuka for grain traders, dealers and agri shops: sites from ${P.site}, Gujarati-ready pages, itemised quote in 2 working days.`,
     keywords: [
       "website developer in Dhandhuka", "website developer Dhandhuka", "website developer near me Dhandhuka", "Dhandhuka Gujarat website",
       "website designer Dhandhuka", "web developer Dhandhuka", "website development services Dhandhuka", "website design services Dhandhuka",

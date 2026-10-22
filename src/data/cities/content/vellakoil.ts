@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const vellakoil: CityContent = {
   slug: "vellakoil",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 10.9333, lng: 77.7167 },
   meta: {
-    title: "IT Services in Vellakoil | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Vellakoil | Sites ₹10,000, Apps ₹40,000",
     description:
       "Tamil websites, apps, SEO and WhatsApp automation for Vellakoil power looms, spinning mills, coconut oil units, poultry farms and shops. Sites from ₹10,000.",
     keywords: [

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/canteen-management-system/",
   crumb: "Canteen management system",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: "Canteen Management System in Bhiwadi: Meet in Person",
-    description: `Canteen management system in Bhiwadi: QR or card meals, coupon control, contractor billing and meal forecasts, from ${P.software}. We meet you at your plant.`,
+    title: `Canteen Management System Bhiwadi: ${P.software}+`,
+    description: `Canteen management system in Bhiwadi from ${P.software}, live in 6–12 weeks: QR or card meals, coupon control, contractor recovery and caterer billing at month end.`,
     keywords: [
       "canteen management system in Bhiwadi", "canteen management system", "canteen management system near me",
       "factory canteen software Bhiwadi", "canteen management system in Bhiwadi Rajasthan", "canteen software Bhiwadi Alwar",
@@ -49,7 +49,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How does a canteen management system work in a Bhiwadi factory?",
-    text: `Each worker's meal is checked by scanning a QR code or card at the counter, so the canteen management system knows who ate, in which shift and under which contractor. At month end it prepares the caterer's bill, contractor recoveries and subsidy reports. For a Bhiwadi plant, custom software starts at ${P.software}, usually built in 6–12 weeks after an in-person meeting.`,
+    text: `From ${P.software} for a Bhiwadi plant, usually built in 6–12 weeks. Each worker’s meal is checked by scanning a QR code or card at the counter, so the system knows who ate, in which shift and under which contractor. At month end it prepares the caterer’s bill, contractor recoveries and subsidy reports.`,
     more: `Meal counts work best when tied to attendance, covered on our <a href='/bhiwadi-rajasthan/employee-attendance-app/'>attendance app page</a>; contractor workforce records sit in <a href='/bhiwadi-rajasthan/contract-labour-management-software/'>contract labour software for Bhiwadi</a>.`,
   },
   snapshot: {
@@ -387,6 +387,7 @@ const content: FreelanceContent = {
   faqHeading: "Canteen management system in Bhiwadi: frequently asked questions",
   faqs: [
     { question: "What is a canteen management system?", answer: "A canteen management system is software that records each meal served in a workplace canteen against a worker, shift and payer. It checks entitlement at the counter, prevents duplicate meals, and prepares the caterer's bill, contractor recoveries, subsidy splits and payroll deductions. Many systems also forecast meals per shift and log menus, feedback and food waste." },
+    { question: "What should a canteen coupon format contain?", answer: "A paper coupon needs a serial number, the date and meal slot, the plant or canteen name, the meal type and rate, and space for the department or contractor so the cost can be recovered at month end. Serial control is the hard part, which is why most plants in the belt move to a QR or card scan: the record is created at the counter and cannot be duplicated, resold or counted twice." },
     { question: "How much does a canteen management system cost in Bhiwadi?", answer: `Custom canteen software starts at ${P.software} for meal checking, meal plans and caterer billing. Contractor statements, payroll export, forecasts, guest meals and reading data from existing terminals add to the scope. Devices such as tablets, scanners or card readers are bought separately by you. The itemised quote follows the meeting at your plant.` },
     { question: "How long does it take to set up?", answer: "Usually 6 to 12 weeks. One counter is piloted for a shift with coupons as a fallback, then all counters go live and the first month-end bill is run side by side with the old method. Delays come mostly from incomplete worker or contractor lists, so cleaning those early helps the most." },
     { question: "Can you visit our factory canteen in Bhiwadi?", answer: "Yes. We meet you face to face at your plant in Bhiwadi, ideally during a lunch shift change so we can see the queue, the counter and the coupon process. Send a date and place on WhatsApp and we fix a time that suits both sides. Later meetings for sign-off and training are arranged the same way." },

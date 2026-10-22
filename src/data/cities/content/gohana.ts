@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const gohana: CityContent = {
   slug: "gohana",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 29.1333, lng: 76.9 },
   meta: {
-    title: "IT Services in Gohana | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Gohana | Sites ₹10,000, Apps ₹40,000",
     description:
       "Gohana websites, Android and iOS apps, local SEO and WhatsApp automation for halwais, grain-mandi arhtiyas, coaching centres and clinics. Starts at ₹10,000.",
     keywords: [

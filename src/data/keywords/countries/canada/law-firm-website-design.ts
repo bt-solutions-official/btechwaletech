@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/canada/law-firm-website-design/",
   crumb: "Law firm website design Canada",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Law Firm Website Design Canada from ${P.site}`,
-    description: `Law firm website design in Canada from ${P.site}: practice-area pages, secure intake with conflict checks, bilingual pages and Law Society-safe copy.`,
+    title: `Law Firm Website Design Canada, from ${P.site}`,
+    description: `Law firm website design in Canada from ${P.site}: practice-area pages, secure intake with conflict checks, bilingual pages and Law Society-safe wording.`,
     keywords: [
       "law firm website design canada", "lawyer website design canada", "law office website design ontario",
       "legal website design toronto", "lawyer website vancouver", "law firm website calgary", "law firm website ottawa",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "sole practitioner website design", "law firm website redesign canada", "multi office law firm website",
       "who owns my law firm website", "lawyer website cost ontario",
       "hire law firm website design in Canada", "freelance law firm website design Canada",
+      "website design for family lawyer", "family lawyer website design", "law firm web design mississauga", "law firm website design service",
     ],
   },
   hero: {

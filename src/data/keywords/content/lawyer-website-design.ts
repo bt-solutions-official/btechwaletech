@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/lawyer-website-design/",
   crumb: "Lawyer website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Lawyer Website Design, Rule 36-aware, from ${P.site}`,
-    description: `Lawyer website design for advocates and law firms in India, built around BCI Rule 36: disclaimer, practice areas and consultation booking. From ${P.site}.`,
+    title: `Lawyer Website Design: BCI Rule 36 Safe, ${P.site}`,
+    description: `Lawyer website design for advocates and law firms, built inside BCI Rule 36: disclaimer, practice-area pages and consultation booking. From ${P.site}.`,
     keywords: [
       "lawyer website design", "lawyer website design India", "advocate website design", "law firm website design",
       "law firm website development", "website for advocate", "website for lawyers in India", "lawyer website cost in India",

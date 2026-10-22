@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const darbhanga: CityContent = {
   slug: "darbhanga",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 26.1542, lng: 85.8918 },
   meta: {
-    title: "IT Services in Darbhanga: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Darbhanga | ₹10,000 Up",
     description:
-      "Darbhanga websites, SEO and WhatsApp automation for makhana traders, Mithila art sellers, hospitals and coaching centres. From ₹10,000, with 2 free months.",
+      "Darbhanga websites from ₹10,000, live in 1-2 weeks, with Hindi SEO. WhatsApp bots for makhana traders, Mithila art sellers, hospitals and coaching centres.",
     keywords: [
       "website development team in Darbhanga",
       "website designer Darbhanga",

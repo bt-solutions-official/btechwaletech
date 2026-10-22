@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/manufacturing-website-design/",
   crumb: "Manufacturing website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Manufacturing Website Design that Wins RFQs, ${P.site}+`,
-    description: `Manufacturing website design for German machine builders: CAD and datasheet downloads, hreflang export sites, RFQ forms routed to sales. Sites from ${P.site}.`,
+    title: `Manufacturing Website Design Germany: RFQs, ${P.site}+`,
+    description: `Manufacturing website design for German machine builders: CAD and datasheet downloads, hreflang export sites, RFQ forms routed to sales. From ${P.site}.`,
     keywords: [
       "manufacturing website design", "manufacturer website design germany", "industrial website design", "machine builder website",
       "website for mittelstand manufacturer", "b2b manufacturing website", "rfq form for manufacturers", "manufacturing website rfq",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "manufacturing website design munich", "manufacturing website design nrw", "manufacturing website examples", "what should a manufacturing website include",
       "seo for manufacturers germany", "digital instructions machinery regulation website", "export website for german manufacturer", "industrial web design india",
       "hire manufacturing website design in Germany", "freelance manufacturing website design Germany",
+      "product configurator germany", "manufacturer website developer", "pim rfq integration", "maschinenbau website", "industrial website design germany",
     ],
   },
   hero: {

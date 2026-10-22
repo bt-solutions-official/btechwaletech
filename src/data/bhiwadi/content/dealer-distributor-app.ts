@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/dealer-distributor-app/",
   crumb: "Dealer ordering app",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
     title: `Dealer Ordering App in Bhiwadi from ${P.app}`,
-    description: `Dealer ordering app in Bhiwadi for manufacturers: dealer price lists, schemes, credit checks and Tally ledgers, from ${P.app}. We meet you at your plant.`,
+    description: `Dealer ordering app in Bhiwadi from ${P.app}, live in 6–10 weeks: dealer-wise rates, schemes in the cart, credit limit checks, dispatch and Tally ledgers.`,
     keywords: [
       "dealer ordering app in Bhiwadi", "dealer ordering app near me", "dealer ordering app in Bhiwadi Rajasthan",
       "dealer app for manufacturer Bhiwadi Alwar", "distributor ordering app Bhiwadi", "B2B ordering app for dealers",
@@ -49,7 +49,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What is a dealer ordering app in Bhiwadi, and what does one cost?",
-    text: `It is a B2B app where each dealer logs in, sees your catalogue at their own negotiated rates, gets eligible schemes applied in the cart, and places orders that respect their credit limit, then tracks dispatch and checks their ledger. A custom dealer app starts at ${P.app}; builds with Tally or ERP sync start at ${P.software}. You own the code and data.`,
+    text: `From ${P.app}, live in about 6–10 weeks; builds with Tally or ERP sync start at ${P.software}. It is a B2B app where each dealer logs in, sees your catalogue at their own negotiated rates, gets eligible schemes applied in the cart, places orders that respect their credit limit, then tracks dispatch and checks their ledger.`,
     more: `We scope it with your sales and accounts teams one to one in Bhiwadi. For consumer shopping apps see <a href='/bhiwadi-rajasthan/ecommerce-app-development/'>ecommerce app development in Bhiwadi</a>; for linking ledgers see <a href='/bhiwadi-rajasthan/tally-integration/'>Tally integration in Bhiwadi</a>.`,
   },
   snapshot: {
@@ -381,6 +381,7 @@ const content: FreelanceContent = {
   faqHeading: "Dealer ordering app in Bhiwadi: questions manufacturers ask",
   faqs: [
     { question: "How much does a dealer ordering app in Bhiwadi cost?", answer: `A custom dealer app with catalogue, dealer-wise pricing, ordering, order status and an admin panel starts at ${P.app}. Builds with Tally or ERP ledger sync, a dealer web portal or a distributor-to-retailer tier start at ${P.software}. We price by scope, not per dealer, and the itemised quote lists every module and integration separately.` },
+    { question: "What do the payment options in a dealer cart mean?", answer: "At checkout a dealer usually sees one of three. Pay now settles the order immediately by UPI, card or netbanking. Against advance adjusts an advance balance already lying with you. On credit books the order against the dealer’s approved credit limit, to be settled on your agreed terms. Your own labels and rules go on the buttons, and the credit check runs before the order is accepted." },
     { question: "How long does it take to build a dealer ordering app?", answer: "Usually 6–10 weeks from signed scope to the first dealers ordering, and longer when a two-way ERP link or a distributor-to-retailer tier is involved. We pilot with a handful of friendly dealers while phone orders continue, then invite the rest region by region, so the order desk never stops. The approved quote carries the week-by-week plan." },
     { question: "Will you meet us at our plant in Bhiwadi?", answer: "Yes. We meet face to face at your plant or sales office in Bhiwadi, or a place you prefer, with the people who handle dealer orders, accounts and dispatch. Share a convenient date and location on WhatsApp or by phone and we fix a time. Further meetings can follow at scope sign-off, the dealer pilot and staff training." },
     { question: "Can each dealer see only their own prices?", answer: "Yes. Dealers are assigned to price groups such as distributor, dealer or sub-dealer, and key accounts can have dealer-specific rates with expiry dates. Each dealer sees only their own net rates after login, never the full rate card. Price revisions can be uploaded from Excel with an effective date, and old rates stay on record for any later dispute." },

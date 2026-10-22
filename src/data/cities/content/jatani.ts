@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const jatani: CityContent = {
   slug: "jatani",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 20.1667, lng: 85.7 },
   meta: {
-    title: "IT Services in Jatani | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Jatani | Sites ₹10,000, Apps ₹40,000",
     description:
       "Jatani Odia and English websites, Android and iOS apps, local SEO and WhatsApp automation for railway suppliers, student housing, coaching centres and shops.",
     keywords: [

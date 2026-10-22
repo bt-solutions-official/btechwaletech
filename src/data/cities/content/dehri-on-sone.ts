@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const dehriOnSone: CityContent = {
   slug: "dehri-on-sone",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 24.91, lng: 84.185 },
   meta: {
-    title: "Dehri-on-Sone Websites, SEO and WhatsApp Tools",
+    title: "Website Design in Dehri-on-Sone | From ₹10,000",
     description:
-      "Dehri-on-Sone web design, Google Maps listings and WhatsApp automation for traders, transporters, sand suppliers, clinics and coaching centres. From ₹10,000.",
+      "Dehri-on-Sone websites from ₹10,000, live in 1-2 weeks, in Hindi. Maps listings and WhatsApp tools for traders, transporters, clinics and coaching centres.",
     keywords: [
       "website development team in Dehri",
       "web designer Dehri-on-Sone",
@@ -43,7 +43,7 @@ const dehriOnSone: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Transport and supplier sites", "Clinic and coaching pages", "WhatsApp enquiry tools"],
   },
   quickAnswer:
-    "In Dehri-on-Sone, a static business website with up to 100 pages starts from ₹10,000 and takes one to two weeks. A 299+ page SEO site starts from ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are a remote team with no Dehri office, and the first two months of maintenance are free.",
+    "A Dehri-on-Sone website starts at ₹10,000 and goes live in one to two weeks, written in Hindi or English. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and stores start at ₹50,000. We have no office in Dehri or Sasaram, and two months of maintenance come free after launch.",
   snapshot: [
     { label: "Where it is", value: "A nagar parishad town on the west bank of the Sone in Rohtas district, next to Dalmianagar and a short drive from Sasaram" },
     { label: "Transport links", value: "Dehri-on-Sone Junction (DOS) on the Grand Chord line and National Highway 19, the Delhi–Kolkata road" },

@@ -29,3 +29,13 @@
 # Common sitemap URLs crawlers try
 /sitemap.xml /sitemap-index.xml 301
 /sitemap_index.xml /sitemap-index.xml 301
+
+# Two confirmed 404s traced through git history.
+# /india/bihar/ was linked from src/pages/india/west-bengal/index.astro (397cb7e, 2026-08-11)
+# but the route was never built; Bihar is served by /it-services/bihar/.
+/india/bihar /it-services/bihar/ 301
+/india/bihar/ /it-services/bihar/ 301
+
+# /favicon.svg shipped in ebd4af3 and was referenced from every page's <link rel="icon">
+# until it was deleted in 038238e (2026-09-21). Googlebot fetched it site-wide for six weeks.
+/favicon.svg /favicon.ico 301

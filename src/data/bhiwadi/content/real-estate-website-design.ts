@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/real-estate-website-design/",
   crumb: "Real estate website design",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Real Estate Website Design in Bhiwadi, from ${P.site}`,
-    description: `Real estate website design in Bhiwadi from ${P.site}: project pages, RERA number display and lead capture for builders and brokers. We meet you one to one.`,
+    title: `Real Estate Website Design Bhiwadi from ${P.site}`,
+    description: `Real estate website design in Bhiwadi from ${P.site}, live in 1–2 weeks: project pages, floor plans, RERA number displayed, site-visit booking, WhatsApp leads.`,
     keywords: [
       "real estate website design in Bhiwadi", "real estate website design", "real estate website designer near me", "property website design Bhiwadi Rajasthan",
       "builder website design Bhiwadi", "property dealer website Bhiwadi", "real estate website Alwar Bypass Road", "real estate website Bhiwadi Alwar",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How much does real estate website design in Bhiwadi cost, and what should it include?",
-    text: `Real estate website design in Bhiwadi starts at ${P.site} for a builder or single-project site with project pages, floor plans, the RERA registration number and authority website, site-visit booking and WhatsApp lead routing, usually in 1–2 weeks. Broker listing sites with sector and BHK pages start at ${P.seoSite}; a lead CRM starts at ${P.software}. We plan it face to face with you.`,
+    text: `From ${P.site} for a builder or single-project site, usually live in 1–2 weeks: project pages, floor plans, the RERA registration number and authority website, site-visit booking and WhatsApp lead routing. Broker listing sites with sector and BHK pages start at ${P.seoSite}; a lead CRM at ${P.software}.`,
     more: `Running paid ads for one launch? See <a href='/bhiwadi-rajasthan/landing-page-design/'>landing page design in Bhiwadi</a>. Need leads tracked through bookings? Read about a <a href='/bhiwadi-rajasthan/real-estate-crm/'>real estate CRM for Bhiwadi</a>.`,
   },
   snapshot: {

@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const nirmal: CityContent = {
   slug: "nirmal",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 19.0964, lng: 78.344 },
   meta: {
-    title: "IT Services in Nirmal | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Nirmal | Sites ₹10,000, Apps ₹40,000",
     description:
       "Telugu websites, apps, local SEO and WhatsApp tools for Nirmal toy artisans, cotton traders, highway businesses, hospitals and colleges. Sites from ₹10,000.",
     keywords: [

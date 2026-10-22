@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--telangana--nizamabad",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 18.672, lng: 78.094 },
   meta: {
     title: "Nizamabad Software Developers: Turmeric & Rice Mills",
     description:
-      "Freelance software developers for Nizamabad: turmeric trade software, rice mill systems and AI agents. Three remote engineers, on WhatsApp seven days a week.",
+      "Freelance software developers for Nizamabad: turmeric trade software, rice mill systems and AI agents. Software from ₹60,000, WhatsApp replies seven days.",
     keywords: [
       "software development team in Nizamabad",
       "IT services team in Nizamabad",

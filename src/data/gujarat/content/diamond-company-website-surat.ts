@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/diamond-company-website-surat/",
   crumb: "Diamond company website in Surat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Diamond Company Website in Surat from ${P.site}`,
-    description: `Diamond company website in Surat with grading report links, login-only stock and price lists, and private B2B enquiries. Profile sites from ${P.site}.`,
+    title: `Diamond Company Website in Surat: ${P.site}, Private B2B`,
+    description: `Diamond company website in Surat with grading report links, login-only stock and price lists and private B2B enquiries. Profile sites from ${P.site}.`,
     keywords: [
       "diamond company website in Surat", "diamond website Surat", "diamond company website near me", "diamond website design Surat Gujarat",
       "polished diamond website", "diamond manufacturer website Surat", "diamond exporter website Surat", "diamond inventory website",

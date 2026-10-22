@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/tally-shopify-integration/",
   crumb: "Tally Shopify integration",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Tally Shopify Integration with GST, from ${P.ai}`,
-    description: `Tally Shopify integration that posts orders, refunds, COD and payouts into TallyPrime with correct HSN and state-wise GST. Custom builds from ${P.ai}.`,
+    title: `Tally Shopify Integration with GST: From ${P.ai}`,
+    description: `Tally Shopify integration that posts orders, refunds, COD and payouts into TallyPrime with correct HSN codes and state-wise GST. From ${P.ai} in 2–4 weeks.`,
     keywords: [
       "tally shopify integration", "shopify tally integration", "shopify to tally", "shopify orders to tally",
       "shopify tally connector", "integrate shopify with tallyprime", "can shopify be integrated with tally",

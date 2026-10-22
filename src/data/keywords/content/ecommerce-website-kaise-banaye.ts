@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/ecommerce-website-kaise-banaye/",
   crumb: "Ecommerce website kaise banaye",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Ecommerce Website Kaise Banaye: Khud ya ${P.shop} se`,
-    description: `Ecommerce website kaise banaye? Platform, catalogue, UPI aur COD, shipping, legal pages aur GST, khud banane vs banwane ka kharcha. Store ${P.shop} se.`,
+    title: `Ecommerce Website Kaise Banaye: Khud ya ${P.shop} Se`,
+    description: `Platform chuniye, catalogue, UPI aur COD, shipping, GST aur legal pages—step by step. Khud banane vs banwane ka kharcha. Store ${P.shop} se, 4–8 hafte me.`,
     keywords: [
       "ecommerce website kaise banaye", "ecommerce website kaise banate hai", "online store website kaise banaye", "apni ecommerce website kaise banaye",
       "ecommerce website khud kaise banaye", "ecommerce website banane me kitna kharcha", "ecommerce website banane me kitna time lagta hai",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "diy vs hire ecommerce website", "ecommerce website for small business india", "cod wali ecommerce website",
       "ecommerce website kaise banaye delhi", "ecommerce website kaise banaye mumbai", "ecommerce website banwana hai",
       "online store banane ka tarika", "ecommerce website ke liye kya chahiye",
+      "e commerce website kaise banaye", "online store kaise banaye", "shopping website kaise banaye", "apna online store kaise shuru kare",
     ],
   },
   hero: {

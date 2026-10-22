@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const kadiri: CityContent = {
   slug: "kadiri",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 14.12, lng: 78.17 },
   meta: {
-    title: "IT Services in Kadiri | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Kadiri | Sites ₹10,000, Apps ₹40,000",
     description:
       "Kadiri Telugu websites, mobile apps, local SEO and WhatsApp bots for groundnut traders, temple-town lodges, handloom sellers and clinics. ₹10,000 upwards.",
     keywords: [

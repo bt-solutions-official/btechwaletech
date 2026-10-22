@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/website-making-cost-in-india/",
   crumb: "Website making cost in India",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Making Cost in India 2026: From ${P.site}`,
-    description: `Website making cost in India by type: static sites from ${P.site}, SEO sites from ${P.seoSite}, stores from ${P.shop}. See the hidden yearly costs too.`,
+    title: `Website Making Cost in India 2026: ${P.site} + Yearly`,
+    description: `Website making cost in India by type: static ${P.site}, 299-page SEO site ${P.seoSite}, store ${P.shop} — plus the yearly domain, hosting and care bills.`,
     keywords: [
+      "website making charge", "website running costs", "website make price",
       "website making cost in India", "website making cost", "website making cost near me", "website making cost for small business",
       "website making price in India", "best website making cost", "website banane ka kharcha", "website banwane mein kitna kharcha",
       "website making cost in Delhi", "website making cost in Mumbai", "website making cost in Bangalore", "website making cost in Pune",

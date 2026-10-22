@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/google-penalty-recovery-services/",
   crumb: "Google penalty recovery services",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Google Penalty Recovery Services from ${P.seo}`,
-    description: `Google penalty recovery services: read the Manual Actions report, clean links, disavow, fix thin pages and file a reconsideration request. From ${P.seo}.`,
+    description: `Hit by a manual action or a spam update? We read the Manual Actions report, clean and disavow links, fix thin pages and file the reconsideration for you.`,
     keywords: [
       "google penalty recovery services", "google penalty recovery", "manual action removal", "google manual action recovery",
       "reconsideration request google", "how to write a reconsideration request", "unnatural links manual action", "disavow links service",
@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "google penalty recovery expert", "how long does google penalty recovery take", "backlink cleanup service", "google penalty recovery consultant",
       "google penalty recovery services company in India",
       "best google penalty recovery services in India",
+      "google penalty recovery agency india", "google penalty removal consultants", "manual action recovery services",
+      "google penalty recovery company",
     ],
   },
   hero: {

@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/dental-website-design/",
   crumb: "Dental website design Australia",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Dental Website Design Australia: New Patients, ${P.site}+`,
-    description: `Dental website design in Australia: AHPRA-aware copy and photos, HotDoc or practice-system booking, health fund and CDBS pages, emergency SEO. From ${P.site}.`,
+    title: `Dental Website Design Australia: AHPRA-Safe, ${P.site}+`,
+    description: `Dental website design in Australia: AHPRA-compliant wording, HotDoc or practice-system booking, health fund and CDBS pages, emergency SEO. From ${P.site}.`,
     keywords: [
       "dental website design australia", "dental website design", "dentist website design australia", "dental practice website",
       "dental clinic website design", "dental web design australia", "how much does a dental website cost",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "dental website design melbourne", "dental website design brisbane", "dental website design perth",
       "dental website design adelaide", "dentist website near me", "new patient dental website",
       "hire dental website design in Australia", "freelance dental website design Australia",
+      "dental web development brisbane",
     ],
   },
   hero: {

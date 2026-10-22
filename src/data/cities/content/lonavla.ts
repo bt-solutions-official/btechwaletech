@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const lonavla: CityContent = {
   slug: "lonavla",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 18.7481, lng: 73.4072 },
   meta: {
-    title: "IT Services in Lonavla | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Lonavla | Sites ₹10,000, Apps ₹40,000",
     description:
       "Lonavla Booking websites, Android and iOS apps, local SEO and WhatsApp automation for villas, resorts, chikki makers, trek operators, schools and local shops.",
     keywords: [

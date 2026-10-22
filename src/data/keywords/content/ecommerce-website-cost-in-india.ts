@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/ecommerce-website-cost-in-india/",
   crumb: "Ecommerce website cost in India",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Ecommerce Website Cost in India: Stores from ${P.shop}`,
-    description: `Ecommerce website cost in India, line by line: platform, UPI and COD checkout, GST invoices, courier setup and yearly running costs. Stores from ${P.shop}.`,
+    title: `Ecommerce Website Cost in India: ${P.shop} to Launch`,
+    description: `${P.shop} for a store with UPI, COD and GST invoices, live in 4–8 weeks. Plus the yearly bills most quotes hide: hosting, gateway, courier and SMS charges.`,
     keywords: [
       "ecommerce website cost in india", "ecommerce website cost", "ecommerce website price in india", "online store cost in india",
       "how much does an ecommerce website cost in india", "ecommerce website development cost in india", "shopify store cost india",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "online shopping website banane ka kharcha", "ecommerce website kitne ka banta hai", "ecommerce website cost in jaipur",
       "ecommerce website cost in surat", "ecommerce website cost in delhi", "clothing ecommerce website cost india",
       "ecommerce website quote sample",
+      "ecommerce website pricing", "online shop cost india", "how much does it cost to get a website developed", "ecommerce website prices",
     ],
   },
   hero: {

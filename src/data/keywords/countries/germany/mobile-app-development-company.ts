@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/mobile-app-development-company/",
   crumb: "Mobile app development company Germany",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Mobile App Development Company Germany · from ${P.app}`,
-    description: `Mobile app development company Germany guide: Flutter or React Native apps from ${P.app}, store accounts in your name, DSGVO and BFSG built in.`,
+    title: `Mobile App Development Company Germany, from ${P.app}`,
+    description: `Mobile app development for German companies: Flutter or React Native apps from ${P.app}, store accounts in your name, DSGVO and BFSG built in from the start.`,
     keywords: [
       "mobile app development company germany", "app development company germany", "app agentur deutschland", "app entwicklung deutschland",
       "hire app developers germany", "flutter app development germany", "react native developers germany", "ios app development germany",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "dsa trader status app store", "flutter vs react native germany", "app agency germany vs india", "mobile app developers near me germany",
       "best mobile app development company in germany",
       "freelance mobile app development Germany",
+      "app entwicklung firma deutschland", "mobile app development germany", "germany mobile application development", "flutter app entwickler deutschland",
     ],
   },
   hero: {

@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/seo-for-chartered-accountants/",
   crumb: "SEO for chartered accountants",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `SEO for Chartered Accountants: ICAI-Safe ${P.seo}`,
-    description: `SEO for chartered accountants, kept inside ICAI rules: GST, ITR and registration pages, local maps ranking, lead tracking. Monthly SEO from ${P.seo}.`,
+    title: `SEO for Chartered Accountants: ICAI-Safe, ${P.seo}`,
+    description: `SEO for chartered accountants kept inside ICAI advertising rules: GST, ITR and registration service pages, local map rankings, lead tracking. From ${P.seo}.`,
     keywords: [
+      "seo for accountants", "seo for ca firms india",
       "seo for chartered accountants", "seo for ca firms", "chartered accountant seo", "ca firm seo services", "seo for accountants india",
       "is seo allowed for chartered accountants", "icai rules for seo", "icai guidelines online promotion", "how can a ca get clients online",
       "how to get clients for ca firm", "local seo for ca firm", "ca firm google business profile", "ca near me ranking",

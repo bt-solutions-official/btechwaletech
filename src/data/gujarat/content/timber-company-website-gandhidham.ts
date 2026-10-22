@@ -11,9 +11,9 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/timber-company-website-gandhidham/",
   crumb: "Timber company website in Gandhidham",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Timber Company Website in Gandhidham from ${P.site}`,
+    title: `Timber Company Website in Gandhidham: Stock, ${P.site}`,
     description: `Timber company website in Gandhidham for log importers, sawmills and traders: species pages, size and stock lists, bulk enquiry forms. Sites from ${P.site}.`,
     keywords: [
       "timber company website in Gandhidham", "timber website Gandhidham", "timber importer website Kandla", "sawmill website design Gujarat", "timber trader website Kutch",

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/ecommerce-website-development-surat/",
   crumb: "Ecommerce website development in Surat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Ecommerce Website Development in Surat from ${P.shop}`,
-    description: `Ecommerce website development in Surat for saree, fabric & jewellery sellers: UPI checkout, GST invoices, courier shipping. Stores from ${P.shop}, 2-day quote.`,
+    title: `Ecommerce Website in Surat: ${P.shop}, Live in 4–8 Weeks`,
+    description: `Surat online store from ${P.shop} for saree, fabric and jewellery sellers: UPI and card checkout, GST invoices, courier booking. Live in 4–8 weeks, all yours.`,
     keywords: [
       "ecommerce website development in Surat", "ecommerce website development Surat", "ecommerce website developer near me", "ecommerce website Surat Gujarat",
       "online store development Surat", "ecommerce website services Surat", "ecommerce website design Surat", "ecommerce developer Surat",

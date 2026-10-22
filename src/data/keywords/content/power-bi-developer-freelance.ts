@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/power-bi-developer-freelance/",
   crumb: "Power BI Developer Freelance",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Power BI Developer Freelance: Hire from ${P.ai}`,
-    description: `Power BI developer freelance in India: data models, scheduled refresh, secure sharing and DAX. Data automation from ${P.ai}. Quote in about 2 working days.`,
+    title: `Freelance Power BI Developer India: From ${P.ai}`,
+    description: `Hire a freelance Power BI developer in India: data models, scheduled refresh, secure sharing and DAX measures built for your reports. From ${P.ai}, 2–4 weeks.`,
     keywords: [
       "power bi developer freelance", "freelance power bi developer", "power bi developer freelance India", "power bi developer near me",
       "power bi developer for hire", "power bi freelancer cost", "power bi dashboard price", "best power bi freelancer",

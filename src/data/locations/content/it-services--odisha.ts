@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--odisha",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 20.9517, lng: 85.0985 },
   meta: {
-    title: "Odisha IT Services: Software, AI & Apps",
+    title: "IT Services in Odisha: Websites ₹10,000, Apps ₹40,000",
     description:
       "IT services in Odisha from a freelance group: custom software, AI automation, apps, dashboards, ecommerce and SEO for all 30 districts. Sites from ₹10,000.",
     keywords: [
@@ -83,7 +83,7 @@ const content: CityContent = {
       paragraphs: [
         "IT services in Odisha from a freelance software team cover the full stack a business needs: custom software and web applications, mobile apps and PWAs, AI automation and agents, WhatsApp and CRM automation, data dashboards, cloud hosting and deployment, SEO, ecommerce, and ongoing maintenance. BtechWaleTech delivers all of these remotely to organisations anywhere in the state.",
         "We are three engineers working together as a freelance group, with no offices in Odisha. That shapes how we work: no sales team, no branch rent and no account managers. You speak directly with the engineers who plan and build your system, over WhatsApp, calls and video, and you receive the source code, logins and documentation at the end.",
-        "For Odisha clients, the practical benefit is consistency. A supplier in Rourkela, a hotel in Puri and a weaver cooperative near Sambalpur all get the same process and the same starting prices. You can explore each service in more detail on our <a href=\"/services/\">services page</a> or look at <a href=\"/portfolio/\">past work</a>.",
+        "For Odisha clients, the practical benefit is consistency. A supplier in Rourkela, a hotel in <a href='/it-services/odisha/puri/'>Puri</a> and a weaver cooperative near Sambalpur all get the same process and the same starting prices. You can explore each service in more detail on our <a href=\"/services/\">services page</a> or look at <a href=\"/portfolio/\">past work</a>.",
       ],
       list: [
         "Custom software, portals and admin panels",

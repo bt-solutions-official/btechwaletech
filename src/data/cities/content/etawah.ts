@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const etawah: CityContent = {
   slug: "etawah",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 26.7856, lng: 79.0158 },
   meta: {
-    title: "IT Services in Etawah: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Etawah | From ₹10,000",
     description:
-      "Websites, Hindi local SEO and WhatsApp automation for Etawah textile units, ghee and dairy sellers, clinics, schools and highway businesses. From ₹10,000.",
+      "Etawah websites from ₹10,000, live in 1-2 weeks, with Hindi local SEO. WhatsApp automation for textile units, ghee and dairy sellers, clinics and schools.",
     keywords: [
       "website development team in Etawah",
       "web designer Etawah",

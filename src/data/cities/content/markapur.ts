@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const markapur: CityContent = {
   slug: "markapur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 15.735, lng: 79.27 },
   meta: {
-    title: "IT Services in Markapur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Markapur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Telugu websites, apps, local SEO and WhatsApp tools for Markapur slate units, Srisailam-route lodges, traders, clinics and colleges. Websites from ₹10,000.",
     keywords: [

@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const medinipur: CityContent = {
   slug: "medinipur",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 22.4239, lng: 87.3189 },
   meta: {
-    title: "Medinipur Website Design & Local SEO from ₹10,000",
+    title: "Website Design in Medinipur | Local SEO, ₹10,000+",
     description:
-      "Websites, Google Maps setup and WhatsApp automation for Midnapore clinics, coaching centres, traders and craft sellers of Paschim Medinipur. From ₹10,000.",
+      "Midnapore websites from ₹10,000, live in 1-2 weeks, with Bengali SEO. Maps setup and WhatsApp automation for clinics, coaching centres and craft sellers.",
     keywords: [
       "website development team in Medinipur",
       "web designer Midnapore",

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/ci-cd-pipeline-setup/",
   crumb: "CI/CD pipeline setup",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `CI/CD Pipeline Setup with Rollback, from ${P.software}`,
-    description: `CI/CD pipeline setup with GitHub Actions, GitLab CI or Jenkins: tests, previews, one-click rollback, Fastlane app releases. Full setups from ${P.software}.`,
+    description: `GitHub Actions, GitLab CI or Jenkins with tests, preview deploys, one-click rollback and Fastlane store submissions for Android and iOS. Setups from ${P.software}.`,
     keywords: [
       "ci cd pipeline setup", "ci/cd pipeline setup", "ci cd setup service", "ci cd pipeline setup cost",
       "set up ci cd pipeline", "how to set up a ci cd pipeline", "github actions setup", "github actions ci cd",
@@ -25,6 +25,8 @@ const content: FreelanceContent = {
       "deployment automation for small team", "ci cd pipeline setup bangalore", "ci cd pipeline setup near me",
       "ci cd pipeline setup company in India",
       "best ci cd pipeline setup in India",
+      "cicd for ionic apps cloud builds app store submission", "ci cd setup cost india", "github actions setup service",
+      "fastlane app release automation",
     ],
   },
   hero: {

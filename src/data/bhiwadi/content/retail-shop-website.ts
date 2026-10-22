@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/retail-shop-website/",
   crumb: "Shop website",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Shop Website in Bhiwadi: WhatsApp Orders from ${P.site}`,
-    description: `Shop website in Bhiwadi from ${P.site}: product catalogue, WhatsApp orders, Google Maps and home delivery zones. We meet you one to one at your shop.`,
+    title: `Shop Website in Bhiwadi: WhatsApp Orders ${P.site}+`,
+    description: `Shop website in Bhiwadi from ${P.site}, live in 1–2 weeks: product catalogue with prices, WhatsApp order button, Google Maps pin and home delivery zones.`,
     keywords: [
       "shop website in Bhiwadi", "shop website Bhiwadi", "shop website near me", "shop website in Bhiwadi Rajasthan",
       "dukan ki website Bhiwadi", "dukan ki website kaise banaye", "online dukan Bhiwadi", "retail shop website Bhiwadi Alwar",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How much does a shop website in Bhiwadi cost?",
-    text: `A shop website in Bhiwadi starts at ${P.site} with BtechWaleTech: a catalogue site of up to 100 pages with categories, prices, a WhatsApp order button, Google Maps location and delivery-area details, ready in 1–2 weeks. A full online store with cart, UPI and card checkout and stock tracking starts at ${P.shop}. We meet you face to face at your shop before quoting.`,
+    text: `From ${P.site} and ready in 1–2 weeks: a catalogue site of up to 100 pages with categories, prices, a WhatsApp order button, your Google Maps location and delivery-area details. A full online store with cart, UPI and card checkout and stock tracking starts at ${P.shop}.`,
     more: `Ready to sell with full checkout? See <a href='/bhiwadi-rajasthan/ecommerce-website-development/'>ecommerce website development in Bhiwadi</a>. Just want to appear on Maps first? Start with <a href='/bhiwadi-rajasthan/google-business-profile/'>Google Business Profile setup in Bhiwadi</a>.`,
   },
   snapshot: {

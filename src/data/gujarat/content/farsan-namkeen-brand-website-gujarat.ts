@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/farsan-namkeen-brand-website-gujarat/",
   crumb: "Farsan and namkeen brand website in Gujarat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: "Farsan and Namkeen Brand Website in Gujarat, UPI Store",
-    description: `Farsan and namkeen brand website in Gujarat: online store with UPI, FSSAI and shelf-life details, shipping across India and NRI orders. Stores from ${P.shop}.`,
+    title: `Farsan & Namkeen Brand Website in Gujarat, Store ${P.shop}`,
+    description: `Farsan and namkeen website in Gujarat: weights, ingredients, shelf life and FSSAI details, UPI checkout, India-wide and NRI gift orders. Stores from ${P.shop}.`,
     keywords: [
       "farsan and namkeen brand website in Gujarat", "farsan brand website", "namkeen brand website Gujarat", "namkeen online store website", "khakhra brand website",
       "snack brand ecommerce website", "Gujarati snacks online store", "farsan shop website Ahmedabad", "namkeen website Rajkot", "farsan website near me",

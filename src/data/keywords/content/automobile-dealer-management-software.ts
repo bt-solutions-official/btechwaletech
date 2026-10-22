@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/automobile-dealer-management-software/",
   crumb: "Automobile dealer management software",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Automobile Dealer Management Software from ${P.software}`,
-    description: `Automobile dealer management software for bike, car, tractor and EV dealers: enquiries, bookings, RTO files, job cards, parts counter. Custom from ${P.software}.`,
+    title: `Automobile Dealer Management Software, ${P.software}+`,
+    description: `Enquiries, bookings, RTO files, job cards and the parts counter for bike, car, tractor and EV dealers. Custom DMS from ${P.software}, built in 6–12 weeks.`,
     keywords: [
       "automobile dealer management software", "dealer management software", "dealer management system for automobile", "DMS software for dealers",
       "two wheeler dealer management software", "car dealer management software", "tractor dealer management software", "EV dealer management software",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "showroom software Hindi", "gaadi showroom ka software", "automobile dealer software Indore", "tractor dealer software Punjab",
       "automobile dealer management software company in India",
       "best automobile dealer management software in India",
+      "car dealership software india", "vehicle dealer dms",
     ],
   },
   hero: {

@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/ai-automation-agency/",
   crumb: "AI automation agency",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `AI Automation Agency for German SMEs, from ${P.ai}`,
-    description: `AI automation agency alternative for German SMEs: invoices, email triage, leads and quotes automated on EU-hosted models under GDPR. Workflows from ${P.ai}.`,
+    title: `AI Automation Agency Germany: EU-Hosted, from ${P.ai}`,
+    description: `AI automation for German SMEs: invoices, email triage, lead routing and quotes automated on EU-hosted models under DSGVO. Workflows from ${P.ai}, 2–4 weeks.`,
     keywords: [
       "ai automation agency", "ai automation agency germany", "ai automation for sme", "ai automation mittelstand",
       "ki automatisierung agentur", "ai invoice processing germany", "email triage ai", "ai lead handling",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "hire ai automation experts", "ai automation agency munich", "ai automation agency berlin", "ai automation agency hamburg",
       "ai automation agency stuttgart", "what does an ai automation agency do", "ai agents for back office", "outsource ai automation to india",
       "freelance ai automation Germany",
+      "ai automation agency pricing germany", "ai email assistant germany",
     ],
   },
   hero: {

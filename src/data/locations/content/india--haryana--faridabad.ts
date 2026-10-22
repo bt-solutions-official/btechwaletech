@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--haryana--faridabad",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 28.4089, lng: 77.3178 },
   meta: {
-    title: "Faridabad IT Consultants for MSMEs: Auto Components",
+    title: "Faridabad IT Consultants: Software from ₹60,000",
     description:
-      "Freelance IT consulting in Faridabad: digitisation audits, custom software, Android and iOS apps, plus AI automation. Two months of free upkeep after launch.",
+      "Freelance IT consulting in Faridabad: digitisation audits, custom software, Android and iOS apps and AI automation. Software ₹60,000, apps from ₹40,000.",
     keywords: [
       "IT solutions team in Faridabad",
       "IT consulting Faridabad",
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "Digital transformation for a Faridabad manufacturer means replacing the paper trail that runs the plant, such as job cards, material slips, inspection sheets, challans and dispatch registers, with connected software that supervisors update from the floor and owners read from their phones. It is done one department at a time, starting where the most money leaks.",
         "Faridabad's factories are mostly suppliers: they make parts, assemblies and tooling for OEMs across the NCR and beyond. Their customers demand schedule adherence, traceability and clean documentation, but many units still run on registers and one overworked production manager. The gap between buyer expectations and internal systems is where transformation pays off fastest.",
-        "BtechWaleTech is a <a href='/about/'>freelance group of three engineers</a> who consult and build. We study your process, write a costed roadmap, and deliver it with the same people, so recommendations never get lost in a hand-off to another team.",
+        "BtechWaleTech is a <a href='/about/'>freelance group of three engineers</a> who consult and build. We study your process, write a costed roadmap, and deliver it with the same people, so recommendations never get lost in a hand-off to another team. For build-only work, see <a href='/it-services/haryana/faridabad/'>software developers in Faridabad</a>, or the <a href='/it-services/haryana/'>Haryana IT services hub</a> for the rest of the state.",
       ],
     },
     {

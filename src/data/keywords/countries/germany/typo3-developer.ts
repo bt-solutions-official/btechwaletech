@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/typo3-developer/",
   crumb: "TYPO3 developer",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `TYPO3 Developer for Upgrades and Care, from ${P.care}`,
-    description: `TYPO3 developer for German firms and associations: v12 to v13/v14 upgrades, Extbase extensions, multi-site care. Maintenance from ${P.care}, quote in 2 days.`,
+    title: `TYPO3 Developer & Migration Freelancer, ${P.care}+`,
+    description: `TYPO3 developer for German firms and associations: v12 to v13 and v14 upgrades, Composer-mode migration, Extbase extensions, multi-site care from ${P.care}.`,
     keywords: [
       "typo3 developer", "typo3 developer germany", "hire typo3 developer", "typo3 freelancer", "remote typo3 developer",
       "typo3 upgrade v12 to v13", "typo3 v14 upgrade", "typo3 12 end of support", "typo3 elts", "typo3 extension development",
@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "typo3 security updates", "typo3 agency alternative", "how much does a typo3 developer cost", "typo3 developer rate",
       "typo3 developer berlin", "typo3 developer munich", "typo3 developer cologne", "typo3 developer stuttgart",
       "typo3 for associations", "typo3 mittelstand website", "leave typo3 for wordpress", "typo3 developer india",
+      "typo3 migration freelancer", "typo3 development services india", "typo3 composer mode migration",
     ],
   },
   hero: {

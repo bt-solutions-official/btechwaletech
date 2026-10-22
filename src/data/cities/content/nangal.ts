@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const nangal: CityContent = {
   slug: "nangal",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 31.385, lng: 76.375 },
   meta: {
-    title: "IT Services in Nangal | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Nangal | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, local SEO and WhatsApp automation for Nangal's plant vendors, township households, schools, clinics and market traders. Sites from ₹10,000.",
     keywords: [

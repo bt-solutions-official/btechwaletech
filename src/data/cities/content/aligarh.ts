@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const aligarh: CityContent = {
   slug: "aligarh",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 27.8974, lng: 78.088 },
   meta: {
-    title: "IT Services in Aligarh: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Aligarh | From ₹10,000",
     description:
-      "Websites, SEO and WhatsApp automation for Aligarh lock and hardware makers, traders, clinics and coaching centres. From ₹10,000, domain and code in your name.",
+      "Aligarh websites from ₹10,000, live in 1-2 weeks, with Hindi local SEO. WhatsApp automation for lock and hardware makers, clinics and coaching centres.",
     keywords: [
       "website development team in Aligarh",
       "website designer Aligarh",

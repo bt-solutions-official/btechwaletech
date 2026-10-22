@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/seo-friendly-website-gujarat/",
   crumb: "SEO friendly website development in Gujarat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `SEO Friendly Website Development Gujarat from ${P.site}`,
-    description: `SEO friendly website development in Gujarat: clean structure, fast pages, schema and honest city pages built in from day one. Sites from ${P.site}, 2-day quote.`,
+    title: `SEO Friendly Website Development in Gujarat ${P.site}+`,
+    description: `SEO friendly website development in Gujarat: clean URLs, fast pages, schema and honest city pages built in from day one. From ${P.site}, quote in 2 days.`,
     keywords: [
       "SEO friendly website development in Gujarat", "SEO friendly website Gujarat", "SEO friendly website development", "SEO website developer Gujarat",
       "SEO friendly website design Gujarat", "SEO optimized website Gujarat", "SEO website near me", "search friendly website Gujarat",

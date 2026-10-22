@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/software-development-cost/",
   crumb: "Software development cost in Germany",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Software Development Cost in Germany: from ${P.software}`,
-    description: `Software development cost in Germany: in-house vs agency vs offshore, estimating from user stories, 5-year cost of ownership and sample budgets. From ${P.software}.`,
+    title: `Software Development Cost Germany: Rates, 5-Year Total`,
+    description: `Software development cost in Germany: in-house vs agency vs offshore rates, estimating from user stories and the 5-year total. Builds from ${P.software}.`,
     keywords: [
       "software development cost in germany", "software development cost germany", "custom software cost germany",
       "was kostet individualsoftware", "individualsoftware kosten", "software entwickeln lassen kosten", "how much does custom software cost",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "software development cost stuttgart", "software development cost hamburg", "mittelstand custom software budget",
       "fixed price software project germany", "web application development cost germany", "software development india vs germany",
       "hire software development in Germany", "freelance software development Germany",
+      "software development hourly rate germany", "software development company in germany", "devops consulting cost germany", "manufacturing erp software germany", "python development cost per hour",
     ],
   },
   hero: {

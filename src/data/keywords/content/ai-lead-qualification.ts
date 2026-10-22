@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/ai-lead-qualification/",
   crumb: "AI lead qualification",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `AI Lead Qualification for Sales Teams from ${P.ai}`,
-    description: `AI lead qualification that scores form, WhatsApp and portal leads so your sales team calls the best ones first. Builds from ${P.ai}, live in 2–4 weeks.`,
+    description: `Scores form, WhatsApp and portal leads so your team rings the best ones first, when enquiries outpace telecallers. Builds from ${P.ai}, live in 2–4 weeks.`,
     keywords: [
       "ai lead qualification", "ai lead qualification India", "ai lead scoring", "lead qualification using ai", "automated lead qualification",
       "ai lead qualification chatbot", "whatsapp lead qualification bot", "ai lead scoring for small business", "llm lead scoring",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "ai lead qualification company in India",
       "best ai lead qualification in India",
       "ai lead qualification services",
+      "ai lead qualification calls", "lead scoring automation india", "real estate enquiry automation",
     ],
   },
   hero: {

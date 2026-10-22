@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/industrial-product-catalogue-website/",
   crumb: "Industrial product catalogue website",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Industrial Catalogue Website in Bhiwadi from ${P.seoSite}`,
-    description: `Industrial product catalogue website in Bhiwadi from ${P.seoSite}: part-number search, datasheets and RFQ baskets. We plan it face to face at your unit.`,
+    title: `Industrial Catalogue Website Bhiwadi: ${P.seoSite}+`,
+    description: `Industrial product catalogue website in Bhiwadi from ${P.seoSite}, live in 3–5 weeks: 299+ part pages, part-number search, PDF datasheets and an RFQ basket.`,
     keywords: [
       "industrial product catalogue website in Bhiwadi", "industrial product catalogue website", "product catalogue website near me",
       "online product catalogue for manufacturers Bhiwadi", "catalogue website in Bhiwadi Rajasthan", "B2B catalogue website Bhiwadi Alwar",
@@ -49,7 +49,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How much does an industrial product catalogue website in Bhiwadi cost, and what does it include?",
-    text: `An industrial product catalogue website in Bhiwadi starts at ${P.seoSite} for 299+ generated product pages with part-number search, filters, PDF datasheets and an RFQ basket, and takes about 3–5 weeks. Ranges under 100 items fit the static plan from ${P.site}. Dealer logins with private price lists are a custom build from ${P.software}. The quote follows a one-to-one meeting at your unit.`,
+    text: `From ${P.seoSite} for 299+ generated product pages with part-number search, filters, PDF datasheets and an RFQ basket, built in about 3–5 weeks. Ranges under 100 items fit the static plan from ${P.site}. Dealer logins with private price lists are a custom build from ${P.software}.`,
     more: `Need the whole plant presented, not only products? Start with <a href='/bhiwadi-rajasthan/manufacturing-company-website/'>manufacturing company website design</a>. Want each part to rank? Read about <a href='/bhiwadi-rajasthan/programmatic-seo/'>programmatic SEO pages in Bhiwadi</a>.`,
   },
   snapshot: {

@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const chirala: CityContent = {
   slug: "chirala",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 15.8238, lng: 80.3522 },
   meta: {
-    title: "IT Services in Chirala | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Chirala | Sites ₹10,000, Apps ₹40,000",
     description:
       "Chirala Telugu websites, mobile apps, SEO and WhatsApp bots for handloom weavers, saree traders, beach resorts at Vodarevu and colleges. Code stays yours.",
     keywords: [

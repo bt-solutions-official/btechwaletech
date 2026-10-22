@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const samana: CityContent = {
   slug: "samana",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 30.15, lng: 76.19 },
   meta: {
-    title: "IT Services in Samana | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Samana | Sites ₹10,000, Apps ₹40,000",
     description:
       "Punjabi and English websites, apps and SEO for Samana rice millers, arhtiyas, schools, clinics and shops. From ₹10,000, with 2 months of free upkeep.",
     keywords: [

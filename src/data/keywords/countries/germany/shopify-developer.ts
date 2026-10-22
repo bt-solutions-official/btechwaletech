@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/shopify-developer/",
   crumb: "Shopify developer Germany",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Shopify Developer Germany: DE-Ready Stores from ${P.shop}`,
-    description: `Shopify developer Germany guide for D2C brands: stores from ${P.shop}, Impressum, consent, unit prices, VAT and DACH Markets set up by a remote team.`,
+    title: `Shopify Developer Germany: DSGVO Stores from ${P.shop}`,
+    description: `Shopify developer for German D2C brands: stores from ${P.shop} with Impressum, consent, unit prices, VAT and the DACH Markets setup all done properly.`,
     keywords: [
       "shopify developer germany", "shopify developer deutschland", "hire shopify developer germany", "shopify expert germany", "shopify freelancer germany",
       "shopify agency germany alternative", "shopify store setup germany", "shopify theme developer germany", "shopify app developer germany",
@@ -20,6 +20,7 @@ const content: FreelanceContent = {
       "how much does a shopify developer cost in germany", "shopify germany legal requirements", "shopify impressum widerrufsbelehrung",
       "shopify cookie banner dsgvo", "shopify customer privacy api", "shopify unit price pangv", "shopify oss vat germany", "shopify markets dach",
       "shopify rechnungskauf", "shopify datev export", "remote shopify developer for german brand", "is shopify gdpr compliant in germany",
+      "shopify entwickler deutschland", "shopify dsgvo", "shopify agentur deutschland",
     ],
   },
   hero: {

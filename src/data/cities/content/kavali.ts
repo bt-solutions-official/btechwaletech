@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const kavali: CityContent = {
   slug: "kavali",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 14.9132, lng: 79.9930 },
   meta: {
-    title: "IT Services in Kavali | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Kavali | Sites ₹10,000, Apps ₹40,000",
     description:
       "Kavali Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for shrimp farmers, feed dealers, colleges, hospitals and NH16 businesses.",
     keywords: [

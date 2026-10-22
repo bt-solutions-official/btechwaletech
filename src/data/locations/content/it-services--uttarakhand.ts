@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--uttarakhand",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 30.0668, lng: 79.0193 },
   meta: {
-    title: "Uttarakhand IT Services: Apps & AI",
+    title: "IT Services in Uttarakhand: Sites from ₹10,000",
     description:
       "Freelance IT services in Uttarakhand from three remote engineers: custom software, apps and AI automation. Websites from ₹10,000, quote in two working days.",
     keywords: [

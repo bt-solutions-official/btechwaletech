@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--rajasthan",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 27.0238, lng: 74.2179 },
   meta: {
-    title: "Rajasthan IT Consulting: Marble, Textiles & Furniture",
+    title: "IT Services & Consulting in Rajasthan from ₹10,000",
     description:
-      "Freelance IT consulting in Rajasthan: digital transformation for stone, textile, plus tourism and trading firms. Software, apps, AI and SEO from ₹10,000.",
+      "IT services and consulting in Rajasthan for stone, textile, tourism and trading firms: software, apps, AI and SEO. Sites from ₹10,000, software from ₹60,000.",
     keywords: [
       "IT solutions team in Rajasthan",
       "IT consulting Rajasthan",
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "An IT solutions partner is the person or team that looks at a business problem first and then chooses, builds and runs the technology that fixes it. For a Rajasthan business this usually covers software, apps, websites, automation, hosting and support, handled as one joined-up plan instead of four separate vendors who never speak to each other.",
         "The difference from simply 'getting a website made' is sequencing. A Kishangarh marble trader who wants more enquiries may first need a stock list that is actually accurate, because sending buyers to a website full of slabs that were sold last month damages trust. A Bhilwara yarn supplier might need dealer ordering before marketing. A heritage hotel in Udaipur often needs its booking calendar and payment follow-ups sorted before it spends on search ads.",
-        "BtechWaleTech works this way as a freelance group. We start with a conversation about where time and money leak, write down the three or four changes that matter most, and then price each one separately so you can do them in the order that suits your cash flow. Some owners take only the first step. That is fine; the plan stays useful even if you never hire us for the rest.",
+        "BtechWaleTech works this way as a freelance group. We start with a conversation about where time and money leak, write down the three or four changes that matter most, and then price each one separately so you can do them in the order that suits your cash flow. Some owners take only the first step. That is fine; the plan stays useful even if you never hire us for the rest. For the delivery side of the same work, with city pages and published starting prices, see <a href='/it-services/rajasthan/'>IT services in Rajasthan</a>.",
       ],
       list: [
         "Consulting: process mapping, technology audit, build-versus-buy advice",

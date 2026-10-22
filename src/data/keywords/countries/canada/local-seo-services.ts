@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/canada/local-seo-services/",
   crumb: "Local SEO services Canada",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Local SEO Services Canada: Map Pack from ${P.seo}`,
-    description: `Local SEO services in Canada from ${P.seo}: Google Business Profile work, Canadian citations, suburb pages and honest review requests to reach the map pack.`,
+    title: `Local SEO Services Canada: Map Pack, from ${P.seo}`,
+    description: `Local SEO in Canada from ${P.seo}: Google Business Profile work, Canadian citations, neighbourhood pages and honest review requests to reach the map pack.`,
     keywords: [
       "local seo services canada", "local seo canada", "local seo company canada", "local seo expert canada",
       "google map pack ranking canada", "google business profile optimization canada", "google business profile optimisation",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "homestars profile seo", "service area pages gta", "local seo near me", "local seo for contractors canada",
       "local seo for dentists canada", "remote local seo team",
       "hire local seo services in Canada", "freelance local seo services Canada",
+      "map pack ranking calgary", "google maps seo brampton", "google maps seo vaughan", "local seo winnipeg", "local seo pickering", "google map pack canada",
     ],
   },
   hero: {

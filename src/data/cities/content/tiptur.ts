@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const tiptur: CityContent = {
   slug: "tiptur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 13.2567, lng: 76.4775 },
   meta: {
-    title: "IT Services in Tiptur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Tiptur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Kannada websites, apps, local SEO and WhatsApp tools for Tiptur copra traders, desiccated coconut units, garment firms, colleges and shops. From ₹10,000.",
     keywords: [

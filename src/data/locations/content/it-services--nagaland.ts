@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--nagaland",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 26.1584, lng: 94.5624 },
   meta: {
-    title: "Nagaland IT Services: Software & Apps",
+    title: "IT Services in Nagaland: Websites from ₹10,000",
     description:
       "Freelance IT services in Nagaland, from Dimapur and Kohima to Mokokchung: custom software, Android and iOS apps, plus AI automation. From ₹10,000.",
     keywords: [
@@ -82,7 +82,7 @@ const content: CityContent = {
       heading: "What IT services do businesses and institutions in Nagaland need?",
       paragraphs: [
         "Businesses and institutions in Nagaland mostly need software to replace paper records, Android and iOS apps for customers and staff, automation for repeated WhatsApp enquiries, dashboards for multi-district operations, and fast websites with local search visibility. Reliable hosting and maintenance keep all of it working after launch.",
-        "Nagaland's economy has distinct centres. Dimapur is the trading and logistics hub, where wholesalers supply shops across the state and beyond. Kohima is the administrative and institutional capital. District towns such as Mokokchung, Wokha, Zunheboto and Tuensang serve large rural areas. Each needs a different mix of IT services, but the common thread is moving from registers and phone calls to systems that are searchable and shared.",
+        "Nagaland's economy has distinct centres. Dimapur is the trading and logistics hub, where wholesalers supply shops across the state and beyond. Kohima is the administrative and institutional capital. District towns such as <a href='/it-services/nagaland/mokokchung/'>Mokokchung</a>, <a href='/it-services/nagaland/wokha/'>Wokha</a>, Zunheboto and <a href='/it-services/nagaland/tuensang/'>Tuensang</a> serve large rural areas. Each needs a different mix of IT services, but the common thread is moving from registers and phone calls to systems that are searchable and shared.",
         "Who we are, plainly: three freelance engineers, working from elsewhere in India, with nobody stationed in Nagaland. Conversations happen on calls, WhatsApp and shared screens, and the person replying is the person coding. The full menu sits on our <a href='/services/'>services page</a>, with starting figures on the <a href='/pricing/'>pricing page</a>.",
       ],
     },
@@ -90,7 +90,7 @@ const content: CityContent = {
       id: "freelance-vs-company-nagaland",
       heading: "Freelance group vs a software development team in Nagaland: which to hire?",
       paragraphs: [
-        "Hire a freelance group in Nagaland when you want direct access to the engineers, clear starting prices and focused software work; hire a software development team when you need people on site in Dimapur or Kohima regularly, hardware and network installation, or formal eligibility for large government tenders.",
+        "Hire a freelance group in Nagaland when you want direct access to the engineers, clear starting prices and focused software work; hire a software development team when you need people on site in <a href='/it-services/nagaland/dimapur/'>Dimapur</a> or <a href='/it-services/nagaland/kohima/'>Kohima</a> regularly, hardware and network installation, or formal eligibility for large government tenders.",
         "Local IT firms bring on-site presence, which matters for offices needing cabling, CCTV or servers. A freelance group brings focus and fewer layers: no salesperson or account manager between you and the builder, and no office rent built into the estimate. We do not install hardware and do not claim a presence in Nagaland.",
         "If you are comparing IT companies in Nagaland, ask each the same questions: who builds the system, whether domain and source code will be registered to you, what support costs after year one, and how quickly they reply on a Sunday. Clear answers predict a good working relationship far better than a list of logos.",
       ],

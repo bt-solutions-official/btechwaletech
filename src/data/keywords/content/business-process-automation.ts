@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/business-process-automation/",
   crumb: "Business process automation services",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Business Process Automation Services from ${P.ai}`,
-    description: `Business process automation services for Indian SMEs: approvals, purchase requests, onboarding and tickets mapped and automated, from ${P.ai}. See the method.`,
+    description: `Approvals, indent-to-PO, onboarding and tickets mapped once, then automated inside your own tools. From ${P.ai}, live in 2–4 weeks. See the method first.`,
     keywords: [
       "business process automation services", "business process automation", "business process automation India", "BPA services",
       "workflow automation services", "approval workflow automation", "purchase request approval software", "employee onboarding automation",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "business process automation Pune", "business process automation Ahmedabad", "business process automation Bengaluru",
       "kaam automate kaise kare", "approval matrix software",
       "best business process automation in India",
+      "indent to po automation", "purchase indent automation", "workflow automation india", "approval workflow software india",
     ],
   },
   hero: {

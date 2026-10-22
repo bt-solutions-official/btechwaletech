@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-developer-dakor/",
   crumb: "Website developer in Dakor",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Dakor: Sites from ${P.site}`,
-    description: `Website developer in Dakor for guest houses, prasad and pooja-item shops, bhojanalayas & seva groups. Sites from ${P.site}, Gujarati & Hindi pages, 2-day quote.`,
+    title: `Website Developer in Dakor: ${P.site}, Gujarati Pages`,
+    description: `Website developer in Dakor for guest houses, prasad shops, bhojanalayas and seva groups. Sites from ${P.site}, Gujarati and Hindi pages, 2-day quote.`,
     keywords: [
       "website developer in Dakor", "website developer Dakor", "website developer near me Dakor", "Dakor Gujarat website",
       "website designer Dakor", "website development services Dakor", "Dakor me website kaise banwaye", "website banane wala Dakor",

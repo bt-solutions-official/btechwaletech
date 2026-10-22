@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/architect-website-design/",
   crumb: "Architect website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Architect Website Design: Fast Portfolios from ${P.site}`,
-    description: `Architect website design for Indian practices: project case studies, drawings, walkthroughs, fee explainers and fast image pages. From ${P.site}.`,
+    title: `Architect Website Design: Fast Portfolios, ${P.site}+`,
+    description: `Project case studies, drawings and walkthroughs that load fast on mobile, plus fee explainer pages that filter enquiries. Sites from ${P.site}, 1–2 weeks.`,
     keywords: [
       "architect website design", "architecture firm website design", "architect website design India", "website for architects",
       "architect portfolio website", "architecture studio website", "architect website cost", "architect website development",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "landscape architect website",
       "best architect website design in India",
       "architect website design services",
+      "architecture portfolio website development", "interior designer website india",
     ],
   },
   hero: {

@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const ambikapur: CityContent = {
   slug: "ambikapur",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 23.1197, lng: 83.1956 },
   meta: {
-    title: "IT Services in Ambikapur: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Ambikapur | ₹10,000 Up",
     description:
-      "Ambikapur websites, local SEO, online stores and WhatsApp automation for shops, clinics, colleges, Mainpat stays and Surguja traders. From ₹10,000.",
+      "Ambikapur websites from ₹10,000, live in 1-2 weeks, with Hindi SEO. Stores and WhatsApp bots for shops, clinics, colleges, Mainpat stays and Surguja traders.",
     keywords: [
       "website development team in Ambikapur",
       "web design Ambikapur",

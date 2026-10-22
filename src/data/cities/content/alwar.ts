@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const alwar: CityContent = {
   slug: "alwar",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 27.55, lng: 76.6361 },
   meta: {
-    title: "IT Services in Alwar: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Alwar | From ₹10,000",
     description:
-      "Alwar websites, local SEO, online stores and WhatsApp automation for traders, MIA factories, sweet shops and hotels. Fixed starting prices, code in your name.",
+      "Alwar websites from ₹10,000, live in 1-2 weeks. Local SEO, stores from ₹50,000 and WhatsApp automation for traders, MIA factories, sweet shops and hotels.",
     keywords: [
       "website development team in Alwar",
       "web designer Alwar",

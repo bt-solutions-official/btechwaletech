@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/custom-wordpress-plugin-development/",
   crumb: "Custom WordPress plugin development",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: "Custom WordPress Plugin Development: Cost & Timeline",
-    description: `Custom WordPress plugin development for CRM, payment and SMS integrations, admin screens and custom post types. Itemised quote in 2 days; care from ${P.care}.`,
+    title: `Custom WordPress Plugin Development: Cost & Timeline`,
+    description: `Purpose-built plugins for CRM, payment and SMS integrations, admin screens and custom post types—update-safe and no bloat. Itemised quote in 2 working days.`,
     keywords: [
       "custom wordpress plugin development", "custom wordpress plugin developer", "wordpress plugin development services", "wordpress plugin development cost",
       "custom wordpress plugin cost india", "how much does a custom wordpress plugin cost", "hire wordpress plugin developer", "wordpress plugin developer india",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "custom wordpress plugin development near me", "wordpress plugin for lead management",
       "custom wordpress plugin development company in India",
       "best custom wordpress plugin development in India",
+      "wordpress theme and plugin development", "how to create a custom plugin in wordpress",
     ],
   },
   hero: {

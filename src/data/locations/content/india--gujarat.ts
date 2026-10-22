@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--gujarat",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 22.2587, lng: 71.1924 },
   meta: {
-    title: "Gujarat IT Consulting: Textiles, Diamonds & Chemicals",
+    title: "Gujarat IT Consulting & Software from ₹10,000",
     description:
       "Freelance IT consulting across Gujarat: transformation roadmaps, custom software, Android and iOS apps, plus AI automation. From ₹10,000, quote in two days.",
     keywords: [
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "Digital transformation for a Gujarat MSME means moving the flows that drive money, such as orders, production, job work, dispatch, dealer credit and collections, out of registers, Tally side-notes and WhatsApp threads into connected systems that staff use daily. It is not an ERP purchase; it is a sequence of targeted changes, each paying for the next.",
         "Gujarat's business culture makes this approach fit well. Owners are hands-on, margins are watched closely, and family members often run different departments. A roadmap that fixes the most expensive leak first, perhaps unbilled job work or slow dealer collections, earns trust for the next step.",
-        "BtechWaleTech is a <a href='/about/'>freelance group of three engineers</a> who consult and then build. We talk to the people doing the work, document where time and money leak, and propose the smallest system that fixes it. You keep the written roadmap whether you build with us or not.",
+        "BtechWaleTech is a <a href='/about/'>freelance group of three engineers</a> who consult and then build. We talk to the people doing the work, document where time and money leak, and propose the smallest system that fixes it. You keep the written roadmap whether you build with us or not. For the delivery side of the same work, with city pages and published starting prices, see <a href='/it-services/gujarat/'>IT services in Gujarat</a>.",
       ],
     },
     {

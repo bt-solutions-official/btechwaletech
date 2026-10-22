@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const kottayam: CityContent = {
   slug: "kottayam",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 9.5916, lng: 76.5222 },
   meta: {
-    title: "IT Services in Kottayam | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Kottayam | Sites ₹10,000, Apps ₹40,000",
     description:
       "Kottayam Malayalam websites, mobile apps, local SEO and WhatsApp bots for rubber traders, publishers, hospitals, colleges and Kumarakom resorts. From ₹10,000.",
     keywords: [

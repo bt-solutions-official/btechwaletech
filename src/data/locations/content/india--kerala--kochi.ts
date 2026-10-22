@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--kerala--kochi",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 9.9312, lng: 76.2673 },
   meta: {
-    title: "Kochi IT Consultants: Port Logistics & Seafood Export",
+    title: "Kochi IT Consultants: Software from ₹60,000",
     description:
-      "Hire freelance IT consultants and developers in Kochi for custom software, Android and iOS apps, plus AI automation. Free scoping call, quote in 2 days.",
+      "Hire freelance IT consultants and developers in Kochi for custom software, Android and iOS apps and AI automation. Software from ₹60,000, quote in two days.",
     keywords: [
       "IT solutions team in Kochi",
       "best IT services team in Kochi",
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "IT consulting in Kochi, for a local business, means an experienced engineer reviewing how you work today, identifying where technology would save time or win customers, and recommending specific tools or builds with costs attached. It should end in a decision you can act on, not a generic report about digital trends.",
         "In Kochi these conversations have a local flavour. A clearing and forwarding agent on Willingdon Island asks whether to replace spreadsheets with a shipment tracker. A Broadway wholesaler wants retailers to order online. A seafood exporter in Aroor wants better documentation control. A clinic in Kadavanthra needs online booking. A Kakkanad startup wants a second opinion on architecture before raising money.",
-        "Our first consultation is free. We listen, look at your current tools and data, and send a written recommendation with options and an itemised quote in about two working days. If an existing product like Zoho, Tally integrations or a standard hospital system fits, we say so plainly.",
+        "Our first consultation is free. We listen, look at your current tools and data, and send a written recommendation with options and an itemised quote in about two working days. If an existing product like Zoho, Tally integrations or a standard hospital system fits, we say so plainly. For build-only work, see <a href='/it-services/kerala/kochi/'>software developers in Kochi</a>, or the <a href='/it-services/kerala/'>Kerala IT services hub</a> for the rest of the state.",
       ],
       list: [
         "Review of current tools, website and workflows",

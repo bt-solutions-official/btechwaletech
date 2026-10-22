@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--jharkhand--ranchi",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 23.3441, lng: 85.3096 },
   meta: {
     title: "Ranchi Software Developers: CRMs, Web Apps & AI Agents",
     description:
-      "Comparing a software development team in Ranchi? Hire our freelance group for CRMs, web apps, AI agents, dashboards and apps. Starting prices in INR.",
+      "Comparing a software development team in Ranchi? Hire our freelance group for CRMs, web apps, AI agents, dashboards and apps. Software ₹60,000, in INR.",
     keywords: [
       "software development team in Ranchi",
       "IT services team in Ranchi",

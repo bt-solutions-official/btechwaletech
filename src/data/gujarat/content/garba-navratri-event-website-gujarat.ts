@@ -11,16 +11,19 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/garba-navratri-event-website-gujarat/",
   crumb: "Navratri garba event website in Gujarat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Navratri Garba Event Website in Gujarat from ${P.site}`,
-    description: `Navratri garba event website in Gujarat: online passes, QR entry scanning, sponsor pages and nightly updates. Sites from ${P.site}, pass systems from ${P.shop}.`,
+    title: `Garba Pass Website & QR Entry System in Gujarat ${P.shop}+`,
+    description: `How garba and Navratri passes are priced and sold across Gujarat, and how organisers run their own pass website with QR gate entry from ${P.shop}.`,
     keywords: [
       "Navratri garba event website in Gujarat", "garba event website", "Navratri pass booking website", "garba ticket booking website", "garba QR code entry system",
       "Navratri event website Gujarat", "garba season pass website", "garba organiser website near me", "Navratri ticketing website developer", "garba sponsor website",
       "garba pass online booking Ahmedabad", "garba pass website Vadodara", "garba event website Surat", "Rajkot Navratri pass website", "garba event website cost",
       "Navratri website price", "dandiya night website", "garba pass scanner app", "society garba registration website", "Gujarat Navratri ticketing system",
       "garba pass online kaise bechein", "Navratri ki website banwani hai", "garba event website Gujarati", "NRI garba pass booking", "party plot garba website",
+      "navratri pass price Gujarat", "garba pass price", "garba one day pass", "navratri season pass price",
+      "garba pass WhatsApp group", "how to buy garba pass online", "junagadh navratri pass", "garba ground pass price",
+      "navratri pass booking Gujarat", "garba gate entry system",
     ],
   },
   hero: {
@@ -45,8 +48,8 @@ const content: FreelanceContent = {
     { value: "2", label: "Months of free maintenance from launch" },
   ],
   answer: {
-    heading: "What does a Navratri garba event website in Gujarat need?",
-    text: `A Navratri garba event website in Gujarat needs online season and daily passes paid by UPI or card, unique QR codes on each pass with fast single-use scanning at the gates, optional photo passes, capacity limits per night, sponsor pages with tiered logos, rules and venue maps, and nightly WhatsApp updates. With BtechWaleTech event sites start at ${P.site}; pass and QR systems start at ${P.shop}.`,
+    heading: "How much do garba and Navratri passes cost in Gujarat, and who sells them?",
+    text: `There is no state-wide rate: every organiser sets its own garba pass prices each season. Society and samaj garbas are often free for members; ticketed grounds in Ahmedabad, Vadodara, Surat and Rajkot charge per night, with weekend and Ashtami nights dearest. Prices appear on the organiser's own pass page. BtechWaleTech builds those pass websites from ${P.shop}.`,
     more: `Temple trusts hosting their own garba can combine this with a <a href='/gujarat/temple-trust-website-gujarat/'>temple trust website</a>; India-wide notes are on our <a href='/event-ticket-booking-website/'>event ticket booking website</a> page.`,
   },
   snapshot: {
@@ -111,6 +114,28 @@ const content: FreelanceContent = {
         "Clubs, gymkhanas and hotels hosting garba nights",
         "Housing societies and samaj organisations",
         "Temple trusts and community trusts",
+      ],
+    },
+    {
+      id: "pass-prices",
+      heading: "Garba and Navratri pass prices in Gujarat: how they are set, and where passes are sold",
+      paragraphs: [
+        `If you have arrived here looking for the price of a garba pass, the honest answer is that there is no state-wide rate. Every organiser sets its own prices each season, publishes them on its own pages and changes them from year to year, so the only reliable figure is the one on the pass page of the garba you actually want to attend.`,
+        `What is consistent is the structure. A season pass covers all nine nights and works out cheapest per night, which is why it sells first. A daily or one-day pass is bought per night, and the nights are not priced alike: the opening nights are usually the quietest and cheapest, while weekend nights, Ashtami and Navami are the dearest and sell out soonest. Couple and family passes bundle entries on one payment; group passes suit offices and colleges; society, samaj and club garbas are often free or nominal for members and charge only for guests. Ticketed grounds in Ahmedabad, Vadodara, Surat and Rajkot sit at the top of the range, where the artist line-up, the ground itself and whether food is included explain most of the difference.`,
+        `Passes reach players through four channels: the organiser's own pass page, a ticketing marketplace, a counter at the ground or a sponsor's shop, and WhatsApp. The last one is where most of the trouble happens.`,
+      ],
+      list: [
+        "Season pass: all nine nights, cheapest per night, often carries a photo",
+        "Daily or one-day pass: priced per night, weekend and Ashtami nights dearest",
+        "Couple, family and group passes: bundled entries on a single payment",
+        "Member or resident registration: society and samaj garbas, often free",
+      ],
+      subs: [
+        { heading: "Garba pass WhatsApp groups", text: "Organisers do run their own WhatsApp numbers and broadcast lists, and they announce them on their own website and social accounts. A group link forwarded by a stranger is not the same thing: pass screenshots sold in open groups are the commonest way players lose money, because a QR pass is single-use and the second person to reach the gate is turned away. Buy from the link the organiser published, pay to a named account and keep the receipt." },
+        { heading: "How to check a pass is genuine", text: "A real pass carries your own name, a unique QR code, the night or nights it covers, and for a season pass a photo. If it is an image with no code, or the same code as a friend's, it will not get you through the gate scanner." },
+      ],
+      after: [
+        `Organisers reading this from the other side: the rest of this page is about building that pass page, the QR gate scanner and the admin that enforces your prices and caps, so your players never go looking for a WhatsApp group in the first place.`,
       ],
     },
     {
@@ -374,6 +399,9 @@ const content: FreelanceContent = {
     { question: "How do we pay for the website?", answer: "In INR by UPI or bank transfer, in stages: an advance after written approval, a payment when the event pages are approved on staging, and the balance before sales open. The split is in your quote. Domain, hosting and gateway fees are paid by the organiser directly." },
     { question: "What support is there during Navratri?", answer: `The two free maintenance months cover the festival. We stay reachable on WhatsApp through the nine nights for fixes and urgent changes. After the free period, optional care starts at ${P.care}, useful for keeping the site live year-round and preparing next season.` },
     { question: "Can we reuse the system next year?", answer: "Yes. The code and data stay with you, and the admin can be reset for a new season with new dates, prices and sponsors. Many organisers keep the site live with last year's gallery and a sign-up list, then reopen sales when the new season is announced." },
+    { question: "How much does a Navratri garba pass cost in Gujarat?", answer: "There is no single price. Each organiser sets its own, so a society or samaj garba may be free for members while a ticketed ground charges per night, with weekend, Ashtami and Navami nights dearest and season passes cheapest per night. The only reliable figure is the one published on that garba's own pass page, which is why organisers should show it plainly." },
+    { question: "Is it safe to buy a garba pass from a WhatsApp group?", answer: "Only if the organiser published that number or group themselves. Passes resold in open groups are usually screenshots, and a QR pass is single-use, so the second person to present it is refused at the gate. Buy from the organiser's own link, pay to a named account, keep the receipt, and check the pass carries your name, a unique QR code and the nights it covers." },
+    { question: "What is the difference between a season pass and a one-day garba pass?", answer: "A season pass covers all nine nights, costs least per night and usually carries the holder's photo so it cannot be shared. A one-day pass covers one named night, is priced for that night and is capped so the ground never overfills. Couple, family and group passes bundle entries on a single payment. The system enforces whichever rules you set." },
     { question: "Garba pass online bechne ki website kitne me banegi?", answer: `BtechWaleTech ke saath garba event ki website ${P.site} se shuru hoti hai, aur online pass, QR code aur gate scanning wala system ${P.shop} se. Pass ka paisa seedha aapke account mein aata hai, hum koi percentage nahi lete, aur Navratri ke nau din hum WhatsApp par uplabdh rehte hain.` },
   ],
   related: {

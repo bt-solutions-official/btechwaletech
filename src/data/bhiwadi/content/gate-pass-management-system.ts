@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/gate-pass-management-system/",
   crumb: "Gate pass management system",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Gate Pass Management System in Bhiwadi: Meet In Person`,
-    description: `Gate pass management system in Bhiwadi for inward, outward and returnable material, from ${P.software}. We study your gate register with you face to face.`,
+    title: `Gate Pass Management System Bhiwadi: ${P.software}+`,
+    description: `Gate pass management system in Bhiwadi from ${P.software}, live in 6–12 weeks: inward entry, outward, RGP and NRGP passes, guard tablet, WhatsApp approvals.`,
     keywords: [
       "gate pass management system in Bhiwadi", "gate pass management system Bhiwadi", "gate pass software Bhiwadi", "gate pass system near me",
       "gate pass management system in Bhiwadi Rajasthan", "gate pass software Bhiwadi Alwar", "material gate pass software", "RGP NRGP software",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What is a gate pass management system in Bhiwadi, and what does it cost?",
-    text: `A gate pass management system in Bhiwadi records every item entering or leaving your plant, from inward material against a challan to outward, returnable and non-returnable gate passes, with approvals and photos. Security staff use a tablet at the gate; managers approve on their phones. We build it as a custom web app from ${P.software}, scoped after an in-person look at your gate.`,
+    text: `From ${P.software} as a custom web app, usually live in 6–12 weeks. It records every item entering or leaving your plant, from inward material against a challan to outward, returnable and non-returnable gate passes, with approvals and photos. Guards work on a tablet at the gate; managers approve on their phones.`,
     more: `Gate records connect to stores and dispatch, so also see <a href='/bhiwadi-rajasthan/inventory-management-software/'>inventory management software in Bhiwadi</a> and <a href='/bhiwadi-rajasthan/warehouse-management-software/'>warehouse software for the belt</a>.`,
   },
   snapshot: {
@@ -154,6 +154,30 @@ const content: FreelanceContent = {
         `An RGP, or returnable gate pass, covers material that leaves the plant and is expected back: dies sent for repair, fixtures going for coating, parts sent to a job worker for heat treatment, a laptop going to a service centre. An NRGP, or non-returnable gate pass, covers material leaving for good: scrap sold to a dealer, samples to a customer, rejected lots returned to a supplier, items transferred to another company.`,
         `The two need different follow-up. An NRGP is complete once approved and released. An RGP stays open until the item comes back, so the system records the vendor, quantity, expected return date and the person responsible, sends reminders as the date nears, and lists overdue items by vendor. Partial returns are common in job work, so each return is logged against the original pass until the balance is zero.`,
         `Job-work movements usually also need a delivery challan, and GST rules set conditions for them, including time limits for return. Your CA decides the challan format and the limits that apply; the system records the challan number and tracks the due dates you set, and it can alert accounts before one lapses. We do not give tax advice. Challan data can also flow to <a href='/bhiwadi-rajasthan/billing-software/'>GST billing software in Bhiwadi</a> instead of being typed twice.`,
+      ],
+    },
+    {
+      id: "pass-format",
+      heading: "What goes on the pass itself? Outward gate pass format and fields",
+      paragraphs: [
+        `Most plants in the belt already have a printed pass format, usually a two- or three-part book, and the quickest way to get guards to accept software is to reproduce that format on screen rather than replace it with something unfamiliar. We photograph your existing pass at the gate meeting and build the same fields in the same order.`,
+        `A format that stands up to an audit or a dispute carries these fields:`,
+      ],
+      list: [
+        "Pass number and date, issued in an unbroken series",
+        "Pass type: outward, returnable (RGP) or non-returnable (NRGP)",
+        "Department or person raising the pass",
+        "Receiver name, firm and address, and the job worker or vendor code",
+        "Item description with quantity, unit and, where it matters, weight",
+        "Expected return date, for a returnable pass only",
+        "Related invoice, delivery challan or work order number",
+        "Vehicle number, transporter and driver name",
+        "Approver name and the time the approval came through",
+        "Guard name, release time and a photo of the loaded vehicle",
+      ],
+      after: [
+        `Two fields decide whether the record is useful later: the expected return date, because without it a returnable pass can never be shown as overdue, and the photo, because a quantity dispute six months on is settled by the picture and not by anyone’s memory. Where the pass must also carry invoice values, the numbers can come straight from <a href='/bhiwadi-rajasthan/billing-software/'>GST billing software in Bhiwadi</a> instead of being copied by hand at the gate.`,
+        `We print a QR code on the approved pass so the guard scans instead of searching, and a small thermal printer at the cabin can hand the driver a paper copy where your customers or transporters still expect one.`,
       ],
     },
     {
@@ -374,6 +398,7 @@ const content: FreelanceContent = {
   faqHeading: "Gate pass management system in Bhiwadi: questions answered",
   faqs: [
     { question: "How much does a gate pass management system in Bhiwadi cost?", answer: `We build it as a custom web app starting at ${P.software}, usually at the shorter end of our 6 to 12 week range. A small first step, such as outward passes approved on WhatsApp, can start at ${P.ai}. The number of gates, pass types, approval rules and integrations sets the final quote, which you receive itemised after we see your gate.` },
+    { question: "What should an outward gate pass format contain?", answer: "A workable outward gate pass carries the pass number and date, the department raising it, the receiver’s name and address, item description with quantity and unit, whether it is returnable or not, the expected return date if it is, the related invoice or delivery challan number, vehicle and driver details, the approver’s name, and the guard’s release time with a photo. We reproduce your existing printed format rather than imposing ours." },
     { question: "Can you come to our factory gate in Bhiwadi to understand the process?", answer: "Yes. We meet face to face at your unit and spend time at the security cabin watching real entries, looking at your registers and challans, and talking to guards and approvers. Send a date and place on WhatsApp and we fix a time that suits both sides. Extra in-person sessions for guard training or go-live can be arranged." },
     { question: "What is the difference between RGP and NRGP?", answer: "RGP is a returnable gate pass for material expected back, such as dies sent for repair or parts sent to a job worker. NRGP is a non-returnable gate pass for material leaving permanently, such as scrap sales, samples or rejected lots returned to suppliers. RGPs stay open in the system until everything returns, with reminders; NRGPs close once released." },
     { question: "How long does it take to set up gate pass software?", answer: "Most gate systems go live at the shorter end of 6 to 12 weeks from the approved scope, including one to two weeks running beside your paper registers. Multi-gate or multi-plant setups with links to stores or Tally take longer. Loading open returnable passes from the old book is planned in from the start." },

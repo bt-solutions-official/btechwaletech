@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/outsource-app-development/",
   crumb: "Outsource app development",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Outsource App Development from Germany · from ${P.app}`,
-    description: `Outsource app development step by step: Lastenheft, Werkvertrag, Abnahme, EUR milestones and store release. Apps from ${P.app}, code yours from day one.`,
+    title: `Outsource App Development: Contracts, Risks, ${P.app}+`,
+    description: `Outsource app development step by step: Lastenheft, Werkvertrag, Abnahme, EUR milestones, store release. Apps from ${P.app}, your code from day one.`,
     keywords: [
       "outsource app development", "outsource app development germany", "app entwicklung auslagern", "app entwicklung outsourcing",
       "how to outsource app development", "outsource mobile app development to india", "lastenheft app", "lastenheft vs pflichtenheft",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "outsource app development hamburg", "outsource app development cologne", "app post launch support plan",
       "outsourcing app development for startups germany", "best way to outsource app development", "outsource flutter app development",
       "hire app development in Germany", "freelance app development Germany",
+      "outsource android development", "outsourcing app development germany",
     ],
   },
   hero: {

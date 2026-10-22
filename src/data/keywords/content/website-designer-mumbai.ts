@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/website-designer-mumbai/",
   crumb: "Website designer in Mumbai",
-  updated: "2026-10-02",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Designer in Mumbai: Design + Build ${P.site}+`,
-    description: `Website designer in Mumbai for brands, studios and shops: mobile-first layouts, type and photo direction, reviewed on screen-share. Build from ${P.site}.`,
+    title: `Website Designer in Mumbai: Design + Build ${P.site}`,
+    description: `Website designer in Mumbai for brands, studios and shops: mobile-first layouts, type and photo direction, reviewed live on screen-share. Build from ${P.site}.`,
     keywords: [
+      "website designers in mumbai",
       "website designer in Mumbai", "website designer Mumbai", "web designer in Mumbai", "web designer Mumbai", "website design Mumbai",
       "website designing in Mumbai", "freelance website designer Mumbai", "website designer near me Mumbai", "UI UX designer Mumbai website",
       "website design cost Mumbai", "website designing charges Mumbai", "website design and development Mumbai", "responsive website design Mumbai",

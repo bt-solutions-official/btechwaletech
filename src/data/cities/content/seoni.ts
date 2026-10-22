@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const seoni: CityContent = {
   slug: "seoni",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 22.08, lng: 79.53 },
   meta: {
-    title: "IT Services in Seoni | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Seoni | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, local SEO and WhatsApp tools for Seoni's Pench resorts, NH44 transport trade, rice mills, colleges, clinics and shops. From ₹10,000.",
     keywords: [

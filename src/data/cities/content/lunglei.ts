@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const lunglei: CityContent = {
   slug: "lunglei",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 22.8833, lng: 92.7333 },
   meta: {
-    title: "IT Services in Lunglei | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Lunglei | Sites ₹10,000, Apps ₹40,000",
     description:
       "Lunglei Mizo and English websites, mobile apps, local SEO and WhatsApp bots for colleges, hospitals, shops, homestays, traders and transporters. From ₹10,000.",
     keywords: [

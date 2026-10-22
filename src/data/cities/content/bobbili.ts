@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const bobbili: CityContent = {
   slug: "bobbili",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 18.5667, lng: 83.3667 },
   meta: {
-    title: "IT Services in Bobbili | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Bobbili | Sites ₹10,000, Apps ₹40,000",
     description:
       "Bobbili Telugu websites, Android and iOS apps, local SEO and WhatsApp bots for veena makers and growth centre suppliers. From ₹10,000, two months free upkeep.",
     keywords: [

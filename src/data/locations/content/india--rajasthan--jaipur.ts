@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--rajasthan--jaipur",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 26.9124, lng: 75.7873 },
   meta: {
-    title: "Jaipur IT Consulting: Gems, Engineering & Textiles",
+    title: "Jaipur IT Consulting: Software & Apps from ₹40,000",
     description:
-      "IT consulting and digital transformation in Jaipur from a freelance team of three engineers: software, apps, AI, cloud, data and SEO. Itemised quotes.",
+      "IT consulting in Jaipur from a freelance team of three engineers: software, apps, AI, cloud, data and SEO. Software from ₹60,000, apps from ₹40,000.",
     keywords: [
       "IT solutions team in Jaipur",
       "IT consulting Jaipur",
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "IT consulting is independent advice on which technology to adopt, in what order and at what cost, based on how a business actually operates. A Jaipur SME needs it whenever the owner is about to spend serious money on software, an app or automation and is not sure the problem has been defined correctly.",
         "Most wasted IT budgets in Jaipur that we hear about follow one pattern: a vendor sells a product, the product is installed, and staff quietly go back to registers because it never matched their workflow. A showroom buys a CRM that no salesperson updates. A factory in VKI buys an ERP module but still tracks production on a whiteboard. Consulting prevents this by starting from the work, not the product.",
-        "Our consulting is practical and short. We ask for walkthroughs of the current process, sample documents and a list of complaints from staff and customers. Then we write a plan that says what to change, what to leave alone, what it costs from our <a href='/pricing/'>starting prices</a> and what it depends on. For many Jaipur clients (and across <a href='/india/rajasthan/'>Rajasthan</a>) the answer is smaller than expected: one web app, one automation and a better website, not a transformation programme.",
+        "Our consulting is practical and short. We ask for walkthroughs of the current process, sample documents and a list of complaints from staff and customers. Then we write a plan that says what to change, what to leave alone, what it costs from our <a href='/pricing/'>starting prices</a> and what it depends on. For many Jaipur clients (and across <a href='/india/rajasthan/'>Rajasthan</a>) the answer is smaller than expected: one web app, one automation and a better website, not a transformation programme. For build-only work, see <a href='/it-services/rajasthan/jaipur/'>software developers in Jaipur</a>, or the <a href='/it-services/rajasthan/'>Rajasthan IT services hub</a> for the rest of the state.",
       ],
     },
     {

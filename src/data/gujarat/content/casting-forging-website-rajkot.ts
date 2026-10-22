@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/casting-forging-website-rajkot/",
   crumb: "Casting and forging company website in Rajkot",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Casting & Forging Company Website, Rajkot, ${P.site}+`,
-    description: `Casting and forging company website in Rajkot: process pages, material grades, capacity and a drawing-upload RFQ form. From ${P.site}, 2-day quote.`,
+    title: `Casting & Forging Website in Rajkot: RFQ, ${P.site}`,
+    description: `Casting and forging company website in Rajkot: process pages, material grades, capacity tables and a drawing-upload RFQ form. From ${P.site}, 2-day quote.`,
     keywords: [
       "casting and forging company website in Rajkot", "foundry website Rajkot", "forging company website Rajkot", "casting manufacturer website design Rajkot",
       "foundry website developer near me", "casting website Rajkot Gujarat", "foundry website cost Rajkot", "forging website price India",

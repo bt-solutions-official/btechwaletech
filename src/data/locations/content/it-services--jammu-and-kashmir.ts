@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--jammu-and-kashmir",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 33.2778, lng: 75.3412 },
   meta: {
-    title: "Jammu and Kashmir IT Services: Houseboats & Saffron",
+    title: "IT Services in Jammu & Kashmir from ₹10,000",
     description:
       "Freelance IT services in Jammu and Kashmir: hotel and houseboat booking, apple and saffron stores, plus offline-ready apps. From ₹10,000, remote team.",
     keywords: [
@@ -82,8 +82,8 @@ const content: CityContent = {
       heading: "Which IT services in Jammu and Kashmir do businesses need most?",
       paragraphs: [
         "The IT services in Jammu and Kashmir that deliver the most value are booking and enquiry systems for tourism and pilgrimage, online stores for saffron, apples, dry fruits and handicrafts, offline-ready apps and inventory software for traders and factories, AI assistants for fast replies, and search visibility that brings customers from the rest of India and abroad.",
-        "The Union Territory's economy rests on a few strong pillars. Tourism draws visitors to Dal Lake, Gulmarg, Pahalgam and Sonamarg in the Kashmir division, while the Vaishno Devi pilgrimage via Katra brings large numbers through the Jammu division. Horticulture supports thousands of orchard families, with apples, walnuts, almonds and saffron shipped across India. Crafts such as Pashmina, carpets and papier-mâché carry global recognition. Industrial estates in Kathua, Samba and Bari Brahmana host manufacturing units, and Srinagar and Jammu have growing education, healthcare and services sectors.",
-        "BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in J&K; we say so plainly because the brief for businesses here should be honest, useful work rather than fake local claims. We build <a href=\"/services/\">software, apps, automation, dashboards, stores and websites</a> across all districts, with links to our city pages for <a href=\"/srinagar/\">Srinagar</a>, <a href=\"/jammu/\">Jammu</a>, <a href=\"/anantnag/\">Anantnag</a> and <a href=\"/baramula/\">Baramulla</a>.",
+        "The Union Territory's economy rests on a few strong pillars. Tourism draws visitors to Dal Lake, Gulmarg, Pahalgam and Sonamarg in the Kashmir division, while the Vaishno Devi pilgrimage via Katra brings large numbers through the <a href='/it-services/jammu-and-kashmir/jammu/'>Jammu</a> division. Horticulture supports thousands of orchard families, with apples, walnuts, almonds and saffron shipped across India. Crafts such as Pashmina, carpets and papier-mâché carry global recognition. Industrial estates in <a href='/it-services/jammu-and-kashmir/kathua/'>Kathua</a>, Samba and Bari Brahmana host manufacturing units, and <a href='/it-services/jammu-and-kashmir/srinagar/'>Srinagar</a> and Jammu have growing education, healthcare and services sectors.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in J&K; we say so plainly because the brief for businesses here should be honest, useful work rather than fake local claims. We build <a href=\"/services/\">software, apps, automation, dashboards, stores and websites</a> across all districts, with links to our city pages for <a href=\"/srinagar/\">Srinagar</a>, <a href=\"/jammu/\">Jammu</a>, <a href=\"/anantnag/\">Anantnag</a> and <a href=\"/baramula/\">Baramulla</a>. Businesses in south Kashmir can read our <a href='/it-services/jammu-and-kashmir/anantnag/'>Anantnag IT services page</a>.",
       ],
       list: [
         "Tourism: hotel, houseboat and tour booking, enquiry bots",
@@ -120,7 +120,7 @@ const content: CityContent = {
       id: "horticulture-software-jk",
       heading: "Software for apple, walnut and saffron traders, mandis and cold stores",
       paragraphs: [
-        "Software for J&K horticulture tracks produce from orchard to buyer: grower accounts, lots by variety and grade, cold storage inventory, mandi auctions or sales, commission, transport and payments. Apple growers and traders around Sopore, Shopian and Baramulla, walnut dealers and saffron traders in Pampore handle large volumes in short seasons, often with handwritten ledgers.",
+        "Software for J&K horticulture tracks produce from orchard to buyer: grower accounts, lots by variety and grade, cold storage inventory, mandi auctions or sales, commission, transport and payments. Apple growers and traders around Sopore, Shopian and <a href='/it-services/jammu-and-kashmir/baramulla/'>Baramulla</a>, walnut dealers and saffron traders in Pampore handle large volumes in short seasons, often with handwritten ledgers.",
         "For commission agents and traders, we build grower ledgers, lot-wise stock, sale records with rates and deductions, and automatic statements sent to growers on WhatsApp. For cold stores, we build chamber-wise inventory, inward and outward slips and rent calculation. For exporters and bulk sellers, we add buyer orders, packing lists and dispatch tracking by truck.",
         "These systems are designed for poor connectivity: data entry works offline on a phone or laptop and syncs when a connection returns. Screens can be in Urdu, Hindi or English. This is custom software starting from ₹60,000, usually built in phases around the harvest calendar so it is ready before the season begins.",
       ],

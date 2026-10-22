@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const aurangabadBihar: CityContent = {
   slug: "aurangabad-bihar",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 24.75, lng: 84.37 },
   meta: {
-    title: "Aurangabad (Bihar) Websites, SEO and WhatsApp Tools",
+    title: "Website Design in Aurangabad, Bihar | From ₹10,000",
     description:
-      "Aurangabad (Bihar) websites, local SEO and WhatsApp tools for shops, schools, clinics, contractors and carpet makers, plus Daudnagar and Deo. From ₹10,000.",
+      "Aurangabad (Bihar) websites from ₹10,000, live in 1-2 weeks, in Hindi. Local SEO and WhatsApp tools for shops, schools, contractors and carpet makers.",
     keywords: [
       "website development team in Aurangabad Bihar",
       "web designer Aurangabad Bihar",
@@ -43,7 +43,7 @@ const aurangabadBihar: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and Magahi-friendly copy", "Contractor profiles", "Carpet and dari catalogues", "Google Maps setup"],
   },
   quickAnswer:
-    "A business website in Aurangabad, Bihar starts from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are three remote engineers with no office in Aurangabad, and maintenance is free for two months after launch.",
+    "An Aurangabad (Bihar) website starts at ₹10,000 and goes live in one to two weeks, in Hindi or English. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and stores start at ₹50,000. We also cover Daudnagar and Deo, and two months of maintenance are free.",
   snapshot: [
     { label: "District", value: "Headquarters of Aurangabad district, carved out of Gaya district on 26 January 1973; vehicle series BR-26" },
     { label: "Roads", value: "On NH19 (the Grand Trunk Road) where it meets NH139; about 70 km from Gaya and 140 km from Patna" },

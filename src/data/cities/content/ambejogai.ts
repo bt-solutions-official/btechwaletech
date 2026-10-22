@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const ambejogai: CityContent = {
   slug: "ambejogai",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 18.7282, lng: 76.3884 },
   meta: {
-    title: "IT Services in Ambejogai | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Ambejogai | Sites ₹10,000, Apps ₹40,000",
     description:
       "Ambejogai Marathi websites, mobile apps, local SEO and WhatsApp bots for hospitals, colleges, temple-town lodges and traders. From ₹10,000, you own the code.",
     keywords: [

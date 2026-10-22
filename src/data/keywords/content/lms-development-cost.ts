@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/lms-development-cost/",
   crumb: "LMS development cost",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `LMS Development Cost: Custom LMS from ${P.software}`,
-    description: `LMS development cost in India: custom LMS from ${P.software}, compared with Moodle and hosted plans, plus SCORM and video bills. Get an itemised quote.`,
+    title: `LMS Development Cost in India: From ${P.software}`,
+    description: `LMS development cost in India: a custom LMS from ${P.software} in 6–12 weeks, compared with Moodle and per-user hosted plans, plus real video and SCORM bills.`,
     keywords: [
       "lms development cost", "lms development cost in India", "cost to build an lms", "custom lms development cost",
       "how much does it cost to build a learning management system", "learning management system development cost", "lms software price India",

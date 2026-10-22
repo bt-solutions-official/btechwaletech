@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const nokha: CityContent = {
   slug: "nokha",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 27.6, lng: 73.42 },
   meta: {
-    title: "IT Services in Nokha | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Nokha | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, local SEO and WhatsApp automation for Nokha bhujia and papad units, mandi traders, oil mills, guar processors and shops. From ₹10,000.",
     keywords: [

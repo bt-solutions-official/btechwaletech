@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const hindupur: CityContent = {
   slug: "hindupur",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 13.83, lng: 77.49 },
   meta: {
-    title: "Hindupur Website & SEO Services | Sites from ₹10,000",
+    title: "Website Design in Hindupur | Sites from ₹10,000",
     description:
-      "Hindupur websites, Telugu and Urdu SEO, garment stores and WhatsApp workflows for silk, tamarind and textile traders and industrial suppliers. From ₹10,000.",
+      "Hindupur websites from ₹10,000, live in 1-2 weeks, with Telugu and Urdu SEO. Garment stores from ₹50,000 for silk, tamarind and textile traders and suppliers.",
     keywords: [
       "website development team in Hindupur",
       "web designer Hindupur",

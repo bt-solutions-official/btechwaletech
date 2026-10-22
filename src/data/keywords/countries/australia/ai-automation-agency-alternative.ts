@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/ai-automation-agency-alternative/",
   crumb: "AI automation agency Australia",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `AI Automation Agency Australia Alternative: ${P.ai}+`,
-    description: `AI automation agency Australia alternative: three developers build lead intake, quoting and Xero invoice chasers from ${P.ai}, measured in hours saved.`,
+    title: `AI Automation Agency Australia: 3 Devs, from ${P.ai}`,
+    description: `Lead intake, quotes and Xero invoice chasers automated in n8n, Make or code, from ${P.ai} in 2–4 weeks. Three developers in India, accounts you own.`,
     keywords: [
       "ai automation agency australia", "ai automation agency", "ai automation agency alternative", "ai automation services australia",
       "business process automation australia", "ai workflow automation small business", "n8n developer australia",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "ai automation sydney", "ai automation melbourne", "ai automation brisbane", "ai automation perth",
       "hire ai automation freelancer", "measure hours saved automation", "ai agents for small business australia",
       "automated decision making privacy policy 2026",
+      "ai automation agency brisbane", "ai automation agency near me", "invoice automation australia", "ai automation agency sydney", "ai automation agency melbourne",
     ],
   },
   hero: {

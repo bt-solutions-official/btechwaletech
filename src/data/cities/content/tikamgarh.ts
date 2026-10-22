@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const tikamgarh: CityContent = {
   slug: "tikamgarh",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 24.7472, lng: 78.85 },
   meta: {
-    title: "IT Services in Tikamgarh | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Tikamgarh | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, local SEO and WhatsApp automation for Tikamgarh brass casters, grain traders, clinics, schools and Bundelkhand shops. From ₹10,000.",
     keywords: [

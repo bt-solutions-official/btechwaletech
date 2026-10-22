@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const alirajpur: CityContent = {
   slug: "alirajpur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 22.3053, lng: 74.3525 },
   meta: {
-    title: "IT Services in Alirajpur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Alirajpur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Alirajpur Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for mango traders, dolomite units, dealers, clinics, schools and shops.",
     keywords: [

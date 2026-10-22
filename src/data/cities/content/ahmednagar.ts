@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const ahmednagar: CityContent = {
   slug: "ahmednagar",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 19.0948, lng: 74.748 },
   meta: {
-    title: "Ahmednagar (Ahilyanagar) Web Design, SEO & Apps",
+    title: "Website Design in Ahmednagar (Ahilyanagar) | ₹10,000",
     description:
-      "Ahilyanagar (Ahmednagar) websites, local SEO and automation for MIDC units, dairies, traders and Shirdi hotels. From ₹10,000, 2 months free upkeep.",
+      "Ahilyanagar (Ahmednagar) websites from ₹10,000, live in 1-2 weeks. Local SEO and WhatsApp tools for MIDC units, dairies, traders and hotels near Shirdi.",
     keywords: [
       "website development team in Ahmednagar",
       "website designer Ahilyanagar",
@@ -43,7 +43,7 @@ const ahmednagar: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi and English search", "MIDC capability pages", "Pilgrim hotel bookings", "Full ownership handed over"],
   },
   quickAnswer:
-    "In Ahilyanagar (Ahmednagar), a business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Nagar office, and every launch includes two months of free maintenance.",
+    "An Ahilyanagar (Ahmednagar) website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and stores start at ₹50,000. We are three remote engineers with no local office, and maintenance is free for the first two months.",
   snapshot: [
     { label: "Name", value: "Officially renamed Ahilyanagar in October 2024; Ahmednagar and Nagar are still widely searched" },
     { label: "Industry", value: "MIDC estate outside the city with over 200 units, plus MIDC areas at Supa, Shrirampur and Sangamner" },

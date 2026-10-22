@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/local-seo-services/",
   crumb: "Local SEO services Australia",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Local SEO Services Australia from ${P.seo} a Month`,
-    description: `Local SEO services in Australia for service-area businesses: Google Business Profile, suburb pages without spam, AU citations, real reviews. From ${P.seo}.`,
+    title: `Local SEO Services Australia: Map Pack, from ${P.seo}`,
+    description: `Local SEO for Australian service-area businesses: Google Business Profile, suburb pages without spam, AU citations and real review requests. From ${P.seo}.`,
     keywords: [
       "local seo services australia", "local seo services", "local seo australia", "local seo agency australia alternative",
       "local seo for service area business", "google business profile optimisation australia", "google maps ranking australia",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "hide address google business profile", "how long does local seo take", "call tracking for local seo",
       "google reviews rules australia accc", "freelance local seo expert australia",
       "hire local seo services in Australia",
+      "seo services castle hill", "seo agency hills district", "affordable seo for small business australia", "local seo sydney suburbs",
     ],
   },
   hero: {

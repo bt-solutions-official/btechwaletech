@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-developer-borsad/",
   crumb: "Website developer in Borsad",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Borsad · Live in 1–2 Weeks`,
-    description: `Website developer in Borsad for banana traders, agri dealers, clinics, schools and shops. Sites from ${P.site}, Gujarati pages with your copy, 2 free months.`,
+    title: `Website Developer in Borsad: Sites from ${P.site}, 2 Weeks`,
+    description: `Website developer in Borsad for traders, agri dealers, clinics, schools and shops: sites from ${P.site}, live in 1–2 weeks, Gujarati pages, 2 free months.`,
     keywords: [
       "website developer in Borsad", "website developer Borsad", "website developer near me Borsad", "Borsad Anand website developer",
       "Borsad Gujarat website design", "website designer Borsad", "web developer Borsad", "website development services Borsad",

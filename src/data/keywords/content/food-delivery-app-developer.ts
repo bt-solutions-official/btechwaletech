@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/food-delivery-app-developer/",
   crumb: "Food delivery app developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Food Delivery App Developer: Zero Commission, ${P.app}+`,
-    description: `Food delivery app developer for restaurants and cloud kitchens: your own ordering app, UPI checkout, kitchen panel and no commission. Apps from ${P.app}.`,
+    title: `Food Delivery App Developer: No Commission, ${P.app}+`,
+    description: `Your own ordering app for a restaurant or cloud kitchen: UPI checkout, kitchen panel, rider tracking and zero per-order commission. Apps from ${P.app}.`,
     keywords: [
       "food delivery app developer", "food delivery app developer in India", "food delivery app developer near me", "food delivery app developer for hire",
       "food delivery app development cost", "food ordering app price India", "best food delivery app developer", "restaurant ka app banwana hai",
@@ -27,6 +27,7 @@ const content: FreelanceContent = {
       "food delivery app developer cost",
       "zero commission food delivery app",
       "food delivery app development company India",
+      "food delivery app developer india", "zero commission food ordering app",
     ],
   },
   hero: {

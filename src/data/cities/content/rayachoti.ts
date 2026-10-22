@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const rayachoti: CityContent = {
   slug: "rayachoti",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 14.0583, lng: 78.7517 },
   meta: {
-    title: "IT Services in Rayachoti | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Rayachoti | Sites ₹10,000, Apps ₹40,000",
     description:
       "Telugu and Urdu websites, apps, SEO and WhatsApp tools for Rayachoti traders, farm dealers, hospitals, colleges and highway businesses. Sites from ₹10,000.",
     keywords: [

@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const baleshwarTown: CityContent = {
   slug: "baleshwar-town",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 21.4969, lng: 86.9225 },
   meta: {
-    title: "Balasore Web Design, Odia SEO & WhatsApp Tools",
+    title: "Website Design in Balasore | Sites from ₹10,000",
     description:
-      "Balasore websites, Odia and English SEO and WhatsApp tools for seafood exporters, Balgopalpur suppliers and Chandipur hotels. Sites from ₹10,000.",
+      "Balasore websites from ₹10,000, live in 1-2 weeks, with Odia and English SEO. Stores and WhatsApp tools for seafood exporters, suppliers and Chandipur hotels.",
     keywords: [
       "website development team in Balasore",
       "web designer Baleswar",
@@ -43,7 +43,7 @@ const baleshwarTown: CityContent = {
     pills: ["Sites from ₹10,000", "Odia, English and Bengali pages", "Seafood export profiles", "Chandipur hotel booking", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Balasore, a static website of up to 100 pages starts from ₹10,000 and takes one to two weeks, a 299+ page SEO website starts from ₹20,000, and online stores start from ₹50,000. We are a remote team of three engineers with no office in Balasore, and two months of maintenance after launch are free.",
+    "A Balasore website starts at ₹10,000 and goes live in one to two weeks, in Odia, Bengali or English. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and stores start at ₹50,000. We have no Balasore office, and the first two months of maintenance are included free.",
   snapshot: [
     { label: "Town", value: "Headquarters of Balasore (Baleswar) district; about 144,000 people in the municipality at the 2011 Census" },
     { label: "Location", value: "On NH 16 and the Howrah–Chennai main line, roughly 215 km from Bhubaneswar and 240 km from Kolkata" },

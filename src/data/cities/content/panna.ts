@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const panna: CityContent = {
   slug: "panna",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 24.7176, lng: 80.1819 },
   meta: {
-    title: "IT Services in Panna | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Panna | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, local SEO and WhatsApp automation for Panna tiger-reserve stays, safari operators, temples, diamond traders and shops. From ₹10,000.",
     keywords: [

@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--bihar--patna",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 25.5941, lng: 85.1376 },
   meta: {
-    title: "Patna Software Developers: Apps & AI",
+    title: "Patna Software Developers: Apps from ₹40,000",
     description:
-      "Freelance software developers for Patna: custom software, web and mobile apps, AI automation and SEO. Three remote engineers, 2 months free support.",
+      "Freelance software developers for Patna: custom software, web and mobile apps, AI automation and SEO. Software ₹60,000, apps ₹40,000, 2 months free support.",
     keywords: [
       "software development team in Patna",
       "IT services team in Patna",

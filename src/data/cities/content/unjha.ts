@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const unjha: CityContent = {
   slug: "unjha",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 23.8047, lng: 72.3936 },
   meta: {
-    title: "IT Services in Unjha | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Unjha | Sites ₹10,000, Apps ₹40,000",
     description:
       "Export websites, apps, SEO and WhatsApp automation for Unjha jeera, fennel and isabgol traders, spice processors, APMC firms, clinics and shops. From ₹10,000.",
     keywords: [

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/pump-manufacturer-website-rajkot/",
   crumb: "Pump manufacturer website in Rajkot",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Pump Manufacturer Website in Rajkot from ${P.site}`,
-    description: `Pump manufacturer website in Rajkot with model-wise specs, performance tables, catalogue downloads and a dealer locator. Pump sites from ${P.site}, 2-day quote.`,
+    title: `Pump Manufacturer Website in Rajkot: Specs, ${P.site}`,
+    description: `Pump manufacturer website in Rajkot with model-wise specs, head-flow performance tables, catalogue downloads and a dealer locator. Sites from ${P.site}.`,
     keywords: [
       "pump manufacturer website in Rajkot", "pump manufacturer website Rajkot", "submersible pump manufacturer website", "monoblock pump company website Rajkot",
       "pump website design Gujarat", "pump catalogue website", "pump dealer locator website", "pump manufacturer website Rajkot Gujarat",

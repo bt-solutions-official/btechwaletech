@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const agartala: CityContent = {
   slug: "agartala",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 23.8315, lng: 91.2868 },
   meta: {
-    title: "IT Services in Agartala: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Agartala | From ₹10,000",
     description:
-      "Agartala websites, Bengali-aware local SEO, online stores and WhatsApp bots for shops, rubber units, clinics and tour operators. From ₹10,000, you own it all.",
+      "Agartala websites from ₹10,000, live in 1-2 weeks, with Bengali-aware local SEO. Stores from ₹50,000 for shops, rubber units, clinics and tour operators.",
     keywords: [
       "website development team in Agartala",
       "web designer Agartala",
@@ -43,7 +43,7 @@ const agartala: CityContent = {
     pills: ["Sites from ₹10,000", "Bengali and English pages", "Rubber and bamboo catalogues", "WhatsApp order replies", "You own every login"],
   },
   quickAnswer:
-    "An Agartala business can get a small website from ₹10,000, ready in one to two weeks. A 299+ page site built for Google search starts at ₹20,000, AI and WhatsApp automation at ₹40,000, and an online store with UPI at ₹50,000. We work remotely, hand over domain and code, and maintain the site free for two months.",
+    "An Agartala business website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and online stores start at ₹50,000. We work remotely with no Agartala office, write Bengali and English pages, and include two months of free maintenance.",
   snapshot: [
     { label: "Role", value: "State capital of Tripura and its largest city, on the Haora river close to the Bangladesh border" },
     { label: "Old markets", value: "Maharajganj Bazar (Gol Bazar), set up under the Tripura kings, and Battala, known for fish, garments and footwear" },

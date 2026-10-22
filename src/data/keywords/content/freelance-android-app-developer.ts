@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-android-app-developer/",
   crumb: "Freelance Android app developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
     title: `Freelance Android App Developer: Apps from ${P.app}`,
-    description: `Freelance Android app developer in India, publishing through internal, closed and production tracks on Google Play in your account. Apps from ${P.app}.`,
+    description: `Android apps from ${P.app}, published through internal, closed and production tracks on Google Play in your own developer account. Live in 6–10 weeks.`,
     keywords: [
       "freelance android app developer", "freelance android app developer in India", "freelance android app developer near me",
       "android app developer for hire", "freelance android app developer cost", "android app development price India",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "android app maintenance freelancer", "publish app on play store India", "android app update target API level", "hire android app freelancer",
       "android app developer for small business", "play console setup freelancer", "android app kitne me banta hai",
       "hire freelance android app developer",
+      "freelance android app developer india", "hire android developer freelance", "android app developer price india",
     ],
   },
   hero: {

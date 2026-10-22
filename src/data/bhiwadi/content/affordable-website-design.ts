@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/affordable-website-design/",
   crumb: "Affordable website design",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Affordable Website Design in Bhiwadi from ${P.site}`,
-    description: `Affordable website design in Bhiwadi from ${P.site}: what the starter site includes, what never to cut, and a one-to-one meeting at your shop or unit.`,
+    title: `Affordable Website Design in Bhiwadi: ${P.site}, 2 Weeks`,
+    description: `Affordable website design in Bhiwadi from ${P.site}, live in 1–2 weeks: up to 100 mobile-first pages, enquiry form, WhatsApp button, SSL, 2 months free care.`,
     keywords: [
       "affordable website design in Bhiwadi", "affordable website design Bhiwadi", "cheap website design Bhiwadi", "low cost website Bhiwadi",
       "affordable website design near me", "budget website design in Bhiwadi Rajasthan", "affordable website Bhiwadi Alwar", "small business website Bhiwadi",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does affordable website design in Bhiwadi cost, and what do you get?",
-    text: `An affordable, properly built business website in Bhiwadi starts at ${P.site} with BtechWaleTech. That covers a phone-first static site of up to 100 pages, your own domain connected, contact form, WhatsApp and call buttons, SEO basics, SSL and two months of maintenance. It usually goes live in 1–2 weeks. We first meet you one to one at your shop or unit.`,
+    text: `From ${P.site} and live in 1–2 weeks: that is an affordable but properly built business website in Bhiwadi. It covers a phone-first static site of up to 100 pages, your own domain connected, contact form, WhatsApp and call buttons, SEO basics, SSL and two months of free maintenance.`,
     more: `See every line that can change the price on <a href='/bhiwadi-rajasthan/website-development-cost/'>website development cost in Bhiwadi</a>, or read our guide to a <a href='/bhiwadi-rajasthan/retail-shop-website/'>shop website in Bhiwadi</a> if you run a store.`,
   },
   snapshot: {

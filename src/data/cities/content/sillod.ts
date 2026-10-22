@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sillod: CityContent = {
   slug: "sillod",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 20.303, lng: 75.6528 },
   meta: {
-    title: "IT Services in Sillod | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sillod | Sites ₹10,000, Apps ₹40,000",
     description:
       "Marathi websites, apps, local SEO and WhatsApp tools for Sillod maize traders, Sarafa jewellers, Ajanta-road hotels and clinics. Websites from ₹10,000.",
     keywords: [

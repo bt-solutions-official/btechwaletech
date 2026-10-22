@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/website-developer-mangalore/",
   crumb: "Website developer in Mangalore",
-  updated: "2026-10-02",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Mangalore, ${P.site} Onwards`,
-    description: `Website developer in Mangalore for colleges, hospitals, suppliers and exporters. Business sites from ${P.site}, staging link reviews, 2 months free care.`,
+    title: `Website Developer in Mangalore: From ${P.site}`,
+    description: `Website developer in Mangalore for colleges, hospitals, suppliers and exporters: business sites from ${P.site}, staging link reviews, 2 months free care.`,
     keywords: [
       "website developer in Mangalore", "website developer Mangalore", "website developer in Mangaluru", "web developer Mangalore",
       "website developer near me Mangalore", "freelance website developer Mangalore", "website designer Mangalore", "website development services Mangaluru",

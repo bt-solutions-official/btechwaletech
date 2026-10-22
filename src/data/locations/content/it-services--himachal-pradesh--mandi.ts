@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--himachal-pradesh--mandi",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 31.7087, lng: 76.932 },
   meta: {
     title: "Mandi, Himachal Software Developers: Wholesale & Transport",
     description:
-      "Comparing software development companies in Mandi? Hire our freelance group for custom software, AI automation, apps and SEO, with starting prices in INR.",
+      "Comparing software development companies in Mandi? Hire our freelance group for custom software, AI automation, apps and SEO, from ₹10,000 with prices in INR.",
     keywords: [
       "software development team in Mandi",
       "IT services team in Mandi",

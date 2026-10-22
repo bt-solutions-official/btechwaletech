@@ -13,10 +13,10 @@ const OQLF_TM = "https://www.oqlf.gouv.qc.ca/francisation/entreprises/boite-outi
 const content: FreelanceContent = {
   path: "/canada/bill-96-website-compliance/",
   crumb: "Bill 96 website requirements",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Bill 96 Website Requirements: French Sites from ${P.site}`,
-    description: `Bill 96 website requirements explained: which pages, checkout steps and emails need French in Quebec, OQLF fines, and a compliant bilingual build from ${P.site}.`,
+    title: `Does My Website Need French in Quebec? Bill 96 Rules`,
+    description: `Bill 96 website requirements: which pages, checkout steps and emails need French in Quebec, what "at least equivalent" means, OQLF fines and exemptions.`,
     keywords: [
       "bill 96 website requirements", "bill 96 website compliance", "quebec bill 96 website", "law 14 quebec website french",
       "does my website need to be in french in quebec", "charter of the french language website", "oqlf website requirements",
@@ -27,6 +27,7 @@ const content: FreelanceContent = {
       "bill 96 website developer canada", "bill 96 requirements for online stores",
       "hire bill 96 website requirements in Canada", "freelance bill 96 website requirements Canada", "bill 96 website requirements Toronto",
       "bill 96 website requirements Vancouver",
+      "quebec website legal requirements", "bill 96 compliance website", "oqlf website french", "bill 96 ecommerce",
     ],
   },
   hero: {

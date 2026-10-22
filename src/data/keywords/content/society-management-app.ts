@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/society-management-app/",
   crumb: "Society management app development",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Society Management App Development from ${P.app}`,
-    description: `Society management app development for RWAs, builders and FM companies: billing, guard app, complaints, bookings. Apps from ${P.app}, owned by you.`,
+    description: `Society management app for RWAs, builders and facility teams: maintenance billing, guard and visitor app, complaints and amenity bookings. From ${P.app}.`,
     keywords: [
       "society management app development", "society management app", "custom society management app", "white label society app",
       "apartment management app development", "RWA app development", "housing society app", "gated community app development",

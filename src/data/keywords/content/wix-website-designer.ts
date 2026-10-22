@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/wix-website-designer/",
   crumb: "Wix website designer",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Wix Website Designer in India: Sites from ${P.site}`,
-    description: `Hire a Wix website designer in India: design and setup from ${P.site}, Wix Stores and Bookings, SEO settings done right, and honest advice on when Wix fits.`,
+    title: `Wix Website Designer in India: Setup from ${P.site}`,
+    description: `Hire a Wix website designer in India from ${P.site}: design, Wix Stores and Bookings setup, SEO settings done properly, plus honest advice on when Wix fits.`,
     keywords: [
       "wix website designer", "wix website designer India", "wix designer", "wix web designer", "hire wix website designer",
       "wix website designer near me", "wix expert", "wix developer India", "wix website design cost", "wix website designer price",

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/vendor-portal-development/",
   crumb: "Vendor portal development",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Vendor Portal Development in Bhiwadi, from ${P.software}`,
-    description: `Vendor portal development in Bhiwadi for POs, delivery schedules, ASNs, invoices & vendor ratings. From ${P.software}, scoped at a one-to-one meeting at your unit.`,
+    title: `Vendor Portal Development Bhiwadi: ${P.software}+`,
+    description: `Vendor portal development in Bhiwadi from ${P.software}, live in 6–12 weeks: suppliers acknowledge POs, see schedules, send ASNs and upload invoices themselves.`,
     keywords: [
       "vendor portal development in Bhiwadi", "vendor portal development", "vendor portal development near me",
       "supplier portal development Bhiwadi", "vendor portal in Bhiwadi Rajasthan", "vendor portal Bhiwadi Alwar",
@@ -49,7 +49,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does vendor portal development cost in Bhiwadi?",
-    text: `Vendor portal development in Bhiwadi starts at ${P.software} for a web portal where suppliers log in to acknowledge POs, view schedules, send ASNs and upload invoices. Two-way Tally or ERP sync, vendor ratings, e-invoice capture and multi-plant access add to the scope. Most builds take 6–12 weeks, and the itemised quote follows a face-to-face meeting at your unit.`,
+    text: `From ${P.software} and most builds take 6–12 weeks. A vendor portal is a web login where your suppliers acknowledge purchase orders, view delivery schedules, send ASNs and upload invoices instead of emailing your buyers. Two-way Tally or ERP sync, vendor ratings, e-invoice capture and multi-plant access add to the scope.`,
     more: `If the bigger gap is inside your own purchase desk, start with <a href='/bhiwadi-rajasthan/purchase-management-software/'>purchase management software</a>; for receiving at the gate, see the <a href='/bhiwadi-rajasthan/gate-pass-management-system/'>gate pass system for Bhiwadi plants</a>.`,
   },
   snapshot: {
@@ -385,6 +385,7 @@ const content: FreelanceContent = {
   faqHeading: "Vendor portal development in Bhiwadi: common questions",
   faqs: [
     { question: "What is a vendor portal?", answer: "A vendor portal is a secure website where your suppliers log in to see purchase orders, delivery schedules, receipts, rejections and payment status, and to send you acknowledgements, shipping notices and invoices. It replaces scattered email and phone follow-ups with one shared record, so both your purchase desk and your vendors work from the same information." },
+    { question: "Is a supplier information gateway the same as a vendor portal?", answer: "In practice, yes. Large buyers use names such as supplier information gateway, supplier portal, supplier self-service or SIM portal. All describe one thing: a login where your suppliers maintain their own details and documents and transact with you on purchase orders, schedules, ASNs and invoices, instead of emailing your buyers. We put whichever name your purchase team uses on the screens." },
     { question: "How much does vendor portal development cost in Bhiwadi?", answer: `It starts at ${P.software} for a portal with vendor login, PO acknowledgement, schedules, invoice upload and status. Two-way sync with Tally or an ERP, ASNs with box labels, invoice matching, ratings and multi-plant access add to the scope. Hosting and message charges are paid by you directly. The itemised quote arrives about two working days after the meeting.` },
     { question: "How long does it take to build a supplier portal?", answer: "The build usually takes 6 to 12 weeks, depending on modules and integration. Onboarding vendors then runs over a few more weeks in batches, starting with a pilot group of five to ten cooperative suppliers. Delays mostly come from unclear ERP access or sample documents arriving late, so gather those before the build starts." },
     { question: "Can you meet us at our plant in Bhiwadi?", answer: "Yes. We meet you one to one at your unit in Bhiwadi, usually at the purchase desk and receiving dock, or at another place you prefer. Message a date and place on WhatsApp and we fix a time that suits both sides. We can also attend your vendor training session in person." },

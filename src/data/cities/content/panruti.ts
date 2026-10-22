@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const panruti: CityContent = {
   slug: "panruti",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 11.7767, lng: 79.5523 },
   meta: {
-    title: "IT Services in Panruti | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Panruti | Sites ₹10,000, Apps ₹40,000",
     description:
       "Tamil websites, apps, local SEO and WhatsApp automation for Panruti jackfruit traders, cashew processors, shops, clinics and schools. Websites from ₹10,000.",
     keywords: [

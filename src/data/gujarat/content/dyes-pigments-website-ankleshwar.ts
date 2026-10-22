@@ -11,9 +11,9 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/dyes-pigments-website-ankleshwar/",
   crumb: "Dyes and pigments company website in Ankleshwar",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Dyes & Pigments Company Website in Ankleshwar ${P.site}+`,
+    title: `Dyes & Pigments Website in Ankleshwar: TDS, ${P.site}`,
     description: `Dyes and pigments company website in Ankleshwar: digital shade cards, fastness and TDS data, export sample requests. Sites from ${P.site}, quote in two days.`,
     keywords: [
       "dyes and pigments company website in Ankleshwar", "dyes and pigments website Ankleshwar", "dye manufacturer website Ankleshwar GIDC", "pigment company website design Gujarat",

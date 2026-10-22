@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/ai-automation-cost-for-small-business/",
   crumb: "AI automation cost for small business",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `AI Automation Cost for Small Business: From ${P.ai}`,
-    description: `AI automation cost for small business in India: per-workflow builds from ${P.ai}, running costs, n8n vs subscriptions and a payback formula. Ask for a quote.`,
+    title: `AI Automation Cost for Small Business: ${P.ai}+`,
+    description: `Per-workflow builds from ${P.ai}, plus the monthly running cost, n8n versus subscriptions, and a payback formula you can run on your own numbers today.`,
     keywords: [
       "ai automation cost for small business", "ai automation cost", "ai automation cost in India", "how much does ai automation cost",
       "ai automation price for small business", "ai automation for small business India", "business automation cost", "workflow automation cost",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "ai automation payback period", "is ai automation worth it for small business", "ai automation freelancer cost", "ai automation for msme",
       "ai automation kitne me hota hai", "business me ai automation ka kharcha", "ai automation cost Delhi", "ai automation cost Mumbai",
       "invoice reading automation cost", "ai automation monthly cost",
+      "ai automation cost india", "small business automation price",
     ],
   },
   hero: {

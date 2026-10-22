@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const samalkot: CityContent = {
   slug: "samalkot",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 17.0531, lng: 82.1694 },
   meta: {
-    title: "IT Services in Samalkot | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Samalkot | Sites ₹10,000, Apps ₹40,000",
     description:
       "Telugu websites, apps, local SEO and WhatsApp tools for Samalkot oil and food units, rail-junction traders, temple visitors, clinics and shops. From ₹10,000.",
     keywords: [

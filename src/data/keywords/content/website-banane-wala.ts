@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/website-banane-wala/",
   crumb: "Website banane wala",
-  updated: "2026-10-02",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Banane Wala: Business Website ${P.site} se`,
-    description: `Website banane wala dhoondh rahe hain? Teen freelance developers: business website ${P.site} se, 1–2 hafte mein live, domain aur code aapke naam.`,
+    title: `Website Banane Wala Chahiye? ${P.site} Se, 2 Hafte`,
+    description: `Website banane wala dhoondh rahe hain? Teen freelance developers: website ${P.site} se, 1–2 hafte mein live, domain aur code aapke naam. 2 din mein quote.`,
     keywords: [
       "website banane wala", "website banane wala near me", "website banane wale ka number", "website banane wale developer",
       "website kaun banata hai", "website banane ka kharcha", "website banane mein kitna time lagta hai",

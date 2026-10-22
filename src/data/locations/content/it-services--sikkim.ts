@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--sikkim",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 27.533, lng: 88.5122 },
   meta: {
-    title: "Sikkim IT Services: Software & Apps",
+    title: "IT Services in Sikkim: Websites ₹10,000, Apps ₹40,000",
     description:
       "IT services in Sikkim from a freelance group of three engineers: custom software, homestay booking, pharma tools, AI automation, apps and SEO. From ₹10,000.",
     keywords: [

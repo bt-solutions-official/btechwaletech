@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/turf-booking-app-development/",
   crumb: "Turf booking app development",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Turf Booking App Development: Own App from ${P.app}`,
-    description: `Turf booking app development for box cricket and football turfs: hourly slots, UPI advance, night pricing, split pay, tournaments. Apps from ${P.app}.`,
+    title: `Turf Booking App Development: No Commission, ${P.app}`,
+    description: `Turf booking app development for box cricket and football turfs: hourly slots, UPI advance, night pricing and tournaments. Your own app from ${P.app}.`,
     keywords: [
       "turf booking app development", "turf booking app", "box cricket booking app", "football turf booking app",
       "turf booking app development cost", "turf booking app price in india", "turf slot booking app", "sports venue booking app",

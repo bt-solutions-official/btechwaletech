@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const tura: CityContent = {
   slug: "tura",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 25.5167, lng: 90.2167 },
   meta: {
-    title: "IT Services in Tura | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Tura | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, local SEO and WhatsApp automation for Tura and Garo Hills schools, colleges, churches, homestays, traders and clinics. From ₹10,000.",
     keywords: [

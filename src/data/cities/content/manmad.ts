@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const manmad: CityContent = {
   slug: "manmad",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 20.251, lng: 74.439 },
   meta: {
-    title: "IT Services in Manmad | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Manmad | Sites ₹10,000, Apps ₹40,000",
     description:
       "Marathi websites, apps, local SEO and WhatsApp tools for Manmad onion traders, transporters, railway-town shops, clinics and schools. Sites from ₹10,000.",
     keywords: [

@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--rajasthan--jaipur",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 26.9124, lng: 75.7873 },
   meta: {
     title: "Jaipur App & Software Developers: Gems & Block Printing",
     description:
-      "Hire freelance software developers in Jaipur for jewellery ERPs, print-house job tracking and SaaS MVPs. Starting prices in INR, paid by UPI or bank transfer.",
+      "Hire freelance software developers in Jaipur for jewellery ERPs, print-house job tracking and SaaS MVPs. Software ₹60,000, paid by UPI or bank transfer.",
     keywords: [
       "software development team in Jaipur",
       "IT services team in Jaipur",
@@ -245,7 +245,7 @@ const content: CityContent = {
         "After launch, a Jaipur business pays four kinds of running cost: the yearly domain renewal, hosting or cloud usage, third-party usage such as WhatsApp messaging or AI model calls, and optional support once the two free months end. Our build price covers the engineering; these recurring items are billed by each provider straight to accounts in your name, so every rupee is visible.",
         "The domain is a small annual fee, and a static site for a Bapu Bazaar boutique or a tour desk near Hawa Mahal can often sit on a free or very low-cost hosting tier. A jewellery stock system with logins, a database and a photo of every piece needs a paid cloud server, and that bill rises with users, images and backups rather than with the number of pages. WhatsApp Business API messages are charged by Meta by conversation category, and AI replies are charged per request by the model provider, so a Johari Bazaar showroom will see a larger bill in the wedding season than in a quiet month.",
         "Apps bring store fees of their own. Google Play asks for a one-time developer registration, and the Apple Developer Program is a yearly membership; both are paid by you, in your own account, which also means the app listing can never be held hostage by a developer. After the free maintenance period, our support continues from ₹8,000 a month, or you can simply message us when a change is needed and pay for that job alone.",
-        "We write these figures into the itemised quote, so a Sitapura exporter or a Malviya Nagar clinic knows the likely monthly spend before approving the build. The <a href='/pricing/'>pricing page</a> shows the starting prices for the build itself."
+        "We write these figures into the itemised quote, so a Sitapura exporter or a Malviya Nagar clinic knows the likely monthly spend before approving the build. The <a href='/pricing/'>pricing page</a> shows the starting prices for the build itself. If you want the consulting side first, a review and a written roadmap before any build, read <a href='/india/rajasthan/jaipur/'>IT consulting in Jaipur</a>."
       ],
       "list": [
         "Domain renewal: once a year, registered in your name",

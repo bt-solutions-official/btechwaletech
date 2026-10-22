@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const moga: CityContent = {
   slug: "moga",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 30.8219, lng: 75.1739 },
   meta: {
-    title: "IT Services in Moga | Web, Apps, SEO & AI from ₹10,000",
+    title: "IT Services in Moga | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, local SEO, lead tools and WhatsApp automation for Moga's IELTS centres, visa consultants, implement makers and shops. Static sites from ₹10,000.",
     keywords: [

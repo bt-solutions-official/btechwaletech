@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const bargarh: CityContent = {
   slug: "bargarh",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 21.3333, lng: 83.6167 },
   meta: {
-    title: "IT Services in Bargarh | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Bargarh | Sites ₹10,000, Apps ₹40,000",
     description:
       "Bargarh Odia and English websites, Android and iOS apps, local SEO and WhatsApp automation for rice mills, Sambalpuri weavers, traders, clinics and colleges.",
     keywords: [

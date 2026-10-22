@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/temple-website-development/",
   crumb: "Temple website development",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Temple Website Development: Donations & Seva, ${P.site}+`,
-    description: `Temple website development for mandirs and trusts: online donations with 80G receipts, seva booking, live darshan and festival calendars. From ${P.site}.`,
+    title: `Temple Website Development: Donations & Seva, ${P.site}`,
+    description: `Temple website development for mandirs and trusts: online donations with 80G receipts, seva booking, live darshan and a festival calendar. From ${P.site}.`,
     keywords: [
       "temple website development", "temple website", "mandir website", "temple website design", "temple website development India",
       "website for temple trust", "religious trust website", "temple donation website", "online donation for temple with 80G receipt",

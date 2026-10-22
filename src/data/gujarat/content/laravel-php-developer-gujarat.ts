@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/laravel-php-developer-gujarat/",
   crumb: "Laravel and PHP developer in Gujarat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Laravel and PHP Developer in Gujarat: Upgrades, Rescue`,
-    description: `Laravel and PHP developer in Gujarat for new builds, PHP version upgrades and rescue of old sites. Laravel apps from ${P.software}; code review quoted first.`,
+    title: `Laravel & PHP Developer in Gujarat, Apps from ${P.software}`,
+    description: `Laravel and PHP developer in Gujarat for new builds, version upgrades and rescuing old code. Laravel apps from ${P.software}; a code review is quoted first.`,
     keywords: [
       "Laravel and PHP developer in Gujarat", "Laravel developer Gujarat", "PHP developer Gujarat", "Laravel developer near me",
       "PHP developer near me", "hire Laravel developer Gujarat", "PHP website upgrade Gujarat", "PHP version upgrade service",

@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const alipurduar: CityContent = {
   slug: "alipurdurban-agglomerationr",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 26.4889, lng: 89.5269 },
   meta: {
-    title: "IT Services in Alipurduar: Web, Apps, SEO & AI",
+    title: "Website Design in Alipurduar | Sites from ₹10,000",
     description:
-      "Alipurduar websites, Android and iOS apps, local SEO and WhatsApp automation for homestays, tea suppliers, Jaigaon traders, clinics and Dooars schools.",
+      "Alipurduar websites from ₹10,000, live in 1-2 weeks. Apps from ₹40,000, local SEO and WhatsApp bots for homestays, tea suppliers, Jaigaon traders and schools.",
     keywords: [
       "IT services in Alipurduar",
       "IT services team in Alipurduar",

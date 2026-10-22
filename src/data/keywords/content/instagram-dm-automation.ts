@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/instagram-dm-automation/",
   crumb: "Instagram DM automation",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Instagram DM Automation: Comment-to-DM from ${P.ai}`,
-    description: `Instagram DM automation on Meta’s official API: comment keywords to DMs, AI product answers, leads sent to WhatsApp or your CRM. Custom builds from ${P.ai}.`,
+    description: `Comment keywords trigger DMs, AI answers product questions, and every lead lands in WhatsApp or your CRM. Meta’s official API, so no bans. From ${P.ai}.`,
     keywords: [
       "instagram dm automation", "instagram dm automation India", "instagram auto reply dm", "instagram comment to dm automation",
       "instagram keyword auto reply", "automate instagram dms", "instagram dm bot", "instagram ai dm reply",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "instagram dm automation company in India",
       "best instagram dm automation in India",
       "instagram dm automation services",
+      "automated instagram messaging", "instagram dm customer service", "instagram messaging software", "instagram private replies api",
     ],
   },
   hero: {

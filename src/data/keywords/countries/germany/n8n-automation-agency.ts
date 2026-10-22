@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/n8n-automation-agency/",
   crumb: "n8n automation agency",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `n8n Automation Agency: EU Workflows from ${P.ai}`,
-    description: `n8n automation agency alternative for German firms: self-hosted or EU cloud n8n, lexoffice, sevDesk, Personio, Shopware and DATEV flows. Builds from ${P.ai}.`,
+    title: `n8n Automation Agency, EU-Hosted: Flows from ${P.ai}`,
+    description: `n8n automation for German firms: self-hosted or EU-cloud n8n with lexoffice, sevDesk, Personio, Shopware and DATEV flows. Workflows from ${P.ai}, 2–4 weeks.`,
     keywords: [
       "n8n automation agency", "n8n agency germany", "n8n experte", "n8n expert germany",
       "hire n8n developer", "n8n self hosted gdpr", "n8n cloud eu hosting", "n8n vs zapier",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "n8n hosting frankfurt", "n8n maintenance", "n8n error handling", "how much does an n8n agency cost",
       "n8n workflow development", "n8n agency berlin", "n8n agency munich", "n8n agency hamburg",
       "n8n agency cologne", "n8n ai agent workflows", "migrate zapier to n8n", "n8n freelancer india",
+      "n8n personio integration", "n8n germany", "n8n agentur", "self hosted n8n germany", "n8n workflow developer",
     ],
   },
   hero: {

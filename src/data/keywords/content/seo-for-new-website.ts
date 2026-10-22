@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/seo-for-new-website/",
   crumb: "SEO for new website",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `SEO for New Website: Launch Checklist & Plan (2026)`,
-    description: `SEO for a new website: pre-launch checklist, getting a new domain indexed, the first 30 pages, first backlinks and a six-month plan. SEO from ${P.seo}.`,
+    title: "SEO for a New Website: Get Indexed in Days (2026)",
+    description: `SEO for a new website: the pre-launch checklist, getting a new domain indexed in days, your first 30 pages, first links and a six-month plan. SEO ${P.seo}.`,
     keywords: [
       "seo for new website", "new website seo", "seo for a new website", "how to do seo for new website",
       "new website not indexed", "how to get new website indexed on google", "new domain seo", "how long for new website to rank",

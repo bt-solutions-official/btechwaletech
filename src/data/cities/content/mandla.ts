@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const mandla: CityContent = {
   slug: "mandla",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 22.5978, lng: 80.3714 },
   meta: {
-    title: "IT Services in Mandla | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Mandla | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, local SEO and WhatsApp automation for Mandla Kanha resorts, Maneri units, traders, colleges, clinics and Narmada visitors. From ₹10,000.",
     keywords: [

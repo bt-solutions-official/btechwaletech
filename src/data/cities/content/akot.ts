@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const akot: CityContent = {
   slug: "akot",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 21.0964, lng: 77.0579 },
   meta: {
-    title: "IT Services in Akot | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Akot | Sites ₹10,000, Apps ₹40,000",
     description:
       "Akot Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for cotton traders, ginning units, farm input dealers, clinics and colleges.",
     keywords: [

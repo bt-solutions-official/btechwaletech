@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sira: CityContent = {
   slug: "sira",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 13.745, lng: 76.909 },
   meta: {
-    title: "IT Services in Sira | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sira | Sites ₹10,000, Apps ₹40,000",
     description:
       "Kannada and Urdu-friendly websites, apps and SEO for Sira groundnut traders, NH48 businesses, suppliers and clinics. From ₹10,000 and live in 1-2 weeks.",
     keywords: [

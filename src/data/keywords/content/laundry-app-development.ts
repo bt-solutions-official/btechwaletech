@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/laundry-app-development/",
   crumb: "Laundry app development",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Laundry App Development with Tagging, from ${P.app}`,
-    description: `Laundry app development for laundries and dry cleaners: pickup slots, per-kg or per-piece pricing, barcode garment tags and WhatsApp status. From ${P.app}.`,
+    title: `Laundry App Development: Barcode Tags, ${P.app}`,
+    description: `Laundry and dry-cleaning app development from ${P.app}: pickup and delivery slots, per-kg or per-piece pricing, barcode garment tags, WhatsApp status updates.`,
     keywords: [
       "laundry app development", "laundry app development company alternative", "dry cleaning app development", "laundry app developer",
       "laundry app development cost", "how much does it cost to build a laundry app", "on-demand laundry app", "laundry pickup and delivery app",

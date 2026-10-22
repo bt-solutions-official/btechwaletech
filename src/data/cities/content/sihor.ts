@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sihor: CityContent = {
   slug: "sihor",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 21.7028, lng: 71.9702 },
   meta: {
-    title: "IT Services in Sihor | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sihor | Sites ₹10,000, Apps ₹40,000",
     description:
       "Gujarati websites, apps, local SEO and WhatsApp tools for Sihor re-rolling mills, brass utensil makers, potters, shops and clinics. Sites from ₹10,000.",
     keywords: [

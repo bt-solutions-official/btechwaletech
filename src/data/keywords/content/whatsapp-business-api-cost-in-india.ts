@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/whatsapp-business-api-cost-in-india/",
   crumb: "WhatsApp Business API cost in India",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: "WhatsApp Business API Cost in India + Sample Bills",
-    description: `WhatsApp Business API cost in India: Meta per-message charges, free windows, BSP markups and sample monthly bills. Direct Cloud API setup from ${P.ai}.`,
+    title: "WhatsApp Business API Cost in India: 2026 Price List",
+    description: `Meta bills per delivered template: marketing most, utility and authentication less, replies within 24 hours free. Sample bills plus setup from ${P.ai}.`,
     keywords: [
+      "whatsapp business api pricing india", "whatsapp business account charges", "whatsapp business pricing", "meta whatsapp api pricing",
       "whatsapp business api cost in india", "whatsapp business api pricing india", "whatsapp api cost per message india", "whatsapp business api charges",
       "whatsapp api price in india", "whatsapp business api monthly cost", "whatsapp marketing message cost india", "whatsapp utility message cost",
       "whatsapp authentication message cost", "whatsapp api free messages", "whatsapp 24 hour window free", "whatsapp business api bsp charges",

@@ -2,7 +2,7 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--haryana--gurgaon--web-development",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 28.4595, lng: 77.0266 },
   meta: {
     title: "Gurgaon Web Developers: Web Apps & SaaS",
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "Gurgaon businesses most often need four kinds of web development: fast marketing websites that generate enquiries, web applications that run an internal process, portals that let customers or vendors log in, and ecommerce stores. Our freelance team builds all four, and the choice between them should come from the business problem rather than from whatever a vendor happens to sell.",
         "A marketing site is right when the goal is leads: a clinic, a coworking operator, a consultancy. A web application is right when staff are juggling spreadsheets, email threads and WhatsApp groups to run operations, such as tracking export orders in Udyog Vihar or managing field technicians across sectors. A portal fits when outsiders need self-service: dealers checking stock, tenants raising maintenance tickets, students downloading notes. Ecommerce fits when you want to sell directly without marketplace commissions.",
-        "Many Gurugram projects combine these. A property firm might need a public site with project pages, a broker portal for inventory and commissions, and an Android and iOS app for site visits. We plan the shared pieces, such as one database and one API, so you are not paying for the same thing three times.",
+        "Many Gurugram projects combine these. A property firm might need a public site with project pages, a broker portal for inventory and commissions, and an Android and iOS app for site visits. We plan the shared pieces, such as one database and one API, so you are not paying for the same thing three times. For software, app and AI work beyond websites, see <a href='/it-services/haryana/gurugram/'>software developers in Gurugram</a>.",
       ],
       list: [
         "Business websites and landing pages",

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/ecommerce-website-development-mehsana/",
   crumb: "Ecommerce website development in Mehsana",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Ecommerce Website Development in Mehsana from ${P.shop}`,
-    description: `Ecommerce website development in Mehsana for ghee, sweets, spices and retail sellers: UPI and card checkout, GST invoices, NRI gift orders. From ${P.shop}.`,
+    title: `Ecommerce Website in Mehsana: ${P.shop}, Live in 4–8 Weeks`,
+    description: `Mehsana online store from ${P.shop} for ghee, sweets and spice sellers: UPI and card checkout in your own account, GST invoices, NRI gift orders, 4–8 weeks.`,
     keywords: [
       "ecommerce website development in Mehsana", "ecommerce website Mehsana", "ecommerce website Mahesana", "online store development Mehsana",
       "ecommerce developer near me Mehsana", "ecommerce website Mehsana Gujarat", "online shop website Mehsana", "ecommerce website cost Mehsana",

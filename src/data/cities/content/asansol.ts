@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const asansol: CityContent = {
   slug: "asansol",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 23.6739, lng: 86.9524 },
   meta: {
-    title: "Web Design & SEO for Asansol Businesses | From ₹10,000",
+    title: "Website Design & SEO Company in Asansol | ₹10,000",
     description:
-      "Asansol, Burnpur, Kulti and Raniganj websites, local SEO, online stores and WhatsApp automation. From ₹10,000, with 2 months of free maintenance.",
+      "Asansol websites from ₹10,000, live in 1-2 weeks, and SEO from ₹10,000 a month. Burnpur, Kulti and Raniganj covered, in Bengali, Hindi or English.",
     keywords: [
       "website development team in Asansol",
       "web designer Asansol",
@@ -43,7 +43,7 @@ const asansol: CityContent = {
     pills: ["Sites from ₹10,000", "Bengali and Hindi search", "UPI-ready stores", "WhatsApp order flows", "Vendor portals"],
   },
   quickAnswer:
-    "For an Asansol business, a small website with us starts at ₹10,000 and takes one to two weeks, while a 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Stores begin at ₹50,000. We are a remote team with no local office, and two months of maintenance after launch are included free.",
+    "An Asansol business website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, stores start at ₹50,000 and monthly SEO from ₹10,000. We cover Burnpur, Kulti and Raniganj, with two months of free maintenance.",
   snapshot: [
     { label: "Commercial areas", value: "Hutton Road and Raha Lane, GT Road, Court More, Chelidanga, Sen Raleigh Road and Apcar Garden" },
     { label: "Heavy industry", value: "SAIL's IISCO Steel Plant at Burnpur and Chittaranjan Locomotive Works" },
@@ -282,6 +282,11 @@ const asansol: CityContent = {
       question: "What should I send you to get a quote?",
       answer:
         "A short note about what you sell, who your customers are and which parts of Asansol or the region you serve. Add your current website link if one exists, and any logo, photos or brochure. With that, we can send a page plan, timeline and itemised quote, usually within two working days.",
+    },
+    {
+      question: "Are you an SEO company in Asansol, and what does monthly SEO cost?",
+      answer:
+        "We do search work as well as building sites. Monthly SEO starts at ₹10,000 and covers Google Business Profile work, pages written for English, Hindi and Bengali searches, consistent listings, technical fixes and a plain-English monthly report. A 299+ page SEO website, built from ₹20,000, is usually the cheaper first step if your current site has only a few pages.",
     },
   ],
   nearby: ["dhanbad", "bokaro-steel-city", "purulia", "bankura", "raghunathpur", "adra", "suri"],

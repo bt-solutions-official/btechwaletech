@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/website-developer-nagpur/",
   crumb: "Website developer in Nagpur",
-  updated: "2026-10-02",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Nagpur | Hindi-ready, ${P.site}+`,
-    description: `Website developer in Nagpur for hospitals, coaching institutes, traders and MIHAN suppliers: Hindi and English sites from ${P.site}, live in 1-2 weeks.`,
+    title: `Website Developer in Nagpur: Hindi-Ready, ${P.site}`,
+    description: `Website developer in Nagpur for hospitals, coaching institutes, traders and MIHAN suppliers: Hindi and English sites from ${P.site}, live in 1–2 weeks.`,
     keywords: [
       "website developer in Nagpur", "website developer Nagpur", "website developer near me Nagpur", "web developer in Nagpur",
       "website designer in Nagpur", "website development services Nagpur", "website making in Nagpur",

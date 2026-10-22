@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/manufacturer-website-design-gujarat/",
   crumb: "Manufacturer website design in Gujarat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Manufacturer Website Design in Gujarat from ${P.site}`,
-    description: `Manufacturer website design in Gujarat for MSMEs and factories: capability pages, product catalogues and RFQ forms with drawing upload. From ${P.site}.`,
+    title: `Manufacturer Website Design in Gujarat: RFQ, ${P.site}`,
+    description: `Manufacturer website design in Gujarat for MSMEs and GIDC units: capability pages, spec tables and an RFQ form that accepts drawings. From ${P.site}.`,
     keywords: [
       "manufacturer website design in Gujarat", "manufacturer website design Gujarat", "factory website design near me", "MSME website design Gujarat",
       "manufacturing website designer Gujarat", "industrial website design Gujarat", "GIDC unit website design", "manufacturer website developer Gujarat",

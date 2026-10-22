@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--andhra-pradesh",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 15.9129, lng: 79.74 },
   meta: {
-    title: "Andhra Pradesh IT Services: Software & AI",
+    title: "IT Services in Andhra Pradesh: Sites from ₹10,000",
     description:
-      "IT services in Andhra Pradesh for Vizag, Vijayawada, Guntur, Tirupati and Kakinada: custom software, apps, AI automation and Telugu SEO. Quotes in 2 days.",
+      "IT services in Andhra Pradesh for Vizag, Vijayawada, Guntur, Tirupati and Kakinada: software, apps, AI and Telugu SEO. Sites ₹10,000, quote in 2 days.",
     keywords: [
       "IT services in Andhra Pradesh",
       "software development team in Andhra Pradesh",

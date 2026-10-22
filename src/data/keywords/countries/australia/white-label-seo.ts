@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/white-label-seo/",
   crumb: "White label SEO Australia",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `White Label SEO Australia: Resell from ${P.seo}`,
-    description: `White label SEO for Australian agencies: unbranded reports, on-page, technical and content briefs, turned around across AEST/IST. From ${P.seo} per client.`,
+    title: `White Label SEO Australia: Overnight, from ${P.seo}`,
+    description: `White label SEO for Australian agencies: unbranded audits, on-page, technical fixes and content briefs turned around overnight AEST. From ${P.seo}.`,
     keywords: [
       "white label seo australia", "white label seo", "white label seo services australia", "seo reseller australia",
       "white label seo agency australia", "private label seo australia", "outsourced seo for agencies",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "white label seo perth", "seo fulfilment partner", "offshore seo team for agencies", "resell seo under your brand",
       "white label seo nda", "white label link building policy",
       "hire white label seo in Australia", "freelance white label seo Australia",
+      "white label seo reseller australia", "white label seo agency melbourne", "white label seo company sydney", "white label seo services gold coast", "private white label seo services",
     ],
   },
   hero: {

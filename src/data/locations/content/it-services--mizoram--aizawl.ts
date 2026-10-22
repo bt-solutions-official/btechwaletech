@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--mizoram--aizawl",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 23.7271, lng: 92.7176 },
   meta: {
     title: "Aizawl, Mizoram Software Developers: Churches & Schools",
     description:
-      "Hire freelance software developers in Aizawl for custom software, web apps, AI agents, workflow automation and dashboards. Itemised quote in two working days.",
+      "Hire freelance software developers in Aizawl for custom software, web apps, AI agents, workflow automation and dashboards. Software ₹60,000, quote in 2 days.",
     keywords: [
       "Android app development Aizawl",
       "iOS app development Aizawl",

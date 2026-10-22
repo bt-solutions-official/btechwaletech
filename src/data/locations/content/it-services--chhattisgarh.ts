@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--chhattisgarh",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 21.2787, lng: 81.8661 },
   meta: {
-    title: "Chhattisgarh IT Services: Software & AI",
+    title: "IT Services in Chhattisgarh: Sites from ₹10,000",
     description:
       "Freelance IT services in Chhattisgarh: custom software, web and mobile apps, AI automation, plus dashboards. Websites from ₹10,000, quote in two working days.",
     keywords: [

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/erp-software-development-cost-in-india/",
   crumb: "ERP software development cost in India",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `ERP Software Development Cost in India: from ${P.software}`,
-    description: `ERP software development cost in India, module by module: inventory, purchase, production, GST accounting, data migration and AMC. Phase one from ${P.software}.`,
+    title: `ERP Software Development Cost in India: ${P.software}+`,
+    description: `Phase one from ${P.software}, module by module: inventory, purchase, production and GST accounting. Data migration and AMC priced openly, no per-user licence fees.`,
     keywords: [
       "erp software development cost in india", "erp software cost in india", "custom erp development cost india", "erp development cost",
       "erp software price for small business india", "erp for manufacturing company cost india", "erp software for sme india cost",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "erp data migration from tally", "erp data migration from excel", "phased erp implementation", "odoo vs custom erp cost",
       "erp software banwane ka kharcha", "erp software for factory india", "erp software rajkot", "erp software ludhiana",
       "erp software development company near me", "cloud erp cost india",
+      "erp pricing india", "erp software price india", "erp with source code", "erpnext implementation cost",
     ],
   },
   hero: {

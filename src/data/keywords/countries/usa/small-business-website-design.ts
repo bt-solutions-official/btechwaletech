@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/usa/small-business-website-design/",
   crumb: "Small business website design services",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Small Business Website Design Services from ${P.site}`,
-    description: `Small business website design services for US owners: a 5–10 page lead site from ${P.site} with click-to-call, quote forms and a Google Business Profile tie-in.`,
+    title: `Small Business Website Design: 5–10 Pages, ${P.site}+`,
+    description: `Small business website design for US owners: a 5–10 page lead site from ${P.site} with click-to-call, quote forms and your Google Business Profile wired in.`,
     keywords: [
       "small business website design services", "small business website design", "small business web design services", "website design for small business",
       "small business website designer", "affordable small business website design", "small business website design cost", "how much should a small business website cost",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "website with quote form for contractors", "accessible small business website", "who owns my website domain and hosting", "small business website usa",
       "small business web design dallas", "small business web design denver", "small business web design nashville", "small business web design phoenix",
       "local business website design", "remote web designer for small business",
+      "small business web design usa", "cheap website design for small business",
     ],
   },
   hero: {

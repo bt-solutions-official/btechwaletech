@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const aizawl: CityContent = {
   slug: "aizawl",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 23.7271, lng: 92.7176 },
   meta: {
-    title: "Web Design & SEO in Aizawl, Mizoram | From ₹10,000",
+    title: "Website Design in Aizawl, Mizoram | From ₹10,000",
     description:
-      "Aizawl websites, local SEO, online stores and WhatsApp automation for shops, weavers, homestays and clinics. Sites from ₹10,000, 2 months of free maintenance.",
+      "Aizawl websites from ₹10,000, live in 1-2 weeks. Local SEO, stores from ₹50,000 and WhatsApp automation for shops, weavers, homestays and clinics.",
     keywords: [
       "website development team in Aizawl",
       "web design Aizawl",

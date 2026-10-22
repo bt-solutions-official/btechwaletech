@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/website-developer-navi-mumbai/",
   crumb: "Website developer in Navi Mumbai",
-  updated: "2026-10-02",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Navi Mumbai, from ${P.site}`,
-    description: `Website developer in Navi Mumbai for APMC traders, TTC units, logistics and Kharghar businesses. Sites from ${P.site}, all accounts in your name. Free quote.`,
+    title: `Website Developer in Navi Mumbai: From ${P.site}`,
+    description: `Website developer in Navi Mumbai for APMC traders, TTC units, logistics firms and Kharghar businesses: sites from ${P.site}, all accounts in your name.`,
     keywords: [
       "website developer in Navi Mumbai", "website developer Navi Mumbai", "website developer near me Navi Mumbai", "web developer in Navi Mumbai",
       "website designer in Navi Mumbai", "website development services Navi Mumbai", "website making Navi Mumbai",

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/erpnext-implementation-partner/",
   crumb: "ERPNext implementation partner",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `ERPNext Implementation Partner, Rollouts from ${P.software}`,
-    description: `ERPNext implementation partner for manufacturers, traders and distributors: discovery, setup, Tally data migration, GST and training. From ${P.software}.`,
+    title: `ERPNext Implementation Partner, Rollouts ${P.software}+`,
+    description: `Discovery, ERPNext setup, Tally data migration, GST e-invoicing and staff training for manufacturers, traders and distributors. Rollouts from ${P.software}.`,
     keywords: [
       "erpnext implementation partner", "erpnext implementation partner india", "erpnext implementation", "erpnext implementation services",
       "erpnext consultant", "erpnext implementation cost", "erpnext implementation cost in india", "how to choose erpnext partner",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "erpnext kaun lagayega", "frappe erpnext freelancer",
       "erpnext implementation partner company in India",
       "best erpnext implementation partner in India",
+      "erpnext partners india", "erpnext amc cost", "odoo vs erpnext partner",
     ],
   },
   hero: {

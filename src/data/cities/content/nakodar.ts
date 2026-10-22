@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const nakodar: CityContent = {
   slug: "nakodar",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 31.1275, lng: 75.4781 },
   meta: {
-    title: "IT Services in Nakodar | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Nakodar | Sites ₹10,000, Apps ₹40,000",
     description:
       "Punjabi and English websites, apps and SEO for Nakodar visa offices, arhtiyas, colleges, clinics and NRI-facing firms. From ₹10,000 and live in 1-2 weeks.",
     keywords: [

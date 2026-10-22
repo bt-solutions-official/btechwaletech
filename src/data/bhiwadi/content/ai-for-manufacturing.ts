@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/ai-for-manufacturing/",
   crumb: "AI for manufacturing",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `AI for Manufacturing in Bhiwadi: Pilots from ${P.ai}`,
-    description: `AI for manufacturing companies in Bhiwadi from ${P.ai}: forecasting, document AI and maintenance-log analysis on data you have. We walk your floor one to one.`,
+    title: `AI for Manufacturing in Bhiwadi: Pilot from ${P.ai}`,
+    description: `AI for manufacturing in Bhiwadi from ${P.ai}, pilot in 2–4 weeks: demand forecasting, document AI and rejection-pattern analysis on data you already hold.`,
     keywords: [
       "AI for manufacturing companies in Bhiwadi", "AI for manufacturing Bhiwadi", "AI for manufacturing near me",
       "AI in manufacturing Bhiwadi Rajasthan", "AI for factories Bhiwadi Alwar", "AI solutions for manufacturers Bhiwadi",
@@ -50,7 +50,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What can AI do for manufacturing companies in Bhiwadi, and what does it cost?",
-    text: `AI for manufacturing companies in Bhiwadi is most useful for forecasting demand from past orders, reading documents such as bills and customer specifications, and finding patterns in maintenance and rejection records. With BtechWaleTech a focused pilot starts at ${P.ai} and takes 2–4 weeks; a production tool with dashboards starts at ${P.software}. It needs a year or more of reasonably clean data, and it never replaces your engineers' judgement.`,
+    text: `A focused pilot starts at ${P.ai} and takes 2–4 weeks; a production tool with dashboards starts at ${P.software}. The useful jobs in a Bhiwadi plant are forecasting demand from past orders, reading bills and customer specifications, and finding patterns in maintenance and rejection records. It needs a year of reasonably clean data.`,
     more: `Every pilot follows a one-to-one plant walk in Bhiwadi. For the data groundwork, see <a href='/bhiwadi-rajasthan/data-analytics-services/'>data analytics in Bhiwadi</a>; for documents, <a href='/bhiwadi-rajasthan/invoice-data-extraction/'>invoice data extraction</a>.`,
   },
   snapshot: {

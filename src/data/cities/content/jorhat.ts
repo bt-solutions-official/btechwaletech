@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const jorhat: CityContent = {
   slug: "jorhat",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 26.75, lng: 94.2167 },
   meta: {
-    title: "IT Services in Jorhat | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Jorhat | Sites ₹10,000, Apps ₹40,000",
     description:
       "Jorhat websites, Android and iOS apps, local SEO and WhatsApp automation for tea gardens, Gar-Ali traders, colleges, clinics and Majuli-bound tourism.",
     keywords: [

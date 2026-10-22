@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/dealer-loyalty-program-app/",
   crumb: "Dealer loyalty program app",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Dealer Loyalty Program App with QR & UPI, from ${P.app}`,
-    description: `Dealer loyalty program app for electricians, plumbers, painters and retailers: QR scan points, UPI payouts, KYC and fraud checks. Builds from ${P.app}.`,
+    title: `Dealer Loyalty Program App: QR & UPI from ${P.app}`,
+    description: `QR scan points, UPI payouts, KYC and fraud checks for electricians, plumbers, painters and retailers. Apps from ${P.app}, built in 6–10 weeks in India.`,
     keywords: [
       "dealer loyalty program app", "dealer loyalty app", "channel loyalty program app", "influencer loyalty program app",
       "electrician loyalty app", "plumber loyalty app", "painter loyalty program app", "mechanic loyalty app",
@@ -27,6 +27,7 @@ const content: FreelanceContent = {
       "dealer loyalty program app company in India",
       "best dealer loyalty program app in India",
       "dealer loyalty program app services",
+      "distributor loyalty software", "dealer loyalty app india", "customer loyalty program india",
     ],
   },
   hero: {

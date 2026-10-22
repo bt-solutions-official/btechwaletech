@@ -66,7 +66,7 @@ export function countryServiceSchema(o: {
     description: o.description,
     email: siteContact.email,
     telephone: siteContact.phone,
-    priceRange: `${usd("Maintenance")} – ${usd("Custom web app")}+`,
+    priceRange: `${usd("Static")} – ${usd("Custom web app")}+`,
     address: { "@type": "PostalAddress", addressCountry: "IN" },
     areaServed: [
       { "@type": "Country", name: o.country },

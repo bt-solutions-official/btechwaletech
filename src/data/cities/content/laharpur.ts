@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const laharpur: CityContent = {
   slug: "laharpur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 27.7167, lng: 80.9 },
   meta: {
-    title: "IT Services in Laharpur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Laharpur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Laharpur websites, mobile apps, local SEO and WhatsApp bots for durrie weavers, timber and leather units, sugarcane traders and schools. Ask us on WhatsApp.",
     keywords: [

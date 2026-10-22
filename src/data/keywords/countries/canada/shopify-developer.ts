@@ -9,7 +9,7 @@ const P = {
 const content: FreelanceContent = {
   path: "/canada/shopify-developer/",
   crumb: "Shopify developer Canada",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Shopify Developer Canada: Stores from ${P.shop}`,
     description: `Shopify developer for Canada: stores from ${P.shop} with GST/HST/QST set up, Canada Post rates, Shopify Markets for the US and a French storefront for Quebec.`,
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "shopify gst hst setup", "shopify qst quebec", "shopify canada post shipping setup", "shopify markets canada to us",
       "shopify french store quebec", "shopify theme customization canada", "shopify payments canada", "freelance shopify developer canada",
       "shopify developer near me", "shopify store developer for canadian brands", "offshore shopify developer india",
+      "shopify help vancouver", "shopify support vancouver", "shopify developer brampton",
     ],
   },
   hero: {

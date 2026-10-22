@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const shahabad: CityContent = {
   slug: "shahabad",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 17.1333, lng: 76.9333 },
   meta: {
-    title: "IT Services in Shahabad | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Shahabad | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, local SEO and WhatsApp tools for Shahabad stone quarries, polishing units, cement suppliers, dal traders, clinics and shops. From ₹10,000.",
     keywords: [

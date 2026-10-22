@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/ca-firm-website-design/",
   crumb: "CA firm website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `CA Firm Website Design: ICAI-Aware Sites from ${P.site}`,
-    description: `CA firm website design within ICAI’s website guidelines: GST, ITR and audit pages, secure document upload and a compliance calendar. Sites from ${P.site}.`,
+    title: `CA Firm Website Design: ICAI-Aware, from ${P.site}`,
+    description: `ICAI-compliant CA firm websites from ${P.site}: GST, ITR and audit service pages, secure document upload, a compliance calendar, and no banned claims anywhere.`,
     keywords: [
       "CA firm website design", "chartered accountant website design", "CA website design", "website for CA firm",
       "CA firm website", "chartered accountant firm website", "ICAI website guidelines", "ICAI guidelines for CA website",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "CA practice website", "accounting firm website design India",
       "best ca firm website design in India",
       "ca firm website design services",
+      "ca firm websites", "website designing company for ca", "chartered accountant website design india",
     ],
   },
   hero: {

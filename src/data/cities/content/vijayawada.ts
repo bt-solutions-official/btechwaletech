@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const vijayawada: CityContent = {
   slug: "vijayawada",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 16.5062, lng: 80.648 },
   meta: {
-    title: "Vijayawada Web Design, SEO & Automation | From ₹10,000",
+    title: "Website Design Company in Vijayawada | ₹10,000 Up",
     description:
-      "Websites, Telugu and English SEO and WhatsApp automation for Vijayawada traders, Auto Nagar workshops, colleges and hospitals. From ₹10,000, you own the code.",
+      "Vijayawada websites from ₹10,000, live in 1-2 weeks, with Telugu and English SEO. Responsive builds for Auto Nagar workshops, traders, colleges and hospitals.",
     keywords: [
       "website development team in Vijayawada",
       "web design team Vijayawada",
@@ -45,7 +45,7 @@ const vijayawada: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Wholesale catalogues", "WhatsApp automation", "2 months free maintenance"],
   },
   quickAnswer:
-    "Our websites for Vijayawada businesses start at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers with no Vijayawada office. Every project includes hosting in your name, SEO basics and two months of free maintenance.",
+    "A Vijayawada business website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, stores start at ₹50,000 and web applications at ₹60,000. Every build is responsive, in Telugu or English, with two free months of upkeep.",
   snapshot: [
     { label: "Trading streets", value: "Governorpet, Besant Road, One Town and the Kaleswara Rao Market area, with MG Road (Bandar Road) for showrooms" },
     { label: "Industrial estates", value: "Jawaharlal Nehru Auto Nagar for automobile trades, Kondapalli industrial estate, and units around Nunna and Gannavaram" },

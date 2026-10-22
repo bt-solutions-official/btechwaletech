@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/groundnut-oil-mill-website-saurashtra/",
   crumb: "Groundnut oil mill website in Saurashtra",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Groundnut Oil Mill Website in Saurashtra from ${P.site}`,
-    description: `Groundnut oil mill website in Saurashtra: brand and pack pages, FSSAI details shown properly, distributor forms and an online store. Sites from ${P.site}.`,
+    title: `Groundnut Oil Mill Website in Saurashtra, ${P.site}+`,
+    description: `Groundnut oil mill website in Saurashtra: a page per oil and pack size, FSSAI details, distributor enquiries and a where-to-buy page. Sites from ${P.site}.`,
     keywords: [
       "groundnut oil mill website in Saurashtra", "groundnut oil mill website", "oil mill website Rajkot", "groundnut oil brand website Gujarat", "peanut oil manufacturer website",
       "oil mill website Gondal", "cold pressed groundnut oil website", "kachi ghani oil website", "edible oil brand website design", "oil mill website near me",

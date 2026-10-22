@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const gopalganj: CityContent = {
   slug: "gopalganj",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 26.4667, lng: 84.4333 },
   meta: {
-    title: "IT Services in Gopalganj | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Gopalganj | Sites ₹10,000, Apps ₹40,000",
     description:
       "Gopalganj Hindi and Bhojpuri websites, apps, local SEO and WhatsApp bots for sugar units, rice mills, shops, clinics and coaching centres. From ₹10,000.",
     keywords: [

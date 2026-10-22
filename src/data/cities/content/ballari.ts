@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const ballari: CityContent = {
   slug: "ballari",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 15.1394, lng: 76.9214 },
   meta: {
-    title: "IT Services in Ballari: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Ballari | From ₹10,000",
     description:
-      "Ballari websites, Kannada and Telugu SEO, jeans catalogues and WhatsApp bots for garment units, steel and mining vendors, clinics and shops. From ₹10,000.",
+      "Ballari websites from ₹10,000, live in 1-2 weeks, with Kannada and Telugu SEO. Jeans catalogues and WhatsApp bots for garment, steel and mining vendors.",
     keywords: [
       "website development team in Ballari",
       "web design Bellary",

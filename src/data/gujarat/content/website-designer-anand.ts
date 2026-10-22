@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-designer-anand/",
   crumb: "Website designer in Anand",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Designer in Anand · Design + Build ${P.site}+`,
-    description: `Website designer in Anand for dairy brands, colleges, Udyognagar units and NRI-facing firms: layouts, photo plans, Gujarati type. Designed sites from ${P.site}.`,
+    title: `Website Designer in Anand: Design + Build ${P.site}+`,
+    description: `Website designer in Anand for dairy brands, colleges and Udyognagar units: layouts, photo direction, Gujarati type, then the build. From ${P.site}.`,
     keywords: [
       "website designer in Anand", "website designer Anand", "web designer Anand Gujarat", "website design Anand",
       "web designer near me Anand", "website design cost Anand", "website design price Anand Gujarat", "Anand Gujarat web design services",

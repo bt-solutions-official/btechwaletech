@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const ongole: CityContent = {
   slug: "ongole",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 15.5057, lng: 80.0499 },
   meta: {
-    title: "Ongole Web Developers: Sites & Telugu SEO from ₹10,000",
+    title: "Website Design in Ongole | Telugu SEO from ₹10,000",
     description:
-      "Websites, catalogues and WhatsApp tools for Ongole granite, seafood, tobacco, hospital and college businesses. Sites from ₹10,000, free upkeep for 2 months.",
+      "Ongole websites from ₹10,000, live in 1-2 weeks, with Telugu SEO. Catalogues and WhatsApp bots for granite, seafood and tobacco firms, hospitals and colleges.",
     keywords: [
       "website development team in Ongole",
       "web design Ongole",
@@ -45,7 +45,7 @@ const ongole: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu and English", "Granite export catalogues", "Hospital booking forms", "Direct WhatsApp support"],
   },
   quickAnswer:
-    "In Ongole, a business website with our team starts from ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team without an Ongole office, and maintenance is free for two months.",
+    "An Ongole business website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and stores start at ₹50,000. Pages can be in Telugu and English, we have no Ongole office, and two months of maintenance are free.",
   snapshot: [
     { label: "Status", value: "Headquarters of Prakasam district; upgraded to a municipal corporation in January 2012" },
     { label: "Famous for", value: "Ongole cattle, an indigenous breed whose bloodline helped create the American Brahman" },
@@ -294,6 +294,11 @@ const ongole: CityContent = {
       question: "What do you need from me to send a quote?",
       answer:
         "A few lines about your business, your products or services, your customers and the areas you serve, plus your current website link if you have one. Photos, a logo or a brochure help. We send a page plan, timeline and itemised quote, usually within two working days.",
+    },
+    {
+      question: "Do you build Shopify stores in Ongole, or your own code?",
+      answer:
+        "We build stores in our own code from ₹50,000, with UPI, card and net-banking checkout through Razorpay, delivery rules by pin code and order updates on WhatsApp. There is no monthly platform fee and the code is yours. If you already run Shopify and only want design, SEO and automation around it, we can work on that instead.",
     },
   ],
   nearby: ["chirala", "kandukur", "markapur", "bapatla", "narasaraopet", "kavali", "guntur", "nellore"],

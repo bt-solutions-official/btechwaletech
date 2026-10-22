@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/singapore/mobile-app-development-services/",
   crumb: "Mobile app development services Singapore",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Mobile App Development Services Singapore, from ${P.app}`,
-    description: `Mobile app development services Singapore: Android and iOS apps from ${P.app}, on your own store accounts, AWS Singapore backend, updates in SGT hours.`,
+    title: `Mobile App Development Services Singapore, ${P.app}+`,
+    description: `Mobile app development services for Singapore: Android and iOS apps from ${P.app} on your own store accounts, AWS Singapore backend, updates in SGT hours.`,
     keywords: [
       "mobile app development services singapore", "mobile app development singapore", "app development services singapore", "mobile app developer singapore",
       "android app development singapore", "ios app development singapore", "flutter app development singapore", "react native developer singapore",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "booking app development singapore", "ecommerce app development singapore", "app developer jurong", "app developer tampines", "app developer one-north",
       "mobile app maintenance singapore",
       "hire mobile app development services in Singapore", "freelance mobile app development services Singapore",
+      "mobile app development services in singapore", "web app developer in singapore", "app development company singapore",
     ],
   },
   hero: {

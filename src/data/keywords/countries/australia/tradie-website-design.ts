@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/tradie-website-design/",
   crumb: "Tradie website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Tradie Website Design that Wins Jobs, from ${P.site}`,
-    description: `Tradie website design for Australian trades: licence numbers shown right, quote forms into ServiceM8 or Tradify, suburb pages, click-to-call. From ${P.site}.`,
+    title: `Tradie Website Design: Your Leads, Not Sold, ${P.site}+`,
+    description: `Tradie web design that keeps every lead: tap-to-call, licence number shown right, quote forms with photos into ServiceM8 or Tradify. Sites from ${P.site}.`,
     keywords: [
       "tradie website design", "tradie websites", "tradie website design australia", "website design for tradies",
       "websites for tradies australia", "tradesman website design", "trade business website", "tradie website cost",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "tradie website design brisbane", "tradie website design perth", "mobile website for tradies click to call",
       "tradie website near me", "do tradies need a website",
       "hire tradie website design in Australia", "freelance tradie website design Australia",
+      "tradie web design", "website for tradie", "best tradie websites", "tradie website package", "tradies website design",
     ],
   },
   hero: {

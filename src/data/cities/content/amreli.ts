@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const amreli: CityContent = {
   slug: "amreli",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 21.6006, lng: 71.2164 },
   meta: {
-    title: "IT Services in Amreli: Websites, Apps, SEO & AI",
+    title: "Website Design in Amreli | Gujarati SEO, ₹10,000+",
     description:
-      "Amreli websites from ₹10,000 for groundnut and cotton traders, diamond units, clinics, schools and shops, with Gujarati pages, Maps work and WhatsApp bots.",
+      "Amreli websites from ₹10,000, live in 1-2 weeks, with Gujarati pages. Maps work and WhatsApp bots for groundnut and cotton traders, diamond units and clinics.",
     keywords: [
       "website development team in Amreli",
       "web designer Amreli",

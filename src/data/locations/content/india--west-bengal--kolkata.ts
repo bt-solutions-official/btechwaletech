@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--west-bengal--kolkata",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 22.5726, lng: 88.3639 },
   meta: {
-    title: "Kolkata IT Consulting: Trading Houses, Tea & CA Firms",
+    title: "Kolkata IT Consulting: Apps & Software from ₹40,000",
     description:
       "IT consulting in Kolkata by three freelance engineers: legacy upgrades, group MIS, apps, AI agents, plus cloud and SEO. Apps from ₹40,000, sites from ₹10,000.",
     keywords: [
@@ -83,7 +83,7 @@ const content: CityContent = {
       paragraphs: [
         "IT consulting for a Kolkata family-run business means reviewing the systems, spreadsheets and habits that have grown over years, deciding what to keep, what to connect and what to replace, and planning changes that the next generation and long-serving staff can both accept.",
         "Family groups often run several entities, trading, manufacturing and property, each with its own books, and the patriarch or a senior accountant is the only person who sees the full picture. When the next generation joins, they want dashboards and apps, while senior staff trust registers and Tally. Good consulting respects both. We interview the people who do the work, study the reports actually used, and look for places where information is re-typed or lost.",
-        "The written plan we deliver ranks improvements by value and risk, with costs from our <a href='/pricing/'>published starting prices</a>. It usually begins with something low-risk and visible, such as a consolidated MIS or a replacement for one fragile desktop program, before larger changes. We sell no software licences, so the recommendations stay neutral, and the plan is yours to use with any developer.",
+        "The written plan we deliver ranks improvements by value and risk, with costs from our <a href='/pricing/'>published starting prices</a>. It usually begins with something low-risk and visible, such as a consolidated MIS or a replacement for one fragile desktop program, before larger changes. We sell no software licences, so the recommendations stay neutral, and the plan is yours to use with any developer. For build-only work, see <a href='/it-services/west-bengal/kolkata/'>software developers in Kolkata</a>, or the <a href='/it-services/west-bengal/'>West Bengal IT services hub</a> for the rest of the state.",
       ],
     },
     {

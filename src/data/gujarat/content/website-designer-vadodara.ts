@@ -11,9 +11,9 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-designer-vadodara/",
   crumb: "Website designer in Vadodara",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Designer in Vadodara · Layouts from ${P.site}`,
+    title: `Website Designer in Vadodara: Design + Build ${P.site}+`,
     description: `Website designer in Vadodara (Baroda): page layouts, photo direction and Gujarati-English design, coded and live from ${P.site}. Approve each screen on a phone.`,
     keywords: [
       "website designer in Vadodara", "website designer Vadodara", "web designer Baroda", "website designer near me Vadodara",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "website designer Alkapuri", "website designer Gotri", "website designer Waghodia Road", "website designer Manjalpur",
       "website designer Anand", "Figma website design Vadodara", "Vadodara me website design kaun karega", "website design karwana hai Baroda",
       "best website designer in Vadodara", "website designer for small business Vadodara",
+      "web designing in Vadodara", "website designing in Vadodara", "website maker in Vadodara", "web designers in Vadodara",
     ],
   },
   hero: {

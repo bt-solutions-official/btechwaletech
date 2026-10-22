@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/hospital-management-software/",
   crumb: "Hospital management software",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Hospital Management Software in Bhiwadi from ${P.software}`,
-    description: `Hospital management software in Bhiwadi for OPD, IPD, billing, pharmacy and lab reports, from ${P.software}. Planned face to face with your team at the hospital.`,
+    title: `Hospital Management Software Bhiwadi: ${P.software}+`,
+    description: `Hospital management software in Bhiwadi from ${P.software}, live in 6–12 weeks: OPD, IPD and bed status, billing with TPA cases, pharmacy expiry, lab reports.`,
     keywords: [
       "hospital management software in Bhiwadi", "hospital management software Bhiwadi", "hospital management system Bhiwadi", "HMS software Bhiwadi",
       "hospital software near me", "hospital management software in Bhiwadi Rajasthan", "hospital software Bhiwadi Alwar", "OPD software Bhiwadi",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How much does hospital management software in Bhiwadi cost?",
-    text: `Custom hospital management software in Bhiwadi from BtechWaleTech starts at ${P.software} and takes about 6–12 weeks. A first version usually covers OPD registration, IPD admissions and bed status, billing with deposits and TPA cases, pharmacy stock with expiry, and lab reports. A patient app starts at ${P.app}. The itemised quote follows a face-to-face meeting at your hospital.`,
+    text: `From ${P.software} and about 6–12 weeks. A first version usually covers OPD registration, IPD admissions and bed status, billing with deposits and TPA cases, pharmacy stock with expiry, and lab reports. A patient app starts at ${P.app}. The itemised quote follows a face-to-face meeting at your hospital.`,
     more: `A module-by-module price discussion is on <a href='/hospital-management-software-cost/'>hospital management software cost in India</a>; smaller practices may prefer <a href='/clinic-management-software/'>clinic management software</a>.`,
   },
   snapshot: {

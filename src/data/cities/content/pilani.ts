@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const pilani: CityContent = {
   slug: "pilani",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 28.3667, lng: 75.6 },
   meta: {
-    title: "IT Services in Pilani | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Pilani | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, SEO, dashboards and WhatsApp automation for Pilani's campus market, schools, guesthouses, labs, startups and Shekhawati traders. From ₹10,000.",
     keywords: [

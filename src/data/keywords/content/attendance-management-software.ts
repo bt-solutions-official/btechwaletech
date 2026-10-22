@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/attendance-management-software/",
   crumb: "Attendance management software",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Attendance Management Software, Custom from ${P.software}`,
-    description: `Attendance management software for offices, plants and sites: biometric and RFID sync, selfie punch with geofence, shift rules, payroll export. From ${P.software}.`,
+    description: `Biometric and RFID sync, selfie punch with geofence, shift and overtime rules, leave approvals and payroll export. Custom builds from ${P.software}, 6–12 weeks.`,
     keywords: [
       "attendance management software", "attendance management system", "custom attendance management software", "attendance software for company",
       "attendance software development India", "biometric attendance software", "rfid attendance system software", "selfie attendance app with geofencing",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "attendance management software Pune", "attendance software Ahmedabad", "attendance management software Chennai",
       "attendance software banwana hai", "employee attendance app development",
       "attendance management software services",
+      "attendance management application", "biometric attendance software custom", "employee attendance app india",
     ],
   },
   hero: {

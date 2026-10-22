@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const aurangabad: CityContent = {
   slug: "aurangabad",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 19.8762, lng: 75.3433 },
   meta: {
-    title: "Aurangabad Web Development | Sambhajinagar SEO",
+    title: "Web Development in Aurangabad (Sambhajinagar)",
     description:
-      "Websites, SEO and AI automation for Aurangabad (Chhatrapati Sambhajinagar) MIDC suppliers, hotels near Ellora, Paithani sellers and clinics. From ₹10,000.",
+      "Chhatrapati Sambhajinagar (Aurangabad) websites from ₹10,000, live in 1-2 weeks. SEO and AI automation for MIDC suppliers, Ellora hotels and Paithani sellers.",
     keywords: [
       "website development team in Aurangabad",
       "web design Chhatrapati Sambhajinagar",
@@ -43,7 +43,7 @@ const aurangabad: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi, Hindi and English", "MIDC supplier catalogues", "Hotel and tour booking", "Custom software from ₹60,000"],
   },
   quickAnswer:
-    "In Aurangabad (Chhatrapati Sambhajinagar), a business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no local office, and maintenance is free for two months.",
+    "A Chhatrapati Sambhajinagar (Aurangabad) website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, stores start at ₹50,000 and automation at ₹40,000. We are three remote engineers, and two months of maintenance are free.",
   snapshot: [
     { label: "Name", value: "The city was officially renamed Chhatrapati Sambhajinagar in February 2023; many people and businesses still search for Aurangabad" },
     { label: "Industrial estates", value: "MIDC areas at Waluj, Chikalthana and Shendra, plus the Shendra–Bidkin Industrial Area (AURIC) on the Delhi–Mumbai Industrial Corridor" },

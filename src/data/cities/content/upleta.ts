@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const upleta: CityContent = {
   slug: "upleta",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 21.7333, lng: 70.2833 },
   meta: {
-    title: "IT Services in Upleta | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Upleta | Sites ₹10,000, Apps ₹40,000",
     description:
       "Gujarati websites, apps, local SEO and WhatsApp tools for Upleta groundnut oil mills, farm traders, schools, hospitals and bazaar shops. Sites from ₹10,000.",
     keywords: [

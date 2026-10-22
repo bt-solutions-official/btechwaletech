@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/real-estate-website-ahmedabad/",
   crumb: "Real estate website design in Ahmedabad",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Real Estate Website Design in Ahmedabad from ${P.site}`,
-    description: `Real estate website design in Ahmedabad: project microsites with GujRERA details, floor plans & site-visit booking on WhatsApp. From ${P.site}; quote in 2 days.`,
+    title: `Real Estate Website in Ahmedabad: GujRERA, ${P.site}`,
+    description: `Real estate website design in Ahmedabad: project microsites with GujRERA details, floor plans and site-visit booking on WhatsApp. From ${P.site}, 2-day quote.`,
     keywords: [
       "real estate website design in Ahmedabad", "real estate website design Ahmedabad", "builder website Ahmedabad", "real estate website developer Ahmedabad",
       "property website design near me", "real estate website Ahmedabad Gujarat", "real estate website cost Ahmedabad", "builder website price India",

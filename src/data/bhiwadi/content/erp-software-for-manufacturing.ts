@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/erp-software-for-manufacturing/",
   crumb: "ERP software for manufacturing",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: "ERP Software for Manufacturing in Bhiwadi, Meet 1:1",
-    description: `ERP software for manufacturing in Bhiwadi: BOM, MRP, stores, production and GST data from ${P.software}, scoped one to one on your shop floor in Bhiwadi.`,
+    title: `ERP for Manufacturing in Bhiwadi from ${P.software}`,
+    description: `ERP software for manufacturing in Bhiwadi from ${P.software}, phase one live in 6–12 weeks: BOM, MRP, stores, production and GST data, scoped on your shop floor.`,
     keywords: [
       "ERP software for manufacturing in Bhiwadi", "manufacturing ERP near me", "ERP software Bhiwadi Rajasthan", "ERP for factory Bhiwadi Alwar",
       "manufacturing ERP developer Bhiwadi", "ERP software developer Bhiwadi", "ERP for auto component manufacturers Bhiwadi", "ERP software Chopanki",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "Which ERP software for manufacturing in Bhiwadi should a small or mid-size factory choose?",
-    text: `Choose a packaged ERP if your process is standard, open-source ERPNext if you want a full system on a tighter budget, and custom ERP when job work, buyer-specific rules or unusual routings dominate your day. With BtechWaleTech a custom first phase starts at ${P.software} and goes live in 6–12 weeks, after a face-to-face shop-floor walk in Bhiwadi.`,
+    text: `A custom first phase starts at ${P.software} and goes live in 6–12 weeks. Choose a packaged ERP if your process is standard, open-source ERPNext if you want a full system on a tighter budget, and custom ERP when job work, buyer-specific rules or unusual routings dominate your day. We walk your shop floor first.`,
     more: `Build-cost detail sits on <a href='/erp-software-development-cost-in-india/'>ERP development cost in India</a>; for a standalone stores system, see <a href='/bhiwadi-rajasthan/inventory-management-software/'>inventory management software in Bhiwadi</a>.`,
   },
   snapshot: {

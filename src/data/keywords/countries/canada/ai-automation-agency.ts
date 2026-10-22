@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/canada/ai-automation-agency/",
   crumb: "AI automation agency Canada",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `AI Automation Agency Canada Alternative from ${P.ai}`,
-    description: `AI automation agency Canada alternative: lead follow-up, document processing and n8n/Make/Zapier workflows from ${P.ai}, PIPEDA-aware, priced in hours saved.`,
+    title: `AI Automation Agency Canada: PIPEDA-Aware, ${P.ai}+`,
+    description: `AI automation for Canadian businesses: lead follow-up, document processing and n8n, Make or Zapier workflows from ${P.ai}, priced in the hours they save.`,
     keywords: [
       "ai automation agency canada", "ai automation agency", "ai automation services canada", "ai automation for small business canada",
       "business process automation canada", "ai workflow automation", "n8n automation developer", "make.com automation expert",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "ai automation toronto", "ai automation vancouver", "ai automation calgary", "ai automation montreal", "ai automation ottawa",
       "ai automation agency near me", "hire ai automation developer",
       "freelance ai automation Canada",
+      "ai automation agency calgary", "ai automation agency mississauga", "ai automation agency toronto",
     ],
   },
   hero: {

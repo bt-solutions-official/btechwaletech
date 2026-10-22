@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/restaurant-website-ahmedabad/",
   crumb: "Restaurant website design in Ahmedabad",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Restaurant Website Design in Ahmedabad from ${P.site}`,
-    description: `Restaurant website design in Ahmedabad for restaurants, cafes and cloud kitchens: live menu, direct ordering with UPI and table reservations. From ${P.site}.`,
+    title: `Restaurant Website in Ahmedabad: Direct Orders, ${P.site}`,
+    description: `Restaurant website design in Ahmedabad for cafes and cloud kitchens: live menu, direct UPI ordering with no aggregator cut, table bookings. From ${P.site}.`,
     keywords: [
       "restaurant website design in Ahmedabad", "restaurant website design Ahmedabad", "restaurant website developer Ahmedabad", "cafe website design Ahmedabad",
       "restaurant website designer near me", "restaurant website Ahmedabad Gujarat", "restaurant website cost Ahmedabad", "restaurant website price India",

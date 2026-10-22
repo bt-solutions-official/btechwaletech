@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/it-solutions/",
   crumb: "IT solutions",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: "IT Solutions in Bhiwadi, Meet Us in Person",
-    description: `IT solutions in Bhiwadi for websites, apps and custom software from ${P.site}. Three freelance developers meet you one to one at your unit. No hardware sales.`,
+    title: `IT Solutions in Bhiwadi from ${P.site}: Software Only`,
+    description: `IT solutions in Bhiwadi: websites from ${P.site}, apps from ${P.app}, custom software from ${P.software}. Three freelance developers, software only, no hardware sales.`,
     keywords: [
       "IT solutions in Bhiwadi", "IT solutions near me Bhiwadi", "IT solutions in Bhiwadi Rajasthan", "IT solutions Bhiwadi Alwar",
       "IT services in Bhiwadi", "IT solutions Bhiwadi", "software developer in Bhiwadi", "IT solutions in Chopanki",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does a freelance IT team in Bhiwadi do, and which part do you need?",
-    text: `A freelance IT team in Bhiwadi usually covers two separate trades: software (websites, apps, billing or ERP tools, automation) and hardware (PCs, networks, CCTV, biometric devices). BtechWaleTech handles only software: websites from ${P.site}, apps from ${P.app} and custom software from ${P.software}. We meet you one to one in Bhiwadi, map what you need and tell you which hardware jobs belong to an installer.`,
+    text: `Websites from ${P.site}, apps from ${P.app}, custom software from ${P.software}. A freelance IT team in Bhiwadi usually covers two separate trades: software and hardware. BtechWaleTech handles only software. We meet you one to one, map what you need, and tell you plainly which hardware jobs belong to an installer.`,
     more: `If you are still deciding what to buy, a <a href='/bhiwadi-rajasthan/it-consultant/'>one-to-one IT consultation in Bhiwadi</a> comes first; if you already know you need a tool built, start with <a href='/bhiwadi-rajasthan/custom-software-development/'>custom software for Bhiwadi units</a>.`,
   },
   snapshot: {

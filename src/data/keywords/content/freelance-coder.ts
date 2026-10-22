@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-coder/",
   crumb: "Freelance coder",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Freelance Coder for Fixes & Features from ${P.care}`,
-    description: `Need a freelance coder? Bug fixes, new features and code review for small projects, quoted per task. Ongoing help from ${P.care}. Ask for a quote.`,
+    title: `Freelance Coder for Fixes & Features, ${P.care}+`,
+    description: `Bug fixes, small features and code review on an existing project, quoted per task so you never buy a rebuild you did not need. Ongoing help from ${P.care}.`,
     keywords: [
       "freelance coder", "freelance coder in India", "freelance coder near me", "freelance coder for hire",
       "freelance coder cost", "freelance coder price", "best freelance coder", "coder chahiye",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "freelance Python coder", "freelance PHP coder", "add feature to existing website", "fix my code",
       "coding help for startup", "part-time coder India",
       "hire freelance coder",
+      "freelance coder india", "hire coder for small fixes", "freelance programmer hourly india",
     ],
   },
   hero: {

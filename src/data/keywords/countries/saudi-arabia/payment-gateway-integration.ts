@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/saudi-arabia/payment-gateway-integration/",
   crumb: "Payment gateway integration in Saudi Arabia",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Payment Gateway Integration Saudi Arabia with mada`,
-    description: `Payment gateway integration in Saudi Arabia for websites and apps: mada, Apple Pay, STC Pay, 3-D Secure, refunds and webhooks. Store builds from ${P.shop}.`,
+    title: `Payment Gateway Integration Saudi Arabia: mada & Apple Pay`,
+    description: `Payment gateway integration in Saudi Arabia: mada, Apple Pay and STC Pay, sandbox test cards, 3-D Secure, webhooks and refunds. Stores from ${P.shop}.`,
     keywords: [
       "payment gateway integration saudi arabia", "payment gateway integration in saudi arabia", "saudi payment gateway integration",
       "mada payment integration", "mada payment gateway website", "apple pay integration saudi arabia", "stc pay integration",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "payment gateway integration riyadh", "payment gateway integration jeddah", "payment gateway integration dammam",
       "online payment integration ksa", "payment links whatsapp saudi",
       "hire payment gateway integration in Saudi Arabia", "freelance payment gateway integration Saudi Arabia",
+      "mada test card", "mada test card number", "shopify checkout mada apple pay", "mada payment gateway integration", "app payment gateway integration",
     ],
   },
   hero: {
@@ -264,6 +265,16 @@ const content: FreelanceContent = {
         "Each payment method tested for success, decline and refund",
         "Webhook replay and duplicate handling tested",
         "Live test transaction refunded and matched in the settlement report",
+      ],
+      subs: [
+        {
+          heading: "Where do mada test card numbers come from?",
+          text: "There is no central mada test card list from mada or SAMA. Each gateway publishes its own sandbox numbers in its developer documentation, so the mada test card that works on HyperPay is not the one that works on Moyasar, PayTabs, Tap or Checkout.com. Take the numbers from your provider's current docs rather than a blog post, because sandbox sets are rotated. Never put a real mada card into a sandbox.",
+        },
+        {
+          heading: "What to test on a sandbox mada card specifically",
+          text: "A sandbox mada card simulates the mada network rather than the international schemes, so test it separately from Visa and Mastercard: the OTP step-up, a decline, a partial refund, and whether saved cards are permitted at all on your setup. Several mada paths behave differently from a global card, and an integration that only ever gets tested with a Visa sandbox number tends to fail on the first real mada order.",
+        },
       ],
     },
     {

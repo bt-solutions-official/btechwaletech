@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/booking-app-developer/",
   crumb: "Booking app developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Booking App Developer India | Apps from ${P.app}`,
-    description: `Booking app developer for salons, clinics and service businesses: slots, reminders, UPI deposits and staff calendars. Apps from ${P.app}, quote in 2 days.`,
+    title: `Booking App Developer: Appointments from ${P.app}`,
+    description: `Appointment booking apps for salons, clinics and service teams: live slots, reminders, UPI deposits and staff calendars. Apps from ${P.app}, in 6–10 weeks.`,
     keywords: [
       "booking app developer", "booking app developer in India", "booking app developer near me", "booking app developer for hire",
       "appointment booking app cost", "booking app development price India", "best booking app developer", "booking app banwana hai",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "tutor booking app", "gym class booking app", "custom booking system developer", "online appointment system for clinic",
       "booking app with UPI payment", "freelance booking app developer",
       "hire booking app developer",
+      "appointment booking app for clients", "appointment booking app development", "salon booking app developer", "clinic appointment app india",
     ],
   },
   hero: {

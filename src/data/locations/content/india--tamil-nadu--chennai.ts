@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--tamil-nadu--chennai",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 13.0827, lng: 80.2707 },
   meta: {
-    title: "Chennai IT Consulting: SaaS, Auto & Hospitals",
+    title: "Chennai IT Consulting: Software from ₹60,000",
     description:
-      "IT consulting in Chennai by a freelance team of three engineers: SaaS builds, apps, AI agents, cloud, plus data and SEO. Itemised quote in two working days.",
+      "IT consulting in Chennai by a freelance team of three engineers: SaaS builds, apps, AI agents, cloud and SEO. Software from ₹60,000, quote in two days.",
     keywords: [
       "IT solutions team in Chennai",
       "IT consulting Chennai",
@@ -83,7 +83,7 @@ const content: CityContent = {
       paragraphs: [
         "A Chennai business should expect IT consulting to deliver a clear, written recommendation: what problem to solve first, which technology to use, what it will cost, how long it will take and what could go wrong. If the advice cannot be acted on, it was not consulting; it was a sales call.",
         "Our consulting works from evidence. We ask you to walk us through the current process on a screen share, send sample documents and exports, and tell us where customers or staff complain. For an Ambattur manufacturer the pain may be production data that reaches management two days late. For a Porur clinic it may be missed follow-up appointments. For an OMR startup it may be a product that cannot handle more users.",
-        "The result is a short document listing recommendations in priority order, each with an estimate from our <a href='/pricing/'>starting prices</a>, the effort required from your team and any risks. We also flag what you should not build. Chennai has a rich market of mature software products, and sometimes the right answer is a subscription plus a small integration rather than a custom build. Because we resell nothing, our advice is not shaped by commissions.",
+        "The result is a short document listing recommendations in priority order, each with an estimate from our <a href='/pricing/'>starting prices</a>, the effort required from your team and any risks. We also flag what you should not build. Chennai has a rich market of mature software products, and sometimes the right answer is a subscription plus a small integration rather than a custom build. Because we resell nothing, our advice is not shaped by commissions. For build-only work, see <a href='/it-services/tamil-nadu/chennai/'>software developers in Chennai</a>, or the <a href='/it-services/tamil-nadu/'>Tamil Nadu IT services hub</a> for the rest of the state.",
       ],
     },
     {

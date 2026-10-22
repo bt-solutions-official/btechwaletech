@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/electronics-manufacturer-website/",
   crumb: "Electronics manufacturer website",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: "Electronics Manufacturer Website in Bhiwadi",
-    description: `Electronics manufacturer website in Bhiwadi from ${P.site}: datasheets, BIS details shown as issued, distributor locator. We meet you one to one at your unit.`,
+    title: `Electronics Manufacturer Website Bhiwadi: ${P.site}+`,
+    description: `Electronics manufacturer website in Bhiwadi from ${P.site}, live in 1–2 weeks: spec tables, PDF datasheets, BIS details shown as issued, distributor locator.`,
     keywords: [
       "electronics manufacturer website in Bhiwadi", "electronics manufacturer website", "electronics company website Bhiwadi Rajasthan",
       "electronics manufacturer website near me", "electrical products company website Bhiwadi", "LED lighting manufacturer website",
@@ -50,7 +50,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What should an electronics manufacturer website in Bhiwadi include?",
-    text: `An electronics manufacturer website in Bhiwadi should give each model a page with a spec table and PDF datasheet, show BIS registration or licence details exactly as issued, and offer a distributor locator plus dealer and warranty forms. A site of up to 100 pages starts at ${P.site}; larger ranges of 299+ pages start at ${P.seoSite}. We meet you face to face before quoting.`,
+    text: `From ${P.site} for up to 100 pages, live in 1–2 weeks; larger ranges of 299+ pages start at ${P.seoSite}. An electronics manufacturer website in Bhiwadi should give each model a page with a spec table and PDF datasheet, show BIS registration exactly as issued, and offer a distributor locator with dealer and warranty forms.`,
     more: `If your range runs to hundreds of part numbers, read <a href='/bhiwadi-rajasthan/industrial-product-catalogue-website/'>industrial catalogue websites</a>; for export buyers see <a href='/bhiwadi-rajasthan/export-business-website/'>export company websites in Bhiwadi</a>.`,
   },
   snapshot: {

@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const agra: CityContent = {
   slug: "agra",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 27.1767, lng: 78.0081 },
   meta: {
-    title: "IT Services in Agra | Web, Apps, SEO & AI from ₹10,000",
+    title: "Website Design Company in Agra | From ₹10,000",
     description:
-      "Websites, SEO and WhatsApp automation for Agra hotels, tour operators, footwear makers and shops. Sites from ₹10,000 with two months of free maintenance.",
+      "Agra websites from ₹10,000, live in 1-2 weeks; 299+ page SEO sites from ₹20,000. Booking pages and automation for hotels, tour operators and footwear makers.",
     keywords: [
       "website development team in Agra",
       "website designer in Agra",

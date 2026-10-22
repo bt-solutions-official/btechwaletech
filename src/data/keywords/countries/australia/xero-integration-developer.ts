@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/xero-integration-developer/",
   crumb: "Xero integration developer",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Xero Integration Developer · syncs from ${P.ai}`,
-    description: `Xero integration developer Australia: Shopify, CRM and job-system sync, GST tax mapping, tracking categories and rate-limit-safe design. From ${P.ai}.`,
+    title: `Xero Integration Developer Australia, from ${P.ai}`,
+    description: `Xero integration developer for Australia: Shopify, CRM and job-system sync, GST tax mapping, tracking categories and rate-limit-safe design. From ${P.ai}.`,
     keywords: [
       "xero integration developer", "xero integration developer australia", "xero api developer", "xero developer",
       "custom xero integration", "xero api integration", "hire xero developer", "xero integration consultant",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "xero integration brisbane", "xero integration perth", "xero app store vs custom integration",
       "xero integration developer near me",
       "freelance xero integration developer Australia",
+      "custom xero integration development company", "xero approved developer", "api integration developers brisbane", "xero api developer australia",
     ],
   },
   hero: {

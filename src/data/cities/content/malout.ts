@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const malout: CityContent = {
   slug: "malout",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 30.19, lng: 74.499 },
   meta: {
-    title: "IT Services in Malout | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Malout | Sites ₹10,000, Apps ₹40,000",
     description:
       "Punjabi-English websites, apps, SEO and WhatsApp tools for Malout cotton traders, ginning units, machinery dealers, arhtiyas and shops. From ₹10,000.",
     keywords: [

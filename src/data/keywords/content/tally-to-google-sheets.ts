@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/tally-to-google-sheets/",
   crumb: "Tally to Google Sheets",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Tally to Google Sheets Auto Sync, from ${P.ai}`,
-    description: `Tally to Google Sheets sync that sends sales, outstanding and stock from the office PC to your phone on a schedule, with owner dashboards. From ${P.ai}.`,
+    title: `Tally to Google Sheets Auto Sync: From ${P.ai}`,
+    description: `Tally to Google Sheets sync that pushes sales, outstanding and stock from the office PC to your phone on a schedule, with owner dashboards. From ${P.ai}.`,
     keywords: [
       "tally to google sheets", "tally data to google sheets", "tally google sheets integration", "sync tally with google sheets",
       "tally to google sheets automatic", "export tally data to google sheets", "tally to excel automatic export",

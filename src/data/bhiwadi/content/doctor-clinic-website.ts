@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/doctor-clinic-website/",
   crumb: "Doctor and clinic website",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
     title: `Doctor Website in Bhiwadi: Clinic Sites from ${P.site}`,
-    description: `Doctor website in Bhiwadi from ${P.site}: appointment requests, Google reviews done properly, ethics-aware content. We meet you one to one at your clinic.`,
+    description: `Doctor website in Bhiwadi from ${P.site}, live in 1–2 weeks: qualifications and registration number, OPD timings, map, appointment requests, WhatsApp button.`,
     keywords: [
       "doctor website in Bhiwadi", "doctor website Bhiwadi", "clinic website near me", "doctor website in Bhiwadi Rajasthan",
       "clinic website design Bhiwadi Alwar", "dentist website Bhiwadi", "dental clinic website in Bhiwadi", "doctor website cost Bhiwadi",
@@ -49,7 +49,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does a doctor website in Bhiwadi cost, and what should it include?",
-    text: `A doctor website in Bhiwadi starts at ${P.site} with BtechWaleTech for a static clinic site of up to 100 pages: profile with qualifications and registration number, conditions treated, OPD timings, map, appointment request and WhatsApp button, built in 1–2 weeks. Clinic software with patient records starts at ${P.software}. We meet you in person at your clinic first.`,
+    text: `From ${P.site} for a static clinic site of up to 100 pages, built in 1–2 weeks: profile with qualifications and registration number, conditions treated, OPD timings, map, appointment request and a WhatsApp button. Clinic software with patient records starts at ${P.software}. We meet you at your clinic first.`,
     more: `Running a multi-department facility? See <a href='/bhiwadi-rajasthan/hospital-website-design/'>hospital website design in Bhiwadi</a>. For how patients find you on Maps, read <a href='/bhiwadi-rajasthan/google-business-profile/'>Google Business Profile setup in Bhiwadi</a>.`,
   },
   snapshot: {

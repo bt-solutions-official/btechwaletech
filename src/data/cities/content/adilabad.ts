@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const adilabad: CityContent = {
   slug: "adilabad",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 19.67, lng: 78.53 },
   meta: {
-    title: "Adilabad Websites, SEO & Apps for Cotton Businesses",
+    title: "Website Design in Adilabad | Sites from ₹10,000",
     description:
-      "Adilabad websites, Telugu and Marathi SEO and WhatsApp tools for ginning mills, agri dealers, NH 44 hotels and Dokra artisans. Sites from ₹10,000.",
+      "Adilabad websites from ₹10,000, live in 1-2 weeks, with Telugu and Marathi SEO. WhatsApp tools for ginning mills, agri dealers, NH44 hotels and artisans.",
     keywords: [
       "website development team in Adilabad",
       "web designer Adilabad",

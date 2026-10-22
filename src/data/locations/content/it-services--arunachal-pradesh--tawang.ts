@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--arunachal-pradesh--tawang",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 27.586, lng: 91.8594 },
   meta: {
     title: "Tawang Tourism Software Developers: Hotels & Homestays",
     description:
-      "Hire freelance IT developers in Tawang for hotel and homestay booking, tour software, Android and iOS apps, AI enquiry agents and travel SEO. Quote in 2 days.",
+      "Hire freelance IT developers in Tawang for hotel and homestay booking, tour software, AI enquiry agents and travel SEO. Sites ₹10,000, quote in 2 days.",
     keywords: [
       "software development team in Tawang",
       "IT services team in Tawang",

@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const chennai: CityContent = {
   slug: "chennai",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 13.0827, lng: 80.2707 },
   meta: {
-    title: "IT Services in Chennai: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Chennai | From ₹10,000",
     description:
-      "Chennai websites, local SEO, online stores and AI automation for businesses. Sites from ₹10,000, SEO sites from ₹20,000, with two months of free maintenance.",
+      "Chennai websites from ₹10,000, live in 1-2 weeks; 299+ page SEO sites from ₹20,000 and stores from ₹50,000. Tamil pages, Maps work, two months' upkeep free.",
     keywords: [
       "website development team in Chennai",
       "web design team Chennai",
@@ -43,7 +43,7 @@ const chennai: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English SEO", "UPI-ready stores", "WhatsApp workflows", "Web apps and portals"],
   },
   quickAnswer:
-    "A business website for a Chennai company costs from ₹10,000 with us, and a 299+ page site planned for Google search starts at ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-person engineering team, and every build comes with two months of free maintenance after launch.",
+    "A Chennai business website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, stores start at ₹50,000 and web applications at ₹60,000. We are a remote three-engineer team with no Chennai office, and two months of upkeep are free.",
   snapshot: [
     { label: "Commercial centres", value: "Anna Salai, Nungambakkam, T. Nagar, Parrys Corner, Guindy and Anna Nagar" },
     { label: "IT corridor", value: "Old Mahabalipuram Road from Perungudi to Siruseri SIPCOT IT Park, plus Tidel Park in Taramani" },
@@ -292,6 +292,11 @@ const chennai: CityContent = {
       question: "What should I send you to get a quote?",
       answer:
         "A short description of your business, what you sell or offer, who your customers are and which parts of Chennai you serve. Add your current website link if you have one, plus any logo, photos or brochure. From that we send a page plan, timeline and itemised quote, usually within two working days.",
+    },
+    {
+      question: "Do you build websites for restaurants and cafés in Chennai?",
+      answer:
+        "Yes. A restaurant site from ₹10,000 carries the menu with prices, photos, timings, a map, and table or order enquiries on WhatsApp, and it loads fast on a phone. If you want online ordering with UPI and card payment and delivery rules by pin code, that is an online store build from ₹50,000.",
     },
   ],
   nearby: ["kancheepuram", "thiruvallur", "nandivaram-guduvancheri", "ponneri", "arakkonam", "tiruttani", "uthiramerur", "vellore"],

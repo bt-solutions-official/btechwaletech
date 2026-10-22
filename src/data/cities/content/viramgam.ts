@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const viramgam: CityContent = {
   slug: "viramgam",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 23.12, lng: 72.03 },
   meta: {
-    title: "IT Services in Viramgam | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Viramgam | Sites ₹10,000, Apps ₹40,000",
     description:
       "Gujarati websites, apps, local SEO and WhatsApp tools for Viramgam cotton traders, auto-belt suppliers, transporters, clinics and shops. From ₹10,000.",
     keywords: [

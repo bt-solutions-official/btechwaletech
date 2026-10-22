@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--maharashtra",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 19.7515, lng: 75.7139 },
   meta: {
-    title: "Maharashtra IT Services: Apps & AI",
+    title: "IT Services in Maharashtra: Sites from ₹10,000",
     description:
       "Freelance IT services in Maharashtra: custom software, Android and iOS apps, AI automation, dashboards, SEO and ecommerce. Apps from ₹40,000, quote in 2 days.",
     keywords: [
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "Businesses in Maharashtra most often need custom software that replaces registers and spreadsheets, Android and iOS apps for dealers and field teams, WhatsApp and AI automation for enquiries, dashboards for owners with several sites, and websites with SEO that reach buyers beyond their home district. Ecommerce and ongoing IT support follow once those foundations are in place.",
         "Maharashtra's economy is broad. Mumbai runs finance, trading, media and shipping; Pune combines IT services with a large automobile and engineering base; Nagpur is a logistics hub for central India; Nashik and Chhatrapati Sambhajinagar mix agro-processing with auto ancillaries; western Maharashtra is built around sugar cooperatives, foundries and textiles; and the Konkan lives on fisheries, horticulture and tourism. Nearly every district has an MIDC industrial area.",
-        "What these businesses share is growth that outruns informal systems. A Bhiwandi warehouse, a Chakan component maker, a Nashik grape exporter and a Kolhapur foundry all need one reliable record of orders, stock, production, payments and people. BtechWaleTech builds focused systems for that, from ₹60,000 for custom software and ₹40,000 for a cross-platform mobile app.",
+        "What these businesses share is growth that outruns informal systems. A Bhiwandi warehouse, a Chakan component maker, a <a href='/it-services/maharashtra/nashik/'>Nashik</a> grape exporter and a Kolhapur foundry all need one reliable record of orders, stock, production, payments and people. BtechWaleTech builds focused systems for that, from ₹60,000 for custom software and ₹40,000 for a cross-platform mobile app. If you want advice before any build, such as an architecture review, a cloud cost audit and a written roadmap, read <a href='/india/maharashtra/'>IT consulting in Maharashtra</a>.",
       ],
       list: [
         "<strong>Custom software:</strong> orders, production, stock, dispatch and staff records.",
@@ -104,7 +104,7 @@ const content: CityContent = {
       id: "mumbai-region-software",
       heading: "Software for the Mumbai, Thane, Navi Mumbai and Bhiwandi region",
       paragraphs: [
-        "Businesses in the Mumbai metropolitan region most often need trade and order management software, logistics and warehouse tools, client portals for professional firms, and automation that answers customers after office hours. The region combines South Mumbai's traditional markets, corporate offices in BKC and Lower Parel, IT and pharma belts in Thane and Airoli, and the vast warehousing cluster of Bhiwandi.",
+        "Businesses in the Mumbai metropolitan region most often need trade and order management software, logistics and warehouse tools, client portals for professional firms, and automation that answers customers after office hours. The region combines South Mumbai's traditional markets, corporate offices in BKC and Lower Parel, IT and pharma belts in <a href='/it-services/maharashtra/thane/'>Thane</a> and Airoli, and the vast warehousing cluster of Bhiwandi.",
         "Traders and importers need systems that track purchase orders, container arrivals, stock across godowns and dealer credit. Warehouses in Bhiwandi need inward, outward and location tracking that clients can see through a portal. Chartered accountants, lawyers and consultants need secure document portals and task trackers. Clinics and coaching classes across the suburbs need booking and fee systems.",
         "Our dedicated <a href='/it-services/maharashtra/mumbai/'>Mumbai IT services page</a> covers the city in depth. For businesses in <a href='/thane/'>Thane</a>, <a href='/kalyan-dombivali/'>Kalyan-Dombivli</a> and <a href='/bhiwandi/'>Bhiwandi</a>, the same approach applies: focused software, cloud hosting in your name and remote support.",
       ],
@@ -237,7 +237,7 @@ const content: CityContent = {
       paragraphs: [
         "Every Maharashtra project includes two months of free maintenance after launch, covering bug fixes, small changes, security updates, backups and uptime checks, with optional support from ₹8,000 a month afterwards. The client owns the code, domain, hosting, app store listings and all logins.",
         "Support is remote over WhatsApp, calls and screen share, seven days a week. We have no office in Maharashtra and do not claim one; the engineers who built your system answer your messages. Larger changes are quoted before work starts.",
-        "Documentation at handover means another developer can continue if needed. Browse <a href='/services/'>all services</a>, read <a href='/about/'>about the team</a>, see <a href='/portfolio/'>our portfolio</a>, or start on the <a href='/contact/'>contact page</a>.",
+        "Documentation at handover means another developer can continue if needed. Browse <a href='/services/'>all services</a>, read <a href='/about/'>about the team</a>, see <a href='/portfolio/'>our portfolio</a>, or start on the <a href='/contact/'>contact page</a>. Consulting-led pages for <a href='/india/maharashtra/mumbai/'>Mumbai</a> and <a href='/india/maharashtra/pune/'>Pune</a> sit under our India locations section.",
       ],
     },
   ],

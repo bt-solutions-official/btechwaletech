@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const macherla: CityContent = {
   slug: "macherla",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 16.4833, lng: 79.4333 },
   meta: {
-    title: "IT Services in Macherla | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Macherla | Sites ₹10,000, Apps ₹40,000",
     description:
       "Telugu websites, apps, local SEO and WhatsApp tools for Macherla chilli and cotton traders, cement suppliers, clinics and colleges. Websites from ₹10,000.",
     keywords: [

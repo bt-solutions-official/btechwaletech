@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/nearshore-vs-offshore-software-development/",
   crumb: "Nearshore vs offshore software development",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Nearshore vs Offshore Software Development for Germany`,
-    description: `Nearshore vs offshore software development for German firms: Poland, Romania, Ukraine or India on time zones, GDPR and rates. Software from ${P.software}.`,
+    title: `Nearshore vs Offshore for Germany: Rates, GDPR, Hours`,
+    description: `Nearshore vs offshore software development for German firms: Poland, Romania, Ukraine and India on rates, time zones and GDPR. Builds from ${P.software}.`,
     keywords: [
       "nearshore vs offshore software development", "nearshore vs offshore", "nearshoring vs offshoring", "nearshore software development germany",
       "offshore software development india germany", "nearshore poland vs india", "romania vs india software outsourcing", "ukraine vs india outsourcing",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "nearshoring eastern europe germany", "outsourcing software development germany", "offshoring risks germany", "nearshore vs offshore cost",
       "nearshore vs offshore berlin", "nearshore vs offshore munich", "nearshore vs offshore hamburg", "nearshore vs offshore frankfurt",
       "which is cheaper nearshore or offshore", "software outsourcing mittelstand", "nearshore vs onshore vs offshore",
+      "nearshoring germany", "nearshoring services frankfurt", "nearshoring services hamburg", "nearshoring düsseldorf", "offshore software development germany",
     ],
   },
   hero: {

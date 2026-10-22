@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/car-rental-app-development/",
   crumb: "Car rental app development",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Car Rental App Development: Self-Drive from ${P.app}`,
-    description: `Car rental app development for self-drive fleets: licence KYC, deposit holds, GPS lock, damage photos, hourly pricing. Apps from ${P.app}; quote in 2 days.`,
+    description: `Licence KYC, deposit holds, GPS lock, damage photos and hourly pricing for self-drive fleets. Apps from ${P.app}, live in 6–10 weeks, quote in 2 days.`,
     keywords: [
       "car rental app development", "self drive car rental app development", "car rental app developer", "car rental app development cost",
       "car rental app development cost in India", "self drive car rental app", "car rental booking app development", "how to build a car rental app",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "car rental admin panel development", "car rental app with immobiliser", "how much does it cost to make a car rental app",
       "best car rental app development in India",
       "car rental app development services",
+      "self drive car rental app india",
     ],
   },
   hero: {

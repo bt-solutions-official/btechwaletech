@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--goa",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 15.2993, lng: 74.124 },
   meta: {
-    title: "Goa IT Services: Software, Apps & AI",
+    title: "IT Services in Goa: Websites ₹10,000, Apps ₹40,000",
     description:
       "Freelance IT services in Goa: custom software, web apps, AI automation, plus SEO and stores for North and South Goa. Software from ₹60,000, quote in two days.",
     keywords: [

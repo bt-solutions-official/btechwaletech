@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const rewa: CityContent = {
   slug: "rewa",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 24.5373, lng: 81.3042 },
   meta: {
-    title: "IT Services in Rewa | Web, Apps, SEO & AI from ₹10,000",
+    title: "IT Services in Rewa | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, SEO, online stores and WhatsApp automation for Rewa and Vindhya region businesses. From ₹10,000, itemised quote in 2 working days.",
     keywords: [

@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const pachora: CityContent = {
   slug: "pachora",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 20.6667, lng: 75.35 },
   meta: {
-    title: "IT Services in Pachora | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Pachora | Sites ₹10,000, Apps ₹40,000",
     description:
       "Marathi websites, apps, local SEO and WhatsApp tools for Pachora ginning units, banana traders, krishi kendras, clinics and colleges. From ₹10,000.",
     keywords: [

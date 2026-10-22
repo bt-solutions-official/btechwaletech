@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const kasaragod: CityContent = {
   slug: "kasaragod",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 12.5, lng: 75.0 },
   meta: {
-    title: "IT Services in Kasaragod | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Kasaragod | Sites ₹10,000, Apps ₹40,000",
     description:
       "Kasaragod Malayalam, Kannada and English websites, mobile apps, local SEO and WhatsApp bots for traders, Bekal resorts, weavers and clinics. ₹10,000 onwards.",
     keywords: [

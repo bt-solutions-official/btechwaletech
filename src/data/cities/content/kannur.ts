@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const kannur: CityContent = {
   slug: "kannur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 11.8745, lng: 75.3704 },
   meta: {
-    title: "IT Services in Kannur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Kannur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Kannur Malayalam and English websites, mobile apps, local SEO and WhatsApp bots for handloom exporters, traders, hospitals and colleges. ₹10,000 onwards.",
     keywords: [

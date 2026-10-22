@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/travel-website-developer/",
   crumb: "Travel website developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Travel Website Developer in India: Sites from ${P.site}`,
-    description: `Travel website developer for tour operators and travel agents: package pages, itineraries, WhatsApp enquiries and UPI part-payments. Sites from ${P.site}.`,
+    title: `Travel Website Developer in India: From ${P.site}`,
+    description: `Travel website developer for tour operators and agents: package and itinerary pages, WhatsApp enquiries and UPI part-payments. Sites from ${P.site}, 1–2 weeks.`,
     keywords: [
       "travel website developer", "travel website developer in India", "travel website developer near me", "travel website developer for hire",
       "travel agency website design", "travel website development cost", "travel website price India", "best travel website developer",

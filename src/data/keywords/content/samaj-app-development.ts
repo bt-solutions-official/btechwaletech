@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/samaj-app-development/",
   crumb: "Samaj app development",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Samaj App Development: Android & iOS from ${P.app}`,
-    description: `Samaj app development from ${P.app}: member directory, family trees, notices, donations, matrimony and admin roles, built for your community.`,
+    title: `Samaj App Development: Directory & Vanshavali, ${P.app}`,
+    description: `Samaj app development from ${P.app}: member directory, vanshavali family trees, notices, donations, matrimony and admin roles. Android and iOS, in your name.`,
     keywords: [
+      "vanshavali app", "samaj directory app", "samaj app cost",
       "samaj app development", "samaj app", "samaj app developer", "community app development", "samaj member directory app",
       "samaj app development cost", "samaj app price in India", "how to make a samaj app", "samaj matrimony app", "family tree app for samaj",
       "vanshavali app", "community directory app India", "samaj donation app", "samaj management software", "caste community app development",
@@ -440,6 +441,7 @@ const content: FreelanceContent = {
     { question: "Can non-resident members abroad use the samaj app?", answer: "Yes. The app is published on Google Play and the App Store, so members in other countries can install it too. The directory can store overseas addresses and international phone numbers, and OTP login can work by WhatsApp where SMS delivery abroad is unreliable. Notices can be targeted to an overseas group if your samaj has chapters outside India." },
     { question: "Samaj ka app banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath samaj app ${P.app} se shuru hota hai, jismein member directory, notices, events aur admin panel aata hai. Donation receipts, matrimony aur family tree alag line mein quote hote hain. Poora app aam taur par 6 se 10 hafte mein Play Store aur App Store par aa jata hai, aur saare accounts samaj ke naam par rehte hain.` },
     { question: "Can the samaj app also help members’ businesses?", answer: "Yes. A business listing module lets members add their shop or service with a category, city and contact button, so others in the samaj can find and support them. Many committees find this is one of the most-used screens. Members who want a full website or booking app for their own business can get that built separately." },
+    { question: "Can the samaj app show a vanshavali or family tree?", answer: "Yes. Each member record links to parents, spouse and children, so the app draws a vanshavali from the directory instead of needing a separate chart, and a family admin can keep their own branch updated. Print or PDF export of one branch is a common addition, usually asked for in Hindi or Marathi alongside English." },
   ],
   related: {
     heading: "Related pages for community, trust and event apps",

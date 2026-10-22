@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/react-nextjs-developer-gujarat/",
   crumb: "React and Next.js developer in Gujarat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `React and Next.js Developer in Gujarat from ${P.site}`,
-    description: `Need a React and Next.js developer in Gujarat? Fast, indexable sites from ${P.site} and React web apps from ${P.software}, hosted in your own account.`,
+    title: `React & Next.js Developer in Gujarat: Sites ${P.site}+`,
+    description: `React and Next.js developer in Gujarat: fast, indexable sites from ${P.site} and React web apps from ${P.software}. Hosting and code in your own accounts.`,
     keywords: [
       "React and Next.js developer in Gujarat", "Next.js developer Gujarat", "React developer Gujarat", "React JS developer near me",
       "Next.js developer near me", "hire React developer Gujarat", "Next.js website development Gujarat", "React web app development Gujarat",

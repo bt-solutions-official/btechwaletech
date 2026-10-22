@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--jharkhand--bokaro",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 23.6693, lng: 86.1511 },
   meta: {
     title: "Bokaro Steel City Software Developers: School ERP",
     description:
-      "Looking for a software development team in Bokaro? Hire our freelance group for school ERP, contractor tools, apps, AI automation and SEO. INR prices.",
+      "Looking for a software development team in Bokaro? Hire our freelance group for school ERP, contractor tools, apps, AI and SEO. From ₹10,000, prices in INR.",
     keywords: [
       "software development team in Bokaro",
       "IT services team in Bokaro",

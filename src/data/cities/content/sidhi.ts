@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sidhi: CityContent = {
   slug: "sidhi",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 24.4138, lng: 81.8785 },
   meta: {
-    title: "IT Services in Sidhi | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sidhi | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, Maps SEO and WhatsApp automation for Sidhi shops, dari weavers, coal-belt contractors, clinics and coaching centres. From ₹10,000.",
     keywords: [

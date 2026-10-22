@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-frontend-developer/",
   crumb: "Freelance frontend developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
     title: `Freelance Frontend Developer: UI from ${P.site}`,
-    description: `Freelance frontend developer for clean HTML, CSS and JavaScript, WCAG accessibility and passing Core Web Vitals. Interfaces from ${P.site}; itemised quotes.`,
+    description: `Clean HTML, CSS and JavaScript or React, WCAG accessibility and Core Web Vitals that pass on real budget phones. Interfaces from ${P.site}, itemised quotes.`,
     keywords: [
       "freelance frontend developer", "freelance frontend developer India", "frontend developer near me", "frontend developer for hire",
       "freelance front end developer cost", "frontend developer price", "best freelance frontend developer", "frontend developer chahiye",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "hire frontend developer remote", "freelance front-end engineer", "frontend developer for startup", "UI developer freelance India",
       "freelance front end web developer", "frontend performance optimisation",
       "hire freelance frontend developer",
+      "freelance headless frontend developer", "frontend developer freelance india", "react frontend freelancer",
     ],
   },
   hero: {

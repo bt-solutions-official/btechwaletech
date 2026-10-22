@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sangrur: CityContent = {
   slug: "sangrur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 30.2506, lng: 75.8442 },
   meta: {
-    title: "IT Services in Sangrur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sangrur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Punjabi websites, apps, local SEO and WhatsApp tools for Sangrur rice shellers, farm machinery makers, arhtiyas, hospitals and shops. Websites from ₹10,000.",
     keywords: [

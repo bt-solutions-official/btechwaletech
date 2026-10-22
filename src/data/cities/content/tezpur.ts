@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const tezpur: CityContent = {
   slug: "tezpur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 26.6283, lng: 92.7997 },
   meta: {
-    title: "IT Services in Tezpur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Tezpur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Assamese and English websites, apps and SEO for Tezpur tea estates, litchi growers, hospitals, colleges and shops. Sites from ₹10,000, live in 1-2 weeks.",
     keywords: [

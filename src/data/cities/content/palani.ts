@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const palani: CityContent = {
   slug: "palani",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 10.45, lng: 77.5161 },
   meta: {
-    title: "IT Services in Palani | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Palani | Sites ₹10,000, Apps ₹40,000",
     description:
       "Tamil websites, apps, local SEO and WhatsApp booking for Palani lodges, panchamirtham sellers, travel operators, clinics, colleges and shops. From ₹10,000.",
     keywords: [

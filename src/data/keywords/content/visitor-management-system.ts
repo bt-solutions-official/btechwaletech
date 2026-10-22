@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/visitor-management-system/",
   crumb: "Visitor management system",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Visitor Management System: Custom Build from ${P.software}`,
-    description: `Custom visitor management system for offices, factories and schools: QR pre-registration, OTP host approval, gate passes, kiosk. From ${P.software}.`,
+    title: `Visitor Management System: Own It from ${P.software}`,
+    description: `Visitor management system for offices, factories and warehouses: QR pre-registration, OTP host approval, gate passes and a self check-in kiosk. From ${P.software}.`,
     keywords: [
+      "visitor management system for warehouses", "visitor self check in kiosk", "visitor management system price",
       "visitor management system", "visitor management system software", "custom visitor management system", "visitor management system India",
       "digital visitor register", "visitor management app", "visitor management system for office", "visitor management system for factory",
       "visitor management system for school", "QR code visitor registration", "OTP visitor approval", "gate pass software",
@@ -389,6 +390,7 @@ const content: FreelanceContent = {
     { question: "Can visitors get invites and passes on WhatsApp?", answer: `Yes. Using the WhatsApp Business Platform, the system can send invites, OTPs, approval confirmations and digital passes as approved template messages. Message charges are billed by Meta to your own account. Automation that goes beyond basic notifications, such as reading ID cards or answering visitor queries, starts at ${P.ai}.` },
     { question: "Should we build a custom visitor management system or subscribe to one?", answer: "Subscribe when you have one office with a standard flow and want to start immediately. Build custom when you have several gates or sites, contractor or school rules, data that must stay in your own cloud, or integrations with in-house systems. We will say so honestly if a subscription fits your situation better." },
     { question: "Do you install the system at our site?", answer: "No. We are three freelance developers working remotely from India. We configure tablets and printers with your team over video calls, provide bilingual guard guides and recordings, and stay available on WhatsApp during the pilot. Physical mounting, wiring and network setup are handled by your facility team or electrician." },
+    { question: "Is a visitor management system priced per month or one-time?", answer: `Both models exist. Hosted products charge per site, per gate or per month for as long as you use them, which suits a small office that wants nothing to maintain. A custom build is one-time from ${P.software}: it runs in a cloud account in your name, the source code is handed over, and after launch you pay only hosting and any care you choose.` },
   ],
   related: {
     heading: "Related software for gates, staff and security",

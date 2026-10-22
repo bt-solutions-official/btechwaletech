@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const karimnagar: CityContent = {
   slug: "karimnagar",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 18.4386, lng: 79.1288 },
   meta: {
-    title: "Karimnagar Websites & SEO | Granite, Filigree, Clinics",
+    title: "Website Design in Karimnagar | From ₹10,000",
     description:
-      "Karimnagar websites, Telugu and English local SEO, and WhatsApp automation for granite exporters, filigree artisans, hospitals and colleges. From ₹10,000.",
+      "Karimnagar websites from ₹10,000, live in 1-2 weeks, with Telugu and English SEO. WhatsApp automation for granite exporters, filigree artisans and hospitals.",
     keywords: [
       "website development team in Karimnagar",
       "web designer Karimnagar",

@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--himachal-pradesh--baddi",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 30.9578, lng: 76.7914 },
   meta: {
     title: "Baddi Software Developers: Pharma Plant Workflows",
     description:
-      "Looking for a software development team in Baddi? Hire our freelance group for pharma workflow tools, B2B sites, dashboards and AI automation, in INR.",
+      "Looking for a software development team in Baddi? Hire our freelance group for pharma workflow tools, B2B sites, dashboards and AI, from ₹10,000 in INR.",
     keywords: [
       "software development team in Baddi",
       "IT services team in Baddi",

@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/n8n-automation-expert/",
   crumb: "n8n automation expert",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `n8n Automation Expert in India | From ${P.ai}`,
-    description: `n8n automation expert in India: self-hosted workflows linking WhatsApp, Sheets, CRM and AI, on servers you own. Projects from ${P.ai}, delivered in 2–4 weeks.`,
+    title: `n8n Automation Expert India: Self-Hosted, ${P.ai}`,
+    description: `n8n automation expert in India: self-hosted workflows linking WhatsApp, Google Sheets, CRM and AI on a server you own. From ${P.ai}, live in 2–4 weeks.`,
     keywords: [
+      "n8n automation services", "self hosted n8n india",
       "n8n automation expert", "n8n automation expert in India", "n8n expert near me", "n8n expert for hire",
       "n8n automation cost", "n8n developer price", "best n8n automation expert", "hire n8n developer",
       "n8n freelancer India", "n8n consultant", "self-hosted n8n setup", "n8n workflow developer",

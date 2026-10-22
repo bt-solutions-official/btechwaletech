@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const byasanagar: CityContent = {
   slug: "byasanagar",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 20.9461, lng: 86.13 },
   meta: {
-    title: "IT Services in Byasanagar: Websites, Apps, SEO & AI",
+    title: "Website Design in Byasanagar | Sites from ₹10,000",
     description:
-      "Byasanagar and Jajpur Road websites, Android and iOS apps, SEO and WhatsApp automation for steel-belt vendors, contractors, hotels, clinics and colleges.",
+      "Byasanagar and Jajpur Road websites from ₹10,000, live in 1-2 weeks. Apps from ₹40,000, SEO and WhatsApp tools for steel-belt vendors, hotels and colleges.",
     keywords: [
       "IT services in Byasanagar",
       "IT services team in Byasanagar",

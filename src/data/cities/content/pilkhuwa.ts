@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const pilkhuwa: CityContent = {
   slug: "pilkhuwa",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 28.712, lng: 77.6544 },
   meta: {
-    title: "IT Services in Pilkhuwa | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Pilkhuwa | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, SEO and WhatsApp automation for Pilkhuwa bedsheet makers, handloom printers, wholesalers, colleges, clinics and highway shops. From ₹10,000.",
     keywords: [

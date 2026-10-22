@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/custom-crm-development/",
   crumb: "Custom CRM development",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Custom CRM Development Australia: No Seat Fees`,
-    description: `Custom CRM development for Australian SMBs tired of per-seat fees: quote pipelines, Xero invoice sync, SMS follow-ups and full data export. From ${P.software}.`,
+    description: `Custom CRM for Australian SMBs tired of per-seat fees: quote pipelines, Xero invoice sync, SMS follow-ups and full data export. Builds from ${P.software}.`,
     keywords: [
       "custom crm development", "custom crm development australia", "custom crm for small business",
       "bespoke crm australia", "build your own crm", "custom crm vs off the shelf crm", "crm without per user pricing",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "is it worth building a custom crm", "custom sales pipeline software", "crm migration from spreadsheets",
       "custom crm development near me", "own your crm data",
       "hire custom crm development in Australia", "freelance custom crm development Australia",
+      "custom crm development melbourne", "custom crm development brisbane", "custom crm australia", "bespoke crm development australia",
     ],
   },
   hero: {

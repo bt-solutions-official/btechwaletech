@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/is-indiamart-worth-it/",
   crumb: "Is IndiaMART worth it",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: "Is IndiaMART Worth It? Cost per Real Lead vs Own Site",
-    description: `Is IndiaMART worth it for manufacturers? Work out cost per genuine inquiry and compare it with your own B2B site, from ${P.site}. Quote in 2 days.`,
+    title: `Is IndiaMART Worth It? Do the Cost-per-Lead Maths`,
+    description: `Work out what one genuine IndiaMART enquiry actually costs you, compare it against leads from your own B2B site from ${P.site}, then decide with real numbers.`,
     keywords: [
       "is indiamart worth it", "is indiamart paid membership worth it", "indiamart paid plan worth it", "is indiamart good for business",
       "indiamart buyleads worth it", "indiamart leads quality", "indiamart fake leads", "indiamart vs own website",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "b2b leads without indiamart", "indiamart for small manufacturers", "indiamart worth it for traders", "indiamart ka plan lena chahiye",
       "indiamart se leads aate hain kya", "indiamart vs tradeindia vs website", "b2b website for manufacturers India", "indiamart lead management",
       "is indiamart worth it Rajkot", "is indiamart worth it Ludhiana",
+      "is indiamart subscription worth it", "indiamart pricing for sellers", "indiamart buy leads package price", "indiamart paid service charges",
+      "indiamart product listing",
     ],
   },
   hero: {

@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const naidupet: CityContent = {
   slug: "naidupet",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 13.9, lng: 79.9 },
   meta: {
-    title: "IT Services in Naidupet | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Naidupet | Sites ₹10,000, Apps ₹40,000",
     description:
       "Telugu websites, apps, local SEO and WhatsApp tools for Naidupet highway traders, APIIC park suppliers, farm input dealers and clinics. Sites from ₹10,000.",
     keywords: [

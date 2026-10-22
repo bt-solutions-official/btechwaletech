@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const udhagamandalam: CityContent = {
   slug: "udhagamandalam",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 11.4102, lng: 76.695 },
   meta: {
-    title: "IT Services in Ooty | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Ooty | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, local SEO and WhatsApp booking for Ooty hotels, homestays, tea and chocolate sellers, schools and Nilgiris growers. Websites from ₹10,000.",
     keywords: [

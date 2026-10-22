@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/small-business-website-vadodara/",
   crumb: "Small business website in Vadodara",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Small Business Website in Vadodara from ${P.site}`,
-    description: `Small business website in Vadodara from ${P.site}: phone-first pages, Google Maps, a WhatsApp button and Gujarati-ready design. Live in 1–2 weeks, owned by you.`,
+    title: `Small Business Website in Vadodara: ${P.site}, 2 Weeks`,
+    description: `Small business website in Vadodara from ${P.site}: phone-first pages, Google Maps, WhatsApp button, Gujarati-ready design. Live in 1–2 weeks, owned by you.`,
     keywords: [
       "small business website in Vadodara", "small business website Vadodara", "website for shop in Vadodara", "small business website Baroda",
       "website for small business near me", "local business website Vadodara Gujarat", "cheap website Vadodara", "website designer for small business Vadodara",

@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const chilakaluripet: CityContent = {
   slug: "chilakaluripet",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 16.0892, lng: 80.1672 },
   meta: {
-    title: "Chilakaluripet IT Services | Web, Apps, SEO & AI",
+    title: "Website Design in Chilakaluripet | From ₹10,000",
     description:
-      "Chilakaluripet websites, Telugu local SEO and WhatsApp tools for spinning and ginning mills, traders, schools and clinics on NH16. Sites start from ₹10,000.",
+      "Chilakaluripet websites from ₹10,000, live in 1-2 weeks, with Telugu SEO. WhatsApp tools for spinning and ginning mills, NH16 traders, schools and clinics.",
     keywords: [
       "website development team in Chilakaluripet",
       "web designer Chilakaluripet",

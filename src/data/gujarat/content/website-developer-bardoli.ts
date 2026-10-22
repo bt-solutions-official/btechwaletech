@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-developer-bardoli/",
   crumb: "Website developer in Bardoli",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Bardoli · Sites from ${P.site}`,
-    description: `Website developer in Bardoli for cane-belt dealers, schools, clinics and food brands. Sites from ${P.site}, remote build, your domain, 2 months free care.`,
+    title: `Website Developer in Bardoli: ${P.site}, 2 Free Months`,
+    description: `Website developer in Bardoli for cane-belt dealers, schools, clinics and food brands. Sites from ${P.site}, your own domain, two months of free maintenance.`,
     keywords: [
       "website developer in Bardoli", "website developer Bardoli", "website developer near me Bardoli", "Bardoli Gujarat website",
       "web developer Bardoli", "website designer Bardoli", "website design Bardoli", "website development services Bardoli",

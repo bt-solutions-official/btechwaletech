@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/export-business-website-gujarat/",
   crumb: "Export business website in Gujarat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Export Business Website in Gujarat from ${P.site}`,
-    description: `Export business website in Gujarat for overseas buyers: English-first product pages, RFQ forms and fast global loading. From ${P.site}, 2-day quote.`,
+    title: `Export Business Website in Gujarat from ${P.site}: RFQ, MOQ`,
+    description: `Export website for Gujarat exporters from ${P.site}: English specs with MOQ, packing and lead times, plus an RFQ form on every product page. Quote in 2 days.`,
     keywords: [
       "export business website in Gujarat", "export business website Gujarat", "exporter website design Gujarat", "export website developer near me",
       "export company website Gujarat", "export business website developer Gujarat", "export business website designer Gujarat", "export website development services Gujarat",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "export website Morbi", "export website Morvi", "exporter website Rajkot", "export website Jamnagar", "exporter website Ahmedabad",
       "export website Surat", "export website Vadodara", "export website Baroda", "export website Gandhidham Kandla", "manufacturer exporter website Gujarat",
       "export ke liye website", "export business ki website kaise banaye", "international buyers ke liye website", "English export website Gujarat",
+      "export website in India", "export sites in India", "website for international buyers", "exporter website design India",
     ],
   },
   hero: {
@@ -414,6 +415,7 @@ const content: FreelanceContent = {
     { question: "What maintenance is included after launch?", answer: `Two months of maintenance are free after launch, covering fixes, new products, certificate updates and small changes such as RFQ field tweaks. After that, care is optional and starts at ${P.care}. You can also update content yourself or hand the site to another developer, since every account and the code are already yours.` },
     { question: "Can you redesign our old export website without losing enquiries?", answer: "Yes. We list existing URLs, keep the pages that already bring foreign visitors, and redirect old addresses to new ones so search history and saved links keep working. Email moves carefully so no buyer messages are lost. The new site is tested on staging before the switch." },
     { question: "Do you help with export documentation or compliance?", answer: "No. We build the pages that present your documentation, certificates and terms clearly, and forms that let buyers request them. Export registrations, product compliance and the legal wording on certificates stay with your CA, customs broker or consultant, who should confirm anything technical before it is published." },
+    { question: "Is our own export website better than listing on export portals and marketplaces?", answer: "They do different jobs. Portals bring volume but place you beside competitors, control the enquiry and often charge for leads. Your own website is where a buyer who already has your name checks whether you are real: specifications, certificates, factory photos, MOQ, packing and lead times, in English, with an RFQ form that reaches you directly. Most working exporters use both, portals for discovery and their own site for trust." },
     { question: "Export business ke liye website banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath export profile website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho sakti hai. Isme English product pages, specification tables, RFQ form aur domain email setup hota hai. Bade catalogue ${P.seoSite} se shuru hote hain. Domain aur hosting aapke naam par rehte hain aur 2 mahine maintenance free hai.` },
   ],
   related: {

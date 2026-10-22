@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-designer-gandhinagar/",
   crumb: "Website designer in Gandhinagar",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Designer in Gandhinagar: Sites from ${P.site}`,
-    description: `Website designer in Gandhinagar for layouts, photo direction and Gujarati-English typography, designed & coded together from ${P.site}. Remote, quote in 2 days.`,
+    title: `Website Designer in Gandhinagar: ${P.site}, 1–2 Weeks`,
+    description: `Website designer in Gandhinagar: layouts, photo direction and Gujarati-English typography, designed and coded together from ${P.site}. Quote in 2 working days.`,
     keywords: [
       "website designer in Gandhinagar", "website designer Gandhinagar", "web designer Gandhinagar", "website design Gandhinagar",
       "website designer near me Gandhinagar", "website designer Gandhinagar Gujarat", "website designing Gandhinagar", "website design cost Gandhinagar",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "website designer Sargasan", "website designer Infocity", "website designer GIFT City", "Gujarati website design",
       "bilingual website design Gujarati English", "website designer vs developer", "freelance website designer Gandhinagar", "website redesign Gandhinagar",
       "website designer Kalol", "Gandhinagar me website design kaise karaye", "website design karwana hai Gandhinagar", "hotel website design Gandhinagar",
+      "website design in Gandhinagar",
     ],
   },
   hero: {

@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const pali: CityContent = {
   slug: "pali",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 25.7711, lng: 73.3234 },
   meta: {
-    title: "IT Services in Pali | Web, Apps, SEO & AI from ₹10,000",
+    title: "IT Services in Pali | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, catalogues, SEO and WhatsApp automation for Pali's textile processors, Sojat mehndi sellers, marble traders and shops. Sites from ₹10,000.",
     keywords: [

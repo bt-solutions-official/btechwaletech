@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const wani: CityContent = {
   slug: "wani",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 20.0556, lng: 78.9533 },
   meta: {
-    title: "IT Services in Wani | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Wani | Sites ₹10,000, Apps ₹40,000",
     description:
       "Marathi websites, apps, local SEO and WhatsApp tools for Wani coal-belt contractors, cotton ginners, MIDC units, colleges, clinics and shops. From ₹10,000.",
     keywords: [

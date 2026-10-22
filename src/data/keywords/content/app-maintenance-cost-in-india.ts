@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/app-maintenance-cost-in-india/",
   crumb: "App maintenance cost in India",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `App Maintenance Cost in India: Plans from ${P.care}`,
-    description: `App maintenance cost in India, line by line: OS and SDK updates, Play target-API deadlines, Firebase bills, store fees. 2 months free, then from ${P.care}.`,
+    title: `App Maintenance Cost in India: ${P.care} After 2 Free`,
+    description: `2 months free after launch, then ${P.care}. Covers OS and SDK updates, Play target-API deadlines, crash fixes, plus the Firebase and store bills you pay.`,
     keywords: [
       "app maintenance cost in india", "mobile app maintenance cost india", "app maintenance charges", "android app maintenance cost",
       "ios app maintenance cost india", "yearly app maintenance cost", "annual maintenance cost of mobile app", "app amc cost india",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "play store target api level update cost", "app update cost india", "app maintenance retainer vs hourly", "app bug fixing cost india",
       "app maintenance company near me", "app maintenance for small business", "app ka maintenance kharcha", "app maintenance cost bangalore",
       "app maintenance cost delhi", "app maintenance cost pune", "who maintains my app after launch",
+      "ios app development maintenance", "app running cost india", "app amc charges",
     ],
   },
   hero: {

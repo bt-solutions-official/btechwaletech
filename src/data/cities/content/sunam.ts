@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sunam: CityContent = {
   slug: "sunam",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 30.13, lng: 75.8 },
   meta: {
-    title: "IT Services in Sunam | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sunam | Sites ₹10,000, Apps ₹40,000",
     description:
       "Punjabi websites, apps, local SEO and WhatsApp tools for Sunam arhtiyas, cloth and utensil wholesalers, jewellers, colleges and clinics. From ₹10,000.",
     keywords: [

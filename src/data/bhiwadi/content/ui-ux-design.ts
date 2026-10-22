@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/ui-ux-design/",
   crumb: "UI UX design",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: "UI UX Design in Bhiwadi: Tested With Your Team",
-    description: `UI UX design in Bhiwadi for apps and business software: wireframes, prototypes and shop-floor tests in person. Apps from ${P.app}, meetings at your unit.`,
+    title: `UI UX Design in Bhiwadi: Tested With Your Own Staff`,
+    description: `UI UX design in Bhiwadi for apps and software: user flows, wireframes and a clickable prototype tested on your shop floor. Free inside builds from ${P.site}.`,
     keywords: [
       "UI UX design in Bhiwadi", "UI UX designer in Bhiwadi", "UI UX design near me", "UI UX design company Bhiwadi",
       "UI UX design services Bhiwadi", "UI UX design in Bhiwadi Rajasthan", "UI UX designer Bhiwadi Alwar", "app UI design Bhiwadi",
@@ -47,7 +47,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does UI UX design in Bhiwadi involve, and what does it cost?",
-    text: `UI UX design plans how an app or software screen works (UX) and how it looks (UI): user flows, wireframes, a clickable prototype and final screens. With BtechWaleTech, design is included in every build: apps from ${P.app}, custom software from ${P.software}, websites from ${P.site}. For UI UX design in Bhiwadi we test prototypes face to face with your staff.`,
+    text: `Included in every build: websites from ${P.site}, apps from ${P.app}, custom software from ${P.software}. UI UX design plans how a screen works (UX) and how it looks (UI): user flows, wireframes, a clickable prototype and final screens. For Bhiwadi plants we test the prototype face to face with your own staff.`,
     more: `Designing a public website rather than an app? Our <a href='/bhiwadi-rajasthan/website-designer/'>website designer in Bhiwadi</a> page covers that side. For general guidance India-wide, see <a href='/freelance-ui-ux-designer/'>freelance UI UX designer</a>.`,
   },
   snapshot: {

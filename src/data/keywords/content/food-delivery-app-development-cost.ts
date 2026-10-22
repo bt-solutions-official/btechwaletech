@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/food-delivery-app-development-cost/",
   crumb: "Food delivery app development cost",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Food Delivery App Development Cost: From ${P.app}`,
-    description: `Food delivery app development cost for a restaurant or cloud kitchen vs a multi-restaurant platform: app split, maps bills, payback. Apps from ${P.app}.`,
+    title: `Food Delivery App Development Cost: ${P.app}+ India`,
+    description: `${P.app} for a single-restaurant ordering app; a multi-restaurant platform with a rider app costs more. Maps bills, commission saved and payback worked out.`,
     keywords: [
       "food delivery app development cost", "food delivery app development cost in India", "restaurant ordering app cost", "cloud kitchen app development cost",
       "cost to build a food delivery app", "how much does a food delivery app cost", "single restaurant app cost", "multi restaurant food delivery app cost",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "own food delivery app for restaurant", "restaurant app development near me", "food delivery app cost Hyderabad", "food delivery app cost Pune",
       "food delivery app cost Bengaluru", "khane ki delivery app banwane ka kharcha", "food app MVP cost", "direct ordering app vs aggregator",
       "food delivery app maintenance cost", "food delivery app timeline",
+      "food app development cost", "food delivery app cost in india",
     ],
   },
   hero: {

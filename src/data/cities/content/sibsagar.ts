@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sibsagar: CityContent = {
   slug: "sibsagar",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 26.9889, lng: 94.639 },
   meta: {
-    title: "IT Services in Sivasagar | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sivasagar | Sites ₹10,000, Apps ₹40,000",
     description:
       "Assamese websites, apps, local SEO and WhatsApp tools for Sivasagar heritage tourism, oilfield vendors, tea estates, colleges and shops. Sites from ₹10,000.",
     keywords: [

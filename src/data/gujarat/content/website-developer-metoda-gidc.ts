@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-developer-metoda-gidc/",
   crumb: "Website developer for Metoda GIDC Rajkot",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer for Metoda GIDC Rajkot · ${P.site}+`,
-    description: `Website developer for Metoda GIDC Rajkot auto-part and engineering units: part-number catalogues, dealer pages & OEM capability sites from ${P.site}, all yours.`,
+    title: `Website Developer for Metoda GIDC Rajkot: ${P.site}+`,
+    description: `Website developer for Metoda GIDC Rajkot auto-part and engineering units: part-number catalogues, dealer pages and OEM capability sites from ${P.site}.`,
     keywords: [
       "website developer for Metoda GIDC Rajkot", "website developer Metoda GIDC", "Metoda website design", "website developer near me Metoda",
       "Lodhika GIDC website developer", "Kalawad Road Rajkot web developer", "auto parts manufacturer website Rajkot", "bearing manufacturer website Gujarat",

@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/ecommerce-website-cost/",
   crumb: "Ecommerce website cost Australia",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Ecommerce Website Cost Australia: Stores from ${P.shop}`,
-    description: `Ecommerce website cost in Australia, all in: build by catalogue size, platform plans, card and BNPL fees, shipping apps and 3-year running costs. From ${P.shop}.`,
+    title: `Ecommerce Website Cost Australia: 3-Year Total`,
+    description: `Ecommerce website cost in Australia, all in: build by catalogue size, platform plans, card and BNPL fees, shipping apps, 3-year running costs. From ${P.shop}.`,
     keywords: [
       "ecommerce website cost australia", "how much does an ecommerce website cost in australia", "online store cost australia",
       "ecommerce website price australia", "cost to build an online store australia", "shopify store cost australia",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "ecommerce maintenance cost", "ecommerce website quote australia", "hidden costs of ecommerce website",
       "ecommerce website cost for 1000 products",
       "hire ecommerce website in Australia", "freelance ecommerce website Australia",
+      "cheapest ecommerce platform australia", "shopify cost australia",
     ],
   },
   hero: {

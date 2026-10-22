@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/ecommerce-website-development-gandhidham/",
   crumb: "Ecommerce website development in Gandhidham",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Ecommerce Website Development Gandhidham, ${P.shop}+`,
-    description: `Ecommerce website development in Gandhidham: retail and wholesale stores with UPI checkout, GST invoices and Kutch shipping rules, from ${P.shop}, remote build.`,
+    title: `Ecommerce Website Development in Gandhidham ${P.shop}+`,
+    description: `Gandhidham online store from ${P.shop}: UPI and card checkout, GST-ready invoices, pincode shipping rules and WhatsApp order alerts. Live in 4–8 weeks.`,
     keywords: [
       "ecommerce website development in Gandhidham", "ecommerce website Gandhidham", "online store development Gandhidham", "ecommerce developer near me Gandhidham",
       "ecommerce website development Kutch", "online shop website Gandhidham Gujarat", "ecommerce website cost Gandhidham", "online store price Gandhidham",

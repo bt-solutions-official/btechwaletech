@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/new-zealand/seo-services/",
   crumb: "SEO services NZ",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `SEO Services NZ: Monthly Work Shown, from ${P.seo}`,
-    description: `SEO services NZ businesses can audit line by line: technical fixes, content and NZ citations each month from ${P.seo}, with reports you can check yourself.`,
+    title: `SEO Services NZ: Work Shown Monthly, from ${P.seo}`,
+    description: `SEO services NZ businesses can audit line by line: technical fixes, content and NZ citations every month from ${P.seo}, with reports you can verify yourself.`,
     keywords: [
       "seo services nz", "seo services new zealand", "seo nz", "seo company nz", "seo agency nz alternative",
       "local seo nz", "seo auckland", "seo wellington", "seo christchurch", "seo hamilton", "seo tauranga",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "google business profile nz", "ai overviews seo nz", "seo reporting nz", "remote seo team for nz business",
       "seo services near me nz",
       "hire seo services in New Zealand", "freelance seo services New Zealand",
+      "seo freelancer auckland", "seo agency northland", "seo expert new zealand",
     ],
   },
   hero: {

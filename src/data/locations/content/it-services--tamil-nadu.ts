@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--tamil-nadu",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 11.1271, lng: 78.6569 },
   meta: {
-    title: "Tamil Nadu IT Services: Software & Apps",
+    title: "IT Services in Tamil Nadu: Sites from ₹10,000",
     description:
       "IT services in Tamil Nadu from a freelance group of three engineers: manufacturing software, dealer portals, Tamil-first apps and AI automation. From ₹10,000.",
     keywords: [
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "Beyond a website, Tamil Nadu businesses most often need production and job-work tracking, dealer and distributor portals, export documentation tools, admission and fee systems, patient booking platforms, WhatsApp and AI automation, Android and iOS apps and dashboards linked to Tally or an ERP. The state's manufacturing depth means software demand is operational, not just promotional.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Tamil Nadu. We build custom web applications, mobile apps, AI agents, WhatsApp Business API automation, data dashboards, ecommerce stores, SEO websites and cloud hosting, and we maintain what we build. See our <a href='/services/'>services</a> for detail.",
-        "The pattern across the state is similar: a successful family business in Coimbatore, Tiruppur, Salem or Madurai has grown on phone calls, paper challans and Excel, and now struggles to see what is happening across branches, dealers or shifts. Focused software, built in modules, fixes that without forcing a full ERP migration.",
+        "The pattern across the state is similar: a successful family business in <a href='/it-services/tamil-nadu/coimbatore/'>Coimbatore</a>, Tiruppur, <a href='/it-services/tamil-nadu/salem/'>Salem</a> or <a href='/it-services/tamil-nadu/madurai/'>Madurai</a> has grown on phone calls, paper challans and Excel, and now struggles to see what is happening across branches, dealers or shifts. Focused software, built in modules, fixes that without forcing a full ERP migration. If you want advice before any build, such as an architecture review, a cloud cost audit and a written roadmap, read <a href='/india/tamil-nadu/'>IT consulting in Tamil Nadu</a>.",
       ],
       list: [
         "Production, job-work and quality tracking for factories",
@@ -106,7 +106,7 @@ const content: CityContent = {
       heading: "Software for Coimbatore, Chennai and Hosur manufacturers",
       paragraphs: [
         "Manufacturing software for Tamil Nadu factories tracks orders, job cards, machine and shift output, rejections, dispatches and job-work sent to subcontractors, giving owners a live picture across the shop floor; for foundries, pump makers, auto component suppliers and machine shops, this usually replaces registers and spreadsheets rather than a full ERP.",
-        "Coimbatore's pump, motor and foundry units, auto component suppliers around Sriperumbudur, Oragadam and Hosur, and engineering suppliers to BHEL in Trichy share common needs: tracking each order through operations, recording who did what on which machine, and knowing where material sent for job work has reached. We build web apps with supervisor screens on tablets or phones and owner dashboards.",
+        "Coimbatore's pump, motor and foundry units, auto component suppliers around Sriperumbudur, Oragadam and Hosur, and engineering suppliers to BHEL in <a href='/it-services/tamil-nadu/trichy/'>Trichy</a> share common needs: tracking each order through operations, recording who did what on which machine, and knowing where material sent for job work has reached. We build web apps with supervisor screens on tablets or phones and owner dashboards.",
         "Where Tally or an existing ERP handles accounts, we connect or export rather than replace. We build with Next.js and React, Node.js or Python and PostgreSQL, hosted on AWS or comparable providers. Custom software starts from ₹60,000 and typically takes six to twelve weeks. See our <a href='/services/web-development/'>web development page</a>.",
       ],
     },
@@ -229,7 +229,7 @@ const content: CityContent = {
         "A Tamil Nadu MSME should roll out software across several units by starting at the one unit or process with the clearest pain, running it there for a month with real data, fixing what supervisors struggle with, and only then copying it to other units, rather than switching every plant, branch or warehouse on the same day.",
         "Many family-run manufacturers around Coimbatore, Tiruppur and Hosur have a main unit and two or three satellite units or job-work partners. The main unit usually has the most disciplined staff and the best data, so it makes a good pilot. Once its supervisors trust the screens, they become the trainers for other units, often explaining things in Tamil far better than any manual.",
         "Data migration deserves a plan of its own. Open orders, current stock and pending dues should be entered cleanly before go-live, while old history can stay in Excel for reference. Trying to import years of messy records often delays launch for little benefit.",
-        "We plan phases in the itemised quote, so costs and timelines are visible for each unit. That lets owners pause after the pilot if results are not what they expected, which is an honest safeguard both sides appreciate.",
+        "We plan phases in the itemised quote, so costs and timelines are visible for each unit. That lets owners pause after the pilot if results are not what they expected, which is an honest safeguard both sides appreciate. A consulting-led page for <a href='/india/tamil-nadu/chennai/'>Chennai</a> sits under our India locations section.",
       ],
       list: [
         "Pick one unit and one painful process as the pilot",

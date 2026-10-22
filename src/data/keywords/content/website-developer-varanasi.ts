@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/website-developer-varanasi/",
   crumb: "Website developer in Varanasi",
-  updated: "2026-10-02",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Varanasi · Sites from ${P.site}`,
-    description: `Website developer in Varanasi for guesthouses, saree weavers, institutes and food brands: complete sites from ${P.site}, built remotely and owned by you.`,
+    title: `Website Developer in Varanasi: Sites from ${P.site}`,
+    description: `Website developer in Varanasi for guesthouses, saree weavers, institutes and food brands: complete sites from ${P.site}, live in 1–2 weeks, code in your name.`,
     keywords: [
+      "website developer in varanasi", "website developer for hire in varanasi",
       "website developer in Varanasi", "website developer Varanasi", "website developer near me Varanasi", "web developer in Varanasi",
       "website developer in Banaras", "website developer Kashi", "website development Varanasi", "website design Varanasi",
       "website cost in Varanasi", "website price Varanasi", "guesthouse website Varanasi", "homestay website Varanasi",

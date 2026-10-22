@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const ahmedabad: CityContent = {
   slug: "ahmedabad",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 23.0225, lng: 72.5714 },
   meta: {
-    title: "IT Services in Ahmedabad: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Ahmedabad | ₹10,000 Up",
     description:
-      "Ahmedabad websites, Gujarati and English SEO, online stores and WhatsApp bots for traders, GIDC units and pharma suppliers. From ₹10,000, 2 months free care.",
+      "Ahmedabad websites from ₹10,000, live in 1-2 weeks, with Gujarati and English SEO. Stores from ₹50,000 for traders, GIDC units and pharma suppliers.",
     keywords: [
       "website development team in Ahmedabad",
       "web design team Ahmedabad",

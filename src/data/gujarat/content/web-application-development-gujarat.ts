@@ -11,9 +11,9 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/web-application-development-gujarat/",
   crumb: "Web application development in Gujarat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Web Application Development in Gujarat from ${P.software}`,
+    title: `Web App Development in Gujarat: Portals from ${P.software}`,
     description: `Web application development in Gujarat: portals, dashboards and dealer apps with role-based logins, from ${P.software}. Itemised quote in 2 working days.`,
     keywords: [
       "web application development in Gujarat", "web application development Gujarat", "web app developer Gujarat", "custom web application Gujarat",

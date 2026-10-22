@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const barbil: CityContent = {
   slug: "barbil",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 22.1167, lng: 85.4 },
   meta: {
-    title: "IT Services in Barbil | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Barbil | Sites ₹10,000, Apps ₹40,000",
     description:
       "Barbil websites, Android and iOS apps, local SEO and WhatsApp automation for mining contractors, transporters, crushers, hotels, clinics and Main Road shops.",
     keywords: [

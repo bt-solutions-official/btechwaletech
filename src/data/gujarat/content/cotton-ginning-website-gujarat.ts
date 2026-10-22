@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/cotton-ginning-website-gujarat/",
   crumb: "Cotton ginning company website in Gujarat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Cotton Ginning Company Website in Gujarat from ${P.site}`,
-    description: `Cotton ginning company website in Gujarat: bale spec pages, lot offers, farmer kapas rates in Gujarati and export enquiry forms. Sites from ${P.site}.`,
+    title: `Cotton Ginning Website in Gujarat: Bales, ${P.site}`,
+    description: `Cotton ginning company website in Gujarat: bale spec pages, lot offers, kapas rates in Gujarati for farmers and export enquiry forms. Sites from ${P.site}.`,
     keywords: [
       "cotton ginning company website in Gujarat", "cotton ginning website", "ginning and pressing factory website", "cotton bales supplier website Gujarat", "cotton ginning website Rajkot",
       "cotton gin website design", "kapas ginning factory website", "cotton bale exporter website", "cotton ginning website near me", "Gujarat website developer cotton",

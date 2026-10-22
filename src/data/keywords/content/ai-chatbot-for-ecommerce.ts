@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/ai-chatbot-for-ecommerce/",
   crumb: "AI chatbot for ecommerce",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `AI Chatbot for Ecommerce: Sell and Track, ${P.ai}+`,
-    description: `AI chatbot for ecommerce stores: product answers from your catalogue, order tracking, returns, cart recovery on WhatsApp and web. Builds from ${P.ai}.`,
+    title: `AI Chatbot for Ecommerce: Recommend, Track, ${P.ai}+`,
+    description: `Answers product questions from your own catalogue, recommends sizes and alternatives, tracks orders, handles returns and recovers carts on WhatsApp and web.`,
     keywords: [
       "ai chatbot for ecommerce", "ecommerce chatbot", "ai chatbot for online store", "ai chatbot for shopify store", "woocommerce ai chatbot",
       "whatsapp chatbot for ecommerce", "order tracking chatbot", "abandoned cart recovery whatsapp", "product recommendation chatbot",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "ai shopping assistant", "ecommerce customer support chatbot", "ai chatbot for ecommerce in Hindi", "chatbot for d2c brand",
       "ai chatbot for fashion store", "ecommerce chatbot Surat", "ecommerce chatbot Jaipur", "ecommerce chatbot Delhi", "online store ke liye chatbot",
       "custom ecommerce chatbot development", "ai chatbot for ecommerce near me",
+      "chatbots in ecommerce", "chatbot for online store india", "cart recovery whatsapp bot",
     ],
   },
   hero: {

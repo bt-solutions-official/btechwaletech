@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const koyilandy: CityContent = {
   slug: "koyilandy",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 11.4389, lng: 75.695 },
   meta: {
-    title: "IT Services in Koyilandy | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Koyilandy | Sites ₹10,000, Apps ₹40,000",
     description:
       "Koyilandy Malayalam and English websites, mobile apps, local SEO and WhatsApp bots for fish traders, Gulf-linked families, shops and clinics. ₹10,000 upwards.",
     keywords: [

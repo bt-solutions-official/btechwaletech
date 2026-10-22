@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--uttar-pradesh",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 26.8467, lng: 80.9462 },
   meta: {
-    title: "Uttar Pradesh IT Consulting: Brass, Carpets & Leather",
+    title: "Uttar Pradesh IT Consulting from ₹10,000",
     description:
-      "IT consulting in Uttar Pradesh from a freelance team: software for ODOP clusters and exporters, plus Hindi AI agents. Two months of free upkeep after launch.",
+      "IT consulting in Uttar Pradesh from a freelance team: software for ODOP clusters and exporters, plus Hindi AI agents. From ₹10,000, two months free upkeep.",
     keywords: [
       "IT solutions team in Uttar Pradesh",
       "IT consulting Uttar Pradesh",
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "Digital transformation for Uttar Pradesh's cluster MSMEs means giving the owner real-time visibility over material, work-in-progress, orders and money as they move between the unit, outside karigars and job-workers, dealers and buyers. It replaces the diary, phone calls and memory that most cluster businesses still rely on.",
         "A brassware exporter in Moradabad may send raw pieces to several polishing, plating and engraving workshops before packing. A lock manufacturer in Aligarh deals with casting, machining and assembly units plus dozens of dealers. A carpet house in Bhadohi issues yarn to weavers in surrounding villages for months at a time. In each case, the owner's biggest problem is not a lack of marketing but not knowing exactly where things stand.",
-        "So our consulting usually begins with a tracking tool rather than a website. We map the steps, the people involved and the documents used, then build a simple app where each movement is recorded in seconds. Once the owner trusts that data, dashboards, dealer apps and export catalogues follow. We price each step from our <a href='/pricing/'>starting prices</a>, so you can move at your own pace.",
+        "So our consulting usually begins with a tracking tool rather than a website. We map the steps, the people involved and the documents used, then build a simple app where each movement is recorded in seconds. Once the owner trusts that data, dashboards, dealer apps and export catalogues follow. We price each step from our <a href='/pricing/'>starting prices</a>, so you can move at your own pace. For the delivery side of the same work, with city pages and published starting prices, see <a href='/it-services/uttar-pradesh/'>IT services in Uttar Pradesh</a>.",
       ],
     },
     {

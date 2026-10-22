@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--maharashtra--pune",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 18.5204, lng: 73.8567 },
   meta: {
-    title: "Pune IT Consultants: Auto Suppliers & Engineering",
+    title: "Pune IT Consultants: Software from ₹60,000",
     description:
       "Freelance IT consultants in Pune for custom software, Android and iOS apps, AI automation, cloud, plus data and SEO. Software from ₹60,000, quote in two days.",
     keywords: [
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "IT consulting in Pune should give you a clear picture of where technology can remove delays or win customers in your business, a recommendation with prices, and a realistic rollout plan. It should come from someone who understands both the business and the engineering, and who will stand behind the plan once it is built.",
         "Typical Pune questions are concrete. A Bhosari sheet-metal unit wants to know why dispatches slip and whether software would help. A Kothrud coaching institute wants admissions and fee follow-ups off paper. A Baner real-estate developer wants leads tracked properly. A Hinjewadi startup wants a second opinion on its architecture. A Wakad clinic chain wants online booking across branches.",
-        "Our first consultation is free. We ask about your current tools, how work flows and where it gets stuck, then send a written recommendation and itemised quote in about two working days. If a ready-made product suits you better than custom work, we say so.",
+        "Our first consultation is free. We ask about your current tools, how work flows and where it gets stuck, then send a written recommendation and itemised quote in about two working days. If a ready-made product suits you better than custom work, we say so. For build-only work, see <a href='/it-services/maharashtra/pune/'>software developers in Pune</a>, or the <a href='/it-services/maharashtra/'>Maharashtra IT services hub</a> for the rest of the state.",
       ],
       list: [
         "Current-state review of tools and workflows",

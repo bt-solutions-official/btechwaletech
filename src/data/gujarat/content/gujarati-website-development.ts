@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/gujarati-website-development/",
   crumb: "Gujarati website development",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Gujarati Website Development from ${P.site}`,
-    description: `Gujarati website development done right: Unicode text, Gujarati web fonts, comfortable line height and SEO for Gujarati searches. Sites from ${P.site}.`,
+    title: `Gujarati Website Development from ${P.site}: Fonts + SEO`,
+    description: `Gujarati website development done properly: Unicode text, real Gujarati web fonts, line height for vowel marks and SEO for Gujarati searches. From ${P.site}.`,
     keywords: [
       "Gujarati website development", "Gujarati website", "Gujarati language website", "website in Gujarati",
       "Gujarati website developer", "Gujarati website design", "Gujarati website development near me", "Gujarati website development Gujarat",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "Gujarati website Surat", "Gujarati website Rajkot", "Gujarati website Vadodara Baroda", "Gujarati bhasha ma website",
       "Gujarati mein website banwani hai", "website in Gujarati and English", "Gujarati content website", "Gujarati ecommerce website",
       "Gujarati website for business",
+      "best Gujarati fonts for website",
     ],
   },
   hero: {

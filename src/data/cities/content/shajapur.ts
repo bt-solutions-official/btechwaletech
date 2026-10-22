@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const shajapur: CityContent = {
   slug: "shajapur",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 23.4273, lng: 76.273 },
   meta: {
-    title: "IT Services in Shajapur | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Shajapur | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, local SEO and WhatsApp tools for Shajapur onion and garlic traders, soybean dealers, Maksi units, clinics and colleges. From ₹10,000.",
     keywords: [

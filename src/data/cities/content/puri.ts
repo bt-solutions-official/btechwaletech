@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const puri: CityContent = {
   slug: "puri",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 19.8135, lng: 85.8312 },
   meta: {
-    title: "IT Services in Puri | Web, Apps, SEO & AI from ₹10,000",
+    title: "IT Services in Puri | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, local SEO and WhatsApp booking automation for Puri hotels, tour operators, handicraft sellers and clinics. Sites from ₹10,000, stores from ₹50,000.",
     keywords: [

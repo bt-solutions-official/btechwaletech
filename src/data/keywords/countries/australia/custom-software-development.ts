@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/custom-software-development/",
   crumb: "Custom software development Australia",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Custom Software Development Australia from ${P.software}`,
-    description: `Custom software development for Australian SMBs outgrowing spreadsheets: Xero, MYOB and ServiceM8 links, AWS Sydney hosting, phased builds from ${P.software}.`,
+    title: `Custom Software Development Australia, from ${P.software}`,
+    description: `Custom software for Australian SMBs outgrowing spreadsheets: Xero, MYOB and ServiceM8 links, AWS Sydney hosting, phased fixed-price builds from ${P.software}.`,
     keywords: [
       "custom software development australia", "custom software development", "custom software developers australia",
       "bespoke software development australia", "custom business software australia", "replace spreadsheets with software",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "outsource custom software development", "custom internal tools developer", "phased software delivery",
       "who owns custom software code", "custom software developer near me",
       "hire custom software development in Australia", "freelance custom software development Australia",
+      "bespoke software development sydney", "custom database development sydney", "custom software developer perth", "custom software development companies sydney",
     ],
   },
   hero: {

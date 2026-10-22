@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/free-website-seo-audit/",
   crumb: "Free website SEO audit",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: "Free Website SEO Audit: A 20-Point Self-Check",
-    description: `Free website SEO audit guide: what free tools miss, a 20-point self-check, reading Search Console, and when paying makes sense. Monthly SEO from ${P.seo}.`,
+    title: `Free Website SEO Audit: A 20-Point Self-Check`,
+    description: `Run the 20-point check yourself: what free scanners miss, how to read Search Console properly, and when paying for an audit is worth it. SEO from ${P.seo}.`,
     keywords: [
       "free website seo audit", "free seo audit", "free seo audit of my website", "free website audit",
       "free seo check", "free seo analysis report", "is a free seo audit worth it", "free seo audit vs paid seo audit",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "free website seo audit company in India",
       "best free website seo audit in India",
       "free website seo audit services",
+      "check seo of website", "check seo score of website", "free seo audit report", "free site audit online",
     ],
   },
   hero: {

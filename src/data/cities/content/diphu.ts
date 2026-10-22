@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const diphu: CityContent = {
   slug: "diphu",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 25.8333, lng: 93.4333 },
   meta: {
-    title: "IT Services in Diphu | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Diphu | Sites ₹10,000, Apps ₹40,000",
     description:
       "Diphu websites, Android and iOS apps, local SEO and WhatsApp automation for ginger and turmeric traders, handloom makers, colleges, clinics, hotels and shops.",
     keywords: [

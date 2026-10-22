@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/singapore/freelance-web-developer/",
   crumb: "Freelance web developer Singapore",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Freelance Web Developer Singapore: Sites from ${P.site}`,
-    description: `Freelance web developer Singapore guide: solo local freelancer or a three-person remote team? Sites from ${P.site}, SGT hours, Wise payments, no bus-factor risk.`,
+    title: `Freelance Web Developer, Singapore: 3 Devs, ${P.site}+`,
+    description: `Freelance web developer for Singapore: a three-person team, not one person. Sites from ${P.site}, replies in SGT hours, Wise or wire, no bus-factor risk.`,
     keywords: [
       "freelance web developer singapore", "freelance web developer in singapore", "singapore freelance web developer", "freelance website developer singapore",
       "freelance web designer singapore", "hire freelance web developer singapore", "freelance web developer singapore rates", "freelance web developer singapore cost",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "freelance web developer raffles place", "freelance web developer jurong", "freelance web developer tampines", "freelance web developer woodlands",
       "freelance full stack developer singapore", "wordpress freelancer singapore", "web developer india for singapore company",
       "freelance web developer contract singapore", "pay freelancer via wise singapore", "offshore web developer singapore", "freelance web team singapore",
+      "freelance offshore web design developers",
     ],
   },
   hero: {

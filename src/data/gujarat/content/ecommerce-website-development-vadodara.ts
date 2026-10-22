@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/ecommerce-website-development-vadodara/",
   crumb: "Ecommerce website development in Vadodara",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Ecommerce Website Development in Vadodara from ${P.shop}`,
-    description: `Ecommerce website development in Vadodara: catalogue, UPI and card checkout, GST-ready invoices and shipping from Baroda. Online stores start from ${P.shop}.`,
+    title: `Ecommerce Website in Vadodara: ${P.shop}, 4–8 Weeks`,
+    description: `Vadodara online store from ${P.shop}: catalogue, UPI and card checkout in your own payment account, GST-ready invoices, shipping rules. Live in 4–8 weeks.`,
     keywords: [
       "ecommerce website development in Vadodara", "ecommerce website development Vadodara", "ecommerce website Baroda", "online store development Vadodara",
       "ecommerce developer near me Vadodara", "ecommerce website Vadodara Gujarat", "Shopify developer Vadodara", "WooCommerce developer Vadodara",

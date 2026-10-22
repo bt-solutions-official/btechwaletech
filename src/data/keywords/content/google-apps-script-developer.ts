@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/google-apps-script-developer/",
   crumb: "Google Apps Script developer",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Google Apps Script Developer for Sheets, from ${P.ai}`,
-    description: `Google Apps Script developer for Sheets, Forms, Gmail, Drive and Calendar automation: triggers, PDFs, API links, quota-safe code. From ${P.ai}.`,
+    description: `Automate Sheets, Forms, Gmail, Drive and Calendar: triggers, PDF generation, API calls, locking and quota-safe code. Scripts from ${P.ai}, quote in 2 days.`,
     keywords: [
       "google apps script developer", "hire google apps script developer", "google apps script freelancer", "apps script developer india",
       "google sheets automation developer", "google sheets script developer", "apps script expert", "google apps script consultant",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "google workspace automation", "sheets automation for small business", "google sheet me automation kaise kare",
       "apps script developer Bengaluru", "apps script developer Jaipur", "is google apps script free",
       "best google apps script developer in India",
+      "apps script pricing", "google apps script lock service",
     ],
   },
   hero: {

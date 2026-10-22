@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/google-map-par-dukan-kaise-dale/",
   crumb: "Google map par dukan kaise dale",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Google Map Par Dukan Kaise Dale: Free Steps, ${P.seo}`,
-    description: `Google map par dukan kaise dale? Profile banana, verification ki dikkat, sahi category, photos, reviews, galat pin fix, upar aana. Local SEO ${P.seo} se.`,
+    title: `Google Map Par Dukan Kaise Dale: Free, 5 Steps`,
+    description: `Profile banaiye, verification ki dikkat hataiye, sahi category chuniye, photos aur reviews badhaiye, galat pin theek karein. Local SEO ${P.seo} se.`,
     keywords: [
       "google map par dukan kaise dale", "google map par dukan kaise jode", "google map me dukan kaise add kare",
       "google map par shop kaise dale", "google map par business kaise dale", "google maps par location kaise dale",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "google map ranking kaise badhaye", "local seo kya hai", "google map listing free hai kya", "shop ko google map par kaise register kare",
       "google business profile suspended kyon hota hai", "near me search me dukan kaise dikhaye", "google map par dukan dalne ka paisa",
       "google map listing service near me", "google map par dukan kaise dale mobile se", "google business profile for shop india",
+      "shop ko google par kaise dale", "dukan google map par kaise laye",
     ],
   },
   hero: {

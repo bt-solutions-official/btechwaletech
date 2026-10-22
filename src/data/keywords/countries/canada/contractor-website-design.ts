@@ -9,9 +9,9 @@ const P = {
 const content: FreelanceContent = {
   path: "/canada/contractor-website-design/",
   crumb: "Contractor website design Canada",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Contractor Website Design Canada from ${P.site}`,
+    title: `Contractor Website Design Canada, from ${P.site}`,
     description: `Contractor website design in Canada from ${P.site}: project galleries, estimate forms, WSIB or WCB and insurance proof, and service-area pages that win quotes.`,
     keywords: [
       "contractor website design canada", "general contractor website design", "construction company website canada",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "contractor service area pages", "contractor website near me", "what should a contractor website include",
       "how do contractors get more leads online", "contractor seo canada", "design build website canada",
       "hire contractor website design in Canada", "freelance contractor website design Canada",
+      "contractor website", "web design for contractors", "contractor web design", "contractor website development", "contractor website services",
     ],
   },
   hero: {

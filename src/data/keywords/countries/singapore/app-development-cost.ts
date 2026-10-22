@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/singapore/app-development-cost/",
   crumb: "App development cost Singapore",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `App Development Cost Singapore: Apps from ${P.app}`,
-    description: `App development cost Singapore, explained: Android and iOS apps from ${P.app}, a feature-by-feature budget, store fees, hosting, Singpass and upkeep costs.`,
+    title: `App Development Cost Singapore: ${P.app}, Fees & Upkeep`,
+    description: `Android and iOS apps from ${P.app}, larger backends from ${P.software}. Feature-by-feature costs, Apple and Google store fees, Singpass, hosting and upkeep.`,
     keywords: [
       "app development cost singapore", "how much does it cost to build an app in singapore", "mobile app development cost singapore", "app development price singapore",
       "cost to develop an app singapore", "ios app development cost singapore", "android app development cost singapore", "flutter app cost singapore",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "app development cost sgd", "cheap app development singapore", "app developer quote singapore", "app development cost for sme singapore",
       "app development cost jurong", "app development cost one-north",
       "hire app development in Singapore", "freelance app development Singapore",
+      "mobile app charges in singapore", "app developer singapore cost", "web app development cost in singapore", "mobile app cost singapore", "cost of creating an app in singapore", "cost of developing an app in singapore",
     ],
   },
   hero: {

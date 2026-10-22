@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const baramula: CityContent = {
   slug: "baramula",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 34.198, lng: 74.364 },
   meta: {
-    title: "Baramulla Websites, SEO & Online Stores",
+    title: "Website Design in Baramulla | Sites from ₹10,000",
     description:
-      "Websites, Google Maps SEO and online stores for Baramulla apple growers, Gulmarg hotels, clinics and traders. Sites from ₹10,000, built by a remote team.",
+      "Baramulla websites from ₹10,000, live in 1-2 weeks. Google Maps SEO and stores from ₹50,000 for apple growers, Gulmarg hotels, clinics and local traders.",
     keywords: [
       "website development team in Baramulla",
       "web designer Baramulla",
@@ -43,7 +43,7 @@ const baramula: CityContent = {
     pills: ["Sites from ₹10,000", "Apple and walnut stores", "Gulmarg stay bookings", "Urdu, Hindi, English pages", "2 months' free upkeep"],
   },
   quickAnswer:
-    "A Baramulla business website starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store for apples, walnuts or dry fruit at ₹50,000, and WhatsApp automation at ₹40,000. We are a remote team with no Baramulla office, and maintenance is free for two months.",
+    "A Baramulla business website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and an apple or craft store starts at ₹50,000. Urdu and English pages are available, and two months of maintenance are free.",
   snapshot: [
     { label: "Setting", value: "On the Jhelum in north Kashmir, at the foot of the Pir Panjal, about 55 km from Srinagar" },
     { label: "Called", value: "Historically the “Gateway of Kashmir Valley” on the old route in from the west" },

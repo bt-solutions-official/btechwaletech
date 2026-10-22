@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/makeup-artist-website/",
   crumb: "Makeup artist website",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Makeup Artist Website with Date Booking, ${P.site}+`,
-    description: `A makeup artist website from ${P.site} with bridal packages, look galleries, date blocking with an online advance, course pages and a link-in-bio funnel.`,
+    title: `Makeup Artist Website: Date Booking from ${P.site}`,
+    description: `Makeup artist website from ${P.site}: bridal packages, look galleries, date blocking with an online advance, course pages and a link-in-bio funnel. 1–2 weeks.`,
     keywords: [
       "makeup artist website", "makeup artist website design", "bridal makeup artist website", "website for makeup artist", "MUA website",
       "makeup artist website India", "makeup artist website cost", "makeup artist website price", "how to make a makeup artist website",

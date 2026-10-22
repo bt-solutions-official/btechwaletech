@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/education-app-development-cost/",
   crumb: "Education app development cost",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Education App Development Cost: Apps from ${P.app}`,
-    description: `Education app development cost for coaching institutes and edtech: video protection, live classes, test series, paid courses, server cost. Apps from ${P.app}.`,
+    title: `Education App Development Cost in India: ${P.app}+`,
+    description: `${P.app} for a coaching app with video protection, live classes, test series and paid courses, in 6–10 weeks. Admin and teacher panel from ${P.software}.`,
     keywords: [
       "education app development cost", "education app development cost in india", "e-learning app development cost",
       "coaching app development cost", "edtech app development cost", "online course app cost", "coaching institute app price",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "own coaching app vs white label", "neet jee coaching app development", "online tuition app cost", "education app server cost",
       "paid course app in-app purchase", "education app for school", "education app development delhi", "coaching app development jaipur",
       "e-learning app features list", "education mobile app cost breakdown", "hindi medium education app",
+      "educational app development cost in india",
     ],
   },
   hero: {

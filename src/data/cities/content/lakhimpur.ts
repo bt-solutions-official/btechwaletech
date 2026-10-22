@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const lakhimpur: CityContent = {
   slug: "lakhimpur",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 27.95, lng: 80.77 },
   meta: {
-    title: "Lakhimpur Kheri Website Design & SEO | From ₹10,000",
+    title: "Website Design in Lakhimpur Kheri | From ₹10,000",
     description:
-      "Lakhimpur Kheri Hindi and English websites, local SEO, stores and WhatsApp bots for sugar-belt traders, Dudhwa resorts, schools and clinics. From ₹10,000.",
+      "Lakhimpur Kheri websites from ₹10,000, live in 1-2 weeks, in Hindi. Local SEO, stores and WhatsApp bots for sugar-belt traders, schools and clinics.",
     keywords: [
       "website development team in Lakhimpur",
       "web designer Lakhimpur Kheri",
@@ -43,7 +43,7 @@ const lakhimpur: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Dudhwa stay bookings", "Agri dealer catalogues", "WhatsApp auto-replies"],
   },
   quickAnswer:
-    "For Lakhimpur Kheri businesses, our websites begin at ₹10,000 and usually take one to two weeks. SEO sites with 299+ pages start at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely without a Lakhimpur office, send itemised quotes, and give two months of free maintenance.",
+    "A Lakhimpur Kheri website starts at ₹10,000 and goes live in one to two weeks, in Hindi, English or both. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and stores start at ₹50,000. Maintenance is free for two months, and the domain and code are registered in your name.",
   snapshot: [
     { label: "District", value: "Lakhimpur is headquarters of Lakhimpur Kheri, the largest district in Uttar Pradesh by area, on the Nepal border" },
     { label: "Distance", value: "About 124 km from Lucknow, with broad-gauge rail and UPSRTC buses; Lucknow airport roughly 135 km away" },

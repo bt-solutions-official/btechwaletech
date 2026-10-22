@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--karnataka",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 15.3173, lng: 75.7139 },
   meta: {
-    title: "Karnataka IT Consulting: Foundries, Coffee & Silk",
+    title: "Karnataka IT Consulting & Software from ₹10,000",
     description:
       "Freelance IT solutions across Karnataka: software, web apps, Android and iOS apps, AI automation and SEO for Bengaluru and Mysuru. From ₹10,000.",
     keywords: [
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "Karnataka businesses outside the big tech parks mostly need practical IT: a website that brings enquiries, software that replaces paper registers and Excel files, an app for customers or field staff, automation for repetitive messages, and search visibility in their own city. These needs are the same in Mysuru, Mangaluru or Belagavi as in Bengaluru, but budgets and languages differ.",
         "Bengaluru's reputation as India's technology capital can hide a simple fact: most of the state's businesses are traders, manufacturers, clinics, schools, hotels and farm-linked enterprises, not software companies. A foundry in Belagavi, a coffee curer in Chikkamagaluru or a coaching centre in Dharwad has little use for enterprise consulting decks. They need working tools, delivered at sensible cost, with someone reachable when something breaks.",
-        "BtechWaleTech is a freelance group of three engineers who build exactly that range, remotely. We do not have offices in Karnataka; we work over calls, WhatsApp and screen sharing, which suits district-town businesses that would otherwise wait for a Bengaluru vendor to find time for a visit.",
+        "BtechWaleTech is a freelance group of three engineers who build exactly that range, remotely. We do not have offices in Karnataka; we work over calls, WhatsApp and screen sharing, which suits district-town businesses that would otherwise wait for a Bengaluru vendor to find time for a visit. For the delivery side of the same work, with city pages and published starting prices, see <a href='/it-services/karnataka/'>IT services in Karnataka</a>.",
       ],
       list: [
         "Business websites and multilingual landing pages",

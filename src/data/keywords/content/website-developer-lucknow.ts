@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/website-developer-lucknow/",
   crumb: "Website developer in Lucknow",
-  updated: "2026-10-02",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Lucknow · Sites from ${P.site}`,
-    description: `Website developer in Lucknow for clinics, coaching, shops and builders. Sites from ${P.site}, accounts in your name, itemised quote within 2 working days.`,
+    title: `Website Developer in Lucknow: Sites from ${P.site}`,
+    description: `Website developer in Lucknow for clinics, coaching, shops and builders: sites from ${P.site}, live in 1–2 weeks, accounts in your name. Quote in 2 days.`,
     keywords: [
+      "website developer in lucknow",
       "website developer in Lucknow", "website developer Lucknow", "website developer near me Lucknow", "web developer in Lucknow",
       "website development Lucknow", "website development services Lucknow", "freelance website developer Lucknow", "website maker in Lucknow",
       "website developer cost Lucknow", "website price in Lucknow", "business website Lucknow", "website for clinic Lucknow",

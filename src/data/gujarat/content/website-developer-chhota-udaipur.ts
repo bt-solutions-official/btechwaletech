@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-developer-chhota-udaipur/",
   crumb: "Website developer in Chhota Udaipur",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Chhota Udaipur · ${P.site}+`,
-    description: `Website developer in Chhota Udaipur for mineral units, dairy suppliers, craft groups, NGOs, schools & shops. Sites from ${P.site}, light pages, quote in 2 days.`,
+    title: `Website Developer in Chhota Udaipur: ${P.site}+`,
+    description: `Website developer in Chhota Udaipur for mineral units, dairy suppliers, craft groups, NGOs and schools. Light, fast sites from ${P.site}, quote in 2 days.`,
     keywords: [
       "website developer in Chhota Udaipur", "website developer Chhota Udaipur", "website developer Chhota Udepur", "website developer Chhotaudepur",
       "website developer near me Chhota Udaipur", "Chhota Udaipur Gujarat website", "web designer Chhota Udepur", "website development services Chhota Udaipur",

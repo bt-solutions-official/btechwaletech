@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/indiamart-crm-integration/",
   crumb: "IndiaMART CRM integration",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `IndiaMART CRM Integration: Leads in Minutes, ${P.ai}+`,
-    description: `IndiaMART CRM integration pulls every enquiry into your CRM or Google Sheet, removes duplicates, assigns staff and sends a WhatsApp reply. From ${P.ai}.`,
+    title: `IndiaMART CRM Integration & API Setup from ${P.ai}`,
+    description: `Every IndiaMART enquiry into your CRM or Google Sheet within minutes: Pull API key setup, duplicate removal, staff assignment and an instant WhatsApp reply.`,
     keywords: [
       "indiamart crm integration", "indiamart api integration", "indiamart lead manager api", "indiamart pull api",
       "indiamart crm key", "how to generate indiamart crm key", "indiamart leads to google sheet", "indiamart to zoho crm",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "indiamart crm integration company in India",
       "best indiamart crm integration in India",
       "indiamart crm integration services",
+      "indiamart api key", "indiamart developer api", "indiamart lead follow-up",
     ],
   },
   hero: {

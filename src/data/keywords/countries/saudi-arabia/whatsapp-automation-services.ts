@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/saudi-arabia/whatsapp-automation-services/",
   crumb: "WhatsApp automation Saudi Arabia",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `WhatsApp Automation Saudi Arabia: Flows from ${P.ai}`,
-    description: `WhatsApp automation for Saudi Arabia from ${P.ai}: Arabic templates, Salla and Zid order and COD confirmations, reminders and opt-in built the right way.`,
+    title: `WhatsApp Automation Saudi Arabia: Arabic Flows, ${P.ai}+`,
+    description: `WhatsApp automation for Saudi Arabia from ${P.ai}: Arabic message templates, Salla and Zid order and COD confirmations, reminders and proper opt-in.`,
     keywords: [
       "whatsapp automation saudi arabia", "whatsapp automation services saudi arabia", "whatsapp business api saudi arabia",
       "whatsapp api provider ksa", "whatsapp chatbot saudi arabia", "whatsapp automation for salla", "whatsapp automation for zid",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "whatsapp automation dammam", "whatsapp business app vs api", "whatsapp cloud api developer", "whatsapp shared inbox for team",
       "abandoned cart whatsapp saudi", "whatsapp automation developer india",
       "hire whatsapp automation in Saudi Arabia", "freelance whatsapp automation Saudi Arabia",
+      "appointment reminder whatsapp saudi arabia", "whatsapp business api saudi", "salla whatsapp integration",
     ],
   },
   hero: {

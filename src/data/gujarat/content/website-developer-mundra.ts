@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-developer-mundra/",
   crumb: "Website developer in Mundra",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Mundra · Logistics Sites ${P.site}+`,
-    description: `Website developer in Mundra for customs brokers, forwarders, CFS yards and transporters: rate-request sites from ${P.site}, remote build, accounts in your name.`,
+    title: `Website Developer in Mundra: Logistics ${P.site}+`,
+    description: `Website developer in Mundra for customs brokers, forwarders, CFS yards and transporters: rate-request sites from ${P.site}, every account in your name.`,
     keywords: [
       "website developer in Mundra", "website developer Mundra", "Mundra website design", "website developer near me Mundra",
       "Mundra Kutch Gujarat web developer", "customs broker website Mundra", "freight forwarder website Mundra", "CFS website Mundra",

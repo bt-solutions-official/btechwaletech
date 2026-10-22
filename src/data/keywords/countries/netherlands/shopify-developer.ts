@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/netherlands/shopify-developer/",
   crumb: "Shopify developer Netherlands",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Shopify Developer Netherlands: Stores from ${P.shop}`,
-    description: `Shopify developer for Netherlands brands: iDEAL | Wero, Bancontact, Markets for NL and BE, PostNL labels. Stores from ${P.shop}, itemised quote in 2 days.`,
+    title: `Shopify Developer Netherlands: iDEAL Stores, ${P.shop}+`,
+    description: `Shopify developer for Dutch brands: iDEAL and Bancontact checkout, Markets for NL and BE, PostNL labels. Stores from ${P.shop}, itemised quote in 2 days.`,
     keywords: [
       "shopify developer netherlands", "shopify developer nl", "hire shopify developer netherlands", "shopify expert netherlands",
       "shopify developer amsterdam", "shopify developer rotterdam", "shopify developer utrecht", "shopify developer eindhoven",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "shopify custom app developer", "how much does a shopify developer cost in the netherlands", "shopify developer rates europe",
       "remote shopify developer india", "shopify developer for dutch brand", "shopify agency alternative netherlands",
       "who can build my shopify store", "shopify developer near me netherlands",
+      "shopify ontwikkelaar", "shopify website developer netherlands", "shopify fulfillment api netherlands",
     ],
   },
   hero: {

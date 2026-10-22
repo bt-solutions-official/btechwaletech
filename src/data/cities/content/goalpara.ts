@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const goalpara: CityContent = {
   slug: "goalpara",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 26.17, lng: 90.62 },
   meta: {
-    title: "IT Services in Goalpara | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Goalpara | Sites ₹10,000, Apps ₹40,000",
     description:
       "Goalpara Assamese and Bengali websites, mobile apps, local SEO and WhatsApp bots for traders, schools, colleges and clinics. From ₹10,000, live in 1-2 weeks.",
     keywords: [

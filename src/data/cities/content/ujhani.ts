@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const ujhani: CityContent = {
   slug: "ujhani",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 28.35, lng: 79.0167 },
   meta: {
-    title: "IT Services in Ujhani | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Ujhani | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, local SEO and WhatsApp automation for Ujhani mentha oil units, grain traders, schools, clinics and shops in Budaun district. From ₹10,000.",
     keywords: [

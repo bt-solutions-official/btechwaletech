@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const jhumriTilaiya: CityContent = {
   slug: "jhumri-tilaiya",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 24.4289, lng: 85.5355 },
   meta: {
-    title: "IT Services in Jhumri Tilaiya | Web, Apps, SEO & AI",
+    title: "Website Design in Jhumri Tilaiya | From ₹10,000",
     description:
-      "Jhumri Tilaiya websites, Android and iOS apps, SEO and WhatsApp automation for shops, schools, mineral traders and Koderma suppliers. Starts at ₹10,000.",
+      "Jhumri Tilaiya websites from ₹10,000, live in 1-2 weeks. Android and iOS apps from ₹40,000, SEO and WhatsApp bots for shops, schools and mineral traders.",
     keywords: [
       "IT services in Jhumri Tilaiya",
       "IT services team in Jhumri Tilaiya",

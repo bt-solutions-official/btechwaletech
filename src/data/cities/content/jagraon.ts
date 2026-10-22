@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const jagraon: CityContent = {
   slug: "jagraon",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 30.7833, lng: 75.4833 },
   meta: {
-    title: "IT Services in Jagraon | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Jagraon | Sites ₹10,000, Apps ₹40,000",
     description:
       "Jagraon Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for arhtiyas, dealers, clinics, schools and IELTS centres.",
     keywords: [

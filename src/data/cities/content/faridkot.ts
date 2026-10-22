@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const faridkot: CityContent = {
   slug: "faridkot",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 30.6769, lng: 74.7583 },
   meta: {
-    title: "IT Services in Faridkot | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Faridkot | Sites ₹10,000, Apps ₹40,000",
     description:
       "Faridkot Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for arhtiyas, hospitals, implement makers, IELTS centres and shops.",
     keywords: [

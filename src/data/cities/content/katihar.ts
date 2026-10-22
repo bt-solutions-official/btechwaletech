@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const katihar: CityContent = {
   slug: "katihar",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 25.5392, lng: 87.5831 },
   meta: {
-    title: "Katihar Website Design and SEO | Plans from ₹10,000",
+    title: "Website Design in Katihar | Sites from ₹10,000",
     description:
-      "Katihar's websites, Maps setup, online stores and WhatsApp bots for makhana processors, maize traders, clinics, coaching centres and shops. Written quotes.",
+      "Katihar websites from ₹10,000, live in 1-2 weeks. Maps setup, stores and WhatsApp bots for makhana processors, maize traders, clinics and coaching centres.",
     keywords: [
       "website development team in Katihar",
       "web designer Katihar",
@@ -43,7 +43,7 @@ const katihar: CityContent = {
     pills: ["Websites from ₹10,000", "Makhana online stores", "Hindi and Bangla-friendly pages", "Coaching and clinic sites", "2 months free maintenance"],
   },
   quickAnswer:
-    "A Katihar business can get a static website from us from ₹10,000, ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for makhana or other products at ₹50,000, and WhatsApp automation at ₹40,000. We are a remote team of three with no office in Katihar, and maintenance is free for two months.",
+    "A Katihar business website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and a makhana or maize store starts at ₹50,000. Pages can be in Hindi, Bengali or English, and maintenance is free for the first two months.",
   snapshot: [
     { label: "Position", value: "District headquarters in eastern Bihar, on the Kari Kosi, in Purnia division" },
     { label: "Railways", value: "Katihar Junction on the Barauni–Guwahati line and headquarters of a Northeast Frontier Railway division" },

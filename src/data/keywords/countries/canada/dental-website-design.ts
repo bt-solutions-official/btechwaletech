@@ -9,9 +9,9 @@ const P = {
 const content: FreelanceContent = {
   path: "/canada/dental-website-design/",
   crumb: "Dental website design Canada",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Dental Website Design Canada: Clinics from ${P.site}`,
+    title: `Dental Website Design Canada: CDCP-Ready, ${P.site}+`,
     description: `Dental website design in Canada from ${P.site}: online booking, CDCP information pages, regulator-aware wording, accessible design and local SEO per clinic.`,
     keywords: [
       "dental website design canada", "dentist website design canada", "dental clinic website canada",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "dentist website redesign canada", "pediatric dental website", "orthodontist website design canada",
       "who owns my dental website",
       "hire dental website design in Canada", "freelance dental website design Canada",
+      "dental practice web design edmonton", "dental website design vancouver",
     ],
   },
   hero: {

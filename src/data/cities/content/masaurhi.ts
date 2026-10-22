@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const masaurhi: CityContent = {
   slug: "masaurhi",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 25.35, lng: 85.0167 },
   meta: {
-    title: "IT Services in Masaurhi | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Masaurhi | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, Maps SEO and WhatsApp automation for Masaurhi traders, coaching centres, clinics and farm dealers near Patna. Sites from ₹10,000.",
     keywords: [

@@ -10,9 +10,9 @@ export const services: Service[] = [
     summary: "Static websites, business websites, landing pages, and web apps built for fast loading, clean SEO, and reliable deployment.",
     enabled: true,
     seo: createPageSeo({
-      title: "Web Development Services",
+      title: "Web Development Services: Sites & Web Apps, US$150+",
       description:
-        "Website development services from BtechWaleTech for static sites, landing pages, business websites, web apps, hosting, deployment, and SEO-ready page structure.",
+        "Web development services for static sites, landing pages, business sites and web apps, with hosting and deployment handled. From US$150, 2 months free upkeep.",
       canonicalPath: "/services/web-development/",
       h1: "Web Development Services",
       intro:
@@ -30,9 +30,9 @@ export const services: Service[] = [
     summary: "Technical SEO, local SEO, metadata, schema, sitemaps, internal linking, and content planning for organic visibility.",
     enabled: true,
     seo: createPageSeo({
-      title: "SEO Services",
+      title: "SEO Services: Technical, Local & Content, US$150/mo",
       description:
-        "SEO services from BtechWaleTech covering technical SEO, local SEO, metadata, schema markup, XML sitemaps, internal links, and search intent planning.",
+        "SEO services covering crawl and index fixes, Core Web Vitals, titles, schema, XML sitemaps, internal links and location pages. Monthly SEO from US$150.",
       canonicalPath: "/services/seo-services/",
       h1: "SEO Services",
       intro:

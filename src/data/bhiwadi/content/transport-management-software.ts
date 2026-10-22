@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/transport-management-software/",
   crumb: "Transport management software",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Transport Management Software in Bhiwadi, from ${P.software}`,
-    description: `Transport management software in Bhiwadi for trips, LRs, diesel, driver advances, POD & freight bills, from ${P.software}. We meet you face to face at your office.`,
+    title: `Transport Management Software Bhiwadi: ${P.software}`,
+    description: `Transport management software in Bhiwadi from ${P.software}, live in 6–12 weeks: trips and LRs, diesel, driver advances, POD, freight bills, profit per truck.`,
     keywords: [
       "transport management software in Bhiwadi", "transport management software", "transport management software near me",
       "fleet management software Bhiwadi", "transport management software in Bhiwadi Rajasthan", "transport software Bhiwadi Alwar",
@@ -49,7 +49,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does transport management software cost in Bhiwadi, and what does it do?",
-    text: `Transport management software records each trip from booking and LR to diesel, driver advances, POD and the freight bill, then shows profit per trip and per truck. For a Bhiwadi transporter or factory fleet, a custom build starts at ${P.software} and takes 6–12 weeks; a driver app starts at ${P.app}. We quote after meeting you in person.`,
+    text: `From ${P.software} and 6–12 weeks; a driver app starts at ${P.app}. It records each trip from booking and LR through diesel, driver advances and POD to the freight bill, then shows profit per trip and per truck. We quote after meeting you in person at your transport office or yard in Bhiwadi.`,
     more: `Need a public website for your transport business as well? See <a href='/bhiwadi-rajasthan/logistics-company-website/'>transport and logistics websites in Bhiwadi</a>. For stock and dispatch inside a warehouse, read <a href='/bhiwadi-rajasthan/warehouse-management-software/'>warehouse management software</a>.`,
   },
   snapshot: {

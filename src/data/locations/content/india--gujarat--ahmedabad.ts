@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--gujarat--ahmedabad",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 23.0225, lng: 72.5714 },
   meta: {
-    title: "Ahmedabad IT Consultants: Textiles, Pharma & Chemicals",
+    title: "Ahmedabad IT Consultants: Software from ₹60,000",
     description:
       "Freelance IT consulting in Ahmedabad: process audits, custom software, Android and iOS apps, AI agents, plus MIS dashboards. From ₹10,000, quote in two days.",
     keywords: [
@@ -82,7 +82,7 @@ const content: CityContent = {
       paragraphs: [
         "IT consulting in Ahmedabad means an outside engineer studying how your business actually works, identifying where time and money leak, and recommending which systems to build, buy or simply configure. Digital transformation is the follow-through: moving those workflows into connected software that staff adopt, one phase at a time.",
         "Ahmedabad businesses range from century-old trading families in the walled city to pharma exporters and funded startups in the western suburbs. Each needs a different plan. A Ratanpole saree wholesaler may need only dealer ordering and credit control. A Changodar formulation unit may need batch records and document automation. A startup may need a production-grade MVP and cloud setup.",
-        "BtechWaleTech is a <a href='/about/'>freelance group of three engineers</a>, so the people who audit your process are the people who build the fix. That removes the gap between what a consultant promises and what a development team later delivers.",
+        "BtechWaleTech is a <a href='/about/'>freelance group of three engineers</a>, so the people who audit your process are the people who build the fix. That removes the gap between what a consultant promises and what a development team later delivers. For build-only work, see <a href='/it-services/gujarat/ahmedabad/'>software developers in Ahmedabad</a>, or the <a href='/it-services/gujarat/'>Gujarat IT services hub</a> for the rest of the state.",
       ],
     },
     {

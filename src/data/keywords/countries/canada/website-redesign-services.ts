@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/canada/website-redesign-services/",
   crumb: "Website redesign services Canada",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Redesign Services Canada: from ${P.site}`,
-    description: `Website redesign services in Canada that protect Google traffic and leads: SEO audit, redirect plan, AODA upgrades, French version. From ${P.site}.`,
+    title: `Website Redesign Canada: Keep Your Google Rankings`,
+    description: `Website redesign in Canada that protects Google traffic and leads: an SEO audit, a real redirect plan, AODA upgrades and a French version. From ${P.site}.`,
     keywords: [
       "website redesign services canada", "website redesign canada", "website redesign company canada", "redesign my website",
       "website redesign toronto", "website redesign vancouver", "website redesign ottawa", "website redesign calgary", "website redesign montreal",
@@ -21,6 +21,7 @@ const content: FreelanceContent = {
       "add french version to website", "bilingual website redesign", "website relaunch plan", "how long does a website redesign take",
       "outdated website redesign", "website refresh vs redesign", "website redesign for small business canada", "website redesign near me",
       "hire website redesign services in Canada", "freelance website redesign services Canada",
+      "website redesign services toronto", "website redesign service", "redesign without losing seo",
     ],
   },
   hero: {

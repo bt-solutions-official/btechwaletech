@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const yevla: CityContent = {
   slug: "yevla",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 20.042, lng: 74.4889 },
   meta: {
-    title: "IT Services in Yeola | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Yeola | Sites ₹10,000, Apps ₹40,000",
     description:
       "Marathi websites, apps, local SEO and WhatsApp tools for Yeola Paithani weavers, saree showrooms, onion traders, schools and clinics. Websites from ₹10,000.",
     keywords: [

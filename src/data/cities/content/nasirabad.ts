@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const nasirabad: CityContent = {
   slug: "nasirabad",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 26.3, lng: 74.7333 },
   meta: {
-    title: "IT Services in Nasirabad | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Nasirabad | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi and English websites, apps and SEO for Nasirabad truck body builders, transporters, kachora shops and schools. From ₹10,000 and live in 1-2 weeks.",
     keywords: [

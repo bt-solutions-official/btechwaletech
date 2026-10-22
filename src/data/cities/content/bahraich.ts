@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const bahraich: CityContent = {
   slug: "bahraich",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 27.575, lng: 81.594 },
   meta: {
-    title: "IT Services in Bahraich: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Bahraich | From ₹10,000",
     description:
-      "Bahraich websites, Hindi local SEO and WhatsApp automation for traders, sugar belt suppliers, clinics, schools and Rupaidiha border businesses. From ₹10,000.",
+      "Bahraich websites from ₹10,000, live in 1-2 weeks, with Hindi local SEO. WhatsApp automation for traders, sugar-belt suppliers, clinics, schools and lodges.",
     keywords: [
       "website development team in Bahraich",
       "website designer Bahraich",
@@ -43,7 +43,7 @@ const bahraich: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Google Maps clean-up", "WhatsApp enquiry flows", "Nepal border trade pages"],
   },
   quickAnswer:
-    "For a Bahraich business, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no Bahraich office, you own the domain and code, and two months of maintenance are free.",
+    "A Bahraich business website starts at ₹10,000 and goes live in one to two weeks, in Hindi or English. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and stores start at ₹50,000. We are a remote team of three engineers, and maintenance is free for the first two months.",
   snapshot: [
     { label: "Location", value: "On the Saryu river, about 125 km north-east of Lucknow, district headquarters in the Devipatan division" },
     { label: "Border", value: "The district touches Nepal; the Rupaidiha land port, Uttar Pradesh's first, links to Nepalgunj over NH 927" },

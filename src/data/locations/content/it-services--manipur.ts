@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--manipur",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 24.6637, lng: 93.9063 },
   meta: {
-    title: "Manipur IT Services: Software, Apps & AI",
+    title: "IT Services in Manipur: Websites from ₹10,000",
     description:
       "Freelance IT services in Manipur: custom software, offline-ready apps, plus AI and WhatsApp automation. Websites from ₹10,000, paid by UPI or bank.",
     keywords: [

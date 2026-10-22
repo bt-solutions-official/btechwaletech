@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const mandideep: CityContent = {
   slug: "mandideep",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 23.0944, lng: 77.5181 },
   meta: {
-    title: "IT Services in Mandideep | Web, Apps & AI from ₹10,000",
+    title: "Website Design in Mandideep | Sites from ₹10,000",
     description:
-      "Websites, apps, factory software and SEO for Mandideep vendors, plant suppliers, transporters, clinics and shops. Sites from ₹10,000, yours to keep.",
+      "Mandideep websites from ₹10,000, live in 1-2 weeks. Factory software and local SEO for plant suppliers, transporters and shops, and the code stays yours.",
     keywords: [
       "IT services in Mandideep",
       "IT services team in Mandideep",

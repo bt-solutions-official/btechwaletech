@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const nandyal: CityContent = {
   slug: "nandyal",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 15.4777, lng: 78.4839 },
   meta: {
-    title: "Nandyal Web Design, Telugu SEO & Stores from ₹10,000",
+    title: "Website Design in Nandyal | Telugu SEO from ₹10,000",
     description:
-      "Nandyal websites, Telugu SEO and mango and rice stores for rice mills, agri-input dealers, pilgrim hotels and taxi operators. Sites from ₹10,000.",
+      "Nandyal websites from ₹10,000, live in 1-2 weeks, with Telugu SEO. Mango and rice stores from ₹50,000 for mills, agri dealers, hotels and taxi operators.",
     keywords: [
       "website development team in Nandyal",
       "web design Nandyal",

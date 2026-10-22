@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/manufacturing-company-website/",
   crumb: "Manufacturing company website design",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Manufacturing Website Design in Bhiwadi, from ${P.site}`,
-    description: `Manufacturing company website design in Bhiwadi from ${P.site}: capability, machine and plant pages for OEM buyers, planned one to one at your factory.`,
+    title: `Manufacturing Website Design Bhiwadi from ${P.site}`,
+    description: `Manufacturing company website in Bhiwadi from ${P.site}, live in 1–2 weeks: capability, machine and process pages for OEM buyers, plus drawing-ready RFQ forms.`,
     keywords: [
       "manufacturing company website design in Bhiwadi", "manufacturing company website design", "manufacturing website design near me",
       "factory website design in Bhiwadi Rajasthan", "manufacturer website developer Bhiwadi", "industrial website design Bhiwadi Alwar",
@@ -50,7 +50,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What should a manufacturing company website in Bhiwadi include, and what does it cost?",
-    text: `A manufacturing company website in Bhiwadi should show what you make, the machines and processes behind it, your quality system, the plant, the industries you supply and a quote form that accepts drawings. BtechWaleTech builds one from ${P.site} in 1–2 weeks, or from ${P.seoSite} with 299+ product and process pages, after meeting you face to face at your unit.`,
+    text: `From ${P.site} in 1–2 weeks, or ${P.seoSite} with 299+ product and process pages. A manufacturing company website in Bhiwadi should show what you make, the machines and processes behind it, your quality system, the plant, the industries you supply, and a quote form that accepts drawings.`,
     more: `Selling hundreds of SKUs? Read about an <a href='/bhiwadi-rajasthan/industrial-product-catalogue-website/'>industrial product catalogue website</a>. Supplying car and two-wheeler makers? See the <a href='/bhiwadi-rajasthan/auto-parts-manufacturer-website/'>auto component manufacturer website</a> page.`,
   },
   snapshot: {

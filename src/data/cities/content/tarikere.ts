@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const tarikere: CityContent = {
   slug: "tarikere",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 13.7104, lng: 75.8122 },
   meta: {
-    title: "IT Services in Tarikere | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Tarikere | Sites ₹10,000, Apps ₹40,000",
     description:
       "Kannada websites, apps, local SEO and WhatsApp tools for Tarikere areca traders, Kemmangundi homestays, rice mills, schools and clinics. From ₹10,000.",
     keywords: [

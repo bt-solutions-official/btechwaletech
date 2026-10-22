@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const mansa: CityContent = {
   slug: "mansa",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 29.9906, lng: 75.3997 },
   meta: {
-    title: "IT Services in Mansa | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Mansa | Sites ₹10,000, Apps ₹40,000",
     description:
       "Punjabi and English websites, apps and SEO for Mansa cotton traders, arhtiyas, rice mills, clinics and coaching. Sites from ₹10,000, free upkeep for 2 months.",
     keywords: [

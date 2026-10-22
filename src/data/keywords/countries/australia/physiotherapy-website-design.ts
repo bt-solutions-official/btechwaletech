@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/physiotherapy-website-design/",
   crumb: "Physiotherapy website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Physiotherapy Website Design: Bookings from ${P.site}`,
-    description: `Physiotherapy website design for Australian clinics: Cliniko booking, careful condition pages, workers' comp and CTP referral pages. From ${P.site}.`,
+    title: `Physiotherapy Website Design Australia, from ${P.site}`,
+    description: `Physiotherapy website design for Australian clinics: Cliniko online booking, careful condition pages, workers' comp and CTP referral pages. From ${P.site}.`,
     keywords: [
       "physiotherapy website design", "physio website design", "physiotherapy website design australia", "physio clinic website",
       "website for physiotherapy clinic", "physiotherapy web design", "physiotherapy website cost", "how much does a physio website cost",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "physio seo", "physiotherapy website sydney", "physiotherapy website melbourne", "physiotherapy website brisbane",
       "physiotherapy website perth", "physiotherapy website adelaide", "sports physio website design",
       "hire physiotherapy website design in Australia", "freelance physiotherapy website design Australia",
+      "physiotherapy clinic website", "physiotherapy website design brisbane",
     ],
   },
   hero: {

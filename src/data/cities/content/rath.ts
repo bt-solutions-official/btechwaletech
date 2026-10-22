@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const rath: CityContent = {
   slug: "rath",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 25.58, lng: 79.57 },
   meta: {
-    title: "IT Services in Rath | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Rath | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, local SEO and WhatsApp automation for Rath mandi traders, farm input dealers, colleges, clinics and shops in Bundelkhand. From ₹10,000.",
     keywords: [

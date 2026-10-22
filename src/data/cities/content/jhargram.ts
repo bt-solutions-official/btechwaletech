@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const jhargram: CityContent = {
   slug: "jhargram",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 22.45, lng: 86.9833 },
   meta: {
-    title: "IT Services in Jhargram | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Jhargram | Sites ₹10,000, Apps ₹40,000",
     description:
       "Jhargram Bengali websites, mobile apps, local SEO and WhatsApp automation for homestays, sabai craft groups, clinics and colleges. From ₹10,000, code yours.",
     keywords: [

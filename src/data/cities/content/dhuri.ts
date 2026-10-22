@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const dhuri: CityContent = {
   slug: "dhuri",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 30.3693, lng: 75.8683 },
   meta: {
-    title: "IT Services in Dhuri | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Dhuri | Sites ₹10,000, Apps ₹40,000",
     description:
       "Dhuri Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for arhtiyas, implement makers, shops, clinics and colleges.",
     keywords: [

@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const nagari: CityContent = {
   slug: "nagari",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 13.3214, lng: 79.5856 },
   meta: {
-    title: "IT Services in Nagari | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Nagari | Sites ₹10,000, Apps ₹40,000",
     description:
       "Tamil, apps, SEO and WhatsApp tools for Nagari powerloom owners, lungi and saree traders, clinics and shops. From ₹10,000, with 2 months of free upkeep.",
     keywords: [

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/app-development-cost-in-india/",
   crumb: "App development cost in India",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `App Development Cost in India: Apps from ${P.app}`,
-    description: `App development cost in India explained by complexity, platform and backend. Android and iOS apps from ${P.app}, plus the running costs most quotes skip.`,
+    title: `App Development Cost in India: ${P.app} to Launch`,
+    description: `${P.app} for an Android and iOS app in 6–10 weeks. What complexity, platform and backend each add, plus the store and server bills most quotes leave out.`,
     keywords: [
       "app development cost in India", "app development cost", "mobile app development cost in India", "app development cost near me",
       "app developer for hire cost", "app development price India", "best app development cost India", "app banane ka kharcha",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "app development cost Hyderabad", "app development cost Chennai", "cost to build an app in India", "app maintenance cost India",
       "app backend cost", "cross-platform app cost", "MVP app cost India", "how much does an app cost in India",
       "app development charges", "app cost estimate India",
+      "app developer cost in india", "native app development cost", "mobile app development cost india", "app development price list india",
     ],
   },
   hero: {

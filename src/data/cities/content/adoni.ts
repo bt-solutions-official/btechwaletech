@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const adoni: CityContent = {
   slug: "adoni",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 15.6244, lng: 77.2731 },
   meta: {
-    title: "Adoni Web Design & SEO for Cotton and Trade",
+    title: "Website Design in Adoni | Sites & SEO from ₹10,000",
     description:
-      "Websites, local SEO and WhatsApp automation for Adoni ginning mills, oil units, cotton traders, clinics and shops. Sites from ₹10,000, remote engineers.",
+      "Adoni websites from ₹10,000, live in 1-2 weeks, with Telugu SEO. Local search work and WhatsApp bots for ginning mills, oil units, cotton traders and shops.",
     keywords: [
       "website development team in Adoni",
       "web designer Adoni",

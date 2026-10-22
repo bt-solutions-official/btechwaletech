@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sahaswan: CityContent = {
   slug: "sahaswan",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 28.0681, lng: 78.7511 },
   meta: {
-    title: "IT Services in Sahaswan | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sahaswan | Sites ₹10,000, Apps ₹40,000",
     description:
       "Hindi websites, apps, Maps SEO and WhatsApp automation for Sahaswan traders, mentha and cane growers, clinics, schools and music teachers. Sites from ₹10,000.",
     keywords: [

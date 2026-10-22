@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--andhra-pradesh--visakhapatnam",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 17.6868, lng: 83.2185 },
   meta: {
     title: "Visakhapatnam Software Developers: Port, Steel & Pharma",
     description:
-      "Freelance software developers in Visakhapatnam for custom software, web and mobile apps, plus AI agents. Starting prices published, quote in 2 days.",
+      "Freelance software developers in Visakhapatnam for custom software, web and mobile apps and AI agents. Software from ₹60,000, apps from ₹40,000, in INR.",
     keywords: [
       "software development team in Visakhapatnam",
       "IT services team in Visakhapatnam",

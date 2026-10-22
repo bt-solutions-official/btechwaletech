@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/website-banwana-hai/",
   crumb: "Website banwana hai",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Banwana Hai? ${P.site} se, 1–2 Hafte Mein Live`,
-    description: `Website banwana hai? Kaunsi website, kitna budget (${P.site} se), kitne din aur pehla message kya bhejein: aasaan Hinglish mein poora raasta, freelance team se.`,
+    title: `Website Banwana Hai? ${P.site} Se, 2 Hafte Mein Live`,
+    description: `Website banwana hai? Simple business website ${P.site} se, 1–2 hafte mein live; online dukaan ${P.shop} se. WhatsApp par details bhejiye, 2 din mein quote.`,
     keywords: [
       "website banwana hai", "mujhe website banwana hai", "website banwana hai kitna kharcha", "website banwana hai contact",
       "website banwani hai", "website banwane wala", "website banwane wala near me", "website banwana hai business ke liye",

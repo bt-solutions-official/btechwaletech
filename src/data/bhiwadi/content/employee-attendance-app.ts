@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/employee-attendance-app/",
   crumb: "Employee attendance app",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
     title: `Employee Attendance App in Bhiwadi from ${P.app}`,
-    description: `Employee attendance app in Bhiwadi for factories and sites: geofence and selfie punches, shifts and payroll export, from ${P.app}. We meet you at your unit.`,
+    description: `Employee attendance app in Bhiwadi from ${P.app}, live in 6–10 weeks: geofenced selfie punches, a gate kiosk tablet, shift and overtime rules, payroll export.`,
     keywords: [
       "employee attendance app in Bhiwadi", "employee attendance app near me", "employee attendance app in Bhiwadi Rajasthan",
       "attendance app for factory Bhiwadi Alwar", "geofence attendance app Bhiwadi", "selfie attendance app for workers",
@@ -49,7 +49,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How does an employee attendance app in Bhiwadi work, and what does it cost?",
-    text: `Workers punch in on their phone inside a geofence around your plant or site, with a selfie, or at a shared kiosk tablet at the gate if they have no smartphone. The app applies your shift, late and overtime rules and exports a month-end sheet for payroll. A custom attendance app starts at ${P.app}; with an HR panel and payroll export, from ${P.software}.`,
+    text: `From ${P.app}, live in about 6–10 weeks; with an HR panel and payroll export, from ${P.software}. Workers punch in on their phone inside a geofence around your plant or site, with a selfie, or at a shared kiosk tablet at the gate if they have no smartphone. The app applies your shift, late and overtime rules.`,
     more: `We scope it with you face to face at your unit in Bhiwadi. For contractor gangs and wage registers see <a href='/bhiwadi-rajasthan/contract-labour-management-software/'>contract labour management software</a>; for the gate itself, the <a href='/bhiwadi-rajasthan/gate-pass-management-system/'>gate pass management system</a>.`,
   },
   snapshot: {

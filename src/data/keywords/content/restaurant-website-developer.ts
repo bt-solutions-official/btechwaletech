@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/restaurant-website-developer/",
   crumb: "Restaurant website developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Restaurant Website Developer | Menu Sites from ${P.site}`,
-    description: `Restaurant website developer for menus, direct online ordering and table bookings. Menu sites from ${P.site}, ordering from ${P.shop}. Quote in 2 days.`,
+    title: `Restaurant Website Developer: Menu Site from ${P.site}`,
+    description: `Restaurant website developer for digital menus, direct ordering with no platform commission, and table bookings. Menu sites ${P.site}, ordering ${P.shop}.`,
     keywords: [
       "restaurant website developer", "restaurant website developer in India", "restaurant website developer near me", "restaurant website design",
       "restaurant website cost", "restaurant website price India", "best restaurant website developer", "restaurant ki website banwani hai",

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/ecommerce-seo-freelancer/",
   crumb: "Ecommerce SEO freelancer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
     title: `Ecommerce SEO Freelancer: Store SEO from ${P.seo}`,
-    description: `Ecommerce SEO freelancer for Indian online stores: category pages, product schema, filters and speed fixed properly. Monthly store SEO from ${P.seo}.`,
+    description: `Category pages that actually rank, product schema, faceted-navigation control and real speed fixes for Indian stores. Monthly store SEO from ${P.seo}.`,
     keywords: [
       "ecommerce seo freelancer", "ecommerce seo freelancer India", "ecommerce seo freelancer near me", "ecommerce seo freelancer for hire",
       "ecommerce seo cost India", "ecommerce seo price", "best ecommerce seo freelancer", "online store seo wala chahiye",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "product page seo", "faceted navigation seo", "google merchant center free listings", "ecommerce technical seo",
       "ecommerce seo consultant India", "d2c brand seo",
       "hire ecommerce seo freelancer",
+      "what is faceted navigation", "shopify seo freelancer india", "product schema seo",
     ],
   },
   hero: {

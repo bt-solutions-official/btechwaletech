@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const bhagalpur: CityContent = {
   slug: "bhagalpur",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 25.2425, lng: 86.9842 },
   meta: {
-    title: "Bhagalpur Web Design, SEO & Silk Stores | ₹10,000+",
+    title: "Website Design in Bhagalpur | Silk Stores, ₹10,000+",
     description:
-      "Bhagalpur websites, silk saree stores, local SEO and WhatsApp bots for weavers, traders, clinics and coaching centres. Plans from ₹10,000 with full ownership.",
+      "Bhagalpur websites from ₹10,000, live in 1-2 weeks; silk saree stores from ₹50,000. Hindi SEO and WhatsApp bots for weavers, traders and coaching centres.",
     keywords: [
       "website development team in Bhagalpur",
       "website designer Bhagalpur",

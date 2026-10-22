@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/real-estate-website-rajkot/",
   crumb: "Real estate website design in Rajkot",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Real estate website design in Rajkot from ${P.site}`,
-    description: `Real estate website design in Rajkot for builders and brokers: project pages with RERA details, floor plans and leads sent to WhatsApp. From ${P.site}.`,
+    title: `Real Estate Website in Rajkot: GujRERA, Leads, ${P.site}`,
+    description: `Real estate website for Rajkot builders and brokers: project pages with GujRERA details, floor plans and leads straight to WhatsApp. From ${P.site}.`,
     keywords: [
       "real estate website design in Rajkot", "real estate website design Rajkot", "builder website design Rajkot", "property website developer Rajkot",
       "real estate website Rajkot Gujarat", "real estate website designer near me", "real estate website cost Rajkot", "builder website price Gujarat",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "GujRERA QR code website", "real estate lead generation website Rajkot", "flat booking website Rajkot", "real estate website services Rajkot",
       "Kalawad Road project website", "150 Feet Ring Road builder website", "real estate website for NRI buyers", "builder ki website kaise banaye",
       "property website banwana hai Rajkot", "Saurashtra real estate website", "plot scheme website Rajkot", "commercial project website Rajkot",
+      "GujRERA details on website", "RERA Gujarat project registration number website", "Gujarati real estate brochure",
     ],
   },
   hero: {
@@ -391,6 +392,7 @@ const content: FreelanceContent = {
     { question: "Can you reuse the microsite for our next project?", answer: "Yes, and we plan for it. Microsites are built from a template driven by project data, so the next launch mostly means new content, plans and a registration block rather than a fresh build. That usually brings the cost and timeline of later projects down noticeably, which matters for builders launching a scheme every year or two." },
     { question: "Is a freelance team or a real estate agency better for us?", answer: "It depends on what you want handled. A real estate marketing agency suits builders who want ads, hoardings, social media and the website under one retainer. A freelance team suits builders who want a fast, well-built site and lead flow they own, with direct access to the developers. Many builders pair our site with their own campaign partner." },
     { question: "Will AI tools mention our project when buyers ask?", answer: "Nobody controls AI answers, but clear pages give AI Overviews and assistants accurate material. State configurations, carpet areas, locality, possession timeline and registration plainly on each project page, add a short FAQ, and keep details consistent with your Google profile. Then an assistant asked about new flats near your locality has accurate facts to quote instead of guesses." },
+    { question: "What GujRERA details should a Rajkot project page show?", answer: "At minimum the project's registration number, the name the authority has registered it under, and a link to its entry on the GujRERA portal so a buyer can verify it without taking your word for it. We also carry the number into the footer of brochures and any advertisement image the site serves. What the authority requires on marketing material is set by GujRERA and does change, so your legal adviser confirms the current wording and we display exactly what you approve." },
     { question: "Rajkot me builder ki website banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath builder website ya project microsite ${P.site} se shuru hoti hai, jisme floor plans, carpet area, location map, RERA number aur QR code, aur WhatsApp par lead jaati hai. Broker portal ${P.software} se shuru hota hai. Domain aapke naam par rehta hai aur launch ke baad 2 mahine maintenance free hai. Kaam remote hota hai, WhatsApp aur video call par.` },
   ],
   related: {

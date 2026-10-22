@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/uae/payment-gateway-integration/",
   crumb: "Payment gateway integration in UAE",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Payment Gateway Integration in UAE: Apple Pay & 3DS`,
-    description: `Payment gateway integration in the UAE for websites and apps: choose a provider, add Apple Pay, 3-D Secure, refunds and recurring billing. Stores from ${P.shop}.`,
+    title: `Payment Gateway Integration UAE: Apple Pay & 3-D Secure`,
+    description: `Payment gateway integration in the UAE: choosing a provider, adding Apple Pay, 3-D Secure, refunds, recurring billing and AED settlement. Stores from ${P.shop}.`,
     keywords: [
       "payment gateway integration in uae", "payment gateway integration uae", "payment gateway integration dubai", "payment gateway uae",
       "best payment gateway in uae", "how to integrate payment gateway in website uae", "online payment gateway for website dubai",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "payment gateway integration abu dhabi", "payment gateway integration sharjah", "payment gateway developer dubai",
       "refund handling payment gateway", "payment gateway integration cost uae", "payment gateway integration near me",
       "hire payment gateway integration in the UAE", "freelance payment gateway integration UAE",
+      "how to build a payment gateway website", "payment gateway add in website", "wallet integration uae", "apple pay uae website",
     ],
   },
   hero: {

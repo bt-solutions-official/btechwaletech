@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/custom-website-developer/",
   crumb: "Custom website developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Custom Website Developer: Coded Sites from ${P.site}`,
-    description: `Custom website developer for hand-coded sites instead of templates: faster pages, no theme lock-in, code you own. Custom sites from ${P.site}. Compare options.`,
+    title: `Custom Website Developer: Hand-Coded from ${P.site}`,
+    description: `Need someone to build your website properly? A three-person Indian team hand-codes it—no theme lock-in, faster pages, code in your repo. Sites from ${P.site}.`,
     keywords: [
       "custom website developer", "custom website developer India", "custom website developer near me", "custom website developer for hire",
       "custom website cost", "custom website development price", "best custom website developer", "custom website banwana hai",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "custom website vs WordPress theme", "custom website vs Wix", "freelance custom website developer", "custom business website",
       "custom website design India", "custom website for small business",
       "hire custom website developer",
+      "who can build a website for me", "someone to build a website for me", "custom web developer", "build a website for my business",
     ],
   },
   hero: {

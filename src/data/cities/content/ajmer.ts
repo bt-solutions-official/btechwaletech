@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const ajmer: CityContent = {
   slug: "ajmer",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 26.4499, lng: 74.6399 },
   meta: {
-    title: "IT Services in Ajmer: Websites, Apps, SEO & AI",
+    title: "Website Design Company in Ajmer | From ₹10,000",
     description:
-      "Ajmer, Pushkar and Kishangarh websites, local SEO, stores and WhatsApp automation. Sites from ₹10,000, itemised quotes, 2 months of free upkeep.",
+      "Ajmer, Pushkar and Kishangarh websites from ₹10,000, live in 1-2 weeks. Local SEO, stores and WhatsApp automation, with itemised quotes up front.",
     keywords: [
       "website development team in Ajmer",
       "website designer Ajmer",

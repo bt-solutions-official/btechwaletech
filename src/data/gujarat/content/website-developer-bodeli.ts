@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-developer-bodeli/",
   crumb: "Website developer in Bodeli",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Developer in Bodeli: Sites from ${P.site}`,
-    description: `Website developer in Bodeli for cotton traders, agri dealers, wholesalers, hospitals and coaching classes. Sites from ${P.site}, WhatsApp ordering, 2-day quote.`,
+    title: `Website Developer in Bodeli: ${P.site}, Live in 2 Weeks`,
+    description: `Website developer in Bodeli for cotton traders, agri dealers, wholesalers and coaching classes. Sites from ${P.site}, WhatsApp ordering, 2-day quote.`,
     keywords: [
       "website developer in Bodeli", "website developer Bodeli", "website developer near me Bodeli", "Bodeli Gujarat website",
       "website designer Bodeli", "website development services Bodeli", "web developer Bodeli Chhota Udepur", "Bodeli me website kaise banwaye",

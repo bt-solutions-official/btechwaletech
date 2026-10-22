@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const bapatla: CityContent = {
   slug: "bapatla",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 15.9044, lng: 80.4675 },
   meta: {
-    title: "IT Services in Bapatla | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Bapatla | Sites ₹10,000, Apps ₹40,000",
     description:
       "Bapatla Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for aqua farms, rice mills, colleges and clinics. From ₹10,000.",
     keywords: [

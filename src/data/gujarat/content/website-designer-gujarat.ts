@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-designer-gujarat/",
   crumb: "Website designer in Gujarat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Designer in Gujarat, Designs from ${P.site}`,
-    description: `Website designer in Gujarat for brands that sell on looks: layouts, Gujarati and English type, product photo direction. Designed and coded from ${P.site}.`,
+    title: `Website Designer in Gujarat: Design + Build ${P.site}+`,
+    description: `Website designer in Gujarat for brands that sell on looks: layouts, Gujarati and English type, product photo direction, then the build. From ${P.site}.`,
     keywords: [
       "website designer in Gujarat", "website designer Gujarat", "website designer near me", "web designer in Gujarat",
       "freelance website designer Gujarat", "website design Gujarat", "website designing services Gujarat", "best website designer in Gujarat",

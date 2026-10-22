@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/private-llm-deployment/",
   crumb: "Private LLM deployment",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Private LLM Deployment in India: Setup from ${P.ai}`,
-    description: `Private LLM deployment on your own AWS or Indian cloud: Llama, Mistral or Qwen, GPU sizing, vLLM and DPDP-aware data residency. Setup from ${P.ai}.`,
+    title: "Private LLM Deployment India: Llama on Your Cloud",
+    description: `Private LLM deployment on your own AWS or Indian cloud: Llama, Mistral or Qwen on vLLM, GPU sizing and DPDP-aware data residency. Setup from ${P.ai}.`,
     keywords: [
+      "private llm for enterprise", "private llm services", "llm inference platform india",
       "private llm deployment", "private llm deployment India", "self hosted llm", "on premise llm deployment", "deploy llm on own server",
       "private llm for enterprise", "private llm cost", "llm gpu requirements", "gpu for llama 3", "deploy llama on aws",
       "deploy mistral on aws", "qwen self hosted", "vllm deployment", "llm data residency India", "dpdp act llm",

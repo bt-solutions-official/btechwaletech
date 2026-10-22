@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const mulbagal: CityContent = {
   slug: "mulbagal",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 13.165, lng: 78.394 },
   meta: {
-    title: "IT Services in Mulbagal | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Mulbagal | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, SEO and WhatsApp automation for Mulbagal tomato traders, dairy and silk farmers, dose hotels, lodges and shops. Sites from ₹10,000.",
     keywords: [

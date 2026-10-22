@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const washim: CityContent = {
   slug: "washim",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 20.1117, lng: 77.1333 },
   meta: {
-    title: "IT Services in Washim | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Washim | Sites ₹10,000, Apps ₹40,000",
     description:
       "Marathi websites, apps, local SEO and WhatsApp tools for Washim soybean traders, ginning units, agri dealers, clinics, schools and shops. From ₹10,000.",
     keywords: [

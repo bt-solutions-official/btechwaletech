@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const thoubal: CityContent = {
   slug: "thoubal",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 24.6333, lng: 94.0167 },
   meta: {
-    title: "IT Services in Thoubal | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Thoubal | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, Google Maps SEO and WhatsApp automation for Thoubal handloom weavers, kouna crafts, rice traders, colleges and bazaar shops. From ₹10,000.",
     keywords: [

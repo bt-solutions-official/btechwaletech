@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const pusad: CityContent = {
   slug: "pusad",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 19.9167, lng: 77.5667 },
   meta: {
-    title: "IT Services in Pusad | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Pusad | Sites ₹10,000, Apps ₹40,000",
     description:
       "Marathi websites, apps, local SEO and WhatsApp tools for Pusad cotton traders, ginning units, agri dealers, clinics, colleges and shops. From ₹10,000.",
     keywords: [

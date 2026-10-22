@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/dairy-farm-website/",
   crumb: "Dairy farm website",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Dairy Farm Website: Milk Subscriptions from ${P.site}`,
-    description: `Dairy farm website for A2 milk, ghee and paneer: daily subscriptions with pause, route-wise delivery and prepaid wallets. Sites from ${P.site}.`,
+    description: `Daily subscriptions with pause and resume, route-wise delivery lists and prepaid wallets for A2 milk, ghee and paneer. Sites from ${P.site}, 1–2 weeks.`,
     keywords: [
       "dairy farm website", "dairy farm website design", "dairy farm website development", "milk subscription website",
       "A2 milk website", "dairy website design India", "desi ghee website", "ghee selling website", "paneer online order website",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "dairy farm website company in India",
       "dairy farm website near me",
       "best dairy farm website in India",
+      "dairy farm website india", "farm subscription website india",
     ],
   },
   hero: {

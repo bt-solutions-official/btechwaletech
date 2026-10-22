@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/landing-page-design-cost-in-india/",
   crumb: "Landing page design cost in India",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Landing Page Design Cost in India: From ${P.site}`,
-    description: `Landing page design cost in India: template vs custom, copy, WhatsApp lead capture, pixel tracking and A/B variants. Pages that convert, from ${P.site}.`,
+    title: `Landing Page Design Cost in India: ${P.site} Onwards`,
+    description: `Landing page design cost in India: ${P.site} for a conversion-built page in 1–2 weeks, with copy, WhatsApp or form leads and pixel tracking. Template vs custom.`,
     keywords: [
       "landing page design cost in India", "landing page design cost", "landing page cost India", "landing page price in India",
       "how much does a landing page cost", "landing page design charges", "landing page for Google Ads cost", "landing page for Facebook ads India",

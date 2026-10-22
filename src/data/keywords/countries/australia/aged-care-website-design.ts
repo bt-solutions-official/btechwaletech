@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/aged-care-website-design/",
   crumb: "Aged care website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Aged Care Website Design for Support at Home, ${P.site}+`,
-    description: `Aged care website design for the new Act and Support at Home: plain explainers for families, published prices, accessible layouts. From ${P.site}.`,
+    title: `Aged Care Website Design: Support at Home, ${P.site}+`,
+    description: `Aged care website design for the new Act and Support at Home: plain explainers for families, published prices and accessible layouts. From ${P.site}.`,
     keywords: [
       "aged care website design", "aged care web design", "home care website design", "support at home provider website",
       "aged care provider website", "residential aged care website design", "aged care website australia",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "aged care website design adelaide", "aged care website design perth", "aged care web developer near me",
       "retirement village website design",
       "hire aged care website design in Australia", "freelance aged care website design Australia",
+      "aged care website design services", "aged care seo services", "home care website design australia", "support at home website",
     ],
   },
   hero: {

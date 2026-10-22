@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const shamli: CityContent = {
   slug: "shamli",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 29.45, lng: 77.3167 },
   meta: {
-    title: "IT Services in Shamli | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Shamli | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, apps, Hindi SEO and WhatsApp automation for Shamli rim-axle makers, sugar belt suppliers, gur traders and shops. Sites from ₹10,000, yours to keep.",
     keywords: [

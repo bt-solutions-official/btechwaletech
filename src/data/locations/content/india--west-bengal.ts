@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "india--west-bengal",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 22.9868, lng: 87.855 },
   meta: {
-    title: "West Bengal IT Consulting: Jute Mills & Engineering",
+    title: "West Bengal IT Consulting & Software from ₹10,000",
     description:
       "IT consulting in West Bengal from a freelance team: software for mills, cold storages and exporters, plus Bengali AI agents. From ₹10,000, quote in two days.",
     keywords: [
@@ -83,7 +83,7 @@ const content: CityContent = {
       paragraphs: [
         "Digital transformation for West Bengal's traditional industries means recording daily operations, such as receipts, production, maintenance, stock and dispatch, in simple software rather than ledgers and memory, so owners can see and act on accurate information. It is about reliability and visibility, not flashy technology.",
         "Many of the state's mills, cold storages, foundries and trading houses have been run the same way for decades. That experience is valuable, but it often sits in the heads of a few senior staff. When they are absent or retire, knowledge disappears. A jute mill's machine history, a cold storage's lot-wise bond records, or a trader's credit terms with each buyer can all be captured in software without changing how the business fundamentally works.",
-        "Our consulting starts by listing what information the business depends on, who keeps it and where it gets lost. From that, we propose the smallest tool that removes the biggest risk, priced from our <a href='/pricing/'>published starting prices</a>. We involve senior staff early, because their acceptance decides whether the system is used. Change happens one step at a time.",
+        "Our consulting starts by listing what information the business depends on, who keeps it and where it gets lost. From that, we propose the smallest tool that removes the biggest risk, priced from our <a href='/pricing/'>published starting prices</a>. We involve senior staff early, because their acceptance decides whether the system is used. Change happens one step at a time. For the delivery side of the same work, with city pages and published starting prices, see <a href='/it-services/west-bengal/'>IT services in West Bengal</a>.",
       ],
     },
     {

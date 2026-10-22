@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/web-developer-near-me-surat/",
   crumb: "Web developer near me in Surat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Web Developer Near Me in Surat: Sites from ${P.site}`,
-    description: `Looking for a web developer near me in Surat? Check anyone remotely in 30 minutes, then talk to the coders on WhatsApp. Business sites from ${P.site}.`,
+    title: `Web Developer Near Me in Surat: ${P.site}, 1–2 Weeks`,
+    description: `Looking for a web developer near me in Surat? Check any team remotely in 30 minutes, then talk to the coders on WhatsApp. Business sites from ${P.site}.`,
     keywords: [
       "web developer near me in Surat", "web developer near me Surat", "website developer near me Surat", "web designer near me Surat",
       "web developer in Surat", "website developer Surat Gujarat", "local web developer Surat", "freelance web developer near me Surat",

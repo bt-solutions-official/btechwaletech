@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-api-developer/",
   crumb: "Freelance API developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Freelance API Developer in India, from ${P.software}`,
-    description: `Freelance API developer in India for payment, SMS, WhatsApp, ERP and CRM integrations, documented, secured and owned by you. Custom APIs from ${P.software}.`,
+    title: `Freelance API Developer: Node, WhatsApp, Payment APIs`,
+    description: `Payment, WhatsApp, SMS, email, ERP and CRM integrations in Node or Python, with retries, idempotency and real documentation. Custom APIs from ${P.software}.`,
     keywords: [
       "freelance api developer", "freelance api developer in India", "freelance api developer near me", "api developer for hire",
       "api integration developer", "api integration freelancer", "freelance api developer cost", "api development price India",
@@ -24,6 +24,8 @@ const content: FreelanceContent = {
       "crm integration freelancer", "tally integration developer", "rest api developer freelance", "webhook integration developer",
       "third party api integration", "hire api developer India",
       "hire freelance api developer",
+      "whatsapp api integration node js", "transactional email api india", "api integration cost in india", "shipping api integration india",
+      "payment api security",
     ],
   },
   hero: {

@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const sircilla: CityContent = {
   slug: "sircilla",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 18.3833, lng: 78.8333 },
   meta: {
-    title: "IT Services in Sircilla | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Sircilla | Sites ₹10,000, Apps ₹40,000",
     description:
       "Telugu websites, apps, local SEO and WhatsApp tools for Sircilla powerloom owners, saree traders, garment units, clinics and colleges. Websites from ₹10,000.",
     keywords: [

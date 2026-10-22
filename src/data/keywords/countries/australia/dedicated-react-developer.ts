@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/dedicated-react-developer/",
   crumb: "Hire dedicated React developer",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Hire Dedicated React Developer: AEST Overlap, Monthly`,
-    description: `Hire a dedicated React developer for your Australian product team: monthly engagements, AEST-afternoon standups, TypeScript and Next.js. Web apps from ${P.software}.`,
+    title: `Dedicated React Developer or Team: AEST Overlap`,
+    description: `Hire a dedicated React developer or a small team for your Australian product: monthly engagements, AEST-afternoon standups, TypeScript and Next.js.`,
     keywords: [
       "hire dedicated react developer", "dedicated react developer", "hire dedicated react developer australia",
       "dedicated react developer australia", "hire react developer australia", "dedicated next.js developer",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "least privilege developer onboarding", "react developer aest hours", "staff augmentation react australia",
       "is it safe to hire a remote react developer", "dedicated react developer near me",
       "freelance hire dedicated react developer Australia",
+      "dedicated team react", "react development team offshore",
     ],
   },
   hero: {

@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const chatra: CityContent = {
   slug: "chatra",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 24.2045, lng: 84.877 },
   meta: {
-    title: "IT Services in Chatra | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Chatra | Sites ₹10,000, Apps ₹40,000",
     description:
       "Chatra Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for coal-belt contractors, traders, lac sellers, schools and clinics.",
     keywords: [

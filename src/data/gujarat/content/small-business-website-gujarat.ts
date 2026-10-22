@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/small-business-website-gujarat/",
   crumb: "Small business website in Gujarat",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Small Business Website in Gujarat from ${P.site}`,
-    description: `Small business website in Gujarat for shops, traders & family firms: what the ${P.site} starting site includes, what never to cut, & how to launch in 1–2 weeks.`,
+    title: `Small Business Website in Gujarat: ${P.site}, Live in 2 Weeks`,
+    description: `Small business website in Gujarat from ${P.site}: what the starting site includes, what to skip, and what to use now Google's free Business.site has closed.`,
     keywords: [
       "small business website in Gujarat", "small business website Gujarat", "small business website near me", "website for shop Gujarat",
       "website for trader Gujarat", "family business website Gujarat", "affordable website Gujarat", "low cost website Gujarat",
@@ -23,6 +23,8 @@ const content: FreelanceContent = {
       "small business website Rajkot", "dukan ki website Gujarat", "shop ki website kaise banaye", "business website banwana hai",
       "Gujarati website for shop", "website with WhatsApp button", "Google Maps and website for shop", "static website for small business",
       "website for MSME Gujarat",
+      "business.site alternative", "Google free website for business alternative", "free business website Gujarat", "cheap business website Gujarat",
+      "business website kaise banaye",
     ],
   },
   hero: {
@@ -123,6 +125,25 @@ const content: FreelanceContent = {
         `A WhatsApp catalogue lives inside one app and only works once someone has your number. An Instagram or Facebook page depends on the platform's reach, which can change overnight, and rarely appears when a customer searches Google for “saree shop near me” or “plywood dealer in Rajkot”. Neither gives you your own address online, and neither belongs to you.`,
         `A website fills those gaps. It appears in Google search and Maps results, it can be shared as one clean link, it carries your own domain and email, and it stays yours whatever the platforms decide. It also gives your social pages and WhatsApp somewhere solid to point.`,
         `The two work best together. Your site links to your WhatsApp and Instagram; your profiles link back to your site. National comparisons go deeper on <a href='/whatsapp-catalogue-vs-website/'>WhatsApp catalogue versus website</a> and <a href='/instagram-shop-vs-website/'>Instagram shop versus website</a>.`,
+      ],
+    },
+    {
+      id: "free-google-site",
+      heading: "If your free Google Business.site page has stopped working",
+      paragraphs: [
+        `Plenty of shops in Gujarat got their first web address free from Google: a one-page site generated from the Google Business Profile, living on a <strong>business.site</strong> address. Google retired that builder in March 2024. For a few months the old addresses redirected to the business's Google listing; that redirect has since ended, so a business.site link printed on your board or visiting card now leads nowhere.`,
+        `Nothing important is lost. Everything that page showed, from name and address to timings, phone number, photos and services, still sits in your Google Business Profile, and the profile is still free, still worth keeping complete and still the first thing most customers see on a phone. Claim it and fill it in before you spend anything on a website.`,
+        `What the profile cannot do is the reason that free page existed at all. It is not an address you own, it cannot hold more than one screen of information, it will not carry your full range with prices, it sends enquiries through Google rather than to your own inbox, and it mostly appears only for searches about your own locality. Those are exactly the gaps a small business website fills.`,
+        `A sensible order for a shop or trader: complete the Google Business Profile, register a domain in your own name, then build the ${P.site} starting site described on this page and point the profile's website field at it. The two reinforce each other, and neither depends on a platform deciding to keep a feature.`,
+      ],
+      list: [
+        "Google Business Profile: free, keep timings, photos and services current",
+        "A domain registered in your business's own name, not a platform subdomain",
+        `A small business site from ${P.site}, usually live in 1–2 weeks`,
+        "The profile's website link pointing at your own domain",
+      ],
+      after: [
+        `Our <a href='/google-business-profile-vs-website/'>Google Business Profile versus website</a> comparison takes this further.`,
       ],
     },
     {
@@ -440,6 +461,7 @@ const content: FreelanceContent = {
     { question: "What if I already have an old website?", answer: "Send us the address and any login details you have. We check what works, what is slow and who controls the domain. Often a fresh small site with redirects from the old pages is quicker and cheaper than patching an outdated one, but we will tell you honestly which makes sense." },
     { question: "Dukan ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath chhote business ki website ${P.site} se shuru hoti hai, jisme WhatsApp button, call button, map, timings aur SEO setup shamil hai. Aam taur par 1–2 hafte mein site live ho jaati hai. Domain aur hosting aapke naam par rehte hain, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "Why choose a freelance team for a small business website in Gujarat?", answer: "You talk directly to the people who design and code the site, with no office or sales overheads in the price, and three developers cover for each other so your updates never wait on one person. The process runs entirely over WhatsApp and calls, so a shop in any Gujarat town gets the same service and starting price." },
+    { question: "Our free Google business.site page has stopped working. What should we do?", answer: `Google retired the free Business.site builder in March 2024, and the redirect that followed has also ended, so those links now lead nowhere. Your Google Business Profile still holds the name, timings, photos and services, so keep it complete; it is free. Then register a domain in your own name, build a real site from ${P.site}, and point the profile's website field at it.` },
     { question: "Can the site grow as my business grows?", answer: `Yes. Because the code and accounts are yours, later phases build on the same site: more products, a Gujarati version, a blog, an online store from ${P.shop} or even a web app for dealers. Each phase gets its own itemised quote, so you add only what the business actually needs at the time.` },
   ],
   related: {

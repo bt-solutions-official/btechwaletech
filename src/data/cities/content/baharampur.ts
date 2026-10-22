@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const baharampur: CityContent = {
   slug: "baharampur",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 24.1, lng: 88.25 },
   meta: {
-    title: "Baharampur Website Design, Local SEO and Online Stores",
+    title: "Website Design in Baharampur | From ₹10,000",
     description:
-      "Berhampore websites, Bengali and English SEO, Google Maps work, silk and sweet-shop stores and WhatsApp bots. Remote team, prices from ₹10,000.",
+      "Berhampore websites from ₹10,000, live in 1-2 weeks, with Bengali and English SEO. Silk and sweet-shop stores from ₹50,000, plus Maps work and WhatsApp bots.",
     keywords: [
       "website development team in Baharampur",
       "website designer Berhampore",
@@ -43,7 +43,7 @@ const baharampur: CityContent = {
     pills: ["Websites from ₹10,000", "Bengali and English pages", "Silk and sweet shop stores", "Clinic and tutor sites", "2 months free maintenance"],
   },
   quickAnswer:
-    "A Baharampur business can have a static website built by us from ₹10,000, usually within two weeks. SEO sites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores for silk or sweets at ₹50,000 and custom software at ₹60,000. We are remote, with no office in Berhampore.",
+    "A Berhampore (Baharampur) website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and a silk or sweet-shop store starts at ₹50,000. Pages are written in Bengali or English, and two months of upkeep are free.",
   snapshot: [
     { label: "Position", value: "Headquarters of Murshidabad district, on the east bank of the Bhagirathi, roughly 186 km north of Kolkata by rail" },
     { label: "Crafts", value: "Khagra is known for bell-metal (kansa) and brass utensils; ivory and wood carving were traditional trades" },

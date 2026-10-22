@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/doctor-website-developer/",
   crumb: "Doctor website developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
     title: `Doctor Website Developer: Clinic Sites from ${P.site}`,
-    description: `Doctor website developer for clinics in India: appointment booking, trust signals and medical advertising rules done right. Clinic websites from ${P.site}.`,
+    description: `Clinic websites from ${P.site}: appointment booking, trust signals, treatment pages and medical advertising rules handled properly. Live in 1–2 weeks.`,
     keywords: [
       "doctor website developer", "doctor website developer India", "doctor website developer near me", "clinic website developer",
       "doctor website cost", "clinic website price", "best doctor website developer", "doctor ki website kaise banwaye",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "physiotherapy clinic website", "dermatologist website", "healthcare website developer India", "doctor personal website",
       "hire doctor website developer",
       "freelance doctor website developer",
+      "doctor website design india", "medical website design india",
     ],
   },
   hero: {

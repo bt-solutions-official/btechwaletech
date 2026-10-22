@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/app-store-optimization-services/",
   crumb: "App store optimization services",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `App Store Optimization Services from ${P.seo}`,
-    description: `App store optimization services for Google Play and the App Store: keywords, screenshots, video, reviews and Indian-language listings. From ${P.seo}.`,
+    description: `Keyword research for Play and the App Store, screenshots and video that convert, review handling, Hindi plus regional listings. Monthly ASO from ${P.seo}.`,
     keywords: [
       "app store optimization services", "aso services", "app store optimization", "aso services india", "play store optimization",
       "google play aso", "app store aso services", "aso agency india", "aso expert", "aso freelancer",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "store listing experiments", "product page optimization app store", "ios app store optimization", "aso for flutter app",
       "play store par app kaise rank kare", "organic app installs india", "aso services bangalore",
       "best app store optimization services in India",
+      "app store optimization company", "app store optimisation services", "app publishing cost",
     ],
   },
   hero: {

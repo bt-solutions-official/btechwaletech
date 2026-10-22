@@ -2,7 +2,7 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--kerala--kochi",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 9.9312, lng: 76.2673 },
   meta: {
     title: "Kochi App & Software Developers: Seafood & Logistics",
@@ -273,7 +273,7 @@ const content: CityContent = {
       "paragraphs": [
         "The Digital Personal Data Protection Act, 2023 means any Kochi business collecting personal data, whether patient records at an Edappally clinic, buyer contacts at a seafood exporter or customer phone numbers in a retail app, should collect it with notice and consent, use it only for that purpose, protect it with reasonable security and handle requests to correct or erase it. The software you commission should support these duties.",
         "When we build for Kochi clients, the data side is planned alongside the screens. Consent text appears where data is collected. Access is split by role and logged. Files such as export documents, invoices and scans are stored privately with time-limited links. Cloud servers use encryption, backups run daily and a written note records where data lives, which matters when overseas buyers ask how their details are handled.",
-        "For apps, both Google Play and the Apple App Store ask for data-safety declarations and a privacy policy before publishing, so we prepare an accurate list of what the app collects. We do not give legal opinions; a hospital, lender or large exporter should have a lawyer review the final notices. Our job is to make sure the technology does what those notices promise."
+        "For apps, both Google Play and the Apple App Store ask for data-safety declarations and a privacy policy before publishing, so we prepare an accurate list of what the app collects. We do not give legal opinions; a hospital, lender or large exporter should have a lawyer review the final notices. Our job is to make sure the technology does what those notices promise. If you want the consulting side first, a review and a written roadmap before any build, read <a href='/india/kerala/kochi/'>IT consulting in Kochi</a>."
       ]
     },
   ],

@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const kamareddy: CityContent = {
   slug: "kamareddy",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 18.3206, lng: 78.337 },
   meta: {
-    title: "IT Services in Kamareddy | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Kamareddy | Sites ₹10,000, Apps ₹40,000",
     description:
       "Kamareddy Telugu and English websites, apps, local SEO and WhatsApp bots for rice mills, seed and turmeric traders and textile shops. From ₹10,000.",
     keywords: [

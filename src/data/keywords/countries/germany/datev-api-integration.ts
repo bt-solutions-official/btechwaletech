@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/germany/datev-api-integration/",
   crumb: "DATEV API integration",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `DATEV API Integration for Shops and CRMs, from ${P.ai}`,
-    description: `DATEV API integration for German shops, CRMs and custom software: EXTF booking batches, document upload, online APIs. From ${P.ai}, itemised quote in 2 days.`,
+    title: `DATEV API Integration: EXTF & Online APIs, ${P.ai}+`,
+    description: `DATEV API integration for German shops, CRMs and custom software: EXTF booking batches, DATEV Unternehmen online document upload, REST APIs. From ${P.ai}.`,
     keywords: [
       "datev api integration", "datev integration", "datev schnittstelle", "datev api", "datev connect online",
       "datev extf export", "datev buchungsstapel export", "datev format csv", "shopify datev integration",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "lexoffice api integration", "sevdesk api integration", "skr03 skr04 mapping", "datev integration munich",
       "datev integration berlin", "datev integration nuremberg", "datev developer germany remote",
       "hire datev api integration in Germany", "freelance datev api integration Germany",
+      "datev unternehmen online api", "datev schnittstelle entwickeln", "datev api developer",
     ],
   },
   hero: {

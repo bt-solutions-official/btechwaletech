@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/website-designer/",
   crumb: "Website designer",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: "Website Designer in Bhiwadi: We Meet You in Person",
-    description: `Website designer in Bhiwadi who meets you face to face at your unit or shop: real photos, mobile-first layouts, Hindi and English. Sites from ${P.site}.`,
+    title: `Website Designer in Bhiwadi from ${P.site}, 1–2 Weeks`,
+    description: `Website designer in Bhiwadi from ${P.site}, live in 1–2 weeks: real photos of your unit and team, mobile-first layouts, Hindi and English, enquiry-led pages.`,
     keywords: [
       "website designer in Bhiwadi", "website designer Bhiwadi", "website designer near me", "web designer in Bhiwadi Rajasthan",
       "website designer Bhiwadi Alwar", "website design Bhiwadi", "website designing company Bhiwadi", "freelance web designer Bhiwadi",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does a website designer in Bhiwadi do, and what does it cost?",
-    text: `A website designer plans how your pages look and read: layout, colours, fonts, photos and the path to an enquiry. With BtechWaleTech the design is part of the build, so a complete business site starts at ${P.site} and an online store at ${P.shop}. We meet one to one at your Bhiwadi premises first, then send an itemised quote.`,
+    text: `From ${P.site} for a complete business site, live in 1–2 weeks; an online store starts at ${P.shop}. A website designer plans how your pages look and read: layout, colours, fonts, photos and the path to an enquiry. Design is part of the build here, never a separate bill. We meet you at your premises first.`,
     more: `Want screens for an app or portal instead? See <a href='/bhiwadi-rajasthan/ui-ux-design/'>UI UX design in Bhiwadi</a>. For the full build and hosting side, read <a href='/bhiwadi-rajasthan/website-development/'>website development in Bhiwadi</a>.`,
   },
   snapshot: {

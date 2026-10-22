@@ -13,10 +13,10 @@ const SHOPIFY_LANG = "https://help.shopify.com/en/manual/international/languages
 const content: FreelanceContent = {
   path: "/canada/bilingual-website-development/",
   crumb: "Bilingual website development English French",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Bilingual Website Development English French: ${P.site}+`,
-    description: `Bilingual website development for Canada: separate en-CA and fr-CA URLs, hreflang, real language switchers and layouts that fit French. From ${P.site}.`,
+    title: `Bilingual Website Development (EN/FR) for Canada`,
+    description: `Bilingual website development for Canada: separate en-CA and fr-CA URLs, correct hreflang, a real switcher and layouts that fit French. From ${P.site}.`,
     keywords: [
       "bilingual website development english french", "bilingual website development", "english french website development",
       "bilingual website canada", "french english website design", "how to build a bilingual website", "bilingual website hreflang en-ca fr-ca",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "bilingual website toronto", "bilingual website near me", "subfolder vs subdomain french site", "why not use google translate widget on website",
       "bilingual web app english french", "bilingual website for small business",
       "hire bilingual website development english french in Canada", "freelance bilingual website development english french Canada",
+      "bilingual web design usa canada", "bilingual website maintenance canada", "bilingual wordpress canada",
     ],
   },
   hero: {

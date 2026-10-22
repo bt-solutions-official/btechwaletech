@@ -13,10 +13,10 @@ const ON_RULES = "https://www.ontario.ca/page/accessibility-rules-businesses-and
 const content: FreelanceContent = {
   path: "/canada/aoda-compliant-website/",
   crumb: "AODA compliant website",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `AODA Compliant Website: WCAG 2.0 AA Builds from ${P.site}`,
-    description: `AODA compliant website builds and fixes for Ontario: WCAG 2.0 AA audits with real screen readers, theme and form remediation, no overlays. From ${P.site}.`,
+    title: `AODA Compliant Website: Ontario WCAG 2.0 AA Checklist`,
+    description: `AODA compliant websites for Ontario: WCAG 2.0 AA audits with real screen readers, theme and form remediation, no overlay widgets. Builds from ${P.site}.`,
     keywords: [
       "aoda compliant website", "aoda website compliance", "aoda website requirements", "aoda wcag 2.0 aa", "aoda website audit",
       "is my website aoda compliant", "aoda compliance for small business", "aoda 50 employees website", "aoda website deadline",
@@ -26,6 +26,7 @@ const content: FreelanceContent = {
       "aoda compliant website london ontario", "aoda web developer near me", "accessible website developer ontario", "screen reader testing website",
       "aoda compliance report 2026",
       "hire aoda compliant website in Canada", "freelance aoda compliant website Canada", "aoda compliant website Canada",
+      "aoda website requirements ontario", "wcag 2.0 aa audit canada", "accessibility audit ontario",
     ],
   },
   hero: {

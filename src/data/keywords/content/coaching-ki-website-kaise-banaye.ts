@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/coaching-ki-website-kaise-banaye/",
   crumb: "Coaching ki website kaise banaye",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Coaching Ki Website Kaise Banaye: Leads ${P.site} se`,
-    description: `Coaching ki website kaise banaye? Course aur batch pages, results, demo class booking, local SEO aur LMS ka kharcha. Website ${P.site} se, quote 2 din me.`,
+    title: `Coaching Ki Website Kaise Banaye: Leads ${P.site} Se`,
+    description: `Course aur batch pages, results, demo class booking, local SEO aur LMS ka kharcha—sab step by step. Website ${P.site} se, 1–2 hafte, quote 2 din me.`,
     keywords: [
       "coaching ki website kaise banaye", "coaching website kaise banaye", "coaching institute ki website kaise banaye",
       "tuition ki website kaise banaye", "coaching website banane me kitna kharcha", "coaching institute website cost india",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "coaching website developer near me", "coaching website in hindi", "coaching ki website free me kaise banaye",
       "coaching website patna", "coaching website prayagraj", "coaching website jaipur", "lms add on cost for coaching",
       "coaching institute website features",
+      "coaching institute website kaise banaye", "institute website kaise banaye",
     ],
   },
   hero: {

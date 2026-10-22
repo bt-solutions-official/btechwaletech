@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/astrologer-website-design/",
   crumb: "Astrologer website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Astrologer Website Design: Paid Bookings, ${P.site}+`,
-    description: `Astrologer website design that sells paid call, chat and video consultations: kundli tools, puja pages, Hindi-English copy, UPI checkout. From ${P.site}.`,
+    description: `Sell paid call, chat and video consultations from ${P.site}: kundli tools, puja pages, Hindi and English copy, UPI checkout and slot booking that fills itself.`,
     keywords: [
       "astrologer website design", "astrology website design", "astrologer website development", "website for astrologer",
       "astrology website with online consultation", "astrologer website with payment gateway", "vastu consultant website",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "online astrology consultation website", "astrologer website with WhatsApp booking", "best website for astrologers",
       "astrologer website design company in India",
       "astrologer website design services",
+      "astrology video consultation website", "online kundli generator api",
     ],
   },
   hero: {

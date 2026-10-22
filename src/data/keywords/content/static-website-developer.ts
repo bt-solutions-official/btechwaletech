@@ -11,11 +11,12 @@ const P = {
 const content: FreelanceContent = {
   path: "/static-website-developer/",
   crumb: "Static website developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
-    title: `Static Website Developer in India: Sites from ${P.site}`,
-    description: `Static website developer in India: fast, secure sites of up to 100 pages from ${P.site}, CDN hosting in your name, live in 1-2 weeks. Quote in 2 days.`,
+    title: `Static Website Developer India: 100 Pages, ${P.site}`,
+    description: `Static website developer in India: up to 100 pages from ${P.site}, live in 1–2 weeks on CDN hosting in your name, 2 months free updates. Quote in 2 days.`,
     keywords: [
+      "static website charges in india", "simple website cost", "cheap website developer india",
       "static website developer", "static website developer India", "static website developer near me", "static website developer for hire",
       "static website cost", "static website price India", "best static website developer", "static website banwana hai",
       "static website developer Delhi", "static website developer Mumbai", "static website developer Bangalore", "static website developer Pune",

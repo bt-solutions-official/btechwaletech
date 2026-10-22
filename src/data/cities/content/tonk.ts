@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const tonk: CityContent = {
   slug: "tonk",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 26.1664, lng: 75.7885 },
   meta: {
-    title: "IT Services in Tonk | Web, Apps, SEO & AI from ₹10,000",
+    title: "IT Services in Tonk | Sites ₹10,000, Apps ₹40,000",
     description:
       "Websites, local SEO and WhatsApp automation for Tonk, Newai, Deoli and Malpura businesses. Static sites from ₹10,000, SEO sites from ₹20,000, remote team.",
     keywords: [

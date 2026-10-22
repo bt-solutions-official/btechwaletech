@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/clinic-management-software/",
   crumb: "Clinic management software",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Clinic Management Software: Own It from ${P.software}`,
-    description: `Clinic management software for Indian OPD clinics: SaaS vs your own build, ABHA linking, Hindi e-prescriptions, WhatsApp reminders. Builds from ${P.software}.`,
+    description: `OPD queues, ABHA linking, Hindi e-prescriptions and WhatsApp reminders—SaaS versus your own build, compared honestly. Custom builds from ${P.software}.`,
     keywords: [
       "clinic management software", "clinic management software India", "OPD management software", "polyclinic management software",
       "clinic software for doctors", "clinic management system", "clinic management software cost", "clinic management software price in India",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "clinic management software development", "one-time cost clinic software",
       "clinic management software company in India",
       "clinic management software services",
+      "opd software custom", "abha linked clinic software",
     ],
   },
   hero: {

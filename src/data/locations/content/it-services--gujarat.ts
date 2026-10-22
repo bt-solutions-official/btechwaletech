@@ -2,10 +2,10 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--gujarat",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 22.2587, lng: 71.1924 },
   meta: {
-    title: "Gujarat IT Services: Software, Apps & AI",
+    title: "IT Services in Gujarat: Websites ₹10,000, Apps ₹40,000",
     description:
       "Freelance IT services in Gujarat: custom software for GIDC units, dealer apps and AI automation. From ₹10,000, with two months of free upkeep after launch.",
     keywords: [
@@ -83,7 +83,7 @@ const content: CityContent = {
       paragraphs: [
         "Businesses in Gujarat mostly need IT services that make trading and manufacturing faster: order and dealer management, production and job-work tracking, quotation and export paperwork, Tally-linked reporting, WhatsApp automation and clear websites that win buyers. Glossy apps matter less than tools that save hours every week and pay for themselves quickly.",
         "Gujarat's economy is unusually broad. Ahmedabad mixes textiles, pharma, chemicals and services. Surat runs on diamonds and synthetic textiles. Vadodara is known for engineering, chemicals and power equipment. Rajkot makes castings, pumps and auto parts, Morbi makes ceramic tiles and clocks, Jamnagar makes brass parts beside one of the world's largest refinery complexes, and Anand is home to Amul and the dairy cooperative movement. Traders and family firms connect all of this through dense dealer networks.",
-        "BtechWaleTech serves these businesses remotely with <a href='/services/'>custom software, automation, apps, SEO and online stores</a>. Our city pages for <a href='/it-services/gujarat/ahmedabad/'>Ahmedabad</a>, <a href='/it-services/gujarat/surat/'>Surat</a> and <a href='/it-services/gujarat/vadodara/'>Vadodara</a> go deeper into each market, and the sections below explain how each service applies across the state.",
+        "BtechWaleTech serves these businesses remotely with <a href='/services/'>custom software, automation, apps, SEO and online stores</a>. Our city pages for <a href='/it-services/gujarat/ahmedabad/'>Ahmedabad</a>, <a href='/it-services/gujarat/surat/'>Surat</a> and <a href='/it-services/gujarat/vadodara/'>Vadodara</a> go deeper into each market, and the sections below explain how each service applies across the state. If you want advice before any build, such as an architecture review, a cloud cost audit and a written roadmap, read <a href='/india/gujarat/'>IT consulting in Gujarat</a>.",
       ],
     },
     {
@@ -107,7 +107,7 @@ const content: CityContent = {
       heading: "Dealer and distributor apps linked to Tally for Gujarat traders",
       paragraphs: [
         "A dealer app lets retailers and dealers across Gujarat see products, schemes and their outstanding balance, and place orders from a phone, while the distributor's office receives clean orders that flow into billing. We build these from ₹60,000, usually as installable web apps.",
-        "Gujarat's trade runs on long dealer chains: a manufacturer in Rajkot sells pumps through dealers in Saurashtra and beyond, an Ahmedabad FMCG distributor supplies hundreds of kirana shops, and a Surat textile trader sells to retailers across India. Orders arrive by phone, WhatsApp and salesman diaries, and someone types them into Tally every evening.",
+        "Gujarat's trade runs on long dealer chains: a manufacturer in <a href='/it-services/gujarat/rajkot/'>Rajkot</a> sells pumps through dealers in Saurashtra and beyond, an Ahmedabad FMCG distributor supplies hundreds of kirana shops, and a Surat textile trader sells to retailers across India. Orders arrive by phone, WhatsApp and salesman diaries, and someone types them into Tally every evening.",
         "Our apps give each dealer a personal catalogue and price list, one-tap reorders, scheme visibility, credit limits and a ledger view. Salesmen get route plans and offline order booking. The office receives structured orders, and we sync masters and invoices with Tally through supported integrations or scheduled exports. Messages can be in Gujarati or English.",
       ],
     },
@@ -191,7 +191,7 @@ const content: CityContent = {
       id: "city-guide-gujarat",
       heading: "How do IT needs differ across Ahmedabad, Surat, Vadodara, Rajkot and Gandhinagar?",
       paragraphs: [
-        "IT needs in Gujarat vary by city because each city has a different industrial mix, so the most useful software for a Surat textile trader differs from what a Rajkot foundry or a Gandhinagar consultancy needs. The summary below reflects the patterns we plan for.",
+        "IT needs in Gujarat vary by city because each city has a different industrial mix, so the most useful software for a Surat textile trader differs from what a Rajkot foundry or a <a href='/it-services/gujarat/gandhinagar/'>Gandhinagar</a> consultancy needs. The summary below reflects the patterns we plan for.",
       ],
       list: [
         "<strong>Ahmedabad:</strong> textiles, pharma, chemicals and services; ERP-lite, B2B websites, real-estate CRMs and SEO",
@@ -225,7 +225,7 @@ const content: CityContent = {
       heading: "Freelance team vs an IT services team in Gujarat: which should you hire?",
       paragraphs: [
         "Hire an IT services team in Gujarat if you need on-site teams, large parallel projects or formal enterprise contracts; hire a freelance group like BtechWaleTech for focused software, automation and websites where you want direct contact with engineers, lower overheads and full ownership. Whichever you pick, get ownership and handover terms in writing.",
-        "Before signing with anyone, ask who writes the code, how soon you will see a working preview, whose name the domain, hosting and repository are registered in, and what support costs after launch. We are three independent engineers working remotely, as explained on our <a href='/about/'>about page</a>, with examples on our <a href='/portfolio/'>portfolio</a>. We have no office in Gujarat, cannot provide on-site hardware support and do not guarantee search rankings; everything else is set out plainly in each quote.",
+        "Before signing with anyone, ask who writes the code, how soon you will see a working preview, whose name the domain, hosting and repository are registered in, and what support costs after launch. We are three independent engineers working remotely, as explained on our <a href='/about/'>about page</a>, with examples on our <a href='/portfolio/'>portfolio</a>. We have no office in Gujarat, cannot provide on-site hardware support and do not guarantee search rankings; everything else is set out plainly in each quote. A consulting-led page for <a href='/india/gujarat/ahmedabad/'>Ahmedabad</a> sits under our India locations section.",
       ],
     },
   ],

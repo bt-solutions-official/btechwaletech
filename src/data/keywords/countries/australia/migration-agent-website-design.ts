@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/migration-agent-website-design/",
   crumb: "Migration agent website design",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Migration Agent Website Design from ${P.site}`,
-    description: `Migration agent website design for Australia: MARN on every page, dated visa pages, paid consultation booking and client-supplied translations. From ${P.site}.`,
+    title: `Website Design for Migration Agents, from ${P.site}`,
+    description: `Website design for migration agents in Australia: MARN shown on every page, dated visa pages and paid consultation booking. Sites from ${P.site}.`,
     keywords: [
       "migration agent website design", "migration agent website design australia", "registered migration agent website",
       "migration agent websites", "immigration agent website design", "website for migration agents",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "migration agent website melbourne", "migration agent website brisbane", "migration agent website perth",
       "migration agent website adelaide", "immigration lawyer website design australia",
       "hire migration agent website design in Australia", "freelance migration agent website design Australia",
+      "website design for migration agents australia", "website design for migration agents", "migration agent website", "marn website requirements",
     ],
   },
   hero: {

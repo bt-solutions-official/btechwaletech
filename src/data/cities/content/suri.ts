@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const suri: CityContent = {
   slug: "suri",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 23.91, lng: 87.527 },
   meta: {
-    title: "IT Services in Suri | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Suri | Sites ₹10,000, Apps ₹40,000",
     description:
       "Bengali websites, apps, Maps SEO and WhatsApp tools for Suri rice mills, morabba makers, weavers, clinics, schools and shops. Sites from ₹10,000.",
     keywords: [

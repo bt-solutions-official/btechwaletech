@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/australia/ai-receptionist-for-small-business/",
   crumb: "AI receptionist for small business Australia",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `AI Receptionist for Small Business Australia: ${P.ai}+`,
-    description: `AI receptionist for small business in Australia: catch missed calls, book into ServiceM8, Cliniko or Google Calendar, triage after hours. From ${P.ai}.`,
+    title: `AI Receptionist Australia: Catch Missed Calls, ${P.ai}+`,
+    description: `AI receptionist for Australian small business: answer after-hours calls, book into ServiceM8, Cliniko or Google Calendar, then text a summary. From ${P.ai}.`,
     keywords: [
       "ai receptionist for small business australia", "ai receptionist australia", "ai receptionist for small business",
       "ai phone answering service australia", "ai virtual receptionist", "ai receptionist for tradies",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "ai receptionist sydney", "ai receptionist melbourne", "ai receptionist brisbane", "ai receptionist perth",
       "voice ai agent small business", "ai call answering for trades", "ai receptionist privacy australia",
       "hire ai receptionist for small business in Australia", "freelance ai receptionist for small business Australia",
+      "virtual receptionist australia", "cliniko ai receptionist", "call answering service australia",
     ],
   },
   hero: {

@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--jammu-and-kashmir--kathua",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 32.3693, lng: 75.5254 },
   meta: {
     title: "Kathua Software Developers for MSMEs: Textiles & Steel",
     description:
-      "Freelance software developers for Kathua: workflow tools for Ghatti and SICOP units, B2B sites, plus Android and iOS apps. Itemised quote in two working days.",
+      "Freelance software developers for Kathua: workflow tools for Ghatti and SICOP units, B2B sites and Android and iOS apps. Software ₹60,000, quote in 2 days.",
     keywords: [
       "software development team in Kathua",
       "IT services team in Kathua",

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bank-statement-to-tally/",
   crumb: "Bank statement to Tally",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Bank Statement to Tally: PDF to Vouchers, ${P.ai}+`,
-    description: `Bank statement to Tally conversion for CA firms: PDF or Excel statements parsed, ledgers mapped by narration rules, posted and reconciled. From ${P.ai}.`,
+    description: `PDF or Excel statements parsed, ledgers matched by narration rules, vouchers posted and reconciled—built for CA firms handling many clients. From ${P.ai}.`,
     keywords: [
       "bank statement to tally", "convert bank statement to tally", "pdf bank statement to tally", "bank statement pdf to tally xml",
       "excel bank statement to tally", "import bank statement in tally prime", "bank statement to tally converter",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "bank statement to tally Pune", "bank statement to tally Coimbatore", "bank statement tally me kaise import kare",
       "bank entries tally me automatic", "tallyprime auto bank reconciliation", "password protected bank statement pdf tally",
       "bank statement to tally developer",
+      "bank statement to tally import", "bank statement converter tally india",
     ],
   },
   hero: {

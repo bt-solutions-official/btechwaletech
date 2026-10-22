@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const bhuj: CityContent = {
   slug: "bhuj",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 23.2533, lng: 69.6693 },
   meta: {
-    title: "IT Services in Bhuj | Web, Apps, SEO & AI from ₹10,000",
+    title: "IT Services in Bhuj | Sites ₹10,000, Apps ₹40,000",
     description:
       "Bhuj websites, local SEO, craft stores and WhatsApp automation for artisans, hotels, Rann tour operators, clinics and Kutch suppliers. You own the domain.",
     keywords: [

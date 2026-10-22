@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-designer-bhavnagar/",
   crumb: "Website designer in Bhavnagar",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
     title: `Website Designer in Bhavnagar: Design + Build ${P.site}+`,
-    description: `Website designer in Bhavnagar for layouts, photo direction and Gujarati or English pages that look right on phones. Designed and coded together from ${P.site}.`,
+    description: `Website designer in Bhavnagar: layouts, photo direction and Gujarati or English pages that look right on phones. Designed and coded together from ${P.site}.`,
     keywords: [
       "website designer in Bhavnagar", "website designer Bhavnagar", "web designer Bhavnagar Gujarat", "website designer near me",
       "website design Bhavnagar", "web design services Bhavnagar", "freelance website designer Bhavnagar", "UI designer Bhavnagar",

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/banquet-hall-website-ahmedabad/",
   crumb: "Banquet hall website in Ahmedabad",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Banquet Hall Website in Ahmedabad from ${P.site}`,
-    description: `Banquet hall website in Ahmedabad with date-check enquiries, package pages and venue photos for party plots. Venue sites from ${P.site}; quote in 2 days.`,
+    title: `Banquet Hall Website in Ahmedabad: Date Check, ${P.site}`,
+    description: `Banquet hall and party plot website in Ahmedabad: date-check enquiries, package pages and venue photos that load fast. Venue sites from ${P.site}, 2-day quote.`,
     keywords: [
       "banquet hall website in Ahmedabad", "banquet hall website Ahmedabad", "party plot website Ahmedabad", "wedding venue website Ahmedabad",
       "banquet hall website design Ahmedabad", "banquet hall website near me", "party plot website design Gujarat", "banquet hall website Ahmedabad Gujarat",

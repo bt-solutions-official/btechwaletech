@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/production-planning-software/",
   crumb: "Production planning software",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: `Production Planning Software in Bhiwadi from ${P.software}`,
-    description: `Production planning software in Bhiwadi for schedules, machine loading and shift output, from ${P.software}. We meet your PPC team one to one at the plant.`,
+    title: `Production Planning Software Bhiwadi: ${P.software}+`,
+    description: `Production planning software in Bhiwadi from ${P.software}, live in 6–12 weeks: dated work orders per machine and shift, plan versus actual output every day.`,
     keywords: [
       "production planning software in Bhiwadi", "production planning software Bhiwadi", "PPC software Bhiwadi", "production planning software near me",
       "production planning software in Bhiwadi Rajasthan", "production planning software Bhiwadi Alwar", "production scheduling software Bhiwadi",
@@ -49,7 +49,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does production planning software in Bhiwadi cost, and what should it do?",
-    text: `Production planning software in Bhiwadi turns customer schedules into dated work orders per machine and shift, then records actual output so plan versus actual is visible daily. From us, a custom planning web app starts at ${P.software} and usually takes 6–12 weeks; a simpler shift-output register with WhatsApp reports can start at ${P.ai}. Your final price follows a face-to-face meeting at the plant.`,
+    text: `From ${P.software} and usually 6–12 weeks; a simpler shift-output register with WhatsApp reports can start at ${P.ai}. It turns customer schedules into dated work orders per machine and shift, then records actual output so plan versus actual is visible daily. Your price follows a face-to-face meeting at the plant.`,
     more: `If planning is one part of a bigger system, read <a href='/bhiwadi-rajasthan/erp-software-for-manufacturing/'>ERP software for manufacturing in Bhiwadi</a>; for stock and BOM checks see <a href='/bhiwadi-rajasthan/inventory-management-software/'>inventory software in Bhiwadi</a>. Either way, the first step is an in-person walk of your shop floor.`,
   },
   snapshot: {

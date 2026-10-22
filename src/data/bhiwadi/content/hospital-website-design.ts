@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/bhiwadi-rajasthan/hospital-website-design/",
   crumb: "Hospital website design",
-  updated: "2026-09-27",
+  updated: "2026-10-22",
   meta: {
-    title: "Hospital Website Design in Bhiwadi, Meet Face to Face",
-    description: `Hospital website design in Bhiwadi from ${P.site}: department pages, doctor profiles, OPD timings and appointment requests. We meet your team in person.`,
+    title: `Hospital Website Design in Bhiwadi from ${P.site}`,
+    description: `Hospital website design in Bhiwadi from ${P.site}, live in 1–2 weeks: speciality and department pages, doctor profiles, OPD timings, appointment requests.`,
     keywords: [
       "hospital website design in Bhiwadi", "hospital website design Bhiwadi", "hospital website designer near me", "hospital website design in Bhiwadi Rajasthan",
       "hospital website Bhiwadi Alwar", "hospital website developer Bhiwadi", "hospital website design designer Bhiwadi", "hospital website services Bhiwadi",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How much does hospital website design in Bhiwadi cost?",
-    text: `With us, hospital website design in Bhiwadi starts at ${P.site} for a static site of up to 100 pages, built in about 1–2 weeks once doctor and department details are ready. That covers specialities, doctor profiles, OPD timings, an appointment request form and emergency contacts. Live slot booking linked to your hospital software starts at ${P.software}. We first meet your team face to face at the hospital.`,
+    text: `From ${P.site} for a static site of up to 100 pages, built in about 1–2 weeks once doctor and department details are ready. That covers specialities, doctor profiles, OPD timings, an appointment request form and emergency contacts. Live slot booking linked to your hospital software starts at ${P.software}.`,
     more: `Need OPD, billing and lab reports in software as well? See <a href='/bhiwadi-rajasthan/hospital-management-software/'>hospital management software in Bhiwadi</a>. Single-doctor practices fit better on <a href='/bhiwadi-rajasthan/doctor-clinic-website/'>doctor and clinic websites</a>.`,
   },
   snapshot: {

@@ -11,9 +11,9 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/website-designer-vapi/",
   crumb: "Website designer in Vapi",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Website Designer in Vapi: Design + Build from ${P.site}`,
+    title: `Website Designer in Vapi: Design + Build ${P.site}+`,
     description: `Website designer in Vapi for plants, showrooms, schools and clinics: layouts, photo direction, Gujarati and English type, then the build. From ${P.site}.`,
     keywords: [
       "website designer in Vapi", "website designer Vapi", "web designer Vapi", "website design Vapi",
@@ -23,6 +23,7 @@ const content: FreelanceContent = {
       "website designer Daman", "website designer Silvassa", "website designer Valsad Vapi", "best website designer in Vapi",
       "Vapi me website design kaun karega", "website design karwana hai Vapi", "web designer vs web developer Vapi",
       "chemical company website design Vapi", "website designer Umbergaon Vapi", "pharma unit website design Vapi",
+      "website design in Vapi", "website design company Vapi",
     ],
   },
   hero: {

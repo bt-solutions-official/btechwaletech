@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const gudivada: CityContent = {
   slug: "gudivada",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 16.435, lng: 80.995 },
   meta: {
-    title: "Gudivada Websites, SEO and Rice Mill Software",
+    title: "Website Design in Gudivada | Sites from ₹10,000",
     description:
-      "Gudivada websites, Telugu search pages and WhatsApp tools for rice millers, trailer builders, fish farmers, colleges and clinics. Sites from ₹10,000.",
+      "Gudivada websites from ₹10,000, live in 1-2 weeks, with Telugu pages. Rice mill software and WhatsApp tools for millers, fish farmers, colleges and clinics.",
     keywords: [
       "website development team in Gudivada",
       "web designer Gudivada",

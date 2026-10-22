@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const bhatapara: CityContent = {
   slug: "bhatapara",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 21.7333, lng: 81.9333 },
   meta: {
-    title: "IT Services in Bhatapara | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Bhatapara | Sites ₹10,000, Apps ₹40,000",
     description:
       "Bhatapara Hindi websites, mobile apps, local SEO and WhatsApp bots for rice, poha and dal mills, mandi traders, cement-belt suppliers and shops. From ₹10,000.",
     keywords: [

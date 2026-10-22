@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/distributor-management-system/",
   crumb: "Distributor management system",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
-    title: `Distributor Management System for FMCG, from ${P.software}`,
-    description: `Distributor management system for FMCG and consumer brands: secondary sales, schemes, distributor stock, claims and Tally sync. Custom DMS from ${P.software}.`,
+    title: `Distributor Management System for FMCG, ${P.software}+`,
+    description: `Secondary sales, schemes and claims, distributor stock, a retailer ordering app and Tally sync for FMCG brands. Custom DMS from ${P.software}, in 6–12 weeks.`,
     keywords: [
       "distributor management system", "dms software", "distributor management system for fmcg", "distribution management system India",
       "custom distributor management system", "dms for consumer brands", "secondary sales tracking software", "secondary sales visibility",
@@ -25,6 +25,7 @@ const content: FreelanceContent = {
       "distributor management system Delhi", "dms software banwana hai", "distributor inventory visibility", "trade scheme claim software",
       "best distributor management system in India",
       "distributor management system services",
+      "dealer distributor management software", "distributor ordering app", "enterprise dms for fmcg", "fmcg retailer ordering app",
     ],
   },
   hero: {

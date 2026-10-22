@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-flutter-developer/",
   crumb: "Freelance Flutter developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
     title: `Freelance Flutter Developer: Apps from ${P.app}`,
-    description: `Freelance Flutter developer in India: one Dart codebase for Android and iOS, smooth on budget phones, vetted packages. Apps from ${P.app}, quote in 2 days.`,
+    description: `One Dart codebase for Android and iOS, smooth on budget phones, with only vetted packages used. Apps from ${P.app}, live in 6–10 weeks, quote in 2 days.`,
     keywords: [
       "freelance flutter developer", "freelance flutter developer India", "flutter developer near me", "flutter developer for hire",
       "flutter app development cost", "flutter developer price", "best freelance flutter developer", "flutter developer chahiye",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "flutter packages pub.dev", "flutter web app developer", "freelance dart flutter programmer", "flutter app banwana hai",
       "remote flutter developer India", "flutter mobile app freelancer",
       "hire freelance flutter developer",
+      "hire flutter developer freelance", "flutter firebase crashlytics developer",
     ],
   },
   hero: {

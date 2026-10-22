@@ -2,10 +2,10 @@ import type { CityContent } from "../types";
 
 const keshod: CityContent = {
   slug: "keshod",
-  updated: "2026-09-22",
+  updated: "2026-10-22",
   geo: { lat: 21.3, lng: 70.25 },
   meta: {
-    title: "IT Services in Keshod | Web, Apps & AI from ₹10,000",
+    title: "IT Services in Keshod | Sites ₹10,000, Apps ₹40,000",
     description:
       "Keshod Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for groundnut oil mills, chhakda and furniture makers, traders and clinics.",
     keywords: [

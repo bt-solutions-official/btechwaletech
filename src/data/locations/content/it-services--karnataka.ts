@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--karnataka",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 15.3173, lng: 75.7139 },
   meta: {
-    title: "Karnataka IT Services: Software, Apps & AI",
+    title: "IT Services in Karnataka: Sites ₹10,000, Apps ₹40,000",
     description:
-      "Freelance IT services in Karnataka: MVPs, custom software, Android and iOS apps, AI agents, plus SEO and stores for Bengaluru. Starting prices in INR, by UPI.",
+      "Freelance IT services in Karnataka: MVPs, custom software, Android and iOS apps, AI agents, SEO and stores for Bengaluru. Sites ₹10,000, apps ₹40,000.",
     keywords: [
       "IT services in Karnataka",
       "software development team in Karnataka",
@@ -82,8 +82,8 @@ const content: CityContent = {
       heading: "What do IT services in Karnataka include beyond Bengaluru's tech parks?",
       paragraphs: [
         "IT services in Karnataka, for startups and small or mid-sized businesses, include MVP and product development, custom software and portals, Android and iOS apps, AI agents and automation, data dashboards, cloud hosting, online stores, websites and SEO in Kannada and English, and ongoing maintenance. The state's large technology industry mostly serves global clients; local businesses often need a partner sized for their projects.",
-        "Karnataka's economy is far broader than Bengaluru's IT corridors. Manufacturers fill industrial areas from Peenya to Belagavi. Coffee estates cover the Western Ghats in Kodagu and Chikkamagaluru. Silk flows from Ramanagara's cocoon market to Mysuru's looms. Coastal Mangaluru and Udupi combine port trade, education, healthcare and a large diaspora. Hubballi–Dharwad is a trade and education centre for north Karnataka, and Kalaburagi and Ballari anchor the Kalyana Karnataka region.",
-        "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Karnataka and do not claim one; we work through WhatsApp, calls and shared test links. Starting prices are on the <a href='/pricing/'>pricing page</a>, every account and repository is handed to you, and two months of maintenance are included after launch. City-specific detail is on our pages for <a href='/bengaluru/'>Bengaluru</a>, <a href='/mysore/'>Mysuru</a>, <a href='/mangaluru/'>Mangaluru</a> and <a href='/hubli-dharwad/'>Hubballi–Dharwad</a>.",
+        "Karnataka's economy is far broader than <a href='/it-services/karnataka/bengaluru/'>Bengaluru</a>'s IT corridors. Manufacturers fill industrial areas from Peenya to <a href='/it-services/karnataka/belagavi/'>Belagavi</a>. Coffee estates cover the Western Ghats in Kodagu and Chikkamagaluru. Silk flows from Ramanagara's cocoon market to <a href='/it-services/karnataka/mysuru/'>Mysuru</a>'s looms. Coastal Mangaluru and Udupi combine port trade, education, healthcare and a large diaspora. Hubballi–Dharwad is a trade and education centre for north Karnataka, and Kalaburagi and Ballari anchor the Kalyana Karnataka region.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Karnataka and do not claim one; we work through WhatsApp, calls and shared test links. Starting prices are on the <a href='/pricing/'>pricing page</a>, every account and repository is handed to you, and two months of maintenance are included after launch. City-specific detail is on our pages for <a href='/bengaluru/'>Bengaluru</a>, <a href='/mysore/'>Mysuru</a>, <a href='/mangaluru/'>Mangaluru</a> and <a href='/hubli-dharwad/'>Hubballi–Dharwad</a>. If you want advice before any build, such as an architecture review, a cloud cost audit and a written roadmap, read <a href='/india/karnataka/'>IT consulting in Karnataka</a>.",
       ],
     },
     {
@@ -91,7 +91,7 @@ const content: CityContent = {
       heading: "How Karnataka's regions shape the software businesses need",
       paragraphs: [
         "Karnataka's regions have distinct economies, so the most useful software differs from Bengaluru to the coast, the Malnad hills and the northern plains. Matching the tool to the regional business model matters more than following what a Bengaluru startup would build.",
-        "Around Bengaluru, founders need MVPs and product engineering, while manufacturers in Peenya, Bommasandra, Jigani and Tumakuru need shop-floor and supplier tools. Old Mysore, including Mysuru, Mandya and Hassan, mixes tourism, silk, sugar and education. The coast around Mangaluru and Udupi needs apps for education, healthcare and families with relatives in the Gulf. The Malnad districts, Kodagu, Chikkamagaluru and Shivamogga, need estate management, homestay booking and ecommerce for plantation produce. North Karnataka, from Belagavi and Hubballi–Dharwad to Kalaburagi, Vijayapura and Ballari, needs trading, agri-processing, foundry and education software.",
+        "Around Bengaluru, founders need MVPs and product engineering, while manufacturers in Peenya, Bommasandra, Jigani and Tumakuru need shop-floor and supplier tools. Old Mysore, including Mysuru, Mandya and Hassan, mixes tourism, silk, sugar and education. The coast around <a href='/it-services/karnataka/mangaluru/'>Mangaluru</a> and Udupi needs apps for education, healthcare and families with relatives in the Gulf. The Malnad districts, Kodagu, Chikkamagaluru and Shivamogga, need estate management, homestay booking and ecommerce for plantation produce. North Karnataka, from Belagavi and <a href='/it-services/karnataka/hubballi/'>Hubballi</a>–Dharwad to Kalaburagi, Vijayapura and Ballari, needs trading, agri-processing, foundry and education software.",
         "We start every project by understanding how the work happens today, often on a video call where you share the spreadsheet, register or WhatsApp group that currently runs the business. Then we propose the smallest system that removes the most manual effort, in Kannada, English or both, and build it in phases.",
       ],
       list: [
@@ -225,7 +225,7 @@ const content: CityContent = {
       paragraphs: [
         "Hire a freelance team for well-defined MVPs, internal tools, apps and websites where direct access to engineers and lower overhead matter; hire a larger software development company in Karnataka for large platforms, on-site teams or long enterprise programmes. Karnataka has excellent options of both kinds, and the choice depends on scope and budget.",
         "Large IT companies bring bench strength, formal processes and specialist teams. A freelance group like BtechWaleTech brings the same three engineers from first call to support, published starting prices and fast replies, with limited capacity and no office in the state. Whatever you choose, insist on an itemised quote, ownership of code and accounts, a working test version before final payment, and written support terms.",
-        "You can review our <a href='/portfolio/'>portfolio</a>, read the <a href='/about/'>about page</a>, browse the <a href='/it-services/'>IT services hub</a> and <a href='/india/'>India locations</a>, or see city pages for <a href='/belagavi/'>Belagavi</a> and <a href='/tumkur/'>Tumakuru</a>. When ready, start on the <a href='/contact/'>contact page</a>.",
+        "You can review our <a href='/portfolio/'>portfolio</a>, read the <a href='/about/'>about page</a>, browse the <a href='/it-services/'>IT services hub</a> and <a href='/india/'>India locations</a>, or see city pages for <a href='/belagavi/'>Belagavi</a> and <a href='/tumkur/'>Tumakuru</a>. When ready, start on the <a href='/contact/'>contact page</a>. A consulting-led page for <a href='/india/karnataka/bangalore/'>Bangalore</a> sits under our India locations section.",
       ],
     },
   ],

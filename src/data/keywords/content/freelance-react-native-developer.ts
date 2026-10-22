@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/freelance-react-native-developer/",
   crumb: "Freelance React Native developer",
-  updated: "2026-09-24",
+  updated: "2026-10-22",
   meta: {
     title: `Freelance React Native Developer | Apps from ${P.app}`,
-    description: `Freelance React Native developer in India for Android and iOS apps: Expo vs bare, native modules and store publishing. Apps from ${P.app}, quote in 2 days.`,
+    description: `One React Native codebase for Android and iOS: Expo or bare, native modules, over-the-air updates and store publishing in your own account. Apps from ${P.app}.`,
     keywords: [
       "freelance React Native developer", "freelance React Native developer India", "React Native developer near me", "React Native developer for hire",
       "React Native app development cost", "React Native developer price India", "best freelance React Native developer", "React Native app banwana hai",
@@ -24,6 +24,7 @@ const content: FreelanceContent = {
       "React Native app upgrade", "React Native developer for startup", "hire React Native freelancer", "JavaScript mobile app developer",
       "TypeScript React Native developer", "React Native app maintenance",
       "hire freelance react native developer",
+      "hire react native developer india", "react native app cost india", "expo developer freelance",
     ],
   },
   hero: {

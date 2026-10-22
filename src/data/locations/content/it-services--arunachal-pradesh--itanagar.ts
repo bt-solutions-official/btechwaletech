@@ -2,12 +2,12 @@ import type { CityContent } from "../../cities/types";
 
 const content: CityContent = {
   slug: "it-services--arunachal-pradesh--itanagar",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 27.0844, lng: 93.6053 },
   meta: {
     title: "Itanagar Software Developers: Schools & Civil Contractors",
     description:
-      "Hire freelance software developers in Itanagar for school and clinic systems, contractor apps, Android and iOS apps, AI automation and SEO. Quote in 2 days.",
+      "Hire freelance software developers in Itanagar for school and clinic systems, contractor apps, AI automation and SEO. Sites from ₹10,000, quote in 2 days.",
     keywords: [
       "software development team in Itanagar",
       "IT services team in Itanagar",

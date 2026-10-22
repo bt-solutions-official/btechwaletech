@@ -2,12 +2,12 @@ import type { CityContent } from "../types";
 
 const anantapur: CityContent = {
   slug: "anantapur",
-  updated: "2026-09-21",
+  updated: "2026-10-22",
   geo: { lat: 14.6819, lng: 77.6006 },
   meta: {
-    title: "Anantapur Website Developer & SEO | From ₹10,000",
+    title: "Website Design in Anantapur | Telugu SEO, ₹10,000+",
     description:
-      "Anantapur websites, Telugu SEO, online stores and WhatsApp automation for agri traders, Dharmavaram silk sellers, institutes and clinics. Sites from ₹10,000.",
+      "Anantapur websites from ₹10,000, live in 1-2 weeks, with Telugu SEO. Local SEO and WhatsApp bots for agri traders, Dharmavaram silk sellers and clinics.",
     keywords: [
       "website development team in Anantapur",
       "web designer Anantapur",
@@ -43,7 +43,7 @@ const anantapur: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Silk saree online stores", "Agri trade catalogues", "WhatsApp auto-replies"],
   },
   quickAnswer:
-    "For an Anantapur shop, clinic or institute, a basic website is priced from ₹10,000 and is ready in one to two weeks. Telugu-English SEO sites of 299+ pages start at ₹20,000, a silk or produce store at ₹50,000 and WhatsApp automation at ₹40,000. We work remotely with no local office, and upkeep is free for two months.",
+    "An Anantapur business website starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, and stores start at ₹50,000. Monthly local SEO costs from ₹10,000, pages can be in Telugu, and two months of upkeep are free.",
   snapshot: [
     { label: "Official name", value: "Ananthapuramu, headquarters of Anantapur district in the Rayalaseema region of Andhra Pradesh" },
     { label: "Connectivity", value: "On National Highway 44 between Bengaluru and Hyderabad; Bengaluru's international airport is about 190 km away" },

@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/does-my-business-need-a-website/",
   crumb: "Does my business need a website",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Does My Business Need a Website? An Honest Answer`,
-    description: `Does my business need a website if I already use WhatsApp, Instagram and Google Maps? A 7-question test, who can wait, and sites from ${P.site}.`,
+    description: `A seven-question test for businesses already running on WhatsApp, Instagram and Google Maps—who can wait, and who is losing work. Sites from ${P.site}.`,
     keywords: [
       "does my business need a website", "do i need a website for my business", "does a small business need a website",
       "is a website necessary for small business", "do i need a website if i have instagram", "do i need a website if i have whatsapp business",
@@ -28,6 +28,7 @@ const content: FreelanceContent = {
       "does my business need a website company in India",
       "does my business need a website near me",
       "best does my business need a website in India",
+      "website vs instagram for business", "do i need a website if i have google maps",
     ],
   },
   hero: {

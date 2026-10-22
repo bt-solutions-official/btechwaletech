@@ -9,10 +9,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/canada/technical-seo-services/",
   crumb: "Technical SEO services Canada",
-  updated: "2026-09-25",
+  updated: "2026-10-22",
   meta: {
     title: `Technical SEO Services Canada: Audits from ${P.seo}`,
-    description: `Technical SEO services in Canada from ${P.seo}: crawl and indexing audits, Core Web Vitals, en-CA/fr-CA hreflang and schema, measured in Search Console.`,
+    description: `Technical SEO in Canada from ${P.seo}: crawl and indexing audits, Core Web Vitals, en-CA and fr-CA hreflang and schema, all measured in Search Console.`,
     keywords: [
       "technical seo services canada", "technical seo canada", "technical seo audit canada", "technical seo consultant canada",
       "technical seo expert canada", "technical seo agency canada", "technical seo company canada", "seo audit services canada",
@@ -22,6 +22,7 @@ const content: FreelanceContent = {
       "technical seo vancouver", "technical seo montreal", "technical seo calgary", "technical seo near me", "technical seo for ecommerce canada",
       "technical seo for shopify stores", "remote technical seo team",
       "hire technical seo services in Canada", "freelance technical seo services Canada",
+      "technical seo audit services", "hreflang canada", "search console audit canada",
     ],
   },
   hero: {

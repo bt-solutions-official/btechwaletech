@@ -11,10 +11,10 @@ const P = {
 const content: FreelanceContent = {
   path: "/gujarat/ecommerce-website-development-anand/",
   crumb: "Ecommerce website development in Anand",
-  updated: "2026-10-01",
+  updated: "2026-10-22",
   meta: {
-    title: `Ecommerce Website Development in Anand (${P.shop}+)`,
-    description: `Ecommerce website development in Anand for dairy and sweet makers, gift shops and student stores: NRI gift orders, UPI checkout, GST invoices. From ${P.shop}.`,
+    title: `Ecommerce Website in Anand: ${P.shop}, 4–8 Weeks`,
+    description: `Anand online store from ${P.shop} for dairy and sweet makers, gift shops and student stores: NRI gift orders, UPI checkout, GST invoices. Live in 4–8 weeks.`,
     keywords: [
       "ecommerce website development in Anand", "ecommerce website Anand", "online store Anand Gujarat", "ecommerce developer Anand",
       "ecommerce website near me Anand", "online store cost Anand", "ecommerce website price Anand", "Anand Gujarat online shop website",
