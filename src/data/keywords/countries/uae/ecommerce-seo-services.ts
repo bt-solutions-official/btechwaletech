@@ -399,6 +399,7 @@ const content: FreelanceContent = {
       { name: "Arabic website design", href: "/uae/arabic-website-design/" },
       { name: "Website maintenance services in Dubai", href: "/uae/website-maintenance-services/" },
       { name: "Payment gateway integration in the UAE", href: "/uae/payment-gateway-integration/" },
+      { name: "Ecommerce website cost in Dubai", href: "/uae/ecommerce-website-cost-dubai/" },
       { name: "All UAE services", href: "/uae/" },
       { name: "Hire Indian developers", href: "/hire-indian-developers/" },
       { name: "See starting prices", href: "/pricing/" },

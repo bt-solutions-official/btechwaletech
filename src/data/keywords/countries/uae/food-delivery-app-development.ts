@@ -483,6 +483,7 @@ const content: FreelanceContent = {
       { name: "Payment gateway integration in the UAE", href: "/uae/payment-gateway-integration/" },
       { name: "WhatsApp chatbot development", href: "/uae/whatsapp-chatbot-development/" },
       { name: "Car rental app development", href: "/uae/car-rental-app-development/" },
+      { name: "Talabat and Deliveroo integration", href: "/uae/talabat-deliveroo-integration/" },
       { name: "Web and app services for the UAE", href: "/uae/" },
       { name: "Hire Indian developers remotely", href: "/hire-indian-developers/" },
       { name: "Pricing", href: "/pricing/" },

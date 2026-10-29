@@ -435,6 +435,7 @@ const content: FreelanceContent = {
       { name: "Arabic website design", href: "/uae/arabic-website-design/" },
       { name: "E-invoicing integration in the UAE", href: "/uae/e-invoicing-integration/" },
       { name: "Holiday homes website in Dubai", href: "/uae/holiday-homes-website/" },
+      { name: "Talabat and Deliveroo integration", href: "/uae/talabat-deliveroo-integration/" },
       { name: "Web and app services for the UAE", href: "/uae/" },
       { name: "Pricing", href: "/pricing/" },
       { name: "Contact BtechWaleTech", href: "/contact/" },

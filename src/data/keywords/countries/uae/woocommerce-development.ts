@@ -429,6 +429,7 @@ const content: FreelanceContent = {
       { name: "Perfume ecommerce website", href: "/uae/perfume-ecommerce-website/" },
       { name: "ERP software development in Dubai", href: "/uae/erp-software-development/" },
       { name: "Website maintenance services in Dubai", href: "/uae/website-maintenance-services/" },
+      { name: "WordPress website design in Dubai", href: "/uae/wordpress-website-design-dubai/" },
       { name: "All UAE services", href: "/uae/" },
       { name: "Outsource web development to India", href: "/outsource-web-development-to-india/" },
       { name: "Starting prices", href: "/pricing/" },

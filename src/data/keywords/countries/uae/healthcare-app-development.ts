@@ -441,6 +441,7 @@ const content: FreelanceContent = {
       { name: "Arabic website design", href: "/uae/arabic-website-design/" },
       { name: "Salon booking app development", href: "/uae/salon-booking-app-development/" },
       { name: "Food delivery app development in Dubai", href: "/uae/food-delivery-app-development/" },
+      { name: "UAE PASS integration", href: "/uae/uae-pass-integration/" },
       { name: "Web and app services for the UAE", href: "/uae/" },
       { name: "Outsource web development to India", href: "/outsource-web-development-to-india/" },
       { name: "Contact the team", href: "/contact/" },

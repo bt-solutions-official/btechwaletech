@@ -418,6 +418,7 @@ const content: FreelanceContent = {
       { name: "Website maintenance services in Dubai", href: "/uae/website-maintenance-services/" },
       { name: "Custom software development in Dubai", href: "/uae/custom-software-development/" },
       { name: "Mobile app development company alternative", href: "/uae/app-development-company-alternative/" },
+      { name: "Amazon.ae seller integration", href: "/uae/amazon-ae-seller-integration/" },
       { name: "UAE services overview", href: "/uae/" },
       { name: "Hire Indian developers", href: "/hire-indian-developers/" },
       { name: "Contact the team", href: "/contact/" },

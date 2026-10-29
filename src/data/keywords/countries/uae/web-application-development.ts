@@ -469,6 +469,7 @@ const content: FreelanceContent = {
       { name: "AI agent development in Dubai", href: "/uae/ai-agent-development/" },
       { name: "Mobile app development in Dubai", href: "/uae/app-development-company-alternative/" },
       { name: "Website maintenance services in Dubai", href: "/uae/website-maintenance-services/" },
+      { name: "Money exchange website development", href: "/uae/money-exchange-website-uae/" },
       { name: "All UAE services", href: "/uae/" },
       { name: "Offshore web development team", href: "/offshore-web-development-team/" },
       { name: "Contact us", href: "/contact/" },

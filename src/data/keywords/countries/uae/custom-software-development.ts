@@ -426,6 +426,8 @@ const content: FreelanceContent = {
       { name: "Mobile app development in Dubai", href: "/uae/app-development-company-alternative/" },
       { name: "Clinic management software", href: "/uae/clinic-management-software/" },
       { name: "Ecommerce website development in Dubai", href: "/uae/ecommerce-website-development/" },
+      { name: "Money exchange website development", href: "/uae/money-exchange-website-uae/" },
+      { name: "UAE PASS integration", href: "/uae/uae-pass-integration/" },
       { name: "All UAE services", href: "/uae/" },
       { name: "Offshore web development team", href: "/offshore-web-development-team/" },
       { name: "Starting prices", href: "/pricing/" },

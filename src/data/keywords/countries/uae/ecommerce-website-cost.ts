@@ -423,6 +423,7 @@ const content: FreelanceContent = {
       { name: "Payment gateway integration in the UAE", href: "/uae/payment-gateway-integration/" },
       { name: "Ecommerce SEO services in Dubai", href: "/uae/ecommerce-seo-services/" },
       { name: "Perfume ecommerce website", href: "/uae/perfume-ecommerce-website/" },
+      { name: "Ecommerce website cost in Dubai", href: "/uae/ecommerce-website-cost-dubai/" },
       { name: "All UAE services", href: "/uae/" },
       { name: "Pricing overview", href: "/pricing/" },
       { name: "Contact the team", href: "/contact/" },

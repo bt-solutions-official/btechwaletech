@@ -421,6 +421,7 @@ const content: FreelanceContent = {
       { name: "Mobile app development cost in Dubai", href: "/uae/mobile-app-development-cost/" },
       { name: "Web development for Abu Dhabi businesses", href: "/uae/web-developer-for-abu-dhabi-businesses/" },
       { name: "Website design in Sharjah", href: "/uae/web-developer-for-sharjah-businesses/" },
+      { name: "WordPress website design in Dubai", href: "/uae/wordpress-website-design-dubai/" },
       { name: "All UAE services", href: "/uae/" },
       { name: "White-label web development", href: "/white-label-web-development/" },
       { name: "Contact the team", href: "/contact/" },

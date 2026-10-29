@@ -435,6 +435,7 @@ const content: FreelanceContent = {
       { name: "MVP development in Dubai", href: "/uae/mvp-development/" },
       { name: "Holiday homes website in Dubai", href: "/uae/holiday-homes-website/" },
       { name: "Arabic website design", href: "/uae/arabic-website-design/" },
+      { name: "Dubizzle and Bayut property feeds", href: "/uae/dubizzle-property-feed-integration/" },
       { name: "All UAE services", href: "/uae/" },
       { name: "Offshore web development team", href: "/offshore-web-development-team/" },
       { name: "Starting prices", href: "/pricing/" },

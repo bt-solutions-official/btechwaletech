@@ -439,6 +439,7 @@ const content: FreelanceContent = {
       { name: "Website redesign services in Dubai", href: "/uae/website-redesign-services/" },
       { name: "Holiday homes website in Dubai", href: "/uae/holiday-homes-website/" },
       { name: "Website development cost in Dubai", href: "/uae/website-development-cost/" },
+      { name: "Dubizzle and Bayut property feeds", href: "/uae/dubizzle-property-feed-integration/" },
       { name: "All UAE services", href: "/uae/" },
       { name: "White-label web development", href: "/white-label-web-development/" },
       { name: "Contact us", href: "/contact/" },

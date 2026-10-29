@@ -431,6 +431,7 @@ const content: FreelanceContent = {
       { name: "Choosing an SEO company in Dubai", href: "/uae/seo-company-alternative/" },
       { name: "Local SEO in the UAE", href: "/uae/local-seo-services/" },
       { name: "Web development for Abu Dhabi businesses", href: "/uae/web-developer-for-abu-dhabi-businesses/" },
+      { name: "Dubizzle and Bayut property feeds", href: "/uae/dubizzle-property-feed-integration/" },
       { name: "All UAE services", href: "/uae/" },
       { name: "Hire Indian developers", href: "/hire-indian-developers/" },
       { name: "Starting prices", href: "/pricing/" },
