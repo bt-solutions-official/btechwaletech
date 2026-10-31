@@ -1,0 +1,10 @@
+# Cloudflare Pages serves every asset with "public, max-age=14400, must-revalidate" by
+# default, so the two shared stylesheets (_astro/_city_.*.css is the global chunk, loaded
+# on all 2,720 pages) were revalidated on every visit more than four hours apart. Their
+# filenames carry a content hash, so a changed file is always a new URL and the old one can
+# never go stale: immutable is the correct answer and it removes one blocking round-trip
+# from the critical path on repeat and cross-page views.
+# Only /_astro/* is hashed. HTML keeps the default must-revalidate so a deploy is picked up
+# immediately.
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable

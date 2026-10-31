@@ -22,6 +22,11 @@ const ogImageUrl = new URL(ogImage, siteBrand.domain).toString();
 const robots = meta.robots?.startsWith("noindex")
   ? meta.robots
   : `${meta.robots}, max-image-preview:large, max-snippet:-1, max-video-preview:-1`;
+
+// No <meta name="keywords"> is emitted. Google has ignored it since 2009 and Bing treats a
+// stuffed list as a spam signal, so the 700-1,500 characters it added to each of 2,720
+// pages (~2.4MB of markup per full crawl) bought nothing. The `keywords` arrays stay in the
+// page data as authoring notes for whoever writes the next page; they just are not shipped.
 ---
 
 <title>{title}</title>
@@ -30,9 +35,6 @@ const robots = meta.robots?.startsWith("noindex")
 <meta name="googlebot" content={robots} />
 <meta name="google-site-verification" content="ciu5Cf7pmyMCp6i8G-E13RT6lxiF68UtlNnPJBIi_zU" />
 <meta name="google-adsense-account" content="ca-pub-4227329033349842" />
-{meta.keywords && meta.keywords.length > 0 && (
-  <meta name="keywords" content={meta.keywords.join(", ")} />
-)}
 <link rel="canonical" href={canonical} />
 <link rel="sitemap" type="application/xml" href="/sitemap-index.xml" />
 <link rel="icon" href="/favicon.ico" sizes="48x48" />
