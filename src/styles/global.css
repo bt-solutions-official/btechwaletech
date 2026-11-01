@@ -14,8 +14,13 @@
     --color-border: rgba(15, 23, 42, 0.12);
     --color-border-hover: rgba(212, 175, 55, 0.5);
     
-    --font-serif: 'Hanken Grotesk', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    --font-sans: 'Hanken Grotesk', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-serif: 'Archivo', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-sans: 'Archivo', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  /* Smooth scrolling is motion: honour the OS setting instead of forcing it. */
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
   }
 
   html {
@@ -177,4 +182,39 @@
   height: 1px;
   background: var(--color-border);
   margin: 0;
+}
+
+/* =========================================================================
+   BW brand system — bold editorial / hard-shadow UI.
+   Used by the header, footer, floating contact rail and the homepage.
+   Added as tokens only, so pages still on the older palette are untouched.
+   ========================================================================= */
+:root {
+  --bw-paper:      #FFFCF5;
+  --bw-paper-2:    #FFF8EA;
+  --bw-card:       #FFFFFF;
+  --bw-ink:        #121316;
+  --bw-ink-soft:   #45484E;
+  --bw-ink-mute:   #6A6D74;
+  --bw-amber:      #F9B233;
+  --bw-amber-deep: #E09A12;
+  --bw-butter:     #FDF1D1;
+  --bw-sky:        #DFE8FC;
+  --bw-blush:      #FBDEE7;
+  --bw-mint:       #D8EFE2;
+  --bw-teal:       #0E5C52;
+  --bw-green:      #25D366;
+  --bw-navy:       #16255A;
+
+  --bw-r-sm: 10px;
+  --bw-r:    14px;
+  --bw-r-lg: 20px;
+
+  --bw-bd:    2px solid var(--bw-ink);
+  --bw-sh-sm: 3px 3px 0 var(--bw-ink);
+  --bw-sh:    5px 5px 0 var(--bw-ink);
+  --bw-sh-lg: 8px 8px 0 var(--bw-ink);
+
+  --bw-ease: cubic-bezier(0.16, 1, 0.3, 1);
+  --font-display: 'Archivo', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }

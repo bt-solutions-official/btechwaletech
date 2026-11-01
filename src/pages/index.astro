@@ -6,13 +6,18 @@ import { faqSchema } from "@lib/schema/schema";
 import { siteContact } from "@data/site/site-config";
 import { pricingPlans, usdPrice } from "@data/pricing/plans";
 import { Image } from "astro:assets";
-import heroImage from "../assets/images/heromain.png";
 import cricketTakenImg from "../assets/images/crickettaken.png";
 import baithakImg from "../assets/images/baithak-webinar.png";
 import intimeImg from "../assets/images/intime-attendance.png";
 import anupToursImg from "../assets/images/anup-tours-travels.png";
+import nfiImg from "../assets/images/nfi-india.png";
+import tymImg from "../assets/images/the-youth-matters.png";
+import logoMark from "../assets/images/mainlogo.png";
 import cities from "@data/cities/cities.json";
 import type { CityListing } from "@data/cities/types";
+
+// Feeds the sitemap <lastmod> for "/" (read by astro.config.mjs).
+const updated = "2026-11-01";
 
 const faqs = [
   {
@@ -292,11 +297,260 @@ const comparison = [
   },
 ];
 
+/* ---------------------------------------------------------------------------
+   SHIPPED CLIENT SITES — the two live builds that headline the portfolio.
+--------------------------------------------------------------------------- */
+const shipped = [
+  {
+    name: "Nazim Foundation of India",
+    domain: "www.nfiindia.in",
+    href: "https://www.nfiindia.in/",
+    sector: "Non-profit & charity · Uttar Pradesh",
+    kind: "Donation platform & website",
+    img: nfiImg,
+    alt: "Nazim Foundation of India homepage with donation funds, programmes and a live Razorpay donation flow",
+    summary:
+      "A full donation and programme platform for a registered charitable trust in Basti, Uttar Pradesh. Visitors give through four separate funds, students enrol in free computer courses, and anyone can verify a certificate or a membership by number.",
+    scope: [
+      ["Live donation engine", "Four funds — general, zakat, sadaqah and lillah — settled through Razorpay on UPI, cards, net banking and wallets, with a printable acknowledgement for every gift."],
+      ["Education module", "A course catalogue across computer and IT, languages, career, teaching and business tracks, with student registration and public certificate verification."],
+      ["Programme & transparency pages", "Projects split into ongoing, upcoming and completed, plus a gallery, news updates, annual reports and published policies."],
+      ["Six-language interface", "English, Hindi, Arabic, Urdu, Persian and French, including right-to-left reading for Arabic and Urdu."],
+    ],
+  },
+  {
+    name: "CricketTaken",
+    domain: "crickettaken.in",
+    href: "https://crickettaken.in/",
+    sector: "Sports media & records · Global",
+    kind: "Web platform & records database",
+    img: cricketTakenImg,
+    alt: "CricketTaken — cricket records, scorecards and match history platform",
+    summary:
+      "A static-first sports database built from the ground up for speed. It powers deep tournament records across the IPL, ICC World Cup, SA20, BBL and The Ashes, head-to-head match histories, player career breakdowns and real-time fan polls.",
+    scope: [
+      ["Record archives", "Historical scorecards, tournament records and player statistics across 15+ international leagues, served as pre-rendered pages."],
+      ["Programmatic search architecture", "1,000+ SEO routes built for player queries and match archives, with Schema.org rich results and sub-second navigation."],
+      ["Interactive fan tools", "Real-time voting widgets with anti-spam verification, plus a Playing XI builder with balance analysis and match simulations."],
+      ["Astro, TypeScript & edge hosting", "Island architecture and a Tailwind dark-theme design system, deployed to the edge with automated cache invalidation."],
+    ],
+  },
+  {
+    name: "The Youth Matters",
+    domain: "theyouthmatters.com",
+    href: "https://theyouthmatters.com/",
+    sector: "Education & student services · Global",
+    kind: "Community platform & mentor marketplace",
+    img: tymImg,
+    alt: "The Youth Matters homepage with the study abroad community hero, a question and answer card and the Ask TYM AI bar",
+    summary:
+      "A study-abroad community for 18 to 32 year olds, where verified students, alumni and consultants answer the questions that decide a move: visas, funding, applications, housing and life abroad.",
+    scope: [
+      ["Country communities", "Separate question feeds for the UK, USA, Canada, Australia, Ireland, Germany, France and the UAE, each with answer counts and member listings."],
+      ["Ask TYM AI", "An in-page assistant that answers visa, money and housing questions before a member ever posts a question."],
+      ["Mentor marketplace", "Verified student, alumni and consultant profiles with paid one-to-one bookings, plus a study-abroad loan consultation flow."],
+      ["Accounts & moderation", "Registration, login, search, verification that every member is 18 or over, and published guidelines, payment terms and privacy pages."],
+    ],
+  },
+];
+
+/* ---------------------------------------------------------------------------
+   PROOF OF WORK — slider. Same content as before, driven from data.
+--------------------------------------------------------------------------- */
+const projects = [
+  {
+    name: "Baithak — Live Webinar Registration Page",
+    status: "Recent client project",
+    category: "Landing Page · Webinar Registration",
+    href: "https://webinar-henna-pi.vercel.app/",
+    domain: "https://webinar-henna-pi.vercel.app",
+    cta: "View the live page",
+    openLabel: "Open Live Project",
+    img: baithakImg,
+    alt: "Baithak — live webinar registration page with countdown, seat booking and WhatsApp confirmation",
+    desc: "Built for a course creator's live webinar: a Hindi and English registration page that sells seats, counts down to the session and hands every buyer over to WhatsApp for confirmation and reminders.",
+    tabs: [
+      {
+        id: "overview",
+        label: "Overview",
+        items: [
+          ["Conversion-first single page:", "Live countdown to the session, a seats-left banner, a register button that stays in reach and two ticket tiers."],
+          ["Bilingual copy:", "Hindi and English headlines, schedule and FAQs written for teachers, coaches and small creators."],
+          ["Everything a buyer checks:", "What you will learn, how it works, the session schedule, the host, reviews and answers to common doubts."],
+        ],
+      },
+      {
+        id: "features",
+        label: "Key Features",
+        items: [
+          ["UPI and card checkout:", "Seat and seat-plus-kit tiers paid by UPI, cards or net banking."],
+          ["WhatsApp confirmations:", "Payment and seat confirmation on WhatsApp, with the join link sent before the session starts."],
+          ["Pricing comparison:", "Side-by-side tiers so buyers see what the upgrade adds before they pay."],
+        ],
+      },
+      {
+        id: "stack",
+        label: "Technical Stack",
+        items: [
+          ["Next.js & React:", "Component-built landing page with a live countdown and interactive sections."],
+          ["Mobile-first layout:", "Designed for buyers who arrive from WhatsApp links on their phones."],
+          ["Vercel hosting:", "Deployed on Vercel's global edge network for fast loads across India."],
+        ],
+      },
+    ],
+    metrics: [
+      ["2", "Ticket Tiers"],
+      ["Hi + En", "Bilingual Copy"],
+      ["100%", "Responsive"],
+    ],
+  },
+  {
+    name: "InTime — Face and Location Attendance App",
+    status: "Ongoing project",
+    category: "Mobile & Web App · Attendance",
+    href: "https://attendence-app-pied.vercel.app/",
+    domain: "https://attendence-app-pied.vercel.app",
+    cta: "View the demo",
+    openLabel: "Open Demo",
+    img: intimeImg,
+    alt: "InTime attendance app sign-in screen with live clock and face punch-in",
+    desc: "An attendance app in progress for teams on site and in the field: employees punch in with their face, each punch is verified by where they are standing, and admins manage the team's attendance from their own view.",
+    tabs: [
+      {
+        id: "overview",
+        label: "Overview",
+        items: [
+          ["Face punch-in:", "Employees mark attendance with their face instead of a paper register or a shared card."],
+          ["Location-verified:", "Every punch is checked against where the employee is standing, which makes proxy attendance harder."],
+          ["Built for phones:", "A clean, single-column interface with a live clock, designed for quick punches at the start of a shift."],
+        ],
+      },
+      {
+        id: "features",
+        label: "Key Features",
+        items: [
+          ["Employee and admin roles:", "Separate sign-in for staff and for the admins who manage attendance."],
+          ["Punch in and out:", "Start and end of shift recorded with the time, the face check and the location."],
+          ["Team overview:", "Admins see who has punched in, from where and when."],
+        ],
+      },
+      {
+        id: "stack",
+        label: "Technical Stack",
+        items: [
+          ["Expo & React Native:", "One codebase for Android, iOS and the web."],
+          ["Camera and location APIs:", "Device camera for the face check and GPS for location verification."],
+          ["Vercel web build:", "A live web preview the client can review on any device while the mobile apps are built."],
+        ],
+      },
+    ],
+    metrics: [
+      ["Face + GPS", "Punch Verification"],
+      ["2", "User Roles"],
+      ["1", "Codebase, 3 Platforms"],
+    ],
+  },
+  {
+    name: "Anup Tours & Travels — Tour Packages and Cabs Across Uttar Pradesh",
+    status: "Ongoing project",
+    category: "Travel Website · Uttar Pradesh",
+    href: "https://tours-and-travels-blush-phi.vercel.app/",
+    domain: "https://tours-and-travels-blush-phi.vercel.app",
+    cta: "View the preview",
+    openLabel: "Open Preview",
+    img: anupToursImg,
+    alt: "Anup Tours and Travels homepage with the ghats of Varanasi and tour packages across Uttar Pradesh",
+    desc: "A travel website in progress for a Varanasi tour operator: tour packages, temple darshan trips and outstation cabs across all 75 districts of Uttar Pradesh, with every enquiry going straight to a call or WhatsApp.",
+    tabs: [
+      {
+        id: "overview",
+        label: "Overview",
+        items: [
+          ["Package-led homepage:", "Featured trips such as Kashi Darshan, with duration, starting price and a clear “Plan my trip” action."],
+          ["All of Uttar Pradesh:", "Destinations, tour packages and cab routes organised for every district, starting from Varanasi."],
+          ["Hindi and English:", "Devanagari headings alongside English copy for pilgrims and families."],
+        ],
+      },
+      {
+        id: "features",
+        label: "Key Features",
+        items: [
+          ["Trip planning enquiries:", "Visitors share their dates and group, and the operator replies with a plan and a quote."],
+          ["Outstation cabs:", "A dedicated section for cab bookings across the state."],
+          ["Call and WhatsApp everywhere:", "Contact buttons in the header and on every package."],
+        ],
+      },
+      {
+        id: "stack",
+        label: "Technical Stack",
+        items: [
+          ["Next.js & React:", "Fast, search-friendly pages for destinations and packages."],
+          ["Image-led design:", "Full-width photography of the ghats with optimised loading on mobile data."],
+          ["Vercel hosting:", "A live preview the client reviews at each stage before launch."],
+        ],
+      },
+    ],
+    metrics: [
+      ["75", "UP Districts Covered"],
+      ["Hi + En", "Bilingual Design"],
+      ["100%", "Responsive"],
+    ],
+  },
+];
+
+/* ---------------------------------------------------------------------------
+   CLIENT REVIEWS — verbatim from our Google Business Profile.
+   Deliberately no Review/AggregateRating schema: reviews a business publishes
+   about itself are "self-serving" under Google's review-snippet policy and are
+   ineligible for rich results, so marking them up buys nothing and risks a flag.
+--------------------------------------------------------------------------- */
+const reviews = [
+  {
+    name: "Nazim Foundation of India",
+    initials: "NF",
+    meta: "Non-profit · Uttar Pradesh",
+    when: "6 days ago",
+    headline: "Excellent service & professional work",
+    body: "I am very satisfied with the website development. The work was excellent, communication was very good, and the support provided was outstanding. They understood my requirements and delivered everything professionally. Very polite, helpful, and cooperative throughout the process. Highly recommended for anyone looking for quality website development and reliable support. Thank you for your excellent work!",
+  },
+  {
+    name: "Sumayya Samreen",
+    initials: "SS",
+    meta: "The Youth Matters",
+    when: "Recent",
+    headline: "Our entire platform delivered in one week",
+    body: "Working with BtechWaleTech was great. They built our website: theyouthmatters.com. We needed our site built fast and on a budget, they are very affordable, and these guys delivered our entire platform in just one week. Whenever we needed tweaks or changes made, Santosh and Ankur turned them around in literally a day. We had a bunch of meetings to hash out details, and they were always super patient and friendly through every single call. Even now that the project is handed over, they are still right there helping us fix any bugs that pop up.",
+  },
+  {
+    name: "Cricket Taken",
+    initials: "CT",
+    meta: "Sports platform",
+    when: "5 weeks ago",
+    headline: "Built at a very affordable cost",
+    body: "They built my CricketTaken website at a very affordable cost. I wanted to create the website for AdSense, and they understood my requirements and delivered it well. Really happy with their work and support.",
+  },
+  {
+    name: "Raj",
+    initials: "R",
+    meta: "Website & deployment",
+    when: "5 weeks ago",
+    headline: "Deployment sorted, start to finish",
+    body: "I got a website developed and also needed help with deployment. They helped me resolve the deployment issues and made the whole process smooth. Good experience and helpful support.",
+  },
+];
+
 // Every city with a live /{city}/ page, biggest first. Grows automatically as content files are added.
 const builtCitySlugs = new Set(
   Object.keys(import.meta.glob("../data/cities/content/*.ts")).map((p) => p.split("/").pop()!.replace(/\.ts$/, "")),
 );
 const locations = (cities as CityListing[]).filter((c) => builtCitySlugs.has(c.slug));
+
+// 20 city links per slide: every link stays in the HTML for crawlers, but the block
+// occupies one panel's worth of space instead of a 700-chip wall.
+const CITIES_PER_SLIDE = 20;
+const citySlides = Array.from({ length: Math.ceil(locations.length / CITIES_PER_SLIDE) }, (_, i) =>
+  locations.slice(i * CITIES_PER_SLIDE, (i + 1) * CITIES_PER_SLIDE),
+);
 
 const priceTable = pricingPlans.map((p) => {
   const per = p.unit ? "/mo" : "";
@@ -347,49 +601,123 @@ const professionalServiceSchema = {
     })),
   },
 };
+
+// Portfolio as a crawlable ItemList: shipped client sites first, then the featured builds.
+const portfolioSchema = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: "BtechWaleTech portfolio — shipped client websites and featured projects",
+  itemListOrder: "https://schema.org/ItemListOrderDescending",
+  numberOfItems: shipped.length + projects.length,
+  itemListElement: [
+    ...shipped.map((item) => ({ name: item.name, url: item.href, description: item.summary })),
+    ...projects.map((p) => ({ name: p.name, url: p.href, description: p.desc })),
+  ].map((item, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    item: {
+      "@type": "CreativeWork",
+      name: item.name,
+      url: item.url,
+      description: item.description,
+      creator: { "@type": "Organization", name: "BtechWaleTech", url: "https://btechwaletech.in/" },
+    },
+  })),
+};
 ---
 
-<BaseLayout meta={page} schema={[professionalServiceSchema, faqSchema(faqs)]}>
+<BaseLayout meta={page} schema={[professionalServiceSchema, portfolioSchema, faqSchema(faqs)]}>
 
-  <!-- The Material Symbols icon font is only used by the plan cards on this page, so only this page loads it. -->
-  <link slot="head" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&display=swap" rel="stylesheet" />
+  <!-- Icon sprite: one inline set, no icon webfont. -->
+  <svg class="sprite" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="i-lock" viewBox="0 0 24 24"><path d="M6 10V8a6 6 0 1 1 12 0v2h1a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h1Zm2 0h8V8a4 4 0 0 0-8 0v2Z"/></symbol>
+    <symbol id="i-external" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6M20 4 10 14M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m4 12.5 5 5L20 6.5"/></symbol>
+    <symbol id="i-left" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5 8 12l7 7"/></symbol>
+    <symbol id="i-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m9 5 7 7-7 7"/></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></symbol>
+  </svg>
 
   <!-- ===================== HERO ===================== -->
   <section class="hero" aria-labelledby="home-heading">
-    <div class="hero-inner">
+    <div class="shell hero-grid">
       <div class="hero-copy">
-        <p class="eyebrow">Web development team · Worldwide</p>
+        <p class="tag"><span class="tag-dot" aria-hidden="true"></span>Web development team &middot; Worldwide</p>
+
         <h1 id="home-heading">
-          Website development &amp; <span class="h1-accent">IT services</span> for businesses worldwide
+          Website development &amp; IT services for businesses worldwide
         </h1>
+
         <p class="lede">{page.intro}</p>
-        <div class="hero-actions">
-          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
-            <span>WhatsApp Us</span>
-            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+
+        <div class="btn-row">
+          <a class="btn btn-amber" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp us</span><span class="arr" aria-hidden="true">&rarr;</span>
           </a>
-          <a class="btn-ghost" href="#proof-of-work">See our work</a>
+          <a class="btn btn-white" href="#proof-of-work">See our work</a>
         </div>
 
-        <p class="hero-origin">
-          <span class="origin-dot" aria-hidden="true"></span>
-          Built in India &middot; Delivering to clients worldwide
-        </p>
+        <div class="team">
+          <span class="team-faces" aria-hidden="true">
+            <span>AK</span><span>SS</span><span>VS</span>
+          </span>
+          <p>
+            <strong>Three engineers, start to finish</strong>
+            You talk to the people building it, never an account manager.
+          </p>
+        </div>
+
+        <ul class="hero-trust">
+          <li><svg class="ico" aria-hidden="true"><use href="#i-check" /></svg>From ₹10,000 (US$150)</li>
+          <li><svg class="ico" aria-hidden="true"><use href="#i-check" /></svg>2 months upkeep free</li>
+          <li><svg class="ico" aria-hidden="true"><use href="#i-check" /></svg>100% code ownership</li>
+        </ul>
+
+        <p class="hero-origin">Built in India &middot; Delivering to clients worldwide</p>
       </div>
 
-      <!-- Hero Image -->
-      <div class="hero-image-panel">
-        <div class="hero-img-wrap">
-          <Image
-            src={heroImage}
-            alt="BtechWaleTech workspace — laptop showing digital solutions, branded coffee mug, notebooks and office setup"
-            loading="eager"
-            class="hero-img"
-            widths={[640, 960, 1440]}
-            sizes="(max-width: 768px) 100vw, 55vw"
-          />
+      <!-- Built in markup, not an image file: nothing to download, and it moves. -->
+      <div class="hero-art" aria-hidden="true">
+        <span class="chip chip-a">Lighthouse 100</span>
+        <span class="chip chip-b">Live in 2 weeks</span>
+        <span class="chip chip-c">SEO ready day one</span>
+
+        <div class="logo3d">
+          <Image src={logoMark} alt="" height={84} densities={[1, 2]} loading="eager" />
+        </div>
+
+        <div class="browser">
+          <div class="b-bar">
+            <i></i><i></i><i></i>
+            <span class="b-url"><svg class="ico" aria-hidden="true"><use href="#i-lock" /></svg>btechwaletech.in</span>
+          </div>
+          <div class="b-body">
+            <div class="b-nav"><span></span><span></span><span></span><span class="b-nav-cta"></span></div>
+            <div class="b-hero">
+              <span class="b-line l1"></span>
+              <span class="b-line l2"></span>
+              <span class="b-line l3"></span>
+              <span class="b-btn"></span>
+            </div>
+            <div class="b-cards"><span></span><span></span><span></span></div>
+          </div>
+        </div>
+
+        <div class="wa-note">
+          <span class="wa-note-head"><span class="wa-dot"></span>New enquiry</span>
+          <p>“Need a 300-page SEO website — what would it cost?”</p>
+          <span class="wa-note-foot">Replied in 9 minutes</span>
         </div>
       </div>
+    </div>
+
+    <!-- Numbers sit in the hero so the page reaches real content sooner. -->
+    <div class="shell">
+      <ul class="stat-row">
+        {stats.map((s) => (
+          <li class="reveal"><strong data-count={s.value} data-suffix={s.suffix}>0{s.suffix}</strong><span>{s.label}</span></li>
+        ))}
+      </ul>
     </div>
   </section>
 
@@ -398,81 +726,251 @@ const professionalServiceSchema = {
     <div class="marquee-track">
       {[0, 1].map(() => (
         <div class="marquee-set">
-          {marquee.map((item) => (
-            <span class="marquee-item">{item}</span>
-          ))}
+          {marquee.map((item) => (<span class="marquee-item">{item}</span>))}
         </div>
       ))}
     </div>
   </div>
 
-  <!-- ===================== STATS ===================== -->
-  <section class="stats-section" aria-label="BtechWaleTech in numbers">
-    <div class="section-wrap">
-      <ul class="stat-band">
-        {stats.map((s) => (
-          <li>
-            <span class="stat-num">{s.value}{s.suffix}</span>
-            <span class="stat-label">{s.label}</span>
-          </li>
-        ))}
-      </ul>
-    </div>
-  </section>
-
   <!-- ===================== SERVICES ===================== -->
-  <section class="services" aria-labelledby="services-heading">
-    <div class="section-wrap">
-      <div class="section-head">
-        <p class="eyebrow">Core services</p>
+  <section class="band band-butter" aria-labelledby="services-heading">
+    <div class="shell">
+      <div class="head reveal">
+        <p class="tag tag-plain">Core services</p>
         <h2 id="services-heading">Practical IT services for businesses that need work done properly</h2>
-        <p class="section-note">
+        <p class="note">
           We help with the full digital work stack: website planning, design, development, SEO setup, AI automation,
           AI agents, data analysis, ecommerce, deployment, and maintenance.
         </p>
       </div>
+
       <div class="bento">
-        {services.map((s) => {
+        {services.map((s, i) => {
           const inner = (
-            <div class="card-core">
+            <>
+              <span class="card-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span>
               <h3>{s.name}</h3>
               <p>{s.summary}</p>
-              <ul class="service-points">
+              <ul class="ticks">
                 {s.points.map((point) => (
-                  <li>{point}</li>
+                  <li><svg class="ico" aria-hidden="true"><use href="#i-check" /></svg>{point}</li>
                 ))}
               </ul>
-              {s.href && <span class="card-link">Learn more <span aria-hidden="true">&rsaquo;</span></span>}
-            </div>
+            </>
           );
-          return s.href ? (
-            <a class={`card card-${s.size}`} href={s.href}>
-              {inner}
-            </a>
-          ) : (
-            <div class={`card card-${s.size}`}>
-              {inner}
-            </div>
-          );
+          return s.href
+            ? <a class={`card card-${s.size} reveal`} href={s.href}>{inner}</a>
+            : <div class={`card card-${s.size} reveal`}>{inner}</div>;
         })}
       </div>
     </div>
   </section>
 
-  <!-- ===================== PRICING TABLE ===================== -->
-  <section class="pricing-band" aria-labelledby="pricing-heading">
-    <div class="section-wrap">
-      <div class="section-head">
-        <p class="eyebrow eyebrow-light">Transparent pricing</p>
+  <!-- ===================== SHIPPED CLIENT SITES ===================== -->
+  <section class="band" id="shipped" aria-labelledby="shipped-heading">
+    <div class="shell">
+      <div class="head reveal">
+        <p class="tag tag-plain">Shipped projects</p>
+        <h2 id="shipped-heading">Live client websites we <span class="mark">designed, built and shipped</span></h2>
+        <p class="note">
+          Three platforms running in production: a registered charitable trust in Uttar Pradesh taking donations
+          through four separate funds, a study-abroad community where verified students and mentors answer the
+          questions that decide a move abroad, and a cricket records database built for speed and organic search.
+          All three were planned, designed, built, deployed and handed over by the same three engineers.
+        </p>
+      </div>
+
+      <div class="ship-grid">
+        {shipped.map((s) => (
+          <article class="ship reveal">
+            <a class="shot" href={s.href} target="_blank" rel="noopener noreferrer">
+              <span class="b-bar">
+                <i></i><i></i><i></i>
+                <span class="b-url"><svg class="ico" aria-hidden="true"><use href="#i-lock" /></svg>{s.domain}</span>
+                <svg class="ico shot-go" aria-hidden="true"><use href="#i-external" /></svg>
+              </span>
+              <span class="shot-view">
+                <Image src={s.img} alt={s.alt} loading="lazy" class="shot-img" widths={[420, 640, 900]} sizes="(max-width: 700px) 92vw, (max-width: 1100px) 46vw, 31vw" />
+                <span class="shot-hover"><span class="shot-pill">Open the live site &rarr;</span></span>
+              </span>
+            </a>
+
+            <div class="ship-body">
+              <p class="flags">
+                <span class="flag flag-live"><span class="pulse" aria-hidden="true"></span>Shipped &amp; live</span>
+                <span class="flag">{s.kind}</span>
+              </p>
+              <h3>{s.name}</h3>
+              <p class="ship-sector">{s.sector}</p>
+              <p class="ship-sum">{s.summary}</p>
+
+              <dl class="scope">
+                {s.scope.map(([label, detail]) => (
+                  <div>
+                    <dt><svg class="ico" aria-hidden="true"><use href="#i-check" /></svg>{label}</dt>
+                    <dd>{detail}</dd>
+                  </div>
+                ))}
+              </dl>
+
+              <div class="btn-row btn-row-sm">
+                <a class="btn btn-amber" href={s.href} target="_blank" rel="noopener noreferrer">
+                  <span>Visit {s.domain}</span><span class="arr" aria-hidden="true">&rarr;</span>
+                </a>
+                <a class="btn btn-white" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+                  <span>Build something like this</span>
+                </a>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROOF OF WORK (SLIDER) ===================== -->
+  <section class="band band-sky" id="proof-of-work" aria-labelledby="works-heading">
+    <div class="shell">
+      <div class="head reveal">
+        <p class="tag tag-plain">Our works / Proof of work</p>
+        <h2 id="works-heading">Featured projects: live and in progress</h2>
+        <p class="note">
+          A recent client build &mdash; a bilingual webinar registration page that sells seats and confirms them on WhatsApp &mdash; and two builds in progress: a face and location attendance app for teams on site and in the field, and a tours and travels website covering all 75 districts of Uttar Pradesh.
+        </p>
+      </div>
+
+      <div class="slider" data-slider="proof">
+        <div class="rail" data-rail tabindex="0" role="group" aria-roledescription="carousel" aria-label="Featured projects">
+          {projects.map((p, i) => (
+            <article class="slide" data-slide aria-roledescription="slide" aria-label={`${i + 1} of ${projects.length}: ${p.name}`}>
+              <div class="work">
+                <div class="work-copy">
+                  <p class="flags">
+                    <span class="flag flag-live"><span class="pulse" aria-hidden="true"></span>{p.status}</span>
+                    <span class="flag">{p.category}</span>
+                  </p>
+
+                  <h3 class="work-title">{p.name}</h3>
+                  <p class="work-desc">{p.desc}</p>
+
+                  <div class="tabs" role="tablist" aria-label={`${p.name} details`}>
+                    {p.tabs.map((t, ti) => (
+                      <button class={`tab${ti === 0 ? " active" : ""}`} data-work-tab={t.id} role="tab" aria-selected={ti === 0 ? "true" : "false"} type="button">{t.label}</button>
+                    ))}
+                  </div>
+
+                  <div class="panels">
+                    {p.tabs.map((t, ti) => (
+                      <div class={`panel${ti === 0 ? " active" : ""}`} data-work-panel={t.id} role="tabpanel">
+                        <ul class="checklist">
+                          {t.items.map(([label, detail]) => (
+                            <li><svg class="ico" aria-hidden="true"><use href="#i-check" /></svg><span><strong>{label}</strong> {detail}</span></li>
+                          ))}
+                        </ul>
+                      </div>
+                    ))}
+                  </div>
+
+                  <div class="btn-row btn-row-sm">
+                    <a class="btn btn-amber" href={p.href} target="_blank" rel="noopener noreferrer">
+                      <span>{p.cta}</span><span class="arr" aria-hidden="true">&rarr;</span>
+                    </a>
+                    <a class="btn btn-white" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+                      <span>Discuss a similar project</span>
+                    </a>
+                  </div>
+                </div>
+
+                <div class="work-art">
+                  <a class="shot" href={p.href} target="_blank" rel="noopener noreferrer">
+                    <span class="b-bar">
+                      <i></i><i></i><i></i>
+                      <span class="b-url"><svg class="ico" aria-hidden="true"><use href="#i-lock" /></svg>{p.domain}</span>
+                      <svg class="ico shot-go" aria-hidden="true"><use href="#i-external" /></svg>
+                    </span>
+                    <span class="shot-view">
+                      <Image src={p.img} alt={p.alt} loading="lazy" class="shot-img" widths={[460, 700, 980]} sizes="(max-width: 1100px) 92vw, 46vw" />
+                      <span class="shot-hover"><span class="shot-pill">{p.openLabel} &rarr;</span></span>
+                    </span>
+                  </a>
+
+                  <ul class="pill-row">
+                    {p.metrics.map(([val, lbl]) => (<li><strong>{val}</strong> {lbl}</li>))}
+                  </ul>
+                </div>
+              </div>
+            </article>
+          ))}
+        </div>
+
+        <div class="slider-ui">
+          <button class="nav-btn" type="button" data-prev aria-label="Previous project"><svg class="ico" aria-hidden="true"><use href="#i-left" /></svg></button>
+          <ol class="dots" data-dots>
+            {projects.map((p, i) => (<li><button type="button" data-dot={i} aria-label={`Go to project ${i + 1}: ${p.name}`}></button></li>))}
+          </ol>
+          <button class="nav-btn" type="button" data-next aria-label="Next project"><svg class="ico" aria-hidden="true"><use href="#i-right" /></svg></button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CLIENT REVIEWS ===================== -->
+  <section class="band band-mint" id="reviews" aria-labelledby="reviews-heading">
+    <div class="shell">
+      <div class="head reveal">
+        <p class="tag tag-plain">Client reviews</p>
+        <h2 id="reviews-heading">What clients say after <span class="mark">the handover</span></h2>
+        <p class="note">
+          Every review below is a verbatim five-star review left on our Google Business Profile by a client whose
+          project we planned, built, deployed and handed over.
+        </p>
+      </div>
+    </div>
+
+    <!-- Full-bleed ticker: the row keeps moving, and stops the moment you point at it. -->
+    <div class="ticker" data-ticker>
+      <div class="ticker-track">
+        {[0, 1].map((copy) => (
+          <div class="ticker-set" aria-hidden={copy === 1 ? "true" : undefined}>
+            {reviews.map((r) => (
+              <article class="review">
+                <p class="stars" role="img" aria-label="Rated 5 out of 5">
+                  {[0, 1, 2, 3, 4].map(() => (
+                    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1L12 2Z" /></svg>
+                  ))}
+                </p>
+                <h3>{r.headline}</h3>
+                <p class="review-body">{r.body}</p>
+                <footer class="review-who">
+                  <span class="avatar" aria-hidden="true">{r.initials}</span>
+                  <span>
+                    <strong>{r.name}</strong>
+                    <small>{r.meta} &middot; {r.when}</small>
+                  </span>
+                </footer>
+              </article>
+            ))}
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING ===================== -->
+  <section class="band band-ink" aria-labelledby="pricing-heading">
+    <div class="shell">
+      <div class="head reveal">
+        <p class="tag tag-plain tag-light">Transparent pricing</p>
         <h2 id="pricing-heading">Website development cost, timelines &amp; starting prices</h2>
-        <p class="section-note">
+        <p class="note">
           Agency-quality websites and web apps without agency overhead. Prices are quoted in INR for India and USD for international clients,
           so clients in the USA, UK, Canada, Australia, and the UAE can compare at a glance. Every figure is a starting price:
           you get an itemised quote based on your requirements before work starts.
         </p>
       </div>
-      <div class="price-table-wrap">
-        <table class="price-table">
+
+      <div class="tbl-wrap reveal">
+        <table class="tbl price-tbl">
           <caption class="sr-only">Starting prices and timelines for BtechWaleTech services</caption>
           <thead>
             <tr>
@@ -486,617 +984,58 @@ const professionalServiceSchema = {
             {priceTable.map((p) => (
               <tr>
                 <th scope="row">{p.service}</th>
-                <td>{p.includes}</td>
-                <td class="nowrap">{p.timeline}</td>
-                <td class="price-cell"><strong><small>from</small> {p.inr}</strong><span>from {p.usd}</span></td>
+                <td data-label="Included">{p.includes}</td>
+                <td data-label="Timeline" class="nowrap">{p.timeline}</td>
+                <td data-label="Starts from" class="price-cell"><strong>{p.inr}</strong><span>{p.usd}</span></td>
               </tr>
             ))}
           </tbody>
         </table>
       </div>
-      <p class="table-foot">
+
+      <p class="tbl-foot">
         All figures are starting prices. USD applies to clients outside India, and your final quote depends on pages, features, integrations, and content.
         <a href="/pricing/">See full pricing &rarr;</a>
       </p>
-      <p class="cloud-label cloud-label-light">Technologies we build with</p>
+
+      <p class="mini-label">Technologies we build with</p>
       <ul class="tech-list">
         {techStack.map((t) => <li>{t}</li>)}
       </ul>
     </div>
   </section>
 
-  <!-- ===================== OUR WORKS / PROOF OF WORK ===================== -->
-  <section class="proof-of-work" id="proof-of-work" aria-labelledby="works-heading">
-    <div class="section-wrap">
-      <div class="section-head">
-        <p class="eyebrow">Our works / Proof of work</p>
-        <h2 id="works-heading">Featured projects: live and in progress</h2>
-        <p class="section-note">
-          A high-performance cricket records, dynamic scorecards & tournament analytics platform engineered for speed, deep data archiving, and organic sports search capture; a recent client build: a bilingual webinar registration page that sells seats and confirms them on WhatsApp; and two ongoing builds: a face and location attendance app and a tours and travels website for Uttar Pradesh.
-        </p>
-      </div>
-
-      <div class="work-showcase">
-        <!-- Left: Project Information & Interactive Animated Tabs -->
-        <div class="work-details">
-          <div class="work-status-row">
-            <span class="live-pulse-badge">
-              <span class="pulse-dot"></span>
-              Live in production
-            </span>
-            <span class="work-category">Web Platform &middot; Sports Intelligence</span>
-          </div>
-
-          <h3 class="work-title">CricketTaken &mdash; All Cricket Records &amp; Live Match History</h3>
-          <p class="work-desc">
-            Engineered from the ground up as a lightning-fast static-first sports database. Powers deep tournament records (IPL, ICC World Cup, SA20, BBL, The Ashes), head-to-head match histories, player career breakdowns, and interactive real-time fan polls.
-          </p>
-
-          <!-- Interactive Tabs -->
-          <div class="work-tabs" role="tablist" aria-label="Project details">
-            <button class="work-tab active" data-work-tab="overview" role="tab" aria-selected="true" type="button">
-              Overview
-            </button>
-            <button class="work-tab" data-work-tab="features" role="tab" aria-selected="false" type="button">
-              Key Features
-            </button>
-            <button class="work-tab" data-work-tab="stack" role="tab" aria-selected="false" type="button">
-              Technical Stack
-            </button>
-          </div>
-
-          <!-- Tab Panels -->
-          <div class="work-panels">
-            <div class="work-panel active" data-work-panel="overview" role="tabpanel">
-              <ul class="work-checklist">
-                <li>
-                  <strong>Comprehensive Record Archives:</strong> Instant access to historical scorecards, tournament records, and player statistics across 15+ international leagues.
-                </li>
-                <li>
-                  <strong>Sub-second Navigation:</strong> Pre-rendered static pages combined with reactive islands for zero layout shift and instant page transitions.
-                </li>
-                <li>
-                  <strong>High-Intent Search Architecture:</strong> 1,000+ programmatic SEO routes driving organic search capture for player queries and match archives.
-                </li>
-              </ul>
-            </div>
-
-            <div class="work-panel" data-work-panel="features" role="tabpanel">
-              <ul class="work-checklist">
-                <li>
-                  <strong>Interactive Fan Polls:</strong> Real-time voting widgets with instant client-side updates and anti-spam verification.
-                </li>
-                <li>
-                  <strong>Playing XI Builder:</strong> Dynamic team constructor with balance analysis and custom match simulations.
-                </li>
-                <li>
-                  <strong>Live Dark/Light Editorial Theme:</strong> High-contrast sports UI tailored for live match viewing in any environment.
-                </li>
-              </ul>
-            </div>
-
-            <div class="work-panel" data-work-panel="stack" role="tabpanel">
-              <ul class="work-checklist">
-                <li>
-                  <strong>Astro &amp; TypeScript:</strong> Island architecture delivering 100/100 Core Web Vitals score.
-                </li>
-                <li>
-                  <strong>TailwindCSS Design System:</strong> Custom dark-theme sports palette with responsive container queries.
-                </li>
-                <li>
-                  <strong>Optimized Production Hosting:</strong> Edge deployment with automated cache invalidation and Schema.org rich results.
-                </li>
-              </ul>
-            </div>
-          </div>
-
-          <!-- Actions -->
-          <div class="work-actions">
-            <a class="btn-primary" href="https://crickettaken.in/" target="_blank" rel="noopener noreferrer">
-              <span>Visit crickettaken.in</span>
-              <span class="btn-arrow" aria-hidden="true">&rarr;</span>
-            </a>
-            <a class="btn-ghost" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
-              <span>Discuss a similar project</span>
-            </a>
-          </div>
-        </div>
-
-        <!-- Right: Browser Mockup Showcase Cover -->
-        <div class="work-mockup-wrapper">
-          <div class="browser-frame">
-            <!-- Browser Header -->
-            <div class="browser-bar">
-              <div class="browser-dots" aria-hidden="true">
-                <span></span>
-                <span></span>
-                <span></span>
-              </div>
-              <div class="browser-url">
-                <span class="lock-icon material-symbols-outlined" aria-hidden="true">lock</span>
-                https://crickettaken.in
-              </div>
-              <a class="browser-external-link" href="https://crickettaken.in/" target="_blank" rel="noopener noreferrer" title="Open crickettaken.in in new tab">
-                <span class="material-symbols-outlined" aria-hidden="true">open_in_new</span>
-              </a>
-            </div>
-
-            <!-- Browser Content Image -->
-            <a class="browser-viewport" href="https://crickettaken.in/" target="_blank" rel="noopener noreferrer">
-              <Image
-                src={cricketTakenImg}
-                alt="CricketTaken — Cricket records, scorecards and match history platform"
-                loading="lazy"
-                class="work-cover-img"
-                widths={[640, 960, 1280]}
-                sizes="(max-width: 768px) 100vw, 50vw"
-              />
-              <div class="browser-overlay">
-                <span class="overlay-cta">
-                  <span>Open Live Project</span>
-                  <span class="btn-arrow">&rarr;</span>
-                </span>
-              </div>
-            </a>
-          </div>
-
-          <!-- Quick Metrics Bar -->
-          <div class="work-metrics">
-            <div class="metric-item">
-              <span class="metric-val">15+</span>
-              <span class="metric-lbl">Leagues Tracked</span>
-            </div>
-            <div class="metric-item">
-              <span class="metric-val">&lt;400ms</span>
-              <span class="metric-lbl">Page Speed</span>
-            </div>
-            <div class="metric-item">
-              <span class="metric-val">100%</span>
-              <span class="metric-lbl">Responsive</span>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Recent client project: Baithak webinar registration page -->
-      <div class="work-showcase">
-        <div class="work-details">
-          <div class="work-status-row">
-            <span class="live-pulse-badge">
-              <span class="pulse-dot"></span>
-              Recent client project
-            </span>
-            <span class="work-category">Landing Page &middot; Webinar Registration</span>
-          </div>
-
-          <h3 class="work-title">Baithak &mdash; Live Webinar Registration Page</h3>
-          <p class="work-desc">
-            Built for a course creator's live webinar: a Hindi and English registration page that sells seats, counts down to the session and hands every buyer over to WhatsApp for confirmation and reminders.
-          </p>
-
-          <div class="work-tabs" role="tablist" aria-label="Baithak project details">
-            <button class="work-tab active" data-work-tab="overview" role="tab" aria-selected="true" type="button">
-              Overview
-            </button>
-            <button class="work-tab" data-work-tab="features" role="tab" aria-selected="false" type="button">
-              Key Features
-            </button>
-            <button class="work-tab" data-work-tab="stack" role="tab" aria-selected="false" type="button">
-              Technical Stack
-            </button>
-          </div>
-
-          <div class="work-panels">
-            <div class="work-panel active" data-work-panel="overview" role="tabpanel">
-              <ul class="work-checklist">
-                <li>
-                  <strong>Conversion-first single page:</strong> Live countdown to the session, a seats-left banner, a register button that stays in reach and two ticket tiers.
-                </li>
-                <li>
-                  <strong>Bilingual copy:</strong> Hindi and English headlines, schedule and FAQs written for teachers, coaches and small creators.
-                </li>
-                <li>
-                  <strong>Everything a buyer checks:</strong> What you will learn, how it works, the session schedule, the host, reviews and answers to common doubts.
-                </li>
-              </ul>
-            </div>
-
-            <div class="work-panel" data-work-panel="features" role="tabpanel">
-              <ul class="work-checklist">
-                <li>
-                  <strong>UPI and card checkout:</strong> Seat and seat-plus-kit tiers paid by UPI, cards or net banking.
-                </li>
-                <li>
-                  <strong>WhatsApp confirmations:</strong> Payment and seat confirmation on WhatsApp, with the join link sent before the session starts.
-                </li>
-                <li>
-                  <strong>Pricing comparison:</strong> Side-by-side tiers so buyers see what the upgrade adds before they pay.
-                </li>
-              </ul>
-            </div>
-
-            <div class="work-panel" data-work-panel="stack" role="tabpanel">
-              <ul class="work-checklist">
-                <li>
-                  <strong>Next.js &amp; React:</strong> Component-built landing page with a live countdown and interactive sections.
-                </li>
-                <li>
-                  <strong>Mobile-first layout:</strong> Designed for buyers who arrive from WhatsApp links on their phones.
-                </li>
-                <li>
-                  <strong>Vercel hosting:</strong> Deployed on Vercel's global edge network for fast loads across India.
-                </li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="work-actions">
-            <a class="btn-primary" href="https://webinar-henna-pi.vercel.app/" target="_blank" rel="noopener noreferrer">
-              <span>View the live page</span>
-              <span class="btn-arrow" aria-hidden="true">&rarr;</span>
-            </a>
-            <a class="btn-ghost" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
-              <span>Discuss a similar project</span>
-            </a>
-          </div>
-        </div>
-
-        <div class="work-mockup-wrapper">
-          <div class="browser-frame">
-            <div class="browser-bar">
-              <div class="browser-dots" aria-hidden="true">
-                <span></span>
-                <span></span>
-                <span></span>
-              </div>
-              <div class="browser-url">
-                <span class="lock-icon material-symbols-outlined" aria-hidden="true">lock</span>
-                https://webinar-henna-pi.vercel.app
-              </div>
-              <a class="browser-external-link" href="https://webinar-henna-pi.vercel.app/" target="_blank" rel="noopener noreferrer" title="Open the Baithak webinar page in new tab">
-                <span class="material-symbols-outlined" aria-hidden="true">open_in_new</span>
-              </a>
-            </div>
-
-            <a class="browser-viewport" href="https://webinar-henna-pi.vercel.app/" target="_blank" rel="noopener noreferrer">
-              <Image
-                src={baithakImg}
-                alt="Baithak — live webinar registration page with countdown, seat booking and WhatsApp confirmation"
-                loading="lazy"
-                class="work-cover-img"
-                widths={[640, 960, 1280]}
-                sizes="(max-width: 768px) 100vw, 50vw"
-              />
-              <div class="browser-overlay">
-                <span class="overlay-cta">
-                  <span>Open Live Project</span>
-                  <span class="btn-arrow">&rarr;</span>
-                </span>
-              </div>
-            </a>
-          </div>
-
-          <div class="work-metrics">
-            <div class="metric-item">
-              <span class="metric-val">2</span>
-              <span class="metric-lbl">Ticket Tiers</span>
-            </div>
-            <div class="metric-item">
-              <span class="metric-val">Hi + En</span>
-              <span class="metric-lbl">Bilingual Copy</span>
-            </div>
-            <div class="metric-item">
-              <span class="metric-val">100%</span>
-              <span class="metric-lbl">Responsive</span>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Ongoing project: InTime attendance app -->
-      <div class="work-showcase">
-        <div class="work-details">
-          <div class="work-status-row">
-            <span class="live-pulse-badge">
-              <span class="pulse-dot"></span>
-              Ongoing project
-            </span>
-            <span class="work-category">Mobile &amp; Web App &middot; Attendance</span>
-          </div>
-
-          <h3 class="work-title">InTime &mdash; Face and Location Attendance App</h3>
-          <p class="work-desc">
-            An attendance app in progress for teams on site and in the field: employees punch in with their face, each punch is verified by where they are standing, and admins manage the team's attendance from their own view.
-          </p>
-
-          <div class="work-tabs" role="tablist" aria-label="InTime project details">
-            <button class="work-tab active" data-work-tab="overview" role="tab" aria-selected="true" type="button">
-              Overview
-            </button>
-            <button class="work-tab" data-work-tab="features" role="tab" aria-selected="false" type="button">
-              Key Features
-            </button>
-            <button class="work-tab" data-work-tab="stack" role="tab" aria-selected="false" type="button">
-              Technical Stack
-            </button>
-          </div>
-
-          <div class="work-panels">
-            <div class="work-panel active" data-work-panel="overview" role="tabpanel">
-              <ul class="work-checklist">
-                <li>
-                  <strong>Face punch-in:</strong> Employees mark attendance with their face instead of a paper register or a shared card.
-                </li>
-                <li>
-                  <strong>Location-verified:</strong> Every punch is checked against where the employee is standing, which makes proxy attendance harder.
-                </li>
-                <li>
-                  <strong>Built for phones:</strong> A clean, single-column interface with a live clock, designed for quick punches at the start of a shift.
-                </li>
-              </ul>
-            </div>
-
-            <div class="work-panel" data-work-panel="features" role="tabpanel">
-              <ul class="work-checklist">
-                <li>
-                  <strong>Employee and admin roles:</strong> Separate sign-in for staff and for the admins who manage attendance.
-                </li>
-                <li>
-                  <strong>Punch in and out:</strong> Start and end of shift recorded with the time, the face check and the location.
-                </li>
-                <li>
-                  <strong>Team overview:</strong> Admins see who has punched in, from where and when.
-                </li>
-              </ul>
-            </div>
-
-            <div class="work-panel" data-work-panel="stack" role="tabpanel">
-              <ul class="work-checklist">
-                <li>
-                  <strong>Expo &amp; React Native:</strong> One codebase for Android, iOS and the web.
-                </li>
-                <li>
-                  <strong>Camera and location APIs:</strong> Device camera for the face check and GPS for location verification.
-                </li>
-                <li>
-                  <strong>Vercel web build:</strong> A live web preview the client can review on any device while the mobile apps are built.
-                </li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="work-actions">
-            <a class="btn-primary" href="https://attendence-app-pied.vercel.app/" target="_blank" rel="noopener noreferrer">
-              <span>View the demo</span>
-              <span class="btn-arrow" aria-hidden="true">&rarr;</span>
-            </a>
-            <a class="btn-ghost" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
-              <span>Discuss a similar project</span>
-            </a>
-          </div>
-        </div>
-
-        <div class="work-mockup-wrapper">
-          <div class="browser-frame">
-            <div class="browser-bar">
-              <div class="browser-dots" aria-hidden="true">
-                <span></span>
-                <span></span>
-                <span></span>
-              </div>
-              <div class="browser-url">
-                <span class="lock-icon material-symbols-outlined" aria-hidden="true">lock</span>
-                https://attendence-app-pied.vercel.app
-              </div>
-              <a class="browser-external-link" href="https://attendence-app-pied.vercel.app/" target="_blank" rel="noopener noreferrer" title="Open the InTime demo in new tab">
-                <span class="material-symbols-outlined" aria-hidden="true">open_in_new</span>
-              </a>
-            </div>
-
-            <a class="browser-viewport" href="https://attendence-app-pied.vercel.app/" target="_blank" rel="noopener noreferrer">
-              <Image
-                src={intimeImg}
-                alt="InTime attendance app sign-in screen with live clock and face punch-in"
-                loading="lazy"
-                class="work-cover-img"
-                widths={[640, 960, 1280]}
-                sizes="(max-width: 768px) 100vw, 50vw"
-              />
-              <div class="browser-overlay">
-                <span class="overlay-cta">
-                  <span>Open Demo</span>
-                  <span class="btn-arrow">&rarr;</span>
-                </span>
-              </div>
-            </a>
-          </div>
-
-          <div class="work-metrics">
-            <div class="metric-item">
-              <span class="metric-val">Face + GPS</span>
-              <span class="metric-lbl">Punch Verification</span>
-            </div>
-            <div class="metric-item">
-              <span class="metric-val">2</span>
-              <span class="metric-lbl">User Roles</span>
-            </div>
-            <div class="metric-item">
-              <span class="metric-val">1</span>
-              <span class="metric-lbl">Codebase, 3 Platforms</span>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Ongoing project: Anup Tours & Travels website -->
-      <div class="work-showcase">
-        <div class="work-details">
-          <div class="work-status-row">
-            <span class="live-pulse-badge">
-              <span class="pulse-dot"></span>
-              Ongoing project
-            </span>
-            <span class="work-category">Travel Website &middot; Uttar Pradesh</span>
-          </div>
-
-          <h3 class="work-title">Anup Tours &amp; Travels &mdash; Tour Packages and Cabs Across Uttar Pradesh</h3>
-          <p class="work-desc">
-            A travel website in progress for a Varanasi tour operator: tour packages, temple darshan trips and outstation cabs across all 75 districts of Uttar Pradesh, with every enquiry going straight to a call or WhatsApp.
-          </p>
-
-          <div class="work-tabs" role="tablist" aria-label="Anup Tours and Travels project details">
-            <button class="work-tab active" data-work-tab="overview" role="tab" aria-selected="true" type="button">
-              Overview
-            </button>
-            <button class="work-tab" data-work-tab="features" role="tab" aria-selected="false" type="button">
-              Key Features
-            </button>
-            <button class="work-tab" data-work-tab="stack" role="tab" aria-selected="false" type="button">
-              Technical Stack
-            </button>
-          </div>
-
-          <div class="work-panels">
-            <div class="work-panel active" data-work-panel="overview" role="tabpanel">
-              <ul class="work-checklist">
-                <li>
-                  <strong>Package-led homepage:</strong> Featured trips such as Kashi Darshan, with duration, starting price and a clear "Plan my trip" action.
-                </li>
-                <li>
-                  <strong>All of Uttar Pradesh:</strong> Destinations, tour packages and cab routes organised for every district, starting from Varanasi.
-                </li>
-                <li>
-                  <strong>Hindi and English:</strong> Devanagari headings alongside English copy for pilgrims and families.
-                </li>
-              </ul>
-            </div>
-
-            <div class="work-panel" data-work-panel="features" role="tabpanel">
-              <ul class="work-checklist">
-                <li>
-                  <strong>Trip planning enquiries:</strong> Visitors share their dates and group, and the operator replies with a plan and a quote.
-                </li>
-                <li>
-                  <strong>Outstation cabs:</strong> A dedicated section for cab bookings across the state.
-                </li>
-                <li>
-                  <strong>Call and WhatsApp everywhere:</strong> Contact buttons in the header and on every package.
-                </li>
-              </ul>
-            </div>
-
-            <div class="work-panel" data-work-panel="stack" role="tabpanel">
-              <ul class="work-checklist">
-                <li>
-                  <strong>Next.js &amp; React:</strong> Fast, search-friendly pages for destinations and packages.
-                </li>
-                <li>
-                  <strong>Image-led design:</strong> Full-width photography of the ghats with optimised loading on mobile data.
-                </li>
-                <li>
-                  <strong>Vercel hosting:</strong> A live preview the client reviews at each stage before launch.
-                </li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="work-actions">
-            <a class="btn-primary" href="https://tours-and-travels-blush-phi.vercel.app/" target="_blank" rel="noopener noreferrer">
-              <span>View the preview</span>
-              <span class="btn-arrow" aria-hidden="true">&rarr;</span>
-            </a>
-            <a class="btn-ghost" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
-              <span>Discuss a similar project</span>
-            </a>
-          </div>
-        </div>
-
-        <div class="work-mockup-wrapper">
-          <div class="browser-frame">
-            <div class="browser-bar">
-              <div class="browser-dots" aria-hidden="true">
-                <span></span>
-                <span></span>
-                <span></span>
-              </div>
-              <div class="browser-url">
-                <span class="lock-icon material-symbols-outlined" aria-hidden="true">lock</span>
-                https://tours-and-travels-blush-phi.vercel.app
-              </div>
-              <a class="browser-external-link" href="https://tours-and-travels-blush-phi.vercel.app/" target="_blank" rel="noopener noreferrer" title="Open the Anup Tours and Travels preview in new tab">
-                <span class="material-symbols-outlined" aria-hidden="true">open_in_new</span>
-              </a>
-            </div>
-
-            <a class="browser-viewport" href="https://tours-and-travels-blush-phi.vercel.app/" target="_blank" rel="noopener noreferrer">
-              <Image
-                src={anupToursImg}
-                alt="Anup Tours and Travels homepage with the ghats of Varanasi and tour packages across Uttar Pradesh"
-                loading="lazy"
-                class="work-cover-img"
-                widths={[640, 960, 1280]}
-                sizes="(max-width: 768px) 100vw, 50vw"
-              />
-              <div class="browser-overlay">
-                <span class="overlay-cta">
-                  <span>Open Preview</span>
-                  <span class="btn-arrow">&rarr;</span>
-                </span>
-              </div>
-            </a>
-          </div>
-
-          <div class="work-metrics">
-            <div class="metric-item">
-              <span class="metric-val">75</span>
-              <span class="metric-lbl">UP Districts Covered</span>
-            </div>
-            <div class="metric-item">
-              <span class="metric-val">Hi + En</span>
-              <span class="metric-lbl">Bilingual Design</span>
-            </div>
-            <div class="metric-item">
-              <span class="metric-val">100%</span>
-              <span class="metric-lbl">Responsive</span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ===================== HERITAGE ADVANTAGE ===================== -->
-  <section class="advantage" aria-labelledby="advantage-heading">
-    <div class="section-wrap">
-      <div class="section-head">
-        <p class="eyebrow">The heritage advantage</p>
+  <!-- ===================== ADVANTAGE ===================== -->
+  <section class="band" aria-labelledby="advantage-heading">
+    <div class="shell">
+      <div class="head reveal">
+        <p class="tag tag-plain">The heritage advantage</p>
         <h2 id="advantage-heading">Engineering ethics over speed, shortcuts, and hand-offs</h2>
-        <p class="section-note">
+        <p class="note">
           We are three freelance engineers with no layers of management, and we do not disappear post-launch.
           We are a focused group of recently graduated engineers who own your project from start to finish.
         </p>
       </div>
-      <div class="comparison-table-wrap">
-        <table class="comparison-table" role="table">
+
+      <div class="tbl-wrap reveal">
+        <table class="tbl cmp-tbl">
+          <caption class="sr-only">How BtechWaleTech compares with a traditional agency and a cheap freelancer</caption>
           <thead>
             <tr>
-              <th scope="col" class="col-aspect">What matters</th>
-              <th scope="col" class="col-agency">Traditional agency</th>
-              <th scope="col" class="col-cheap">Cheap freelancer</th>
-              <th scope="col" class="col-us">BtechWaleTech</th>
+              <th scope="col" class="c-aspect">What matters</th>
+              <th scope="col" class="c-mid">Traditional agency</th>
+              <th scope="col" class="c-mid">Cheap freelancer</th>
+              <th scope="col" class="c-us">BtechWaleTech</th>
             </tr>
           </thead>
           <tbody>
             {comparison.map((row) => (
               <tr>
-                <td class="td-aspect">{row.aspect}</td>
-                <td class="td-agency">{row.agency}</td>
-                <td class="td-cheap">{row.cheap}</td>
-                <td class="td-us">
-                  <span class="td-us-inner">
-                    <span class="td-check material-symbols-outlined" aria-hidden="true">check_circle</span>
-                    {row.us}
-                  </span>
+                <th scope="row" class="c-aspect">{row.aspect}</th>
+                <td data-label="Traditional agency" class="c-mid">{row.agency}</td>
+                <td data-label="Cheap freelancer" class="c-mid">{row.cheap}</td>
+                <td data-label="BtechWaleTech" class="c-us">
+                  <span><svg class="ico" aria-hidden="true"><use href="#i-check" /></svg>{row.us}</span>
                 </td>
               </tr>
             ))}
@@ -1106,48 +1045,40 @@ const professionalServiceSchema = {
     </div>
   </section>
 
-  <!-- ===================== BUILD TYPES ===================== -->
-  <section class="builds" aria-labelledby="builds-heading">
-    <div class="section-wrap">
-      <div class="section-head">
-        <p class="eyebrow">Static &amp; dynamic</p>
+  <!-- ===================== BUILD TYPES + PROCESS ===================== -->
+  <section class="band band-blush" aria-labelledby="builds-heading">
+    <div class="shell">
+      <div class="head reveal">
+        <p class="tag tag-plain">Static &amp; dynamic</p>
         <h2 id="builds-heading">Every kind of website, built the right way</h2>
-        <p class="section-note">
+        <p class="note">
           Some businesses need a fast static website. Others need a dynamic web app, dashboard, automation, or AI-powered
           workflow. We help choose the right setup before development starts.
         </p>
       </div>
+
       <div class="build-grid">
         {builds.map((b) => (
-          <a class="build-card" href="/services/web-development/">
-            <div class="card-core">
-              <p class="build-tag">{b.tag}</p>
-              <h3>{b.name}</h3>
-              <p class="build-summary">{b.summary}</p>
-              <ul class="build-points">
-                {b.points.map((p) => (
-                  <li>{p}</li>
-                ))}
-              </ul>
-              <span class="card-link">Learn more <span aria-hidden="true">&rsaquo;</span></span>
-            </div>
+          <a class="build reveal" href="/services/web-development/">
+            <span class="build-tag">{b.tag}</span>
+            <h3>{b.name}</h3>
+            <p>{b.summary}</p>
+            <ul class="ticks">
+              {b.points.map((p) => (<li><svg class="ico" aria-hidden="true"><use href="#i-check" /></svg>{p}</li>))}
+            </ul>
           </a>
         ))}
       </div>
-    </div>
-  </section>
 
-  <!-- ===================== PROCESS ===================== -->
-  <section class="process" aria-labelledby="process-heading">
-    <div class="section-wrap">
-      <div class="section-head">
-        <p class="eyebrow">How work stays clean</p>
+      <div class="head head-tight reveal">
+        <p class="tag tag-plain">How work stays clean</p>
         <h2 id="process-heading">Clear requirement, clean build, smooth deployment</h2>
       </div>
-      <ol class="steps">
+
+      <ol class="steps" aria-labelledby="process-heading">
         {process.map(([step, detail], i) => (
-          <li>
-            <span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span>
+          <li class="reveal">
+            <span class="step-num">{i + 1}</span>
             <h3>{step}</h3>
             <p>{detail}</p>
           </li>
@@ -1157,19 +1088,20 @@ const professionalServiceSchema = {
   </section>
 
   <!-- ===================== LOCATIONS ===================== -->
-  <section class="locations" aria-labelledby="locations-heading">
-    <div class="section-wrap">
-      <div class="section-head">
-        <p class="eyebrow">Global delivery</p>
+  <section class="band band-butter" aria-labelledby="locations-heading">
+    <div class="shell">
+      <div class="head reveal">
+        <p class="tag tag-plain">Global delivery</p>
         <h2 id="locations-heading">Web development services for clients around the world</h2>
-        <p class="section-note">
+        <p class="note">
           Whether you are a startup in New York, an agency in London, a retailer in Toronto, a clinic in Sydney, or a
           trading company in Dubai, we work in your business hours, invoice in your currency, and ship to the same
           standard. Here is how working with us looks in each region, or <a href="/countries/">see all countries we serve</a>.
         </p>
       </div>
-      <div class="price-table-wrap market-table-wrap">
-        <table class="price-table market-table">
+
+      <div class="tbl-wrap reveal">
+        <table class="tbl mkt-tbl">
           <caption class="sr-only">Countries served, working-hour overlap and billing options</caption>
           <thead>
             <tr>
@@ -1181,43 +1113,70 @@ const professionalServiceSchema = {
           <tbody>
             {markets.map((m) => (
               <tr>
-                <th scope="row">
-                  <span class="cc">{m.code}</span>
-                  {m.href ? <a href={m.href}>{m.country}</a> : m.country}
-                </th>
-                <td>{m.overlap}</td>
-                <td>{m.billing}</td>
+                <th scope="row"><span class="cc">{m.code}</span>{m.href ? <a href={m.href}>{m.country}</a> : m.country}</th>
+                <td data-label="Overlap">{m.overlap}</td>
+                <td data-label="Billing">{m.billing}</td>
               </tr>
             ))}
           </tbody>
         </table>
       </div>
 
-      <h3 class="india-head">Covering 1000+ cities across all 30 states in India</h3>
-      <p class="section-note india-note">
-        In India we provide web development, SEO, and AI automation to businesses in metro hubs and tier-2 cities alike.
-      </p>
-      <div class="city-cloud">
-        {locations.map((c) => (
-          <a class="city-chip" href={`/${c.slug}/`}>{c.name}</a>
-        ))}
+      <!-- City slider: 20 links per panel, every link still in the HTML for crawlers. -->
+      <div class="city-block reveal">
+        <div class="city-head">
+          <div>
+            <h3>Covering 1000+ cities across all 30 states in India</h3>
+            <p class="note note-sm">
+              In India we provide web development, SEO, and AI automation to businesses in metro hubs and tier-2 cities alike.
+            </p>
+          </div>
+          <div class="city-nav">
+            <span class="city-count" data-city-count>01 / {citySlides.length}</span>
+            <button class="nav-btn" type="button" data-prev aria-label="Previous cities"><svg class="ico" aria-hidden="true"><use href="#i-left" /></svg></button>
+            <button class="nav-btn" type="button" data-next aria-label="More cities"><svg class="ico" aria-hidden="true"><use href="#i-right" /></svg></button>
+          </div>
+        </div>
+
+        <div class="slider" data-slider="cities">
+          <div class="rail city-rail" data-rail tabindex="0" role="group" aria-roledescription="carousel" aria-label={`${locations.length} Indian cities with a dedicated page`}>
+            {citySlides.map((group, i) => (
+              <div class="slide city-panel" data-slide aria-label={`Cities ${i * CITIES_PER_SLIDE + 1} to ${i * CITIES_PER_SLIDE + group.length}`}>
+                {group.map((c) => (
+                  <a class="city" href={`/${c.slug}/`}>
+                    <span class="city-name">{c.name}</span>
+                    <span class="city-state">{c.state}</span>
+                  </a>
+                ))}
+              </div>
+            ))}
+          </div>
+          <div class="city-bar" aria-hidden="true"><span data-city-bar></span></div>
+        </div>
       </div>
     </div>
   </section>
 
   <!-- ===================== FAQ ===================== -->
-  <section class="faq" aria-labelledby="faq-heading">
-    <div class="section-wrap">
-      <div class="section-head">
-        <p class="eyebrow">Questions</p>
+  <section class="band" aria-labelledby="faq-heading">
+    <div class="shell faq-grid">
+      <div class="head head-side reveal">
+        <p class="tag tag-plain">Questions</p>
         <h2 id="faq-heading">Answers before you even ask</h2>
+        <p class="note">
+          Still unsure about scope, cost or timelines? Send the question straight to WhatsApp and you will get a written answer, not a sales call.
+        </p>
+        <a class="btn btn-amber" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>Ask on WhatsApp</span><span class="arr" aria-hidden="true">&rarr;</span>
+        </a>
       </div>
+
       <div class="faq-list">
         {faqs.map((f) => (
-          <details class="faq-item">
+          <details class="faq reveal">
             <summary>
               <span>{f.question}</span>
-              <span class="faq-mark" aria-hidden="true">+</span>
+              <span class="faq-mark" aria-hidden="true"><svg class="ico"><use href="#i-plus" /></svg></span>
             </summary>
             <p>{f.answer}</p>
           </details>
@@ -1227,21 +1186,19 @@ const professionalServiceSchema = {
   </section>
 
   <!-- ===================== CLOSING CTA ===================== -->
-  <section class="closing" aria-labelledby="cta-heading">
-    <div class="section-wrap">
-      <div class="closing-inner">
-        <p class="eyebrow">Next step</p>
-        <h2 id="cta-heading">Need a website, web app, or AI automation, wherever you are?</h2>
-        <p class="closing-note">
-          Tell us what you want to build or fix. We will reply with a clear scope, honest estimate, and practical delivery
-          plan for your website, SEO setup, AI automation, data analysis, or custom IT work.
-        </p>
-        <div class="closing-actions">
-          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
-            <span>WhatsApp Us</span>
-            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
-          </a>
-        </div>
+  <section class="band band-amber" aria-labelledby="cta-heading">
+    <div class="shell closing">
+      <p class="tag tag-plain">Next step</p>
+      <h2 id="cta-heading">Need a website, web app, or AI automation, wherever you are?</h2>
+      <p class="note">
+        Tell us what you want to build or fix. We will reply with a clear scope, honest estimate, and practical delivery
+        plan for your website, SEO setup, AI automation, data analysis, or custom IT work.
+      </p>
+      <div class="btn-row btn-row-center">
+        <a class="btn btn-ink" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>WhatsApp us</span><span class="arr" aria-hidden="true">&rarr;</span>
+        </a>
+        <a class="btn btn-white" href="/contact/"><span>Send a brief</span></a>
       </div>
     </div>
   </section>
@@ -1249,1403 +1206,1357 @@ const professionalServiceSchema = {
 </BaseLayout>
 
 <script>
-  // Interactive Tab Switcher for Proof of Work Section
-  // Scoped per showcase so each project's tabs only switch its own panels.
-  const initWorkTabs = () => {
-    document.querySelectorAll<HTMLElement>('.work-showcase').forEach((showcase) => {
-      const tabs = showcase.querySelectorAll<HTMLButtonElement>('[data-work-tab]');
-      const panels = showcase.querySelectorAll<HTMLElement>('[data-work-panel]');
-
-      tabs.forEach((tab) => {
-        tab.addEventListener('click', () => {
-          const target = tab.getAttribute('data-work-tab');
-          tabs.forEach((t) => {
-            const isActive = t === tab;
-            t.classList.toggle('active', isActive);
-            t.setAttribute('aria-selected', isActive ? 'true' : 'false');
-          });
-          panels.forEach((panel) => {
-            const isMatch = panel.getAttribute('data-work-panel') === target;
-            panel.classList.toggle('active', isMatch);
-          });
+  /* ---------- Project tabs (scoped per slide) ---------- */
+  document.querySelectorAll<HTMLElement>(".work").forEach((work) => {
+    const tabs = work.querySelectorAll<HTMLButtonElement>("[data-work-tab]");
+    const panels = work.querySelectorAll<HTMLElement>("[data-work-panel]");
+    tabs.forEach((tab) => {
+      tab.addEventListener("click", () => {
+        const target = tab.getAttribute("data-work-tab");
+        tabs.forEach((t) => {
+          const on = t === tab;
+          t.classList.toggle("active", on);
+          t.setAttribute("aria-selected", on ? "true" : "false");
         });
+        panels.forEach((p) => p.classList.toggle("active", p.getAttribute("data-work-panel") === target));
       });
     });
-  };
+  });
 
-  initWorkTabs();
+  /* ---------- Sliders ----------
+     Native scroll-snap does the sliding; JS only drives the buttons, the
+     active marker and the auto-advance. With JS off the rail still scrolls. */
+  const reduced = matchMedia("(prefers-reduced-motion: reduce)");
+
+  document.querySelectorAll<HTMLElement>("[data-slider]").forEach((slider) => {
+    const rail = slider.querySelector<HTMLElement>("[data-rail]");
+    if (!rail) return;
+
+    const slides = Array.from(rail.querySelectorAll<HTMLElement>("[data-slide]"));
+    const scope = slider.closest<HTMLElement>(".city-block") ?? slider;
+    const prev = scope.querySelector<HTMLButtonElement>("[data-prev]");
+    const next = scope.querySelector<HTMLButtonElement>("[data-next]");
+    const dots = Array.from(scope.querySelectorAll<HTMLButtonElement>("[data-dot]"));
+    const counter = scope.querySelector<HTMLElement>("[data-city-count]");
+    const bar = scope.querySelector<HTMLElement>("[data-city-bar]");
+    let index = 0;
+    let touched = false;
+
+    // Measured once (and on resize) so the scroll handler never touches layout.
+    let offsets: number[] = [];
+    const measure = () => { offsets = slides.map((s) => s.offsetLeft - rail.offsetLeft); };
+    measure();
+    addEventListener("resize", measure, { passive: true });
+
+    const goTo = (i: number) => {
+      const left = offsets[Math.max(0, Math.min(i, offsets.length - 1))];
+      if (left === undefined) return;
+      rail.scrollTo({ left, behavior: reduced.matches ? "auto" : "smooth" });
+    };
+
+    const paint = () => {
+      // Whichever slide's left edge sits closest to the rail's scroll position is active.
+      let best = 0;
+      let bestGap = Infinity;
+      const pos = rail.scrollLeft;
+      offsets.forEach((off, i) => {
+        const gap = Math.abs(off - pos);
+        if (gap < bestGap) { bestGap = gap; best = i; }
+      });
+      index = best;
+      slides.forEach((s, i) => s.classList.toggle("is-active", i === index));
+      dots.forEach((d, i) => d.classList.toggle("on", i === index));
+      if (counter) counter.textContent = `${String(index + 1).padStart(2, "0")} / ${slides.length}`;
+      if (bar) bar.style.transform = `scaleX(${(index + 1) / slides.length})`;
+      if (prev) prev.disabled = index === 0;
+      if (next) next.disabled = index === slides.length - 1;
+    };
+
+    let frame = 0;
+    rail.addEventListener("scroll", () => {
+      cancelAnimationFrame(frame);
+      frame = requestAnimationFrame(paint);
+    }, { passive: true });
+
+    prev?.addEventListener("click", () => { touched = true; goTo(index - 1); });
+    next?.addEventListener("click", () => { touched = true; goTo(index + 1); });
+    dots.forEach((d, i) => d.addEventListener("click", () => { touched = true; goTo(i); }));
+    rail.addEventListener("pointerdown", () => { touched = true; });
+    rail.addEventListener("keydown", (e) => {
+      if (e.key === "ArrowRight") { touched = true; e.preventDefault(); goTo(index + 1); }
+      if (e.key === "ArrowLeft") { touched = true; e.preventDefault(); goTo(index - 1); }
+    });
+
+    paint();
+
+    // Gentle auto-advance for the project slider only, and only until the
+    // visitor takes over. Paused off-screen, on hover, on focus, and under
+    // prefers-reduced-motion.
+    if (slider.dataset.slider === "proof" && !reduced.matches) {
+      let timer = 0;
+      const stop = () => { clearInterval(timer); timer = 0; };
+      const start = () => {
+        if (timer || touched) return;
+        timer = window.setInterval(() => {
+          if (touched) return stop();
+          goTo(index === slides.length - 1 ? 0 : index + 1);
+        }, 7000);
+      };
+      slider.addEventListener("pointerenter", stop);
+      slider.addEventListener("pointerleave", start);
+      slider.addEventListener("focusin", stop);
+      new IntersectionObserver(([entry]) => (entry.isIntersecting ? start() : stop()), { threshold: 0.4 }).observe(slider);
+    }
+  });
+
+  /* ---------- Stat numbers count up once, when they scroll into view ---------- */
+  const counters = document.querySelectorAll<HTMLElement>("[data-count]");
+  if (counters.length) {
+    const run = (el: HTMLElement) => {
+      const target = Number(el.dataset.count ?? 0);
+      const suffix = el.dataset.suffix ?? "";
+      if (reduced.matches || !target) { el.textContent = `${target}${suffix}`; return; }
+      const start = performance.now();
+      const step = (now: number) => {
+        // easeOutCubic, so it lands softly instead of stopping dead
+        const t = Math.min((now - start) / 1100, 1);
+        el.textContent = `${Math.round(target * (1 - Math.pow(1 - t, 3)))}${suffix}`;
+        if (t < 1) requestAnimationFrame(step);
+      };
+      requestAnimationFrame(step);
+    };
+    const co = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (!entry.isIntersecting) return;
+        run(entry.target as HTMLElement);
+        co.unobserve(entry.target);
+      });
+    }, { threshold: 0.6 });
+    counters.forEach((el) => co.observe(el));
+  }
+
+  /* ---------- Scroll reveal ---------- */
+  const revealables = document.querySelectorAll<HTMLElement>(".reveal");
+  if (reduced.matches) {
+    revealables.forEach((el) => el.classList.add("shown"));
+  } else {
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (!entry.isIntersecting) return;
+        entry.target.classList.add("shown");
+        io.unobserve(entry.target);
+      });
+    }, { rootMargin: "0px 0px -6% 0px", threshold: 0.05 });
+    revealables.forEach((el) => io.observe(el));
+  }
 </script>
 
-
-
 <style>
-  /* ================== TOKENS ================== */
-  :root {
-    --paper: #FDFCFB;
-    --surface: #F5F5F7;
-    --surface-low: #F3F4F5;
-    --midnight: #0F172A;
-    --slate: #334155;
-    --slate-muted: #64748B;
-    --gold: #D4AF37;
-    --gold-muted: #8A6516;
-    --gold-light: #FAF5E8;
-    --hairline: rgba(15, 23, 42, 0.10);
-    --ease: cubic-bezier(0.16, 1, 0.3, 1);
-    --radius: 22px;
-    --radius-sm: 14px;
-    --card-border: rgba(15, 23, 42, 0.06);
-    --shadow: 0 1px 2px rgba(15, 23, 42, 0.04), 0 8px 24px -12px rgba(15, 23, 42, 0.12);
-    --shadow-hover: 0 2px 4px rgba(15, 23, 42, 0.05), 0 22px 44px -18px rgba(15, 23, 42, 0.22);
-  }
-
-  :global(body) {
-    background: var(--paper);
-    color: var(--midnight);
-  }
-
-  :global(::selection) {
-    background: var(--gold);
-    color: var(--midnight);
-  }
-
-  h1, h2, h3 {
-    margin: 0;
-    font-family: 'Hanken Grotesk', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    color: var(--midnight);
-    letter-spacing: -0.02em;
-    font-weight: 700;
-  }
-
-  p { margin: 0; }
-
-  /* ================== LAYOUT WRAPPER ================== */
-  .section-wrap {
-    max-width: 1280px;
-    margin: 0 auto;
-    padding: 0 clamp(1.25rem, 5vw, 5rem);
-  }
-
-  /* ================== EYEBROW ================== */
-  .eyebrow {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.65rem;
-    margin: 0 0 1.25rem;
-    color: var(--gold-muted);
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.75rem;
-    font-weight: 600;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-  }
-
-  .eyebrow::before {
-    display: inline-block;
-    width: 1.75rem;
-    height: 1px;
-    background: var(--gold-muted);
-    content: "";
-    flex-shrink: 0;
-  }
-
-  .eyebrow-light {
-    color: rgba(212, 175, 55, 0.7);
-  }
-  .eyebrow-light::before {
-    background: rgba(212, 175, 55, 0.7);
-  }
-
-
-
-  /* ================== SECTION HEAD ================== */
-  .section-head {
-    max-width: 48rem;
-    margin-bottom: clamp(1.75rem, 3.5vw, 2.75rem);
-  }
-
-  .section-head h2 {
-    font-size: clamp(1.85rem, 3.5vw, 2.75rem);
-    line-height: 1.12;
-    font-weight: 700;
-    letter-spacing: -0.025em;
-    margin-bottom: 1rem;
-  }
-
-  .section-note {
-    color: var(--slate);
-    font-size: 1.05rem;
-    line-height: 1.7;
-    margin-top: 0.75rem;
-  }
-
-  /* ================== BUTTONS ================== */
-  .hero-actions {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    margin-top: 2rem;
-  }
-
-  .btn-primary, .btn-ghost, .btn-cream {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.6rem;
-    padding: 0.875rem 1.6rem;
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.95rem;
-    font-weight: 600;
-    text-decoration: none;
-    border-radius: 999px;
-    border: 1px solid;
-    transition: all 250ms var(--ease);
-    white-space: nowrap;
-  }
-
-  .btn-primary {
-    background: var(--midnight);
-    color: var(--paper);
-    border-color: var(--midnight);
-  }
-  .btn-primary:hover { background: var(--slate); border-color: var(--slate); transform: translateY(-1px); box-shadow: 0 6px 20px rgba(15,23,42,0.15); }
-
-  .btn-ghost {
-    background: transparent;
-    color: var(--midnight);
-    border-color: rgba(15, 23, 42, 0.2);
-  }
-  .btn-ghost:hover { background: var(--surface-low); transform: translateY(-1px); }
-
-  .btn-cream {
-    background: var(--paper);
-    color: var(--midnight);
-    border-color: var(--paper);
-    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
-  }
-  .btn-cream:hover { background: #fff; transform: translateY(-1px); box-shadow: 0 8px 28px rgba(0,0,0,0.25); }
-
-  .btn-arrow {
-    display: inline-block;
-    transition: transform 300ms var(--ease);
-  }
-  .btn-primary:hover .btn-arrow,
-  .btn-cream:hover .btn-arrow {
-    transform: translateX(4px);
-  }
-
-  /* ================== HERO ================== */
-  .hero {
-    padding: clamp(2rem, 4vw, 3.5rem) 0 clamp(2.5rem, 5vw, 4rem);
-    border-bottom: 1px solid var(--hairline);
-    overflow: hidden;
-  }
-
-  .hero-inner {
-    max-width: 1280px;
-    margin: 0 auto;
-    padding: 0 clamp(1.25rem, 5vw, 5rem);
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr);
-    gap: clamp(2rem, 4vw, 3.5rem);
-    align-items: center;
-  }
-
-  .hero-copy {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-
-  h1 {
-    font-size: clamp(2.1rem, 3.6vw, 3rem);
-    line-height: 1.12;
-    text-wrap: balance;
-    font-weight: 700;
-    margin-bottom: 1.25rem;
-  }
-
-  .lede {
-    color: var(--slate);
-    font-size: clamp(0.95rem, 1.3vw, 1.05rem);
-    line-height: 1.7;
-    max-width: 32rem;
-  }
-
-  .pill-icon {
-    font-size: 1.1rem;
-    color: var(--gold);
-    font-variation-settings: 'FILL' 0, 'wght' 400;
-  }
-
-  /* Based in India tagline */
-  .hero-origin {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    margin-top: 1.25rem;
-    color: var(--slate-muted);
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.78rem;
-    font-weight: 500;
-    letter-spacing: 0.02em;
-  }
-
-  .origin-dot {
-    display: inline-block;
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    background: var(--gold);
-    flex-shrink: 0;
-  }
-
-  /* ================== HERO IMAGE PANEL ================== */
-  .hero-image-panel {
-    position: relative;
-    width: 100%;
-  }
-
-  .hero-img-wrap {
-    position: relative;
-    width: 100%;
-    border-radius: var(--radius);
-    overflow: hidden;
-    border: 1px solid var(--hairline);
-    box-shadow: 0 20px 45px -15px rgba(15, 23, 42, 0.12);
-    background: var(--surface-low);
-  }
-
-  .hero-img {
-    display: block;
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-    transition: transform 600ms var(--ease);
-  }
-
-  .hero-image-panel:hover .hero-img {
-    transform: scale(1.012);
-  }
-
-
-
-  /* ================== MARQUEE ================== */
-  .marquee {
-    overflow: hidden;
-    padding: 1.1rem 0;
-    border-top: 1px solid var(--hairline);
-    border-bottom: 1px solid var(--hairline);
-    background: var(--surface-low);
-    mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
-  }
-
-  .marquee-track {
-    display: flex;
-    width: max-content;
-    animation: slide 40s linear infinite;
-  }
-
-  .marquee:hover .marquee-track { animation-play-state: paused; }
-
-  .marquee-set { display: flex; align-items: center; }
-
-  .marquee-item {
-    color: var(--slate);
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.85rem;
-    font-weight: 500;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
-    white-space: nowrap;
-  }
-
-  .marquee-item::after {
-    margin: 0 1.75rem;
-    color: var(--gold);
-    content: "◆";
-    font-size: 0.45rem;
-    vertical-align: middle;
-  }
-
-  @keyframes slide { to { transform: translateX(-50%); } }
-
-  /* ================== STATS ================== */
-  .stats-section {
-    padding: clamp(1.75rem, 3.5vw, 2.5rem) 0;
-    background: var(--midnight);
-  }
-
-  .stat-band {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 1px;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    background: rgba(255,255,255,0.06);
-    border: 1px solid rgba(255,255,255,0.06);
-    border-radius: var(--radius);
-    overflow: hidden;
-  }
-
-  .stat-band li {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-    align-items: center;
-    text-align: center;
-    padding: clamp(1.25rem, 2.5vw, 1.75rem) clamp(1rem, 3vw, 2rem);
-    background: var(--midnight);
-    position: relative;
-  }
-
-  .stat-band li::after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 2.5rem;
-    height: 2px;
-    background: var(--gold);
-    opacity: 0;
-    transition: opacity 300ms ease;
-  }
-
-  .stat-band li:hover::after { opacity: 1; }
-
-  .stat-num {
-    color: #F8F9FA;
-    font-family: 'Hanken Grotesk', system-ui, -apple-system, sans-serif;
-    font-size: clamp(2.5rem, 5vw, 3.5rem);
-    font-weight: 700;
-    letter-spacing: -0.02em;
-    line-height: 1;
-  }
-
-  .stat-label {
-    color: #94A3B8;
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.875rem;
-    line-height: 1.4;
-    max-width: 14rem;
-  }
-
-  /* ================== SERVICES ================== */
-  .services {
-    padding: clamp(3rem, 5vw, 4.5rem) 0;
-    background: var(--surface);
-    border-top: 1px solid var(--hairline);
-  }
-
-  .bento {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 1rem;
-  }
-
-  .card {
-    display: block;
-    background: #fff;
-    border: 1px solid var(--card-border);
-    border-radius: var(--radius);
-    box-shadow: var(--shadow);
-    text-decoration: none;
-    transition: transform 350ms var(--ease), box-shadow 350ms var(--ease);
-  }
-
-  a.card:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); }
-
-  .card-core {
-    position: relative;
-    padding: clamp(1.4rem, 2vw, 1.75rem);
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-  }
-
-  .card-core h3 {
-    font-size: clamp(1.1rem, 1.4vw, 1.25rem);
-    font-weight: 700;
-    letter-spacing: -0.015em;
-    margin-bottom: 0.5rem;
-    line-height: 1.25;
-  }
-
-  .card-core > p {
-    color: var(--slate);
-    font-size: 0.84rem;
-    line-height: 1.55;
-    margin-bottom: 1rem;
-    flex: 1;
-  }
-
-  .service-points {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 0.35rem;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    border-top: 1px solid var(--card-border);
-    padding-top: 0.9rem;
-  }
-
-  .service-points li {
-    position: relative;
-    padding-left: 0.85rem;
-    color: var(--slate-muted);
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.78rem;
-    line-height: 1.35;
-  }
-
-  .service-points li::before {
-    position: absolute;
-    left: 0;
-    top: 0.5em;
-    width: 0.28rem;
-    height: 0.28rem;
-    border-radius: 50%;
-    background: var(--gold);
-    content: "";
-  }
-
-  .card-link {
-    margin-top: 1.1rem;
-    color: var(--gold-muted);
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.9rem;
-    font-weight: 600;
-  }
-
-  .card-link span {
-    display: inline-block;
-    transition: transform 300ms var(--ease);
-  }
-
-  a:hover .card-link span { transform: translateX(3px); }
-
-  /* ================== PROOF OF WORK ================== */
-  .proof-of-work {
-    padding: clamp(3rem, 5vw, 4.5rem) 0;
-    background: var(--paper);
-    border-top: 1px solid var(--hairline);
-  }
-
-  .work-showcase {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr);
-    gap: clamp(2.5rem, 5vw, 4.5rem);
-    align-items: center;
-  }
-
-  .work-showcase + .work-showcase {
-    margin-top: clamp(3.5rem, 7vw, 5.5rem);
-    padding-top: clamp(3.5rem, 7vw, 5.5rem);
-    border-top: 1px solid var(--hairline);
-  }
-
-  .work-details {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .work-status-row {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 0.75rem;
-    margin-bottom: 1rem;
-  }
-
-  .live-pulse-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.45rem;
-    padding: 0.25rem 0.75rem;
-    background: rgba(34, 197, 94, 0.1);
-    border: 1px solid rgba(34, 197, 94, 0.25);
-    border-radius: 999px;
-    color: #166534;
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.75rem;
-    font-weight: 600;
-    letter-spacing: 0.03em;
-  }
-
-  .pulse-dot {
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    background: #22c55e;
-    box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.7);
-    animation: pulse-ring 2s infinite;
-  }
-
-  @keyframes pulse-ring {
-    0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.7); }
-    70% { transform: scale(1); box-shadow: 0 0 0 6px rgba(34, 197, 94, 0); }
-    100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(34, 197, 94, 0); }
-  }
-
-  .work-category {
-    color: var(--slate-muted);
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.8rem;
-    font-weight: 500;
-  }
-
-  .work-title {
-    font-size: clamp(1.4rem, 2.2vw, 1.85rem);
-    font-weight: 700;
-    margin-bottom: 0.75rem;
-    line-height: 1.25;
-  }
-
-  .work-desc {
-    color: var(--slate);
-    font-size: 0.92rem;
-    line-height: 1.65;
-    margin-bottom: 1.5rem;
-  }
-
-  /* Tabs */
-  .work-tabs {
-    display: inline-flex;
-    align-self: flex-start;
-    gap: 2px;
-    padding: 4px;
-    margin-bottom: 1.25rem;
-    background: rgba(15, 23, 42, 0.06);
-    border-radius: 999px;
-  }
-
-  .work-tab {
-    padding: 0.5rem 1.1rem;
-    background: transparent;
-    border: none;
-    border-radius: 999px;
-    color: var(--slate);
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.875rem;
-    font-weight: 600;
-    cursor: pointer;
-    transition: background 200ms ease, color 200ms ease, box-shadow 200ms ease;
-  }
-
-  .work-tab:hover {
-    color: var(--midnight);
-  }
-
-  .work-tab.active {
-    color: var(--midnight);
-    background: #fff;
-    box-shadow: 0 1px 3px rgba(15, 23, 42, 0.12);
-  }
-
-  /* Panels */
-  .work-panels {
-    min-height: 10.5rem;
-    margin-bottom: 1.75rem;
-  }
-
-  .work-panel {
-    display: none;
-    animation: fadeInTab 250ms ease;
-  }
-
-  .work-panel.active {
-    display: block;
-  }
-
-  @keyframes fadeInTab {
-    from { opacity: 0; transform: translateY(4px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-
-  .work-checklist {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: grid;
-    gap: 0.75rem;
-  }
-
-  .work-checklist li {
-    position: relative;
-    padding-left: 1.35rem;
-    color: var(--slate);
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.875rem;
-    line-height: 1.55;
-  }
-
-  .work-checklist li::before {
-    position: absolute;
-    left: 0;
-    color: var(--gold);
-    content: "✓";
-    font-weight: 700;
-  }
-
-  .work-checklist strong {
-    color: var(--midnight);
-  }
-
-  .work-actions {
-    display: flex;
-    flex-wrap: nowrap;
-    align-items: center;
-    gap: 0.75rem;
-  }
-
-  .work-actions .btn-primary,
-  .work-actions .btn-ghost {
-    padding: 0.85rem 1.25rem;
-    font-size: 0.9rem;
-    white-space: nowrap;
-    flex: 0 0 auto;
-  }
-
-  /* Mockup Frame */
-  .work-mockup-wrapper {
-    display: flex;
-    flex-direction: column;
-    gap: 1.25rem;
-  }
-
-  .browser-frame {
-    border-radius: var(--radius-sm);
-    overflow: hidden;
-    background: #111827;
-    border: 1px solid rgba(15, 23, 42, 0.15);
-    box-shadow: 0 25px 60px -20px rgba(15, 23, 42, 0.25);
-    transition: transform 400ms var(--ease), box-shadow 400ms var(--ease);
-  }
-
-  .browser-frame:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 30px 70px -20px rgba(15, 23, 42, 0.35);
-  }
-
-  .browser-bar {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    padding: 0.65rem 1rem;
-    background: #1e293b;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-  }
-
-  .browser-dots {
-    display: flex;
-    gap: 5px;
-  }
-
-  .browser-dots span {
-    width: 9px;
-    height: 9px;
-    border-radius: 50%;
-    background: rgba(255, 255, 255, 0.2);
-  }
-
-  .browser-dots span:nth-child(1) { background: #ef4444; }
-  .browser-dots span:nth-child(2) { background: #f59e0b; }
-  .browser-dots span:nth-child(3) { background: #10b981; }
-
-  .browser-url {
-    flex: 1;
-    display: flex;
-    align-items: center;
-    gap: 0.35rem;
-    padding: 0.25rem 0.75rem;
-    background: rgba(0, 0, 0, 0.25);
-    border-radius: 4px;
-    color: #94a3b8;
-    font-family: 'Hanken Grotesk', system-ui, monospace;
-    font-size: 0.75rem;
-    letter-spacing: 0.02em;
-  }
-
-  .lock-icon {
-    font-size: 0.85rem;
-    color: #10b981;
-  }
-
-  .browser-external-link {
-    color: #94a3b8;
-    display: inline-flex;
-    align-items: center;
-    transition: color 200ms ease;
-  }
-
-  .browser-external-link:hover {
-    color: #f8fafc;
-  }
-
-  .browser-viewport {
-    position: relative;
-    display: block;
-    overflow: hidden;
-    text-decoration: none;
-  }
-
-  .work-cover-img {
-    display: block;
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-    transition: transform 600ms var(--ease);
-  }
-
-  .browser-viewport:hover .work-cover-img {
-    transform: scale(1.02);
-  }
-
-  .browser-overlay {
-    position: absolute;
-    inset: 0;
-    background: rgba(15, 23, 42, 0.6);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    opacity: 0;
-    transition: opacity 300ms ease;
-  }
-
-  .browser-viewport:hover .browser-overlay {
-    opacity: 1;
-  }
-
-  .overlay-cta {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.75rem 1.4rem;
-    background: #f8f9fa;
-    color: #0f172a;
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.82rem;
-    font-weight: 700;
-    border-radius: 2px;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
-  }
-
-  /* Metrics Bar */
-  .work-metrics {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 0.75rem;
-  }
-
-  .metric-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    padding: 0.85rem 0.5rem;
-    background: #fff;
-    border: 1px solid var(--card-border);
-    border-radius: var(--radius-sm);
-    box-shadow: var(--shadow);
-  }
-
-  .metric-val {
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 1.15rem;
-    font-weight: 700;
-    color: var(--midnight);
-    line-height: 1.2;
-  }
-
-  .metric-lbl {
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.72rem;
-    color: var(--slate-muted);
-  }
-
-  /* ================== ADVANTAGE ================== */
-  .advantage {
-    padding: clamp(3rem, 5vw, 4.5rem) 0;
-    border-top: 1px solid var(--hairline);
-  }
-
-  .comparison-table-wrap {
-    overflow-x: auto;
-    background: #fff;
-    border: 1px solid var(--card-border);
-    border-radius: var(--radius);
-    box-shadow: var(--shadow);
-  }
-
-  .comparison-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.9rem;
-  }
-
-  .comparison-table thead th {
-    padding: 1rem 1.25rem;
-    font-size: 0.75rem;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    border-bottom: 1px solid var(--hairline);
-    text-align: left;
-  }
-
-  .col-aspect { background: var(--surface-low); color: var(--midnight); width: 18%; }
-  .col-agency { background: var(--surface-low); color: var(--slate-muted); width: 27%; }
-  .col-cheap  { background: var(--surface-low); color: var(--slate-muted); width: 27%; }
-  .col-us     { background: var(--midnight); color: var(--gold); width: 28%; }
-
-  .comparison-table tbody tr {
-    border-bottom: 1px solid var(--hairline);
-    transition: background 200ms ease;
-  }
-  .comparison-table tbody tr:last-child { border-bottom: none; }
-  .comparison-table tbody tr:hover { background: var(--surface-low); }
-
-  .comparison-table td {
-    padding: 1rem 1.25rem;
-    vertical-align: top;
-    line-height: 1.5;
-  }
-
-  .td-aspect {
-    font-weight: 600;
-    color: var(--midnight);
-    font-size: 0.875rem;
-  }
-
-  .td-agency, .td-cheap {
-    color: var(--slate-muted);
-    font-size: 0.875rem;
-  }
-
-  .td-us {
-    background: rgba(15, 23, 42, 0.02);
-  }
-
-  .td-us-inner {
-    display: flex;
-    align-items: flex-start;
-    gap: 0.5rem;
-    color: var(--midnight);
-    font-weight: 600;
-    font-size: 0.875rem;
-  }
-
-  .td-check {
-    font-size: 1rem;
-    color: var(--gold);
-    flex-shrink: 0;
-    margin-top: 0.1rem;
-    font-variation-settings: 'FILL' 1, 'wght' 400;
-  }
-
-  /* ================== BUILDS ================== */
-  .builds {
-    padding: clamp(3rem, 5vw, 4.5rem) 0;
-    background: var(--surface);
-    border-top: 1px solid var(--hairline);
-  }
-
-  .build-grid {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 1rem;
-  }
-
-  .build-card {
-    display: block;
-    background: #fff;
-    border: 1px solid var(--card-border);
-    border-radius: var(--radius);
-    box-shadow: var(--shadow);
-    text-decoration: none;
-    transition: transform 350ms var(--ease), box-shadow 350ms var(--ease);
-  }
-
-  .build-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); }
-
-  .build-card .card-core {
-    padding: clamp(1.75rem, 3vw, 2.5rem);
-  }
-
-  .build-tag {
-    width: fit-content;
-    margin-bottom: 1.25rem;
-    padding: 0.3rem 0.85rem;
-    border: none;
-    background: var(--gold-light);
-    border-radius: 999px;
-    color: var(--gold-muted);
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.7rem;
-    font-weight: 700;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-  }
-
-  .build-card h3 {
-    font-size: clamp(1.5rem, 2.5vw, 2rem);
-    font-weight: 600;
-    margin-bottom: 0.85rem;
-    line-height: 1.15;
-  }
-
-  .build-card .build-summary {
-    color: var(--slate);
-    font-size: 0.95rem;
-    line-height: 1.65;
-  }
-
-  .build-points {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 0.55rem 1rem;
-    margin: 1.5rem 0 0;
-    padding: 1.5rem 0 0;
-    border-top: 1px solid var(--hairline);
-    list-style: none;
-  }
-
-  .build-points li {
-    position: relative;
-    padding-left: 1.2rem;
-    color: var(--slate);
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.875rem;
-    line-height: 1.4;
-  }
-
-  .build-points li::before {
-    position: absolute;
-    left: 0;
-    color: var(--gold);
-    font-weight: 700;
-    content: "✓";
-    font-size: 0.8rem;
-  }
-
-  /* ================== PROCESS ================== */
-  .process {
-    padding: clamp(3rem, 5vw, 4.5rem) 0;
-    border-top: 1px solid var(--hairline);
-  }
-
-  .steps {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 1rem;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-
-  .steps li {
-    display: grid;
-    gap: 0.65rem;
-    align-content: start;
-    padding: clamp(1.5rem, 3vw, 2rem);
-    background: #fff;
-    border: 1px solid var(--card-border);
-    border-radius: var(--radius);
-    box-shadow: var(--shadow);
-  }
-
-
-  .step-num {
-    display: inline-grid;
-    place-items: center;
-    width: 2.25rem;
-    height: 2.25rem;
-    border-radius: 50%;
-    background: var(--gold-light);
-    color: var(--gold-muted);
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.8rem;
-    font-weight: 700;
-  }
-
-  .steps h3 {
-    font-size: 1.3rem;
-    font-weight: 600;
-    line-height: 1.2;
-  }
-
-  .steps p {
-    color: var(--slate);
-    font-size: 0.9rem;
-    line-height: 1.65;
-  }
-
-  /* ================== LOCATIONS ================== */
-  .locations {
-    padding: clamp(3rem, 5vw, 4.5rem) 0;
-    background: var(--surface);
-    border-top: 1px solid var(--hairline);
-  }
-
-  .city-cloud {
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.95rem;
-    line-height: 2;
-  }
-
-  .city-chip {
-    color: var(--slate);
-    text-decoration: none;
-    white-space: nowrap;
-    transition: color 200ms ease;
-  }
-
-  .city-chip:not(:last-child)::after {
-    content: "·";
-    display: inline-block;
-    margin: 0 0.6rem;
-    color: var(--slate-muted);
-  }
-
-  .city-chip:hover {
-    color: var(--gold-muted);
-    text-decoration: underline;
-    text-underline-offset: 3px;
-  }
-
-  .cloud-label {
-    margin: 2rem 0 0.9rem;
-    color: var(--slate-muted);
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.75rem;
-    font-weight: 600;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-  }
-
-
-  /* ================== FAQ ================== */
-  .faq {
-    padding: clamp(3rem, 5vw, 4.5rem) 0;
-    border-top: 1px solid var(--hairline);
-  }
-
-  .faq-list {
-    background: #fff;
-    border: 1px solid var(--card-border);
-    border-radius: var(--radius);
-    box-shadow: var(--shadow);
-    overflow: hidden;
-  }
-
-  .faq-item {
-    padding: 0 clamp(1.25rem, 3vw, 1.75rem);
-    border-bottom: 1px solid var(--card-border);
-  }
-
-  .faq-item summary {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 1.5rem;
-    padding: 1.35rem 0;
-    color: var(--midnight);
-    font-family: 'Hanken Grotesk', system-ui, -apple-system, sans-serif;
-    font-size: clamp(1rem, 1.4vw, 1.15rem);
-    font-weight: 600;
-    letter-spacing: -0.01em;
-    list-style: none;
-    cursor: pointer;
-    transition: color 300ms ease;
-  }
-
-  .faq-item:last-child { border-bottom: none; }
-  .faq-item summary::-webkit-details-marker { display: none; }
-  .faq-item summary:hover { color: var(--slate); }
-
-  .faq-mark {
-    display: inline-grid;
-    place-items: center;
-    flex-shrink: 0;
-    width: 2rem;
-    height: 2rem;
-    border: 1px solid var(--hairline);
-    border-radius: 50%;
-    color: var(--gold-muted);
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 1.1rem;
-    font-weight: 300;
-    transition: all 400ms var(--ease);
-  }
-
-  .faq-item[open] .faq-mark {
-    transform: rotate(45deg);
-    background: var(--midnight);
-    border-color: var(--midnight);
-    color: var(--paper);
-  }
-
-  .faq-item p {
-    max-width: 54rem;
-    padding: 0 0 1.5rem;
-    color: var(--slate);
-    font-size: 0.95rem;
-    line-height: 1.8;
-  }
-
-  /* ================== CLOSING CTA ================== */
-  .closing {
-    padding: clamp(3rem, 5vw, 4.5rem) 0;
-    background: var(--surface-low);
-    border-top: 1px solid var(--hairline);
-    text-align: center;
-  }
-
-  .closing-inner {
-    max-width: 60rem;
-    margin: 0 auto;
-    padding: clamp(2.5rem, 5vw, 3.5rem) clamp(1.25rem, 4vw, 3rem);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background: #fff;
-    border: 1px solid var(--card-border);
-    border-radius: 28px;
-    box-shadow: var(--shadow);
-  }
-
-  .closing-inner h2 {
-    color: var(--midnight);
-    font-size: clamp(1.85rem, 3vw, 2.5rem);
-    max-width: 24ch;
-    margin: 0 auto 1rem;
-    line-height: 1.18;
-    font-weight: 700;
-  }
-
-  .closing-note {
-    max-width: 38rem;
-    margin: 0 auto 2rem;
-    color: var(--slate);
-    font-size: 0.95rem;
-    line-height: 1.7;
-  }
-
-  .closing-actions {
-    display: flex;
-    justify-content: center;
-  }
-
-  /* ================== HERO ACCENTS ================== */
-  .h1-accent {
-    background: linear-gradient(100deg, var(--gold-muted), var(--gold) 60%, #b8860b);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-  }
-
-  .cc {
-    display: inline-grid;
-    place-items: center;
-    min-width: 1.6rem;
-    height: 1.15rem;
-    padding: 0 0.25rem;
-    margin-right: 0.4rem;
-    border: 1px solid rgba(212, 175, 55, 0.45);
-    border-radius: 2px;
-    color: var(--gold-muted);
-    font-size: 0.62rem;
-    font-weight: 700;
-    letter-spacing: 0.06em;
+  /* =========================================================================
+     Bold editorial system: cream paper, 2px ink outlines, hard offset shadows,
+     amber as the only loud colour. Section bands alternate to break the page
+     up without extra vertical space. Tokens live in global.css (--bw-*).
+     ========================================================================= */
+  .sprite { position: absolute; width: 0; height: 0; overflow: hidden; }
+
+  .ico {
+    width: 1em; height: 1em;
+    flex: none;
+    fill: currentColor;
+    vertical-align: -0.125em;
   }
 
   .sr-only {
     position: absolute;
-    width: 1px;
-    height: 1px;
+    width: 1px; height: 1px;
+    padding: 0; margin: -1px;
     overflow: hidden;
     clip: rect(0 0 0 0);
     white-space: nowrap;
+    border: 0;
   }
 
-  /* ================== PRICING TABLE ================== */
-  .pricing-band {
-    padding: clamp(3rem, 5vw, 4.5rem) 0;
-    background:
-      radial-gradient(60rem 30rem at 85% -10%, rgba(212, 175, 55, 0.12), transparent 60%),
-      var(--midnight);
+  :global(body) {
+    background: var(--bw-paper);
+    color: var(--bw-ink);
+    font-family: var(--font-display);
+  }
+  :global(::selection) { background: var(--bw-amber); color: var(--bw-ink); }
+
+  h1, h2, h3 {
+    margin: 0;
+    font-family: var(--font-display);
+    color: var(--bw-ink);
+    font-weight: 800;
+    letter-spacing: -0.035em;
+    line-height: 1.04;
+    text-wrap: balance;
+  }
+  p { margin: 0; }
+
+  .shell {
+    max-width: 1320px;
+    margin: 0 auto;
+    padding: 0 clamp(1rem, 4vw, 3.25rem);
   }
 
-  .pricing-band h2 { color: #F8F9FA; }
-  .pricing-band .section-note { color: #94A3B8; }
+  /* ---------- bands ---------- */
+  .band { padding: clamp(2.75rem, 5vw, 4.5rem) 0; border-bottom: var(--bw-bd); }
+  .band-butter { background: var(--bw-butter); }
+  .band-sky    { background: var(--bw-sky); }
+  .band-blush  { background: var(--bw-blush); }
+  .band-amber  { background: var(--bw-amber); }
+  .band-ink    { background: var(--bw-ink); }
+  .band-mint   { background: var(--bw-mint); }
 
-  .price-table-wrap {
-    overflow-x: auto;
-    border: 1px solid var(--card-border);
-    border-radius: var(--radius);
-    background: #fff;
-    box-shadow: var(--shadow);
-  }
+  .band-ink h2, .band-ink h3 { color: #FFFFFF; }
+  .band-ink .note { color: #A8ACB4; }
 
-  .pricing-band .price-table-wrap {
-    border-color: rgba(255, 255, 255, 0.08);
-    background: rgba(255, 255, 255, 0.03);
-    box-shadow: none;
-  }
-
-  .price-table {
-    width: 100%;
-    min-width: 40rem;
-    border-collapse: collapse;
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.9rem;
-    text-align: left;
-  }
-
-  .price-table thead th {
-    padding: 0.95rem 1.25rem;
+  /* ---------- tags ---------- */
+  .tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    margin: 0 0 0.9rem;
+    padding: 0.35rem 0.8rem;
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: 999px;
+    box-shadow: var(--bw-sh-sm);
+    color: var(--bw-ink);
     font-size: 0.72rem;
-    font-weight: 600;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: var(--slate-muted);
-    background: var(--surface-low);
-    border-bottom: 1px solid var(--hairline);
+    font-weight: 700;
+    letter-spacing: 0.05em;
+  }
+  .tag-plain { text-transform: uppercase; letter-spacing: 0.12em; font-size: 0.68rem; }
+  .tag-light { background: transparent; border-color: rgba(255, 255, 255, 0.3); color: #FFFFFF; box-shadow: none; }
+
+  .tag-dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--bw-amber);
+    box-shadow: 0 0 0 2px var(--bw-ink);
+    animation: blink 2.4s ease-in-out infinite;
+  }
+  @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+
+  /* ---------- heads ---------- */
+  .head { max-width: 50rem; margin-bottom: clamp(1.5rem, 3vw, 2.25rem); }
+  .head h2 { font-size: clamp(1.85rem, 4vw, 3rem); }
+  .head-tight { margin-top: clamp(2.25rem, 4.5vw, 3.5rem); }
+
+  .note {
+    margin-top: 0.85rem;
+    max-width: 44rem;
+    color: var(--bw-ink-soft);
+    font-size: 0.97rem;
+    font-weight: 400;
+    line-height: 1.65;
+  }
+  .note-sm { font-size: 0.9rem; }
+  .note a { color: var(--bw-ink); font-weight: 700; text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 3px; text-decoration-color: var(--bw-amber); }
+  .note a:hover { text-decoration-color: var(--bw-ink); }
+
+  .mark {
+    background: linear-gradient(transparent 58%, var(--bw-amber) 58%, var(--bw-amber) 94%, transparent 94%);
+    padding: 0 0.08em;
   }
 
-  .price-table tbody th,
-  .price-table td {
-    padding: 1rem 1.25rem;
-    vertical-align: top;
-    line-height: 1.5;
-    border-bottom: 1px solid var(--hairline);
+  /* ---------- reveal ---------- */
+  .reveal { opacity: 0; transform: translateY(14px); transition: opacity 620ms var(--bw-ease), transform 620ms var(--bw-ease); }
+  .reveal.shown { opacity: 1; transform: none; }
+
+  /* ---------- buttons ---------- */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.85rem 1.5rem;
+    border: var(--bw-bd);
+    border-radius: 999px;
+    box-shadow: var(--bw-sh);
+    font-family: var(--font-display);
+    font-size: 0.92rem;
+    font-weight: 800;
+    text-decoration: none;
+    cursor: pointer;
+    transition: transform 220ms var(--bw-ease), box-shadow 220ms var(--bw-ease), background 220ms ease;
+  }
+  .btn:hover { transform: translate(-2px, -2px); box-shadow: 7px 7px 0 var(--bw-ink); }
+  .btn:active { transform: translate(2px, 2px); box-shadow: 0 0 0 var(--bw-ink); }
+
+  .btn-amber { background: var(--bw-amber); color: var(--bw-ink); }
+  .btn-amber:hover { background: var(--bw-amber-deep); }
+  .btn-white { background: var(--bw-card); color: var(--bw-ink); }
+  .btn-white:hover { background: var(--bw-butter); }
+  .btn-ink { background: var(--bw-ink); color: #FFFFFF; box-shadow: 5px 5px 0 var(--bw-card); }
+  .btn-ink:hover { box-shadow: 7px 7px 0 var(--bw-card); }
+  .btn-ink:active { box-shadow: 0 0 0 var(--bw-card); }
+
+  .arr { transition: transform 280ms var(--bw-ease); }
+  .btn:hover .arr { transform: translateX(4px); }
+
+  .btn-row { display: flex; flex-wrap: wrap; gap: 0.7rem; margin-top: 1.6rem; }
+  .btn-row-sm { margin-top: 1.25rem; }
+  .btn-row-sm .btn { padding: 0.7rem 1.2rem; font-size: 0.83rem; box-shadow: var(--bw-sh-sm); }
+  .btn-row-sm .btn:hover { box-shadow: var(--bw-sh); }
+  .btn-row-center { justify-content: center; }
+
+  :where(a, button, summary, [tabindex]):focus-visible {
+    outline: 3px solid var(--bw-ink);
+    outline-offset: 3px;
+  }
+  .band-ink :where(a, button):focus-visible, .band-amber .btn-ink:focus-visible { outline-color: var(--bw-amber); }
+
+  /* =========================== HERO =========================== */
+  .hero {
+    position: relative;
+    overflow: hidden;
+    padding: clamp(2rem, 4vw, 3.5rem) 0 clamp(2rem, 3.5vw, 3rem);
+    border-bottom: var(--bw-bd);
+    background: var(--bw-paper);
+  }
+  /* Grid paper, drawn once behind everything. */
+  .hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      repeating-linear-gradient(0deg, rgba(18, 19, 22, 0.055) 0 1px, transparent 1px 34px),
+      repeating-linear-gradient(90deg, rgba(18, 19, 22, 0.055) 0 1px, transparent 1px 34px);
+    -webkit-mask-image: radial-gradient(130% 90% at 50% 15%, #000 35%, transparent 78%);
+    mask-image: radial-gradient(130% 90% at 50% 15%, #000 35%, transparent 78%);
+    pointer-events: none;
+  }
+  .hero > * { position: relative; }
+
+  .hero-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.12fr) minmax(0, 1fr);
+    gap: clamp(1.75rem, 3.5vw, 3rem);
+    align-items: center;
   }
 
-  .price-table tbody tr:last-child > * { border-bottom: none; }
-  .price-table tbody th { font-weight: 600; color: var(--midnight); }
-  .price-table td { color: var(--slate); }
-  .price-table tbody tr { transition: background 200ms ease; }
-  .price-table tbody tr:hover { background: var(--surface-low); }
-  .price-table a { color: var(--midnight); text-underline-offset: 3px; text-decoration-color: var(--gold); }
-  .nowrap { white-space: nowrap; }
-
-  .pricing-band .price-table thead th {
-    background: rgba(255, 255, 255, 0.04);
-    color: rgba(212, 175, 55, 0.85);
-    border-color: rgba(255, 255, 255, 0.08);
+  h1 {
+    font-size: clamp(2rem, 3.9vw, 3.05rem);
+    font-weight: 900;
+    letter-spacing: -0.04em;
+    line-height: 1.02;
+    margin-bottom: 1rem;
+    max-width: 24ch;
   }
-  .pricing-band .price-table tbody th { color: #F8F9FA; }
-  .pricing-band .price-table td { color: #CBD5E1; border-color: rgba(255, 255, 255, 0.06); }
-  .pricing-band .price-table tbody th { border-color: rgba(255, 255, 255, 0.06); }
-  .pricing-band .price-table tbody tr:hover { background: rgba(255, 255, 255, 0.04); }
 
-  .price-cell strong {
-    display: block;
-    color: var(--gold);
-    font-size: 1.05rem;
-    white-space: nowrap;
+  .lede {
+    max-width: 33rem;
+    color: var(--bw-ink-soft);
+    font-size: clamp(0.97rem, 1.2vw, 1.08rem);
+    font-weight: 400;
+    line-height: 1.65;
   }
-  .price-cell small { font-size: 0.72rem; font-weight: 500; color: #94A3B8; }
-  .price-cell span { font-size: 0.78rem; color: #94A3B8; white-space: nowrap; }
 
-  .table-foot {
-    margin-top: 1rem;
-    color: #94A3B8;
-    font-size: 0.82rem;
-    line-height: 1.6;
+  /* The three engineers, named — the most humanising thing on the page. */
+  .team {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    margin-top: 1.5rem;
+    padding: 0.7rem 0.95rem 0.7rem 0.75rem;
+    width: fit-content;
+    max-width: 100%;
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: 999px;
+    box-shadow: var(--bw-sh-sm);
+    transform: rotate(-0.6deg);
+    transition: transform 260ms var(--bw-ease), box-shadow 260ms var(--bw-ease);
   }
-  .table-foot a { color: var(--gold); font-weight: 600; text-decoration: none; margin-left: 0.35rem; }
-  .table-foot a:hover { text-decoration: underline; }
+  .team:hover { transform: rotate(0deg) translate(-2px, -2px); box-shadow: var(--bw-sh); }
 
-  .cloud-label-light { color: rgba(212, 175, 55, 0.75); margin-top: 2.5rem; }
+  .team-faces { display: inline-flex; flex: none; }
+  .team-faces span {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem; height: 2rem;
+    margin-right: -0.55rem;
+    border: 2px solid var(--bw-ink);
+    border-radius: 50%;
+    font-size: 0.62rem;
+    font-weight: 900;
+    letter-spacing: 0.02em;
+  }
+  .team-faces span:nth-child(1) { background: var(--bw-amber); }
+  .team-faces span:nth-child(2) { background: var(--bw-sky); }
+  .team-faces span:nth-child(3) { background: var(--bw-mint); margin-right: 0; }
 
-  .tech-list {
+  .team p { min-width: 0; font-size: 0.78rem; font-weight: 500; line-height: 1.35; color: var(--bw-ink-soft); }
+  .team strong { display: block; color: var(--bw-ink); font-size: 0.82rem; font-weight: 800; }
+
+  .hero-trust {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem;
-    margin: 0;
+    gap: 0.5rem 1.25rem;
+    margin: 1.4rem 0 0;
     padding: 0;
     list-style: none;
   }
-
-  .tech-list li {
-    padding: 0.4rem 0.85rem;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    border-radius: 999px;
-    color: #CBD5E1;
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.8rem;
-    transition: border-color 200ms ease, color 200ms ease;
+  .hero-trust li {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    color: var(--bw-ink);
+    font-size: 0.83rem;
+    font-weight: 700;
   }
-  .tech-list li:hover { border-color: var(--gold); color: #fff; }
+  .hero-trust .ico { color: var(--bw-amber-deep); font-size: 0.85rem; }
 
-  /* ================== MARKETS ================== */
-  .market-table-wrap { margin-bottom: clamp(2.5rem, 5vw, 3.5rem); }
-  .market-table { min-width: 34rem; }
-  .market-table tbody th { white-space: nowrap; }
+  .hero-origin {
+    margin-top: 0.9rem;
+    color: var(--bw-ink-mute);
+    font-size: 0.76rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+  }
 
-  .india-head {
-    font-size: clamp(1.25rem, 2vw, 1.5rem);
+  /* ---------- hero artwork ---------- */
+  .hero-art {
+    position: relative;
+    min-width: 0;
+    padding: 1.5rem 0.5rem 2rem;
+    min-height: 23rem;
+  }
+
+  .browser {
+    position: relative;
+    z-index: 2;
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r);
+    box-shadow: var(--bw-sh-lg);
+    overflow: hidden;
+    transform: rotate(-1.2deg);
+    animation: float-y 7s ease-in-out infinite;
+  }
+
+  @keyframes float-y {
+    0%, 100% { transform: rotate(-1.2deg) translateY(0); }
+    50%      { transform: rotate(-1.2deg) translateY(-10px); }
+  }
+
+  .b-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.55rem 0.7rem;
+    background: var(--bw-paper-2);
+    border-bottom: var(--bw-bd);
+  }
+  .b-bar i {
+    width: 9px; height: 9px;
+    flex: none;
+    border: 1.5px solid var(--bw-ink);
+    border-radius: 50%;
+    background: var(--bw-card);
+  }
+  .b-bar i:first-child { background: var(--bw-amber); }
+
+  .b-url {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    flex: 1;
+    min-width: 0;
+    margin-left: 0.35rem;
+    padding: 0.2rem 0.6rem;
+    background: var(--bw-card);
+    border: 1.5px solid var(--bw-ink);
+    border-radius: 999px;
+    color: var(--bw-ink-mute);
+    font-size: 0.68rem;
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .b-body { padding: 0.85rem; }
+
+  .b-nav {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1.5px solid rgba(18, 19, 22, 0.12);
+  }
+  .b-nav span { width: 2.2rem; height: 7px; border-radius: 999px; background: rgba(18, 19, 22, 0.16); }
+  .b-nav .b-nav-cta { width: 3.2rem; height: 15px; margin-left: auto; border: 1.5px solid var(--bw-ink); border-radius: 999px; background: var(--bw-amber); }
+
+  .b-hero { display: grid; gap: 0.45rem; padding: 0.95rem 0; }
+  .b-line { height: 13px; border-radius: 4px; background: var(--bw-ink); animation: grow 5s var(--bw-ease) infinite; }
+  .b-line.l1 { width: 78%; }
+  .b-line.l2 { width: 58%; animation-delay: 0.25s; }
+  .b-line.l3 { width: 42%; height: 8px; background: rgba(18, 19, 22, 0.28); animation-delay: 0.5s; }
+  .b-btn { width: 5.4rem; height: 1.45rem; margin-top: 0.35rem; border: 1.5px solid var(--bw-ink); border-radius: 999px; background: var(--bw-amber); animation: grow 5s var(--bw-ease) 0.75s infinite; }
+
+  @keyframes grow {
+    0%, 8%   { transform: scaleX(0); }
+    26%, 82% { transform: scaleX(1); }
+    96%, 100% { transform: scaleX(0); }
+  }
+  .b-line, .b-btn { transform-origin: left center; }
+
+  .b-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.45rem; }
+  .b-cards span {
+    height: 3.1rem;
+    border: 1.5px solid var(--bw-ink);
+    border-radius: 8px;
+    background: var(--bw-paper-2);
+  }
+  .b-cards span:nth-child(2) { background: var(--bw-sky); }
+  .b-cards span:nth-child(3) { background: var(--bw-mint); }
+
+  /* 3D extruded brand tile */
+  .logo3d {
+    position: absolute;
+    z-index: 3;
+    top: 0.1rem;
+    left: -0.6rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 3.4rem; height: 3.4rem;
+    background: var(--bw-amber);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r-sm);
+    box-shadow: 2px 2px 0 var(--bw-ink), 4px 4px 0 var(--bw-ink), 6px 6px 0 var(--bw-ink), 8px 8px 0 var(--bw-ink), 10px 10px 0 var(--bw-ink);
+    transform: rotate(-8deg);
+    animation: tilt 9s ease-in-out infinite;
+  }
+  .logo3d :global(img) { width: 2.1rem; height: auto; display: block; }
+
+  @keyframes tilt {
+    0%, 100% { transform: rotate(-8deg) translateY(0); }
+    50%      { transform: rotate(-3deg) translateY(-6px); }
+  }
+
+  .chip {
+    position: absolute;
+    z-index: 4;
+    padding: 0.4rem 0.8rem;
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: 999px;
+    box-shadow: var(--bw-sh-sm);
+    font-size: 0.72rem;
+    font-weight: 800;
+    white-space: nowrap;
+    animation: float-y-sm 6s ease-in-out infinite;
+  }
+  .chip-a { top: 1.4rem; right: 0.2rem; background: var(--bw-mint); transform: rotate(3deg); }
+  .chip-b { top: 45%; left: -1.2rem; background: var(--bw-sky); transform: rotate(-4deg); animation-delay: 1.1s; }
+  .chip-c { bottom: 3.6rem; right: -0.6rem; background: var(--bw-blush); transform: rotate(2deg); animation-delay: 2.2s; }
+
+  @keyframes float-y-sm {
+    0%, 100% { translate: 0 0; }
+    50%      { translate: 0 -8px; }
+  }
+
+  .wa-note {
+    position: absolute;
+    z-index: 5;
+    right: 0.4rem;
+    bottom: -0.4rem;
+    width: min(16rem, 70%);
+    padding: 0.7rem 0.85rem;
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r);
+    box-shadow: var(--bw-sh);
+    transform: rotate(1.5deg);
+  }
+  .wa-note-head {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: var(--bw-ink-mute);
+    font-size: 0.64rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+  .wa-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--bw-green); box-shadow: 0 0 0 1.5px var(--bw-ink); }
+  .wa-note p { margin: 0.35rem 0; font-size: 0.79rem; font-weight: 600; line-height: 1.45; }
+  .wa-note-foot { color: var(--bw-ink-mute); font-size: 0.66rem; font-weight: 700; }
+
+  /* ---------- stat row ---------- */
+  .stat-row {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0.7rem;
+    margin: clamp(1.75rem, 3.5vw, 2.75rem) 0 0;
+    padding: 0;
+    list-style: none;
+  }
+  .stat-row li {
+    padding: 0.95rem 1.1rem;
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r);
+    box-shadow: var(--bw-sh-sm);
+    transition: transform 240ms var(--bw-ease), box-shadow 240ms var(--bw-ease);
+  }
+  .stat-row li:hover { transform: translate(-2px, -2px); box-shadow: var(--bw-sh); }
+  .stat-row strong { display: block; font-size: clamp(1.5rem, 2.6vw, 2.1rem); font-weight: 900; letter-spacing: -0.04em; line-height: 1.05; }
+  .stat-row span { display: block; margin-top: 0.15rem; color: var(--bw-ink-soft); font-size: 0.76rem; font-weight: 500; line-height: 1.4; }
+
+  /* =========================== MARQUEE =========================== */
+  .marquee {
+    overflow: hidden;
+    padding: 0.6rem 0;
+    background: var(--bw-ink);
+    border-bottom: var(--bw-bd);
+  }
+  .marquee-track { display: flex; width: max-content; animation: slide-left 48s linear infinite; }
+  .marquee:hover .marquee-track { animation-play-state: paused; }
+  .marquee-set { display: flex; align-items: center; }
+  .marquee-item {
+    display: inline-flex;
+    align-items: center;
+    padding: 0 1.1rem;
+    color: #FFFFFF;
+    font-size: 0.76rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  .marquee-item::after { content: ""; width: 5px; height: 5px; margin-left: 1.1rem; border-radius: 50%; background: var(--bw-amber); }
+  @keyframes slide-left { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+
+  /* =========================== CARDS =========================== */
+  .bento {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    gap: 0.8rem;
+  }
+
+  .card {
+    position: relative;
+    display: block;
+    min-width: 0;
+    overflow-wrap: anywhere;
+    padding: 1.4rem;
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r);
+    box-shadow: var(--bw-sh-sm);
+    color: inherit;
+    text-decoration: none;
+    transition: transform 240ms var(--bw-ease), box-shadow 240ms var(--bw-ease);
+  }
+  .card:hover { transform: translate(-3px, -3px); box-shadow: var(--bw-sh-lg); }
+
+  .card-lg { grid-column: span 6; }
+  .card-md { grid-column: span 3; }
+  .card-sm { grid-column: span 4; }
+
+  .card-num {
+    position: absolute;
+    top: 1rem; right: 1.1rem;
+    color: rgba(18, 19, 22, 0.14);
+    font-size: 1.5rem;
+    font-weight: 900;
+    letter-spacing: -0.05em;
+  }
+  .card:hover .card-num { color: var(--bw-amber); }
+
+  .card h3 { font-size: 1.1rem; margin-bottom: 0.5rem; padding-right: 2rem; }
+  .card > p { color: var(--bw-ink-soft); font-size: 0.875rem; font-weight: 400; line-height: 1.6; }
+
+  .ticks { display: grid; gap: 0.32rem; margin: 0.95rem 0 0; padding: 0; list-style: none; }
+  .ticks li {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.4rem;
+    color: var(--bw-ink-soft);
+    font-size: 0.79rem;
+    font-weight: 600;
+    line-height: 1.45;
+  }
+  .ticks .ico { margin-top: 0.22em; font-size: 0.72rem; color: var(--bw-amber-deep); }
+
+
+  /* =========================== BROWSER SHOT =========================== */
+  .shot {
+    display: block;
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r);
+    box-shadow: var(--bw-sh);
+    overflow: hidden;
+    text-decoration: none;
+    transition: transform 280ms var(--bw-ease), box-shadow 280ms var(--bw-ease);
+  }
+  .shot:hover { transform: translate(-3px, -3px); box-shadow: var(--bw-sh-lg); }
+
+  .shot-go { margin-left: 0.2rem; color: var(--bw-ink); font-size: 0.85rem; }
+
+  .shot-view { display: block; position: relative; overflow: hidden; border-top: var(--bw-bd); }
+
+  .shot-img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
+    object-position: top center;
+    transition: transform 700ms var(--bw-ease);
+  }
+  .shot:hover .shot-img { transform: scale(1.03); }
+  .shot-view { will-change: transform; }
+
+  .shot-hover {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding: 1.1rem;
+    background: linear-gradient(to top, rgba(18, 19, 22, 0.7), transparent 55%);
+    opacity: 0;
+    transition: opacity 300ms var(--bw-ease);
+  }
+  .shot:hover .shot-hover, .shot:focus-visible .shot-hover { opacity: 1; }
+
+  .shot-pill {
+    padding: 0.55rem 1.1rem;
+    background: var(--bw-amber);
+    border: var(--bw-bd);
+    border-radius: 999px;
+    box-shadow: var(--bw-sh-sm);
+    color: var(--bw-ink);
+    font-size: 0.8rem;
+    font-weight: 800;
+  }
+
+  /* =========================== SHIPPED =========================== */
+  .ship-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr)); gap: 1rem; }
+
+  .ship {
+    min-width: 0;
+    overflow-wrap: anywhere;
+    display: flex;
+    flex-direction: column;
+    gap: 1.1rem;
+    padding: 1rem;
+    background: var(--bw-paper-2);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r-lg);
+    box-shadow: var(--bw-sh);
+  }
+
+  .flags { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 0.8rem; }
+  .flag {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.32rem 0.7rem;
+    background: var(--bw-card);
+    border: 2px solid var(--bw-ink);
+    border-radius: 999px;
+    color: var(--bw-ink);
+    font-size: 0.66rem;
+    font-weight: 800;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+  }
+  .flag-live { background: var(--bw-amber); }
+  .pulse { width: 7px; height: 7px; border-radius: 50%; background: var(--bw-ink); animation: blink 2.2s ease-in-out infinite; }
+
+  .ship h3 { font-size: clamp(1.25rem, 2vw, 1.6rem); }
+  .ship-sector { margin-top: 0.35rem; color: var(--bw-ink-mute); font-size: 0.72rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; }
+  .ship-sum { margin-top: 0.75rem; color: var(--bw-ink-soft); font-size: 0.9rem; font-weight: 400; line-height: 1.6; }
+
+  .scope {
+    display: grid;
+    gap: 0.75rem;
+    margin: 1.1rem 0 0;
+    padding: 1rem;
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r);
+  }
+  .scope dt { display: flex; align-items: center; gap: 0.4rem; font-size: 0.84rem; font-weight: 800; }
+  .scope dt .ico { color: var(--bw-amber-deep); font-size: 0.78rem; }
+  .scope dd { margin: 0.25rem 0 0 1.2rem; color: var(--bw-ink-soft); font-size: 0.82rem; font-weight: 400; line-height: 1.55; }
+
+  /* Inline pills, so three numbers never become three stacked rows. */
+  .pill-row { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 1.1rem 0 0; padding: 0; list-style: none; }
+  .pill-row li {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.35rem;
+    padding: 0.4rem 0.8rem;
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: 999px;
+    box-shadow: var(--bw-sh-sm);
+    color: var(--bw-ink-soft);
+    font-size: 0.72rem;
     font-weight: 600;
   }
-  .india-note { margin: 0.5rem 0 1.5rem; }
+  .pill-row strong { color: var(--bw-ink); font-size: 0.86rem; font-weight: 900; letter-spacing: -0.02em; }
 
-  /* ================== RESPONSIVE ================== */
-  @media (max-width: 1024px) {
-    .hero-inner {
-      grid-template-columns: 1fr;
-      gap: 2rem;
-    }
-    .hero-image-panel {
-      justify-self: center;
-      max-width: 28rem;
-    }
-    .hero-badge-tr { right: 0.5rem; }
-    .hero-badge-bl { left: 0.5rem; }
-    .bento {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
-    .work-showcase {
-      grid-template-columns: 1fr;
-      gap: 2.5rem;
-    }
-    .stat-band {
-      grid-template-columns: 1fr 1fr;
-    }
-    .comparison-table { font-size: 0.82rem; }
+  /* =========================== SLIDER =========================== */
+  .slider { position: relative; }
+
+  .rail {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .rail::-webkit-scrollbar { display: none; }
+  .rail:focus-visible { outline-offset: 6px; }
+
+  .slide { flex: 0 0 100%; min-width: 0; max-width: 100%; scroll-snap-align: start; }
+
+  .slider-ui { display: flex; align-items: center; justify-content: center; gap: 0.9rem; margin-top: 1.4rem; }
+
+  .nav-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.75rem; height: 2.75rem;
+    flex: none;
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: 50%;
+    box-shadow: var(--bw-sh-sm);
+    color: var(--bw-ink);
+    font-size: 1rem;
+    cursor: pointer;
+    transition: transform 220ms var(--bw-ease), box-shadow 220ms var(--bw-ease), background 220ms ease, opacity 220ms ease;
+  }
+  .nav-btn:hover:not(:disabled) { background: var(--bw-amber); transform: translate(-2px, -2px); box-shadow: var(--bw-sh); }
+  .nav-btn:active:not(:disabled) { transform: translate(2px, 2px); box-shadow: 0 0 0 var(--bw-ink); }
+  .nav-btn:disabled { opacity: 0.35; cursor: not-allowed; }
+
+  .dots {
+    display: flex;
+    align-items: center;
+    gap: 0.1rem;
+    margin: 0;
+    padding: 0.25rem 0.6rem;
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: 999px;
+    box-shadow: var(--bw-sh-sm);
+    list-style: none;
+  }
+  .dots button {
+    position: relative;
+    width: 24px; height: 24px;
+    padding: 0;
+    border: 0;
+    background: none;
+    cursor: pointer;
+  }
+  .dots button::before {
+    content: "";
+    position: absolute;
+    top: 50%; left: 50%;
+    width: 9px; height: 9px;
+    border: 1.5px solid var(--bw-ink);
+    border-radius: 999px;
+    background: var(--bw-card);
+    transform: translate(-50%, -50%);
+    transition: width 320ms var(--bw-ease), background 320ms ease;
+  }
+  .dots button.on::before { width: 24px; background: var(--bw-amber); }
+
+  /* =========================== PROOF OF WORK =========================== */
+  .work {
+    min-width: 0;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: clamp(1.25rem, 2.5vw, 2rem);
+    align-items: start;
+    padding: clamp(1rem, 2vw, 1.5rem);
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r-lg);
+    box-shadow: var(--bw-sh);
   }
 
-  @media (max-width: 768px) {
-    h1 { font-size: clamp(2rem, 9vw, 2.75rem); max-width: 100%; }
-    .build-grid { grid-template-columns: 1fr; }
-    .steps { grid-template-columns: 1fr; }
-    .service-points { grid-template-columns: 1fr; }
-    .build-points { grid-template-columns: 1fr; }
-    .col-agency, .col-cheap, .td-agency, .td-cheap { display: none; }
-    .col-aspect { width: 45%; }
-    .col-us { width: 55%; }
-    .closing-inner { text-align: center; }
+  .work-title { font-size: clamp(1.3rem, 2.2vw, 1.8rem); }
+  .work-desc { margin-top: 0.7rem; color: var(--bw-ink-soft); font-size: 0.9rem; font-weight: 400; line-height: 1.6; }
+
+  .tabs {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+    margin-top: 1.1rem;
+    padding: 0.3rem;
+    background: var(--bw-paper-2);
+    border: var(--bw-bd);
+    border-radius: 999px;
+  }
+  .tab {
+    padding: 0.45rem 0.95rem;
+    border: 2px solid transparent;
+    border-radius: 999px;
+    background: transparent;
+    color: var(--bw-ink-soft);
+    font-family: var(--font-display);
+    font-size: 0.78rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background 200ms ease, color 200ms ease, border-color 200ms ease;
+  }
+  .tab:hover { color: var(--bw-ink); }
+  .tab.active { background: var(--bw-amber); border-color: var(--bw-ink); color: var(--bw-ink); }
+
+  .panels { margin-top: 0.9rem; }
+  .panel { display: none; }
+  .panel.active { display: block; animation: fade-up 420ms var(--bw-ease); }
+  @keyframes fade-up { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+
+  .checklist {
+    display: grid;
+    gap: 0.65rem;
+    margin: 0;
+    padding: 0.95rem 1.05rem;
+    background: var(--bw-paper-2);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r);
+    list-style: none;
+  }
+  .checklist li { display: flex; align-items: flex-start; gap: 0.5rem; color: var(--bw-ink-soft); font-size: 0.82rem; font-weight: 400; line-height: 1.55; }
+  .checklist .ico { margin-top: 0.25em; font-size: 0.76rem; color: var(--bw-amber-deep); }
+  .checklist strong { color: var(--bw-ink); font-weight: 800; }
+
+  .work-art { display: flex; flex-direction: column; gap: 0.9rem; min-width: 0; }
+  .work-art .pill-row { margin-top: 0; }
+
+  /* Slide content eases in as its slide becomes active. */
+  .slide .work-copy > *, .slide .work-art { transform: translateY(10px); transition: transform 520ms var(--bw-ease); }
+  .slide.is-active .work-copy > *, .slide.is-active .work-art { transform: none; }
+  .slide.is-active .work-copy > *:nth-child(2) { transition-delay: 50ms; }
+  .slide.is-active .work-copy > *:nth-child(3) { transition-delay: 95ms; }
+  .slide.is-active .work-copy > *:nth-child(4) { transition-delay: 140ms; }
+  .slide.is-active .work-copy > *:nth-child(5) { transition-delay: 185ms; }
+  .slide.is-active .work-copy > *:nth-child(6) { transition-delay: 230ms; }
+  .slide.is-active .work-art { transition-delay: 80ms; }
+
+  /* =========================== REVIEWS TICKER =========================== */
+  .ticker {
+    margin-top: clamp(1.5rem, 3vw, 2.25rem);
+    overflow-x: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    -webkit-mask-image: linear-gradient(90deg, transparent, #000 4%, #000 96%, transparent);
+    mask-image: linear-gradient(90deg, transparent, #000 4%, #000 96%, transparent);
+  }
+  .ticker::-webkit-scrollbar { display: none; }
+
+  .ticker-track {
+    display: flex;
+    width: max-content;
+    animation: slide-left 64s linear infinite;
+    will-change: transform;
+  }
+  .ticker:hover .ticker-track,
+  .ticker:focus-within .ticker-track { animation-play-state: paused; }
+
+  .ticker-set { display: flex; align-items: flex-start; }
+
+  .review {
+    display: flex;
+    flex-direction: column;
+    width: clamp(17rem, 24vw, 22rem);
+    flex: none;
+    margin: 0 0.5rem;
+    padding: 1.25rem;
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r-lg);
+    box-shadow: var(--bw-sh);
+    transition: transform 240ms var(--bw-ease), box-shadow 240ms var(--bw-ease);
+  }
+  .review:hover { transform: translate(-3px, -3px); box-shadow: var(--bw-sh-lg); }
+
+  .stars { display: flex; gap: 0.1rem; margin-bottom: 0.7rem; }
+  .stars svg { width: 1.05rem; height: 1.05rem; fill: var(--bw-amber); stroke: var(--bw-ink); stroke-width: 1.1; }
+
+  .review h3 { font-size: 1rem; margin-bottom: 0.5rem; }
+
+  .review-body {
+    color: var(--bw-ink-soft);
+    font-size: 0.855rem;
+    font-weight: 400;
+    line-height: 1.6;
+    overflow-wrap: anywhere;
+  }
+
+  .review-who {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin-top: 1rem;
+    padding-top: 0.85rem;
+    border-top: 2px solid rgba(18, 19, 22, 0.12);
+  }
+  .avatar {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.2rem; height: 2.2rem;
+    flex: none;
+    background: var(--bw-amber);
+    border: var(--bw-bd);
+    border-radius: 50%;
+    font-size: 0.72rem;
+    font-weight: 900;
+  }
+  .review-who strong { display: block; font-size: 0.85rem; font-weight: 800; }
+  .review-who small { display: block; color: var(--bw-ink-mute); font-size: 0.71rem; font-weight: 600; }
+
+  /* =========================== TABLES =========================== */
+  .tbl-wrap {
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r-lg);
+    box-shadow: var(--bw-sh);
+    overflow-x: auto;
+  }
+  .band-ink .tbl-wrap { background: #1B1D21; border-color: #3A3D43; box-shadow: 5px 5px 0 #000000; }
+
+  .tbl { width: 100%; min-width: 42rem; border-collapse: collapse; font-size: 0.85rem; }
+
+  .tbl thead th {
+    padding: 0.85rem 1rem;
+    background: var(--bw-paper-2);
+    border-bottom: var(--bw-bd);
+    color: var(--bw-ink);
+    font-size: 0.66rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    text-align: left;
+    white-space: nowrap;
+  }
+  .band-ink .tbl thead th { background: #121316; border-bottom-color: #3A3D43; color: var(--bw-amber); }
+
+  .tbl tbody th, .tbl td {
+    padding: 0.9rem 1rem;
+    border-bottom: 1.5px solid rgba(18, 19, 22, 0.1);
+    text-align: left;
+    vertical-align: top;
+    line-height: 1.5;
+  }
+  .tbl tbody th { font-weight: 800; }
+  .tbl td { color: var(--bw-ink-soft); font-weight: 400; }
+  .tbl tbody tr:last-child > * { border-bottom: 0; }
+  .tbl tbody tr:hover { background: var(--bw-paper-2); }
+
+  .band-ink .tbl tbody th { color: #FFFFFF; border-bottom-color: #2C2F34; }
+  .band-ink .tbl td { color: #A8ACB4; border-bottom-color: #2C2F34; }
+  .band-ink .tbl tbody tr:hover { background: rgba(255, 255, 255, 0.04); }
+
+  .tbl a { color: inherit; font-weight: 700; text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 3px; text-decoration-color: var(--bw-amber); }
+  .nowrap { white-space: nowrap; }
+
+  .price-cell strong { display: block; color: #FFFFFF; font-size: 1.05rem; font-weight: 900; letter-spacing: -0.02em; white-space: nowrap; }
+  .price-cell span { display: block; color: var(--bw-amber); font-size: 0.78rem; font-weight: 700; white-space: nowrap; }
+
+  .tbl-foot { margin-top: 1rem; color: #A8ACB4; font-size: 0.82rem; font-weight: 400; line-height: 1.6; }
+  .tbl-foot a { color: var(--bw-amber); font-weight: 800; text-decoration: none; margin-left: 0.25rem; border-bottom: 2px solid var(--bw-amber); }
+
+  .mini-label { margin-top: clamp(1.75rem, 3.5vw, 2.5rem); color: var(--bw-amber); font-size: 0.66rem; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; }
+
+  .tech-list { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.8rem 0 0; padding: 0; list-style: none; }
+  .tech-list li {
+    padding: 0.4rem 0.85rem;
+    border: 2px solid #3A3D43;
+    border-radius: 999px;
+    color: #C4C8CE;
+    font-size: 0.76rem;
+    font-weight: 700;
+    transition: color 200ms ease, border-color 200ms ease, background 200ms ease;
+  }
+  .tech-list li:hover { background: var(--bw-amber); border-color: var(--bw-amber); color: var(--bw-ink); }
+
+  .c-us span { display: flex; align-items: flex-start; gap: 0.4rem; color: var(--bw-ink); font-weight: 700; }
+  .c-us .ico { margin-top: 0.25em; font-size: 0.75rem; color: var(--bw-amber-deep); }
+  .c-mid { color: var(--bw-ink-mute); }
+  .cmp-tbl .c-us { width: 28%; background: var(--bw-butter); }
+  .cmp-tbl .c-aspect { width: 18%; }
+  .cmp-tbl .c-mid { width: 27%; }
+
+  .mkt-tbl { min-width: 36rem; }
+  .mkt-tbl tbody th { white-space: nowrap; }
+  .cc {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    margin-right: 0.5rem;
+    padding: 0.1rem 0;
+    background: var(--bw-amber);
+    border: 1.5px solid var(--bw-ink);
+    border-radius: 6px;
+    font-size: 0.64rem;
+    font-weight: 900;
+  }
+
+  /* =========================== BUILDS + PROCESS =========================== */
+  .build-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.9rem; }
+
+  .build {
+    display: block;
+    min-width: 0;
+    overflow-wrap: anywhere;
+    padding: 1.5rem;
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r-lg);
+    box-shadow: var(--bw-sh);
+    text-decoration: none;
+    transition: transform 240ms var(--bw-ease), box-shadow 240ms var(--bw-ease);
+  }
+  .build:hover { transform: translate(-3px, -3px); box-shadow: var(--bw-sh-lg); }
+
+  .build-tag {
+    display: inline-block;
+    margin-bottom: 0.8rem;
+    padding: 0.3rem 0.75rem;
+    background: var(--bw-amber);
+    border: var(--bw-bd);
+    border-radius: 999px;
+    font-size: 0.64rem;
+    font-weight: 800;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+  }
+  .build h3 { font-size: clamp(1.25rem, 2vw, 1.6rem); }
+  .build > p { margin-top: 0.6rem; color: var(--bw-ink-soft); font-size: 0.9rem; font-weight: 400; line-height: 1.6; }
+
+  .steps { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.9rem; margin: 0; padding: 0; list-style: none; }
+  .steps li {
+    position: relative;
+    padding: 1.4rem;
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r-lg);
+    box-shadow: var(--bw-sh-sm);
+  }
+  .step-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.3rem; height: 2.3rem;
+    margin-bottom: 0.85rem;
+    background: var(--bw-amber);
+    border: var(--bw-bd);
+    border-radius: 50%;
+    font-size: 0.95rem;
+    font-weight: 900;
+  }
+  .steps h3 { font-size: 1.15rem; margin-bottom: 0.4rem; }
+  .steps p { color: var(--bw-ink-soft); font-size: 0.85rem; font-weight: 400; line-height: 1.6; }
+
+  /* =========================== CITIES =========================== */
+  .city-block {
+    margin-top: clamp(1.75rem, 3.5vw, 2.5rem);
+    padding: clamp(1rem, 2vw, 1.5rem);
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r-lg);
+    box-shadow: var(--bw-sh);
+  }
+
+  .city-head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 1rem; margin-bottom: 1.1rem; }
+  .city-head h3 { font-size: clamp(1.15rem, 2vw, 1.5rem); }
+  .city-nav { display: flex; align-items: center; gap: 0.5rem; flex: none; }
+  .city-count {
+    padding: 0.42rem 0.75rem;
+    background: var(--bw-paper-2);
+    border: var(--bw-bd);
+    border-radius: 999px;
+    font-size: 0.7rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    font-variant-numeric: tabular-nums;
+  }
+  .city-nav .nav-btn { width: 2.4rem; height: 2.4rem; font-size: 0.9rem; }
+
+  .city-rail { gap: 0.8rem; }
+  .city-panel { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 0.45rem; align-content: start; }
+
+  .city {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem 0.7rem;
+    background: var(--bw-paper-2);
+    border: 2px solid var(--bw-ink);
+    border-radius: var(--bw-r-sm);
+    text-decoration: none;
+    transition: transform 200ms var(--bw-ease), box-shadow 200ms var(--bw-ease), background 200ms ease;
+  }
+  .city:hover { background: var(--bw-amber); transform: translate(-2px, -2px); box-shadow: var(--bw-sh-sm); }
+  .city-name { color: var(--bw-ink); font-size: 0.8rem; font-weight: 800; line-height: 1.25; }
+  .city-state { color: var(--bw-ink-mute); font-size: 0.62rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; line-height: 1.3; }
+  .city:hover .city-state { color: var(--bw-ink); }
+
+  .city-bar { height: 6px; margin-top: 1rem; background: var(--bw-paper-2); border: 1.5px solid var(--bw-ink); border-radius: 999px; overflow: hidden; }
+  .city-bar span { display: block; height: 100%; background: var(--bw-amber); transform-origin: left; transform: scaleX(0.03); transition: transform 420ms var(--bw-ease); }
+
+  /* =========================== FAQ =========================== */
+  .faq-grid { display: grid; grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.35fr); gap: clamp(1.5rem, 4vw, 3.5rem); align-items: start; }
+  .head-side { margin-bottom: 0; position: sticky; top: 6rem; }
+  .head-side .btn { margin-top: 1.4rem; }
+
+  .faq-list { display: grid; gap: 0.5rem; }
+
+  .faq {
+    background: var(--bw-card);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r);
+    box-shadow: var(--bw-sh-sm);
+    overflow: hidden;
+    transition: box-shadow 220ms var(--bw-ease);
+  }
+  .faq[open] { background: var(--bw-butter); box-shadow: var(--bw-sh); }
+
+  .faq summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.95rem 1.1rem;
+    font-size: 0.93rem;
+    font-weight: 700;
+    line-height: 1.45;
+    cursor: pointer;
+    list-style: none;
+  }
+  .faq summary::-webkit-details-marker { display: none; }
+
+  .faq-mark {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.75rem; height: 1.75rem;
+    flex: none;
+    background: var(--bw-paper-2);
+    border: var(--bw-bd);
+    border-radius: 50%;
+    font-size: 0.8rem;
+    transition: transform 320ms var(--bw-ease), background 220ms ease;
+  }
+  .faq[open] .faq-mark { background: var(--bw-amber); transform: rotate(135deg); }
+
+  .faq p { padding: 0 1.1rem 1.1rem; color: var(--bw-ink-soft); font-size: 0.875rem; font-weight: 400; line-height: 1.7; }
+
+  /* =========================== CLOSING =========================== */
+  .closing { max-width: 48rem; margin: 0 auto; text-align: center; }
+  .closing .tag { background: var(--bw-ink); border-color: var(--bw-ink); color: #FFFFFF; box-shadow: 3px 3px 0 var(--bw-card); }
+  .closing h2 { font-size: clamp(1.9rem, 4.2vw, 3.1rem); }
+  .closing .note { margin-left: auto; margin-right: auto; color: var(--bw-ink); }
+
+  /* =========================== RESPONSIVE =========================== */
+  @media (max-width: 1100px) {
+    .hero-grid { grid-template-columns: minmax(0, 1fr); gap: 2.5rem; }
+    .hero-art { max-width: 32rem; margin: 0 auto; width: 100%; }
+    .card-lg { grid-column: span 12; }
+    .card-md { grid-column: span 6; }
+    .card-sm { grid-column: span 6; }
+    .work { grid-template-columns: minmax(0, 1fr); }
+    .work-art { order: -1; }
+    .ship-grid { grid-template-columns: minmax(0, 1fr); }
+    .city-panel { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+    .faq-grid { grid-template-columns: minmax(0, 1fr); }
+    .head-side { position: static; }
+  }
+
+  @media (max-width: 860px) {
+    .stat-row { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .steps { grid-template-columns: minmax(0, 1fr); }
+    .build-grid { grid-template-columns: minmax(0, 1fr); }
+    .city-panel { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+
+    /* Tables become bordered records: no sideways scrolling on a phone. */
+    .tbl-wrap { background: transparent; border: 0; border-radius: 0; box-shadow: none; overflow: visible; }
+    .band-ink .tbl-wrap { background: transparent; border: 0; box-shadow: none; }
+    .tbl, .tbl tbody, .tbl tr, .tbl td, .tbl tbody th { display: block; width: auto; }
+    .tbl { min-width: 0; }
+    .tbl thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+
+    .tbl tbody tr {
+      padding: 1rem;
+      margin-bottom: 0.6rem;
+      background: var(--bw-card);
+      border: var(--bw-bd);
+      border-radius: var(--bw-r);
+      box-shadow: var(--bw-sh-sm);
+    }
+    .tbl tbody tr:hover { background: var(--bw-card); }
+    .band-ink .tbl tbody tr { background: #1B1D21; border-color: #3A3D43; box-shadow: 4px 4px 0 #000000; }
+    .band-ink .tbl tbody tr:hover { background: #1B1D21; }
+
+    .tbl tbody th { padding: 0 0 0.6rem; margin-bottom: 0.6rem; border-bottom: 2px solid rgba(18, 19, 22, 0.14); font-size: 1.05rem; }
+    .band-ink .tbl tbody th { border-bottom-color: #3A3D43; }
+    .tbl td { padding: 0.4rem 0; border: 0; }
+    .tbl td::before {
+      content: attr(data-label);
+      display: block;
+      margin-bottom: 0.1rem;
+      color: var(--bw-ink-mute);
+      font-size: 0.6rem;
+      font-weight: 800;
+      letter-spacing: 0.13em;
+      text-transform: uppercase;
+    }
+    .band-ink .tbl td::before { color: var(--bw-amber); }
+    .cmp-tbl .c-us, .cmp-tbl .c-aspect, .cmp-tbl .c-mid { width: auto; background: transparent; }
+    .mkt-tbl { min-width: 0; }
   }
 
   @media (max-width: 640px) {
-    .bento {
-      grid-template-columns: 1fr;
-    }
-    .stat-band { grid-template-columns: 1fr 1fr; }
-    .hero-actions { flex-direction: column; }
-    .btn-primary, .btn-ghost { width: 100%; justify-content: center; }
-    .work-actions { flex-wrap: wrap; }
+    .bento { gap: 0.6rem; }
+    .card-lg, .card-md, .card-sm { grid-column: span 12; }
+    .btn-row .btn { width: 100%; }
+    .tabs { display: flex; width: 100%; }
+    .tab { flex: 1; padding: 0.45rem 0.4rem; font-size: 0.72rem; }
+    .city-head { flex-direction: column; align-items: stretch; }
+    .city-nav { justify-content: flex-end; }
+    .city-panel { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .hero-art { min-height: 20rem; }
+    .chip-b { left: -0.4rem; }
+    .chip-c { right: -0.2rem; }
+    .wa-note { width: min(14rem, 78%); }
+  }
+
+  /* Stays two-up even on the narrowest phones: one tile per row wastes the width. */
+  @media (max-width: 400px) {
+    .stat-row { gap: 0.5rem; }
+    .stat-row li { padding: 0.8rem 0.85rem; }
+    .city-panel { gap: 0.4rem; }
   }
 
   @media (prefers-reduced-motion: reduce) {
-    .marquee-track { animation: none; }
-    .btn-primary, .btn-ghost, .btn-cream,
-    .city-chip, .card, .build-card,
-    .faq-mark { transition-duration: 1ms; }
+    .marquee-track, .ticker-track, .pulse, .tag-dot, .browser, .logo3d, .chip, .b-line, .b-btn { animation: none; }
+    .ticker { scroll-snap-type: x proximity; }
+    .review { scroll-snap-align: center; }
+    .rail { scroll-behavior: auto; }
+    .reveal { opacity: 1; transform: none; }
+    .slide .work-copy > *, .slide .work-art { transform: none; }
+    .panel.active { animation: none; }
+    *, *::before, *::after { transition-duration: 1ms !important; }
   }
 </style>

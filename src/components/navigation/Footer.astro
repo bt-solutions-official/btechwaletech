@@ -93,6 +93,14 @@ const columns = [
           <span class="trust-badge">IP Ownership</span>
           <span class="trust-badge">India-First</span>
         </div>
+
+        <div class="footer-contact" aria-label="Contact details">
+          <a href={siteContact.emailHref}>{siteContact.email}</a>
+          <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp us on BtechWaleTech">
+            <WhatsAppIcon />
+            <span>{siteContact.whatsappLabel}</span>
+          </a>
+        </div>
       </div>
 
       <nav class="footer-columns" aria-label="Footer navigation">
@@ -129,19 +137,9 @@ const columns = [
       </ul>
     </nav>
 
-    <!-- Contact row -->
-    <div class="footer-contact" aria-label="Contact details">
-      <a href={siteContact.emailHref}>{siteContact.email}</a>
-      <a href={siteContact.phoneHref}>{siteContact.phone}</a>
-      <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp us on BtechWaleTech">
-        <WhatsAppIcon />
-        <span>{siteContact.whatsappLabel}</span>
-      </a>
-    </div>
-
     <!-- Bottom bar -->
     <div class="footer-bottom">
-      <p>&copy; {new Date().getFullYear()} {siteBrand.name}. India-First Professional IT Excellence.</p>
+      <p>&copy; {new Date().getFullYear()} {siteBrand.name}. India's professional IT services freelancing group.</p>
       <p class="footer-made">Made in India &middot; Serving worldwide</p>
     </div>
   </div>
@@ -151,199 +149,205 @@ const columns = [
   .site-footer {
     position: relative;
     z-index: 1;
-    color: #8fa0ad;
-    background: #0F172A;
-    border-top: 1px solid rgba(255, 255, 255, 0.05);
+    background: var(--bw-ink);
+    color: #A8ACB4;
+    font-family: var(--font-display);
+    border-top: var(--bw-bd);
   }
 
   .footer-inner {
-    max-width: 1280px;
+    max-width: 1320px;
     margin: 0 auto;
-    padding: clamp(3.5rem, 7vw, 5.5rem) clamp(1.25rem, 5vw, 5rem) 2.5rem;
+    padding: clamp(2.25rem, 4vw, 3.25rem) clamp(1rem, 4vw, 3.25rem) 1.25rem;
   }
 
   .footer-top {
     display: grid;
-    grid-template-columns: minmax(16rem, 1.1fr) 2fr;
-    gap: clamp(2.5rem, 6vw, 6rem);
-    padding-bottom: clamp(2.5rem, 5vw, 4rem);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    grid-template-columns: minmax(14rem, 0.95fr) 2.3fr;
+    gap: clamp(1.75rem, 4vw, 3.5rem);
+    padding-bottom: clamp(1.5rem, 3vw, 2.25rem);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
   }
 
+  /* ---------- brand ---------- */
   .footer-brand {
     display: inline-flex;
     align-items: center;
-    gap: 0.75rem;
+    gap: 0.6rem;
+    margin-bottom: 0.85rem;
     text-decoration: none;
-    margin-bottom: 1.4rem;
   }
 
-  .footer-brand img {
+  .footer-brand :global(img) {
     display: block;
-    width: auto;
-    height: 2.75rem;
-    filter: brightness(0) invert(1);
-    opacity: 0.9;
+    width: 1.7rem;
+    height: auto;
+    padding: 0.3rem;
+    background: var(--bw-amber);
+    border: var(--bw-bd);
+    border-radius: var(--bw-r-sm);
+    box-sizing: content-box;
   }
 
   .footer-brand-wordmark {
-    color: #F8F9FA;
-    font-family: 'Libre Caslon Text', Georgia, serif;
-    font-size: 1.2rem;
-    font-weight: 700;
-    letter-spacing: -0.01em;
-    line-height: 1;
-    white-space: nowrap;
+    color: #FFFFFF;
+    font-size: 1.05rem;
+    font-weight: 800;
+    letter-spacing: -0.025em;
   }
 
   .footer-blurb {
-    max-width: 22rem;
-    margin: 0 0 1.5rem;
-    font-size: 0.9rem;
-    line-height: 1.75;
-    color: #64748B;
+    margin: 0 0 0.85rem;
+    max-width: 23rem;
+    font-size: 0.83rem;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #A8ACB4;
   }
 
   .footer-trust-row {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem;
-    margin-top: 1.25rem;
+    gap: 0.35rem;
+    margin-bottom: 1.1rem;
   }
 
   .trust-badge {
-    display: inline-block;
-    padding: 0.3rem 0.7rem;
-    border: 1px solid rgba(212, 175, 55, 0.2);
-    border-radius: 2px;
-    color: #D4AF37;
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.7rem;
-    font-weight: 600;
+    padding: 0.26rem 0.6rem;
+    border: 1.5px solid rgba(255, 255, 255, 0.26);
+    border-radius: 999px;
+    color: #D6D9DE;
+    font-size: 0.63rem;
+    font-weight: 700;
     letter-spacing: 0.08em;
     text-transform: uppercase;
   }
 
+  /* ---------- link columns ---------- */
   .footer-columns {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 1.5rem;
+    gap: clamp(1rem, 2.5vw, 2rem);
   }
 
   .footer-col-title {
-    margin: 0 0 1.1rem;
-    color: #F8F9FA;
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.75rem;
-    font-weight: 600;
-    letter-spacing: 0.1em;
+    margin: 0 0 0.6rem;
+    color: var(--bw-amber);
+    font-size: 0.66rem;
+    font-weight: 800;
+    letter-spacing: 0.15em;
     text-transform: uppercase;
   }
 
-  .footer-col ul {
-    display: grid;
-    gap: 0.6rem;
+  .footer-col ul,
+  .footer-states ul {
     margin: 0;
     padding: 0;
     list-style: none;
   }
 
+  .footer-col li { margin-bottom: 0.28rem; }
+
   .footer-col a {
-    color: #64748B;
-    font-size: 0.875rem;
+    color: #A8ACB4;
+    font-size: 0.8rem;
+    font-weight: 500;
+    line-height: 1.45;
     text-decoration: none;
-    transition: color 300ms ease;
+    transition: color 180ms ease;
   }
+  .footer-col a:hover { color: #FFFFFF; }
 
-  .footer-col a:hover,
-  .footer-col a:focus-visible {
-    color: #D4AF37;
-  }
-
+  /* ---------- region chip rows ---------- */
   .footer-states {
-    padding: 2rem 0;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    padding: clamp(1rem, 2.2vw, 1.4rem) 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
   }
 
   .footer-states ul {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.4rem 1.25rem;
-    margin: 0;
-    padding: 0;
-    list-style: none;
+    gap: 0.3rem;
   }
 
   .footer-states a {
-    color: #64748B;
-    font-size: 0.85rem;
+    display: inline-block;
+    padding: 0.28rem 0.62rem;
+    border: 1.5px solid rgba(255, 255, 255, 0.17);
+    border-radius: 999px;
+    color: #9DA1A9;
+    font-size: 0.73rem;
+    font-weight: 600;
     text-decoration: none;
-    transition: color 300ms ease;
+    transition: color 180ms ease, border-color 180ms ease, background 180ms ease;
+  }
+  .footer-states a:hover {
+    color: var(--bw-ink);
+    background: var(--bw-amber);
+    border-color: var(--bw-amber);
   }
 
-  .footer-states a:hover,
-  .footer-states a:focus-visible {
-    color: #D4AF37;
-  }
-
+  /* ---------- contact (inside the brand column) ---------- */
   .footer-contact {
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
-    gap: 0.75rem 2rem;
-    padding: 1.75rem 0;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
-    font-size: 0.875rem;
+    gap: 0.45rem;
   }
 
   .footer-contact a {
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
-    color: #94a3b8;
+    padding: 0.5rem 0.9rem;
+    border: 2px solid rgba(255, 255, 255, 0.22);
+    border-radius: 999px;
+    color: #FFFFFF;
+    font-size: 0.78rem;
+    font-weight: 700;
     text-decoration: none;
-    transition: color 300ms ease;
+    transition: transform 220ms var(--bw-ease), background 220ms ease, color 220ms ease, border-color 220ms ease, box-shadow 220ms ease;
   }
-
-  .footer-contact a:hover,
-  .footer-contact a:focus-visible {
-    color: #D4AF37;
+  .footer-contact a:hover {
+    background: var(--bw-amber);
+    border-color: var(--bw-amber);
+    color: var(--bw-ink);
+    transform: translate(-1px, -1px);
+    box-shadow: 3px 3px 0 rgba(255, 255, 255, 0.22);
   }
+  .footer-contact :global(svg) { width: 0.95rem; height: 0.95rem; }
 
+  /* ---------- bottom ---------- */
   .footer-bottom {
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
     justify-content: space-between;
-    gap: 0.5rem 2rem;
-    padding-top: 1.75rem;
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.8rem;
-    letter-spacing: 0.02em;
+    gap: 0.6rem;
+    padding-top: 1.1rem;
   }
 
   .footer-bottom p {
     margin: 0;
-    color: #475569;
+    color: #7E828A;
+    font-size: 0.74rem;
+    font-weight: 500;
   }
 
-  .footer-made {
-    color: #475569;
+  .footer-made { letter-spacing: 0.04em; }
+
+  @media (max-width: 1000px) {
+    .footer-top { grid-template-columns: 1fr; }
   }
 
-  @media (max-width: 900px) {
-    .footer-top {
-      grid-template-columns: 1fr;
-    }
-
-    .footer-columns {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-      gap: 2rem 1.5rem;
-    }
+  /* Two columns all the way down: one tall list per screen wastes the width. */
+  @media (max-width: 620px) {
+    .footer-columns { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.1rem 1rem; }
+    .footer-col a { font-size: 0.78rem; }
+    .footer-contact a { flex: 1; justify-content: center; }
+    .footer-bottom { flex-direction: column; align-items: flex-start; }
   }
 
-  @media (max-width: 480px) {
-    .footer-columns {
-      grid-template-columns: 1fr 1fr;
-    }
+  @media (prefers-reduced-motion: reduce) {
+    .footer-contact a, .footer-states a, .footer-col a { transition-duration: 1ms; }
   }
 </style>
