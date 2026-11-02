@@ -218,3 +218,263 @@
   --bw-ease: cubic-bezier(0.16, 1, 0.3, 1);
   --font-display: 'Archivo', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
+
+/* =========================================================================
+   SHARED THEME LAYER — inner pages
+   The 17 page templates and it-services.css were built on two older designs.
+   Rather than rewrite ~2,700 pages, this layer re-skins their existing class
+   vocabulary into the same language as the homepage: cream paper, 2px ink
+   outlines, hard offset shadows, amber as the only loud colour.
+   body.is-inner:not(#_) (0,3,1) outranks the scoped .x[data-astro-cid-...] (0,2,0)
+   selectors Astro emits, so it wins wherever it lands in the cascade.
+   The homepage is body.is-home and is never touched by any of it.
+   ========================================================================= */
+
+body.is-inner:not(#_) {
+  background: var(--bw-paper);
+  color: var(--bw-ink);
+  font-family: var(--font-display);
+}
+
+body.is-inner:not(#_) h1,
+body.is-inner:not(#_) h2,
+body.is-inner:not(#_) h3,
+body.is-inner:not(#_) h4 {
+  font-family: var(--font-display);
+  font-weight: 800;
+  letter-spacing: -0.035em;
+  color: var(--bw-ink);
+}
+body.is-inner:not(#_) h1 { font-weight: 900; letter-spacing: -0.04em; }
+
+/* ---------- eyebrow becomes a bordered pill ---------- */
+body.is-inner:not(#_) .eyebrow,
+body.is-inner:not(#_) .it-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.35rem 0.8rem;
+  background: var(--bw-card);
+  border: var(--bw-bd);
+  border-radius: 999px;
+  box-shadow: var(--bw-sh-sm);
+  color: var(--bw-ink);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+body.is-inner:not(#_) .eyebrow::before,
+body.is-inner:not(#_) .it-eyebrow::before { display: none; }
+
+/* ---------- buttons ---------- */
+body.is-inner:not(#_) .btn-primary,
+body.is-inner:not(#_) .btn-ghost,
+body.is-inner:not(#_) .it-btn,
+body.is-inner:not(#_) .it-btn-primary,
+body.is-inner:not(#_) .it-btn-ghost {
+  border: var(--bw-bd);
+  border-radius: 999px;
+  box-shadow: var(--bw-sh);
+  font-family: var(--font-display);
+  font-weight: 800;
+  transition: transform 220ms var(--bw-ease), box-shadow 220ms var(--bw-ease), background 220ms ease;
+}
+body.is-inner:not(#_) .btn-primary,
+body.is-inner:not(#_) .it-btn-primary { background: var(--bw-amber); color: var(--bw-ink); }
+body.is-inner:not(#_) .btn-ghost,
+body.is-inner:not(#_) .it-btn-ghost { background: var(--bw-card); color: var(--bw-ink); }
+
+body.is-inner:not(#_) .btn-primary:hover,
+body.is-inner:not(#_) .it-btn-primary:hover { background: var(--bw-amber-deep); }
+body.is-inner:not(#_) .btn-ghost:hover,
+body.is-inner:not(#_) .it-btn-ghost:hover { background: var(--bw-butter); }
+
+body.is-inner:not(#_) .btn-primary:hover,
+body.is-inner:not(#_) .btn-ghost:hover,
+body.is-inner:not(#_) .it-btn:hover,
+body.is-inner:not(#_) .it-btn-primary:hover,
+body.is-inner:not(#_) .it-btn-ghost:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 7px 7px 0 var(--bw-ink);
+}
+body.is-inner:not(#_) .btn-primary:active,
+body.is-inner:not(#_) .btn-ghost:active { transform: translate(2px, 2px); box-shadow: 0 0 0 var(--bw-ink); }
+body.is-inner:not(#_) .btn-arrow { color: inherit; }
+
+/* ---------- small bordered chips ---------- */
+body.is-inner:not(#_) .hero-pills li,
+body.is-inner:not(#_) .city-chip {
+  background: var(--bw-card);
+  border: var(--bw-bd);
+  border-radius: 999px;
+  box-shadow: var(--bw-sh-sm);
+  color: var(--bw-ink);
+  font-weight: 600;
+  transition: transform 200ms var(--bw-ease), background 200ms ease;
+}
+body.is-inner:not(#_) .city-chip { text-decoration: none; }
+body.is-inner:not(#_) .city-chip:hover { background: var(--bw-amber); transform: translate(-2px, -2px); }
+
+/* ---------- on-this-page list ---------- */
+body.is-inner:not(#_) .toc { padding: 1rem 1.1rem; }
+body.is-inner:not(#_) .toc-title {
+  color: var(--bw-ink-mute);
+  font-size: 0.65rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+body.is-inner:not(#_) .toc a {
+  display: block;
+  padding: 0.5rem 0;
+  background: none;
+  border: 0;
+  border-bottom: 1px solid rgba(18, 19, 22, 0.1);
+  border-radius: 0;
+  box-shadow: none;
+  color: var(--bw-ink-soft);
+  font-size: 0.84rem;
+  font-weight: 600;
+  line-height: 1.4;
+  text-decoration: none;
+  transform: none;
+}
+body.is-inner:not(#_) .toc li:last-child a { border-bottom: 0; }
+body.is-inner:not(#_) .toc a:hover {
+  background: none;
+  color: var(--bw-ink);
+  transform: none;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--bw-amber);
+}
+body.is-inner:not(#_) .city-chip:not(:last-child)::after { display: none; }
+
+/* ---------- boxes ---------- */
+body.is-inner:not(#_) .facts li,
+body.is-inner:not(#_) .card,
+body.is-inner:not(#_) .stat-band li,
+body.is-inner:not(#_) .steps li,
+body.is-inner:not(#_) .faq-item,
+body.is-inner:not(#_) .toc,
+body.is-inner:not(#_) .guide-card {
+  background: var(--bw-card);
+  border: var(--bw-bd);
+  border-radius: var(--bw-r);
+  box-shadow: var(--bw-sh-sm);
+}
+
+body.is-inner:not(#_) .card,
+body.is-inner:not(#_) .facts li { transition: transform 240ms var(--bw-ease), box-shadow 240ms var(--bw-ease); }
+body.is-inner:not(#_) a.card:hover { transform: translate(-3px, -3px); box-shadow: var(--bw-sh-lg); background: var(--bw-card); }
+
+body.is-inner:not(#_) .quote-card {
+  background: var(--bw-ink);
+  border: var(--bw-bd);
+  border-radius: var(--bw-r-lg);
+  box-shadow: var(--bw-sh-lg);
+}
+body.is-inner:not(#_) .quote-kicker { color: var(--bw-amber); }
+body.is-inner:not(#_) .quote-card .btn-primary { background: var(--bw-amber); color: var(--bw-ink); box-shadow: 5px 5px 0 var(--bw-card); }
+
+/* ---------- grids that used 1px gaps as hairlines ---------- */
+body.is-inner:not(#_) .bento,
+body.is-inner:not(#_) .stat-band {
+  background: transparent;
+  border: 0;
+  gap: 0.8rem;
+}
+
+/* ---------- stats band: was dark, now a butter strip of cards ---------- */
+body.is-inner:not(#_) .stats-section {
+  background: var(--bw-butter);
+  border-top: var(--bw-bd);
+  border-bottom: var(--bw-bd);
+}
+body.is-inner:not(#_) .stat-num { color: var(--bw-ink); font-weight: 900; letter-spacing: -0.04em; }
+body.is-inner:not(#_) .stat-label { color: var(--bw-ink-soft); }
+
+/* ---------- card arrow ---------- */
+body.is-inner:not(#_) .card-arrow {
+  border: var(--bw-bd);
+  border-radius: 50%;
+  color: var(--bw-ink);
+}
+body.is-inner:not(#_) a.card:hover .card-arrow { background: var(--bw-amber); border-color: var(--bw-ink); color: var(--bw-ink); }
+
+/* ---------- tables ---------- */
+body.is-inner:not(#_) .comparison-table-wrap,
+body.is-inner:not(#_) .price-table-wrap {
+  background: var(--bw-card);
+  border: var(--bw-bd);
+  border-radius: var(--bw-r-lg);
+  box-shadow: var(--bw-sh);
+  overflow: hidden;
+}
+body.is-inner:not(#_) .snapshot { border: var(--bw-bd); }
+body.is-inner:not(#_) .comparison-table thead th,
+body.is-inner:not(#_) .price-table thead th,
+body.is-inner:not(#_) .snapshot th {
+  background: var(--bw-paper-2);
+  border-bottom: var(--bw-bd);
+  color: var(--bw-ink);
+  font-weight: 800;
+}
+body.is-inner:not(#_) .comparison-table thead .col-us { background: var(--bw-ink); color: var(--bw-amber); }
+body.is-inner:not(#_) .td-us { background: var(--bw-butter); font-weight: 700; }
+body.is-inner:not(#_) .td-check { color: var(--bw-amber-deep); }
+
+/* ---------- accents ---------- */
+body.is-inner:not(#_) .answer-text { border-left: 4px solid var(--bw-amber); }
+body.is-inner:not(#_) .origin-dot { background: var(--bw-amber); box-shadow: 0 0 0 2px var(--bw-ink); }
+body.is-inner:not(#_) .step-num {
+  background: var(--bw-amber);
+  border: var(--bw-bd);
+  border-radius: 50%;
+  color: var(--bw-ink);
+  font-weight: 900;
+}
+
+/* ---------- FAQ ---------- */
+body.is-inner:not(#_) .faq-list { display: grid; gap: 0.5rem; }
+body.is-inner:not(#_) .faq-item[open] { background: var(--bw-butter); box-shadow: var(--bw-sh); }
+body.is-inner:not(#_) .faq-item summary { font-weight: 700; }
+body.is-inner:not(#_) .faq-mark {
+  background: var(--bw-paper-2);
+  border: var(--bw-bd);
+  border-radius: 50%;
+  color: var(--bw-ink);
+}
+
+/* ---------- closing band ---------- */
+body.is-inner:not(#_) .closing { background: var(--bw-amber); border-top: var(--bw-bd); }
+body.is-inner:not(#_) .closing-inner { background: transparent; box-shadow: none; }
+body.is-inner:not(#_) .closing-inner h2 { color: var(--bw-ink); }
+body.is-inner:not(#_) .closing-note { color: var(--bw-ink-soft); }
+body.is-inner:not(#_) .closing .btn-primary { background: var(--bw-ink); color: #FFFFFF; box-shadow: 5px 5px 0 var(--bw-card); }
+body.is-inner:not(#_) .closing .btn-primary:hover { box-shadow: 7px 7px 0 var(--bw-card); }
+body.is-inner:not(#_) .closing-links a { color: var(--bw-ink); font-weight: 700; }
+
+/* ---------- section banding ---------- */
+body.is-inner:not(#_) .services,
+body.is-inner:not(#_) .pricing { background: var(--bw-butter); }
+body.is-inner:not(#_) .advantage,
+body.is-inner:not(#_) .process,
+body.is-inner:not(#_) .locations,
+body.is-inner:not(#_) .industries,
+body.is-inner:not(#_) .faq,
+body.is-inner:not(#_) .answer { background: var(--bw-paper); }
+body.is-inner:not(#_) .services,
+body.is-inner:not(#_) .advantage,
+body.is-inner:not(#_) .pricing,
+body.is-inner:not(#_) .industries,
+body.is-inner:not(#_) .hero { border-top-color: var(--bw-ink); border-bottom-color: var(--bw-ink); }
+
+@media (prefers-reduced-motion: reduce) {
+  body.is-inner:not(#_) .btn-primary,
+  body.is-inner:not(#_) .btn-ghost,
+  body.is-inner:not(#_) .card,
+  body.is-inner:not(#_) .city-chip { transition-duration: 1ms; }
+}

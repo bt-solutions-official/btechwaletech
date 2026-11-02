@@ -51,12 +51,13 @@ const actions = [
   .rail {
     position: fixed;
     right: 0;
-    top: 50%;
+    /* Low on the screen but clear of the very bottom edge, so it never collides
+       with browser chrome or a sticky footer. Same anchor on every size. */
+    bottom: calc(10rem + env(safe-area-inset-bottom));
     z-index: 38;
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
-    transform: translateY(-50%);
     padding-right: env(safe-area-inset-right);
   }
 
@@ -120,8 +121,7 @@ const actions = [
 
   /* Phones keep the same centred right-edge position, just a touch smaller. */
   @media (max-width: 640px) {
-    /* Lower than centre on a phone, so it clears the headline and the CTAs. */
-    .rail { gap: 0.4rem; top: 68%; }
+    .rail { gap: 0.4rem; bottom: calc(8rem + env(safe-area-inset-bottom)); }
     .rail-btn { width: 3.25rem; height: 3.25rem; padding: 0 0.8rem; box-shadow: -4px 4px 0 var(--bw-ink, #121316); }
     .rail-ico { width: 1.55rem; height: 1.55rem; }
     /* No hover on touch, and an expanding rail would cover the page. */

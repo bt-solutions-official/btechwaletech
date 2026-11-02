@@ -40,7 +40,9 @@ const { meta, schema = [] } = Astro.props;
     <!-- Page-specific <head> tags: only the pages that need an extra font or preload pay for it. -->
     <slot name="head" />
   </head>
-  <body>
+  <!-- `is-inner` gates the shared theme layer in global.css: the homepage carries its
+       own complete design, every other page is restyled on top of its legacy CSS. -->
+  <body class={meta.canonicalPath === "/" ? "is-home" : "is-inner"}>
     <Header />
     <main>
       <slot />

@@ -4,6 +4,7 @@
 # for every named crawler (a rule under * alone would not apply to a named group).
 #
 # Agent-readable site summary: https://btechwaletech.in/llms.txt
+# Full agent corpus (every page, with answers and FAQs): https://btechwaletech.in/llms-full.txt
 User-agent: Googlebot
 User-agent: Googlebot-Image
 User-agent: Google-Extended

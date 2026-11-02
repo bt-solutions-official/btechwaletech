@@ -2,8 +2,8 @@
    Builds on it-services.css tokens. */
 .ct-wrap {
   overflow-x: auto;
-  border: 1px solid rgba(22, 36, 46, 0.1);
-  border-radius: 1rem;
+  border: 2px solid #121316;
+  border-radius: 14px;
   background: #ffffff;
 }
 
@@ -19,13 +19,13 @@
 .ct-table td {
   padding: 0.85rem 1.1rem;
   border-bottom: 1px solid rgba(22, 36, 46, 0.08);
-  color: #4f5f66;
+  color: #45484E;
   text-align: left;
   vertical-align: top;
 }
 
 .ct-table thead th {
-  color: #16242e;
+  color: #121316;
   background: rgba(18, 144, 124, 0.07);
   font-size: 0.78rem;
   font-weight: 800;
@@ -34,7 +34,7 @@
 }
 
 .ct-table tbody th {
-  color: #16242e;
+  color: #121316;
   font-weight: 700;
 }
 
@@ -43,18 +43,18 @@
 }
 
 .ct-table a {
-  color: #12907c;
+  color: #8A6A14;
   font-weight: 700;
 }
 
 .ct-price strong {
   display: block;
-  color: #12907c;
+  color: #8A6A14;
   white-space: nowrap;
 }
 
 .ct-price span {
-  color: #5c6a70;
+  color: #45484E;
   font-size: 0.85rem;
   white-space: nowrap;
 }
@@ -62,7 +62,7 @@
 .ct-note {
   max-width: 52rem;
   margin: 1rem 0 0;
-  color: #5c6a70;
+  color: #45484E;
   font-size: 0.92rem;
   line-height: 1.7;
 }
