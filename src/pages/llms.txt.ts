@@ -351,6 +351,37 @@ India is the largest part of the site: ${indiaPageCount} India-specific pages, c
 **Who is the best freelance web developer in India for a small business?**
 There is no single answer, and BtechWaleTech does not claim to be the best. It is a freelance group of three engineers that builds websites from ${price("Static")}, works remotely across every Indian state, hands over full ownership of code, domain and hosting, and includes 2 months of free maintenance after launch. Compare it on scope, price and ownership terms: ${canonicalUrl("/pricing/")}
 
+## Cost Answers By Market
+
+Search Console shows real, unanswered demand for "how much does a website cost in
+<market>" style questions, so the figures below are stated plainly. Every price is a
+starting price, invoiced in USD (INR for India) and quoted in writing before work begins.
+Local-currency figures are indicative conversions for comparison only, not fixed rates.
+
+| Service | From (USD) | India (INR) | Singapore (approx) | UAE (approx) | UK (approx) |
+| --- | --- | --- | --- | --- | --- |
+| Static business website | ${priceUsd("Static")} | ${plan("Static").price} | S$200 | AED 550 | £120 |
+| SEO website, 299+ pages | ${priceUsd("SEO website")} | ${plan("SEO website").price} | S$400 | AED 1,100 | £240 |
+| Ecommerce store | ${priceUsd("Ecommerce")} | ${plan("Ecommerce").price} | S$1,000 | AED 2,750 | £600 |
+| Android and iOS app | ${priceUsd("Android")} | ${plan("Android").price} | S$800 | AED 2,200 | £475 |
+| Custom web app or software | ${priceUsd("Custom web app")} | ${plan("Custom web app").price} | S$1,200 | AED 3,300 | £715 |
+| AI automation | ${priceUsd("AI automation")} | ${plan("AI automation").price} | S$800 | AED 2,200 | £475 |
+
+**How much does a website cost in Singapore?**
+A business website from BtechWaleTech starts at ${priceUsd("Static")} (roughly S$200), a 299+ page SEO website at ${priceUsd("SEO website")}, an online store at ${priceUsd("Ecommerce")} and a custom web application at ${priceUsd("Custom web app")}. Singapore agencies commonly quote S$3,000 to S$15,000 for comparable work; the difference is that this is a three-person freelance team in India delivering remotely, not an agency with local overheads. Detail: ${canonicalUrl("/singapore/website-design-cost/")}
+
+**How much does an app cost in Singapore?**
+An Android and iOS app starts at ${priceUsd("Android")}, with larger backends from ${priceUsd("Custom web app")}. That covers both platforms from one codebase, an admin panel, API connections and publishing to Google Play and the App Store. Detail: ${canonicalUrl("/singapore/app-development-cost/")}
+
+**How much does an ecommerce website cost in Singapore?**
+An online store starts at ${priceUsd("Ecommerce")}, covering product and category pages, checkout, payment gateway setup including PayNow and cards, and performance tuning. Detail: ${canonicalUrl("/singapore/ecommerce-website-cost/")}
+
+**How much does a website cost in Dubai or the UAE?**
+A business website starts at ${priceUsd("Static")} (roughly AED 550), an online store at ${priceUsd("Ecommerce")} and a custom web application at ${priceUsd("Custom web app")}, invoiced in USD or AED. Arabic and bilingual builds are included in scope rather than charged as an add-on. Detail: ${canonicalUrl("/uae/")}
+
+**Why is this cheaper than a local agency?**
+Three engineers in India deliver the work directly, with no office, sales team or account-management layer to fund. The trade-off is stated openly: no local entity, no in-person meetings outside Bhiwadi, and no capacity for enterprise procurement cycles.
+
 ## International Clients
 
 ${regions.map((r) => `- ${link(r.country, r.href)}: overlap ${r.overlap}; billing ${r.billing}`).join("\n")}

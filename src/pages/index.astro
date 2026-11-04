@@ -297,6 +297,22 @@ const comparison = [
   },
 ];
 
+/** Enquiries that cycle in the hero card. Wording mirrors what actually arrives. */
+const heroEnquiries = [
+  ["“Need a 300-page SEO website — what would it cost?”", "Replied in 9 minutes"],
+  ["“Can you build an Android app for our delivery team?”", "Replied in 12 minutes"],
+  ["“Our Shopify store loads slowly. Can you fix it?”", "Replied in 6 minutes"],
+  ["“WhatsApp automation for a clinic in Dubai?”", "Replied in 15 minutes"],
+];
+
+/** The four shipped sites that slide through the hero frame. */
+const heroShowcase = [
+  { name: "Nazim Foundation of India", domain: "nfiindia.in", img: nfiImg, alt: "Nazim Foundation of India donation platform, built by BtechWaleTech" },
+  { name: "The Youth Matters", domain: "theyouthmatters.com", img: tymImg, alt: "The Youth Matters study-abroad community, built by BtechWaleTech" },
+  { name: "CricketTaken", domain: "crickettaken.in", img: cricketTakenImg, alt: "CricketTaken cricket records platform, built by BtechWaleTech" },
+  { name: "Anup Tours & Travels", domain: "tours and travels, Uttar Pradesh", img: anupToursImg, alt: "Anup Tours and Travels website, built by BtechWaleTech" },
+];
+
 /* ---------------------------------------------------------------------------
    SHIPPED CLIENT SITES — the two live builds that headline the portfolio.
 --------------------------------------------------------------------------- */
@@ -676,37 +692,52 @@ const portfolioSchema = {
         <p class="hero-origin">Built in India &middot; Delivering to clients worldwide</p>
       </div>
 
-      <!-- Built in markup, not an image file: nothing to download, and it moves. -->
-      <div class="hero-art" aria-hidden="true">
-        <span class="chip chip-a">Lighthouse 100</span>
-        <span class="chip chip-b">Live in 2 weeks</span>
-        <span class="chip chip-c">SEO ready day one</span>
+      <!-- Four real client sites, sliding on a loop. The screenshots are the proof, so
+           the hero shows the work itself rather than a wireframe of it. -->
+      <div class="hero-art">
+        <span class="chip chip-a" aria-hidden="true">Lighthouse 100</span>
+        <span class="chip chip-b" aria-hidden="true">Live in 4–6 days</span>
 
-        <div class="logo3d">
+        <div class="logo3d" aria-hidden="true">
           <Image src={logoMark} alt="" height={84} densities={[1, 2]} loading="eager" />
         </div>
 
         <div class="browser">
-          <div class="b-bar">
+          <div class="b-bar" aria-hidden="true">
             <i></i><i></i><i></i>
-            <span class="b-url"><svg class="ico" aria-hidden="true"><use href="#i-lock" /></svg>btechwaletech.in</span>
+            <span class="b-url"><svg class="ico"><use href="#i-lock" /></svg>Recent work &middot; shipped &amp; live</span>
           </div>
-          <div class="b-body">
-            <div class="b-nav"><span></span><span></span><span></span><span class="b-nav-cta"></span></div>
-            <div class="b-hero">
-              <span class="b-line l1"></span>
-              <span class="b-line l2"></span>
-              <span class="b-line l3"></span>
-              <span class="b-btn"></span>
+          <div class="showcase">
+            <div class="showcase-track">
+              {heroShowcase.map((w, i) => (
+                <figure class="show-slide">
+                  <Image
+                    src={w.img}
+                    alt={w.alt}
+                    widths={[420, 660]}
+                    sizes="(max-width: 1100px) 92vw, 46vw"
+                    loading={i === 0 ? "eager" : "lazy"}
+                    {...(i === 0 ? { fetchpriority: "high" } : {})}
+                  />
+                  <figcaption><strong>{w.name}</strong><span>{w.domain}</span></figcaption>
+                </figure>
+              ))}
             </div>
-            <div class="b-cards"><span></span><span></span><span></span></div>
           </div>
         </div>
 
-        <div class="wa-note">
+        <div class="wa-note" aria-hidden="true">
           <span class="wa-note-head"><span class="wa-dot"></span>New enquiry</span>
-          <p>“Need a 300-page SEO website — what would it cost?”</p>
-          <span class="wa-note-foot">Replied in 9 minutes</span>
+          <div class="wa-feed">
+            <div class="wa-feed-track">
+              {heroEnquiries.map(([text, meta]) => (
+                <div class="wa-item">
+                  <p>{text}</p>
+                  <span class="wa-note-foot">{meta}</span>
+                </div>
+              ))}
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -1623,8 +1654,8 @@ const portfolioSchema = {
   .hero-art {
     position: relative;
     min-width: 0;
-    padding: 1.5rem 0.5rem 2rem;
-    min-height: 23rem;
+    padding: 1.5rem 0.5rem 4rem;
+    min-height: 24rem;
   }
 
   .browser {
@@ -1682,39 +1713,57 @@ const portfolioSchema = {
 
   .b-body { padding: 0.85rem; }
 
-  .b-nav {
+  /* Sliding showcase: four real client sites on a loop, pure CSS so there is no
+     carousel script on the critical path. Pauses on hover and under reduced motion. */
+  .showcase { overflow: hidden; }
+
+  .showcase-track {
     display: flex;
-    align-items: center;
-    gap: 0.4rem;
-    padding-bottom: 0.75rem;
-    border-bottom: 1.5px solid rgba(18, 19, 22, 0.12);
+    width: 400%;
+    animation: showcase 22s cubic-bezier(0.7, 0, 0.2, 1) infinite;
+    will-change: transform;
   }
-  .b-nav span { width: 2.2rem; height: 7px; border-radius: 999px; background: rgba(18, 19, 22, 0.16); }
-  .b-nav .b-nav-cta { width: 3.2rem; height: 15px; margin-left: auto; border: 1.5px solid var(--bw-ink); border-radius: 999px; background: var(--bw-amber); }
+  .hero-art:hover .showcase-track { animation-play-state: paused; }
 
-  .b-hero { display: grid; gap: 0.45rem; padding: 0.95rem 0; }
-  .b-line { height: 13px; border-radius: 4px; background: var(--bw-ink); animation: grow 5s var(--bw-ease) infinite; }
-  .b-line.l1 { width: 78%; }
-  .b-line.l2 { width: 58%; animation-delay: 0.25s; }
-  .b-line.l3 { width: 42%; height: 8px; background: rgba(18, 19, 22, 0.28); animation-delay: 0.5s; }
-  .b-btn { width: 5.4rem; height: 1.45rem; margin-top: 0.35rem; border: 1.5px solid var(--bw-ink); border-radius: 999px; background: var(--bw-amber); animation: grow 5s var(--bw-ease) 0.75s infinite; }
-
-  @keyframes grow {
-    0%, 8%   { transform: scaleX(0); }
-    26%, 82% { transform: scaleX(1); }
-    96%, 100% { transform: scaleX(0); }
+  .show-slide {
+    position: relative;
+    width: 25%;
+    flex: none;
+    margin: 0;
   }
-  .b-line, .b-btn { transform-origin: left center; }
 
-  .b-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.45rem; }
-  .b-cards span {
-    height: 3.1rem;
-    border: 1.5px solid var(--bw-ink);
-    border-radius: 8px;
-    background: var(--bw-paper-2);
+  .show-slide :global(img) {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
+    object-position: top center;
   }
-  .b-cards span:nth-child(2) { background: var(--bw-sky); }
-  .b-cards span:nth-child(3) { background: var(--bw-mint); }
+
+  .show-slide figcaption {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    padding: 0.55rem 0.8rem;
+    background: var(--bw-ink);
+    color: #FFFFFF;
+  }
+  .show-slide figcaption strong { font-size: 0.78rem; font-weight: 800; letter-spacing: -0.01em; }
+  .show-slide figcaption span { color: var(--bw-amber); font-size: 0.66rem; font-weight: 700; }
+
+  /* Four holds with a slide between each, then one slide back to the start. */
+  @keyframes showcase {
+    0%, 21%    { transform: translateX(0); }
+    25%, 46%   { transform: translateX(-25%); }
+    50%, 71%   { transform: translateX(-50%); }
+    75%, 96%   { transform: translateX(-75%); }
+    100%       { transform: translateX(0); }
+  }
 
   /* 3D extruded brand tile */
   .logo3d {
@@ -1754,8 +1803,7 @@ const portfolioSchema = {
     animation: float-y-sm 6s ease-in-out infinite;
   }
   .chip-a { top: 1.4rem; right: 0.2rem; background: var(--bw-mint); transform: rotate(3deg); }
-  .chip-b { top: 45%; left: -1.2rem; background: var(--bw-sky); transform: rotate(-4deg); animation-delay: 1.1s; }
-  .chip-c { bottom: 3.6rem; right: -0.6rem; background: var(--bw-blush); transform: rotate(2deg); animation-delay: 2.2s; }
+  .chip-b { top: 42%; left: -1.4rem; background: var(--bw-sky); transform: rotate(-4deg); animation-delay: 1.1s; }
 
   @keyframes float-y-sm {
     0%, 100% { translate: 0 0; }
@@ -1765,8 +1813,8 @@ const portfolioSchema = {
   .wa-note {
     position: absolute;
     z-index: 5;
-    right: 0.4rem;
-    bottom: -0.4rem;
+    right: -1rem;
+    bottom: -1.4rem;
     width: min(16rem, 70%);
     padding: 0.7rem 0.85rem;
     background: var(--bw-card);
@@ -1786,7 +1834,27 @@ const portfolioSchema = {
     text-transform: uppercase;
   }
   .wa-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--bw-green); box-shadow: 0 0 0 1.5px var(--bw-ink); }
-  .wa-note p { margin: 0.35rem 0; font-size: 0.79rem; font-weight: 600; line-height: 1.45; }
+  /* The card holds one enquiry at a time and slides to the next, so the hero shows
+     a stream of work coming in rather than a single frozen message. */
+  .wa-feed { height: 3.9rem; overflow: hidden; }
+  .wa-feed-track {
+    display: flex;
+    flex-direction: column;
+    animation: wa-feed 20s cubic-bezier(0.7, 0, 0.2, 1) infinite;
+    will-change: transform;
+  }
+  .hero-art:hover .wa-feed-track { animation-play-state: paused; }
+  .wa-item { height: 3.9rem; flex: none; display: flex; flex-direction: column; justify-content: center; }
+
+  @keyframes wa-feed {
+    0%, 20%   { transform: translateY(0); }
+    25%, 45%  { transform: translateY(-3.9rem); }
+    50%, 70%  { transform: translateY(-7.8rem); }
+    75%, 95%  { transform: translateY(-11.7rem); }
+    100%      { transform: translateY(0); }
+  }
+
+  .wa-note p { margin: 0 0 0.2rem; font-size: 0.78rem; font-weight: 600; line-height: 1.4; }
   .wa-note-foot { color: var(--bw-ink-mute); font-size: 0.66rem; font-weight: 700; }
 
   /* ---------- stat row ---------- */
@@ -2538,7 +2606,6 @@ const portfolioSchema = {
     .city-panel { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .hero-art { min-height: 20rem; }
     .chip-b { left: -0.4rem; }
-    .chip-c { right: -0.2rem; }
     .wa-note { width: min(14rem, 78%); }
   }
 
@@ -2550,7 +2617,8 @@ const portfolioSchema = {
   }
 
   @media (prefers-reduced-motion: reduce) {
-    .marquee-track, .ticker-track, .pulse, .tag-dot, .browser, .logo3d, .chip, .b-line, .b-btn { animation: none; }
+    .marquee-track, .ticker-track, .pulse, .tag-dot, .browser, .logo3d, .chip,
+    .showcase-track, .wa-feed-track { animation: none; }
     .ticker { scroll-snap-type: x proximity; }
     .review { scroll-snap-align: center; }
     .rail { scroll-behavior: auto; }
