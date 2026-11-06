@@ -6,18 +6,36 @@ import WhatsAppFloat from "@components/common/WhatsAppFloat.astro";
 import SEOHead from "@components/seo/SEOHead.astro";
 import StructuredData from "@components/seo/StructuredData.astro";
 import { organizationSchema, websiteSchema } from "@lib/schema/schema";
-import type { SeoMeta } from "@app-types/seo";
+import type { RobotsDirective, SeoMeta } from "@app-types/seo";
+import { defaultLocale, localeByCode, localePath, translatedLocales } from "@data/i18n/locales";
+import { canonicalUrl } from "@lib/urls/url-utils";
 
 interface Props {
   meta: SeoMeta;
   schema?: unknown[];
+  /** Locale of this page ("" for English) and the languages it exists in. */
+  locale?: string;
+  /** Path without any locale prefix, e.g. "/pricing/". */
+  basePath?: string;
+  availableLocales?: string[];
 }
 
-const { meta, schema = [] } = Astro.props;
+const { meta, schema = [], locale = "", basePath = meta.canonicalPath ?? "/", availableLocales = [] } = Astro.props;
+const loc = localeByCode.get(locale) ?? defaultLocale;
+
+// A translation stays out of the index until a native speaker has signed it off.
+// The English page remains the authoritative version in the meantime.
+const seo: SeoMeta = loc.review ? { ...meta, robots: "noindex,follow" as RobotsDirective } : meta;
+
+// hreflang is only emitted for languages this particular page actually exists in,
+// and every set includes the English original plus x-default pointing at it.
+const alternates = loc.review
+  ? []
+  : [defaultLocale, ...translatedLocales.filter((l) => !l.review && availableLocales.includes(l.code))];
 ---
 
 <!doctype html>
-<html lang={(meta.locale ?? "en_IN").replace("_", "-")}>
+<html lang={loc.htmlLang} dir={loc.dir}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -35,7 +53,11 @@ const { meta, schema = [] } = Astro.props;
     <noscript>
       <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400..900&display=swap" rel="stylesheet" />
     </noscript>
-    <SEOHead meta={meta} />
+    <SEOHead meta={seo} />
+    {alternates.length > 1 && alternates.map((l) => (
+      <link rel="alternate" hreflang={l.htmlLang} href={canonicalUrl(localePath(l.code, basePath))} />
+    ))}
+    {alternates.length > 1 && <link rel="alternate" hreflang="x-default" href={canonicalUrl(basePath)} />}
     <StructuredData data={[organizationSchema(), websiteSchema(), ...schema]} />
     <!-- Page-specific <head> tags: only the pages that need an extra font or preload pay for it. -->
     <slot name="head" />
@@ -43,7 +65,7 @@ const { meta, schema = [] } = Astro.props;
   <!-- `is-inner` gates the shared theme layer in global.css: the homepage carries its
        own complete design, every other page is restyled on top of its legacy CSS. -->
   <body class={meta.canonicalPath === "/" ? "is-home" : "is-inner"}>
-    <Header />
+    <Header locale={locale} basePath={basePath} availableLocales={availableLocales} />
     <main>
       <slot />
     </main>

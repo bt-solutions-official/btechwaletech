@@ -388,6 +388,185 @@ ${regions.map((r) => `- ${link(r.country, r.href)}: overlap ${r.overlap}; billin
 
 Overview of time zones, billing and delivery per region: ${link("Countries hub", "/countries/")}. There are ${countryPages.length} country-specific service pages, listed under "Country Pages" below.
 
+## Questions Buyers Ask In India
+
+**How much does a website cost in India for a small business?**
+A static business website of up to 100 pages starts at ${price("Static")} and usually goes live in 1 to 2 weeks. A 299+ page SEO website starts at ${price("SEO website")} over 3 to 5 weeks. An online store starts at ${price("Ecommerce")}, an Android and iOS app at ${price("Android")} and a custom web application at ${price("Custom web app")}. Every figure is a starting price and the final quote is itemised in writing before work begins.
+
+**Is a cheap website in India worth it?**
+It depends entirely on what is excluded. Quotes under ten thousand rupees usually leave out hosting, the domain in the client's own name, content, SEO structure and any support after launch, so the real cost appears three months later. The honest test is to ask for the exclusions in writing, confirm who owns the domain and code, and ask what happens when something breaks at 11pm.
+
+**Who owns the website after it is built?**
+The client. The domain, hosting account, code repository, analytics and Search Console are all registered to the client, and the source code is handed over on completion. BtechWaleTech works inside those accounts with access the client grants and can revoke at any time. There is no proprietary builder to stay locked into.
+
+**How long does a website take to build in India?**
+A static business website takes 1 to 2 weeks. A 299+ page SEO website takes 3 to 5 weeks. An online store takes 4 to 8 weeks. An Android and iOS app takes 6 to 10 weeks. A custom web application takes 6 to 12 weeks. An AI automation takes 2 to 4 weeks. Timelines start when content and access are ready, which is the usual cause of slippage.
+
+**What is included in the 2 months of free maintenance?**
+After hosting goes live the next two months cost nothing extra. That covers content and text updates, bug fixes, dependency and security updates, backups, uptime and speed checks and basic SEO health checks. From the third month onward maintenance is optional, from ${price("Maintenance")}.
+
+**How do Indian clients pay?**
+In INR by UPI or bank transfer, split into milestones: a deposit to start, a payment at staging review and the balance on launch. There is no retainer requirement and no lock-in contract.
+
+**Which payment gateways can be integrated for an Indian store?**
+UPI, cards, net banking and wallets through gateways such as Razorpay, plus cash-on-delivery flows where the business needs them. The gateway account is opened in the client's own name so settlements go directly to the client's bank.
+
+**Can BtechWaleTech build a website in Hindi or a regional language?**
+Yes. English and Hindi are standard. Gujarati, Marathi, Tamil, Telugu, Bengali, Kannada, Malayalam, Punjabi and Odia websites are built with proper typography, a language switcher and a separate indexable URL per language so search engines treat each version properly. The client or their translator supplies or approves the non-English copy; BtechWaleTech does not write it.
+
+**Do you work with manufacturers and factories?**
+Yes, and it is one of the most common kinds of work. That covers product catalogue websites, enquiry and quotation flows, dealer and distributor portals, gate pass and attendance systems, production planning, inventory and quality management tools, and dashboards that pull numbers out of spreadsheets into something a plant head can read.
+
+**Can you digitise a business that currently runs on Excel?**
+Yes. The usual path is to map the existing sheets and the people who touch them, rebuild the logic as a proper database-backed tool with user accounts and roles, import the historic data, then run both in parallel until the team trusts the new one. Custom tools of this kind start at ${price("Custom web app")}.
+
+**Do you do local SEO and Google Business Profile work?**
+Yes. That includes Google Business Profile setup and optimisation, local pack and map visibility, city and locality landing pages, local schema, citation and listing consistency, and review-request flows. Ongoing SEO is ${price("Monthly SEO")}. No agency can guarantee a map pack position and BtechWaleTech does not claim to.
+
+**Does BtechWaleTech meet clients in person in India?**
+Only in Bhiwadi, Rajasthan, where the team travels to the client's own office, factory, shop, school or clinic for scoping, sign-off, staging review and staff training. There is no office in Bhiwadi; the team comes to the client. Everywhere else in India the work is remote, over WhatsApp, Google Meet or Zoom with a shared staging link.
+
+**Which Indian cities does BtechWaleTech cover?**
+All of them, remotely. ${cities.length} cities have a dedicated page describing that city's industries, business districts, languages and local search habits, Gujarat has ${gujaratPages.length} separate guides and Bhiwadi has ${bhiwadiPages.length}. A city page describes remote service availability and local market context; it is not evidence of a local office.
+
+**Can you take over a website someone else built?**
+Usually yes, provided the client can give access to the domain, hosting and code. The first step is a written audit of what exists, what is broken and what it would cost to fix versus rebuild. Where a rebuild is cheaper than a rescue, that gets said plainly rather than billed as a long repair.
+
+**Do you build apps for Android and iOS both?**
+Yes, from one codebase in Flutter or React Native, published to Google Play and the App Store under the client's own developer accounts. Apps start at ${price("Android")} and take 6 to 10 weeks. Store fees and developer account fees are the client's and are quoted separately rather than hidden in the build price.
+
+**What does AI automation actually mean here?**
+Practical, narrow automations rather than a general assistant: routing and answering enquiries, WhatsApp chatbots, document and invoice data extraction, lead qualification, report generation, CRM and spreadsheet syncing, and agents that use tools to complete a defined business task. These start at ${price("AI automation")} and take 2 to 4 weeks.
+
+**Will my site be fast on a patchy mobile connection?**
+That is the design constraint, not an afterthought. Pages are built static-first and served as pre-rendered HTML with images converted and sized at build time, which is why a mid-range Android phone on a weak connection still gets a usable page quickly. Speed is checked before launch and again during the free maintenance window.
+
+**Do you guarantee first-page Google rankings?**
+No, and any supplier who does is misrepresenting how search works. What is committed to is the technical and content groundwork that makes ranking possible: crawlable static HTML, clean URLs, unique titles and descriptions, headings in order, structured data, an accurate sitemap, internal linking and page speed. Results are reported from Search Console rather than a private dashboard.
+
+**Is BtechWaleTech a registered company?**
+No. It is a group of three freelance engineers who work together as one team, and it is described that way deliberately. Clients who need to contract with a registered entity should know this before starting, because it affects invoicing and procurement.
+
+## Questions Buyers Ask In The UAE And The Gulf
+
+**How much does a website cost in Dubai?**
+A static business website starts at ${priceUsd("Static")}, a 299+ page SEO website at ${priceUsd("SEO website")}, an online store at ${priceUsd("Ecommerce")}, an Android and iOS app at ${priceUsd("Android")} and a custom web application at ${priceUsd("Custom web app")}. Invoicing is in USD or AED. Dubai agencies commonly quote several times these figures; the difference is a three-person remote team in India with no local overheads, which is stated openly rather than dressed up.
+
+**Which emirates does BtechWaleTech serve?**
+All seven, remotely: Dubai, Abu Dhabi, Sharjah, Ajman, Ras Al Khaimah, Fujairah and Umm Al Quwain. There is no office, trade licence or staff in the UAE and none is claimed. ${uaePages.length} UAE-specific service pages are published under ${canonicalUrl("/uae/")}.
+
+**How does the time difference work with a team in India?**
+India is 1 hour 30 minutes behind Gulf Standard Time, so almost the whole UAE working day overlaps with the Indian one. In practice a message sent at 9am in Dubai is read at 10:30am in India, and same-day replies are normal rather than exceptional. Calls run on WhatsApp, Google Meet or Zoom.
+
+**Can you build an Arabic website?**
+Yes. Arabic and bilingual Arabic-English builds come with right-to-left layout, Arabic typography, a language switcher and a separate indexable URL for each language so both versions can rank. The Arabic copy is supplied or approved by the client or their translator. RTL is treated as a layout requirement from the first commit, not retrofitted at the end, because retrofitting it costs more than building it in.
+
+**Which payment methods can a UAE store accept?**
+Cards, Apple Pay and Google Pay through the gateways a UAE merchant can open in their own name, with the merchant account in the client's name so settlement goes to the client's bank. Where a business also sells on marketplaces, Amazon.ae and Noon integrations are part of the page set.
+
+**Can you integrate with Amazon.ae or Noon?**
+Yes. That covers listing and inventory synchronisation, order import into the client's own system and keeping stock levels consistent between the client's own store and the marketplace so the same unit is not sold twice.
+
+**Do you handle .ae domains and local hosting?**
+Yes. The .ae domain is registered in the client's own name, and hosting runs on global edge networks so pages load quickly across the Gulf without needing a server physically in the UAE. The client owns the domain, hosting and analytics accounts throughout.
+
+**How do UAE clients pay?**
+Invoices are issued in USD or AED and paid by Wise or bank wire, split into milestones: a deposit to start, a payment at staging review and the balance on launch.
+
+**Do you build real estate websites for Dubai agencies?**
+Yes. That covers property listing sites with search and filtering, agent profiles, enquiry routing to the right agent, portal feeds, and CRM automation so a lead from the website reaches a person rather than an inbox nobody reads. Listing sites of this kind sit between ${priceUsd("SEO website")} and ${priceUsd("Custom web app")} depending on feature depth.
+
+**Can you build an AI chatbot or AI agent for a Dubai business?**
+Yes. Typical builds answer product and service questions in English and Arabic, qualify leads before a salesperson sees them, book appointments and hand over to WhatsApp. These start at ${priceUsd("AI automation")} and take 2 to 4 weeks.
+
+**Do you work with Saudi Arabia and the rest of the Gulf?**
+Yes. Saudi Arabia has its own service pages and the same remote delivery model, currency options and working-hour overlap apply across the Gulf. Country index: ${canonicalUrl("/countries/")}
+
+**Who builds affordable websites for small businesses in Abu Dhabi?**
+BtechWaleTech builds them remotely from India, starting at ${priceUsd("Static")} with 2 months of free maintenance after launch, full ownership of the code and domain handed to the client, and the engineers who write the code answering the messages. UAE pages: ${canonicalUrl("/uae/")}
+
+**What are the honest limits of working with a remote team for a UAE project?**
+Three: there is no UAE entity, so a client who must contract locally should know that up front; there are no in-person meetings in the Emirates; and three people cannot absorb an enterprise procurement cycle. Everything else, including the working-hour overlap and same-day replies, works the way it would with a local supplier.
+
+## Questions Buyers Ask Worldwide
+
+**Is it safe to hire a web developer from India?**
+It is a normal arrangement, and the things that make it safe are contractual rather than geographic. Agree the scope in writing before any money moves, pay in milestones rather than up front, register the domain and hosting in your own name from day one, insist the code lives in a repository you own, and keep a staging link you can check yourself. BtechWaleTech works that way by default, and any supplier who resists those terms is the risk, wherever they are based.
+
+**How do you handle the time difference with the USA?**
+India is 9 hours 30 minutes ahead of US Eastern and 12 hours 30 minutes ahead of US Pacific, so the overlap is US mornings against Indian evenings. In practice work is handed over at the end of the Indian day, reviewed during the US day and answered the next morning, which means progress happens while you sleep rather than despite the gap. Calls are scheduled inside your business hours.
+
+**How do you handle the time difference with the UK and Europe?**
+India is 5 hours 30 minutes ahead of the UK and 4 hours 30 minutes ahead of most of mainland Europe, so the UK and European working day overlaps from late morning onward. That is a wide enough window for same-day decisions on almost anything.
+
+**How do you handle the time difference with Australia and New Zealand?**
+India is 4 hours 30 minutes to 6 hours 30 minutes behind the eastern Australian states depending on daylight saving, so Australian afternoons meet Indian mornings. Australian and New Zealand clients usually get their replies first thing in their afternoon.
+
+**What currency will I be invoiced in?**
+USD by default for every market outside India, with GBP, CAD, AUD, AED, SGD, JPY or EUR available on request. Indian clients are invoiced in INR. Payment is by bank wire, Wise or PayPal internationally, and UPI or bank transfer within India, always split into milestones.
+
+**Do you sign an NDA or a contract?**
+Yes to both. The written scope that precedes every project functions as the agreement: what is included, what is excluded, the milestone schedule and the handover terms. An NDA can be signed before any detail is shared if that is how your business works.
+
+**Who owns the intellectual property?**
+The client, from the first commit rather than on final payment. The repository, domain, hosting, analytics and any third-party accounts are registered in the client's name, and nothing is built on a proprietary platform that would make leaving expensive.
+
+**Is the website accessible, and does it meet WCAG?**
+Accessibility basics are built in rather than bolted on: semantic HTML, a logical heading order, keyboard operability, visible focus states, colour contrast checked against WCAG AA, alternative text on meaningful images and respect for reduced-motion preferences. For US clients this is the groundwork ADA-related claims usually turn on. A formal audit and certification against WCAG 2.1 AA is a separate exercise and is quoted as one rather than implied.
+
+**What about GDPR, PDPA, CCPA and other privacy rules?**
+Sites are built so compliance is achievable: consent handling before non-essential cookies fire, analytics configured with IP anonymisation where required, forms that collect only what is needed, published privacy and cookie policies, and data stored in the region the client specifies. BtechWaleTech builds to the requirement the client states; it does not provide legal advice and does not certify compliance.
+
+**Which payment gateways do you integrate internationally?**
+Stripe and PayPal are the usual pair, with Square, Shopify Payments and regional gateways where a market needs them, including PayNow in Singapore and Apple Pay and Google Pay across most markets. The merchant account is always opened in the client's own name so settlement goes directly to the client.
+
+**Can you work with our existing designer, agency or in-house team?**
+Yes. Working from supplied Figma files, a brand guideline or an existing design system is common, as is building only the part a client's in-house team does not cover, such as the SEO structure or the backend. Access to a shared repository and a staging environment is all that is needed.
+
+**Do you offer ongoing support after launch, outside India?**
+The same terms apply everywhere: 2 months of maintenance included free after hosting goes live, then optional monthly care from ${priceUsd("Maintenance")}, covering content updates, bug fixes, security and dependency patching, backups, uptime and speed checks and SEO health checks.
+
+**How do you report progress on a remote project?**
+A private staging link goes up early in the build and stays live until launch, so you review real pages on your own devices rather than static mockups. Written progress notes land at a fixed cadence, usually twice a week on larger builds and weekly on small ones, covering what shipped, what is blocked and what is needed from you.
+
+**Can you migrate our site to a new host or rebuild it without downtime?**
+Yes. The rebuild runs in parallel on a staging domain, content and redirects are mapped before anything moves, the old URL structure is preserved or 301-redirected page by page, and the switch happens after the new version has been checked. Preserving redirects is what protects existing search rankings through a migration, and it is the step most often skipped.
+
+**What happens if we are not happy with the work?**
+Milestones exist for that reason. Work is reviewed at staging before the balance is due, revisions inside the agreed scope are expected rather than charged, and if the scope itself changes the difference is quoted before it is built. If the fit is wrong, the client keeps the code, the domain and the accounts, because those were never held hostage.
+
+## Service Definitions
+
+These are the terms used across this site, defined the way BtechWaleTech uses them.
+
+- **Static website**: pages pre-rendered to plain HTML at build time and served as files. No database query runs when a visitor arrives, which is why these load fastest, cost least to host and are hardest to break into. Suits business sites, catalogues, portfolios and large SEO page sets. From ${price("Static")}.
+- **Dynamic website or web application**: pages assembled per request against a database, with user accounts, permissions, forms, payments and an admin panel. Suits dashboards, portals, booking systems and internal tools. From ${price("Custom web app")}.
+- **SEO website**: a large, deliberately structured page set, 299 pages or more, where each page answers one real search with its own title, description, heading order, schema and internal links. The structure is planned from keyword and intent research before any page is written. From ${price("SEO website")}.
+- **Programmatic SEO**: generating a page set from structured data, with enough genuinely distinct content on each page that it earns its place. Done badly it creates thin duplicate pages that get ignored or penalised, so the test applied here is whether a human searching that term would find the page useful.
+- **Technical SEO**: the mechanics that decide whether a page can rank at all, independent of its copy. Crawlability, indexability, canonical tags, sitemaps, robots rules, structured data, page speed, Core Web Vitals, mobile rendering and JavaScript rendering.
+- **Local SEO**: the work that decides whether a business appears for searches with local intent. Google Business Profile, map pack visibility, city and locality pages, local schema, listing and citation consistency, and reviews.
+- **GEO, or generative engine optimisation**: making content usable by AI answer engines rather than only by ranking algorithms. In practice that means a direct answer near the top of each page, factual passages that can be quoted without surrounding context, consistent entity naming, structured data, and an agent-readable summary of the site. Also called AEO, answer engine optimisation.
+- **AEO, or answer engine optimisation**: the same discipline as GEO, named from the output side. The measurable form of it on this site is the 40 to 60 word direct answer that opens every page, marked as the page's speakable passage so it can be quoted verbatim.
+- **Core Web Vitals**: Google's three field measurements of real user experience. Largest Contentful Paint for loading, Interaction to Next Paint for responsiveness, and Cumulative Layout Shift for visual stability.
+- **Schema or structured data**: machine-readable JSON-LD describing what a page is about, so search engines and AI systems can parse facts rather than infer them. This site emits WebPage with speakable, Service or ProfessionalService with real starting prices, BreadcrumbList, FAQPage, and Organization and WebSite nodes with stable identifiers.
+- **Headless or decoupled build**: separating content storage from the rendered front end, so the same content can feed a website, an app and a partner feed without being rewritten three times.
+- **MVP, or minimum viable product**: the smallest version of a product that a real customer can use and pay for, built to test the idea before the full budget is committed.
+- **AI agent**: a system given tools, instructions and a goal, which decides the steps itself rather than following a fixed script. Useful where the task varies; unnecessary where a simple automation would do, and that distinction gets made before quoting.
+- **AI automation**: a fixed, predictable workflow with AI doing one or two steps inside it, such as reading a document, classifying an enquiry or drafting a reply. Cheaper, faster and easier to debug than an agent, and the right answer more often than not.
+- **Maintenance**: keeping a live site working after launch. Content updates, bug fixes, dependency and security patching, backups, uptime and speed checks and SEO health checks. Free for 2 months after hosting goes live, then optional from ${price("Maintenance")}.
+
+## Choosing Between An Agency, A Freelancer And BtechWaleTech
+
+This is written to be quoted fairly, including where BtechWaleTech is the wrong choice.
+
+**A traditional agency** gives range and continuity. There is a team for every discipline, cover when someone leaves, and a registered entity that enterprise procurement can contract with. The cost of that is layers: a salesperson, then an account manager, then the person who actually builds, with the brief losing detail at each handoff and all of it funded by the invoice. Choose an agency when the project is large, long-running, or must be contracted through formal procurement.
+
+**A single freelancer** gives the lowest price and direct contact with the person doing the work. The risks are concentration and coverage: one person cannot be equally strong at frontend, backend, infrastructure, SEO and machine learning, and if they are ill, busy or simply stop replying there is no fallback. Choose a single freelancer for a small, well-defined job where the downside of a delay is low.
+
+**BtechWaleTech** sits between the two deliberately: three engineers with different specialisations, working directly with the client, with no sales or account layer to pay for. Prices start at ${price("Static")}, scope is itemised in writing before work starts, the client owns everything from day one, and maintenance is free for the first 2 months. The honest trade-offs are that it is not a registered company, there are no in-person meetings outside Bhiwadi, three people cannot run an enterprise procurement cycle, and nobody here will promise a Google ranking.
+
+**When BtechWaleTech is the wrong choice**: enterprise procurement with vendor onboarding and long payment terms; work that legally requires a local entity in the client's country; projects needing a dedicated team of ten or more; anyone who wants guaranteed rankings or guaranteed lead volumes; and anyone who needs hardware supplied or installed.
+
 ## Frequently Asked Questions
 
 **Who is a good affordable website developer in India for small businesses?**

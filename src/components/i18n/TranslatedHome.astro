@@ -1,0 +1,401 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { faqSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+import { pricingPlans, usdPrice } from "@data/pricing/plans";
+import { localeByCode, translatedLocales } from "@data/i18n/locales";
+import { homeContent } from "@data/i18n/pages/home";
+import { ui } from "@data/i18n/ui";
+
+interface Props {
+  /** Locale code this page is rendered for: hi, gu, ta or ar. */
+  code: string;
+}
+
+const { code } = Astro.props;
+const locale = localeByCode.get(code)!;
+const c = homeContent[code];
+const t = ui(locale.code);
+
+const page = createPageSeo({
+  title: c.title,
+  description: c.description,
+  canonicalPath: `/${locale.code}/`,
+  h1: c.h1,
+  intro: c.lede,
+  breadcrumbs: createBreadcrumbs([]),
+  locale: locale.ogLocale,
+});
+
+const statValues = ["3", "2", "1000+", "100%"];
+const rows = pricingPlans.map((p) => ({
+  service: p.name,
+  timeline: p.timeline,
+  price: `${p.price}${p.unit ? "/mo" : ""} · ${usdPrice(p.price)}${p.unit ? "/mo" : ""}`,
+}));
+
+const available = translatedLocales.filter((l) => homeContent[l.code]).map((l) => l.code);
+---
+
+<BaseLayout
+  meta={page}
+  schema={[faqSchema(c.faqs.map((f) => ({ question: f.q, answer: f.a })))]}
+  locale={locale.code}
+  basePath="/"
+  availableLocales={available}
+>
+  <section class="band hero-band">
+    <div class="shell">
+      {locale.review && <p class="review-flag">{t.reviewNotice} <a href="/">{c.seeEnglish} &rarr;</a></p>}
+
+      <p class="tag">{c.eyebrow}</p>
+      <h1>{c.h1}</h1>
+      <p class="lede">{c.lede}</p>
+
+      <div class="btn-row">
+        <a class="btn btn-amber" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{c.ctaPrimary}</a>
+        <a class="btn btn-white" href="/#proof-of-work">{c.ctaSecondary}</a>
+      </div>
+
+      <ul class="trust">
+        {c.trust.map((item) => <li>{item}</li>)}
+      </ul>
+
+      <div class="team">
+        <strong>{c.team.title}</strong>
+        <span>{c.team.note}</span>
+      </div>
+
+      <ul class="stats" aria-label={c.statsHeading}>
+        {c.stats.map((label, i) => (
+          <li><strong>{statValues[i]}</strong><span>{label}</span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <section class="band band-butter">
+    <div class="shell">
+      <h2>{c.servicesHeading}</h2>
+      <p class="note">{c.servicesNote}</p>
+      <div class="cards">
+        {c.services.map((s) => (
+          <article class="card">
+            <h3>{s.name}</h3>
+            <p>{s.summary}</p>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="band">
+    <div class="shell">
+      <h2>{c.pricingHeading}</h2>
+      <p class="note">{c.pricingNote}</p>
+      <div class="tbl-wrap">
+        <table class="tbl">
+          <thead>
+            <tr>
+              <th scope="col">{c.pricingCols[0]}</th>
+              <th scope="col">{c.pricingCols[1]}</th>
+              <th scope="col">{c.pricingCols[2]}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {rows.map((r) => (
+              <tr>
+                <th scope="row">{r.service}</th>
+                <td>{r.timeline}</td>
+                <td class="nowrap">{r.price}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="note note-sm">{c.pricingFoot}</p>
+    </div>
+  </section>
+
+  <section class="band band-blush">
+    <div class="shell">
+      <h2>{c.processHeading}</h2>
+      <ol class="steps">
+        {c.process.map(([step, detail], i) => (
+          <li><span class="step-num">{i + 1}</span><h3>{step}</h3><p>{detail}</p></li>
+        ))}
+      </ol>
+    </div>
+  </section>
+
+  <section class="band">
+    <div class="shell">
+      <h2>{c.faqHeading}</h2>
+      <div class="faq-list">
+        {c.faqs.map((f) => (
+          <details class="faq">
+            <summary>{f.q}</summary>
+            <p>{f.a}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="band band-amber">
+    <div class="shell closing">
+      <h2>{c.ctaHeading}</h2>
+      <p class="note">{c.ctaNote}</p>
+      <div class="btn-row">
+        <a class="btn btn-ink" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{c.ctaPrimary}</a>
+        <a class="btn btn-white" href="/contact/">{t.contact}</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Self-contained on purpose: .band/.shell/.btn are defined inside the homepage
+     scoped style block, which Astro does not share with this component, so every
+     primitive this page uses is declared here rather than inherited. */
+  .band { padding: clamp(2.5rem, 5vw, 4.25rem) 0; border-bottom: 2px solid var(--bw-ink); }
+  .band-butter { background: var(--bw-butter); }
+  .band-blush  { background: var(--bw-blush); }
+  .band-amber  { background: var(--bw-amber); }
+
+  .shell { max-width: 1320px; margin: 0 auto; padding: 0 clamp(1rem, 4vw, 3.25rem); }
+
+  h1, h2, h3 {
+    margin: 0;
+    font-family: var(--font-display);
+    color: var(--bw-ink);
+    letter-spacing: -0.03em;
+    line-height: 1.12;
+    text-wrap: balance;
+  }
+  p { margin: 0; }
+
+  .hero-band h1 {
+    font-size: clamp(2rem, 4vw, 3.1rem);
+    font-weight: 900;
+    letter-spacing: -0.035em;
+    line-height: 1.08;
+    margin-bottom: 1rem;
+    max-width: 24ch;
+  }
+  h2 { font-size: clamp(1.6rem, 3.2vw, 2.4rem); font-weight: 800; }
+  h3 { font-size: 1.05rem; font-weight: 800; }
+
+  .tag {
+    display: inline-flex;
+    margin-bottom: 0.9rem;
+    padding: 0.35rem 0.8rem;
+    background: var(--bw-card);
+    border: 2px solid var(--bw-ink);
+    border-radius: 999px;
+    box-shadow: var(--bw-sh-sm);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .review-flag {
+    margin-bottom: 1.35rem;
+    padding: 0.7rem 1rem;
+    background: var(--bw-card);
+    border: 2px solid var(--bw-ink);
+    border-radius: var(--bw-r);
+    box-shadow: var(--bw-sh-sm);
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+  .review-flag a { color: var(--bw-ink); font-weight: 800; }
+
+  .lede { max-width: 42rem; color: var(--bw-ink-soft); font-size: 1.02rem; line-height: 1.7; }
+  .note { margin-top: 0.85rem; max-width: 46rem; color: var(--bw-ink-soft); font-size: 0.97rem; line-height: 1.65; }
+  .note-sm { font-size: 0.85rem; margin-top: 1rem; }
+
+  /* ---------- buttons ---------- */
+  .btn-row { display: flex; flex-wrap: wrap; gap: 0.7rem; margin-top: 1.6rem; }
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.85rem 1.5rem;
+    border: 2px solid var(--bw-ink);
+    border-radius: 999px;
+    box-shadow: var(--bw-sh);
+    font-family: var(--font-display);
+    font-size: 0.92rem;
+    font-weight: 800;
+    text-decoration: none;
+    transition: transform 220ms var(--bw-ease), box-shadow 220ms var(--bw-ease), background 220ms ease;
+  }
+  .btn:hover { transform: translate(-2px, -2px); box-shadow: 7px 7px 0 var(--bw-ink); }
+  .btn:active { transform: translate(2px, 2px); box-shadow: 0 0 0 var(--bw-ink); }
+  .btn-amber { background: var(--bw-amber); color: var(--bw-ink); }
+  .btn-white { background: var(--bw-card); color: var(--bw-ink); }
+  .btn-ink { background: var(--bw-ink); color: #FFFFFF; box-shadow: 5px 5px 0 var(--bw-card); }
+  .btn-ink:hover { box-shadow: 7px 7px 0 var(--bw-card); }
+
+  /* ---------- hero extras ---------- */
+  .trust { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.4rem 0 0; padding: 0; list-style: none; }
+  .trust li {
+    padding: 0.4rem 0.85rem;
+    background: var(--bw-card);
+    border: 2px solid var(--bw-ink);
+    border-radius: 999px;
+    box-shadow: var(--bw-sh-sm);
+    font-size: 0.8rem;
+    font-weight: 700;
+  }
+
+  .team {
+    display: grid;
+    gap: 0.15rem;
+    margin-top: 1.3rem;
+    padding: 0.85rem 1.1rem;
+    width: fit-content;
+    max-width: 100%;
+    background: var(--bw-card);
+    border: 2px solid var(--bw-ink);
+    border-radius: var(--bw-r);
+    box-shadow: var(--bw-sh-sm);
+  }
+  .team strong { font-size: 0.9rem; font-weight: 800; }
+  .team span { color: var(--bw-ink-soft); font-size: 0.82rem; line-height: 1.5; }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0.7rem;
+    margin: clamp(1.75rem, 3.5vw, 2.5rem) 0 0;
+    padding: 0;
+    list-style: none;
+  }
+  .stats li {
+    padding: 0.95rem 1.1rem;
+    background: var(--bw-card);
+    border: 2px solid var(--bw-ink);
+    border-radius: var(--bw-r);
+    box-shadow: var(--bw-sh-sm);
+  }
+  .stats strong { display: block; font-size: clamp(1.4rem, 2.4vw, 2rem); font-weight: 900; letter-spacing: -0.04em; }
+  .stats span { display: block; margin-top: 0.15rem; color: var(--bw-ink-soft); font-size: 0.76rem; line-height: 1.4; }
+
+  /* ---------- service cards ---------- */
+  .cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.8rem; margin-top: 1.5rem; }
+  .card {
+    min-width: 0;
+    padding: 1.4rem;
+    background: var(--bw-card);
+    border: 2px solid var(--bw-ink);
+    border-radius: var(--bw-r);
+    box-shadow: var(--bw-sh-sm);
+  }
+  .card h3 { margin-bottom: 0.5rem; }
+  .card p { color: var(--bw-ink-soft); font-size: 0.88rem; line-height: 1.6; }
+
+  /* ---------- pricing table ---------- */
+  .tbl-wrap {
+    margin-top: 1.5rem;
+    background: var(--bw-card);
+    border: 2px solid var(--bw-ink);
+    border-radius: var(--bw-r-lg);
+    box-shadow: var(--bw-sh);
+    overflow-x: auto;
+  }
+  .tbl { width: 100%; min-width: 34rem; border-collapse: collapse; font-size: 0.88rem; }
+  .tbl thead th {
+    padding: 0.85rem 1rem;
+    background: var(--bw-paper-2);
+    border-bottom: 2px solid var(--bw-ink);
+    font-size: 0.68rem;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: start;
+    white-space: nowrap;
+  }
+  .tbl tbody th, .tbl td {
+    padding: 0.9rem 1rem;
+    border-bottom: 1.5px solid rgba(18, 19, 22, 0.1);
+    text-align: start;
+    vertical-align: top;
+    line-height: 1.5;
+  }
+  .tbl tbody th { font-weight: 800; }
+  .tbl td { color: var(--bw-ink-soft); }
+  .tbl tbody tr:last-child > * { border-bottom: 0; }
+  .nowrap { white-space: nowrap; }
+
+  /* ---------- process ---------- */
+  .steps {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.9rem;
+    margin: 1.5rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+  .steps li {
+    padding: 1.4rem;
+    background: var(--bw-card);
+    border: 2px solid var(--bw-ink);
+    border-radius: var(--bw-r-lg);
+    box-shadow: var(--bw-sh-sm);
+  }
+  .step-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.3rem; height: 2.3rem;
+    margin-bottom: 0.85rem;
+    background: var(--bw-amber);
+    border: 2px solid var(--bw-ink);
+    border-radius: 50%;
+    font-weight: 900;
+  }
+  .steps h3 { margin-bottom: 0.4rem; }
+  .steps p { color: var(--bw-ink-soft); font-size: 0.87rem; line-height: 1.6; }
+
+  /* ---------- faq ---------- */
+  .faq-list { display: grid; gap: 0.5rem; margin-top: 1.5rem; }
+  .faq {
+    background: var(--bw-card);
+    border: 2px solid var(--bw-ink);
+    border-radius: var(--bw-r);
+    box-shadow: var(--bw-sh-sm);
+    overflow: hidden;
+  }
+  .faq[open] { background: var(--bw-butter); box-shadow: var(--bw-sh); }
+  .faq summary {
+    padding: 0.95rem 1.1rem;
+    font-size: 0.93rem;
+    font-weight: 700;
+    line-height: 1.45;
+    cursor: pointer;
+  }
+  .faq p { padding: 0 1.1rem 1.1rem; color: var(--bw-ink-soft); font-size: 0.88rem; line-height: 1.7; }
+
+  /* ---------- closing ---------- */
+  .closing { max-width: 46rem; margin: 0 auto; text-align: center; }
+  .closing .note { margin-left: auto; margin-right: auto; color: var(--bw-ink); }
+  .closing .btn-row { justify-content: center; }
+
+  @media (max-width: 900px) {
+    .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .steps { grid-template-columns: minmax(0, 1fr); }
+  }
+  @media (max-width: 600px) {
+    .cards { grid-template-columns: minmax(0, 1fr); }
+    .btn-row .btn { width: 100%; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .btn { transition-duration: 1ms; }
+  }
+</style>

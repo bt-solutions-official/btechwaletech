@@ -13,6 +13,8 @@ import anupToursImg from "../assets/images/anup-tours-travels.png";
 import nfiImg from "../assets/images/nfi-india.png";
 import tymImg from "../assets/images/the-youth-matters.png";
 import logoMark from "../assets/images/mainlogo.png";
+import { translatedLocales } from "@data/i18n/locales";
+import { homeContent } from "@data/i18n/pages/home";
 import cities from "@data/cities/cities.json";
 import type { CityListing } from "@data/cities/types";
 
@@ -76,6 +78,10 @@ const faqs = [
       "Yes. We build practical AI automations, AI agents, workflow automation, dashboards, reporting systems, data cleaning, data analysis, and integrations that reduce manual work and improve decisions.",
   },
 ];
+
+// Languages this page exists in, so the header can offer them and BaseLayout can
+// emit hreflang. Derived from the translated content, never hand-listed.
+const homeLocales = translatedLocales.filter((l) => homeContent[l.code]).map((l) => l.code);
 
 const page = createPageSeo({
   title: "Website Development & IT Services for USA, UK & India",
@@ -642,7 +648,7 @@ const portfolioSchema = {
 };
 ---
 
-<BaseLayout meta={page} schema={[professionalServiceSchema, portfolioSchema, faqSchema(faqs)]}>
+<BaseLayout meta={page} schema={[professionalServiceSchema, portfolioSchema, faqSchema(faqs)]} basePath="/" availableLocales={homeLocales}>
 
   <!-- Icon sprite: one inline set, no icon webfont. -->
   <svg class="sprite" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">

@@ -1,0 +1,131 @@
+---
+import { allLocales, defaultLocale, localePath } from "@data/i18n/locales";
+import { ui } from "@data/i18n/ui";
+
+interface Props {
+  /** Locale code of the page this is rendered on ("" for English). */
+  current?: string;
+  /** Path without the locale prefix, e.g. "/pricing/". Used to build each link. */
+  basePath?: string;
+  /** Locale codes that actually have a translation of this page. */
+  available?: string[];
+}
+
+const { current = "", basePath = "/", available = [] } = Astro.props;
+const active = allLocales.find((l) => l.code === current) ?? defaultLocale;
+const t = ui(current);
+
+// Only offer a language that really has this page. A link to a translation that
+// does not exist is worse than no selector at all.
+const options = allLocales.filter((l) => l.code === "" || available.includes(l.code));
+---
+
+{options.length > 1 && (
+  <div class="lang" data-lang>
+    <button class="lang-btn" type="button" aria-expanded="false" aria-haspopup="true" aria-label={t.language}>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="12" cy="12" r="9" /><path d="M3 12h18M12 3a15 15 0 0 1 0 18 15 15 0 0 1 0-18Z" />
+      </svg>
+      <span>{active.label}</span>
+      <svg class="lang-caret" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><path d="m6 9 6 6 6-6" /></svg>
+    </button>
+
+    <ul class="lang-menu">
+      {options.map((l) => (
+        <li>
+          <a
+            href={localePath(l.code, basePath)}
+            hreflang={l.htmlLang}
+            lang={l.htmlLang}
+            dir={l.dir}
+            aria-current={l.code === current ? "true" : undefined}
+          >{l.label}</a>
+        </li>
+      ))}
+    </ul>
+  </div>
+)}
+
+<script>
+  document.querySelectorAll<HTMLElement>("[data-lang]").forEach((root) => {
+    const btn = root.querySelector<HTMLButtonElement>(".lang-btn");
+    if (!btn) return;
+    const setOpen = (open: boolean) => {
+      root.classList.toggle("open", open);
+      btn.setAttribute("aria-expanded", String(open));
+    };
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      setOpen(!root.classList.contains("open"));
+    });
+    document.addEventListener("click", (e) => {
+      if (!root.contains(e.target as Node)) setOpen(false);
+    });
+    root.addEventListener("keydown", (e) => {
+      if ((e as KeyboardEvent).key === "Escape") { setOpen(false); btn.focus(); }
+    });
+  });
+</script>
+
+<style>
+  .lang { position: relative; flex: none; }
+
+  .lang-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.2rem 0.55rem;
+    background: var(--bw-card);
+    border: 2px solid var(--bw-ink);
+    border-radius: 999px;
+    box-shadow: 2px 2px 0 var(--bw-ink);
+    color: var(--bw-ink);
+    font-family: var(--font-display);
+    font-size: 0.73rem;
+    font-weight: 800;
+    line-height: 1.4;
+    cursor: pointer;
+  }
+  .lang-btn:hover { background: var(--bw-butter); }
+  .lang-btn:active { transform: translate(1px, 1px); box-shadow: 0 0 0 var(--bw-ink); }
+  .lang-btn svg { width: 0.85rem; height: 0.85rem; flex: none; }
+  .lang-caret { transition: transform 220ms var(--bw-ease); }
+  .lang.open .lang-caret { transform: rotate(180deg); }
+
+  .lang-menu {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    right: 0;
+    z-index: 50;
+    min-width: 9rem;
+    margin: 0;
+    padding: 0.3rem;
+    list-style: none;
+    background: var(--bw-card);
+    border: 2px solid var(--bw-ink);
+    border-radius: var(--bw-r);
+    box-shadow: var(--bw-sh);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-4px);
+    transition: opacity 180ms var(--bw-ease), transform 180ms var(--bw-ease), visibility 180ms;
+  }
+  .lang.open .lang-menu { opacity: 1; visibility: visible; transform: none; }
+
+  .lang-menu a {
+    display: block;
+    padding: 0.45rem 0.65rem;
+    border-radius: var(--bw-r-sm);
+    color: var(--bw-ink);
+    font-family: var(--font-display);
+    font-size: 0.84rem;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .lang-menu a:hover { background: var(--bw-butter); }
+  .lang-menu a[aria-current="true"] { background: var(--bw-amber); }
+
+  @media (prefers-reduced-motion: reduce) {
+    .lang-caret, .lang-menu { transition-duration: 1ms; }
+  }
+</style>

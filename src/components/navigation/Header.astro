@@ -1,7 +1,16 @@
 ---
 import { Image } from "astro:assets";
 import { primaryNavigation, siteBrand, siteContact } from "@data/site/site-config";
+import LanguageSelect from "@components/navigation/LanguageSelect.astro";
 import logo from "../../assets/images/mainlogo.png";
+
+interface Props {
+  /** Locale of the page the header sits on, and the languages that page exists in. */
+  locale?: string;
+  basePath?: string;
+  availableLocales?: string[];
+}
+const { locale = "", basePath = "/", availableLocales = [] } = Astro.props;
 ---
 
 <!-- Announcement strip: the single strongest offer, above everything else. -->
@@ -13,11 +22,12 @@ import logo from "../../assets/images/mainlogo.png";
       <span class="tb-sep" aria-hidden="true">&middot;</span>
       <span class="tb-b"><strong>2 months</strong> maintenance free after launch</span>
     </p>
-    <p class="topbar-contact">
+    <div class="topbar-contact">
+      <LanguageSelect current={locale} basePath={basePath} available={availableLocales} />
       <a href={siteContact.phoneHref}>{siteContact.phone}</a>
       <span class="topbar-sep" aria-hidden="true">&middot;</span>
       <a href={siteContact.emailHref}>{siteContact.email}</a>
-    </p>
+    </div>
   </div>
 </div>
 
@@ -145,7 +155,7 @@ import logo from "../../assets/images/mainlogo.png";
   .topbar-contact {
     display: inline-flex;
     align-items: center;
-    gap: 0.55rem;
+    gap: 0.6rem;
     font-size: 0.78rem;
     font-weight: 700;
   }
@@ -373,8 +383,8 @@ import logo from "../../assets/images/mainlogo.png";
 
   /* One line, always: a wrapped two-line strip reads like a layout bug. */
   @media (max-width: 860px) {
-    .topbar-contact { display: none; }
-    .topbar-inner { justify-content: center; }
+    .topbar-contact a { display: none; }
+    .topbar-contact .topbar-sep { display: none; }
   }
 
   @media (max-width: 640px) {
